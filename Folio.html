@@ -119,6 +119,9 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .rail button span{display:block;width:5px;height:5px;border-radius:50%;background:var(--bg);border:1px solid #a9a8b1;transition:transform .35s,background .35s,border-color .35s}
 .rail button:hover span{transform:scale(1.4);border-color:var(--ink)}
 .rail button.on span{background:var(--accent);border-color:var(--accent);transform:scale(1.6)}
+.rail button.qz span{border-radius:1px;transform:rotate(45deg)}
+.rail button.qz:hover span{transform:rotate(45deg) scale(1.4)}
+.rail button.qz.on span{transform:rotate(45deg) scale(1.6)}
 .rail button::after{bottom:calc(100% + 4px)}
 .rail .year{position:absolute;top:0;transform:translateX(-50%);font-size:12px;font-weight:300;letter-spacing:.18em;font-variant-numeric:tabular-nums;transition:left .7s cubic-bezier(.2,.7,.2,1);padding-left:.18em}
 .rail .stem{position:absolute;top:18px;width:1px;height:12px;background:var(--accent);transition:left .7s cubic-bezier(.2,.7,.2,1),background-color 1s}
@@ -142,7 +145,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .r-veil{position:absolute;inset:0;background:rgba(255,255,255,.84);-webkit-backdrop-filter:blur(18px) saturate(1.1);backdrop-filter:blur(18px) saturate(1.1);opacity:0}
 .r-glow{position:absolute;left:50%;top:50%;width:min(92vw,1040px);aspect-ratio:1.7;transform:translate(-50%,-50%);border-radius:50%;background:var(--accent);filter:blur(120px);opacity:0;pointer-events:none}
 .r-scene{position:absolute;inset:0;perspective:2600px;pointer-events:none}
-.r-rig{position:absolute;transform-style:preserve-3d;transform-origin:50% 50%}
+.r-rig{position:absolute;transform-style:preserve-3d;transform-origin:50% 50%;pointer-events:auto}
 
 .pgf{position:absolute;inset:0;overflow:hidden;background:#fbf9f4;color:#2a2830;backface-visibility:hidden;-webkit-backface-visibility:hidden}
 .pc{position:absolute;inset:0}
@@ -219,12 +222,76 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .reading .opening h1,.reading .opening p,.reading .opening blockquote{font-family:var(--display)}
 .reading .opening + h2 + p::first-letter{font-family:var(--display);font-size:3.7em;line-height:.78}
 .reading .rh{letter-spacing:.36em}
-.front{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(26px,6%,44px)}
+.fpage{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(26px,6%,44px)}
 .mini{position:relative;width:min(40%,220px);aspect-ratio:2/3;border-radius:1px 3px 3px 1px;overflow:hidden;transform:rotate(-2deg);
   box-shadow:0 1px 1px rgba(0,0,0,.18),0 12px 26px -10px rgba(20,18,30,.42),0 34px 60px -30px rgba(20,18,30,.35)}
 .mini svg{display:block;width:100%;height:100%}
-.front .fg{display:flex;gap:22px;align-items:center;color:var(--ink)}
-.front .fg small{font-size:10px;font-weight:300;letter-spacing:.06em;color:var(--mute)}
+.fpage .fg{display:flex;gap:22px;align-items:center;color:var(--ink)}
+.fpage .fg small{font-size:10px;font-weight:300;letter-spacing:.06em;color:var(--mute)}
+
+/* ---------- quiz ---------- */
+.mshelf{display:flex;align-items:flex-end;gap:2px;height:20px;padding-bottom:1px;border-bottom:1px solid var(--hair)}
+.mshelf i{position:relative;display:block;width:5px;border-radius:1px 1px 0 0;box-shadow:inset 1px 0 0 rgba(255,255,255,.2),inset -1px 0 0 rgba(0,0,0,.35);transition:transform .3s cubic-bezier(.2,.7,.2,1)}
+.mshelf i:hover{transform:translateY(-3px)}
+.qdots{display:grid;grid-template-rows:repeat(3,3px);grid-auto-flow:column;grid-auto-columns:3px;gap:3px 4px}
+.qdots i{display:block;width:3px;height:3px;border-radius:50%;background:#d8d7de}
+.qdots i.on{background:var(--accent)}
+.qp{position:absolute;left:var(--r-padx);top:var(--r-padt);width:var(--r-iw);height:var(--r-ih);font-size:var(--r-fs);font-family:var(--text);color:#2a2830;display:flex;flex-direction:column;justify-content:center}
+.qp .opening h1,.qp .opening p,.qp .opening blockquote{font-family:var(--display)}
+.qp .opening blockquote{margin-top:1.6em}
+.fan{display:flex;justify-content:center;margin:2.2em 0 .4em}
+.fan .fi{position:relative;margin:0 -.32em;transform:translateY(var(--y)) rotate(var(--a));transition:transform .45s cubic-bezier(.2,.7,.2,1)}
+.fan .fi:hover{transform:translateY(calc(var(--y) - .5em)) rotate(var(--a));z-index:2}
+.fan .mini{width:2.9em;transform:none;box-shadow:0 1px 1px rgba(0,0,0,.2),0 6px 12px -6px rgba(20,18,30,.55)}
+.fan .tick{position:absolute;left:50%;bottom:-1.3em;width:.42em;height:.42em;margin-left:-.21em;background:var(--accent);transform:rotate(45deg);border-radius:1px}
+.qfinv .fan{font-size:clamp(17px,calc(var(--r-iw) * .055),26px)}
+.mini.big{width:min(46%,250px)}
+.mini.tiny{width:30px;transform:none;flex:none;box-shadow:0 1px 1px rgba(0,0,0,.2),0 6px 12px -6px rgba(20,18,30,.5)}
+.bdots{display:flex;gap:7px}
+.bdots i{display:block;width:5px;height:5px;border-radius:50%;border:1px solid #b9b7bf}
+.bdots i.p{background:#b9b7bf;border-color:#b9b7bf}
+.bdots i.c{background:var(--accent);border-color:var(--accent);transform:scale(1.25)}
+.qhead{display:flex;align-items:center;gap:14px;margin-bottom:1.6em}
+.qq h3{margin:0;font-family:var(--display);font-weight:400;font-size:1.62em;line-height:1.2;color:#1d1c22;text-wrap:balance}
+.opts{list-style:none;margin:1.7em 0 0;padding:0;display:flex;flex-direction:column;gap:.3em}
+.opt{position:relative;display:flex;align-items:center;gap:1em;width:100%;text-align:left;background:none;border:0;padding:.62em .3em;font:inherit;color:inherit;cursor:pointer;border-radius:3px;transition:opacity .6s ease,background-color .25s}
+.opt span{position:relative;line-height:1.35}
+.opt .mk{flex:none;width:9px;height:9px;border-radius:50%;border:1px solid #a9a8b1;transition:transform .3s,border-color .3s,background-color .3s}
+.opt:not([disabled]):hover{background:rgba(23,23,26,.035)}
+.opt:not([disabled]):hover .mk{border-color:var(--ink);transform:scale(1.25)}
+.opt:focus-visible{outline:1px solid var(--ink);outline-offset:2px}
+.opt[disabled]{cursor:default}
+.opt.chosen .mk{background:#3a3840;border-color:#3a3840}
+.opt.right .mk{background:var(--accent);border-color:var(--accent)}
+.opt.dim{opacity:.32}
+.opt.wrong{opacity:.55}
+.ink{position:absolute;left:-.75em;top:-.45em;width:calc(100% + 1.6em);height:calc(100% + .9em);overflow:visible;pointer-events:none}
+.ink path{fill:none;stroke:var(--accent);stroke-width:1.5;stroke-linecap:round;stroke-dasharray:1;stroke-dashoffset:0;opacity:.9}
+.ink .i2{stroke-width:.7;opacity:.45}
+.strike{position:absolute;left:-2px;top:50%;width:calc(100% + 4px);height:8px;margin-top:-4px;overflow:visible}
+.strike path{fill:none;stroke:#3a3840;stroke-width:1.1;stroke-linecap:round;stroke-dasharray:1}
+.now .ink path{animation:draw .95s .2s cubic-bezier(.55,.1,.3,1) both}
+.now .ink .i2{animation-delay:.5s}
+.now .strike path{animation:draw .45s cubic-bezier(.4,0,.2,1) both}
+.now .opt.dim,.now .opt.wrong{animation:fadeDim .6s ease both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeDim{from{opacity:1}}
+.qfront{gap:clamp(30px,8%,56px)}
+.demo{width:min(64%,300px);display:flex;flex-direction:column;gap:14px}
+.dm{position:relative;display:flex;align-items:center;gap:14px;padding:6px 4px}
+.dm .mk{flex:none;width:9px;height:9px;border-radius:50%;border:1px solid #a9a8b1}
+.dm b{display:block;height:5px;border-radius:3px;background:#e7e5e0}
+.dm.right .mk{background:var(--accent);border-color:var(--accent)}
+.dm.right b{background:#d9d5cc}
+.dm .ink path{animation:draw 1.4s .6s cubic-bezier(.55,.1,.3,1) both}
+.dm .ink .i2{animation-delay:.9s}
+.legend{display:flex;flex-direction:column;gap:12px;font-family:var(--ui);font-weight:300;font-size:11px;letter-spacing:.14em;text-transform:lowercase;color:#8d8c95}
+.legend span{display:flex;align-items:center;gap:12px}
+.legend svg{color:var(--accent)}
+.soon{margin-top:2.2em;color:var(--ink)}
+.r-nav.nudge{animation:nudge 1.6s ease 2}
+@keyframes nudge{0%,100%{opacity:.4;transform:translate(0,-50%)}40%{opacity:1;transform:translate(6px,-50%)}}
+@media (prefers-reduced-motion:reduce){.now .ink path,.now .strike path,.dm .ink path,.r-nav.nudge,.now .opt{animation:none}}
 
 /* reader chrome */
 .r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
@@ -646,7 +713,11 @@ const hash = s => { let h = 2166136261; for (const c of s) h = Math.imul(h ^ c.c
 const seeded = s => { const r = rng(hash(s)); for (let i=0;i<4;i++) r(); return r; };
 const shuffle = (a, r) => { a = a.slice(); for (let i=a.length-1;i>0;i--){ const j = Math.floor(r()*(i+1)); [a[i],a[j]] = [a[j],a[i]]; } return a; };
 const PICKS = shuffle(LIB, seeded('shelf:'+DAY)).slice(0,6);
-const BOOKS = PICKS.slice();
+const QUIZ = {k:'quiz', quiz:true, title:'Recall', author:"Today's quiz", life:'New questions every day', year:NOW.getFullYear(),
+  pages:220, words:0, rating:0, genre:'quiz', genreName:'Quiz', accent:'#b8913a', base:'#3d1216', ink:'#e9cf8a', bands:true,
+  one:'Six books in. How much stayed with you?',
+  syn:"Three questions on each of today's books. Choose an answer and the right one is circled in ink. No score, no pressure: just a quiet look at what stuck."};
+const BOOKS = PICKS.concat(QUIZ);
 
 /* ---------- covers (original artwork) ---------- */
 const COVERS = {
@@ -840,6 +911,55 @@ solitude(p){
   s += T(150,382,'of Solitude',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="30" fill="#f3e2bd" filter="url(#${p}emb)"`);
   s += T(150,420,'GABRIEL GARCÍA MÁRQUEZ',`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="3.6" fill="#f2dcae" opacity=".8"`);
   return s;
+},
+quiz(p){
+  /* oxblood leather notebook: grained hide, blind-debossed border, gold tooling, brass corner guards, elastic band */
+  const MON = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII'];
+  const BRASS = [[0,'#5b4216'],[.22,'#e8cc85'],[.45,'#8d6b2b'],[.6,'#fff0c2'],[.8,'#7a5b20'],[1,'#c9a55a']];
+  let s = `<defs>
+    <radialGradient id="${p}bg" cx=".4" cy=".34" r=".95">${stopsOf([[0,'#6a2226'],[.5,'#46151a'],[1,'#1e080a']])}</radialGradient>
+    ${lg(p+'g',GOLD)}${lg(p+'br',BRASS)}${emb(p)}${glowF(p,3)}
+    ${lg(p+'band',[[0,'#040203'],[.3,'#231b1d'],[.48,'#3d3336'],[.62,'#1c1516'],[1,'#040203']],0,0,1,0)}
+    <filter id="${p}lth" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="4" seed="7" result="n"/>
+      <feDiffuseLighting in="n" surfaceScale="1.7" diffuseConstant="1.15" lighting-color="#fff" result="d"><feDistantLight azimuth="225" elevation="60"/></feDiffuseLighting>
+      <feComposite in="d" in2="SourceGraphic" operator="arithmetic" k1="1.08" k2="0" k3="0" k4="0"/></filter>
+    <filter id="${p}mot" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".011 .016" numOctaves="3" seed="3"/>
+      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.05"/></filter>
+    <filter id="${p}ds" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="1" dy="1.6" stdDeviation="1.3" flood-color="#000" flood-opacity=".6"/></filter>
+    <radialGradient id="${p}riv" cx=".35" cy=".3" r=".8">${stopsOf([[0,'#fff6d6'],[.45,'#c39b48'],[1,'#4e3712']])}</radialGradient>
+    <pattern id="${p}weave" width="4" height="2.4" patternUnits="userSpaceOnUse"><rect width="4" height="1.1" fill="#fff" opacity=".07"/></pattern>
+  </defs>
+  <rect width="300" height="450" fill="url(#${p}bg)" filter="url(#${p}lth)"/>
+  <rect width="300" height="450" fill="#12040a" filter="url(#${p}mot)" opacity=".55"/>
+  <rect x="15.8" y="15.8" width="268.4" height="418.4" rx="4" fill="none" stroke="#000" stroke-opacity=".55" stroke-width="1.8"/>
+  <rect x="16.9" y="16.9" width="268.4" height="418.4" rx="4" fill="none" stroke="#ffd9c4" stroke-opacity=".08" stroke-width="1"/>
+  <rect x="27" y="27" width="246" height="396" fill="none" stroke="url(#${p}g)" stroke-width=".9"/>
+  <rect x="31" y="31" width="238" height="388" fill="none" stroke="url(#${p}g)" stroke-width=".4"/>`;
+  [[27,27],[273,27],[27,423],[273,423]].forEach(([x,y])=> s += `<path d="M${x} ${y-5} l5 5 -5 5 -5 -5z" fill="url(#${p}g)"/>`);
+  /* the seal */
+  s += `<g transform="translate(150 196)"><circle r="76" fill="#000" fill-opacity=".14"/>
+    <circle r="74" fill="none" stroke="url(#${p}g)" stroke-width="1.4"/><circle r="68.5" fill="none" stroke="url(#${p}g)" stroke-width=".5"/>
+    <circle r="56" fill="none" stroke="url(#${p}g)" stroke-width=".5"/>`;
+  for (let a=0;a<360;a+=5){ const t=a*Math.PI/180, l = a%30===0 ? 9 : 4.5; s += `<line x1="${(Math.cos(t)*68.5).toFixed(2)}" y1="${(Math.sin(t)*68.5).toFixed(2)}" x2="${(Math.cos(t)*(68.5-l)).toFixed(2)}" y2="${(Math.sin(t)*(68.5-l)).toFixed(2)}" stroke="url(#${p}g)" stroke-width="${a%30===0?.9:.45}"/>`; }
+  [0,90,180,270].forEach(a=>{ const t=a*Math.PI/180, x=Math.cos(t)*84, y=Math.sin(t)*84; s += `<path d="M${x.toFixed(1)} ${(y-4).toFixed(1)} l4 4 -4 4 -4 -4z" fill="url(#${p}g)"/>`; });
+  s += T(2,36,'?',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="112" fill="url(#${p}g)" filter="url(#${p}emb)"`) + `</g>`;
+  /* six gilt diamonds: one per book on today's shelf */
+  for (let i=0;i<6;i++){ const x = 150+(i-2.5)*15; s += `<path d="M${x} 296 l3.4 3.4 -3.4 3.4 -3.4 -3.4z" fill="url(#${p}g)" filter="url(#${p}emb)"/>`; }
+  s += T(154,350,'RECALL',`font-family="Cinzel" font-weight="500" font-size="25" letter-spacing="9" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  s += T(150,373,`${NOW.getDate()} · ${MON[NOW.getMonth()]} · ${NOW.getFullYear()}`,`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="4" fill="#e3c77d" opacity=".8"`);
+  /* brass corner guards */
+  const corner = (sx,sy) => `<g transform="translate(${sx<0?300:0} ${sy<0?450:0}) scale(${sx} ${sy})" filter="url(#${p}ds)">
+    <path d="M0 0 H44 Q22 20 0 44 Z" fill="url(#${p}br)"/>
+    <path d="M38 3 Q20 19 3 38" fill="none" stroke="#fff6d8" stroke-opacity=".55" stroke-width=".8"/>
+    <path d="M44 0 Q22 20 0 44" fill="none" stroke="#3a2a0c" stroke-opacity=".7" stroke-width=".8"/>
+    <circle cx="12" cy="12" r="2.6" fill="url(#${p}riv)" stroke="#3a2a0c" stroke-opacity=".5" stroke-width=".4"/></g>`;
+  s += corner(1,1)+corner(-1,1)+corner(1,-1)+corner(-1,-1);
+  /* elastic band */
+  s += `<rect x="255" y="-4" width="20" height="458" fill="#000" opacity=".5" filter="url(#${p}gl)"/>
+    <rect x="258" y="-2" width="12" height="454" fill="url(#${p}band)"/><rect x="258" y="-2" width="12" height="454" fill="url(#${p}weave)"/>
+    <line x1="258.4" y1="0" x2="258.4" y2="450" stroke="#fff" stroke-opacity=".1" stroke-width=".5"/>`;
+  return s;
 }
 };
 
@@ -854,6 +974,7 @@ const ICONS = {
   planet:'<circle cx="10" cy="10" r="4.2"/><ellipse cx="10" cy="10" rx="8.6" ry="2.6" transform="rotate(-18 10 10)"/>',
   eye:'<path d="M2 10c3-5 13-5 16 0-3 5-13 5-16 0z"/><circle cx="10" cy="10" r="2.4"/>',
   peak:'<path d="M2 16L8 6l3 5 2-3 5 8z"/><path d="M6.5 8.5L8 9.6l1-1"/>',
+  quiz:'<circle cx="10" cy="10" r="7.6"/><path d="M7.7 7.9a2.4 2.4 0 1 1 3.3 2.2c-.7.3-1 .8-1 1.5v.5"/><circle cx="10" cy="14.4" r=".45" fill="currentColor"/>',
   fly:'<path d="M10 9C8.5 4.5 3 3 3 7s4 4 7 2zM10 9c1.5-4.5 7-6 7-2s-4 4-7 2zM10 9c-1 3-5 6-5 3.5S8 10 10 9zM10 9c1 3 5 6 5 3.5S12 10 10 9zM10 6v8"/>'
 };
 const svgI = (body, w=20) => `<svg width="${w}" height="${w}" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".95" stroke-linecap="round" stroke-linejoin="round">${body}</svg>`;
@@ -957,14 +1078,14 @@ function tick(){
 /* ---------- caption + rail ---------- */
 const $ = id => document.getElementById(id);
 const titleEl=$('title'), authorEl=$('author'), glyphs=$('glyphs'), details=$('details'), halo=$('halo'), rail=$('rail');
-const Y0=1800, Y1=2000, yp = y => ((y-Y0)/(Y1-Y0)*100);
+const Y0=1800, Y1=2000, yp = y => ((y-Y0)/(Y1-Y0)*100), ypos = b => b.quiz ? 100 : yp(b.year);
 let railHTML = '<div class="line"></div>';
 for (let y=Y0;y<=Y1;y+=10) railHTML += `<div class="tick${y%50===0?' major':''}" style="left:${yp(y)}%"></div>`;
 for (let y=Y0;y<=Y1;y+=50) railHTML += `<div class="lab" style="left:${yp(y)}%">${y}</div>`;
 railHTML += `<div class="stem" id="stem"></div><div class="year" id="year"></div>`;
 const order = BOOKS.map((b,i)=>i).sort((a,b)=>BOOKS[a].year-BOOKS[b].year);
 const lane = {}; order.forEach((i,k)=>{ const prev=order[k-1]; lane[i] = (prev!=null && BOOKS[i].year-BOOKS[prev].year<5) ? (lane[prev]+1) : 0; });
-BOOKS.forEach((b,i)=> railHTML += `<button data-i="${i}" data-tip="${b.title}" aria-label="${b.title}, ${b.year}" style="left:${yp(b.year)}%;transform:translateY(${lane[i]*-9}px)"><span></span></button>`);
+BOOKS.forEach((b,i)=> railHTML += `<button data-i="${i}" ${b.quiz?'class="qz" ':''}data-tip="${b.quiz?"Today's quiz":b.title}" aria-label="${b.quiz?"Today's quiz":b.title+', '+b.year}" style="left:${ypos(b)}%;transform:translateY(${lane[i]*-9}px)"><span></span></button>`);
 rail.innerHTML = railHTML;
 const railBtns = [...rail.querySelectorAll('button')];
 rail.addEventListener('click', e=>{ const b=e.target.closest('button'); if (b){ st.target=+b.dataset.i; st.flipT=0; } });
@@ -979,7 +1100,10 @@ function select(i){
   authorEl.textContent = b.author;
   authorEl.dataset.tip = b.life;
   const hrs = b.words/250/60;
-  glyphs.innerHTML = `
+  if (b.quiz) glyphs.innerHTML = quizGlyphs()+`<span class="dot"></span>
+    <button class="g btn" id="openBtn" data-tip="Begin" aria-label="Open today's quiz">${svgI(ICONS.quiz)}</button><span class="dot"></span>
+    <button class="g btn" id="flipBtn" data-tip="Turn over" aria-label="Turn the book over">${svgI('<g class="flipicon" style="transform-origin:10px 10px"><rect x="6" y="3.5" width="8" height="13" rx=".8"/><path d="M8.5 3.5v13"/></g><path d="M2.5 12a7.5 7.5 0 0 0 4 4.5M17.5 8a7.5 7.5 0 0 0-4-4.5"/><path d="M5.4 17.2l1.1-.7-.6-1.2M14.6 2.8l-1.1.7.6 1.2"/>',20)}</button>`;
+  else glyphs.innerHTML = `
     <span class="g" tabindex="0" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span><span class="dot"></span>
     <span class="g" tabindex="0" data-tip="${b.pages} pages">${stack(b.pages)}</span><span class="dot"></span>
     <span class="g" tabindex="0" data-tip="About ${hrs.toFixed(1)} hours to read">${ring(hrs)}</span><span class="dot"></span>
@@ -992,8 +1116,8 @@ function select(i){
   slots.forEach((s,k)=> s.slot.classList.toggle('center', k===i));
   details.classList.remove('swap'); void details.offsetWidth; details.classList.add('swap');
   railBtns.forEach((el,k)=>el.classList.toggle('on',k===i));
-  $('year').style.left = yp(b.year)+'%'; $('year').textContent = b.year;
-  $('stem').style.left = yp(b.year)+'%';
+  $('year').style.left = ypos(b)+'%'; $('year').textContent = b.quiz ? 'today' : b.year;
+  $('stem').style.left = ypos(b)+'%';
 }
 $('tot').textContent = String(N).padStart(2,'0');
 /* calendar glyph: today's date, with the refresh time tucked into its hover */
@@ -1125,7 +1249,7 @@ function frontHTML(){
   const b = R.book;
   if (b.quiz) return quizFront();
   const hrs = b.words/250/60, mins = Math.max(2, Math.round((R.words||400)/230));
-  return `<div class="front">${miniCover(b)}<div class="fg">
+  return `<div class="fpage">${miniCover(b)}<div class="fg">
     <span class="g" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span>
     <span class="g" data-tip="${b.pages} pages">${stack(b.pages)}</span>
     <span class="g" data-tip="About ${hrs.toFixed(1)} hours for the whole book">${ring(hrs)}</span>
@@ -1323,6 +1447,145 @@ addEventListener('resize', ()=>{
     const step = R.geo.dbl?2:1; R.r = Math.min(R.r - R.r%step, maxR());
     render(); rig.style.transform = FIN; updUI();
   }, 150);
+});
+
+/* ---------- today's quiz ---------- */
+/* Five questions per book; the first answer listed is the right one. Each day draws three per book and shuffles the options. */
+const QBANK = {
+ moby:[
+  {q:"What is the name of Ahab's ship?", a:['The Pequod','The Rachel','The Essex','The Albatross']},
+  {q:'What did the white whale take from Ahab?', a:['His leg','His first ship','His son','His left eye']},
+  {q:'What does Ahab nail to the mast?', a:['A gold doubloon','A chart of the Pacific','A broken harpoon','A whale’s tooth']},
+  {q:'How does Ishmael survive the sinking?', a:['Floating on Queequeg’s coffin','Clinging to the broken mast','In Starbuck’s whaleboat','Swimming to a nearby island']},
+  {q:'Who argues that vengeance on a dumb animal is madness?', a:['Starbuck','Queequeg','Ishmael','Stubb']}],
+ pride:[
+  {q:'Which Bennet sister does Mr. Bingley fall for?', a:['Jane','Lydia','Mary','Kitty']},
+  {q:'Whom does Mr. Collins marry after Elizabeth refuses him?', a:['Charlotte Lucas','Mary Bennet','Caroline Bingley','Georgiana Darcy']},
+  {q:'Who runs off with Wickham?', a:['Lydia','Kitty','Georgiana','Charlotte']},
+  {q:'How does Darcy answer Elizabeth’s angry refusal?', a:['With a long letter','By leaving for London','Through Mr. Bingley','By proposing again at once']},
+  {q:'What is the name of Darcy’s estate?', a:['Pemberley','Netherfield','Longbourn','Rosings']}],
+ frank:[
+  {q:'Where does Victor learn to bring dead matter to life?', a:['At university in Ingolstadt','In his father’s house in Geneva','In a lab on the Orkneys','At a hospital in London']},
+  {q:'Who hears Victor’s story first?', a:['Robert Walton, an Arctic explorer','Henry Clerval','Elizabeth Lavenza','A magistrate in Ireland']},
+  {q:'What does the creature ask Victor to make for him?', a:['A companion','A new face','A home in the Alps','A cure for death']},
+  {q:'Which book does the creature read while hiding by the cottage?', a:['Paradise Lost','The Odyssey','Hamlet','The Bible']},
+  {q:'Where does the novel end?', a:['In the Arctic ice','In Geneva','High in the Alps','On a Scottish island']}],
+ gatsby:[
+  {q:'Who narrates the novel?', a:['Nick Carraway','Jay Gatsby','Jordan Baker','Tom Buchanan']},
+  {q:'What does Gatsby gaze at across the bay?', a:['A green light on Daisy’s dock','A lighthouse','The Manhattan skyline','A red lantern on a yacht']},
+  {q:'Who is driving the car that kills Myrtle?', a:['Daisy','Gatsby','Tom','Nick']},
+  {q:'What was Gatsby’s name at birth?', a:['James Gatz','John Gates','Jacob Gatsberg','Jay Gould']},
+  {q:'What does Gatsby want Daisy to say?', a:['That she never loved Tom','That she forgives him','That she will leave New York','That she loved him first']}],
+ dune:[
+  {q:'Where is the spice found?', a:['Only on Arrakis','On every desert world','On Caladan','In the Emperor’s mines']},
+  {q:'What name does Paul take among the Fremen?', a:['Muad’Dib','Shai-Hulud','Kwisatz','Liet']},
+  {q:'Who attacks House Atreides on Arrakis?', a:['The Harkonnens','The Fremen','The Spacing Guild','The Bene Gesserit']},
+  {q:'What poison is only a Bene Gesserit supposed to survive?', a:['The Water of Life','Pure melange','Sandworm venom','Semuta']},
+  {q:'How does Paul force the Emperor to yield?', a:['By holding the spice hostage','By assassinating him','With a Guild blockade','By winning a duel against him']}],
+ orwell:[
+  {q:'Where does Winston work?', a:['The Ministry of Truth','The Ministry of Love','The Ministry of Plenty','The Ministry of Peace']},
+  {q:'What forbidden act begins Winston’s rebellion?', a:['Keeping a diary','Owning a radio','Visiting the proles','Reading Goldstein’s book']},
+  {q:'Who turns out to be a loyal Party man all along?', a:['O’Brien','Julia','Goldstein','Parsons']},
+  {q:'What must Winston believe two and two make?', a:['Five','Three','Four','Whatever he likes']},
+  {q:'Where does Winston finally betray Julia?', a:['Room 101','The junk shop','The Chestnut Tree Café','The canteen']}],
+ hobbit:[
+  {q:'Who leads the thirteen dwarves?', a:['Thorin Oakenshield','Balin','Bard','Gandalf']},
+  {q:'What does Bilbo find in the goblin tunnels?', a:['A magic ring','The Arkenstone','A map of the mountain','An elven sword']},
+  {q:'Who kills Smaug?', a:['Bard the archer','Bilbo','Thorin','Beorn']},
+  {q:'How does Bilbo free the dwarves from the Wood-elves?', a:['He floats them out in barrels','He digs a tunnel','He calls the eagles','He bribes the guards']},
+  {q:'What does Bilbo secretly hand to Bard?', a:['The Arkenstone','His magic ring','A scale from Smaug','Thorin’s map']}],
+ solitude:[
+  {q:'What is the name of the town the Buendías found?', a:['Macondo','Aracataca','Comala','Riohacha']},
+  {q:'How many uprisings does Colonel Aureliano lead?', a:['Thirty-two','Seven','Twelve','One hundred']},
+  {q:'What does the colonel make in his workshop?', a:['Little gold fishes','Pocket watches','Silver crosses','Glass birds']},
+  {q:'How long does the great rain last?', a:['Four years, eleven months and two days','Forty days and forty nights','One hundred days','Seven years']},
+  {q:'What do Melquíades’ parchments turn out to hold?', a:['The family’s history, written in advance','A map to buried gold','Recipes for alchemy','Úrsula’s love letters']}]
+};
+const QZ = PICKS.flatMap(b => {
+  const r = seeded('quiz:'+DAY+':'+b.k);
+  return shuffle(QBANK[b.k].map((q,n)=>({...q,n})), r).slice(0,3).map((q,j)=>{
+    const ord = shuffle([0,1,2,3], r);
+    return {id:b.k+'-'+q.n, b, j, q:q.q, a:ord.map(o=>q.a[o]), c:ord.indexOf(0)};
+  });
+});
+/* today's answers live in this browser only; the quiz still works if storage is unavailable */
+const QKEY = 'folio:quiz:'+DAY;
+let ANS = {};
+try { ANS = JSON.parse(localStorage.getItem(QKEY)||'{}') || {}; } catch(_){}
+const saveAns = () => { try { localStorage.setItem(QKEY, JSON.stringify(ANS)); } catch(_){} };
+const hrsLeft = () => Math.ceil((new Date(NOW.getFullYear(),NOW.getMonth(),NOW.getDate()+1) - new Date())/36e5);
+const LONGDATE = NOW.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+
+/* shelf caption for the quiz: a little shelf of today's six spines, and a dot per question */
+function quizGlyphs(){
+  const done = QZ.filter(q=>q.id in ANS).length;
+  const shelf = PICKS.map((b,i)=>`<i style="background:${b.base};height:${13+((i*5)%4)}px" data-tip="${b.title}"></i>`).join('');
+  const dots = QZ.map(q=>`<i class="${q.id in ANS?'on':''}"></i>`).join('');
+  return `<span class="g mshelf" aria-label="Covers today's six books">${shelf}</span><span class="dot"></span>
+    <span class="g" tabindex="0" data-tip="${done ? `${done} of ${QZ.length} answered` : `${QZ.length} questions · three per book`}"><span class="qdots">${dots}</span></span>`;
+}
+
+const inkCircle = `<svg class="ink" viewBox="0 0 300 60" preserveAspectRatio="none" aria-hidden="true">
+  <path pathLength="1" d="M22 36 C8 16 92 5 160 6 S297 15 291 33 S212 57 142 55 S3 49 13 28 S66 8 116 7"/>
+  <path class="i2" pathLength="1" d="M26 38 C12 18 94 7 161 8 S294 17 288 34 S210 55 143 53 S6 47 16 29"/></svg>`;
+const strike = `<svg class="strike" viewBox="0 0 100 10" preserveAspectRatio="none" aria-hidden="true"><path pathLength="1" d="M0 6 C30 3.5 68 7.5 100 4"/></svg>`;
+const bookDots = q => `<span class="bdots">${[0,1,2].map(j=>`<i class="${j<q.j?'p':j===q.j?'c':''}"></i>`).join('')}</span>`;
+const fan = (mark) => `<div class="fan">${PICKS.map((b,i)=>{ const all = QZ.filter(q=>q.b===b).every(q=>q.id in ANS);
+  return `<span class="fi" style="--a:${((i-2.5)*7).toFixed(1)}deg;--y:${(Math.abs(i-2.5)**2*.09).toFixed(2)}em" data-tip="${b.title}">${miniCover(b)}${mark&&all?'<b class="tick"></b>':''}</span>`; }).join('')}</div>`;
+
+function quizPages(){
+  const P = [quizTitle];
+  QZ.forEach((q,k)=>{ if (R.geo.dbl) P.push(()=>quizVis(q)); P.push(()=>quizQ(q,k)); });
+  if (R.geo.dbl) P.push(quizFinVis);
+  P.push(quizFin);
+  return P;
+}
+function quizTitle(){
+  return `<div class="qp"><section class="opening"><span class="ico">${svgI(ICONS.quiz,30)}</span><h1>Recall</h1><p>${LONGDATE}</p>
+    ${fan(false)}<blockquote>${QUIZ.one}</blockquote><div class="by">${QZ.length} questions</div></section></div>`;
+}
+function quizFront(){
+  const row = (w,c='') => `<div class="dm ${c}"><i class="mk"></i><b style="width:${w}%"></b>${c==='right'?inkCircle:''}</div>`;
+  return `<div class="fpage qfront"><div class="demo">${row(62)}${row(78,'right')}${row(54)}${row(70)}</div>
+    <div class="legend"><span>${svgI('<circle cx="10" cy="10" r="3" fill="currentColor" stroke="none"/><circle cx="10" cy="10" r="7"/>',18)}pick one</span>
+    <span>${svgI('<path d="M4 11c-1-4 4-6 8-6s6 2 5 5-5 5-9 4-4-2-4-3"/>',18)}the right answer is circled</span>
+    <span>${svgI('<circle cx="10" cy="10" r="7.5" stroke-dasharray="2 2.4"/>',18)}no score</span></div></div>`;
+}
+function quizVis(q){
+  return `<div class="fpage qvis">${miniCover(q.b,'big')}</div>`;
+}
+function quizQ(q,k){
+  const ans = ANS[q.id], done = ans!=null;
+  const opts = q.a.map((a,i)=>{
+    const cls = !done ? '' : i===q.c ? 'right' : i===ans ? 'wrong' : 'dim';
+    return `<li><button class="opt ${cls}${done&&i===ans?' chosen':''}" data-q="${q.id}" data-i="${i}"${done?' disabled':''}><i class="mk"></i><span>${a}${cls==='wrong'?strike:''}${cls==='right'?inkCircle:''}</span></button></li>`;
+  }).join('');
+  return `<div class="rh">${q.b.title}</div>
+    <div class="qp qq${R.just===q.id?' now':''}">
+      <div class="qhead">${R.geo.dbl ? '' : miniCover(q.b,'tiny')}${bookDots(q)}</div>
+      <h3>${q.q}</h3><ol class="opts">${opts}</ol></div>
+    <div class="fo">${k+1} · ${QZ.length}</div>`;
+}
+function quizFinVis(){
+  return `<div class="fpage qfinv">${fan(true)}</div>`;
+}
+function quizFin(){
+  const h = hrsLeft();
+  return `<div class="qp"><section class="opening fin"><span class="ico">${svgI('<path d="M10 3l1.6 5.4L17 10l-5.4 1.6L10 17l-1.6-5.4L3 10l5.4-1.6z"/>',30)}</span>
+    <h1>That’s today</h1>${R.geo.dbl ? '' : fan(true)}
+    <blockquote>Tomorrow brings six new books, and new questions.</blockquote>
+    <div class="g soon" tabindex="0" data-tip="New shelf in ${h} h">${ring(h/24*16)}</div></section></div>`;
+}
+
+/* answering: the choice is marked, the right answer circled in ink, and the page stays put so you can read it */
+reader.addEventListener('click', e=>{
+  const o = e.target.closest('.opt');
+  if (!o || o.disabled || R.busy || !R.book || !R.book.quiz) return;
+  const id = o.dataset.q;
+  if (id in ANS) return;
+  ANS[id] = +o.dataset.i; saveAns();
+  R.just = id; setFace(rRight, R.r, 'l'); R.just = null;
+  const nx = $('rNext'); nx.classList.remove('nudge'); void nx.offsetWidth; nx.classList.add('nudge');
 });
 
 select(0); layout(); requestAnimationFrame(tick);
