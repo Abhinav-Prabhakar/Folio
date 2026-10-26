@@ -1,0 +1,56 @@
+{
+  "book": "a-more-beautiful-question",
+  "title": "A More Beautiful Question",
+  "questions": [
+    {
+      "q": "What are the four beautiful questions?",
+      "a": [
+        "Why, Why not, What if, How",
+        "Who, What, When, Where",
+        "Why, What, When, How",
+        "What if, So what, Now what, Then what"
+      ],
+      "why": "The overview lists Why, Why Not, What If and How."
+    },
+    {
+      "q": "What does lesson 1 say happens to curiosity at school?",
+      "a": [
+        "Most of it is lost as facts and tests take priority",
+        "It is carefully developed",
+        "It grows with age",
+        "It becomes more specific"
+      ],
+      "why": "Lesson 1 says the education system smothers curiosity."
+    },
+    {
+      "q": "What kind of question is 'why?' according to lesson 2?",
+      "a": [
+        "A naive, child-like question that helps you get smarter",
+        "A hostile challenge to authority",
+        "An unproductive question",
+        "A question for experts only"
+      ],
+      "why": "Lesson 2 calls 'why?' a naive question that represents wonder."
+    },
+    {
+      "q": "What does asking 'why not?' help you do?",
+      "a": [
+        "Question 'the way it's always been done' and find solutions",
+        "Slow down decisions",
+        "Prove others wrong",
+        "Collect more data"
+      ],
+      "why": "Lesson 2 says it opens hidden doors and challenges the status quo."
+    },
+    {
+      "q": "Which of the four questions is the hardest to answer?",
+      "a": [
+        "How",
+        "Why",
+        "What if",
+        "Why not"
+      ],
+      "why": "Lesson 3 says 'how?' requires commitment, patience and endurance."
+    }
+  ]
+}

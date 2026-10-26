@@ -1,0 +1,56 @@
+{
+  "book": "a-higher-loyalty",
+  "title": "A Higher Loyalty",
+  "questions": [
+    {
+      "q": "In which role did James Comey serve from 2013 until his dismissal?",
+      "a": [
+        "Director of the FBI",
+        "US Attorney General",
+        "Deputy Secretary of State",
+        "Head of the CIA"
+      ],
+      "why": "The overview says he served as FBI director before a controversial dismissal."
+    },
+    {
+      "q": "What did bullying teach young Comey, per lesson 1?",
+      "a": [
+        "To read people and to hate bullies",
+        "To fight back physically",
+        "To avoid conflict",
+        "To seek popularity"
+      ],
+      "why": "Lesson 1 says bullying taught him to read people and gave him a deep dislike of bullies."
+    },
+    {
+      "q": "What did grocery store boss Harry Howell teach him?",
+      "a": [
+        "How to be a good leader",
+        "How to manage money",
+        "How to speak in public",
+        "How to resolve conflict"
+      ],
+      "why": "Lesson 1 says Howell taught him leadership."
+    },
+    {
+      "q": "Under which president did Comey work closely, per lesson 2?",
+      "a": [
+        "Barack Obama",
+        "George W. Bush",
+        "Bill Clinton",
+        "Ronald Reagan"
+      ],
+      "why": "Lesson 2 says he was impressed by Obama's effectiveness and intelligence."
+    },
+    {
+      "q": "What did Comey's early dealings with Trump remind him of?",
+      "a": [
+        "Mafia bosses he had prosecuted",
+        "Corporate lawyers he had opposed",
+        "Political rivals from his youth",
+        "Foreign diplomats he had met"
+      ],
+      "why": "Lesson 3 says the meetings reminded him of mob bosses."
+    }
+  ]
+}

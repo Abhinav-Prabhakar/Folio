@@ -1,0 +1,56 @@
+{
+  "book": "a-walk-in-the-woods",
+  "title": "A Walk In The Woods",
+  "questions": [
+    {
+      "q": "How long is the Appalachian Trail?",
+      "a": [
+        "About 2,100 miles",
+        "About 800 miles",
+        "About 3,500 miles",
+        "About 1,200 miles"
+      ],
+      "why": "Lesson 1 gives 2,100 miles from Georgia to Maine."
+    },
+    {
+      "q": "Who is credited with helping bring the trail work to life?",
+      "a": [
+        "Myron Avery",
+        "John Muir",
+        "Theodore Roosevelt",
+        "Henry Thoreau"
+      ],
+      "why": "Lesson 1 mentions Myron Avery."
+    },
+    {
+      "q": "What happened when they reached Big Butt Mountain?",
+      "a": [
+        "Snowflakes began to fall",
+        "A storm washed out the path",
+        "They lost their supplies",
+        "Katz was injured"
+      ],
+      "why": "Lesson 2 describes the weather turning bad there."
+    },
+    {
+      "q": "What danger did the narrow path have, per lesson 2?",
+      "a": [
+        "An 80-foot drop on one side",
+        "A river crossing",
+        "Falling rocks",
+        "Wild animals"
+      ],
+      "why": "Lesson 2 mentions mountain on one side and a drop on the other."
+    },
+    {
+      "q": "What does lesson 3 say Bryson came to appreciate?",
+      "a": [
+        "The trees",
+        "The wildlife",
+        "The weather",
+        "The silence"
+      ],
+      "why": "Lesson 3 says he found trees particularly interesting."
+    }
+  ]
+}

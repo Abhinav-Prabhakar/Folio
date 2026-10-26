@@ -1,0 +1,56 @@
+{
+  "book": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "questions": [
+    {
+      "q": "Which phrase repeats in the book's first act?",
+      "a": [
+        "Recalled to Life",
+        "The Golden Thread",
+        "The Track of a Storm",
+        "A Year of Darkness"
+      ],
+      "why": "Lesson 1 says the first act title repeats throughout."
+    },
+    {
+      "q": "Who is released from prison early in the story?",
+      "a": [
+        "Dr. Alexandre Manette",
+        "Charles Darnay",
+        "Sydney Carton",
+        "Jarvis Lorry"
+      ],
+      "why": "Lesson 1 describes Manette's release."
+    },
+    {
+      "q": "What parallel does lesson 2 draw?",
+      "a": [
+        "Two cities facing unrest and inequality",
+        "Two kings fighting a war",
+        "Two brothers raising a child",
+        "Two friends sharing a house"
+      ],
+      "why": "Lesson 2 lists parallels like two cities with civil unrest."
+    },
+    {
+      "q": "What does Carton do in the final act?",
+      "a": [
+        "Trades places with Darnay and is executed",
+        "Escapes with Lucie",
+        "Betrays Darnay",
+        "Joins the revolutionaries"
+      ],
+      "why": "Lesson 3 says he swaps places in the cell."
+    },
+    {
+      "q": "What does lesson 3 say sacrifice does for us?",
+      "a": [
+        "Makes us happy and fulfilled",
+        "Leaves us regretful",
+        "Earns us wealth",
+        "Proves our loyalty"
+      ],
+      "why": "Lesson 3 says giving up something for others brings meaning."
+    }
+  ]
+}

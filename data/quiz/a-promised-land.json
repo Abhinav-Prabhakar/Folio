@@ -1,0 +1,56 @@
+{
+  "book": "a-promised-land",
+  "title": "A Promised Land",
+  "questions": [
+    {
+      "q": "Where did Barack Obama grow up?",
+      "a": [
+        "Honolulu, Hawaii",
+        "Chicago, Illinois",
+        "Nairobi, Kenya",
+        "Kansas City, Missouri"
+      ],
+      "why": "Lesson 1 says he grew up in Honolulu with his mother and grandparents."
+    },
+    {
+      "q": "What did Obama do in Chicago after Columbia?",
+      "a": [
+        "Worked with communities hit by steel plant closures",
+        "Practiced law at a large firm",
+        "Taught at a high school",
+        "Ran a political campaign"
+      ],
+      "why": "Lesson 1 describes community work after steel plants closed."
+    },
+    {
+      "q": "How did Obama's speeches gain attention while running for the Senate?",
+      "a": [
+        "They went viral on blogs and MySpace",
+        "They were aired on national TV",
+        "They were printed in newspapers",
+        "They were played on radio"
+      ],
+      "why": "Lesson 2 says his speeches spread on blogs and MySpace."
+    },
+    {
+      "q": "Which law did Obama sign as a notable accomplishment?",
+      "a": [
+        "The Affordable Care Act",
+        "The Patriot Act",
+        "The Civil Rights Act",
+        "The Clean Air Act"
+      ],
+      "why": "Lesson 3 names the Affordable Care Act."
+    },
+    {
+      "q": "What did opponents call the health law, per lesson 3?",
+      "a": [
+        "A government takeover",
+        "A tax break",
+        "A civil liberty",
+        "A job program"
+      ],
+      "why": "Lesson 3 says opponents feared a 'government takeover'."
+    }
+  ]
+}

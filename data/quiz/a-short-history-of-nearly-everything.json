@@ -1,0 +1,56 @@
+{
+  "book": "a-short-history-of-nearly-everything",
+  "title": "A Short History Of Nearly Everything",
+  "questions": [
+    {
+      "q": "How long did it take to create most of the universe, per lesson 1?",
+      "a": [
+        "About three minutes",
+        "About three years",
+        "About three hours",
+        "About three seconds"
+      ],
+      "why": "Lesson 1 says a single 3-minute moment."
+    },
+    {
+      "q": "What is a singularity, according to the summary?",
+      "a": [
+        "A moment where nothing is defined and everything is unpredictable",
+        "A giant black hole",
+        "The edge of the universe",
+        "A very dense star"
+      ],
+      "why": "Lesson 1 defines a singularity this way."
+    },
+    {
+      "q": "What share of earth's habitable space is unsuited for humans?",
+      "a": [
+        "99.5 percent",
+        "50 percent",
+        "75 percent",
+        "10 percent"
+      ],
+      "why": "Lesson 2 gives 99.5% since it's water or lacks oxygen."
+    },
+    {
+      "q": "What role does the moon play for a livable planet?",
+      "a": [
+        "Keeps gravity in check so it spins at the right speed and angle",
+        "Provides heat",
+        "Blocks cosmic radiation",
+        "Creates oceans"
+      ],
+      "why": "Lesson 2 lists a moon as a requirement for balanced spin."
+    },
+    {
+      "q": "How many asteroids are described as large enough to wipe us out?",
+      "a": [
+        "About 2,000",
+        "About 20",
+        "About 200,000",
+        "About one million"
+      ],
+      "why": "Lesson 3 says 2,000 are large enough for total destruction."
+    }
+  ]
+}

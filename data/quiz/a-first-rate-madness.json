@@ -1,0 +1,56 @@
+{
+  "book": "a-first-rate-madness",
+  "title": "A First-Rate Madness",
+  "questions": [
+    {
+      "q": "What is Ghaemi's thesis about mental illness and leadership?",
+      "a": [
+        "Certain illnesses can bring benefits for leaders",
+        "Mental illness always harms leadership",
+        "Great leaders are always healthy",
+        "Illness only helps in wartime"
+      ],
+      "why": "The overview says depression and bipolar disorder may help in leadership."
+    },
+    {
+      "q": "Why might depressed people be better leaders, per lesson 1?",
+      "a": [
+        "They tend to be more empathetic",
+        "They work longer hours",
+        "They take bigger risks",
+        "They need less sleep"
+      ],
+      "why": "Lesson 1 says depression can lead to greater empathy."
+    },
+    {
+      "q": "Which pair of leaders does lesson 2 say struggled with depression from childhood?",
+      "a": [
+        "Martin Luther King Jr. and Gandhi",
+        "Lincoln and Roosevelt",
+        "Mandela and Churchill",
+        "Kennedy and Truman"
+      ],
+      "why": "Lesson 2 says King and Gandhi both suffered from depression starting young."
+    },
+    {
+      "q": "What did the civil rights movements of King and Gandhi share at their core?",
+      "a": [
+        "Radical empathy",
+        "Economic reform",
+        "Military strategy",
+        "Religious law"
+      ],
+      "why": "The summary calls them radical empathy."
+    },
+    {
+      "q": "What does lesson 3 suggest for reducing stigma around mental illness?",
+      "a": [
+        "Accept the struggles of past leaders and their contributions",
+        "Hide diagnoses from the public",
+        "Treat all illness with medication",
+        "Avoid discussing leaders' health"
+      ],
+      "why": "Lesson 3 says we must admit leaders' conditions and their positive contributions."
+    }
+  ]
+}

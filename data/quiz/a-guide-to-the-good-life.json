@@ -1,0 +1,56 @@
+{
+  "book": "a-guide-to-the-good-life",
+  "title": "A Guide To The Good Life",
+  "questions": [
+    {
+      "q": "What are the two highest values for a Stoic?",
+      "a": [
+        "Virtue and tranquility",
+        "Wealth and fame",
+        "Courage and pleasure",
+        "Knowledge and power"
+      ],
+      "why": "Lesson 1 says virtue and tranquility are the central themes."
+    },
+    {
+      "q": "What is the hedonic treadmill?",
+      "a": [
+        "Adapting to what you have and always wanting more",
+        "A fitness habit",
+        "A form of meditation",
+        "A cycle of saving money"
+      ],
+      "why": "Lesson 2 calls it hedonic adaptation, the vicious cycle of wanting more."
+    },
+    {
+      "q": "What exercise helps you appreciate what you have?",
+      "a": [
+        "Negative visualization",
+        "Gratitude journaling",
+        "Daily fasting",
+        "Positive affirmations"
+      ],
+      "why": "Lesson 2 describes imagining losing the things you take for granted."
+    },
+    {
+      "q": "What is the first step toward tranquility in lesson 3?",
+      "a": [
+        "Recognizing when something is outside your control",
+        "Solving the problem fast",
+        "Asking others for help",
+        "Making a plan to change it"
+      ],
+      "why": "Lesson 3 starts with realizing when something is beyond your control."
+    },
+    {
+      "q": "What should you do with worries about things you can't control?",
+      "a": [
+        "Not distract yourself worrying about them, even briefly",
+        "Schedule a time to worry",
+        "Discuss them with a friend",
+        "Write down possible solutions"
+      ],
+      "why": "The second step is not worrying about it for even a second."
+    }
+  ]
+}

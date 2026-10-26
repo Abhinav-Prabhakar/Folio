@@ -1,0 +1,56 @@
+{
+  "book": "a-general-theory-of-love",
+  "title": "A General Theory Of Love",
+  "questions": [
+    {
+      "q": "Which chemicals does lesson 1 link to love and attachment?",
+      "a": [
+        "Serotonin, oxytocin and opiates",
+        "Adrenaline, cortisol and insulin",
+        "Dopamine, melatonin and caffeine",
+        "Estrogen, testosterone and thyroxine"
+      ],
+      "why": "Lesson 1 names serotonin, oxytocin and opiates."
+    },
+    {
+      "q": "What is oxytocin associated with, per the summary?",
+      "a": [
+        "The bond between mother and baby",
+        "Alertness and focus",
+        "Fear of loss",
+        "Physical strength"
+      ],
+      "why": "It's present in high levels during childbirth and causes bonding."
+    },
+    {
+      "q": "How do children learn which feelings to have, per lesson 2?",
+      "a": [
+        "From how their parents react to them",
+        "From schoolteachers",
+        "From books and media",
+        "From their friends"
+      ],
+      "why": "A toddler who falls looks to the parent's reaction for how to feel."
+    },
+    {
+      "q": "What does lesson 2 say can help fix emotional difficulties from upbringing?",
+      "a": [
+        "Long-term therapy",
+        "Quick positive thinking",
+        "Reading self-help books",
+        "Time away from family"
+      ],
+      "why": "The lesson says therapy can optimize the brain for emotional intelligence."
+    },
+    {
+      "q": "What does lesson 3 say is key to healthy long-term relationships?",
+      "a": [
+        "Emotional connection between the couple",
+        "Strong initial infatuation",
+        "Shared hobbies",
+        "Financial stability"
+      ],
+      "why": "Lesson 3 says emotional connection matters more than being in love."
+    }
+  ]
+}

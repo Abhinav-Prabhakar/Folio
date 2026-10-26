@@ -1,0 +1,56 @@
+{
+  "book": "a-splendid-exchange",
+  "title": "A Splendid Exchange",
+  "questions": [
+    {
+      "q": "What was the first long-distance traded item, per lesson 1?",
+      "a": [
+        "Obsidian, a stone",
+        "Salt",
+        "Barley",
+        "Wool"
+      ],
+      "why": "Lesson 1 says it was a stone around 12,000 BC."
+    },
+    {
+      "q": "What did Mesopotamia lack that drove trade?",
+      "a": [
+        "Building materials",
+        "Water",
+        "Farmland",
+        "Labor"
+      ],
+      "why": "The lesson says it was rich in farmables but lacked building materials."
+    },
+    {
+      "q": "What deadly extra did the spice trade carry, per lesson 2?",
+      "a": [
+        "A disease that spread alongside the spices",
+        "Poisonous plants",
+        "Pirate attacks",
+        "Currency crashes"
+      ],
+      "why": "Lesson 2 says disease traveled with the goods."
+    },
+    {
+      "q": "Why did rich Europeans want spices?",
+      "a": [
+        "Spices were a vice of the rich that couldn't be flaunted like castles",
+        "They were essential for survival",
+        "They were cheap flavorings",
+        "They were used as currency"
+      ],
+      "why": "Lesson 2 describes spices as another vice of the wealthy."
+    },
+    {
+      "q": "Which invention was key to transcontinental trade, though unrelated to transport?",
+      "a": [
+        "Refrigeration",
+        "The compass",
+        "The printing press",
+        "Canning"
+      ],
+      "why": "Lesson 3 names refrigeration."
+    }
+  ]
+}

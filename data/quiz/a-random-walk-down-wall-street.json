@@ -1,0 +1,56 @@
+{
+  "book": "a-random-walk-down-wall-street",
+  "title": "A Random Walk Down Wall Street",
+  "questions": [
+    {
+      "q": "How are risk and return related, per lesson 1?",
+      "a": [
+        "Higher potential return comes with higher risk",
+        "Risk lowers returns",
+        "They are unrelated",
+        "Low risk gives the highest returns"
+      ],
+      "why": "Lesson 1 says the higher the potential return, the higher the risk."
+    },
+    {
+      "q": "What does lesson 1's portfolio theory suggest holding?",
+      "a": [
+        "Investments with inversely correlated returns",
+        "A single strong stock",
+        "Only bonds",
+        "Companies in the same industry"
+      ],
+      "why": "The theory protects you by pairing inversely correlated returns."
+    },
+    {
+      "q": "Which index fund does lesson 2 call the most famous?",
+      "a": [
+        "The S&P 500",
+        "The Dow Jones",
+        "The Nasdaq",
+        "The Russell 2000"
+      ],
+      "why": "Lesson 2 uses the S&P 500 as the example."
+    },
+    {
+      "q": "What is the author's view on beating the market?",
+      "a": [
+        "You can't consistently beat it",
+        "Active investors always win",
+        "Experts beat it every year",
+        "Only small funds beat it"
+      ],
+      "why": "A key lesson is that you can't beat the market."
+    },
+    {
+      "q": "What is herd mentality, per lesson 3?",
+      "a": [
+        "Peer pressure from our inclination to stick with groups",
+        "A strong sense of independence",
+        "A focus on diversification",
+        "A mistrust of experts"
+      ],
+      "why": "Lesson 3 ties herd mentality to peer pressure and a group instinct."
+    }
+  ]
+}

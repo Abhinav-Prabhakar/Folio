@@ -1,0 +1,56 @@
+{
+  "book": "a-walk-around-the-block",
+  "title": "A Walk Around the Block",
+  "questions": [
+    {
+      "q": "What triggered Spike Carlsen's exploration of infrastructure?",
+      "a": [
+        "His water service line froze and the tap ran dry",
+        "A power outage in his neighborhood",
+        "A broken road near his home",
+        "A visit to a construction site"
+      ],
+      "why": "The overview begins with the tap failing on a cold January morning."
+    },
+    {
+      "q": "How fast does a cell phone message travel versus a foot messenger in lesson 1?",
+      "a": [
+        "Within a fraction of a second versus nearly 12 days",
+        "Within seconds versus a day",
+        "Within minutes versus a week",
+        "Within an hour versus three days"
+      ],
+      "why": "Lesson 1 lists the evolution from about 12 days to 0.0053 seconds."
+    },
+    {
+      "q": "What did the Romans perfect, according to lesson 2?",
+      "a": [
+        "Concrete",
+        "Roads",
+        "Aqueducts",
+        "Glass"
+      ],
+      "why": "Lesson 2 says the Romans perfected concrete and its formula was lost for 1,000 years."
+    },
+    {
+      "q": "Where was the world's first traffic light installed, in 1868?",
+      "a": [
+        "London",
+        "New York",
+        "Paris",
+        "Detroit"
+      ],
+      "why": "Lesson 3 says it went live in London."
+    },
+    {
+      "q": "What does the 'all-red phase' of a traffic light provide?",
+      "a": [
+        "A short precaution period when all directions are red",
+        "A longer green for pedestrians",
+        "A flashing signal for emergency vehicles",
+        "A reset of the whole cycle"
+      ],
+      "why": "Lesson 3 lists it as a 1.5 to 3 second precaution."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "a-woman-of-no-importance",
+  "title": "A Woman Of No Importance",
+  "questions": [
+    {
+      "q": "What happened to Virginia Hall that she persevered through?",
+      "a": [
+        "She lost a leg in an accident",
+        "She was imprisoned",
+        "She lost her sight",
+        "She lost her family"
+      ],
+      "why": "Lesson 1 says an accident left her missing half a leg."
+    },
+    {
+      "q": "How many languages did Hall know by graduation?",
+      "a": [
+        "Five",
+        "Two",
+        "Eight",
+        "Three"
+      ],
+      "why": "Lesson 1 says she knew five languages."
+    },
+    {
+      "q": "How did Hall end up in the Special Operations Executive?",
+      "a": [
+        "Almost by accident after being denied many times",
+        "She applied right away",
+        "She was recruited at university",
+        "She won a contest"
+      ],
+      "why": "Lesson 2 says she was denied many times before joining almost by accident."
+    },
+    {
+      "q": "What was Hall sent to do in southern France?",
+      "a": [
+        "Build a network of resistance fighters",
+        "Teach at a school",
+        "Run a safehouse in Paris",
+        "Guard a supply route"
+      ],
+      "why": "Lesson 3 says she created a network of dozens of people."
+    },
+    {
+      "q": "How was a captured group of agents rescued?",
+      "a": [
+        "An elderly priest in a wheelchair with a hidden radio",
+        "A raid by commandos",
+        "A prisoner exchange",
+        "A disguised guard"
+      ],
+      "why": "Lesson 3 describes the priest plan."
+    }
+  ]
+}

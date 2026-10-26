@@ -1,0 +1,56 @@
+{
+  "book": "a-universe-from-nothing",
+  "title": "A Universe From Nothing",
+  "questions": [
+    {
+      "q": "How long ago did the big bang happen, per lesson 1?",
+      "a": [
+        "About 14 billion years",
+        "About 4.5 billion years",
+        "About 100 million years",
+        "About one trillion years"
+      ],
+      "why": "Lesson 1 says it was 14 billion years ago."
+    },
+    {
+      "q": "What is the Doppler effect used for here?",
+      "a": [
+        "To show how scientists figured out the universe is expanding",
+        "To measure the age of stars",
+        "To weigh galaxies",
+        "To find planets"
+      ],
+      "why": "Lesson 1 says to understand the finding you need the Doppler effect."
+    },
+    {
+      "q": "What force is pushing the universe outward?",
+      "a": [
+        "Dark energy",
+        "Magnetism",
+        "Radiation",
+        "Antimatter"
+      ],
+      "why": "Lesson 2 explains dark energy as the outward force."
+    },
+    {
+      "q": "How is dark matter discovered, according to lesson 2?",
+      "a": [
+        "Calculations show more mass than we can see",
+        "Telescopes photograph it",
+        "Particles are detected on Earth",
+        "Satellites capture its glow"
+      ],
+      "why": "Lesson 2 says rotation calculations require more mass than visible."
+    },
+    {
+      "q": "What will happen to our view of other galaxies in the far future?",
+      "a": [
+        "We'll only see our own galaxy",
+        "We'll see more galaxies",
+        "We'll see them clearer",
+        "Nothing will change"
+      ],
+      "why": "Lesson 3 says expansion eventually makes other galaxies invisible."
+    }
+  ]
+}

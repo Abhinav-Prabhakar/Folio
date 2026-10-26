@@ -1,0 +1,56 @@
+{
+  "book": "a-new-earth",
+  "title": "A New Earth",
+  "questions": [
+    {
+      "q": "According to Tolle, why can't religion save the world?",
+      "a": [
+        "It already accepts suffering and carries part of the problem",
+        "It is too focused on science",
+        "It spreads too slowly",
+        "It lacks money and power"
+      ],
+      "why": "Lesson 1 says religions accept pain and chaos and so can't liberate us."
+    },
+    {
+      "q": "What does the Zen story of Tanzan and Ekido illustrate?",
+      "a": [
+        "Not overthinking, letting things go",
+        "The importance of obeying rules",
+        "Charity toward strangers",
+        "The danger of travel"
+      ],
+      "why": "Lesson 2 uses it to teach against overthinking."
+    },
+    {
+      "q": "What animal does Tolle compare a person who doesn't overthink to?",
+      "a": [
+        "A duck",
+        "A cat",
+        "A dog",
+        "An owl"
+      ],
+      "why": "Lesson 2 says be like a duck that quickly swims away after a fight."
+    },
+    {
+      "q": "What does lesson 3 recommend doing in every moment?",
+      "a": [
+        "Accept it as it is and act peacefully without judgment",
+        "Plan for the next one",
+        "Reflect on the past",
+        "Avoid anything unpleasant"
+      ],
+      "why": "Lesson 3 says accept each moment as it is."
+    },
+    {
+      "q": "What should be your motivation for doing things, per lesson 3?",
+      "a": [
+        "Enjoyment rather than desire for material things",
+        "Fear of failure",
+        "Praise from others",
+        "Financial reward"
+      ],
+      "why": "The more you seek enjoyment, the more it becomes your source of motivation."
+    }
+  ]
+}

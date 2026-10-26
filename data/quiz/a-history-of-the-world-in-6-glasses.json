@@ -1,0 +1,56 @@
+{
+  "book": "a-history-of-the-world-in-6-glasses",
+  "title": "A History Of The World In 6 Glasses",
+  "questions": [
+    {
+      "q": "According to lesson 1, how was beer created?",
+      "a": [
+        "It was discovered, not invented",
+        "It was engineered by priests",
+        "It was brought from Asia",
+        "It was invented by farmers"
+      ],
+      "why": "Lesson 1 says beer was discovered rather than invented."
+    },
+    {
+      "q": "How did beer relate to the shift to farming?",
+      "a": [
+        "Its appeal helped drive the desire to settle and farm",
+        "It was a cheap way to feed soldiers",
+        "It replaced water in hunting camps",
+        "It spread through trade routes"
+      ],
+      "why": "Lesson 1 says wanting more beer motivated settling and agriculture."
+    },
+    {
+      "q": "Why did coffee appeal to Middle Ages intellectuals?",
+      "a": [
+        "It was safe to drink without intoxication",
+        "It was cheaper than wine",
+        "It tasted sweeter than beer",
+        "It came from nearby farms"
+      ],
+      "why": "Lesson 2 says it had no negative effects and offered a clear-headed alternative to alcohol."
+    },
+    {
+      "q": "What replaced taverns as gathering places?",
+      "a": [
+        "Coffeehouses",
+        "Tea rooms",
+        "Soda fountains",
+        "Libraries"
+      ],
+      "why": "Lesson 2 notes the rise of coffeehouses offsetting alcohol-centered taverns."
+    },
+    {
+      "q": "Who was the pharmacist who created Coca-Cola?",
+      "a": [
+        "John Pemberton",
+        "Joseph Priestley",
+        "Joseph Hawkins",
+        "Thomas Standage"
+      ],
+      "why": "Lesson 3 names John Pemberton as the Georgian pharmacist."
+    }
+  ]
+}

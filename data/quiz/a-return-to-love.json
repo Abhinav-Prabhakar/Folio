@@ -1,0 +1,56 @@
+{
+  "book": "a-return-to-love",
+  "title": "A Return To Love",
+  "questions": [
+    {
+      "q": "What does Williamson say is the root of all unhappiness?",
+      "a": [
+        "Fear",
+        "Loneliness",
+        "Poverty",
+        "Ambition"
+      ],
+      "why": "Lesson 1 says every cause of unhappiness comes back to fear."
+    },
+    {
+      "q": "According to lesson 1, what does economic stability in the workplace center on?",
+      "a": [
+        "Fear of losing out",
+        "Love of the job",
+        "Strong teamwork",
+        "Long-term savings"
+      ],
+      "why": "The summary says our economic stability centers around fear."
+    },
+    {
+      "q": "How should you approach your career, per lesson 2?",
+      "a": [
+        "Turn it over to a higher power to serve others",
+        "Follow the highest salary",
+        "Protect yourself first",
+        "Rely on your ego for direction"
+      ],
+      "why": "Lesson 2 says purpose in a career is helping make the world better."
+    },
+    {
+      "q": "What job did Williamson find purpose in despite difficulty?",
+      "a": [
+        "Cocktail waitress",
+        "Teacher",
+        "Nurse",
+        "Journalist"
+      ],
+      "why": "Lesson 2 mentions her time as a cocktail waitress."
+    },
+    {
+      "q": "Why might a grumpy person act mean, per lesson 3?",
+      "a": [
+        "They are shielding themselves from the pain of trauma",
+        "They dislike everyone",
+        "They want attention",
+        "They are overworked"
+      ],
+      "why": "Lesson 3 says mean people may just need empathy for past pain."
+    }
+  ]
+}

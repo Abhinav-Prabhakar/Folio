@@ -1,0 +1,56 @@
+{
+  "book": "a-peoples-history-of-the-united-states",
+  "title": "A People’s History Of The United States",
+  "questions": [
+    {
+      "q": "Whose perspective does Zinn's book take?",
+      "a": [
+        "The oppressed",
+        "The founding fathers",
+        "The military",
+        "The business class"
+      ],
+      "why": "The overview says it tells the story from the perspective of the oppressed."
+    },
+    {
+      "q": "What was the settlers' biggest fear, per lesson 1?",
+      "a": [
+        "Slaves and lower-class whites joining against the rich",
+        "Attacks by foreign navies",
+        "Crop failures",
+        "Disease"
+      ],
+      "why": "Lesson 1 says elites feared an alliance to overthrow them."
+    },
+    {
+      "q": "What share of the nation's wealth did the top 1 percent control by 1770?",
+      "a": [
+        "44 percent",
+        "10 percent",
+        "25 percent",
+        "70 percent"
+      ],
+      "why": "Lesson 1 gives 44 percent."
+    },
+    {
+      "q": "Why did Lincoln wage the Civil War, according to Zinn in lesson 2?",
+      "a": [
+        "To keep the Union together",
+        "To end slavery out of justice",
+        "To win new territory",
+        "To punish the South"
+      ],
+      "why": "Lesson 2 says it wasn't humanitarian but about the Union and interests."
+    },
+    {
+      "q": "What was Roosevelt mainly concerned about in World War II, per lesson 3?",
+      "a": [
+        "Resources and economic effects",
+        "Stopping dictators",
+        "Fighting racism",
+        "Territorial gain"
+      ],
+      "why": "Lesson 3 says his primary concern was resources the US depended on."
+    }
+  ]
+}

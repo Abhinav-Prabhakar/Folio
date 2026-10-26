@@ -1,0 +1,56 @@
+{
+  "book": "a-force-for-good",
+  "title": "A Force For Good",
+  "questions": [
+    {
+      "q": "What does the Dalai Lama see as humanity's missing trait?",
+      "a": [
+        "Compassion",
+        "Ambition",
+        "Intelligence",
+        "Discipline"
+      ],
+      "why": "The overview says compassion is the limiting factor for our species."
+    },
+    {
+      "q": "What question does lesson 1 say to ask when emotions rise?",
+      "a": [
+        "How proportionate is this emotion to the situation?",
+        "Who is to blame for this?",
+        "How can I respond fastest?",
+        "What would others do?"
+      ],
+      "why": "Lesson 1 suggests asking how well-proportioned your feelings are."
+    },
+    {
+      "q": "What does lesson 1 say about controlling versus suppressing feelings?",
+      "a": [
+        "Controlling helps decisions; suppressing causes outbursts",
+        "They are the same thing",
+        "Suppressing is healthier",
+        "Controlling leads to numbness"
+      ],
+      "why": "The lesson says controlling feelings isn't suppressing them."
+    },
+    {
+      "q": "Where does compassion come from, according to lesson 2?",
+      "a": [
+        "It's an innate human trait grounded in biology",
+        "It was invented by religions",
+        "It is learned in school",
+        "It comes from culture only"
+      ],
+      "why": "Lesson 2 says compassion is separate from religion and rooted in biology."
+    },
+    {
+      "q": "Which three principles guide putting compassion into action?",
+      "a": [
+        "Fairness, transparency, accountability",
+        "Patience, humility, generosity",
+        "Honesty, courage, gratitude",
+        "Kindness, loyalty, discipline"
+      ],
+      "why": "Lesson 3 lists fairness, transparency and accountability."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "a-mind-for-numbers",
+  "title": "A Mind For Numbers",
+  "questions": [
+    {
+      "q": "Which two modes of thinking does lesson 1 pair?",
+      "a": [
+        "Focused mode and diffuse mode",
+        "Logical mode and creative mode",
+        "Active mode and passive mode",
+        "Fast mode and slow mode"
+      ],
+      "why": "Lesson 1 says you need both modes plus rest."
+    },
+    {
+      "q": "What does lesson 2 say to focus on rather than outcomes?",
+      "a": [
+        "The process of learning",
+        "Test scores",
+        "Speed of progress",
+        "Comparisons with others"
+      ],
+      "why": "The lesson says process-based focus is more powerful."
+    },
+    {
+      "q": "What analogy does the author use for training for a marathon?",
+      "a": [
+        "Learning math and science takes gradual effort",
+        "Math is a sprint, not a marathon",
+        "Athletes learn faster",
+        "Pain means progress"
+      ],
+      "why": "Lesson 2 compares months of training to laying bricks of knowledge."
+    },
+    {
+      "q": "Why do people procrastinate on math homework, according to lesson 2?",
+      "a": [
+        "They focus on how boring and difficult it seems",
+        "They have too many deadlines",
+        "They lack the tools",
+        "They study too much"
+      ],
+      "why": "The summary ties procrastination to a focus on outcomes and discomfort."
+    },
+    {
+      "q": "What does the testing effect show?",
+      "a": [
+        "Taking tests improves learning",
+        "Tests only measure knowledge",
+        "Studying beats testing",
+        "Tests cause anxiety"
+      ],
+      "why": "Lesson 3 says each test is a valuable learning experience."
+    }
+  ]
+}

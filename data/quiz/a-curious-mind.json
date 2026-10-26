@@ -1,0 +1,56 @@
+{
+  "book": "a-curious-mind",
+  "title": "A Curious Mind",
+  "questions": [
+    {
+      "q": "According to lesson 1, who tends to win in business?",
+      "a": [
+        "Whoever is most curious",
+        "Whoever is most aggressive",
+        "Whoever has the most funding",
+        "Whoever works the longest hours"
+      ],
+      "why": "Lesson 1 states that in business the most curious person wins."
+    },
+    {
+      "q": "How does Brian Grazer lead his employees, per the summary?",
+      "a": [
+        "Mostly by asking questions",
+        "By issuing detailed instructions",
+        "By holding daily reviews",
+        "By setting strict targets"
+      ],
+      "why": "Lesson 1 says he leads mostly by asking rather than telling."
+    },
+    {
+      "q": "What does lesson 2 say about asking questions of loved ones?",
+      "a": [
+        "Everyone enjoys being asked, and there is much left to learn",
+        "Close family already know everything about you",
+        "Questions create arguments in relationships",
+        "Only strangers like to be questioned"
+      ],
+      "why": "Lesson 2 says people love being asked and there is lots to discover about those closest to you."
+    },
+    {
+      "q": "What rut do many couples fall into, per lesson 2?",
+      "a": [
+        "Brief small talk before the TV takes over",
+        "Arguing about money",
+        "Planning every weekend",
+        "Sharing all hobbies"
+      ],
+      "why": "The summary describes 'how was your day?' followed by TV."
+    },
+    {
+      "q": "When should you 'seal' your curiosity, according to lesson 3?",
+      "a": [
+        "When it's time to stop asking and start doing",
+        "Whenever you meet new people",
+        "During early-stage planning",
+        "While facing a creative block"
+      ],
+      "why": "Lesson 3 says there are times to become anti-curious and act, as Grazer did with Frost/Nixon."
+    }
+  ]
+}

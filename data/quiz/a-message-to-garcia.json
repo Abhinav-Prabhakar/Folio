@@ -1,0 +1,56 @@
+{
+  "book": "a-message-to-garcia",
+  "title": "A Message To Garcia",
+  "questions": [
+    {
+      "q": "Which war provides the story behind the title?",
+      "a": [
+        "The Spanish-American War",
+        "The Civil War",
+        "World War I",
+        "The Mexican-American War"
+      ],
+      "why": "The overview says the story is set in 1898."
+    },
+    {
+      "q": "What does lesson 1 say bosses value in employees?",
+      "a": [
+        "The ability to take a task and get it done without fuss",
+        "Constant questions for clarity",
+        "Strong loyalty to coworkers",
+        "Long work hours"
+      ],
+      "why": "Lesson 1 says employers value workers who can 'get a message to Garcia'."
+    },
+    {
+      "q": "What happens when you complain, per lesson 2?",
+      "a": [
+        "It reveals your own bad character and harms you",
+        "It helps solve problems",
+        "It gains sympathy at work",
+        "It improves team morale"
+      ],
+      "why": "Lesson 2 says complaining reflects poorly on you."
+    },
+    {
+      "q": "What advice is given for a job you dislike?",
+      "a": [
+        "Change your focus, or leave",
+        "Gossip to relieve stress",
+        "Work as little as possible",
+        "Wait for a new boss"
+      ],
+      "why": "The summary says if the job is so bad, leave."
+    },
+    {
+      "q": "What does Shawn Achor's finding say about success and happiness?",
+      "a": [
+        "Choosing happiness comes first and leads to success",
+        "Success always brings happiness",
+        "Happiness comes with wealth",
+        "Hard work removes happiness"
+      ],
+      "why": "Lesson 3 says the 'success causes happiness' idea is backwards."
+    }
+  ]
+}

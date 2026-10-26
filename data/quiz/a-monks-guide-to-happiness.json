@@ -1,0 +1,56 @@
+{
+  "book": "a-monks-guide-to-happiness",
+  "title": "A Monk’s Guide To Happiness",
+  "questions": [
+    {
+      "q": "Who is the Buddhist monk author of this book?",
+      "a": [
+        "Gelong Thubten",
+        "Thich Nhat Hanh",
+        "Pema Chodron",
+        "The Dalai Lama"
+      ],
+      "why": "The overview names Gelong Thubten."
+    },
+    {
+      "q": "According to the Lao Tzu quote, what does living in the present give you?",
+      "a": [
+        "Peace",
+        "Ambition",
+        "Wisdom",
+        "Wealth"
+      ],
+      "why": "The quote says you are at peace when living in the present."
+    },
+    {
+      "q": "According to the quote, what does living in the future cause?",
+      "a": [
+        "Anxiety",
+        "Depression",
+        "Anger",
+        "Boredom"
+      ],
+      "why": "It says anxious people are living in the future."
+    },
+    {
+      "q": "What is the first step toward more joy, per lesson 1?",
+      "a": [
+        "Knowing what happiness consists of",
+        "Planning your goals",
+        "Cutting out stress",
+        "Joining a meditation group"
+      ],
+      "why": "Lesson 1 says understanding happiness comes first."
+    },
+    {
+      "q": "What is the third step in the meditation method of lesson 3?",
+      "a": [
+        "Softly bring your thoughts back to your anchor",
+        "Count each breath to ten",
+        "Judge each distracting thought",
+        "End the session after one minute"
+      ],
+      "why": "Steps are: find an anchor, notice wandering, and gently return."
+    }
+  ]
+}

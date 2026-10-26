@@ -1,0 +1,56 @@
+{
+  "book": "a-vindication-of-the-rights-of-woman",
+  "title": "A Vindication Of The Rights Of Woman",
+  "questions": [
+    {
+      "q": "Who wrote A Vindication of the Rights of Woman?",
+      "a": [
+        "Mary Wollstonecraft",
+        "Jane Austen",
+        "Simone de Beauvoir",
+        "Virginia Woolf"
+      ],
+      "why": "The overview names Mary Wollstonecraft."
+    },
+    {
+      "q": "What does lesson 1 say about women's value?",
+      "a": [
+        "Women are as valuable as men and not second-class",
+        "Women's roles are best at home",
+        "Men should lead society",
+        "Women need protection first"
+      ],
+      "why": "Lesson 1 argues for equal value."
+    },
+    {
+      "q": "How does Wollstonecraft suggest girls should be educated?",
+      "a": [
+        "At public school alongside boys in the same subjects",
+        "At home with tutors",
+        "In separate schools",
+        "With a focus on manners"
+      ],
+      "why": "Lesson 2 says girls should attend public school with boys."
+    },
+    {
+      "q": "What does the summary say about girls' and boys' play?",
+      "a": [
+        "Girls are kept indoors with dolls while boys play outside",
+        "Both play the same games",
+        "Boys play indoors",
+        "Girls play more sports"
+      ],
+      "why": "Lesson 2 notes that the division builds different physiques."
+    },
+    {
+      "q": "Is her plea a call for women to overpower men?",
+      "a": [
+        "No, it would improve relationships and society for both",
+        "Yes, to correct past wrongs",
+        "Yes, through legal reform",
+        "No, it focuses only on education"
+      ],
+      "why": "Lesson 3 says equality would improve marriages and society."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "a-whole-new-mind",
+  "title": "A Whole New Mind",
+  "questions": [
+    {
+      "q": "What age does Pink say we are moving into?",
+      "a": [
+        "The Conceptual Age",
+        "The Digital Age",
+        "The Industrial Age",
+        "The Creative Age"
+      ],
+      "why": "Lesson 1 says we are moving from the Information Age into the Conceptual Age."
+    },
+    {
+      "q": "Which of these is one of the six senses of right-brain thinking?",
+      "a": [
+        "Symphony",
+        "Logic",
+        "Analysis",
+        "Speed"
+      ],
+      "why": "Lesson 1 lists design, story, symphony, empathy, play and meaning."
+    },
+    {
+      "q": "Why isn't knowing facts enough anymore, per lesson 2?",
+      "a": [
+        "Anyone can find facts online",
+        "Facts are often wrong",
+        "Facts are too complex",
+        "People prefer entertainment"
+      ],
+      "why": "Lesson 2 says facts are easy to find, so stories now persuade."
+    },
+    {
+      "q": "What example does the summary give of selling a 'why'?",
+      "a": [
+        "Advertising and consulting",
+        "Banking and law",
+        "Farming and mining",
+        "Engineering and accounting"
+      ],
+      "why": "Lesson 2 says advertising and consulting sell a why."
+    },
+    {
+      "q": "What skill gives humans an edge over AI, per lesson 3?",
+      "a": [
+        "Empathy",
+        "Speed",
+        "Memory",
+        "Calculation"
+      ],
+      "why": "Lesson 3 says emotional skills like empathy matter because machines can't replicate them."
+    }
+  ]
+}
