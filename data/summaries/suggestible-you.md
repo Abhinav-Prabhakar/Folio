@@ -22,7 +22,7 @@ You are going to read this summary and you are going to like it. Just kidding, t
 
 ## Lesson 1
 
-### The placebo effect is very real and it is a product of the power of suggestion.
+### The placebo effect is very real and it is a product of the power of suggestion
 
 When we take a drug for pain, we sometimes feel relief almost immediately. But in truth, most medications take about 15 or more minutes to kick in. This is like the placebo effect, the phenomenon when you experience benefits from a drug or treatment that doesn’t actually have any. In other words, your brain creates a benefit based on expectation.
 
@@ -38,7 +38,7 @@ However, studies show some people are more suggestible than others. So, if you�
 
 ## Lesson 2
 
-### We often make decisions based on suggestions and we don’t even realize it.
+### We often make decisions based on suggestions and we don’t even realize it
 
 Suggestibility affects many of the choices we make every day. Companies know this, and use it to make their products taste better to you. And no, I don’t mean that they just make them seem to taste better, they know that suggestion can make them actually taste better.
 
@@ -52,7 +52,7 @@ Expectation also plays a role in addiction where people get caught in an unfortu
 
 ## Lesson 3
 
-### If you want to improve your life, you can start taking advantage of the power of expectation.
+### If you want to improve your life, you can start taking advantage of the power of expectation
 
 By now, we understand the power of expectation and its ability to do some crazy things. Throughout history, ritualistic and faith healings have shown it can work. While some of their claims may be questionable, there is a way you can bring this power into your own life.
 
@@ -71,7 +71,5 @@ Next, make sure you don’t bankrupt yourself in a search for placebos. If someo
 ## Review
 
 *Suggestible You* has such fresh and intriguing ideas. What if the key to our health and happiness lies within our own brains? You will be amazed at what your mind does without you even realizing it. The book is full of captivating scientific facts and stories, I just wish it had a little more actionable advice.
-
-## Who it’s for
 
 The 26-year-old who has seen people be miraculously cured but has no explanation for it, the 49-year-old that is curious about why the body is so good at healing itself sometimes, and anyone that wants to know how their mind and body work.

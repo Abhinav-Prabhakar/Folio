@@ -18,7 +18,7 @@ I hope you know where your running shoes are, because we’re about to dash off 
 
 ## Lesson 1
 
-### The three elements of a sprint are a tight deadline, a team in one room and a good-enough prototype.
+### The three elements of a sprint are a tight deadline, a team in one room and a good-enough prototype
 
 Most good things are born out of necessity. Sprints are no different. The idea came to Jake when he had to come up with an important feature for Gmail, which would automatically sort messages. With just one month left on the clock, he had to innovate. Fast.
 
@@ -32,7 +32,7 @@ These three simple rules make sure that for each sprint, people get together, se
 
 ## Lesson 2
 
-### Reverse engineer your roadmap by focusing on the moment the user meets the product.
+### Reverse engineer your roadmap by focusing on the moment the user meets the product
 
 One of the first steps in your sprint is defining the challenge, a task whose success hinges on your ability to reverse engineer the end result. Savioke, a company who builds service robots, wanted to design a delivery robot for hotels, which could bring certain items to guests’ rooms and save the staff lots of time.
 
@@ -44,7 +44,7 @@ I love this approach and it’s already got my gears spinning about how I can im
 
 ## Lesson 3
 
-### Combine sketches of existing solutions to come up with something original and break down your project.
+### Combine sketches of existing solutions to come up with something original and break down your project
 
 Brainstorming alone might not be enough to succeed in a sprint, but it’s definitely a crucial part of the process. To make it easy, Jake suggests so-called *lightning demos*, in which each team member gets three minutes to present existing solutions to various parts of the problem you’re trying to solve.
 
@@ -62,7 +62,5 @@ After this exercise, you’ll already have a much better idea of what your solut
 Jake seems like a very good guy, and what an awesome concept he presents in *Sprint*. A month goes by really fast, but for startups and young businesses, 1/12th of a year is enough to drive the whole thing into a ditch. Imagine you did four sprints in one month instead. With feedback to four solid prototypes, you’re almost bound to find something you can expand on.
 
 It’s a long shot, but I’m excited about giving this approach a spin some day. Maybe I can even be part of a sprint Jake runs. But first, like him, I have to find my way to writing full-time.
-
-## Who it’s for
 
 The 24 year-old coffee startup founder, who just secured the first round of funding, the 47 year old VP of product development, who needs to keep releasing features quickly, and anyone who ever wasted a month toiling away at something that didn’t end up working in the real world.

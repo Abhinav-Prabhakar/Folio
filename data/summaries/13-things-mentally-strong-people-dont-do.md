@@ -14,11 +14,9 @@ The book expands on Amy Morin’s famous article on Lifehack, has become a bests
 
 I hope you’re ready for some serious mental exercise…brain lifts, here we go!
 
-### 13 Things Mentally Strong People Don’t Do Summary
-
 ## Lesson 1
 
-### Complaining that you’re not getting something you think you deserve is a waste of your energy.
+### Complaining that you’re not getting something you think you deserve is a waste of your energy
 
 Number 4 on Amy’s original list was **not wasting energy on things that are outside of your control**. This not only means not trying to change the weather, other people’s behavior, or the fact that you just got fired, but also not wasting energy complaining about it.
 
@@ -28,7 +26,7 @@ For example, if you get a divorce and your spouse gets custody of your daughter,
 
 ## Lesson 2
 
-### Kill your Facebook news feed and stop comparing yourself for a while.
+### Kill your Facebook news feed and stop comparing yourself for a while
 
 Let’s face it, scrolling down your Facebook feed only makes you feel dead inside. You’ve just gotten addicted to the little dopamine hits you get from finding something good every once in a while, that’s why you keep scrolling. Other than that, **you’re just poisoning your own well by indulging in all kinds of comparisons**.
 
@@ -40,7 +38,7 @@ Stop it. Eliminate your Facebook feed with a few clicks. Leave it for a week. Se
 
 ## Lesson 3
 
-### Finally learn to be okay with being alone.
+### Finally learn to be okay with being alone
 
 Speaking of content, there’s another thing Facebook can’t teach you. **It’s okay to be alone.** When was the last time you just sat on your chair, alone in your room, and did nothing? No phone, no reading, no TV, no music. Because that’s what being a human is.
 

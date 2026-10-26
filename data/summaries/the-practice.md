@@ -16,11 +16,9 @@ Therefore, let’s explore three of the best lessons this book has to offer and 
 
 Let’s explore these lessons in detail and learn everything there is to know about being a professional creative!
 
-### The Practice Summary
-
 ## Lesson 1
 
-### A creative professional sets their own pace and then shares it with the world when they’re ready.
+### A creative professional sets their own pace and then shares it with the world when they’re ready
 
 Having confidence in yourself as an artist is key! You’re never going to know if your ideas are good until you try them out, so don’t get discouraged just because others are far ahead in their journeys or you’re too hard on yourself.
 
@@ -34,7 +32,7 @@ If art is a career you want to pursue, you’ll have to get accustomed to sharin
 
 ## Lesson 2
 
-### Work on an actionable plan to fulfill your creative goals, but leave some room for course alterations.
+### Work on an actionable plan to fulfill your creative goals, but leave some room for course alterations
 
 If you want to be a creative professional, you’ll need to have a plan. Even if you don’t know for sure how you want to kick-start your artistic career, a blueprint for work won’t harm you. To start with, you’ll want to find an hour throughout the day that you dedicate toward work only.
 
@@ -46,7 +44,7 @@ Once you progress, you’ll want to pick clients that resonate with your inclina
 
 ## Lesson 3
 
-### Embrace your critics but aim to surround yourself with like-minded creative individuals.
+### Embrace your critics but aim to surround yourself with like-minded creative individuals
 
 It’s important to remember that criticism is not personal. Someone who criticizes your work must have a valid point, even if it stings. This is how you learn and grow as an artist. However, there are certain people who will always be negative, no matter what you do.
 
@@ -67,7 +65,5 @@ As a creative person, you’re bound to have critics, an artistic blockage like 
 Embrace your weaknesses and focus on your superpowers. Find people who will push you to become better. When your work is improving, learn to be proud of it, share it, and even monetize it.
 
 There are so many valuable lessons this book brings forth! I highly recommend reading it if you’re a creative professional or want to become one.
-
-## Who it’s for
 
 The 40-year-old who wants to quit their 9-5 and pursue their artistic dream, the 22-year-old young adult who wants to become a professional artist or the 37-year-old parent who wants to learn how to help their artistic child navigate the challenges of pursuing their passion.

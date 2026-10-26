@@ -1,6 +1,6 @@
 # 75 Hard
 
-> 75 Hard is a fitness challenge to improve your mental toughness by performing 5 habits for 75 days straight , including drinking a gallon of water, reading 10 pages of a non-fiction book, doing two 45-minute workouts, taking a progress picture, and following a diet.
+> 75 Hard is a fitness challenge to improve your mental toughness by performing 5 habits for 75 days straight, including drinking a gallon of water, reading 10 pages of a non-fiction book, doing two 45-minute workouts, taking a progress picture, and following a diet.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Let’s get into it and start developing mental toughness!
 
 ## Lesson 1
 
-### The key to happiness and getting anything you want is mental toughness, which is why Andy Frisella created 75 Hard.
+### The key to happiness and getting anything you want is mental toughness, which is why Andy Frisella created 75 Hard
 
 Andy Frisella didn’t have that exciting of a childhood. But he did have a supportive father who taught him mental toughness.
 
@@ -46,7 +46,7 @@ One day he had a guest that had completed 50 ironmans in 50 days in all 50 state
 
 ## Lesson 2
 
-### There are five critical tasks to complete every day for 75 days straight to complete the 75 Hard challenge.
+### There are five critical tasks to complete every day for 75 days straight to complete the 75 Hard challenge
 
 If you want to become mentally tough, you should take the 75 Hard challenge.
 
@@ -64,7 +64,7 @@ Oh, and if you miss one of these, you have to start over!
 
 ## Lesson 3
 
-### To finish the challenge, you need to be aware of and prepared for the eight “eras” of it.
+### To finish the challenge, you need to be aware of and prepared for the eight “eras” of it
 
 In the first 7-10 days of 75 Hard, you’re going to feel excited and learn a ton. I started realizing things about myself, my habits, and my excuses that I hadn’t ever considered, and it helped me improve.
 

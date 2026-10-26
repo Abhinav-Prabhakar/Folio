@@ -20,11 +20,9 @@ Here are some simple lessons and practices for 3 of our 5 senses that you can tr
 
 Ready to rediscover the incredible power of your senses? Let’s get to it!
 
-### Life in Five Senses Summary
-
 ## Lesson 1
 
-### Sight might be our most undervalued sense, and there are 5 ways we can fix this.
+### Sight might be our most undervalued sense, and there are 5 ways we can fix this
 
 As a writer, my odds of enjoying work into old age are decent. Arthritis? We’ve now got great dictation technology. But what if I go blind? That’d be a real wrench in the system. My eyes being my most important sense, I rest them whenever I can. I also try to appreciate my gift of sight whenever I look at a beautiful view.
 
@@ -40,7 +38,7 @@ There’s a difference between looking and truly seeing. Practicing these habits
 
 ## Lesson 2
 
-### Most of us are bad at smelling, but there are 3 simple exercise we can use to train our nose.
+### Most of us are bad at smelling, but there are 3 simple exercise we can use to train our nose
 
 If you’ve ever eaten a spoon of chocolate pudding while pinching your nose, you’ll know: Without smell, there can be no taste. We eat 3 times a day, yet, even with our noses un-pinched, many of us are bad at smelling. I struggle to identify fruit notes in wine, for example.
 
@@ -56,7 +54,7 @@ About that last one: Andy Warhol used to only wear perfumes for 3 months at a ti
 
 ## Lesson 3
 
-### Touch connects us to ourselves, the world, and others, and we can do 4 things to get the most out of it.
+### Touch connects us to ourselves, the world, and others, and we can do 4 things to get the most out of it
 
 We rarely consider it as such, but our skin is the biggest organ of all. Affecting the whole body, touch is a powerful social and emotional tool. There’s the touch that happens in the bedroom, of course, but also the firm handshake with a colleague that makes you feel proud or the comforting hugs from friends in times of need.
 

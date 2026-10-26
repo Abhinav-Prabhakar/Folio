@@ -20,7 +20,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### In a fragile democracy, fascism can easily find its way to the top.
+### In a fragile democracy, fascism can easily find its way to the top
 
 History is our best teacher. For this reason, we always have to look back and analyze. So let’s see how fascism rose to power to begin with. Mussolini once stated that taking hold of power is like plucking a live chicken – do it as quietly as possible, without anyone noticing.
 
@@ -34,7 +34,7 @@ Such tendencies can be observed in *“the land of the free’’,* for example.
 
 ## Lesson 2
 
-### Fascism is a recurring part of human history.
+### Fascism is a recurring part of human history
 
 Personalities like Hitler, Mussolini, or Stalin have painted the picture of fascism, nazism, and other atrocious doctrines. However, a quick look into the modern-day states can reveal more than we think. So let’s take a look!
 
@@ -50,7 +50,7 @@ Therefore, we can see how fascists rose to power by continuously promising to fi
 
 ## Lesson 3
 
-### Democracy’s advocates should be aware of its fragility and work towards preserving it.
+### Democracy’s advocates should be aware of its fragility and work towards preserving it
 
 Now we know how fascism looks like and how it can infiltrate even the finest layers of democracy. So we have to look for ways to prevent that from happening. And how to protect the most effective way of governance we’ve discovered so far.
 
@@ -67,7 +67,5 @@ Moreover, the world is facing a new issue: disinformation. With universal access
 ## Review
 
 Madeleine Albright offers her readers a complex view of extreme ideologies and how they rise to power. *Fascism* is more than just a historical overview. Rather, it’s a tool for combating a present-day threat. It is a must-read for everyone willing to educate themselves on protecting democracy and getting to know its enemies.
-
-## Who it’s for
 
 The history enthusiast, the person wanting to find out more about fascism and other far-right-wing ideologies, and citizens concerned about the political nature of the world.

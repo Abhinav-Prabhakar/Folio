@@ -20,7 +20,7 @@ Are you ready to learn from 15 of the biggest and best companies in America? Let
 
 ## Lesson 1
 
-### Top companies consistently focus on their customers.
+### Top companies consistently focus on their customers
 
 It’s no secret that focusing on customer satisfaction leads to success in business. But the methods and attitudes it takes to really delight someone with your product or service are a little more mysterious.
 
@@ -34,7 +34,7 @@ Another of the top 15, Proctor & Gamble, was the very first to have a toll-free 
 
 ## Lesson 2
 
-### Employees come first in the greatest businesses.
+### Employees come first in the greatest businesses
 
 It’s not just customers that get proper attention in the finest companies, but employees, too. Respect your employees by creating a people-centered working environment. **Expect great things from them, and invest your resources in their development.**
 
@@ -49,7 +49,7 @@ Instead of falling prey to these two problems, top companies were the first in t
 
 ## Lesson 3
 
-### Having clear and inspiring values powers excellence in the business world.
+### Having clear and inspiring values powers excellence in the business world
 
 While this idea may not be new to you, the power of value cannot be underestimated, regardless of how old it sounds. If the top 15 businesses in America are doing it to be successful, shouldn’t you also constantly review your company’s values?
 
@@ -64,7 +64,5 @@ One value that is useful in all types of companies is innovation. Technology com
 ## Review
 
 *In Search of Excellence* reminded me a lot of Jim Collins’ *Good to Great* because both books include extensive research into top company’s habits. It seems that a common theme throughout the book is to care more about people and values rather than numbers and profits. I’m excited to live in a world where only the companies who care the most perform the best, and the research shows that.
-
-## Who it’s for
 
 The 45-year-old CEO who is disappointed with the current economic and cultural state of their business, the 30-year-old who’s starting a company and wants to learn how to run it efficiently, and anyone who is interested in successful business management principles.

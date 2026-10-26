@@ -24,7 +24,7 @@ Now, let’s take a moment to explore these lessons in detail. Here we go!
 
 ## Lesson 1
 
-### To gain power, Mao Zedong aimed to become popular among peasants and women.
+### To gain power, Mao Zedong aimed to become popular among peasants and women
 
 Powerful dictators don’t just show up one day and take over their countries. Instead, they manipulate their people to view them as saviors ready to address all the problems they may have and fix the damage that was done before. As such, Mao focused on peasants and built communism by having them as his main audience.
 
@@ -38,7 +38,7 @@ Other people he was violent with were his opponents. However, he wasn’t afraid
 
 ## Lesson 2
 
-### Maoism had attempted to spread further, but other leaders didn’t agree with that.
+### Maoism had attempted to spread further, but other leaders didn’t agree with that
 
 At first, Mao had tensions with Russia. After Stalin died, the country went through a process of destalinization, which also implied getting rid of the cult of personality.
 
@@ -58,7 +58,7 @@ Still, bonding with the African leaders helped China get a spot in the UN seat w
 
 ## Lesson 3
 
-### Mao’s followers managed to keep his legacy alive.
+### Mao’s followers managed to keep his legacy alive
 
 Although people overall agreed that Maoism was a detrimental movement to humanity, and communism, in general, isn’t the proper way to govern a country, there are still people who identify with this ideology today.
 
@@ -75,7 +75,5 @@ The communist party in India also failed to continue, despite many followers try
 This book is perfect for all those who want to expand their knowledge and learn facts when it comes to the history of China and its political systems.
 
 The author exposes how Mao did everything to gain power, from manipulation to violence, and public disinformation.
-
-## Who it’s for
 
 The 50-year-old who is passionate about the history of China and its politics, the 30-year-old politician who wants to expand their knowledge in this domain, or the 23-year-old history student who wants to find out more about the Asian political systems.

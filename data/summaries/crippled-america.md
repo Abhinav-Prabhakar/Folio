@@ -20,7 +20,7 @@ Ready to learn something new about the 45th President of the United States? Let�
 
 ## Lesson 1
 
-### The media hates Trump and isn’t very fair or honest about him, but the bad publicity has been good for his campaign.
+### The media hates Trump and isn’t very fair or honest about him, but the bad publicity has been good for his campaign
 
 Even as a successful businessman way back in the 1980s Donald Trump got a lot of media attention. This continued even through his time on the reality TV show *The Apprentice*. But the moment he said he was running for president the press became unfair and inaccurate about their portrayal of him.
 
@@ -34,7 +34,7 @@ Although the attacks on him never cease, they also give his name and campaign th
 
 ## Lesson 2
 
-### A border wall between the US and Mexico might sound a little crazy, but the desire to protect your people isn’t.
+### A border wall between the US and Mexico might sound a little crazy, but the desire to protect your people isn’t
 
 A big piece of Trump’s message is the importance of cracking down on illegal immigration. He sees that building a border wall between the US and Mexico as the best way for this to happen. It will help make immigration policies better, which is currently posing a huge risk to American’s jobs and safety.
 
@@ -48,7 +48,7 @@ So this is where the border wall idea comes in. If China did it with 13,000 mile
 
 ## Lesson 3
 
-### Trump sees the importance of education and wants to make it better.
+### Trump sees the importance of education and wants to make it better
 
 After going to the best business school in the country, Trump knows how vital education is. His own experience attests to the importance of education for future success.
 
@@ -63,7 +63,5 @@ If the federal government gets its hands out of learning, it would also help cha
 ## Review
 
 Oooh boy. What can I say about one of the most controversial people that has ever lived? On the one hand, Trump is a pretty wild character and not the nicest person, which I don’t like. But considering some of what he’s said in *Crippled America*, it makes me understand a little better why he thinks the way he does.
-
-## Who it’s for
 
 The 45-year-old with an interest in politics, the 23-year-old who isn’t sure what to believe on the news about what Donald Trump really thinks, and anyone that wants to be an informed citizen.

@@ -20,11 +20,9 @@ Here are 3 lessons from the book to help you start yours:
 
 Are you ready for a ride into positivity? Then here’s your one-way ticket for *The Energy Bus*!
 
-### The Energy Bus Summary
-
 ## Lesson 1
 
-### Take control of your life with the E + P = O formula.
+### Take control of your life with the E + P = O formula
 
 The hero of this story is George. He works at a light bulb company and is in a similarly negative situation Jon was in several years ago. Worse, one Monday, his car breaks down and he finds out that, for the next two weeks, he’ll have to take the bus. What he doesn’t know is that from the moment he gets on, his life is about to change.
 
@@ -36,7 +34,7 @@ You can’t control everything that happens, but you can control what you *belie
 
 ## Lesson 2
 
-### Humans can sense enthusiasm from a distance and it’s what gets people on your bus.
+### Humans can sense enthusiasm from a distance and it’s what gets people on your bus
 
 The seventh rule is that enthusiasm is what’ll get other people to join you on your ride on the bus and motivate them as you travel through life. The word is originally Greek – entheos – and means “to be filled with the divine.”
 
@@ -48,7 +46,7 @@ So don’t just look for the positive, share it with others. We don’t always h
 
 ## Lesson 3
 
-### Love people. Make time to listen, recognize them as individuals, and appreciate their accomplishments.
+### Love people. Make time to listen, recognize them as individuals, and appreciate their accomplishments
 
 Every day he takes the bus, George learns a little more about life and becomes slightly more positive. Near the end of his journey, he’s rallying his team to work together and deliver a great product launch presentation, hoping they’ll catch his renewed spirit.
 
@@ -63,7 +61,5 @@ These are things you can do with any person you meet, be it someone at work, a d
 ## Review
 
 *The Energy Bus* is based on an idea that’s as old as language itself: stories move people. What I like about this one, in particular, is that it’s one continuous metaphor, not research sprinkled with the occasional example. The concepts are simple, but the way Jon presents them really makes me want to give them a try. He sure lives what he speaks!
-
-## Who it’s for
 
 The 25 year old college student about to graduate, who feels lost in life, the 58 year old manager, who’s burned out and lost sight of his purpose at work, and anyone who’s currently going through a major slump.

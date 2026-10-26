@@ -22,7 +22,7 @@ Breaking up will never be easier after reading this! Here we go!
 
 ## Lesson 1
 
-### There isn’t any shame in calling it quits on a relationship that isn’t healthy.
+### There isn’t any shame in calling it quits on a relationship that isn’t healthy
 
 Over the years we’ve come a long way in acceptance when it comes to love and marriage. But society is still very stuck on the notion that coupledom is the ultimate way to be successful. Most people feel it means security in finances and increased social acceptance. And, of course, people will stop asking when you’re going to get married again.
 
@@ -30,11 +30,11 @@ But if coupling up equals success, separation equals failure. It’s already har
 
 The thing is, “till death do us part,” as romantic as it sounds, isn’t really realistic for many modern couples. Traditionally, marriage has been for life. But though many outdated marital traditions have been left behind, this notion has stuck. Back when the promise of “till death do us part” was started in the fourteenth century, not only was life expectancy 40 years shorter, marriage was also much more of an economic proposition than about love.
 
-**“** Happily ever after” would be a lot easier to accomplish when “happily” meant economic security, and “ever after” was only a couple decades **.** So really, there shouldn’t be a shame behind separation. Other’s shouldn’t judge you, and you shouldn’t shame yourself! **The real shame is in clinging to outdated ideals that can prevent you from living the happy life you should.**
+**“**Happily ever after” would be a lot easier to accomplish when “happily” meant economic security, and “ever after” was only a couple decades**.** So really, there shouldn’t be a shame behind separation. Other’s shouldn’t judge you, and you shouldn’t shame yourself! **The real shame is in clinging to outdated ideals that can prevent you from living the happy life you should.**
 
 ## Lesson 2
 
-### In order to consciously uncouple, be loving, giving, and respectful during the breakup.
+### In order to consciously uncouple, be loving, giving, and respectful during the breakup
 
 Contrary to what the movies might portray, real-life breakups are complex. Often there are bitter arguments, grief, and rage. Even worse, both sides stoop to lows they have never before and do things intending to hurt the other person. But they don’t have to be this way.
 
@@ -46,7 +46,7 @@ When you consciously uncouple, you strive to make sure your actions will make fe
 
 ## Lesson 3
 
-### Conscious uncoupling can be done in five simple steps.
+### Conscious uncoupling can be done in five simple steps
 
 Here are the author’s five steps for making a breakup happen efficiently:
 
@@ -59,7 +59,5 @@ Here are the author’s five steps for making a breakup happen efficiently:
 ## Review
 
 What I really love about *Conscious Uncoupling* is that it identifies the hidden benefits of breaking up and gives the steps to do it efficiently. I’ve felt that freedom it describes when ending past relationships and it really can be something to look forward to when getting out of a bad relationship. If you’re in a difficult relationship that needs to end, do yourself a favor and pick up this book!
-
-## Who it’s for
 
 The 22-year-old who is in an abusive relationship and needs to get out, the 47-year-old that can’t get their last lover out of their head and doesn’t realize how it’s holding them back, and anyone that’s just recently broken up and is having a hard time dealing with it.

@@ -20,7 +20,7 @@ Ready for your daily dose of motivation to get you up and moving?! Here we go!
 
 ## Lesson 1
 
-### You can change, but you’ve got to begin by having the right mindset about it.
+### You can change, but you’ve got to begin by having the right mindset about it
 
 Do you remember the last time you failed miserably? Did you get back up and try again? Or was your attitude more one of “I can never change?”
 
@@ -34,7 +34,7 @@ Get a jar, and each time you are negative, put a dollar into it. Every time you 
 
 ## Lesson 2
 
-### Find out what your strengths are and do work that utilizes them, it will make you happier which will bring more success.
+### Find out what your strengths are and do work that utilizes them, it will make you happier which will bring more success
 
 I used to focus hard on fixing everything that I was really bad at. A lot of the time, I wasn’t very happy because I was ignoring my strengths. But the moment I let go of my weaknesses and had room to work on and with my strengths, everything changed.
 
@@ -50,7 +50,7 @@ To find out what you’re good at, try a Google search for quizzes and take a fe
 
 ## Lesson 3
 
-### Get really clear on your goals and start working on them by taking tiny steps.
+### Get really clear on your goals and start working on them by taking tiny steps
 
 You’ve got to get some goals if you don’t have some already. According to science, people with goals are happier than those who don’t. When you set your sights on your dreams, you have motivation, hope, and confidence that you don’t get otherwise.
 
@@ -69,7 +69,5 @@ That’s because it helps you stay consistent, which builds confidence. You’ll
 ## Review
 
 I really liked *Living In Your Top 1%* because it’s super inspiring! I mean, how can you hate a book that mentions both Carol Dweck *and* Martin Seligman?! These tips are going to really change my life and I’m confident they’ll do the same for yours.
-
-## Who it’s for
 
 The 28-year-old who is tired of living small and wants to reach their full potential, the 64-year-old who wants some inspiration, and anyone that wants some powerful motivation to stick to their goals!

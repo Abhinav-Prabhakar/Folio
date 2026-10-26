@@ -26,7 +26,7 @@ Let’s get right to it and help you find out how to become closer to your partn
 
 ## Lesson 1
 
-### Notice the patterns you follow when you begin blaming your significant other to have a healthier relationship.
+### Notice the patterns you follow when you begin blaming your significant other to have a healthier relationship
 
 Do you remember the ice bucket challenge? While dumping ice water on your head and donating to charity is a nice thing, cold water on a marriage isn’t so nice.
 
@@ -44,7 +44,7 @@ Once you know how these fights usually go it’s a lot easier to see how to chan
 
 ## Lesson 2
 
-### Emotional vulnerability is the only way to defeat the fights that start when your partner pushes your buttons.
+### Emotional vulnerability is the only way to defeat the fights that start when your partner pushes your buttons
 
 Have you ever said something to your spouse and out of nowhere they fly into a fit of rage? We judge these experiences harshly from our perspective because it seems so insignificant. But to them, it’s not.
 
@@ -62,7 +62,7 @@ Once you can see them clearly, you can open up emotionally to your partner. This
 
 ## Lesson 3
 
-### Look for the reasons a disconnect began when life challenges make it hard to stay united with each other.
+### Look for the reasons a disconnect began when life challenges make it hard to stay united with each other
 
 My wife and I have a rule that unless absolutely necessary, we don’t discuss important topics at night. That’s because they usually result in a bigger argument that we wake up the next day thinking was stupid.
 
@@ -79,7 +79,5 @@ For Claire and Peter, examining the origins of their frustrations with each othe
 ## Review
 
 As a married man, I found *Hold Me Tight* to be super helpful. It made me realize the parts of my relationship with my wife that are emotionally healthy and how to improve the areas that aren’t doing as well. This will be a game-changer book for all couples if they will be open and honest with themselves about what they learn from it!
-
-## Who it’s for
 
 The 22-year-old who just broke up with her boyfriend of three years, the 46-year-old couple that isn’t great at communicating, and anyone who constantly fights with their partner and wants to have a deeper and more peaceful relationship.

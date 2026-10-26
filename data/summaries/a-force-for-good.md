@@ -18,7 +18,7 @@ Want to recalibrate your compassion compass? Let’s make ourselves a force for 
 
 ## Lesson 1
 
-### You can control your emotions by asking yourself how well-proportioned they are for the situation.
+### You can control your emotions by asking yourself how well-proportioned they are for the situation
 
 One of the most important aspects when it comes to being mindful or having lots of willpower is being able to pause when emotions rise inside you. Feelings are the strongest motivators of human behavior, so whenever we feel strongly about something, we’re tempted to act on this feeling. However, this is often a short-circuit in our internal wiring, leading us to not consider the consequences of our actions well enough.
 
@@ -32,7 +32,7 @@ For example, if you’re angry that Donald Trump won the US presidency today and
 
 ## Lesson 2
 
-### Compassion wasn’t born out of religion, it’s an innate human trait.
+### Compassion wasn’t born out of religion, it’s an innate human trait
 
 There are countless fables, metaphors and religious stories that make a case for compassion, such as Jesus’s famous “turn the other cheek” or the zen story of the farmer who wouldn’t divide his days into lucky and unlucky ones.
 
@@ -44,7 +44,7 @@ First, even animals can be compassionate. Think of a dog keeping another dog com
 
 ## Lesson 3
 
-### Putting compassion into action every day means being fair, transparent and accountable.
+### Putting compassion into action every day means being fair, transparent and accountable
 
 All this talk about compassion is important, but it means nothing if you don’t put it into action. Living a compassionate life is a choice each and every single one of us can make, every single day, no matter what our background is, how much money we have (or don’t have) or where we live.
 
@@ -65,7 +65,5 @@ Accountability is just a logical consequence of transparency. Once you’ve admi
 ## Review
 
 I don’t see how anyone could come up with drawbacks or disadvantages of learning from a book like this. *A Force For Good* is a great encouragement to be a better, more positive human being, so however little you pick up, it will have a positive net impact. Highly recommended!
-
-## Who it’s for
 
 The 18 year old business student, who’s frustrated with her country’s politics, the 36 year old stock broker, who thinks you have to beat your competitors in business to win, and anyone who’s recently felt that they were being treated unfairly.

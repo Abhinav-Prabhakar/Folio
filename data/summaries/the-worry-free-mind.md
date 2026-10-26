@@ -22,7 +22,7 @@ Ready to find out how to have confidence in a world of uncertainty? Let’s get 
 
 ## Lesson 1
 
-### There are five frequencies of brainwaves and meditation helps you stay at the calmest frequency.
+### There are five frequencies of brainwaves and meditation helps you stay at the calmest frequency
 
 You can think of the brain kind of like a bike that has five gears. Each gear represents a different frequency that reflects your state of being at the moment. You change gears, sometimes in the blink of an eye, depending on the situation. Depending on what you’re thinking about, doing, or feeling, your neurons create brainwaves of different frequencies.
 
@@ -36,7 +36,7 @@ Research shows that meditation can help you bring the brain back down to alpha f
 
 ## Lesson 2
 
-### Some ways to ease your worries include going on walks and re-structuring how you view the future.
+### Some ways to ease your worries include going on walks and re-structuring how you view the future
 
 When we experience a cycle of stress, our mind’s ability to think rationally is impaired. Studies show that worried people have higher blood flow to the right side of the brain, away from the left side of rational thought.
 
@@ -50,7 +50,7 @@ So it helps to change the way you think about your future by training yourself t
 
 ## Lesson 3
 
-### Seek the source of your worry by asking the right questions so you can work through a solution.
+### Seek the source of your worry by asking the right questions so you can work through a solution
 
 Another way to help yourself get unstuck from a worry cycle is learning to neuro-repatterning, or changing your thoughts about certain situations. This is done in four steps.
 
@@ -63,7 +63,5 @@ Third, ask yourself, “What needs to happen so I can rid myself of this feeling
 ## Review
 
 *The Worry-Free Mind* is awesome! I love these ideas so much and they are so applicable right now. With the COVID-19 pandemic going on right now these tips can help so many people with this or anything they might be worried about!
-
-## Who it’s for
 
 The 37-year-old who suffers from anxiety but struggles to break the spiral downward, the 17-year-old that feels like they’re stuck in a rut of being afraid and can’t get out, and anyone who worries about anything.

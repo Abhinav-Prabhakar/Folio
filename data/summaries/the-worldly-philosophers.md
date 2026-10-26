@@ -20,7 +20,7 @@ Economics is not complicated. But it’s fun and relevant. Don’t believe me? L
 
 ## Lesson 1
 
-### Regardless of their theories, every economist wanted to find out the single best way to organize a society.
+### Regardless of their theories, every economist wanted to find out the single best way to organize a society
 
 Regardless of the theories they produced, every economist wanted to find out how to organize a society in the best way, economically and socially speaking.
 
@@ -36,7 +36,7 @@ The book looks at the ideas of Karl Marx, Adam Smith, John Stuart Mill, David Ri
 
 ## Lesson 2
 
-### Efficient markets are driven by profits, freedom of choice and effective institutions.
+### Efficient markets are driven by profits, freedom of choice and effective institutions
 
 History proves once again to be the teller of our present and future. And the best metric to analyze our actions and their consequences today. Actions of the past show how rulers who enforce their visions upon citizens and interfere with the economy and deemed to fall.
 
@@ -48,7 +48,7 @@ To build efficient markets, states should build the right legal structures and i
 
 ## Lesson 3
 
-### Adam Smith popularized a famous theory that is as relevant today as it was in 1776.
+### Adam Smith popularized a famous theory that is as relevant today as it was in 1776
 
 Many consider Adam Smith as the father of modern economics. That’s because he popularized a highly relevant piece of writing in 1776 titled “The Wealth of Nations”. This paper created a theory that provides a simple answer for how markets are highly efficient. And they regulate themselves through supply and demand.
 
@@ -63,7 +63,5 @@ This theory also states that societies will grow at their own pace. And that the
 *The Worldly Philosophers* covers the lives and works of many of the most influential economists in history, providing detailed biographical information about each one and explaining what their contributions were.
 
 It also provides an overview of how economic thought has developed over time and how it has affected our world. This book would be excellent for anyone who wants to learn more about how modern economics has evolved over time.
-
-## Who it’s for
 
 The 30-year-old person who is passionate about economics and the biographies of major influential figures in the economy, the 22-year-old student who wants to study outside their curricula, or the 34-year-old stock market investor who wants to gain a deeper understanding of the field by studying macroeconomics from its fundamentals.

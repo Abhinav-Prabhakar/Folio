@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### As the social platform rose to fame, political news media took advantage and it worked.
+### As the social platform rose to fame, political news media took advantage and it worked
 
 As the social media platform turned into a giant corporation, it became the target of many competitors. It also became the supreme tool of news companies. Articles that appeared in the media were reaching wider audiences using Facebook. And the companies behind them were happy to increase their traffic, authority, and margins.
 
@@ -30,7 +30,7 @@ The administration has publicly waived these accusations. But then the Cambridge
 
 ## Lesson 2
 
-### Facebook is a gold data mine and exploiting it puts profits over morals.
+### Facebook is a gold data mine and exploiting it puts profits over morals
 
 Similar to the Cambridge Analytica scandal, Facebook was involved in numerous political and legal public misconduct. Still, the company seems to be better than ever. The financial statements and stock prices are stable and growing. Meanwhile, the platform keeps attracting new users and monetizing the old ones.
 
@@ -44,7 +44,7 @@ The Center for Digital Democracy noticed Facebook’s growing exploitation of it
 
 ## Lesson 3
 
-### Facebook has many enemies due to its anti-competitive practices.
+### Facebook has many enemies due to its anti-competitive practices
 
 As we’ve seen, the reputation of Facebook from a business point of view revolves around lawsuits, scandals, and data privacy issues. To top it off, the company managed to enter a new territory: being accused of anti-competitive practices. **Despite being accustomed to negative press, Zuckerberg was shocked to find out that Chris Hughes, a co-founder, turned against him.**
 
@@ -57,7 +57,5 @@ Currently, the corporation doesn’t have many friends in Washington DC due to a
 ## Review
 
 *An Ugly Truth* reveals the legal and political affairs that Facebook works so hard to cover. The book dives deep into the controversy of data privacy and the Cambridge Analytica scandal. It also tackles the many wrongful practices associated with this corporation. The readers will gain an objective perspective on where Facebook stands in our society and where the company’s great power leads it to.
-
-## Who it’s for
 
 The internet user who is preoccupied about their data, the social media user who is curious about the nature of the platform they are using, or the political junkie addicted to scandals, social media, and internet news.

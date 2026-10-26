@@ -20,7 +20,7 @@ Got a novel inside you? A painting that wants to come out? Let’s get creative!
 
 ## Lesson 1
 
-### Let your fears coexist with your passions.
+### Let your fears coexist with your passions
 
 There’s a lot of talk out there these days that you “have to overcome your fears.” As if somehow, you could do something, and that would magically make them go away forever. That’s not the case. Steven Pressfield has shown us that artists who truly care will always have to face their fears, even long after they’ve become huge successes.
 
@@ -30,7 +30,7 @@ So, learn to let your fears and passions coexist, and it’ll help you move on a
 
 ## Lesson 2
 
-### Give yourself permission to create, even if you start at zero.
+### Give yourself permission to create, even if you start at zero
 
 The thought “I’m going to start a daily blog” sounds great in your head – for about 12 seconds. Then the fears and doubts kick in.
 
@@ -52,7 +52,7 @@ Announce to yourself and the world that **you’re here to chase your passion, r
 
 ## Lesson 3
 
-### Keep your day job to fuel your love affair with creativity.
+### Keep your day job to fuel your love affair with creativity
 
 We all know that one hipster guy or girl from high school, who’d spent his or her entire time writing songs and playing the guitar and now plays the bi-weekly show at a local pub, but never got a real job.
 
@@ -71,7 +71,5 @@ Nobody can guarantee you that you’ll be successful, and forcing yourself to cr
 I stumbled across this summary when it was recently added to Blinkist’s library. When a coaching client suggested it to me again, I thought I’d give it a shot. What a wonderful way of looking at creativity! Gilbert’s ideas are mostly common-sense, but the way she formulates them makes them ring powerfully inside your ears for weeks and months to come.
 
 It has an “it’s okay, I started small too” kind of vibe to it, which I think is something many many artists need to hear before even finding the courage to start. That’s why *Big Magic* is perfect in helping you do exactly that.
-
-## Who it’s for
 
 The 32 year old, who thinks she should have it all figured out by now, but is terrified by the fact that she hasn’t, the 43 year old Dad, who’s secretly in love with writing, but has never given himself permission to do so, and anyone who’s tried to turn their art into money and failed.

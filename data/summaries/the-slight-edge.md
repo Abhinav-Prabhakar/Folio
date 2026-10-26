@@ -62,6 +62,4 @@ Develop a plan: Once you’ve written down your goals, looked at them every day,
 
 Say goodbye to procrastination and work on your mindset to see your actions follow. Changing your life for the better starts from within, and this book will give you the right, actionable steps to begin that path. If you’re ready to make the change that you’ve been waiting for, I strongly recommend this book.
 
-## Who it’s for
-
 The 30-year-old who is looking to adopt healthier habits and become more productive, the 40-year-old who feels stuck and wants to turn their life around, or the 28-year-old entrepreneur who wants to become successful and build a long-lasting business.

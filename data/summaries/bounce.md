@@ -16,7 +16,7 @@ Let’s look at what it takes to be successful in detail!
 
 ## Lesson 1
 
-### When you practice a lot, 2 changes will make your brain more effective.
+### When you practice a lot, 2 changes will make your brain more effective
 
 Table tennis players often seem to have lightning fast reaction times, right?
 
@@ -36,7 +36,7 @@ Instead of wasting the resources of his prefrontal cortex on trying to get the b
 
 ## Lesson 2
 
-### You can be inspired to work hard by the most trivial details.
+### You can be inspired to work hard by the most trivial details
 
 Do you know the story of the 4 minute mile?
 
@@ -60,7 +60,7 @@ Syed calls this motivation by association. He says if we find even the slightest
 
 ## Lesson 3
 
-### You can tell yourself an event is not a big deal to avoid choking under pressure.
+### You can tell yourself an event is not a big deal to avoid choking under pressure
 
 What happened to Eminem when he finally got his shot to show everyone how good he was at rapping live on stage? He choked.
 
@@ -83,7 +83,5 @@ And sure enough, once he stopped giving a damn about the whole event or what eve
 I’m big on deliberate practice and so is *Bounce.* Naturally, we got along quite well. Syed also touches on related topics, such as having a fixed mindset and building confidence. Combine this with the reminder that you need incredible focus on one area from *Zero To One* yesterday, and you have a great recipe for success.
 
 I like the many examples this summary used and am sure there are many more in the book plus links to some of the studies Syed quotes, which are hard to find otherwise. Look at whether the summary on Blinkist strikes you and if it does, grab a copy of *Bounce*!
-
-## Who it’s for
 
 The 13 year old who is about to give up playing the piano, the 22 year old who loves his college football team, but is not quite sure he can make it into the NFL, and anyone who ever choked at an important event.

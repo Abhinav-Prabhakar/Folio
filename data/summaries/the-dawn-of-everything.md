@@ -16,11 +16,9 @@ Here are three of my favorite lessons from the book:
 
 Let’s learn more about the dawn of humanity by exploring these lessons in detail below!
 
-### The Dawn of Everything Summary
-
 ## Lesson 1
 
-### Philosophers and thinkers from the 17th and 18th centuries shaped much of what we know today about the world.
+### Philosophers and thinkers from the 17th and 18th centuries shaped much of what we know today about the world
 
 In the 18th century, Jean-Jacques Rousseau and Thomas Hobbes were two of the most prominent philosophers in Western Europe. Their views about humanity were completely opposed.
 
@@ -32,7 +30,7 @@ Historians thought that both these views are partially correct and that we are a
 
 ## Lesson 2
 
-### The idea of slavery didn’t sit well with many, yet the workforce needed to provide food fell on slaves.
+### The idea of slavery didn’t sit well with many, yet the workforce needed to provide food fell on slaves
 
 In the 15th century, the situation in Europe was dire. The Black Death had spread across the continent, killing over a third of its population. With so many people dead, there was a shortage of labor. This led to a popular idea: slavery.
 
@@ -44,7 +42,7 @@ However, many also felt that this way of life was too utopian to be true. **In t
 
 ## Lesson 3
 
-### Monarchies began gaining power by exercising their power in three ways.
+### Monarchies began gaining power by exercising their power in three ways
 
 Early kings relied on three principles: control of violence, control of information, and individual charisma. Otherwise, how would’ve they kept their power and authority? At the beginning of the monarchy, people still weren’t convinced that this is the direction they should be taking, but soon they were left with no choice.
 
@@ -61,7 +59,5 @@ Thirdly, they had great charisma. Rulers need to inspire the masses and be prese
 The book explores how early humans migrated out of Africa and across Europe; how they learned to make tools and build shelters; how they developed agriculture; how they created cities; how they developed writing systems; how they fought wars; how they rose up against oppression, and many more.
 
 I highly recommend it to anyone looking to widen their perspective on life and enjoy a put-together, well-written lecture.
-
-## Who it’s for
 
 The 35-year-old history enthusiast, the 40-year-old person who wants to learn more about the way humans evolved and the psychology of people, or the 20-year-old philosophy student who reads outside their curricula.

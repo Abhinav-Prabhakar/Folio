@@ -20,7 +20,7 @@ Are you ready to start making the best decisions for your family? Let’s learn!
 
 ## Lesson 1
 
-### The choices you should make as a parent are personal.
+### The choices you should make as a parent are personal
 
 Right from the moment your bundle of joy arrives you’ll have a lot of choices to make. And people are going to give you a lot of different, and often conflicting advice, whether you ask for it or not. But the problem is that there is no one right answer for everyone. This is where economics comes in.
 
@@ -34,7 +34,7 @@ There are non-monetary inputs too, such as giving up the personalized care of a 
 
 ## Lesson 2
 
-### Using economic reasoning, you can build a framework that will help you make parenting choices.
+### Using economic reasoning, you can build a framework that will help you make parenting choices
 
 Economic reasoning involves looking at trade-offs. These trade-offs depend on two principles called *opportunity cost* and *marginal value.* If you are trying to decide to stay at home with your child or go back to work, you need to decide whether or not to pay for childcare. If your salary is low and/or the cost of childcare is high in your area, you could lose money. Or maybe the difference in your salary minus childcare isn’t very much.
 
@@ -46,7 +46,7 @@ The risk of SIDS from co-sleeping is 0.14 for every 1,000 births. But in compari
 
 ## Lesson 3
 
-### You can use scientific studies to guide your decisions, but look for the right ones.
+### You can use scientific studies to guide your decisions, but look for the right ones
 
 Studies can be helpful in making decisions. But when searching out scientific data, be cautious of confounding variables-those extra variables unaccounted for that can affect the results.
 
@@ -63,7 +63,5 @@ You can also use observational studies if they are well conducted. **The larger 
 ## Review
 
 *Cribsheet* is an invaluable tool for anyone who has kids or wants kids. It prepares parents with the perfect framework that can help them make decisions that will be personalized to them and their circumstances. Her unique perspective is refreshingly objective, and her writing comes off as reassuring instead of condescending. By the time you’re done reading it, you will feel more confident to make the right decisions for your family.
-
-## Who it’s for
 
 The 29-year-old couple who is expecting their first child, the 33-year-old new mother contemplating whether or not she should go back to work, anyone who has kids or wants kids.

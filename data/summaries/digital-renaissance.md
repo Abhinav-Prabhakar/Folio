@@ -20,7 +20,7 @@ These takeaways might be a big deal, especially if you’ve been worried that po
 
 ## Lesson 1
 
-### Nobody knows anything when it comes to art.
+### Nobody knows anything when it comes to art
 
 Back before the internet, artists had to wait to “get discovered” before they could afford to support their crafts. Talent scouts and their employers poured vast amounts of money into identifying, developing, and marketing specially-chosen beneficiaries – the stars-to-be.
 
@@ -34,7 +34,7 @@ If the gatekeepers of culture are so often wrong about what will become successf
 
 ## Lesson 2
 
-### Digitization did disrupt the creative industries, but that isn’t a big problem.
+### Digitization did disrupt the creative industries, but that isn’t a big problem
 
 Usually, worker productivity gains are good news. But some people worry about the post-digitization creative industry trend that the services of fewer and fewer people are needed to produce the art consumers want.
 
@@ -50,7 +50,7 @@ Ultimately, more art can flow more easily into the hands of consumers through th
 
 ## Lesson 3
 
-### It’s time to change copyright law, which doesn’t fit digital culture.
+### It’s time to change copyright law, which doesn’t fit digital culture
 
 The original intent of copyright protection was to create an environment that allows creators to recoup and then profit from their creative works. After all, if artists can’t earn money, they can’t keep making art. And, for a while, this system worked.
 
@@ -63,7 +63,5 @@ Therefore, attempting to enforce copyright protections post-digital renaissance 
 ## Review
 
 Waldfogel has a way with both data analysis and words. *Digital Renaissance* manages to read easily, even while covering lots of dense territory and evidence. The balanced treatment of the costs, as well as the benefits of the digital renaissance, are refreshing at a time when sensationalism runs rampant. Even if you’re nostalgic for something about the cultural old days, it would be hard to maintain the position that digital culture is inherently bad after reading this book.
-
-## Who it’s for
 
 The 20-year-old amateur musician who wants to know what’s really happening in the industry, a 65-year old school teacher who worries that “kids these days” are consuming trashy art, and anyone who currently earns or would like to make money in a creative field.

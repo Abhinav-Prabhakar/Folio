@@ -18,7 +18,7 @@ Have a grand vision? Let’s get on executing it!
 
 ## Lesson 1
 
-### Let your customer service know no limits.
+### Let your customer service know no limits
 
 Amazon started with books. Initially, that’s all they sold. But they made sure it was **the best book buying experience you could possibly have**.
 
@@ -32,7 +32,7 @@ It is sure no bold claim to put “Our goal is to be earth’s most customer-cen
 
 ## Lesson 2
 
-### Don’t think tomorrow, don’t think next month, think 20 years from now.
+### Don’t think tomorrow, don’t think next month, think 20 years from now
 
 Jeff Bezos personally supports a project building a gigantic clock underground in Texas, which will run for 10,000 years. The arms of the clock will tick away centuries and millennia, providing visitors with a completely new perspective on time.
 
@@ -44,7 +44,7 @@ Whether in life or in business, don’t focus so much on the short-term, whether
 
 ## Lesson 3
 
-### D-I-Y. Do it yourself.
+### D-I-Y. Do it yourself
 
 Did you know that Amazon hands out a “Just Do It” award, giving the winner an old, worn out Nike basketball shoe in huge size. Being a rather symbolic award crowning the best idea (even if it failed), rather than the hardest work, it shows Amazon’s DIY policy.
 
@@ -63,7 +63,5 @@ Even the summary of *The Everything Store* takes you on an emotional rollercoast
 Amazon’s story is quite controversial and so is its founder, but the book manages to capture both the historic side of the path of Amazon’s success, as well as the quirks, ups and downs of human nature, that made it into what it is today.
 
 A truly fascinating book about a fascinating man and a company which will make it into many more people’s vocabulary within the next few decades.
-
-## Who it’s for
 
 The 31 year old with a vision for a company that wants to impact the whole world, the 61 year old who’s still on the lookout for “the golden ticket” to wealth, and anyone who’s ever ordered something on Amazon.

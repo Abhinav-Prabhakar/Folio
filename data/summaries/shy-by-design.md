@@ -22,7 +22,7 @@ Let’s learn how the quiet ones can thrive!
 
 ## Lesson 1
 
-### Use 5 conversation personas to become a better listener—and thus also better at speaking.
+### Use 5 conversation personas to become a better listener—and thus also better at speaking
 
 “Your problem isn’t speaking,” Michael’s speech therapist told him. “It’s that you don’t listen. You’re too caught up in what you’re going to say.” As a mostly silent guy who listened all the time, this was not what Mike wanted to hear.
 
@@ -42,7 +42,7 @@ Always lead with listening.
 
 ## Lesson 2
 
-### Consistently follow up with people in 4 easy ways to build and nurture your relationships.
+### Consistently follow up with people in 4 easy ways to build and nurture your relationships
 
 I’ll never forget the day my hero, Seth Godin, sent me an email out of the blue. “Keep writing,” he said. “Go go go!” The reason he sent it? “Michael shared your Medium post with me.”
 
@@ -57,7 +57,7 @@ I’ll never forget the day my hero, Seth Godin, sent me an email out of the blu
 
 ## Lesson 3
 
-### Remind yourself that you can do scary things with a Boldness list and the AAA framework.
+### Remind yourself that you can do scary things with a Boldness list and the AAA framework
 
 After retiring, Mike’s dad walked the Camino de Santiago at 73 years old. When he dropped him off at the train station, the man he’d always known as a rock of confidence suddenly said: “This is the most scared I’ve ever been.” It was a raw but beautiful moment of vulnerability.
 
@@ -78,7 +78,5 @@ Remember these tools the next time you embark on a daunting adventure, and you�
 ## Review
 
 I’ve been friends with the author for years, and I even appear here and there in the book. Biased or not, however, I believe that *Shy by Design* is a wonderful mix of honest biography, fascinating stories, and grounded, thoughtful advice. If you’re an introvert trying to get by in our noisy, extroverted world, don’t miss this book.
-
-## Who it’s for
 
 The 15-year-old nerd with a stutter who already feels like an outsider in high school, the 28-year-old young professional who just joined an extremely extrovert-focused company, and anyone who wants to stand out without being constantly hyper.

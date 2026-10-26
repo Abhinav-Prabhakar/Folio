@@ -22,7 +22,7 @@ Let’s get right to it and get learning!
 
 ## Lesson 1
 
-### At the height of the Northern Ireland Conflict, Jean McConville mysteriously disappeared.
+### At the height of the Northern Ireland Conflict, Jean McConville mysteriously disappeared
 
 38-year-old Jean McConville had a tough life, to begin with. She had given birth to 14 children and lost four of them. Her husband had recently died of lung cancer, leaving her to raise her ten children alone with little money in a small, deteriorating home.
 
@@ -54,7 +54,7 @@ As the sisters deteriorated rapidly, the British Government started to worry. Th
 
 ## Lesson 3
 
-### 31 years later, Jean McConville’s body is still nowhere to be found.
+### 31 years later, Jean McConville’s body is still nowhere to be found
 
 In the midst of all the violence, the children of Jean McConville still searched for answers. Finally, after the conflicts ended in the late 1990s, they got an answer. Members of the IRA were interviewed as part of a project for Boston College.
 
@@ -69,7 +69,5 @@ They decided she should permanently disappear, making it impossible to link the 
 ## Review
 
 Well, this makes for yet another crazy historical event and story that I’ve never heard of! *Say Nothing* is tragic and eye-opening. I flew over Ireland once on my way to England, and that’s about all I’ve ever remembered about it, but after reading this book, I’ll probably remember a lot more!
-
-## Who it’s for
 
 The 65-year-old history buff who doesn’t know much about recent events in Europe, the 34-year-old mom who loves true crime stories, and anyone that’s curious to hear an interesting and terrible story.

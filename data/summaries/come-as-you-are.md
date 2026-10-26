@@ -20,7 +20,7 @@ Let’s get right into these lessons!
 
 ## Lesson 1
 
-### You have needs as unique as your sexual personality, and that’s okay.
+### You have needs as unique as your sexual personality, and that’s okay
 
 The author had a patient named Laurie who, after having a baby, lost all desire for sex with her husband. She did, however, enjoy pleasuring herself. The problem was that she began to feel bad for not wanting penetrative sex.
 
@@ -36,7 +36,7 @@ One of the author’s clients, Camilla, for instance, didn’t feel any arousal 
 
 ## Lesson 2
 
-### Stress smothers your desire for sex.
+### Stress smothers your desire for sex
 
 Say your partner comes to visit you while you’re at work. You’re both turned on and can’t wait to get to a private place together. But as you’re rushing for that closet you know is always empty, you turn the corner and find your boss staring you down.
 
@@ -52,7 +52,7 @@ Unfortunately, those who’ve been through sexual trauma have it a little more d
 
 ## Lesson 3
 
-### Your sex life will be worse if you don’t pay careful attention to what media you consume.
+### Your sex life will be worse if you don’t pay careful attention to what media you consume
 
 It’s hard not to peek at the smutty fashion magazines as you’re in the checkout line at the grocery store, right? And even if you’re a millennial like me who rarely goes to the store because of delivery services, you still get exposure to the dangerous world of pop culture messages that harm your sex life.
 
@@ -71,7 +71,5 @@ So be gentle with yourself, love your body, and courageously conquer any feeling
 ## Review
 
 The thing I hate about sex is that nobody ever talks about it, which means that most people have really terrible sex lives. But what’s nice is that *Come As You Are* will help you fix that, as long as you can get past the social stigma enough to buy a copy and read it yourself! If you want to improve your relationships and learn to love yourself better, whether you’re a woman or a man, this book is for you!
-
-## Who it’s for
 
 The 22-year-old newly married man that wants to know how to satisfy his wife, the 37-year-old mother who thinks that her sex life is hopeless because she has kids, and anyone that wants to understand the science of sexuality so they can have more frequent and better sex.

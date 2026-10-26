@@ -20,7 +20,7 @@ Let’s dive right into these lessons and figure out how to win by being excelle
 
 ## Lesson 1
 
-### Talk with people a lot and don’t be afraid to ask when you need something, even if it seems like a longshot.
+### Talk with people a lot and don’t be afraid to ask when you need something, even if it seems like a longshot
 
 Imagine you’re walking down the row to the stage to accept a prestigious award for your work. You might be thinking of the people without whom you’d never have gotten to this point.
 
@@ -40,7 +40,7 @@ After a failed attempt asking at the local JC Penney store, he called Mr. Penney
 
 ## Lesson 2
 
-### Don’t be afraid to connect with people dissimilar you and start to build your network of people you like as soon as possible.
+### Don’t be afraid to connect with people dissimilar you and start to build your network of people you like as soon as possible
 
 Which do you think is better, having a lot of acquaintances, or having a few close friends? While being popular sounds nice, when it comes to success, it’s best to nurture relationships with a small group of people.
 
@@ -58,7 +58,7 @@ Think of the charismatic salesman Steve Jobs and the technically brilliant Steve
 
 ## Lesson 3
 
-### Help other people reach their goals and believe in them to deepen your connections.
+### Help other people reach their goals and believe in them to deepen your connections
 
 If you’re like me, the word networking makes you a little sick. And for good reason. Most people use it when thinking only about how they can benefit from others.
 
@@ -77,7 +77,5 @@ And remember, your good acts toward others will always come around to benefit yo
 ## Review
 
 I loved *Power Relationships* and I’m certain you will too. I think the best part for me was hearing all the inspiring stories of people being excellent to each other. Those and the tips the book gives motivated me to be better to everyone, not just those that I’m connected with for work.
-
-## Who it’s for
 
 The 57-year-old CEO that wants to do better at taking care of individuals, the 23-year-old who is starting their career and is looking forward to making some great connections along the way, and anyone that wants to see how being awesome to other people will grow their network and opportunities.

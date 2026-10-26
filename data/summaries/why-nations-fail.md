@@ -18,11 +18,9 @@ Here are just 3 of the many eye-opening lessons I got from this book
 
 Let’s get right to it and see what we can discover about inequality!
 
-### Why Nations Fail Summary
-
 ## Lesson 1
 
-### If you want to explain why two countries can have such different living standards, just look at the institutions they have put in place.
+### If you want to explain why two countries can have such different living standards, just look at the institutions they have put in place
 
 Forget age-old theories that some countries struggle economically because of their location. There are far too many countries next to each other that have different living standards to prove this as false.
 
@@ -36,7 +34,7 @@ An extractive economic institution receives income from one group in society for
 
 ## Lesson 2
 
-### One event can mean a country takes an entirely different institutional path, changing the course of its future.
+### One event can mean a country takes an entirely different institutional path, changing the course of its future
 
 In the mid-fourteenth century, the Black Death took almost half of Europe’s population. **This was an event influential enough to overturn the sociopolitical balance of a nation or continent.**
 
@@ -50,7 +48,7 @@ We saw a similar institutional drift when global trade expanded, and the British
 
 ## Lesson 3
 
-### Stopping the cycle of poverty can be extremely hard, but it isn’t impossible.
+### Stopping the cycle of poverty can be extremely hard, but it isn’t impossible
 
 We know that events in history can change the course of a country’s future. But what can countries do to fix the extractive institutions they have in place?
 
@@ -69,7 +67,5 @@ Ever since Brazil broke that cycle, it has seen a huge rise in prosperity. In fa
 ## Review
 
 *Why Nations Fail* will change the way you see the world. I never realized that such simple differences in institutions could mean such drastic differences in standards of living. I think this is an extremely important book that everyone can learn something from.
-
-## Who it’s for
 
 The 56-year-old who hasn’t even been able to figure out why some countries prosper while others stay poor, the 19-year-old who is majoring in political science, and everyone who wonders how we can end the awful pandemic of inequality.

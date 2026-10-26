@@ -20,21 +20,19 @@ Here are the 3 biggest lessons I’ve learned from this book:
 
 Let’s get up and get started!
 
-### The 5 AM Club Summary
-
 ## Lesson 1
 
-### If you want to be successful, give your brain an advantage by waking up at 5 a.m.
+### If you want to be successful, give your brain an advantage by waking up at 5 a.m
 
 The billionaire tells the artist and entrepreneur that he has the key to their success. When they arrive to meet him early the next morning, his first lesson is that waking up at 5 a.m. will give your brain the advantage to succeed throughout the day.
 
 Our minds have a limited amount of “bandwidth.” When we fill our day with social media, interactions with those around us, television, and so on, we fill this bandwidth to the point that we can’t take in anything more before the day is even over. If you wake up at 5 a.m., you will find you can focus on one thing without these distractions and accomplish much more.
 
-Our brain chemistry is different early in the morning. **The brain’s prefrontal cortex, orthat part of you that makes you worry or analyze things over and over, is temporarily shut down in the peaceful early hours**. The tranquility at daybreak also has been shown to increase dopamine and serotonin, helping you feel energized and at peace. What an awesome way to start your day!
+Our brain chemistry is different early in the morning. **The brain’s prefrontal cortex, or that part of you that makes you worry or analyze things over and over, is temporarily shut down in the peaceful early hours**. The tranquility at daybreak also has been shown to increase dopamine and serotonin, helping you feel energized and at peace. What an awesome way to start your day!
 
 ## Lesson 2
 
-### Find balance in all four “interior empires” to find self-mastery.
+### Find balance in all four “interior empires” to find self-mastery
 
 Here’s another valuable lesson about success: don’t just focus on mindset. While thinking optimistic thoughts will help you, there are three other “interior empires” when trying to find balance.
 
@@ -50,7 +48,7 @@ Apply all these in the peaceful time we make at 5 a.m., and you will be well on 
 
 ## Lesson 3
 
-### Use the 20/20/20 formula to set your day up for success.
+### Use the 20/20/20 formula to set your day up for success
 
 By now you may be wondering if it’s so important to wake up at 5 a.m. What should I do when I’m up so early? It’s entirely possible to wake up this early and waste the extra time by using it to watch the news or scroll through social media.
 
@@ -65,7 +63,5 @@ Finally, make time to learn. Instead of wasting time on useless entertainment, s
 ## Review
 
 If you’re want to take your life to the next level, a great morning routine is the way to do it. *The 5 AM Club* delivers exactly that, complete with instructions and an amazing story to make them stick. If you aren’t a morning person, listen to what Robin Sharma has to say!
-
-## Who it’s for
 
 The 18-year-old filled with ambitions to become their best self, the 42-year-old office worker that feels as if they can reach a higher level of performance every day, and everyone who wants to start their day with energy and positivity.

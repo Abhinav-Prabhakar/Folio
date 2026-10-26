@@ -18,11 +18,9 @@ Here are my 3 lessons from the book:
 
 Let’s see how the future is made!
 
-### Zero To One Summary
-
 ## Lesson 1
 
-### The biggest leaps in progress are vertical, not horizontal.
+### The biggest leaps in progress are vertical, not horizontal
 
 Can you imagine what the year 2200 will look like? It’s hard, isn’t it? That’s because you know the world is making tremendous progress every year, but it’s almost impossible to know what that will look like.
 
@@ -38,7 +36,7 @@ These are the kinds of questions you should concern yourself with if you want to
 
 ## Lesson 2
 
-### Monopolies aren’t bad. They’re good. For business, and society.
+### Monopolies aren’t bad. They’re good. For business, and society
 
 How often have you complained about something not working the way you want it on a Windows computer? Don’t tell me, I’ve been a Microsoft user, I know. With 75% of the market running on Windows, they’re pretty much a monopoly – but is that really a bad thing?
 
@@ -50,7 +48,7 @@ And society should love it, because if ever someone came along and did beat Goog
 
 ## Lesson 3
 
-### If the founders don’t have a vision, a company can never go from zero to one.
+### If the founders don’t have a vision, a company can never go from zero to one
 
 But building a monopoly surely doesn’t happen over night. Thiel and a 50 person Paypal team spent years getting it to a place where it was the number one payment processor used by ebay customers, so they could finally leverage their monopoly position into selling the company.
 
@@ -69,7 +67,5 @@ So think big. As they say: “Shoot for the moon. Even if you miss it, you’ll 
 I always wonder what the best approach to success is. Do you start small, build something, then make it a little bigger next time, and iterate year after year, until you have something big? Or do you go straight for the top?
 
 It seems like if you develop the mindset for the latter, you’ll end up playing in an entirely different league right from the start. A radical and eye-opening book, let the summary hook you and the book then convince you. Should you have even the slightest entrepreneurial inclination, then it’s time you learn how to go from *Zero To One*.
-
-## Who it’s for
 
 The 22 year old with a grand idea, but not much support from friends and family, the 48 year old CTO, with a focus on 1-to-n and anyone who studies economics.

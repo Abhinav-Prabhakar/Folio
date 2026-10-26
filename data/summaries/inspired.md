@@ -54,6 +54,4 @@ If the idea goes through, the team can get to work. However, sometimes this stag
 
 *Inspired* teaches product managers to create successful products by enabling winning teams and organizing roles accordingly. The book teaches its readers what are the characteristics of a feasible, usable, and valuable product, and how to make sure any team is successful at creating it by following a series of key steps and emphasizing different crucial stages of creation, like prototyping, communicating between team members, testing, and many more! Reading this book will help anyone create an organized and efficient team with clearly defined roles and create a great product that the consumers need and want.
 
-## Who it’s for
-
 The 35-year-old product manager who wants to take on a new project at work, the 40-year-old management teacher who wants to expand their practical knowledge in the field, or the 25-year-old graduate who’s passionate about project management, product development, or any related fields.

@@ -20,17 +20,17 @@ To fully comprehend these lessons, we must first take them one by one and see wh
 
 ## Lesson 1
 
-### Hit the relationship gym consistently just as you would hit a regular gym.
+### Hit the relationship gym consistently just as you would hit a regular gym
 
 The authors suggest that relationships work can be associated with our workout routines at the gym. A successful marriage requires constantly showing up, improving the weaker areas, and doing so, continuing to keep on seeing results. When you get to see the positive effects of the excellent routine you’ve followed, you’ll keep on wanting to follow it through.
 
-**The same goes for a marriage. When you see how certain things function well for you and your partner, you’ll want to introduce those in your*“routine”*frequently.** For example, let’s say you find that you reconnect with your partner best if you go on a weekly date. Therefore, make it a habit and stick to it. Doing so will help you bond and keep the love alive. After all, it’s effortless to fall in love but more difficult to stay that way.
+**The same goes for a marriage. When you see how certain things function well for you and your partner, you’ll want to introduce those in your *“routine”* frequently.** For example, let’s say you find that you reconnect with your partner best if you go on a weekly date. Therefore, make it a habit and stick to it. Doing so will help you bond and keep the love alive. After all, it’s effortless to fall in love but more difficult to stay that way.
 
 The philosophy behind this concept goes back to ancient times. Stoics believed in the idea of pursuing a good habit consistently, till you find pleasure in doing it and they become essentially the same thing, or as they say – *“until the will to good becomes a disposition to good.”* Make it a habit to care for your partner and actively spend time and create memories with them, and have them compete with your level of dedication to make a beautiful and natural way of living with each other.
 
 ## Lesson 2
 
-### Use the SNAP technique to optimize your relationship.
+### Use the SNAP technique to optimize your relationship
 
 To transform your relationship for the better, the authors developed a formula for success – SNAP. These acronyms come from four principles that everyone should implement in their relationship:
 
@@ -47,7 +47,7 @@ Always act means satisfying our intentions to follow the proper habits. Even if 
 
 ## Lesson 3
 
-### Use the VIA survey and commit to your partner publicly to take your relationship to the next level.
+### Use the VIA survey and commit to your partner publicly to take your relationship to the next level
 
 To explain their ideal of love, the authors went far back in time to borrow some ideas and expressions for their concept. Hence, their soulmate concept is anchored in eudaimonia, which means good spirit. This word describes a state of blessedness, good fortune, contentment, and pure joy. **To reach this state of being, Aristotle states that we must find a person to share it with and help them flourish in life while they help us do the same.**
 
@@ -58,7 +58,5 @@ Lastly, the authors suggest that love is an action verb and that the partners’
 ## Review
 
 *Happy Together* is a book for all those who believe in soulmates, in pursuing an ideal of love, and want to get first-hand advice from psychologists who are well-versed in this domain. The readers of this book will learn the traits of good love, and the importance of establishing a healthy form of communication with their partner. Also, readers will learn how to create and maintain a beautiful, long-lasting relationship. The universal truths presented are enough to make this book an evergreen piece. Still, the touch of psychologists with high levels of expertise in this domain is undoubtedly a great bonus.
-
-## Who it’s for
 
 The 10-year-old couples who are looking to reconnect with each other and fortify their relationship. This is for the 24-year-old person who’s considering getting married soon. This can be also for the 30-year-old hopeless romantic who is looking to identify their ideal of love and pursue it.

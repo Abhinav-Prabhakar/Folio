@@ -16,11 +16,9 @@ For now, let’s explore my three favorite lessons from the book:
 
 It’s time for us to explore these lessons in detail and focus on the important part of the summary: what do these three little titles really mean? Let’s see!
 
-### Indistractable Summary
-
 ## Lesson 1
 
-### Keep distractions in control by observing them objectively and assessing them.
+### Keep distractions in control by observing them objectively and assessing them
 
 We all get distracted – there’s no question about that. While you may think that your phone or other gadgets you own may be the cause of your distraction, it’s all rooted deeper inside you. In fact, your triggers wired within are the reason you look for distraction.
 
@@ -30,7 +28,7 @@ Let’s put it this way: if you didn’t have your phone, you’d probably be co
 
 ## Lesson 2
 
-### Use timeboxing to set intervals of work and increase productivity.
+### Use timeboxing to set intervals of work and increase productivity
 
 Planning is an extremely important step on your way to success. Without a strategic approach, how can you know if you’re on track or not? For this reason, timeboxing is a great approach to achieving goals. Here’s how it works: You allocate a specific time frame to accomplish a task each week and try your best to avoid distractions in that specific time.
 
@@ -40,7 +38,7 @@ Let’s say you’re writing a book, but fail to coordinate your time and end up
 
 ## Lesson 3
 
-### Making little deals with yourself can help you stay on track, as long as you keep them.
+### Making little deals with yourself can help you stay on track, as long as you keep them
 
 The author discovered a powerful way to stay on track – self-made pacts! Although this little trick can get a bit uncomfortable at times, it’s a sure way to successfully complete your tasks, but only as long as you keep your word to yourself. So, what’s the catch? Give yourself a fine! That’s right – every time you get off track, miss a gym session, go a working day without work, and so on, the author burns a 100$ bill. You could also donate it, but you get the idea!
 
@@ -51,7 +49,5 @@ The third way of making a pact with yourself is through the identity pact, meani
 ## Review
 
 *Indistractable* talks about the devastating effects that technology, our indispensable devices, and the urge to procrastinate have on our life. By optimizing the way we work, balancing our lives, and combating distractions, we can become more productive while still having time for self-care. From small acts of change, like organizing your desktop and email, to changing the way you manage your time, this book will make you indistractable!
-
-## Who it’s for
 
 The 30-year-old person who wants to learn how to optimize their time, the 20-year-old student who can’t focus on their studies, and any concerned parent who wants to educate their children by example.

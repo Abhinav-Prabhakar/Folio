@@ -14,7 +14,7 @@ He knew going in, that what he was about to experience would be vastly different
 
 ## Lesson 1
 
-### Hire the right people and train them the minute they join the company.
+### Hire the right people and train them the minute they join the company
 
 “If you had 1 hour to fill this entire room with sand, what would you do?”
 
@@ -32,7 +32,7 @@ So once you hire someone, make sure you train them instantly to align them with 
 
 ## Lesson 2
 
-### Let people implement their ideas without a filter.
+### Let people implement their ideas without a filter
 
 Here’s how ideas go to die: You come up with an awesome new category for your company’s website. Your boss tells you to sketch it out on paper. When you hand him the sketch, he starts scribbling around in it.
 
@@ -71,7 +71,5 @@ It’s fascinating to see how some startups can maintain an incredible flexible 
 All I’m waiting for is to see old giants, like Procter & Gamble, BMW or Coca Cola implement practices like these – I think whoever does so first will be at a huge advantage in the coming decades.
 
 The summary on Blinkist was packed with actionable and uncommon advice, I highly recommend it. If you’re really keen to learn more about the future of work, get *The Year Without Pants*, Scott’s stories are priceless and nothing shy of visionary.
-
-## Who it’s for
 
 The 27 year old with an itch to start his own company, the 36 year old manager at an older, bigger corporation, who would love to change up common practices, and anyone who’s never worked in a coffee shop before.

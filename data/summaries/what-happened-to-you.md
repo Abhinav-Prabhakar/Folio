@@ -18,11 +18,9 @@ Here are 3 of the most insightful lessons from this book:
 
 Let’s get right into these lessons and learn from Oprah!
 
-### What Happened To You Summary
-
 ## Lesson 1
 
-### Our brains are uniquely shaped by the experiences that we have during childhood.
+### Our brains are uniquely shaped by the experiences that we have during childhood
 
 Early on in Oprah’s life, she remembers feeling intensely lonely. She knew that she wasn’t wanted. Her mom was only a teenager when she had her, and she didn’t have the resources to care for her adequately. Most of her childhood was spent with various family members, many of whom neglected and beat Oprah regularly.
 
@@ -38,7 +36,7 @@ If we want to understand trauma, we need to ask: What happened to you, specifica
 
 ## Lesson 2
 
-### Learning regulation strategies can help you heal from trauma.
+### Learning regulation strategies can help you heal from trauma
 
 Early in her career as a journalist, Oprah often worked 100-hour weeks and was always exhausted. She ignored the signals her body sent to tell her something was wrong. Why? The abuse in her past had trained her to be a people-pleaser. This meant ignoring her own boundaries and working to meet everyone else’s needs instead. She turned to food for comfort.
 
@@ -50,7 +48,7 @@ Ergo, they are more vulnerable to addiction, whether it be drugs, alcohol, self-
 
 ## Lesson 3
 
-### With the right support, we can overcome the traumatic experiences of our past.
+### With the right support, we can overcome the traumatic experiences of our past
 
 Did you know that almost half of all children living in the US have had some sort of serious traumatic experience in their life? For adults, 60 percent report experiencing at least one traumatic incident.
 
@@ -65,7 +63,5 @@ All of us need support from the people around us to heal. Schools, workplaces, a
 ## Review
 
 Oprah never disappoints. She’s inspiring and motivational because she’s so vulnerable with her own experiences, but she’s also really smart. I highly recommend you check out *What Happened To You*!
-
-## Who it’s for
 
 The 38-year-old who has experienced great trauma throughout their lives, the 64-year-old who wants to help their children get through their mental health struggles, and anyone that wants to learn how to get through the difficulties of life.

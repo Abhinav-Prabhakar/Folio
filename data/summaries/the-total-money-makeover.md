@@ -20,7 +20,7 @@ Ready to start your total money makeover? Time to take the first steps!
 
 ## Lesson 1
 
-### Save $1,000 in an emergency fund.
+### Save $1,000 in an emergency fund
 
 If you crashed your car right now, could you even pay the mechanic in cash? I’m serious. Most people can’t. They’d have to use their credit card. If you think that’s bad, consider you or your child suddenly gets sick and racks up a $1,000 hospital bill.
 
@@ -35,7 +35,7 @@ Of course, $1,000 doesn’t cover all that much, but it’s a great start and wi
 
 ## Lesson 2
 
-### Start a debt snowball, beginning with your smallest debt.
+### Start a debt snowball, beginning with your smallest debt
 
 The next step is to start what Ramsey calls a debt snowball. If you form a small snowball and roll it down a hill, it’ll pick up more snow and thus more speed, quickly growing into a huge and powerful snow boulder.
 
@@ -47,7 +47,7 @@ The smaller you start, the better. Each crossed off debt that disappears off you
 
 ## Lesson 3
 
-### Grow your emergency fund until it covers your expenses for at least three months.
+### Grow your emergency fund until it covers your expenses for at least three months
 
 If your boss fired you tomorrow, could you pay for rent and food for the next six months? No? Maybe three? No? Then I hope your alarm bells start ringing right now.
 
@@ -66,7 +66,5 @@ I thought about just listing the first step and two other things here because I�
 I’ve spent all of last year working on building up my emergency fund and now have a solid 12-month buffer. The money I save from now on will go into growing my investments and hopefully making a solid, bigger investment sooner rather than later.
 
 The biggest advantage you can have in building wealth is starting. With *The Total Money Makeover*, Dave Ramsey has delivered the perfect blueprint to doing just that. Great summary with all seven steps, read it, get going, then use the book to take care of the finer details!
-
-## Who it’s for
 
 The 18 year old, who can still make a choice about college and opt to not do it, if it means taking on a lot of debt, the 35 year old with a $70,000 per year income, who somehow never has any money left to go on vacation, and anyone who doesn’t have three months of expenses saved up.

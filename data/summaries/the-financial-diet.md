@@ -20,8 +20,6 @@ Here are 3 lessons that will help you, too, turn your financial life around:
 
 Ready for a new financial diet? Here we go!
 
-### The Financial Diet Summary
-
 ## Lesson 1
 
 ### Pick a few financial principles you’ll always stick to, like the 4 “don’t you dares.”
@@ -41,7 +39,7 @@ Life is full of compromises one way or another. You might as well make some in a
 
 ## Lesson 2
 
-### Take some inspiration from Italian grandmothers’ cooking to enjoy food more and save money.
+### Take some inspiration from Italian grandmothers’ cooking to enjoy food more and save money
 
 From age 14 to 18, Chelsea painstakingly saved up $10,000 from working all throughout high school and saving 75% of each paycheck. Once she got full control over that money, she immediately blew it on fancy clothes, food, and parties.
 
@@ -57,7 +55,7 @@ Food is one of the biggest aspects of our lives. Learn to enjoy it without needi
 
 ## Lesson 3
 
-### Dream medium instead of big to pressure yourself less yet still make progress.
+### Dream medium instead of big to pressure yourself less yet still make progress
 
 In a world full of flashy Instagram posts, millionaires showing off their villas on Youtube, and everyone bragging about their latest win on LinkedIn, going small is an act of rebellion.
 

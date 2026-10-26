@@ -20,7 +20,7 @@ Let’s dig right in!
 
 ## Lesson 1
 
-### To boost your body’s cancer defense, reach for soy products and broccoli.
+### To boost your body’s cancer defense, reach for soy products and broccoli
 
 Did you know right now as you’re reading this, you are developing cancer? It sounds scary, but the truth is, your body makes around 10,000 potentially cancer-causing cell division mistakes every day. Of course, your body has a way to fix this, and it’s known as angiogenesis.
 
@@ -28,7 +28,7 @@ Angiogenesis the process by which your body forms and maintains blood vessels. S
 
 Amazingly, research shows there are foods that can help your body with angiogenesis and thereby give you extra protection from cancer.
 
-**Soybeans are one of these foods, because they are high in*genistein*, a potent substance that blocks blood flow to tumor cells.** You can get soy from tofu, soy sauce, edamame, or soy milk. Research shows that the most benefits come from having 10 grams a day of soy products.
+**Soybeans are one of these foods, because they are high in *genistein*, a potent substance that blocks blood flow to tumor cells.** You can get soy from tofu, soy sauce, edamame, or soy milk. Research shows that the most benefits come from having 10 grams a day of soy products.
 
 Another cancer superstar is broccoli. Broccoli had *brassinin* and *sulforaphanes* two things that help support healthy angiogenesis to protect from cancer.
 
@@ -36,13 +36,13 @@ Studies have shown eating broccoli is linked to a 59 percent lower risk of prost
 
 ## Lesson 2
 
-### Fruit, cheese, and fermented foods support your microbiome, which is essential to your overall health.
+### Fruit, cheese, and fermented foods support your microbiome, which is essential to your overall health
 
 You probably are aware that your body isn’t just your own. By that, I mean you share it with trillions of microorganisms, many of which are essential to your body’s functions. It’s called your microbiome, and keeping them healthy keeps you healthy.
 
 For example, in your gut, you have bacteria that produce oxytocin and dopamine. Through the gut-brain axis, these bacteria communicate with the brain and have an effect on your mood. Having certain types of bacteria in your gut can actually reduce anxiety. Other bacteria produce *metabolites* which help prevent diabetes.
 
-So what can you eat to support your microbiome? **Research shows eating cranberries and drinking pomegranate juice encourages growth of a the bacteria*Akkermansia muciniphila*, which supports immune health, fights inflammation, and protects you from obesity**.
+So what can you eat to support your microbiome? **Research shows eating cranberries and drinking pomegranate juice encourages growth of a the bacteria *Akkermansia muciniphila*, which supports immune health, fights inflammation, and protects you from obesity**.
 
 Another awesome food for fighting inflammation is sauerkraut, a German dish of fermented cabbage. It has been shown to encourage stem cell growth in the intestines and prevent inflammation.
 
@@ -50,7 +50,7 @@ Lastly, there is good news for cheese lovers. You can feel good about sprinkling
 
 ## Lesson 3
 
-### When you eat lots of nuts and berries, you can protect your body from the effects of aging.
+### When you eat lots of nuts and berries, you can protect your body from the effects of aging
 
 Good health depends on your body’s genetic code, known as your DNA. But sadly, your DNA is damaged continuously throughout your life. This can be the result of infection, inflammation, toxic chemicals, pollution, and even the sun. Thankfully, your body has ways to defend itself and repair this damage.
 
@@ -63,7 +63,5 @@ Another study had participants eat just 10 grams of nuts every day. After a year
 ## Review
 
 *Eat To Beat Disease* is fascinating because it approaches diet as a way to aid your body’s natural defense against disease rather than just lose weight or give a miracle cure. It gives the specifics of what you can eat, how much of it, and what benefits it has. I would recommend this to anyone who wants to learn a little more about how diet can not only prevent disease but also slow the aging process.
-
-## Who it’s for
 
 The 37-year-old that is overweight and wants to learn the science of getting healthy again, the 55-year-old healthcare worker that’s curious to know more about how nutrition affects the body, and anyone that would like to know how to eat to live longer and healthier.

@@ -20,7 +20,7 @@ While there are many more aspects to consider and explore when it comes to crypt
 
 ## Lesson 1
 
-### Investing in crypto is very risky, so prepare emotionally and financially for that.
+### Investing in crypto is very risky, so prepare emotionally and financially for that
 
 Volatility is probably one of the first things to consider when investing in cryptocurrencies. Their price fluctuates drastically even during days, nevertheless months or years. As such, you have to filter the emotional factor of investing out and focus on the long term. Not only is it good for your health, but your wallet too. In time, powerful and reputable projects will show their worth.
 
@@ -32,7 +32,7 @@ Therefore, it’s wise to invest only the amount of money that you can afford to
 
 ## Lesson 2
 
-### The blockchain technology and smart contracts solve real problems.
+### The blockchain technology and smart contracts solve real problems
 
 Blockchain – what is it? This disruptive technology set the foundation for all cryptocurrencies and most importantly, for Bitcoin. Bitcoin was the first cryptocurrency and it is still the most popular digital coin on the market. So how did it gain such popularity? Well, people started to acknowledge the cleverness behind Bitcoin as they discovered the blockchain.
 
@@ -42,7 +42,7 @@ You can already see how the blockchain is solving a real-life problem and makes 
 
 ## Lesson 3
 
-### Use diversification to your advantage.
+### Use diversification to your advantage
 
 Diversification is the best tool for minimizing losses that you have on your hand. Why is that? Well, as you buy more classes of assets, and even more assets of the same class, the risk of them falling at the same time lowers. Therefore, if one of your investments goes wrong, there’s always another going better to average the loss.
 
@@ -53,7 +53,5 @@ Even if you are a high-risk high-reward investor, you should always aim to secur
 ## Review
 
 If you’re eager to learn more about what’s going on in the new digital economy and discover how cryptocurrencies work, *Cryptocurrency Investing for Dummies* is the book for you. The author talks about the beginnings of digital coins, how to assess their value, how to place your first trade, and what to expect from investing in these tokens. In other words, this book compresses all the necessary information one needs to start their investing journey in the crypto world.
-
-## Who it’s for
 
 The 22-year-old who is passionate about investing in new technologies, the 45-year-old fund manager who wants to expand their traditional portfolio to include cryptocurrencies or the 30-year-old full-time trader who wants to diversify their investments.

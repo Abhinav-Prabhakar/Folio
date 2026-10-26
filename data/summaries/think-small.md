@@ -20,7 +20,7 @@ Your level of success in achieving goals is about to skyrocket, are you ready? L
 
 ## Lesson 1
 
-### You need only one simple goal of the right nature and with the right targets and deadlines.
+### You need only one simple goal of the right nature and with the right targets and deadlines
 
 You’ve set goals in the past and made the mistake of thinking you’ll be happy once you accomplish them. But chances are good that it was actually the wrong goal in the first place and that it wouldn’t actually make you happier.
 
@@ -42,7 +42,7 @@ Once you have your aim in mind, identify specific outcomes you want to achieve w
 
 ## Lesson 2
 
-### Success comes when you use the power of social connection, so get a teammate or coach to help you.
+### Success comes when you use the power of social connection, so get a teammate or coach to help you
 
 The best way to make a problem easier is to share the load with others. This is applicable in all aspects of life, especially in goal-setting. But you probably have a hard time asking for help.
 
@@ -60,7 +60,7 @@ So if you want to succeed, get a partner. I personally have a coach to help me s
 
 ## Lesson 3
 
-### Take away the fear of giving up on your routine by having a willingness to experiment.
+### Take away the fear of giving up on your routine by having a willingness to experiment
 
 One of the biggest problems with achieving goals is that we too often slip into the same patterns and are afraid to stop what’s not working.
 
@@ -79,7 +79,5 @@ The authors learned this when testing eight different versions of a website to g
 ## Review
 
 I liked *Think Small* so much that I had to purchase a physical copy that I could mark up and study more! These tips are super actionable and incredibly inspiring because of how small they are. I can’t say enough good about the ideas in this book and how much they’re going to help you finally achieve your goals!
-
-## Who it’s for
 
 The 51-year-old who has a really tough time sticking to their goals but wants to change, the 35-year-old that loves to learn about human behavior and how they can improve, and anybody that’s tired of setting goals only to see them fail year after year.

@@ -22,7 +22,7 @@ Ready to find out why common sense is neither common nor helpful? Let’s rewire
 
 ## Lesson 1
 
-### If you rely on common sense, you’re not accounting for the cognitive biases at play.
+### If you rely on common sense, you’re not accounting for the cognitive biases at play
 
 I’m an organ donor. I have this little paper card in my wallet, on which I’ve checked some boxes and signed my name. In the case of my (medically confirmed) death, doctors can take out my liver, lungs or heart and give them to someone else, if it helps them.
 
@@ -38,7 +38,7 @@ Anchoring is similar to the default bias: When I tell you that the “suggested�
 
 ## Lesson 2
 
-### Instead of trying to predict the future, stay in the present and work with what you’ve got.
+### Instead of trying to predict the future, stay in the present and work with what you’ve got
 
 As you can see, predicting human behavior is really tough, given there are not just the three above, but dozens of other biases at play. Therefore, relying on common sense is a bad strategy, especially when making important decisions, for example concerning business strategy.
 
@@ -50,7 +50,7 @@ The next best source of feedback after customers is whoever else will be affecte
 
 ## Lesson 3
 
-### Make better decisions by building uncommon sense, which relies on the scientific method.
+### Make better decisions by building uncommon sense, which relies on the scientific method
 
 If the two methods above kind of reminded you of lab experiments, then you’re on the right track. Both of them rely on something called the scientific method. Here’s how it works: you create a hypothesis (this blue scarf will sell well), then collect data to back up or disprove that hypothesis (track sales for a month in November) and finally adjust your hypothesis or draw general conclusions (blue scarves sell well in November).
 
@@ -61,7 +61,5 @@ And thanks to the internet, you now have access to more data than ever. Companie
 ## Review
 
 Definitely a hidden champion this book. I believe cognitive biases are one of the most important topics to learn about, and combined with taking a more scientific, yet creative approach to making decisions, it’s especially powerful. *Everything Is Obvious* teaches you about both those things, so I highly recommend you check it out.
-
-## Who it’s for
 
 The 31 year old non-tech savvy call center agent, who always leaves her software on its default settings, the 49 year old Zara manager, who hasn’t heard of their measure-and-react method yet, and anyone who’s never read any Google or Facebook statistics.

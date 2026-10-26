@@ -20,7 +20,7 @@ Ready? Set? Blastoff!
 
 ## Lesson 1
 
-### We learn our place in the universe from the heavens, which make us constantly curious.
+### We learn our place in the universe from the heavens, which make us constantly curious
 
 Are those little dots we see in the sky at night the kings of the past, or burning balls of gas millions of miles away? Today we know more about the universe than we ever have. But it wasn’t always this way.
 
@@ -34,7 +34,7 @@ Kepler, for example, was the first to suggest that planets orbits around the sun
 
 ## Lesson 2
 
-### UFO’s are probably not how aliens would make first contact with us.
+### UFO’s are probably not how aliens would make first contact with us
 
 The movie *Contact* might only be really good science fiction. After all, we all wonder if we are really alone in the universe, don’t we?
 
@@ -50,7 +50,7 @@ But the treaty between the US and the Soviet Union that prohibited nuclear weapo
 
 ## Lesson 3
 
-### In the late 70s humankind sent two space probes on what would become an interstellar journey.
+### In the late 70s humankind sent two space probes on what would become an interstellar journey
 
 So what is the most distant object that we’ve sent out into space? The answer is the Voyagers 1 and 2 spacecraft that are taking our species story through the universe. As of this writing, they’ve just passed our solar system. You can check on their current location here.
 
@@ -67,7 +67,5 @@ But what really makes these two so special is that they represent our sense of w
 ## Review
 
 My love for the stars is almost as vast as the cosmos itself. Okay, maybe that was a little cheesy but really, *Cosmos* is a great book. Carl Sagan was a brilliant man and it’s amazing that we get to learn from his intelligence!
-
-## Who it’s for
 
 The 17-year-old who can’t help but look up at the sky and think about the vastness of space each night, the 37-year-old that loves a good science fiction book, and anyone who wants to know just a few of the reasons why science is so cool.

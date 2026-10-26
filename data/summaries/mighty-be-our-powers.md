@@ -20,7 +20,7 @@ Let’s get right to these lessons and see how much we can learn from this incre
 
 ## Lesson 1
 
-### When her life began Leymah Gbowee had a bright future, but war soon turned that upside down.
+### When her life began Leymah Gbowee had a bright future, but war soon turned that upside down
 
 Leymah Gbowee remembers how excited and happy she was with her life when she graduated at 17. She had a good family life in Liberia and was looking forward to going to university to be a doctor. But everything turned upside down when war broke out in her country.
 
@@ -32,7 +32,7 @@ Things became very uncertain for Gbowee and her family, who fled to Ghana. Here 
 
 ## Lesson 2
 
-### Gbowee persevered through being a refugee and abuse victim to eventually start working to establish peace.
+### Gbowee persevered through being a refugee and abuse victim to eventually start working to establish peace
 
 It wasn’t safe for Gbowee and her family to return to Liberia until May of 1991 when a new interim government was put in place. But they returned to a destroyed city.
 
@@ -46,7 +46,7 @@ She began working toward a social work degree. While in school, she volunteered 
 
 ## Lesson 3
 
-### By helping build a network of women committed to harmony, Gbowee assisted in ending a 13-year-long war.
+### By helping build a network of women committed to harmony, Gbowee assisted in ending a 13-year-long war
 
 Through her trauma healing work, she traveled to Ghana to take part in an international conference by West Africa Network for Peacebuilding. This is where she met Thelma Ekiyor, a young Nigerian woman who put Gbowee in charge of the new Women in Peacebuilding Network’s (WIPNET) first chapter in Liberia.
 
@@ -63,7 +63,5 @@ Gbowee and the WIPNET members blocked the conference room doors during a negotia
 ## Review
 
 What a crazy, sad, and inspiring story. *Mighty Be Our Powers* opened my eyes to a world that a privileged white boy like me has no way of really understanding. I am grateful for what little insight I can into the chaos that other countries like Liberia go through, and the added measure of compassion it helps me develop.
-
-## Who it’s for
 
 The 58-year-old mom who wants to hear a story of hope, the 23-year-old that wants to do whatever they can to promote peace, and anyone that could use some inspiration to get out and do some good.

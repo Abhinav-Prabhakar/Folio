@@ -18,7 +18,7 @@ Now, we’ll explore each lesson in detail. Let’s go!
 
 ## Lesson 1
 
-### Our mind is like a computer, which is why we can log in and log off at any time.
+### Our mind is like a computer, which is why we can log in and log off at any time
 
 You’ve heard that right! Our mind is similar to a computer. And once you understand what that means, hacking it will become easier than ever. This funny association is one of the best examples we can use to describe the process of metathinking. In a nutshell, it means thinking about thinking. But what is that? Well, this concept implies that we, as humans, can log into our minds at any given point, and stay there as super users.
 
@@ -28,7 +28,7 @@ That is because we are separate from our brains, which is why we can notice ours
 
 ## Lesson 2
 
-### Concentration is a skill that has to be learned and trained to be fully mastered.
+### Concentration is a skill that has to be learned and trained to be fully mastered
 
 Picture this scenario: you’re finally working on that task you had to get done. All of a sudden, a phone notification pops up on your phone. Before you know it, your one-minute check-up turns into a one-hour procrastination session on social media, and now you’re too tired to go back to the task. Sound familiar?
 
@@ -40,7 +40,7 @@ For meditation, start by finding a comfortable position, then close your eyes an
 
 ## Lesson 3
 
-### There are five imagination exercises that you can try right away to plan your dream reality.
+### There are five imagination exercises that you can try right away to plan your dream reality
 
 Studies show that simple imagination exercises and day-dreaming sessions can make people happier and more fulfilled in their life. By practicing intentional thinking and detailing the life you want to live, you’re picturing an end goal, which makes it easier for you to pursue it with everyday actions.
 
@@ -57,7 +57,5 @@ You know what they say: “If you don’t know where you’re going, any road wi
 ## Review
 
 *Mind Hacking* is a remarkable book that explains how to overcome the loopholes in your thinking and reverse the negative patterns in your cognitive processes. You’ll learn to make your brain work in your favor instead of dragging you down. With the right combination of imagination, mind techniques, and a positive attitude, you too can tap into your mental super powers!
-
-## Who it’s for
 
 The 25-year-old person who feels stuck in their head and wants to find ways to get out of it and live a better life, the 35-year-old who keeps getting trapped in self-sabotaging behaviors and wants to take charge of their life, or the 40-year-old life coach who wants to learn more ways to improve their clientele’s life by giving better advice.

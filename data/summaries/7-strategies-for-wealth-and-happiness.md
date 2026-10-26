@@ -28,7 +28,7 @@ Are you ready for a big change for the better? Let’s dive right in and find ou
 
 ## Lesson 1
 
-### To put yourself on a path of progression and increasing wealth and knowledge, get in the habit of practicing self-led learning.
+### To put yourself on a path of progression and increasing wealth and knowledge, get in the habit of practicing self-led learning
 
 Let’s say you wanted to become a doctor. You wouldn’t try a triple bypass surgery without years of experience studying the heart and surgical procedures, right? Well then why would you expect to become successful and wealthy without studying financial principles?
 
@@ -42,7 +42,7 @@ My favorite way that Rohn suggests we seek learning is by spending time with wea
 
 ## Lesson 2
 
-### Having a good attitude about taxes can help you attract wealth, and using the 70/30 rule allows you to keep your riches.
+### Having a good attitude about taxes can help you attract wealth, and using the 70/30 rule allows you to keep your riches
 
 If you’re like most people, the idea of taxes makes you cringe. “There’s only two things that are certain in life, death and taxes” you might say. It’s not fair that the government takes your money away, right?
 

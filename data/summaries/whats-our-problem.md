@@ -20,11 +20,9 @@ Here are 3 of the most important lessons from the book:
 
 Let’s figure out “our problem!”
 
-### What’s Our Problem? Summary
-
 ## Lesson 1
 
-### There are 4 primary modes of thinking, and they function like a ladder.
+### There are 4 primary modes of thinking, and they function like a ladder
 
 The most important concept from the book is what Urban calls “the Ladder.” **The Ladder is a 4-rung, vertical framework showing that *how* we think is more important than *what* we think.**
 
@@ -39,7 +37,7 @@ No matter the topic and situation, rather than ask, “What is this person think
 
 ## Lesson 2
 
-### Politics only functions when high-rung thinkers with different viewpoints work together.
+### Politics only functions when high-rung thinkers with different viewpoints work together
 
 Politicians who think clearly concern themselves mainly with 3 questions, Urban says:
 
@@ -57,7 +55,7 @@ Low-rung thinking in politics blocks all progress. Only high-rung thinkers can e
 
 ## Lesson 3
 
-### Awareness and courage are the 2 prime contributions anyone can make to a well-functioning society.
+### Awareness and courage are the 2 prime contributions anyone can make to a well-functioning society
 
 While the world might feel particularly divided these days, Urban still has hope. To form an upward spiral out of the low-rung-thinking bog, we need 2 things, he suggests: awareness and courage.
 

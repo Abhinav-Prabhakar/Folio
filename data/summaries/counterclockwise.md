@@ -22,7 +22,7 @@ Ready to become in charge of your own health? Let’s do it!
 
 ## Lesson 1
 
-### There are good reasons to question expert diagnoses and health advice.
+### There are good reasons to question expert diagnoses and health advice
 
 It is not the intention of this book to prevent you from seeing your doctor. There are times when we require expert medical intervention. But submitting yourself to the prescribed treatment shouldn’t be synonymous with giving up the responsibility for your own health.
 
@@ -36,7 +36,7 @@ Acknowledging this may lead you to ask additional questions, share information a
 
 ## Lesson 2
 
-### The language we use impacts our reality – including our health.
+### The language we use impacts our reality – including our health
 
 It is not a new concept that as much as societies create language, the language shapes the people in turn. Langer shows that this idea is profoundly important for our health.
 
@@ -44,7 +44,7 @@ Consider the difference in the way we talk about cancer and a cold. In the medic
 
 When we catch a cold, however, we assume that it is separate from the last time we had it. A cold is never “in remission,” it simply gets cured. If we have it again, we treat the illness as a “new” one.
 
-Langer argues that the language we use to talk about health and disease matters a whole lot. **According to thestudy she did on cancer survivors, there is a strong correlation between whether a patient sees herself as “cured” or “in remission” and her overall well-being.**
+Langer argues that the language we use to talk about health and disease matters a whole lot. **According to the study she did on cancer survivors, there is a strong correlation between whether a patient sees herself as “cured” or “in remission” and her overall well-being.**
 
 Other than verbal language, the symbols we surround ourselves with are important, too. One example is doctors wearing uniforms around patients, which, according to Langer, may have a negative influence on the treatment. How so?
 
@@ -52,7 +52,7 @@ Formal uniforms reinforce the roles of a patient and a doctor, which encourages 
 
 ## Lesson 3
 
-### Being mindful about our health can save us a lot of trouble.
+### Being mindful about our health can save us a lot of trouble
 
 Ellen Langer once said that *“virtually all the world’s ills boil down to mindlessness.”* Her message in *Counterclockwise* is that we can always improve our health by being more mindful.
 
@@ -65,7 +65,5 @@ Ultimately, the approach of mindful health is about paying attention to our mind
 ## Review
 
 *Counterclockwise* transforms what you believed was impossible into possible. As I read through the studies showing what factors influence our health that we are not even aware of, I felt shocked and empowered at the same time. Shocked, because some of it sounded like magic. Empowered, because I realized that I have much more agency over my health than I ever thought.
-
-## Who it’s for
 
 The 33-year old with a chronic illness who looks for ways to help himself beyond his current treatment plan, the 68-year old wondering how to deal with the first symptoms of ageing, and anyone who wants to have more control over their health.

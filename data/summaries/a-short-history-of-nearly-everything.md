@@ -20,7 +20,7 @@ Ready for a very brief look at the miracle we’re living right now? Let’s loo
 
 ## Lesson 1
 
-### All it took to create most of the universe as we know it was a single, 3-minute moment.
+### All it took to create most of the universe as we know it was a single, 3-minute moment
 
 A singularity is defined as a moment in which nothing is defined and everything is unpredictable. It’s a massive inflection point. When scientists talk about the “initial” singularity, they refer to the moment the universe was created. It’s hard to imagine, but think of a little, compact point, that is infinitely dense – it contains everything that’s in the universe now, but is compressed into a tiny, tiny dot.
 
@@ -32,7 +32,7 @@ So 9.5 trillion times 100 billion, that’s the diameter of the universe. In num
 
 ## Lesson 2
 
-### The odds of a planet supporting life are so low that our presence on earth comes close to a miracle.
+### The odds of a planet supporting life are so low that our presence on earth comes close to a miracle
 
 If you think about how easy it is to die, it becomes clear how frail human life actually is. I mean, you fall down a couple stairs, hit your head, and that’s it. You dive too deep in the sea, climb too high on a mountain or get stung by the wrong plant or insect, and you’re done.
 
@@ -51,7 +51,7 @@ Talk about once-in-a-lifetime chances! And this gets even more impressive, consi
 
 ## Lesson 3
 
-### There’s a lot that could go wrong for our planet, which makes every new day a gift.
+### There’s a lot that could go wrong for our planet, which makes every new day a gift
 
 Let’s reconsider the point above. Humans not falling prey to all the dangers in the world pales in comparison to all the dangers that threaten earth’s existence from the *outside.*
 
@@ -66,7 +66,5 @@ So no, it’s totally not normal that the sun rises every morning. Every single 
 ## Review
 
 What a brilliant book to learn a little about all the core pillars that make up our existence and the universe we live in. *A Short History Of Nearly Everything* should be obligatory reading in all schools!
-
-## Who it’s for
 
 The 18 year old, who thought science classes in high school were boring, the 29 year old engineer, who knows a lot about his particular field, but could use an update on science in general, and anyone who doesn’t think life is awesome at least once a week.

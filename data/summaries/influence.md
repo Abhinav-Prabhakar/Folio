@@ -29,7 +29,7 @@ Let’s take a closer look!
 
 ## Lesson 1
 
-### You can use the reciprocity bias to build up a massive good karma account.
+### You can use the reciprocity bias to build up a massive good karma account
 
 Imagine caveman Grok would have constantly been worried about his tasty beets. He’d never have shared any with Jane, the friendly cavewoman next door, because he didn’t see anything in it for him.
 
@@ -63,7 +63,7 @@ Instead of trying to guilt people into reciprocity, why not just do good things 
 
 ## Lesson 2
 
-### Because we hate to miss opportunities, scarcity makes us act.
+### Because we hate to miss opportunities, scarcity makes us act
 
 Don’t you hate missing out on a good deal? I know I’ve beaten myself up over a few Appsumo deals because I didn’t act fast enough.
 
@@ -81,7 +81,7 @@ So pay attention the next time you sign up for an email list and are offered a �
 
 ## Lesson 3
 
-### When you make a small commitment, it triggers your consistency bias and helps you reach your goal.
+### When you make a small commitment, it triggers your consistency bias and helps you reach your goal
 
 Imagine you’re chilling on your towel at the beach, when suddenly, someone steals the radio of the person next to you, while they’re away.
 
@@ -114,7 +114,5 @@ I suggest you also watch this speed drawing video, which gives even more context
 I haven’t read the book myself, but it’s on the list, as I expect many more good examples, which will help remember all the biases.
 
 Two big thumbs up!
-
-## Who it’s for
 
 The 15 year old high school student, who just discovered online shopping, the 43 year old manager, who struggles with getting his team at the office on the same page about things, and anyone who can’t seem to pick up a new habit.

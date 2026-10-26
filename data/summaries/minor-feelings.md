@@ -20,7 +20,7 @@ Now, let’s explore these lessons in detail and find out what it truly means to
 
 ## Lesson 1
 
-### Self-doubt and negative talk that emerge from your racial identity must stop.
+### Self-doubt and negative talk that emerge from your racial identity must stop
 
 The author always felt as if she had to behave, feel, and speak in a certain way because she was an Asian-American. These unsettling feelings weren’t something that she could put her finger on, yet they were there. Before she realized that there is nothing wrong with her identity, she was in depression.
 
@@ -32,7 +32,7 @@ Her childhood was marked by feelings of shame and a constant struggle to fit in.
 
 ## Lesson 2
 
-### Even today, Asian Americans face a strong sense of non-belongingness.
+### Even today, Asian Americans face a strong sense of non-belongingness
 
 The United States is, at its core, a place for all individuals to live freely and engage in acts that serve their souls in a way that does not harm those around them. The theory sounds simple and it sparks emotion in everyone, but the practice beats us to it.
 
@@ -44,7 +44,7 @@ Another recollection of hers dates back to 2018, when Lorraine O’Grady, an art
 
 ## Lesson 3
 
-### Art, a group of girlfriends, and English literature are what gave Hong peace of mind.
+### Art, a group of girlfriends, and English literature are what gave Hong peace of mind
 
 Hong was looking for ways to fit in and discover that sense of belonging during her teen years. She knew English was a weak spot for Asians in general, and that people would mock her even more for her poor vocabulary, so she picked up English literature.
 
@@ -59,7 +59,5 @@ The girls spent a lot of time reading, crafting, and enjoying each other’s com
 While the spotlight always falls on white and black people, the orientals remain silent while maintaining an overall submissive and indifferent impression in the public eye.
 
 For the author, this state of affairs had deeply affected her childhood and adult life, making her realize that she can either keep living in the shadows or form a voice that could speak up for her people.
-
-## Who it’s for
 
 The 27-year-old Asian American woman who wants to build a voice and feel heard, the 30-year-old person who wants to learn how to deal with racism, or the 40-year-old person who likes to educate themselves on racial biases, different ethnic groups, and the history of multiculturalism in the USA.

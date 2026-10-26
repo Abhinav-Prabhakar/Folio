@@ -18,7 +18,7 @@ Ready to invest yourself to wealth? Let’s do it!
 
 ## Lesson 1
 
-### Always imagine you’re buying the whole company, not just some shares.
+### Always imagine you’re buying the whole company, not just some shares
 
 Even Warren Buffett doesn’t buy all the businesses he invests in in full. But he sure acts as if he did. When you go into an investment thinking: “Hey, if they screw up, I can always sell my stocks.” you mustn’t wonder if that’s exactly what’ll happen.
 
@@ -32,7 +32,7 @@ What this question does is force you to be a lot more cautious, make better deci
 
 ## Lesson 2
 
-### Try to spot what moats a company has built around itself.
+### Try to spot what moats a company has built around itself
 
 In case you don’t know what a moat is, it’s the kind of deep trenches castles in the Middle Ages built around them and filled with water, in order to keep enemies at bay.
 
@@ -46,7 +46,7 @@ A moat keeps a company afloat for years to come, ensuring future profits, thanks
 
 ## Lesson 3
 
-### Make sure you have a margin of safety of at least 50% for each stock you buy.
+### Make sure you have a margin of safety of at least 50% for each stock you buy
 
 One of Warren Buffett’s most famous quotes is this:
 
@@ -65,7 +65,5 @@ For example, if you research Apple in great detail, and determine its value come
 You can think of *Rule #1* as “Warren Buffett’s Layman Guide to Investing.” It breaks down what Warren Buffett does in simple terms, and helps you create an investment strategy you can follow with little hassle and time investment. It sure won’t be your last stop in terms of personal finance, but it’s a great first step to start making more of your money.
 
 Thumbs up Mr. Town, great job!
-
-## Who it’s for
 
 The 21 year old with his first proper paycheck, who can get a head start by investing early, the 55 year old hobby investor, who’s sold more than half of all the investments he’s made in his lifetime, and anyone who’s a fan of Warren Buffett.

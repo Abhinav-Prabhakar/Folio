@@ -22,13 +22,13 @@ Ready to explore the fascinating land of your sleeping mind? Then let’s do it!
 
 ## Lesson 1
 
-### By choosing where you engage your mind during the day, you can enhance the chances to lucid dream.
+### By choosing where you engage your mind during the day, you can enhance the chances to lucid dream
 
 The starting point to understand lucid dreaming is recognizing that it is *the same mind* that operates the dream and awake states. This means that the sensory information you collect throughout your days is stored in your conscious or unconscious memory. Then, it is used as the “building blocks” of your dreams.
 
 There are two important implications of this. For one thing, it means that the creation of your dream landscape depends solely on your mind. Whatever is stored in there can be used for generating the fabric of your dream.
 
-**The other consequence is thatthe activities of your mind during waking hours impact your ability to lucid dream**. Thanks to this, there a few exercises you can engage in during the day that will increase the likelihood of becoming lucid at night.
+**The other consequence is that the activities of your mind during waking hours impact your ability to lucid dream**. Thanks to this, there a few exercises you can engage in during the day that will increase the likelihood of becoming lucid at night.
 
 One is dream journaling. As you choose to record whatever you remember from your dream adventures, you give your unconscious mind a signal that these experiences are important. With practice, it enhances your chances of “waking up” within a dream.
 
@@ -38,13 +38,13 @@ The approach of evoking awareness when you are already in a dream world is one w
 
 ## Lesson 2
 
-### It is possible to transition from awake to dream state without losing consciousness.
+### It is possible to transition from awake to dream state without losing consciousness
 
 The other option to lucid dream is by simply maintaining consciousness as you fall asleep. Sounds wicked? Maybe, but it is definitely possible!
 
 According to LaBerge and Rheingold, there are two major approaches to invite conscious awareness to dreams. The first is what I was describing in the section above: *dream-initiated lucid dreams* (DILD). This method implies that you lose consciousness upon entering the dream world, but then you regain it, thanks to appropriate training.
 
-However, some people find that the second approach works better for them. **In*wake-initiated lucid dreams*(WILD)*,*the point is to fall asleep without losing consciousness in the first place.** One way to achieve that is through the hypnagogic imagery.
+However, some people find that the second approach works better for them. **In *wake-initiated lucid dreams* (WILD), the point is to fall asleep without losing consciousness in the first place.** One way to achieve that is through the hypnagogic imagery.
 
 Hypnagogia is the scientific term for the transitory phase between being awake and asleep. In this “limbo-like” state of consciousness, we often experience flashes of light and various images showing up in our mind’s eye. If you want to enter a lucid dream straight away, you should keep your brain active by focusing on those images – while also maintaining a relaxed body and breathing.
 
@@ -52,7 +52,7 @@ As you ease into the hypnagogic imagery, the scenes you perceive will gradually 
 
 ## Lesson 3
 
-### Lucid dreaming brings practical benefits to your waking life.
+### Lucid dreaming brings practical benefits to your waking life
 
 By now you may be thinking: ok, all of this sounds really cool, but are there any tangible benefits of lucid dreaming, other than just the fun of experiencing them?
 
@@ -67,7 +67,5 @@ There is plenty of other examples of how you can literally transform your life t
 ## Review
 
 *Exploring the World of Lucid Dreaming* is indeed a gateway into a whole new world. It makes you realize – if you haven’t yet – that the inherent power of your mind to shape your reality is just enormous. Because the book comes from two academics, it seems safe to trust their guidance and try lucid dreaming for yourself.
-
-## Who it’s for
 
 The 26-year-old self-improvement geek who wants to use their mind’s capacity to the absolute fullest, the 37-year old psychologist intending to explore the power of dreams in their work with clients, and anyone interested in the workings of the human mind.

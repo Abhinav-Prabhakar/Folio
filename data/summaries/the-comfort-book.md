@@ -58,6 +58,4 @@ Lastly, learn to deal with your pain by acknowledging it. Similar to rain, which
 
 *The Comfort Book* is, in fact, exactly what the name stands for. This easy-to-read guide for alleviating negative emotions can help anyone who’s battling depression. It can also help those who are struggling to find joy in their life regain their lost powers. The author empathizes profoundly with his readers and delivers advice that once implemented, can soothe the ill heart, the anxious mind, or the misery of someone who feels broken inside.
 
-## Who it’s for
-
 The 30-year-old person who feels like they haven’t advanced in their life sufficiently compared to their peers. The 28-year-old single mother feels like giving up on her difficult days. Lastly, the 45-year-old divorced person finds it hard to start all over and be happy again.

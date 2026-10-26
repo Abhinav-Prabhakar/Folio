@@ -20,7 +20,7 @@ Ready to become a master salesman or woman? It’s time to sell!
 
 ## Lesson 1
 
-### Every job includes non-sales selling, which means you have to move others somehow.
+### Every job includes non-sales selling, which means you have to move others somehow
 
 Name a startup with a particularly large and aggressive sales team.
 
@@ -54,13 +54,13 @@ To sell is no longer to guard information and hand out little pieces – it’s 
 
 ## Lesson 3
 
-### Always say “Yes, and…” to keep your customer optimistic.
+### Always say “Yes, and…” to keep your customer optimistic
 
 One really cool way to stay positive and keep your customers engaged as you’re talking to them is to use this tactic from improv theatre: **Always say “Yes, and…” instead of “No” or “Yes, but…”**
 
 I learned this from James Altucher, that’s why it struck me again in this book. In improv theatre it’s really important to keep the audience in a good mood, they have to stay optimistic at all times and not feel discouraged. Customers during a sales pitch are the same way. If they feel affronted or like you’re talking down to them, they surely won’t buy from you.
 
-But every time you let on you’re disagreeing with them, it signals to them that you’re claiming you’re smarter. So instead of using words like “no” or “but”, **agree with their ideas andadd to them and then improve and improvise how you can further move the conversation along.**
+But every time you let on you’re disagreeing with them, it signals to them that you’re claiming you’re smarter. So instead of using words like “no” or “but”, **agree with their ideas and add to them and then improve and improvise how you can further move the conversation along.**
 
 This way you’ll always be able to integrate opposing viewpoints, keep your talk constructive and have a great conversation atmosphere.
 
@@ -69,7 +69,5 @@ This way you’ll always be able to integrate opposing viewpoints, keep your tal
 So many great points about why sales is important and how you can start learning more about it, without falling for sleazy sales tactics. The world is louder and noisier than ever before. I 100% believe that you need a loud, clear and different voice to stand out, no matter what you do for a hobby or a living.
 
 Whether you’re selling yourself to become the team leader at your local bowling club or BMWs at work every day, *To Sell Is Human* will put new lenses in your glasses and help see the world clearer, while making you better at navigating it at the same time.
-
-## Who it’s for
 
 The 20 year old research assistant in her junior year in college, who thinks selling isn’t really that important for what she does, the 54 year old car dealer of the old school, who’s seen declining sales over the past 5 years, and anyone who often tells people that they’re wrong.

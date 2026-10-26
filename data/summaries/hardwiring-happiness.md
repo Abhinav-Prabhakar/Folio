@@ -20,7 +20,7 @@ Ready to hardwire happiness into your brain? Let’s do it!
 
 ## Lesson 1
 
-### If you have a “sad amygdala” you react stronger to negative events.
+### If you have a “sad amygdala” you react stronger to negative events
 
 There’s a scene in How I Met Your Mother when Ted sees his ratings as a professor on a website. The words fly across the screen, all compliments across the board – “knowledgeable”, “fun”, “cool guy” – and then it hits “BORING.”
 
@@ -51,7 +51,7 @@ This way, you’ll acknowledge good things in your life as they happen, while si
 
 ## Lesson 3
 
-### Create an infinite stream of positivity from your memories, small details and being generous.
+### Create an infinite stream of positivity from your memories, small details and being generous
 
 Honestly, the supply of happiness you can experience is endless. Just look at these three ways of eliciting positive experiences and I’m sure you’ll agree with me:
 
@@ -68,7 +68,5 @@ Lastly, your brain’s reward centers will fire more often if you’re generous.
 ## Review
 
 Just reading about this stuff makes me happier already. That’s what I meant by saying Rick Hanson is impressive. He creates an impression that lasts. *Hardwiring Happiness* reinforced that. I highly recommend his work.
-
-## Who it’s for
 
 The 52 year old miser, who always bickers with everyone in her community, the 72 year old, who thinks there’s no chance his brain is still evolving, and anyone who doesn’t keep track of their happy memories at all.

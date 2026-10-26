@@ -22,7 +22,7 @@ Want to overcome the #1 fear of humans? Let’s do this!
 
 ## Lesson 1
 
-### Pick a few people in the audience to make eye contact with and show your vulnerability.
+### Pick a few people in the audience to make eye contact with and show your vulnerability
 
 Every audience, every talk is different. Even if you use the same slides and deliver the same speech 100 times, it’s never quite *exactly* the same. The people will always be different, so of course you have to adapt to changing audiences.
 
@@ -39,7 +39,7 @@ Only then do you have a real shot at delivering a life-changing speech.
 
 ## Lesson 2
 
-### Explain complex ideas in five steps.
+### Explain complex ideas in five steps
 
 Over the years, Chris has watched, organized and prepared hundreds of TED talks, some of which tackle very complicated topics. Those, that are successful in getting their ideas across to listeners, follow a simple five-step process, says Chris. Let’s look at what this would look like if you tried to explain willpower.
 
@@ -53,7 +53,7 @@ Pretty straightforward, right? So is dressing for the occasion, by the way.
 
 ## Lesson 3
 
-### Make sure what you’re wearing is comfortable and reflects who you are.
+### Make sure what you’re wearing is comfortable and reflects who you are
 
 Here’s your dress code for any public speech you ever do in one line: **Wear what makes you feel comfortable**.
 
@@ -66,7 +66,5 @@ Other than that, if you feel awesome in a suit, wear that, and if you’re comfo
 ## Review
 
 There’s a reason for the format TED talks are in. The stage, the lighting, the red dot, the 18-minute time limit, they designed it this way on purpose. It’s safe to assume that Chris knows what makes for a good talk, so if you’re in a position where you have to (or want to) present to an audience one day, then grab yourself a copy of *TED Talks*!
-
-## Who it’s for
 
 The 20 year old member of the debating club, who wants to be a keynote speaker some day, the 45 year old sales manager, who has to present quarterly figures at the sales meeting next month, and anyone who’s afraid of talking into a microphone.

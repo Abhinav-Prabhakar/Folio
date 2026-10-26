@@ -6,7 +6,7 @@
 
 As he turned on the tap one cold January morning, Spike Carlsen expected the same thing he always expects: running water. This time? No luck. His water service line was frozen. It took two days for someone to fix it — and six weeks of constantly running water to not re-freeze.
 
-How could Minnesota, the “Land of 10,000 Lakes,” not have running water in the 21st century? Then again, Carlsen does live in *Stillwater* …the irony! More importantly, however, where did his water come from in the first place?
+How could Minnesota, the “Land of 10,000 Lakes,” not have running water in the 21st century? Then again, Carlsen does live in *Stillwater*…the irony! More importantly, however, where did his water come from in the first place?
 
 As an author, he had read books about climbing Mount Everest and written ones about violin makers in Italy. Yet he knew nothing about everyday infrastructure.
 
@@ -22,7 +22,7 @@ Let’s take a walk around the block!
 
 ## Lesson 1
 
-### Modern phones have increased the speed of information from 1,000,000 seconds to 0.0053 seconds, a mind-boggling 200 million times-improvement.
+### Modern phones have increased the speed of information from 1,000,000 seconds to 0.0053 seconds, a mind-boggling 200 million times-improvement
 
 When Carlsen received the notification on his phone that Justin Bieber had peed into a mop bucket, the information traveled 1,000 miles within a millisecond of being published. Here’s how long that same journey would have taken using previous means of transport:
 
@@ -41,7 +41,7 @@ It’s hard to comprehend how far we’ve come from tin can phones, clicking tel
 
 ## Lesson 2
 
-### Concrete is everywhere, but after the Romans perfected it, the formula was lost for 1,000 years.
+### Concrete is everywhere, but after the Romans perfected it, the formula was lost for 1,000 years
 
 In the 2010 Haiti earthquake, nearly 300,000 man-made structures collapsed — and buried more than 100,000 people beneath them. The reason? In many cases, badly mixed concrete.
 
@@ -57,7 +57,7 @@ The next time you walk on the sidewalk, remember: Concrete could have easily sta
 
 ## Lesson 3
 
-### Traffic lights cost a lot but save even more, and there are 7 things you likely don’t know about them.
+### Traffic lights cost a lot but save even more, and there are 7 things you likely don’t know about them
 
 When US car production skyrocketed from 2,500 per year to over 500,000 in the early 20th century, so did accidents. In 1913, 34 drivers died for every 10,000 cars on the road. Today, it’s only 1.5. Enter: The traffic light.
 
@@ -78,7 +78,5 @@ Green lights are important in traffic and in life — but even red ones have the
 ## Review
 
 *A Walk Around the Block* is a profound book with a simple premise: Get to know the world you interact with every day, and you’ll never see it the same way as a result. A beautiful work, written with joy, sending an important message. Give it a go!
-
-## Who it’s for
 
 The 17-year-old, curious first-time driver, the 42-year-old housewife lost in everyday business, and anyone who doesn’t have a clue how the electricity in their house reaches its sockets.

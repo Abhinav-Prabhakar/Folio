@@ -20,7 +20,7 @@ Sick of having to pretend you’re perfect? Then let’s learn how to embrace yo
 
 ## Lesson 1
 
-### Gut feelings and grounded reasoning aren’t opposing forces, just a mix.
+### Gut feelings and grounded reasoning aren’t opposing forces, just a mix
 
 “My gut tells me to pitch my idea at this startup event, but I’m not sure if it’s a good idea.”
 
@@ -38,7 +38,7 @@ Just like a pro tennis player doesn’t calculate where the ball will land, but 
 
 ## Lesson 2
 
-### Comparison breeds conformity. The more you compete, the more boring you’ll get.
+### Comparison breeds conformity. The more you compete, the more boring you’ll get
 
 What do you do when you compare yourself with your neighbor, friend, or a co-worker? Do you think of ways how you could beat them in business? Run faster? Look cooler? You can admit it, we all do this sometimes.
 
@@ -52,7 +52,7 @@ Screw competition, embrace that you’re different, be an original, do your own 
 
 ## Lesson 3
 
-### The opposite of play isn’t work, it’s depression.
+### The opposite of play isn’t work, it’s depression
 
 We’re taught from a very young age that playing is a distraction. It’s considered down-time, something that takes away from the things you *have* to do.
 
@@ -67,7 +67,5 @@ So don’t think bad of yourself for letting lunch break run long – form a com
 ## Review
 
 Brené’s wisdom lies, as always, in the details. Clever paragraphs, short alliterations, even single lines can entirely transform your perspective on a topic. Even more stunningly, it’s not like this happens just once, but multiple times as you read on. *The Gifts Of Imperfection* is highly recommended, I’m a huge fan of her work.
-
-## Who it’s for
 
 The 22 year old startup founder, who’s afraid to pitch investors, the 42 year old lawyer, who’s tired of competing for one of the few precious partner seats at his company, and anyone who often cuts their lunch break short.

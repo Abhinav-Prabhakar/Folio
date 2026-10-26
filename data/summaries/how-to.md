@@ -20,7 +20,7 @@ Are you ready to learn how to do some weird things? Let’s begin!
 
 ## Lesson 1
 
-### To build a lava moat around your house, you just need to know how to manage the heat properly.
+### To build a lava moat around your house, you just need to know how to manage the heat properly
 
 This book will teach you how to dig a hole deep enough to make a fortune on buried treasure. But once you have your riches, you’re going to want a way to protect your home from thieves. How does a moat sound? For extra protection, let’s make it a lava moat.
 
@@ -32,7 +32,7 @@ I know you might be thinking this is crazy. You’re definitely wanting a wider 
 
 ## Lesson 2
 
-### You can go faster than the speed of light, in a round-about way.
+### You can go faster than the speed of light, in a round-about way
 
 Getting to the stars requires a lot of time. That is, unless you know how to travel faster than the speed of light. Scientifically it’s impossible to do that, but with some work you can get a comparable effect.
 
@@ -46,7 +46,7 @@ After two years from the other perspective, you will have traveled more than two
 
 ## Lesson 3
 
-### Knowing your history and science can help you determine people’s ages without asking.
+### Knowing your history and science can help you determine people’s ages without asking
 
 Well, all that talk of relativity probably has you wondering what your age would be after going the speed of light. But our next how-to lesson isn’t about your age but other people’s. **If you’re curious to know if you’re talking with a Baby Boomer, for example, check for strontium-90 in their teeth.**
 
@@ -59,7 +59,5 @@ To get even more accuracy, though, check for the scar from a smallpox shot. The 
 ## Review
 
 Well that was a different one, wasn’t it? I think *How To* is just my kind of book. What I really like is the abstract thinking that Munroe employs. We can use a lot more of that in our world to come up with better solutions to our problems.
-
-## Who it’s for
 
 The 36-year-old employee of a tech company who wants some inspiration to innovate, the 54-year-old science nerd who loves a good laugh, and anyone who thinks that science is boring.

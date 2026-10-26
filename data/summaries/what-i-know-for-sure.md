@@ -24,7 +24,7 @@ Let’s see how Oprah built her success and find inspiration in her view of life
 
 ## Lesson 1
 
-### From bad experiences, you can learn to take responsibility for your own happiness.
+### From bad experiences, you can learn to take responsibility for your own happiness
 
 **The biggest problems you may face are a chance to build your courage, discipline, and determination.** Hard things can motivate you to become “fearless enough to give yourself the love you didn’t receive.”
 
@@ -40,7 +40,7 @@ Her father gave her rules and pushed her to learn as much as she could. She was 
 
 ## Lesson 2
 
-### Use inspiration from books and people to strengthen your motivation for achieving greatness.
+### Use inspiration from books and people to strengthen your motivation for achieving greatness
 
 When 16-year-old Oprah read Maya Angelou’s autobiography, *I Know Why the Caged Bird Sings,* she felt validated and less lonely. She recognized herself in the young Maya, abandoned by her parents as a child, and a victim of sexual abuse. Eventually, Oprah met Maya, who became her friend and mentor.
 
@@ -54,7 +54,7 @@ When Oprah was a child, segregation and racism were ordinary in Mississippi. In 
 
 ## Lesson 3
 
-### Practicing gratitude makes you feel better but also brings you more things for which to be grateful.
+### Practicing gratitude makes you feel better but also brings you more things for which to be grateful
 
 For more than ten years, Oprah kept a gratitude journal in which she wrote daily five good things that had happened to her. Finding her journal some years later, she realized that whenever she went through her day looking for things to be thankful for, more things to be grateful for showed up.
 
@@ -69,7 +69,5 @@ That was the moment she realized she had always taken health for granted. She fi
 ## Review
 
 Oprah’s life has been remarkable for both trouble and success. So you would expect *What I Know For Sure* to be a motivational book on working hard and leaving your problems behind, and it is indeed that. But it is also a way for Oprah to pass on her contagious joy of living that comes from the ability to appreciate small things as much as big ones.
-
-## Who it’s for
 
 The 15-year-old who is bored and discouraged and thinks there’s nothing worth committing to, the 20-year-old college student who doesn’t know what to do after they graduate, and anyone who complains about their unfulfilling life.

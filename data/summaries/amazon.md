@@ -18,7 +18,7 @@ If you’ve ever wondered what makes Amazon so successful, wonder no more! Let�
 
 ## Lesson 1
 
-### Make sure your customers are the center of everything you do in business if you want to be successful like Amazon.
+### Make sure your customers are the center of everything you do in business if you want to be successful like Amazon
 
 It’s impossible to have a business without customers. This is one lesson that Amazon knows better than everyone else. It’s so dedicated to this that the first of the company’s 14 leadership principles is *Customer Obsession*.
 
@@ -32,7 +32,7 @@ This consistent innovation to benefit customers sets Amazon apart in a big way. 
 
 ## Lesson 2
 
-### Amazon attracts loyal customers with its Prime membership, which is the foundation of its business model.
+### Amazon attracts loyal customers with its Prime membership, which is the foundation of its business model
 
 Were you aware that the fee for a Prime membership doesn’t even cover all of the extras that come with it? It can’t even make Amazon break even on shipping! But it doesn’t care about these little details. The bigger picture is more important.
 
@@ -44,7 +44,7 @@ Amazon knows that putting effort into making Prime memberships so valuable will 
 
 ## Lesson 3
 
-### If you want to succeed in the digital age, you’ve got to have the technological know-how and put it into practice.
+### If you want to succeed in the digital age, you’ve got to have the technological know-how and put it into practice
 
 If you think Amazon is good at retail, wait until you learn what it’s got going behind the scenes with technological advancements. Another of its leadership principles is to *Invent and Simplify*. This has led to research in robotics and automation, cashier-less stores, cloud storage, and more.
 
@@ -59,7 +59,5 @@ With all of these investments into growing technology, it’s no wonder that Ama
 ## Review
 
 *Amazon* is a great book with a lot of valuable information for anyone in business, whether in retail or not. It’s interesting to discover the details of what makes this behemoth company so powerful. I think companies like this that innovate make our world a better place, so it’s good to learn how to think like Jeff Bezos does.
-
-## Who it’s for
 
 The 44-year-old who owns a retail store and wonders about their future, the 24-year-old with a business degree and an interest in business strategy, and anyone who uses Amazon to shop.

@@ -18,7 +18,7 @@ By making just a few simple lifestyle changes, you too can realize many of the s
 
 ## Lesson 1
 
-### The 20% gap between being satisfied and feeling full could be the difference between losing weight and gaining it.
+### The 20% gap between being satisfied and feeling full could be the difference between losing weight and gaining it
 
 People in the Blue Zones typically eat their last meal of the day in the late afternoon or the early evening hours. After that, no late-night snacking or sweet nightcap before bedtime! They have also learned to discipline themselves to stop eating before they feel full. But why would walking away from the dinner table feeling less than that be desirable?
 
@@ -28,7 +28,7 @@ Free radicals are nasty by-products, oxidizing agents that deteriorate the body 
 
 ## Lesson 2
 
-### Load up on plant-based foods, especially beans and lentils.
+### Load up on plant-based foods, especially beans and lentils
 
 Limiting animal protein in your diet to no more than one small serving per day is a beneficial health practice. While people in four out of five of the Blue Zones eat meat, they do so sparingly. Generally, meat is mostly used for special or celebratory occasions, as more of a side, or to add flavor to a dish.
 
@@ -40,7 +40,7 @@ What’s more, many healthy oils are plant-based too and preferable to animal-ba
 
 ## Lesson 3
 
-### Our society has engineered much of daily movement out of our lives, and we need to get it back.
+### Our society has engineered much of daily movement out of our lives, and we need to get it back
 
 Not only do Blue Zone people live in places with easy access to fresh and healthy food, but they move all day long too. The average American sits 9.6 hours a day. For every hour we sit, we lose about 22 minutes of life expectancy. Even after just the first hour, fat-burning hormones in our blood significantly decrease.
 
@@ -53,7 +53,5 @@ There is an irrefutable body of research demonstrating that we can make long-ter
 ## Review
 
 *The Blue Zones Solution* is an inspiring read on multiple levels. It’s more than just an informational source for healthy living, a journey into the exotic. It provides a glimpse into the habits, lifestyles, and mindsets of people from other cultures around the world. On top of helping us adopt the best of these behaviors, it also contains pages of practical advice, such as delicious and healthful recipes from these amazing places.
-
-## Who it’s for
 
 The 22-year-old, who is packing too much beer-drinking and junk food in between study time, the 38-year-old logistics manager, who likes to spend all his free time playing *The Legend of Zelda*, and anyone looking to cook healthier meals.

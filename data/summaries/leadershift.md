@@ -20,7 +20,7 @@ Got your growth mindset handy? You’re going to need it to have a successful *L
 
 ## Lesson 1
 
-### Bad leaders try to climb the ladder, exceptional ones build ladders for others to ascend by mentoring them.
+### Bad leaders try to climb the ladder, exceptional ones build ladders for others to ascend by mentoring them
 
 Although the attitude of “climbing the ladder” doesn’t help others much, it is necessary to get ahead if you want to help others. Strive to be in the top 10% of your field. This sets you apart and ensures that you’ll have plenty to teach.
 
@@ -38,7 +38,7 @@ After finding the right people to mentor, consistently give them small nuggets o
 
 ## Lesson 2
 
-### You will make a far greater impact on the lives of others and in your business when you connect with people instead of simply directing.
+### You will make a far greater impact on the lives of others and in your business when you connect with people instead of simply directing
 
 This is a truth that Maxwell discovered while visiting the locker room of the University of Tennessee Lady Volunteers basketball team. Their coach, Pat Summitt, was well-known for her success.
 
@@ -60,7 +60,7 @@ Start improving your own communication skills by asking others how good you are 
 
 ## Lesson 3
 
-### Your title is meaningless compared with the power that you can have when your team trusts you.
+### Your title is meaningless compared with the power that you can have when your team trusts you
 
 To be a good leader, you need the ability to influence others. But where do you get that? Maxwell learned early in his career that it doesn’t come from your position. Right after graduating from college became the pastor at a small church. Expecting to be in charge at the first of the church’s board meetings, he was surprised when a member named Claude took charge.
 
@@ -77,7 +77,5 @@ We all know that David slays Goliath in the notorious bible story. But did you c
 ## Review
 
 I can’t help but love everything that John Maxwell writes, and *Leadershift* is no exception! Society definitely has some traditions surrounding management that we need to annihilate, and this book does an excellent job of starting the process. Anyone that reads this book is going to benefit, too, not just people in authority!
-
-## Who it’s for
 
 The 57-year-old manager who wonders if their methods are outdated, the 31-year-old that is just beginning their career who wants to make a positive impact on all that they interact with, and anyone that needs some advice on how to bring out the full potential in others.

@@ -24,8 +24,6 @@ Unhappiness comes from the rider and the elephant disagreeing, and Haidt uses th
 
 For example, your limbic brain is trained to recognize danger everywhere, in order to survive, but by becoming an optimist, you can lessen this behavior, which isn’t quite so useful today.
 
-### The Happiness Hypothesis Summary
-
 A large chunk of our happiness comes from our **social relationships**, and the first step towards improving them, is understanding them.
 
 **Reciprocity** is the principle on which we interact, which is why you feel guilty if you don’t return a favor and Sheldon feels compelled to give a gift back. We feel so strongly about it, that we’d prefer to get nothing, rather than receiving an unfair share.
@@ -70,7 +68,5 @@ These blinks did an awesome job. I read parts of *The Happiness Hypothesis*, and
 I would have liked to learn about the formula here (Haidt gives a formula for happiness in the book, consisting of your biological set points, the conditions of your life, and your voluntary activities), but I don’t mind that they went for the rider and the elephant metaphor.
 
 Using this throughout all blinks made the summary very consistent and actionable. The book is great, the summary is superb – I highly recommend you get both.
-
-## Who it’s for
 
 The 27 year old who burns through one love relationship after another, the 47 year old who still slaves away in a corporate job she hates in hope for a good retirement and anyone who thinks happiness is just something your born with.

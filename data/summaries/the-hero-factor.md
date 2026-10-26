@@ -20,7 +20,7 @@ Do you want to become a heroic leader? Why don’t we get started and find out h
 
 ## Lesson 1
 
-### Caring for people and profits equally is the hallmark of heroic leadership.
+### Caring for people and profits equally is the hallmark of heroic leadership
 
 In business, you have to have profits to survive. Without positive cash flow, you can’t maintain your daily activities, let alone keep any employees. But your people are just as important as a steady stream of incoming cash. The way you take care of your team will make or break your business. So how do you make profits while caring for your employees at the same time?
 
@@ -32,7 +32,7 @@ Think of a boss that you’ve had that was open to your suggestions for their im
 
 ## Lesson 2
 
-### “Do as I say, not as I do” is a poor way to influence positively; instead, set the example for others to follow.
+### “Do as I say, not as I do” is a poor way to influence positively; instead, set the example for others to follow
 
 It’s one thing to see a company have a mission statement and values. But the feeling we get when we see people live their values is entirely different. Let’s look at a positive example of this to learn another level of heroic leadership.
 
@@ -46,7 +46,7 @@ Example is the best teacher and is one of the most vital components of heroic le
 
 ## Lesson 3
 
-### In your interactions with those you lead, focus on the relationship over the potential benefits it may give you.
+### In your interactions with those you lead, focus on the relationship over the potential benefits it may give you
 
 If you’ve seen the movie *Sully*, you know about the events of January 15th, 2009 in New York City. After an engine caught fire, Captain Chesley “Sully” Sullenberger successfully landed in the Hudson River, saving everyone on board. What happened afterward, however, is what can teach us even more about heroic leadership.
 
@@ -61,7 +61,5 @@ The contrast between these two experiences shows the power in caring for people 
 ## Review
 
 I really enjoyed *The Hero Factor*! It’s refreshing to see a perspective that promotes kindness in leaders rather than the rudeness, selfishness, and pride that far too many powerful leaders exhibit these days. This book helped me remember some of my favorite leaders and motivates me to try harder to be like them.
-
-## Who it’s for
 
 The 45-year-old manager who wants to be more of a mentor to their team, the 28-year-old entrepreneur who is searching for a new way to see success, and anyone wanting to improve their people skills.

@@ -18,7 +18,7 @@ Want to learn how most blogs *really* work? Here we go!
 
 ## Lesson 1
 
-### A blog is a business. And a business always needs to make money.
+### A blog is a business. And a business always needs to make money
 
 Nowadays, very few people blog as a hobby. Most bloggers do take their blogs very seriously, because they want them to make money. Whatever you’re doing, if you want to make money with it, it becomes a business.
 
@@ -32,7 +32,7 @@ For example, did you know that the Huffington Post was sold to AOL for $315 mill
 
 ## Lesson 2
 
-### As long as it gets a blog readers, it will publish anything, even if it’s crap.
+### As long as it gets a blog readers, it will publish anything, even if it’s crap
 
 To get to that many page views, it takes a lot of content. A few dozen blog posts won’t do here, you need hundreds, if not thousands of posts to attract that many visitors – **which means a lot of blogs will publish anything, as long as it creates buzz.**
 
@@ -42,7 +42,7 @@ A very common practice is to start with an attractive headline, which is then fi
 
 ## Lesson 3
 
-### Blogs are the new stages for public witch hunts in the 21st century.
+### Blogs are the new stages for public witch hunts in the 21st century
 
 The practice of publishing almost anything, as long as it turns heads, leads to blogs fostering and supporting something that’s been a problem for centuries – **public witch hunts**. While better than gladiator battles in ancient Rome, supposed witches being burnt at the stake or guillotine beheadings in the 1700’s, public shaming can still have dramatic consequences.
 
@@ -57,7 +57,5 @@ Running a blog like this one with a daily publishing model, this makes me worrie
 Most smart bloggers now focus on building an email list, and then creating products for their subscribers, as the amounts of traffic needed are too ridiculous to ever justify the effort of potentially never getting there. Blogs still have a lot of power in the public eye though, and you should know that with lots of power, there comes lots of responsibility.
 
 Very refreshing read, good summary, and a thrilling book. If you want more, I’ve written about another 14 lessons on my blog.
-
-## Who it’s for
 
 The 31 year old blogger, who might not exactly be publishing quality content, and thinks she could probably publish better posts if she spent more time on them, the 62 year old who might want to stick to his newspaper after reading this, and anyone who’s reading big news blogs on a regular basis.

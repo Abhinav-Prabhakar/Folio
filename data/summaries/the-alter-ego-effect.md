@@ -18,7 +18,7 @@ If you want to learn how to build an alter ego of your own and face your fears a
 
 ## Lesson 1
 
-### Use the five categories of change to improve your life and find your alter ego.
+### Use the five categories of change to improve your life and find your alter ego
 
 As we go through life, discomfort, pain, uncomfortable feelings, and many other challenges are likely to strike multiple times. Sometimes they may feel overwhelming, or impossible to get through, so what is there to do? Ask your alter ego! Your mind is an outstanding part of you. It is the most powerful tool you have at your disposal, so why not use it in your favour?
 
@@ -28,7 +28,7 @@ Let’s say you have a passion for dancing. You want to dance more, but you proc
 
 ## Lesson 2
 
-### Give your destructive emotions an alter ego and detach from it in difficult times.
+### Give your destructive emotions an alter ego and detach from it in difficult times
 
 Just like you can awaken silent talents within your alter ego, you can repress self-destructive behaviours and negative emotions in the same way. Start by attributing them to another character, and treat them like another person, different from you. You know this person well, but it is not you, and you want to get rid of them.
 
@@ -40,7 +40,7 @@ Look for your *“why”*, and ask yourself how to accomplish it. This process w
 
 ## Lesson 3
 
-### Align the attributes of your alter ego with your goals, and then access this super persona when you need them.
+### Align the attributes of your alter ego with your goals, and then access this super persona when you need them
 
 As we discussed the importance of an alter ego in your life and how it can help you increase performance, it’s time to move on to a more practical approach – how to create it and define it according to your goals and purpose, and how to give it life.
 
@@ -53,7 +53,5 @@ You can opt for impersonating a fantastic or real-life figure if you feel like i
 ## Review
 
 *The Alter Ego Effect* teaches you how to adopt a different mindset and get motivated by cooperating with an alter ego of your own. The author gives practical tips on how to overcome obstacles and become a top performer in your field. By implementing this psychological trick, you can awaken your hidden talents or certain skills that you are afraid to show or just don’t feel like it.
-
-## Who it’s for
 
 The 35-year-old entrepreneur looking to improve their efficiency and problem-solving skills, the 23-year-old graduate looking to increase their confidence and performance to advance in their professional life, or the 45-year-old who finds it hard to communicate effectively and is looking to repair their relationships by becoming more outgoing and sociable through a mindset change.

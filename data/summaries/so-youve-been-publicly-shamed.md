@@ -22,7 +22,7 @@ Let’s see if we can figure this out the causes and possible benefits of shame!
 
 ## Lesson 1
 
-### Many people feel that others are taking their public space and they pushing them out of areas they once occupied.
+### Many people feel that others are taking their public space and they pushing them out of areas they once occupied
 
 Gentrification is forcing people out of areas where they loved spending quality time. Online public humiliation is an effort to reclaim some control. It’s a weapon of collective power.
 
@@ -34,7 +34,7 @@ Another example is the online message board 4chan. **A popular meeting place for
 
 ## Lesson 2
 
-### In a crowd, even the most reserved and rational people can become impulsive and disorderly with little prompting.
+### In a crowd, even the most reserved and rational people can become impulsive and disorderly with little prompting
 
 Have you ever considered how a riot or mob action is born? How can a handful of agitated people infect the entire mass with their passion? Curiously, once this spark of anger grows into a flame, it results in a fever pitch then escalates into a full-blown riot.
 
@@ -46,7 +46,7 @@ Of course, not all group activity is like this chant. **Often, people engage in 
 
 ## Lesson 3
 
-### We can use public shaming to our advantage to deter crime.
+### We can use public shaming to our advantage to deter crime
 
 There’s a case involving a young shoplifter who received an unusual but effective sentence for his crimes. He was to parade through the store he shoplifted from while wearing a sign that read, “I STOLE FROM THIS STORE. DON’T BE A THIEF OR THIS COULD BE YOU.”
 
@@ -65,7 +65,5 @@ Clearly, shaming is a double-edged sword and policymakers must balance its use c
 ## Review
 
 I found *So You’ve Been Publicly Shamed* weirdly entertaining, in a satirical kind of way. At the same time, it’s unsettling that a simple tweet, Facebook post, or mean comment can be cause for instant ridicule. As a writer, I find this particularly bothersome. I never want to be the target of public shaming. My skin is thin enough as it is.
-
-## Who it’s for
 
 The 17-year-old high school senior who likes to troll on social media for attention, the 35-year-old flight attendant who takes inappropriate photos with statues from cities around the world, and anyone else thinking they are so creative with their mobile device.

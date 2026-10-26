@@ -16,11 +16,9 @@ In *The Light We Carry*, a follow-up to her popular memoir *Becoming*, Obama sha
 
 Want to carry your light no matter how dark the world gets? Let’s learn how!
 
-### The Light We Carry Summary
-
 ## Lesson 1
 
-### Fear can be protective or restrictive, and while one kind helps us, the other keeps us down.
+### Fear can be protective or restrictive, and while one kind helps us, the other keeps us down
 
 When Barack first told Michelle he wanted to run for president, she was apprehensive. Obama knew her husband would make a great leader, but she loved the life they had created for themselves in Chicago: two daughters, solid careers, and a stable relationship. A presidential campaign would upend all of this.
 
@@ -37,7 +35,7 @@ Once she better understood her fear, Obama could act in spite of it. She agreed 
 
 ## Lesson 2
 
-### Fear often sabotages us quietly; it’s rarely outright panic that derails us.
+### Fear often sabotages us quietly; it’s rarely outright panic that derails us
 
 Sometimes, fear is obvious. When you’re applying for your first job out of college, the fear of failure will stare you right in the face. But it’s not only during big life decisions, when we can plainly feel fear affecting us, that this emotion hinders us from fulfilling our potential.
 
@@ -49,7 +47,7 @@ Fear quietly sabotaged Sarah. **Her misunderstanding of change only opened the d
 
 ## Lesson 3
 
-### Use the 3-part process of breathing, reflecting, and planning, to handle acute onsets of fear.
+### Use the 3-part process of breathing, reflecting, and planning, to handle acute onsets of fear
 
 To live our best despite our fears, we must first identify them, but since fears are often subtle, that’s easier said than done. From Trump undoing much of what she and Barack had accomplished to the Covid-19 pandemic to George Floyd‘s murder, Obama has had plenty of acute-fear moments in her post-White House career.
 
@@ -66,7 +64,5 @@ Fear affects everyone, from babies to millionaires to presidents and first ladie
 ## Review
 
 *The Light We Carry* is more tactical than *Becoming*, aiming to answer readers’ many follow-up questions and offer more practical tools for finding confidence and grace every day. Obama manages to do both while telling more fascinating stories in her typically candid, humorous yet empathetic style. That makes this a book worth reading for fans and fear-fighters alike!
-
-## Who it’s for
 
 The 17-year-old struggling athlete who gets bullied in high school, the 59-year-old executive who’s afraid of stepping into a less day-to-day, more strategic leadership role, and anyone who thinks Michelle Obama kicks ass.

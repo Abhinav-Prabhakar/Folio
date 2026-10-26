@@ -22,7 +22,7 @@ If you want to understand them better, keep reading, as we’ll explore The Grea
 
 ## Lesson 1
 
-### To understand Awareness and yourself, use this enlightening exercise.
+### To understand Awareness and yourself, use this enlightening exercise
 
 It can be tough to understand the abstract concept of Awareness. What does it even mean? You’re surely aware right now, so isn’t that enough? Well, real Awareness goes deeper than that. It’s about being in touch with your core essence, the one that is so personal to you and defines who you really are, even after death.
 
@@ -36,7 +36,7 @@ Thirdly, you need to practice staying in Awareness. Here you have to zoom out an
 
 ## Lesson 2
 
-### The product of your mind is not the reality you objectively live in.
+### The product of your mind is not the reality you objectively live in
 
 There is a fundamental difference between what you think really happens and what actually happens in the world around you. The Great Secret explains that your perception of reality is actually based on an interpretation of what your senses are telling you.
 
@@ -48,7 +48,7 @@ Therefore, next time you’re replaying negative thoughts or limiting yourself, 
 
 ## Lesson 3
 
-### Awareness can help you get out of the negative veil your mind has built around you.
+### Awareness can help you get out of the negative veil your mind has built around you
 
 Our thoughts create our reality. It says that there is no such thing as coincidence or luck, but instead, we attract things into our lives by what we think about. This is called the Law of Attraction and it’s been around since ancient times, but was recently rediscovered by Rhonda Byrne.
 
@@ -67,7 +67,5 @@ The author of *The Great Secret* and the best-selling book, *The Secret*, Rhonda
 In other words, if you think positively enough, you’ll be able to manifest all your dreams into reality. The same goes for negative thinking.
 
 If you tell yourself negative things and impose limits on yourself, your life will start going downwards. To break this flawed thinking system, you need to tap into your Awareness, and that’s exactly what this book teaches you how to do.
-
-## Who it’s for
 
 The 30-year-old who has recently discovered their spiritual side, the 40-year-old who feels deeply unfulfilled internally and wants to turn their life around, or the 38-year-old life coach who needs to lift their spirit too and deepen their knowledge in the field.

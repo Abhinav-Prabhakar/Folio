@@ -24,7 +24,7 @@ Let’s jump right into these lessons and see how great companies happen!
 
 ## Lesson 1
 
-### Keep your eye out for great opportunities, but analyze the situation thoroughly before you jump into anything.
+### Keep your eye out for great opportunities, but analyze the situation thoroughly before you jump into anything
 
 Sometimes, in the world of entrepreneurship, it seems like all it takes is hard work to get things off the ground. While you have to put in the effort, it’s not everything. If you don’t have a good idea, it’ll never take off.
 
@@ -38,7 +38,7 @@ In the end, the unappealing job helped him keep afloat until he got a round of f
 
 ## Lesson 2
 
-### Position your brand creatively if you want to stand out.
+### Position your brand creatively if you want to stand out
 
 As you start your company you might get some money from your parents and a few friends. Maybe you even invest your life savings. But that still won’t be enough, unfortunately.
 
@@ -56,7 +56,7 @@ To get that priceless word-of-mouth marketing going, simply make a fantastic pro
 
 ## Lesson 3
 
-### You’ve got to let go of your pride if you want to be resilient when a crisis strikes.
+### You’ve got to let go of your pride if you want to be resilient when a crisis strikes
 
 As the COVID-19 pandemic has taught us, nobody is immune to catastrophe, whether it’s an act of God or a mistake. And no matter the reasons, you as the leader must take responsibility for dealing with it all.
 
@@ -73,7 +73,5 @@ And not only the choice restore people’s faith in Tylenol, but within just a f
 ## Review
 
 *How I Built This* is awesome because the companies that Guy Raz speaks with on the podcast provide the proof that the tips in the book work! I love hearing these stories of how to succeed in business and they’re really inspiring. If you like the *How I Built This* podcast then you need to read this book!
-
-## Who it’s for
 
 The 47-year-old who is sick of their job and wants to start their own company but is afraid of all the unknowns, the 26-year-old that thinks they might try their hand at business and wants some inspiration, and anyone with an entrepreneurial mindset.

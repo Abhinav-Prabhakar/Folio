@@ -22,11 +22,9 @@ Here are the 3 most crucial principles I’ve learned:
 
 Are you ready to start having positive and constructive conversations when it really counts? Let’s get going!
 
-### Crucial Conversations Summary
-
 ## Lesson 1
 
-### Stick to your goals during the discussion so you don’t get overly emotional.
+### Stick to your goals during the discussion so you don’t get overly emotional
 
 When emotions run high in a conversation and we no longer feel safe, there are two ways it can go: silence or violence. Neither of these options provides a solution. In a crucial conversation, we need a solution or we will be stuck. How do we avoid this? We remember our goal.
 
@@ -40,7 +38,7 @@ If you need to tell someone something that might upset them, ask yourself things
 
 ## Lesson 2
 
-### Listen to the other person’s opinions to help them feel safe in the conversation.
+### Listen to the other person’s opinions to help them feel safe in the conversation
 
 Have you ever noticed that even the most seemingly harmless of conversations sometimes get heated? The authors explain that this usually stems from the fact that someone feels unsafe.
 
@@ -50,24 +48,24 @@ The key to helping people feel safe is to listen to what they have to say. This 
 
 **Ther are four steps you can take to really listen to someone, summarized in the acronym AMPP: Ask, mirror, paraphrase, and prime.**
 
-1. **A** sk (to get the ball rolling) Start by saying things like “I would love to hear your opinion about…”
-2. **M** irror (to confirm feelings) This is saying things like “You look unsure…” Explain to them what you sense from the situation, in a calm and understanding tone.
-3. **P** araphrase (to acknowledge their story) This will be “So if I understand you correctly…” Use this to understand how they feel.
-4. **P** rime (if you are getting nowhere) If someone clams up, we might need to encourage them to speak by suggesting what we think they might be feeling. “I guess you must think I’m being unfair…”
+1. **A**sk (to get the ball rolling) Start by saying things like “I would love to hear your opinion about…”
+2. **M**irror (to confirm feelings) This is saying things like “You look unsure…” Explain to them what you sense from the situation, in a calm and understanding tone.
+3. **P**araphrase (to acknowledge their story) This will be “So if I understand you correctly…” Use this to understand how they feel.
+4. **P**rime (if you are getting nowhere) If someone clams up, we might need to encourage them to speak by suggesting what we think they might be feeling. “I guess you must think I’m being unfair…”
 
-Much like in Stephen Covey’s *7 Habits of Highly Effective People* *,* we must “seek first to understand, then be understood.” This will make your conversational partner feel safe enough to open up in the conversation. Then you can move forward.
+Much like in Stephen Covey’s *7 Habits of Highly Effective People* , we must “seek first to understand, then be understood.” This will make your conversational partner feel safe enough to open up in the conversation. Then you can move forward.
 
 ## Lesson 3
 
-### Use the STATE acronym to resolve a conflict.
+### Use the STATE acronym to resolve a conflict
 
 Crucial conversations are highly charged on both ends. But they don’t have to end in silence or violence. If you want to resolve conflict before it escalates, you can use the STATE method.
 
-1. **S** hare the facts. When you begin the conversation, make sure you give the facts, and not your story.
-2. **T** ell your story. Next, you can tell your story and share the assumptions you made.
-3. **A** sk for the other’s paths. Let them tell their story.
-4. **T** alk tentatively. Remind yourself that your assumptions are not facts.
-5. **E** ncourage testing. Encourage the other person to tell their viewpoint, even if it is opposite from yours.
+1. **S**hare the facts. When you begin the conversation, make sure you give the facts, and not your story.
+2. **T**ell your story. Next, you can tell your story and share the assumptions you made.
+3. **A**sk for the other’s paths. Let them tell their story.
+4. **T**alk tentatively. Remind yourself that your assumptions are not facts.
+5. **E**ncourage testing. Encourage the other person to tell their viewpoint, even if it is opposite from yours.
 
 After you calm the conflict, work toward a solution. This can happen in a variety of ways, like setting boundaries, having a vote, letting one person make a decision, brainstorming a solution together, or ending the relationship entirely if best for both parties.
 
@@ -76,7 +74,5 @@ The important thing is if you want to be effective in the crucial conversations 
 ## Review
 
 I feel like I could only scratch the surface on this one because there is just so much to learn from *Crucial Conversations.* This book will help you deal with high-stakes situations not only at work or other formal settings but also in your personal life. If you use the methods, you will be able to have more healthy and fruitful conversations, which everyone could use. I would recommend this as a great read for anyone since conversation is such a significant part of all of our lives every day.
-
-## Who it’s for
 
 The 43-year-old mother who is struggling to connect with her teenage daughter, a 51-year-old boss who needs to know how to give constructive criticism to his employees, and anyone who struggles to get through tough conversations.

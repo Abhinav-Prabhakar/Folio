@@ -20,7 +20,7 @@ Are you curious about what this book can teach you about becoming smarter? Let�
 
 ## Lesson 1
 
-### There are two types of curiosity that will help you develop this trait better.
+### There are two types of curiosity that will help you develop this trait better
 
 Leslie explains that curiosity can be broken down into two basic types: diversive and epistemic. Diversive curiosity is the kind where we crave the novelty or newness of something we haven’t encountered before. It is good for getting us interested in a new topic, but often it can be superficial and impulsive, such as the need to know about a celebrity break-up.
 
@@ -34,7 +34,7 @@ All of this is not to say that we should only have the second type of curiosity.
 
 ## Lesson 2
 
-### The internet can either hinder or help your intelligence depending on how you use it.
+### The internet can either hinder or help your intelligence depending on how you use it
 
 Most of us can agree that the internet can both hinder and help learning. Never before have humans been able to look up anything, and in seconds, have everything there is to know about that subject. But even though we have access to all of this knowledge, many of us use the internet to watch videos of cats and read comments of strangers arguing.
 
@@ -48,7 +48,7 @@ It is believed that this disparity will further widen disparities through the ed
 
 ## Lesson 3
 
-### Asking a lot of questions is the secret of wise people that keeps them curious.
+### Asking a lot of questions is the secret of wise people that keeps them curious
 
 The author encourages us to ask ourselves how many questions we ask in a day. The truth is, you should probably be asking more if you want to learn. Our asking questions is essential to us discovering the information we need. In addition, studies teach us that we can encourage others to ask questions by asking questions ourselves.
 
@@ -59,7 +59,5 @@ As adults, we often ask fewer questions because we’re afraid to seem ignorant 
 ## Review
 
 *Curious* is a fascinating book! I’m confident that learning and applying these lessons to become more inquisitive will make you smarter than everybody around you. I’ve always loved asking questions, and this book gave me an even greater appreciation for it!
-
-## Who it’s for
 
 The 35-year-old that loves to learn about psychology, the 55-year-old who doesn’t see why the internet is making them dumber, and anyone that wants to become smarter than most people.

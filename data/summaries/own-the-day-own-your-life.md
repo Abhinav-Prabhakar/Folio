@@ -20,7 +20,7 @@ There are many ways most of us can improve our lives with small changes, so let�
 
 ## Lesson 1
 
-### Drink water first thing in the morning, not coffee.
+### Drink water first thing in the morning, not coffee
 
 I love coffee. It’s my and millions of other people’s go-to drink in the morning. As a writer, it’s even part of my creative routine, maybe my most important ritual. That said, for the past two years or so, I have made it a priority to drink at least one large glass of water first thing after waking up. Headache problems run in my family and this really helps.
 
@@ -30,7 +30,7 @@ If you don’t rehydrate before having your cup of joe, it hits the bloodstream 
 
 ## Lesson 2
 
-### Naps are the best way to improve your after-lunch productivity levels.
+### Naps are the best way to improve your after-lunch productivity levels
 
 In Asian culture, it’s very common for employers to provide pillows and spaces so that workers can take naps after lunch. This may sound like a great job benefit, but it’s actually also a smart move. According to science, the nap is the best way to get back to being productive after lunch.
 
@@ -42,7 +42,7 @@ Now, a big counter-movement is happening, with some of the world’s most powerf
 
 ## Lesson 3
 
-### Set exercise goals that benefit your overall health, not just one area of your fitness, to avoid causing damage.
+### Set exercise goals that benefit your overall health, not just one area of your fitness, to avoid causing damage
 
 When my doctor first told me swimming was the best kind of exercise for my strained knees, I wasn’t too happy. I thought it was the world’s most boring sport. I was also terrible at it. With time and practice, though, I came to love it.
 
@@ -55,7 +55,5 @@ You might look super healthy and fit now, but if you skip leg day too often, you
 ## Review
 
 *Own The Day, Own Your Life* is simple, but not overly simplistic. It’s packed with evidence as to why the tactics presented work and enough context to help you implement them in your life. Marcus acknowledges that not everything will work for everyone, so you’ll still have to choose and try, but I’m sure most people can find at least several points worth testing in this book.
-
-## Who it’s for
 
 The 32 year old consultant, who mostly runs on coffee and suffers frequent headaches, the 37 year old branding specialist, who’s always tired after lunch, and anyone who mostly hits the gym to look good.

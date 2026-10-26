@@ -18,11 +18,9 @@ Here are 3 great lessons I took away from this book:
 
 Are you ready to live to a ripe old age and still be healthy? Let’s learn!
 
-### How Not To Die Summary
-
 ## Lesson 1
 
-### The medical industry often ignores the biggest health problem of all which is poor diet.
+### The medical industry often ignores the biggest health problem of all which is poor diet
 
 People are now living longer than they used to, but does that mean they live healthier? Not necessarily. In a study of 42,000 people 100 years and older autopsied after death, researches found the vast majority died with a chronic disease. So we may be living longer, but we are more likely to die of disease than of old age. **The biggest culprit behind the increase of chronic disease over the years is diet.**
 
@@ -32,7 +30,7 @@ Some research even suggests that diet can be more effective than drugs. In one s
 
 ## Lesson 2
 
-### Adopt a diet full of whole fruits and vegetables will prevent disease and prolong your life.
+### Adopt a diet full of whole fruits and vegetables will prevent disease and prolong your life
 
 Okay so now that you understand the importance of having a healthy diet, let’s get down to the details of what to eat.
 
@@ -46,7 +44,7 @@ In addition to fruits and veggies, Greger teaches that other essential foods you
 
 ## Lesson 3
 
-### Exercising will help you reap the most benefits from the plant-based diet.
+### Exercising will help you reap the most benefits from the plant-based diet
 
 Adopting the plant-based diet will do wonders for you down the road. But if you really want the recipe for a long and healthy life, combine it with regular exercise.
 
@@ -59,7 +57,5 @@ If this time commitment sounds intimidating, Greger says something is better tha
 ## Review
 
 *How Not to Die* highlights a huge pitfall in Western Medicine today: the tendency to immediately turn to drugs rather than changing diet. Greger explains the problems with the system and goes in-depth on what the research really says about nutrition. Eating whole foods doesn’t just prevent disease, in some cases, it can actually reverse it and adds years to your life.
-
-## Who it’s for
 
 The 35-year-old with a family history of colon cancer, the 67-year-old with heart disease, and anyone who wants to live a healthier, longer life.

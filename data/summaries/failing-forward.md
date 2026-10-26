@@ -20,7 +20,7 @@ Ready to stop falling and start failing, but failing forward? Let’s learn how 
 
 ## Lesson 1
 
-### You might not be responsible for your failures, but you can sure take responsibility for your success.
+### You might not be responsible for your failures, but you can sure take responsibility for your success
 
 This year the G20 summit took place in Hamburg, Germany. It’s an important political event on a global scale, with some of the world’s most powerful countries’ leaders sitting together, talking about economics, finances, health, security, and so on. There are always protesters demonstrating for certain causes during the event, but this year, it was engulfed in a wave of vandalism.
 
@@ -34,7 +34,7 @@ It’s not always your fault when things go wrong. But when you give up and sit 
 
 ## Lesson 2
 
-### Turn failure into knowledge and knowledge into success.
+### Turn failure into knowledge and knowledge into success
 
 Maxwell tells an interesting story from another classic book, *Art & Fear* by Ted Orland. The teacher of a ceramics class divides her students into two groups. She told the first group they’d be graded based on how many pieces they created over the course of the class. The second group was supposed to make just one piece of pottery, but make that the best they can.
 
@@ -49,7 +49,7 @@ Make more. Quantity over quality. Be determined to understand your failures. And
 
 ## Lesson 3
 
-### Three things help you make the most of the opportunities that come your way.
+### Three things help you make the most of the opportunities that come your way
 
 When your perspective shifts and failure slowly begins to transform into the stepping stone it actually is, you’ll be much more willing to take each and every single opportunity that comes your way. But just because failing isn’t so bad any more that doesn’t mean you should set out to bomb on purpose.
 
@@ -64,7 +64,5 @@ These are just starting points. But not only will they help you make the most of
 ## Review
 
 John C. Maxwell’s most popular book is *The 21 Irrefutable Laws Of Leadership*. This one isn’t quite as practical. It’s more on the inspirational side. But if it gets you to adjust your perspective about failure even slightly, it’ll be well worth your time. If you liked this summary, give *Failing Forward* a go.
-
-## Who it’s for
 
 The 33 year old brick and mortar store owner, the 65 year old hobby artist, who’s frustrated about not getting anywhere with her new hobby, and anyone who shudders at even the thought of a test.

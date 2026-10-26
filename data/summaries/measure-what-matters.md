@@ -22,7 +22,7 @@ Are you ready for some dramatic improvements to your ability to set and achieve 
 
 ## Lesson 1
 
-### If you want to stay on course toward your goals, you need to use objectives and key results (OKRs).
+### If you want to stay on course toward your goals, you need to use objectives and key results (OKRs)
 
 First, let’s recognize that this book teaches these skills primarily to businesses. But don’t let that stop you from finding ways to implement the lessons here in your personal life!
 
@@ -36,7 +36,7 @@ To make the best use of this system, record your progress on KRs frequently. The
 
 ## Lesson 2
 
-### Constantly track how you’re doing to realign yourself when you get off track.
+### Constantly track how you’re doing to realign yourself when you get off track
 
 I use a personal tracking system to help me keep up with my own objectives quarterly and key results daily. Sometimes I find that midway through a quarter, I need to make some adjustments. This is easy to do because of the way I’ve set it up, which is a major benefit of OKRs as well.
 
@@ -57,7 +57,7 @@ In some cases though, you may finish one goal and want to **start** another, whi
 
 ## Lesson 3
 
-### Aim big and push yourself beyond your limits if you want to become successful.
+### Aim big and push yourself beyond your limits if you want to become successful
 
 Landing on the moon in 1969 almost seems like a distant piece of history now. But did you know that this was an ambitious goal that pushed NASA to its limits? Just think what would have happened had they not undertaken such a seemingly daunting task!
 
@@ -74,7 +74,5 @@ They use **committed objectives** for the tasks that must have 100% completion f
 ## Review
 
 I enjoyed *Measure What Matters*, there’s a lot of good advice here for executives especially. I don’t think this means you can’t take what the book teaches and apply it on a personal level, though. In fact, I believe anyone can apply these principles regardless of their status in the company.
-
-## Who it’s for
 
 The 52-year-old CEO who is looking for a better way to unify the company’s growth efforts, the 34-year-old who is just beginning their own business and wants to start off on the right foot, and anyone that wants to learn how accountability will make them more productive.

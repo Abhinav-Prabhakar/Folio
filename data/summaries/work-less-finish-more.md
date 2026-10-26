@@ -18,7 +18,7 @@ Here are my favorite 3 lessons from the book:
 
 ## Lesson 1
 
-### There are 6 principles of productivity that everyone should follow.
+### There are 6 principles of productivity that everyone should follow
 
 Similar to science, productivity works based on principles. The first one is the *Pareto principle* from mathematics, which states that 80% of the effects come from 20% of the cause. Identify what is it that matters most in your work and focus on that. For example, stop checking emails more than twice per day, as they are not relevant for your ongoing work.
 
@@ -32,7 +32,7 @@ The last principle is that *your success comes from your habits*. Similar to the
 
 ## Lesson 2
 
-### Being productive implies prioritizing and giving up meaningless activities.
+### Being productive implies prioritizing and giving up meaningless activities
 
 Every day we have to make choices. Even if we don’t realize it, we make dozens of choices, from where to have our coffee, to more important decisions, such as the ones related to our job or family. This lesson is about how we make our choices and how we prioritize our activities.
 
@@ -44,7 +44,7 @@ Oftentimes, when we are really ready to take charge of our life, many obstacles 
 
 ## Lesson 3
 
-### Tidying up your life, from the mail inbox to your space, can enhance productivity.
+### Tidying up your life, from the mail inbox to your space, can enhance productivity
 
 Our environment sets the tone for us. When our house is clean and our space is organized, it is easier for us to get things done and become more efficient. Therefore, this is where you should start your journey towards being more disciplined and productive. **Keep in mind that Americans need less than ten percent of what they use, according to the book.**
 
@@ -57,7 +57,5 @@ When was the last time you went through all your emails and sorted out your inbo
 ## Review
 
 *Work Less Finish More* is a valuable book about productivity and how it can be achieved, as it offers top-tier advice that everyone can implement and see improvements right away. The author explains the principles of productivity in a manner that makes any reader understand what it is that stands in their way to achieving their objectives and how to overcome that. The readers will feel empowered to take charge of their life and improve many areas of their life after reading this book.
-
-## Who it’s for
 
 The stay-at-home parent who wants to use productivity for parental duties and household chores, the student who wants to organize his coursework and learn more efficiently, or the person looking to become more productive in their everyday life to reduce the time and money input used in their activities.

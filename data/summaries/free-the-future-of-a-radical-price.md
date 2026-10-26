@@ -18,7 +18,7 @@ Ready for a radical shift in how you think about pricing in a digital world? Let
 
 ## Lesson 1
 
-### Free used to be a way of just shifting the price of a good to something else.
+### Free used to be a way of just shifting the price of a good to something else
 
 Have you ever heard the saying “there ain’t no such thing as a free lunch?” It means that if something is free, you should be suspicious, as there’s usually a catch to it.
 
@@ -32,7 +32,7 @@ Until the internet came around, we always paid for free stuff – in one way or 
 
 ## Lesson 2
 
-### We now live in a gift economy, in which attention is how we measure the value of things.
+### We now live in a gift economy, in which attention is how we measure the value of things
 
 Introducing: the gift economy. In today’s online world, things can truly be free. With digital goods, you can have lots of content that really is 100% free. You can read it, watch it, listen to it and consume it any way you like, without having to buy anything else to make it work or to ever spend a time.
 
@@ -44,13 +44,11 @@ This value is measured in countless ways: likes, shares, followers, time spent o
 
 ## Lesson 3
 
-### Create something and give it away for free, then find out what your fans want and charge for that.
+### Create something and give it away for free, then find out what your fans want and charge for that
 
 Okay great, but you can’t exactly eat attention, can you? So how do you make money with digital products and content? This is where freemium comes in. A combination of the words “free” and “premium,” this describes a business model which gives the basic product away for free – and then charges for extra features, services and related products.
 
 To sell something, you need peoples’ attention, and making your stuff free is what gets it – so that’s how you draw people in. **Once you have an audience, you can then figure out what else they want, and sell them just that**.
-
-For example, Four Minute Books is built for people who like book summaries, but for everyone who wants more or longer summaries than the ones I write, I offer a coupon for Blinkist, a paid service that has more book summaries than I could ever provide. When people sign up I get an affiliate commission, and that’s how this site makes money while offering you everything for free.
 
 Of course there are lots of ways to make money once you have attention. For example, I plan to create a lot more products in 2017, such as books, courses, etc.
 
@@ -59,7 +57,5 @@ So if you want to join the action and make money online, start by offering somet
 ## Review
 
 A very powerful book, especially given it came out in 2009 already – very visionary at the time! It makes a few very good points and most of its predictions ring true. If you’re curious about online business, *Free: The Future Of A Radical Price* is a must read!
-
-## Who it’s for
 
 The 23 year old, who’s dying to start an online business, but has no clue how, the 42 year old marketer, who’s still trying to pull of “free” campaigns the old way, and anyone who has an audience, but doesn’t know what to do with it.

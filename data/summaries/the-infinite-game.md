@@ -26,11 +26,9 @@ In today’s summary, we’ll look at the basics of finite and infinite thinking
 
 Do you want to build a company that can last for generations? Then let’s jump into the infinite game of business!
 
-### The Infinite Game Summary
-
 ## Lesson 1
 
-### The world is full of both finite and infinite games, but business is infinite and must be played with an according mindset.
+### The world is full of both finite and infinite games, but business is infinite and must be played with an according mindset
 
 Soccer is an excellent example of a finite game. There’s a limited field on which the game is played. The rules are clear. There’s a set time for when the game begins and ends, a mechanism for keeping score, and a list of winners and losers after the fact.
 
@@ -46,7 +44,7 @@ Business is an infinite game. If you play it, think long-term, cooperate with ot
 
 ## Lesson 2
 
-### Infinite thinking requires a Just Cause, and yours must meet 5 criteria to keep you advancing with purpose.
+### Infinite thinking requires a Just Cause, and yours must meet 5 criteria to keep you advancing with purpose
 
 Sinek quotes a study that suggests S&P 500 company lifespans have declined by over 40 years, from 61 on average to 18. Why? Fewer and fewer companies try to advance a “Just Cause.”
 
@@ -64,7 +62,7 @@ Try defining one for yourself, and see if it meets all the criteria!
 
 ## Lesson 3
 
-### Worthy Rivals feel like competitors, but they can actually help us learn and improve.
+### Worthy Rivals feel like competitors, but they can actually help us learn and improve
 
 For years, Sinek had a silent competition going with Adam Grant, author of *Originals*. When he finally met him at an event, Sinek realized: “The way I saw him had nothing to do with him. It had to do with me.”
 
@@ -79,7 +77,5 @@ This is what differentiated Apple from Microsoft through much of the early 2000s
 ## Review
 
 Having read about half of its chapters, I’m pretty sure this isn’t Simon Sinek’s best book but still well worth your time. For the basics of finite and infinite games, read *Finite and Infinite Games*. To learn more about your Just Cause, Worthy Rivals, and the other concepts, pick up this inspiring and thought-provoking book. Even if you end up skipping the more common-sense chapters, this will be a few hours well-spent.
-
-## Who it’s for
 
 The 17-year-old ambitious athlete who throws a tantrum every time he loses a game, the 42-year-old CFO who sometimes fails to see the big picture for all the numbers, and anyone who wants to build a business that can survive for 100 years or more.

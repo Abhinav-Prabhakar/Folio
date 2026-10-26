@@ -18,7 +18,7 @@ Let’s go on and explore these interesting lessons in detail to reveal the key 
 
 ## Lesson 1
 
-### Ditch the traditional studying practices and adopt the right habits of successful learning.
+### Ditch the traditional studying practices and adopt the right habits of successful learning
 
 Growing up, we were taught that studying implies repeating the same notion countless times till you get it right. Or that doing the same type of mental exercise will ultimately lead to mastering the subject. However, this approach to studying has proved to be counterproductive and ineffective. **In fact, studying by repeating continuously will even fade away in a short period of time.**
 
@@ -28,7 +28,7 @@ So what’s the alternative? Isn’t this what we were taught to do growing up? 
 
 ## Lesson 2
 
-### Practice retrieval to gain full mastery of a subject.
+### Practice retrieval to gain full mastery of a subject
 
 So far we’ve discussed the downsides of repetitive studying. By re-reading and highlighting fragments of your lecture, you’re only subjecting your brain to an increased effort that doesn’t pay off. However, adding a simple, yet effective twist to this practice can change its outcome considerably. Next time you’re struggling to retain something, try repeating paragraphs or bits of information in spaced-out sessions.
 
@@ -40,7 +40,7 @@ Doing so will activate your brain and make it look for information in your memor
 
 ## Lesson 3
 
-### Elaborating on a topic and explaining it in simple words will make you understand it better.
+### Elaborating on a topic and explaining it in simple words will make you understand it better
 
 Elaborating on a topic can help you reveal some aspects that remained hidden until that point. Thus, making you gain a deeper understanding of that subject. When you get to talk about what you’ve read and studied, your brain is actively looking for ways to make sense of the information, which in turn will make you remember it more easily.
 
@@ -51,7 +51,5 @@ Another way to make information stick is by linking it to already existing infor
 ## Review
 
 If you’ve ever found yourself studying restlessly, but not retaining information, *Make It Stick* is the right book for you. Not only will this book reveal why the traditional studying methods we’ve been taught all along are wrong, but it will offer a series of valuable practices that can help anyone retain more information for a prolonged period of time. If you want to find out how to learn successfully and become more knowledgeable in any domain, make sure to give this book a read.
-
-## Who it’s for
 
 The 20-year-old college student who finds it hard to study for their exams, the 26-year-old person who’s taking a course while being a full-time employee and wants to make the most out of their time when studying, or the 40-year-old person who wants to learn new things to advance in their career.

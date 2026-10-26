@@ -18,7 +18,7 @@ Ready to become resilient? Let’s jump right in!
 
 ## Lesson 1
 
-### We need to accept that we’re going to fail if we want to be successful at anything in life.
+### We need to accept that we’re going to fail if we want to be successful at anything in life
 
 In ancient Greece, merchants who owned failed businesses had to sit in the marketplace with a basket over their heads while others ridiculed them for their failures. Pretty harsh, right? Modern society isn’t so bad, but our fear of failure lives on.
 
@@ -34,7 +34,7 @@ Obviously, failure is important to success, but not everyone is going to be acce
 
 ## Lesson 2
 
-### Use “fail fast” to help people make the most of failure.
+### Use “fail fast” to help people make the most of failure
 
 The idea of a fail-fast originates from systems design. It is a technology that promptly reports problems that could likely result in serious issues down the line. When it reports a problem, operations are paused so the flaw can be fixed. You can do something similar in day-to-day work.
 
@@ -48,7 +48,7 @@ Challenges will help people come up with creative solutions but also keep the st
 
 ## Lesson 3
 
-### Purpose enables you to bounce back even when things get rough.
+### Purpose enables you to bounce back even when things get rough
 
 When we know what we’re doing and why we’re doing it, we’re a lot more likely to be resilient. It’s the “why” that gets someone through grueling training for a marathon. Having a sense that what we’re doing means something helps us persevere.
 
@@ -68,7 +68,5 @@ Your purpose, or you ikigai, should be where all of these overlap. Finding this 
 ## Review
 
 I thought *Bounce Back* was helpful for developing strategies for becoming more resilient in the workplace. A lot of the advice was stuff you have probably heard in other self-help books, but this book condensed it nicely and was easy to understand. My only regret about it was that I didn’t have time to share more lessons!
-
-## Who it’s for
 
 The 32-year-old dad who’s just lost his job and feels discouraged, the 57-year-old executive that’s failed a lot recently and wonders if she can still make it, and anyone wanting to develop their resilience muscle.

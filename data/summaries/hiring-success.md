@@ -22,7 +22,7 @@ Alright, now we’ve got a better idea of what this book is about. How about we 
 
 ## Lesson 1
 
-### Run effective campaigns for your open positions and attract better job applicants.
+### Run effective campaigns for your open positions and attract better job applicants
 
 The world runs on an ongoing relationship between supply and demand. Naturally, you can see this happening in the process of recruiting job applicants for positions of all kinds. When companies open up vacancies, unemployed people apply in the hope they’ll get accepted. But how can one make sure they’re good for each other?
 
@@ -34,7 +34,7 @@ Sometimes you’ll have to even employ a third party to do that for you, dependi
 
 ## Lesson 2
 
-### A creative marketing campaign for your job opening will likely attract more leads.
+### A creative marketing campaign for your job opening will likely attract more leads
 
 Have you ever heard of guerilla marketing? If not, let’s talk about it! Essentially, it is a form of marketing that implies using unconventional, outside-the-box methods to grab people’s attention. When you get creative with your audience, they’re more likely to engage with you.
 
@@ -46,7 +46,7 @@ Another way to attract talent is a method used by Google, known as a referral. T
 
 ## Lesson 3
 
-### Be consistent when it comes to hiring and maintaining talent in your company.
+### Be consistent when it comes to hiring and maintaining talent in your company
 
 One good hire won’t instantly make your company successful, nor will it influence it from an organizational point of view. **To keep a healthy, learning working environment, you have to be consistent when it comes to the people that come through your door.**
 
@@ -59,7 +59,5 @@ Lastly, build a reliable recruiting team. The other side of the rope is equally 
 ## Review
 
 This book focuses not only on the importance of human resources in any company but also on how to acquire them and what it takes to build a robust organization. *Hiring Success* will teach you how to screen applicants, what a good recruitment team looks like, and how to advertise for your vacancies, among many other things. Reading it can help you get accustomed to the good practices of a prosperous company when it comes to its human resources.
-
-## Who it’s for
 
 The 40-year-old human resources manager who wants to attract skilled and talented future employees, the 22-year-old human resource management student who wants to absorb useful information and disrupt this industry, or a 27-year-old job-seeker looking for ways to get accepted into top-tier companies.

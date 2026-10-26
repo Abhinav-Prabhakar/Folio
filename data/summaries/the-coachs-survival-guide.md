@@ -18,7 +18,7 @@ Excited to learn more about what it takes to become a coach? Let’s find out!
 
 ## Lesson 1
 
-### Getting certified isn’t the only to get the required credibility it takes to be a good coach.
+### Getting certified isn’t the only to get the required credibility it takes to be a good coach
 
 The idea of leaving your current career to become a coach is exciting. One man named Simon was particularly motivated to leave his local government job because of the high hourly rates he’d heard about.
 
@@ -34,7 +34,7 @@ One coach named Doreen wanted to focus on coaching people in Higher Education po
 
 ## Lesson 2
 
-### If you want to become a coach, you need to be ready to deal with imposter syndrome.
+### If you want to become a coach, you need to be ready to deal with imposter syndrome
 
 In the author’s mind, Lauren is a coach that is great at helping her clients overcome even the toughest difficulties. But Lauren wouldn’t agree with this conclusion about herself.
 
@@ -54,7 +54,7 @@ Combat this by remembering your training and, as mentioned earlier, your coachin
 
 ## Lesson 3
 
-### To give the best advice to others, you need to get your own work and life in order first.
+### To give the best advice to others, you need to get your own work and life in order first
 
 If you get excited about your passions like I do, you might struggle with letting them overrun your life. Coaching is fun, but also no exception to this rule.
 
@@ -73,7 +73,5 @@ Also, find other hobbies and passions that you can devote your time and energy t
 ## Review
 
 I really enjoyed *The Coach’s Survival Guide*. One of my favorite parts was how simple and actionable the advice is. It seems to be geared more toward those who choose to get certified as a coach, but there’s still a lot of good information in here for non-certified coaches too.
-
-## Who it’s for
 
 The 35-year-old office worker who is considering becoming a coach, the 59-year-old executive that wants to learn more about how they can coach their employees better, and anyone who wants to get started with life coaching.

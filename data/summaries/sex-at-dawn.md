@@ -20,7 +20,7 @@ Let’s start asking some questions!
 
 ## Lesson 1
 
-### Monogamy first rose with agriculture, but not in a good way.
+### Monogamy first rose with agriculture, but not in a good way
 
 The switch from our ancestors’ sexual “sharing is caring” mentality in their hunter-gatherer-tribes occurred once we started to settle down and farm our own food.
 
@@ -43,7 +43,7 @@ The only way to make sure was to get a woman to stay with him, which ended up in
 
 ## Lesson 2
 
-### Women want sex just as much as men, but they are conditioned to play it down.
+### Women want sex just as much as men, but they are conditioned to play it down
 
 Simultaneously to the creation of marriage and the family, the notion arose that women’s libido is lower than men’s.
 
@@ -63,7 +63,7 @@ Sadly, we’ve gotten to a point where a lot of women comply.
 
 ## Lesson 3
 
-### Our bodies are made for sexual competition.
+### Our bodies are made for sexual competition
 
 This is getting long, so I’ll be brief. Here are a few quick facts that hint at our bodies having evolved for lots of sex with many different partners:
 
@@ -92,7 +92,5 @@ I was fascinated by the findings about the evolution of our bodies to have sex a
 Highly recommended you read both summaries (and then lie down for a while).
 
 I also suggest you read the summary of this book first, because the topic is very controversial. It’s worth investigating a bit, before taking the plunge.
-
-## Who it’s for
 
 The 22 year old, who sticks together with his high school sweetheart against all odds, the 42 year old eternal bachelor, and anyone who questions their sexual behavior.

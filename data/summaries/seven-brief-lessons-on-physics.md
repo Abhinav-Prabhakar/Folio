@@ -20,7 +20,7 @@ Who’s ready for a lesson on some crazy interesting science? I am and I hope yo
 
 ## Lesson 1
 
-### New theories arise from the conflict between general relativity and quantum mechanics.
+### New theories arise from the conflict between general relativity and quantum mechanics
 
 The two pillars of modern physics are general relativity and quantum mechanics. Relativity is Einstein’s theory of how time and space relate to one another. Quantum theory, on the other hand, zooms right down to the atomic level to explain things. The problem is, although these two are widely accepted as plausible, they contradict each other.
 
@@ -32,7 +32,7 @@ The other crazy part about this theory is what it says about the big bang, which
 
 ## Lesson 2
 
-### We can understand the nature of time better by looking into the systems that make up heat.
+### We can understand the nature of time better by looking into the systems that make up heat
 
 Thermodynamics sounds like a big word, but breaking it down it’s just simply the science of heat. The whole study of it comes from a simple question: what is heat? In the nineteenth century, it was thought to be under the roof of fluids, or calorics.
 
@@ -46,7 +46,7 @@ You can think of the movement as the past and the resting state is the future. B
 
 ## Lesson 3
 
-### We are part of the universe and it is part of us and these physics lessons apply to us as much as to our world.
+### We are part of the universe and it is part of us and these physics lessons apply to us as much as to our world
 
 A few years ago my family and I went to see an IMAX movie about the universe. It was a little cheesy and we laughed when it said “you are in the universe and the universe is in you.”
 
@@ -61,7 +61,5 @@ Even death shows how true this is. Everything, from people, to flowers, and even
 ## Review
 
 *Seven Brief Lessons On Physics* is certainly an interesting read. Some of these principles are a little tough to grasp, which makes me think we’re just beginning to understand how our universe works. Either way, it’s great to learn these important lessons that govern so much of our everyday lives!
-
-## Who it’s for
 
 The 20-year-old college freshman who is trying to figure out if they want to major in physics, the 39-year-old scientist that loves to learn more about their field, and anyone with a curious personality who wants to know how things work.

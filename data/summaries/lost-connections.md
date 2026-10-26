@@ -18,11 +18,9 @@ I learned these 3 powerful lessons from this book:
 
 Let’s take a closer look at what Hari has to say!
 
-### Lost Connections Summary
-
 ## Lesson 1
 
-### A chemical imbalance doesn’t cause depression.
+### A chemical imbalance doesn’t cause depression
 
 I know this one is a lot to swallow. And honestly, I would take it with a grain of salt. While the studies Hari presents are scientifically accurate, the conclusions he comes to may be only one side of this story. But I believe hearing this side is important.
 
@@ -36,15 +34,15 @@ Most of these drugs are classified as serotonin reuptake inhibitors (SSRI’s). 
 
 ## Lesson 2
 
-### There are nine common reasons for depression, mostly from hard life situations.
+### There are nine common reasons for depression, mostly from hard life situations
 
 So what is the cause of depression then? Hari’s theory is that there are nine causes or disconnections, and most of them have to do with difficult life circumstances. Here they are:
 
-1. **Disconnection from meaningful work**. Those with the least control and authority in the workplace are the most likely to have depression. We need to feel like what we do has meaning. **Disconnect from others.** Loneliness and no sense of belonging are big indicators of depression. **Disconnect from meaningful values**. Our consumer-driven society has left us detached from worthwhile values, which in turn contributes to depression. **Childhood trauma**. This 1998 study found the more traumatic a person’s childhood is, the more likely they are to have depression and anxiety. **Disconnect from status.** In areas with larger gaps in wealth, such as the US, there are higher rates in depression. **Disconnect from nature.** People who live in greener neighborhoods feel less stress and despair than those who don’t. **Disconnect from a secure and hopeful future. Native Americans on government-controlled reservations had staggeringly high suicide rates. In reservations where they had control of their own laws, elections, police, and schools this was not a problem. They had control over their destiny and were less likely to commit suicide.Genes**. We do know that there is a genetic influence in depression, though it only accounts for 37 percent of cases. **Changes in the brain.** Neuroplasticity is how the brain changes from experience. Because of this, when people spend more time with thoughts of despair rather than joy, it can strengthen the negative feeling areas.
+1. **Disconnection from meaningful work**. Those with the least control and authority in the workplace are the most likely to have depression. We need to feel like what we do has meaning. **Disconnect from others.** Loneliness and no sense of belonging are big indicators of depression. **Disconnect from meaningful values**. Our consumer-driven society has left us detached from worthwhile values, which in turn contributes to depression. **Childhood trauma**. This 1998 study found the more traumatic a person’s childhood is, the more likely they are to have depression and anxiety. **Disconnect from status.** In areas with larger gaps in wealth, such as the US, there are higher rates in depression. **Disconnect from nature.** People who live in greener neighborhoods feel less stress and despair than those who don’t. **Disconnect from a secure and hopeful future. Native Americans on government-controlled reservations had staggeringly high suicide rates. In reservations where they had control of their own laws, elections, police, and schools this was not a problem. They had control over their destiny and were less likely to commit suicide. Genes**. We do know that there is a genetic influence in depression, though it only accounts for 37 percent of cases. **Changes in the brain.** Neuroplasticity is how the brain changes from experience. Because of this, when people spend more time with thoughts of despair rather than joy, it can strengthen the negative feeling areas.
 
 ## Lesson 3
 
-### Social prescriptions are a great way to help people with depression by making them feel valued and connected.
+### Social prescriptions are a great way to help people with depression by making them feel valued and connected
 
 The solution for depression that Hari comes up with is a social prescription. Rather than turning to medication, doctors are starting to realize the value of social prescriptions. They help people reconnect with others around them, have meaningful work, meaningful values, and give a chance for people to overcome trauma from their past.
 
@@ -57,7 +55,5 @@ The people united and were able to share past traumas and things they had in com
 ## Review
 
 While some might see the notion that depression isn’t a chemical imbalance pretty radical, Hari makes it very convincing. We know that antidepressants don’t work for a lot of people, so looking for other ways to help people with depression is essential. *Lost Connections* has some great suggestions for how people can reconnect and discover meaning to deal with depression.
-
-## Who it’s for
 
 The 20-year-old college student studying psychology, a 46-year-old mother of teenagers who are showing signs of depression and anxiety, and anyone who is struggling with their mental health.

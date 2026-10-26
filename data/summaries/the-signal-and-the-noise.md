@@ -20,7 +20,7 @@ Ready to beat the weatherman? Let’s update your statistics software!
 
 ## Lesson 1
 
-### Exact numbers and accuracy estimates rarely hold up.
+### Exact numbers and accuracy estimates rarely hold up
 
 Here are some of the people who make a living off predictions: sports commentators and broadcasters, stock analysts, the people in charge of the weather forecast, pollsters, poker players, economists, marketers and, of course, fortune tellers. Sadly, most of the people in the other categories have more in common with the last one, a typical fun fair scam, than we’d like them to.
 
@@ -34,7 +34,7 @@ Secondly, the accuracy of that interval is often greatly overestimated – forge
 
 ## Lesson 2
 
-### Human judgment is a necessity for all good predictions.
+### Human judgment is a necessity for all good predictions
 
 Where does this hubris and false sense of judgment come from? Mostly from turning off their common sense and relying solely on statistical data. Since the dawn of the internet, we have more information available to us than ever. Over 4,000,000 economic indicators are being tracked constantly, so it feels natural to rely on the hard facts and statistical data for making predictions.
 
@@ -48,7 +48,7 @@ No matter how much technology we use to maneuver the wealth of data available to
 
 ## Lesson 3
 
-### If you want to make your predictions better, use Bayes’ theorem.
+### If you want to make your predictions better, use Bayes’ theorem
 
 To help *you* make better decisions, here’s a cool tool you can use: Bayes’ theorem. What it comes down to is a simple mathematical formula, that you can use to **predict the likelihood of something under the assumption that a given fact is true**.
 
@@ -65,7 +65,5 @@ Divide the percentage of correctly positive labeled people with cancer (0.75*0.0
 ## Review
 
 Statistics isn’t an easy topic to understand. But a crucial one. It’s one of the best ways to work against those cognitive biases that keep you from making good decisions. I highly recommend checking out Nate’s work and *The Signal And The Noise*!
-
-## Who it’s for
 
 The 17 year old, who’s really into fantasy football, the 37 year old political activist, who’d love to know the outcome of the US presidential elections ahead of time, and anyone who often wears the wrong outfit for the day’s weather.

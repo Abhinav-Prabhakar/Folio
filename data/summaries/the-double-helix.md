@@ -4,7 +4,7 @@
 
 ## Overview
 
-When Charles Darwin proposed that all living things are related in *On the Origin of Species*, he didn’t know exactly how *.* All of this changed with the discovery of the structure of DNA. It unlocked many mysteries of science.
+When Charles Darwin proposed that all living things are related in *On the Origin of Species*, he didn’t know exactly how*.* All of this changed with the discovery of the structure of DNA. It unlocked many mysteries of science.
 
 In *The Double Helix: A Personal Account of the Discovery of the Structure of DNA*, we hear the story from none other than one of the two scientists who made the breakthrough: James Watson. He tells a surprising story of rivalries and oversized egos among scientists and how two ambitious young researchers unlocked the mystery of DNA.
 
@@ -18,7 +18,7 @@ Let’s get right into it!
 
 ## Lesson 1
 
-### Chemists James Watson and Francis Crick’s DNA research in the 50s was the foundation for our current understanding of genetics.
+### Chemists James Watson and Francis Crick’s DNA research in the 50s was the foundation for our current understanding of genetics
 
 We know that DNA is a molecule made up of two strands. We call it the double helix. It contains all of our genetic information. But back in the 1950s, no one cared much about DNA or understood its purpose.
 
@@ -32,7 +32,7 @@ It was there at Cambridge University where he met 34-year-old physicist Francis 
 
 ## Lesson 2
 
-### Things got tough as the pair competed with others that were also studying DNA.
+### Things got tough as the pair competed with others that were also studying DNA
 
 But they soon found out they weren’t the only ones interested in DNA. Maurice Wilkins, the scientist whose conference speech inspired Watson to look at DNA in the first place, was hard at work looking at the molecule too.
 
@@ -50,7 +50,7 @@ Watson was told to go back to studying viruses, while Crick was told he’d prob
 
 ## Lesson 3
 
-### Watson and Crick persevered through difficulties, and their breakthroughs in genetics won them a Nobel Prize.
+### Watson and Crick persevered through difficulties, and their breakthroughs in genetics won them a Nobel Prize
 
 Surprisingly, even these roadblocks didn’t stop the determined scientists. During a year-long break from DNA study, the work they did at Cambridge made Sir Bragg happy enough to keep them.
 
@@ -69,7 +69,5 @@ Watson and Crick received the Nobel Prize. They also made sure to acknowledge th
 ## Review
 
 Honestly, I thought this would be more about DNA science instead of history, but it was still pretty interesting. *The Double Helix* taught me a lot of things I had no idea about, which I liked. I do still wish there was more science in it, though.
-
-## Who it’s for
 
 The 18-year-old that’s considering studying genetics in college, the 61-year-old who loves to read interesting historical accounts of scientific breakthroughs, and anyone that’s curious to know how we got to understand DNA so well.

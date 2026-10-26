@@ -20,7 +20,7 @@ Ready to get real about food? Prepare for Farmageddon!
 
 ## Lesson 1
 
-### The more popular factory farming gets, the more problems it causes, and now even China catches on.
+### The more popular factory farming gets, the more problems it causes, and now even China catches on
 
 China is the world’s biggest country, with over 1.3 billion people living there. So whenever something becomes a trend in China, it’s likely to affect the whole world, as they make up almost 20% of the entire population of the planet. In the past decade, China has gotten wealthier and wealthier, as it slowly goes from developing to developed country, mimicking a lot of what more Western countries, like the US or Germany, do.
 
@@ -32,7 +32,7 @@ Next to the usual side effects of mass pig farming, like bacteria development, l
 
 ## Lesson 2
 
-### Going back to traditional farming can undo the damage mass meat production is causing.
+### Going back to traditional farming can undo the damage mass meat production is causing
 
 Of course going back to more traditional farming methods is a rather obvious answer to this problem, but it’s still the best one. However, there’s something even easier we can do right now: **waste less food.**
 
@@ -46,7 +46,7 @@ Traditional farming is also much more sustainable for all involved: humans, land
 
 ## Lesson 3
 
-### We, the food consumers, must vote with both our voices and the dollars we spend, to save the future of food.
+### We, the food consumers, must vote with both our voices and the dollars we spend, to save the future of food
 
 Do you buy the food you eat?
 
@@ -59,7 +59,5 @@ One thing you can do to instantly make better choices is to look out for labels 
 ## Review
 
 I seriously couldn’t believe how many “Holy shit!” moments I had while reading the blinks. The number of horrifying statistics in *Farmageddon* is insane. It’s like a slap in the face with a pork chop, saying “Hello, buy higher quality food!” Much needed and recommended book.
-
-## Who it’s for
 
 The 15 year old who loves to eat Schnitzel and won’t finish his veggies, the 28 year old lumberjack, who eats at McDonalds more than three times a week, and anyone who doesn’t read the food labels while grocery shopping.

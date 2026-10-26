@@ -20,7 +20,7 @@ Now it’s time to explore all lessons in detail and learn more about each one!
 
 ## Lesson 1
 
-### Stop being non-conflictual and speak up when something or someone bothers you.
+### Stop being non-conflictual and speak up when something or someone bothers you
 
 No one really likes conflict or arguing with someone else. But it is a natural part of our life. Plus, it can teach us a lot about ourselves and help us become more open minded in the future. Our conflict management skills say a lot about ourselves. So it is important to learn how to deal with one when it occurs.
 
@@ -32,7 +32,7 @@ If you’re scared of confrontation, there’s no better way to end that fear th
 
 ## Lesson 2
 
-### You are your number one priority, so you’ll have to start limiting your availability to others.
+### You are your number one priority, so you’ll have to start limiting your availability to others
 
 Helping your friends out is a great and noble thing. In fact, the world would be a better place if people would help each other out more. However, there’s a limit to everything, and men who tend to overplease others are also more likely to have blurry or nonexistent boundaries in their relationships.
 
@@ -44,7 +44,7 @@ Then, they’ll start to lose respect for you and your preferences, knowing too 
 
 ## Lesson 3
 
-### Your dysfunctional relationships are your fault, so you’ll first have to change your mindset to fix them.
+### Your dysfunctional relationships are your fault, so you’ll first have to change your mindset to fix them
 
 The typical nice man thinks that if he hides his true personality and follows the lead of the other person, he’ll get what he wants. He lets go of his desires to please around and keeps the frustrations that come as a result within him. This toxic approach to creating relationships usually results in toxic friendships and anxiety.
 
@@ -61,7 +61,5 @@ Tap into your power. To have others respect you, respect yourself first, and tha
 ## Review
 
 If you’ve ever given everything to the people around you yet received little in return, *No More Mr. Nice Guy* is the book for you. The author explains how you can stop being a people pleaser and become a respected individual instead. This self-help book is great for anyone looking to take charge of their life and improve their relationships.
-
-## Who it’s for
 
 The 25-year-old man who finds someone attractive but is too afraid to tell them, the 30-year-old employee who finds it hard to say no or ask for more at his workplace, or the 28-year-old man who feels like they’re being nice to everyone but have no meaningful connections.

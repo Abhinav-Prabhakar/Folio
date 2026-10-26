@@ -18,7 +18,7 @@ Whether you’ve got a big trip planned or feel sort of worn out from constant f
 
 ## Lesson 1
 
-### Travel doesn’t work as an escape, because your biggest problems come from inside.
+### Travel doesn’t work as an escape, because your biggest problems come from inside
 
 When I first started working for myself, I couldn’t wait to live the laptop lifestyle. You know, cold drinks at the beach, while occasionally peering at my screen. But then something funny happened. I traveled around the world with a friend and eventually, it started feeling like a job. I realized travel isn’t a cure to any of our really important problems. So, after coming back, instead of a digital nomad, I became a digital settler.
 
@@ -28,7 +28,7 @@ Excited about his trip, he buys a guidebook and goes to an English pub just befo
 
 ## Lesson 2
 
-### Learning facts when traveling is a waste of time, we must find modern ways of exploring.
+### Learning facts when traveling is a waste of time, we must find modern ways of exploring
 
 Another modern-day travel issue is what I call fact fatigue. We go to new places, armed with long lists of sights, events, and experiences we want to dedicate time to. Then we quickly get tired from all the information we’re presented with and eventually zone out, not using our time well at all. De Botton suggests that the time for travelers to collect facts may simply be over.
 
@@ -51,7 +51,5 @@ If you draw a scene, you have much more time to process it, both with your sense
 ## Review
 
 What I like about *The Art Of Travel* is that it connects an everyday experience to old perspectives from thinkers you’d never relate to otherwise. The figures from history De Botton selects aren’t just the greats everyone knows, which makes for refreshing perspectives. A good read if you feel some of travel’s contemporary pains catching up to you.
-
-## Who it’s for
 
 The 22 year old college student, who’s biggest goal is to travel the world, the 52 year old manager, who’s fed up with flying around the globe, and anyone who’s seen their travel expectations disappointed before.

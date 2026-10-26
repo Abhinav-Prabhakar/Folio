@@ -24,13 +24,13 @@ Let’s figure out to stop being our own worst enemies when it comes to money!
 
 ## Lesson 1
 
-### Human nature makes it difficult to be good with money.
+### Human nature makes it difficult to be good with money
 
 When it comes to spending money, we often fail to consider alternatives. As we’re buying something, we rarely stop to think about what else we could buy with that money. In economics, this is also called an “opportunity cost.” For example, when you’re buying a new car you should stop to consider the purchases you may be giving up when you buy it, like a nice vacation. Many people fail to do this when impulse buying, and it costs them later on.
 
 **Brain scans show that spending money triggers a pain response.** Big companies know about and take advantage of by making it as painless as possible to make purchases. They increase the time between payment and consumption and give us points or SkyMiles for our purchase.
 
-We also ease the pain ourselves. We like to use our credit cards to spend money we don’t have, with the intention of paying later. If you’ve ever read Dave Ramsey’s book, *The Total Money Makeover* *,* you know that this is generally a terrible idea if you want to build wealth.
+We also ease the pain ourselves. We like to use our credit cards to spend money we don’t have, with the intention of paying later. If you’ve ever read Dave Ramsey’s book, *The Total Money Makeover* , you know that this is generally a terrible idea if you want to build wealth.
 
 Language plays a role in convincing us to spend as well. One study gave people two options: live with 20% less of your salary or live off of 80% of your current salary. People were far more comfortable with the latter, though the two options are exactly the same. Similarly, people tend to spend more money on products that have a fancy name. When words like “artisan” are used to describe bread, people perceive it to be worth more.
 
@@ -42,11 +42,11 @@ Studies show a whopping 26% of 50-64 year-olds have not saved anything for retir
 
 The key to combating this is imagining our future selves doing wonderful things in retirement and thanking our past selves. As silly as it might sound, this exercise helps us emotionally connect with our future. Another tried-and-true strategy is to have automatic saving accounts such as a 401k so we essentially “hide” the money from ourselves.
 
-In the legendary story of the Greek hero Ulysses, to get past the deadly Sirens with their alluring music, Ulysses has his crew tie him to the mast of his ship. **Similarly,a “Ulysses Contract” is a way we avoid negative temptations in our life by setting up a system or process that makes it impossible to fall into temptation.** An example of this is if you are bad with spending on credit cards, throw them out and start using only debit or cash. And like we learned before, this will make spending more uncomfortable, which is a great thing for your wallet.
+In the legendary story of the Greek hero Ulysses, to get past the deadly Sirens with their alluring music, Ulysses has his crew tie him to the mast of his ship. **Similarly, a “Ulysses Contract” is a way we avoid negative temptations in our life by setting up a system or process that makes it impossible to fall into temptation.** An example of this is if you are bad with spending on credit cards, throw them out and start using only debit or cash. And like we learned before, this will make spending more uncomfortable, which is a great thing for your wallet.
 
 ## Lesson 3
 
-### Scrap the complicated budget and opt for a more straightforward one.
+### Scrap the complicated budget and opt for a more straightforward one
 
 Instead of constructing a complex budget plan as so many financial sources outline, the authors go for a more simple option. They know that the act of budgeting is inherently irrational, but “just like corporate accounting, it can be useful if used judiciously.” The problem is that we can deceive ourselves with it if our mental balance of accounts becomes too creative.
 
@@ -55,7 +55,5 @@ People usually quit complicated budgets, much like difficult fad diets, because 
 ## Review
 
 Unlike a lot of finance books out there that can be snooze-fests, *Dollars and Sense* is sure to get you laughing and keep you interested. It’s fun and refreshing, and the authors don’t take themselves too seriously. Besides being an enjoyable read, it’s also really interesting to learn the many psychological principles behind how we spend. If we want to get better, we need to acknowledge these fundamental truths.
-
-## Who it’s for
 
 The 39-year-old office worker who wants to get more serious about saving for retirement, the 24-year-old recent college graduate who is just learning how to manage money and needs a little help, and everyone, because when it comes to money, we all can be irrational.

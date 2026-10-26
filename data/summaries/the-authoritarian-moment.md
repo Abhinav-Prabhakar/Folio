@@ -60,6 +60,4 @@ The founding fathers of the USA and other major movement leaders had to stand up
 
 *The Authoritarian Moment* talks about the importance of defending democracy and more specifically, our right to express different points of view freely. In today’s world, it seems that any opinion that is not linked to the far-left ideology is considered wrong and the person must suffer the consequences of opposing the ideology. However, in a democratic state, this is unacceptable, and so the book highlights what is wrong with today’s system and how we can stand up and face it with bravery.
 
-## Who it’s for
-
 The 35-year-old person interested in the future of the USA and the democratic state, the 45-year-old diplomat who wants to deepen their knowledge about the current political state of the USA, or the 40-year-old person passionate about the evolution of the world, political ideologies, and history.

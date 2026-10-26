@@ -22,7 +22,7 @@ Calling all *Late Bloomers*! Let’s get into these lessons and discover how to 
 
 ## Lesson 1
 
-### Young people are suffering from the new standard of early achievement.
+### Young people are suffering from the new standard of early achievement
 
 When we obsess over this unrealistic ideal that we need to be successful at a young age, we send a dangerous message to young people. The message is if you haven’t started a successful international company, made seven figures, or completely disrupted an industry by the time you’re 30, you’re a failure.
 
@@ -34,7 +34,7 @@ Scientific author Jean M. Twenge has a theory that the reason we see this declin
 
 ## Lesson 2
 
-### The rate of mental progression differs from person to person.
+### The rate of mental progression differs from person to person
 
 The author certainly wasn’t an early bloomer. By 25, he was floundering. He graduated college with few career prospects and held a job as a security guard.
 
@@ -48,7 +48,7 @@ Karlgaard suggests that we stop pushing kids to be cognitively exceptional when 
 
 ## Lesson 3
 
-### You can grow as slowly as you want, don’t let societal expectations hold you back from taking the time you need to reach your full potential.
+### You can grow as slowly as you want, don’t let societal expectations hold you back from taking the time you need to reach your full potential
 
 Erik Wahl was taught at a young age that all he needed to be successful was to get exceptional grades, go to a top college, and land a high-paying job. Following this path, he did become successful. But when the economic crash halted his industry, he lost it all.
 
@@ -61,7 +61,5 @@ Say your family is pressuring you to become a doctor and you feel it’s not for
 ## Review
 
 I feel like *Late Bloomers* was written for me because from the moment I turned 18 I didn’t feel like an adult. After this, I feel a lot better about how long it took me to get to where I am today. If you can relate, you’re going to love the way this book improves your outlook on life!
-
-## Who it’s for
 
 The 62-year-old parent of a kid in their thirties who seems to be floundering, the 27-year-old recent college graduate that feels out of place in the adult world, and anyone that struggles to be patient with themselves when it comes to growth of all kinds.

@@ -18,7 +18,7 @@ Here are my 3 lessons from *The Willpower Instinct*, her most prominent work.
 
 ## Lesson 1
 
-### There are 3 kinds of willpower.
+### There are 3 kinds of willpower
 
 Most people think of willpower as **the ability to resist temptations**. However, that’s only one third of the deal. McGonigal puts willpower into 3 distinct categories:
 
@@ -42,7 +42,7 @@ Out of these 3, “I want” power is by far the most powerful. It is not so muc
 
 ## Lesson 2
 
-### The pause-and-plan response is your biological willpower instinct.
+### The pause-and-plan response is your biological willpower instinct
 
 Have you ever felt followed by someone and wanted to just run home as quickly as possible?
 
@@ -62,7 +62,7 @@ This is your biological willpower instinct, and like your gut, it can be trained
 
 ## Lesson 3
 
-### Past good behavior can’t be an excuse for present bad behavior.
+### Past good behavior can’t be an excuse for present bad behavior
 
 Let’s say you’re trying to quit alcohol and you do incredibly well all week. You resist the temptation to go to a bar with coworkers on Wednesday, you get through your gym workout the day after, and are highly motivated to lose those extra pounds.
 
@@ -91,7 +91,5 @@ Lesson 2 is a good reminder to be mindful and live life consciously, while lesso
 Where Spartan Up calls you to take action and leave your comfort zone, this will prepare you for it. Highly recommended summary!
 
 **Note:** For more free articles and information about willpower, check out Willpowered. My friend Colin is the most thorough willpower researcher I know.
-
-## Who it’s for
 
 The 37 year old Mum, who’s giving her best to improve her diet, but hasn’t found a good reward system yet, the 50 year old employee, who wants to change careers again, but spends too much time in fight-or-flight mode to be able to think and reflect, and anyone who wants to learn more about willpower.

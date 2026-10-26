@@ -20,7 +20,7 @@ Let’s take a trip to India and find out what we can learn from it!
 
 ## Lesson 1
 
-### India’s woes are partly due to a cultural belief system that has led to inadequate infrastructure.
+### India’s woes are partly due to a cultural belief system that has led to inadequate infrastructure
 
 If you’ve been to a major Indian city, you know that traffic jams are no joke. In Delhi, even with a new bridge meant to ease traffic, the bumper-to-bumper traffic persists. Why? Because city planners built the original road knowing that it wouldn’t be big enough.
 
@@ -34,7 +34,7 @@ All of this wasted time coats manufacturer’s money. Crazy enough, it is actual
 
 ## Lesson 2
 
-### Indian farms aren’t profitable, and infrastructure jobs are scarce, which gives the country a big unemployment problem.
+### Indian farms aren’t profitable, and infrastructure jobs are scarce, which gives the country a big unemployment problem
 
 In wealthy countries, people end to think countries with weaker economies need a larger workforce. But with a population of 1.3 billion, there is obviously no shortage of potential workers.
 
@@ -52,7 +52,7 @@ Government inspectors target companies that have more than 99 employees. If they
 
 ## Lesson 3
 
-### If the government wasn’t putting all the weight on improving the country’s private sector, things might get better for India.
+### If the government wasn’t putting all the weight on improving the country’s private sector, things might get better for India
 
 Obviously, the government had to do something about India’s poor infrastructure. So, they turned to the private sector.
 
@@ -73,7 +73,5 @@ The author believes it would be best to pay for construction projects through th
 ## Review
 
 I didn’t know a lot about India before this, and it was exciting to learn everything that *Restart* taught me. It’s hard for me to like books about places that I’ll probably never go to, but that doesn’t mean this is bad. I think you’ll really like it if you’re the kind who likes politics, society, and government.
-
-## Who it’s for
 
 The 28-year-old knows next to nothing about India, the 47-year-old who loves to learn about world cultures and societies, and anyone with an interest in governments and how not to run one.

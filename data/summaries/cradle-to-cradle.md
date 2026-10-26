@@ -20,7 +20,7 @@ Let’s get right to it and see what we can do to help our planet!
 
 ## Lesson 1
 
-### The structure of modern industrialism is inherently damaging to the environment.
+### The structure of modern industrialism is inherently damaging to the environment
 
 During the Industrial Revolution, everyone wanted to produce things in the most efficient and profitable way possible. Most people believed that nature had a bottomless supply of resources for the taking. So naturally, as large-scale manufacturing exploded, little to no thought went into the environmental consequences.
 
@@ -32,7 +32,7 @@ We see this in many other examples like mining or clearing land for one crop. Th
 
 ## Lesson 2
 
-### What we are doing for the environment isn’t enough if we want to be sustainable long-term.
+### What we are doing for the environment isn’t enough if we want to be sustainable long-term
 
 You may have heard the 3 R’s: “reduce, reuse, and recycle.” It seems like a simple solution, right? Not exactly. The problem with reduction is that it doesn’t halt damage to the environment, it just slows it down. Reusing isn’t ideal either because it involves simply transferring a problem from one place to another.
 
@@ -44,7 +44,7 @@ Surely the regulations that our government puts in place make sure corporations 
 
 ## Lesson 3
 
-### Try eco-effectiveness instead of eco-efficiency to protect the world around us.
+### Try eco-effectiveness instead of eco-efficiency to protect the world around us
 
 So what can we do? The authors suggest instead of trying to be efficient, look for ways to be *effective*. We can do this by making room for the cradle-to-cradle model. We need to change the way we see nature and focus on the best kind of products and systems.
 
@@ -59,7 +59,5 @@ Business owners must adopt a fractal triangle of equity, economy, and ecology. E
 ## Review
 
 Whoa, *Cradle To Cradle* is a really eye-opening book! I like that it dives into the complexity of the issues surrounding taking care of our planet instead of just assuming the age-old advice like recycling is perfect. I think if we combine ideas like these with small, actionable steps that each person can take, we’ll be living on a healthier planet much faster!
-
-## Who it’s for
 
 The 47-year-old business executive who is looking for ways to improve their business’s impact on the environment, the 26-year-old who wants to start a manufacturing company but also would like to make sure to get off on the right foot, and anyone that wants to discover how they can help our planet.

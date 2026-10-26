@@ -22,7 +22,7 @@ Are you ready to sift through the lies and get to the real truth? Let’s learn!
 
 ## Lesson 1
 
-### The tobacco industry cast doubt not just on the effects of secondhand smoke, but on the scientific process.
+### The tobacco industry cast doubt not just on the effects of secondhand smoke, but on the scientific process
 
 The tobacco industry went as far as to fund their own studies about the effects of smoking. They wanted to keep people buying their products. But they could only keep their secret for so long. Soon, people started to know what smoking really can do to the body. But it wasn’t until the 80’s that they even began to examine the effects of secondhand smoke.
 
@@ -32,7 +32,7 @@ These companies refuted the credibility of the EPA’s combination of multiple s
 
 ## Lesson 2
 
-### The US government compromised the truth about acid rain in the interest of big business.
+### The US government compromised the truth about acid rain in the interest of big business
 
 In the 1970s, many environmental issues came to the center of US politics. One of these issues was acid rain, a phenomenon where rain falls with a lower than usual pH (acidic) causing plants and animals to suffer or die. Eventually, scientists linked this to the burning of fossil fuels and found that sometimes it can occur in places far from where the pollution happens.
 
@@ -46,7 +46,7 @@ He did his job so well that there is even proof of him editing the document at t
 
 ## Lesson 3
 
-### It has been an uphill battle to convince the public of global warming because people have been spreading skepticism about it for decades.
+### It has been an uphill battle to convince the public of global warming because people have been spreading skepticism about it for decades
 
 Scientists have known about global warming for decades. But it wasn’t until the 1980’s that it even began to be taken seriously.
 
@@ -61,7 +61,5 @@ In a White House briefing, the same scientist in charge of the panel that dismis
 ## Review
 
 While not flawless, *Merchants of Doubt* is an immensely important and timely book. It’s a surprising story of a true conspiracy by the government that not many know about. It shows how much power big business can wield when they spread doubt about the scientific research that isn’t in their favor.
-
-## Who it’s for
 
 The 24-year-old considering going into politics, the 39-year-old political activist, and anyone who is interested in the media and public opinion.

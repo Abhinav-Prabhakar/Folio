@@ -20,7 +20,7 @@ Ready to learn how to lose weight and feel great? Let’s get right to it!
 
 ## Lesson 1
 
-### The biological signals that tell us when to eat and when to stop can sometimes become imbalanced and cause issues.
+### The biological signals that tell us when to eat and when to stop can sometimes become imbalanced and cause issues
 
 What happens when your car is low on gas? Usually, a light pops up on your dashboard to let you know it’s time to stop at the pump. If you choose to ignore this signal, you’ll run out of gas, and your car will die. Pretty simple, right?
 
@@ -38,7 +38,7 @@ You have the ability to reset these signals if you need to. You can be the mecha
 
 ## Lesson 2
 
-### If you want to shed the extra pounds, eat at the right time of day, get movement in, and make sure you get a good night’s sleep.
+### If you want to shed the extra pounds, eat at the right time of day, get movement in, and make sure you get a good night’s sleep
 
 When we choose to eat is actually just as important as what we eat. In one study, the first of two groups ate most in the first half of the day, and the second ate the most calories in the second half of the day. The first group lost significantly more weight. Therefore, losing weight could be as easy as eating most of your calories before 3:00 p.m. and having a light dinner.
 
@@ -50,7 +50,7 @@ Lastly, never underestimate the importance of a good night’s sleep. Insufficie
 
 ## Lesson 3
 
-### If you’re having trouble with your weight, maybe it’s time to adjust your eating habits.
+### If you’re having trouble with your weight, maybe it’s time to adjust your eating habits
 
 If you’ve ever been to Paris, you know they have some pretty great food such as pastries, cheese, and the like. Yet, French people tend to be much thinner than Americans. Scientists have long puzzled over this, and they believe that it has a lot to do with how they eat.
 
@@ -67,7 +67,5 @@ The author believes that once you understand these lifestyle changes, you can pi
 ## Review
 
 *Feel Great Lose Weight* actually talks about the lesser-known science that can really help you lose weight. Great ideas, but putting them into action will be as hard as always — but that’s not an excuse to not try.
-
-## Who it’s for
 
 The 45-year-old who is tired of being overweight but feels like they’ve tried everything, the 20-year-old who is studying to be a dietitian, and anyone that’s looking for a more sustainable way to get healthier.

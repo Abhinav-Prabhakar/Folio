@@ -18,11 +18,9 @@ Here are the 3 most useful lessons I’ve learned from this book:
 
 Are you ready to learn how to get what you really want in any situation? Let’s go!
 
-### Never Split The Difference Summary
-
 ## Lesson 1
 
-### Mirroring the other person and using a good tone of voice will help you build trust.
+### Mirroring the other person and using a good tone of voice will help you build trust
 
 A great way to earn somebody’s trust and to get them to open up to you is the active listening method. Active listening is listening to people in a way that makes the other person feel like you understand them.
 
@@ -34,7 +32,7 @@ Most situations, however, will call for your more positive or playful voice. Thi
 
 ## Lesson 2
 
-### State the other party’s feelings to gain tactical empathy.
+### State the other party’s feelings to gain tactical empathy
 
 When you want to negotiate with someone, don’t ignore their emotions, but rather show empathy for your advantage. This doesn’t mean you have to agree with them, it just means that you are trying to see things from their perspective. By understanding their feelings, and stating them, you can position yourself better in the negotiation.
 
@@ -44,7 +42,7 @@ This worked for the author when he was negotiating with four fugitives that they
 
 ## Lesson 3
 
-### Slow down and don’t compromise with the other side.
+### Slow down and don’t compromise with the other side
 
 Taking things slow and not compromising during a dispute helps you end with a better solution. The author teaches that compromising or “splitting the difference” is *always* a bad idea and should be avoided at all costs. Everyone has thoughts they won’t share or maybe aren’t aware of, so if they ask for something, you can’t be sure that’s what they actually want. Because of this, giving someone what they ask for doesn’t always solve the real problem.
 
@@ -55,7 +53,5 @@ An example of this was when the author was involved in negotiations with a kidna
 ## Review
 
 *Never Split the Difference* had me hooked while I was reading it! The stories about real negotiation situations are fascinating and informative. I’m glad for what I’ve gained to help me get a better deal the next time that I have to bargain with someone to get what I want!
-
-## Who it’s for
 
 The 32-year-old who wants to learn to negotiate for a better salary in the workplace, the 38-year-old parent who wants her kids to be more obedient, anyone ready to have everyday exchanges work for their advantage.

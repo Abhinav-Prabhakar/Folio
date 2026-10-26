@@ -22,7 +22,7 @@ Ready for Reddit 101? Let’s go!
 
 ## Lesson 1
 
-### Your startup must solve a real problem – but it doesn’t have to be a well-known one.
+### Your startup must solve a real problem – but it doesn’t have to be a well-known one
 
 This is the first thing any startup book teaches you, so I’m not gonna go too deep into it, but Alexis really made an interesting point about this. Noah Kagan calls it “Engineer’s Disease.” What it means is that most people starting a business (and engineers are especially prone to this, hence the term) do it in the following order:
 
@@ -39,7 +39,7 @@ Forget about billion dollar markets or reaching 1 in 7 people on the planet, lik
 
 ## Lesson 2
 
-### The internet can amplify anything over night, so be careful what you put out.
+### The internet can amplify anything over night, so be careful what you put out
 
 In 2007, Greenpeace started a campaign to track a whale via satellite, to bring awareness to Japanese fishers still hunting these creatures and protest against an expedition set out to hunt down 50 whales. To engage their activists, Greenpeace held a poll to name the whale. Among the many majestic name suggestions with deep meanings, such as Aiko, Libertad, Mira, Kaimana and Aurora was also one rather fun submission: Mr. Splashy Pants.
 
@@ -49,7 +49,7 @@ When the poll ended up on Reddit somehow, the community ended up voting for the 
 
 ## Lesson 3
 
-### It’s on us to fight to keep the internet an open and uncensored space.
+### It’s on us to fight to keep the internet an open and uncensored space
 
 All of this, the good and the bad, rests upon one condition: that the internet is a democratic, free, open, uncensored space. Ohanian says we have to fight and exercise our rights to keep it that way, for otherwise we risk losing all of this tremendous power.
 
@@ -64,7 +64,5 @@ On January 18th, 2012, the world spoke up. Called Internet Blackout Day, some of
 Pay attention to the details here. The core process Alexis talks about for funding a startup is similar to what you might know from other books, but it’s in his nuanced views on issues like censorship and which problems to tackle that you can find entirely new lessons about what it takes to run a business.
 
 Especially if you’re afraid of what other people will think, *Without Their Permission* will be a good kick in the butt to get going anyway!
-
-## Who it’s for
 
 The 15 year old, who’s on all social media, but still not producing her own, legitimate stream of content, the 37 year old engineer, who once built something that failed and now is afraid to try again, and anyone who hasn’t heard about SOPA.

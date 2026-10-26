@@ -22,7 +22,7 @@ Be…. our…. guest! Here we go!
 
 ## Lesson 1
 
-### Think about the needs and wants of your guests if you want to deliver the best quality service to them.
+### Think about the needs and wants of your guests if you want to deliver the best quality service to them
 
 The main secret of Disney’s customer service success is it’s Quality Service Compass. And just like a real compass, it has four points to help employees care for guests:
 
@@ -48,7 +48,7 @@ Imagine you were a Disney cast member, as they call employees, and you were abou
 
 ## Lesson 2
 
-### The best strategies for caring about customers include strong and integrated systems.
+### The best strategies for caring about customers include strong and integrated systems
 
 Disney’s next point on it’s Quality Service Compass encompasses three delivery systems:
 
@@ -70,7 +70,7 @@ Consider the element of courtesy as an example. Integration involves looking at 
 
 ## Lesson 3
 
-### Ask your guests if you want to know what they are thinking, feeling, and doing.
+### Ask your guests if you want to know what they are thinking, feeling, and doing
 
 Surveys might be a lot of work, but they’re a gold mine when it comes to being able to serve your customers. They let you find out what people really want and need and offer it to them. Without the vital info they bring in, you’re just guessing!
 
@@ -89,7 +89,5 @@ With this information, they can provide places for people to sit and rest and al
 ## Review
 
 I don’t really like Disneyland much, but I learned a lot from *Be Our Guest*. The level of care that Disney puts into its theme parks and customer services is admirable. I was also impressed with how much I learned from their organization and methods and I believe that anyone applying the same principles to their customer service will succeed!
-
-## Who it’s for
 
 The 56-year-old business owner that wants to help their customers have a better experience, the 27-year-old who works in a customer service position that wants to be their best, and anyone that’s curious about how Disney is so good at taking care of people.

@@ -20,7 +20,7 @@ Ready to see why a strong leader might not be so great? Let’s go!
 
 ## Lesson 1
 
-### The way we as a society view good political leadership is fundamentally flawed.
+### The way we as a society view good political leadership is fundamentally flawed
 
 The media tends to portray political leaders as all-powerful and mostly ignores the people working in the shadows around them. This hyperfocus on the person at the top makes people less likely to think about the inner workings of a democratic system.
 
@@ -34,7 +34,7 @@ The author believes that the misconception that we need one strong-willed person
 
 ## Lesson 2
 
-### Good leaders should also be modest and know when to listen to and help others.
+### Good leaders should also be modest and know when to listen to and help others
 
 So what are the qualities that a true leader needs? One vital skill is modesty. This allows a leader to take constructive criticism and be better at negotiating with other political figures.
 
@@ -48,7 +48,7 @@ When he was prime minister, Blair created a divide between himself and Gordon Br
 
 ## Lesson 3
 
-### Some of the best leaders in history led with what is known as a collegial style of leadership.
+### Some of the best leaders in history led with what is known as a collegial style of leadership
 
 Collegial leadership is all about sharing responsibility and working as a team. Leaders receive support from their colleagues and they have the ability to manage them in an effective way.
 
@@ -65,7 +65,5 @@ When you think about it, this style of leadership truly embodies what democracy 
 ## Review
 
 I really liked *The Myth Of The Strong Leader* and I think you will too. It was always hard for me to be led by really aggressive overbearing types, and it was nice to learn that that way isn’t all it’s cracked up to be. I hope every leader in the world gets a chance to read this, especially politicians!
-
-## Who it’s for
 
 The 21-year-old who dreams of becoming a CEO, the 48-year-old who wonders why leaders aren’t as good as they used to be, and anyone working in politics.

@@ -24,7 +24,7 @@ Are you stressed, unhappy or frustrated? Then let’s learn to love what is!
 
 ## Lesson 1
 
-### Ask yourself four simple questions to overcome stress by changing your perspective.
+### Ask yourself four simple questions to overcome stress by changing your perspective
 
 When we talk about stress, we usually say “this project is stressing me out,” or “Jason’s really stressing about us going to this event next week.” Using this kind of language has one fatal flaw though: it puts the responsibility on other people and external events. But stress isn’t inherently created by those things. It’s only in how we process these things that they suddenly become stressful in our heads.
 
@@ -45,7 +45,7 @@ Once you start digging, most negative thoughts quickly fall apart. And then, you
 
 ## Lesson 2
 
-### Turn your thoughts on their head to give yourself more options to think differently about a situation.
+### Turn your thoughts on their head to give yourself more options to think differently about a situation
 
 After you’ve done some serious interrogating with your thought, it’s time for what Byron calls the “turnaround.” **Flip the original thought on its head in various ways and just observe how each one makes you feel.**
 
@@ -57,7 +57,7 @@ You can even answer the four questions again for those that you feel particularl
 
 ## Lesson 3
 
-### Being frustrated about reality doesn’t change anything, so stop it.
+### Being frustrated about reality doesn’t change anything, so stop it
 
 The weather’s always a good icebreaker. It’s neutral, it’s always there, everyone has to deal with it and no one can do much about it. However, it’s also a good way of spotting complainers, because people who complain about the weather tend to complain about a lot of other stuff they can’t control too.
 
@@ -68,7 +68,5 @@ Don’t try to change the realities you can’t control. Find your place within 
 ## Review
 
 What I like about Byron Katie’s approach is that it’s simple. There’s not much to it. Four questions. And a lot of thinking. That’s it. It’s a really good way of quickly cutting through the clutter. So if you feel frustrated, anxious or outright depressed, give *Loving What Is* a try.
-
-## Who it’s for
 
 The 38 year old wife, who’s depressed because her marriage feels broken, the 54 year old lawyer, who’s very disappointed with his collaboration partners, and anyone who curses when they see it’s raining outside.

@@ -22,7 +22,7 @@ Ready to learn from an Iowan farmer with the brain of a scientist and a heart of
 
 ## Lesson 1
 
-### Ship a solution now, perfect it later.
+### Ship a solution now, perfect it later
 
 Scientists, almost by definition, love to dabble. They theorize, hypothesize, ponder, think and strategize, and try to come up with incremental improvements to existing ideas. This extensive cycling within the scientific method is important, but when it comes to solving such an immediate threat as world hunger, well, as Borlaug would say: “You can’t eat potential.”
 
@@ -36,7 +36,7 @@ When I look back at over 300 book summaries in 2016, none of which were perfect 
 
 ## Lesson 2
 
-### If you want to be respected and really make a difference, you have to get your hands dirty and do it yourself.
+### If you want to be respected and really make a difference, you have to get your hands dirty and do it yourself
 
 How would you feel if I suddenly walked into your office tomorrow morning and tell you how you can do your job better? “Keep your folders here, save some time by batching email processing there, and oh, about your browser…”
 
@@ -48,7 +48,7 @@ This is true for any field, really. If you want the respect of a community and r
 
 ## Lesson 3
 
-### Don’t tell people what you’re going to do for them. Show them. At the very least, do both.
+### Don’t tell people what you’re going to do for them. Show them. At the very least, do both
 
 Actually doing stuff has another advantage: you can **let your results speak for themselves**. In Borlaug’s case, changing an entire country’s agricultural behavior would always need the support of the government – but a government is hard to convince.
 
@@ -65,7 +65,5 @@ Stop thinking. **Get out there, do the work, get the results, and use those to h
 Norman Borlaug, *The Man Who Fed The World,* lived to be 95 years old. He worked hard and tirelessly to end world hunger, day-in and day-out, every single day of those 95 years. That’s 34,675 days of hustle. You and I might have a lot less than that, yet we’re here, reading (and in my case writing) this post. If there’s only one thing to learn from Dr. Norman Borlaug, it’s this: It’s time to do.
 
 What’s the most important thing you can do today? Stop reading now. Go do that.
-
-## Who it’s for
 
 The 17 year old, who loves learning about genetics in her biology class, the 48 year old farmer, who struggles with bureaucracy and constantly changing governmental policies, and anyone who wants to cause a big change in the world.

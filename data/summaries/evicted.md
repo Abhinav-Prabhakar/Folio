@@ -22,7 +22,7 @@ Let’s jump right into these lessons and learn more!
 
 ## Lesson 1
 
-### Unemployment, low salaries, and high rent make it difficult for some tenants to avoid getting evicted.
+### Unemployment, low salaries, and high rent make it difficult for some tenants to avoid getting evicted
 
 Evictions are common in the US these days, but it wasn’t always this way. Even in the Great Depression communities resisted enough that removal of tenants was rare. In one case, people protested when a landlord tried to eject three families in the Bronx!
 
@@ -40,7 +40,7 @@ In Milwaukee, for instance, half of all working-age black men don’t have work.
 
 ## Lesson 2
 
-### Families who experience eviction go through unimaginable stresses and challenges.
+### Families who experience eviction go through unimaginable stresses and challenges
 
 Right now it might be difficult for you to imagine the thought of being thrown out of your current living space. You don’t realize that people that go through this have to try to find housing and keep their kids clothed and fed all at the same time.
 
@@ -56,7 +56,7 @@ Not having a phone, electricity, heat, or a mailbox also pose a threat to their 
 
 ## Lesson 3
 
-### A housing voucher system might let us give the basic human right of shelter to everyone.
+### A housing voucher system might let us give the basic human right of shelter to everyone
 
 A house and a home are not the same thing. I can perform structural engineering calculations that someone can use to construct a house. Making a home requires a lot more care and attention. It also allows for safety, learning, and love.
 
@@ -75,7 +75,5 @@ Such a system already works in Great Britain and the Netherlands. And although t
 ## Review
 
 Wow, *Evicted* opened my eyes to a tragedy that I had no idea existed. I feel so privileged and didn’t even realize how good I have it and how unfair it is. At the same time, I wish there was something I could do to help those that are suffering from these issues.
-
-## Who it’s for
 
 The 43-year-old politician that has the power to stop these atrocities, the 19-year-old college student that’s considering going into urban planning, and anyone that wants to help uncover a tragic problem and see what they can do to help.

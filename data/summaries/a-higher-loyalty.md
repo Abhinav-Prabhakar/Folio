@@ -22,7 +22,7 @@ Get ready to learn, because you’re about to discover some interesting new less
 
 ## Lesson 1
 
-### James Comey’s early life included jobs, bullies, and even a robbery.
+### James Comey’s early life included jobs, bullies, and even a robbery
 
 Comey’s life began in New York but he moved to New Jersey as a child. His mom gave him haircuts and patched up his old clothes to save money, making him a target for bullies. It didn’t help that he was also scrawny and had a habit of talking too much.
 
@@ -36,7 +36,7 @@ Naturally, it had a deep effect on him personally. For the first time, he reflec
 
 ## Lesson 2
 
-### President Obama taught Comey a lot about many things, including leadership.
+### President Obama taught Comey a lot about many things, including leadership
 
 Comey began working as the FBI director in 2014, under President Obama. **In his time working with Obama, he was deeply impressed with how effective and intelligent Obama was as a leader.**
 
@@ -55,13 +55,13 @@ When Comey talked to Obama afterward, the president listened intently to what he
 
 ## Lesson 3
 
-### We can get an inside look at the early days of Trump’s presidency through Comey’s experiences.
+### We can get an inside look at the early days of Trump’s presidency through Comey’s experiences
 
 Comey’s experience with the Trump administration was rocky from the beginning. When he gave Trump his first briefing on threat levels, he informed Trump and his team that Russians had been attempting to influence the election’s outcome. Immediately Trump and his team discussed ways they could use this information to their political advantage.
 
 This was just their first meeting, but only one of many occasions he was reminded of the actions of the Mafia bosses he used to work to lock up. Soon, more evidence of Russian connections arose. Repeatedly Trump asked for Comey’s loyalty.
 
-But Comey hated bullies and had huge ethical concerns. He took memos and recorded all the times Trump asked they speak privately. **All modern presidents consider talks like these between the president and FBI director to be inappropriate.**
+But Comey hated bullies and had huge ethical concerns. He took memos and recorded all the times Trump asked they speak privately. **All modern presidents consider t alks like these between the president and FBI director to be inappropriate.**
 
 Nevertheless, Comey did his best to remain free of bias and expected to serve out the next 10 years as FBI director. Until Trump’s last call to Comey in April of 2017. Trump expressed his disappointment that Comey wasn’t making more of an effort to “lift the cloud” of the Russia investigation. In May, Comey heard the news of his firing along with everyone else while he was in California on the job.
 
@@ -70,7 +70,5 @@ Comey feels he lost his job for his refusal to influence the FBI investigations 
 ## Review
 
 I don’t love politics or history, but *A Higher Loyalty* was still pretty interesting. It’s great to get this fascinating first-hand account of some of the details on major recent political events. I think there’s a lot to learn from this book no matter what side you’re on politically!
-
-## Who it’s for
 
 The 52-year-old that loves to read the news and wants more details behind the headlines, the 35-year-old with an interest in politics, and anybody that’s curious about what really happens in Washington DC.

@@ -22,9 +22,9 @@ This book is a chance to reframe the concept of power in a new, more constructiv
 
 ## Lesson 1
 
-### Power emerges naturally in most daily interactions.
+### Power emerges naturally in most daily interactions
 
-To see power as a socially necessary and constructive phenomenon, look at its workings in daily life. **Many of our interactions are shaped by the experience of power– and it is important to realize that.**
+To see power as a socially necessary and constructive phenomenon, look at its workings in daily life. **Many of our interactions are shaped by the experience of power – and it is important to realize that.**
 
 Consider the dynamics between younger and older siblings during adolescence. Usually, the older sibling has the advantage of being more educated and experienced. As a consequence, he or she naturally assumes power over the younger one. This plays an important role in how both siblings interact with other people later in life.
 
@@ -36,7 +36,7 @@ This brings us to describe how power is born within a social context.
 
 ## Lesson 2
 
-### Power comes from your ability to improve the lives of others.
+### Power comes from your ability to improve the lives of others
 
 A lot of people think that they must claim power by force. No wonder why – when we look at the world’s historical events, it often appears that power comes from suppressing another. After all, the Spaniards managed to forcefully take over the Native Americans’ territories – didn’t they?
 
@@ -50,13 +50,13 @@ The key to maintaining power is remembering to never take it for granted. You wi
 
 ## Lesson 3
 
-### Powerlessness often stems from being at a social disadvantage and it can cause health damage.
+### Powerlessness often stems from being at a social disadvantage and it can cause health damage
 
 It would help the world if people would be willing to see their power that stems from social privileges. Unfortunately, according to Keltner, those who have such power often find smart ways to explain it away.
 
 For example, one study showed that people from the upper class tend to see themselves as more capable than those from lower classes. According to Keltner, this can translate into a belief that they succeeded in life due to their own hard work and qualifications. Their power often blinds them to see the privileges they enjoyed, such as good education, social status and a considerable amount of wealth.
 
-**Conversely,the lack of power is often an effect of being a member of a disadvantaged community.** It has been demonstrated, for example, that Afro-Americans in the US are more likely to be killed or mistreated by the police than other races. This demonstrates how certain social groups, in particular, have feelings of powerlessness.
+**Conversely, the lack of power is often an effect of being a member of a disadvantaged community.** It has been demonstrated, for example, that Afro-Americans in the US are more likely to be killed or mistreated by the police than other races. This demonstrates how certain social groups, in particular, have feelings of powerlessness.
 
 What is more, the stress that comes from feeling powerless can have very real consequences for health. There are studies showing that children from low-income families may have their brains developed by 3-10% less than those from better-off families.
 
@@ -65,7 +65,5 @@ This demonstrates that the topic of power isn’t just for courtrooms and state 
 ## Review
 
 *The Power Paradox* is an important voice calling for the much-needed paradigm change in humanities and social sciences. It makes you acutely aware that the ways of thinking about power, dominance, and influence that most people believe are outdated. If you like to dig into social issues and have an interest in the psychology of human interactions, this book will be enriching.
-
-## Who it’s for
 
 The 45-year old policy-maker who is genuinely dedicated to creating positive social change, the 32-year old HR employee who wants to become better at their job and to anyone passionate about the idea of social and personal empowerment.

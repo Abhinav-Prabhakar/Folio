@@ -24,7 +24,7 @@ Born to be a winner? I thought so!
 
 ## Lesson 1
 
-### Winning isn’t an action, it’s a lifestyle.
+### Winning isn’t an action, it’s a lifestyle
 
 First of all, let’s clarify what winning really means.
 
@@ -42,7 +42,7 @@ This will make your own life a whole lot better and you’ll inspire others to b
 
 ## Lesson 2
 
-### Losers let things happen, winners make things happen.
+### Losers let things happen, winners make things happen
 
 “I guess I’ll just see what happens.”
 
@@ -68,7 +68,7 @@ Take the reigns of your life into your own hands and you’ll feel a sense of co
 
 ## Lesson 3
 
-### Winners win in every aspect of life.
+### Winners win in every aspect of life
 
 The best part of being a winner?
 
@@ -95,7 +95,5 @@ By default, these 3 lessons are way too little to convey the goodness of *The Ps
 The summary is very very thorough and it feels like there are way more than 10 things in there. I remember researching a lot and listing out the 10 specific things separately, maybe I’ll share them as a bonus some time 🙂
 
 In the meantime, I highly suggest you go on Blinkist and read this summary. It feels like a very comprehensive read about positive psychology and has a lot more power to help you create a positive mindset than most of the other books in this field.
-
-## Who it’s for
 
 The 17 year old who keeps being told he’s a loser in high school, the 31 year old who’s ready to take charge of her own life, and anyone who sometimes feels like a spectator in their own life.

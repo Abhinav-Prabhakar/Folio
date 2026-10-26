@@ -22,7 +22,7 @@ Ready to become a social media maverick? Let’s do this!
 
 ## Lesson 1
 
-### Treat your social media presence like it’s a business.
+### Treat your social media presence like it’s a business
 
 Why does your softball team never win and make it to the top of the league?
 
@@ -40,7 +40,7 @@ So remove your WhiskeyWilliam handle, drunken party profile pic and stop posting
 
 ## Lesson 2
 
-### Give your fans content they want to see, not only what you want to create.
+### Give your fans content they want to see, not only what you want to create
 
 Speaking of content, most people use their Facebook profile like it’s a megaphone for their opinions.
 
@@ -62,7 +62,7 @@ Don’t just spout off opinions. Mix and match your own unique perspective with 
 
 ## Lesson 3
 
-### Let your different accounts talk to each other for cross-promotion.
+### Let your different accounts talk to each other for cross-promotion
 
 First of all, when I say different accounts, I don’t mean 10. I mean 2, or maybe 3. We’ve all been there. We signed up for 10 different platforms and ended up so overwhelmed with maintaining them all, that we eventually dropped all but 3.
 
@@ -85,7 +85,5 @@ The best part? All of these platforms just get more valuable as they get bigger.
 At 1.5 years old, *The Art Of Social Media* is already a bit outdated, but the fundamentals remain the same. Many of his tips apply today, and if you’re a social media newbie, it’s a great and light read with a lot of return for your money.
 
 The summary on Blinkist is way too short, I think, so go straight for the book.
-
-## Who it’s for
 
 The 14 year old, who’s on all social media, but just consumes content and doesn’t put any out in a strategic way, the 42 year old with a day job, who thinks it’s “too late” to join social media, and anyone who can’t find anything meaningful when they google their own name.

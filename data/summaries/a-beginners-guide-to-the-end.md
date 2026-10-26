@@ -18,7 +18,7 @@ Are you ready to have some of your fears about death squashed by learning some w
 
 ## Lesson 1
 
-### After learning of your own terminal illness, it’s best to take things slow.
+### After learning of your own terminal illness, it’s best to take things slow
 
 All four of my grandparents had cancer at some point. About 10 years ago my dad got it, too. Receiving the news really shook me up. I had to take the time to process what was happening so I could function properly. It’s a gut-wrenching event that most can’t get a grasp on at first. You’re not a bad person for needing time to take it all in and stabilize yourself.
 
@@ -30,7 +30,7 @@ Additionally, don’t try quitting smoking, drinking, binging on chocolate, or w
 
 ## Lesson 2
 
-### Take care of your secrets and stuff before dying, and make sure you’ll leave something meaningful to those you love most.
+### Take care of your secrets and stuff before dying, and make sure you’ll leave something meaningful to those you love most
 
 When you die, you’ll take nothing with you. So clean up after yourself to not leave so much for your family to take care of after you’re gone. Give your relatives the gift of being able to focus solely on you after you go, instead of having to clean out your attic.
 
@@ -42,7 +42,7 @@ You’ll also want to make sure and reveal any big secrets and clean up any regr
 
 ## Lesson 3
 
-### Give yourself a break and let grief come and go like a wave when someone close to you dies.
+### Give yourself a break and let grief come and go like a wave when someone close to you dies
 
 My dad and his parents all survived cancer. My other two grandparents weren’t so lucky. My mom’s dad succumbed to his illness before I was born, but I still remember when her mom died. It was shockingly painful. The best thing to do for me is what anyone should do after a loved one dies-focus on gentle self-care.
 
@@ -55,7 +55,5 @@ When my dad’s mom died I was right in the middle of my first grad school class
 ## Review
 
 *A Beginner’s Guide to the End* is a book that will really make you think about your life. I’ve often thought about different aspects of death in preparation for it, and I’m grateful for the new ideas this book gave me to prepare. It was hard to read because I’ve had so many loved ones die from cancer, but I’m grateful for the added level of everyday mindfulness it’s given me.
-
-## Who it’s for
 
 The 34-year-old who just lost their father, the 58-year-old who is caring for their dying mother, and anyone who is going through, or has a loved one with, a terminal illness.

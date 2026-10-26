@@ -8,10 +8,10 @@ I really like the books by the Heath brothers. They’re well researched, fun to
 
 They’ve created a 4-step process called WRAP, which you can run through each time you have to make a big, important decision, to make choices easier. Its four elements are:
 
-1. **W** iden your options.
-2. **R** eality-test your assumptions.
-3. **A** ttain distance before deciding.
-4. **P** repare to be wrong.
+1. **W**iden your options.
+2. **R**eality-test your assumptions.
+3. **A**ttain distance before deciding.
+4. **P**repare to be wrong.
 
 Let’s look at the first three in more detail, because these are the steps that coincide with what I believe to be the most important lessons from this book:
 
@@ -23,7 +23,7 @@ Are you decisively indecisive? Let’s change that!
 
 ## Lesson 1
 
-### Decisions aren’t binary. Always think in opportunity costs.
+### Decisions aren’t binary. Always think in opportunity costs
 
 How many times has this happened to you in school? On Wednesday, someone starts talking about a party on Friday and by Thursday, everyone’s invited, including you. Now you have to decide what to do.
 
@@ -43,7 +43,7 @@ For example, when people were given the choice between buying a $14.99 video or 
 
 ## Lesson 2
 
-### Don’t make plans. Run experiments and see what sticks.
+### Don’t make plans. Run experiments and see what sticks
 
 In case of Jake’s party this won’t work, but in quite a lot of instances, you don’t even *have* to decide right away. **You can just set up various trials and see which decision works out best.**
 
@@ -55,7 +55,7 @@ The Heath brothers call this testing on a small scale *ooching*, and it really m
 
 ## Lesson 3
 
-### Change your perspective to friend or future to be more objective.
+### Change your perspective to friend or future to be more objective
 
 The third step of the WRAP model is getting some distance. Why does that matter?
 
@@ -74,7 +74,5 @@ We often give much more objective advice to our friends, because we’re not bug
 ## Review
 
 As I said in the intro, there’s not much to complain about with these guys’ writing. It’s rock solid. *Decisive* comes highly recommended and definitely one of the better how-to-make-better-decisions-books out there!
-
-## Who it’s for
 
 The 16 year old, who can’t decide whether to go to the party on Friday or not, the 34 year old shoe store clerk, who’d love to be a writer, but doesn’t want to give up her job to pursue her dream full time, and anyone who thinks they give good advice to their friends.

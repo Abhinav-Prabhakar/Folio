@@ -20,7 +20,7 @@ Let’s go on a business adventure!
 
 ## Lesson 1
 
-### The stock market is unpredictable and irrational, as shown by it’s three day crash and recovery in 1962.
+### The stock market is unpredictable and irrational, as shown by it’s three day crash and recovery in 1962
 
 This week, I lost $1500 in the stock market, but I know this Coronavirus crash is only temporary. Take the 1962 flash crash. If you had been in a coma between May 28 and May 31 of that year, you wouldn’t notice much change to your investments. But you’d have missed out on one of the biggest events in stock market history-the 1962 Flash Crash.
 
@@ -34,7 +34,7 @@ It just goes to show how unpredictable the stock market is. You can count on inv
 
 ## Lesson 2
 
-### The Ford Edsel is the perfect example to teach you how not to launch your product.
+### The Ford Edsel is the perfect example to teach you how not to launch your product
 
 Have you ever heard of the Ford Edsel? If you haven’t it’s no wonder, it was one of the ugliest cars ever. It was also one of Ford’s biggest failures.
 
@@ -50,7 +50,7 @@ So the key point to remember here is that if you’re building a product, don’
 
 ## Lesson 3
 
-### You can change jobs if you have trade secrets thanks to Donald Wohlgemuth’s experience of doing so.
+### You can change jobs if you have trade secrets thanks to Donald Wohlgemuth’s experience of doing so
 
 Imagine you’re working for a well-known company and you get an offer from its competitor. What’s more, they give you an attractive deal to work on a project that your firm lost the bid for. You’d take it in a heartbeat, without second-guessing whether it was legal to do so, right? Well, your ability to do this wasn’t always so certain.
 
@@ -67,7 +67,5 @@ In the end, the judge decided in Wohlgemuth’s favor. Although he could harm B.
 ## Review
 
 *Business Adventures* is a really fascinating book, especially for those who are into entrepreneurship. What I like though is that it’s also got a lot to offer for anyone that has a job, pays taxes, or invests in the stock market. I highly recommend this one!
-
-## Who it’s for
 
 The 34-year-old investor wondering why his stocks are behaving so erratically, the 47-year-old manager wants to leave their job and work for a competitor but isn’t sure they can do so legally, and anyone who wants to avoid the business mistakes of the last century.

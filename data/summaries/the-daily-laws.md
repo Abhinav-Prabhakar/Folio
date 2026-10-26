@@ -16,11 +16,9 @@ The book is structured like a calendar, but the months are sub-grouped into thre
 
 Ready to learn what Robert Greene has discovered after 20 years of analyzing the human mind? Let’s dig in!
 
-### The Daily Laws Summary
-
 ## Lesson 1
 
-### Mastery is a never-ending process — it must be maintained, not attained.
+### Mastery is a never-ending process — it must be maintained, not attained
 
 Over the first three months, the book deals with mastery, about which Greene wrote a book of the same name.
 
@@ -36,7 +34,7 @@ No matter how good you are at your job, how famous you become, or how many books
 
 ## Lesson 2
 
-### Power is a never-ending game that’s always being played, and you can only embrace it, ignore it, or accept it.
+### Power is a never-ending game that’s always being played, and you can only embrace it, ignore it, or accept it
 
 Most of Greene’s writing deals with power: how we attain and lose it, and the games people play to get and keep it. For five months, his daily laws cover various questions around power. One of the most fundamental yet important ones is that humans are *always* playing power games.
 
@@ -50,7 +48,7 @@ Power isn’t inherently good or bad. Like money or status, it’s just a tool. 
 
 ## Lesson 3
 
-### If you don’t want to get stuck in “tactical hell,” you must take a higher, wider, more long-term perspective regularly.
+### If you don’t want to get stuck in “tactical hell,” you must take a higher, wider, more long-term perspective regularly
 
 “Tactical hell” is a term Greene uses for the reactive mode all of us find ourselves in from time to time. You’re so stressed out, you don’t even know where to begin. Deadlines, chores, the demands of friends and family — it’s all too much, and all you can do is react, react, react. But that’s not living. That’s just being pushed around by life’s events and your emotions.
 
@@ -65,7 +63,5 @@ In Simon Sinek’s *The Infinite Game*, there is an exercise to discover your �
 “Read a page, save the day.” That’s the mantra we want you to adopt, and in that sense, *The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature* is the perfect tool. Try reading a page a day, and if it doesn’t stick, just flick around to see which laws grab you the most!
 
 Fun fact: Ryan Holiday was Greene’s mentee, and he likely helped him with this book, which is very similar to *The Daily Stoic*, an equally valuable and easy-to-read book.
-
-## Who it’s for
 
 The 33-year-old frustrated project manager who can’t seem to get ahead at his job, the 46-year-old successful painter who’s wondering where next to take her career, and anyone who wants to get an overview of Robert Greene’s work.

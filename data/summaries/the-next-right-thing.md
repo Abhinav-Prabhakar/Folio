@@ -20,7 +20,7 @@ Are you ready to stop living your life in uncertainty and start making intention
 
 ## Lesson 1
 
-### Instead of focusing on the outcome, try looking at the present and just doing the next right thing.
+### Instead of focusing on the outcome, try looking at the present and just doing the next right thing
 
 You’ve probably had to make a decision at some point in your life where you had to spend a significant amount of time worrying about possible outcomes. But Freeman says if you want to really do what’s best, stop worrying so much about the distant future and just worry about the next right thing. It’s a principle that both Alcoholics Anonymous and Martin Luther King Jr profess.
 
@@ -34,7 +34,7 @@ Rather than worrying so much about every detail of her future, she decided to do
 
 ## Lesson 2
 
-### Clear yourself of inner distractions and try to find what your inner motivations are before making a decision.
+### Clear yourself of inner distractions and try to find what your inner motivations are before making a decision
 
 In an age where the internet lies in the palm of our hands, sometimes it’s almost impossible to just sit with our thoughts. If you want to find what your next right thing is, you need to be able to declutter your mind and allow space to think. In other words, become an inner minimalist.
 
@@ -50,7 +50,7 @@ When the author contemplated going on a service trip to the Phillipines, she had
 
 ## Lesson 3
 
-### Sometimes surprises will give you the most clarity.
+### Sometimes surprises will give you the most clarity
 
 Maybe a few of the tips above will help you find clarity in whatever decision you grapple with, or maybe not. But something to remember about clarity is that you can’t rush it.
 
@@ -65,7 +65,5 @@ This goes to show that when you’re feeling insecure, don’t close yourself of
 ## Review
 
 *The Next Right Thing* contains great advice for any of us who struggle with making decisions in our lives. There are 24 chapters, all with different and valuable advice, so I would definitely recommend reading the whole book. Though it does contain quite a bit of religion, there are good tips for those who aren’t religious as well.
-
-## Who it’s for
 
 The 24 year-old recent college graduate who is navigating a new time in her life, the 43 year-old Christian who wants some spiritual guidance on how to overcome decision fatigue, anyone who struggles with being decisive.

@@ -20,7 +20,7 @@ I know you’re smart, but are you happy? Let’s take care of some of the roadb
 
 ## Lesson 1
 
-### Find the emotions you connect to happiness and make room for experiencing them.
+### Find the emotions you connect to happiness and make room for experiencing them
 
 Let’s start with the very first of the seven deadly sins: *devaluing happiness*. Quite frankly, it’s impossible to make progress in something you don’t prioritize – and happiness is one of the things we most commonly put on the back-burner.
 
@@ -34,7 +34,7 @@ Only once you what state you’re happy in can you start making time for the act
 
 ## Lesson 2
 
-### Neither needy nor avoidant: Find the middle ground of love by being generous.
+### Neither needy nor avoidant: Find the middle ground of love by being generous
 
 In the 1970s and 80s, psychologist Mary Ainsworth started a series of longitudinal studies on children who lacked parental care and affection while growing up. As you would expect, these children turned into adults who landed on the extreme ends of the spectrum of love: they were either extremely needy or totally avoidant.
 
@@ -46,7 +46,7 @@ Both of these are a lot more conducive to happiness than avoiding love or textin
 
 ## Lesson 3
 
-### Be dispassionate in your pursuit of passion to stay flexible and patient.
+### Be dispassionate in your pursuit of passion to stay flexible and patient
 
 This last sin is one I personally struggle with quite often: *being either too passionate or too distant about what goes on in your life.* When I have a fallout with an old friend, I quickly go into “I-don’t-care-mode” and write it off as not important enough to warrant my attention or energy, which it actually might be. On the other hand, I’m sometimes overly obsessed with work and not present enough when I’m with friends and family.
 
@@ -59,7 +59,5 @@ That way, you always have something you’re striving for, but are patient and f
 ## Review
 
 What a cool way to structure a book! *If You’re So Smart, Why Aren’t You Happy* is very straightforward and practical. “Here’s what makes you happy. Here’s what isn’t. This is how to avoid the bad stuff and do more of the good stuff.” I like the reminder to consciously prioritize happiness and have already started thinking the situations in which I’m most happy. One of them is obvious: writing summaries like this one 🙂
-
-## Who it’s for
 
 The 29 year old young professional, who’s a few years into her first job out of college, but finds it doesn’t fulfill her the way she thought it would, the 45 year old, who’s considering getting his MBA to not be banished to the sidelines at work, and anyone who often sends one text too many.

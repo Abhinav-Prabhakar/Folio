@@ -18,11 +18,9 @@ Here are three lessons from this fantastic, life-affirming novel:
 
 Welcome to the Midnight Library!
 
-### The Midnight Library Summary
-
 ## Lesson 1
 
-### Even if you could live a million lives, chances are, you’d still not be satisfied — because that’s human nature.
+### Even if you could live a million lives, chances are, you’d still not be satisfied — because that’s human nature
 
 In an episode of *The Sandman*, Robert “Hob” Gadling strikes a deal with Death: In exchange for sharing his experience once a century, he won’t die. Some centuries Hob lives like a pauper, in others he lives like a king. No matter whether he’s rich or just lost his family, however, Hob asks for 100 more years at each meeting. 600 years later, his conclusion is clear: “I could do this forever.”
 
@@ -36,7 +34,7 @@ Don’t strive for a perpetual state of perfection. It doesn’t exist. Learn to
 
 ## Lesson 2
 
-### What you believe to be your best life may still not be the right one for you to live.
+### What you believe to be your best life may still not be the right one for you to live
 
 After she has tried being a glaciologist, being a rockstar, and owning a vineyard, Nora finally finds a life that seems to fit like a glove. She is married to her hot neighbor Ash, who’s a surgeon. They have a daughter and a dog. The couple lives in Cambridge, and Nora is a philosophy professor. In other words, everything is perfect.
 
@@ -65,7 +63,5 @@ Enjoy the present, be kind to those around you, and ask for help when you need i
 ## Review
 
 *The Midnight Library* is a beautiful book with a clever concept, masterfully executed by Matt Haig. It is easy to read, full of great quotes, smart references, and even some poems and lyrics Nora wrote in her other lives. The book draws from many genres and will make you think deeply, not just about the lives you *could* lead, but also about the one you *do*. A magnificent thought experiment with a wonderful conclusion.
-
-## Who it’s for
 
 The 14-year-old boy who gets bullied in school and feels isolated and alone, the 35-year-old stay-at-home wife who feels she should have accomplished more, and anyone who spends a lot of time thinking about past regrets.

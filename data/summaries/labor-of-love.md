@@ -20,7 +20,7 @@ Whatever you’re trying to master, it always pays to learn about a field’s hi
 
 ## Lesson 1
 
-### Dating was invented when women started moving to cities.
+### Dating was invented when women started moving to cities
 
 Out of all things, the one you’d least expect to yield a big influence over dating is probably economics. Yet, without some economic developments, we wouldn’t even be dating at all. The Industrial Revolution with its shift towards big factories and lots of manual labor required a lot of workers in one place. The factories huddled together, creating infrastructure around them and big cities were born.
 
@@ -38,7 +38,7 @@ The wealthier middle class “called” on each other instead. Men knocked at a 
 
 ## Lesson 2
 
-### Consumption became a central part of dating in the 1920s – and it still is today.
+### Consumption became a central part of dating in the 1920s – and it still is today
 
 The second group from above set up the next big shift in dating. It’s the reason dating sites like OkCupid ask for your brand preferences before your personality traits and why Tinder thrives on judging people’s looks. The women working as sales reps in shops in the early 1900s, so-called *shopgirls*, infused dating with a big chunk of consumption.
 
@@ -52,7 +52,7 @@ This new model of judging people based upon their taste and consumer preferences
 
 ## Lesson 3
 
-### Today’s hookup culture started all the way back in the 50s.
+### Today’s hookup culture started all the way back in the 50s
 
 Being a parent in the 1950s wasn’t a lot of fun, I imagine. All you knew dating was for is finding a spouse and now your children start telling you they’re “going steady” with their latest girlfriend or boyfriend.
 
@@ -69,7 +69,5 @@ So no, “Netflix and chill” isn’t exactly new 😉
 If anything, *Labor of Love* makes me reminisce of the “good old times.” Sometimes I feel like I was born too late. Courtship, chivalry, I wish these came more natural to us. You’re an outsider when you practice them. In fact, you’re often laughed at. But it doesn’t matter. I believe in a world where we treat each other nicely and with respect, so that’s what I’m gonna do.
 
 Love people, use things. Not the other way around.
-
-## Who it’s for
 
 The 15 year old who feels lonely and dissatisfied with all the texting and online dating of his generation, the 32 year old model, who’s sick of being treated as a sex object, and anyone who hasn’t found their partner for life just yet.

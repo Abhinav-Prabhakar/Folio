@@ -18,7 +18,7 @@ Are you ready to discover an entirely new side of innovation? Let’s see how fa
 
 ## Lesson 1
 
-### Three brothers invented a device similar to a computer over 1,000 years ago.
+### Three brothers invented a device similar to a computer over 1,000 years ago
 
 The oldest musical instrument in the world is the Aurignacian flute, which was found quite recently in Germany and is about 40,000 years old. Obviously, we’ve been tinkering with sounds for quite some time. This makes sense, as it was important in our development of language, but when you think of why you listen to music, we mostly do it to enjoy.
 
@@ -30,7 +30,7 @@ Incredible, isn’t it?
 
 ## Lesson 2
 
-### The world’s biggest entertainment industry, films, has its roots in our obsession with optical illusions.
+### The world’s biggest entertainment industry, films, has its roots in our obsession with optical illusions
 
 One part of why the brothers were able to come up with so many brilliant discoveries is that our brain is primed to look for innovation when we play. Two reasons:
 
@@ -45,7 +45,7 @@ Later, this turned into the zoetrope, which has more pictures and spins longer, 
 
 ## Lesson 3
 
-### Societal change can be the result of the types of games we play with friends and family.
+### Societal change can be the result of the types of games we play with friends and family
 
 In a way, we play games all day long. There’s the family game, the work game, the finance game, the career game, the love game, and so on. In each of these games, we have a certain role to fulfill, certain variables to set and choices to make, which ultimately determine whether we win or lose.
 
@@ -58,7 +58,5 @@ The next time you play a game with your friends, think it through. How does it a
 ## Review
 
 *Wonderland: How Play Made the Modern World* is a fun, out-of-the-box read. It won’t flip your world view upside down, but make for lots of ‘oohs’ and ‘ahhs,’ while keeping you curious. A nice project to get familiar with if you’re looking for new creative input.
-
-## Who it’s for
 
 The 27 year old scientist, who considers her work as a tough job, the 43 year old history teacher, who’s looking for a creative lesson to teach his students, and anyone who loves random facts.

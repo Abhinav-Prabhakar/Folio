@@ -20,7 +20,7 @@ Are you looking forward to finding more peace in emptiness? Let’s get right to
 
 ## Lesson 1
 
-### Your psychological disorders come from a misguided sense of self.
+### Your psychological disorders come from a misguided sense of self
 
 When you were a kid, everybody expected you to behave as they thought you should. That meant acting against your nature at times. You couldn’t do what your instincts said because you had to follow society’s expectations to fit in.
 
@@ -40,7 +40,7 @@ Neither of these is healthy, but there’s a solution as you’re about to learn
 
 ## Lesson 2
 
-### Become free from the self and alleviate mental illness with the teachings of Buddhism.
+### Become free from the self and alleviate mental illness with the teachings of Buddhism
 
 Do you ever wonder what your friends are thinking about themselves? What if you could have the same view of yourself also? It might be a lot easier to let selfish or self-deprecating thoughts go, wouldn’t it?
 
@@ -56,7 +56,7 @@ After all, it’s almost a sure bet that you’ll keep your ego at bay when you�
 
 ## Lesson 3
 
-### Mindfulness will help you learn to be at peace with your emotions, both good and bad.
+### Mindfulness will help you learn to be at peace with your emotions, both good and bad
 
 Can you imagine being a musician that finds certain sounds annoying? This was the case for John Cage, who couldn’t stand some of the odd noises he wanted to use in his different music style.
 
@@ -73,7 +73,5 @@ The next time you feel something you want to call unpleasant, pause for a moment
 ## Review
 
 I’ve really enjoyed learning more about Buddhism from multiple books recently, and *Thoughts Without A Thinker* is one of my favorites of those. It’s nice to have my beliefs, especially about myself, challenged and reframed in a way that helps me feel more at peace with who I am. Mindfulness is such a useful tool for so many reasons, and I’m glad I got to learn even more about it from this book.
-
-## Who it’s for
 
 The 23-year-old that’s always stressed and anxious about school but doesn’t know if meditation can help, the 53-year-old who struggles with depression and wants some help, and anyone that could use a little less selfishness and a little more peace in their life.

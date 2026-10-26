@@ -20,7 +20,7 @@ Ready to turn hobby into profession? Let’s go and get it!
 
 ## Lesson 1
 
-### In order to profit from your passion, you have to turn yourself into a brand.
+### In order to profit from your passion, you have to turn yourself into a brand
 
 It was true in 2009 and it’s even more true in 2016. You can make money by being yourself. Thanks to the internet and social media, the cost of entry has been lowered in almost any industry.
 
@@ -36,7 +36,7 @@ Without a brand you won’t be able to profit from your passion financially, but
 
 ## Lesson 2
 
-### Choose a medium that fits your personality to tell stories people want to hear.
+### Choose a medium that fits your personality to tell stories people want to hear
 
 You should start by looking at a bunch of different social media and online platforms. It’s important that **the platform matches who you are**.
 
@@ -50,7 +50,7 @@ Telling stories is one thing, but telling stories people actually want to hear r
 
 ## Lesson 3
 
-### Even if it takes a while: always be authentic in your content.
+### Even if it takes a while: always be authentic in your content
 
 One thing you should never do though, is try to fake it. Gary is loud and drops the f-bomb all the time. But what good would it be for him to try and tone that down *every time* he’s in public?
 
@@ -65,7 +65,5 @@ It might take some time, energy, and a lot of effort, but once you’ve found yo
 The summary of *Crush It* on Blinkist is okay, if you just want the technical details, but compared to watching a Gary Vaynerchuk video it feels utterly lifeless. That’s probably because video is just his medium. Gary’s very extroverted and most charming and convincing when he yells directly at you, not from a piece of (digital) paper.
 
 The book on the other hand feels like one long episode of the #AskGaryVee show, which is great to read. I’d still recommend just going on a binge watch of Gary’s videos though.
-
-## Who it’s for
 
 The 17 year old who keeps trying to crack jokes on Twitter, when she’s really a great dancer and needs to be seen on video, the 59 year old who thinks he’s already missed the train, and anyone who just consumes content on social media so far, and doesn’t create any.

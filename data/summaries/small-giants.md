@@ -20,7 +20,7 @@ When it comes to business, bigger isn’t always better! Let’s dive right in a
 
 ## Lesson 1
 
-### You don’t have to grow your company if you don’t want to, and there are many benefits of staying put.
+### You don’t have to grow your company if you don’t want to, and there are many benefits of staying put
 
 I never liked the idea of having a giant corporation because I know it would make me unhappy. I think most people would probably feel the same way. But the pressure to grow your business is severe, and it can be hard not to give in to it.
 
@@ -38,7 +38,7 @@ Plus, smaller companies are more relatable and better at customer service, which
 
 ## Lesson 2
 
-### If you own a company, you can keep doing what you love if you maintain the right control.
+### If you own a company, you can keep doing what you love if you maintain the right control
 
 I took two business classes as part of my graduate degree. I learned a lot but hated constantly hearing about the “need” for venture capital. There I sat with two successful companies that have never used a single cent of other people’s money!
 
@@ -54,7 +54,7 @@ If you really love what you do, it’s worth it to limit your expansion so you c
 
 ## Lesson 3
 
-### Employees in small giant companies are more passionate about their work, which gives the business advantage.
+### Employees in small giant companies are more passionate about their work, which gives the business advantage
 
 Have you ever worked for a large corporation and felt like you were just another cog in the machine? Like the management was unreachable, and the culture seemed too formal or fake?
 
@@ -73,7 +73,5 @@ If you and your employees are your company’s biggest fans, you know you’re i
 ## Review
 
 I really liked *Small Giants,* and I think you will too if you’re a business-minded person. The idea of staying little is something I’ve always thought about, and I love the ideas this book gave me to make it happen for me. This book is a must-read if you’re a solopreneur or on a small team!
-
-## Who it’s for
 
 The 45-year-old CEO who’s at a crossroads between scaling and staying put, the 21-year-old that has an interest in entrepreneurship but doesn’t want to be overworked, and anyone who’d rather have fun in business than deal with growing too big.

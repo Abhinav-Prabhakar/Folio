@@ -22,9 +22,9 @@ Ready to get a little wild with Mister Monbiot? Let’s do it!
 
 ## Lesson 1
 
-### The consequences of destroying nature are all-encompassing.
+### The consequences of destroying nature are all-encompassing
 
-The destruction of coral reefs and rain forests as a consequence of human economical expansion is obvious. Most people agree that we should stop such practices because they harm the global ecosystem. **However, not everyone is aware thatdestructing wildlife has more consequences than “just” reducing world’s biodiversity.**
+The destruction of coral reefs and rain forests as a consequence of human economical expansion is obvious. Most people agree that we should stop such practices because they harm the global ecosystem. **However, not everyone is aware that destructing wildlife has more consequences than “just” reducing world’s biodiversity.**
 
 An ecological organization once sent Monbiot to monitor the impact of Brazilian gold mines on the environment. That was when he saw for himself that it was not just rain forests that were suffering. The indigenous people’s cultures, which were dependent on those rain forests, also diminished.
 
@@ -36,11 +36,11 @@ The author saw destroying those cultures as one of the many threats of Western n
 
 ## Lesson 2
 
-### Human well-being is dependent on the connection with nature.
+### Human well-being is dependent on the connection with nature
 
 Benjamin Franklin wrote that many Europeans captivated by the Native Americans during the conquest of The New World became acclimatized to the indigenous way fo life. What’s more, after having spent a significant period of time with the tribes, few wished to return to the colonialist culture. Interestingly, this didn’t work the other way around with the Native American captives.
 
-**Monbiot’s interpretation of these facts is clear:humans need a close connection with nature to thrive.** Since the indigenous cultures provide such a connection, there is no wonder why so many people find this way of life enticing.
+**Monbiot’s interpretation of these facts is clear: humans need a close connection with nature to thrive.** Since the indigenous cultures provide such a connection, there is no wonder why so many people find this way of life enticing.
 
 However, today, there is no going back to the hunter-gatherer lifestyle that would enable world’s population to embrace a “back to the roots” lifestyle. There are simply too many people for the Earth to feed us in this way. Hence, we need to abide by the civilization we created – but at the same time, we need to create intervention-free zones where nature can have its own rule.
 
@@ -50,9 +50,9 @@ If we want to truly enjoy the feeling of immersion in nature, we need to designa
 
 ## Lesson 3
 
-### Rewilding is leaving nature to play by its rules – but it needs to be initiated by re-introducing large animal species.
+### Rewilding is leaving nature to play by its rules – but it needs to be initiated by re-introducing large animal species
 
-There is actually one thing humans should actively do, in order for the process of rewilding to be efficient. **We must restore the populations of certain large animals to initiate the recovery of natural ecosystems.**
+There is actually one thing humans should actively do, in order for the process of rewilding to be efficient. **We must restore the populations of c ertain large animals to initiate the recovery of natural ecosystems.**
 
 To determine which species these are, it helps to look at archaeological findings.
 
@@ -67,7 +67,5 @@ Once the crucial species are re-introduced into the ecosystems, Monbiot argues t
 ## Review
 
 *Feral* is an account from a journalist, author and researcher – but most importantly, from an avid nature lover. You can literally feel his amazement with nature as you read his words. Monbiot’s book is compelling also because it doesn’t focus on criticising the destructive human impact on the planet. Instead, it offers practical solutions that we can use to restore balance in our ecosystems.
-
-## Who it’s for
 
 The 28-year-old environmental activist who looks for actionable solutions to help the planet, the 45-year-old urban planner searching for ways in which civilisation and nature can coexist, and to anyone who cares about the natural environment of Planet Earth.

@@ -1,6 +1,6 @@
 # Option B
 
-> Option B shares the stories of people dealing with traumatizing events, most notably Facebook COO Sheryl Sandberg’s sudden loss of her husband , to help you face adversity, become more resilient, and find joy again after life punches you in the face.
+> Option B shares the stories of people dealing with traumatizing events, most notably Facebook COO Sheryl Sandberg’s sudden loss of her husband, to help you face adversity, become more resilient, and find joy again after life punches you in the face.
 
 ## Overview
 
@@ -22,7 +22,7 @@ I don’t know what Option B will look like in your life, but we’ll all experi
 
 ## Lesson 1
 
-### You’ll have to deal with three Ps after a traumatic event.
+### You’ll have to deal with three Ps after a traumatic event
 
 When Sheryl’s husband died, the first medical report stated an injury sustained from his fall to the ground as the cause. As a result, Sheryl blamed herself for not paying attention to her husband more.
 
@@ -40,7 +40,7 @@ These are what make trauma tough to get past, and they’re remarkably similar t
 
 ## Lesson 2
 
-### Spend time in groups to develop grounded hope, which helps you move on.
+### Spend time in groups to develop grounded hope, which helps you move on
 
 Usually, we assume grieving people want to be alone, but most often, that’s not true at all. The isolation causes more despair than fresh air, so being among friends, while counterintuitive, is helpful. Sheryl talked a lot with friends 1-on-1. But spending time in groups is beneficial too, especially when it leads to something called *grounded hope*.
 
@@ -52,7 +52,7 @@ These included locating the tail-end of the plane to sleep in, sending small gro
 
 ## Lesson 3
 
-### Offer specific ways of helping to grieving friends to act as a panic button they can rely on.
+### Offer specific ways of helping to grieving friends to act as a panic button they can rely on
 
 Luckily, most of the time it’s not our turn to grieve. But it might be our turn to help. If isolation isn’t good for struggling friends, then an obvious first step you can take to make them feel better is to offer to be there. However, *“let me know if you need anything”* isn’t the best way to put it.
 
@@ -67,7 +67,5 @@ The more specific the panic button you offer, the better. Say “I’ll help you
 ## Review
 
 Putting your nose in a book when you grieve is one of the best things you can do. *Option B* is a good start, but I have one additional recommendation: lose yourself in a good fiction book too. Sometimes, fantasy offers more hope than reality ever could and that’s okay.
-
-## Who it’s for
 
 The 16 year old, who just lost a parent, the 53 year old, who suddenly got laid off, and anyone who feels like a past trauma is still holding them back.

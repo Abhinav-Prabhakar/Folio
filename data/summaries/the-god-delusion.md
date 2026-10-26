@@ -18,11 +18,9 @@ Here are 3 lessons from the book:
 
 Let’s dive in!
 
-### The God Delusion Summary
-
 ## Lesson 1
 
-### God is unlikely to exist due to 3 arguments, 2 of which are common-sense, 1 of which is based on science.
+### God is unlikely to exist due to 3 arguments, 2 of which are common-sense, 1 of which is based on science
 
 I’ve always questioned the existence of God in the form the Bible purports. Why would God appear as a larger-than-life old man if he could be anything? Dawkins, however, takes this idea further with a simple thought experiment: If God created the universe and everything in it, who created God?
 
@@ -36,7 +34,7 @@ Only one of these arguments is rooted in science. The other 2 are simply common 
 
 ## Lesson 2
 
-### Religion might simply be a by-product of evolution, the most successful meme in history.
+### Religion might simply be a by-product of evolution, the most successful meme in history
 
 You make a stir fry and have onions left over. The next day, you make onion soup. It tastes nice, so you buy extra onions the next time. You make more and more soup. Eventually, you forget the stir fry altogether. But the soup doesn’t have as much nutrient variety, so you end up on the toilet all the time. Whoops!
 
@@ -50,7 +48,7 @@ That’s why religion has survived until today, even though, evolutionarily spea
 
 ## Lesson 3
 
-### Science can remove the limitations of religion without taking away its benefits.
+### Science can remove the limitations of religion without taking away its benefits
 
 If religion is neither rooted in fact nor helpful to human survival, what should we do with it? Replace it with science, if you ask Dawkins. Since humans have the power to believe whatever they *want* to believe, the very force that can drag us into the flawed web of religion can also align us with reality.
 

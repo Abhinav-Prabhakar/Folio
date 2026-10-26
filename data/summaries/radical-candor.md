@@ -24,7 +24,7 @@ Let’s dive right into these lessons and discover how you can start becoming th
 
 ## Lesson 1
 
-### Radical candor means being direct and honest with people while taking care not to offend them.
+### Radical candor means being direct and honest with people while taking care not to offend them
 
 If you’re like me you might be wondering what radical candor even is. Let’s see what the definitions are, according to Google:
 
@@ -46,7 +46,7 @@ But she added that this would be a shame in Scott’s case because she was so sm
 
 ## Lesson 2
 
-### Barking orders doesn’t work; you must collaborate with your team members if you want to be efficient.
+### Barking orders doesn’t work; you must collaborate with your team members if you want to be efficient
 
 Have you ever thought about how exciting it is that you get to work around so many brilliant people? And if you’re a leader it’s really fun to get to lead the discussions and work closely with each individual.
 
@@ -65,7 +65,7 @@ Here’s the author’s four steps to reproducing this collaborative leadership 
 
 ## Lesson 3
 
-### Honest conversations with your employees are the best way to get to know their real motivations, which will allow you to support them.
+### Honest conversations with your employees are the best way to get to know their real motivations, which will allow you to support them
 
 Most people have big aspirations. If you as a leader aren’t harnessing the powerful motivation these can provide, you’re not reaching your team’s full potential.
 
@@ -86,7 +86,5 @@ Try each of these and with the power of radical candor your whole team wil be re
 ## Review
 
 As one who’s had both good and bad bosses in the past, I really liked *Radical Candor* and wish that more people knew about it. I think the core of this book is that it’s really important to just be open with people. Having that skill, combined with truly caring, is the real secret to getting the most out of everybody.
-
-## Who it’s for
 
 The 37-year-old that just became a manager and feels lost, the 53-year-old executive that’s losing employees faster than they can blink and wants to keep people on for longer, and anybody that wants to become a great leader whether at work or elsewhere.

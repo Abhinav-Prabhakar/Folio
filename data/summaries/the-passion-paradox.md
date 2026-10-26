@@ -22,13 +22,13 @@ By learning the biology behind it, you’ll be able to find and cultivate a heal
 
 ## Lesson 1
 
-### Pursuing your passion is risky and requires self-awareness.
+### Pursuing your passion is risky and requires self-awareness
 
 When you love what you do, you often forget about everything else. If you try to turn your passion into a job, you can easily get very busy and neglect family, friends and even your own wellbeing. Even Mahatma Gandhi, whose entire life was dedicated to helping his people and advocating for non-violence, had a troubled relationship with his son.
 
 Passion also means suffering and implies you sacrifice something to it. It will almost certainly take you to an unbalanced life. But putting forth too much emotional and physical effort is only sustainable in the short term. So, if you aim for the long run, you should pace yourself.
 
-**If you let it go unchecked,passion can lead you to burn out and loneliness or turn you into a slave to external validation.**
+**If you let it go unchecked, passion can lead you to burn out and loneliness or turn you into a slave to external validation.**
 
 Sometimes you start a project you really like working on, then you become increasingly focused on results and switch from the pleasure of doing what you love to the urge to be appreciated. Imagine you liked taking pictures and you decided to post them on Instagram. Easily, especially if your followers grow fast, you may become obsessed with the number of likes you get, forgetting why you opened your account in the first place.
 
@@ -36,7 +36,7 @@ Sometimes passion may simply slowly dim and even disappear. This is, for example
 
 ## Lesson 2
 
-### The biological mechanism behind passion ties it with addiction.
+### The biological mechanism behind passion ties it with addiction
 
 Isn’t passion something that can help us achieve greatness? How come it may have so many bad consequences on our lives?
 
@@ -52,7 +52,7 @@ But one day the company unexpectedly declared bankruptcy and its managers were c
 
 ## Lesson 3
 
-### A healthy passion comes with the pleasure of improving yourself.
+### A healthy passion comes with the pleasure of improving yourself
 
 So how can you become a happier person by doing what you love to do?
 
@@ -69,7 +69,5 @@ Finding your passion is just the beginning. Before going all-in you must check y
 ## Review
 
 *The Passion Paradox* gives us an unusual point of view on doing what we love. It shows that passion has its cons: following it will bring you joy but also the suffering due to an unbalanced life. Luckily there are ways to minimize the pitfalls and increase the benefits that come from finding what we love.
-
-## Who it’s for
 
 The 23-year-old who hasn’t found what she loves to do yet, the 40-year-old who’s getting obsessed with her new hobby, and anyone who is thinking of leaving his job and try to make a living at their passion.

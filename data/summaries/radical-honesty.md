@@ -24,7 +24,7 @@ Now, let’s dig a little deeper into these lessons!
 
 ## Lesson 1
 
-### True honesty means telling the absolute truth with no shortcuts.
+### True honesty means telling the absolute truth with no shortcuts
 
 Sometimes it can be hard to tell the truth to someone. It can be something that involves you, or the other person, and something that you may not want to address or confront. Whatever the reason is, the truth can be uncomfortable, and we all know it.
 
@@ -36,7 +36,7 @@ This is the healthier, correct choice in the long run. Contrary to your beliefs,
 
 ## Lesson 2
 
-### Being in charge of your life implies brutal honesty at all times.
+### Being in charge of your life implies brutal honesty at all times
 
 Taking responsibility for your life can be a real struggle. That is why many people blame their states, their environments, their parents, and mostly any external factor for their failures. The truth is, we have to start looking for the root of our problems within us.
 
@@ -48,7 +48,7 @@ Moreover, the author suggests that we should stop putting things in boxes. The w
 
 ## Lesson 3
 
-### Repressing anger instead of telling the truth can destroy your relationships.
+### Repressing anger instead of telling the truth can destroy your relationships
 
 Repressing anger for the sake of those around you is not a heroic act. Many people feel as if they have to show a perfect face to their children, spouse, and the world, or they will be seen as weak people otherwise. That is, in fact, not the case.
 
@@ -61,7 +61,5 @@ The best thing you can do is let it all out. Cry if you have to. Eliminate anger
 ## Review
 
 *Radical Honesty* helps its readers become better communicators and learn healthy lessons about openness and truth. Human nature is flawed, so sometimes people choose to lie, but doing so will only create a much bigger problem inside them and for those around them. For this reason, treating this flawed natural inclination is essential, as it will help us grow, evolve, and educate new people to be moral and fair throughout their lives.
-
-## Who it’s for
 
 The 25-year-old introvert who has a hard time telling the truth to someone’s face, the 30-year-old parent who wants to learn to communicate more efficiently and honestly with their children, and couples who are struggling with honest communication.

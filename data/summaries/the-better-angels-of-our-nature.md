@@ -20,7 +20,7 @@ Would you like to get an objective look at how violent (or not) the world truly 
 
 ## Lesson 1
 
-### Even the most well-meaning ideologies can go extreme and turn violent.
+### Even the most well-meaning ideologies can go extreme and turn violent
 
 One thing that Tai Lopez kept beating on in his 67 Steps was to avoid extreme ideologies. It’s something Charlie Munger (the billionaire partner of Warren Buffett) talked about in his 2007 USC Law commencement address and it’s stuck with me ever since.
 
@@ -39,7 +39,7 @@ That’s how some of history’s worst incidences of genocide started. One perso
 
 ## Lesson 2
 
-### We’ve been getting smarter thanks to the Flynn effect, which makes us less violent.
+### We’ve been getting smarter thanks to the Flynn effect, which makes us less violent
 
 One thing that nips extreme ideologies in the bud is reasoning. Using your rational thinking powers can quickly debunk extreme and violent ideas and luckily, these powers have been increasing across the globe for the past 100 years and more.
 
@@ -55,7 +55,7 @@ How exactly does this increase in reason translate to less violence?
 
 ## Lesson 3
 
-### When the printing press was invented, humanitarian philosophy started to spread and greatly decrease violence.
+### When the printing press was invented, humanitarian philosophy started to spread and greatly decrease violence
 
 Here’s someone you wouldn’t have thought of as a fighter against violence: Johannes Gutenberg. The inventor of the printing press gave us a tool that allowed for humanitarian philosophy to spread, **a world view that values human life and happiness above all else, using reasoning and empirical evidence to form its institutions.**
 
@@ -68,7 +68,5 @@ Lastly, in a humanitarian world even criminals are treated with dignity, mostly 
 ## Review
 
 As you can see, despite the drama in the news, the world isn’t as bad a place as you might think. It’s very interesting to discover why we would use violence in the first place and how this transition to peace has given most of us a great life of opportunity. *The Better Angels Of Our Nature* is a well-researched, thorough and comprehensive read!
-
-## Who it’s for
 
 The 31 year old young parent, who’s worried about his son often kicking other kids, the 57 year old political party member, who thinks immigration is a problem, and anyone who thinks it might have been better to be alive 100 years ago.

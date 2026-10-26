@@ -20,11 +20,9 @@ These are the 3 most impactful lessons I’ve learned:
 
 Are you ready to get the most out of yourself, and out of life? Let’s discover how!
 
-### Can’t Hurt Me Summary
-
 ## Lesson 1
 
-### Regardless of the obstacle you face, you can overcome and grow from it.
+### Regardless of the obstacle you face, you can overcome and grow from it
 
 Have you ever heard the phrase, “What doesn’t kill you makes you stronger?” According to Goggins, this rings true.
 
@@ -40,7 +38,7 @@ If you’ve been given a bad hand in life, look for the advantages it gives you.
 
 ## Lesson 2
 
-### If you want to get to the next level, work hard and persevere through your limits.
+### If you want to get to the next level, work hard and persevere through your limits
 
 Goggins is not only a SEAL but an ultra-endurance athlete. Forget marathons; he has done day-long 100-mile races. Whenever people ask how he was able to do so much, he says it all comes down to work ethic.
 
@@ -52,7 +50,7 @@ Goggins also teaches us that part of our mind that holds us back in life is the 
 
 ## Lesson 3
 
-### Stop using 40% of your effort and give life 100%.
+### Stop using 40% of your effort and give life 100%
 
 You know that feeling at the end of a long workout where you feel like you gave it your all and you can’t do anymore?
 
@@ -65,7 +63,5 @@ This is the 40% rule. When you start pushing your way past the 40% that most of 
 ## Review
 
 *Can’t Hurt Me* is truly inspiring. We learn what it takes to master our mind from someone who has overcome huge obstacles and become one of the toughest people on earth. He helps us break our mental roadblocks and take control of our success. By the time you’re done reading this, you’ll be ready to dump your excuses and do and become better than ever before.
-
-## Who it’s for
 
 The 16-year-old runner who wants a new perspective on working out, a 32-year-old survivor of abuse that is looking for inspiration to start fresh and become their best self, and anyone going through something difficult that needs encouragement.

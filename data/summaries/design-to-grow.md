@@ -22,7 +22,7 @@ Ready for a behind-the-scenes look at one of the top 10 most valuable brands in 
 
 ## Lesson 1
 
-### Your business is designed in two ways: the invisible and the visible.
+### Your business is designed in two ways: the invisible and the visible
 
 When we talk about business design, most often we think of nothing more than a company’s corporate identity – their logo, colors, fonts they use and maybe what the product looks like. David makes two interesting remarks, which both hint at the fact that business design is much more than just that:
 
@@ -37,7 +37,7 @@ What they came up with was a small, lightweight plastic bottle, that could easil
 
 ## Lesson 2
 
-### Once a startup finds its product-to-market fit, it must switch from being flexible to being stable.
+### Once a startup finds its product-to-market fit, it must switch from being flexible to being stable
 
 Everything in the startup-world is fast-paced. You have to grow fast, adapt all the time and stay lean. David says all of that true, if a new startup isn’t flexible, it’ll die quickly, BUT he makes one condition: as soon as a startup finds its ideal target market and has a great product-to-market fit, it must switch from flexible to stable and focus on providing the same, high quality standard, in order to scale.
 
@@ -51,7 +51,7 @@ Yes, flexibility is good, but once you have a winner, know when it’s time to s
 
 ## Lesson 3
 
-### You can use an open innovation system to let customers take care of research & development for you.
+### You can use an open innovation system to let customers take care of research & development for you
 
 Want an easy way to save $100 million on research and development? **Let your customers do it for you**. There will always be customers who come up to you with ideas on how you can make your product better. Instead of filing these away under annoying complaints, why not embrace them and make the most of it?
 
@@ -64,7 +64,5 @@ The result? Through this and other open innovation systems, Coca-Cola has saved 
 ## Review
 
 Nowadays it happens often that a company hits the market, goes through the roof, you read about it everywhere and “experts” try to explain its success and how to replicate it and then…it’s gone. Bust after 2-3 years. How about we make a rule to only learn from companies that have truly stood the test of time? Companies like this one. *Design To Grow* is a great read!
-
-## Who it’s for
 
 The 21 year old graphic designer, who just finished school and is starting her first job, the 39 year old entrepreneur, who’s business just broke even, thanks to their first well-selling product, and anyone who thinks most of their customers’ ideas are stupid.

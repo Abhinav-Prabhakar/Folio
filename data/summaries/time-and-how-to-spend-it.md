@@ -18,17 +18,17 @@ Are you ready to discover how to use your time better? Let’s begin!
 
 ## Lesson 1
 
-### Using your downtime wisely contributes to becoming more productive and happy.
+### Using your downtime wisely contributes to becoming more productive and happy
 
 Did you know that the average person has over five hours of free time every day? Most of us anticipate not having enough time to do all the activities we want, leisure included. But the numbers show that we have plenty. Why is this? One of the biggest causes is known as the fear of missing out, or FOMO. Additionally, we want so badly to be effective and work as hard as we can, so it seems like we can’t ever get it all done.
 
-**Research showsthat happiness comes more from experiences than just about anything else.** If you think about the lasting memories and effects of your most recent vacation, for example, you’ll see how true this is. Or if it’s been a long time since your last trip, then you are probably seeing the negative consequences of working too hard without a break.
+**Research shows that happiness comes more from experiences than just about anything else.** If you think about the lasting memories and effects of your most recent vacation, for example, you’ll see how true this is. Or if it’s been a long time since your last trip, then you are probably seeing the negative consequences of working too hard without a break.
 
 Additionally, studies mentioned in *The Happiness Advantage* show that success doesn’t come before happiness; rather, the opposite is true. Add this all together, and you can see that positive experiences will give you more joy in life, which will make you more successful. In other words, playing will make you more successful.
 
 ## Lesson 2
 
-### Being outside, especially around water, is remarkably good for your health.
+### Being outside, especially around water, is remarkably good for your health
 
 In the early 1990s, studies began looking into claims of the health benefits from a Japanese hobby of “forest bathing.” In this practice, people spend dedicated time in the forest as a form of preventative health care. What the research found was shocking. **Walking in the woods as opposed to on a treadmill was remarkably more effective at improving mood, blood pressure, and cortisol levels.** They also noted decreased fatigue, tension, and anger among research participants.
 
@@ -38,7 +38,7 @@ At my last job, we were fortunate enough to have a small pond at the rear of our
 
 ## Lesson 3
 
-### Take the time to discover what activities put you into a state of flow.
+### Take the time to discover what activities put you into a state of flow
 
 Shouldn’t free time be completely relaxing? Not exactly. According to certain studies, some of our happiest times are when we experience flow. Also known as being “in the zone,” flow is whenever we completely immerse ourselves in whatever we are doing, enjoying the process of it through an energized state of focus. It’s these types of activities that you should focus on during your leisure time. Make an effort to learn what hobbies or interests help you feel flow.
 
@@ -49,7 +49,5 @@ I personally love to play video games. Time seems to fly when I’m playing *Zel
 ## Review
 
 When I heard the title *Time And How To Spend It,* I thought I was going to get a book about productivity. I am pleasantly surprised to find that this is about working more efficiently but from the perspective of how we use our time away from the office. These are some exciting principles that have made me rethink my use of spare time!
-
-## Who it’s for
 
 The 20-year-old who is paralyzed by the fear of missing out, the 42-year-old business executive who believes that it’s a waste of time to take breaks, and anyone who wants to become happier.

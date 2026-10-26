@@ -20,7 +20,7 @@ Are you pumped to be a winner? I am! Let’s turn ourselves into winners!
 
 ## Lesson 1
 
-### The three tools of winners are strategy, objectives and tactics.
+### The three tools of winners are strategy, objectives and tactics
 
 Alastair Campbell, the author of this book, has picked out three things that all winners have in hand at all times:
 
@@ -38,7 +38,7 @@ As long as a tactic works for implementing your strategy in a way that gets you 
 
 ## Lesson 2
 
-### Winners are so terrified of losing that they’re happy to get uncomfortable to avoid it.
+### Winners are so terrified of losing that they’re happy to get uncomfortable to avoid it
 
 Most people spend most of their lives in this preliminary stage of wanting. They *say* they want something, but they really just *want to want it.* What does this mean?
 
@@ -54,7 +54,7 @@ Ditch that comfort zone of yours, think of your next, big, potential loss, and l
 
 ## Lesson 3
 
-### When a crisis happens, winners block out everything they can’t control.
+### When a crisis happens, winners block out everything they can’t control
 
 We use the word “crisis” too liberally. When your hair won’t look the part, that’s not a crisis. Neither is Trump calling Hillary “the devil,” or when your favorite pizza place doesn’t deliver after 10 PM.
 
@@ -69,7 +69,5 @@ When shit hits the fan, don’t try to control where it flies. Turn off the fan 
 ## Review
 
 Winners win and losers lose. There are a million ways to win. Whether the ones outlined in this book work for you or not is up to you to decide. But having a sense of how winners approach their work on a high level helps – for sure. If anything, *Winners: And How They Succeed* is really inspiring to do the hard work that’s always, *always* needed to win. Winners win. And losers lose. Ready to decide?
-
-## Who it’s for
 
 The 15 year old long-time member of the swim team, the 39 year old PR manager, who has to deal with real crises on a regular basis, and anyone who feels in their gut that they’re not reaching their full potential yet.

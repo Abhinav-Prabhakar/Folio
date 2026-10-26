@@ -20,7 +20,7 @@ Are you ready for this book to upend what you think you know about Eastern natio
 
 ## Lesson 1
 
-### Western nations falsified information about the East for their own gain.
+### Western nations falsified information about the East for their own gain
 
 Orientalists, or “experts” on the Orient, misidentified this part of the world. They classified these countries initially as a way to approach and understand them. The false belief sprouted that people from these areas were stereotypically exotic and irrational, letting their passions run wild. But nobody knew for sure, and the lies continued to perpetuate further.
 
@@ -32,7 +32,7 @@ Orientalism even went so far as to set itself up as a judge of what the people o
 
 ## Lesson 2
 
-### While some made an attempt to understand the East, earlier forms of Orientalism got in the way of seeing these nations accurately.
+### While some made an attempt to understand the East, earlier forms of Orientalism got in the way of seeing these nations accurately
 
 Not long ago I went on a trip to Spain. I found myself wanting to spend time with the locals instead of at all of the tourist destinations. After visits with multiple friends in Spain and seeing the sights, I realized that the people were much more interesting and important to me than any building or museum.
 
@@ -46,7 +46,7 @@ It also kept everyone from seeing these people accurately. The common notion was
 
 ## Lesson 3
 
-### Orientalism is still alive today, and we can see it in three distinct places.
+### Orientalism is still alive today, and we can see it in three distinct places
 
 Colonialism may be long gone, but the tenets of Orientalism are still alive and well today. A new form of this lie perpetuates in the United States, and focuses on three key aspects:
 
@@ -65,7 +65,5 @@ Government Policies also preserve the benefits to foreign policy that Orientalis
 ## Review
 
 Although I didn’t notice the word racism in the Blinkist summary, *Orientalism* is all about racism. I had no idea that the idea of the Orient was a wild fabrication to benefit Western nations. It seems that this has led to much of the modern-day misunderstandings and racism toward some of the Eastern nations. I’m glad to now be aware of this predisposition so I can work toward removing it!
-
-## Who it’s for
 
 The 45-year-old historian who is interested in getting a more balanced view of the world, the 21-year-old college student who is learning about Eastern civilizations in their classes, and anyone who lives in a Western country.

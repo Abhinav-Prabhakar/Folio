@@ -20,7 +20,7 @@ Want to learn more about how to nurture your social life? Then you are in a good
 
 ## Lesson 1
 
-### Your culture and upbringing shape your social skills.
+### Your culture and upbringing shape your social skills
 
 A big aspect of social intelligence is how much attention you are able to give to other people. The culture you grew up in, as well as the trajectory of your childhood, are what condition this quality.
 
@@ -28,15 +28,15 @@ One intriguing story that illustrates cultural influence comes from a Japanese p
 
 As Doi pointed out, the whole situation would play out very differently in a Japanese home. Nobody would openly talk about hunger. Instead, the hosts would remain observant. They would notice the cues in the guest‘s behavior, signaling that he needs to eat something. The family would simply offer food at the right moment without asking. This shows how different cultures encourage sensitivity to other people’s needs to varying degrees.
 
-Regardless of the cultural influence, attentiveness to others can also be learned in childhood, sometimes in less obvious ways. **One2004 study on squirrel monkeys, for example, showed that moderate levels of stress during childhood can enhance their social skills later on in life.** That’s because exposure to mildly stressful experiences increases the courage to explore new environments.
+Regardless of the cultural influence, attentiveness to others can also be learned in childhood, sometimes in less obvious ways. **One 2004 study on squirrel monkeys, for example, showed that moderate levels of stress during childhood can enhance their social skills later on in life.** That’s because exposure to mildly stressful experiences increases the courage to explore new environments.
 
 According to Goleman, for humans, this can translate to being more open to other people and their perspectives.
 
 ## Lesson 2
 
-### Putting social intelligence to use costs energy.
+### Putting social intelligence to use costs energy
 
-Being socially intelligent is as useful as it can be tiring. **That’s becausebeing available for others consumes your body’s resources in a very real way**. Fortunately, Goleman also provides practical ideas for how to remain in balance *while* being socially involved.
+Being socially intelligent is as useful as it can be tiring. **That’s because being available for others consumes your body’s resources in a very real way**. Fortunately, Goleman also provides practical ideas for how to remain in balance *while* being socially involved.
 
 Care work is quite stressful for most people. Helping someone old or sick for a prolonged time often results in worsening of the carer’s mental health. However – as Janice Kiecolt-Glaser and Ronald Glaser found in their study of women caring for their partners with Alzheimer – constantly looking after someone may also result in weakening the caretaker’s immune system.
 
@@ -48,11 +48,11 @@ This directly benefits everybody. As we will soon see, social involvement is a g
 
 ## Lesson 3
 
-### Your social engagement is directly related to your health.
+### Your social engagement is directly related to your health
 
 Humans are built for connection, cooperation and relating to others. This means that making sure you are socially active and maintaining supportive relationships is the simplest way to ensure a good, healthy life.
 
-At least 18 medical studies have backed up this notion. **Research shows thatthose who are involved in strong social networks are more predisposed for longevity and recover from illness faster.**
+At least 18 medical studies have backed up this notion. **Research shows that those who are involved in strong social networks are more predisposed for longevity and recover from illness faster.**
 
 Hospitals are already implementing these findings in some settings. For example, patients awaiting a complicated surgery have encouragement to spend time with those who have successfully undergone the same treatment. This causes them to experience less stress and adopt a more optimistic outlook. This improves their chances of recovery.
 
@@ -62,8 +62,6 @@ You shouldn’t wait until you become sick to start investing in your social net
 
 ## Review
 
-Daniel Goleman is a widely-read author for a reason. In *Social Intelligence* *,* he explains complicated concepts and neurological events in a plain, entertaining language that anyone can understand. Seasoned with plentiful real-life examples, this book is a comprehensive guide to understanding the science of human relationships.
-
-## Who it’s for
+Daniel Goleman is a widely-read author for a reason. In *Social Intelligence* , he explains complicated concepts and neurological events in a plain, entertaining language that anyone can understand. Seasoned with plentiful real-life examples, this book is a comprehensive guide to understanding the science of human relationships.
 
 The 35-year-old HR employee who looks for a pleasurable way to enhance her competencies, the 30-year-old young mom who intends to create a nurturing family and to any psychologist or psychotherapist who hasn’t read it yet.

@@ -20,7 +20,7 @@ Wanna know how the apple got its “green” card? Sure, here we go!
 
 ## Lesson 1
 
-### What if plants use you to spread their seeds? They might do so because they can’t move on their own.
+### What if plants use you to spread their seeds? They might do so because they can’t move on their own
 
 The story we’re always told in school is the one of the birds and the bees, explaining how plants depend on bees to spread their pollen, and offer their nectar in exchange. It’s always a story of the “poor plants,” who can’t survive on their own and always need others to help.
 
@@ -36,7 +36,7 @@ Let’s look a sweetness and intoxication in particular.
 
 ## Lesson 2
 
-### By being sweet the apple got one particular guy to spread it all across America.
+### By being sweet the apple got one particular guy to spread it all across America
 
 When you visit the US, apples abound. The east coast has an entire apple industry, with many popular tourist activities being apple picking, learning how to make apple cider, and of course visiting apple farms.
 
@@ -50,7 +50,7 @@ Of course, if Johnny and the people hadn’t loved apples, none of this would’
 
 ## Lesson 3
 
-### There’s a place in our brains that’s specifically designed to respond to THC, the substance in marijuana.
+### There’s a place in our brains that’s specifically designed to respond to THC, the substance in marijuana
 
 **Note:** *None of this is medical advice, the below is purely informational. Be sure to follow your local laws and consult a professional before using marijuana, even if it’s legal where you live.*
 
@@ -71,7 +71,5 @@ We still don’t know everything about cannabis, but the fact that our brains ar
 ## Review
 
 The only complaint I have about *The Botany Of Desire* is that the title is misleading. I had it sit in my library of blinks for a while, thinking it had something to do with how plants influence sex, for example explaining aphrodisiacs. This was a total surprise, and a great one. A very powerful exercise in first principles thinking.
-
-## Who it’s for
 
 The 16 year old hobby gardener, whose favorite subject in school is biology, the 29 year old Californian painter, who regularly smokes marijuana for inspiration, but doesn’t know much about its biological powers, and anyone who thinks plants are just “things.”

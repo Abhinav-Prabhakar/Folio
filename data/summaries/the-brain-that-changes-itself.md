@@ -20,7 +20,7 @@ Are you ready to be astounded at how incredible the human brain is? Let’s dive
 
 ## Lesson 1
 
-### The brain can change itself through things like unmasking.
+### The brain can change itself through things like unmasking
 
 Neuroplasticity is the ability of the brain to reform itself by making new neural connections throughout life. A catchy phrase used by Psychology teachers to describe this is “neurons that fire together wire together.” When two events happen at the same time, those neurons involved in the experience fire together. Thus they associate themselves with each other. As this connection becomes stronger, these neurons wire together.
 
@@ -30,7 +30,7 @@ A story of a woman named Cheryl Schiltz demonstrates this phenomenon. For years,
 
 ## Lesson 2
 
-### We can change our brains just with our imagination.
+### We can change our brains just with our imagination
 
 Just *imagining* what we want can make physical changes in the brain and body. An example of this is patients who experience phantom pain. This is the phenomenon where people who lose a limb experience pain that seems to come from the limb that doesn’t exist anymore. Once considered a psychological problem, phantom pain is now known to be a nervous system problem.
 
@@ -42,7 +42,7 @@ You can also use imagination to strengthen your muscles. Another study had one g
 
 ## Lesson 3
 
-### Your libido and sexual preferences are plastic and can change with experience.
+### Your libido and sexual preferences are plastic and can change with experience
 
 Brain plasticity doesn’t just help us improve and recover lost skills; it also changes our sex drive. **The hypothalamus, which controls instinctive behaviors like sex is plastic, meaning that our sexual inclinations can change.**
 
@@ -55,7 +55,5 @@ People also tend to develop a tolerance for pornography and seek out more aggres
 ## Review
 
 I feel like I was only able to skim the surface on this fascinating book. The author sets out to teach us about the wonders of neuroplasticity in a way that we non-neuroscientists can understand it. *The Brain that Changes Itself* will empower you by helping you realize you can change and improve your brain even in adulthood.
-
-## Who it’s for
 
 The 19-year-old fascinated with psychology that is thinking about studying neuroscience, the 48-year-old who wants to help her mother that suffered a debilitating stroke, and anyone with a brain!

@@ -18,7 +18,7 @@ Whether you’ve never studied economics or consider yourself a member of the sc
 
 ## Lesson 1
 
-### The prevailing economic market model has 4 major flaws.
+### The prevailing economic market model has 4 major flaws
 
 Among the thousands of economic diagrams, which humans have developed over centuries, one has really cemented itself into not just textbooks, but the backs of our brains: the circular flow of labor, capital, goods and services. It usually pictures two parties, firms and households, who exchange work for wages, rent, and dividends. The money then flows back to those firms as consumer spending on goods and services.
 
@@ -33,7 +33,7 @@ But if our economic theories are really that outdated, how can we update them? O
 
 ## Lesson 2
 
-### The Doughnut model can help us maintain our social foundation without breaking through our planet’s ecological ceiling.
+### The Doughnut model can help us maintain our social foundation without breaking through our planet’s ecological ceiling
 
 To account for the missing factors in classic economic theories, Kate proposes a model she calls ‘the Doughnut of social and planetary boundaries.’ It looks like this:
 
@@ -45,7 +45,7 @@ We’ve already overshot in several important dimensions, which means so far, we
 
 ## Lesson 3
 
-### In order to make our economy truly circular, we need to focus on maximizing the reusability of goods and services.
+### In order to make our economy truly circular, we need to focus on maximizing the reusability of goods and services
 
 When I was little, my grandma had a special trash can at her house, with a logo consisting of three cyclic arrows on it. It was the recycling bin, and only a small selection of waste and wrapping materials went in there. Today, recycling is a global movement and that’s a good thing, Kate says.
 
@@ -61,7 +61,5 @@ As you read this, scientists are working on extremely useful ways of using our w
 ## Review
 
 It’s hard for idealistic ideas like this one to find their way into the everyday workings of capitalism, but I think the environmental perspective is the right one to take. Because while they’re hard to find and take long to figure out, ideas that are not just ecologically reasonable, but also highly profitable do exist. So whatever business project you tackle next, take a look at it through the lens of *Doughnut Economics*. Our planet might thank you for it.
-
-## Who it’s for
 
 The 19 year old economics student, who thinks he’s got it all figured out after studying the basics of supply and demand, the 55 year old consultant, who’s looking to start the second half of her career with a charitable project, and anyone who loves donuts.

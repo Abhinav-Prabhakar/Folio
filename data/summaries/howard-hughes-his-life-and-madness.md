@@ -18,7 +18,7 @@ A biography allows you to consume and learn from an entire human life in just a 
 
 ## Lesson 1
 
-### Double down on what you’re good at.
+### Double down on what you’re good at
 
 As part of his preparations to shoot a movie called Hell’s Angels, Howard Hughes actually learned how to fly a plane. He found so much joy in aviation, that he decided to pursue a career in it and help the field transcend what people thought was possible at the time.
 
@@ -30,7 +30,7 @@ He kept insisting on trying new things, when the world clearly wanted him to des
 
 ## Lesson 2
 
-### You can complain about the system, or you can use it to your advantage – it’ll persist either way.
+### You can complain about the system, or you can use it to your advantage – it’ll persist either way
 
 Hughes had always wanted to own a major airline, so he’d been buying stock of a company called Trans World Airlines, or TWA, since 1939. When a senator caught wind of the impending takeover, knowing that TWA had recently been granted approval to fly overseas, he pled with the National Defense Program to launch an investigation into the Hercules project and make Hughes the subject of a Senate hearing.
 
@@ -44,7 +44,7 @@ See the world as it is, accept it, and then make use of it the best way you can.
 
 ## Lesson 3
 
-### One single, positive event can never make up for a lifetime of bad habits.
+### One single, positive event can never make up for a lifetime of bad habits
 
 Hughes eventually did get his hands on TWA, which he also brought to the brink of bankruptcy. After management had had enough, a decades-long trial ensued, leaving its mark on Hughes’s mind. He’d been struggling with painkillers and drugs for a while at this point (mostly codeine), and was becoming mentally unstable.
 
@@ -59,7 +59,5 @@ Announcing and going through with a bold move sounds and is great, but it’s on
 This took forever to write. Biographies always do. You know why? Because so much history turns up. There are people out there who’ve dedicated their entire lives to studying the history of Howard Hughes. Naturally, it’s super hard for me to come up with valuable lessons from his life with just a few hours of research, and it’s easy to justify exploring more and more – especially when you’re curious like me (or Brian Grazer).
 
 But I still think it’s worth doing every time, because I can’t possibly make all the experiences they had to live through to learn those lessons. Any biography is a good biography to learn from and *Howard Hughes: His Life And Madness* is no exception.
-
-## Who it’s for
 
 The 15 year old who loves model airplanes, the 39 year old who’s never settling and still always chases the next idea, and anyone who often makes big resolutions, but fails to fulfill them.

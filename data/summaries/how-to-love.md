@@ -22,7 +22,7 @@ Are you ready to discover *How To Love*? Let’s get right to these lessons and 
 
 ## Lesson 1
 
-### If you want your love to grow and flourish, nourish it with happiness and share it with others.
+### If you want your love to grow and flourish, nourish it with happiness and share it with others
 
 Think about adding a spoonful of salt to your water. It’s pretty much undrinkable, right? But now imagine putting that spoonful into a river. It won’t change much at all. In the same way, if our hearts are small, the mistakes and faults of others will upset us easily. But if we open our hearts, we will find empathy and compassion for our fellow human beings.
 
@@ -34,7 +34,7 @@ When you practice mindfulness you will notice beauty in the simple things, like 
 
 ## Lesson 2
 
-### Love is made up of joy, equanimity, compassion, and loving-kindness.
+### Love is made up of joy, equanimity, compassion, and loving-kindness
 
 Love is much more than just securing an attractive and successful mate. To understand more about love, you need to understand it has four traits: joy, equanimity, compassion, and loving-kindness. Joy is all about deep and lasting happiness. When we have joy, we want to bring this gift to others.
 
@@ -48,7 +48,7 @@ Hanh teaches us that true love isn’t about gaining something, but rather being
 
 ## Lesson 3
 
-### You will connect with others better when you are mindful about love and discover how it relates to being a healer.
+### You will connect with others better when you are mindful about love and discover how it relates to being a healer
 
 True love can be achieved through mindfulness. Hanh teaches that we should be more mindful of the word “love” and how we use it. Love is a beautiful, special thing, and the word loses its value when we say that we “love” ice cream. When we restrict when it is said to only be when it’s *actual* love, we become more mindful of its meaning.
 
@@ -61,7 +61,5 @@ Love is similar to medicine in this way. It doesn’t just help you understand s
 ## Review
 
 I’ve been interested in mindfulness for a couple of years now and have read a lot of books about relationships and was excited to learn from this book about how they’re related. Thích Nhất Hạnh is a great thinker and author. I love reading everything he writes, and *How To Love* was no exception!
-
-## Who it’s for
 
 The 21-year-old couple who is caught up in infatuation that yearns for something more meaningful, the 48-year-old husband that wants to find out how to deepen his relationship with his wife, and anyone who is curious about how love is easier to understand when you apply mindfulness to it.

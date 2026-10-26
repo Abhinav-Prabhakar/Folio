@@ -22,11 +22,9 @@ Want to become more just? Here’s how to practice justice in 3 arenas, “the M
 
 Let’s do the right thing, right now!
 
-### Right Thing, Right Now Summary
-
 ## Lesson 1
 
-### Justice begins with you — so choose your own moral code, and stick to it.
+### Justice begins with you — so choose your own moral code, and stick to it
 
 From becoming world-famous as a teenager to drug scandals and domestic abuse, Shia LaBeouf fell far from grace. In 2022, he resurfaced in a viral interview, vulnerably sharing his rehab journey and trying to make amends. Someone said they saw him pay for a family’s groceries, then sneak out the back so no one would know. Though far from perfect, it seems Shia has come a long way — and while not everyone can pay others’ bills, everyone can choose this kind of justice.
 
@@ -42,7 +40,7 @@ Initially, your code might feel limiting. But in the long run, “our code frees
 
 ## Lesson 2
 
-### Justice only has meaning when we practice it for others, so do right by everyone you come across.
+### Justice only has meaning when we practice it for others, so do right by everyone you come across
 
 Right in his inauguration speech as governor in 1971, Jimmy Carter said “the time for racial discrimination is over.” Mere hours later, he started working on another pressing issue: a universal pardon for Vietnam War evaders. The idea wasn’t popular, but Carter pushed ahead. This and other policies later cost him a second term as president — but he did what he could *while* he could.
 
@@ -58,7 +56,7 @@ Right in his inauguration speech as governor in 1971, Jimmy Carter said “the t
 
 ## Lesson 3
 
-### Expand your definition of justice to include everything and everyone.
+### Expand your definition of justice to include everything and everyone
 
 Mahatma Gandhi held no office. He didn’t have an army, nor a fortune. Still, time and again, he prevailed. First in making life more endurable for Indians in South Africa, then with his hunger strikes, and ultimately his Salt March.
 
@@ -76,7 +74,5 @@ You and I might never liberate a nation, but we, too, should expand our understa
 ## Review
 
 *Right Thing, Right Now* is a courageous, at times uncomfortable book. It’s a welcome addition to the Stoic Virtues Series after *Courage Is Calling* and *Discipline Is Destiny*. From soldiers to poets, you’ll find plenty of inspiring examples in whose footsteps you’ll want to follow. After reading this book, you’ll no longer dilly-dally. You’ll just do what’s right — and do it right away.
-
-## Who it’s for
 
 The 14-year-old frail boy who gets bullied in high school, the 33-year-old who needs to make some tough career decisions, and anyone who aspires to become a good lawyer, politician, or simply human being.

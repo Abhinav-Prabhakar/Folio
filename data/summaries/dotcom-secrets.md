@@ -18,7 +18,7 @@ Let’s start with the beginning: lesson one! Then, we’ll explore all of them 
 
 ## Lesson 1
 
-### A target audience and a buyer persona are essential to any business’s marketing strategy.
+### A target audience and a buyer persona are essential to any business’s marketing strategy
 
 When building a marketing strategy, there are plenty of aspects to consider. It all starts with who you want to address and how you want your get your message across. To figure out how your marketing campaign should begin, you’ll have to look at your target audience, and more specifically, at your ideal client.
 
@@ -36,7 +36,7 @@ When you have an approximate figure of your ideal customer, targeting your marke
 
 ## Lesson 2
 
-### People connect easier to a character than a simple company.
+### People connect easier to a character than a simple company
 
 If you want to scale your brand and take it to the next level, you’ll have to find your way into the minds and hearts of your prospects. To do so, many companies create characters that their audience can connect to.
 
@@ -55,7 +55,7 @@ The defects of your character make it look human and flawed, and help your audie
 
 ## Lesson 3
 
-### Build your online marketing campaign around the value ladder and the sales funnel.
+### Build your online marketing campaign around the value ladder and the sales funnel
 
 Marketing may seem like an ambiguous topic. A marketing campaign is even vaguer to some people. We know that we use marketing to advertise and ultimately sell more, but what counts as advertising? And how do we do it successfully?
 
@@ -72,7 +72,5 @@ A sales funnel is a web page representation of your value ladder. It is the proc
 Coming from Russell Brunson, a top marketer and the co-founder of ClickFunnels, the knowledge the book presents becomes much more valuable and proves that with the right marketing recipe and efficiently targeted efforts, anyone can build a lucrative sales funnel and collect huge amounts of revenue.
 
 The book is a valuable piece of writing for everyone who wants to get into the world of online marketing and e-commerce, regardless of their expertise in the domain.
-
-## Who it’s for
 
 The 35-year-old business owner who wants to learn how to harness the power of digital marketing for their business, the 24-year-old marketer who wants to learn more about the field, or the 30-year-old project manager who wants to learn the basics of promoting their offerings online for when they reach the marketing phase of their project.

@@ -20,7 +20,7 @@ Are you ready to discover the power of being a spiritual being having a human ex
 
 ## Lesson 1
 
-### None of your thoughts are useless, each one has either a positive or negative energy and brings the same back to you.
+### None of your thoughts are useless, each one has either a positive or negative energy and brings the same back to you
 
 If you feel constantly unmotivated, tired, or afraid of the future, you’re not alone. The first step to overcoming these feelings is to understand how powerful your brain is. In A Course in Miracles, author and clinical psychologist Helen Schucman identifies that “idle thoughts” don’t exist.
 
@@ -36,7 +36,7 @@ And finally, choose again by asking the Universe to direct you to happier though
 
 ## Lesson 2
 
-### If you want to make having positive energy a habit, begin by admitting that you want to feel good.
+### If you want to make having positive energy a habit, begin by admitting that you want to feel good
 
 Happiness is something we all want, but the more we chase it by striving for success, the harder it is to get. In the philosophy of spiritual leader Deepa Chopra, happiness for a reason is still misery because you can lose that reason at any time.
 
@@ -52,7 +52,7 @@ Make sure to take the time you need to meditate and journal about these thoughts
 
 ## Lesson 3
 
-### If you want your dreams to happen, learn the power of appreciating where you’re at and what you have now.
+### If you want your dreams to happen, learn the power of appreciating where you’re at and what you have now
 
 Life is constantly bombarding you with reasons to lower your positive frequency. It’s easy when you get a flat tire or lose your wallet to become frustrated. But if you want to stay consistently at a high energy level, you must develop the habit of appreciation.
 
@@ -69,7 +69,5 @@ One thing that helps me is to look at the hidden benefit in frustrating situatio
 ## Review
 
 *Super Attractor* reminded me a lot of Rhonda Byrne’s *The Secret*. I wasn’t a fan of the mystical stuff, but overall it’s an excellent book. Tap into a higher power and achieve your goals!
-
-## Who it’s for
 
 The 34-year-old who is always negative and wonders why her life is so hard, the 59-year-old who feels anxious because they talk about news and politics too much, and anyone that wants simple ways to get a lot of help with making their dream life a reality!

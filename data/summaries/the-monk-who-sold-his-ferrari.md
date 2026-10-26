@@ -16,11 +16,9 @@ Flowing through the quill of Robin Sharma, who published *The Monk Who Sold His 
 
 Ready for a short round of improvement? Let’s see what we can learn from the monk who sold his Ferrari!
 
-### The Monk Who Sold His Ferrari Summary
-
 ## Lesson 1
 
-### Learn to guard your mind with The Heart of the Rose exercise.
+### Learn to guard your mind with The Heart of the Rose exercise
 
 The fable Yogi Raman, Julian’s teacher, tells, takes place in a garden. It’s full of beautiful flowers that smell great. Think of it as a calm, serene place where you can refuel your energy whenever you need to.
 
@@ -36,7 +34,7 @@ The more disciplined you become in which thoughts you accept into your mind, the
 
 ## Lesson 2
 
-### The Ten Rituals of Radiant Living are a simple morning routine that covers everything you need.
+### The Ten Rituals of Radiant Living are a simple morning routine that covers everything you need
 
 In the story the Yogi tells, a sumo wrestler also appears. Sumo wrestlers subscribe to an ancient, Japanese idea called kaizen. It means never-ending improvement. This idea, to always be learning and getting better, is another virtue of the Sivana system.
 
@@ -57,7 +55,7 @@ This reminds me a bit of *The Miracle Morning*, but it’s more than that. You c
 
 ## Lesson 3
 
-### Selflessly serve others and you’ll be better off yourself.
+### Selflessly serve others and you’ll be better off yourself
 
 Later in the story, the sumo collapses but then reawakens to the smell of beautiful, yellow roses. These roses represent another virtue, the idea of selflessly serving others. It’s beautifully summarized in this ancient, Chinese proverb:
 
@@ -70,7 +68,5 @@ Every morning, take a few seconds to think about what good you can do today. Whe
 ## Review
 
 I love when non-fiction authors use fiction to get their message across. Maybe that’s what’s made *The Monk Who Sold His Ferrari* so popular over the years. It’s timeless. It’s a really inspiring story and I think whatever it will be, you’ll find out something interesting about yourself from it.
-
-## Who it’s for
 
 The 23 year old college student who’s under immense pressure during her exams, the 43 year old manager who feels really burned out from work, but can’t get unstuck, and anyone who wants to buy a Ferrari.

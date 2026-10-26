@@ -56,6 +56,4 @@ Instead of trying to escape them, face them upfront and feel them completely. Fa
 
 *The Art of Possibility* explores a new way of living by unlocking a different mindset. It all starts by accepting variables as a natural part of life instead of living off of our own assumptions, manifesting abundance and seizing opportunities, and most importantly, living in the present and always leaving room for possibilities. The book will give you hope, strengthen your spirit, and liberate you from your prejudice and subjective assumptions so that you can live life more fully, freely, and through infinite possibilities.
 
-## Who it’s for
-
 The 30-year-old person who’s living a minimalist life and wants to explore their spirituality, the 40-year-old person who is going through a mid-life crisis and wants to find hope in their life, or the 27-year-old person who can’t find their direction and is looking for comfort in the idea of endless possibilities.

@@ -20,7 +20,7 @@ If you’d like to explore these lessons in-depth, stick with me, as I’ll take
 
 ## Lesson 1
 
-### Learn how to control your mind instead of letting it control you.
+### Learn how to control your mind instead of letting it control you
 
 During the course of a day, we have approximately 6,200 thoughts that run through our heads, according to a new study published by Queen’s University. Naturally, we don’t actively notice all of them, but they play a very important role in the way we act and proceed with our activities. Therefore, adopting a winning mentality is crucial in our journey to success.
 
@@ -32,7 +32,7 @@ Lastly, adopt a positive mindset, surround yourself with beautiful pictures, cre
 
 ## Lesson 2
 
-### Stop the flow of negative thoughts and become a braver version of yourself.
+### Stop the flow of negative thoughts and become a braver version of yourself
 
 Confidence is the key to becoming a more powerful person and taping into your own power to achieve your full potential. Without confidence, fear and negative thoughts take over and your best self becomes a hidden gem within. However, fear is a natural emotion that will occur no matter what, so let’s explore ways to overcome it!
 
@@ -42,7 +42,7 @@ Redirect your mind from the negative chatter within to focusing on your goals. T
 
 ## Lesson 3
 
-### Focus your attention to make the most of your days.
+### Focus your attention to make the most of your days
 
 Everybody advocates for meditation, concentration techniques, quieting the mind chatter, and becoming a focused person. Nothing wrong with that – but how do we achieve it? It seems that every time we try to close our eyes and do so, our mind starts running like crazy. All our thoughts and emotions come running towards us all at once, and if we try to stop them, it only gets worse.
 
@@ -53,7 +53,5 @@ Inhale for five seconds, hold it for the same amount of time, and release your e
 ## Review
 
 *Unbeatable Mind* steps in to help everyone struggling with a busy mind and a lack of productivity. This book will teach you how to train your mind to become more efficient. Cultivating remarkable qualities is a challenging process that everyone must go through, but with the right practices and a few tips-and-tricks from the former Navy SEAL, everything becomes doable.
-
-## Who it’s for
 
 The 30-year-old entrepreneur who wants to improve their mind and train it to become more efficient, the 28-year-old employee who does well in life but wants to become better than the average, or the 35-year-old who wants to achieve self-mastery and improve all areas of their life as a new year’s resolution.

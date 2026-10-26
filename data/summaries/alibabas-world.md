@@ -22,7 +22,7 @@ Saying “open sesame” didn’t work? Then it’s time to roll up your sleeves
 
 ## Lesson 1
 
-### Don’t artificially limit yourself by setting too unambitious goals, test what’s possible instead.
+### Don’t artificially limit yourself by setting too unambitious goals, test what’s possible instead
 
 The founder of Alibaba.com, Jack Ma, has not only never written a line of code, he also didn’t even own a computer until he was 33 years old. In fact, before starting Alibaba, he struggled in most of his jobs. Having failed his college entry exams three times and working as an English teacher after eventually graduating, he heard about the internet by coincidence in 1994.
 
@@ -34,7 +34,7 @@ If you lowball all of your goals, you’re cutting yourself short. Shoot for the
 
 ## Lesson 2
 
-### Build your business for the long term. Go for 80 years, not 80 months.
+### Build your business for the long term. Go for 80 years, not 80 months
 
 There are many things you can screw up when launching a business. One of the most common ones is setting the wrong time horizon. You’d be surprised how many founders don’t even plan for the next six months, focusing just on the next few weeks at a time. Others plan on a big exit 2-4 years down the line, which is better, but still not right.
 
@@ -48,7 +48,7 @@ Don’t build for tomorrow. Or next year. Or for the exit five years down the li
 
 ## Lesson 3
 
-### Find a key customer insight that’s a good fit for your market and center your business around that.
+### Find a key customer insight that’s a good fit for your market and center your business around that
 
 Because Jack Ma knew so little about the field he was entering, he was free to test new things and not bound by perceived limitations. However, this also meant he had to find out what his customers wanted first.
 
@@ -63,7 +63,5 @@ That’s how you stay focused and make sure you build success upon success.
 ## Review
 
 It must’ve been interesting to work in an entirely Chinese environment as a Westerner for Porter Erisman, the author of *Alibaba’s World*. Viewing Alibaba’s story through his inside, yet outside lens gives it just enough objectivity to make the lessons interesting on a general level – a great mix of biography and business!
-
-## Who it’s for
 
 The 18 year old high school drop out, who wonders “What good can I do?”, the 33 year old English teacher, who feels like she’s hit a dead end in her career, and anyone who’s currently building a company just for the big exit.

@@ -20,7 +20,7 @@ Ready to give your courage a boost and start living your dreams? Let’s discove
 
 ## Lesson 1
 
-### If you want to have more courage, accept that you have permission to identify what you want most in life and go for it.
+### If you want to have more courage, accept that you have permission to identify what you want most in life and go for it
 
 A couple of years ago I had an epiphany that completely changed my life. It was on a walk during my lunch break while I was thinking about who I am. I thought about how my whole life, I’d been trying to become just like my heroes.
 
@@ -36,7 +36,7 @@ Once you have your sights set, pick some areas of your life to start changing no
 
 ## Lesson 2
 
-### Understanding the patterns you follow when you let fear paralyze you will build your confidence.
+### Understanding the patterns you follow when you let fear paralyze you will build your confidence
 
 The reason you’re struggling to follow your dreams is because you are afraid. But you can’t just suddenly decide that you’re going to be rid of it. In the words of Dr. Brene Brown: “you can’t selectively shut down emotion.”
 
@@ -57,7 +57,7 @@ People-pleasing is a hallmark for the **martyr**, who makes the excuse that they
 
 ## Lesson 3
 
-### Reframe your excuses to beat them.
+### Reframe your excuses to beat them
 
 Right now, you’re following a certain set of rules about how the world works. They’re not all true though, and many of them are holding you back. That’s why we call them limiting stories.
 
@@ -76,7 +76,5 @@ To beat your stories, identify a part of life that you feel stuck in. Then, comp
 ## Review
 
 I’ll be honest, a lot of the ideas in *The Courage Habit* weren’t new to me because I spend a lot of time with coaches who teach these principles. However, I still enjoyed and felt inspired by the unique suggestions this book gives.
-
-## Who it’s for
 
 The 39-year-old who has been in their career for a while but knows it’s not what they really want to be doing for the rest of their life, the 23-year-old who has a lot of motivation but feels like they’re in a rut and could use some help getting out, and anyone that wants to know how to gain the confidence to live a life they love.

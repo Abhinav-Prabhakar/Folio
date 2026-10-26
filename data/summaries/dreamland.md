@@ -22,7 +22,7 @@ Let’s dive right in and see what *Dreamland* has to teach us!
 
 ## Lesson 1
 
-### The massive opiate crisis is a result of deception and greed around one small pill called OxyContin.
+### The massive opiate crisis is a result of deception and greed around one small pill called OxyContin
 
 Although the widespread effects of this dilemma are obvious now, it began slowly back in the 1980s.
 
@@ -44,7 +44,7 @@ It wasn’t long before the crisis was in full swing, only for drug dealers to m
 
 ## Lesson 2
 
-### Grim statistics are just one marker of the awful effect this epidemic is having on individuals and families.
+### Grim statistics are just one marker of the awful effect this epidemic is having on individuals and families
 
 By the time 2000 rolled around the opiate crisis was in full swing. Of the roughly 100 million Americans suffering from chronic pain, almost all of them were on opiates of some kind.
 
@@ -62,7 +62,7 @@ What’s worse, just 10 years after OxyContin was first prescribed, 6.1 million 
 
 ## Lesson 3
 
-### Although many have suffered from this crisis, some are beginning to take a stand against it and are making changes happen.
+### Although many have suffered from this crisis, some are beginning to take a stand against it and are making changes happen
 
 Sadly, these issues have been happening for decades but the only real change has come in the last few years. With over 16,000 fatal overdoses yearly, it’s a wonder that there weren’t more than only a few groups raise awareness of this issue.
 
@@ -83,7 +83,5 @@ While we’re far from done with this epidemic, awareness is increasing and hope
 ## Review
 
 Wow, *Dreamland* unexpectedly had me on the edge of my seat while reading it! This story is crazy and disappointing and enraging all at the same time. I’m glad we’re starting to get control of this epidemic and feel for all the individuals and families who have had to suffer for the laziness and greediness of a few pill manufacturers.
-
-## Who it’s for
 
 The 64-year-old European that doesn’t understand the United States’ opiate issues, the 34-year-old who is just beginning their career in the medical field, and anyone that wants to become more aware of the devastating effects of OxyContin and other pain pills.

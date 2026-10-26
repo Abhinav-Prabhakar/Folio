@@ -20,7 +20,7 @@ Are you ready to take your entrepreneurial dreams to the next level? Let’s beg
 
 ## Lesson 1
 
-### You must pivot to a customer-focused subscription model if you want your business to survive.
+### You must pivot to a customer-focused subscription model if you want your business to survive
 
 Back in 2015, Tien Tzuo argued that business school isn’t worth anyone’s time in an article in *Fortune*. His stance was that there’s only one idea they teach there and it’s to make an awesome product and sell a ton of it.
 
@@ -36,7 +36,7 @@ Consider that only 12% of companies on the Fortune 500 list in 1955 are on it to
 
 ## Lesson 2
 
-### Forget making innovative new products, adjust your services to meet customer’s needs.
+### Forget making innovative new products, adjust your services to meet customer’s needs
 
 So how does this new way of doing business actually change the way companies function? One of the biggest adjustments many are making is in the innovation process.
 
@@ -54,7 +54,7 @@ Everybody has a Gmail account now. But you might not remember that when it began
 
 ## Lesson 3
 
-### The PADRE method will show you how to transform your company into a successful client-focused service.
+### The PADRE method will show you how to transform your company into a successful client-focused service
 
 So by now you’re convinced you need to move to a subscription model. But how does that happen?
 
@@ -87,7 +87,5 @@ By following all of these steps, you can make your company’s pivot to a subscr
 ## Review
 
 I knew subscription models are crazy popular, but I had no idea how successful and useful they can be until I came across *Subscribed*! It’s exciting to see the future of business changing and to get to be a part of it. This book and moving to a subscription-based business is going to be a game-changer for every company that tries them out.
-
-## Who it’s for
 
 The 52-year-old CEO that’s wondering what to do to take their company to the next level, the 24-year-old with a Netflix account that’s curious to know how it works, and anyone that wants to be in on the business of the future.

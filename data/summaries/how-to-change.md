@@ -20,7 +20,7 @@ Let’s dive right in and discover *How to Change*!
 
 ## Lesson 1
 
-### Using a fresh start can make changing easier.
+### Using a fresh start can make changing easier
 
 Have you ever made a New Year’s resolution? Some people might joke about how many people use the New Year as a time to make drastic changes. Why would a new year suddenly make goals more attainable?
 
@@ -36,7 +36,7 @@ The author says to be on the lookout for new fresh starts if you want to start c
 
 ## Lesson 2
 
-### There are some simple strategies you can employ to fight off impulsivity and procrastination.
+### There are some simple strategies you can employ to fight off impulsivity and procrastination
 
 So say you have started your goals with a fresh start and are eager to change, but soon enough, you’re finding it hard to fight off impulses. Instead of reaching for an apple, you’re reaching for chips, or you’re consumed with social media rather than studying.
 
@@ -52,7 +52,7 @@ Another tried and true strategy is to make a public pledge. This is when you tel
 
 ## Lesson 3
 
-### Be mindful of who you spend time with.
+### Be mindful of who you spend time with
 
 There are certain people you spend time with who can make it harder to achieve your goals, but there are also people who can help you. This is why it’s best to be on the lookout for a friend group that will help you.
 
@@ -69,7 +69,5 @@ He discovered that for every 100 point increase in average verbal SAT score for 
 ## Review
 
 I feel like personal growth books are either pure motivation and no science or all science. *How To Change* is definitely in the all science category, and it’s cool! As one who reads a lot of books like this, I really enjoyed this one and think you will too.
-
-## Who it’s for
 
 The 64-year-old that wants to do a lot of projects but can’t stop procrastinating, the ambitious 17-year-old who’d like to build good habits, and anyone that doesn’t believe they can change.

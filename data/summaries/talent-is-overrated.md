@@ -18,7 +18,7 @@ Ready to go from average to great? Let’s do this!
 
 ## Lesson 1
 
-### Practice and experience are not the same thing.
+### Practice and experience are not the same thing
 
 A 1990 study in the UK among 257 musicians showed that none of the top performers were:
 
@@ -44,7 +44,7 @@ What you need is new, additional, unfamiliar experience, and that only comes wit
 
 ## Lesson 2
 
-### When you start practicing deliberately as a child, you will have three big advantages.
+### When you start practicing deliberately as a child, you will have three big advantages
 
 As science progresses, it takes longer and longer to master any given field, be it physics, biology, or even business.
 
@@ -66,7 +66,7 @@ But how do you get your kid to keep practicing the piano? The answer will surpri
 
 ## Lesson 3
 
-### You can let your inner drive develop over time by forcing yourself to practice.
+### You can let your inner drive develop over time by forcing yourself to practice
 
 Believe it or not, it might be as simple as **forcing a deliberate practice on your children**.
 
@@ -89,7 +89,5 @@ I thought this was refreshing because there is already a plethora of information
 The first lesson here reminded me of *Mastery* by Robert Greene, because it says that mastery requires you to go beyond what even your teacher does. The second lesson reminded my of *So Good They Can’t Ignore You*, which says it’s more important to get going than to decide where you’ll go. The last lesson resembles *Bounce* by Matthew Syed, indicating it doesn’t take much to get motivated.
 
 It’s a good match for Geoff’s other book, *Humans Are Underrated*, as this one tells us how we can become great, while the follow-up shows us what specific skills we should strive to be good at. I highly recommend *Talent Is Overrated*.
-
-## Who it’s for
 
 The 9 year old, who’s not sure which passion to pick and might need a little help from her parents, the 57 year old accountant, who can think of an area or two he could improve in, and anyone who feels unmotivated to practice something creative.

@@ -20,7 +20,7 @@ Strap in because you’re about to learn just how deep and dark the internet get
 
 ## Lesson 1
 
-### Political extremists and terrorists have found a home for their radical beliefs on the internet.
+### Political extremists and terrorists have found a home for their radical beliefs on the internet
 
 Hearing someone we know say something racist can make us shock at one point in our lives. But online, we seem to see racism all over the place. That’s because some people are a lot less shy about being racist when they can hide behind a computer screen.
 
@@ -34,7 +34,7 @@ Breivik was obsessed with extremist blogs discussing the modern threats to the w
 
 ## Lesson 2
 
-### Some really dark places online trying to convince people to do terrible things.
+### Some really dark places online trying to convince people to do terrible things
 
 Though many people struggle with serious depression, it’s often hard for them to find someone they can share their dark thoughts and emotional struggles with. So naturally, these people often turn to the internet.
 
@@ -48,7 +48,7 @@ University of Suffolk professor Dr. Emma Bond led research into these sites in 2
 
 ## Lesson 3
 
-### Our money system as we know it is about to change forever because of recent technological advancements.
+### Our money system as we know it is about to change forever because of recent technological advancements
 
 The biggest change to our financial system in centuries is here: the rise of online currency. While most of us probably only were aware of it recently, it has actually been around since the 90s.
 
@@ -63,7 +63,5 @@ A blockchain is a public ledger that records all transactions and distributes th
 ## Review
 
 I’ve seen some pretty crazy things online, but this just blew my mind. *The Dark Net* is horrific but uncovers some things that we must bring to light if we want to stop them. Although I do wish there were more ideas in the book about ending some of these awful things.
-
-## Who it’s for
 
 The 67-year-old who doesn’t think the internet is that bad. The 22-year-old that’s curious about just how much they can do online and anyone who has a digital presence.

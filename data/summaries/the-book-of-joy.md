@@ -16,11 +16,9 @@ While the two addressed many obstacles to joy, along with eight pillars that ena
 
 Would you like to be more peaceful in the face of frustrating events, suffering and failure? Then let’s heed the words of these two great minds!
 
-### The Book Of Joy Summary
-
 ## Lesson 1
 
-### There is no life without suffering.
+### There is no life without suffering
 
 Especially in the Western world, we are constantly being sold on the idea that it’s possible to remove all suffering from your life. There’s a pill for every ill, money solves most problems, and once you finally have that spouse, the home and the two kids, you’ll be happy forever.
 
@@ -39,7 +37,7 @@ There was nothing he could have done, but at least he turned the man’s sufferi
 
 ## Lesson 2
 
-### You don’t always control suffering, but you always control your response to it.
+### You don’t always control suffering, but you always control your response to it
 
 Self-awareness helps a lot when dealing with suffering, because it allows you to see what you control and what you cannot influence. A lot of pain is inflicted upon us externally, for example through unlucky events, natural disasters, sicknesses, or bad things that happen to people close to us.
 
@@ -51,7 +49,7 @@ Of course, this is easier said than done.
 
 ## Lesson 3
 
-### Compassion and sadness are channels to let go of the anger and stress that result from suffering.
+### Compassion and sadness are channels to let go of the anger and stress that result from suffering
 
 Whether the source of our suffering is internal or external, it is often the result of us having had expectations that didn’t end up matching reality. We don’t expect traffic jams, deadly diseases, or price increases at the grocery store, so reality “fails” us and we become stressed and angry. The end result is, once again, fear.
 
@@ -64,7 +62,5 @@ As for sadness, it is an emotion that allows us to reflect and process bad event
 ## Review
 
 I know *The Book Of Joy* isn’t the most actionable book in the world, because it’s hard to practice feelings, but I believe it all starts with education. Learn the process of turning suffering into joy, let it sink in, and re-visit it often to become better at it. As these two leaders know: it’s a lifelong procedure, but one well worth pursuing.
-
-## Who it’s for
 
 The 22 year old angry driver, the 35 year old soon-to-be mom and anyone who has a hard time forgiving themselves.

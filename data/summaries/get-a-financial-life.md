@@ -20,7 +20,7 @@ Are you ready to get your financial life together? Let’s get right to it and f
 
 ## Lesson 1
 
-### Determine how much your dreams will cost then adjust your finances accordingly.
+### Determine how much your dreams will cost then adjust your finances accordingly
 
 It’s easy to make excuses for not dealing with money well. Just look at the global economy with all of its ups and downs! And let’s not even get into how awful the government is at managing funds.
 
@@ -36,7 +36,7 @@ Or even better, think of ways that you can start earning more like changing jobs
 
 ## Lesson 2
 
-### Get rid of credit card debt as fast as possible, it’s expensive and holds you back from living your best life.
+### Get rid of credit card debt as fast as possible, it’s expensive and holds you back from living your best life
 
 When I began my financial life as an adult and got my first credit card, I promised myself I would never pay interest. That was a decade ago, and I’ve kept that pledge. I’ve also never missed a payment and my credit score is over 800.
 
@@ -52,7 +52,7 @@ It’s also a good idea to use savings to pay down debt because you can’t out-
 
 ## Lesson 3
 
-### Find out where to get a good deal on insurance and how much you need to avoid overspending.
+### Find out where to get a good deal on insurance and how much you need to avoid overspending
 
 If you’re just getting started out with money, insurance may seem like an overwhelming thing to think about. I remember when I first realized I had to pay for car and health insurance it felt like a waste of money because I wasn’t getting anything tangible out of it!
 
@@ -69,7 +69,5 @@ You also want to check that you’re not already covered for certain things. Whe
 ## Review
 
 I honestly thought I’d like *Get A Financial Life* better than I actually did. All of the advice seemed really outdated and then I found out that it was published in 1996 and it all made sense! I can’t fault the author on that point though, and also because I think I’m past many of these beginner-level financial tips.
-
-## Who it’s for
 
 The 23-year-old that’s never been able to keep money in the bank, the 55-year-old who needs better credit to get a loan, and anyone that’s sick and tired of stressing so much about money issues.

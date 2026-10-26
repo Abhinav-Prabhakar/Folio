@@ -20,7 +20,7 @@ Would you like to become smarter, faster and happier? Tap into the wisdom Dave A
 
 ## Lesson 1
 
-### Decide who you want to become and use time and language accordingly.
+### Decide who you want to become and use time and language accordingly
 
 Imagine one day of your life in twenty years. What will you be doing? What impact will you have on the world? Who will you be with?
 
@@ -36,7 +36,7 @@ Unlike clothes, words must be chosen carefully. Instead, we often set boundaries
 
 ## Lesson 2
 
-### Wellbeing is essential for you to be fast at doing what you care for.
+### Wellbeing is essential for you to be fast at doing what you care for
 
 Arianna Huffington, the founder of the Huffington Post, built her company working more than 120 hours a week. But one day, she passed out while working, hit the desk and broke her cheekbone.
 
@@ -52,7 +52,7 @@ This is Asprey’s advice to start feeding your own health: eat like your grandm
 
 ## Lesson 3
 
-### Being rich won’t make you happy, but being happy might make you rich.
+### Being rich won’t make you happy, but being happy might make you rich
 
 Among the hundreds of top performers Dave Asprey has interviewed, nobody considers money as a source of joy. Although many of them are millionaires, they see money as a side effect of taking control of their minds and pursuing their passions.
 
@@ -71,7 +71,5 @@ Meditation can take you out of the fight-or-flight state, in which your response
 ## Review
 
 *Game Changers* is a never-ending source of information on personal growth and wellbeing! It gives advice on anything that can enhance your control over your brain and body and lead you to the most fulfilling life. Also, it provides lots of listening and reading suggestions and practical tips to start improving yourself immediately.
-
-## Who it’s for
 
 The 18-year-old who is deciding what to do with is life, the 33-year-old who is struggling with low energy and fatigue, and anyone who wants to improve themselves.

@@ -18,7 +18,7 @@ Ready to make 2017 the year you’ll make ideas happen? Let’s go!
 
 ## Lesson 1
 
-### Break all of your projects down into tasks in three categories.
+### Break all of your projects down into tasks in three categories
 
 As long as you’re in school, life is wonderfully straightforward. Turn to page 19 of your workbook, do exercise 7f, 3g and 12a and you’re done for the day. But the minute you finish it and want to get something done in the real world, you’ll realize life is actually a whole lot messier.
 
@@ -50,7 +50,7 @@ No matter which one you are, all of these have advantages and disadvantages. The
 
 ## Lesson 3
 
-### Create an Energy Line to make sure you spend your time on what’s most important.
+### Create an Energy Line to make sure you spend your time on what’s most important
 
 Look at all those files, folders and stacks of paper on your desk. How many projects currently in progress are there? 3? 5? 10? No matter how many there are, we usually make one fundamental flaw in judging which one we should be working on right now:
 
@@ -65,7 +65,5 @@ The new pile will become your Energy Line – the line of your projects sorted b
 ## Review
 
 I’m a big believer in anything that helps you become more self-aware – and *Making Ideas Happen* is definitely a book that helps you do that. Knowing whether you’re a dreamer, doer or incrementalist alone will have a huge impact on how you do things in the future. Thumbs up!
-
-## Who it’s for
 
 The 25 year old, who just started his first job at a marketing agency and is overwhelmed with all the responsibility, the 39 year old project manager, who wonders why her team keeps spinning its wheels, and anyone who secretly knows there’s a project they’ve spent way too much time on already.

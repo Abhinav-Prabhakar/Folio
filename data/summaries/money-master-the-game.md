@@ -18,11 +18,9 @@ Here are the 3 biggest things you should remember to get started:
 
 Ready to get the financial education no one gave you in school? Let’s roll!
 
-### Money: Master The Game Summary
-
 ## Lesson 1
 
-### Never underestimate the exponential power of compounding interest.
+### Never underestimate the exponential power of compounding interest
 
 If you’ve read more summaries on here from the personal finance category you might think I’m preaching to the choir, but people really don’t understand this.
 
@@ -42,7 +40,7 @@ Yes! So please, please NEVER underestimate the power of compounding interest.
 
 ## Lesson 2
 
-### Show yourself you can reach financial freedom by picking one of five goals.
+### Show yourself you can reach financial freedom by picking one of five goals
 
 If I asked you what the perfect amount of money is for you to make, 9 out of 10 of you would reply with: a million dollars.
 
@@ -76,7 +74,7 @@ For number 3 you need $640,000 invested so that you’ll get 8% annual return �
 
 ## Lesson 3
 
-### Use Tony’s 3-bucket system to diversify your investments.
+### Use Tony’s 3-bucket system to diversify your investments
 
 Here’s a very simple way to allocate all of your investment money (10% of your income is a good portion and will get you quite far, quite fast, without hurting your spending too much).
 
@@ -99,7 +97,5 @@ Making a lot of money is only meaningful when you actually use the money to live
 *I Will Teach You To Be Rich* is for people who aren’t ready to start saving but still want to start investing. *Rich Dad Poor Dad* is for those who have saved already but haven’t started investing. *Money: Master The Game* is for both the above, plus those who are already saving, already investing, but might not see the returns they hoped for.
 
 There is something to learn from this book for everyone, from first graders to portfolio managers. You can read it cover to cover, or just pick out the sections which are relevant to you. You’ll learn the exact portfolio allocations of some of the world’s greatest investors, like Ray Dalio or David Swensen. The interviews with the 12 greatest investors of our time alone are worth 10x the price of the book. Get a copy!
-
-## Who it’s for
 
 The 9 year old, who just got her first allowance, and has just started learning about the concept of money, the 20 year old, who still has a chance to start early and reap massive rewards 10 years later, and anyone who still lives paycheck to paycheck.

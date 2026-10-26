@@ -20,7 +20,7 @@ Wondering what Tim’s tribe of mentors has told him? Well, wonder no more.
 
 ## Lesson 1
 
-### There are 3 hidden opportunities in each failure.
+### There are 3 hidden opportunities in each failure
 
 Rick Rubin is a legend in the music business. The producer has worked with artists from every genre under the sun, ranging from Linkin Park to Johnny Cash, Shakira and Eminem. After dozens of award-winning albums, Rubin has learned one thing: **you can’t control the audience**. Great records might flop, mediocre ones can take off. All you can do is set yourself the highest standard possible and stick to it.
 
@@ -36,7 +36,7 @@ To sum up, with each failure come three great opportunities:
 
 ## Lesson 2
 
-### Keep finding new ways to say no to not get sucked into the wrong commitments.
+### Keep finding new ways to say no to not get sucked into the wrong commitments
 
 The more you penetrate your field and establish yourself as an authority, the more people will clamor for your attention. It is usually right when exponential growth is about to kick in and thinking becomes more important, that the world will fight hard to keep you from it. We all know what the solution to this dilemma is – saying no – but it’s very hard to actually practice.
 
@@ -51,7 +51,7 @@ No is a powerful world, but there’s another side to this story: Gary Vaynerchu
 
 ## Lesson 3
 
-### Before you take advice, check all potential reasons not to, then decide.
+### Before you take advice, check all potential reasons not to, then decide
 
 This is a book full of advice, but as Tim explains in the intro, he’s aware that most of it isn’t for you. Only a very small selection of tips from his mentors will have the power to change your life, some might be helpful, but most will never apply. That’s perfectly okay, as long as you stay aware of it.
 
@@ -67,7 +67,5 @@ All of this goes for this summary. Don’t take my word for it. Or Tim’s. Refl
 ## Review
 
 This is described as a ‘choose-your-own-adventure’ book, but it’s better than that. It’s a ‘flip-to-a-random-page-and-learn-something’ book, perfect for reading in short, daily doses. However, you can just as well filter the advice strategically, if you want to come up with a more elaborate plan. *Tribe of Mentors* feels like the book *Tools of Titans* should have been and for re-approaching that concept alone, Tim has once again earned my respect.
-
-## Who it’s for
 
 The 27 year old writer, who hasn’t done all the necessary work, but is impatiently waiting for the results, the 42 year old recent dad, who can’t manage to cut down on work, and anyone who felt disappointed when they realized all the advice they tried didn’t work.

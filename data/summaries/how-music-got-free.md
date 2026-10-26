@@ -20,7 +20,7 @@ Are you ready to learn what was going on behind the scenes of the MP3 vs. CD war
 
 ## Lesson 1
 
-### Those with the power to recognize the mp3’s potential struggled to implement it soon enough.
+### Those with the power to recognize the mp3’s potential struggled to implement it soon enough
 
 Believe it or not, the development of the mp3 format actually began in 1987. German scientists at Fraunhofer Institute worked for years to find a way to compress audio files in a way that would sound indistinguishable from CD, which was a monumental challenge. Once they got it right, they sent it to the Moving Pictures Expert Groups, or MPEG, who approved of their format, known as mp3, as a technology standard.
 
@@ -32,7 +32,7 @@ The Fraunhofer team stuck it out a little longer and had an unexpected win for m
 
 ## Lesson 2
 
-### The mp3 beat the CD in the format war thanks to the internet.
+### The mp3 beat the CD in the format war thanks to the internet
 
 The NHL deal gave mp3 makers what they needed to survive for a little longer, and they pushed forward. All they needed was for people to realize what they had was better.
 
@@ -48,13 +48,13 @@ It was a generation-wide flouting of laws and norms without even considering con
 
 ## Lesson 3
 
-### In a similar fashion that the CDs have become a thing of the past, streaming is going to beat the mp3 when it comes to sharing music.
+### In a similar fashion that the CDs have become a thing of the past, streaming is going to beat the mp3 when it comes to sharing music
 
 Today, CDs are pretty much extinct. And while some people still own digital versions of their music, the majority of us now prefer to stream music.
 
 Spotify is one of the most popular sites for streaming. Research shows that while Spotify has helped halt music piracy, people are no longer buying albums at all.
 
-This radical shift in music-purchasing trends has all but forced the humble mp3 into retirement **.For the first time since the invention of the photograph, consumers actually spend more money on live music than recorded, all because of streaming.** This shift came shockingly fast. 2012 marked the first year digital music overtook CDs, and just a year later, streaming services revenue was over $1 billion.
+This radical shift in music-purchasing trends has all but forced the humble mp3 into retirement **. For the first time since the invention of the photograph, consumers actually spend more money on live music than recorded, all because of streaming.** This shift came shockingly fast. 2012 marked the first year digital music overtook CDs, and just a year later, streaming services revenue was over $1 billion.
 
 But with the emergence of streaming also comes problems with revenue distribution. With the easier-than-ever ability for musicians to make an album and stream it worldwide, musicians are beginning to question the need to have a record label at all.
 
@@ -63,7 +63,5 @@ Furthermore, did you know that a musician with millions of listens on Spotify of
 ## Review
 
 Wow, what a crazy story! Who knew that the history of the mp3 and music could be so interesting?! *How Music Got Free* had me curious the whole way through and was especially interesting to me because I remember many of these changes to music over the years!
-
-## Who it’s for
 
 The 35-year-old who wonders what was going on behind the scenes when they were younger and downloading songs from Napster, the 57-year-old executive of a record label that wants to get smart about the future of music, and anyone that’s curious to know how the internet changed music forever.

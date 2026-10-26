@@ -20,7 +20,7 @@ Ready to learn how to outsmart advertisements? Let’s go!
 
 ## Lesson 1
 
-### Biologically we’re highly motivated to do things that make us more likely to reproduce, and marketers use this to get us to buy.
+### Biologically we’re highly motivated to do things that make us more likely to reproduce, and marketers use this to get us to buy
 
 Who are you with right now? Try yawning and pay close attention to anyone that follows suit. Did anybody copy you? If not, you can try it with a close friend or significant other. Usually, it’s tough to resist yawning when we see someone else do it.
 
@@ -34,7 +34,7 @@ Let’s look at evolution to understand this. When we spend money to get new thi
 
 ## Lesson 2
 
-### You’re more likely to purchase whatever a company is selling if their ad makes you afraid.
+### You’re more likely to purchase whatever a company is selling if their ad makes you afraid
 
 Using mirror neurons to entice us to buy is devious but not completely harmful. But not all marketing tactics are so nice. Some take advantage of our negative emotions like fear to get us to shop more.
 
@@ -50,7 +50,7 @@ Another is the *No More Tears Baby Shampoo*. Nobody likes having soap in their e
 
 ## Lesson 3
 
-### Subliminal messaging is a powerful tool that advertisers still use to convince us to purchase whatever they are selling.
+### Subliminal messaging is a powerful tool that advertisers still use to convince us to purchase whatever they are selling
 
 Did you know that companies used to flash pictures or sounds of what they wanted you to buy for tiny fractions of time during people’s regular media consumption? The quick interruption was unnoticeable by the person’s conscious mind, but subconsciously they were taking in the message that they should purchase a product.
 
@@ -67,7 +67,5 @@ Research shows this works, too. One study had people look at a grumpy face and a
 ## Review
 
 What a fascinating book! *Buyology* is a great read to help you make more informed decisions as a consumer. I always suspected that companies play on our psychology without knowing to get us to buy, but I had no idea how deep it really went!
-
-## Who it’s for
 
 The 21-year-old who spends too much money and wants to find ways they can stop, the 43-year-old marketing manager who needs some new ideas for how to get customers to buy, and anyone who is curious about the psychology of buying.

@@ -20,7 +20,7 @@ Did technology get you frustrated? Let’s get right to these lessons and see ho
 
 ## Lesson 1
 
-### If you have a hard time figuring a product out, it’s not your fault; it’s the designers.
+### If you have a hard time figuring a product out, it’s not your fault; it’s the designers
 
 Have you ever tried to set something new up, like a TV remote, but been quickly frustrated when you can’t understand the instructions? You probably thought you were the problem when the problem was just bad design.
 
@@ -34,7 +34,7 @@ Technology is changing at such a rapid pace that it is getting increasingly diff
 
 ## Lesson 2
 
-### Buyers can have an easier time using a product if it’s got specific limitations built into it.
+### Buyers can have an easier time using a product if it’s got specific limitations built into it
 
 The home store IKEA has been notorious in the past for selling products that are hard to set up at home. But nowadays, they have become actually quite simple. It takes a bit of time, but you can usually set up your own dresser in an hour or two without too much trouble.
 
@@ -46,7 +46,7 @@ Another example of a constraint is how most operating systems and programs will 
 
 ## Lesson 3
 
-### To fully tap into the power of technology, designers need to center their work on humans.
+### To fully tap into the power of technology, designers need to center their work on humans
 
 Technology is changing and improving at a crazy rate, but often what lags behind designs. Why? Because designers often forget the needs and abilities of their users. **Designers often get so excited about making something entirely new that they forget to consider the people who will use it.**
 
@@ -61,7 +61,5 @@ Last, test the prototype in a control-room setting and see what happens. From he
 ## Review
 
 My favorite part of *The Design Of Everyday Things* is the idea that I’m not an idiot because I can’t figure out how to change the time on my microwave. It would have been nice to hear more about that idea, but it was still pretty cool to see ways designers can do better. Technology has done some great things for our world, and I can’t wait to see what the future holds as it gets better!
-
-## Who it’s for
 
 The 36-year-old engineer who doesn’t understand why people can’t figure out their product, the 58-year-old CEO of a company that manufactures technology, and anyone who wonders why some things they buy are so difficult to use.

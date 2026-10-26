@@ -6,7 +6,7 @@
 
 Whether you want to succeed in a corporate environment, politics, or as a performer, you need adequate skills and qualifications. But are these what matters most? Sylvia Hewlett would not agree with you.
 
-While doing nationwide research for *Executive Presence* *: The Missing Link Between Merit and Success*, Hewlett found that the one thing that is more important than your merits is your presence.
+While doing nationwide research for *Executive Presence: The Missing Link Between Merit and Success*, Hewlett found that the one thing that is more important than your merits is your presence.
 
 By “presence,” she means the unique, distinguishable quality you bring into any room just by entering it. Hewlett claims that this trait is the make-or-break factor for whether others will see you as worth following.
 
@@ -26,7 +26,7 @@ The good news is that you don’t need to be born with these qualities, but you 
 
 ## Lesson 1
 
-### Executive presence starts with your gravitas.
+### Executive presence starts with your gravitas
 
 More than half of the leaders surveyed by Hewlett pointed to gravitas as the core foundation of EP. **They usually defined gravitas as the ability to exude integrity, calmness, and confidence under the most pressing circumstances.**
 
@@ -58,7 +58,7 @@ While all of that sounds like a lot to keep an eye on, you can master it with pr
 
 ## Lesson 3
 
-### Your physical appearance is important, too.
+### Your physical appearance is important, too
 
 Even though Hewlett enlists your looks only as the third factor accounting for EP, it still matters. This is not to say that you need to look flawless, bold, and beautiful. The rule of thumb here is that your appearance shouldn’t distract people from your professional competence, but should instead emphasize it.
 
@@ -73,7 +73,5 @@ Luckily, sharp appearance is also not something with which you have to be born. 
 ## Review
 
 These things seem so simple and obvious yet, we forget them. We overlook the fact that no matter our field of expertise, age, or years of experience, in the end, it all boils down to how we interact with other people. Your career doesn’t exist in a void. *Executive Presence* is a great reminder that whatever we do, it is important that we do it for, and with, others.
-
-## Who it’s for
 
 The 40-year-old corporate employee who is working hard for a promotion, the 35-year-old startup founder who wants to lead their company with passion, and to anyone willing to learn what it takes to captivate other people to join their cause.

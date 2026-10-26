@@ -20,7 +20,7 @@ Are you ready to have your mind opened about history as you thought you knew it?
 
 ## Lesson 1
 
-### Wealthy landowners set up the US government to benefit their interests, and they continue to rule today.
+### Wealthy landowners set up the US government to benefit their interests, and they continue to rule today
 
 In the past, historians have falsely claimed that African people who were brought to America were naturally submissive. But the real truth is that they did try to revolt, and many died for this. Slave owners knew that they had to crush their spirits if they could successfully keep slaves.
 
@@ -34,7 +34,7 @@ Laws like needing to own property with at least a value of 5,000 pounds ensured 
 
 ## Lesson 2
 
-### Political leaders were more concerned about their own interests than ending slavery at the start of the Civil War.
+### Political leaders were more concerned about their own interests than ending slavery at the start of the Civil War
 
 We’d like to think of the Civil War as the heroic plight of the altruistic North freeing the slaves. But in reality, things might be a little less valiant. Tensions brewed between the North and South because the North was elite businessmen and manufacturers who wanted a free market and high tariffs that would protect against competition. This plan was not in the interest of the Southern plantation owners, and the South was angry they were unsympathetic to their needs. So they seceded from the Union.
 
@@ -44,7 +44,7 @@ After the war, the Union gave the plantation owners compensation for losing thei
 
 ## Lesson 3
 
-### Economic gains were a primary reason for the United States entering World War II, and have been for many military actions of the country.
+### Economic gains were a primary reason for the United States entering World War II, and have been for many military actions of the country
 
 If you’re American, when you picture our involvement in World War II, it’s probably a picture of our heroic country coming in and stopping the war just in the nick of time. The reason for our involvement is a bit different, though.
 
@@ -57,7 +57,5 @@ General Motors president Charles Wilson suggested we have a “permanent war eco
 ## Review
 
 I have a lot of thoughts about *A People’s History of the United States*. I think it’s important to be honest with ourselves about our past, which is something that the U.S. hasn’t historically been very good at. Eye-opening stories like this from the side of the oppressed should be taught in school. I also believe, however, that just being angry about historical atrocities doesn’t do much good and we should use this information to live and be better people than our forefathers.
-
-## Who it’s for
 
 The 22-year-old political science major who is fascinated by the real history of the United States, the 52-year-old activist who’d like to help end oppression, and anyone who’d like a more accurate perspective on the history of the US.

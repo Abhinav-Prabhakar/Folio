@@ -24,7 +24,7 @@ I hope you’re ready to be honest, because I’m honestly ready to learn some!
 
 ## Lesson 1
 
-### Trust increases speed and thus lowers costs in businesses.
+### Trust increases speed and thus lowers costs in businesses
 
 I bet you, like a lot of people, trust in FedEx to deliver over night. And they do.
 
@@ -42,7 +42,7 @@ Covey says this adds a component of trust to the strategy vs. execution formula,
 
 ## Lesson 2
 
-### You first have to trust yourself, because trust is similar to confidence.
+### You first have to trust yourself, because trust is similar to confidence
 
 Trust is very much like confidence, which in turn is created when competence and character come together. It asks the question of how much you believe in a person to follow through on their intentions.
 
@@ -67,7 +67,7 @@ Covey says there are four cores to developing great trust in yourself.
 
 ## Lesson 3
 
-### If you run a business, try to develop societal trust through contribution.
+### If you run a business, try to develop societal trust through contribution
 
 Covey says there are 3 kinds of stakeholders, with which your business must build trust in different ways. The most striking one to me was the **societal trust** you build with stakeholders who are neither employees nor customers, but just part of your company’s environment.
 
@@ -90,7 +90,5 @@ I can’t stand myself when I don’t live according to what I believe and have 
 Trust is a great foundation to build your house on, whether it’s your private house or a huge corporation.
 
 The blinks are short and *The Speed Of Trust* goes much deeper, but if you’re all new to the concept of trust in business, they provide a great intro to the subject.
-
-## Who it’s for
 
 The 17 year old with lots of intent and integrity, but not enough skills to be 100% confident, the 41 year old accountant, who ran her business strictly based on numbers so far, and anyone who dislikes McDonald’s.

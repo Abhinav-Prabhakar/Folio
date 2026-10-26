@@ -22,7 +22,7 @@ No matter how much we shake your bank account, soon, no coins will fall out – 
 
 ## Lesson 1
 
-### Forget big gains and focus on avoiding losses.
+### Forget big gains and focus on avoiding losses
 
 Warren Buffett is often quoted on his only two rules for investing. Rule #1 is to never lose money. Rule #2 is to never forget the first rule. That’s why Warren makes so few investments. He needs to be 150% sure he won’t lose money. But why?
 
@@ -34,7 +34,7 @@ If you lose 50%, however, and go down to $500, you need to *double* your money �
 
 ## Lesson 2
 
-### Low-risk, high-reward investments are not only possible, they’re the only thing you should look for.
+### Low-risk, high-reward investments are not only possible, they’re the only thing you should look for
 
 Before you ask what those rare “safe” investments are and whether they even exist, I’ll tell you. Of course there’s no 100% safe investment, as taking on risk is the whole idea of where stock market rewards come from, but you sure can minimize it.
 
@@ -46,7 +46,7 @@ With that in place, he can be wrong on four investments and the fifth one will s
 
 ## Lesson 3
 
-### Keep your gut in check with an investing checklist.
+### Keep your gut in check with an investing checklist
 
 In any system that involves humans, the biggest point of failure is always, well, humans. The reason robo-investing software gets more and more popular is that most people are truly better off if they’re kept from making dumb decisions. The roots of the problem go back to biology.
 
@@ -61,7 +61,5 @@ This way, both you and your bank account will soon be unshakeable!
 ## Review
 
 Money is a behemoth. It makes *Unshakeable* look like a short story. In case of such a complex topic, that’s a good thing. I’d actually recommend you read this first and then, as you learn more, go for bigger and more in-depth books. Even if you stop there, the principles in this one alone will carry you a long way. Big thumbs up!
-
-## Who it’s for
 
 The 18 year old, who’s responsible for his financial decisions for the first time in his life, the 39 year old housewife, who still hides behind the cliché that women aren’t good at investing, and anyone who’s never read a word about personal finance.

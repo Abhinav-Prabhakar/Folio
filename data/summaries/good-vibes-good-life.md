@@ -20,7 +20,7 @@ We’re about to embark on an explorative journey and see what these lessons hav
 
 ## Lesson 1
 
-### Controlling your emotions and manifesting your dream reality is what will make you successful.
+### Controlling your emotions and manifesting your dream reality is what will make you successful
 
 The book talks about how we attract what we focus on, whether it’s positive or negative. It also talks about how we need to improve our ways of thinking and doing things, so that we’re more aware of our limiting beliefs and change them for better outcomes.
 
@@ -34,7 +34,7 @@ Nature is known for its healing properties and for helping you achieve a higher 
 
 ## Lesson 2
 
-### Setting boundaries can help you cut toxic people and work on yourself more.
+### Setting boundaries can help you cut toxic people and work on yourself more
 
 Setting boundaries means creating rules for yourself about what behaviors are acceptable and unacceptable in your relationships. This way, if someone steps out of bounds (i.e. acts like a jerk), then they’ll know what they did wrong and how to fix it next time around.
 
@@ -52,7 +52,7 @@ Setting boundaries isn’t just about cutting toxic people out of your life; it�
 
 ## Lesson 3
 
-### Learn to work on yourself, plant happy seeds in your mind, and enjoy your presence.
+### Learn to work on yourself, plant happy seeds in your mind, and enjoy your presence
 
 In life, you can choose the way you want your mind to work for you. Let’s imagine, for a moment, that your beliefs are the seeds that take root in your unconscious mind. You either have helpful or unhelpful beliefs, which in turn lead to either a joyful, serene garden or a toxic wasteland.
 
@@ -69,7 +69,5 @@ Next comes uprooting those poisonous weeds by replacing them with positive belie
 *Good Vibes, Good Life* is a book about manifesting what you want, living meaningfully, and appreciating the little things. The author explains how to be happy with yourself by embracing what is already there. With this knowledge as a foundation, you can start manifesting right away.
 
 One of the most interesting parts of this book is how our thoughts can change our moods at any time. Vex King encourages us to take care of ourselves physically and spiritually so that we are ready for whatever may come into our lives.
-
-## Who it’s for
 
 The 27-year-old woman who realized the importance of self-care and wants to learn how to practice it, the 33-year-old divorced person who wants to start all over, or the 45-year-old person who wants to find new meaning in their life.

@@ -18,7 +18,7 @@ Do you want to hone your reading skill so you’ll get more out of every future 
 
 ## Lesson 1
 
-### Do an inspectional read every time you want to pick up a new book.
+### Do an inspectional read every time you want to pick up a new book
 
 Most people want to save time on books by learning how to speed read. I always tell them not to. To be okay with reading slowly. The one thing I’ve learned about saving time on books is that it doesn’t happen while reading. **Where you save time is in deciding what you’ll read in the first place**.
 
@@ -41,7 +41,7 @@ After you’ve done that, you’ll have a pretty good idea of whether this book 
 
 ## Lesson 2
 
-### Try to find the main theme and author’s intentions by analyzing a book in detail.
+### Try to find the main theme and author’s intentions by analyzing a book in detail
 
 This is where analytical reading comes in. Once you’ve read the book, you can really analyze it. This is where taking notes, highlighting, summarizing and thinking long and hard about the content become your tools of the trade.
 
@@ -57,7 +57,7 @@ In an x-ray, this plot would resemble the bones of the book, whereas the exact s
 
 ## Lesson 3
 
-### Ask more questions about books, critically thinking about their importance and logic.
+### Ask more questions about books, critically thinking about their importance and logic
 
 Inspectional and analytical reading help you read more selectively and to understand what you read better. However, the most important lesson about reading books in general, I think, is this: **Always question a book’s significance and logic**.
 

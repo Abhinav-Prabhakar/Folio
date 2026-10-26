@@ -18,11 +18,9 @@ Here are 3 lessons to help you build a strong business while staying small and f
 
 Want to build a million-dollar, one-person business? Let’s get cracking!
 
-### The Million-Dollar, One-Person Business Summary
-
 ## Lesson 1
 
-### There are 6 types of businesses that work well for solo entrepreneurs.
+### There are 6 types of businesses that work well for solo entrepreneurs
 
 When you go to Examine.com, a website dedicated to the latest research in supplements and nutrition, you’ll see a sleek, professional design, thousands of free articles on health, food, and supplements, and a feed of the latest studies, updated daily. You’d never guess it’s run by a single person, but, by and large, it is. Founded by Sol Orwell in 2011, Examine relies on freelance journalists. It is funded by its over 13,000 paying members.
 
@@ -39,7 +37,7 @@ What do you think? Which kind of solo business feels right for you? Take your ti
 
 ## Lesson 2
 
-### To find the time and money to start your business, use 1 of 4 approaches.
+### To find the time and money to start your business, use 1 of 4 approaches
 
 Especially in the early stages, launching a business is tough. Plus, unless you’re still a teenager or already rich, you’ll likely have other commitments. A full-time job, family, or health issues that need looking after, for example.
 
@@ -54,7 +52,7 @@ No matter what, becoming an entrepreneur is hard work. All of the above solution
 
 ## Lesson 3
 
-### Once you’re up and running, double down on what works and stay focused on those activities.
+### Once you’re up and running, double down on what works and stay focused on those activities
 
 Like many first-time entrepreneurs, Laszlo Nadler chose the side hustle approach to get started. He loved the productivity-optimization aspects of his job in project management, so he decided to start selling calendars and planners. It took him 2 years to quit his full-time job, and 10 years later, Tools4Wisdom is still thriving.
 

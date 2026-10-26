@@ -18,7 +18,7 @@ While there’s many valuable insights that you could get from this book, let’
 
 ## Lesson 1
 
-### Exercise and movement have a better chance of curing your diseases than medication does.
+### Exercise and movement have a better chance of curing your diseases than medication does
 
 There’s no secret that exercise and moving your body by doing something as simple as walking can enhance your health levels and keep you in good shape for as long as you do it. However, there are cultures that take this concept to a whole new level, proving that movement is a better healer than actual medications and drugs, and the author is in complete agreement with this idea.
 
@@ -28,7 +28,7 @@ In fact, he says that before you’re prescribed any of that man-made medication
 
 ## Lesson 2
 
-### Avoid falling into the trap of ads, and use common sense instead.
+### Avoid falling into the trap of ads, and use common sense instead
 
 In today’s world, ads are as poisonous as the products they market so intensely for. Guides, magazines, and books on health, diets, and nutrition often include pages with ads for highly processed foods, especially sweets and snacks. Your child’s school probably has a bunch of flyers on the walls promoting M&M’s as a healthy snack in between breaks, right?
 
@@ -49,7 +49,5 @@ Avoid rushing into these trends, as they can alter the quality of your life sign
 ## Review
 
 *Healthy at 100* will show you how to stay healthy, active, fulfilled, and happy as you grow old. Going through life, aging, fighting diseases, and maturing aren’t easy, yet some people seem to have found the secret of youth and living meaningfully. A great hands-on guide on how to live a joyful life for as long as possible.
-
-## Who it’s for
 
 The 29-year-old student, who knows her body is slowly becoming less “invincible,” the 60-year-old teacher who wants to age gracefully after he retires, and anyone who wants to live a long, healthy life.

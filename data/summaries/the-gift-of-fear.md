@@ -22,7 +22,7 @@ Fear can be good for you?! Let’s jump right into these lessons and see how!
 
 ## Lesson 1
 
-### Watch out for overly friendly and charming strangers.
+### Watch out for overly friendly and charming strangers
 
 Criminals know that if they can get you to let your guard down, they can get what they want from you. That’s why they’ll employ special tactics to try to make you trust them. It takes skill to see through their deceptiveness, but you can learn how to do it.
 
@@ -38,7 +38,7 @@ No matter how charming somebody is, if they don’t respect your wishes, that’
 
 ## Lesson 2
 
-### To protect yourself from criminals, use empathy and read body language.
+### To protect yourself from criminals, use empathy and read body language
 
 Do you know somebody that, when they enter a room, everybody feels their presence? Maybe they stand in a powerful pose or take up more space by acting taller or stronger.
 
@@ -54,7 +54,7 @@ It wouldn’t be in his best interest to send threatening messages if he wanted 
 
 ## Lesson 3
 
-### Knowing when something’s dangerous and when it doesn’t come down to the signals.
+### Knowing when something’s dangerous and when it doesn’t come down to the signals
 
 Do you think you’d be able to tell whether a stalker was dangerous or merely strange? Either way, it’s creepy, but how fast you need to react in these situations depends on the details.
 
@@ -71,7 +71,5 @@ Later that night, someone called in, warning of an impending shooting, but nobod
 ## Review
 
 I thought *The Gift Of Fear* was a fascinating book. Although I have to say that it wasn’t the take on fear I expected when I first started it. Still, this stuff is important knowledge to have!
-
-## Who it’s for
 
 The 25-year-old woman who lives in a big city, the 57-year-old that’s been threatened and is anxious about crime, and anyone that wants to find ways to be safer.

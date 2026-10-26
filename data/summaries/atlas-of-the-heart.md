@@ -18,8 +18,6 @@ Here are my three favorite lessons from the book:
 
 Let’s explore some exciting insights from the book that will change the way you view your emotions!
 
-### Atlas of the Heart Summary
-
 ## Lesson 1
 
 ### Comparing ourselves with others and not dealing with our anger and disappointment is what’s hurting us the most
@@ -57,7 +55,5 @@ Understanding the difference between your emotions and knowing where to draw the
 ## Review
 
 *Atlas of the Heart* will help you understand your emotions and how they affect your behavior. This book provides a series of definitions for our most common feelings. It also includes examples of situations in which they influence our decisions, thus making it easy for readers to understand where things go wrong and how they can quickly improve their approach to similar situations. Highly recommended!
-
-## Who it’s for
 
 To the 35-year-old person who’s going through a significant life event tries to make sense of their feelings. To the 25-year-old passionate about human psychology and behaviors. Lastly, for the 50-year-old person who wants to improve their spirituality and emotional intelligence.

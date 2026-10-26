@@ -24,7 +24,7 @@ Are you ready for your daily dose of social justice? Let’s see how we can find
 
 ## Lesson 1
 
-### Social progress makes us think that our lives are improving, but it’s just one weapon that the elite use to help themselves.
+### Social progress makes us think that our lives are improving, but it’s just one weapon that the elite use to help themselves
 
 Hilary Cohen was a recently graduated philosophy major who was curious about what to do with her future after the recent recession. Knowing she wanted to make a positive difference in the world, the only question was how. Entrepreneurship, and using it’s principles to help stop inequality, seemed like the best answer.
 
@@ -42,7 +42,7 @@ According to the author, we may think this makes people happy, but it’s actual
 
 ## Lesson 2
 
-### “Think win-win” might be a good adage for individuals to follow, but businesses use it as a front to hide their selfishness and greed.
+### “Think win-win” might be a good adage for individuals to follow, but businesses use it as a front to hide their selfishness and greed
 
 You’ve got to love Stephen Covey’s classic self-improvement book *The 7 Habits of Highly Effective People*. It’s been one of my favorites since I first read it as a teenager. But one of the habits, “Think Win-Win” is dangerous when business elites apply it.
 
@@ -60,7 +60,7 @@ For the average worker, their income has only gone up about 10% for that massive
 
 ## Lesson 3
 
-### People in power have a hard time being honest about how much control they actually have because they know it solidifies their status.
+### People in power have a hard time being honest about how much control they actually have because they know it solidifies their status
 
 It’s been exciting for me to see the change in the nature of jobs in recent years. I’ve seen many people give up conventional work for a more entrepreneurial vision of their career, and it’s amazing. For me, this transformation has made my life significantly better.
 
@@ -79,7 +79,5 @@ Uber, for example, identifies as one fighting against monopolies, taking down �
 ## Review
 
 I have mixed feelings about *Winners Take All*. There wasn’t much data to back up the claims it made and it seemed to have a clear agenda. Identifying the corruption of the ultra-rich is important, but doing so carries the danger of making us think wanting money is bad, which only harms us more.
-
-## Who it’s for
 
 The 56-year-old billionaire who wonders why their conscience is always bothering them, the 27-year-old who is worried about social justice, and anyone who is sick of the corrupt and greedy elite controlling the world.

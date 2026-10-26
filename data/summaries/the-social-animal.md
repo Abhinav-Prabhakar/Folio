@@ -20,7 +20,7 @@ Every action radiates and influences others. Let’s take a peek inside our mind
 
 ## Lesson 1
 
-### Learning takes repetition, exploration, and connection.
+### Learning takes repetition, exploration, and connection
 
 Harold’s high school English teacher Ms. Taylor pressed a copy of *The Greek Way* by Edith Hamilton into his hand. “This will lift you to greatness,” she said. Harold read the slim book and felt connected to something ancient and profound. He was hooked by curiosity – the first step in the process of deep learning.
 
@@ -34,7 +34,7 @@ Finally, Ms. Taylor asked Harold to journal about what he learned, a practice in
 
 ## Lesson 2
 
-### Our environment influences our behavior, and we should use this to our advantage.
+### Our environment influences our behavior, and we should use this to our advantage
 
 Erica’s early education experiences were quite different from Harold’s. She bounced from one school to another as her single mother fell in and out of employment. From month to month, the pair fluctuated between a middle-class suburban life and sleeping on the floors of relatives in the inner city.
 
@@ -46,7 +46,7 @@ Erica managed to get admitted by sneaking into the Academy and presenting her ca
 
 ## Lesson 3
 
-### Seven structures influence our decisions without us being aware of them.
+### Seven structures influence our decisions without us being aware of them
 
 **Behavioral economists have identified seven unconscious structures that influence our decisions: priming, anchoring, framing, expectation, inertia, arousal, and loss aversion.**
 
@@ -63,7 +63,5 @@ Our unconscious minds run these heuristics while our conscious thought remains u
 ## Review
 
 What an informative book for those who are interested in human behavior and creating environments that encourage flourishing! *The Social Animal* explores parenting, education, love, family, culture, achievement, marriage, politics, morality, aging, and death. There is something for everyone in this comprehensive study of life.
-
-## Who it’s for
 
 The 21-year-old college student pursuing a degree in liberal arts, the 54-year-old politician looking for innovative methods to improve social relations, and anyone wanting to better understand human behavior.

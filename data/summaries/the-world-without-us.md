@@ -18,7 +18,7 @@ Ready for a trip around the world without us? Let’s go!
 
 ## Lesson 1
 
-### Since plastic doesn’t biodegrade, it’ll be around forever.
+### Since plastic doesn’t biodegrade, it’ll be around forever
 
 Ashes to ashes. Dust to dust. Usually everything that comes from nature is returned back to it eventually. When we die our bodies decay and even our bones eventually disintegrate and become part of the soil again. However, we’ve managed to create an exception.
 
@@ -34,7 +34,7 @@ Eventually, even plankton will be able to “eat” plastic, but it’ll stay ar
 
 ## Lesson 2
 
-### Predators will rise again and domestic farm animals will be their lunch.
+### Predators will rise again and domestic farm animals will be their lunch
 
 We’ve drastically changed the world of animals as well. Many animals once prevailing in only small quantities now count billions in numbers, mostly for the purpose of serving as our food. Cows, pigs, chickens, fish, dogs, all have been domesticated and thrive under human protection.
 
@@ -48,7 +48,7 @@ Nevertheless, we’d see far more predators and carnivorous animals than today (
 
 ## Lesson 3
 
-### Only a very small number of human creations will last for the following millennia.
+### Only a very small number of human creations will last for the following millennia
 
 We like to think that the things we create are of substance and will last a while, whether it’s the impression of an event we put together for work, an article we write, or a new, pompous building. Yet, when we look at the half-life of most of these things, they become laughable in the context of history. Especially imagining we wouldn’t be there to maintain them.
 
@@ -65,7 +65,5 @@ The next time you’re trying to build something or leave a legacy, think 10x bi
 ## Review
 
 *The World Without Us* is not a book for environmentalists. It’s a book for optimists. And careless people. If you’re trying to do something that makes the world a better place, this’ll help put your work into perspective. If you don’t care, then maybe you will now. Definitely worth picking up.
-
-## Who it’s for
 
 The 19 year old environmentalist, who spread flyers at her school about living more resourcefully, the 28 year old, who lives every day as if it was his last, because he thinks life is too short not to have fun, and anyone who frequently buys plastic bags when getting groceries.

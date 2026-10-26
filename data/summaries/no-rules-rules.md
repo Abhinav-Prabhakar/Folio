@@ -20,7 +20,7 @@ Let’s get right to it and binge these lessons!
 
 ## Lesson 1
 
-### The reason Netflix was able to excel the way it has is its unique company culture.
+### The reason Netflix was able to excel the way it has is its unique company culture
 
 Remember going to Blockbuster to rent movies? In 2000, Reed Hastings met with the CEO of Blockbuster to make him an offer. At the time, Netflix was a small start-up, and Blockbuster was a huge company worth $6 billion and 9,000 stores worldwide.
 
@@ -34,7 +34,7 @@ Hastings says this is because, at Netflix, his employees are allowed much more f
 
 ## Lesson 2
 
-### To have a successful company, have high talent density, a lot of candour, and get rid of dumb policies.
+### To have a successful company, have high talent density, a lot of candour, and get rid of dumb policies
 
 Before you set your employees loose, however, you need to ensure 3 things, Hastings says:
 
@@ -54,7 +54,7 @@ Lastly, don’t be afraid to throw out useless policies. Netflix doesn’t track
 
 ## Lesson 3
 
-### It can be time-consuming to keep a high density of talent, but it allows maximum efficiency.
+### It can be time-consuming to keep a high density of talent, but it allows maximum efficiency
 
 Having a team that has a lot of talent is amazing for a company. But to keep it up, it takes work. First, you need to be able to fire people who are just okay at their jobs.
 
@@ -71,7 +71,5 @@ Having a talent-dense team helps you do this because you can trust them to make 
 ## Review
 
 This book blew me away. The ideas are so radical compared to everything we know and believe about business, but that makes so much sense. I think everyone can learn something in this book to help them run a better company that people actually enjoy working at.
-
-## Who it’s for
 
 The 56-year-old CEO looking to turn a corner on employee retention and productivity, the 33-year-old manager who wants to discover a new way of leading people, and anyone curious about how Netflix works behind the scenes.

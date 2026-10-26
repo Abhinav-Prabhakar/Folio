@@ -20,7 +20,7 @@ Get ready for a crash course on economics! Let’s go!
 
 ## Lesson 1
 
-### Your financial choices aren’t rational and businesses take advantage of that, but governmental economic planning can help fix that.
+### Your financial choices aren’t rational and businesses take advantage of that, but governmental economic planning can help fix that
 
 In the late 90s, two economists named Robert Merton and Myron Scholes received the Nobel Prize for their work. Centering around the idea that people always make rational financial choices, they began applying their theories in the real world. Rather than making it big, however, these two ended up broke.
 
@@ -32,7 +32,7 @@ If the government were to step in and limit economic choices, we could make bett
 
 ## Lesson 2
 
-### Despite fears of governmental economic planning, implementing it the right way can be wildly beneficial.
+### Despite fears of governmental economic planning, implementing it the right way can be wildly beneficial
 
 The big question on everyone’s minds with this issue is whether or not the government should interfere with the economy. While a free-market economist might tell you no, they’d likely cite the failure of this pattern in the Soviet Bloc. You might hear that because it failed there, it will fail everywhere else, too. But that’s not the case.
 
@@ -44,7 +44,7 @@ Even in the United States, the government has already guided the market in the p
 
 ## Lesson 3
 
-### Capitalism isn’t such a bad thing, it’s how we apply it to our world that causes problems.
+### Capitalism isn’t such a bad thing, it’s how we apply it to our world that causes problems
 
 There are good and bad things about the current way we view the economy. Capitalism certainly has its benefits. The profit motive, or people’s desire to make money, drives people to innovate and create new inventions that make society better. Additionally, capitalism helps regulate the economy by making sure we have enough plumbers and not too many rock stars.
 

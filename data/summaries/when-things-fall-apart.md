@@ -20,7 +20,7 @@ Are you ready to get some help through the challenges you’re going through? Le
 
 ## Lesson 1
 
-### You can only understand and work through fear once you stop resisting it and instead learn how to embrace it.
+### You can only understand and work through fear once you stop resisting it and instead learn how to embrace it
 
 What’s your first reaction when you get scared? You want to run away, right? This is a natural response and justified in some circumstances. But depending on where you’re at, welcoming and learning from your fear can help you.
 
@@ -38,7 +38,7 @@ Their worry was unwarranted, however. Not long afterward the army came through t
 
 ## Lesson 2
 
-### Question your hopes and fears if you want to be rid of constant dissatisfaction.
+### Question your hopes and fears if you want to be rid of constant dissatisfaction
 
 In *The Dark Knight Rises*, the villain Bane gives us a truth about life that we don’t want to think about. “There can be no true despair without hope,” he tells Batman after breaking his back and putting him into prison.
 
@@ -56,7 +56,7 @@ Speaking of getting old, death is one of the most universal fears that we all li
 
 ## Lesson 3
 
-### Examine the truths of impermanence, suffering, and egolessness if you want to have more meaning in your life.
+### Examine the truths of impermanence, suffering, and egolessness if you want to have more meaning in your life
 
 Trying to figure out the purpose of life is difficult. But there are some truths about living that are inevitable. And by learning and even celebrating them, you can prepare yourself to handle difficult situations better.
 
@@ -73,7 +73,5 @@ The third unavoidable truth of life to embrace is egolessness. Let go of your ne
 ## Review
 
 I enjoyed *When Things Fall Apart* and I’m certain that you will too. Having already used some of these techniques myself, I know that they work. Life is not always going to be easy, but this book will make getting through the tough times you will have a little less difficult!
-
-## Who it’s for
 
 The 54-year-old whose parents both recently died of COVID-19, the 31-year-old employee that feels burnt out and like there’s no end to the stress, and anyone that’s ever been through a setback in life.

@@ -20,7 +20,7 @@ Here are 3 things that I learned about winners from this book:
 
 ## Lesson 1
 
-### Set a massive goal that fills you with fiery energy, stop at almost nothing to make it happen, and you will become a winner.
+### Set a massive goal that fills you with fiery energy, stop at almost nothing to make it happen, and you will become a winner
 
 These days getting your dream job might seem impossible. So many companies require loads of experience for even entry-level positions. To make things worse, there always seem to be dozens of other candidates that are way more qualified than you regardless of the position.
 
@@ -56,7 +56,7 @@ Last, don’t allow poor performance as it undermines the culture of high-perfor
 
 ## Lesson 3
 
-### The process of becoming a champion holds far more rewards than crossing the finish line does.
+### The process of becoming a champion holds far more rewards than crossing the finish line does
 
 One time in high school I got an essay question on an exam that asked me if accomplishing a goal or working toward it feels better. I felt stumped, but as I wrote about my experience trying out for the basketball team, I discovered something important about life.
 
@@ -75,7 +75,5 @@ In the end, your relationships and the difficulties you overcome to rise to the 
 ## Review
 
 Wow, *Winners Dream* is a really inspiring book! I always enjoy a good rags to riches story and this one didn’t disappoint. The amazing thing about this one also was that it gives great advice for both people who want to succeed in working for someone else and who want to venture out on their own.
-
-## Who it’s for
 
 The 23-year-old who is doing summer sales and wants to make it big, the 47-year-old who has a shot at becoming CEO but needs to let go of some limiting beliefs, and anyone that wants some inspiration to get up and make their career dreams happen!

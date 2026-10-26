@@ -22,7 +22,7 @@ Let’s discover our dream health!
 
 ## Lesson 1
 
-### Mind food sizes when eating out, embrace cooking convenience at home.
+### Mind food sizes when eating out, embrace cooking convenience at home
 
 My fiancée and I both have full-time jobs. Whenever one of us cooks, we make enough for two meals. Sometimes, that means we have to pace ourselves: “Alright, let’s not devour yet another plate of Carbonara and keep some for tomorrow.” Meanwhile, when we order takeout, we often splurge. “Let’s get the big one! It’s just a few bucks extra!”
 
@@ -34,7 +34,7 @@ Meanwhile, cooking at home could be easier, Kaki suggests. “Broccoli made in t
 
 ## Lesson 2
 
-### When it comes to exercise, follow whatever routine you can easily maintain.
+### When it comes to exercise, follow whatever routine you can easily maintain
 
 “Embed what fits,” Kaki suggests when it comes to working out. “Impactful exercise doesn’t require intense exertion, sweating, or hours logged outside of our usual routine.”
 
@@ -48,7 +48,7 @@ Whatever you choose to do, start small and manageable. “Exercise is not an all
 
 ## Lesson 3
 
-### A surprising way to get more rest is to care for your surroundings.
+### A surprising way to get more rest is to care for your surroundings
 
 “The Japanese character for rest is the combination of ‘person’ and ‘tree,'” Kaki explains. It shows that, more than just sleep, rest is “about being in a safe place, somewhere we can feel peace.” In order to find those places, we must care for our surroundings, she suggests.
 

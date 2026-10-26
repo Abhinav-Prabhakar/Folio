@@ -18,7 +18,7 @@ I’ve known I’m an Upholder for two years now, and it’s made all the differ
 
 ## Lesson 1
 
-### The four tendencies are Upholders, Questioners, Obligers and Rebels.
+### The four tendencies are Upholders, Questioners, Obligers and Rebels
 
 When we’re babies, no one expects us to do anything. Our parents celebrate it when we eat, clap when we poop and let out a huge sigh of relief when we finally fall asleep. As we grow up, this changes fast. It starts with “clean your room,” soon turns to “you need to contribute to the household” and ends with “you have to take care of yourself now.” Most of us aren’t ready for all the expectations the world piles onto us, let alone the internal ones we have of ourselves that add to the pressure.
 
@@ -35,7 +35,7 @@ Now that you know the basics, let’s look at the biggest and toughest group in 
 
 ## Lesson 2
 
-### Obligers are the biggest and hardest group to be in.
+### Obligers are the biggest and hardest group to be in
 
 Over 700,000 people have taken Gretchen’s quiz that reveals their tendency. The largest group are Obligers. This comes as no surprise when you consider that the entire education system of the Western world has been geared towards producing compliant workers for the past 100 years.
 
@@ -45,7 +45,7 @@ That’s why they also benefit from knowing their own tendency the most. Also, i
 
 ## Lesson 3
 
-### Don’t box yourself in with this framework, use it to understand your own behavior better.
+### Don’t box yourself in with this framework, use it to understand your own behavior better
 
 It’s easy to get carried away with personality types like these, but that’s dangerous. When you chisel your tendency in stone you might accept it, but you’ll also turn it into an excuse and stop believing that you can change. But that’s not the point of this exercise.
 
@@ -58,7 +58,5 @@ After all, she originally presented it in a book that was meant to make your lif
 ## Review
 
 I’m really glad Gretchen doubled down on this idea, as I too would agree it was one of the best aspects of her previous book. After I learned I’m an Upholder, I made a more conscious effort to not overload myself with rules and let go of habits when they become too rigid. I’m more calm, peaceful and relaxed as a result. A great foray into human behavior, big respect for Mrs. Rubin.
-
-## Who it’s for
 
 The 29 year old young professional, who’s already frustrated by her lack of time for herself from her first proper job, the 47 year old team leader, who must manage lots of expectations, and anyone who’s interested in human psychology and behavior.

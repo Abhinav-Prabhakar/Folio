@@ -24,11 +24,9 @@ Let’s look at the following 3 in more detail:
 
 Time to learn how to become highly effective both at work and in life!
 
-### The 7 Habits of Highly Effective People Summary
-
 ## Lesson 1
 
-### Do the funeral test.
+### Do the funeral test
 
 This is the habit that Covey calls “Begin with the End in Mind”. He issues a warning that plowing away and getting a massive amount of tasks done in a preferably short time (i.e. being efficient) is only useful when you’re plowing in the right direction.
 
@@ -50,7 +48,7 @@ Truthfully answering those questions will make you realize you might not want th
 
 ## Lesson 2
 
-### Learn how to say no.
+### Learn how to say no
 
 Knowing exactly where you want to go makes it easy to find out what’s important to you, and what not. When you know your final goal, you’ll at least have an inclination for each to-do on how important it actually is.
 
@@ -62,7 +60,7 @@ I’ve tried to learn from Derek Sivers in this regard, who says it’s either a
 
 ## Lesson 3
 
-### Practice active listening.
+### Practice active listening
 
 The good thing about saying no to doing a lot of things is being able to spend a lot more time actually listening to others. Active listening is part of our “Coaching 101” on coach.me, and it is a 3-pronged approach to communication:
 
@@ -81,7 +79,5 @@ Just like you get suspicious of your doctor when he prescribes you hefty antibio
 *The 7 Habits of Highly Effective People* is an absolute classic. It’s not a step-by-step how-to book, however. The lessons will take you a while to implement since they are general principles. But that also means they’re timeless and have a powerful impact once you manage to do so.
 
 Stephen Covey could have been Tim Ferriss’s grandfather, the message is conveyed differently but remains the same. Whatever you do, be effective, not efficient.
-
-## Who it’s for
 
 The 18 year old, who’s considering a career she probably won’t like, but that will make her a lot of money, the 53 year old, who wants to make the jump to becoming a coach for the second half of his career, and anyone who struggles with saying no.

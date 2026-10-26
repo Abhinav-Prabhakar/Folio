@@ -18,7 +18,7 @@ Ready to discover some of your strengths? Here we go!
 
 ## Lesson 1
 
-### Exaggerate your strengths instead of fixing your flaws.
+### Exaggerate your strengths instead of fixing your flaws
 
 This point wasn’t particularly outlined in a specific blink, but I thought it’s definitely worth emphasizing again. Yes, we all have bad habits we want to break, and sometimes, this is necessary. But more often than now, we spend way too much time ironing out the wrinkles in our shirts and fixing every little chink in our armor, instead of doing what we’re *already* good at.
 
@@ -30,7 +30,7 @@ Tom identified 34 characteristic strengths and in the book helps you match yours
 
 ## Lesson 2
 
-### Believers and Futurists make for great co-founders.
+### Believers and Futurists make for great co-founders
 
 Of course I can’t outline all 34 strengths here (neither do the blinks), but we can at least take a peek at some of the most important ones. Let’s start with Believers.
 
@@ -44,7 +44,7 @@ When a Believer comes up with an idealistic idea for a business, a Futurist can 
 
 ## Lesson 3
 
-### If you seek strong social bonds, you might be a Harmonizer or a Responsible.
+### If you seek strong social bonds, you might be a Harmonizer or a Responsible
 
 Two more characteristic strength types are Harmonizers and Responsibles. They’re similar, but differ in one key aspect: the way they strive to attain social recognition.
 
@@ -55,7 +55,5 @@ If you’re not a Harmonizer, but it’s still important to you to have a good r
 ## Review
 
 This summary did a perfect job, because now I’m incredibly curious as to what the other 20-something types of strengths are and of course makes me want to take a test (which is in the book) to figure out my own. A book I’ll get really soon after reading this set of blinks. If you want to explore a few more types before deciding, check out the summary, if not, just get *Strengthsfinder 2.0*.
-
-## Who it’s for
 
 The 23 year old on the verge of starting a career, the 40 year old mother with a side job, that forces her to face her weaknesses a lot, and anyone who’s never taken a personality test before.

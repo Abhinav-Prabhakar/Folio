@@ -20,7 +20,7 @@ Ready to raise financially literate children? Let’s make them the opposite of 
 
 ## Lesson 1
 
-### Of the four things that spoil kids, most aren’t about money.
+### Of the four things that spoil kids, most aren’t about money
 
 What’s the most annoying thing about young people and teenagers today? Come on, you can say it, I won’t be mad. Would you say it’s that they’re stupid? Disrespectful? Egoistic? The most common answer to that question wraps up all of them into one: they’re spoiled.
 
@@ -41,7 +41,7 @@ So how can you avoid these with your own children?
 
 ## Lesson 2
 
-### Never make money a taboo topic, always lead an honest, open dialogue about it with your kids.
+### Never make money a taboo topic, always lead an honest, open dialogue about it with your kids
 
 First of all by not sweeping the topic of money under the rug altogether. One of the great things of doing something online is that it teaches you the value of transparency. I wouldn’t mind sharing any of the financial details of my life, in fact, I often have.
 
@@ -53,7 +53,7 @@ An especially helpful exercise is to **ask your kids to guess the value of somet
 
 ## Lesson 3
 
-### Teach your kids the value of earning money by letting them take a job.
+### Teach your kids the value of earning money by letting them take a job
 
 Hundred years ago life as a child was pretty shitty. The second you were old enough to hold things, you had to put your arms to use, help on the farm, around the house, or worse, work grueling hours in a factory.
 
@@ -68,7 +68,5 @@ One caveat though: **you can’t just pay your kids for doing chores**. These ar
 ## Review
 
 As I said above, I really think we need *The Opposite Of Spoiled* today more than ever. Whether you have kids already or not, this’ll help set them up for a successful financial life – an absolutely crucial skill!
-
-## Who it’s for
 
 The 22 year old college student, who knows she’s not good with money, but too embarrassed to admit it, the successful 44 year old entrepreneur, who thinks his kids shouldn’t have to suffer from a lack of money, like he did, and anyone who doesn’t like talking about how much they earn.

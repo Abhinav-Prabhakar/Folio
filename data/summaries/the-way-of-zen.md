@@ -20,7 +20,7 @@ Sit down, relax, and let’s discover the ways of this ancient philosophy!
 
 ## Lesson 1
 
-### Zen allows you to see clearly the illusions that your mind creates.
+### Zen allows you to see clearly the illusions that your mind creates
 
 You want to be happy, of course, and it’s likely your ultimate goal in life. But have you ever thought about what you would do if you ever got it?
 
@@ -36,7 +36,7 @@ Another way to understand it is to look at the connection between your mind and 
 
 ## Lesson 2
 
-### The art of Zen requires naturalness and spontaneity.
+### The art of Zen requires naturalness and spontaneity
 
 According to this ancient philosophy, we needn’t try to become anything specific. In other words, it’s all about letting yourself be aimless. Doing nothing is encouraged, for example.
 
@@ -54,7 +54,7 @@ While this might confuse Westerners or any ordinary person, this man’s answer 
 
 ## Lesson 3
 
-### If you want to become good at meditation, observe the world just as it is.
+### If you want to become good at meditation, observe the world just as it is
 
 Maybe you’ve recently tried meditation. What would you say your goal is when you sit down to do it? Maybe you want to understand something difficult, get some peace, or clear your head. To Zen believers, setting any goal when meditating is a bad idea.
 
@@ -71,7 +71,5 @@ Rather than focusing on the breath or anything else, Zen meditation is more abou
 ## Review
 
 I liked the latter, more actionable parts of *The Way Of Zen* better than the first, more historical portion. However, the whole book was as enlightening as the topic itself! This is one that I think all Westerners should read to begin challenging, and also improving, their view on the world.
-
-## Who it’s for
 
 The 54-year-old who thinks that he has a good understanding of what Zen means but doesn’t actually know anything about its history, the 25-year-old who would like to have more peace, and anyone that’s curious to know about the benefits of Eastern philosophy.

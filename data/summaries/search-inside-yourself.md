@@ -22,11 +22,11 @@ Now let’s begin the most important work there is: the one of searching inside 
 
 ## Lesson 1
 
-### The impact of emotional intelligence on work is tremendous.
+### The impact of emotional intelligence on work is tremendous
 
 Emotional and professional lives may seem to have little in common. But when we really understand what emotional intelligence is, the impact it has on our work becomes quite obvious.
 
-**Emotional intelligence can be defined as awareness of your own, as well as other people’s feelings– and the ability to use that awareness to guide your behaviors and thoughts.** Howard Gardner, who first proposed the theory of multiple intelligences, would describe it as the fusion of the interpersonal and intrapersonal intelligence.
+**Emotional intelligence can be defined as awareness of your own, as well as other people’s feelings – and the ability to use that awareness to guide your behaviors and thoughts.** Howard Gardner, who first proposed the theory of multiple intelligences, would describe it as the fusion of the interpersonal and intrapersonal intelligence.
 
 According to Daniel Goleman, the author of *Emotional Intelligence*, it consists of five important elements:
 
@@ -46,7 +46,7 @@ All of that sounds great. But what is the practical way to develop these aspects
 
 ## Lesson 2
 
-### Meditation improves self-awareness and how you manage your attention.
+### Meditation improves self-awareness and how you manage your attention
 
 Tan sees the development of emotional intelligence as a three-step process. First, you need to master the intentional directing of your attention. This allows you to notice more thoughts and feelings and enriches self-knowledge. Finally, if you gain enough insight into your own mind, you are able to establish mental habits that benefit you – and your work – in the long run.
 
@@ -60,11 +60,11 @@ This shows that once we become aware of our internal state, we are no longer dri
 
 ## Lesson 3
 
-### There are three main sources of work-related happiness.
+### There are three main sources of work-related happiness
 
 For many decades, employers used to think that the best ways to motivate employees were external rewards – such as pay rises or company benefits. But with a consistent observation of the modern workplace backed up by insights from motivational psychology, we can now confidently state that this is not the case.
 
-Tony Hsieh, the CEO of Zappos, has built his company around happiness. **He believes thatall job-related happiness comes from three main sources:**
+Tony Hsieh, the CEO of Zappos, has built his company around happiness. **He believes that all job-related happiness comes from three main sources:**
 
 - **Pleasure**, which comes from external acknowledgments of your work, such as a special mention from your boss or bonus pay. It is founded on the same mechanism as our instinctive chase for instant gratification and it is, therefore, short-lived.
 - **Passion** or the satisfaction that comes from being fully immersed in your work – what you may call a state of flow. Compared to pleasure, passion is a much more sustainable way to enjoy your work.
@@ -75,7 +75,5 @@ All this goes to show that, good money and benefits or not, true happiness alway
 ## Review
 
 *Search Inside Yourself* is a practical guide on how to manage yourself at work – as well as how to create a better working culture of tomorrow. It is an important voice that encourages the much-needed shift in how we approach success and personal achievement. This book will help you redirect your focus from the external events and to the inner landscape of your mind.
-
-## Who it’s for
 
 The 30-year old online influencer who wants to saturate their work with meaning on a regular basis, the 52-year old executive director who needs to increase their department’s output without exploiting the employees, and any leader who’d rather *care* for their people than *manage* them.

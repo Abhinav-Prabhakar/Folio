@@ -20,7 +20,7 @@ Here’s to becoming your best self! Let’s dive right in!
 
 ## Lesson 1
 
-### Start defining the best version of yourself to take the first step toward reaching your full potential.
+### Start defining the best version of yourself to take the first step toward reaching your full potential
 
 Do you ever think about how astronomically unique you are? Nobody else has your exact experiences, thoughts, and traits. Some may come close, but your life is yours and no-one will ever be like you again.
 
@@ -38,7 +38,7 @@ Write all of your positive traits on a piece of paper. I like asking other peopl
 
 ## Lesson 2
 
-### Annihilate the fear that holds you back with the power of honesty.
+### Annihilate the fear that holds you back with the power of honesty
 
 You’re going to have to beat obstacles on your journey to reaching your full potential, and the greatest of all of them is fear. But your weapon against this is being honest with yourself.
 
@@ -58,7 +58,7 @@ To turn your mind to solving the problems in your way, complete the following st
 
 ## Lesson 3
 
-### You will be the best at taking care of others when you’re good at taking care of yourself first.
+### You will be the best at taking care of others when you’re good at taking care of yourself first
 
 If you want to reach your full potential, you need to serve others. But you can’t get there if you’re not serving your own needs well enough first. Without proper self-care, you can’t have the emotional or physical energy required.
 
@@ -75,7 +75,5 @@ Additionally, finding some passions will help you balance your life. It’s easy
 ## Review
 
 Wow, this book really got me pumped up! *Best Self* is just the kind of book that I’ve been needing to motivate me to push myself a little harder. One reason I love it so much and think you will too is that its advice will help you get good at balancing self-discipline with self-compassion.
-
-## Who it’s for
 
 The 52-year-old that’s tired of living small and wants more meaning in their life, the 21-year-old college student that wants to figure out how to have a life that they’re happy with, and anyone that wants to improve themselves.

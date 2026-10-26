@@ -31,7 +31,7 @@ I bet you’ll learn something new about statistics in the next 4 minutes! Let�
 
 ## Lesson 1
 
-### Watch out for statistics that invoke a strong emotion and learn when you should trust your own experience or a statistic.
+### Watch out for statistics that invoke a strong emotion and learn when you should trust your own experience or a statistic
 
 Statistics fool us when they stir our emotions. Political poll data, for example, might easily make our blood boil. When we are emotional and information doesn’t fit with our existing beliefs, we tend to ignore it. When it *does* fit in with our narrative, we like to use it as evidence. Even experts aren’t immune to this.
 
@@ -45,7 +45,7 @@ On the other hand, statistics can be skewed in certain settings, like performanc
 
 ## Lesson 2
 
-### Considering what a statistic is really measuring and finding context can help us better understand information.
+### Considering what a statistic is really measuring and finding context can help us better understand information
 
 In the 2010s, the UK appeared to be experiencing an infant mortality crisis. What’s more, rates of death varied widely depending on where you lived. It turned out the reason for this variation was because the definition of “early death” was different in different regions. Some places considered a baby born at 22 or 23 weeks to be a miscarriage and some considered it a live birth followed by early death.
 
@@ -59,7 +59,7 @@ Plus, none of this means London is a crime-ridden, gang-infested city. Both citi
 
 ## Lesson 3
 
-### Statistics may not all apply to everyone equally.
+### Statistics may not all apply to everyone equally
 
 Do you ever feel pressured to be like the people around you? Almost all of us do to some extent. In one study by psychologist Solomon Asch, he showed subjects two images of three lines of different lengths. One of the lines was the reference line and the participants just had to say which one of the other two was the same length as the reference line.
 
@@ -74,7 +74,5 @@ This is why it’s important when you encounter data to ask: Who might have been
 ## Review
 
 Statistics is so cool! *The Data Detective* is one of the most important books on this subject because of how badly people misuse it. I think statistics can do a lot of good, however, if we can simply learn to be curious about the data we pay attention to and believe.
-
-## Who it’s for
 
 The 41-year-old know-it-all who wants to become more self-aware, the 22-year-old that loves to learn, and anyone who thinks they can trust every statistic they hear.

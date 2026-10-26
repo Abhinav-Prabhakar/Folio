@@ -66,6 +66,4 @@ The final argument of this book is that the only difference between successful p
 
 *The Magic of Thinking Big* asserts that creative thinking is the driving force behind success. This is an idea I’ve seen in many books now, but this one rounds up a broad collection of thoughts on the topic really well. Recommended!
 
-## Who it’s for
-
 The 13-year-old teenager who is about to take a “what work is right for you” test, the 34-year-old friend who just suffered a major setback, and anyone who spends the majority of their time complaining.

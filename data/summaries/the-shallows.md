@@ -18,7 +18,7 @@ Ready to explore these lessons in detail with me? If so, let’s start with the 
 
 ## Lesson 1
 
-### Your ability to concentrate and stay focused diminishes as you use the internet.
+### Your ability to concentrate and stay focused diminishes as you use the internet
 
 Have you ever found yourself in a situation where you try to focus on a sure thing, maybe while reading or studying, but can’t stay focused for more than two minutes? If so, chances are your brain is affected by the internet. Are you confused? Let me break it down in simple terms!
 
@@ -30,7 +30,7 @@ Essentially, the constant exposure to the Internet and its nocive effects on the
 
 ## Lesson 2
 
-### Spending too much time online can lead to burnout and tiredness.
+### Spending too much time online can lead to burnout and tiredness
 
 Whenever we go online, the Internet presents us with a desirable place that keeps us hooked for minutes, if not hours at once. This space is tailored to our needs and wants, so why would you want to get out of it, right? Well, allow me to tell you why. If you feel that something is off with you and feel tired all the time, this may be the case.
 
@@ -42,7 +42,7 @@ It is beneficial for the brain to be away from virtual toxicity- getting bored, 
 
 ## Lesson 3
 
-### The remedy to internet addiction is unstructured time spent in nature.
+### The remedy to internet addiction is unstructured time spent in nature
 
 A brain that’s overwhelmed with information and is constantly exposed to new sources of distress can only take you so far. An overwhelmed mind will most likely feel tired all the time. The remedy? Going back to your roots, or spending more time in nature. Allowing yourself to elope in the natural world and spend some time disconnected from the Internet will cure your burnout.
 
@@ -55,7 +55,5 @@ Researchers and philosophers worldwide have advocated for this natural remedy fo
 ## Review
 
 *The Shallows* delves into the controversial subject of the Internet and its detrimental effects on our physical and mental health. While we live our lives on the web, our brain is changing its neurological structure for the worse, leaving us stressed, anxious, tired, and without the ability to focus and retain information. The book highlights the toxic environment that the Internet provides for us and explores the remedies and ways out of the virtual hook.
-
-## Who it’s for
 
 The 20-year-old person addicted to their cellphone is looking for ways to ditch their social media addiction. This is for the 30-year-old concerned parent who wants to take charge of their children’s time spent online. Lastly, the 40-year-old psychologist or neuroscientist is interested in the effects of the Internet on the human brain.

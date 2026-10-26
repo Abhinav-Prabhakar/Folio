@@ -20,7 +20,7 @@ Feeling freaky already? Let’s unleash your inner rebel!
 
 ## Lesson 1
 
-### Embrace your inner freak, because standing out is always better than fitting in.
+### Embrace your inner freak, because standing out is always better than fitting in
 
 The very first step towards unleashing your inner freak is to accept that you have one. If you don’t like yourself with all your quirks and awkward traits, no one else will either. Freak in this sense doesn’t mean that all you do is look weird. That may be the case, but it doesn’t have to be.
 
@@ -34,7 +34,7 @@ Plus, no gatekeepers. Zero. You can publish a book, host a TV show, start a podc
 
 ## Lesson 2
 
-### When you can overcome personal problems (which you can), you can overcome business problems too.
+### When you can overcome personal problems (which you can), you can overcome business problems too
 
 I’m sure you’ve overcome one or the other personal problem in your life, right? Like getting over a tough break-up, fixing your kid’s mobbing issues in school or dealing with a shitty co-worker.
 
@@ -48,7 +48,7 @@ Oh and by the way, quitting is a legitimate strategy too. Sometimes things are j
 
 ## Lesson 3
 
-### Use media to build content, a community, and a marketplace for your business to thrive.
+### Use media to build content, a community, and a marketplace for your business to thrive
 
 So what do you do to get your inner freak out into the world? Simple: You use the media available to you. As the word suggests, media function as a mediator for you to get your story across to others. Chris says **good media are like a campfire that you and your tribe can sit around** and then talk to each other to share ideas and experiences.
 
@@ -65,7 +65,5 @@ That’s all I’ve got for today, except: What are you waiting for? Get out the
 *The Freaks Shall Inherit The Earth* is a very cool call to action, because it doesn’t tell you to do something specific (aka follow this template I’m giving you), but to do what’s right for *you*. It’s like a kick in the butt with the perfect sized shoe – hurts enough to get going, but not so much that you already dread starting.
 
 If you’ve been procrastinating on getting yourself out there, this is for you.
-
-## Who it’s for
 
 The 23 year old computer nerd, who got a boring job, because he thought he was too weird to be accepted for anything exceptional, the 37 year old, who always plays matchmaker for her friends, but thinks she’s bad at business, and anyone who isn’t building a platform online yet.

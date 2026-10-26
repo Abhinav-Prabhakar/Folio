@@ -22,7 +22,7 @@ Put on some gloves because we’re about to get dirty with a dive into US politi
 
 ## Lesson 1
 
-### The ultra-wealthy control the political system anonymously because of the network of nonprofits set up by the Koch brothers.
+### The ultra-wealthy control the political system anonymously because of the network of nonprofits set up by the Koch brothers
 
 The Koch brothers grew up with a father who influenced them with his libertarian political views. This included ideas like keeping the government small, having low taxes, and maintaining the free market, just to name a few.
 
@@ -38,7 +38,7 @@ As of 2013, the brothers had control of 100,000 of these secret organizations. A
 
 ## Lesson 2
 
-### Not all political movements are as “grassroots” as you might think.
+### Not all political movements are as “grassroots” as you might think
 
 Prior to 2009, much of the Koch brother’s work was focused solely on preparing for a political movement. But once it was all ready, they unleashed their quiet influence.
 
@@ -54,7 +54,7 @@ Even parts of the media fanned the flame of their movement. One exchange between
 
 ## Lesson 3
 
-### The people are dangerously close to losing control over America because it’s slipping into the hands of the rich.
+### The people are dangerously close to losing control over America because it’s slipping into the hands of the rich
 
 We love the idea of the American Dream, that anyone from any background can reach their dreams. But according to the author, the Koch brothers have made economic inequality worse. This makes it harder for “anyone” to make their dreams happen.
 
@@ -71,7 +71,5 @@ This is a slap in the face to the widely-believed democracy that the US is typic
 ## Review
 
 *Dark Money* isn’t that great to be completely honest. For one, I really didn’t like feeling like they were lumping entire groups with these greedy selfish jerks. But also the awfulness of what they’ve done and are doing is unbelievable and makes me wonder how much of an agenda the author has. There are always two sides to every story, and this looks to be only one side.
-
-## Who it’s for
 
 The 61-year-old who loves politics, the 22-year-old who is in a political science class and thinks they might want to major in the subject, and anybody that doesn’t believe that politicians are corrupt.

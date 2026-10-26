@@ -22,7 +22,7 @@ On average, it takes 4 minutes to see that averages are stupid – but who cares
 
 ## Lesson 1
 
-### Good luck with building something for the “average human body,” because such a thing doesn’t exist.
+### Good luck with building something for the “average human body,” because such a thing doesn’t exist
 
 If I asked you to describe Brad Pitt’s appearance in one word, how would you respond? It’s impossible, right? Not just for Brad Pitt, but for anyone. I mean, how many anatomic features can you possibly highlight with one word? Tall just describes height, big usually refers to weight, blonde to hair color, and handsome, well, that couldn’t be more subjective, could it?
 
@@ -38,7 +38,7 @@ So if you’ve ever thought “how can I get this to fit the average” about so
 
 ## Lesson 2
 
-### Who you are is totally unrelated to how you learn, which means there is absolutely no average career path you can follow.
+### Who you are is totally unrelated to how you learn, which means there is absolutely no average career path you can follow
 
 There’s a phenomenon called the Flynn effect, which describes that on average, IQ scores have risen by 3 points per decade. What does that tell you? Nothing, except that we’ve been getting better at filling out IQ tests. The upwards trend is the interesting part, not the average of the increase.
 
@@ -50,7 +50,7 @@ But if there is no one right or wrong way to learn something, then **there’s a
 
 ## Lesson 3
 
-### Companies and people must learn to embrace human individualism, because our behavior is fluid, not fixed.
+### Companies and people must learn to embrace human individualism, because our behavior is fluid, not fixed
 
 One thing I’ve learned about online marketing is that your content must always fit the context of the platform. For example, many people use Twitter to just post links to their blog posts, but that’s not what it’s for. It’s supposed to deliver a message in 140 characters or less – that could be a wise line of thought, a joke or even something newsworthy, but if it’s just a link to an article, it’s nothing more than an ad.
 
@@ -65,7 +65,5 @@ That’s why companies like Facebook, Google and Microsoft spend millions of dol
 ## Review
 
 I have written myself out of space to write a proper review. This rarely happens, but it already tells you everything you need to know. Go, get *The End Of Average*!
-
-## Who it’s for
 
 The 21 year old college student, who thinks an internship at a big consulting company would really “round out” her resumé, the 28 year old bodybuilder, who wants to win his next fitness competition, and anyone who builds something that a human must physically fit into.

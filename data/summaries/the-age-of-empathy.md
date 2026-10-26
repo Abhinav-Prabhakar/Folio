@@ -10,7 +10,7 @@ I bet you won’t get consensus among the group. If you’re more of an optimist
 
 But what’s the truth? Is caring for our fellow humans something that comes naturally to us? Turn on any news feed, and it seems unlikely. However, biology and science to show that living in peace, harmony, and helping one another are inherent human traits.
 
-Frans De Waal’s book, *Age of Empathy: Nature’s Lessons for a Kinder Society* *,* explains the innate instincts that reside within us all and why, like most animals, we’re kind and friendly at heart.
+Frans De Waal’s book, *Age of Empathy: Nature’s Lessons for a Kinder Society* , explains the innate instincts that reside within us all and why, like most animals, we’re kind and friendly at heart.
 
 Here are 3 lessons that support the theory that we are empathetic beings:
 
@@ -22,7 +22,7 @@ Let’s look at De Waal‘s theories we might otherwise not have considered and 
 
 ## Lesson 1
 
-### Violence and war haven’t always been part of the human experience.
+### Violence and war haven’t always been part of the human experience
 
 Winston Churchill once remarked, “The story of the human race is war.” **Upon closer observation of human history, you will find long stretches of peacetime and harmony, while the periods of war and violence are brief.**
 
@@ -32,7 +32,7 @@ Our ancient ancestors were constantly at risk for extinction. They lived in smal
 
 ## Lesson 2
 
-### Synchrony and herd instinct play vital roles in the bonding that humans and animals experience.
+### Synchrony and herd instinct play vital roles in the bonding that humans and animals experience
 
 Have you ever noticed how contagious the act of yawning is among people? Often, the mere mention of the function is enough to elicit the response. This is known as unconscious synchrony, more commonly known as the “herd instinct.” It’s not only a term that applies to humans but is also evident in animal behavior.
 
@@ -44,7 +44,7 @@ Interestingly, experiments in social behavior indicate that synchrony even plays
 
 ## Lesson 3
 
-### Empathy and cooperation come naturally to us and are the reason we’re here today.
+### Empathy and cooperation come naturally to us and are the reason we’re here today
 
 Have you ever given someone a helping hand? Of course, you have, and I bet it didn’t require any special conditioning to do so. **The truth is we likely wouldn’t be here if our default disposition were to be insensitive and uncompassionate to our fellow humans.**
 
@@ -58,8 +58,6 @@ Unless you have some psychopathic tendencies and are incapable of feeling compas
 
 ## Review
 
-*The* *Age of Empathy* is interesting because it provides some fresh food for thought. When you consider our human origins, it doesn’t matter if you’re coming from an evolutionary, creationist, or intelligent design worldview. There’s no escaping the fact that in any scenario, we had to survive, help each other, and adapt together to get where we are today. This book really got me to observe people a bit closer for a while.
-
-## Who it’s for
+*The Age of Empathy* is interesting because it provides some fresh food for thought. When you consider our human origins, it doesn’t matter if you’re coming from an evolutionary, creationist, or intelligent design worldview. There’s no escaping the fact that in any scenario, we had to survive, help each other, and adapt together to get where we are today. This book really got me to observe people a bit closer for a while.
 
 The 38-year-old car salesman who is feeling like he needs to do something more meaningful for people, a 45-year-old bible scholar who wants to explore origins from the evolutionary perspective, and anyone wishing to make their corner of the world a little bit happier.

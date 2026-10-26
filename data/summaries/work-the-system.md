@@ -18,7 +18,7 @@ Ready to oil the machinery? Let’s go!
 
 ## Lesson 1
 
-### The world runs on systems, and they work in spite of humans, not because of us.
+### The world runs on systems, and they work in spite of humans, not because of us
 
 Do you sometimes feel like the captain of a tiny sailboat, constantly being thrown around by winds, waves, storms, and other forces outside of your control?
 
@@ -48,7 +48,7 @@ That means to mess up less and make the most of the systems in your life, you fi
 
 ## Lesson 2
 
-### Start focusing on the systems you can control, and stop complaining about the ones you can’t.
+### Start focusing on the systems you can control, and stop complaining about the ones you can’t
 
 Now you might look around and say: “Yeah, yeah, that’s all fine, but there are so many systems I can’t control!”
 
@@ -74,7 +74,7 @@ But I sure can get up in the morning and write another summary.
 
 ## Lesson 3
 
-### Take a step back to analyze the systems in your life.
+### Take a step back to analyze the systems in your life
 
 The way to find out what you can and can’t control is to take a step back and look at the systems in your life from the outside.
 
@@ -93,7 +93,5 @@ Take some time to step back, **look at the systems in your life from outside**, 
 Just like *Start With Why* or *Choose Yourself*, this book takes a top-level approach and shoots to change your entire perspective, not just a single behavior. I really like that. That’s how profound change happens and you have a shot at true, clicking, aha-moments.
 
 The summary on Blinkist was quite short and I would’ve loved to go into more detail about how to apply the systems approach in business, but I guess you’ll have to find that out for yourself. Recommended read!
-
-## Who it’s for
 
 The 29 year old, who feels frustrated about not having control over a lot of things in her life, the 50 year old company CEO, who wants to streamline his business for growth, and anyone who knows they complain too much.

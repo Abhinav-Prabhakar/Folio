@@ -24,7 +24,7 @@ When you consider that most of our waking hours are spent working, why does it s
 
 ## Lesson 1
 
-### While a small percentage of people might be happy in bullshit jobs, most people are unfulfilled.
+### While a small percentage of people might be happy in bullshit jobs, most people are unfulfilled
 
 When I think about the term *bullshit jobs*, what immediately comes to my mind is the deceptive salespeople who frequently called our office, attempting to unload toner for our high speed printers.
 
@@ -36,13 +36,13 @@ How these people can go home at the end of the day, fulfilled in their work, whe
 
 The truth is, most of them probably are not happy with their job. Falsity is one thing, but what’s even worse is the total lack of purpose.
 
-**According to aYouGov polling survey, one quarter of Americans think their jobs are meaningless.**
+**According to a YouGov polling survey, one quarter of Americans think their jobs are meaningless.**
 
 There is plenty of real world experience to support this. Consider lottery winners who have no need to work yet feel an urge to do so in order to have some purpose.
 
 ## Lesson 2
 
-### There is strong evidence to support that politicians are actively colluding to maintain a proliferation of bullshit jobs.
+### There is strong evidence to support that politicians are actively colluding to maintain a proliferation of bullshit jobs
 
 According to the laws that govern basic economic principles, bullshit jobs shouldn’t even exist. Governments are known to be wasteful, so it seems logical that these types of jobs would be more common in the public sector. But in the private sector it makes no sense. Afterall, why would any business hire and pay people to do nothing?
 
@@ -56,7 +56,7 @@ Why? Because Simon’s program was efficient enough to automate the entire team 
 
 ## Lesson 3
 
-### Employee and employer power can be rebalanced with universal basic income.
+### Employee and employer power can be rebalanced with universal basic income
 
 If somehow we all had the financial freedom to completely avoid taking bullshit jobs that could work. And there actually exists a policy concept that might enable it.
 
@@ -73,7 +73,5 @@ Would the freedom to choose what we want to do solve all the problems of the wor
 ## Review
 
 *Bullshit Jobs* makes some interesting points and I enjoyed it. But what constitutes a bullshit job is not always as cut and dried as the author defines it. I think many fine jobs today have a lot of bullshit that goes along with them, but does that make it a bullshit job? If you don’t find your job fulfilling then you are the only person who can change that. And that change can come through attitude adjustment or making a move to pursue a more meaningful purpose for yourself.
-
-## Who it’s for
 
 The 30-year-old cost management administrator, the 41-year-old factory assembly worker, and anyone looking to dig their way out of a bullshit job role.

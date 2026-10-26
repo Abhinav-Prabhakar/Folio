@@ -20,7 +20,7 @@ Running a business is nowhere near easy, but with these three strategies, it bec
 
 ## Lesson 1
 
-### There are two core portfolios that a successful company should possess.
+### There are two core portfolios that a successful company should possess
 
 Essentially, a strong company must focus on a multitude of internal and external factors to build long-term success. **According to the author, this can be done through two core portfolios: The “explore portfolio” and the “exploit portfolio”.**
 
@@ -32,7 +32,7 @@ Nevertheless, both projects require different teams and a skilled workforce that
 
 ## Lesson 2
 
-### The explore portfolio needs to be under continuous surveillance to generate desired returns.
+### The explore portfolio needs to be under continuous surveillance to generate desired returns
 
 Explore projects are an essential part of any future growth strategy of a company. Although they can’t provide a guaranteed value for the company they are necessary for the long-term survival of any business **. Therefore, a good executive will acknowledge their nature and try to switch their focus on reducing uncertainty.**
 
@@ -44,7 +44,7 @@ A wise executive will allocate all the necessary resources to conduct such resea
 
 ## Lesson 3
 
-### The Business Model Canvas can help you improve your traditional business model overall.
+### The Business Model Canvas can help you improve your traditional business model overall
 
 The Business Model Canvas is a visualization method for companies who want to improve their model, cut on costs, increase efficiency, or get a better overall view of their organization. **This canvas has three main points of analysis: the front end, the back end, and the cost and revenue considerations.**
 
@@ -57,7 +57,5 @@ For example, a company may choose to re-revaluate their cost frame by cutting or
 ## Review
 
 The Invincible Company offers its readers an entire business course in the form of a book, due to the large variety of subjects it approaches. The author focuses on the importance of addressing all areas of a business, how to re-design an organization to keep up with the trends, how to improve a business model and many other areas of interest for any executive. Reading this book is a must if you are a decision maker in your company or own one of your own.
-
-## Who it’s for
 
 The 36-year-old project manager who wants to learn how to set a clear direction for the new projects they took over, the 40-year-old executive who wants to scale their business while maintaining revenue security, or the 50-year-old company owner who wants to adapt to new trends but doesn’t know where to start remodeling their business.

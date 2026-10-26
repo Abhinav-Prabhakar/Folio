@@ -20,7 +20,7 @@ Ready to learn the details behind the most surprising election outcome ever? Let
 
 ## Lesson 1
 
-### Clinton’s campaign suffered constantly because of the FBI investigation into her misuse of a personal email account.
+### Clinton’s campaign suffered constantly because of the FBI investigation into her misuse of a personal email account
 
 If you followed the news at all during this time, you probably heard at least something about Clinton’s email scandal. Basically, the whole thing stemmed from her use of a personal email server during her time as Secretary of State. This mistake was an obstacle throughout her campaign.
 
@@ -32,7 +32,7 @@ The drama further persisted when the DNC and Hillary’s campaign chairman would
 
 ## Lesson 2
 
-### Bernie Sanders posed a threat that everyone on Clinton’s team underestimated.
+### Bernie Sanders posed a threat that everyone on Clinton’s team underestimated
 
 The email scandal was a huge obstacle, but it wasn’t the only one the Clinton campaign would have to face. An even bigger challenge was 72-year-old Vermont senator Bernie Sanders. The authors likened Sanders to a Democratic equivalent of Donald Trump. They had both tapped into anti-establishment sentiments that were on the rise post 2008 recession.
 
@@ -44,7 +44,7 @@ On the one hand, she wanted Obama voters to support her, so she couldn’t just 
 
 ## Lesson 3
 
-### Hillary Clinton’s run for president couldn’t ever get off the ground partly due to struggles within her campaign team.
+### Hillary Clinton’s run for president couldn’t ever get off the ground partly due to struggles within her campaign team
 
 Unfortunately for Hillary, there weren’t just challenges from the outside, there were also internal struggles within her team. The team was rampant with infighting. People who seemed to care more about their own careers than winning Clinton the election.
 
@@ -59,7 +59,5 @@ In the end, we can learn a lot from Clinton’s shocking loss. There wasn’t an
 ## Review
 
 I don’t follow politics too closely but man was the 2016 election a surprise for everyone. It’s fascinating to get a look into the events leading up to that night. *Shattered* did a great job of helping me understand this better, and I think you’ll enjoy it!
-
-## Who it’s for
 
 The 35-year-old who cares about the future of their country, the 74-year-old with a neverending interest in politics, and anyone who wonders how in the world Hillary Clinton lost to Donald Trump in 2016.

@@ -24,7 +24,7 @@ Want to improve your food choices? Here we go!
 
 ## Lesson 1
 
-### It all started with corn.
+### It all started with corn
 
 In theory, corn is a great plant.
 
@@ -46,7 +46,7 @@ The excess corn is what lands in your food in the form of high fructose corn syr
 
 ## Lesson 2
 
-### Organic is not as clean as you think it is.
+### Organic is not as clean as you think it is
 
 Alright, alright, maybe you knew that already.
 
@@ -70,7 +70,7 @@ But what to do then?
 
 ## Lesson 3
 
-### If you buy locally, you win on all levels.
+### If you buy locally, you win on all levels
 
 Two words: **Buy. Locally.**
 
@@ -97,7 +97,5 @@ There are many more eye-opening, sometimes even horrific facts, in both the book
 The summary was very well structured, you could sense a common thread being woven well throughout, very good, especially considering the book looks at the problem from 4 different angles.
 
 Thumbs up!
-
-## Who it’s for
 
 The 17 year old who usually doesn’t look at food labels when she goes to the supermarket to buy her favorite cereal, the 27 year old millennial, who thinks he’s got it figured out by just buying organic, and anyone who buys at the local butchery or bakery in town less than once a week.

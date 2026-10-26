@@ -20,7 +20,7 @@ Now, let’s take a closer look at these lessons and see how we can benefit from
 
 ## Lesson 1
 
-### Notice the beauty of animals and connect with them to improve your mood.
+### Notice the beauty of animals and connect with them to improve your mood
 
 Animals are a God-given gift to our planet. Everything about them is remarkable if you allow yourself to notice it and immerse yourself in their beauty. As the author suggests, in order to reconnect with nature and your wild side, you must connect yourself to animals first.
 
@@ -34,7 +34,7 @@ Just look at all pet owners who consider their little animals like their family 
 
 ## Lesson 2
 
-### Humans and animals resemble each other in many ways.
+### Humans and animals resemble each other in many ways
 
 Rene Descartes was a French philosopher in the seventeenth century. Although he discovered some brilliant philosophical facts, he also came up with a rather disappointing concept – that animals were resources to exploit for the development of humans, and they exist to serve humans such as robots.
 
@@ -48,7 +48,7 @@ If we manage to once again let humans and animals coexist and contribute to each
 
 ## Lesson 3
 
-### Help the environment by protecting it on a micro-level.
+### Help the environment by protecting it on a micro-level
 
 Not all change has to be groundbreaking and monumental. Sometimes a small act of kindness and consideration can improve everything around us. Think of a bird that can get trapped in a plastic foil and die or a turtle that may get caught up in other types of residue.
 
@@ -67,7 +67,5 @@ This philosophy proves how a series of actions can dictate our quality of life o
 *Our Wild Calling* highlights the importance of having a connection with nature, animals, and all earthlings in general. By reconnecting with our roots in the natural world, something remarkable clicks in our brain, which in turn makes us feel less stressed, less anxious, and more grounded.
 
 This book will teach you how to observe the beauty of nature, recall your wild side, and connect with the world as it is – raw, healing, and eternal. Frankly, this is a must-read for every modern, busy human stuck in the digital era, and not only.
-
-## Who it’s for
 
 The 30-year-old office worker who feels like they’re spending too much time inside their walls, the 24-year-old person who wants to connect with nature on a deeper level, and anyone approaching retirement, which they’d like to use to spend more time outside.

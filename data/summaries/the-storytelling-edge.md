@@ -20,7 +20,7 @@ Let’s dive right into these great lessons on storytelling!
 
 ## Lesson 1
 
-### Stories have the power to make ideas stick in people’s minds.
+### Stories have the power to make ideas stick in people’s minds
 
 Jacques Prevert, a French poet, once crossed paths with a blind beggar many years ago. Discovering that the poor man wasn’t having much success, Jacques offered to re-write the sign the man was holding. Upon meeting two weeks later, the beggar happily exclaimed how his cup was now always full.
 
@@ -36,7 +36,7 @@ In the next image, you see a miserable, sickly man. This is the young man from b
 
 ## Lesson 2
 
-### If you favor fluency over complexity, your audience will receive your narratives better.
+### If you favor fluency over complexity, your audience will receive your narratives better
 
 Are you familiar with reading-level calculators? You put in a piece of work and the algorithm spits out how advanced it is to read. What would you imagine the results would be if you put in the work of a great writer like Ernest Hemingway or J.K. Rowling? Pretty intricate and high-level, right?
 
@@ -48,7 +48,7 @@ Take *Star Wars* for example. Editors of the earliest films in this saga made th
 
 ## Lesson 3
 
-### Publish with the create, connect, optimize pattern to make sure your content has a significant impact on your fans.
+### Publish with the create, connect, optimize pattern to make sure your content has a significant impact on your fans
 
 Let’s go back to Italy in the sixteenth-century. At odds with each other and wanting power, wealthy families began using gossip as a weapon. Writers used this opportunity to scan cities like Milan for juicy news that they would then compile and print on presses to post wherever they could. This is where the original mass media business, called avvisi, began.
 
@@ -67,7 +67,5 @@ Upworthy’s content came from notable articles or videos that didn’t get much
 ## Review
 
 Whoa, the tips given in *The Storytelling Edge* are extremely useful! As a blogger, I love the idea that the way you share your information makes a difference. It was especially fun to hear stories that were examples of the principles the authors were teaching!
-
-## Who it’s for
 
 The 59-year-old who wants a way to make their life lessons memorable to their grandchildren, the 31-year-old content creator who is looking to have a more memorable influence on their fans, and anyone who needs a way for their product or idea to stand out.

@@ -18,7 +18,7 @@ Are you in for a different kind of house tour? Forget MTV Cribs, this is the rea
 
 ## Lesson 1
 
-### Shoot the cans! The struggle for food lasted longer than you think.
+### Shoot the cans! The struggle for food lasted longer than you think
 
 You know the neanderthals had a tough time filling their stomachs. Hunting, gathering, learning what’s edible and what’s not through trial and error. These were tough times, no doubt. I have to admit though, that in my mind, somewhere around the 1600s, making sure you ate 2-3 times a day “must have become fairly easy.”
 
@@ -34,7 +34,7 @@ What none of this accounts for is that people rarely knew with certainty what th
 
 ## Lesson 2
 
-### Whatever sleeping problems you have, they’re not a big deal.
+### Whatever sleeping problems you have, they’re not a big deal
 
 Today, mattresses are stuffed mainly with either springs or foam, and sometimes with a bladder filled with air or water. None of these were invented until the early 1900s – so what did people put into their beds before?
 
@@ -50,7 +50,7 @@ So the next time you think your mattress is too hard or too soft, remember: this
 
 ## Lesson 3
 
-### Salt to survive, pepper ’cause it’s popular: why we spice things up.
+### Salt to survive, pepper ’cause it’s popular: why we spice things up
 
 Have you ever thought about why, of all spices, salt and pepper are the one on every kitchen table?
 
@@ -63,7 +63,5 @@ In 1468, the Duke of Bourgogne used pepper as a decoration for his wedding: 380 
 ## Review
 
 The summary of *At Home* was refreshing. When you have an “I want to learn something new, something totally unrelated, but no idea what” moment, this is the one to grab. Everything we take for granted today was once a life-changing innovation. It’s important to not forget and this surely will help you remember.
-
-## Who it’s for
 
 The 16 year old who’s too lazy to warm her frozen food when mum isn’t home, the 43 year old hotel guest, who regularly complains to the staff how “hard” his mattress is, and anyone who never asked why salt and pepper always show up together.

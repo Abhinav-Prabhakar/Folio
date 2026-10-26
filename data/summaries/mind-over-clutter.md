@@ -22,11 +22,11 @@ Grab your garbage can and get ready to throw all that unnecessary stuff away! Le
 
 ## Lesson 1
 
-### Your cortisol levels and risk for mental illness are higher if you have a lot of clutter, but you can start small to beat it.
+### Your cortisol levels and risk for mental illness are higher if you have a lot of clutter, but you can start small to beat it
 
 Doesn’t the thought of having too many possessions just overwhelm you? It’s not fun to think about these things so you tend to shy away from doing so, but you’ve got to for the sake of your mental and physical health.
 
-You might not solve all of your problems by decluttering, but it will definitely help improve your state of mind. **Researchshows that the stress hormone cortisol is higher in people who live in cluttered homes.**
+You might not solve all of your problems by decluttering, but it will definitely help improve your state of mind. **Research shows that the stress hormone cortisol is higher in people who live in cluttered homes.**
 
 When you’ve got more cortisol your risk for anxiety and depression is higher. It also makes you less productive by harming your ability to concentrate. And the negative effects aren’t just mental, too much stress can also cause headaches and insomnia.
 
@@ -38,7 +38,7 @@ Once you’ve got that down just do one project at a time. It doesn’t even hav
 
 ## Lesson 2
 
-### To get rid of that stressful junk follow four simple steps, starting with removing everything from just one room.
+### To get rid of that stressful junk follow four simple steps, starting with removing everything from just one room
 
 Envisioning the bigger picture of an entire home that’s clean might be pretty difficult for you right now. But consider how great it would feel to wake up in a place that inspires you and actually helps you destress after work.
 
@@ -55,7 +55,7 @@ Having a cluttered bedroom makes it hard to sleep well. You might get distracted
 
 ## Lesson 3
 
-### Chemical disinfectants can be bad for your health, so use more natural ones.
+### Chemical disinfectants can be bad for your health, so use more natural ones
 
 You want your home to be safe from theft and anything that could damage yours or your children’s health. Unfortunately, we sometimes bring those unhealthy intruders in ourselves with the cleaning products we use!
 
@@ -72,7 +72,5 @@ The good news is that you’ve probably already got everything you need to fix t
 ## Review
 
 Clutter is the worst but I had no idea it could be this bad! I also was clueless about how easy it can be to get rid of until after I read *Mind Over Clutter*. This is one of those aspects of life that you can improve in only one weekend but will have positive benefits for years to come.
-
-## Who it’s for
 
 The 60-year-old that can’t seem to throw away all of their junk and doesn’t realize that it’s making them anxious, the 33-year-old who’s tired of always having to pick up way too much stuff every day, and anyone that wants a quick way to have a happier life by decluttering.

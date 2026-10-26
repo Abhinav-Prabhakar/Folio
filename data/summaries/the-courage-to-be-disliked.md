@@ -18,11 +18,9 @@ Here are 3 lessons this book teaches:
 
 Let’s see how Adler’s ideas can help us live true to ourselves, and become happier!
 
-### The Courage to Be Disliked Summary
-
 ## Lesson 1
 
-### Your past does not determine your future.
+### Your past does not determine your future
 
 The key word in Freudian psychology is ‘trauma.’ It asserts that most of our self-image takes deep root in our psyche at a young age. Therefore, bad experiences then will lead to much trouble later. As a result, Freud assumed most of our adult lives is spent trying to fight, unravel, and overcome our limiting beliefs from the past.
 
@@ -34,7 +32,7 @@ So why not choose it *right now?*
 
 ## Lesson 2
 
-### Hating yourself is usually a way of shutting out others, rather than actually warranted.
+### Hating yourself is usually a way of shutting out others, rather than actually warranted
 
 One of the author’s students once admitted that he disliked himself because he was too aware of his own flaws. Adler categorized such flaws into two categories: objective and subjective inferiorities. Objective ones are those we can measure and confirm, like being shorter than someone else or having less money. In contrast, we fabricate subjective inferiorities.
 
@@ -46,7 +44,7 @@ One wonderful antidote to this problem is, as author Kamal Ravikant puts it, to 
 
 ## Lesson 3
 
-### A competitive mindset destroys your mental health.
+### A competitive mindset destroys your mental health
 
 In one of my most popular posts, I wrote:
 
@@ -61,7 +59,5 @@ Adler sought something much more productive to be the purpose of psychology: to 
 ## Review
 
 What an empowering, rational, thoughtfully crafted book. *The Courage To Be Disliked* comes in the calm, cool-headed style you would expect from Eastern philosophers. By shining a light on Adler’s work, it fills a gap in our current pop psychology conversation. It provides a useful, level-headed approach to living a happy and fulfilled life.
-
-## Who it’s for
 
 The 14 year old girl with braces, who has to deal with bullying at school, the 23 year old grad student, who worries about his future career, and anyone who feels like their past continues to haunt them.

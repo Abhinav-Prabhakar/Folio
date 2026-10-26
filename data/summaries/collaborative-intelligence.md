@@ -22,7 +22,7 @@ Here are my three favorite lessons from this book:
 
 ## Lesson 1
 
-### Depending on the situation, we’ve got three types of attention.
+### Depending on the situation, we’ve got three types of attention
 
 Attention – What is it? Well, it is about who and what you notice and how you choose to regulate that information. You can fix it, train it and shift it, depending on your interests. Perhaps that is why we always hear “make sure who you give your attention to!’’.
 
@@ -36,7 +36,7 @@ Although society has taught us that focused attention makes us most productive, 
 
 ## Lesson 2
 
-### Become aware of your mind patterns and your strengths to better communicate with others.
+### Become aware of your mind patterns and your strengths to better communicate with others
 
 Although it may sound like an overworked phrase, everybody’s unique in their own way. And this is both a cliche and a psychological fact. **We all have different mind patterns and triggers. Therefore, we have to learn how to get the best out of them.**
 
@@ -48,7 +48,7 @@ For example, you can try implementing small focus groups and large brainstorming
 
 ## Lesson 3
 
-### Improve team communication by understanding cognitive skills.
+### Improve team communication by understanding cognitive skills
 
 For efficient collaboration, a good leader has to know their team members. And they as well have to know their own strengths and how to make the best of them. If you feel like you’re still struggling to find your best qualities, a cognitive skills test could help you.
 
@@ -65,7 +65,5 @@ Moreover, you can foster a learning environment where people are knowledgeable i
 ## Review
 
 *Collaborative Intelligence* offers great advice on adapting to the working environment by focusing on your mental strengths. It helps readers understand their cognitive styles and shows how to use them to be most effective in their work. Understanding this book allows individuals to better connect with each other and increase teamwork efficiency.
-
-## Who it’s for
 
 The team leader who wants to enhance team spirit or someone working with people. For example, an executive who wants to motivate his company’s personnel. I would also recommend the book to the person fascinated by cognitive intelligence.

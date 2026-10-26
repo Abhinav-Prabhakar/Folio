@@ -24,7 +24,7 @@ Now that we’ve outlined the most important lessons from the book, it’s time 
 
 Let’s say that one day you stumble across a great business idea. You cannot wait to draw up a plan and put it into practice. In your mind, this idea seems to be worth millions. There’s no way you can fail by going with it. Unfortunately, this is where most entrepreneurs are greatly mistaken. Many of them rush into the market without considering more perspectives and leaving room for redesigning their concept.
 
-The design loop is a way to tweak initial ideas. It has two phases: the first one looks a lot like brainstorming. You get to idealize and come up with multiple concepts, without stumbling upon only one good idea. The second phase is about narrowing down options and synthesizing your ideas into a few promising options. **The author suggests using theBusiness Model Canvasthat he created to go through these phases.**
+The design loop is a way to tweak initial ideas. It has two phases: the first one looks a lot like brainstorming. You get to idealize and come up with multiple concepts, without stumbling upon only one good idea. The second phase is about narrowing down options and synthesizing your ideas into a few promising options. **The author suggests using the Business Model Canvas that he created to go through these phases.**
 
 This canvas allows you to write down your opportunities, risks, resources needed, and many other crucial aspects of your business. This helps you gain a clearer vision of what you should work on. This tool is great for building the practical side of your business. It’s also helpful for moving on from your concept to a materialized product of your vision. Another tool the author offers is the Value Proposition Canvas, which allows you to better analyze your customers.
 
@@ -51,7 +51,5 @@ You can run discovery experiments by conducting customer interviews, for example
 ## Review
 
 *Testing Business Ideas* is a practical guide that walks its readers through the process of creating a successful product, from concept to the final stage. This book will teach you how to experiment with ideas, find relevant insights in your research, and build a product that attracts customers. Reading this book will help you understand why customers’ pain points are relevant, how to find valuable information by observing your prospects in real-life situations and explore many more interesting concepts.
-
-## Who it’s for
 
 The 30-year-old person who feels as if they have great business ideas but doesn’t know how to build on them or the 38-year-old entrepreneur who finds that their offerings need improvements to keep up with the market, or the 25-year-old person working in marketing who wants to find more about how a customer’s mind works and how to improve a product line.

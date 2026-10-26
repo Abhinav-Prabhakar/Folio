@@ -22,7 +22,7 @@ Want to make Mr. Maslow proud? Here we go!
 
 ## Lesson 1
 
-### Give your employees a chance to experience your products first hand.
+### Give your employees a chance to experience your products first hand
 
 I don’t want to tell you again that you should help your employees connect to your end customers, so they can see what impact they’re making, because I’ve made this point a couple of times recently (last here).
 
@@ -34,7 +34,7 @@ For example, Chip lets all of his employees stay at one of Joie De Vivre’s loc
 
 ## Lesson 2
 
-### Be your customers’ best friend, even if you don’t have to.
+### Be your customers’ best friend, even if you don’t have to
 
 The second party that will benefit from your attention is your customers. Great customer service has long passed the status of being optional and is a necessity to make you stand out. But there’s always a way to go the extra mile, one of which is this:
 
@@ -48,7 +48,7 @@ We all remember this kind of attention from someone who really cares, really lis
 
 ## Lesson 3
 
-### Stay on the same page with your investors, so you can still laugh when profits are low.
+### Stay on the same page with your investors, so you can still laugh when profits are low
 
 Getting investors is like dating. You can march through a parade of one-night stands, or decide to marry just one (or maybe a few in this case).
 
@@ -61,7 +61,5 @@ Along with the annual financial report, he sent each investor a t-shirt, which r
 ## Review
 
 Chip takes a very human approach to business, without forgetting the money part. His way of integrating our desire for more than food, shelter and money into how he runs the show is very refreshing. Watch his TED talk and then decide for yourself whether you’ll give *Peak: How Great Companies Get Their Mojo From Maslow* a chance – I think I know the answer already 😉
-
-## Who it’s for
 
 The 17 year old sales rep at Footlocker, the 31 year old café owner, who wants to make his regulars even happier, and anyone who has a friend that wants them to invest money in their business.

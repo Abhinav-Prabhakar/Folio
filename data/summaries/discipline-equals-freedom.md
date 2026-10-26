@@ -20,11 +20,9 @@ Here are 3 lessons to help you build more discipline in your life so you can ach
 
 Let’s dive into discipline!
 
-### Discipline Equals Freedom Summary
-
 ## Lesson 1
 
-### The only shortcut in life is not taking shortcuts.
+### The only shortcut in life is not taking shortcuts
 
 Seth Godin thinks “Kickstarter” is the worst name ever for a company helping creators and entrepreneurs raise money. Why? Because a financing campaign should be the *last* step in bringing a dream together, not the *first*. “It should be called ‘Kickfinisher,'” he told Marie Forleo in an interview.
 
@@ -38,7 +36,7 @@ You can’t uncut any corner you’ve previously taken. That’s done. But you c
 
 ## Lesson 2
 
-### If you want to sleep and wake up early, never change your alarm, and let the rest fall into place.
+### If you want to sleep and wake up early, never change your alarm, and let the rest fall into place
 
 Like Casey, even years after leaving the military, Willink still wakes up early. Every day, he posts a photo of his watch at 4:30 AM to prove it. No shortcuts!
 
@@ -58,7 +56,7 @@ If you’ve failed at making early rising a habit before, try locking in your wa
 
 ## Lesson 3
 
-### Your greatest victories are the ones you achieve against your former self.
+### Your greatest victories are the ones you achieve against your former self
 
 “Greatness comes from within,” the announcer begins Porsche’s “Compete” commercial. We see Muhammad Ali entering the ring, Magnus Carlsen sitting down at a chess board, Maria Sharapova grabbing her tennis rack. “From pitting you…against you.”
 
@@ -73,7 +71,5 @@ Don’t compete with anyone except yourself. In this life, it’s you against yo
 ## Review
 
 *Discipline Equals Freedom* is a short, square-format, engaging, directive book. It’s full of motivation, inspiration, and centered around a single theme. It also contains plenty of practical advice around working out, eating better, and resting well. If you’re ready for a kick in the butt from a Navy Seal, this one’s for you!
-
-## Who it’s for
 
 The 17-year-old high schooler who just discovered the joys of working out, the 28-year-old student who really, *really* needs to finish her thesis, and anyone who feels like they’ve fallen behind their true potential.

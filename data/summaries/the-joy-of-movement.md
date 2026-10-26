@@ -22,7 +22,7 @@ Ready? Set? Exercise!!
 
 ## Lesson 1
 
-### Physical activity makes you happy, protects against mental illness, and improves your social skills.
+### Physical activity makes you happy, protects against mental illness, and improves your social skills
 
 We now know the phenomenon of pleasure that comes from a good jog as “runners high.” But did you know that people were talking about this idea as early as 1885? A Scottish philosopher named Alexander Bain compared the blissful state to a spiritual experience. Others say it’s like love or even mind-altering drugs.
 
@@ -38,7 +38,7 @@ And don’t worry, if you hate running so much that you’d rather eat a mop, ev
 
 ## Lesson 2
 
-### Drugs and exercise have a lot in common, but movement only brings positive side effects.
+### Drugs and exercise have a lot in common, but movement only brings positive side effects
 
 The addictive effect of exercise is powerful. It’s so strong that when researchers in the 1960’s were beginning to study it, they had a really hard time finding people who worked out regularly that would stop the habit to see what would happen! Even many of those that they could convince cheated and still kept it up.
 
@@ -54,7 +54,7 @@ One study had mice run for just two weeks but the habit didn’t stick. After si
 
 ## Lesson 3
 
-### You increase your chances of reaching peak performance levels when you listen to the right music while exercising.
+### You increase your chances of reaching peak performance levels when you listen to the right music while exercising
 
 I sometimes track my morning runs with an app called RunKeeper. I noticed that when my favorite song came on, I ran faster than I did during most of the rest of my run. Without knowing it I stumbled onto a proven fact that exercising to music that pumps you up makes you perform better.
 
@@ -69,7 +69,5 @@ A favorite of mine is Daft Punk’s *Harder, Better, Faster, Stronger*. It alway
 ## Review
 
 Wow, this book has really got me pumped up! *The Joy Of Movement* is the perfect book for me right now because I’ve been having a hard time exercising. I loved everything about this amazing book. Now I’m excited to get out and do it today!
-
-## Who it’s for
 
 The 25-year-old who thinks that nobody likes exercising but that people do it because they have to, The 43-year-old who sits too much at work all day and wants some inspiration to get active, and anyone who wants a whole bunch of scientifically proven reasons to start moving more!

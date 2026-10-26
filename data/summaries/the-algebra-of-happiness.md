@@ -22,7 +22,7 @@ Are you ready to add to your happiness? Let’s get started!
 
 ## Lesson 1
 
-### If you prepare well when you’re young, recognizing the tradeoffs between work and relationships, you will be happier throughout your life.
+### If you prepare well when you’re young, recognizing the tradeoffs between work and relationships, you will be happier throughout your life
 
 Let’s take another look at our previous example. If X + Y = 9, then whatever X and Y are have to add up to be 9. But if X is higher, like 7 or 8, then Y must be lower, at 2 or 1 for X + Y = 9 to be true. The same is true for your life. Playing too much when you’re young leads to having to work a lot when you’re older. **But if you sacrifice your time and energy in your youth to work hard, then you can relax in your old age.**
 
@@ -32,7 +32,7 @@ We must take care of our relationships, too. They are the highest source of joy.
 
 ## Lesson 2
 
-### When you reach financial security, change your focus to enjoy your hard-earned freedom.
+### When you reach financial security, change your focus to enjoy your hard-earned freedom
 
 What good does money do if you’re not going to enjoy the freedom it earns? It’s hard to let yourself relax after all of your hard work. But doing so is a necessary step in the equation for happiness. Why do you want to make a lot of money? Is it just to be rich or to make enough that you don’t have to keep making more money? If you do it right, you’ll have the freedom to work less and give more time and attention to your relationships and passions.
 
@@ -44,7 +44,7 @@ One friend of the author named David Carey chose to quit at the peak of his work
 
 ## Lesson 3
 
-### To be happy, find the right partner and work hard to keep your relationship strong.
+### To be happy, find the right partner and work hard to keep your relationship strong
 
 As mentioned before, what good does making a lot of money do if you’re alone your whole life? The deepest happiness comes from creating quality relationships and making them last. **Search for a partner who is emotionally stable, likes you for who you are, and aligns with your beliefs.**
 
@@ -57,7 +57,5 @@ Real, lasting love, and the happiness that comes from it, is more slow and const
 ## Review
 
 I like algebra, and I really like being happy, so I especially enjoyed *The Algebra of Happiness*. Some of the tips seem obvious, while others I’m not so sure are as applicable in the information age. I liked this book but I think it’s a good idea to take certain aspects of it with a grain of salt.
-
-## Who it’s for
 
 The 42-year-old father who is working too many hours and wants better work-life balance, the 24-year-old new parents who are planning ahead for their future, and anyone who wants to be happy and successful.

@@ -27,7 +27,7 @@ Put your thinking cap on and let’s learn how to ask great questions!
 
 ## Lesson 1
 
-### We are born with the important and useful trait of curiosity, but we lose most of this skill when we go to school.
+### We are born with the important and useful trait of curiosity, but we lose most of this skill when we go to school
 
 Questions set humans apart from other species on earth. And not only that, but they are vital to our survival and success. When we investigate the world around us we learn to be creative and come up with new ideas that improve our lives. It’s important to know what you don’t know, but until you ask, you’ll never figure that out so you can learn more.
 
@@ -37,7 +37,7 @@ Sadly, the American education system smothers this valuable skill. To be success
 
 ## Lesson 2
 
-### Ask “why?” to get smarter, but learn to ask “why not?” to become a more innovative thinker.
+### Ask “why?” to get smarter, but learn to ask “why not?” to become a more innovative thinker
 
 Let’s start with the first two questions. We begin with “why?” This is known as a naive question because of the innocent, child-like wonder that it represents. It’s good to wonder why things are a certain way because it helps us take apart and understand complex issues. For example, if I ask a politician why the country has run out of money, they must give a straightforward answer. Knowing the reason for the oversight can help improve the dire financial situation.
 
@@ -49,7 +49,7 @@ Take Airbnb for example. This revolutionary company began when two flatmates ask
 
 ## Lesson 3
 
-### If you want to be more creative, try “what if?” questions, and for help taking action use “how?” questions.
+### If you want to be more creative, try “what if?” questions, and for help taking action use “how?” questions
 
 A few years ago I got the book *What If?* by Randall Munroe as a gift. It’s a compilation of absurd scientific answers to the weirdest “what if?” questions. Although it’s mostly humorous, it has a very important point. Asking “what if?” has the power to change our way of thinking, which can improve our world.
 
@@ -62,7 +62,5 @@ By combining this question with the others, you give yourself the ability to put
 ## Review
 
 I’ve always loved asking questions, but *A More Beautiful Question* made me love it even more. The types of questions this book teaches us to ask are life-changing. It helped me reflect on some or the best experiences that I’ve had that began with asking a question, and motivated me to keep asking!
-
-## Who it’s for
 
 The 57-year-old third grade teacher who has to hear thousands of questions a day and wants to help their students learn to be curious, the 37-year-old writer who wants to become more creative, and anyone who would like to learn how to think more innovatively.

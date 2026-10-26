@@ -20,7 +20,7 @@ Are you ready to discover some powerful lessons on mental health? Let’s go!
 
 ## Lesson 1
 
-### Get out of your own head by reading books if you want some help to get through depression.
+### Get out of your own head by reading books if you want some help to get through depression
 
 Have you ever tried to explain a complicated concept to a friend? While you know how to do everything from opening your mouth to saying the words, they often just don’t get it.
 
@@ -40,7 +40,7 @@ And now his book provides that for those who read it!
 
 ## Lesson 2
 
-### Even some of the greatest leaders in the world have experienced mental illness, which does have some benefits.
+### Even some of the greatest leaders in the world have experienced mental illness, which does have some benefits
 
 Did you know that Winston Churchill and Abraham Lincoln both struggled with depression? Behind their inspiring and ambitious careers was this silent struggle with mental illness.
 
@@ -58,7 +58,7 @@ Because of his ability to remain close to his feelings, Haig also has deeper joy
 
 ## Lesson 3
 
-### Recovery is possible, but won’t be as clear of a path as you might think.
+### Recovery is possible, but won’t be as clear of a path as you might think
 
 It’s easy to get caught in the trap of thinking that the healing process will be linear. But the reality is, you don’t just slowly improve and eventually get “cured.”
 
@@ -79,7 +79,5 @@ All of these are Haig’s reasons to stay alive.
 ## Review
 
 I really enjoyed reading *Reasons To Stay Alive* and I’m so impressed with Matt Haig’s courage to write it. As one who has had bouts with mental illness in the past, I can appreciate so many aspects of this. Recommended!
-
-## Who it’s for
 
 The 28-year-old who is going through a rough time and isn’t sure why they’re having a hard time getting out of bed in the morning, the 57-year-old who has adult children that suffer from depression but isn’t certain how they can help, and anyone that struggles with mental illness in any form.

@@ -16,17 +16,15 @@ It holds three tools, 60 seconds each, which, if applied correctly, can change y
 
 Ready to become a one minute manager? 60 seconds…go!
 
-### The One Minute Manager Summary
-
 ## Lesson 1
 
-### Set three goals for each of your employees, which you can review in one minute or less.
+### Set three goals for each of your employees, which you can review in one minute or less
 
 All struggles a company could ever possibly face will go back to one simple thing: **communication**. 99% of all problems are preventable, as long as you communicate well, honestly, openly and early.
 
 If you’ve ever started a new job, chances are, it went like this. You arrive, you’re shown around, shake a lot of hands and try to remember at least half the names of all the new people you meet. You sit down, your new boss gives you a bunch of tasks and as soon as your email account works, it’s go time.
 
-**Butnobody ever told you what you’re actually responsible for.**
+**But nobody ever told you what you’re actually responsible for.**
 
 Imagine someone had sat down with you, right at the beginning, and together you had made a list. That’s exactly what a one minute manager does. Sit down any new co-worker, and tell them: “These are your responsibilities, and these are your goals for your first year.”
 
@@ -38,7 +36,7 @@ Then let them know that you’ll be reviewing their work, for which you’ll use
 
 ## Lesson 2
 
-### Right after an employee does a good job, take 60 seconds to praise their work.
+### Right after an employee does a good job, take 60 seconds to praise their work
 
 Managers are by definition super busy. They often manage people on top of all their other work, even though it’s technically their primary job. This makes it easy for them to forget to tell people when they’ve done good work. Especially when responsibilities are unclear, employees tend to focus on what they *haven’t* yet done and can thus mostly expect negative feedback.
 
@@ -52,7 +50,7 @@ Getting positive feedback for small wins is extra important for new hires, so th
 
 ## Lesson 3
 
-### If you’re dissatisfied with someone’s work, let them know with a one minute reprimand.
+### If you’re dissatisfied with someone’s work, let them know with a one minute reprimand
 
 Just like giving positive feedback doesn’t take long, expressing your dissatisfaction with someone’s performance doesn’t have to be a big deal either. Once people are familiar with your management style, have their one minute goals and you’ve praised them a couple times, you can use what Blanchard and Johnson call the one minute reprimand.
 
@@ -71,7 +69,5 @@ This form of criticism works well for three reasons:
 I haven’t read the full book yet, but since it’s really short, I think there’s not much more to it than I’ve described here. What makes the book more powerful than the mere facts, though, is that it tells a story, in which a manager slowly finds out about the power of one minute management. It might help you remember what you read better.
 
 The book’s just been updated and expanded last year and is now called ‘The New One Minute Manager’. I’m convinced *The One Minute Manager* is worth the hour or so it takes to read.
-
-## Who it’s for
 
 The 25 year old, who’s about to start her first job and to be managed for the first time, the 39 year old manager, who has a tough time giving positive feedback to his employees, and anyone who wants to be a better friend.

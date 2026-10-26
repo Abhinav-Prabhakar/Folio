@@ -20,7 +20,7 @@ Do you want to recover from rough patches faster? Then let’s learn how to rise
 
 ## Lesson 1
 
-### Reckoning is when you pay attention to your emotions and dare to ask questions about them.
+### Reckoning is when you pay attention to your emotions and dare to ask questions about them
 
 Do you know someone who seems to take setbacks like they’re no big deal? Someone, who can pick themselves up, dust themselves off, and just soldier on, despite the odds being overwhelmingly against them? I know someone like that: me.
 
@@ -41,7 +41,7 @@ But in order to ask these questions, you first have to know *what* you’re feel
 
 ## Lesson 2
 
-### Rumbling is what happens when you write down the story you tell yourself, real or not.
+### Rumbling is what happens when you write down the story you tell yourself, real or not
 
 Trying to predict the future, based on what’s happened in the past is one way that the narrative fallacy makes us jump to the wrong conclusions. But this doesn’t just happen with logical facts and events, it also happens with our feelings.
 
@@ -63,7 +63,7 @@ The next time you feel bad, fill in these blanks and write down your shitty firs
 
 ## Lesson 3
 
-### When you channel your insights from rumbling into positive changes, a revolution follows.
+### When you channel your insights from rumbling into positive changes, a revolution follows
 
 Here’s how reckoning and rumbling can come together to spark a revolution. At a fundraiser for the homeless, Brené’s pastor said: “When you look away from a homeless person, you diminish their humanity.”
 
@@ -76,7 +76,5 @@ Eventually, she revolutionized her attitude towards other people. **She even lea
 ## Review
 
 Brené Brown’s work is very philosophical. It’s all about principles, not tactics. Daring Greatly was one of the most powerful books I’ve learned from this year, and I’m starting to see her as the Seth Godin of feelings. Definitely one of my top 5 authors to follow, be sure to take a look at *Rising Strong*, especially if you feel like you’re afraid of trying again, because you’ve failed in the past.
-
-## Who it’s for
 
 The 27 year old dancer, who tried to start her own business, but failed, and now thinks she’ll just get a regular job, the 42 year old team leader, who recently swept a huge mistake he made under the rug, and anyone who feels like they’re not doing everything they can to achieve their dreams.

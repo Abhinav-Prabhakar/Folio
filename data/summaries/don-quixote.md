@@ -20,7 +20,7 @@ Although the book is a fictional piece of writing, it’s valuable lessons can t
 
 ## Lesson 1
 
-### Telling ourselves stories can help us right away, but create a false impression of the world on the long term.
+### Telling ourselves stories can help us right away, but create a false impression of the world on the long term
 
 Don Quixote read a lot of books that sparked the *“madness”* in his head. He believed that his favorite books portrayed the world as it is. So he started to see everything with magical eyes. **The problem was that nobody else was sharing his vision, so he had to face a lot of misunderstanding and challenges in his relationships.**
 
@@ -30,7 +30,7 @@ However, the problem was that to all those around him, there was no need for kni
 
 ## Lesson 2
 
-### Every knight needs a squire, or someone to share the ideas and challenges with.
+### Every knight needs a squire, or someone to share the ideas and challenges with
 
 Initially, Quixote started his quest all by himself. And his first challenge as a knight happened at an inn he stopped by on a night. The first signs of his delusional mind showed when he believed the inn to be a castle. To initiate his purpose, he was looking for someone to officially knight him, as custom dictates. As such, he asked the innkeeper to do so. And he went along with it, seeing that the man wasn’t sane.
 
@@ -42,7 +42,7 @@ The first one consisted of over thirty windmills that Quixote took for giants th
 
 ## Lesson 3
 
-### Sancho was an opportunist, but also a good friend to Don Quixote.
+### Sancho was an opportunist, but also a good friend to Don Quixote
 
 Sancho Panza was a simple farmer from Spain, so the course of his life should’ve been smooth and filled with little adventures, as the society of that time wasn’t paying much attention to peasants. However, life had other plans for Sancho when it pur Don Quixote in his path. Given the opportunity to become the governor of an isle, Sancho had two options.
 
@@ -53,7 +53,5 @@ In every challenge Don Quixote faced, Sancho was there to help him get out of it
 ## Review
 
 *Don Quixote* is a story addressing the human condition through metaphors and the challenges of the protagonist. Reading between the lines will reveal significant insights. Don Quixote delivers a captivating narrative, a series of useful lessons for its readers, and enriches one’s culture, so it’s a must-read for everyone.
-
-## Who it’s for
 
 The 30-year-old fiction lover in search of an old story, the 45-year-old teacher who enjoys pieces of writing that kept their meaningfulness over time, and anyone who just discovered their spiritual side.

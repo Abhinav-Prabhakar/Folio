@@ -26,7 +26,7 @@ Do you want to achieve a clearer thinking and a better mood? Let’s see why and
 
 ## Lesson 1
 
-### Tidying up will earn you serenity, focus, and motivation, which means a better present and a better future.
+### Tidying up will earn you serenity, focus, and motivation, which means a better present and a better future
 
 Decluttering is keeping only what can serve and represent you now, releasing the past to make room for a better present.
 
@@ -40,7 +40,7 @@ Now that her house is orderly, Rubin’s relationships have improved. She’s ex
 
 ## Lesson 2
 
-### Adopt the right mindset to understand what you need, love, and use and free yourself from the rest.
+### Adopt the right mindset to understand what you need, love, and use and free yourself from the rest
 
 The first step for ordering our space is to decide rationally what to keep and what to throw away.
 
@@ -56,7 +56,7 @@ As the author says, “the easiest way to complete a project is to abandon it”
 
 ## Lesson 3
 
-### Self-knowledge and some tricks can help you fight and prevent stress.
+### Self-knowledge and some tricks can help you fight and prevent stress
 
 Sometimes the only thing we want is to spend a relaxing evening at home, so we just try to ignore disorder and chill out anyway. Other times we are busy in our office and don’t feel like wasting time putting everything back in its place. In both cases, chances are that we won’t be able to really relax nor focus in a messy environment.
 
@@ -73,7 +73,5 @@ Keeping clutter away with daily habits will save you from more time-consuming bi
 ## Review
 
 In many books, order is depicted as a precondition for productivity. *Outer Order, Inner Calm* shows that tidiness gratifies your senses leading the way for peace of mind, with many nice side effects on every aspect of your life.
-
-## Who it’s for
 
 The 20-year-old who can’t see the point of making their beds, the busy 29-year-old who thinks it’s not worth taking care of their houses, the 36-year-old who can’t get their children to keep their rooms tidy, and anybody who believes that order is overrated.

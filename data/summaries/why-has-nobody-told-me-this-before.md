@@ -18,11 +18,9 @@ Here are 3 practical lessons from this enlightening read:
 
 Your mental health matters. Let’s learn how to take good care of it!
 
-### Why Has Nobody Told Me This Before? Summary
-
 ## Lesson 1
 
-### Ask yourself questions to discover the unmet needs triggering your emotions, then address those needs directly.
+### Ask yourself questions to discover the unmet needs triggering your emotions, then address those needs directly
 
 Emotions don’t just magically appear out of thin air. Like a river, emotions must have a source. According to Dr. Smith, they always result from unmet needs. Therefore, **if we want to handle our emotions well, we must identify and address those needs.** As a result, the emotions will pass.
 
@@ -40,7 +38,7 @@ Ask questions, find answers. Discover the unmet needs behind your feelings, and 
 
 ## Lesson 2
 
-### Make “good enough” decisions to break out of a bad mood–spiral.
+### Make “good enough” decisions to break out of a bad mood–spiral
 
 The problem with bad moods is that they love to stick around. We feel tired after work, so we eat half a bag of chips — only to then kick ourselves for making the wrong decision, which makes us even *more* likely to reach for yet another emotional band-aid.
 
@@ -52,7 +50,7 @@ The point of “good enough” decisions is not to solve our problems in one go.
 
 ## Lesson 3
 
-### Use “square breathing” to get past sudden bouts of anxiety, then move on step-by-step.
+### Use “square breathing” to get past sudden bouts of anxiety, then move on step-by-step
 
 Unlike a groggy morning that can be countered with some coffee, anxiety is often a longer-term problem. We’ll have to deal with it step by step. Dr. Smith gives an example of someone who became uncomfortable with large crowds during the pandemic but then started avoiding public transport, the supermarket, and, eventually, leaving the house altogether. How can that person get back to normal? In small increments, Smith suggests. Try the supermarket first. Then take a train. And so on.
 
@@ -70,7 +68,5 @@ But what if you end up frozen solid in front of the pinto beans shelf on your fi
 ## Review
 
 Dr. Smith has been a clinical psychologist for over a decade and treated hundreds of patients. *Why Has Nobody Told Me This Before?* is a warm, concise, brilliant collection of the most effective, immediately practical tips she routinely gives to her clients. If you wish to understand yourself better and improve your mental health, give this book a chance — and if you’re struggling with something deeper and more serious, please don’t be afraid to ask for help.
-
-## Who it’s for
 
 The 23-year-old, overworked student who puts too much pressure on herself, the 38-year-old new mom who is struggling with postpartum issues, and anyone who feels constantly stressed at work.

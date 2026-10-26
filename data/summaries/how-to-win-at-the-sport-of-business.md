@@ -20,7 +20,7 @@ Ready to score a 3-pointer? Time to shoot some business hoops!
 
 ## Lesson 1
 
-### Solve problems now, return to passions later.
+### Solve problems now, return to passions later
 
 After being fired from his last job selling software, installing it and fixing up computers, Mark Cuban founded his own company, MicroSolutions, to do the same. It was 1983, so everything computer-related was new and complicated – people needed help.
 
@@ -36,7 +36,7 @@ You can always come back later and re-visit old passions.
 
 ## Lesson 2
 
-### Learn to be okay with slow, organic growth.
+### Learn to be okay with slow, organic growth
 
 “The day you borrow money is the worst day of your life.” Those words always ring in my ears when I hear someone talk about venture capital and startup funding. They were said by Gary Vaynerchuk’s dad to him, and if you want to *own* your business, be in control, and prefer money over debt, then you should remember them too.
 
@@ -50,7 +50,7 @@ You’ll also not have to justify your actions to anyone and no one can tell you
 
 ## Lesson 3
 
-### Only hire people who are as motivated as you are.
+### Only hire people who are as motivated as you are
 
 Mark started MicroSolutions with his friend Scott. Broadcast.com was started with another friend of his, Todd Wagner. **The first few people you hire will make or break your company**.
 
@@ -69,7 +69,5 @@ So don’t settle for average employees – hire people who are just as driven a
 If a billionaire wraps up his life in a few dozen pages, it’s sure worth your attention. Just get this book, it’s a quick read.
 
 **Note:** Mark still writes frequently on his blog. It’s the best place to get more insights from him.
-
-## Who it’s for
 
 The 24 year old recent graduate, who just wants to party and spend his first few paychecks on fun, the 38 year old on her third startup using VC funding, and anyone who’d like to start a company with their friends.

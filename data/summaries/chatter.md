@@ -14,11 +14,9 @@ The human brain allows us to do remarkable things. In fact, we are the only spec
 
 To fully understand these lessons, we must take each and every one aside and analyze it in detail, so here we go!
 
-### Chatter Book Summary
-
 ## Lesson 1
 
-### To speed up your cognitive functions, you’ll have to filter the information that you allow in your mind.
+### To speed up your cognitive functions, you’ll have to filter the information that you allow in your mind
 
 According to the book, the human brain can only keep up with three to five pieces of information at once. And this is when the person has all cognitive functions in optimal parameters. To better understand this concept, just think about this: between 12569045 and 125-690-45, which is easier to remember? Naturally, the latter will be easier to memorize. That’s because it’s structured in three tiny bits of information, instead of an unbroken string.
 
@@ -28,7 +26,7 @@ They also affect our physical health and our relationships. Studies suggest that
 
 ## Lesson 2
 
-### When in doubt, try to zoom out and change your perspective on the problem.
+### When in doubt, try to zoom out and change your perspective on the problem
 
 Hardships toll on us is usually bigger than it needs to be. We feel like the problems we’re facing are much bigger than they actually are. Take any intense challenge you’ve encountered in the past and remember how it made you feel. Did you think you’ll overcome it so successfully, that you won’t think about it again and life will go back to normal? Probably not! However, you can use past experiences to help yourself when mind chatter takes over again.
 
@@ -49,7 +47,5 @@ That is where our friends, family, or professionals can step in and help us solv
 ## Review
 
 *Chatter* addresses a controversial topic in a professional and practical way, therefore helping its readers deal better with their inner chatter and overwhelming thoughts. All of us spend most of our time in our heads, yet too few of us have mastered controlling our mind and making it work in our favor. This book is a must-read for almost anyone!
-
-## Who it’s for
 
 The 37-year-old concerned parent dealing with an anxious child, the 57-year-old manager who can’t “shut off” after coming home from work, and anyone who has a passion for science, psychology, and how the human brain works.

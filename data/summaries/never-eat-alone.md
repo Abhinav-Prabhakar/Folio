@@ -20,7 +20,7 @@ Ready to become a super-connector? Let’s do this!
 
 ## Lesson 1
 
-### Relationships don’t disappear like cake, they grow like muscles.
+### Relationships don’t disappear like cake, they grow like muscles
 
 There’s a great analogy in the book to describe how relationships actually work, which is a good thing to know before you start building them. Keith says they’re not like cake, which disappears over time, because it gets smaller with every slice you take.
 
@@ -34,7 +34,7 @@ In a nutshell, if you want to be a good networker, never ask “How can others h
 
 ## Lesson 2
 
-### Start building your network now, not just when you need it.
+### Start building your network now, not just when you need it
 
 There’s a really cool quote about the principle of starting early. “The best time to plant a tree was 20 years ago. The second best time is today.” (here’s a cool pic of it on my Instagram)
 
@@ -44,7 +44,7 @@ A good networker builds relationships like a marathon runner, not a sprinter. Fo
 
 ## Lesson 3
 
-### How you spend time with people matters a lot more than how much time you spend with them.
+### How you spend time with people matters a lot more than how much time you spend with them
 
 Most people get a headache thinking of networking, because they think of it in terms of width, not depth. You don’t have to have 10,000 contacts, like Keith, and you sure don’t have to send out 10,000 birthday cards each year. A good network doesn’t consist of fleeting acquaintances. It is a web of **real, trusted friends**.
 
@@ -57,7 +57,5 @@ Be open, honest, share vulnerable moments from your life, and, most importantly,
 ## Review
 
 That was a long summary. There’s tons of good stuff in *Never Eat Alone*, and since it mostly draws on Keith’s personal experience, it reads sort of like a biography, which makes the ideas from the book stick really well. Feels very much like a modern version of *How To Win Friends & Influence People,* and that’s a huge compliment!
-
-## Who it’s for
 
 The 12 year old, who’s about to take her first mini job or volunteer a bit on the weekends, the 39 year old, who’s afraid he might’ve hit a career ceiling, and anyone who feels like they haven’t called an old friend in forever.

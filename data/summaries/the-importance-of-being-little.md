@@ -24,7 +24,7 @@ Let’s get right to it and learn how we can help our little ones learn better!
 
 ## Lesson 1
 
-### Children don’t benefit from the current preschool system, which adults designed to benefit themselves.
+### Children don’t benefit from the current preschool system, which adults designed to benefit themselves
 
 If you were to walk into the boardroom of an office, what would you see? Everybody would be sitting down, quietly paying attention. When you go to the average school these days, you’ll find the same thing.
 
@@ -38,7 +38,7 @@ A teacher might tell their students about days and months, for example, without 
 
 ## Lesson 2
 
-### A teacher must incorporate trust and play if they want to help students learn efficiently.
+### A teacher must incorporate trust and play if they want to help students learn efficiently
 
 I don’t remember much from when I was a 6-year-old. But I won’t ever forget the way my first-grade teacher comforted me after I accidentally broke a mug on her desk. I also often remind myself about how much I trusted my fifth-grade teacher when she was helping me reach my full potential.
 
@@ -56,7 +56,7 @@ Remember, engagement always comes first.
 
 ## Lesson 3
 
-### Useless facts don’t do as much for children’s success as skills.
+### Useless facts don’t do as much for children’s success as skills
 
 You’re probably reading the title of this lesson and thinking back to all of those boring classes you hated. I know because it’s exactly what I did when learning this from the book!
 
@@ -73,7 +73,5 @@ It will take time and money to make these changes, but the investment in our chi
 ## Review
 
 *The Importance Of Being Little* is starting to make the idea of homeschooling my kids sound even better! It’s a shame that our society can’t seem to figure this learning thing out. Add this to the growing list of books that identify how broken our education system is!
-
-## Who it’s for
 
 The 60-year-old who thinks that the government’s most important job is anything other than education, the 31-year-old parent of a kid who is about to go into preschool, and anyone with the power to reform the awful public schooling system.

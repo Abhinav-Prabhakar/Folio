@@ -22,7 +22,7 @@ While you think you know these lessons already, there are certain things that ev
 
 ## Lesson 1
 
-### Aiming high is only reasonable when you’re determined to work hard.
+### Aiming high is only reasonable when you’re determined to work hard
 
 Growing up, we were always told to dream big and be whatever we want to be. Aiming high is a healthy approach to your goal setting process, as it can motivate you to raise the bar for yourself. Therefore, the first thing you should do is create a vision for your business.
 
@@ -34,7 +34,7 @@ Then, the masterplan follows. Make sure to include actionable steps, performance
 
 ## Lesson 2
 
-### Loans and credits can keep your company floating, so don’t be afraid of them.
+### Loans and credits can keep your company floating, so don’t be afraid of them
 
 Throughout your life, you will hear a lot of negative reviews on bank loans and credits so high that they ruined someone’s life. However, personal loans and company loans are two separate things. Usually, most start-ups require some funding to get going, as without it, they cannot start operations and generate profits.
 
@@ -48,7 +48,7 @@ Equity funding allows people to invest in your business. While it may not imply 
 
 ## Lesson 3
 
-### The ability to find and retain customers is crucial to your company’s success.
+### The ability to find and retain customers is crucial to your company’s success
 
 Always remember that, as a general business rule, it is more expensive to bring in new customers than to retain the old ones. Recurring buyers are a great source of income, so you’ll want to make sure that they are treated excellent, in order to maintain them. Moreover, loyal customers allow you to plan and forecast better.
 
@@ -63,7 +63,5 @@ The easiest way to do that is by conducting market research and positioning your
 *Boss It* is your go-to guide for everything related to opening up and running a business, from the idea, to the business plan, and effective marketing practices to retain customers. This book will give you all the information needed to open up a thriving company from scratch and run it successfully.
 
 The authors managed to compress extended knowledge from fields like business administration, finance and marketing, under the form of a hardcopy filled with practical tips.
-
-## Who it’s for
 
 The 25-year-old aspiring entrepreneur who wants to start his own company, the 35-year-old who has a small business and wants to learn how to scale it, or the 30-year-old corporate employee who is looking to quit their nine to five job and start their own company.

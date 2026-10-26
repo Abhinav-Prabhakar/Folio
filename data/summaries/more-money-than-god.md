@@ -20,7 +20,7 @@ Now, we’ll take each lesson one by one and learn the ins and outs of the hedge
 
 ## Lesson 1
 
-### Before the 2000s, many hedge funds made money off of short-selling and the snowball effect.
+### Before the 2000s, many hedge funds made money off of short-selling and the snowball effect
 
 You’ve probably heard of the most successful hedge funds in history. They were able to develop new approaches to investing before their contemporary rivals could even understand them. Naturally, there must’ve been something they knew while the others didn’t.
 
@@ -34,7 +34,7 @@ This strategy is also called the “snowball effect”. Investors who watch news
 
 ## Lesson 2
 
-### Different hedge funds had various approaches to investing before they became as popular as they are today.
+### Different hedge funds had various approaches to investing before they became as popular as they are today
 
 Before hedge funds became as popular as they are today, there were many different styles of investing. Some of these strategies had more to do with what was happening in the market than others.
 
@@ -46,7 +46,7 @@ However, after decades of experimenting with different approaches, hedge funds f
 
 ## Lesson 3
 
-### The general opinion wants us to believe that hedge funds are dangerous and that we shouldn’t be investing in them.
+### The general opinion wants us to believe that hedge funds are dangerous and that we shouldn’t be investing in them
 
 In the 1940s, investment was considered a high-risk activity, so hedge funds were created to take advantage of the volatility in financial markets and make money on both upswings and downswings.
 
@@ -65,7 +65,5 @@ It looks like the link between hedge funds and economic catastrophes is not as s
 *More Money Than God* delves into the philosophy of investing that hedge funds developed from their beginnings till today. By learning how to buy stocks that have a higher return potential or bet against currencies or bad investments, you too can learn how to navigate markets and generate higher-than-average returns.
 
 These strategies have been adopted by many other investors in recent years. So there is less demand for hedge fund services than there once was. So, what is stopping you from becoming your own money manager?
-
-## Who it’s for
 
 The 23-year-old trader who wants to make more money off of their trades. The 30-year-old person who wants to capitalize on their savings. Or the 39-year-old aspiring hedge fund manager who wants to learn more about the job.

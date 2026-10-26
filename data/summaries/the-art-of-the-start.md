@@ -20,7 +20,7 @@ Got your winning business idea ready? Let’s jump into these lessons and discov
 
 ## Lesson 1
 
-### Making money isn’t as important as creating meaning.
+### Making money isn’t as important as creating meaning
 
 Before I began my entrepreneurial journey, I was apprehensive about it. I’d see corrupt billionaires and guys advertising their get rich quick scheme with flashy cars and big houses. I wanted nothing to do with any of that stuff. And I definitely didn’t want to become that kind of person.
 
@@ -38,7 +38,7 @@ Nike’s, for example, is “Authentic athletic performance.” And Disney uses 
 
 ## Lesson 2
 
-### If you want purpose and direction from the beginning, prepare your Milestones, Assumptions, and Tasks with the MAT framework.
+### If you want purpose and direction from the beginning, prepare your Milestones, Assumptions, and Tasks with the MAT framework
 
 Have you ever worked at a place that seems like it’s going nowhere? I’ve been there before and it’s not really fun. You don’t want to create this kind of environment for your employees. To avoid this, use the MAT framework to get direction:
 
@@ -56,7 +56,7 @@ Last comes listing the tasks that you need to do on a daily or weekly basis to m
 
 ## Lesson 3
 
-### A business plan will set you up for success.
+### A business plan will set you up for success
 
 In the words of Benjamin Franklin:
 
@@ -77,7 +77,5 @@ The trick to making an effective business plan is making sure the executive summ
 ## Review
 
 *The Art Of The Start* with its talk about iPods and Hummers feels a bit 2004 — because it’s from 2004! Luckily, a version 2.0 recently came out. I’m looking forward to that one!
-
-## Who it’s for
 
 The 24-year-old who is thinking that they want to become an entrepreneur, the 56-year-old CEO that has a new idea for a product but needs some help planning it out, and anybody that wants to know how to start a business.

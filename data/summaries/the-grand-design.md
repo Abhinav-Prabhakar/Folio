@@ -18,7 +18,7 @@ Are you excited to get a better understanding of *The Grand Design*? Let’s get
 
 ## Lesson 1
 
-### Your reality is unique to your perspective and may differ from what others perceive as reality.
+### Your reality is unique to your perspective and may differ from what others perceive as reality
 
 In 2004, the city of Monza, Italy, made an interesting law. It says that people could no longer keep goldfish in a curved bowl. Why? They decided that the way curved glass distorts a goldfish’s vision of the world is cruel.
 
@@ -30,7 +30,7 @@ So by this definition of reality, who’s to say the goldfish isn’t living in 
 
 ## Lesson 2
 
-### Einstein took our understanding of space and time to a much deeper level.
+### Einstein took our understanding of space and time to a much deeper level
 
 At the age of just 26, Albert Einstein single-handedly revolutionized physics as we know it. His Theory of Special Relativity proved that the way each one of us experiences time is relative.
 
@@ -46,7 +46,7 @@ To get a grasp of this, picture a billiard table. With no gravity, the table wou
 
 ## Lesson 3
 
-### Our place in this expanding universe is unique enough to allow us to exist.
+### Our place in this expanding universe is unique enough to allow us to exist
 
 This idea that the universe is still expanding came about in 1929. Astronomer Edwin Hubble discovered that pretty much every galaxy around us is moving away from earth. He also found that as they get further, the speed they travel is getting faster. **The only explanation was that our universe is growing, and because it’s growing, scientists realized it must have been smaller at one time.**
 
@@ -59,7 +59,5 @@ This perfect distance from the sun, not too close or too far. Also, it ensures t
 ## Review
 
 There’s just so much to this science that it gets hard to wrap your head around all of it. Still, I like discovering these ideas so I can at least begin to understand them. The authors do a fairly good job at explaining things for your average person. *The Grand Design* is a fascinating book that I really enjoyed, especially because of the new perspective.
-
-## Who it’s for
 
 The 75-year-old with interest in philosophy. Also, to a 21-year-old who wonders about our place in the universe and anyone who’s into physics and astronomy.

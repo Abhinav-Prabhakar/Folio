@@ -20,7 +20,7 @@ Ready to discover *The Way of Integrity* and find your true self? Let’s go!
 
 ## Lesson 1
 
-### The only true antidote for your emotional suffering is living with integrity.
+### The only true antidote for your emotional suffering is living with integrity
 
 Is your life not what you want it to be? Look deep inside and think about how your life makes you *feel*. You might say you’re *fine,* but is fine really what you want for the rest of your life?
 
@@ -32,7 +32,7 @@ On the flip side, when you are aligned mentally, physically, and spiritually, yo
 
 ## Lesson 2
 
-### Get through the Dark Wood by acknowledging you are lost and survive the Inferno by letting go of things that bring you suffering.
+### Get through the Dark Wood by acknowledging you are lost and survive the Inferno by letting go of things that bring you suffering
 
 Like Dante, you’ll first find yourself in the Dark Wood of Error. You feel alone, and you don’t know how you got to where you are. We feel this inner fog because we live with a dichotomy.
 
@@ -50,7 +50,7 @@ At the center of the lake is Lucifer, and Dante must meet him to leave. The only
 
 ## Lesson 3
 
-### Pass through Purgatory by matching your behaviors and your inner truth, and once these completely align, you are in Paradise.
+### Pass through Purgatory by matching your behaviors and your inner truth, and once these completely align, you are in Paradise
 
 Once Dante exits the Inferno, he finds himself at the base of a giant mountain: Purgatory. This is where people repent to work their way to heaven by performing various tasks. By now, your new way of thinking should help your suffering, but it’s time to align your thoughts with your actions.
 
@@ -65,7 +65,5 @@ The metaphor for you is to find your own personal inner paradise. First, forgive
 ## Review
 
 Whoa, what a mind-blowing book! *The Way of Integrity* is an amazing metaphor for living true to yourself, and I couldn’t be happier that I discovered it. Two thumbs up!
-
-## Who it’s for
 
 The 47-year-old manager who feels like their life is running on autopilot, the 25-year-old that has everything they thought they ever wanted but isn’t sure why they’re still unhappy, and anyone who wants to discover themselves and live true to that identity.

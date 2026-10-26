@@ -22,7 +22,7 @@ I say assets; you say crypto, ready? Crypto! Assets! Let’s go!
 
 ## Lesson 1
 
-### The foundation of all crypto assets is revolutionary blockchain technology.
+### The foundation of all crypto assets is revolutionary blockchain technology
 
 Cryptoassets like Bitcoin and Litecoin wouldn’t be possible without what’s known as the blockchain. In simple terms, it’s a digital directory of who owns crypto and how much they have. But it’s a little more complicated than that.
 
@@ -40,7 +40,7 @@ This technology is so robust in part because deleting anything from it requires 
 
 ## Lesson 2
 
-### You can win in the quickly evolving financial and investing world by being informed and brave.
+### You can win in the quickly evolving financial and investing world by being informed and brave
 
 A few years ago, I put money into the stock market for the first time. It was exciting and also made me nervous at the same time. When your money is on the line, it’s hard to predict what will happen.
 
@@ -58,7 +58,7 @@ Whatever you decide to invest in, make sure to know the risks to keep yourself f
 
 ## Lesson 3
 
-### Don’t throw all caution to the wind when investing in crypto assets; you can still lose.
+### Don’t throw all caution to the wind when investing in crypto assets; you can still lose
 
 Now that you know some of the potential gains let’s prepare you to look at the dangers of investing in crypto.
 
@@ -75,7 +75,5 @@ To fix all of this, diversify your investments. Also, watch out for how the mark
 ## Review
 
 Ah yes, another great book about cryptocurrencies! *Cryptoassets* isn’t the first book I’ve summarized on this topic, but it’s got to be one of my favorites. Give it a read, and I’m certain you’ll like it too!
-
-## Who it’s for
 
 The 61-year-old who’s skeptical about crypto but wants to start investing in it. The 19-year-old that would like to diversify their portfolio, and anybody that wants to be prepared for the revolutionary future of money.

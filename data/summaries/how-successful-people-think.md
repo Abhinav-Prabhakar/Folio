@@ -20,7 +20,7 @@ Regardless of their degrees of success, let’s learn something from good thinke
 
 ## Lesson 1
 
-### Look for learning opportunities in your schedule each day.
+### Look for learning opportunities in your schedule each day
 
 I can’t help but laugh when people are freaking out about insular events, like missing the deadline for their tuition payment in college. I’m not mean, I just see the big picture. Usually, I use this to try and help my friends calm down. “Look, they only put up a deadline so people wouldn’t forget it altogether. Nothing is going to happen, you can just pay it a couple days late.”
 
@@ -32,11 +32,11 @@ John used this to be on high alert when he had dinner with an NFL coach, for exa
 
 ## Lesson 2
 
-### The easiest way to practice creative thinking is to come up with more options for a decision.
+### The easiest way to practice creative thinking is to come up with more options for a decision
 
 Each year, the message seems to become louder: you have to be creative to do work that’s valuable. But to a lot of people “be creative” sounds like a hard and abstract task. But being creative isn’t limited to writing, painting, and singing.
 
-**Every time you make a decision, you have to engage in creative thinking.Even adding just one more option to your roster of possible choices is a creative act**.
+**Every time you make a decision, you have to engage in creative thinking. Even adding just one more option to your roster of possible choices is a creative act**.
 
 For example, take the task of buying cereal. Most of us have our favorite brand, so we run straight to aisle seven and grab a box of Cinnamon Toast Crunch. But what if you considered a new option? As soon as you start to wonder what Cocoa Puffs taste like, how crunchy they might be, and why they turn the milk a brown color, you’re thinking creatively!
 
@@ -57,7 +57,5 @@ You can do this in small and in big ways, but it always works.
 ## Review
 
 The one caveat I have about this book is the one I gave at the beginning. Don’t use it as a checklist, but as an occasional source of inspiration and making thinking itself a habit. Even if all *How Successful People Think* does is get you to set aside a few minutes of your time to practice thinking as a standalone activity, it will have been well worth the read.
-
-## Who it’s for
 
 The 18 year old car salesman, who lives weekend to weekend, the 65 year old business owner coming to the end of his career, and anyone who hasn’t thought about next year lately.

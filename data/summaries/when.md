@@ -20,7 +20,7 @@ Are you ready for an in-depth look a the most neglected of our most common key q
 
 ## Lesson 1
 
-### There’s an emotional pattern each of us follows on any given day.
+### There’s an emotional pattern each of us follows on any given day
 
 If I asked you to divide your day into three parts, you’d most likely first think of morning, afternoon, and evening. For thousands of years, humans have lived through this pattern. However, if I asked you to write down the dominating emotion for each of those parts for a week, we’d spot another, much subtler pattern, as a study by Cornell University analyzing 500 million tweets has found:
 
@@ -32,7 +32,7 @@ Regardless of age, race, gender, and nationality, we all go through some variant
 
 ## Lesson 2
 
-### Figure out your chronotype to produce your best work.
+### Figure out your chronotype to produce your best work
 
 Keeping our daily, emotional cycle in mind, we can learn even more about ourselves if we combine it with something more familiar: our circadian rhythm. Over time, we naturally come to some insight as to when we have our highs and lows throughout the day. “I just can’t get up before 7,” “I’m a night owl,” and “I love to get up early” are lines we’ve all said or heard before.
 
@@ -48,7 +48,7 @@ Whichever type you are, doing boring admin stuff in the afternoon trough is alwa
 
 ## Lesson 3
 
-### Regular breaks and nappuccinos help you save time, not lose it.
+### Regular breaks and nappuccinos help you save time, not lose it
 
 Public awareness about health has risen dramatically in recent years, so the view that breaks are a waste of time is largely outdated, though still prevalent in some older companies and institutions. The science behind how much we should work and how much we should relax is surprisingly much in favor of chilling out.
 
@@ -61,7 +61,5 @@ Saving time by doing less, what a great motto, don’t you think?
 ### When: The Scientific Secrets of Perfect Timing Review
 
 What a great idea to view human performance through the lens of “when?” It’s such an underrated question all around. Bravo, Daniel Pink, *When: The Scientific Secrets of Perfect Timing* is another smash hit in the making!
-
-## Who it’s for
 
 The 19 year old college freshman, who needs to figure out how best to study, the 33 year old graphics designer, who’s stuck with the company’s 9-to-5 schedule, and anyone who’s never tried a nappuccino.

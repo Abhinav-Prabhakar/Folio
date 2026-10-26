@@ -18,11 +18,9 @@ The result is a set of strategies, habits, and practices, which can turn a compa
 
 Want to go from good to great? There you go!
 
-### Good To Great Summary
-
 ## Lesson 1
 
-### Find your Hedgehog concept.
+### Find your Hedgehog concept
 
 If the lion is the king of the jungle, then the hedgehog is the king of the forest. Yup, you read right, the hedgehog.
 
@@ -42,7 +40,7 @@ But no rush – it takes most good-to-great companies 4 years to figure it out, 
 
 ## Lesson 2
 
-### Only adopt new technology if it helps you accelerate your momentum.
+### Only adopt new technology if it helps you accelerate your momentum
 
 Anchor, Musical.ly, Vine, Snapchat, Instagram, Twitter – all of these are less than 10 years old, and there are dozens more – and these are just social networks. We’re *flooded* with an incredible amount of new technology every single year. The question is how much of it really benefits us?
 
@@ -56,7 +54,7 @@ Always be wary of new innovations. Only jump on the bandwagon once you’re conv
 
 ## Lesson 3
 
-### Always confront uncomfortable truths head on, but never lose faith that you’ll work it out.
+### Always confront uncomfortable truths head on, but never lose faith that you’ll work it out
 
 **Realistic optimism** is another habit good-to-great companies share. They don’t put their head in the sand and ignore the hard facts, but they don’t throw their hands up in despair either.
 
@@ -75,7 +73,5 @@ As my Mum always says: **Everyone boils their food in the same water**. So don�
 For this exact reason, this is my third summary of the day. I have to catch up on a few days I missed, and publishing one summary per day is my Hedgehog concept right now. Once I’m at 300+ summaries at the end of the year, I’ll take a look around and figure out where to go next. But until then, my reality is that I have to develop a solid base of content to be even able to play in the big leagues. (Update 2022: I made it! 365 in year one, and we’ve gone on to publish over 1,000 in total so far!)
 
 So far, what I’ve done seems to be working, so everything outlined in this book seems to hold up, which makes it a definite recommend from me. By the way, the follow-up book, published 9 years later, helps great companies thrive in a chaotic world. It’s also on here, of course, and called *Great by Choice*.
-
-## Who it’s for
 
 The 21 year old blogger, who keeps branching out into new industries, exploring topics, but finding herself frustrated with not getting anywhere, the 37 year old agency owner, who always jumps on the latest social media wave, but never rides it long enough to actually win, and anyone who manages other people in their job.

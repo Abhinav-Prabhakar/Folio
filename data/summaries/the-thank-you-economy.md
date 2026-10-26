@@ -20,7 +20,7 @@ Ready to woo your customers? Let’s get social!
 
 ## Lesson 1
 
-### Small town courtship went from 100 to 0 and back.
+### Small town courtship went from 100 to 0 and back
 
 Imagine owning a bakery in 1874. How would you make sure your customers keep coming back to you? You’d probably chat a little with everyone when they come in, since you know most of them anyway. Maybe you’d also give them the occasional loaf of bread free of charge, and ask them about their day, life and family.
 
@@ -36,7 +36,7 @@ Things can backfire quickly on social media, but if you take the time to really 
 
 ## Lesson 2
 
-### Combine social media with traditional ones to get the best results.
+### Combine social media with traditional ones to get the best results
 
 However, that doesn’t mean traditional media is dead. When Gary released his first book, Crush It, he also used billboard, radio, and direct mail ads. And while those drove less orders than even a few tweets, **he reached a certain group of customers he’d never have reached on social media**.
 
@@ -48,7 +48,7 @@ Telling a story that circles across all of your channels is a powerful way to ke
 
 ## Lesson 3
 
-### Live this approach yourself to make sure your employees carry it all the way to your customers.
+### Live this approach yourself to make sure your employees carry it all the way to your customers
 
 Let’s assume your bakery’s grown to 30 employees over the years – how do you get them to jump on board the social media train?
 
@@ -65,7 +65,5 @@ One cool thing about Gary is that he wants to build an empire on being nice, and
 Not Gary though, he’s always trying to scale the unscalable, by reaching out to as many people as possible, always connecting on a deeper level and treating his fans the best.
 
 If there’s anything to learn from Gary and *The Thank You Economy*, it’s that caring about people, really listening and being nice truly pays off. Great read, both on Blinkist and in full length.
-
-## Who it’s for
 
 The 31 year old who’s not on social media, because she thinks it won’t matter for her, the 64 year old day one marketer who still spends 90% of his budget on traditional media, and anyone who’s not actively posting on any of his or her social networks yet.

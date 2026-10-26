@@ -20,7 +20,7 @@ Grab the keys to the Magic School Bus and let’s go on a journey of microscopic
 
 ## Lesson 1
 
-### Neither our planet nor your body could function properly if it weren’t for the nearly infinite microbes that cover everything.
+### Neither our planet nor your body could function properly if it weren’t for the nearly infinite microbes that cover everything
 
 Did you know that if the earth’s 4.5 billion years of existence were a calendar year, humans would show up for the last 30 minutes of December 31st? Microbes, on the other hand, would have been around since March. Microbes have been around for a very long time. And though we don’t realize it, they shaped the world as we know it today.
 
@@ -32,7 +32,7 @@ You can find microbes just about anywhere on earth, from a 400-degree volcano to
 
 ## Lesson 2
 
-### Take care of your microbiome if you want to be healthy.
+### Take care of your microbiome if you want to be healthy
 
 You probably know someone who is really grossed out when it comes to germs and goes to extremes to keep things clean. But if you really want to stay healthy, there are some things you need to learn about microbes and your immune system.
 
@@ -46,7 +46,7 @@ This exposure is most important in early childhood, where in the past kids were 
 
 ## Lesson 3
 
-### Engineering microbe systems has a lot of potential to improve our healthcare.
+### Engineering microbe systems has a lot of potential to improve our healthcare
 
 You may have taken probiotics in the past and been a bit disappointed at the lack of results. The problem with probiotics, including yogurt, is that it is harder to make a lasting impact because the bacteria they contain is foreign to the gut. Adding just a few of these won’t change much.
 
@@ -59,7 +59,5 @@ Researchers are now trying to find other ways to use these genetic switches in m
 ## Review
 
 Whoooooah this is all so cool! *I Contain Multitudes* is an amazing book! If you’re the kind of person that loves science or thinks that germs and microbes are gross, you’ve got to read this book.
-
-## Who it’s for
 
 The 32-year-old new mom who can’t handle letting their kids touch anything that might get them sick, the 59-year-old that loves reading about the science of the body, and anyone that wants to learn about a highly misunderstood aspect of their health.

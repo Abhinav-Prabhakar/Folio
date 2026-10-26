@@ -20,7 +20,7 @@ Are you excited for a new, more fulfilling life? Let’s dig right in and get to
 
 ## Lesson 1
 
-### Forget about changing your lifestyle or appearance, true self-improvement comes from expanding your mind.
+### Forget about changing your lifestyle or appearance, true self-improvement comes from expanding your mind
 
 Most people get excited about changing themselves every year and set goals. Usually, that means trying to get healthier. Just consider how just mentioning the word “goals,” makes you think of weight loss.
 
@@ -36,7 +36,7 @@ There will always be a limit to how fast you can run or how much weight you can 
 
 ## Lesson 2
 
-### To make your biggest dreams become reality, focus first on nourishing your thoughts.
+### To make your biggest dreams become reality, focus first on nourishing your thoughts
 
 Look around you. What do you see? Where do you live? What are you doing every day? Take a close look and consider it all. Everything you have, do, and are, is the result of a thought you once had.
 
@@ -54,7 +54,7 @@ Last comes letting go of the fear of failure. Realize that as long as you’re w
 
 ## Lesson 3
 
-### Believe that your achievements have no limits to break through your invisible boundaries and reach your full potential.
+### Believe that your achievements have no limits to break through your invisible boundaries and reach your full potential
 
 Would you say that you’re dedicating your life to what you love? The sad truth is that your job probably isn’t something you’re crazy about. It only places limits on what you can do, wear, and become.
 
@@ -73,7 +73,5 @@ Start by being grateful for everything you have. You’ll soon realize that ther
 ## Review
 
 I love books about the power we all have to build a happy, fulfilling life with just our minds. *You’ll See It When You Believe It* is a powerful reminder of how real joy in life comes from within, not outside ourselves. Worth a try!
-
-## Who it’s for
 
 The 57-year-old who watches too much news and bases their happiness on world events, the 31-year-old that tries to improve themselves but doesn’t ever feel fulfilled, and anyone that wants some inspiration to get up and change their life.

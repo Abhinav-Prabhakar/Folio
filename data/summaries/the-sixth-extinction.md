@@ -22,7 +22,7 @@ Want to learn more about the real cost of human activity on Planet Earth – but
 
 ## Lesson 1
 
-### Human activity contributes to the sixth mass extinction in several observable ways.
+### Human activity contributes to the sixth mass extinction in several observable ways
 
 Where do I even start? Human activity, especially during the industrial era, has affected other species in so many ways, that it is challenging to wrap it all up in just a few paragraphs.
 
@@ -38,11 +38,11 @@ This means that the migration barriers that are essential to maintaining biodive
 
 ## Lesson 2
 
-### As soon as homo sapiens emerged, it started causing many species to go extinct.
+### As soon as homo sapiens emerged, it started causing many species to go extinct
 
 It is fairly easy to observe the human impact threatening Earth’s biodiversity today. But, as scientists are now finding out, our profound impact on the planet hasn’t started with the industrial revolution.
 
-**In fact, the very nature of*homo sapiens*primes us to be a threat to the ecological balance.** That’s because it is in our human nature to be restless, creative, solve problems, cooperate and take risks. All these evolutionary traits led us to transcend the natural limitations that no other species before us had. Unfortunately, they also turned out to be destructive to the world around us.
+**In fact, the very nature of *homo sapiens* primes us to be a threat to the ecological balance.** That’s because it is in our human nature to be restless, creative, solve problems, cooperate and take risks. All these evolutionary traits led us to transcend the natural limitations that no other species before us had. Unfortunately, they also turned out to be destructive to the world around us.
 
 For example, early humans were really fond of hunting. They engaged in it so aggressively, that it threatened the survival of some big animal species in the prehistoric era. As Kolbert says, due to the use of increasingly elaborate tools, early humans became dangerous to big mammals that otherwise didn’t have a natural predator – such as rhinoceros or mammoth.
 
@@ -50,7 +50,7 @@ Due to their competitive nature, *homo sapiens* also had a hand in erasing their
 
 ## Lesson 3
 
-### There are many ways in which we can mitigate the sixth mass extinction – and that’s what we should be doing.
+### There are many ways in which we can mitigate the sixth mass extinction – and that’s what we should be doing
 
 Kolbert emphasizes that all those facts about how destructive the human race has been in the world shouldn’t put us in a fatalistic mood. As I said in the previous lesson, the qualities that contributed to the *homo sapiens* causing the sixth mass extinction are the same ones that enabled us to advance as a species.
 
@@ -65,7 +65,5 @@ The big question is: will we use our power wisely?
 ## Review
 
 *The Sixth Extinction* is a different kind of an environmental book. It tries to shift the rhetoric from *blaming* humans for the current environmental issues to simply *naming facts*. Among these facts are the innate qualities of the *homo sapiens*, to which Kolbert attributes the way in which our advancement has harmed the planet. This causes the reader to feel no guilt, which is common with other environmental reads – but rather, to understand the processes described and feel empowered to act.
-
-## Who it’s for
 
 The 20-year-old environmental activist who think humans are to “blame” for the climate crisis, the 35-year-old young parent worried about the future of their children in the era of environmental threats and to anyone interested in natural sciences.

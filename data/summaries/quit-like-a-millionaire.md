@@ -20,7 +20,7 @@ Are you ready to set your sights on retirement at age 40? Let’s learn!
 
 ## Lesson 1
 
-### Do the math rather than going with your gut to decide what you want to do.
+### Do the math rather than going with your gut to decide what you want to do
 
 Okay, I know how this one sounds. Kind of depressing? Many wealthy people including Steve Jobs have given career advice that’s something along the lines of “Follow your heart.” Doing something you love can really pay off, right? Shen teaches that this is often the wrong choice.
 
@@ -32,7 +32,7 @@ So, she followed the math and went with engineering. And today she is a writer. 
 
 ## Lesson 2
 
-### Avoid consumer debt and spend money on experiences instead.
+### Avoid consumer debt and spend money on experiences instead
 
 If you’ve read Dave Ramsy’s *The Total Money Makeover,* you know by now that debt is your worst enemy. All it does is trap you in an endless, stressful cycle of work and repayment. If you want to be financially independent, get rid of all of your debts as fast as possible. The worst debt is consumer debt because it has the highest interest rates.
 
@@ -42,7 +42,7 @@ When you do have a little money to spend, it will be best spent on experiences r
 
 ## Lesson 3
 
-### If you want to retire early, make good investments and learn how to save.
+### If you want to retire early, make good investments and learn how to save
 
 A lot of people are cautious when it comes to debt, but the one exception most people have is a mortgage. Shen says people should think twice before diving into the housing market. A lot of people are actually better off just renting.
 
@@ -55,7 +55,5 @@ Be willing to sacrifice things now, like only eating out once a week or maybe se
 ## Review
 
 If *Quilt Like A Millionaire* doesn’t convince you that you are totally capable of making the kind of money you’ve always wanted, I don’t know what will. It’s smart and has some fresh and applicable financial advice to offer. It will make you rethink the way you spend money and help you realize that with a little sacrifice, you can have a much less stressful life, and maybe even an early retirement.
-
-## Who it’s for
 
 The 38-year-old office worker who is sick and tired of the 9-5 grind, the 23-year-old who is a great self-starter and hustles, and anyone who would like to retire early.

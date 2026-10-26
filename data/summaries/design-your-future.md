@@ -22,7 +22,7 @@ Get your calculator and drafting pen ready because we’re about to learn how to
 
 ## Lesson 1
 
-### If you want to beat the fear that keeps you stuck, try awakening, disrupting, and designing.
+### If you want to beat the fear that keeps you stuck, try awakening, disrupting, and designing
 
 When you’re in a career you hate, the hardest part is breaking free. Usually, it’s so difficult that external events like getting fired are the only way you can get out. This is exactly what happened to me, but it was just the push I needed to start the life I now love.
 
@@ -46,7 +46,7 @@ Once you have an idea of what works, you can start designing your life, which is
 
 ## Lesson 2
 
-### To get inspired with the courage to change course, visualize what your life will be like in the future if you don’t change.
+### To get inspired with the courage to change course, visualize what your life will be like in the future if you don’t change
 
 One of the things that terrified me the most about my career situation before I changed it was what my manager’s lives were like. They worked 50-60 hour weeks and hardly ever took vacations.
 
@@ -64,7 +64,7 @@ You can have the same experience, just ask yourself where you’ll end up in a f
 
 ## Lesson 3
 
-### Success comes to those who follow daily rituals and keep track of their progress toward their goals with a scorecard.
+### Success comes to those who follow daily rituals and keep track of their progress toward their goals with a scorecard
 
 About a year ago I set up my first scorecard to track my daily efforts. I was amazed at how quickly I began changing things that seemed so difficult before. Within just 12 weeks I’d lost 10 pounds and almost doubled my income!
 
@@ -79,7 +79,5 @@ It’s also helpful to make your evenings effective with rituals that set you up
 ## Review
 
 Here’s yet another example of the power of choosing to follow your dreams instead of being limited by the status quo! I love *Design Your Future*, it’s inspiring, practical, and will help everyone. I’ve already seen these principles work for me so I know they’ll work for you too!
-
-## Who it’s for
 
 The 28-year-old who has only been in his first job out of college for a few years but doesn’t want to have a life like he sees that his managers have, the 47-year-old who is afraid to quit their job and follow their true career dreams, and anyone that wonders if there’s a better life than the daily grind.

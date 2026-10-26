@@ -18,7 +18,7 @@ Curious to see what happened in the 2016 election? Let’s get right to these le
 
 ## Lesson 1
 
-### A shocking loss on election night left Clinton reeling, and she had to take time to take care of herself and process what happened in the months after.
+### A shocking loss on election night left Clinton reeling, and she had to take time to take care of herself and process what happened in the months after
 
 Hillary won’t ever forget the feeling of finding out she lost the election to Trump in the early hours of November 9, 2016. It was tough having to call Trump and congratulate him, but it was even harder for her to call President Obama to apologize for letting him down. Obama only had kind words for her, and he reassured her that life would go on.
 
@@ -32,7 +32,7 @@ She admits she did feel angry at times, but she made sure that this anger didn�
 
 ## Lesson 2
 
-### Clinton had unselfish reasons for running, but her campaign suffered because she wasn’t able to adequately get that message out.
+### Clinton had unselfish reasons for running, but her campaign suffered because she wasn’t able to adequately get that message out
 
 Many people believe one of the main problems with Hillary’s campaign was that it didn’t successfully tell people *why* she was running for president. Did she just feel entitled? Clinton wants to set the record straight: She never felt power-hungry in her ambitions — she really is passionate about public service and always has been. She says she ran because she honestly felt it was a job she would be good at.
 
@@ -44,7 +44,7 @@ Unfortunately, polls confirmed many people were unfamiliar with her actual quali
 
 ## Lesson 3
 
-### Clinton’s campaign took major hits with the emails and a surprise FBI investigation.
+### Clinton’s campaign took major hits with the emails and a surprise FBI investigation
 
 One of the biggest shadows over Clinton’s campaign were the notorious emails. When she was Secretary of State under President Obama, she used a private email account for correspondences. She considers this mistake one of her top regrets.
 
@@ -61,7 +61,5 @@ Just before the release of the letter, Clinton was finally leaving the email sto
 ## Review
 
 *What Happened* wasn’t too much of a surprise to me because I recently summarized *Shattered*, which is about the same thing. It was really interesting to learn about this from Hillary’s perspective, though!
-
-## Who it’s for
 
 The 45-year-old Democrat who was furious with the outcome of the 2016 US presidential election, the 18-year-old girl who wants to become a politician, and everyone who wonders what really happened to Hillary Clinton’s presidential campaign.

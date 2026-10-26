@@ -22,7 +22,7 @@ Grab a notepad and let’s find out why *Everybody Matters* in your company!
 
 ## Lesson 1
 
-### To thrive in business, focus on caring about your employees.
+### To thrive in business, focus on caring about your employees
 
 That old company I used to work for was profitable, at least most of the time. It did care about the vital factors of profits and expenditures. But it missed out on an opportunity to become so much more, if only it’s leaders would have actually cared about any of us.
 
@@ -38,7 +38,7 @@ So make sure to ask at least whether or not they feel secure at work. And also c
 
 ## Lesson 2
 
-### Let your people make their own decisions if you want them to be happy at work, loyal, and productive.
+### Let your people make their own decisions if you want them to be happy at work, loyal, and productive
 
 Another common occurrence at my old job was to hear about executive decisions that were made without any employee input. The mid-level managers weren’t even paid more for their leadership tasks! And the executives wouldn’t budge on this and many other choices they made.
 
@@ -54,7 +54,7 @@ When they can use their strengths and ideas, people feel empowered and are more 
 
 ## Lesson 3
 
-### You need to get a clear vision of your culture and future if you want to inspire your team members.
+### You need to get a clear vision of your culture and future if you want to inspire your team members
 
 If you’ve ever worked for a company that didn’t know where it wanted to go, you know how hard it can be to stay motivated. And if that company happens to be yours, then fix this by visioning.
 
@@ -69,7 +69,5 @@ After figuring this out, however, it was time to look to the future. Seeing that
 ## Review
 
 As one who has worked for a company with a highly dysfunctional management system, this book was a huge relief. *Everybody Matters* teaches the future of business and I think every leader in every company needs to read it. The advice it contains is as inspiring as it is practical and will transform the work life of everyone who reads it!
-
-## Who it’s for
 
 The 48-year-old who owns a business and wants to know the best way to take care of their employees, the 32-year-old manager whose team members keep quitting and he isn’t sure why, and anyone that wants to improve their workplace culture.

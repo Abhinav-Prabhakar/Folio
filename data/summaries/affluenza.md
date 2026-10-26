@@ -20,7 +20,7 @@ Get ready to get the vaccination for the affluenza virus! Let’s begin!
 
 ## Lesson 1
 
-### If you think you need the latest version of the iPhone to be happy, you’re trying to cover your misery but you’re only making it worse.
+### If you think you need the latest version of the iPhone to be happy, you’re trying to cover your misery but you’re only making it worse
 
 Have you ever been really excited about getting the brand new version of a smartphone? When you buy it and open it, it can feel exhilarating. But after a couple days with the new phone, it’s no longer exciting because the novelty has worn off. This is just one example of how buying things only created a momentary satisfaction, but it will never make us happy.
 
@@ -34,7 +34,7 @@ Couples are spending less time socializing with each other. The author calls thi
 
 ## Lesson 2
 
-### Buying less stuff will make you happier.
+### Buying less stuff will make you happier
 
 So how can we fight this plague? The first is coming clean with yourself. Come to terms with the fact that buying things will never make you happy while buying less actually can. Science has actually proved this. A 1995 survey found that 86 percent of people who voluntarily cut their consumption down reported being happier.
 
@@ -46,7 +46,7 @@ In Cecile Andrews’ book, *The Circle of Simplicity,* she talks about how anyon
 
 ## Lesson 3
 
-### Education about media tactics and undermining its influence on you are the immunization against the affluenza virus.
+### Education about media tactics and undermining its influence on you are the immunization against the affluenza virus
 
 The next step to ridding yourself of affluenza is understanding media tactics and finding a way to become immune to these tactics. Everywhere we look, whether it’s billboards, magazines, or anywhere on the internet, we are exposed to advertising that compels us to buy more and more, even if we don’t need it.
 
@@ -61,7 +61,5 @@ In response, some schools have started to teach kids to analyze media, an effort
 ## Review
 
 While I really like the message that *Affluenza* teaches, there was definitely a little bit of a political agenda in it. But the idea that we can all live happier if we consume less is amazing. I’ve found it to be true for myself and I’m certain you will too!
-
-## Who it’s for
 
 The 23-year-old who thinks that having the latest version of the iPhone will make them happy, the 45-year-old parent that wants to find simple ways to make their children have better lives, and anyone that wants to increase their pleasure in the simple joys of life.

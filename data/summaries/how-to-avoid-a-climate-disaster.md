@@ -26,17 +26,15 @@ Let’s see what we can discover from his ideas about just 3 of these:
 
 Can’t take the heat? Get out of the kitchen! Or just listen to Bill Gates because he’s smarter than you are. Let’s get right to it!
 
-### How To Avoid A Climate Disaster Summary
-
 ## Lesson 1
 
-### We need to get creative so we can get our electrical energy uses to zero emissions.
+### We need to get creative so we can get our electrical energy uses to zero emissions
 
 One of the best places to begin is our electricity consumption. That’s because it has such a big impact in the other categories that the effects can be widespread.
 
 The reason we still use fossil fuels for electricity is that they’re more efficient than planet-safe alternatives like nuclear and hydroelectric. Although these options have some drawbacks that make them difficult, they will be worth it in the end.
 
-Nuclear, for instance, has had its name unfairly tainted by disasters like what happened at Chernobyl and Fukushima. **But if we compare death rates,nuclear is still much less deadly than fossil fuels.**
+Nuclear, for instance, has had its name unfairly tainted by disasters like what happened at Chernobyl and Fukushima. **But if we compare death rates, nuclear is still much less deadly than fossil fuels.**
 
 Wind and solar are also tough because they’re not constant. We’ll need big, expensive batteries to store excess energy when they produce a lot so we can use it at other times when these sources don’t produce well.
 
@@ -46,7 +44,7 @@ If we can find ways to change these over to renewables and supplement any defici
 
 ## Lesson 2
 
-### Fixing our transportation greenhouse emission problems is expensive but worth it.
+### Fixing our transportation greenhouse emission problems is expensive but worth it
 
 *Green Premiums* are the additional cost necessary to switch an energy source to more climate-friendly options. Concrete, for example, costs about $125 to make. If we used carbon capture technology to make it cleaner, it would be upwards of $300. That’s a 140% increase!
 
@@ -64,7 +62,7 @@ This means we’ve got to invest in making breakthroughs in these areas before w
 
 ## Lesson 3
 
-### Improving the way we heat and cool things is one area that we can make immediate adjustments to help stop climate change.
+### Improving the way we heat and cool things is one area that we can make immediate adjustments to help stop climate change
 
 Sales of air conditioning units are skyrocketing around the world and they’re expected to keep growing.
 
@@ -81,7 +79,5 @@ Although it might sound expensive to switch to clean energy, it’s more cost-ef
 ## Review
 
 *How To Avoid A Climate Disaster* is a fantastic book that I think everybody needs to read. For the sake of my children’s future, I really hope that big businesses and political leaders will listen and make the changes necessary to save our world!
-
-## Who it’s for
 
 The 74-year-old conservative who thinks that climate change is a hoax, the 25-year-old that wants to know what they can do to help reduce carbon emissions, and every leader whose company is not yet actively trying to reduce emissions.

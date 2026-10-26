@@ -24,7 +24,7 @@ Are you ready to get your financial act together? Let’s get into it and learn 
 
 ## Lesson 1
 
-### You’ll find the roadblocks holding you back from managing money well when you look at your first experiences with it.
+### You’ll find the roadblocks holding you back from managing money well when you look at your first experiences with it
 
 You don’t have to be a NASA engineer to understand how to budget. The principles of budgeting and saving are pretty simple, after all. But why is it so difficult then?
 
@@ -46,7 +46,7 @@ Whatever it was, digging up those old memories will help you see what stands in 
 
 ## Lesson 2
 
-### Budgeting can be as simple as finding fixed costs and setting percentages for that and other categories of expenses.
+### Budgeting can be as simple as finding fixed costs and setting percentages for that and other categories of expenses
 
 It might seem like your spending goes into many categories that are difficult to organize. But if you break it down, there are three things that your money generally goes to:
 
@@ -66,7 +66,7 @@ With a little over $1,000 left, it’s difficult to set 20%, or $500, aside each
 
 ## Lesson 3
 
-### You need to get credit cards and pay them off every month if you want to make big purchases like a house.
+### You need to get credit cards and pay them off every month if you want to make big purchases like a house
 
 Having the seemingly endless supply of money that comes from having a credit card sounds nice, but it can be really dangerous. There are a lot of pitfalls to be aware of. But if you want your financial resume to be complete, you’ve got to get them.
 
@@ -81,7 +81,5 @@ Make that same promise to yourself that you’ll only spend what you can pay off
 ## Review
 
 I have to be honest, the advice from *Broke Millennial* seems very basic. These are pretty introductory-level financial tips and, although it mentions financial freedom, they won’t really get you there. At best these lessons can keep you from staying broke, but they certainly aren’t going to make you rich.
-
-## Who it’s for
 
 The 18-year-old that wants a good review of their high school financial literacy class, the 49-year-old that’s bad with money but doesn’t realize it comes from a dysfunctional belief about it that they’ve had since childhood, and anyone that would like a simple explanation of the most basic money-management advice.

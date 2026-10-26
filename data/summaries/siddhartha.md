@@ -18,11 +18,9 @@ Here are three other life-changing lessons from this fiction classic of German l
 
 The secrets of enlightenment may be easier to uncover than you think, and these lessons will prove it to you!
 
-### Siddhartha Summary
-
 ## Lesson 1
 
-### True harmony comes from living peacefully with oneself and finding balance between spirituality and materiality.
+### True harmony comes from living peacefully with oneself and finding balance between spirituality and materiality
 
 The story of Siddhartha’s journey to enlightenment is a story of the interplay between materiality and spirituality. At first, he thinks that the material world is all there is. But then he realizes that it’s not complete without the spiritual one, and vice versa.
 
@@ -34,7 +32,7 @@ Siddharta finds balance where spirituality meets the materialistic world from a 
 
 ## Lesson 2
 
-### Just as Siddhartha found a light in the fisherman, we must look for our own source of enlightenment and follow it.
+### Just as Siddhartha found a light in the fisherman, we must look for our own source of enlightenment and follow it
 
 In life, we all have to find our light or goal and reach it to fulfill ourselves. In this novel, the fisherman represents Siddhartha’s goal of enlightenment and freedom from his suffering.
 
@@ -48,7 +46,7 @@ When Siddhartha meets him first as a young man and again later in life after man
 
 ## Lesson 3
 
-### The Universe is made of all things combined, living in a harmonious union.
+### The Universe is made of all things combined, living in a harmonious union
 
 The universe is highly interconnected and vast. It’s almost as if there is no beginning or end to it, which makes it as mysterious as it is beautiful. **To understand this magnitude of information, Siddhartha turns to the river.**
 

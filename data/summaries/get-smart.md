@@ -18,7 +18,7 @@ A huge proportion of intelligence has nothing to do with IQ. Today, we’ll expa
 
 ## Lesson 1
 
-### Try to see things in their entirety, even if you might fail.
+### Try to see things in their entirety, even if you might fail
 
 You might have heard that we only use 10%, or 2%, or some low share of our brain. That’s a myth. We don’t use all of our brain’s cells simultaneously, but we do use 100% over the course of a 24-hour day. What we use them *for*, however, is a different story.
 
@@ -32,7 +32,7 @@ Even if you fail to see the whole, you’ll still see more than most people. And
 
 ## Lesson 2
 
-### Find unbiased information by making time to think slowly and consider your path towards your goals.
+### Find unbiased information by making time to think slowly and consider your path towards your goals
 
 Brian makes a great analogy about human thoughts: they’re like bubbles in a champagne glass. Everything is fizzing, all the time, but the bubbles pop fast too. Often, the spark fizzles out soon and the bubbles were, well, just filled with air.
 
@@ -44,7 +44,7 @@ It takes a conscious effort to get new input from the fast system to the slow sy
 
 ## Lesson 3
 
-### Take three precautions to avoid mechanical thinking.
+### Take three precautions to avoid mechanical thinking
 
 One style of thinking that’s been systemically trained out of us for the past 110 years, but is becoming more important by the minute, is creative thinking. Since the dawn of the assembly line, workers have been trained to think as mechanically as the machines they operate and now it costs us dearly.
 
@@ -61,7 +61,5 @@ We’re working on robots to take over mechanical labor. We might as well ditch 
 ## Review
 
 This book is straightforward. It introduces you to several scientific ideas from performance psychology, supplemented with little tips to implement the mindsets behind them. If you’re new to this field and are looking for a combination of philosophical ideas about productivity, inspiration and actionable tactics, *Get Smart!* is a good place to start.
-
-## Who it’s for
 
 The 22 year old student, who’s new to psychology and wants to learn the basics fast, the 49 year old manager in a medium-sized company, who’s been doing things the same way for a long time, and anyone who loves Zen stories.

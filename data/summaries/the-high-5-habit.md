@@ -16,8 +16,6 @@ Let’s explore my three favorite lessons from the book:
 
 If these lessons seem a bit difficult to understand at first glance, don’t worry, as we’ll explore them one by one. Here we go!
 
-### The High 5 Habit Summary
-
 ## Lesson 1
 
 ### Make it a morning habit to high-five yourself in the mirror
@@ -51,7 +49,5 @@ Secondly, you’ll have to look for them. Look for the good side of things, or s
 ## Review
 
 *The High 5 Habit* explores the simple yet effective habit of high-fiving yourself in the mirror every morning to kickstart your day with a bit of boost. This life tip changed how Robbins started her day and went on with it while significantly improving her confidence levels. Therefore, she decided to let the whole world know that this simple trick, followed by a positive mentality and constantly looking for the half-full side of the glass, can turn anyone’s life around right away.
-
-## Who it’s for
 
 The 24-year-old person struggling with self-esteem, the 30-year-old person who feels stuck in a rut and wants to become more motivated and confident, or the 35-year-old person going through a life-changing situation, such as a weight-loss journey, and needs to stay motivated.

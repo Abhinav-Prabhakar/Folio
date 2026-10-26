@@ -18,11 +18,9 @@ Here are 3 lessons I’ve learned about leadership from these Navy SEALs:
 
 I hope you’re looking forward to learning from some of the top leaders in the world, let’s go!
 
-### Extreme Ownership Summary
-
 ## Lesson 1
 
-### A team’s success depends on the leader’s willingness to take blame for failure.
+### A team’s success depends on the leader’s willingness to take blame for failure
 
 It’s 2012 and Jocko Willink finds himself in Ramadi, Iraq leading a SEAL task unit. When the team starts taking heavy fire from what they thought was the enemy, a soldier loses his life. To their horror, the group later learns that bullets from their assumed enemy were actually friendly fire from another unit. What was Willink to do seeing as he was the ranking officer in the operation?
 
@@ -34,7 +32,7 @@ The principle to remember in leadership here is that the attitude of a leader us
 
 ## Lesson 2
 
-### Identify priorities and take action on them one at a time to remain efficient when the pressure mounts.
+### Identify priorities and take action on them one at a time to remain efficient when the pressure mounts
 
 Imagine that you’re deep in enemy territory and a comrade suddenly falls 20 feet after stepping on a tarp that he thought was a roof. Now you’ve got an injured soldier and your team is at risk of being harmed. What’s more, there’s an enemy bomb at the exit of the building you’re in. What do you do?
 
@@ -46,7 +44,7 @@ Business is the same way. When the tension mounts and you have to make decisions
 
 ## Lesson 3
 
-### Effective leaders mitigate risks before a mission or project begins.
+### Effective leaders mitigate risks before a mission or project begins
 
 One experience one of the authors had was a mission to rescue an Iraqi taken hostage by Al-Qaeda. Not long before the mission, his intelligence officer let Babin know that the hostage was guarded by machine guns in bunkers and surrounded by explosives.
 
@@ -59,7 +57,5 @@ In a management position, you are responsible to know the hazards ahead of any p
 ## Review
 
 Wow, this is a really fascinating and intense read! I really enjoyed the stories of their experiences on the battlefield that the authors share in *Extreme Ownership*. I’m grateful for their sacrifices and service not only to protect their country, but also to teach us these valuable lessons of leadership.
-
-## Who it’s for
 
 The 36-year-old entrepreneur who would like to have their business proposals taken seriously, the 46-year-old manager that wants to become better at taking charge in a way that isn’t offputting to her team, and anyone who would like to develop their leadership skills.

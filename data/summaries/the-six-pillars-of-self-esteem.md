@@ -18,7 +18,7 @@ Ready to assert your right to be happy? Time for a pep talk!
 
 ## Lesson 1
 
-### Self-esteem is like calcium: a lack won’t kill you, but you can’t truly live without it.
+### Self-esteem is like calcium: a lack won’t kill you, but you can’t truly live without it
 
 You can read headlines like “10 Tips to Appear More Confident” or”How to Boost Your Self-Esteem” everywhere, but if I asked you to really explain what self-esteem is, could you do it?
 
@@ -34,7 +34,7 @@ This is because self-esteem works like a self-fulfilling prophecy. The more you 
 
 ## Lesson 2
 
-### Accept yourself as you are and take responsibility for 100% of the things that happen in your life.
+### Accept yourself as you are and take responsibility for 100% of the things that happen in your life
 
 I can’t describe all six pillars here, but number 2 and 3 are important. They are **self-acceptance and self-responsibility**, which may be a bit hard to differentiate at first, so let me try.
 
@@ -61,7 +61,5 @@ The fact that you and I are surrounded by plenty of dishonest hypocrites makes i
 ## Review
 
 This summary took forever to write, simply because I didn’t know what parts to pick. That’s a very good sign. *The Six Pillars Of Self-Esteem* is quite complicated, but the blinks make Branden’s abstract concepts easy to understand – a perfect book to read a summary of, highly recommended!
-
-## Who it’s for
 
 The 16 year old, who’s being bullied in school, the 39 year old, who’s had a screenplay in her head for about 10 years now, and anyone who blames the economy for being broke.

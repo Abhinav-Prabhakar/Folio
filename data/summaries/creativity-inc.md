@@ -24,7 +24,7 @@ Creativity, here we come!
 
 ## Lesson 1
 
-### Great teams are more important than great ideas.
+### Great teams are more important than great ideas
 
 One of the most popular and insightful quotes from the book is this one:
 
@@ -38,7 +38,7 @@ Hire inspired people, then give them good ideas. Never try to do it the other wa
 
 ## Lesson 2
 
-### Mistakes are always made by teams, never by individuals. Everyone is equally responsible.
+### Mistakes are always made by teams, never by individuals. Everyone is equally responsible
 
 Instead of being surprised by failure when it happens, the people at Pixar acknowledge it up front. They greet it right at the door. By accepting that mistakes are just part of the deal, they can design their processes to be iterative, meaning they can weed out the mistakes they find with the next project and not repeat them again, and don’t have to obsess over correcting them with the current project.
 
@@ -56,7 +56,7 @@ Failure-sharing is exactly that. Only when everyone feels safe to take risks do 
 
 ## Lesson 3
 
-### Let everyone design their own workspace to keep boredom out of your building.
+### Let everyone design their own workspace to keep boredom out of your building
 
 While you should greet failure at the door, there’s one thing you should definitely hand over before you enter your building, and that’s boredom.
 
@@ -73,7 +73,5 @@ One way Pixar does this is by giving people in the tools department two days a m
 ## Review
 
 Ed Catmull is over 70 years old. And he’s still going. That’s probably the biggest sign that he loves his work, the people love him and that they all know what they’re doing. *Creativity, Inc.* is a truly inspiring book, even if you’re not running a company, one of my absolute favorites this year!
-
-## Who it’s for
 
 The 21 year old graphic designer, who’s just getting started with her first job after college, the 43 year old movie project manager, who needs to get people to work together productively, but still be creative, and anyone who loves animated movies and wants to know how they’re made.

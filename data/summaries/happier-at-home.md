@@ -18,7 +18,7 @@ Ready to help yourself to a happy home? Here we go!
 
 ## Lesson 1
 
-### Unclutter your home.
+### Unclutter your home
 
 It sounds so simple, but I can vouch that this is life-changing. Go through all of the possessions in your house, one by one, pick them up and ask yourself this: **“When’s the last time I used this? How much do I like it?”**
 
@@ -34,7 +34,7 @@ Less clutter = more happiness.
 
 ## Lesson 2
 
-### Underreact to problems.
+### Underreact to problems
 
 Overreacting is overrated. **Why not underreact to problems for a change?**
 
@@ -44,7 +44,7 @@ So stop being a drama queen (or king), take a deep breath, and get people to sol
 
 ## Lesson 3
 
-### Get to know your neighbors.
+### Get to know your neighbors
 
 The bigger your family, the bigger your happiness, that makes sense, right? So how about extending your family by connecting with your neighbors? Over 30% of Americans don’t even know who their neighbors are, which is quite a depressing statistic for a species that has for thousands of years relied on one another to survive.
 
@@ -59,7 +59,5 @@ They might become part of your family circle and thus play a great role for your
 *Happier At Home* is short, to the point, personal, relatable and actionable. The summary on Blinkist is jam-packed with tips and insights, usually multiple in one blink. Gretchen really knows how to conduct proper experiments and document the results.
 
 I loved the idea of underreacting to problems and displaying important memorabilia front and center. Now guess what I’ll do once I press publish on this. Especially if you’re in a slump in your family life, I recommend you run some experiments to become *Happier At Home*.
-
-## Who it’s for
 
 The 13 year old teenage girl, who thinks every minute spent with family at home or on a trip is a punishment right now, the 42 year old Dad, who spends a lot of time at work, and wants his home to be an oasis of happiness, and anyone who thinks their home is a little cluttered.

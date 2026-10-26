@@ -20,7 +20,7 @@ Let’s dive right in!
 
 ## Lesson 1
 
-### Specific groups of people are the future of marketing, not attempting to get as many eyes on your company as possible.
+### Specific groups of people are the future of marketing, not attempting to get as many eyes on your company as possible
 
 To understand marketing today, we need to take a quick look at history. In the 1960s only three major television channels existed in the United States. If you wanted people to see what you were selling, you’d want to run an ad on one of these channels. After getting millions of eyes on your product, you’d likely meet your marketing goals and make more money.
 
@@ -30,7 +30,7 @@ The answer, Godin suggests, lies in finding a basic need or desire and creating 
 
 ## Lesson 2
 
-### Once you have found your niche of people, connect to them by speaking in a way that relates to how they think and feel.
+### Once you have found your niche of people, connect to them by speaking in a way that relates to how they think and feel
 
 Your audience already exists; it’s your job to find them. These people currently have the values, needs, and desires that you are looking to attract to your offering. But how do you discover the people who already want what you’re offering but don’t know it because you haven’t yet reached them? Creating a tribe is the way to get your people together. Doing this is a simple matter of sharing stories that speak to the way they see the world.
 
@@ -40,7 +40,7 @@ An example of a good story that went wrong is JCPenny. The narrative their audie
 
 ## Lesson 3
 
-### Reaching the general public is about utilizing your initial fan base and their networks.
+### Reaching the general public is about utilizing your initial fan base and their networks
 
 As your company grows and your marketing needs shift to reaching a wider audience, you’ll want to reach more people than just your tribe. Getting more people on board may be as simple as taking advantage of the network effect.
 
@@ -53,7 +53,5 @@ With more people using your product, you get more feedback and money to make it 
 ## Review
 
 *This Is Marketing* is one that I look forward to coming back to read more of. As mentioned, the ideas in this book seem very similar to *Start With Why*, but Godin has his own spin on it that keeps things interesting. I like the idea of targeting needs to solve marketing problems, it seems like the natural way to go in a world that is constantly bombarded with many different ads, each with its own unique story and audience.
-
-## Who it’s for
 
 The 42-year-old VP of marketing at a tech company who feels stuck, the 25-year-old college graduate who is considering starting their own business, and anyone who still thinks that running commercials on TV to advertise works.

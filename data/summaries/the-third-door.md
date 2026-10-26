@@ -22,7 +22,7 @@ If you want to make it big, let’s see if there’s a way to stand on the shoul
 
 ## Lesson 1
 
-### Persistence is a consistent factor in all the most successful people’s careers.
+### Persistence is a consistent factor in all the most successful people’s careers
 
 Want to know the secret to getting your big break? Never give up. I know it sounds cliché, but persistence really *is* critical to reaching our dreams.
 
@@ -38,7 +38,7 @@ Ferriss explained how he was able to get his foot in the door with a startup by 
 
 ## Lesson 2
 
-### Push yourself beyond where you are comfortable.
+### Push yourself beyond where you are comfortable
 
 Only when he landed his book deal did Banayan meet the man who inspired him in the first place: Bill Gates. Founder of Microsoft and now one of the richest men in the world, he was once a 19-year-old kid, scared to make a phone call.
 
@@ -52,7 +52,7 @@ We see Banayan be vulnerable repeatedly throughout the book, from telling his pa
 
 ## Lesson 3
 
-### Unless you define success in your own way, you’ll never find the right third door.
+### Unless you define success in your own way, you’ll never find the right third door
 
 There is no one way to become prosperous, and though it is helpful to learn from others, we need to get to find our own third door.
 
@@ -71,7 +71,5 @@ It’s our job to find our own way to that third door, and push our way in, so w
 ## Review
 
 *The Third Door* has it all, from an entertaining coming-of-age story to advice from smart people. It’s a refreshing take on the genre of success books. We get to watch Banayan find his own way to that third door and learn countless lessons along the way.
-
-## Who it’s for
 
 The 25-year-old college student who is wondering about the best way to begin their career, the 39-year-old office worker who is afraid of striking out on their own, and anyone standing on the edge of taking a chance at making their dreams a reality.

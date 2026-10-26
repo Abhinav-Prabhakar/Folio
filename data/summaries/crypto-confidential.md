@@ -22,7 +22,7 @@ Let’s get on to this rollercoaster, shall we?
 
 ## Lesson 1
 
-### Crypto is a world of easy come, easy go.
+### Crypto is a world of easy come, easy go
 
 Transparency is a key theme in the world of blockchain technology. Everything is public. Every wallet address and its balance, every transaction, and every piece of software. As a result, information spreads extremely quickly. The public can close most gaps within a day.
 
@@ -32,13 +32,13 @@ The consequence of this transparency is that things don’t last. Nat encounters
 - As he publishes his first smart contract—a software application on the blockchain—he makes a mistake and instantly gets hacked.
 - Nat makes some money from the Iron Finance stablecoin launched on Polygon, but as soon as users discover a small pricing error, a massive bank run begins, and the brand new protocol’s 2 coins race to $0 in a matter of hours.
 
-**Since everyone can see, copy, and trace everything done by everyone else, the speed of information in crypto is insanely high, and so everything that *can* fail *will* —usually within a matter of hours, days, or maybe months, but not years.**
+**Since everyone can see, copy, and trace everything done by everyone else, the speed of information in crypto is insanely high, and so everything that *can* fail *will*—usually within a matter of hours, days, or maybe months, but not years.**
 
 This is why, on the one hand, it was easy for Nat to get deeper and deeper into crypto very quickly. On the other hand, it also meant he *had to* always keep pushing forward. Until he hit his breaking point.
 
 ## Lesson 2
 
-### Whenever you think you’ve got money all figured out, you’re about to get hosed.
+### Whenever you think you’ve got money all figured out, you’re about to get hosed
 
 They say that in a bull market, every investor looks like a genius. This happened to Nat, too. Besides his early $35,000 hack, his crypto journey went exceptionally well. Nat sold an NFT at the top of the market for $200,000. Every project he put money into went up. He even learned enough Solidity, Ethereum’s programming language, to get a gig with a gaming startup and pocket one million of their project’s tokens.
 
@@ -50,7 +50,7 @@ Nat decided not to act on this insider knowledge. He kept his vest clean, but he
 
 ## Lesson 3
 
-### No amount of money in the world is worth sacrificing yourself or your relationship.
+### No amount of money in the world is worth sacrificing yourself or your relationship
 
 Without spoiling too much, in the book, it takes a good deal of stress in his marriage for Nat to finally wake up and move on from his crypto obsession. A caring wife, a new baby daughter—no one holds more power over us than the people we love. Thankfully, that power usually helps us change for the better, as it did for Nat.
 
@@ -63,7 +63,5 @@ We’re all fallible. We all get shiny object syndrome. But it’s important we 
 ## Review
 
 *Crypto Confidential* is a fantastic blend of fun story and educational nonfiction. I flew through the book in 2 days. Since Nat was a beginner when he started, you’ll have no problem following along as he falls deeper and deeper down the crypto hole. He also has helpful, simple explainer sections for various terms at the end of each chapter. This is a great book to start your crypto journey off on the right foot. Grab a copy, and dive in!
-
-## Who it’s for
 
 The 28-year-old crypto-curious college student, who doesn’t know the first thing about blockchain but is fascinated by it, the 39-year-old veteran “degen,” who lost more than a few dollars in the trenches of the 2021 bull market, and anyone who likes *The Big Short*.

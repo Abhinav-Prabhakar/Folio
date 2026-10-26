@@ -20,7 +20,7 @@ Ready to make school a better place for future students? Here’s how a true tea
 
 ## Lesson 1
 
-### Schools aren’t meant to make you better, they’re designed to make you an obedient, productive employee.
+### Schools aren’t meant to make you better, they’re designed to make you an obedient, productive employee
 
 Have you ever thought about why schools are the way they are? What they were created for?
 
@@ -38,7 +38,7 @@ There’s a reason Western schools do poorly in PISA studies (not least because 
 
 ## Lesson 2
 
-### Try to think of yourself as a gardener when you want to teach someone something.
+### Try to think of yourself as a gardener when you want to teach someone something
 
 Can you remember a time when everything was interesting? When you wanted to touch, feel, look at and explore the whole world?
 
@@ -59,7 +59,7 @@ We’re all teachers. Make sure you make whatever you teach worthwhile.
 
 ## Lesson 3
 
-### What our kids really need to develop are curiosity, creativity and criticism.
+### What our kids really need to develop are curiosity, creativity and criticism
 
 In today’s world, kids don’t need to remember facts or hard skills. They’ll learn most of those during their careers. Anything beyond basic math and language understanding is rarely needed in real life.
 
@@ -76,7 +76,5 @@ If we do nothing to be good parents, but instill in our kids these traits, I’d
 ## Review
 
 Yes, Ken Robinson has raised his finger with this book, and it’s pointed right at governments and policy makers. But it’s more than that. While admitting that we’re standing in front of a big pile of broken processes, he also shows us how we can start picking them up and piecing them back together. Let’s all rally together for more *Creative Schools*.
-
-## Who it’s for
 
 The 18 year old who just finished her last high school exam and is about to leave the formal education system, the 61 year old teacher, who hasn’t changed his teaching routine in the past five years, and anyone who wants to have kids.

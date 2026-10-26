@@ -23,11 +23,9 @@ Here are 3 of my favorite lessons from the book:
 
 If you loved Kiyosaki’s first book or if you want to learn more about reaching financial independence, you’re going to love what’s next. We’re analyzing each lesson in detail below, so let’s start!
 
-### Rich Dad’s Cashflow Quadrant Summary
-
 ## Lesson 1
 
-### There is a fundamental difference between people in the E and S quadrants, and those in the I or B quadrants.
+### There is a fundamental difference between people in the E and S quadrants, and those in the I or B quadrants
 
 Working hard is what most people do—and it’s not necessarily a bad thing. It means you’re putting in long hours at your job, staying late to get that project done, or doing whatever it takes to meet deadlines and get the job done.
 
@@ -41,7 +39,7 @@ But those in the B and I quadrants understand that there’s no such thing as �
 
 ## Lesson 2
 
-### The sooner you move into the B and I quadrants, the sooner you’ll become rich.
+### The sooner you move into the B and I quadrants, the sooner you’ll become rich
 
 You can’t invest if you don’t have money. And to get more money, you need to invest it. The more money you have, the more you can invest—and the better your chances of making good investments.
 
@@ -55,7 +53,7 @@ Although you think that a job is safe, it’s only as safe as your contract. Onc
 
 ## Lesson 3
 
-### There are 5 types of investors you should know about.
+### There are 5 types of investors you should know about
 
 Considering the level of risk one is willing to take and their financial know-how, there are five different classes of investors:
 
@@ -72,7 +70,5 @@ Considering the level of risk one is willing to take and their financial know-ho
 The author gives you real-life examples of how people have been successful in their life by becoming self-employed or starting their own businesses.
 
 I highly recommend this book if you want to learn more about wealth or if you just want some motivation to start working toward financial freedom.
-
-## Who it’s for
 
 The 24-year-old who wants to start a business and become rich early in their life, the 36-year-old person who wants to save for retirement but doesn’t know where to start, or the 43-year-old who just came across a larger sum of money and doesn’t know how to invest them.

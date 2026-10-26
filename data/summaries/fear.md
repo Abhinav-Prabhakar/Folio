@@ -24,7 +24,7 @@ Bob Woodward claims that his reporting comes from hundreds of hours of eye-witne
 
 ## Lesson 1
 
-### Trump’s advisors can’t get him to see the advantages in maintaining a good relationship with South Korea.
+### Trump’s advisors can’t get him to see the advantages in maintaining a good relationship with South Korea
 
 After Trump moved into the White House and needed a national security advisor. He hired a military veteran, Lieutenant General H.R. McMaster. Woodward says he did this on impulse and without going through proper channels for removing an active-duty army officer from his military position.
 
@@ -40,7 +40,7 @@ And then Trump walks away from a meeting after suggesting that all military pers
 
 ## Lesson 2
 
-### Though Trump’s economic advisor, Gary Cohn, shared countless pages of data proving that free trade was good for the U.S., Trump refused to look at it.
+### Though Trump’s economic advisor, Gary Cohn, shared countless pages of data proving that free trade was good for the U.S., Trump refused to look at it
 
 Trump is of the opinion that politicians who favor “globalism over Americanism” are responsible for the decline in good factory jobs in the US.
 
@@ -56,7 +56,7 @@ He was relentless in getting out of NAFTA, the North American Free Trade Agreeme
 
 ## Lesson 3
 
-### Trump likes to refer to his Twitter account as his “megaphone” for speaking to the public directly and unfiltered.
+### Trump likes to refer to his Twitter account as his “megaphone” for speaking to the public directly and unfiltered
 
 Trump’s use of Twitter is excessive and “It’s not politically helpful.” as stated by former professional model, and later Trump’s public relations specialist, Hope Hicks.
 
@@ -73,7 +73,5 @@ Trump thought it was something of a shame when Twitter expanded the character li
 ## Review
 
 *Fear* is pretty compelling, but not surprising, given the huge ego that drives the man(iac). Whether you are in Trump’s camp or not, this book is authoritative and well-honed. It is the result of hundreds of hours of interviews with first-hand sources, meeting notes, personal diaries, files, and documentation. If it weren’t true, this book might make a pretty solid horror story.
-
-## Who it’s for
 
 The 29-year-old political science major who thrives on international drama, the 42-year-old Canadian citizen looking for an excuse to go back home, and anyone who enjoys staying up late with a good, scary read.

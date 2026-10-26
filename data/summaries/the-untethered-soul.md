@@ -20,7 +20,7 @@ Want to untether your self from your consciousness without having to become a re
 
 ## Lesson 1
 
-### Your thoughts don’t define you, they’re just outputs of what your consciousness perceives.
+### Your thoughts don’t define you, they’re just outputs of what your consciousness perceives
 
 We all have an inner monologue going. 24/7/365, our inner voice is talking, directing how we navigate the world, and it rarely ever shuts off. The first step towards an untethered soul is realizing that this happens, because only then can you stop, pause and take a step back to look at what’s going on.
 
@@ -32,7 +32,7 @@ Once you realize there’s a difference, you’ll look at yourself in a whole di
 
 ## Lesson 2
 
-### Inner energy, though intangible, is very much real and the more you can let it flow, the better.
+### Inner energy, though intangible, is very much real and the more you can let it flow, the better
 
 If you’ve ever had a surge of energy you couldn’t really explain, or that at least didn’t seem to make sense from a physical standpoint, you’ve witnessed the power of the mind.
 
@@ -46,7 +46,7 @@ It’s important to learn to let such negative thoughts just pass through, so th
 
 ## Lesson 3
 
-### Death is what gives life meaning, so reflect on it often.
+### Death is what gives life meaning, so reflect on it often
 
 Did you know that humans are the only beings that know *in advance* that they will one day die? Imagine we didn’t know! We’d probably live our lives really carelessly.
 
@@ -61,7 +61,5 @@ Whatever it is you want to do in your life, if it’s worth doing before you die
 ## Review
 
 It took me a while to understand the ideas in *The Untethered Soul*, but once you do, they’re incredibly powerful new ways of looking at the world. I’m with Oprah on this one, thumbs up!
-
-## Who it’s for
 
 The 17 year old, who thinks of himself as just a sad and lonely person, the 43 year old jealous type wife, and anyone who’s tasted the power of an inner burst of energy before they couldn’t really explain.

@@ -1,6 +1,6 @@
 # Fat For Fuel
 
-> Fat For Fuel explores the “ Mitochondrial Metabolic Therapy” program, which offers a revolutionary approach to diets by promoting a high-fat, adequate-protein, and low-carb diet, all while highlighting the importance of fasting and the role of nutrition in fighting diseases.
+> Fat For Fuel explores the “Mitochondrial Metabolic Therapy” program, which offers a revolutionary approach to diets by promoting a high-fat, adequate-protein, and low-carb diet, all while highlighting the importance of fasting and the role of nutrition in fighting diseases.
 
 ## Overview
 
@@ -18,11 +18,11 @@ If you’d like to learn more about what these lessons have to offer, stick arou
 
 ## Lesson 1
 
-### Keeping your mitochondria in the right parameters will keep you healthier, happier, and functioning better.
+### Keeping your mitochondria in the right parameters will keep you healthier, happier, and functioning better
 
 Mitochondria are “the powerhouse of the cell,” as you might remember from biology class. The human body hosts millions of billions (!) of cells. Therefore, mitochondria account for 10% of our body weight! When they break down, we get ill. That’s why it’s essential that we take good care of them. How? By adopting the right diet and lifestyle.
 
-**The author swears by an adequate-protein, low-carb, high-fat diet that focuses on two pillars: eating fewer calories and getting the exact right amount of protein.** So eat less in general, but make sure you get the right amount of protein.
+**The author swears by a n adequate-protein, low-carb, high-fat diet that focuses on two pillars: eating fewer calories and getting the exact right amount of protein.** So eat less in general, but make sure you get the right amount of protein.
 
 Intermittent fasting can help you reduce calories. It implies restricting your eating window to a certain time frame every day, then fasting for the rest of it, and keeping on repeating this cycle.
 
@@ -30,7 +30,7 @@ But what should you eat in your non-fasting hours? The author suggests opting fo
 
 ## Lesson 2
 
-### Getting the right amount of protein and fat intake can help you combat cancer.
+### Getting the right amount of protein and fat intake can help you combat cancer
 
 According to the book, too much protein can activate our mTOR (Mechanistic Target of Rapamycin), which stands in the way of our body cleaning its own debris and toxins from cells.
 
@@ -42,7 +42,7 @@ I know it sounds a bit complex. But once you start thinking about it, it gets ea
 
 ## Lesson 3
 
-### Stop fueling your body before bedtime, and try fasting instead.
+### Stop fueling your body before bedtime, and try fasting instead
 
 You might’ve heard this before, but: Stop eating before bedtime! I know, everything just tastes better at night. Social gatherings usually happen after 7 PM, and movies are less entertaining without some snacks. However, are you willing to risk your health and overall well-being for it? I hope not! Therefore, the author suggests implementing fasting in your life asap. More specifically, he advocates for peak fasting, which means eating for 6-11 hours a day, and limiting eating to 13-18 hours.
 
@@ -53,7 +53,5 @@ Fasting has enormous benefits, yet few people try it. **The author suggests that
 ## Review
 
 *Fat For Fuel* approaches one main idea: meeting our mitochondria, which is the power center of our health. By combining science, nutrition, medicine, molecular biology, and comprehensive research on complementary topics, the book manages to offer a hands-on guide to maintaining health at excellent levels, combating diseases through nutrition, and accessing remarkable energy levels by eating the right foods. This book addresses a series of essential topics that could change anyone’s life for the better right away if they’re looking to cure diseases, reach an optimum weight, improve their energy levels, or simply live better by eating better.
-
-## Who it’s for
 
 The 30-year-old who wants to change their diet for the better but doesn’t know where to start, the 40-year-old person who feels like they’re always tired and bloated after eating, or the 20-year-old who wants to learn how to live a long, happy, healthy life by adopting the right eating habits.

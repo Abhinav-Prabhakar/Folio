@@ -26,7 +26,7 @@ If these lessons seem a little ambiguous, keep on reading, as we’ll explore th
 
 ## Lesson 1
 
-### Our being is in constant flux and is changing from second to second.
+### Our being is in constant flux and is changing from second to second
 
 Everybody has heard about Buddha, the spiritual leader who became world-renowned for his enlightening way of living and for laying the foundation of Buddhism.
 
@@ -40,7 +40,7 @@ Then, the perception decides if whatever we saw is positive or negative to us. S
 
 ## Lesson 2
 
-### Introduce Sila in your life, and you’ll find that it makes you more peaceful and content with yourself.
+### Introduce Sila in your life, and you’ll find that it makes you more peaceful and content with yourself
 
 *Sila,* or morality, is a way of living. Throughout his life, Buddha advised that Sila can help anyone achieve a happier, more peaceful state of mind.
 
@@ -60,7 +60,7 @@ Carry these principles with you at your job, and seek to make a living from some
 
 ## Lesson 3
 
-### Meditation is a great way to connect your mind to the body and soul while finding inner peace.
+### Meditation is a great way to connect your mind to the body and soul while finding inner peace
 
 Meditation, or Bhāvanā, implies balancing, controlling, and training our mind to become more peaceful, let go of anxieties and the inner chatter that occupies our mind throughout the day.
 
@@ -83,7 +83,5 @@ Lastly, try to concentrate solely on your inhales and exhales, without entertain
 The journey to self-awareness and peaceful life can be challenging at first when we have to let go of our old destructive traits and adopt simplicity, minimalism, and kindness as our new mantra.
 
 *The Art of Living* is a great way to start this new path in life and explore the concepts behind Buddhism and spirituality in relation to your own mind, body, and spirit. Reading this book will open up a new perspective on oneself and life as we know it.
-
-## Who it’s for
 
 The 50-year-old person who is looking to alleviate accumulated stress and anxiety from work through meditation, the 38-year-old single mom who feels overwhelmed and wants to find peace through meditation, or the 40-year-old person interested in Buddhism and meditation.

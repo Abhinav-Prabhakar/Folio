@@ -20,7 +20,7 @@ Let’s walk through each lesson carefully and see what they really mean!
 
 ## Lesson 1
 
-### Be flexible when it comes to your audience, but stay true to your own style.
+### Be flexible when it comes to your audience, but stay true to your own style
 
 As an orator, there’s nothing worse than experiencing an audience that doesn’t engage with you. Grabbing everyone’s attention and maintaining an engaged crowd while you communicate the purpose of your speech is what every public speaker is aiming for, but only a few manage to achieve. So what is it that makes the difference?
 
@@ -32,7 +32,7 @@ Therefore, you should opt for using logos in your public speeches, as this metho
 
 ## Lesson 2
 
-### Intelligence, strong character, and goodwill are essential when it comes to making your audience trust you.
+### Intelligence, strong character, and goodwill are essential when it comes to making your audience trust you
 
 Focusing on ethos and logos will make your audience perceive you as a trustworthy source of information. To do that, you have to stay true to your character and build on it during your speech. Make sure to present yourself as an experienced individual to seem reliable and professional.
 
@@ -44,7 +44,7 @@ Lastly, you’ll want to work on tailoring your speech to a specific audience. Y
 
 ## Lesson 3
 
-### Create your speech based on a structure of 4 essential parts.
+### Create your speech based on a structure of 4 essential parts
 
 Crafting a good speech can be a challenge. That is because as a presenter, you have to empathize with your audience at all times and keep them engaged over the course of your speech, without losing track of your ideas and overspending their precious time. So how can you conform to all these requests? Is there a formula?
 
@@ -59,7 +59,5 @@ Lastly, you’ll want to wrap it up with a short, but compelling conclusion. Her
 ## Review
 
 *The Art of Rhetoric* manages to compress invaluable information into simple advice that can turn anyone into a skilled public speaker. Aristotle explains the concepts of ethos, pathos and logos as methods of persuasion and builds on the idea that character and truth are the base of any good public speech. This historical masterpiece will show you how to awaken other people’s passion and make them follow your lead.
-
-## Who it’s for
 
 The 30-year-old company director who wants to better persuade their team members, the 35-year-old entrepreneur who wants to learn how to communicate effectively with their stakeholders, and anyone who’s passionate about philosophy and ancient Greece.

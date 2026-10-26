@@ -20,7 +20,7 @@ Are you ready to learn how to impress your boss and be happier at work? Let’s 
 
 ## Lesson 1
 
-### Your employer values the kind of person who can get a message to Garcia and tries to eliminate those who are lazy and incompetent.
+### Your employer values the kind of person who can get a message to Garcia and tries to eliminate those who are lazy and incompetent
 
 Entitlement and incompetence are rampant in the workplace. If you tried asking someone to find you information on the life of Italian Renaissance painter Antonio da Correggio, for example, you’d probably have your employees wondering why.
 
@@ -32,7 +32,7 @@ Don’t complain constantly or harbor a negative attitude, these might get you f
 
 ## Lesson 2
 
-### Being positive at work is one of the best ways to make your time there more effective and enjoyable.
+### Being positive at work is one of the best ways to make your time there more effective and enjoyable
 
 Do you notice the people who complain about their problems or work? The sad truth is that you’re probably thinking worse of them than they are of whatever they’re whining about!
 
@@ -44,7 +44,7 @@ It’s been said that attitude determines altitude, and that couldn’t be more 
 
 ## Lesson 3
 
-### Hard work leads to happiness which brings success, and makes all parts of your life better.
+### Hard work leads to happiness which brings success, and makes all parts of your life better
 
 We’ve talked a lot about how the way you choose to look at the world affects your time at work. But what does it have to do with having a good life? Everything, as you’ll soon see.
 
@@ -59,7 +59,5 @@ Humbly admit when you don’t know the answer to something, and treat everyone e
 ## Review
 
 *A Message to Garcia* has a timeless and powerful message that I think we all need to hear in this day of entitlement and bad attitudes. The delivery method of these ideas is as incredible and unique as the theme itself. I’m certain you’ll enjoy and benefit from this short but sweet story about how to become a person of character.
-
-## Who it’s for
 
 The 34-year-old programmer who wants to perform better and improve their attitude at work, the 17-year-old McDonald’s employee who wants to be a person of character that their managers can trust, and anyone who wants to get more fulfillment out of work and life.

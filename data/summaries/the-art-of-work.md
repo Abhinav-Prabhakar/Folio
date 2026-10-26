@@ -20,7 +20,7 @@ Ready to get to work? Let’s go!
 
 ## Lesson 1
 
-### Start looking for your true calling by making a list of life events.
+### Start looking for your true calling by making a list of life events
 
 From the get-go, Jeff doesn’t sugarcoat things. It’s not easy to find your life’s purpose. If it was, everybody would do it and we wouldn’t look at the grim fact that only 13% of all people worldwide actually like showing up for work.
 
@@ -42,7 +42,7 @@ Your calling lies hidden in these moments, so go find them!
 
 ## Lesson 2
 
-### There is no such thing as “self-made”.
+### There is no such thing as “self-made”
 
 Yes, motivational Instagram channels are great, but every time I read “self-made millionaire” I cringe a little bit.
 
@@ -83,7 +83,5 @@ As a man of many passions and aspirations, I deeply appreciate that.
 He reminds me of Steven Pressfield.
 
 If you want to make an impact on the world, but still have the time to appreciate life along the way, go for this book!
-
-## Who it’s for
 
 The 22 year old in the middle of choosing a career, who’s worried she might never find her passion, the 35 year old who’s frustrated by seeing so many “overnight” successes pop up in the news, and anyone who mostly defines their life through their work.

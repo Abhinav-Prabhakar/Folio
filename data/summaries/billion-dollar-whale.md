@@ -20,7 +20,7 @@ Ready to hear a crazy story? Let’s dive right in!
 
 ## Lesson 1
 
-### Jho Low learned how to deceive people at a young age because he wanted to keep up with his wealthy peers.
+### Jho Low learned how to deceive people at a young age because he wanted to keep up with his wealthy peers
 
 Jho Low was a pudgy and shy 17-year-old when he started his first year at the prestigious Harrow School in England. With tuition of around $16,000 a term, it was a place that educated children of the elite. Two of Low’s classmates included the heirs to the thrones of Brunei and Kuwait.
 
@@ -34,7 +34,7 @@ One of his classmates, Riza Aziz, was the stepson of Malaysia’s defense minist
 
 ## Lesson 2
 
-### Low used connections to eventually make his way into power over a large investment fund for Malaysia.
+### Low used connections to eventually make his way into power over a large investment fund for Malaysia
 
 At Wharton, Low spent most of his time forging connections with those he thought would help him rise to power. One of these was Hamad al-Wazzan, the son of a Kuwaiti construction tycoon. After forging a friendship, he joined Wazzan on a trip around the Gulf States, where he met many important people.
 
@@ -48,7 +48,7 @@ So Najib announced a new sovereign wealth fund, which would be called the 1Malay
 
 ## Lesson 3
 
-### Once he had power over the fund, he defrauded billions until he was caught.
+### Once he had power over the fund, he defrauded billions until he was caught
 
 Under Low and Najib, the 1MDB raised billions in bonds for use in investment projects between 2009 and 2013. But soon, millions were missing.
 
@@ -67,7 +67,5 @@ Not only this, but in Malaysia, people were suspecting Najib was profiting from 
 ## Review
 
 I gotta be honest, I don’t completely understand all the financial lingo here, but *Billion Dollar Whale* is crazy! It’s a riveting story that will keep you on the edge of your seat. Now I’m wondering when the movie version is going to happen!
-
-## Who it’s for
 
 The 23-year-old who loves to read interesting stories about big money heists, the 47-year-old that thinks they might like to try detective work, and anyone that’s looking for a good read.

@@ -18,7 +18,7 @@ Living a long life and maintaining great health levels can be achieved if you kn
 
 ## Lesson 1
 
-### To live a good, long life, you’ll have to regulate your cardio and animal protein intake.
+### To live a good, long life, you’ll have to regulate your cardio and animal protein intake
 
 With so many diets out there, it can be challenging to find the right formula for living healthy. However, simply taking a look at the populations who live longest, such as the Okinawans, can give us the answer. It seems that a plant-based diet is one good approach to dieting.
 
@@ -28,7 +28,7 @@ While animal protein is good and nutritious, the author recommends avoiding inta
 
 ## Lesson 2
 
-### When we reach the stage of deep sleep, our system clears itself.
+### When we reach the stage of deep sleep, our system clears itself
 
 First thing first, let’s explain the concept of deep sleep. The usual sleep cycle lasts about seven to nine hours. During this period, we enter deep sleep, which refreshes us the next morning. During this stage, our eyes move rapidly, our breath increases, and we experience dreaming.
 
@@ -40,7 +40,7 @@ While avoiding blue light from screens before sleep is also important, having yo
 
 ## Lesson 3
 
-### Listen to your body when it sends you signals, as it’s probably your gut trying to connect with your brain.
+### Listen to your body when it sends you signals, as it’s probably your gut trying to connect with your brain
 
 Modern medicine recently stumbled upon a breakthrough discovery: the human gut sends messages to the brain, which then get intercepted and synthesized for us to understand. In other words, your brain and your gut are interconnected. And it is the latter who sends the messages, not the other way around.
 
@@ -53,7 +53,5 @@ Moreover, there’s approximately nine times as much communication coming from y
 ## Review
 
 The Longevity Paradox offers a hands-on approach to becoming a healthy version of yourself and adopting a lifestyle that’ll serve you well till you reach old age. The author has done his research for this book, who is a well-renowned heart surgeon that carried out much of his studies based on the healthiest nations in the world. He compiled all the valuable data he found under this study. Reading this book will reveal the secrets behind living a high-quality life and reaching old age by simply changing your eating habits, ditching certain foods, and working on your sports intake.
-
-## Who it’s for
 
 The 30-year-old who wants to ditch the poor living habits they’ve developed in their twenties, the 45-year-old who is slowly becoming more health-conscious as they age and want to improve their life quality or the 25-year-old health addict who is looking to develop a long-lasting routine in their life so as to prolong their youth and age slowly.

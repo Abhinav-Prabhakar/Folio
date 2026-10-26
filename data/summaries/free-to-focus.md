@@ -26,7 +26,7 @@ Are you ready for your productivity to take off like never before? Let’s dive 
 
 ## Lesson 1
 
-### You’re less productive when you try to work faster, but you can change your mindset toward productivity to fix this.
+### You’re less productive when you try to work faster, but you can change your mindset toward productivity to fix this
 
 Do you ever feel like your work life is like a leaky boat? Between meetings, reports, and projects, you’ve got an endless stream of tasks coming in and can’t ever seem to stay afloat.
 
@@ -44,7 +44,7 @@ The more efficient your rest is, the more productive you will be during work.
 
 ## Lesson 2
 
-### Schedule and protect your leisure time if you want to become more effective at work.
+### Schedule and protect your leisure time if you want to become more effective at work
 
 Your brain takes up 20% of your body’s energy. When you use it to work hard, you drain your mental and physical battery just like the battery on your phone.
 
@@ -77,7 +77,5 @@ You can also use rituals to protect your time. Establish morning routines to hel
 ## Review
 
 And Michael Hyatt smashes it out of the park again! *Free to Focus* is an amazing book that I’m very happy I know about now. I especially love how it’s aimed at being more reasonable by explaining that productivity is more about how we balance our time than merely working harder, longer, or faster.
-
-## Who it’s for
 
 The 54-year-old business executive who is always busy, the 28-year-old that just got their first full-time job out of college but has a hard time focusing, and anyone that wants to learn how to become more productive without beating themselves up.

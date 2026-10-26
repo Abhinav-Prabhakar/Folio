@@ -20,7 +20,7 @@ Let’s examine them a bit further.
 
 ## Lesson 1
 
-### You don’t have to be religious, to be spiritual.
+### You don’t have to be religious, to be spiritual
 
 My uncle’s body will be cremated. Do you know how long the Wikipedia article for cremation is? It’s a widely spread, religious practice, used in many cultures, Western or Eastern.
 
@@ -44,7 +44,7 @@ And then **don’t let anyone tell you you’re wrong**.
 
 ## Lesson 2
 
-### The only constant thing is change.
+### The only constant thing is change
 
 When asked about suffering, the Dalai Lama shares a big mistake we “Westerners” make: thinking it’s unnatural.
 
@@ -64,7 +64,7 @@ But the second you accept the change, that’s when progress happens. It’s whe
 
 ## Lesson 3
 
-### Know your limits.
+### Know your limits
 
 There are a lot of different approaches to building confidence, most of them based on challenging yourself (including mine).
 
@@ -96,7 +96,5 @@ I don’t think it’s a coincidence that he stopped by our house the day before
 If anything, it’s a confirmation for me to keep writing, coaching, freelancing, and doing work I enjoy, until everything comes together in the big picture.
 
 I’m really grateful for this lesson from *The Art Of Happiness*, and for the Dalai Lama’s wisdom. But I will still miss my uncle. R.I.P.
-
-## Who it’s for
 
 The 12 year old, who’s being teased about being religious in school, the 37 year old big city mum, who feels she needs a break from Western society, and anyone who just lost a loved one.

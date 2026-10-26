@@ -18,7 +18,7 @@ Are you ready for the future? After these lessons, you’ll definitely be!
 
 ## Lesson 1
 
-### Screw the news and irrational fears, today is better than ever.
+### Screw the news and irrational fears, today is better than ever
 
 If you’re convinced we’re in a permanent, downward spiral and everything’s going to get worse, all the time, no matter what we do, you’re what Peter Thiel calls an indefinite pessimist in Zero to One.
 
@@ -35,7 +35,7 @@ Calm down, cut the news chord and look at some statistics: you’ll see the worl
 
 ## Lesson 2
 
-### We will solve a lot of the world’s biggest problems simultaneously.
+### We will solve a lot of the world’s biggest problems simultaneously
 
 It’s right that we face many complex problems today, but looking at them individually is a mistake. The future will sure seem hopeless if you think of our increasing need of energy, climate change, environmental pollution, population growth and world hunger as separate problems.
 
@@ -49,7 +49,7 @@ You see, the world’s most complex problems all relate to each other, which mea
 
 ## Lesson 3
 
-### Instead of thinking outside the box, think inside the right-sized box.
+### Instead of thinking outside the box, think inside the right-sized box
 
 These kinds of innovations can only come from a mindset of abundance. America is often considered to celebrate failure, a culture that’s often criticized by other countries (Germany is especially skeptic of this). But USA’s “failure culture” is not about trying to fail, it’s about the freedom to experiment and the spirit to get up and try again after learning from a mistake.
 
@@ -66,7 +66,5 @@ The problems we’re trying to solve stem from current limitations we can’t mo
 You can’t help but feel hopeful after reading this. You might even want to explore a bunch of the trends outlined in this book and take a swing at a project in one of them yourself (like 3D printing or robotics).
 
 If you need a reminder that there’s no better time to be alive than today, and why you have all the reason to be grateful, *Abundance* is the right choice.
-
-## Who it’s for
 
 The 27 year old millennial, who can’t wait to buy his first own 3D printer, the 55 year old baby boomer, who thinks the world’s best days are behind us, and anyone who’s not convinced that the future will be great.

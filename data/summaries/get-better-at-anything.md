@@ -22,7 +22,7 @@ Let’s see what it takes to get better at anything!
 
 ## Lesson 1
 
-### Problems are like mazes, and you should try to solve them with a 3-part approach.
+### Problems are like mazes, and you should try to solve them with a 3-part approach
 
 You know the Pythagorean theorem, right? a + b = c. In 1637, the French mathematician Pierre de Fermat claimed there is no combination of whole numbers that solves this equation for any exponential higher than 2. This is called *Fermat’s Last Theorem*, and it stumped the maths community for almost 400 years.
 
@@ -38,7 +38,7 @@ The next time you face a big problem, think of it like a maze, and try this 3-st
 
 ## Lesson 2
 
-### In your practice, prioritize variation over repetition for faster learning.
+### In your practice, prioritize variation over repetition for faster learning
 
 In my decade-long career as a writer, one big mistake I’ve seen others make is to never change the simplest variable in their writing: length. Some people crank out two-minute read after two-minute read only to be met with silence. Well, why don’t you try a four-minute one? How about eight? How about 15? Me, I sometimes published a two-minute poem, sometimes an eight-minute essay. Experimentation helped me find out what the audience liked and kept writing fun.
 
@@ -55,7 +55,7 @@ Yes, consistency matters, but in the long run, without experimentation, you’ll
 
 ## Lesson 3
 
-### Reset your conditioned brain with 3 unlearning tactics.
+### Reset your conditioned brain with 3 unlearning tactics
 
 In *Feel-Good Productivity*, Ali Abdaal described how most people are stunted by “the candle problem.” Given a box of thumbtacks and a candle with the task of attaching the candle to the wall, most people try to nail the candle directly. Instead, they could just attach the thumbtack box and put the candle inside!
 
@@ -70,7 +70,5 @@ See. Do. Get feedback. Those are the 3 steps to getting better at anything. “W
 ## Review
 
 *Get Better at Anything* is a great round-up of the latest research in learning, filled with inspiring examples, unusual lessons, and a solid, methodical approach to improving at any skill. Well done, Scott!
-
-## Who it’s for
 
 The 17-year-old high school student who, for all her studying, has never learned a methodical approach to learning, the 35-year-old hobby tennis player who wants to make his game more fun again, and anyone who’s curious about the science of learning.

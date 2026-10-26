@@ -18,7 +18,7 @@ Are you ready to achieve your own levels of peak performance? Let’s learn how!
 
 ## Lesson 1
 
-### Performance-enhancing drugs work in the short term, but come at a great price.
+### Performance-enhancing drugs work in the short term, but come at a great price
 
 After working 72 hours straight as an intern at Bank of America, Moritz Erhardt died. He is an extreme but, ultimately, one of many examples of how much we are pushed to overwork ourselves to compete. Burnout is real. Today, many people say they experience it frequently, if not constantly. And it’s only getting worse.
 
@@ -30,7 +30,7 @@ However, there’s still hope for those of us who want to perform at peak levels
 
 ## Lesson 2
 
-### Rest is an often overlooked, but crucial component of peak performance.
+### Rest is an often overlooked, but crucial component of peak performance
 
 Olympic runner and bronze medalist Deena Kastor has a rigorous training routine. One unexpected part of this routine is to sleep 10-12 hours every night. Kastor believes the real growth and formation of her ability to perform at her peak state don’t lie in the training itself, but in what happens in between training sessions.
 
@@ -40,7 +40,7 @@ The same is true for the brain and other components necessary for our success. W
 
 ## Lesson 3
 
-### Quality and quantity of work suffer when we try to multitask, so we should only do one thing at a time.
+### Quality and quantity of work suffer when we try to multitask, so we should only do one thing at a time
 
 **Multitasking is connected to worsened long-term memory, a poor ability to filter information, and greater difficulty with pattern recognition.** Multiple studies have shown that our ability to produce high quantities of high-quality work decreases rapidly when we think we are doing a lot, but are actually just multitasking.
 
@@ -51,7 +51,5 @@ To understand the true power of single-tasking, look at K. Anders Ericsson’s s
 ## Review
 
 *Peak Performance* is a marvelous book. It’s a life-altering perspective on the essential components of how to perform at our highest levels. The research is thorough, with plenty of case studies to express the principles you will need to deliver your own best performance. Books like this help break through all the confusion about what it really takes to be productive and achieve our full potential without burning ourselves out.
-
-## Who it’s for
 
 The 23 year old runner who isn’t sure what will help them win their next contest, the 45 year old investment banker experiencing burn-out at work, and anyone who wants to accomplish more but isn’t quite sure how.

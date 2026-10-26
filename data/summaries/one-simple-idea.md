@@ -18,7 +18,7 @@ Want to leisurely license your ideas and make money? Let’s do this!
 
 ## Lesson 1
 
-### “Eliminate” your competition by simply partnering with them.
+### “Eliminate” your competition by simply partnering with them
 
 When you come up with ideas that are incremental improvements, they have the benefit of being validated already. If people buy red umbrellas, chances are they’ll buy green ones too. However, it also means that there will already be plenty of others trying to sell differently colored umbrellas.
 
@@ -30,7 +30,7 @@ Whether these collaborations are about marketing, service or production doesn’
 
 ## Lesson 2
 
-### Use referrals to get your foot in the door with good manufacturers.
+### Use referrals to get your foot in the door with good manufacturers
 
 One of the most crucial points of licensing out your idea for custom-designed popcorn buckets is finding someone who makes really good popcorn buckets. We’ve all bought a cheap knock-off with a wrongly spelled, fake designer brand name at least once in our lives (at least I know I have), or gotten a product that fell apart the minute we looked at it.
 
@@ -44,7 +44,7 @@ You can’t just call Nike and say “I have this great idea for a running shoe,
 
 ## Lesson 3
 
-### When you come up with new products, make sure they appeal to a sub-audience of your current customers.
+### When you come up with new products, make sure they appeal to a sub-audience of your current customers
 
 Lastly, chances are you won’t stop at renting out one idea, because if you can get it to work once, you’ll want more of it. But there’s one pitfall you have to avoid when coming up with more products that are similar to your previous one: changing the target audience.
 
@@ -58,12 +58,10 @@ For example, Hot Picks started with picks aimed at rockers and with Disney picks
 
 ## Review
 
-All of the lessons here are based on minute details, because that’s all of value I found. With a subtitle like “Turn Your Dreams into a Licensing Goldmine While Letting Others Do the Work,” perhaps that’s not surprising. This is not only a BS statement, it’s also a lie, because *everything* *One Simple Idea* describes is hard work — yes, even outsourcing takes a load of time if done right.
+All of the lessons here are based on minute details, because that’s all of value I found. With a subtitle like “Turn Your Dreams into a Licensing Goldmine While Letting Others Do the Work,” perhaps that’s not surprising. This is not only a BS statement, it’s also a lie, because *everything One Simple Idea* describes is hard work — yes, even outsourcing takes a load of time if done right.
 
 This book is not designed to make you take action. The best “results” 5-star reviews on Amazon can talk about are thinking about old ideas from dusty lists. The time frame it covers is way too long as well. That said, I feel like Blinkist also screwed up the blinks here. The core sections of the book, such as pitching your idea or submitting it to potential licensees are missing entirely from the summary.
 
 Sadly it’s going to be two thumbs down for the first time in Four Minute Books history 🙁 If you do give this book a shot and find value, please let me know, I’m dying to be proven wrong here!
-
-## Who it’s for
 
 The 18 year old startup dreamer with a long list of unimplemented ideas, the 52 year old with a family and house to pay, who has little time to build a business on his own, and anyone who thinks they’re creative, but not cut out to be an entrepreneur.

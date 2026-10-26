@@ -20,7 +20,7 @@ Ready to see how you can give your gray matter a boost? Let’s get to it!
 
 ## Lesson 1
 
-### Your brain and body will work better if you exercise more.
+### Your brain and body will work better if you exercise more
 
 It’s interesting to look at our brain’s development from the perspective of our early ancestors. After all, their daily activities had an impact on the way their brains evolved into what we’ve got today.
 
@@ -36,7 +36,7 @@ Another huge benefit of exercise is that it stimulates the creation of hormones,
 
 ## Lesson 2
 
-### You’ve got a unique sleep pattern that you need to discover and stick to for optimal mental performance.
+### You’ve got a unique sleep pattern that you need to discover and stick to for optimal mental performance
 
 For our early ancestors, sleeping was dangerous. You could easily be eaten by a predator if you dozed off at the wrong time! So the fact that they took the effort to make it possible and that we still do it today means that it’s vital to our health.
 
@@ -50,7 +50,7 @@ If you really want to discover yours, try searching Google for a quiz that will 
 
 ## Lesson 3
 
-### It’s easier to learn when you try to get information in both visual and audial formats at once.
+### It’s easier to learn when you try to get information in both visual and audial formats at once
 
 Your mind’s integrative instincts began when the earliest Homo sapiens were still drawing on cave walls. What does that mean? Because they experienced multiple senses at once, their brains evolved to take in knowledge when all senses are engaged. You can still do this today, and should if you want to learn efficiently.
 
@@ -75,7 +75,5 @@ But as the science confirms, if you really want a specific thing to stick in you
 ## Review
 
 *Brain Rules* has got to be one of my new favorite psychology books. It’s got some advice that has been said before, but I think the repetition just adds to its validity. This is a great book to boost your productivity through brainpower that I’m sure you will enjoy!
-
-## Who it’s for
 
 The 56-year-old who is thinking of learning a new skill but isn’t sure how to do so effectively, the 33-year-old that would like to become more productive at work, and anyone who wants to have a healthier brain and memory.

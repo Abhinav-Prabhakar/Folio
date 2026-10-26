@@ -20,7 +20,7 @@ Selling a company has never been more straightforward! Let’s dive right in and
 
 ## Lesson 1
 
-### Specialize in one service to make it easier to be successful.
+### Specialize in one service to make it easier to be successful
 
 I have a peach tree in my backyard that’s had a few years in the past where the fruit wasn’t very good. This puzzled me until one year in the Spring, I saw just how many peaches were cumbering the branches. I took a quick moment to thin it, and months later we had larger, tastier peaches unlike any we’ve had before.
 
@@ -34,7 +34,7 @@ When you specialize, you also make it easier to get the best people on your team
 
 ## Lesson 2
 
-### When starting your business, plan on your company replacing you as a founder if you want to sell it.
+### When starting your business, plan on your company replacing you as a founder if you want to sell it
 
 I just began a company last year and it’s fun to be the owner. The feeling of knowing that I created something that adds value to my clients is amazing. It means that I get to be involved in almost all aspects of my business, which I enjoy. But if you own a startup that you hope to one day sell, be careful of becoming the linchpin without which things can’t operate.
 
@@ -50,7 +50,7 @@ To combat this and prepare for a future sale, delegate as much as you can and as
 
 ## Lesson 3
 
-### It’s risky to rely on one big client for most of your income, and it makes you less attractive to potential buyers.
+### It’s risky to rely on one big client for most of your income, and it makes you less attractive to potential buyers
 
 You dream of one day selling the company. But to do that, you’ve got to show that it is growing and that profits are increasing. So naturally, you go after the big clients, which is good. Be careful, however, of depending on them too much.
 
@@ -65,7 +65,5 @@ To potential buyers, all of these are bad signals for buying your company. So di
 ## Review
 
 *Built To Sell* is an excellent book with spot-on advice. These tips make sense for anyone playing the long game of selling a business – or anyone who’s simply tired of running the one they have built.
-
-## Who it’s for
 
 The 41-year-old founder who has been working tirelessly for years to build their company and wants a way out, the 23-year-old who is thinking about the advantages of starting a business and preparing to sell it, and anyone who is interested in entrepreneurship.

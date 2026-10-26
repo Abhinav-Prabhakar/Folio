@@ -22,7 +22,7 @@ Ready to change the way you work? Let’s go!
 
 ## Lesson 1
 
-### Break your work down into small time blocks.
+### Break your work down into small time blocks
 
 This is of course the underlying idea of the whole concept.
 
@@ -48,7 +48,7 @@ Sometimes, less is more.
 
 ## Lesson 2
 
-### Use physical stimuli to develop flow and focus.
+### Use physical stimuli to develop flow and focus
 
 So what’s the best way to implement the Pomodoro technique? After all, it’s so dead simple, every smart and even dumb phone could be used to do it.
 
@@ -62,7 +62,7 @@ The ring upon hitting the 25 minute mark is then a signal to get out of your flo
 
 ## Lesson 3
 
-### Commit to each Pomodoro as if you’re getting married.
+### Commit to each Pomodoro as if you’re getting married
 
 With so many people successfully using the technique, it’s highly likely to work for you too.
 
@@ -97,7 +97,5 @@ If you use the Pomodoro technique, you’ll get 10x as much done as most of your
 The summary on Blinkist is the perfect primer, because it adds some valuable structure around the technique itself, which I hadn’t considered before.
 
 The book is hard to get (and a bit expensive, I think) for a technique that’s written about for free everywhere, so if you want to get the creator’s original thoughts, the summary is perfect.
-
-## Who it’s for
 
 The 23 year old who’s heard of the technique but hasn’t tried it yet, the 57 year old manager, who likes to stay on top of the latest research, but wants to keep his working style old school and anyone who happens to have a timer sitting around at home.

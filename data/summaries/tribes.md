@@ -20,7 +20,7 @@ Time to build a tribe, don’t you think? Let’s go!
 
 ## Lesson 1
 
-### Combine these 3 elements to make a movement.
+### Combine these 3 elements to make a movement
 
 It doesn’t take much to keep a group moving. 1000 true fans are enough. But how do you get them?
 
@@ -38,7 +38,7 @@ Our shared activity is reading, of course, and I’m already thinking of a way t
 
 ## Lesson 2
 
-### Forget growth, just focus on strengthening your tribe’s connections.
+### Forget growth, just focus on strengthening your tribe’s connections
 
 The bigger the tribe, the better, right? Well, those are the old ways. New product, let’s shove it down peoples’ throats with a ton of TV ads until everyone sees how great it is. But nope, not anymore!
 
@@ -70,7 +70,5 @@ The media tells us being a heretic is dangerous. But today it’s really not. Th
 This is the first time in a while that I’ve taken notes while reading a set of blinks. It made me think a lot about the mission behind Four Minute Books, and how I can improve our tribe – I’ve got plenty of ideas now, so stay tuned 😉
 
 As I said in the intro, the values on which Seth builds his businesses and ideas are great, and I really think he’s the one to follow when it comes to (online) business philosophy, there’s nothing about *Tribes* I can’t recommend.
-
-## Who it’s for
 
 The 27 year old who’s already organizing events in his spare time around his favorite hobby, the 53 year old Congressman with a strong societal or environmental cause which she feels the need to share more, and anyone who feels like they’re just plodding along with what society’s taught them right now.

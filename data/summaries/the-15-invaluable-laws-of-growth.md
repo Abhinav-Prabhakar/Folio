@@ -36,7 +36,7 @@ Are you excited to get up and start living with intention? Let’s go!
 
 ## Lesson 1
 
-### Before you start, ask yourself questions to find out who you are and what inspires you.
+### Before you start, ask yourself questions to find out who you are and what inspires you
 
 How ridiculous would it sound if I told you that a group of people went on a road trip without any kind of map or GPS? Although we might think this is crazy, we ourselves to it too often with our goals. We wander aimlessly about, never really knowing where we even want to go, let alone the path to take.
 
@@ -50,7 +50,7 @@ Also, do a reality check once you discover these things about yourself. You won�
 
 ## Lesson 2
 
-### The changes you want in your life aren’t going to happen by chance, you must have a proactive attitude to get them.
+### The changes you want in your life aren’t going to happen by chance, you must have a proactive attitude to get them
 
 Nothing in the universe grows by chance. Plants must have sunlight, water, and soil. Your body has to have nutrients in the form of food. And your personal growth is the exact same way.
 
@@ -68,7 +68,7 @@ The best thing you can do is keep going, even when you fall.
 
 ## Lesson 3
 
-### You will only experience incredible personal growth after you’ve become consistent, and that requires patience.
+### You will only experience incredible personal growth after you’ve become consistent, and that requires patience
 
 I love Kung Fu Panda. My boy loves it too. In the first of the three movies, there’s a short training montage when the main character becomes a Kung Fu master in what appears to us as only a minute or so.
 
@@ -85,7 +85,5 @@ When you begin to get frustrated, which will inevitably happen regardless, you c
 ## Review
 
 *The 15 Invaluable Laws Of Growth* is my kind of book! I love how inspired I feel after reading anything that John Maxwell writes, and this one is no exception to that. It’s actionable tips and motivational abilities are amazing and will help anyone get up and start their personal growth journey today!
-
-## Who it’s for
 
 The 36-year-old who thinks they want to change careers but aren’t feeling very confident about it, the 51-year-old entrepreneur that would like some inspiration on how to grow their business, and anybody that wants to improve themself!

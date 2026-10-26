@@ -20,7 +20,7 @@ Ready for some age-old advice on leadership? Let’s get right into it!
 
 ## Lesson 1
 
-### If you want to be a leader, make sure you have the best intentions first.
+### If you want to be a leader, make sure you have the best intentions first
 
 Many people aspire to be leaders, but people don’t always want to lead for the *right* reasons. Some people want to lead only because they’re tired of taking orders. Other people might just be after the reputation. If you are considering taking on a leadership role, what motivates you?
 
@@ -34,7 +34,7 @@ A leader also shouldn’t only be looking for fame because they aren’t likely 
 
 ## Lesson 2
 
-### A great leader is exceptionally good at persuasive speaking.
+### A great leader is exceptionally good at persuasive speaking
 
 In democratic Athens, an aspiring politician had to win over the people and be elected as their leader. The key to this was to be able to give a great speech.
 
@@ -48,7 +48,7 @@ He led a military campaign in Sicily against his will because he couldn’t conv
 
 ## Lesson 3
 
-### Old leaders have valuable strengths that shouldn’t be dismissed.
+### Old leaders have valuable strengths that shouldn’t be dismissed
 
 In an old fable, Aesop tells the story of a fox who had a fur coat full of bloodsucking ticks. A hedgehog offers to remove the ticks from the fox’s fur, but she refuses. She says that if the ticks were removed, they’d only be replaced by new, hungrier ticks. Wouldn’t it be better to keep the less ravenous ones that had been there for a while?
 
@@ -63,7 +63,5 @@ Plutarch also felt a true leader will want to work as long as they can, rather t
 ## Review
 
 I’ve always loved leadership books, and *How To Be A Leader* has got to be one of my favorites. It’s crazy how well the lessons still apply even considering how old this book is! I think anybody will benefit from this book, no matter how new or experienced they are in life or leadership.
-
-## Who it’s for
 
 The 33-year-old who just became a manager and is scared they’ll mess something up, the 56-year-old executive that wants to be better to their employees, and anyone who wants to lead in any capacity.

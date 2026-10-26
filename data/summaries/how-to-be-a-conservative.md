@@ -18,7 +18,7 @@ Now, let’s dig a little bit deeper into these lessons and see what they truly 
 
 ## Lesson 1
 
-### A healthy society should be built from below, instead of being ruled from above.
+### A healthy society should be built from below, instead of being ruled from above
 
 A true conservative person believes in a society built from the bottom up, from its people to their representatives. A healthy society is defined by its people and follows the will of the majority. Unfortunately, many states fail to understand and implement these principles. This was also the case of communist Czechoslovakia or even the UK under Margaret Thatcher.
 
@@ -30,7 +30,7 @@ For this reason, conservators are trying to preserve these cultural ideas. While
 
 ## Lesson 2
 
-### A conservative society strives to offer equal opportunities and keeps all institutions involved in the market.
+### A conservative society strives to offer equal opportunities and keeps all institutions involved in the market
 
 One of the many unfortunate implications of communism is the nationalization of all institutions, businesses, and all other entities. Having the idea of the greater good and a centralized administration to serve all people equally, this practice has brought people tremendous misfortune during the twentieth century. **Not only is this philosophy utopic, but so much power in the hands of a few can prove to be dangerous.**
 
@@ -40,7 +40,7 @@ Moreover, by shutting them down, a state is only forcing the privileged to find 
 
 ## Lesson 3
 
-### Nationalism became a controversial word, but it actually promotes a healthy society.
+### Nationalism became a controversial word, but it actually promotes a healthy society
 
 Nowadays, people associate the word nationalism with the atrocities of the twentieth century. And for a reason! Just think about all the destruction and harm done in the name of nationalism. A primary example is extreme antisemitism displayed in policies and practices that almost wiped all Jewish people off the earth.
 
@@ -53,7 +53,5 @@ Perhaps this is the reason why people look for the food they grew up with even i
 ## Review
 
 *How to Be a Conservative* explores the true nature of a conservative person, their aim for equality, a nation-based state, the free market, and a democratic approach to society overall. The book debunks the ongoing myths about traditionalists being regressive and nostalgic, and offers a fresh perspective on what being a conservator implies. The author was born in a rather leftist family, but after paying a visit to the communist states in Europe, he decided that the far-wing doctrines and a left-based philosophy can ruin a society.
-
-## Who it’s for
 
 The 50-year-old who is passionate about politics and wants to expand their knowledge, the 40-year-old leftist who wants to challenge their belief and explore alternatives, or the 45-year-old who likes the right-side of politics.

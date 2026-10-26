@@ -22,7 +22,7 @@ Grab a notepad and get ready to take down all those weird ideas you have about p
 
 ## Lesson 1
 
-### Whining kids respond best when you use your imagination and put in effort.
+### Whining kids respond best when you use your imagination and put in effort
 
 One of the most common parenting questions for people with young kids is, “how can I get my kid to stop whining?” Listening to a child whine can be exhausting and frustrating. And most parents will agree asking them to “just stop whining” only makes things worse.
 
@@ -36,7 +36,7 @@ When it comes to parenting, sometimes you just need to think outside the box to 
 
 ## Lesson 2
 
-### You can help your child feel brave and calm their wild imagination through parenting.
+### You can help your child feel brave and calm their wild imagination through parenting
 
 If you’ve ever spent time around young children, you know they can have very vibrant imaginations. But this sometimes fun attribute can cause problems when it comes to things they find frightening. Most people can probably relate to the irrational childhood fear that there is a monster waiting under your bed or in your closet.
 
@@ -50,7 +50,7 @@ It can go something like this: ask your child to enter a dark bedroom and stay i
 
 ## Lesson 3
 
-### You can help little kids express themselves through role-play and teens by showing you want to listen rather than judge.
+### You can help little kids express themselves through role-play and teens by showing you want to listen rather than judge
 
 Sure your young child can talk for ten minutes straight about a cool rock he found on the playground, but when it comes to talking about how he feels, he’s not so great. To help a child learn to open up about how they feel, the author says role-playing can help.
 
@@ -65,7 +65,5 @@ So she tried a different approach. Every night they would go on a walk and she h
 ## Review
 
 What an interesting book! I could definitely relate to *Weird Parenting Wins* as I’ve seen a few strange things work with my kids too. What I liked best was how this book was so much more practical than many other books out there and touches on an important parenting tool that many often overlook.
-
-## Who it’s for
 
 The 27-year-old couple that wants to start having kids but is scared they won’t know what to do, the 45-year-old couple who have some unique parenting problems, and everyone who works with children or has their own.

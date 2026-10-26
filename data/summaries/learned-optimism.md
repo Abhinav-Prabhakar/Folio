@@ -28,13 +28,13 @@ Until now your explanatory style has been shaped primarily by your **parents** a
 
 Have you ever heard a teacher yell at someone for chatting in class? That’s good, because it’s an external problem they point to. “You have to listen more closely next time.” is a much better statement than “You’re just a bad reader.” because the latter makes the student internalize the problem.
 
-One of the advantages of **being an optimist isbeing healthier.**
+One of the advantages of **being an optimist is being healthier.**
 
 Studies found optimism boosts your immune system, and even increased the health of cancer patients.
 
 What’s more, optimists are likely to take good care of their bodies, because they believe that their choices will make a difference. Pessimists are prone to junk food and no exercise, as they believe it won’t matter.
 
-On the other hand, **pessimismcan likely be a cause of depression**. Believing that nothing you do will change anything can of course make you depressed. A study where people had to press buttons to make noises stop found symptoms of depression in them whenever the experiment was rigged so that the buttons had no effect.
+On the other hand, **pessimism can likely be a cause of depression**. Believing that nothing you do will change anything can of course make you depressed. A study where people had to press buttons to make noises stop found symptoms of depression in them whenever the experiment was rigged so that the buttons had no effect.
 
 **Optimism is also a deciding factor in professional sports**. Seligman looked at baseball teams in 1985 and determined the New York Mets were the most optimistic team, the St. Luis Cardinals the most pessimistic. Guess who won the World Series one year later? The Mets.
 
@@ -48,15 +48,15 @@ Use the ABC technique by Albert Ellis.
 
 It works like this: When facing a crisis, you note 3 things about it.
 
-*What’s the **A** dversity?*
+*What’s the **A**dversity?*
 
 For example you just got fired.
 
-*What is my **B** elief about this?*
+*What is my **B**elief about this?*
 
 For example you believe you did a horrible job and that’s why you were let go.
 
-*What is the **C** onsequence of my belief?*
+*What is the **C**onsequence of my belief?*
 
 For example you feel depressed and can’t get out of bed for 2 weeks.
 
@@ -81,7 +81,5 @@ This is probably my favorite summary on Blinkist. *Learned Optimism* is so packe
 I’m a big fan of positive psychology and this book intersects a lot with Mindset by Carol Dweck, but is much more encompassing.
 
 This is the first book summary I would recommend anyone read as soon as they sign up for Blinkist.
-
-## Who it’s for
 
 The 23 year old soccer player whose coach always makes excuses why their team loses, the 19 year old graduate who’s worried that her resumé is not perfect and anyone who keeps complaining about what’s in the newspaper.

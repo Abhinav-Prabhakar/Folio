@@ -30,11 +30,9 @@ Here’s a closer look at items number 1, 3, and 7:
 
 Let’s see what we can learn from Arnold Schwarzenegger’s life!
 
-### Be Useful Summary
-
 ## Lesson 1
 
-### Even if it’s broad at first, work out a clear vision for your life.
+### Even if it’s broad at first, work out a clear vision for your life
 
 Arnold’s young life was full of “ads” for America. The movies he watched were made in Hollywood. Magazine covers showed the Golden Gate Bridge and people driving Cadillacs. At 10 years old, Arnold had no idea what he would do in the USA — he just knew he belonged there.
 
@@ -48,7 +46,7 @@ Sooner or later, your vision will become very specific, and then all you’ll ha
 
 ## Lesson 2
 
-### Work as hard as you can for as long as it takes — because even if it’s not a lot, you have more time than you think.
+### Work as hard as you can for as long as it takes — because even if it’s not a lot, you have more time than you think
 
 Arnold’s most preeminent piece of advice is “Work your butt off,” as he states in his unmistakable accent. Between sharing this rule in his 2005 USC commencement address and in his 2023 book, I noticed his definition of “work hard” has grown larger. Perhaps his age has taught Arnold that there’s more than one way to do your best.
 
@@ -60,7 +58,7 @@ Arnold inspiringly breaks down a 24-hour day: Even if you sleep 8 hours and work
 
 ## Lesson 3
 
-### Remember to give back not just after you’ve won but also along the way — because there’s no such thing as a self-made man or woman.
+### Remember to give back not just after you’ve won but also along the way — because there’s no such thing as a self-made man or woman
 
 After Arnold had achieved fame and success, people called him “a self-made man.” He didn’t understand. After all, without America, how could he have lived the American dream? “No one lifted the weights or spoke the lines or signed the bills for me,” he writes, but without many special people in his life, he never could have become who he is.
 

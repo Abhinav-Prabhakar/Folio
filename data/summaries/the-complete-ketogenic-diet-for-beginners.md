@@ -50,6 +50,4 @@ For example, once you get rid of your temptations by donating the carb-rich food
 
 *The Complete Ketogenic Diet for Beginners* offers a hands-on guide to the keto diet starting with the little steps, like getting rid of all temptations, asking for support, to the big ones, such as ditching carbs in favor of fats and protein and getting through the keto flu. This book is the only source of research you’ll need to introduce keto into your lifestyle. Reading it will make switching to a fat and protein-based lifestyle easier than ever before!
 
-## Who it’s for
-
 The 27-year-old stay-at-home mom who wants to lose postpartum weight, the 35-year-old person who has been struggling with weight loss and never found a satisfying diet, or the 40-year-old person who wants to reverse their inclination towards diabetes by adopting a new lifestyle.

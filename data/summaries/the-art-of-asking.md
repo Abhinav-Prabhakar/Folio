@@ -18,7 +18,7 @@ Have struggle asking for and accepting help? Not after these lessons you won’t
 
 ## Lesson 1
 
-### If you accept someone else’s help, it might be good for them too.
+### If you accept someone else’s help, it might be good for them too
 
 If you’re like me, you hate both asking for and accepting other peoples’ help. Amanda Palmer says that’s stupid. And she’s right. When we’re deliberating whether to take help or not, we often think “I’ll be a burden to that person,” “what if I disappoint them?” or are just too proud to say yes.
 
@@ -30,7 +30,7 @@ On the outside, it seemed like an imbalanced relationship, but on the inside, it
 
 ## Lesson 2
 
-### An ask is, unlike begging, always a two-way street, so be open to getting a no.
+### An ask is, unlike begging, always a two-way street, so be open to getting a no
 
 Amanda has a strong desire to connect with people. So when she was performing her act “The Eight Foot Bride,” she always came up with little gifts to give to her audience, eventually settling on flowers. But not everyone wanted a flower. Some people would reject her gifts.
 
@@ -40,7 +40,7 @@ Begging is different. It tries to force a give from the other party, without off
 
 ## Lesson 3
 
-### Focus on making friends, not customers, and you’ll build a huge support network over time.
+### Focus on making friends, not customers, and you’ll build a huge support network over time
 
 If you’re familiar with online marketing even just a little bit, you’ll definitely have come across email marketing in one way or the other. Since email was the first mass communication tool, marketers who rode the earliest wave of it back in the late 90s could use it to make millions. When social media turned up in the early 2000s, email was quickly forgotten and left by the wayside. But it’s still one of the best ways to stay in touch with your audience.
 
@@ -57,7 +57,5 @@ Focus on making as many friends online as you can, and you’ll have a big suppo
 ## Review
 
 *The Art Of Asking* is a book for artists and creatives, but it also feels like a business book a bit – which is great! None of the usual, annoying, guru-esque: do this, then that, take step 1, 2, 3 and then you’ll be successful, just a human being sharing her story from which you can learn. Artist or not, I’d recommend this to anyone who feels uncomfortable asking for help, even when they know they need it.
-
-## Who it’s for
 
 The 18 year old actor, who’s bussing tables to live from one gig to the next, the 37 year old housewife, who has trouble accepting her husband’s money to help her start a painting career, and anyone who’s building an online business.

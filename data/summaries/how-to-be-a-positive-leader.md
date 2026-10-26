@@ -18,7 +18,7 @@ Let’s lead those around us, shall we? Here we go!
 
 ## Lesson 1
 
-### Have more high-quality connections by giving people your full attention.
+### Have more high-quality connections by giving people your full attention
 
 The bigger your brain, the more social you are. Did you know that? No wonder then, that humans have evolved to be the most social species on the planet. We thrive on social interactions, and the more good ones we have, the more confident, energetic and therefore creative we are.
 
@@ -36,7 +36,7 @@ The difference will show.
 
 ## Lesson 2
 
-### Show yourself that your work has meaning, by connecting with those, who benefit from it.
+### Show yourself that your work has meaning, by connecting with those, who benefit from it
 
 Nothing motivates us more than seeing the impact of our work. When you know that the work you do *means something*, that it changes people and helps them live better lives, you’re much more excited to get out of bed in the morning.
 
@@ -48,7 +48,7 @@ However, it’s important to connect with the *end user* of your product. For ex
 
 ## Lesson 3
 
-### Ask yourself one simple question to stay true to your ethical code.
+### Ask yourself one simple question to stay true to your ethical code
 
 You and I have hundreds of opportunities to behave immorally every day. We could get away with semi-legal, even illegal things, on a regular basis. Yet, most of us don’t, because we have an ethical code. We all want to be seen as good people, who make the right decisions, and shoplifting just doesn’t fit into that picture.
 
@@ -65,7 +65,5 @@ How’s that for a measure for integrity? Not bad, huh? If you’re comfortable 
 ## Review
 
 The summary didn’t address this, but I could instantly see that all of the suggested changes can be transferred right into your personal life. That makes *How To Be A Positive Leader* a book, that is not just for corporate managers and leaders with thousands of followers, but for everyone. Since it’s a compendium, it stays fresh and engaging, without beating one idea to death. If you want to make those around you smile more, this is the book for you 🙂
-
-## Who it’s for
 
 The 19 year old, who often looks at her phone, or even texts, while talking to others, the 64 year old factory worker, who’s never personally met a customer of the product he creates, and anyone who’s been in a moral dilemma before and found it really hard to make a decision.

@@ -16,11 +16,9 @@ Here are my three favorite lessons from the book:
 
 Ready to build up your courage? Let’s go!
 
-### Courage Is Calling Summary
-
 ## Lesson 1
 
-### Facing danger and uncertainty with confidence and willingness is what makes a person brave.
+### Facing danger and uncertainty with confidence and willingness is what makes a person brave
 
 Let’s start from the beginning. What is courage? The book defines it as someone’s ability to face danger, challenges, and life’s hardships. Within this concept, you can view courage in two ways: moral and physical courage. The first refers to one’s ability to act according to their moral compass and life principles. Although, that sometimes means defying societal rules, norms, people’s opinions, or putting themselves at risk. One good example of such courage is a whistleblower, or a person who signals something wrong knowing that they’re putting themselves at risk.
 
@@ -30,7 +28,7 @@ Throughout history, people who chose to be courageous often managed to change th
 
 ## Lesson 2
 
-### Overcome fear by using logical reasoning and defining it.
+### Overcome fear by using logical reasoning and defining it
 
 Everybody faces fear throughout their lifetime. Sometimes our fears, or phobias, are of great intensity, yet sometimes they’re just irrational little buzzers. Still, if you analyze them carefully, you’ll notice how overcoming them happens by acknowledging the reason behind the fear and overcoming it in your mind first, then through action. Frankly, it’s only normal!
 
@@ -42,7 +40,7 @@ Doing so will help you make even more sense of your situation. Ancient Greek phi
 
 ## Lesson 3
 
-### Start small — like any skill, courage cannot be acquired in a day.
+### Start small — like any skill, courage cannot be acquired in a day
 
 Greek philosophers, among which Aristotle in particular, believed in the power of virtues. Throughout our life, we must work on our virtues each day by taking small, incremental steps. In the end, we’re all playing a game of consistency. Essentially, the same goes with becoming a brave human. **You don’t have to start with grand gestures, such as defying the government.** Start small, but make it count.
 
@@ -53,7 +51,5 @@ In time, you’ll be presented with occasions when you can display great acts of
 ## Review
 
 In our quest to better ourselves, we must learn to overcome our fears. *Courage Is Calling* offers a series of practical tips you can use to do so, from defining your fear to using logical reasoning to face it as well as some tricks to “jump over” it almost immediately. Highly recommended!
-
-## Who it’s for
 
 The 20-year-old man who’s working on becoming more daring and confident, the 30-year-old person who is passionate about history and how brave characters have shaped the world we know today, or the 40-year-old alpha male who identifies with the concepts of bravery, masculinity, and leadership.

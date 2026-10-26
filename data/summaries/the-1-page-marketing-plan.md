@@ -18,7 +18,7 @@ Let’s explore each phase and learn to find and convert leads!
 
 ## Lesson 1
 
-### The first stage of a successful marketing plan consists of meeting prospects.
+### The first stage of a successful marketing plan consists of meeting prospects
 
 A good marketing plan has three phases: the before, the during, and the after phase. The first stage consists of setting goals and discovering your niche. In this stage, it is crucial for you to be very specific.
 
@@ -32,7 +32,7 @@ Center your ads around your USP (Unique Selling Proposition). That is where you 
 
 ## Lesson 2
 
-### The second phase of your marketing plan is where you engage with prospects and convert them into buyers.
+### The second phase of your marketing plan is where you engage with prospects and convert them into buyers
 
 This is when we talk about content marketing—the process of creating engaging content that inspires consumers to take action (like buying from us). Create ads that sell, whatever that means for you niche. However, to turn prospects into buyers, not only will you need to capture their attention through ads but also pave the way for them.
 
@@ -44,7 +44,7 @@ Then, keep touching base with them to give free value, promote your offerings a 
 
 ## Lesson 3
 
-### The after phase is where you turn your customers into loyal buyers and even advocates for your brand.
+### The after phase is where you turn your customers into loyal buyers and even advocates for your brand
 
 If you want to make sure that your customers are satisfied with their experience, you need to consider a few key factors:
 
@@ -65,7 +65,5 @@ You can also encourage them to share their experience with others by providing d
 In a world where everyone is trying to figure out how to get their company off the ground, *The 1-Page Marketing Plan* is the perfect guide for anyone who wants to build a sustainable business.
 
 The author lays out the exact steps you need to follow to position your organization, build an efficient marketing plan, and keep growing. If you’re a startup founder or small business owner, this book is for you.
-
-## Who it’s for
 
 The 26-year-old startup founder, the 23-year-old freelancer who wants to learn how to better organize their marketing side hustle, and anyone who wants to learn how to market more efficiently.

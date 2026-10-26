@@ -18,8 +18,6 @@ Here are three lessons from the book that’ll help you answer your money questi
 
 Ready to overhaul some outdated financial knowledge? Let’s see what’s behind the idea to “just keep buying!”
 
-### Just Keep Buying Summary
-
 ## Lesson 1
 
 ### Abandon a fixed saving rate in favor of “saving what you can, when you can.”
@@ -36,7 +34,7 @@ Instead of obsessing over some fixed savings rate and then feeling bad when you 
 
 ## Lesson 2
 
-### Grow your income instead of cutting costs until you’re miserable.
+### Grow your income instead of cutting costs until you’re miserable
 
 As a crypto investor, I’ve made a classic mistake: I got carried away in the bull market. When my assets went up, I focused more on managing my assets. I moved money around from position A into position B with no effect. I worked less and spent more time looking at market news. Of course, when the music stopped, my portfolio went down just the same as everyone else’s.
 
@@ -50,7 +48,7 @@ Your saving potential is limited, but your capacity to make more money is nearly
 
 ## Lesson 3
 
-### Money’s real challenge to us is figuring out our priorities in life.
+### Money’s real challenge to us is figuring out our priorities in life
 
 One reason we’re all so stressed out about money is that financial advice everywhere makes us feel guilty about spending it. “Be a diligent saver.” “Remember your retirement!” While these tips are well-intended, their constant presence has led to a culture in which we’re *always* anxious about money.
 
@@ -65,7 +63,5 @@ Don’t fret about your dollars. Trust yourself, do the best you can, and when a
 ## Review
 
 *Just Keep Buying* is a no-nonsense, straightforward finance book. It uses data and clever analogies to bring much needed clarity to an industry muddled with cookie-cutter advice. Maggiulli’s writing is engaging and easy to understand, and so is this book. Test-read his blog Of Dollars And Data, and if you enjoy it, get yourself a copy of this gem!
-
-## Who it’s for
 
 The 20-year-old student who is just starting their financial journey in what feels like a terrible time to invest, the 54-year-old whose recession woes seem to torpedo his plans for peaceful retirement, and anyone who’s tired of regurgitated financial advice.

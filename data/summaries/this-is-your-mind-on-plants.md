@@ -1,6 +1,6 @@
 # This Is Your Mind On Plants
 
-> This Is Your Mind On Plants is an analysis of three conscious-altering substances — opium, caffeine and mescaline — which humans have been using for thousands of years, as well as how their effectshave shaped our bodies, culture, and history, showing that, beyond arguing about their legalities, we must understand their potential to help us connect with both nature and ourselves in new ways.
+> This Is Your Mind On Plants is an analysis of three conscious-altering substances — opium, caffeine and mescaline — which humans have been using for thousands of years, as well as how their effects have shaped our bodies, culture, and history, showing that, beyond arguing about their legalities, we must understand their potential to help us connect with both nature and ourselves in new ways.
 
 ## Overview
 
@@ -22,7 +22,7 @@ Time to learn all about these three super plants and see how you can harness the
 
 ## Lesson 1
 
-### Depending on when you drink it, coffee can be both beneficial or detrimental to your health.
+### Depending on when you drink it, coffee can be both beneficial or detrimental to your health
 
 Coffee can be both good and bad for you. Coffee is a stimulant, which means it has two different effects on your body. Firstly, it increases your heart rate, blood pressure and metabolism. It can also keep you awake.
 
@@ -34,7 +34,7 @@ If you don’t, it can lead to problems such as depression, anxiety, and even Al
 
 ## Lesson 2
 
-### Brewing your own opium tea is rather illegal, and it won’t get you as high as you’d hope.
+### Brewing your own opium tea is rather illegal, and it won’t get you as high as you’d hope
 
 Opium is an extremely potent painkiller that can be derived from a variety of plants. The most common form is derived from the poppy flower; however, it can also be extracted from other related plants like lettuce and poppies.
 
@@ -48,7 +48,7 @@ This will not get you high—it’s more of a mild sedative that can help you sl
 
 ## Lesson 3
 
-### Ingesting mescaline may not taste good, but it can alter the way you perceive your environment in an interesting way.
+### Ingesting mescaline may not taste good, but it can alter the way you perceive your environment in an interesting way
 
 Mescaline is a psychedelic drug that temporarily alters the way our brains process information. With mescaline, everything becomes wildly interesting, or so the author says.
 
@@ -65,7 +65,5 @@ Mescaline also affects our perceptions of time and space—we may feel like time
 The book explores how certain drugs affect your brain by explaining their chemical composition and the role they play in our bodies.
 
 It also describes how these chemicals have been used throughout history to alter consciousness and treat illnesses such as depression or anxiety. I highly recommend this read to anyone who enjoys a good lecture, regardless of the topic.
-
-## Who it’s for
 
 The 25-year-old health-conscious person who wants to know more about caffeine’s effects on the body, the 37-year-old person who wants to find out about the curative effects of plants to treat their conditions, or the 30-year-old person who’s into the vegan lifestyle and wants to study more about the power of plants.

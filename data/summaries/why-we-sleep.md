@@ -20,11 +20,9 @@ Here 3 awesome lessons I got out of this book:
 
 Grab a pillow and blanket and let’s learn the how’s and why’s of a great night’s sleep!
 
-### Why We Sleep Summary
-
 ## Lesson 1
 
-### Sleep is foundational to health, and without enough of it your risk of disease increases significantly.
+### Sleep is foundational to health, and without enough of it your risk of disease increases significantly
 
 Walker shares that he used to tell people the three pillars for good health consisted of diet, exercise, and sleep. Now that he understands the huge importance of sleep, he tells people that sleep is the foundation that the others stand upon. We all know heart disease is a huge problem around the world. The cost of this increasingly prevalent health problem is a huge burden on healthcare systems. But Walker proposes that the real cure is pretty much free. He says people just need to get more sleep.
 
@@ -34,7 +32,7 @@ Why is there a link, though? Because a lack of sleep causes a rise in blood pres
 
 ## Lesson 2
 
-### If you drive drowsy, you might as well be driving drunk.
+### If you drive drowsy, you might as well be driving drunk
 
 We all know of the tragedy that drunk driving can inflict upon not just the driver but also others. But did you know that driving while drowsy is equally as dangerous as driving drunk? So not only is sleep deprivation bad for your health, but it also can make you a threat to society if you get behind the wheel. **Getting less than seven hours of sleep per night will increase your chance of getting in an accident considerably.**
 
@@ -44,7 +42,7 @@ In an Australian study, researchers divided participants into two groups. One dr
 
 ## Lesson 3
 
-### Increasing sunlight exposure during the day and limiting specific substances improves sleep quality.
+### Increasing sunlight exposure during the day and limiting specific substances improves sleep quality
 
 Walker gives tips based on the latest research on how to improve your sleep. His first tip is to consider avoiding substances like alcohol and nicotine. Having that glass of wine before bed might feel like a great way to end the day and unwind, but science shows alcohol makes it hard for your body to go into a deep sleep.
 
@@ -57,7 +55,5 @@ We should also try to soak up the sunlight at least a little every day. **Natura
 ## Review
 
 Three words keep revolving around my mind after reading *Why We Sleep*: “threat to society.” I don’t like being negative, but after the research this book presents, that’s the best way I can describe sleep deprivation. The good news, though, is that this book gives some great actionable advice to improve your sleep habits!
-
-## Who it’s for
 
 The 56-year-old with heart disease who is afraid of dying early and wants to pinpoint what may improve their health the most, the 32-year-old startup founder who is burning the candle at both ends thinking they’re getting ahead, and everyone who thinks they can get by with less sleep.

@@ -22,7 +22,7 @@ Ready to go skydiving? After this, you might have the courage to go for it!
 
 ## Lesson 1
 
-### If you want to improve yourself and your life, do what you’re afraid of.
+### If you want to improve yourself and your life, do what you’re afraid of
 
 When her son Ben was turning 13, Margie asked him what he’d like to do for his birthday. He excitedly exclaimed “skyjumping!” This was a little scary for both of them, especially when it was time to get into the airplane!
 
@@ -36,7 +36,7 @@ Another fear-busting tip is to notice when fear is paralyzing your ability to ac
 
 ## Lesson 2
 
-### Make a decision and confidently stand by it when you’re not sure what to do and you’ll soon find the best way forward.
+### Make a decision and confidently stand by it when you’re not sure what to do and you’ll soon find the best way forward
 
 Where’s the best place for you to live? What should you do for work? Who do you want to spend your time with? Making decisions is a never-ending struggle.
 
@@ -54,7 +54,7 @@ Usually, the best decision is having the courage to make any decision and trust 
 
 ## Lesson 3
 
-### Smart and courageous people ask for help, even though they’re scared to.
+### Smart and courageous people ask for help, even though they’re scared to
 
 Warrell has a friend named Mona who learned a lot about the power of asking for help when she got cancer. She discovered that when you need support it’s vital that you open up to others to request it.
 
@@ -69,7 +69,5 @@ After all, each of us is only human. We don’t get anywhere by denying that we 
 ## Review
 
 What an inspiring book! I love doing things I’m afraid of, most of the time but *Brave* opened up many new aspects of courage that I’m excited to try out. These days we need world peace, and I think one of the best ways to get there is more people having the bravery to stand up for what’s right.
-
-## Who it’s for
 
 The 62-year-old who has just been diagnosed with cancer and wants to be strong, the 29-year-old who thinks they might be due for a career change but is afraid of change, and anyone who could use a little encouragement to get outside of their comfort zone to improve their lives and the world.

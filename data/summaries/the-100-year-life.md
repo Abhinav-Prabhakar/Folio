@@ -18,7 +18,7 @@ Let’s learn more about each lesson by exploring them one by one below.
 
 ## Lesson 1
 
-### Medical advancements and in-depth research about lifestyle choices shaped a world of increased longevity.
+### Medical advancements and in-depth research about lifestyle choices shaped a world of increased longevity
 
 If you take a look back in history, the world was much different than we know it today. Without accounting for worse economic conditions or wars, medicine and technological advancements were nowhere near the standards we know today.
 
@@ -34,7 +34,7 @@ This fact poses a new issue for humans: what are we going to do once we’re app
 
 ## Lesson 2
 
-### People should prepare for old age by learning new skills in demand.
+### People should prepare for old age by learning new skills in demand
 
 We’ve all seen at least one futuristic, sci-fi movie where the characters end up in a future ruled by AI-driven robots, flying cars, machine humans, and dynamic buildings. While we can’t promise the flying cars part, we surely do notice the increasingly growing role AI plays in our everyday lives already.
 
@@ -46,7 +46,7 @@ Other areas of improvement that will prove worthwhile in our life include self-a
 
 ## Lesson 3
 
-### Building financial strength comes from trying, failing, and exploring.
+### Building financial strength comes from trying, failing, and exploring
 
 The world has changed for the better. And that means that you have the flexibility to live a life like no one before you. No one expects us to go to college, find a job at 20-something-years-old, stay with the company till we retire, and then die. Frankly, a life spent working for big corporations doesn’t sound appealing to the masses anymore.
 
@@ -65,7 +65,5 @@ If you’re thinking about retirement, or simply have an interest in growing old
 As life expectancy goes up and people live longer, you need to make changes to your life now. So that when you do retire it’s a little less stressful.
 
 Overall, the book is an excellent read. It’s well-written, comprehensive, and offers a compelling look at what life could be like over the next 100 years, with the increasing elderly population.
-
-## Who it’s for
 
 The 30-year-old person who is slowly starting to look at their retirement and plan it, the 50-year-old who lost faith in the Social Security System and wants to find a way to provide for their future self, or the 25-year-old person who’s interested in the effects of longevity on the retirement and the world as we know it.

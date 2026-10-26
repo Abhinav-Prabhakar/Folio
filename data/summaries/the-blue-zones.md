@@ -22,7 +22,7 @@ Prepared to get some extra time on this precious planet? Let’s increase your l
 
 ## Lesson 1
 
-### Age is not about genes, it’s about lifestyle – and the right one can add 10 years to your life.
+### Age is not about genes, it’s about lifestyle – and the right one can add 10 years to your life
 
 Let me give you the bad news first. Right now, only 1 in 4,000 Americans lives to be 100 years old. That’s 0.025%. The good news is that centenarians are the fastest-growing demographic across the planet, especially in Western areas, like the USA or Europe.
 
@@ -38,7 +38,7 @@ Worth changing a few habits, don’t you think?
 
 ## Lesson 2
 
-### Drink more, eat less.
+### Drink more, eat less
 
 “You are what you eat.” You’ve heard that one, right? Of course what you eat and drink makes up a huge part of your health and therefore, your age, so let’s look at what centenarians do.
 
@@ -50,7 +50,7 @@ Centenarians usually eat a **low-calorie diet**, which is mostly vegetarian, and
 
 ## Lesson 3
 
-### Always put your family first, and let it be your life’s purpose.
+### Always put your family first, and let it be your life’s purpose
 
 Living long isn’t just about health, it’s also about your psyche. One of the best things you can do to make sure you stay around is to live a life of purpose. Guess when most healthy Americans die.
 
@@ -69,7 +69,5 @@ My roommate has *The Blue Zones* and I’ve read several sections of it. It’s 
 The cool thing about this book is that the blue zones all lie in the most vastly different countries, which means there are a few lifestyle changes in there for everyone. No matter whether you like Asian food, Italian red wine or Californian sunshine, there are bound to be things in this book that you’ll want to adopt.
 
 Highly recommended read – what better book to pass the time until science catches up on those anti-aging pills could there be?
-
-## Who it’s for
 
 The 45 year old hustler, who works 12 hours a day, but wants to eventually reap the fruits of his labor, the 70 year old retiree, who thinks the best years of her life are over, but could live another 10 great years, and anyone whose grandparents lived to be really old.

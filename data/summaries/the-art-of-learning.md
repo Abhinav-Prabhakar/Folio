@@ -20,7 +20,7 @@ Committed to kicking the world’s ass in something? Let’s look at the lessons
 
 ## Lesson 1
 
-### Losing comes before winning (not just in the dictionary).
+### Losing comes before winning (not just in the dictionary)
 
 When Josh was 10 years old, he started to play in adult chess tournaments. For the first time, he started actually losing a bunch of matches. Of course, Josh was frustrated. But it was only through this frustration that he found a major flaw in his chess skills: he couldn’t concentrate long enough to compete in serious tournaments.
 
@@ -40,7 +40,7 @@ Always use failure to set new short-term goals, which fuel a long-term goal, and
 
 ## Lesson 2
 
-### Stay in the soft zone to accept distractions and perform in spite of them.
+### Stay in the soft zone to accept distractions and perform in spite of them
 
 Sometimes it gets really loud in the café I usually work in these days. Business meetings, students venting about their latest exam, loud coffeemakers. On some days it feels very distracting and I get annoyed, because it feels like the world won’t let me focus.
 
@@ -52,7 +52,7 @@ For example, Josh once lost an important chess match, because he had a catchy so
 
 ## Lesson 3
 
-### High-intensity interval training will cut your recovery rate down fast.
+### High-intensity interval training will cut your recovery rate down fast
 
 If you’re a runner, or do cardio on a regular basis, you might have heard of HIIT before. It stands for high-intensity interval training – short bursts of very tough exercise, followed by a brief period of recovery time.
 
@@ -63,7 +63,5 @@ Whether you’re big on sports or not, integrating some form of HIIT into your s
 ## Review
 
 A very cool glimpse into the world of high-performers. Screw talent, it’s all about practicing and practicing right. Whether you’re trying to become a writer, better manager or want to dominate in a sport, *The Art Of Learning* can give you a few valuable principles to make your practice more deliberate. Go Josh!
-
-## Who it’s for
 
 The 13 year old, who’s passionate about basketball, but recently wanted to quit, because his team lost a game, the 49 year old librarian, who’s often frustrated when people make noises at work, and anyone who’s not doing any endurance training at the moment.

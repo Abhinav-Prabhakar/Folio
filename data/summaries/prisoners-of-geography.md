@@ -20,7 +20,7 @@ Who needs a map? Let’s jump right in and see why geography is so important!
 
 ## Lesson 1
 
-### Russia has a strong presence in the Baltics to protect itself from getting invaded from the West.
+### Russia has a strong presence in the Baltics to protect itself from getting invaded from the West
 
 If you look at Russia on a map, you might be surprised at just how enormous it is. The country spans 6 million square miles, making it the biggest country in the world by far. While the country is massive, there is one thing that keeps Russian President Vladimir Putin up at night.
 
@@ -34,7 +34,7 @@ Since 1812, Northern European invaders have attacked Russia here an average of o
 
 ## Lesson 2
 
-### The location of the United States makes it nearly invulnerable.
+### The location of the United States makes it nearly invulnerable
 
 While most countries have to worry about invasions, for the most part, the United States doesn’t. Its unique geographical position renders it pretty much invulnerable to any invading army. The neighbors to the north and the south are on friendly terms, and what’s more, they are so large that any army attempting to invade through them would have to have impossibly long supply lines.
 
@@ -46,7 +46,7 @@ The right to bear arms is part of the American Constitution and is so deeply wov
 
 ## Lesson 3
 
-### Northern European countries flourish, while its Southern ones struggle, all due to geography.
+### Northern European countries flourish, while its Southern ones struggle, all due to geography
 
 The world has Europe to thank for the Enlightenment and Industrial revolution, which have both contributed to modern life in huge ways. Europe’s thriving societies are in large part a result of a temperate climate with good soil and generous rainfall.
 
@@ -59,7 +59,5 @@ On the other hand, Southern Europe has far less arable land. For example, Greece
 ## Review
 
 Whoa, *Prisoners Of Geography* is mind-blowing! I found myself focusing a lot more on what it said about my country than others, but still, everything in here is interesting. It makes a whole lot more sense why the world is the way it is once you read this book!
-
-## Who it’s for
 
 The 78-year-old who wonders why some countries can just never get ahead while others are always on top, the 19-year-old that is studying politics in college, and anyone who wants to know how geography affects the successes and failures of nations.

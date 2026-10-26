@@ -6,7 +6,7 @@
 
 Want to launch a creative career online and start living off your art? There’s nothing easier. All you need to do is define your audience, design a sales funnel, create an awesome product, learn about SEO and SEM, build social media following… Wait. Didn’t I just say, “there’s nothing easier?”
 
-Srinivas Rao turns the whole idea of being a successful creative upside down. When everyone seems to be focusing on defining their niche and marketing personas, *An Audience Of One* *: Reclaiming Creativity for Its Own Sake* proposes a drastically different approach. In a nutshell, it is all about creating for yourself in the first place. Once you learn how to do that wholeheartedly and consistently, all the external success will follow.
+Srinivas Rao turns the whole idea of being a successful creative upside down. When everyone seems to be focusing on defining their niche and marketing personas, *An Audience Of One: Reclaiming Creativity for Its Own Sake* proposes a drastically different approach. In a nutshell, it is all about creating for yourself in the first place. Once you learn how to do that wholeheartedly and consistently, all the external success will follow.
 
 *An Audience Of One* builds on a similar premise as the bestselling *Flow* by Mihaly Csikszentmihalyi. The idea is that you create your own meaning of life. That also means that you get to decide what the real purpose of your art is.
 
@@ -22,7 +22,7 @@ If you are serious about making your art a central part of your life and career,
 
 ## Lesson 1
 
-### To build an audience, start by creating for yourself.
+### To build an audience, start by creating for yourself
 
 Many beginner creators get hung up on the idea of delivering specific products to precisely defined audiences. While this is not wrong, it rarely works at the beginning of your creative career.
 
@@ -36,7 +36,7 @@ This is when the cliché motivational slogans are wise to follow. *Be your own b
 
 ## Lesson 2
 
-### To be a successful creative, you have to be in touch with yourself.
+### To be a successful creative, you have to be in touch with yourself
 
 The popular “no pain no gain” philosophy has spread widely in the internet productivity community and has also affected artists. While it is generally true that you need to work hard to succeed, that’s not the whole story.
 
@@ -50,7 +50,7 @@ Lastly, to be a successful artist, you need to carve out alone time regularly. B
 
 ## Lesson 3
 
-### Abandon the idea of being a “lone creator,” independent from everybody else.
+### Abandon the idea of being a “lone creator,” independent from everybody else
 
 As much as you are encouraged to create for *an audience of one*, it doesn’t mean that your art starts and ends with you alone. No artist exists in a void. Like any person, you are prone to the influence of the people you spend time with and the content you consume.
 
@@ -63,7 +63,5 @@ The same goes for the content you consume; it inevitably influences you as a cre
 ## Review
 
 *An Audience Of One* is a book for minimalists. For anyone who wants to build their life around creativity, but feels that they cannot wrap their heads around everything that they need to do. Instead of trying to do it all at once, Srinivas Rao encourages you to take a different approach, focused on internal motivation, incremental improvement, and creating your most authentic work. As a bonus, you get a lot of practical productivity tips.
-
-## Who it’s for
 
 The 27-year-old freelance writer who wants to start living off their art instead of writing for others, the 44-year-old amateur painter who is wondering how to put her work in front of more eyes, and anyone looking to bring their creative projects to the next level.

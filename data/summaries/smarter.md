@@ -20,7 +20,7 @@ Ready to raise your knowledge rank? Let’s play some mental games!
 
 ## Lesson 1
 
-### Intelligence is part fluid, part crystallized, and both can be increased.
+### Intelligence is part fluid, part crystallized, and both can be increased
 
 Intelligence was divided into two parts as early as the 1970s. Back then, scientists discerned them as follows:
 
@@ -37,7 +37,7 @@ Fluid intelligence reaches its peak during young adulthood (which is why great m
 
 ## Lesson 2
 
-### You can play certain computer games to increase your working memory.
+### You can play certain computer games to increase your working memory
 
 In 2008, Susanne Jaeggi conducted a study including computer games of the so-called N-back type. These games usually show you different elements, one after the other, and then ask you questions for which you have to remember the element that you saw “N back”, where N can be any number.
 
@@ -51,7 +51,7 @@ Also, games similar to these could even help people with illnesses like ADHD.
 
 ## Lesson 3
 
-### Transferring your new knowledge from one task to the other is called far transfer.
+### Transferring your new knowledge from one task to the other is called far transfer
 
 Do you know what a meta-study is? It’s a study of studies. For training working memory, like in the study above, a meta study was conducted in 2013, which brought up the following issue: while effective in the short term, most of the results from training working memory could only be transferred to other, unrelated tasks, in a few cases, and wore off quickly.
 
@@ -64,7 +64,5 @@ This transfer of learning from one context to another, which isn’t directly re
 I expected a bunch of hacks and stories about individual’s productivity, and thought *Smarter*, if really good, would be similar to *Smarter Faster Better*, but it actually took a lot of time investigating the status quo and explaining the history of research in learning. I like that.
 
 Dan Hurley is very dedicated and not afraid to take a few hits himself to move this branch of science forward. That’s admirable and it’s something that flows through the entire book, which makes it a read well worth your time.
-
-## Who it’s for
 
 The 17 year old video game nerd, the 39 year old mathematician, who thinks her best days might be over, and anyone who wants to catch up on the science of learning.

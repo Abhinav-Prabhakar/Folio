@@ -20,7 +20,7 @@ Ready to make your marketing remarkable? Here we go!
 
 ## Lesson 1
 
-### Today marketing is mainly done through word-of-mouth recommendations.
+### Today marketing is mainly done through word-of-mouth recommendations
 
 Seth walks us through the history of advertising and says there were three distinct periods.
 
@@ -36,7 +36,7 @@ In the era we are in right now, we’ve gone back to word-of-mouth marketing, on
 
 ## Lesson 2
 
-### Not taking risks is riskier than taking risks.
+### Not taking risks is riskier than taking risks
 
 Because we live in a post-advertising world and the internet is such a noisy place, you have to be truly remarkable to stand out – like a purple cow among brown, black and white cows.
 
@@ -62,7 +62,7 @@ You can never take risks, and never build something that’s so great everyone w
 
 ## Lesson 3
 
-### If you want your product to successfully reach the masses, focus on early adopters first.
+### If you want your product to successfully reach the masses, focus on early adopters first
 
 When I hear the word early adopters, I always have to think of Simon Sinek and his talk.
 
@@ -83,7 +83,5 @@ You can’t possibly comprehend Seth by reading one summary, watching one talk, 
 I like the inherent call to greatness in *Purple Cow*, it really carries a “get up and do something great” vibe which resonates well with me.
 
 Considering this book is from 2003 is mind-boggling. A lot of ideas from it still haven’t reached the masses today, but they will – because just like his advice, this book is remarkable.
-
-## Who it’s for
 
 The 17 year old with no online presence so far, where she creates content on a regular basis, the 43 director of marketing, who’s not sure whether to give Facebook ads a try, and anyone who’s sick of old advertising.

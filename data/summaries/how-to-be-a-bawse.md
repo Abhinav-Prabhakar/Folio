@@ -18,7 +18,7 @@ Although succinct, these lessons have the power to change your life if you pay a
 
 ## Lesson 1
 
-### Before you try to achieve the ultimate success you’ve been dreaming of, learn to become self-aware.
+### Before you try to achieve the ultimate success you’ve been dreaming of, learn to become self-aware
 
 A journey of adventure, excitement, and self-discovery awaits you. Before beginning your journey into exploring your relationship with yourself, becoming more self-centered and conquering your fears is important.
 
@@ -32,7 +32,7 @@ Remember that whenever someone tries to bring you down, whatever they say is usu
 
 ## Lesson 2
 
-### Every great dream starts with a vision and continues with a well-trained mind for success.
+### Every great dream starts with a vision and continues with a well-trained mind for success
 
 Say you’ve got a dream, of a vision. That’s awesome! The first thing you want to do to achieve it is to imagine it to the very last detail so that you know what you’re aiming for. Try a vision board or manifesting it every morning before you start your day.
 
@@ -50,7 +50,7 @@ Lastly, learn to eliminate distractions. If you’re always on your phone, it’
 
 ## Lesson 3
 
-### The way you treat time and the circle you surround yourself with can be two of the most valuable assets in your life.
+### The way you treat time and the circle you surround yourself with can be two of the most valuable assets in your life
 
 Procrastination is a common problem for many workers. It’s easy to get distracted by other tasks that seem more important or to get overwhelmed by the sheer number of things you need to do.
 
@@ -65,7 +65,5 @@ Without realizing it, many people find themselves losing years of their lives wi
 ## Review
 
 *How To Be a Bawse* is an inspiring and motivational piece of writing that has the power to change the course of your life. The purpose of this book is to present you with actionable steps and powerful ideas you can implement right away. Don’t expect detailed psychological lessons or inspiring life stories, but as a guide this book is excellent.
-
-## Who it’s for
 
 The 16-year-old teenager who dreams of becoming a Youtube sensation, the 24-year-old woman who wants to learn how to become online famous and travel the world, or the 37-year-old late boomer who needs some motivation to go chase their dreams.

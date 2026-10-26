@@ -22,7 +22,7 @@ Are you ready to see the power that these principles can have to help you become
 
 ## Lesson 1
 
-### Test out your vision, remind yourself of it often, and make it a priority.
+### Test out your vision, remind yourself of it often, and make it a priority
 
 Whatever vision it is that you’ve chosen to pursue, be sure that it’s one that aligns well with who you are. **Even though your ultimate plan is framed on more of a grand scale, test out the waters first on a smaller scale.**
 
@@ -34,7 +34,7 @@ Prioritize those tasks that relate to your vision. This also means you will want
 
 ## Lesson 2
 
-### Do something, no matter how small, that will take you closer to following your passion and achieving your vision.
+### Do something, no matter how small, that will take you closer to following your passion and achieving your vision
 
 Taking action in pursuit of your vision is essential, even if it’s small, incremental steps. You’re like a driver with a destination and a full tank of gas. But if you don’t ever put your foot on the gas pedal, you will never get any closer to your destination. Do something that takes you closer to following your passion and achieving your vision.
 
@@ -48,7 +48,7 @@ As we continue to make those incremental investments toward our passion we becom
 
 ## Lesson 3
 
-### A resilient person not only withstands the winds of fate but also harnesses them to grow.
+### A resilient person not only withstands the winds of fate but also harnesses them to grow
 
 Resiliency is an important trait to cultivate when working toward any vision. Think about how a sailor navigates the wind changes – they know that though they can’t control the direction of the wind, they can control the direction the sails are pointing.
 
@@ -61,7 +61,5 @@ Look at PayPal and Space X today. This is a great example of resiliency in withs
 ## Review
 
 *The Execution Factor* has a lot of lessons and great fact-based examples for working your way toward realizing a goal. I’ve practiced many of the lessons myself, even before this book was published. I can personally attest to the opportunities and growth that will come just through making investments and taking small steps toward your goal!
-
-## Who it’s for
 
 The 26-year-old shoe salesman who’s dreaming of writing and producing a screenplay. The 35-year-old hairstylist who envisions a revolutionary beauty product, and anyone else who’s ever wanted to change the world and get wealthy at the same time.

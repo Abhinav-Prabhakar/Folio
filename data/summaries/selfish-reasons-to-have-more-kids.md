@@ -18,7 +18,7 @@ Here are 3 lessons I’ve learned:
 
 ## Lesson 1
 
-### Parenting choices don’t have a huge impact on kids, but that’s actually good news.
+### Parenting choices don’t have a huge impact on kids, but that’s actually good news
 
 Parents largely assume that their day to day choices add up to create a huge, long-term impact on their children. This invites parents to do things like worry about all of these choices, read a ton of parenting advice, consult parenting experts, and more.
 
@@ -32,7 +32,7 @@ There’s some wiggle room for impacting children’s values and behaviors throu
 
 ## Lesson 2
 
-### Don’t listen to scary headlines—most children today have great lives.
+### Don’t listen to scary headlines—most children today have great lives
 
 If you’ve fallen into the trap of watching or reading too much conventional news, you’ve probably developed the belief that modern life is dangerous for kids. They seem to face all sorts of health hazards, like from toxic plastics and processed food. Plus it seems like dangerous strangers lurk everywhere, from public playgrounds to right inside your home via the computers and smartphones even young children use.
 
@@ -44,9 +44,9 @@ Last but not least, “stranger danger” was always overblown—kidnappings and
 
 ## Lesson 3
 
-### You might want to have more kids than you’d originally planned since good parenting is not as hard as you thought.
+### You might want to have more kids than you’d originally planned since good parenting is not as hard as you thought
 
-Social scientists have had a hard time figuring out whether children make parents happier or less happy with their lives. The data isn’t really clear, and there are also lots of confounding variables. **Over 90% of parents report*not* regretting their choice to have kids, though, which is pretty good evidence that parental “buyer’s remorse” is low.**
+Social scientists have had a hard time figuring out whether children make parents happier or less happy with their lives. The data isn’t really clear, and there are also lots of confounding variables. **Over 90% of parents report *not* regretting their choice to have kids, though, which is pretty good evidence that parental “buyer’s remorse” is low.**
 
 Plus, different kinds of parenting are more and less pleasant for the parents. Even if parents are a bit less happy than non-parents, that could simply be due to the steep demands of modern parenting: intensive parental involvement in school, many extracurricular activities, lots of stress about the future for parents and children alike.
 
@@ -57,7 +57,5 @@ Middle-class people commonly assume that they can only afford 1 or 2 children. T
 ## Review
 
 As Caplan admits, if you just don’t want or like kids at all, he’s not going to convince you of anything in *Selfish Reasons to Have More Kids.* After all, it’s the “selfish” case! But if you already like kids and are just a little *too* worried about taking care of them, this book could set you straight and literally change the course that your family life takes.
-
-## Who it’s for
 
 The 35-year old who’s trying to decide whether she is done having kids, the 22-year old who’s planning how to balance the demands of career and family, and anyone who wants to push back against the insane demands of modern parenting in favor of a saner path.

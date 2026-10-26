@@ -20,7 +20,7 @@ Call your inner artist and tell her we’re about to set her free, it’s about 
 
 ## Lesson 1
 
-### If what you’re making is true art, you have to ignore everybody, especially your friends.
+### If what you’re making is true art, you have to ignore everybody, especially your friends
 
 Here’s the crux of creating art: if people can give you extensive and helpful feedback on it, you’ve failed to do your job. Think about it. What allows you to give good feedback? Understanding the situation really well.
 
@@ -34,7 +34,7 @@ With art the function of feedback is reversed. The better the feedback, the more
 
 ## Lesson 2
 
-### Don’t try to force your art to pay your bills or you’ll risk killing the part that makes it art in the first place.
+### Don’t try to force your art to pay your bills or you’ll risk killing the part that makes it art in the first place
 
 You might say: so what if I listen to my friends’ advice? Isn’t it good to implement feedback? You tell me to do that in business all the time! Right, but art isn’t business.
 
@@ -65,7 +65,5 @@ Forget the middlemen. Use the internet and start!
 ## Review
 
 If you like Hugh’s comics, you’ll love *Ignore Everybody*. If you like bite-sized, poignant pieces of wisdom, which are easy to consume but take a while to suggest, you’ll love this book. And if you’re an artist, you *have* to read this book. With all this creative bullshitting going on today, it’s more important than ever to distinguish between real and fake art. Highly recommended!
-
-## Who it’s for
 
 The 25 year old “life coach” who doles out advice she’s really just learning from other people, the 43 year old novelist without a blog, and anyone who’s afraid of creating art because of what their friends might think.

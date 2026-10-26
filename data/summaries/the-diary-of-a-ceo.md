@@ -20,7 +20,7 @@ Let’s discover what it takes to build an awesome business!
 
 ## Lesson 1
 
-### The 4 pillars of greatness are the self, the story, the philosophy, and the team.
+### The 4 pillars of greatness are the self, the story, the philosophy, and the team
 
 The first question you’ll likely have is “Okay, so what kind of laws are we talking about here?” And you might be surprised that the answer is not “different business strategies.”
 
@@ -43,7 +43,7 @@ How do you build out these pillars? That’s what we’ll discuss next!
 
 ## Lesson 2
 
-### Build your pillars of greatness with timeless principles, such as these 4 examples.
+### Build your pillars of greatness with timeless principles, such as these 4 examples
 
 Sometimes, people criticize Bartlett’s show for having guests with directly opposing opinions. But as a listener, the point is not to follow every expert’s advice on everything. It is to find a few that speak to you in various areas, then really commit to trying their suggestions.
 
@@ -66,7 +66,7 @@ These are the kinds of rules you should look for when it comes to your self, you
 
 ## Lesson 3
 
-### Never stop learning, because the most useful principle is the one you haven’t discovered yet.
+### Never stop learning, because the most useful principle is the one you haven’t discovered yet
 
 Bartlett’s final law is, “Learning never ends.” All it shows is a QR code and a link. When you go to it, you’ll see a signup box for Bartlett’s newsletter. After you join, there’s a short video, in which he explains: “Every month, from now until forever, I’m gonna send you one brand-new law.”
 
@@ -79,7 +79,5 @@ Whatever you do, wherever you get your new knowledge from, remember: Learning ne
 ## Review
 
 *The Diary of a CEO* is a refreshing business book compiling well-known best practices with new examples and unique stories from interesting people in all kinds of fields. Bartlett’s writing is clear, confident, and easy to understand. Also, if you like Robert Greene’s books, you’ll love this one.
-
-## Who it’s for
 
 The 21-year-old would-be entrepreneur who hasn’t actually started anything, the 35-year-0ld CEO of a VC-backed startup, and anyone who wants to start a business that’s about more than just business.

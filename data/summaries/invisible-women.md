@@ -20,7 +20,7 @@ The bias is there, and as long as people keep silent about it, it’ll never go 
 
 ## Lesson 1
 
-### The gap between men and women is larger than you think.
+### The gap between men and women is larger than you think
 
 Gender biases are responsible for the lack of opportunities available to women and girls and their underrepresentation in leadership positions. However, their origin is still under debate, as research keeps on finding data to support that this problem has deeper roots than we thought.
 
@@ -32,7 +32,7 @@ Public bathrooms are also created unevenly, hence the long lines for women. Ther
 
 ## Lesson 2
 
-### Our men-made society often overlooks the mental and physical needs of women.
+### Our men-made society often overlooks the mental and physical needs of women
 
 Women are born and bred into a world unfit for them in a society built for men from top to bottom, from governmental directives to infrastructure, from laws and professional hierarchical schemes that favor men.
 
@@ -46,7 +46,7 @@ This means everything we know today is linked to a man’s body and mind without
 
 ## Lesson 3
 
-### When Women try to go into politics, women are often subjected to oppression.
+### When Women try to go into politics, women are often subjected to oppression
 
 Although women and men make up roughly half of the population in politics, this gender balance does not translate to equal representation. Women hold only about 20% of all seats in national legislatures worldwide.
 
@@ -61,7 +61,5 @@ The fact that we still view this as acceptable shows how far we still have to go
 *Invisible Women* is a hard-to-swallow pill, as it opens up about the gender inequality we are still facing in the 21st century. By raising awareness about this issue and encouraging people to speak out against it, the book is trying to stop gendered harassment. This book helps build a world where women fit better and have an easier time building a meaningful life, both personally and professionally.
 
 If you’re ready to see the world with a different pair of glasses and study the historical data that proves how men grew to be the standard gender. So make sure to give this book a thorough read.
-
-## Who it’s for
 
 The 35-year-old feminist who wants to read lectures that support her cause. The 40-year-old woman who wants to get into politics and read about what makes or breaks a woman’s career. Or the 24-year-old women’s rights activist who wants to expand their knowledge.

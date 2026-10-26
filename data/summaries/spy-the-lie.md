@@ -4,7 +4,7 @@
 
 ## Overview
 
-Scientists estimate the average person lies about 200 times a day. Usually, it’s just to avoid conflict or hurting someone’s feelings, making most lies harmless. But at times, we desperately need the truth. If you’re a lawyer, CEO, interviewer, interrogator, or even just a concerned parent of a teenager, the truth is essential *.*
+Scientists estimate the average person lies about 200 times a day. Usually, it’s just to avoid conflict or hurting someone’s feelings, making most lies harmless. But at times, we desperately need the truth. If you’re a lawyer, CEO, interviewer, interrogator, or even just a concerned parent of a teenager, the truth is essential*.*
 
 In *Spy the Lie: Former CIA Officers Teach You How to Detect Deception*, you’ll learn how the pros extract the truth from others. The authors have worked in the US government organizations like the CIA, Military Police, and the NSA. Their combined experience will provide you with valuable tools to help you next time you need to sort out the truth. The book will also help you get past your own biases and expectations about liars.
 
@@ -18,7 +18,7 @@ Are you ready to learn how to start spotting lies like a pro? Let’s learn!
 
 ## Lesson 1
 
-### Lie detection is difficult because communication is complex and we have biases and expectations that throw us off.
+### Lie detection is difficult because communication is complex and we have biases and expectations that throw us off
 
 One reason it can be hard to spot a lie is that it’s hard for us to focus on both verbal and nonverbal cues at the same time. It’s difficult to notice both on what someone is saying and what their body language is saying, making it easy to miss crucial clues.
 
@@ -30,7 +30,7 @@ Their biases had made it all too easy for them to think the cult leader was lyin
 
 ## Lesson 2
 
-### People give both verbal and nonverbal cues when they’re lying, and you should look for clusters of these.
+### People give both verbal and nonverbal cues when they’re lying, and you should look for clusters of these
 
 When people don’t have anything to hide, they give direct answers to direct questions. Liars, on the other hand, tend to try to reinforce your faith in them by giving strings of “convincing statements.” An example of a convincing statement is, “It’s not in my nature to do something like that,” or “No one would ever question my honesty.” While statements like these sound convincing, especially if they sound sincere, it’s important to not let them get you off track.
 
@@ -58,7 +58,7 @@ While these cues alone do not mean someone is lying, they can give you a pretty 
 
 ## Lesson 3
 
-### Be neutral and controlled in your questioning, and try to get them to give up more information than they planned.
+### Be neutral and controlled in your questioning, and try to get them to give up more information than they planned
 
 So we know what to look out for when someone is lying to us, but what can we do in the way we talk to them to help reveal the lie?
 
@@ -71,7 +71,5 @@ If you only asked the questions they think you’re going to ask, it’s easier 
 ## Review
 
 *Spy the Lie* is a great read for anyone who is interested in learning about how we can catch when we are being lied to. While the methods are very actionable, getting to the level of professionals would take *a lot* of practice. But for your average person, it’s really interesting, and you’ll probably be able to spot little lies here and there in your everyday life.
-
-## Who it’s for
 
 The 21-year-old studying criminal justice, the 44-year-old mother who wants to know if her troubled teen is lying to her, and anyone who wants to be better at spotting a lie.

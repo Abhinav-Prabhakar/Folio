@@ -22,7 +22,7 @@ Are you ready for a new look at this disgusting problem? Let’s get right into 
 
 ## Lesson 1
 
-### Politicians of the past have sneakily designed their campaigns to appeal to racists.
+### Politicians of the past have sneakily designed their campaigns to appeal to racists
 
 When Richard Nixon ran for president in 1968, he faced an interesting question. How could he appeal to racist voters without sounding explicitly racist himself? He needed their vote, but certainly wouldn’t be elected if he was openly racist. His campaign strategy was to appeal to racists in sneaky ways. And that included not using labels such as “black” and “white.”
 
@@ -34,7 +34,7 @@ In 1976, Ronald Reagan employed the same strategy to appeal to those who weren�
 
 ## Lesson 2
 
-### Don’t trust every statistic you hear about black people or neighborhoods.
+### Don’t trust every statistic you hear about black people or neighborhoods
 
 If you were to look into some of the statistics about the safety of black neighborhoods, you might believe they are more dangerous. But these statistics sadly do not come without bias.
 
@@ -48,7 +48,7 @@ In fact, drunk driving kills even more people a year than cocaine. The bottom li
 
 ## Lesson 3
 
-### You are a racist if you think that black people’s struggles are their own fault.
+### You are a racist if you think that black people’s struggles are their own fault
 
 Sadly, blaming a victim was a far too often occurrence in the’90s, and still happens today. People were frequently given the message that poor people are poor because they were lazy or unmotivated.
 
@@ -67,7 +67,5 @@ But just like we’ve talked about, it was just another way to promote racist id
 ## Review
 
 Wow, this book blew my mind. I had no idea that racism is so well hidden within so many aspects of our society! *Stamped From The Beginning* is an important eye-opener and a must-read for everyone if we want to end racism.
-
-## Who it’s for
 
 The 21-year-old who is studying political science in college, the 61-year-old white man who still thinks black people are inherently lazy, and anyone who wants to learn why racism is wrong and what we might do to stop it.

@@ -16,11 +16,9 @@ Here are 3 great starting points:
 
 Ready to step on to the essentialist path? Let’s take a hike!
 
-### Essentialism Summary
-
 ## Lesson 1
 
-### Doing nothing and doing everything are both signs of learned helplessness.
+### Doing nothing and doing everything are both signs of learned helplessness
 
 If you’re not doing anything, that of course means you’re not getting important things done.
 
@@ -42,7 +40,7 @@ Here’s how to go from “I have to” to “I choose to”.
 
 ## Lesson 2
 
-### Become the editor of your own life with the 90% rule.
+### Become the editor of your own life with the 90% rule
 
 Jack Dorsey explained the job of being the CEO of Twitter as being like an editor.
 
@@ -62,7 +60,7 @@ This is very similar to Steve Jobs’s advice about focus and Derek Sivers’s �
 
 ## Lesson 3
 
-### Always add 50% of the time you think you need as a buffer.
+### Always add 50% of the time you think you need as a buffer
 
 You know what the most beautiful part about saying no is?
 
@@ -89,7 +87,5 @@ The very core idea of *Essentialism* is embedded in one beautiful and utterly cl
 A lot of time management books are about prioritizing, but do it in the form of “Do this, then that.” This book says “Do this, and nothing else.” In theory, we all know what really matters to us. We just tend to overestimate ourselves and lift a lot of things from “nice to have” to “this is important”. Essentialism helps you stop doing that. It’s a fantastic book and has changed how I work forever.
 
 Greg also published a follow-up seven years later, called *Effortless*, which I recommend too.
-
-## Who it’s for
 
 The 24 year old with many goals in life, but who already feels like he’s chasing to-dos and constantly behind, the 33 year old young professional, who keeps year-old clothes around, because she might wear them again, and anyone who keeps underestimating how much time things take.

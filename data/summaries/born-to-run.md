@@ -24,7 +24,7 @@ Are you ready to find your inner-athlete and start moving? Let’s learn how!
 
 ## Lesson 1
 
-### Your body was constructed to run far.
+### Your body was constructed to run far
 
 Compared to animals like horses, you might think your human body is pretty slow. But did you know those two legs of yours are capable of outrunning any animal on the planet?
 
@@ -40,7 +40,7 @@ Lastly, our specialized Achilles tendon also gives us a leg up on the competitio
 
 ## Lesson 2
 
-### Dumping the running shoes and running barefoot is more natural and better for your feet.
+### Dumping the running shoes and running barefoot is more natural and better for your feet
 
 By now you might have heard about the barefoot running movement, or maybe you’ve seen people doing it. No, they didn’t lose their running shoes-or their mind. Running barefoot is much better for your feet. As we’ve seen, our bodies have many evolutionary traits that help us run. Your feet also have natural gifts that are hindered by running shoes.
 
@@ -52,7 +52,7 @@ Shoes also harm your good form. Because they are so cushioned, runners can’t f
 
 ## Lesson 3
 
-### Learning good form and pacing yourself are essential distance running skills.
+### Learning good form and pacing yourself are essential distance running skills
 
 If you’ve ever watched distance running in the Olympics, you’ve seen the incredible abilities of the Kenyan runners. When a physiologist set out to find out their secret to elite running, he discovered it was in their form. The Kenyan runner’s leg contractions were quicker as was their foot turnover. He found this faster; shorter stride is best for running long distances.
 
@@ -63,7 +63,5 @@ Learning to pace yourself is also an art. **The trick is to run just below your 
 ## Review
 
 *Born to Run* is an amazing book for anyone who runs, wants to run, or needs convincing that they should be running. In a world where people often have excuses not to run, it serves as a fresh take on why everyone should stop making excuses and start enjoying what our bodies were evolutionarily built to do.
-
-## Who it’s for
 
 The 29-year-old that is training for their first marathon, the 45-year-old who is overweight but doesn’t believe running will help, and anyone who wants to be healthy.

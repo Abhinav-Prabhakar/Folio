@@ -22,7 +22,7 @@ Let’s challenge the status quo of work, shall we?
 
 ## Lesson 1
 
-### A new company will face a competitive risk or a market risk, one of which is easier to overcome.
+### A new company will face a competitive risk or a market risk, one of which is easier to overcome
 
 When you have an idea for a new product or company, you can always put it in one of two buckets:
 
@@ -39,7 +39,7 @@ According to Whitney Johnson, companies that take the market risk fare better (o
 
 ## Lesson 2
 
-### Figure out your unique strengths and pair them with the unmet needs of your community to win.
+### Figure out your unique strengths and pair them with the unmet needs of your community to win
 
 Everybody’s good at something. If you love to sleep in and get angry when you wake up feeling groggy, then guess what: you’re *good* at sleeping. Maybe you can help other people sleep better too.
 
@@ -51,7 +51,7 @@ Look around you. **What needs are going unfulfilled and how can you use your str
 
 ## Lesson 3
 
-### Careers as well as companies become successful by staying flexible.
+### Careers as well as companies become successful by staying flexible
 
 Let’s say you get out of high school wanting to be a pharmacist. However, you don’t have the right grades to get in, so you switch to chemistry, thinking you’ll transition after two semesters. But then, you end up liking chemistry, so you actually finish the diploma. You like it so much in fact, that you decide to get a PhD in it. After you’re done, you go to a big chemical company and get into the lab – what you’ve always wanted to do as a pharmacist!
 
@@ -66,7 +66,5 @@ Whitney says 70% of all successful companies end up with a different product or 
 ## Review
 
 *Disrupt Yourself* is a very cool spin on what’s often just a regurgitated topic, both valuable on a personal and company-level. Great read!
-
-## Who it’s for
 
 The 25 year old startup founder, who thinks they’ll really “disrupt the market”, the 45 year old who’s worried that his next major career move might be his last, and anyone who thinks they don’t have any strengths.

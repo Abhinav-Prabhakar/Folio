@@ -22,7 +22,7 @@ Here are 3 curious lessons I’ve learned from this book:
 
 ## Lesson 1
 
-### Companies are apologizing too much and it’s ruining the word “sorry” for everybody.
+### Companies are apologizing too much and it’s ruining the word “sorry” for everybody
 
 American Airlines apologized roughly 200 times per day to customers in just the first part of 2014. Were they in a terrible crisis or something? No, everything was going well. They were just saying sorry for every minor error that came up.
 
@@ -42,7 +42,7 @@ If you’re going to apologize, focusing on quality over quantity has the power 
 
 ## Lesson 2
 
-### If you want people to take you seriously, you have to show that you’ll change every time you say you’re sorry.
+### If you want people to take you seriously, you have to show that you’ll change every time you say you’re sorry
 
 I remember learning when I was young that “sorry” meant that you’ll never do it again. When you actually follow through with this, it can have dramatically positive effects on your personal and business relationships.
 
@@ -60,7 +60,7 @@ Starbucks has a similar example of being exemplary to customers when something g
 
 ## Lesson 3
 
-### Not apologizing is sometimes the best option.
+### Not apologizing is sometimes the best option
 
 A few years ago I worked in a customer support call center for a fairly well-known company. I was excited when I got moved from doing calls to mostly being on emails. It was even more exciting a little later to hear that I would get to work on the social media team.
 
@@ -79,7 +79,5 @@ But if not, you don’t have to respond to the angry voices vying for your atten
 ## Review
 
 *The Apology Impulse* is definitely different than a lot of other books I’ve read. I didn’t realize the truth about how much companies say sorry and how it’s ruining the word itself and in some cases their reputations. As an entrepreneur, I found this especially insightful to see how I can act with more composure when things go wrong in my companies.
-
-## Who it’s for
 
 The 35-year-old PR manager that is looking for ways to help their company become more authentic, the 57-year-old executive that knows they are at fault for an error and needs to make it right, and anyone that wonders why companies say sorry so much.

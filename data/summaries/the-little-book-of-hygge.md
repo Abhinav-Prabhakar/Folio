@@ -20,7 +20,7 @@ Not every day can be the best day, but a life of hygge is about as close as it c
 
 ## Lesson 1
 
-### Hygge is a unique way to happiness and a feeling in its own way.
+### Hygge is a unique way to happiness and a feeling in its own way
 
 Since it’s so hard to grasp, let’s first dive deeper into the etymology of the word “hygge.” Its earliest written roots go back to an old Norwegian word meaning “wellbeing” and date to the early 1800s. Other possible origins might be variants of the words “hug,” another old Norwegian term for “comfort” and another for “mood.”
 
@@ -34,7 +34,7 @@ I feel by making so much room for this word and concept in their lives, what the
 
 ## Lesson 2
 
-### As Hygge is a lot about atmosphere, you’ll need to make a conscious effort to create the right environment.
+### As Hygge is a lot about atmosphere, you’ll need to make a conscious effort to create the right environment
 
 As you can guess from that coffee example, the atmosphere you hygge in is very important. **Indeed, feeling at home requires a homey place, so unless you create one, you’ll have a hard time getting into the right mood.** It’s why the Danish are obsessed with candles, lighting and lamp design and natural elements like wood in interior design.
 
@@ -54,7 +54,7 @@ You see, it doesn’t take much to feel hyggelig in your own four walls. All of 
 
 ## Lesson 3
 
-### Hygge is all-encompassing and not limited to any single place or activity.
+### Hygge is all-encompassing and not limited to any single place or activity
 
 Then again, not everyone can afford to go on an IKEA spree, but shopping purely for the sake of hygge would miss the point anyway. An austere and simple life can be just as full of hygge as one of sipping lattes and champagne. In fact, this might represent the true meaning of hygge more than even the most comfortable atmosphere.
 
@@ -67,7 +67,5 @@ No matter where you live, if you focus on these aspects, a hygge life is yours t
 ## Review
 
 I first heard about this idea in a Medium Members article by my fellow coach Andrew Merle and then learned that it’s currently one of the most popular book summaries on Blinkist. I consider myself a very happy person so at the very least, I was intrigued to see which of these ideas I might share. If you’re happy with your life in general, but feel like you’re sometimes not aware enough of this happiness when you need it the most, *The Little Book Of Hygge* is a book I recommend you check out.
-
-## Who it’s for
 
 The 22-year old college student, who knows she has a great life, but still worries a lot about school, the 47 year-old family father, who often checks emails during board game night, and anyone who wants to work a lot, but still feel happy about where they are right now.

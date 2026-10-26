@@ -18,11 +18,9 @@ Here are my 3 favorite lessons:
 
 The trick of not giving a fuck about most things is that you’ll be able to give one about what really matters to you. Let’s see how we can get a bit closer to that!
 
-### The Subtle Art Of Not Giving A F*ck Summary
-
 ## Lesson 1
 
-### Only hold values you control.
+### Only hold values you control
 
 Mark is a very Stoic guy and it shines through his writing and advice. A common idea in Stoicism is to focus only on the things you can control. This is easy enough to understand and implement when it comes to your actions, but it can be applied to more intangible aspects of your life as well.
 
@@ -36,7 +34,7 @@ Therefore, popularity isn’t the best value to focus on and you could try repla
 
 ## Lesson 2
 
-### Certainty hampers growth.
+### Certainty hampers growth
 
 What a great principle distilled into just three words: certainty hampers growth. Imagine you could choose between two modes of moving through the world: one in which you think everything you know is 100% true and one in which you think nothing you know is 100% true. Both are stressful, but which one do you think would help you make better decisions?
 
@@ -48,7 +46,7 @@ If you allow yourself to have a little doubt, you can then disprove this limitin
 
 ## Lesson 3
 
-### Don’t obsess about leaving a legacy.
+### Don’t obsess about leaving a legacy
 
 Here’s an uncomfortable, but important reminder: You’re going to die one day. We all are. Whether we admit it or not, when the time comes closer, we’re all scared. That’s why many of us want to leave a legacy, myself included. However, Mark says that might ruin our short amount of precious time here on earth.
 
@@ -59,7 +57,5 @@ Mark’s stance is clear: Find ways to bring yourself, your loved ones and the p
 ## Review
 
 Mark’s writing is funny and to the point. No bullshit, lots of curse words, but lots of insight too. It’s a medium long book with just over 200 pages, but light in terms of how fast you get through, because Mark uses many examples too. I already learned another lesson from the first chapter: success has nothing to do with self-improvement. You can read that chapter as a free preview on Scribd.
-
-## Who it’s for
 
 The 21 year old software engineer, who thinks about quitting his first job after six months, because it’s not fun, the 45 year old fighter pilot, who couldn’t care less about self-help, and anyone who hopes to become a mega successful artist.

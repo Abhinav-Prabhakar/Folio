@@ -20,7 +20,7 @@ Ready to fight for your right to good food? Let’s go get some advice from gran
 
 ## Lesson 1
 
-### You now think more about nutrients than foods because of one greedy senator from the 1970s.
+### You now think more about nutrients than foods because of one greedy senator from the 1970s
 
 How did you describe your dietary habits the last time you thought about changing something? Did you say: “I’ll try to eat less bread and more salad?” Or rather something like: “I’m cutting out carbs.”
 
@@ -40,7 +40,7 @@ This sounds a lot more cryptic and it doesn’t encourage you to eat less meat �
 
 ## Lesson 2
 
-### Our turn to science for choosing our food has not made us healthier – it’s made us sick.
+### Our turn to science for choosing our food has not made us healthier – it’s made us sick
 
 The pretense for all this science-talk about food was of course that it’d make us healthier, but did that really happen?
 
@@ -54,7 +54,7 @@ So what to do instead?
 
 ## Lesson 3
 
-### Go for foods that have few ingredients, are natural and don’t make suspicious health claims.
+### Go for foods that have few ingredients, are natural and don’t make suspicious health claims
 
 It’s actually not that hard to eat good food. You simply have to look back at where our food choices came from 100 years ago: culture.
 
@@ -73,7 +73,5 @@ Use these simple rules the next time you shop, and you’ll end up with a much h
 *In Defense Of Food* reminded me of Diet Cults. It’s a skeptic book, looking at what’s wrong without telling you exactly what’s right (aka “this is the diet you should follow”). Books like these are better than specific dietary advice, I think, because they force you to come up with your own set of principles for eating, rather than pushing someone else’s agenda down your meal plan.
 
 I’m buying this for a friend right now, definite recommend, great work Mr. Pollan!
-
-## Who it’s for
 
 The 15 year old, who currently eats really unhealthy, because she’s in puberty, the 52 year old on a Western diet with recently developed diabetes, and anyone who thinks food labels are too complicated.

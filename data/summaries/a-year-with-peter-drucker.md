@@ -18,7 +18,7 @@ Want to become an effective executive? Let’s do this!
 
 ## Lesson 1
 
-### Start using feedback analysis right now, so you can figure out your strengths and weaknesses.
+### Start using feedback analysis right now, so you can figure out your strengths and weaknesses
 
 One of Drucker’s biggest ideas is about a tool he calls feedback analysis. Here’s how it works:
 
@@ -32,7 +32,7 @@ Of course, the earlier you start this practice, the better, because your early c
 
 ## Lesson 2
 
-### Work on your skill to concentrate and information literacy.
+### Work on your skill to concentrate and information literacy
 
 Drucker says there are just two crucial skills any great manager must possess. That’s good news, but both are tough to master. They are:
 
@@ -51,7 +51,7 @@ If you can’t figure out what’s wrong if 15% of your customers demand their m
 
 ## Lesson 3
 
-### Take a sabbatical to develop your skills in the non-profit sector.
+### Take a sabbatical to develop your skills in the non-profit sector
 
 Peter Drucker believed in leadership as a good for the world, not just business. He thought leaders and managers are extremely well-positioned to help governments and non-profit organizations as well.
 
@@ -66,7 +66,5 @@ The reason managers do so well in these environments is because they can take ab
 Joseph A. Maciariello has done the world a great service by writing *A Year With Peter Drucker*. It makes perfect sense that we need to be reminded of the lessons learned from the greats sometimes, especially after they’re long gone. In fact, I’d rather read something with a new perspective on old, proven, great insights that work, than jumping at the latest trend, just for the sake of change.
 
 If you’re in a management position, or want to lead a team at your company eventually, Drucker is the best guy to learn from, hands down. Therefore, this book is 100% worth your time, go for it!
-
-## Who it’s for
 
 The 25 year old MBA graduate, who’s on the brink of taking his first job with a big corporation, the 59 year old executive, who’s slowly thinking about retiring and who to pick as a successor, and anyone who hopes to one day lead people towards a bigger purpose.

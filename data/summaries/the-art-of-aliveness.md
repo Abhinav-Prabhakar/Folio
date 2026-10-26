@@ -20,7 +20,7 @@ Let’s discover the art of aliveness!
 
 ## Lesson 1
 
-### Both life and art are a dance between comfort and risk, and your “baskets” are how you keep your balance.
+### Both life and art are a dance between comfort and risk, and your “baskets” are how you keep your balance
 
 Bowley accomplished any passionate creative’s dream in her 30s: She could live entirely off making her own art. To her surprise, she felt lonely instead of fulfilled.
 
@@ -36,7 +36,7 @@ How do you find the courage to let go of comfort and step into risk when it’s 
 
 ## Lesson 2
 
-### Use “riverbanks” to give your life and creative practice the structure they need for you to perform without overwhelm.
+### Use “riverbanks” to give your life and creative practice the structure they need for you to perform without overwhelm
 
 Legendary dancer and author of *The Creative Habit*, Twyla Tharp, believed that “before you can think out of the box, you have to start with a box.” Bowley confirms this.
 
@@ -54,7 +54,7 @@ Think outside the box, but never forget your box.
 
 ## Lesson 3
 
-### Like a painting, life has many layers — embrace them all to move smoothly between your past, present, and future.
+### Like a painting, life has many layers — embrace them all to move smoothly between your past, present, and future
 
 Years ago, Flora’s mom was diagnosed with late-stage cancer. She died just 7 weeks later. The tragedy became a season of many layers, both in Flora’s paintings and life. She translated anger, grief, and fear onto the canvas, and the paintings from that time are some of her most interesting.
 
@@ -73,7 +73,5 @@ Whether our past will only be the hidden foundation of our future or actively pe
 ## Review
 
 *The Art of Aliveness* is an interesting book combining creativity, spirituality, philosophy, professionalism, and reflection into a unique, wholistic recipe for life. Bowley is never condescending, always encouraging. Artist or not, give her a ideas a try.
-
-## Who it’s for
 
 The 23-year-old aspiring writer who’s currently struggling through college, the 55-year-old entrepreneur going through a divorce, and anyone who’s creative practice has become stale.

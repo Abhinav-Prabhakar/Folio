@@ -22,7 +22,7 @@ Ready to finally learn how to take charge of your diet and fitness? Let’s dig 
 
 ## Lesson 1
 
-### You can’t stay at optimal fitness levels if you keep eating the nutrient-deficient foods in most modern diets.
+### You can’t stay at optimal fitness levels if you keep eating the nutrient-deficient foods in most modern diets
 
 We all have access to foods that we know are good for us. But that burger just sounds so much better than a salad, doesn’t it? Unfortunately, we make the bad decision in these cases all too often. And each one takes a toll on our health, eventually adding up over the years.
 
@@ -40,7 +40,7 @@ Remember it this way. We get calories, or energy, from fat, protein, and carbohy
 
 ## Lesson 2
 
-### Healthy people eat foods that have a lot of nutrients per calorie.
+### Healthy people eat foods that have a lot of nutrients per calorie
 
 Having a diet built around animal products is dangerous and can have disastrous health effects. According to the best wisdom, the healthiest, most nutritious diet is a plant-based one. This is because all of those vitamins and minerals are in the highest concentrations in plants.
 
@@ -54,7 +54,7 @@ Plant-based diets get a lot of bad rap, but they can give you everything you nee
 
 ## Lesson 3
 
-### You can live longer, protect your body from illness, and lose weight if you eat more natural foods.
+### You can live longer, protect your body from illness, and lose weight if you eat more natural foods
 
 There are dozens of other reasons you should consider a plant-based diet. Eating unhealthy foods messes with the body’s ability to tell when it’s hungry. Some processed food manufacturers know this and use it against you to get you to eat more of their products
 
@@ -73,7 +73,5 @@ And last but not least, fruits are an important part of the diet. This is becaus
 ## Review
 
 *Eat To Live* is an amazing book that really inspires you to eat healthier. The emphasis on losing weight didn’t sit right with me because although that’s a good goal, what happens afterward? Really that’s just about the only thing I could say I would change, there’s nothing else to criticize about this great book!
-
-## Who it’s for
 
 The 41-year-old who has a layer of fat around their waist and wants to get rid of it, the 24-year-old that is learning about nutrition and is hoping to set lifelong healthy eating habits, and anybody that’s tired of being overweight and having a hard time doing any physical activity.

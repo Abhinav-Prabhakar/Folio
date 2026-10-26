@@ -18,7 +18,7 @@ I hope you’re comfortable getting uncomfortable, because it’s about to get r
 
 ## Lesson 1
 
-### Whether we judge or make prices, our common sense flies right out the window.
+### Whether we judge or make prices, our common sense flies right out the window
 
 We all know the difference between 99 cents and a dollar is absolutely negligible, yet no one likes to buy $1-cheeseburgers when the restaurant next door offers them as $0.99ers. “Not even a dollar!!” we think and gone are our rational thinking capabilities.
 
@@ -34,7 +34,7 @@ But hey, even governments screw up pricing: it costs by far more to make a penny
 
 ## Lesson 2
 
-### If you drink a glass of milk after walking home, you could’ve taken the car and it’d have been better for the environment.
+### If you drink a glass of milk after walking home, you could’ve taken the car and it’d have been better for the environment
 
 Here’s something environmentalists won’t want to hear: **Depending on how far you go and what you eat, it can sometimes be better to take the car instead of walking**.
 
@@ -48,7 +48,7 @@ Of course this is a funny example, but it just goes to show that when trying to 
 
 ## Lesson 3
 
-### As long as it helps preserve our own self-image, we lie even when telling the truth would be a lot better for us.
+### As long as it helps preserve our own self-image, we lie even when telling the truth would be a lot better for us
 
 Let’s be frank: You know sometimes it makes sense to lie. But there is a big difference between so-called white lies, which really don’t do much harm, and just serve the purpose of saving time or sparing someone else a bit of trouble, and actual, evil-intended lies, such as those where you *know* you’re making someone else worse off in the process…
 
@@ -65,7 +65,5 @@ You’d think lies are calculated, but as it turns out, they don’t always are!
 ## Review
 
 You can do no wrong with a book that carries these two names. Period. I say go for *When To Rob A Bank*, these books really, *really* make you smarter. A lot!
-
-## Who it’s for
 
 The 18 year old college student, who’s convinced their favorite brand pizza tastes better than the one from Walmart, the 39 year old environmentalist mother, who has her milk shipped to her door, and anyone who occasionally lies to look better in front of their friends.

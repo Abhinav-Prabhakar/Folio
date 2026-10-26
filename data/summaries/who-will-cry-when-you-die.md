@@ -20,11 +20,9 @@ Here are just 3 of the many great life lessons I’ve learned from this book:
 
 Worry no more about what people will think of you after you’re gone because we’re about to find out how to have a meaningful life! Let’s go!
 
-### Who Will Cry When You Die? Summary
-
 ## Lesson 1
 
-### You’ll be happier if you’re honest with yourself and others and learn how to maintain the right perspective about failure.
+### You’ll be happier if you’re honest with yourself and others and learn how to maintain the right perspective about failure
 
 Don’t you hate it when someone promises to do something and they never follow-through? It’s disappointing and discouraging, and it undermines the trust you have in them.
 
@@ -40,7 +38,7 @@ Recognizing the hidden benefits of hardships is the first step to getting throug
 
 ## Lesson 2
 
-### It’s easy to rediscover the joy in life if you imitate children and take care of your body.
+### It’s easy to rediscover the joy in life if you imitate children and take care of your body
 
 I look at my kids and wonder how they manage to find so much joy in just about everything. At some point while growing up, each of us lost this wonder for life we once had as children.
 
@@ -56,7 +54,7 @@ Exercise even makes you live longer. Research on 18,000 Harvard graduates confir
 
 ## Lesson 3
 
-### People will like you better if you focus more on what you can contribute than on what’s wrong in the world.
+### People will like you better if you focus more on what you can contribute than on what’s wrong in the world
 
 Have you ever noticed how draining it is to be around someone who complains a lot? It’s hard not to get frustrated with things that bother us, but it’s an awful waste of our time and energy.
 
@@ -73,7 +71,5 @@ Even if you’re already in your career, it’s not too late. Take some online c
 ## Review
 
 I really enjoyed *Who Will Cry When You Die?* for a lot of different reasons. The advice it gives makes me feel good and motivated to become a better person and have a better life. It’s a great reminder of how to take the insignificant worries out of living and truly have a life that you love and that others do too!
-
-## Who it’s for
 
 The 56-year-old CEO who is too often grumpy and isn’t sure whether their employees like them, the 27-year-old that would like to establish healthy habits for life, and anyone that wants to become more likable and have more meaning in their life.

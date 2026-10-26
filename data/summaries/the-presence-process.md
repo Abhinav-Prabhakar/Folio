@@ -20,7 +20,7 @@ To pull off a big transformation, we must challenge our beliefs and habits. If y
 
 ## Lesson 1
 
-### Whenever you feel uncomfortable, there’s a lesson you can learn in that moment.
+### Whenever you feel uncomfortable, there’s a lesson you can learn in that moment
 
 This notion is as comforting as it can be scary. Comforting because, once you accept it, you’ll start valuing all emotional difficulties as opportunities for growth. Scary because, all of a sudden, you have no incentive to run away and distract yourself from your feelings.
 
@@ -32,7 +32,7 @@ Seeing difficult emotions from this point of view allows you to stop identifying
 
 ## Lesson 2
 
-### What happens to you is not your fault, but it is your responsibility what you do with it.
+### What happens to you is not your fault, but it is your responsibility what you do with it
 
 A basic skill Brown teaches is to *respond* to your experiences instead of *reacting* to them. What’s the difference?
 
@@ -46,7 +46,7 @@ This realization is nothing else but accepting the natural law of cause and effe
 
 ## Lesson 3
 
-### Being present in each moment naturally transforms all areas of your life.
+### Being present in each moment naturally transforms all areas of your life
 
 Advice on becoming “the best version of yourself” is endless and ranges from productivity hacks to self-love tutorials. But it is often hard to decide which self-improvement goals to prioritize.
 
@@ -63,7 +63,5 @@ Living more mindfully is something that benefits not just yourself. As you trans
 ## Review
 
 In a sea of self-help and spiritual books, *The Presence Process* stands out because of its truly universal message, authenticity, and actionability. With all the insights it offers this book is not so much intent on improving *some* parts of your life’s experience, but all of it. Thanks to its experiential procedure, it addresses the way you live your life *as a whole*.
-
-## Who it’s for
 
 The 24-year-old introvert college graduate who is still looking for their place in the world; the 40-year-old high-achiever who, despite their external successes, feels the need for a deep internal change, and anyone who lacks a sense of purpose in their life.

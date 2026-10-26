@@ -22,7 +22,7 @@ Get that salad ready because after this, you’re going to want to start eating 
 
 ## Lesson 1
 
-### We may be advancing in medicine at a staggering pace, but it’s not enough to keep up with our bad diets causing a decline in our health.
+### We may be advancing in medicine at a staggering pace, but it’s not enough to keep up with our bad diets causing a decline in our health
 
 Though our grandparents have the accomplishment of living longer than any generation previously, we probably can’t count on the same fortune. Sure, medicine has come leaps and bounds, particularly with advancements like vaccines and antibiotics. But we are struggling with a new trend: age-related disease earlier in life.
 
@@ -34,7 +34,7 @@ What’s more, we try to replace the nutrients we lack with supplements, which a
 
 ## Lesson 2
 
-### Steer clear of vegetable oils and things with added sugars because they slowly cause damage to your body.
+### Steer clear of vegetable oils and things with added sugars because they slowly cause damage to your body
 
 One particularly bad food you should avoid is vegetable oil. Regular vegetable oils such as canola oil have large amounts of trans fats, which disrupt the brain’s antioxidant system. Because the antioxidants can’t help as readily, oxidation occurs, meaning dangerous free radicals threaten your brain by damaging molecules. The brain contains polyunsaturated fats that are particularly vulnerable to oxidation.
 
@@ -48,7 +48,7 @@ When these are lost, it can lead to dementia. Not to mention diets high and suga
 
 ## Lesson 3
 
-### There are Four Pillars to a healthy diet: bone-in meat, organs, fermented/sprouted food, and fresh food.
+### There are Four Pillars to a healthy diet: bone-in meat, organs, fermented/sprouted food, and fresh food
 
 Now that we know what we should avoid, it’s time to talk about what to eat. The author came up with four pillars that are essential to traditional, healthy diets. The first of these is eating meat cooked on the bone. Not only does it taste better this way, but the bone releases minerals into the meat when it is cooked, making it more nutritious.
 
@@ -63,7 +63,5 @@ Lastly, we have fresh plant foods. You can get all the vital antioxidants you ne
 ## Review
 
 *Deep Nutrition* is a really important book for anyone and everyone. It makes sense that a way to curb the health problems we are dealing with more today than ever would be to go back to traditional food. All of the advice feels very doable and it had all of the up-to-date research on nutrition.
-
-## Who it’s for
 
 The 55-year-old who feels like they’re always getting sick, the 32-year-old couple that would like to have a child, and anyone that wants to become healthier.

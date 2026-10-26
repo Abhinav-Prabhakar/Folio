@@ -22,7 +22,7 @@ Are you ready to finally make your customers happy by giving them solutions to t
 
 ## Lesson 1
 
-### Create engaging surveys to segment your audience into buckets.
+### Create engaging surveys to segment your audience into buckets
 
 Surveys are boring and tedious. Nobody wants to take them unless you can them more enticing for the prospects. That’s your job as a marketer. You want to begin the journey of your prospects with a deep dive survey to get to know them better. To do that, you must craft the survey in a way that makes people want to respond.
 
@@ -38,7 +38,7 @@ For example, if you help bloggers monetize their blogs, you could segment your a
 
 ## Lesson 2
 
-### Make your hyper-relevant sales pitch only after you know who you’re talking to.
+### Make your hyper-relevant sales pitch only after you know who you’re talking to
 
 Once you hook the prospects, it’s time to do the Micro-Commitment Bucket Survey. Here, you want to start off with a casual multiple-choice question before you ask more private questions. Avoid the temptation of asking non-relevant questions and only ask questions that will help you refine your segmented buckets.
 
@@ -52,7 +52,7 @@ Then, you want to provide a perfect solution and give a sense of urgency of why 
 
 ## Lesson 3
 
-### Make the most out of the buyers and non-buyers after making your sales pitch.
+### Make the most out of the buyers and non-buyers after making your sales pitch
 
 Your job isn’t finished once you’ve made your sales pitch. Your next move is to use the Profit Maximization Upsell sequence to continue the relationship with your audience.
 
@@ -69,7 +69,5 @@ And that’s the continuous life cycle of The Ask Formula.
 ## Review
 
 *Ask* is a marketing book that focuses on doing surveys the right way to give relevant solutions to the problems of your audience. After reading a lot of business books, I was looking for something unique and that’s when this book caught my attention. In my opinion, it delivered on the promise it made by providing fresh insights to understand the needs of prospects. People are looking for more personalized offers than ever before and this book helps you make that happen.
-
-## Who it’s for
 
 The 26-year-old man who wants to start an online business, the 38-year-old entrepreneur woman who wants to grow her business, and anyone who wants to convert online traffic into customers.

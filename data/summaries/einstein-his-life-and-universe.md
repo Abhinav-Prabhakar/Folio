@@ -18,11 +18,9 @@ Here are 3 lessons from *Einstein: His Life and Universe*:
 
 Ready to peek into one of the greatest minds that ever existed? Let’s do it!
 
-### Einstein: His Life and Universe Summary
-
 ## Lesson 1
 
-### Never lose your sense of childhood curiosity.
+### Never lose your sense of childhood curiosity
 
 Albert Einstein had an unusual childhood. A few crucial events he would remember for the rest of his life, which ended up ensuring his never-ending sense of curiosity.
 
@@ -42,7 +40,7 @@ One of his famous quotes is the one on top of this summary:
 
 ## Lesson 2
 
-### Einstein got his Nobel prize for something called the photoelectric effect.
+### Einstein got his Nobel prize for something called the photoelectric effect
 
 Do you know Einstein’s most famous equation? You have seen it, I’m 100% sure! It’s *e=mc²* and it’s part of his theory of special relativity. Part of this theory is that the speed of light is constant, which makes it the only thing that’s not relative, and therefore, time itself must be relative (A Brief History Of Time explains it well here).
 
@@ -56,7 +54,7 @@ Bear in mind that all of this was theory when he postulated it in 1905, yet all 
 
 ## Lesson 3
 
-### Until the day you die, your journey through life doesn’t stop, so neither should you.
+### Until the day you die, your journey through life doesn’t stop, so neither should you
 
 Albert Einstein died in 1955 from internal bleeding when an aneurysm in his stomach burst. The 76 year old refused surgery, saying it was his time to go. In his last week he had signed a manifesto, prepared a radio speech and **by his deathbed, his family members found 12 pages full of equations**.
 
@@ -69,7 +67,5 @@ So the best you can do is to never stop living the best life you can and continu
 ## Review
 
 A fascinating individual and as I said above, so much to learn, both from what Einstein did right and what he did wrong. I highly recommend you check out *Einstein: His Life and Universe*.
-
-## Who it’s for
 
 The 16 year old nerd in school, who wonders why he won’t fit in, the 31 year old physics research fellow or PhD candidate, and anyone who thinks they might’ve lost a bit of their childhood curiosity.

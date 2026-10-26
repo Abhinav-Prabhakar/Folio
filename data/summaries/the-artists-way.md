@@ -18,7 +18,7 @@ Ready to sing, dance, doodle, draw, paint, spray or whatever you used to love wa
 
 ## Lesson 1
 
-### Give your creativity the chance to run freely by writing Morning Pages.
+### Give your creativity the chance to run freely by writing Morning Pages
 
 Creativity, much like most other things which are confused for being the result of pure talent, is a skill you can practice like any other. Real artists, real musicians, real writers, they don’t lie around nine months of the year, waiting for inspiration to strike, and once it hits they jump up, write for 90 days straight and then hand in yet another bestseller.
 
@@ -32,7 +32,7 @@ See this as meditation – a way to just let your creativity flow without buildi
 
 ## Lesson 2
 
-### If you have writer’s, singer’s or painter’s block, just let other people give you prompts.
+### If you have writer’s, singer’s or painter’s block, just let other people give you prompts
 
 I love coming up with headlines for new articles. The scary part is what comes afterwards: writing the article. Even for someone who’s written half a million (that’s 500,000!) words in 2016, starting with a blank page is still daunting.
 
@@ -46,7 +46,7 @@ And then do just that. It can be wonderfully liberating to not have to think abo
 
 ## Lesson 3
 
-### Ideas are already out there – as an artist it’s merely your job to take good care of them and watch them grow.
+### Ideas are already out there – as an artist it’s merely your job to take good care of them and watch them grow
 
 Michelangelo didn’t create David. He said he *found* him. Isn’t that humble? One of the world’s greatest artists and he takes zero credit. Just says he found the idea and happened to be the one chiseling away at that block of stone at the right time to make it happen.
 
@@ -61,7 +61,5 @@ Be a good gardener, okay?
 ## Review
 
 *The Artist’s Way* was probably one of the first self-help books for artists. I didn’t know about it until recently, but I instantly saw why it was such a big deal at the time – the ideas are transformative. Julia really takes the pressure off being an artist. Nowadays, we often think we have to make a full-time living in a creative way, just because we *can.* But often it’s only thanks to the creative freedom we have because we don’t pay the bills with our art that we really make something remarkable. This is a great reminder of that.
-
-## Who it’s for
 
 The 23 year old project manager, who has lots of different things to coordinate and could use a creative outlet to manage her ideas, the 45 year old hobby writer, who spends more time staring at blank pages, than actually writing, and anyone who thinks they have to come up with something super creative to justify calling themselves an artist.

@@ -18,11 +18,9 @@ Here are the ones I’m taking away:
 
 Let’s see what it truly takes to win!
 
-### Winning Summary
-
 ## Lesson 1
 
-### Your mission should be to win the business you are in.
+### Your mission should be to win the business you are in
 
 “Mission statement” is a terribly overused buzzword. But having a mission is important. Jack thinks your mission is always the same: to win the business you are operating in.
 
@@ -38,7 +36,7 @@ Ask yourself how you can win in your niche or industry, consider radical and unu
 
 ## Lesson 2
 
-### Setting annual budgets can be a huge growth stopper.
+### Setting annual budgets can be a huge growth stopper
 
 Setting annual budgets is a pain for everyone involved.
 
@@ -57,7 +55,7 @@ This way it’s not an annual hit or miss any more, managers can spend more mone
 
 ## Lesson 3
 
-### Keep trying different jobs until you find one you love.
+### Keep trying different jobs until you find one you love
 
 I love that Jack included advice for the people on the other end of the line as well. **Don’t be afraid to switch jobs a lot**.
 
@@ -80,7 +78,5 @@ I’ll be honest, this summary felt a bit generic. This often happens when the b
 Sometimes there are slight hints at anecdotes and a few examples, but they are far and few, which makes the tips in the blinks seem more as generic advice.
 
 *Winning* reminded me of *The Hard Thing About Hard Things,* where I felt the story a lot more. I think you’d be best off by jumping straight to the book here.
-
-## Who it’s for
 
 The 26 year old recent college graduate who’s excited about his new career at a big brand or huge corporation, the 45 year old executive, who finds the structures in her company to be a bit rusty, and anyone who’s worried about finding a job they love.

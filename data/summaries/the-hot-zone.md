@@ -20,7 +20,7 @@ Curious what a virus that’s worse than COVID-19 can do? Let’s dive right in 
 
 ## Lesson 1
 
-### Your chances of survival aren’t great if you get Ebola, which liquefies your organs.
+### Your chances of survival aren’t great if you get Ebola, which liquefies your organs
 
 Ebola was first discovered in 1976 in the Democratic Republic of Congo. Since the first outbreak, many others followed that have shown just how deadly this virus is. Around half of all those who contract the virus will die.
 
@@ -32,7 +32,7 @@ It is also dangerous because of the way it spreads. Ebola is spread through bodi
 
 ## Lesson 2
 
-### One African cave may be the source of the Ebola virus.
+### One African cave may be the source of the Ebola virus
 
 So where did it come from? Evidence suggests that it may originate from a cave called Kitum Cave in Kenya. In 1980, a man became ill and died of Ebola shortly after visiting the cave. Years later, a young boy visiting the cave with his family also contracted the disease.
 
@@ -46,7 +46,7 @@ This is particularly dangerous for places that hold monkeys of different species
 
 ## Lesson 3
 
-### Our society makes it easy for a pandemic to strike, and we are always vulnerable, whether from Ebola or otherwise.
+### Our society makes it easy for a pandemic to strike, and we are always vulnerable, whether from Ebola or otherwise
 
 The good news is that we have learned better techniques for containing Ebola outbreaks over the years. We have designed better equipment to protect workers and put better quarantine practices in place.
 
@@ -61,7 +61,5 @@ Scientists are not sure why this is. It’s important that we continue to resear
 ## Review
 
 *The Hot Zone* made me go “what the heck?!” a whole lot more than I thought it would, especially considering how COVID-19 has been going recently! I also was excited to read something by Richard Preston because he co-authored one of my favorite books with Michael Chrichton. This true story is going to have you on the edge of your seat the whole time, and maybe even a little afraid based on recent world events!
-
-## Who it’s for
 
 The 57-year-old politician who isn’t concerned enough about our preparations for a pandemic, the 34-year-old who wonders about the other viruses out there that are more dangerous than COVID-19, and anybody that wants to learn more about how we can fight deadly diseases like Ebola.

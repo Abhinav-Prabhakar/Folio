@@ -18,11 +18,9 @@ Here’s the essence of *The Secret* book in 3 lessons:
 
 Do you have a big, crazy vision? Here’s how to prime yourself for achieving it.
 
-### The Secret Summary
-
 ## Lesson 1
 
-### One of the strongest rules in life is the law of attraction.
+### One of the strongest rules in life is the law of attraction
 
 While Byrne packaged the idea in a new way, which appealed to the masses, the law of attraction itself is as old as we are: like attracts like. In Germany, we have a saying: *“As you shout into the woods, so they echo back.”* In essence, **the law of attraction states that what you think and feel determines what you’ll attract into your life**.
 
@@ -32,7 +30,7 @@ What the book is often criticized for is its overemphasis on the power of the la
 
 ## Lesson 2
 
-### The law of attraction only works when you think in positives, not negatives.
+### The law of attraction only works when you think in positives, not negatives
 
 Another case study of the law of attraction is Jim Carrey, who, funnily enough, discussed his experience with Oprah in 1997, also before she knew about *The Secret*. As an aspiring actor, Carrey would stop on his drive home every night, think about his future accomplishments and visualize them. He took comfort in the fact that he *“[did] have these things, I just don’t have a hold of them yet, but they’re out there.”*
 
@@ -44,7 +42,7 @@ Plus, if you’re trying to convince yourself, framing something as a win sounds
 
 ## Lesson 3
 
-### To manifest your dreams, you must ask, believe, and then receive.
+### To manifest your dreams, you must ask, believe, and then receive
 
 Besides regularly thinking about your goals, visualizing them, and framing them positively, Rhonda suggests an actual, three-step process you can use to make the law of attraction work for you:
 
@@ -56,8 +54,6 @@ Again, I’m all for planning, being motivated, and believing in yourself. Howev
 
 ## Review
 
-They say the best books split the audience, and this one definitely does. Some people swear on it like gospel, others dismiss it as feel-good mumbo jumbo. I think the truth is, as so often, somewhere in the middle. Yes, the power of positive thinking works, but only to an extent, and it’s not the be-all, end-all. Read *The Secret*, but take it with a grain of salt. Reflect on it, and then come to your own conclusions about it *.*
-
-## Who it’s for
+They say the best books split the audience, and this one definitely does. Some people swear on it like gospel, others dismiss it as feel-good mumbo jumbo. I think the truth is, as so often, somewhere in the middle. Yes, the power of positive thinking works, but only to an extent, and it’s not the be-all, end-all. Read *The Secret*, but take it with a grain of salt. Reflect on it, and then come to your own conclusions about it*.*
 
 The 29 year old local news anchor, who thinks her career is ‘ruined’ because she’s not at a big station yet, the 43 year old actor, who’s been fighting his way through Hollywood for two decades now, and anyone who’s easily excited by new ideas.

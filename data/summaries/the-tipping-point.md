@@ -18,11 +18,9 @@ Here are the 3 lessons from the book that will help you spread your own ideas:
 
 Ready to infect the masses with your idea? Let’s roll!
 
-### The Tipping Point Summary
-
 ## Lesson 1
 
-### An idea spreads like fire once it reaches the tipping point.
+### An idea spreads like fire once it reaches the tipping point
 
 Katniss said it pretty clearly: “Fire is catching.”
 
@@ -46,7 +44,7 @@ In 1987, the point was hit when finally enough people owned a fax, so it made se
 
 ## Lesson 2
 
-### Three kinds of people are responsible for getting ideas to tip.
+### Three kinds of people are responsible for getting ideas to tip
 
 Why then, do some ideas go big and beyond, and others just never click?
 
@@ -64,7 +62,7 @@ But…
 
 ## Lesson 3
 
-### If your idea isn’t sticky, it’ll never tip.
+### If your idea isn’t sticky, it’ll never tip
 
 It doesn’t matter how many influencers you get to vouch for your idea, or how many testimonials you can collect for the front page of your book – if your book is bad, it’ll never reach the masses.
 
@@ -95,7 +93,5 @@ Then, and only then, should you start caring about the tipping point.
 I remember distinctly sitting in my armchair at my parents’ house, feeling completely awestruck at the fact that I indeed just yawned 3 times, just because, as Gladwell predicted, I’d read a section about yawning. That’s the kind of power his writing holds.
 
 The summary will give you the nuts and bolts, but to witness Gladwell’s magic writing first hand, you have to get the book.
-
-## Who it’s for
 
 The 17 year old blogger who’s desperately hoping for a viral hit, the 47 year old hobby writer with lots of connections, who wants to learn how to use them better, and anyone who has an idea worth spreading.

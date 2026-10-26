@@ -22,7 +22,7 @@ Let’s take a closer look at how our lives can improve if we had a better relat
 
 ## Lesson 1
 
-### Drug addiction and smartphone addiction bear some shocking resemblances, and both come with similar consequences.
+### Drug addiction and smartphone addiction bear some shocking resemblances, and both come with similar consequences
 
 When I say the word addiction, you most likely think of drug or alcohol abuse. Recently, though, scientists are finding that some activities we engage in can affect the brain in a similar way to those more severe addictions.
 
@@ -36,7 +36,7 @@ But there is some good news. Even though our addictions to technology are simila
 
 ## Lesson 2
 
-### Notifications are wreaking havoc on your productivity and you should silence them as much as possible.
+### Notifications are wreaking havoc on your productivity and you should silence them as much as possible
 
 Just now while writing this summary, I got an email notification on my phone. I quickly slid it open to see what it was and answer it. Before I knew it 10 minutes had gone by. If it weren’t for the topic of this lesson, I might now have gotten back to work so quickly.
 
@@ -48,7 +48,7 @@ Instead, turn off email notifications completely on your phone and computer. Set
 
 ## Lesson 3
 
-### It’s much easier to change a bad habit into a good one than it is to try to quit cold turkey.
+### It’s much easier to change a bad habit into a good one than it is to try to quit cold turkey
 
 Think of a habit that you’re trying to quit. Have you tried to snuff it out more than once? Most of us end up trying to inefficiently break bad habits by the “cold turkey” method. Usually, this only leaves us relapsing and feeling frustrated. But there’s a better way.
 
@@ -65,7 +65,5 @@ Each of these is present when you succumb to your smartphone addiction. Taking o
 ## Review
 
 Well, the findings that *Irresistible* unveils are quite alarming! I like to think of myself as one who doesn’t use my phone too much, but after reading this one I’m giving it a second thought. I think I’ll try to spend more time going on walks or playing with my kids instead of on my phone!
-
-## Who it’s for
 
 The 31-year-old who plays World of Warcraft and wonders why they’re always unhappy, the 54-year-old who can’t put their phone down when their kids are around, and anyone who thinks that they’re the exception and that taking their smartphone to bed with them doesn’t hurt their entire life.

@@ -22,7 +22,7 @@ Get ready to learn how to have a calmer and happier life!
 
 ## Lesson 1
 
-### We feel we are inadequate because our culture conditions us to believe so.
+### We feel we are inadequate because our culture conditions us to believe so
 
 Have you ever had that dream when you are trying to run from something, and no matter how hard you try, you just can’t? It is thought that dreams like this mean that the dreamer feels deep down they are inadequate, as so many of us do.
 
@@ -34,7 +34,7 @@ No wonder we tend to feel inadequate— we’re taught from a young age we aren�
 
 ## Lesson 2
 
-### Radical Acceptance is the way to set yourself free.
+### Radical Acceptance is the way to set yourself free
 
 Brach shares the story of Mohini the tiger to illustrate how some of us become trapped in our lives. Mohini was a tiger that was kept in a small cage for years. After years, she was given a large enclosure with a pond and acres of space to roam around in. The zookeepers thought she would love her new home. But instead, she paced the same area every day that was the same size as the small cage she had been in before, never roaming the new area. Even though she was freed from the small cage, her mind was what kept her trapped in old patterns.
 
@@ -44,7 +44,7 @@ This is radical acceptance. Even those unwelcome feelings that everyone has some
 
 ## Lesson 3
 
-### Don’t let judgments about yourself get in the way of feeling suffering because it will help you discover your true self.
+### Don’t let judgments about yourself get in the way of feeling suffering because it will help you discover your true self
 
 Sometimes we can be really hard on ourselves. We blame ourselves for many things in our life, even things that are out of our control. The reason we beat ourselves up, Brach says, is a defense mechanism. It works by covering up feelings like jealousy, fear, or vulnerability with unnecessary self-judgment.
 
@@ -55,7 +55,5 @@ The approach that Buddhism offers on suffering is much more positive than what w
 ## Review
 
 I found *Radical Acceptance* very practical, hopeful, and beautifully simple. True healing and moving past things in a healthy way is as easy as feeling the emotions and accepting them. It’s refreshing and encouraging to hear we are perfectly fine, flaws and all. Learning how to be more self-compassionate is important for everyone, but I would recommend this book particularly for perfectionists.
-
-## Who it’s for
 
 The 23-year-old college student who is constantly stressed out and wants to find calm, the 42-year-old interested in Buddhism and meditation, anyone who struggles with beating themselves up.

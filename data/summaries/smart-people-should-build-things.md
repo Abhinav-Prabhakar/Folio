@@ -20,7 +20,7 @@ Interested in what a real economic revolution looks like? Let’s look at the US
 
 ## Lesson 1
 
-### Around half of all elite college graduates end up in finance, law or consulting firms – but mostly for the wrong reasons.
+### Around half of all elite college graduates end up in finance, law or consulting firms – but mostly for the wrong reasons
 
 In 2013, Princeton sent admission letters to only 1,931 potential students. But how many applied? Over 26,000. That means just 7.29% actually get into the school. Fewer yet finish the degree they pursue. Other Ivy League schools show similar admission rates. The few who get in are the brightest kids in the US, having passed high school with flying colors.
 
@@ -36,7 +36,7 @@ Lastly, the students affect one another. If your roommate comes home from his 10
 
 ## Lesson 2
 
-### All of these firms then go on to tie you down with golden handcuffs.
+### All of these firms then go on to tie you down with golden handcuffs
 
 Elite college graduates are perfectly trained to go through the tough application process most of these companies have. After all, it’s not much different from getting into an elite college. What they might not be a good fit for, however, is the work that follows.
 
@@ -50,7 +50,7 @@ Once you’re in, it’s hard to get out. So maybe you should think twice about 
 
 ## Lesson 3
 
-### Big, professional companies don’t drive the economy forward, startups do, because that’s where innovation happens.
+### Big, professional companies don’t drive the economy forward, startups do, because that’s where innovation happens
 
 Now you might say: “What’s so bad about many people joining these companies? Don’t they carry the economy and create lots of value?”
 
@@ -67,7 +67,5 @@ The problem with all this is that big corporations are getting the lead over new
 ## Review
 
 Wow, this felt like a rant from the heart. Both my own and Andrew Yang’s. I think our stance is clear. If you’re now in doubt about your next career move, I hope *Smart People Should Build Things* will be food for thought.
-
-## Who it’s for
 
 The 17 year old, who just got his Princeton admission letter, the 22 year old, who just started her first consultant job with Deloitte, and anyone who’s currently busy polishing their resumé.

@@ -18,7 +18,7 @@ Now, let’s take some time to explore each lesson in detail!
 
 ## Lesson 1
 
-### Knowing well your competences and your vulnerabilities is the key to success.
+### Knowing well your competences and your vulnerabilities is the key to success
 
 In life, there are certain things we excel at, and certain things that feel strange to us. It’s important to have a good grasp on both, Parrish suggests.
 
@@ -30,7 +30,7 @@ Although it may sound simple, you’d be surprised to find out how many of us le
 
 ## Lesson 2
 
-### Solve a problem by looking at its underlying cause and by practicing inversion.
+### Solve a problem by looking at its underlying cause and by practicing inversion
 
 Most people approach their problems wrong. Instead of curing the cause, they try to alleviate its symptoms. On top of that, you should be looking to prevent it from ever occurring again. So where to start? Essentially, you’ll want to look at the first principles of a problem, the ones that caused it in the first place.
 
@@ -42,7 +42,7 @@ Then, you can try to reverse this scenario a little to figure out your solutions
 
 ## Lesson 3
 
-### Always think long-term before your take a decision and double-check it in your mind.
+### Always think long-term before your take a decision and double-check it in your mind
 
 You might’ve heard people say *“Think before you speak”* – and for a reason! Thinking about what we are about to do instead of letting our impulses take over is a sign of maturity and good rationale. Thought experiments are key to successful endeavors because you get to train yourself for your real life encounters beforehand.
 
@@ -55,7 +55,5 @@ This second-order thinking is helpful in situations that have a lasting impact o
 ## Review
 
 *The Great Mental Models* makes it easier for its readers to construct the right mental models which can help them navigate the world more easily. The book offers nine ways to use mental models as a way to fix various problems in your life. Its readers will learn a series of valuable lessons and psychological tips and tricks that will help them address issues from various perspectives.
-
-## Who it’s for
 
 The 30-year-old entrepreneur who wants to improve their problem-solving skills, the 45-year-old psychology teacher who wants to spice up their curricula with alternative lessons, and anyone who wants to use mental models to give better advice to their clients.

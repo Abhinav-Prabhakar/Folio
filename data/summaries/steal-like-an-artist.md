@@ -22,11 +22,9 @@ Here are my 3 favorite lessons:
 
 Have you been wanting to pursue something creative, but keep putting it off because you don’t know how to start something original? Don’t worry, Austin’s got you covered!
 
-### Steal Like An Artist Summary
-
 ## Lesson 1
 
-### You’ll find your own style where you fail to imitate your idols.
+### You’ll find your own style where you fail to imitate your idols
 
 Back in 2011, there was a huge uproar about our German then-minister of defence, Karl-Theodor zu Guttenberg. Someone stumbled across a few un-cited references when reviewing his doctoral thesis and reported those to a newspaper. This launched a full investigation by the university, and led to a crowdsourcing project, where people dissect PhD theses to determine if they’re plagiarized. Ultimately, Guttenberg lost his title and his job as Minister of Defence.
 
@@ -52,7 +50,7 @@ One caveat: Some procrastination is good. *Some*. But don’t let the balance ti
 
 ## Lesson 3
 
-### Enjoy being anonymous. Fame will come soon enough.
+### Enjoy being anonymous. Fame will come soon enough
 
 **The good thing about copying others and procrastinating as an amateur is: no one gives a shit if you do!**
 
@@ -67,7 +65,5 @@ It’s a time you should enjoy while it lasts. Don’t lament obscurity, revel i
 ## Review
 
 Before you think *Steal Like An Artist* is a book just for painters, look at Seth Godin’s definition of an artist. If what you’re doing requires even a pinch of creative salt, this book is for you. And if you’ve been an artist for a while already and are facing a slump, this will make you feel better and be a great pick-me-up.
-
-## Who it’s for
 
 The 19 year old hobbyist watercolor painter, the 32 year old freelance writer, who struggles with making time for his novel project, and anyone who wants to be famous right NOW.

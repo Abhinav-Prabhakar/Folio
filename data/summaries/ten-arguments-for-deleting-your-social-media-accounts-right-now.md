@@ -31,7 +31,7 @@ Ready to erase your social media presence so you can live better? If not, perhap
 
 ## Lesson 1
 
-### Social media sites will do everything in their power to manipulate users, and we don’t even realize it.
+### Social media sites will do everything in their power to manipulate users, and we don’t even realize it
 
 As soon as you’re online, you’re being watched. It might sound paranoid, but it’s not. Every smartphone owner and social media user gets tracked by algorithms. How long are you on for? What purchases do you make? And so on.
 
@@ -45,7 +45,7 @@ Social media also tries to take away our free will. It is designed to be addicti
 
 ## Lesson 2
 
-### The social media business model is shady and invasive.
+### The social media business model is shady and invasive
 
 Lanier argues that we don’t need to rid the world of smartphones or online socialization to fix the problem. We need to rid the world of social media’s business model. **He refers to it as BUMMER, which means “Behaviors of Users Modified, and Made into an Empire for Rent.”**
 
@@ -64,7 +64,7 @@ The problem isn’t social media in general. It is the reliance on the manipulat
 
 ## Lesson 3
 
-### People tend to act worse and exhibit less empathy when they are on social media.
+### People tend to act worse and exhibit less empathy when they are on social media
 
 People always talk about how we change when we date someone. Technology can change us too. Specifically, the author says it encourages “a**hole behavior.” You don’t have to look very hard to find insults, mean comments, and trolling.
 
@@ -81,7 +81,5 @@ Social media makes us less empathetic as well. Empathy comes from understanding 
 ## Review
 
 I’ve had a feeling that social media is making the world worse! *Ten Arguments For Deleting Your Social Media Accounts Right Now* will have you reconsider how the internet makes you feel. Worth reflecting on!
-
-## Who it’s for
 
 The 34-year-old mom who doesn’t realize that she’s not actually “connecting” with anyone online, the 59-year-old IT admin who wonders why he’s always anxious, and anyone who wants to waste less energy and time.

@@ -20,7 +20,7 @@ Want to become a master spy (or even just read people like books)? Let’s go!
 
 ## Lesson 1
 
-### At least 60% of what you say is not coming out of your mouth.
+### At least 60% of what you say is not coming out of your mouth
 
 The numbers often vary, which is why I’m lowballing it here. I remember the opening scene from *Hitch – The Date Doctor*, where Will Smith says that 60% of communication is body language, while 30% is tone.
 
@@ -34,7 +34,7 @@ Or consider Chris Hughes, who used a simple gesture of respect to let him and hi
 
 ## Lesson 2
 
-### There’s one more option you can take next to fight or flight.
+### There’s one more option you can take next to fight or flight
 
 The reason it’s next to impossible to suppress our body language (have you tried not touching your face or neck when you’re stressed?) is because it’s rooted in our limbic brain. Joe also calls it “the honest brain” because the reactions from it are instant and pure.
 
@@ -46,7 +46,7 @@ Remember when people tried to stay still in Jurassic Park? That’s the freeze r
 
 ## Lesson 3
 
-### You have to develop situational awareness if you want to master the art of reading people.
+### You have to develop situational awareness if you want to master the art of reading people
 
 So much for the basics, but how do you become good at this thing? As usual, there’s no shortcut to success. Practice, practice, practice. The thing you have to develop is called *situational awareness*. It means to **have as many details at hand as possible in any given situation.**
 
@@ -65,7 +65,5 @@ By becoming a constant observer you can assess the normality of any situation an
 The best part about the book is that even reading a single page or chapter will give you something that’s instantly actionable – you can start spotting non-verbal cues right away and get into practice while you’re reading.
 
 A tremendous book, great complement to books like *Start With Why* or *Talk Like Ted* and probably a completely neglected starting point for building better relationships for most people.
-
-## Who it’s for
 
 The 17 year old who feels misunderstood by his friends, the 37 year old, who makes her money mostly from communicating with people and building relationships, and anyone who doesn’t know what their F4 key does on the keyboard.

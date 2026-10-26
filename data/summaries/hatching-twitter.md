@@ -22,7 +22,7 @@ Ready to learn from a backstage tour of one of the world’s most valuable and p
 
 ## Lesson 1
 
-### Never hire your friends.
+### Never hire your friends
 
 There are four people, who majorly shaped the creation of Twitter both on the idea and implementation-end and should be considered as its founders: Ev Williams, Jack Dorsey, Biz Stone and Noah Glass.
 
@@ -38,7 +38,7 @@ As a result, Twitter has struggled for years to become a) profitable and b) sust
 
 ## Lesson 2
 
-### Always hire your friends.
+### Always hire your friends
 
 Wait, didn’t I just say the opposite? Yes, and this is the crux of the matter: both of these statements are true. You’d think that it’s amazing that Twitter has gotten so big despite all of these friendship quarrels. But it’s not despite that they all were friends.
 
@@ -52,7 +52,7 @@ Therefore, you should *always* hire your friends, because **it’s a good indica
 
 ## Lesson 3
 
-### Make better mistakes tomorrow.
+### Make better mistakes tomorrow
 
 When Dick Costolo set Twitter straight for revenue growth, taking it to the stock market, and turning it into a “proper” company, that included a move to a bigger, more professional office.
 
@@ -67,7 +67,5 @@ Sounds like the attitude of four friends building a company. We need more of tha
 In-sight-ful. That’s how I’d like to describe *Hatching Twitter*. Fascinating. I don’t think there’s a single company with an “easy” history, but the bigger it gets, the more twisted the story. Twitter sure seems like an extreme outlier, but maybe power struggles like these are a lot more common than you think.
 
 An interesting read.
-
-## Who it’s for
 
 The 14 year old who’s working on a side project with a few friends that could be a business someday, the 48 year old who’s bitter about his business partner betraying him 12 years ago, and anyone who thinks they have to get it right the first time.

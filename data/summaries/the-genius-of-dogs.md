@@ -22,7 +22,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Dogs are similar to babies, as they watch and learn from humans.
+### Dogs are similar to babies, as they watch and learn from humans
 
 Similar to infants, dogs develop over time skills to survive and learn from humans when watching them. However, they learn much more rapidly than babies. Another similarity between the two is that dogs also learn how to observe their surroundings and have reactions.
 
@@ -36,7 +36,7 @@ Maybe we can learn a thing or two from them as well. Being kind takes you places
 
 ## Lesson 2
 
-### Although dogs seem to understand us, there are some limitations to our common language.
+### Although dogs seem to understand us, there are some limitations to our common language
 
 We love the idea of talking to our pets. Children are often trying to encourage their animal friends to speak up. So, we started talking to them and they started answering in their own ways. However, they don’t actually understand words, but symbols.
 
@@ -48,7 +48,7 @@ However, there are certain limits to a dog’s ability to understand things. The
 
 ## Lesson 3
 
-### Cognitive encounters are the guide for proper dog training.
+### Cognitive encounters are the guide for proper dog training
 
 Behaviorism is a concept that explores how all behaviors are learned by conditioning and interactions with the environment. Behaviorists insist that integrating the *‘right’* behavior is what matters in the education process, even if they’re using some controversial methods.
 
@@ -61,7 +61,5 @@ Some dogs seem to understand better using this approach instead. After all, thei
 ## Review
 
 The book *The Genius of Dogs* offers a complex perspective on dogs, from their origins to their cognitive particularities. The reader will gain unique insights on the canine species and how dogs naturally communicate with humans. The aspects covered will surprise the reader while also giving him a new perspective on the four-legged animal.
-
-## Who it’s for
 
 The person curious about the particularities of a dog’s mind, the homeowner looking to adopt a pet, the veterinarian looking to learn more about the canine species, or the dog lover who’s curious to find out more about his favorite pet.

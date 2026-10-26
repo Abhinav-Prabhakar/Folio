@@ -20,7 +20,7 @@ Have a bad habit you want to kick? Let’s do it!
 
 ## Lesson 1
 
-### You have two selves that influence your actions – a conscious one and an automatic one.
+### You have two selves that influence your actions – a conscious one and an automatic one
 
 Which one is it going to be after work – gym or TV?
 
@@ -47,7 +47,7 @@ Both work, but in the long run, training your automatic self is a lot less effor
 
 ## Lesson 2
 
-### Repressing your emotions can cause you to become self-destructive.
+### Repressing your emotions can cause you to become self-destructive
 
 Have you ever wished to yell at someone at the top of your lungs, because they really pissed you off?
 
@@ -71,7 +71,7 @@ Eventually, this conflicting advice might lead you to engage in self-destructive
 
 ## Lesson 3
 
-### You can start breaking your bad habits by faking it and training mindfulness.
+### You can start breaking your bad habits by faking it and training mindfulness
 
 Rewiring your brain is never easy, but it’s easy to get started.
 
@@ -102,7 +102,5 @@ I think we all break bad habits differently at different times (I’ve even crea
 Very good summary, short, but packed with information – highly recommend you check it out on Blinkist!
 
 **Note:** I recently published a very practical 3-step guide to breaking bad habits, along with a mini course, which will also be a good starting point to get going today.
-
-## Who it’s for
 
 The 25 year old who often gets bullied for being a little shy or different, but doesn’t defend herself a lot, the 33 year old, who’s frustrated with his exercise habits, because he keeps trying, but ends up making the wrong choices, and anyone who’s struggled with a particular bad habit for over a year.

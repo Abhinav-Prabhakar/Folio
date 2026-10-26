@@ -20,7 +20,7 @@ Let’s take a few minutes to forget the rest of the world and just think about 
 
 ## Lesson 1
 
-### Stop for a second to appreciate your own, unique experience called life.
+### Stop for a second to appreciate your own, unique experience called life
 
 Has someone ever told you “you really are one-of-a-kind?” To express they think you’re special? It’s a really nice thing to happen, isn’t it? But have you ever stopped to consider how profoundly right they were when they paid you that compliment? Because they literally were.
 
@@ -34,7 +34,7 @@ You can never recreate as you’ve lived it – so far and until you die. One ti
 
 ## Lesson 2
 
-### Don’t be afraid of the unknown, because everything is.
+### Don’t be afraid of the unknown, because everything is
 
 Logically following this uniqueness, you’d have to think that no human life plays out in the same way, which should hold true for our work too, right? How come then that millions of people end up doing the same thing and making the same career choices?
 
@@ -56,7 +56,7 @@ Don’t be afraid of the unknown. Everything is. And that’s a good thing.
 
 Did you ever get the feedback from your school teachers that you were bad at something? That you should stop trying? Or that something you were good at wasn’t that valuable?
 
-Institutional education is discouraging us in a lot more ways than it *en* courages us, because in school, only one kind of intelligence is valued: logical reasoning (IQ). Math and science are at the top of the subject food chain, with languages and humanities (like geography, history, politics, etc.) next, and the arts, like dance, music, poetry, at the very bottom.
+Institutional education is discouraging us in a lot more ways than it *en*courages us, because in school, only one kind of intelligence is valued: logical reasoning (IQ). Math and science are at the top of the subject food chain, with languages and humanities (like geography, history, politics, etc.) next, and the arts, like dance, music, poetry, at the very bottom.
 
 But not only does school *not* drive us towards creative pursuits, it actually drives us *away* from them. That’s because, in the school system, teachers punish mistakes – whereas in reality, the only way to do something creative is to do something that might be a mistake.
 
@@ -65,7 +65,5 @@ Think back to school. First grade, third grade, fifth grade. **What did teachers
 ## Review
 
 If you ask me, you can’t do enough critical thinking and questioning about the educational system these days. It’s falling apart at the seams, with degrees becoming less and less valuable and thousands of new options of making a living emerging by the day. *Finding Your Element* is a highly important book about a highly important topic.
-
-## Who it’s for
 
 The 18-year-old dancer, who feels pressure from her parents to get a business degree, the 48-year-old teacher, who sees his students losing interest more and more and wonders what to do, and anyone who thinks they were terrible at school.

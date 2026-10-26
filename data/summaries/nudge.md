@@ -20,7 +20,7 @@ Need a nudge in the right direction? This ought to do it!
 
 ## Lesson 1
 
-### Nudges are tiny hints or changes, which push you in one direction, but leave all options open.
+### Nudges are tiny hints or changes, which push you in one direction, but leave all options open
 
 Have you ever been talked into going out by a friend, at first not wanting to go, but after she teased you a bit and you dressed up, you ended up having a really good time? That’s a nudge in action.
 
@@ -32,7 +32,7 @@ We’re being nudged all day, sometimes towards good decisions, sometimes toward
 
 ## Lesson 2
 
-### A default is a very powerful nudge, as it requires you to actively object it for it not to work.
+### A default is a very powerful nudge, as it requires you to actively object it for it not to work
 
 Sometimes, it’s possible to design situations where decisions need to be made in a way that if you decide automatically, you naturally make the right choice.
 
@@ -46,7 +46,7 @@ Similarly, gyms and magazines abuse this by automatically renewing your subscrip
 
 ## Lesson 3
 
-### States and other large institutions can use nudges to improve societies and countries as a whole.
+### States and other large institutions can use nudges to improve societies and countries as a whole
 
 Here’s a really basic way of describing how states work: **if the majority of its members make good decisions, the welfare of the state grows**. If the majority makes bad decisions, it declines.
 
@@ -61,7 +61,5 @@ If they use nudges right, governments and large institutions can spur wise decis
 ## Review
 
 What a cool way of reframing the whole decision-making process. As I said in the introduction, *Nudge* really is different, just topically related to all the other decision-making books, which is precisely what makes it so powerful. Thumbs up!
-
-## Who it’s for
 
 The 15 year old, who’s already slightly overweight, the 39 year old, who just checked whether he’s enrolled in his company’s retirement saving program, and anyone who works in a place that could help implement nudges at scale.

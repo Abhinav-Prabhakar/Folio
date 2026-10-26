@@ -20,7 +20,7 @@ Grab some popcorn, sit back, relax, and let’s learn about the secret life of h
 
 ## Lesson 1
 
-### People aren’t as good at identifying patterns as big data is because they don’t consider large enough sample sizes.
+### People aren’t as good at identifying patterns as big data is because they don’t consider large enough sample sizes
 
 The term big data refers to amounts of information so big that we need massive computational power to understand it.
 
@@ -38,7 +38,7 @@ But in 2014 a study identified, with a large enough sample size from big data, t
 
 ## Lesson 2
 
-### Big data tells us the deep dark secrets that people won’t share.
+### Big data tells us the deep dark secrets that people won’t share
 
 One university recently asked students in a poll to share their GPA. Just 2% of the participants mentioned their 2.5 or lower GPA. But when the school checked the official records, the actual number was over five times that amount at 11%!
 
@@ -54,7 +54,7 @@ Some surveys that asked about sexual acts, for example, showcases this perfectly
 
 ## Lesson 3
 
-### Society will be better off if the government uses big data to look at helping society as a whole rather than specific individuals.
+### Society will be better off if the government uses big data to look at helping society as a whole rather than specific individuals
 
 Whenever you use Google to search for something, you’re giving your information to big data. As I mentioned at the beginning, this isn’t necessarily a bad thing, but there are implications we should think about. For example, what if the government decided to take over this information?
 
@@ -71,7 +71,5 @@ So the next time you’re worried about Google having your information and the g
 ## Review
 
 What an interesting book! I knew the term big data and had an idea what it was, but I couldn’t have imagined how useful it is. *Everybody Lies* is a real eye-opener that can help us all understand our true natures a little better.
-
-## Who it’s for
 
 The 47-year-old who thinks that Google is the enemy and that they’re going to steal his data and use it against him, the 22-year-old who is studying social sciences in college, and anyone who wonders what the truth is about human nature.

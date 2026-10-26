@@ -18,11 +18,9 @@ Here’s what I learned from the book summary:
 
 Let’s go!
 
-### Moonwalking With Einstein Summary
-
 ## Lesson 1
 
-### Memory has become less and less important throughout history.
+### Memory has become less and less important throughout history
 
 We didn’t always have the attention span of a goldfish, but today it sure seems that way.
 
@@ -42,7 +40,7 @@ This tendency has continued ever since, and taken a major turn for the worse wit
 
 ## Lesson 2
 
-### However, our bad memory isn’t fixed.
+### However, our bad memory isn’t fixed
 
 However, just because our memory sucks now doesn’t mean we can’t improve it. You might know that **the average number of list items we can store in our short-term memory is 7.**
 
@@ -58,7 +56,7 @@ The lesson? **Through repetition, practice and becoming an expert in certain fie
 
 ## Lesson 3
 
-### Chunking and the memory palace are 2 great techniques to instantly improve your memory.
+### Chunking and the memory palace are 2 great techniques to instantly improve your memory
 
 Remembering more is one thing, and you’re bound to hit an eventual ceiling there, but **recalling better and faster** is where it really gets interesting.
 
@@ -91,7 +89,5 @@ I love how Foer gives a little historic background, knowing why I should improve
 That said, this summary is packed with a lot more techniques, interesting studies and examples from history. It was really hard to pick 3 things. I also never would’ve bought the book “blindly”, but now it’s on my list.
 
 In this case I do recommend you read the summary first.
-
-## Who it’s for
 
 The 6-year old elementary school girl, who just learned how to read, to give her a great head start in school and life, the 17 year old older brother, who refuses to learn for history class, because “Wikipedia knows everything”, and anyone who struggles to remember their shopping list.

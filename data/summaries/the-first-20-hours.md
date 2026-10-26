@@ -18,7 +18,7 @@ You don’t need to retire young to be able to try everything you want and the s
 
 ## Lesson 1
 
-### Choosing your next skill to learn is easy: it must be the one you’re most excited about.
+### Choosing your next skill to learn is easy: it must be the one you’re most excited about
 
 One of my favorite Warren Buffett anecdotes is about what James Clear calls his 2-list strategy. When his pilot Mike Flint asked him how he could figure out his career priorities, Buffett told him to list his 25 biggest goals and then mark the top 5. After he’d completed the exercise, he expected Buffett to recommend he focus on the top 5 and spread the remaining 20 in between. But he didn’t. Buffett told him to avoid the bottom 20 *at all cost,* for they’d only get in the way of his biggest dreams.
 
@@ -28,7 +28,7 @@ This doesn’t *guarantee* you’ll stay motivated, but it sure maximizes the ch
 
 ## Lesson 2
 
-### Identify both emotional and practical barriers in advance.
+### Identify both emotional and practical barriers in advance
 
 I like Josh’s sixth principle, because it addresses an issue few people talk about when wanting to learn new things: irrational obstacles. When planning practice sessions, it’s easy to imagine and anticipate practical problems, like a distracting phone, a long drive to the gym, etc. But **the biggest preventer of progress are the sessions you don’t start at all**, because you’re afraid of failing, looking bad in front of others, and so on.
 
@@ -38,7 +38,7 @@ Why do you have them? When did you develop them? Do you really think they’re t
 
 ## Lesson 3
 
-### In your first 20 hours, learn as much as you can, as fast as you can.
+### In your first 20 hours, learn as much as you can, as fast as you can
 
 When I began to practice writing, I wrote whenever inspiration struck. I had a few initial ideas, but then, my imagination quickly “dried up.” Except that’s not how it works. As long as you sit down and *start thinking*, you’ll always come up with something. It was only six months later that I set a goal of writing 250 words every day, but once I did that, I immediately picked up steam.
 
@@ -49,7 +49,5 @@ If you can make it through the first 20 hours, whether that’s in 60-minute or 
 ## Review
 
 This is a book for the semi-scientific self-experimenters out there. It’s less methodical than Tim Ferriss’s 4-Hour approach, but more structured than just a motivational kick in the pants. Ten simple steps, which you can follow with a few hours of work to get *The First 20 Hours* under your belt.
-
-## Who it’s for
 
 The 34 year old consultant, who never got his sailing license, although he now has the money to finally pay for it, the 63 year old, who thinks her chance to become good at gardening has long gone, and anyone who struggles with structuring how they tackle new projects.

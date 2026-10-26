@@ -20,7 +20,7 @@ Excited to figure out what you’re doing with your life? Let’s dive right in 
 
 ## Lesson 1
 
-### The way you are conditioned stops you from viewing reality as it really is.
+### The way you are conditioned stops you from viewing reality as it really is
 
 Think about love. What does that word bring to your mind? Whatever it is, those ideas were imprinted on you from a young age. Maybe your idea of love is a couple getting married or someone gifting their girlfriend roses.
 
@@ -36,7 +36,7 @@ So how can we fix our worldview? Watch your mind almost like you are watching it
 
 ## Lesson 2
 
-### Happiness comes and goes, so stop looking for lasting happiness and enjoy it when you have it.
+### Happiness comes and goes, so stop looking for lasting happiness and enjoy it when you have it
 
 Everyone wants happiness in this life. For many people being happy is the whole point of living. You might want to achieve it through finding love or having a fulfilling career. The problem is, it’s really difficult to find lasting happiness.
 
@@ -52,7 +52,7 @@ To avoid this kind of disappointment, we must stop constantly searching for happ
 
 ## Lesson 3
 
-### The real purpose of living is simply to live.
+### The real purpose of living is simply to live
 
 For centuries, people have searched for the meaning of life. Maybe you’re asking yourself this right now. The author says that this isn’t the place you should start.
 
@@ -67,7 +67,5 @@ Look at what’s happening in your own life right now. If you don’t like the w
 ## Review
 
 I liked *What Are You Doing With Your Life* and I think you will too. The book nails some of the biases that keep us unhappy, showing us how to unblock our happiness thanks to introspection. Good read!
-
-## Who it’s for
 
 The 23-year-old who still lives with their parents and feels totally lost, the 67-year-old deep thinker, and anyone that’s interested in living with more purpose than the monotony of their typical day-to-day life.

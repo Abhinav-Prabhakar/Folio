@@ -22,7 +22,7 @@ Whether you’re already married, still flying solo, or recently gave your now-f
 
 ## Lesson 1
 
-### There are 4 different stages of love, but we never leave any one of them behind, and we can move seamlessly between them as needed.
+### There are 4 different stages of love, but we never leave any one of them behind, and we can move seamlessly between them as needed
 
 Shetty spent three years of his life as a monk in an ashram. What is most commonly defined as an Indian monastery is actually also a place of education, he says. “Think about life as a series of classrooms or ashrams in which we learn various lessons,” Shetty suggests. When it comes to love, Shetty sees 4 connected ashrams:
 
@@ -39,7 +39,7 @@ Love is a never-ending journey of learning, and it’s never too late to learn a
 
 ## Lesson 2
 
-### The 8 rules of love help us move through the 4 ashrams and become more mature lovers.
+### The 8 rules of love help us move through the 4 ashrams and become more mature lovers
 
 Set against the backdrop of the 4 ashrams of love, Jay offers 8 rules: 2 to prepare for love, 3 to practice love, 2 to protect love, and 1 to perfect love. Here they are:
 
@@ -56,7 +56,7 @@ Practice these rules, use them to “level up,” and remember you can always re
 
 ## Lesson 3
 
-### Use love letters and meditation to cement your new perspectives on love.
+### Use love letters and meditation to cement your new perspectives on love
 
 For each stage, Shetty offers a prompt for a love letter and a meditation. I love both of those ideas (pun intended).
 

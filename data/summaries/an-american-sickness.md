@@ -24,7 +24,7 @@ Get your pitchforks and torches ready because, after this, you’re going to wan
 
 ## Lesson 1
 
-### Hospitals should be places that focus on saving lives, but instead they run more like businesses.
+### Hospitals should be places that focus on saving lives, but instead they run more like businesses
 
 The United States healthcare industry began around 1900. Hospitals were started by religious groups as charitable institutions. An insurance policy was simply a way to alleviate the burden of lost income while people were sick. These companies were non-profit, but that all changed in the 1950s.
 
@@ -40,7 +40,7 @@ They also began giving doctors incentives to call for more expensive treatments 
 
 ## Lesson 2
 
-### Manipulation of prices and patent laws are common practices of greedy pharmaceutical companies.
+### Manipulation of prices and patent laws are common practices of greedy pharmaceutical companies
 
 A pharmaceutical company is what makes and sells the drugs that a doctor prescribes to help you get better. While their origins and original purposes were similar to that of hospitals, they are unfortunately also just as selfish.
 
@@ -54,7 +54,7 @@ But wait, you might be thinking, shouldn’t that be illegal? Sadly, these conni
 
 ## Lesson 3
 
-### Patient care takes a backseat to profit in many healthcare corporations in the US.
+### Patient care takes a backseat to profit in many healthcare corporations in the US
 
 52 percent of American’s debt is from overdue medical bills according to 2014 research. The study also found that one in five US citizen’s credit scores had taken a hit due to medical debt.
 
@@ -69,7 +69,5 @@ These big businesses, I mean health care institutions, would rather make more mo
 ## Review
 
 Oh, boy, did this one get me angry about the current state of healthcare in the US. I can’t believe the level of greed and corruption that *An American Sickness* reveals! It is important to recognize that a lot of doctors are frustrated by this as well and hopefully this can motivate us all to work together to fix this huge problem.
-
-## Who it’s for
 
 The 34-year-old with a chronic illness that is having a hard time staying afloat financially, the 56-year-old doctor that would like to find ways to help their patients other than just medical care, and every single person who is in any governmental position with the power to change these atrocities.

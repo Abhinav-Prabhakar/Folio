@@ -22,7 +22,7 @@ Get ready to go digital and I’ll see you online! Oh wait, I already am! Let’
 
 ## Lesson 1
 
-### Find out where your market spends time online and make sure to follow the rules if you want to get on social media efficiently.
+### Find out where your market spends time online and make sure to follow the rules if you want to get on social media efficiently
 
 If you haven’t seen Wendy’s on Twitter you’ve got to go check them out. They are hilarious, and, more importantly, a perfect example of why your business needs to be on social media no matter how small.
 
@@ -42,7 +42,7 @@ Test what works best for you and your customers. If you try one and struggle, ju
 
 ## Lesson 2
 
-### To thrive, you need to learn how to do email marketing, which is as simple as providing value and persuading people.
+### To thrive, you need to learn how to do email marketing, which is as simple as providing value and persuading people
 
 The other day I had to spend a few minutes unsubscribing from a bunch of marketing emails. These days everybody seems to be doing email marketing, and for good reason. But it has to be done right or they’ll unsubscribe.
 
@@ -58,7 +58,7 @@ Finding what works best will take time and experimentation, but don’t give up!
 
 ## Lesson 3
 
-### Look at the right numbers to make sure your efforts to get online are working.
+### Look at the right numbers to make sure your efforts to get online are working
 
 This book covers a lot of different ways to get your online business presence up and running. But you’re not doing it just for the sake of it, you want to accomplish specific goals with your company.
 
@@ -77,7 +77,5 @@ If a tactic isn’t helping your goals, modify your plan and implement a new one
 ## Review
 
 I love living in a day when starting a business doesn’t require setting up a brick-and-mortar store. *See You On The Internet* is a great guide for getting your online presence going. Although the lessons it teaches are for beginners, I think this is valuable information for everybody, business owner or not.
-
-## Who it’s for
 
 The 61-year-old executive who doesn’t believe that their company’s internet presence is that important, the 25-year-old that’s considered going into business but doesn’t want to get into the messy world of venture capital, and anyone who wants to make a living in the digital age.

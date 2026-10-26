@@ -18,11 +18,9 @@ Here are 3 lessons that you can apply right now to start building wealth:
 
 Ready to become the richest man (or woman) in Babylon? Let’s go!
 
-### The Richest Man In Babylon Summary
-
 ## Lesson 1
 
-### Live below your means.
+### Live below your means
 
 What is it that makes rich people rich?
 
@@ -57,7 +55,7 @@ So look at your expenses and cut the ones that are really unnecessary and you’
 
 ## Lesson 2
 
-### Learn how to be lucky by working hard.
+### Learn how to be lucky by working hard
 
 The summary intro said “learn how to be lucky”. What a fascinating idea, isn’t it?
 
@@ -81,7 +79,7 @@ That’s how you become lucky.
 
 ## Lesson 3
 
-### Never take on debt.
+### Never take on debt
 
 This should (in theory) be a no-brainer for anyone, yet we find ourselves in a world where the average American is over $150,000 in debt.
 
@@ -100,7 +98,5 @@ Taking on debt has never solved any problems, it just creates more, so finish th
 ## Review
 
 *The Richest Man In Babylon* is a must read for anyone wanting to truly master the concept of money. The book delivers financial tips in a very strong way: by wrapping them into amazing stories. What’s more, you can read them all individually, which means you don’t have to read the book in one go to get the most out of it. Fantastic!
-
-## Who it’s for
 
 The 21 year old on his first corporate job, who’s happily spending his income every month, the 45 year old who’s taken on a loan or two to finance luxury purchases, and anyone who buys lottery tickets on a regular basis.

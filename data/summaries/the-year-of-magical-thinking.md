@@ -64,6 +64,4 @@ This made her healing impossible, so she was never able to find love or joy agai
 
 *The Year of Magical Thinking* delves into the saddening story of Joan Didion, an American writer who was living quite a fulfilled life, until her daughter became gravely ill and ultimately died, just when she was dealing with the recent passing of her husband John. The book speaks of the hardship she had to endure during the grieving process and how she chose to cope with loss. The lessons here are insightful, and the story presented can only make us wonder about how we spend our days, how often we cherish our dear ones and realize how fragile life is.
 
-## Who it’s for
-
 The 60-year-old widow dealing with the loss of her husband, the 70-year-old person who is grieving over a family member, or the 45-year-old person who is a fan of autobiographies.

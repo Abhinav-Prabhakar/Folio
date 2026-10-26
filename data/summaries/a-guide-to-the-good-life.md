@@ -20,7 +20,7 @@ Ready to step up and start practicing Stoicism? Let’s go, I’m super excited 
 
 ## Lesson 1
 
-### Virtue and tranquility are the highest values of a Stoic.
+### Virtue and tranquility are the highest values of a Stoic
 
 There are two central themes in Stoicism, values which all Stoics strive to integrate into their lives as much as possible. Those two goals are:
 
@@ -37,7 +37,7 @@ In the same vein tranquility is not about napping a lot or being lazy. **Tranqui
 
 ## Lesson 2
 
-### Learn to want what you already have to be more grateful by using negative visualization.
+### Learn to want what you already have to be more grateful by using negative visualization
 
 One of the worst, yet most common vicious cycle we get stuck in, especially in the Western world, is the hedonic treadmill. Scientifically known as hedonic adaptation, this is a system in which we chase material possessions, only to attain them, quickly get used to and bored by them, to reset and chase the next item.
 
@@ -51,7 +51,7 @@ I found a quote a few years ago that perfectly sums this up:
 
 ## Lesson 3
 
-### Be okay with the things that are outside of your control and internalize your goals for the things that aren’t.
+### Be okay with the things that are outside of your control and internalize your goals for the things that aren’t
 
 The biggest step towards becoming more tranquil you can take is changing your attitude towards the things you can’t control. This takes two steps:
 
@@ -67,7 +67,5 @@ This will not only actually make you perform better, but you also won’t feel c
 ## Review
 
 I can’t say enough good things about Stoicism. It’s definitely part of the 20% of the changes I’ve made in my life that account for 80% of my increase in happiness. *A Guide To The Good Life* is a great introductory book to the topic and covers everything you need to know in layman’s terms. 100% recommended! Good follow-up reads are *Meditations* and *Breakfast With Socrates*.
-
-## Who it’s for
 
 The 21 year old, who’s in a rush to finish his business degree so he can earn as much money as possible and start living “the good life”, the 43 year old who’s still bitter about having to give up her tennis career, and anyone who curses when they’re stuck in a traffic jam.

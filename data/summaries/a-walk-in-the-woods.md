@@ -20,7 +20,7 @@ Are you ready to go on an adventure? Let’s get going!
 
 ## Lesson 1
 
-### We have volunteers in the early 1900s to thank for the beautiful, difficult, 2,100-mile-long Appalachian Trail.
+### We have volunteers in the early 1900s to thank for the beautiful, difficult, 2,100-mile-long Appalachian Trail
 
 After a move to New Hampshire, author Bill Bryson decided he wanted to hike the nearby Appalachian Trail. But he had to do his research first. Including learning a few things about the history and terrain of the path.
 
@@ -32,7 +32,7 @@ Volunteers still run the trail today, but finishing the entire thing is no easy 
 
 ## Lesson 2
 
-### The journey that Bryson and Katz went on was demanding due to the varying terrain and climate conditions.
+### The journey that Bryson and Katz went on was demanding due to the varying terrain and climate conditions
 
 If you’ve ever gone backpacking, you know how life-altering the silence of the woods can be. Although it’s usually not entirely quiet with the chirping birds and other wildlife. But when Bryson and his friend Stephen Katz who came along began their journey, it was still too early in the year even for birds and bugs. As Katz struggled with the pace, Bryson walked quite a ways ahead of him. They would go hours without seeing a soul.
 
@@ -44,7 +44,7 @@ It took them two hours to cover just over a half-mile, but Bryson and Katz perse
 
 ## Lesson 3
 
-### Trees, wide-open views, and multiple mountain ranges fill the walk along the Appalachian Trail with breathtaking sights.
+### Trees, wide-open views, and multiple mountain ranges fill the walk along the Appalachian Trail with breathtaking sights
 
 Do yourself a favor right now and do a Google image search for the Appalachian Trail. I wish I could describe how beautiful it is, but words just don’t do it justice. That and I haven’t been there myself, yet. For some additional entertainment try putting “before and after” behind “Appalachian Trail” and see what you discover!
 
@@ -57,7 +57,5 @@ Needless to say, this pathway is truly awe-inspiring. I’ve hiked in the grand 
 ## Review
 
 *A Walk In The Woods* is my kind of book! I really enjoyed hearing about the hiking and the beauty of the wilderness along the Appalachian Trail. History isn’t usually my favorite subject, but the accounts of the area in this book are pretty interesting.
-
-## Who it’s for
 
 The 65-year-old nature lover, the 28-year-old that enjoys hiking, and anyone with a good sense of adventure.

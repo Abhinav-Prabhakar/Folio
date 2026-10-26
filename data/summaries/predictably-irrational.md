@@ -20,7 +20,7 @@ Let’s rationalize the way we think, shall we? Here we go!
 
 ## Lesson 1
 
-### Give others easy comparisons, so they’ll value you more highly.
+### Give others easy comparisons, so they’ll value you more highly
 
 Imagine you’re trying to buy a new lawnmower, one of those fancy ones you can sit on and drive around. The local brick and mortar store around the corner has some, but just one model, and it’s priced at $3,000. Is that good or bad?
 
@@ -40,7 +40,7 @@ Offering comparisons means selling, and while experiments like the one above are
 
 ## Lesson 2
 
-### Free is just another kind of price, but a very powerful one.
+### Free is just another kind of price, but a very powerful one
 
 When people hear something is free they go insane. Do you have a box at home with free gifts you’ve collected over the years, that you never use, but still keep? Or do you always go for the “buy one, get one free” deal when it’s offered to you?
 
@@ -52,7 +52,7 @@ This has to do with our incredibly strong tendency to avoid losses wherever poss
 
 ## Lesson 3
 
-### The endowment effect causes you to overvalue what you own.
+### The endowment effect causes you to overvalue what you own
 
 In a funny video of one of his shows, famous stand up comedian George Carlin says about how we look at other people’s possessions: “Have you ever noticed that their stuff is shit and your shit is stuff?”
 
@@ -71,7 +71,5 @@ That’s the endowment effect at work and it’s based on three things:
 ## Review
 
 I’ve rambled way too much, but that’s because *Predictably Irrational* is *so good.* Seriously. Dozens of gems and valuable things to learn about. You’ll have a lot better idea of the biases working for and against you after reading this. Definite recommend.
-
-## Who it’s for
 
 The 22 year old computer nerd at college, who’s trying to score a girlfriend, the 43 year old brick and mortar store owner, who can’t think of a good way to get more customers, and anyone whose video games somehow won’t sell on ebay.

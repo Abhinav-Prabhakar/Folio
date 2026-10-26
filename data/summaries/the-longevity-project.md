@@ -20,7 +20,7 @@ Here are 3 lessons about what it *really* takes to live to old age:
 
 ## Lesson 1
 
-### You’ll live longer if you start taking responsibility for your life, being conscientious and living with some discipline.
+### You’ll live longer if you start taking responsibility for your life, being conscientious and living with some discipline
 
 What kind of person are you? Would you describe yourself as diligent, organized, responsible, hard-working, serious and conscientious? Or rather easy-going, casual, fun, and maybe a bit chaotic?
 
@@ -36,7 +36,7 @@ So if you’ve lived your life like a rollercoaster ride so far, maybe think a b
 
 ## Lesson 2
 
-### If you’re a guy, find a great woman to get (and stay) married to, if you’re a girl, you’re free to choose.
+### If you’re a guy, find a great woman to get (and stay) married to, if you’re a girl, you’re free to choose
 
 All of the men in the study who got married and, more importantly, stayed married throughout their life, lived to be at least 70 or older. Neither those, who got divorced or remarried observed the same effect. As it turns out, not all marriages are equally beneficial for a long life.
 
@@ -50,7 +50,7 @@ Otherwise, there’s no harm for them in staying single (contrary to popular bel
 
 ## Lesson 3
 
-### Friends matter more than faith, as long as you don’t just fake it on Facebook.
+### Friends matter more than faith, as long as you don’t just fake it on Facebook
 
 …friends. This is something we all need. Very much in fact. **Friends are even more important than faith and religion**, according to the authors. That’s because the benefits that *do* come from being active in a religious community are mostly the ones that come from the social aspects of it. Praying alone isn’t as healthy as organizing a spiritual book club.
 
@@ -63,7 +63,5 @@ One caveat though: You can’t fake it. Just *feeling* like you have a lot of fr
 ## Review
 
 Yes. Yes, yes, yes! I loved the insights from *The Longevity Project*, because a.) they were *really* surprising (much less biology, than I expected, which is good, because our psychological attitude is much more in our own hands) and b.) being responsible makes you a winner – how cool is that? Of course I’ll have to balance this confirmation of my own views with something grounded more in physical health, but still, a very re-assuring, yet refreshing read!
-
-## Who it’s for
 
 The 25 year old college student, who’s lived a party life so far, the 55 year old divorced woman, who’s happy with her life and career, but has doubts whether remarrying wouldn’t be “the right thing to do”, and anyone who wants to live to be 100.

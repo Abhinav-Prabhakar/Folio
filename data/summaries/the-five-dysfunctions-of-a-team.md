@@ -30,11 +30,9 @@ Here 3 principles this book taught me:
 
 Let’s discover how to work better with others!
 
-### The Five Dysfunctions of a Team Summary
-
 ## Lesson 1
 
-### Being open about mistakes as a group will build trust.
+### Being open about mistakes as a group will build trust
 
 Like any good relationship, trust is the key to a solid team. When members in a group trust each other, they will talk openly about tough or touchy subjects. And if they can talk about hard things, they can find the best solutions.
 
@@ -44,7 +42,7 @@ At DecisionTech, CEO Kathryn knew the group needed to take the time to share mis
 
 ## Lesson 2
 
-### Even if a few people disagree when making decisions, everyone needs to be committed to the final choice.
+### Even if a few people disagree when making decisions, everyone needs to be committed to the final choice
 
 One of the keys to becoming a great team is to make decisions together and stand by them. Team players realize that making any decision will always be more beneficial than not making a decision. When the team doesn’t make a choice, there is confusion and ambiguity, which will trickle down, affecting work on every level.
 
@@ -54,7 +52,7 @@ To do this, though, every opinion needs to be heard. **Most rational people will
 
 ## Lesson 3
 
-### Focus on collective results rather than individual goals.
+### Focus on collective results rather than individual goals
 
 In a truly efficient team, members realize that the goal of the team is more important than individual gains. Take for example the story of Kathryn’s husband, a basketball coach. He had to drop one of his best players because that player was more concerned about how many points he scored than whether or not the team won the game.
 
@@ -65,7 +63,5 @@ So what kind of goals should a team make? There are two qualities of good team g
 ## Review
 
 *The Five Dysfunctions of a Team* is a powerful tool for anyone who works on a team. The fable makes it interesting and relatable, and the second half has useful ways to overcome the dysfunctions identified. I’m convinced that any team who learns how to avoid these dysfunctions will be amazing at what they do.
-
-## Who it’s for
 
 The 39-year-old manager who wants to find a way to help his team work together to make more sales, the 45-year-old soccer coach who needs a way to help her players be more concerned with winning the game than showing off their own skills, and anybody who works on a team.

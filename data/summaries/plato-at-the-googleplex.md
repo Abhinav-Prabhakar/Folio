@@ -20,7 +20,7 @@ What would Plato teach you if he just rang your doorbell today? Here’s an educ
 
 ## Lesson 1
 
-### You can google your way to answers to a lot of questions, but not all of them.
+### You can google your way to answers to a lot of questions, but not all of them
 
 What’s your gut reaction to not knowing something? Sure, google it. In a 2016 world, we have the entire knowledge of history in our pockets, and while Google is great for fact-checking, recipe-reading and news-updating, it has a tougher time answering some questions for us than others.
 
@@ -30,13 +30,13 @@ What’s more, **Google’s biggest advantage is also one of its greatest weakne
 
 For example, if you want answers about how to feed and take care of your horse, who would you rather go to: one, trained, certified, experienced horse trainer, or a crowd of 200,000 people, all of which know a little bit about horses?
 
-The truth is that the highest ranking answers to questions on Google might be solutions to problems that have worked for *a lot* *of people* – but it doesn’t mean they’ll work for *all people*.
+The truth is that the highest ranking answers to questions on Google might be solutions to problems that have worked for *a lot of people* – but it doesn’t mean they’ll work for *all people*.
 
 As great as Google’s answers are, there’s one thing you should never forget – to question them, like you’d do with all answers you’d get elsewhere too.
 
 ## Lesson 2
 
-### Education should lay a solid foundation for each of us, but then must adapt to us as individuals.
+### Education should lay a solid foundation for each of us, but then must adapt to us as individuals
 
 When do you think school stopped being useful for you? For me, I think it happened somewhere around 7th or 8th grade. After learning the rule of three to calculate percentages and being set up with basic English and Latin grammar, I would’ve been a lot better off if someone had given me a pen, told me to write, learn about whatever topic I like and hand me a business book.
 
@@ -50,7 +50,7 @@ Sadly, even today few school systems do this, so for now, it means educating you
 
 ## Lesson 3
 
-### Love is a pre-requisite for all human relationships – if you define it like Plato does.
+### Love is a pre-requisite for all human relationships – if you define it like Plato does
 
 Have you ever heard the term platonic love? It’s used to describe a loving relationship between friends that doesn’t involve sex or romance. Given the fact that he’s given credit by name, Plato obviously had a thing or two to say about love. However, what he didn’t want is to split it into two camps, like romantic vs. platonic love.
 
@@ -63,7 +63,5 @@ Love can even extend beyond people, for example you can be driven and motivated 
 ## Review
 
 Nothing like some good old-fashioned philosophy to get your mental gears spinning! Is philosophy dead? Ha! It’s more relevant than ever. I’m sure Rebecca Goldstein would agree 🙂
-
-## Who it’s for
 
 The 17 year old, who’s currently sitting through what she thinks to be the most boring history or philosophy class of all time, the 49 year old teacher, who hasn’t tried a new way of teaching in a long time, and anyone who recently got out of a relationship that didn’t work.

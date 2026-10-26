@@ -20,7 +20,7 @@ On the way to success, failure is inevitable, but how much you hate it? That’s
 
 ## Lesson 1
 
-### Build your life around systems, not goals.
+### Build your life around systems, not goals
 
 Adams first learned about systems from a man he sat next to on a flight. The man said systems had helped him go from employee to CEO, one in particular: going from job to job, always trying to find something better. It was simple enough and the more Adams thought about it, the more he preferred systems over goals in general. He says goals have two problems:
 
@@ -35,7 +35,7 @@ Goofs use goals, winners use systems.
 
 ## Lesson 2
 
-### Sample jobs in which you’re comfortable taking risks to find the best one.
+### Sample jobs in which you’re comfortable taking risks to find the best one
 
 We all have specific skills we’re good and bad at, but identifying those isn’t always easy. If you can’t think of certain hobbies from your past that you were obsessed with, and thus likely good at, Adams has an interesting question that might help you find them:
 
@@ -45,7 +45,7 @@ For example, public speaking is a big fear for most people, but maybe it’s eas
 
 ## Lesson 3
 
-### Use space and time to manage your energy.
+### Use space and time to manage your energy
 
 Adams doesn’t believe in finding your passion. He believes in finding your energy. It makes sense. As long as you stay energetic and motivated, it doesn’t matter how many iterations of failure you have to go through until you figure out what works, because you’ll enjoy life along the way.
 
@@ -62,7 +62,5 @@ If you can manage your energy well for long enough, you can fail at almost every
 ## Review
 
 Scott Adams is a fascinating man, definitely listen to a podcast with him some time. His most recent work is a book about Trump’s persuasion skills, he tweets a lot, and is an interesting thinker to bounce ideas back and forth with, even if you just do it on your own time.
-
-## Who it’s for
 
 The 25 year old business graduate, who’s pressuring herself to find a high-paying first job, the 39 year old leader in second tier, who thinks his career is at a dead end, and anyone who wants to make it as an artist.

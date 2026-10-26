@@ -26,7 +26,7 @@ I hope you’re looking forward to learning how to get the upper hand in busines
 
 ## Lesson 1
 
-### You’ll enjoy what you do and be more successful if you focus on trying to give your all to help others.
+### You’ll enjoy what you do and be more successful if you focus on trying to give your all to help others
 
 Do you ever feel like the harder you work the further away your dreams seem? If this is the case for you, then what you need is a mindset shift. It’s natural to want to be successful, but the way we look at how we get there is vital to making it actually happen.
 
@@ -40,7 +40,7 @@ But this principle works for the positive things in life, too. If you look for t
 
 ## Lesson 2
 
-### You can only make your product so good, but connecting with your customers has long-lasting positive effects.
+### You can only make your product so good, but connecting with your customers has long-lasting positive effects
 
 Alright so you know that focusing on giving is where it’s at, but what are the details of how this works? This is where Burg’s five laws of stratospheric success come in, the first of which is the law of value. This rule is all about helping your customers have an enjoyable and memorable experience with your work.
 
@@ -54,7 +54,7 @@ Giving and doing good to others reaps the same rewards coming back to you. It’
 
 ## Lesson 3
 
-### People would rather do business with someone who is authentic than a person that just wants to sell them something.
+### People would rather do business with someone who is authentic than a person that just wants to sell them something
 
 Do you remember the last time a salesperson accosted you outside of their store? It’s annoying to have to hear them drone on about how “their product is the best.” If you want to succeed in business you need to do the opposite of this and be yourself.
 
@@ -69,7 +69,5 @@ The moral of the story is when you talk with people, just be yourself! Letting y
 ## Review
 
 *The Go-Giver* is an excellent and inspiring book that looks at entrepreneurship from a better, more efficient perspective. As a business owner, I’ve seen these principles work for me already and I know how hard it is when I don’t apply them. I highly recommend everyone reads this to improve the effort they give at work, entrepreneur or not.
-
-## Who it’s for
 
 The 47-year-old salesman who has a difficult time closing sales and wants a way to improve, the 28-year-old who is considering going into business for herself that is curious to know what will make the biggest impact on her success, and anyone who wants to be successful in their work.

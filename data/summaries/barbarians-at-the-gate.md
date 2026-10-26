@@ -18,7 +18,7 @@ Let’s dive right in to take a closer look!
 
 ## Lesson 1
 
-### Wealthy people wanting to avoid taxes began leveraged buyouts, but big businesses can use them to get richer.
+### Wealthy people wanting to avoid taxes began leveraged buyouts, but big businesses can use them to get richer
 
 So what is a leveraged buyout, or LBO, really? When the 1980s began the term had been around for a while already. But the events of this decade made it a synonym of corporate greed. Originally, though, it was a way for rich people to pass on their wealth without it being taxed excessively.
 
@@ -34,7 +34,7 @@ If it sounds complicated, don’t worry, just know that it’s a way for rich pe
 
 ## Lesson 2
 
-### Countless people are hurt in LBO’s, but wealthy people like Ross Johnson, who use them to get wealthier, don’t care.
+### Countless people are hurt in LBO’s, but wealthy people like Ross Johnson, who use them to get wealthier, don’t care
 
 Let’s jump back a few decades to the 1950s now. Ross Johnson is just getting started in the corporate world at the bottom of the corporate ladder. But over time he climbed upward until he began trying all sorts of business deals, including LBO’s, to maintain his yuppie lifestyle.
 
@@ -48,13 +48,13 @@ These are common occurrences in leveraged buyouts, which left a wake of destruct
 
 ## Lesson 3
 
-### Many people made or broke their fortunes in the RJR Nabisco deal, but Johnson’s failure in it only led to a continually thriving career.
+### Many people made or broke their fortunes in the RJR Nabisco deal, but Johnson’s failure in it only led to a continually thriving career
 
 The most well-known deal that Ross was known to work with was that of RJR Nabisco. His antics throughout his career made many people dislike him, and his lack of concern for people was obvious to the board as the LBO came before them.
 
 Johnson’s outlook that everyone else was disposable ended up being the foundation of his downfall.
 
-This deal even became the poster child of corporate greed, which didn’t help his case. **The details of Johnson’s selfishness in the proposed buyout were blown wide open in one*New York Times*article about it.**
+This deal even became the poster child of corporate greed, which didn’t help his case. **The details of Johnson’s selfishness in the proposed buyout were blown wide open in one *New York Times* article about it.**
 
 A national torrent of criticism quickly followed. Not long afterward Johnson lost the bid to another company that promised to take care of the company and employee’s needs first.
 
@@ -65,7 +65,5 @@ Using his skills from his salesman years, his career continued to thrive. He lau
 ## Review
 
 *Barbarians At The Gate* is an interesting story for sure. I’m a little bit frustrated with the entire idea of leveraged buyouts because it’s primary purpose is to make rich people more money. The book is okay but I hope that we look at these sorts of greedy business deals as embarrassing things people used to do instead of thinking it’s a good idea to still do them.
-
-## Who it’s for
 
 The 54-year-old businessman who wants to learn how not to run his company, the 27-year-old who is thinking about starting their own company, and anyone that is fed up with corporate greed.

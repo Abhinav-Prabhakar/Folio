@@ -22,7 +22,7 @@ Are you curious to discover what Life After Google might be like? Let’s dive r
 
 ## Lesson 1
 
-### With massive servers to support it all. Google’s mechanism relies on big data and advertising.
+### With massive servers to support it all. Google’s mechanism relies on big data and advertising
 
 Googe’s broad scope of knowledge centers around big data.
 
@@ -38,7 +38,7 @@ Some in the tech world refer to these huge centers as “Siren Servers”. This 
 
 ## Lesson 2
 
-### We can realize a new age of online security with technologies such as bitcoin and blockchain.
+### We can realize a new age of online security with technologies such as bitcoin and blockchain
 
 In 2008 a mysterious man known as Satoshi Nakamoto revealed the first cryptocurrency. We all know the name well now-bitcoin. To fully understand it, we need to dive into an emerging online realm that author, George Gilder calls the cryptocosm.
 
@@ -69,7 +69,5 @@ According to economic blogger, Mike Kendall, bitcoin can’t become a standard b
 ## Review
 
 This author of *Life After Google* really seems to grasp how the future of technology can unfold over the next few years. Whatever is going to happen with Silicon giants like Google, Facebook and Amazon is going to be profound and it’s going to change the way of the world. What seems to drive economics today is information, and the way we harness that information will determine our future.
-
-## Who it’s for
 
 The 22-year-old economics major, the 34-year-old rig builder and bitcoin miner, and anyone else who’s paranoid about their Google history being used in the worst possible ways.

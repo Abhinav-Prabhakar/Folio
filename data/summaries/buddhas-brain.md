@@ -16,7 +16,7 @@ Prepared to tap into Buddha’s brain? Let’s neuroscience the heck out of your
 
 ## Lesson 1
 
-### One dart hurts enough. Don’t make your pain worse by dwelling on it.
+### One dart hurts enough. Don’t make your pain worse by dwelling on it
 
 There’s a great quote you might have heard, which is often accredited to Buddha, but whose origin is actually unknown.
 
@@ -34,7 +34,7 @@ Life throws enough darts at you as is, so stop throwing more at yourself, okay?
 
 ## Lesson 2
 
-### Quit the eternal rat race for more by practicing composure every day.
+### Quit the eternal rat race for more by practicing composure every day
 
 Have your parents ever told you to “keep your composure” when you were a kid? What does that even mean? Most of the time, we use it in a false context. When people say it, they often expect you to not act out your feelings.
 
@@ -48,7 +48,7 @@ You can practice true composure by noticing when you feel particularly good or b
 
 ## Lesson 3
 
-### Reduce the suffering in your life by not identifying with so many things.
+### Reduce the suffering in your life by not identifying with so many things
 
 What do buddhist monks and death-row prison inmates have in common? They let go of their sense of self. At both ends of the spectrum, ultimate enlightenment and inevitable death, letting go replaces all suffering with peace, fulfillment and acceptance.
 
@@ -65,7 +65,5 @@ Imagine taking a weekend to unclutter and ending up with 30% less than you had b
 ## Review
 
 I’ve totally run out of words, so all I’ll say is that the science + practical tips + examples of results make *Buddha’s Brain* a pre-mindfulness/post-mindfulness comparison with an included manual to go from A to B. Go get it!
-
-## Who it’s for
 
 The 22 year old athlete, who faces a lot of physical pain, the 41 year old housewife, who finds it hard to share feelings with her husband and anyone who has more than one phone.

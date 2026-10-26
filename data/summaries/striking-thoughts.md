@@ -22,11 +22,9 @@ Here are 3 of the most important lessons from his book so you too can live a ful
 
 Let’s discover some of Bruce Lee’s most striking thoughts!
 
-### Striking Thoughts Summary
-
 ## Lesson 1
 
-### To discover the big truths in your life, you must practice independent inquiry.
+### To discover the big truths in your life, you must practice independent inquiry
 
 After his involuntary thinking retreat, Bruce developed a deep appreciation of independent thought. He would forever reject dogma of any kind. In fact, when he developed Jeet Kune Do, his own martial arts philosophy, he never formalized it so each student would interpret it in their own way.
 
@@ -52,7 +50,7 @@ I love this story so much, I started a daily newsletter in its spirit. Bruce agr
 
 ## Lesson 3
 
-### When you are “like water,” you’re always where you’re meant to be, thanks to a special kind of balancing act.
+### When you are “like water,” you’re always where you’re meant to be, thanks to a special kind of balancing act
 
 The most famous variant of Bruce’s water metaphor is the one he shared on the Pierre Berton Show in 1971:
 
@@ -67,7 +65,5 @@ May these lessons guide you on your unique journey, and remember: Be water, my f
 ## Review
 
 *Striking Thoughts: Bruce Lee’s Wisdom for Daily Living* is one of my favorite books of all time. Bruce Lee the fighter is cool, but Bruce Lee the philosopher is profound. Both are worth learning from. For more Bruce Lee goodness, you can check out our list of his best quotes, my essay on his approach to learning, or subscribe to the *Empty Your Cup* newsletter!
-
-## Who it’s for
 
 The 17-year-old athlete who’s frustrated he’s not allowed into the big leagues yet, the 34-year-old accountant who has played her too safe for too long, and anyone who likes and wants to learn more about Bruce Lee.

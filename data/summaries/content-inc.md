@@ -20,7 +20,7 @@ If you’ve ever dreamed of starting a business, this is it. It’s free, in you
 
 ## Lesson 1
 
-### Pick just one platform initially and consistently show up.
+### Pick just one platform initially and consistently show up
 
 Sometimes I get emails from people, who pitch me their business idea and ask me to share it. 9 out of 10 times this happens, it’s someone approaching me cold. I’ve never heard their name and now I’m suddenly supposed to help them promote their stuff. All of my responses to these requests start with “I wish…”
 
@@ -38,7 +38,7 @@ So pick one platform and commit to a consistent publishing schedule. Just show u
 
 ## Lesson 2
 
-### Connect with your most loyal followers regularly via email, the list is your best asset.
+### Connect with your most loyal followers regularly via email, the list is your best asset
 
 It’s almost 2017, yet most big brands don’t even consider getting more email subscribers as a goal. This either shows a lack of awareness, or worse, a decision to use content marketing as a means of distribution, instead as a way of sincerely connecting with their customers and audiences.
 
@@ -50,7 +50,7 @@ The quickly growing numbers some businesses manage to pull off on social media m
 
 ## Lesson 3
 
-### Once you’ve established one channel well, diversify by spreading to others, but don’t do this too early.
+### Once you’ve established one channel well, diversify by spreading to others, but don’t do this too early
 
 One of the biggest reasons people never start content marketing is that they’re intimidated by the sheer size of successful people’s platforms. You look at someone who’s a contributor to Forbes, Entrepreneur, Inc. and Time, with 100,000 Twitter followers, 50,000 Facebook likes and a blog that has a million readers and think: how the hell am I supposed to be on all these channels, all at once?
 
@@ -67,7 +67,5 @@ Focus now, diversification later. That’s how it works, not the other way aroun
 ## Review
 
 Great primer about content marketing, you’ll still have to figure out a platform and how to create great content for yourself, but to grasp the principles of the, in my opinion, most powerful way of marketing (and potentially setting yourself free financially), *Content, Inc.* is the perfect read.
-
-## Who it’s for
 
 The 23 year old recent graduate, who’s in his first job, doesn’t like it, and can’t see himself doing this for another 40 years, the 59 year old vice president of marketing of a big company, who still spends money on billboards, and anyone who’s overwhelmed by social media.

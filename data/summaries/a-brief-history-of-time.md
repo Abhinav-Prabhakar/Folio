@@ -16,11 +16,9 @@ Here are the 3 things I’m personally taking away from it:
 
 Ready for some physics? Let’s go!
 
-### A Brief History of Time Summary
-
 ## Lesson 1
 
-### Theories can never be fully proven.
+### Theories can never be fully proven
 
 As children we’re all scientists. We constantly come up with theories, and then test them. For example as a toddler you might have had the theory that a glass will easily survive its fall from the kitchen table
 
@@ -47,7 +45,7 @@ Hawking loves the fact that theories can always be proven wrong in the future, a
 
 ## Lesson 2
 
-### Due to the constant speed of light, time is not fixed.
+### Due to the constant speed of light, time is not fixed
 
 If you’ve ever wondered what Einstein’s theory of relativity was all about, you’ve come to the right place.
 
@@ -63,7 +61,7 @@ That’s the reason why **time is relative** and why Mr. Einstein has become so 
 
 ## Lesson 3
 
-### Time can most likely only move forward, for 3 reasons.
+### Time can most likely only move forward, for 3 reasons
 
 Different times for different people is one thing, but how about time travel? Can time move backwards?
 
@@ -96,7 +94,5 @@ After all, it’s just a theory.
 ## Review
 
 Holy cow. If you want a book to wonder, marvel, think and scratch your head at, *A Brief History of Time* is the one for you. If you’re curious about the universe we live in, go read this book.
-
-## Who it’s for
 
 The 15 year old high schooler, whose favorite subject is physics, the 34 year old, who was always curious about space, but eventually gave up on physics, and anyone who wonders when looking at the stars.

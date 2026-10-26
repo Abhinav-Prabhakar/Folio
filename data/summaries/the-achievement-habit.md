@@ -22,7 +22,7 @@ Ready to become an achiever? Here we go!
 
 ## Lesson 1
 
-### Reasons are just another form of excuses, so stop looking for them.
+### Reasons are just another form of excuses, so stop looking for them
 
 Have you ever been late to a meeting? Of course you have, everyone has.
 
@@ -58,7 +58,7 @@ Know that most of the things you think are causally linked are really just corre
 
 ## Lesson 2
 
-### Every time you want to say “but” say “and” instead.
+### Every time you want to say “but” say “and” instead
 
 Reframing is one of Bernie’s big ideas in the book.
 
@@ -113,7 +113,5 @@ He calls the advice from his book “fuzzy guy stuff”, and I know what he mean
 There were lots of exercises and stories in the summary on Blinkist alone, I can’t wait to dive into the plethora of wisdom the book must hold.
 
 My tip would be to start with the summary and watch some of Bernie’s talks, then go to the book.
-
-## Who it’s for
 
 The 22 year old college student, who’s been meaning to tackle a big project, but hasn’t gotten around to it in 4 years of college, the 43 year old executive, who spends a lot of time at conferences, but feels her network of contacts is kind of shallow, and anyone who says “but” a lot.

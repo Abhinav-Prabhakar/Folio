@@ -22,7 +22,7 @@ Buckle your bootstraps, ‘cause we’re going on a wild ride!
 
 ## Lesson 1
 
-### After denying an engagement, Hall studied in Europe and persevered even after a horrible accident left her missing half a leg.
+### After denying an engagement, Hall studied in Europe and persevered even after a horrible accident left her missing half a leg
 
 Virginia Hall got her start as the daughter of a wealthy banker father and an ambitious socialite mother. Even though her father had a large inheritance, he squandered it. Her mom’s focus was to redeem her lost wealth through the marrying up of her daughter.
 
@@ -36,7 +36,7 @@ Virginia shot her foot and an amputation of it below the knee left her with a wo
 
 ## Lesson 2
 
-### Virginia wanted to help with the war efforts, and was denied many times before joining the Special Operations Executive, or SOE, almost by accident.
+### Virginia wanted to help with the war efforts, and was denied many times before joining the Special Operations Executive, or SOE, almost by accident
 
 With World War II unfolding, Virginia had to leave her post in Estonia. She fled to England, where she joined the women’s branch of the British Army and drove ambulances around France. In 1940, Paris was abandoned and Hitler’s troops took over. Germany held the occupation of the North. But the South remained a “free zone” that was run by a puppet regime.
 
@@ -48,7 +48,7 @@ When he heard about her previous experience and her longing to help France’s c
 
 ## Lesson 3
 
-### The experiences Hall had during World War II are fascinating, and she even helped prepare for D-Day.
+### The experiences Hall had during World War II are fascinating, and she even helped prepare for D-Day
 
 After training, Virginia was sent to southern France to create a secret network of resistance fighters. She created a valuable network of dozens of people and soon they were in business sabotaging the German army.
 
@@ -63,7 +63,5 @@ Her final mission was to work with the United States to prepare for the Allies t
 ## Review
 
 Whoa, that was a cool story! *A Woman Of No Importance* is the kind of action-packed historical book that makes me wonder when the movie is coming out! I don’t usually like history books, but this one did have me on the edge of my seat.
-
-## Who it’s for
 
 The 32-year-old history buff who would like to hear a lesser-known story about World War II, the 56-year-old that loves France and wants to know more of its history, and anyone who loves a good adventure.

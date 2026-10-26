@@ -20,11 +20,9 @@ Here are my 3 lessons from this timeless masterpiece:
 
 I hope you’re ready for a few lessons of history that have stood the test of time for ages. Tighten your time pouch, we’re about to get stingy where it counts!
 
-### On the Shortness of Life Summary
-
 ## Lesson 1
 
-### Life only seems short to those, who spend it chasing leisure, luxury and legacy.
+### Life only seems short to those, who spend it chasing leisure, luxury and legacy
 
 A good question to ask yourself, to determine if an activity is worthwhile, is this: *“If I did this for 24 hours straight, what would it amount to?”* If the answer is “nothing” or not much, then you know it’s one of the activities Seneca considers the trivialities that make life seem short, when it really isn’t.
 
@@ -40,7 +38,7 @@ I’m guilty of the last one sometimes. **Don’t spend your life preparing for 
 
 ## Lesson 2
 
-### Don’t spend your life based on other people’s vision.
+### Don’t spend your life based on other people’s vision
 
 > *A ship in harbor is safe, but that is not what ships are built for. ~John A. Shedd*
 
@@ -54,7 +52,7 @@ This “tossing about” happens in many ways: Some adjust course far too often,
 
 ## Lesson 3
 
-### What’s truly important in life can never be taken from you.
+### What’s truly important in life can never be taken from you
 
 Once you see past possessions, pastime and power, Seneca says you will find peace in the fact that true self-worth comes from within. You’re independent and self-reliant when you ground your thinking in the following two truths:
 

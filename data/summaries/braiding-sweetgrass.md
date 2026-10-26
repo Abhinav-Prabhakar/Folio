@@ -20,11 +20,9 @@ Here are the 3 most valuable lessons I’ve learned from this book:
 
 Ready to learn some lesser-known ideas about caring for our planet? Here we go!
 
-### Braiding Sweetgrass Summary
-
 ## Lesson 1
 
-### Native American culture emphasizes respect and care for nature.
+### Native American culture emphasizes respect and care for nature
 
 Kimmerer‘s experience growing up as a Native American in modern America was one of clashing cultures. It seemed the country and her tribe were at constant odds.
 
@@ -34,11 +32,11 @@ She gives an example of wild strawberries that grew in a field by her school. Sh
 
 But in Potawatomi culture, it is tradition to reciprocate gifts like this. So at the end of the season, she would return to the spot and find seedlings and prepare new plots for strawberries.
 
-The relationship should be like one between two people who care about each other. **They take care of each other not because they have to, but because they*want*to**. But Kimmerer saw that most people do not practice this kind of gift economy.
+The relationship should be like one between two people who care about each other. **They take care of each other not because they have to, but because they *want* to**. But Kimmerer saw that most people do not practice this kind of gift economy.
 
 ## Lesson 2
 
-### We need to start working in harmony with nature if we want it to be sustainable.
+### We need to start working in harmony with nature if we want it to be sustainable
 
 Native Americans understand and respect the cyclical nature of life around them. A woman will start out in the *Way of The Daughter,* where she will learn about the world around her from her parents. Then she enters the *Way of the Mother,* where she passes her knowledge on to the next generation. Finally, she will go to the *Way of the Teacher,* where she gives back to the community and helps parents.
 
@@ -52,13 +50,13 @@ Many tribes practice the Honorable Harvest, where they take only what they need 
 
 ## Lesson 3
 
-### Teaching the next generation about respect and gratitude is key in protecting Earth’s future.
+### Teaching the next generation about respect and gratitude is key in protecting Earth’s future
 
 In the face of climate change, it’s essential that we change our way of thinking. And because the future of the planet lies in the hands of the next generation, it’s our responsibility that they grow up with a sense of gratitude for nature.
 
 One way the author thinks we can instill this way of thinking in the next generation is to have a pledge thanking Mother Nature.
 
-**Native American schools have already done this in what they call a*Thanksgiving Address*where they thank Mother Earth for providing us with water, food, and shelter.**
+**Native American schools have already done this in what they call a *Thanksgiving Address* where they thank Mother Earth for providing us with water, food, and shelter.**
 
 This could help them start each new day with gratitude for what the Earth gives rather than just seeking to consume more. It could even help encourage them to give back and try to change the world.
 
@@ -67,7 +65,5 @@ There is so much hope in the next generation and what they can do if they feel m
 ## Review
 
 *Braiding Sweetgrass* is an excellent book. My grandpa has a lot of good relationships with Native American people and although I don’t know many personally, I have a lot of respect for them based on his stories. I think we can and should learn a lot from their ways of seeing and taking care of the world!
-
-## Who it’s for
 
 The 22-year-old college student who is in a botany class, the 49-year-old environmentalist who wants more ways to help the planet, and anyone that enjoys a more holistic look at science.

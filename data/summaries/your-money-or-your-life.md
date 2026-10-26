@@ -18,11 +18,9 @@ For now, here are my three favorite lessons from the book:
 
 If you‘re ready to transform your relationship with money, keep on reading, as we’ll explore each lesson in detail below!
 
-### Your Money or Your Life Summary
-
 ## Lesson 1
 
-### The first step towards financial independence is to calculate your net worth, your expenses, and your earnings to the last detail.
+### The first step towards financial independence is to calculate your net worth, your expenses, and your earnings to the last detail
 
 Any good plan has a foundation or a starting point. If you want to improve your relationship with money, you’ll first have to find out how much of it you’re spending.
 
@@ -36,7 +34,7 @@ Another important step in this process is to categorize your spending. Create se
 
 ## Lesson 2
 
-### Build an evaluation system to assess if the life energy spent working is worth the satisfaction received.
+### Build an evaluation system to assess if the life energy spent working is worth the satisfaction received
 
 With budgeting comes a clearer record of your income and expenses. While it gets easier to track your expenditures, you get a fresh perspective on something bigger than that. Your life energy-to-satisfaction ratio. Let me explain!
 
@@ -48,7 +46,7 @@ Studies suggest that people who focus heavily on money, positions, or convention
 
 ## Lesson 3
 
-### Let your money make more money for you while you focus on other aspects of your life.
+### Let your money make more money for you while you focus on other aspects of your life
 
 One of the last parts of this book is about investing, which implies placing your money in assets such as bonds, stocks, or even real estate, to produce more income in the long run. So, where do you start? People often think about investing as something risky, but that’s just because they don’t know how to do it.
 
@@ -59,7 +57,5 @@ Essentially, you’ll want to opt for the safest securities out there, especiall
 ## Review
 
 *Your Money or Your Life* explores the idea of money from a broader perspective, starting with the importance of calculating your net worth, all the way to investing your spare funds. Reading this book is a must for anyone looking to reach financial freedom.
-
-## Who it’s for
 
 The 35-year-old person who wants to start being more money-conscious and save for retirement. The 23-year-old graduate who has a great interest in finance and investment opportunities. Or the 28-year-old who wants to take charge of their financials to live a more meaningful life.

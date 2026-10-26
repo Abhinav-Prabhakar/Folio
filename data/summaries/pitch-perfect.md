@@ -18,7 +18,7 @@ You’re just a few simple tips away from improving your charisma and persuasive
 
 ## Lesson 1
 
-### It’s not what you say that impacts people, but how you say it that makes a real difference for better or worse.
+### It’s not what you say that impacts people, but how you say it that makes a real difference for better or worse
 
 So what does it mean to be *Pitch Perfect*? The concept is all about conveying the right message to the right person with the right timing and in the right way. Getting the sweet spot here is necessary for success at home and in your job.
 
@@ -32,7 +32,7 @@ This is why it’s so important to get things right on the first try. If you wan
 
 ## Lesson 2
 
-### If you want to be confident and avoid embarrassment in your presentations and conversations, talk slower.
+### If you want to be confident and avoid embarrassment in your presentations and conversations, talk slower
 
 A lot of people talk without thinking. I know it’s gotten me in plenty of trouble! It’s easy to get nervous and speak quickly, but you’ll make a lot of mistakes. And the problem is, once you’ve blurted out something wild, you can’t take it back.
 
@@ -52,7 +52,7 @@ and then, after a long pause and in almost a whisper, he finished:
 
 ## Lesson 3
 
-### Spontaneity can be awkward, but preparation will help you avoid this.
+### Spontaneity can be awkward, but preparation will help you avoid this
 
 One night Abraham Washington, a professional wrestling manager, commented on wrestler Titus O’Neil’s match. He stated: He “was like Kobe Bryant at a hotel in Colorado … He’s unstoppable.” But Kobe was currently a suspect for raping a woman at a Colorado hotel. Washington’s lack of preparation and talking without thinking got him fired.
 
@@ -67,7 +67,5 @@ One way of doing this is by role-playing with friends and family. I’ve had a l
 ## Review
 
 Whoa, this book has a ton of great advice on communication skills! *Pitch Perfect* is a great book that will transform the way you think about getting your message across. Whether you’re wanting to improve at casual conversation or trying to get your employer to give you a raise, this book is helpful for all situations!
-
-## Who it’s for
 
 The 31-year-old engineer who feels like they’re always sharing stories with their coworkers that fall flat, the 53-year-old that gives powerpoint presentations in meetings often but feels like they’re boring, and anyone who wants to improve their conversation skills.

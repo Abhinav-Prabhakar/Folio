@@ -24,7 +24,7 @@ Let’s dive right in and get learning!
 
 ## Lesson 1
 
-### The Goodness Pyramid is the key to keeping good people around, and it starts with truth.
+### The Goodness Pyramid is the key to keeping good people around, and it starts with truth
 
 The first key point to understand is that goodness comes in two types. You have goodness in competency, which is what most employers focus on when hiring.
 
@@ -46,7 +46,7 @@ The author teaches three components of truth, including:
 
 ## Lesson 2
 
-### A crucial piece of goodness is compassion, and you need to be open, empathetic, and generous to develop it.
+### A crucial piece of goodness is compassion, and you need to be open, empathetic, and generous to develop it
 
 Truth is important, but it’s not everything. It can be cold and hard sometimes, and without some additional guiding principles, this can cause problems. That’s where compassion comes in as the middle of the Goodness Pyramid to provide balance.
 
@@ -64,7 +64,7 @@ To develop compassion, utilize these three traits:
 
 ## Lesson 3
 
-### Wisdom, love, and respect are the core components of wholeness, which is at the peak of the Goodness Pyramid.
+### Wisdom, love, and respect are the core components of wholeness, which is at the peak of the Goodness Pyramid
 
 Have you ever actually stopped to think about why people say “life is a marathon, not a sprint?” It’s a common saying, and we know that we have to stay consistent to win, but “life” means a lot of different things to everybody.
 
@@ -83,7 +83,5 @@ Wisdom comes last and is simply putting the knowledge gained through experience 
 ## Review
 
 I really liked *Good People*, it was refreshing and gave some really great tips. This isn’t your typical business and leadership advice, and I think it’s needed in a world that’s shifting more to prioritizing personal values over profits. If you’re a leader of any kind, you’ve got to read this book!
-
-## Who it’s for
 
 The 37-year-old mentor that wants to know how to help those he leads to reach their full potential, the 55-year-old executive who is wanting to make their work environment a more people-centered place, and anyone that wants to become a better person.

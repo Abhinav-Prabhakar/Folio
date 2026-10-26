@@ -20,7 +20,7 @@ Now, let’s explore these lessons in depth and learn more about American cultur
 
 ## Lesson 1
 
-### One of America’s leading figures was highly inspired by Roman emperors.
+### One of America’s leading figures was highly inspired by Roman emperors
 
 It is often the Greek philosophy and the Greek thinkers that occupy the first spots in any history debate or at an elite table. Greek ideologies shaped the world as we know it, paved the way for democracy, and shaped ideologies forever.
 
@@ -32,7 +32,7 @@ Washington strived to become such a figure and take America to the highest forms
 
 ## Lesson 2
 
-### The founding fathers of America found inspiration in Roman and Greek ways of thinking.
+### The founding fathers of America found inspiration in Roman and Greek ways of thinking
 
 The founders believed that the democratic form of government found in ancient Greece and Rome was an ideal model for America, which had just broken free from Great Britain. They also wanted to ensure that the United States would be able to withstand any future threats from European powers.
 
@@ -44,7 +44,7 @@ In fact, Epicurus had a vision of life that Jefferson shared profoundly. We can 
 
 ## Lesson 3
 
-### The leading figures of America saw radical changes from one mandate to the other.
+### The leading figures of America saw radical changes from one mandate to the other
 
 The early nineteenth century marked a time of great change in American culture. The Enlightenment gave way to Romanticism, and classicism was replaced by a rather rational way of viewing things.
 
@@ -61,7 +61,5 @@ In *First Principles*, Thomas Ricks explains how Greek and Roman philosophers al
 In ancient philosophy, it was only through hard work and constant vigilance that man could be made virtuous enough to live freely and happily. This notion is closely linked with different waves of culture that America had experienced through its shaping process.
 
 The book manages to examine how America’s Founding Fathers used classical philosophy in their own political theory. The essays address topics such as Jefferson’s views on slavery, Washington’s influence on economic policy, and Adams’ role in shaping foreign policy.
-
-## Who it’s for
 
 The 30-year-old historian who enjoys a good read, the 50-year-old republican who wants to extend their knowledge in the field of American history, or the 45-year-old person who wants to find out more about the lives and views of the Founding Fathers of America.

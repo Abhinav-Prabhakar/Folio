@@ -18,7 +18,7 @@ Are you interested in learning more about what these lessons have to offer? If s
 
 ## Lesson 1
 
-### Subject your body to high-intensity workouts to achieve better results in less time.
+### Subject your body to high-intensity workouts to achieve better results in less time
 
 There are people who hit the gym on every occasion, even as much as five times per week, and then there are people who train half that amount and achieve the same results. Why is that? Well, as science reveals, more is not always better. Naturally, we are inclined to think that a large amount of exercise will help us reach our fitness goals.
 
@@ -28,7 +28,7 @@ Instead, conducting rigorous body workouts that engage our muscles better is mor
 
 ## Lesson 2
 
-### Learn about the Big Five workout routine to simplify and upgrade your training.
+### Learn about the Big Five workout routine to simplify and upgrade your training
 
 Oftentimes, people tend to overcomplicate their workout routines, in hope that they’ll achieve dramatic results in less time. However, when it comes to your diet and your training, simple is better. Essentially, you’ll need five resistance training moves and a few machines to achieve your fitness goals. In other words, you’ll need to practice the Big Five.
 
@@ -46,7 +46,7 @@ Most importantly, don’t stop after you feel comfortable. In time, you’ll dev
 
 ## Lesson 3
 
-### Cardio is overrated, so work on building your muscle mass instead.
+### Cardio is overrated, so work on building your muscle mass instead
 
 Losing weight can be challenging. There’s many factors to consider, from your metabolism rate, medical conditions you may have, to the basic stuff, like your daily calorie intake in relation to the exercises you perform. The bad part is that it’s easy to indulge yourself and overeat large amounts of calories, while it’s incredibly difficult to lose them through exercise alone.
 
@@ -57,7 +57,5 @@ As you build muscle, your body requires more energy to maintain your muscle mass
 ## Review
 
 If you’re the type of person that relies on data and facts, and not advice from a friend when it comes to fitness and sports knowledge, *Body By Science* is the book for you. It offers valuable advice on how to kickstart your fitness journey and get the most out of your workouts. All this without having to rely on cardio and endless training routines to see results. By working out properly and following scientific methods of reducing fat and building muscle, you can accelerate your fitness journey and improve your overall health.
-
-## Who it’s for
 
 The 23-year-old gym enthusiast who wants to build more muscle and a healthier body, the 30-year-old personal trainer who wants to create better training programs for their clients, or the 37-year-old person who just set a new fitness goal.

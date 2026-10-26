@@ -20,7 +20,7 @@ Are you willing to explore these lessons in detail and reveal some interesting f
 
 ## Lesson 1
 
-### You may not be aware of it, but you are probably over-protecting your children.
+### You may not be aware of it, but you are probably over-protecting your children
 
 A parent’s job is to provide their children with a safe space for development and growth. But how can one tell when it gets too safe? Doing too much of a good thing is also known as *helicopter parenting*, which implies being a parent that constantly supervises and gets involved in their children’s life, which will in turn make them dependent and irresponsible adults later on.
 
@@ -32,7 +32,7 @@ If your kid has other natural inclinations than what you expected, it’s better
 
 ## Lesson 2
 
-### Helicopter parenting leads to a loss of life skills, which in turn causes psychological problems.
+### Helicopter parenting leads to a loss of life skills, which in turn causes psychological problems
 
 Unfortunately, being an overprotective parent does more harm than good in the long run. If a child grows up thinking that their parents will make their problems go away and solve any inconvenience that may occur, as soon as the real world throws a real life challenge at them, they’ll freak out. Sadly, parents can’t always be around when life gets hard, so the people that grew up with them feel as if life is unfair to them compared to their peers.
 
@@ -42,7 +42,7 @@ Therefore, parents who overdo their tasks as their kid’s protectors and raise 
 
 ## Lesson 3
 
-### Balance playtime and a good amount of skill learning in your kid’s schedule.
+### Balance playtime and a good amount of skill learning in your kid’s schedule
 
 Playtime is a necessity in every child’s life. When a child spends unstructured time playing and simply exploring the world, testing different hypotheses about what works and what doesn’t, and discovering nature, their mind develops to a great extent. During this time, it’s important that the parent doesn’t interfere too much, as it can distract the child and alter the quality of their playtime.
 
@@ -53,7 +53,5 @@ However, remember that there’s a limit to how much a child should play, as if 
 ## Review
 
 *How to Raise an Adult* steps in to help all parents get the hang of what great parenting implies, and offers them valuable pieces of advice on how to raise responsible, integrated adults in the society. By touching on subjects like overparenting, building skills and competences in the child, and helping them discover their own path in life, the author managed to create an easy-to-read handbook for parents. When reading this piece, one must leave out all subjectivity and be open to constructive criticism, hence change what’s there to change and become a better parent for their children.
-
-## Who it’s for
 
 The 30-year-old parents who are trying to better their parenting skills, the 32-year-old single mother who wants to learn how to build the best life for her children, or the 45-year-old worker at the orphanage who wants to learn how to raise children the best as they can.

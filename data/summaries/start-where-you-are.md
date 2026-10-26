@@ -20,7 +20,7 @@ Are you excited to find out how to have more peace and calm in your life? Let’
 
 ## Lesson 1
 
-### You’ll be happier when you learn to cherish the little moments in life and stop being so serious.
+### You’ll be happier when you learn to cherish the little moments in life and stop being so serious
 
 Do you ever get bogged down by everything that you think you have to do? Between promises to others and ourselves, it’s easy to get trapped in the stress of expectations.
 
@@ -36,7 +36,7 @@ You might try switching up your routine, for example. Some of my favorite memori
 
 ## Lesson 2
 
-### Emptiness is a good thing and can help you with many aspects of life you might not think of.
+### Emptiness is a good thing and can help you with many aspects of life you might not think of
 
 In Buddhism, the ultimate spiritual goal is nirvana. One translation of this word is “emptiness.” To those living in the West, this might seem like a bad thing, but it can actually be really good for you.
 
@@ -52,7 +52,7 @@ The other welcomed the emptiness and left this life in peace.
 
 ## Lesson 3
 
-### Stop getting stuck in your stories and see that it’s okay to look foolish if you want to have a better life.
+### Stop getting stuck in your stories and see that it’s okay to look foolish if you want to have a better life
 
 Whether you like it or not, you’re telling yourself a story about who you are and what you’ll do and not do. But your attachment to these tales, including where and how you grew up and your personality, is holding you back.
 
@@ -67,7 +67,5 @@ But it all changed when he went on a meditation retreat. Juan was so moved to te
 ## Review
 
 *Start Where You Are* is an excellent book that I highly recommend. I’ve read other stuff by Pema Chödrön and I love the ability she has to help me feel calmer just by her writing! Although I already had an understanding of meditation, this book helped me see some new ways of practicing it in everyday life that I’m excited to try out!
-
-## Who it’s for
 
 The 56-year-old manager who has anger issues and wants to change but thinks they’ll be this way forever, the 38-year-old father that struggles with getting angry with his kids, and anyone that wants to have a more peaceful and fulfilling life.

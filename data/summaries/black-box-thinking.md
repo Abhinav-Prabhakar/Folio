@@ -20,7 +20,7 @@ Are you ready to make failure your friend? Let’s do this!
 
 ## Lesson 1
 
-### The only thing we hate more than making mistakes is admitting them.
+### The only thing we hate more than making mistakes is admitting them
 
 What’s worse than forgetting to send off your monthly status report to your biggest client? Having to show up the next day and admit it to your boss.
 
@@ -36,7 +36,7 @@ Admitting mistakes is tough, but it’s the only way to prevent making even wors
 
 ## Lesson 2
 
-### Treat all of your ideas as hypotheses so you can look for opposing evidence.
+### Treat all of your ideas as hypotheses so you can look for opposing evidence
 
 So how can you make it easier to admit your mistakes?
 
@@ -50,7 +50,7 @@ Seek opposing evidence instead of confirmation, so you can improve your hypothes
 
 ## Lesson 3
 
-### Change your relationship with failure to a positive one so you’ll stop avoiding it.
+### Change your relationship with failure to a positive one so you’ll stop avoiding it
 
 If being successful means living and dealing well with failure, then a positive relationship with mistakes is a precondition for success.
 
@@ -65,7 +65,5 @@ That’s a loser’s attitude and you know it. So try to see failure in a more p
 *Black Box Thinking* goes one level deeper on deliberate practice and explains how you can actually make that practice work for yourself. For this reason alone, I can recommend it, because as many books as there are promoting the idea of deliberate practice, as little are there about actually making it work.
 
 Matthew Syed knows his stuff, go for it!
-
-## Who it’s for
 
 The 15 year old girl, who doesn’t tell her Mum about her bad grades, the 33 year old political campaign manager, who’s trying to hush up his candidate’s mistakes, and anyone who recently found out an opinion they held for a long time was wrong.

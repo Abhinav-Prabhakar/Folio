@@ -16,13 +16,11 @@ For today’s 3 lessons from the book, I curated some of Kelly’s best ideas ar
 
 Let’s get some hard-won life advice from someone who’s been around the block!
 
-### Excellent Advice for Living Summary
-
 ## Lesson 1
 
-### Timing is more important than time, which is limited but plentiful — and usually on your side.
+### Timing is more important than time, which is limited but plentiful — and usually on your side
 
-Generally, Kelly believes the *passage* of time is on your side. Tim *ing*, however, is more fickle.
+Generally, Kelly believes the *passage* of time is on your side. Tim*ing*, however, is more fickle.
 
 Here are his 7 best ideas around timing:
 
@@ -48,7 +46,7 @@ And here are 7 more around the passage of time:
 
 ## Lesson 2
 
-### Money is overrated both before and after you have it.
+### Money is overrated both before and after you have it
 
 Kelly’s advice on retirement echoes his attitude towards time: The best way to invest is to buy and hold, because “average returns, maintained for above-average periods of time will yield extraordinary results” — “but no one wants to get rich slow.”
 
@@ -74,7 +72,7 @@ Beyond that, Kelly mostly believes money is overrated both before…
 
 ## Lesson 3
 
-### Happiness is about presence, giving, and doing things that matter.
+### Happiness is about presence, giving, and doing things that matter
 
 If you donate 10% of your income, the loss of that purchasing power is minor compared to the extra 110% in happiness, Kelly believes. A good way to start giving? Pretend you’re gifting things when you’re lending them.
 
@@ -93,7 +91,5 @@ Keep going with the flow, and learn to see what’s there more clearly than what
 ## Review
 
 *Excellent Advice for Living* is tough to summarize but amazing to read. Seven decades of hard-won life lessons are nothing to scoff at. If you browse the book for yourself, you’ll find plenty of other patterns and clusters of useful advice for your unique situation right now, and that alone makes it a book worth placing on your coffee table.
-
-## Who it’s for
 
 The 15-year-old who’s just emerging from childhood into the world of adultness, the 29-year-old who feels lost in her career, and anyone who enjoys pithy sayings and inspirational quotes.

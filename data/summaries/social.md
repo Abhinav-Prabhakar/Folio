@@ -20,7 +20,7 @@ Ready to go? Let’s get learning!
 
 ## Lesson 1
 
-### Social pain is as real as physical pain because our brains are wired to make social connections.
+### Social pain is as real as physical pain because our brains are wired to make social connections
 
 Do you remember the first time someone rejected you? Maybe it was your first crush or someone you *thought* you were best friends with on the playground. Whatever the situation was, you probably remember how crushed you were.
 
@@ -34,7 +34,7 @@ Social pain can be so physically real that it is, in fact, possible to die of a 
 
 ## Lesson 2
 
-### Understanding what other people think and feel help us in our social endeavors.
+### Understanding what other people think and feel help us in our social endeavors
 
 Being able to cooperate with other people is all but essential to our success as humans. While some people may do better at this than others, most humans have the capability to work together, and to a certain point read each other’s minds.
 
@@ -50,7 +50,7 @@ This goes to show that the tendency to mentalize is very powerful.
 
 ## Lesson 3
 
-### If you want to be happy and productive, be kind, not rich.
+### If you want to be happy and productive, be kind, not rich
 
 What is the key to happiness? Surprise, or maybe not so surprising, it’s not money. Science shows that social factors contribute significantly to not just our happiness but our well-being too. Numerous studies have shown the connection between marriage and charity work to overall happiness. **One study showed that people who volunteer once a week had as significant of an increase in well-being as those whose salary grew from $20,000 to $75,000 a year.**
 
@@ -63,7 +63,5 @@ To them, social recognition was worth more than the extra money. Because sociali
 ## Review
 
 *Social* was eye-opening for me because it pointed out how so much of what we do is just to make social connections. And this drive for social connections isn’t just for continuing the species, it is essential to our success, well-being, and happiness. Impressively, it’s full of current studies not just from scientists in the field but studies conducted by Lieberman himself. If you want a convincing and fascinating explanation of how and why we are such social creatures, look no further.
-
-## Who it’s for
 
 The 22-year-old studying psychology, the 54-year-old manager trying to find ways to motivate employees, anyone curious about the origins and reasons for our sociality.

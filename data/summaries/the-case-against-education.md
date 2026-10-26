@@ -18,7 +18,7 @@ Are you ready to have your mind opened to some unorthodox ideas? Here we go!
 
 ## Lesson 1
 
-### School doesn’t teach you much that is relevant to real life.
+### School doesn’t teach you much that is relevant to real life
 
 Taking a physics class as part of a Civil Engineering degree doesn’t sound so crazy, right? But what if the subject matter focuses on light and relativity? I had this very experience and when I asked the dean about it in my exit interview before graduating he just told me that it was required for them to be accredited.
 
@@ -34,7 +34,7 @@ In other words, a college degree does nothing to prevent you from using illogica
 
 ## Lesson 2
 
-### Graduating from college signals to employers that you’re a hard worker, but it won’t turn you into a diligent person.
+### Graduating from college signals to employers that you’re a hard worker, but it won’t turn you into a diligent person
 
 If you get a bachelor’s degree you earn more money. You learned a lot and developed new skills in school so you’re more valuable to employers, right?
 
@@ -44,7 +44,7 @@ But it doesn’t build those attributes.
 
 When economists try to explain why graduates make more, they use a flawed system called human capital theory. This is the idea that the classroom trains you to be a better employee by giving you those skills which you didn’t have before.
 
-A more accurate way is what’s known as signaling. **In this view, employers will pay more if you have a college diploma because it’s a signal that you have*preexisting*profitable traits like diligence, obedience, and intelligence.**
+A more accurate way is what’s known as signaling. **In this view, employers will pay more if you have a college diploma because it’s a signal that you have *preexisting* profitable traits like diligence, obedience, and intelligence.**
 
 In other words, school doesn’t give you those skills, it only proves that you already had them in the first place.
 
@@ -54,7 +54,7 @@ Although the discipline is unrelated, the wages are still higher because it’s 
 
 ## Lesson 3
 
-### To fix education we need to reform the way it’s done and rethink the way we see work.
+### To fix education we need to reform the way it’s done and rethink the way we see work
 
 If you’re like me, you probably didn’t like how poorly school prepared you for the real world. All of those useless classes just amounted to wasted time and money when it came time to actually make a living on what you learned.
 
@@ -73,7 +73,5 @@ According to the author we should adjust child labor laws so kids can get more e
 ## Review
 
 Well so much for the master’s degree that I just finished! Not really though, I think that going to college is still the best option for most people just because this social structure is still ingrained into society. I agree with a lot of what *The Case Against Education* teaches, it did miss a few important truths that affect the real-life usefulness of these principles.
-
-## Who it’s for
 
 The 19-year-old who is considering college, the 43-year-old high school teacher that wants a new perspective on education, and every politician that has the power to make improvements to this inefficient and outdated system.

@@ -18,7 +18,7 @@ Ready to discover some exciting new methods that will transform your goals and y
 
 ## Lesson 1
 
-### Focus on the essentials, only those things that will have the most impact, when setting goals.
+### Focus on the essentials, only those things that will have the most impact, when setting goals
 
 Which would you rather have, a lot of peaches that are just okay, or a few of the most giant, juicy, and sweet peaches you’ve ever had?
 
@@ -36,7 +36,7 @@ Their initial ambiguous goal was to expand “human knowledge of phenomena in th
 
 ## Lesson 2
 
-### You’re more likely to stay motivated toward achieving your goal if you set up your tracking system correctly and keep score.
+### You’re more likely to stay motivated toward achieving your goal if you set up your tracking system correctly and keep score
 
 So the first discipline focuses on what your goals should be. Disciplines two and three describe how you should keep score of your goals in a way that leads to success.
 
@@ -52,7 +52,7 @@ Your business might set a WIG to boost production by 20% before the end of the y
 
 ## Lesson 3
 
-### Accountability is the holy grail of following-through with goals.
+### Accountability is the holy grail of following-through with goals
 
 This last discipline is a powerful one that is at the core of improving the execution process. It’s also the best way to help yourself or your team commit to long-term goals.
 
@@ -79,7 +79,5 @@ Read full summary on Blinkist >>
 Free Preview >>
 
 Learn more about the author >>
-
-## Who it’s for
 
 The 58-year-old CEO who has a hard time helping his employees capture the company vision and work toward it, the 27-year-old that has struggled with goal-setting her whole life and wants to finally learn how to change, and anyone that would like to discover how to execute better in order to achieve their dreams.

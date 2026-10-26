@@ -40,7 +40,7 @@ There are many more ways in which people harm animals just to make the meat busi
 
 ## Lesson 2
 
-### The mass production of meat poses a threat to the consumers’ health.
+### The mass production of meat poses a threat to the consumers’ health
 
 The unethical aspects of modern meat production are at the forefront of Foer’s book – but they are not the only reasons you should rethink your meat consumption. If you care about your own health, there are things to consider, too.
 
@@ -56,7 +56,7 @@ Because many of them can transmit from animals to humans – this puts us at a h
 
 ## Lesson 3
 
-### Animal farming in its current form destroys the global ecosystem on an unimaginable scale.
+### Animal farming in its current form destroys the global ecosystem on an unimaginable scale
 
 When talking about climate change and other environmental problems, we are used to blaming most of them on fossil fuels or consumer choices such as “too many cars.”
 

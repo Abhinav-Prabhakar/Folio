@@ -22,7 +22,7 @@ Grab your pruning shears and let’s learn how to cut away the things that keep 
 
 ## Lesson 1
 
-### Focus on your goals to help yourself prune those things that are holding you back from reaching your full potential.
+### Focus on your goals to help yourself prune those things that are holding you back from reaching your full potential
 
 Have you ever pruned a tree or bush? It seems strange to cut something back but is actually remarkable when you think about the purpose. We prune things to help them grow more healthy, vibrant, and beautiful. A rose bush, for example, will grow healthier and more colorful when pruned properly.
 
@@ -34,7 +34,7 @@ One additional tip for making endings easier is to see them as good and natural 
 
 ## Lesson 2
 
-### Make it easier to start changing your life by getting the urgency that comes from looking hard at your current circumstances.
+### Make it easier to start changing your life by getting the urgency that comes from looking hard at your current circumstances
 
 The reason endings are so difficult is that they require us to change. We’d like to stay in our comfort zones, making improvements only when completely necessary. We either need the fear of continuing forward or the opportunity of something greater to push us.
 
@@ -48,7 +48,7 @@ What does it feel like to be where you’re at right now? Take some time to real
 
 ## Lesson 3
 
-### Overcome hurdles to breaking off relationships by setting standards and realizing what you hope will happen after the separation.
+### Overcome hurdles to breaking off relationships by setting standards and realizing what you hope will happen after the separation
 
 Ending relationships is particularly difficult. Most of us are more in love with the idea of being in love than with the people we think we’re in love with. It’s easy to stay comfortable in what we know, even if that is bringing us down. But sometimes, even what seem like the best relationships, must come to an end.
 
@@ -63,7 +63,5 @@ Decide in advance what you want to say and be clear on your desires. If the rela
 ## Review
 
 *Necessary Endings* really inspired me to take action on some changes I want to make right now. I’m confident that it will have the same motivational power for you as well. This book is a must read for everyone!
-
-## Who it’s for
 
 The 34-year-old wife in an abusive relationship who wants the confidence to break her way out of it, the 56-year-old entrepreneur who feels stuck but knows they need to make some changes in their business, and anyone who could use some encouragement to improve their life.

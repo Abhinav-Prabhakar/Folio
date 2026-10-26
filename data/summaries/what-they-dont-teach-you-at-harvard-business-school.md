@@ -20,7 +20,7 @@ Let’s take a walk on the path where others have been and learn the secrets to 
 
 ## Lesson 1
 
-### Glean insights from your business colleagues by listening and paying close attention.
+### Glean insights from your business colleagues by listening and paying close attention
 
 When first starting up a business it’s very easy to be quickly consumed at the onset by numbers and growth. It can become obsessive. But it’s really more about people, isn’t it?
 
@@ -32,7 +32,7 @@ If you can be aware of these multiple fronts, you’ll know there’s much more 
 
 ## Lesson 2
 
-### An unpleasant tone in someone’s voice or a feeling of discomfort can be useful tools.
+### An unpleasant tone in someone’s voice or a feeling of discomfort can be useful tools
 
 Imagine that you’re on the verge of closing a deal. Everything seems to be coming together nicely and you’re just about to sign off. All of the persuasion and negotiating have finally paid off. It’s not uncommon at this point as you’re about to clinch the deal, that you get that feeling that something is a bit off. You can’t quite put your finger on it, but something just isn’t sitting well with you.
 
@@ -44,7 +44,7 @@ It could be as slight as the tone in someone’s voice or maybe their posture or
 
 ## Lesson 3
 
-### Be sure to allocate time for activities and playtime in your schedule – read, exercise or just decompress.
+### Be sure to allocate time for activities and playtime in your schedule – read, exercise or just decompress
 
 Too many executives seem to always be on the move, closing deals and running around after new business. Many of them leave little room for hobbies, playtime or just taking some time to relax and power down.
 
@@ -59,7 +59,5 @@ This will eventually become part of your routine. In the end, this management ad
 ## Review
 
 I thought *What They Don’t Teach You At Harvard Business School* was just okay. It’s true that business schools can’t possibly teach you everything that you will encounter in the real world of business. As I read through the chapters, I found myself often thinking that many of these lessons really apply to all life in general, not just in the business realm. I’ve never been to business school, but don’t we regularly interact with people where these lessons will apply? I found much of the material common sense and intuitive for anybody who deals with people day-to-day. Still, there are some good reminders for us.
-
-## Who it’s for
 
 The 22-year-old college graduate with her sights set on an advanced degree in business, the 40-year-old entrepreneur looking to launch a new product line, and anybody who deals regularly with the human animal.

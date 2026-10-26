@@ -20,7 +20,7 @@ Ready to end the information madness? Let’s get bit literate!
 
 ## Lesson 1
 
-### Your inbox is an intermediary, not a destination. Process all your emails based on content.
+### Your inbox is an intermediary, not a destination. Process all your emails based on content
 
 If you’re reading this on your phone, take a second to switch to your home screen and look at your email app icon. Is there a red icon with a number of unread messages on it? How many are there? 3? 15? 134?
 
@@ -36,7 +36,7 @@ For all to-dos that take just two minutes or less, take care of them right away,
 
 ## Lesson 2
 
-### Know “why” for every single piece of media you choose to consume.
+### Know “why” for every single piece of media you choose to consume
 
 No matter what change you’re trying to make in your life, it always pays to start with why. With learning and consuming information, it’s the same thing. **Each piece of information is only as good as what you use it for**.
 
@@ -55,7 +55,7 @@ You can assemble your own media source list by simply asking yourself: **“Is t
 
 ## Lesson 3
 
-### Help others deal with information overload by frontloading important information in your communication.
+### Help others deal with information overload by frontloading important information in your communication
 
 Winning your own battle with information is just one side of the coin, though. If you really want to help solve this problem, you’ll have to help others deal with their information overwhelm too. You can do this by **frontloading**.
 
@@ -70,7 +70,5 @@ Let’s make the world a less stressful place by helping each other deal with bi
 ## Review
 
 The model Mark Hurst has built in *Bit Literacy* is great for understanding the complex world of information of today in simple terms. It’s also expandable for whatever additional bitstreams may come in the future, and will help you deal with them a lot better. Good read!
-
-## Who it’s for
 
 The 27 year old, who feels like his phone handles him, instead of the other way around, the 49 year old, who’s given up on smartphones altogether, and anyone who has more than 50 emails sitting in their inbox.

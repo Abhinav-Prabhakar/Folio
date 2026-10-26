@@ -18,7 +18,7 @@ Let’s get right into it and discover what Kelly has to teach us about happines
 
 ## Lesson 1
 
-### For a more meaningful life, remember to read and that money isn’t everything.
+### For a more meaningful life, remember to read and that money isn’t everything
 
 In college, reading wasn’t at the top of my to-do list. It was difficult to manage a schedule full of classes and a social life and still find time to get into a good book.
 
@@ -36,7 +36,7 @@ Contrast this with the feeling Joe would have if the author asked him to volunte
 
 ## Lesson 2
 
-### Nurture the relationship you have with yourself through solitude.
+### Nurture the relationship you have with yourself through solitude
 
 One time in college I was having difficulties with relationships and tried what I thought was a strange idea at the time. I took a day off work and made a plan to hang out with myself for the entire day. I even left my cell phone at home!
 
@@ -52,7 +52,7 @@ You also get a chance to dive into who you really are every time you plan to spe
 
 ## Lesson 3
 
-### If you want to reach your full potential, you’ll need to have good friends and to practice delaying gratification.
+### If you want to reach your full potential, you’ll need to have good friends and to practice delaying gratification
 
 Being alone is important but it’s not everything. You’ve got to have friends, but the right kind if you want to truly be happy.
 
@@ -71,7 +71,5 @@ It will change your life, and in the process, you’ll find a lot more fulfillme
 ## Review
 
 *Resisting Happiness* is a great book and one that I would highly recommend to anyone. I really like the idea that the path to joy comes from removing the roadblocks we put in the way of it. The tips this book gives are already giving me a lot of great ideas about what makes my life more fulfilling and how to double down on those practices!
-
-## Who it’s for
 
 The 27-year-old mom who can’t handle being alone, the 59-year-old spiritual person that wants to discover even more meaning in life, and anyone that wants to improve their happiness but doesn’t realize what’s holding them back from doing so.

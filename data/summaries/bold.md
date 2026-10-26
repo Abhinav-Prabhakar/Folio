@@ -18,7 +18,7 @@ Ready to create something life-changing? Let’s go!
 
 ## Lesson 1
 
-### The power to change the world is in your hands, right now.
+### The power to change the world is in your hands, right now
 
 Have you ever heard of Moore’s law? Gordon Moore was the founder of Intel, and he discovered that computational power seemed to double every 12 months, since by then his company was usually able to place twice as many transistors on a chip of the same size. As it turns out, this exponential transgression has proven itself true over the years, which has lead to exponential growth in technology.
 
@@ -30,7 +30,7 @@ Right here, right now. Heck, you could do it from your couch! And in case you ne
 
 ## Lesson 2
 
-### The businesses with the highest impact on the world will rely on exponential technology.
+### The businesses with the highest impact on the world will rely on exponential technology
 
 The reason I mentioned funding is that while some great businesses have been built with a single domain and some server space, the ones with the highest impact in the future will require investments in technology.
 
@@ -48,7 +48,7 @@ Speaking of fast…
 
 ## Lesson 3
 
-### You can use the skunk methodology to build your business quickly.
+### You can use the skunk methodology to build your business quickly
 
 Ever heard the term skunk works? Originally taken from a comic strip, the name was given to a small group of engineers in 1943, who were tasked with developing a fighter jet that could stand against the then advanced German aircraft technology.
 
@@ -57,7 +57,7 @@ Skunk Works built the first US jet fighter in 143 days. The methodology they use
 There are three characteristic features of any “skunk works” operation:
 
 1. It has **one single, clearly defined goal**.
-2. It is **notweighed down by anybureaucracy** whatsoever.
+2. It is **not weighed down by any bureaucracy** whatsoever.
 3. Its team can work in an **isolated, focused environment**, without distractions.
 
 Skunk Works built that fighter jet on nothing more than a handshake, all the financial and legal autonomy they needed, and in a quiet little workshop, which allowed them to stay in the flow state as long as they needed to.
@@ -71,7 +71,5 @@ Just like *The Self-Made Billionaire Effect,* I can sense that the ideas from *B
 For example, if you go back in time one million seconds from right now, you end up at 12 days ago. If you go back in time one billion seconds you end up 30 *years* ago. That’s how massive the difference is. This book talks about billion dollar industries, ideas, people and businesses, which makes it hard to grasp, but all the more impressive.
 
 I haven’t read the full thing, but it’s for sure one of the books I most look forward to now, reminds me of *Zero To One,* which was a fantastic book.
-
-## Who it’s for
 
 The 17 year old, who just finished high school, has an idea and now a chance to build his own skunk works as an experiment before college, the 31 year old science-fiction nerd who loves Iron Man, and anyone who owns an iPhone.

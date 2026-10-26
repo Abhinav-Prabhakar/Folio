@@ -22,7 +22,7 @@ Let’s learn how to be happier!
 
 ## Lesson 1
 
-### Even if life has dealt you a tough hand, it’s never too late to turn your life around.
+### Even if life has dealt you a tough hand, it’s never too late to turn your life around
 
 Albina Quevedo was Arthur Brooks’ mother-in-law. At age 93, as she lay dying in the same Barcelona apartment she had lived in for 50 years, she told him: “Such a difference with my life now. I am much happier than I was back then.”
 
@@ -34,7 +34,7 @@ The big lesson? No matter what happened to you in the past, it’s never too lat
 
 ## Lesson 2
 
-### Do the PANAS test to discover your natural tendencies towards happiness and unhappiness.
+### Do the PANAS test to discover your natural tendencies towards happiness and unhappiness
 
 While one of the big messages of the book is that your happiness is *not* just based on genetics, we *do* all have different starting points. A quick but enlightening way to find out yours is the PANAS test. **PANAS stands for “Positive and Negative Affect Schedule.”**
 
@@ -52,7 +52,7 @@ How? By focusing on the 4 pillars of happiness, coming up next!
 
 ## Lesson 3
 
-### If you want to be happy, spend most of your time and effort working on the 4 big pillars: family, friendship, work, and faith.
+### If you want to be happy, spend most of your time and effort working on the 4 big pillars: family, friendship, work, and faith
 
 When we don’t feel in control of our lives, we might spend them chasing “the 4 idols” outlined by 13th century-philosopher Thomas Aquinas: money, power, pleasure, and prestige. But even knowing we *can* change our lives, where do we start? How about the 4 big pillars of happiness?
 
@@ -75,7 +75,5 @@ Whatever you do, remember it’s never to late to get happier. Discover your PAN
 ## Review
 
 *Build the Life You Want* takes an interesting approach to happiness. First, the authors give you some tools to better handle your emotions. After all, completely eliminating unhappiness is neither possible nor the goal. Then, they provide a useful framework via the 4 pillars. Both Oprah and Arthur bring a down-to-earth approach to a hyped up topic, making this one an awesome read!
-
-## Who it’s for
 
 The 38-year-old customer support agent who feels her career will never go anywhere, the 71-year-old widower who thinks it’s too late to reinvent himself, and anyone who doesn’t yet know their PANAS.

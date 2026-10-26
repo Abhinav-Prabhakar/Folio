@@ -22,11 +22,9 @@ Here are my 3 lessons after reading the summary on Blinkist:
 
 Want to be happy in a world where you have no idea what’s next? Let’s learn how to live with uncertainty!
 
-### The Wisdom of Insecurity Summary
-
 ## Lesson 1
 
-### Without the reassurance of religion, life becomes unbearably uncertain.
+### Without the reassurance of religion, life becomes unbearably uncertain
 
 If you asked Americans what their religion was in 1948, more than 9 out of 10 would’ve told you they’re Christians. Today, almost 20% of them openly admit to having no religion, meaning they’ve either left church or are just not religious at all.
 
@@ -40,7 +38,7 @@ Of course there are no easy answers to such big, existential questions – you c
 
 ## Lesson 2
 
-### Consumerism comes with an empty promise of happiness.
+### Consumerism comes with an empty promise of happiness
 
 Enter consumerism. Yes, you could spend your Saturday pondering why you didn’t get the promotion, what else you could do with your career and work out a life plan. Oooooor, you can go shopping, eat steak for dinner and then to a club! That sounds like a lot more fun. Let’s do that!
 
@@ -56,7 +54,7 @@ The degree, the job, the nice car, the house, once you have all that, retirement
 
 ## Lesson 3
 
-### Pleasure and pain are just two ends of one spectrum, one always includes the other.
+### Pleasure and pain are just two ends of one spectrum, one always includes the other
 
 The reason answering these questions is so hard is that both finding the answers and accepting them leads to a lot of pain. Even if you know you’d like to be a painter, going for it is hard. You won’t conform to other peoples’ expectations of you any more, you might not make a lot of money, maybe you can *never* even make a full-time living.
 
@@ -73,7 +71,5 @@ It’s a minor shift in perspective, but a major shift in how you perceive life 
 ## Review
 
 You don’t need validation. You don’t need reassurance. The world only tries to sell you things you don’t need, because there’s a lot of money in getting you to believe that’s what’ll make you happy. But you don’t need any of that. You’re the best as you are, go do shit you love!
-
-## Who it’s for
 
 The 14 year old, who just had her confirmation ceremony, but isn’t sure how religious she really is, the 32 year old consultant, who just got a new Porsche, but wonders why he doesn’t really enjoy driving it, and anyone who suffered from a really painful event this year.

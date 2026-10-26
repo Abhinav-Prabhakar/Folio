@@ -16,11 +16,9 @@ If you haven’t cleaned up in a while, here are 3 lessons to keep in mind for y
 
 Are you ready to make your home a home again? Let’s switch to declutter mode!
 
-### The Life-Changing Magic of Tidying Up Summary
-
 ## Lesson 1
 
-### Go from easy items to more difficult ones when figuring out what to keep.
+### Go from easy items to more difficult ones when figuring out what to keep
 
 What decluttering comes down to is examining your relationship with each and every single item in your home. Each relationship is different. Your history with your coffee maker has begun at a different point in time than your relationship with that postcard a friend sent you, and so on.
 
@@ -32,7 +30,7 @@ Save photos and memorabilia for the very end, because by then you’ll already b
 
 ## Lesson 2
 
-### YODO – you only declutter once (if you do it right).
+### YODO – you only declutter once (if you do it right)
 
 Most people don’t even get started on decluttering, simply because they think it’s a lifetime job. That couldn’t be further from the truth. Marie Kondo says you only have to tidy up once – if you do it right – to leave a lasting impact on your life.
 
@@ -46,7 +44,7 @@ Now it’s mostly just tossing an item here and there, while my space remains fo
 
 ## Lesson 3
 
-### Don’t overcomplicate tidying up, just use a few simple questions.
+### Don’t overcomplicate tidying up, just use a few simple questions
 
 But how the hell do you even decide what to keep and what to toss? This is where most people overcomplicate things, but not you. Not after you’ve read this, anyway.
 
@@ -72,7 +70,5 @@ For example, gift cards are nice messages from friends and loved ones, bringing 
 ## Review
 
 I love all things Japan, and *The Life-Changing Magic of Tidying Up* is no exception. Konmari carries a spiritual sense of minimalism and simplicity into your life. If you haven’t done a big cleaning event in the last 5 years, do one! If this book is what it takes for you to make it happen, or you can’t find the courage yet, go for it.
-
-## Who it’s for
 
 The 16 year old, who lives in a cluttered house, and tends to follow his parents’ example, the 29 year old fashion blogger, who often can’t decide what to wear the next day, and anyone who can’t remember the last time they did a proper spring cleaning.

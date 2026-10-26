@@ -20,27 +20,27 @@ Ready to find out what type you are? Let’s begin!
 
 ## Lesson 1
 
-### The Enneagram personality test has nine personality types in it, each corresponding to a number.
+### The Enneagram personality test has nine personality types in it, each corresponding to a number
 
 So what number are you? I recommend you take an online version of the test to find out first. Just Google “Enneagram Test” and try one of the first few.
 
 Here are the nine personality types and a little about each one:
 
-1. **Perfectionist** – These are good at self-discipline and details. They always seek to improve but struggle with their black and white worldview.
-2. **Helper** – Caring by nature, Helpers love to feel like others need them. Relationships are central to their life, but they usually care about everyone else’s feelings more than their own.
-3. **Performer** – Satisfaction from setting and accomplishing big goals is the hallmark of this type. They attach their self-worth to their success and struggle with self-delusion.
-4. **Romantic** – These are good at connecting with everything beautiful and tragic in the world. Sometimes they isolate themselves and become sad because of it.
-5. **Investigator** – A love of knowledge and sharing it is the main trait of Investigators. Independent by nature, they struggle with relying on others for help.
-6. **Loyalist** – If you’re this type then you’ve got a commitment to serving others. Community, rules, order, and stability are important, but you might struggle with getting anxious if these are threatened.
-7. **Enthusiast** – Outgoing and the life of the party, Enthusiasts are always positive. They can struggle with commitment, pleasure-seeking, and addiction.
-8. **Challenger** – These have an easy time speaking up when something is wrong. They’re natural leaders, but have a hard time showing vulnerability and thus making good connections with others.
-9. **Peacemaker** – This type will avoid conflict no matter what. They’re good at seeing both sides of arguments, but they struggle to speak up about their own needs in relationships.
+1. **Perfectionist**– These are good at self-discipline and details. They always seek to improve but struggle with their black and white worldview.
+2. **Helper**– Caring by nature, Helpers love to feel like others need them. Relationships are central to their life, but they usually care about everyone else’s feelings more than their own.
+3. **Performer**– Satisfaction from setting and accomplishing big goals is the hallmark of this type. They attach their self-worth to their success and struggle with self-delusion.
+4. **Romantic**– These are good at connecting with everything beautiful and tragic in the world. Sometimes they isolate themselves and become sad because of it.
+5. **Investigator**– A love of knowledge and sharing it is the main trait of Investigators. Independent by nature, they struggle with relying on others for help.
+6. **Loyalist**– If you’re this type then you’ve got a commitment to serving others. Community, rules, order, and stability are important, but you might struggle with getting anxious if these are threatened.
+7. **Enthusiast**– Outgoing and the life of the party, Enthusiasts are always positive. They can struggle with commitment, pleasure-seeking, and addiction.
+8. **Challenger**– These have an easy time speaking up when something is wrong. They’re natural leaders, but have a hard time showing vulnerability and thus making good connections with others.
+9. **Peacemaker**– This type will avoid conflict no matter what. They’re good at seeing both sides of arguments, but they struggle to speak up about their own needs in relationships.
 
 Let’s take a look about how to use these in connection with each other in our next lesson!
 
 ## Lesson 2
 
-### Wing numbers are important to getting the full picture on your traits.
+### Wing numbers are important to getting the full picture on your traits
 
 **Just like a wingman backs you up in social situations, so do these additional traits support your personality.** To find yours, look to the numbers on either side of your main number. As a 1, my wing numbers are 2 and 9, and I’d say that’s pretty accurate.
 
@@ -52,7 +52,7 @@ If you’ve got a little more of the personality of the investigator, though, yo
 
 ## Lesson 3
 
-### Your number can help you see how you naturally respond under stress and when you feel secure.
+### Your number can help you see how you naturally respond under stress and when you feel secure
 
 Now that you’ve figured out the main three numbers that describe your personality, let’s look at another two. These are the stress and security numbers.
 
@@ -89,7 +89,5 @@ Whatever combination you end up with, discovering these two additional numbers i
 ## Review
 
 I’m pretty skeptical of personality tests because realistically, we all exhibit different traits of each characteristic. But the Enneagram test at least has a way of accounting for this, which I like. I think what I enjoyed most about *The Road Back To You*, though, was the idea that your personality type teaches you about your nature rather than just trying to put you into a box.
-
-## Who it’s for
 
 The 23-year-old college student who wants to figure out how their personality type might affect their career choice, the 47-year-old who’s got some bad habits that wants to know the good side of their character, and anyone who wants to know more about themselves so they can improve.

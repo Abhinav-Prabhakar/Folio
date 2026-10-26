@@ -22,7 +22,7 @@ Ready to be inspired to get out of your comfort zone? Let’s jump right in!
 
 ## Lesson 1
 
-### You’re better off exercising weak courage than no courage at all.
+### You’re better off exercising weak courage than no courage at all
 
 People who come from privileged backgrounds have it pretty easy these days. Sure, many of us work every day, but as soon as work is over, we get to relax in the comfort of our home. We don’t have any worries other than what we’re going to have dinner.
 
@@ -38,7 +38,7 @@ And you’ll get more out of life than watching Netflix on the couch.
 
 ## Lesson 2
 
-### When you are open about your vulnerabilities, people will connect with you.
+### When you are open about your vulnerabilities, people will connect with you
 
 Part of finding your own courage and pushing yourself is becoming vulnerable. Many people equate vulnerability to frailty or weakness, but the truth us, vulnerability takes courage. Vulnerability means letting your guard down and opening yourself up to possible attacks or criticism.
 
@@ -52,7 +52,7 @@ Now, whenever she speaks in front of large crowds, she is an open book. She tell
 
 ## Lesson 3
 
-### Stop worrying so much about trying to do everything and just do something.
+### Stop worrying so much about trying to do everything and just do something
 
 It’s overwhelming to live in a world where social media seems to be full of perfect families, Olympians, celebrities, and philanthropists. We hear of people going on service trips and donating huge amounts of money to charity.
 

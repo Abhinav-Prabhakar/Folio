@@ -20,7 +20,7 @@ We will now delve deeper into these lessons and find out how important innovatio
 
 ## Lesson 1
 
-### A successful organization is defined by its ability to foster a creative environment for its employees.
+### A successful organization is defined by its ability to foster a creative environment for its employees
 
 Nokia was a pioneer in the mobile phone industry, but it soon lost its innovative edge as it became more conservative about new ideas and products. Apple is a great example of how being creative can pay off: since its launch in 2007, the iPhone has become one of the most successful products of all time.
 
@@ -30,7 +30,7 @@ However, because they failed to acknowledge how it can help them spot enemy ship
 
 ## Lesson 2
 
-### Innovators and those who execute plans are equally important to an organization’s success.
+### Innovators and those who execute plans are equally important to an organization’s success
 
 The public conception is that innovators are lone-wolfs, probably native geniuses who find it easy to innovate. While in some cases this might be true, the truth is that innovators are oftentimes people like me and you.
 
@@ -42,7 +42,7 @@ Thirdly, make sure to keep the relationship between the two parties well-maintai
 
 ## Lesson 3
 
-### It’s our human duty to give a chance to any idea worth trying out.
+### It’s our human duty to give a chance to any idea worth trying out
 
 As long as there are more doors to knock on, loonshot ideas still have a chance to surface. Just like once-in-a-lifetime occurrences, such as some falling stars, major historical events happening, or Einstein being born, loonshot ideas often get a short lifespan before disappearing for good.
 
@@ -59,7 +59,5 @@ Half a century later, a Danish astronomer discovered the same concept. Luckily, 
 When you think about it, many products would not have existed if it weren’t for someone having an idea about them first and an equally dedicated team to make it all happen while keeping the business going.
 
 This lecture is truly eye-opening when it comes to highlighting how fragile and remarkable our ideas are, whether they’re big or small. The book will show you how the human mind can create wonders if you just let it.
-
-## Who it’s for
 
 The 45-year-old product manager who wants to foster innovation in their team, the 27-year-old marketing assistant who wants to add sparkle to their campaign, or the 49-year-old CEO who wants to take their company to new heights.

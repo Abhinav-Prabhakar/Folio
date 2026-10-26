@@ -18,7 +18,7 @@ Do you want to up your game, whichever one it is you’re playing? Then let’s 
 
 ## Lesson 1
 
-### Five powerful hormones work together to create the flow state in your body.
+### Five powerful hormones work together to create the flow state in your body
 
 When you’re in flow, you feel like you’re on a “high,” you can do almost no wrong and your performance is supercharged. While this is often a spiritual experience, there sure is a lot going on in your body as it happens as well. In fact, five strong chemicals are released, all at once, when you’re in flow, and that’s what makes it so powerful:
 
@@ -32,7 +32,7 @@ As you can see, that’s quite a mighty chemical cocktail that keeps you buzzing
 
 ## Lesson 2
 
-### Some parts of your brain have to be turned off, not on, in order for flow to be possible.
+### Some parts of your brain have to be turned off, not on, in order for flow to be possible
 
 Another factor, which is part of the flow experience, is something called *transient hypofrontality.* What this complicated expression means is simply that for a short time (transient) your preFRONTal cortex is less (hypo) active.
 
@@ -44,7 +44,7 @@ Another part that slows down during flow is your *orientation adjustment area*, 
 
 ## Lesson 3
 
-### The reason flow is so important is that with each new, major achievement, what we think is possible changes entirely.
+### The reason flow is so important is that with each new, major achievement, what we think is possible changes entirely
 
 Flow is what gets a mountaineer up the last part of Mt. Everest, it’s what makes the snowboarder land the 1080 and allows the writer to finish her novel. It is the source of grand achievements, and achievements are the source of inspiration.
 
@@ -57,7 +57,5 @@ And the day we do that is the day our species starts to decline.
 ## Review
 
 This was probably the most scientific assessment of flow I’ve ever seen. When Mihaly Csikszentmihalyi coined the term, he described it in his own words and had no way to actually measure the biological side of it. But now we have access to the right tools and Kotler does a great job of laying out the results. Especially recommended if you’re an athlete or do extreme sports, but *The Rise Of Superman* is really a good read for any creative.
-
-## Who it’s for
 
 The 15 year old surfer or snowboarder, who thinks about taking his career pro some day, the 33 year old writer, who often struggles with writer’s block, and anyone who thinks they’ve been put on this earth to achieve something great.

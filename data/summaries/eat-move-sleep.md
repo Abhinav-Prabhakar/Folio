@@ -20,7 +20,7 @@ Ready to eat, move and then sleep? All you have to do is read on.
 
 ## Lesson 1
 
-### Limit inactivity instead of trying to work out more.
+### Limit inactivity instead of trying to work out more
 
 If you’re like most people, you’ll not exercise for a while, then feel bad and start setting really ambitious goals, like going to the gym 5 times a week. Even if you’re one of those rare types, who can pull off these kinds of sudden habit changes, there’s still a chance it’s the wrong thing to do.
 
@@ -34,7 +34,7 @@ The solution is wonderfully simple: **Don’t sit for longer than an hour**. Tha
 
 ## Lesson 2
 
-### Treat sugar like it’s a drug.
+### Treat sugar like it’s a drug
 
 There are illegal drugs, like cocaine and heroin, legal (and socially accepted) drugs, like tobacco and alcohol and then, there’s sugar, which, according to Tom, is the worst one. Not only because it’s not even considered a drug, but because it’s part of everyone’s daily food intake.
 
@@ -50,9 +50,9 @@ What should you do? **Treat sugar like it’s an actual, illegal drug**. Avoid a
 
 ## Lesson 3
 
-### Stop hitting the snooze button and get up right when your alarm rings.
+### Stop hitting the snooze button and get up right when your alarm rings
 
-There’s sleep and there’s efficient sleep. You know, one is physically being in bed, the other is actually getting some quality shut-eye during which you’re *actually* *recovering*.
+There’s sleep and there’s efficient sleep. You know, one is physically being in bed, the other is actually getting some quality shut-eye during which you’re *actually recovering*.
 
 However, and most of my friends do this, **you can ruin a perfectly good night of sleep with one tiny mistake in the morning: hitting the snooze button**. The reason is that if you hit snooze and go back to sleep, your alarm wakes you up right at the point where you’re about to enter a deep sleep phase again – which makes you groggy and tired.
 
@@ -69,7 +69,5 @@ If you’re one of them, make this your mission for tomorrow: don’t hit the sn
 What a cool book. I love his approach of small, incremental changes. Even if you just make one small change each month, that’ll be 12 each year, and within four years, you’ll have accumulated almost 50 positive habits. This stuff compounds big time, so never underestimate the power of marginal gains.
 
 Short set of blinks on a wide range of topics and with lots of examples, I’d read those first and then dive into *Eat, Move, Sleep* once you’ve made a few changes.
-
-## Who it’s for
 
 The 15 year old, who can’t resist the sweet snacks her Mum buys, so she can just ask her to buy less, the 41 year old, who’s afraid his doctor might tell him to “take his health seriously” at each next visit, and anyone who regularly sits for multiple hours at a time.

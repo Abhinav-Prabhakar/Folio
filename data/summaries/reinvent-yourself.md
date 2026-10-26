@@ -20,7 +20,7 @@ In today’s world, the only constant is change. Let’s learn how to not just s
 
 ## Lesson 1
 
-### Pick a passion from childhood and work on it every day.
+### Pick a passion from childhood and work on it every day
 
 Picasso is only the most famous example of how much it pays to work on your art every day: he created over 50,000 pieces in his lifetime. Stephen King has published close to 100 books, a lot of which have become bestsellers and turned into movies. Coolio wrote rap lyrics daily for 17 years before he landed the hit we all know him for, *“Gangster’s Paradise.”* Jimi Hendrix produced tracks for over 70 albums, even though he died at age 27.
 
@@ -32,7 +32,7 @@ One person James interviewed remembered she’d loved making mud pies as a six-y
 
 ## Lesson 2
 
-### Channel your pain into your passion.
+### Channel your pain into your passion
 
 Besides having a shot at making a living doing what you love, practicing your passion daily has many other benefits. The biggest one of all may be that **you can now channel your own pain, negative emotions, and disappointments in a productive way.**
 
@@ -44,7 +44,7 @@ Even though we all have different lifestyles and complain on various levels, no 
 
 ## Lesson 3
 
-### Make growth-based decisions, not fear-based ones.
+### Make growth-based decisions, not fear-based ones
 
 A common problem in family businesses is that after the original founders succeed, they struggle to find worthy successors. Even if they keep the company strictly in the family’s hands, it might fail after just three generations. James says this happens because of a misalignment of values.
 
@@ -57,7 +57,5 @@ Constantly unmasking your fears and then growing around your true values is one 
 ## Review
 
 James’s writing is easy to digest, fun, practical and inspiring. *Reinvent Yourself* is one of several in his rather new *Choose Yourself* series. If you’re looking for a pick-me-up to encourage yourself to continue finding a life and career you love, this is it!
-
-## Who it’s for
 
 The 39 year old lawyer, who isn’t happy in his profession, the 67 year old retiree, who thinks it’s too late to pick up writing, and anyone who makes most of their decisions to stay safe and avoid risk.

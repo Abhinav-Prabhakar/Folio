@@ -22,7 +22,7 @@ Ready to discover the magic of reality? Let’s learn something about the buildi
 
 ## Lesson 1
 
-### Natural elements are created by fusing atoms, which is something only stars can do.
+### Natural elements are created by fusing atoms, which is something only stars can do
 
 Do you know how the natural elements of our periodic system, like hydrogen, oxygen, helium, iron, etc. are created? It’s neither easy, nor obvious, so don’t feel bad in case you don’t know (I didn’t either).
 
@@ -36,7 +36,7 @@ In case of a supernova, a big star exploding, all of these elements are hurled i
 
 ## Lesson 2
 
-### By looking at the spectrum of light different planets and galaxies emit, we can learn more about the universe.
+### By looking at the spectrum of light different planets and galaxies emit, we can learn more about the universe
 
 Can you name all the colors of a rainbow? I can’t! I think I can name some, but not all of them. There are seven in total, ranging from one end of the visible spectrum of light to the other: red, orange, yellow, green, blue, indigo, violet.
 
@@ -73,7 +73,5 @@ So the next time something mysterious happens, don’t let it destroy your scien
 ## Review
 
 Wow, hardly had a summary so jam-packed with insights. Guess that tells you how informational *The Magic Of Reality* is already, highly recommended!
-
-## Who it’s for
 
 The 15 year old, who’s interested in biology and nature, the 35 year old family father, who thinks science is nonsense, and anyone who recently heard about a miracle and doubted it.

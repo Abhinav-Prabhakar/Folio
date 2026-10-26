@@ -20,7 +20,7 @@ Ready to say no (you have to say yes this time)? Yes! Let’s do it!
 
 ## Lesson 1
 
-### Rate your regulars to say no to the wrong people.
+### Rate your regulars to say no to the wrong people
 
 We all know’em.
 
@@ -47,7 +47,7 @@ Eventually, you’ll only be left with an inner circle that helps you thrive.
 
 ## Lesson 2
 
-### Stop doing things you don’t like, and everyone will be better off.
+### Stop doing things you don’t like, and everyone will be better off
 
 This year started out rough for me. At 52 years old, my uncle died in his sleep.
 
@@ -67,7 +67,7 @@ So instead of conforming to other people’s expectations, form your own and fol
 
 ## Lesson 3
 
-### Say no to scarcity to go beyond “glas half full”.
+### Say no to scarcity to go beyond “glas half full”
 
 Our ancestors kept chasing food, better shelter, and human contact. The reason was that all of these things used to be scarce resources.
 
@@ -92,7 +92,5 @@ Practicing gratitude gives you a sense of calmness you won’t find elsewhere an
 That said, I haven’t read the full book yet, but I can tell you right away that the blinks don’t cut it. The set of blinks is super short, just 6 blinks in total, I can hardly believe that that does a 270 page book justice.
 
 Nevertheless, the lessons in the blinks are solid, can’t argue with that (as you’ll hopefully agree with me, based on the above:)), but I’d still go straight for the book.
-
-## Who it’s for
 
 The 14 year old who keeps wondering what he should do his homework for, the 21 year old college student, who feels forced to get a degree just because her parents expect it, and anyone who’s currently in a job they don’t really like.

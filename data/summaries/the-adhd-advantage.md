@@ -20,7 +20,7 @@ Ready to take on ADHD? Let’s do it!
 
 ## Lesson 1
 
-### One out of every six people, who’s diagnosed with ADHD, doesn’t have it.
+### One out of every six people, who’s diagnosed with ADHD, doesn’t have it
 
 **Out of all 6.4 million diagnoses of ADHD, up to 1.1 million might be falsely diagnosed**. That’s one in six!
 
@@ -34,7 +34,7 @@ Lastly, because there are seven times as many family doctors as there are ADHD s
 
 ## Lesson 2
 
-### Don’t abuse ADHD medication.
+### Don’t abuse ADHD medication
 
 I’m no doctor, and you should definitely read the book and consult an ADHD specialist, when it comes to your medication, but according to Dale Archer, ADHD medication is often abused and comes with terrible side effects.
 
@@ -48,7 +48,7 @@ So whatever you do, don’t abuse ADHD medication or excessively medicate your c
 
 ## Lesson 3
 
-### Turn your symptoms into your advantages.
+### Turn your symptoms into your advantages
 
 For example, children with ADHD learn a lot better after exercising, so more exercise in school breaks is an easy way for them to focus.
 
@@ -69,7 +69,5 @@ I love it. *The ADHD Advantage* is a critical take on a disease, which is not on
 I like that Dale Archer addressed not only this, but also how people with actual ADHD can thrive on it, instead of feeling like it’s a giant ball & chain that they have to drag around for the rest of their life.
 
 Recommended!
-
-## Who it’s for
 
 The 10 year old, who feels he’s an outsider in school, because he can’t sit still like the other kids, the 39 year old, who feels her job forces her to do one-sided activities for too long, and anyone who knows someone with ADHD.

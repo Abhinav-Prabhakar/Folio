@@ -22,7 +22,7 @@ Are you ready to get smarter and more motivation to read? Let’s get right to i
 
 ## Lesson 1
 
-### You don’t understand reality and aren’t as intelligent when you watch too much TV.
+### You don’t understand reality and aren’t as intelligent when you watch too much TV
 
 Believe it or not, in today’s modern world, illiteracy is actually a growing problem. The author calls it an illiteracy epidemic and says this failure of our education is making us illusion-prone. A shocking one-third of the US population is either completely illiterate or barely literate.
 
@@ -36,7 +36,7 @@ We like it because it’s easy to take in presents us with predictable content a
 
 ## Lesson 2
 
-### Our freedom is at risk because we’ve stopped caring so much for reading.
+### Our freedom is at risk because we’ve stopped caring so much for reading
 
 All of this time in front of media puts our democracy at risk. TV is a powerful authority. Those who appear on the screen are validated, while those who aren’t are essentially labeled as insignificant. This drives us to be a society of narcissists who will do anything for illusions of money, fame, or sex appeal instead of the common good.
 
@@ -48,7 +48,7 @@ As if this weren’t bad enough, politicians also use this to their advantage. M
 
 ## Lesson 3
 
-### As we’ve religated the humanities to the sidelines in recent years, we’ve decayed morally and are reaping the consequences.
+### As we’ve religated the humanities to the sidelines in recent years, we’ve decayed morally and are reaping the consequences
 
 American education has strayed from the humanities in recent years, and the author says this is the cause of many of our political and economic difficulties. While a college education used to expand the mind, nowadays it is mostly just treated as a way to get a job.
 
@@ -63,7 +63,5 @@ The decay of humanities is making way for more generations of managers and burea
 ## Review
 
 I didn’t like *Empire Of Illusion* as much as I thought I would, at least not the latter parts of it anyway. Still, the book brings up some really important issues. Unless we start doing things differently, these illusions we fall for are going to have a huge negative impact on our society. And in many ways they already are.
-
-## Who it’s for
 
 The 53-year-old who watches a lot of TV and doesn’t think it’s harming anyone, the 21-year-old who thinks that it’s not a problem that nobody in their generation likes to read, and anybody that wants to stop the decline of education, culture, and unity.

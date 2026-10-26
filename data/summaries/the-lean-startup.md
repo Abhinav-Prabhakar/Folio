@@ -22,11 +22,9 @@ I’m really sorry Mr. Ries, it took me a while, but here’s what I learned:
 
 Ready to start a business? I hope you are, because here we go!
 
-### The Lean Startup Summary
-
 ## Lesson 1
 
-### Find a solid business model by validating your idea.
+### Find a solid business model by validating your idea
 
 One word is mentioned again and again throughout this summary, and it actually represents the whole book quite well: **semi-scientific.**
 
@@ -50,7 +48,7 @@ So get out there and instead of calling friends, researching and getting feedbac
 
 ## Lesson 2
 
-### Tell value from waste with split-testing.
+### Tell value from waste with split-testing
 
 Another semi-scientific approach to then developing your product is split testing.
 
@@ -70,7 +68,7 @@ Today you can split-test any part of a website for free, for example with Optimi
 
 ## Lesson 3
 
-### Never ever indulge in vanity metrics.
+### Never ever indulge in vanity metrics
 
 The data you get from split testing is valuable. The number of your Facebook likes isn’t. It’s a vanity metric and you must never ever indulge in those.
 
@@ -99,7 +97,5 @@ As someone who’s been through failed validations, I can 100% vouch for the con
 We all spend way too much looking at Google Analytics graphs, social shares, and other “feel good” metrics, instead of looking the truth in the eye and admitting: those email subscribers don’t grow as fast as I’d hoped.
 
 I’m expecting the book to be a little more scientific, so I do think the summary on Blinkist is a great place to start for people who want real-world practicality.
-
-## Who it’s for
 
 The 14 year old with an idea for an app, the 33 year old who thinks it’s too late and too much work to start a business now, and anyone who ever built something people then didn’t like.

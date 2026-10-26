@@ -20,7 +20,7 @@ Failure is a good thing? What?! Let’s jump right into these lessons and learn 
 
 ## Lesson 1
 
-### Your twenties are a great time in life to make mistakes and learn what you really want.
+### Your twenties are a great time in life to make mistakes and learn what you really want
 
 Failing sucks, but it also teaches us important things, like what area we needed to study harder in.
 
@@ -32,7 +32,7 @@ Day often reflects on how she was so serious about starting her career and landi
 
 ## Lesson 2
 
-### You learn a lot about yourself when you fail at love.
+### You learn a lot about yourself when you fail at love
 
 After a few long-term relationships in her twenties, Day settled down and got married. But, unfortunately, the relationships she had were pretty old-fashioned, and she was quickly the cook, cleaner, and shopper, all while holding a full-time job.
 
@@ -48,7 +48,7 @@ Failed relationships can often make you want to close up and keep yourself from 
 
 ## Lesson 3
 
-### Just because you’re successful, it doesn’t mean you are immune to failure.
+### Just because you’re successful, it doesn’t mean you are immune to failure
 
 You can be a successful person and also be unhappy. It seems impossible that someone with millions of fans or millions of dollars could really not be satisfied with their life. They must be pretty ungrateful, right?
 
@@ -65,7 +65,5 @@ Remember, when you are looking at your failures in life, you are the only person
 ## Review
 
 A lot of this was just the author’s personal experiences with a “here’s what I learned” attached to it, but I didn’t mind too much. Books like *How To Fail* with stories on the topic definitely have an important place in helping us grow because they explain *why* we should do certain things, not just how. Stories help us connect and understand things more deeply, which is why I really liked this book.
-
-## Who it’s for
 
 The 24-year-old woman who is considering starting a family, the 48-year-old mom that’s having a lot of struggles in life, and anyone who’s going through a big failure who could use some encouragement.

@@ -18,7 +18,7 @@ I hope you’re in a marketing mood, because we’re about to talk about some re
 
 ## Lesson 1
 
-### Be first on the market, or first in peoples’ heads.
+### Be first on the market, or first in peoples’ heads
 
 The book starts with the *Law of Leadership*, which states that **if your product is the first of its kind on the market, chances are high it’ll become the market leader.** Simply by having the so-called first mover advantage, you can use the lag time competitors have to your advantage.
 
@@ -30,7 +30,7 @@ Once these assumptions have been made and forged into our brains, they’re hard
 
 ## Lesson 2
 
-### Avoid competition by coming up with your own product category and dominating that.
+### Avoid competition by coming up with your own product category and dominating that
 
 So what if you can’t do either of those things? Well, in that case, **you can just come up with your own, entirely new category and you’ll automatically be first**. This is the *Law of Category* in action.
 
@@ -42,7 +42,7 @@ This is a softened version of the idea from Zero to One to go vertical in progre
 
 ## Lesson 3
 
-### Never forget that each product comes with a big opportunity cost. Focus is important.
+### Never forget that each product comes with a big opportunity cost. Focus is important
 
 To this day, Al Ries describes himself as a focusing consultant. Not a marketing consultant, a focusing consultant. Even one year before starting his consulting company (when the book was published), he knew that **successful marketing always means giving up something else to pursue**.
 
@@ -57,7 +57,5 @@ Oh and if you feel like you absolutely must expand your product line, at least d
 ## Review
 
 What a treasure chest of marketing gold! All of the marketing advice you could ever need in a book that’s almost as old as me (I’m a 1991 model). Genius! If you’re interested in business, entrepreneurship, startups, or even have your own already, *The 22 Immutable Laws Of Marketing* is an absolute must read.
-
-## Who it’s for
 
 The 27 year old marketer, who’s job is related to how her company is perceived in public, if even just remotely, the 49 year old product manager, who’s never sure whether to expand or reduce his company’s product line, and anyone dreams of coming up with a revolutionary product.

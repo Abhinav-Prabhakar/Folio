@@ -20,7 +20,7 @@ Let’s discover how to use our metaphorical “dominant hand” at work!
 
 ## Lesson 1
 
-### To find your personality type, look at how you interact with everything around you.
+### To find your personality type, look at how you interact with everything around you
 
 The MBTI began with research by Carl Jung in the early 1920s. Nearly two decades later, Katherine Briggs and her daughter Isabel Briggs Myers dug deeper into Jung’s studies and produced this approach. The method focuses on four areas of personality and gives 16 personality types.
 
@@ -35,7 +35,7 @@ Finding your type can seem confusing at first but it’s not so hard. There are 
 
 ## Lesson 2
 
-### Look at the crossover between your identity and what interests you to notice potential careers.
+### Look at the crossover between your identity and what interests you to notice potential careers
 
 The right job that will make you excited to get up in the morning isn’t just going to land in your lap one day. You need to go searching for it by conducting a job hunt.
 
@@ -47,7 +47,7 @@ Finish your job hunt by seeking out people who do the work that you are consider
 
 ## Lesson 3
 
-### Adjusting your course can happen at any age.
+### Adjusting your course can happen at any age
 
 With all the negative effects of retirement and rising health care costs and life expectancy, it’s no wonder so many are choosing to work later in life. I’ve decided recently that I aim to never retire. Knowing my personality type is an important part of that goal. But I don’t plan on staying the same forever and may enjoy multiple different careers throughout my life.
 
@@ -58,7 +58,5 @@ Whatever your age, don’t be afraid to begin a new career path. I’ve been wor
 ## Review
 
 I enjoyed *Do What You Are* because I’m in a place right now with my career that I needed it’s advice. However, I’m not convinced that defining your personality in this way is the best idea as it promotes an unhealthy fixed mindset. I do see the merit in aligning your work with your personality type, but that doesn’t necessarily mean that we shouldn’t try new things.
-
-## Who it’s for
 
 The 34-year-old accountant who doesn’t like their job anymore, the 61-year-old who is considering starting a new career, and anyone who is searching for work.

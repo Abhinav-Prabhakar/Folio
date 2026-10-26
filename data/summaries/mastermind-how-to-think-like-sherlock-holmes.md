@@ -56,6 +56,4 @@ These biases, and many others, affect our judgement heavily and can alter the en
 
 *How to Think Like Sherlock Holmes* presents the mind hacks that the famous real-life detective Holmes used to debunk tricky cases and solve crimes in London. The book explores the right mind structures, retention tips and tricks, memory skills, a conscious approach to problem solving, and many other brain hacks to think just like Holmes. Reading this book will improve your logical reasoning and your problem-solving skills, all while helping you become proactive in your thinking and analyse things more in-depth.
 
-## Who it’s for
-
 The 30-year-old person who’s passionate about the story of Sherlock Holmes and Dr. Watson, the 35-year-old person who loves to read about psychology and mind tricks, or the 27-year-old individual who feels as if they have biases that alter their judgement and want to learn how to let them go.

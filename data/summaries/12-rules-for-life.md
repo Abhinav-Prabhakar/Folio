@@ -16,11 +16,9 @@ Whether he’s just struck the right nerve at the right time or put his finger o
 
 These form the premise Peterson’s book is built on and thus, the context for understanding why it’s been such a success. Let’s go!
 
-### 12 Rules for Life Summary
-
 ## Lesson 1
 
-### Before you judge the world, take responsibility for your own life.
+### Before you judge the world, take responsibility for your own life
 
 Life isn’t fair. We all learn that one way or other. Some of us sooner, some later, some in small ways, some from terrifying blows. But we all realize it eventually. Like the Russian writer Leo Tolstoy, who, in his short, philosophical piece, *A Confession*, concluded there are only four reasonable responses to the absurdity of life:
 
@@ -35,7 +33,7 @@ Besides, even though the future may sometimes look bleak, if you can focus on ta
 
 ## Lesson 2
 
-### Care for yourself like you would for a loved one.
+### Care for yourself like you would for a loved one
 
 Have you ever gotten a prescription from the doctor and thought: “Naaa, I don’t need that?” Over one third of people do it regularly. According to Peterson, it’s neither smart nor smug. It’s a subversive form of self-punishment. We do it a lot and, as a result, tend to take better care of others than ourselves.
 
@@ -45,7 +43,7 @@ That means instead of just striving for either one, we should seek balance, whic
 
 ## Lesson 3
 
-### Seek meaning through sacrifice, not happiness through pleasure.
+### Seek meaning through sacrifice, not happiness through pleasure
 
 Balancing your light and your dark side can take many different forms. Sometimes, it may be staying in bed to get healthy, even though you want to work. Other times, it might mean staying late at work on a Friday. However it looks like, it always involves **choosing meaning by making a sacrifice, rather than temporary happiness by choosing pleasure**.
 

@@ -20,7 +20,7 @@ Ready for this upgrade to your bad-guy radar? Let’s take a look under the blac
 
 ## Lesson 1
 
-### Do the “veil of ignorance” exercise to show yourself that what you think is good and bad is entirely made up.
+### Do the “veil of ignorance” exercise to show yourself that what you think is good and bad is entirely made up
 
 Depending on where you’re born and raised, you’ll have a much different definition of what’s good and what’s bad than people in other parts of the world – or even just your own city.
 
@@ -38,7 +38,7 @@ You’ll quickly see that it’s really hard to pull off, probably even impossib
 
 ## Lesson 2
 
-### Humans don’t like change, so they hate those who force it upon the world.
+### Humans don’t like change, so they hate those who force it upon the world
 
 Have you ever heard of Kim Dotcom? This German guy’s an internet pioneer. He launched one of the most popular online file sharing services in 2005, Megaupload. Because many people used the site to illegally share and spread movies, music and software, it was shut down in 2012 by the US government, following a raid at Kim’s New Zealand mansion (he’s known for a crazy lifestyle).
 
@@ -50,7 +50,7 @@ People don’t like change, and they like it even less if they’re not the ones
 
 ## Lesson 3
 
-### The more human a villain seems, the more evil you think they are, even if others might be worse.
+### The more human a villain seems, the more evil you think they are, even if others might be worse
 
 What do you think Stalin was like? Probably as cold as the weather in Russia, a guy with zero empathy, a faceless monster making decisions with terrible consequences for the human race. In fact, I don’t know too much about him – do you?
 
@@ -67,7 +67,5 @@ But how we feel doesn’t always align with the facts, and in this case, it make
 ## Review
 
 Funny, unconventional and very enlightening. *I Wear The Black Hat* is definitely a book that’d usually fly below your radar, but one worth checking out!
-
-## Who it’s for
 
 The 16 year old, who’s just learning about World War II in history class, the 31 year old Batman fan, and anyone who has downloaded something illegally at least once in their lives.

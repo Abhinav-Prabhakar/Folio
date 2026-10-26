@@ -20,11 +20,9 @@ Here are my three favorite lessons from the book:
 
 Let’s see what it takes to get unfu*ked!
 
-### Unfu*k Yourself Summary
-
 ## Lesson 1
 
-### Learn to chase the impossible and seize opportunities outside your comfort zone.
+### Learn to chase the impossible and seize opportunities outside your comfort zone
 
 If you want to live the life you have imagined, it is imperative that you start planning it and figure out a strategy to achieve it. Defining goals is one of the most important parts of the planning process, as it sets the foundation for your actions. Therefore, prioritize it, instead of postponing it.
 
@@ -36,7 +34,7 @@ The author suggests that chasing uncertainty is what will add more magic to your
 
 ## Lesson 2
 
-### Enjoy the journey as much as you enjoy achieving your goals.
+### Enjoy the journey as much as you enjoy achieving your goals
 
 Gary plays on the idea that life is uncertain and that you can’t fight it. Frankly, there’s not much to argue about with this fact. Therefore, our plans will not always fit into the picture-perfect lines we’ve drawn for ourselves. When this happens, the best thing you can do is acknowledge and rebalance.
 
@@ -48,7 +46,7 @@ Failures often awaken certain self-destructive emotions. Bishop suggests that wh
 
 ## Lesson 3
 
-### Don’t blame others for your failures and learn to take responsibility for your decisions.
+### Don’t blame others for your failures and learn to take responsibility for your decisions
 
 When failures do occur, it can be difficult to acknowledge that we are the ones to blame for our actions and that most of the time, the way a situation ends up is entirely up to us.
 
@@ -61,7 +59,5 @@ So how can one do so? Well, as you derail from your well-established goals, you 
 ## Review
 
 *Unfu*k Yourself* reveals practical tips on how to own your life and live more meaningfully by getting out of your head and accepting failure, uncomfortable situations, and change. This book can help you develop a deeper sense of understanding for life and change your mindset for the better. By exploring a different approach to life, including more exposure to risk and challenging situations, its readers can significantly change their life for the better.
-
-## Who it’s for
 
 The 23-year-old student who is looking to get more practical advice on how to live a better life, the 30-year-old introvert who wants to turn their life around, or the 45-year-old worker who suffers from burnout.

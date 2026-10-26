@@ -24,7 +24,7 @@ Scharmer argues that leaders who want to find creative solutions to today’s ch
 
 ## Lesson 1
 
-### Learn from the future as it emerges instead of looking to the past.
+### Learn from the future as it emerges instead of looking to the past
 
 The underlying idea of U-theory is that any person can progress either from the future or past. It focuses on the notion that each of us has two selves: past and future.
 
@@ -36,7 +36,7 @@ This is exactly what creative leaders ought to do. They should drop learning fro
 
 ## Lesson 2
 
-### Tap into the “blind spot” to access your full creative potential.
+### Tap into the “blind spot” to access your full creative potential
 
 Now we get to the technical side of how to get through the “U process” as a leader. Theory U divides this into three major steps:
 
@@ -56,7 +56,7 @@ Finally, there is the third step of going back up the U. This involves bringing 
 
 ## Lesson 3
 
-### Adopt the approach used in software development: prototype, test, iterate.
+### Adopt the approach used in software development: prototype, test, iterate
 
 “Changing the world” is a tall order, and most people wouldn’t even know where to begin. But Scharmer does: start with agile development. It breaks down into 3 steps:
 
@@ -77,7 +77,5 @@ Thanks to this way of working, they don’t fear failure or give in to unnecessa
 ## Review
 
 *Theory U* is as inspiring as it is practical. I appreciate Scharmer’s work because he is not merely an academic; he also builds his arguments on personal experience in managing people and organizations. I think this is the main reason why this book comes across as so authentic and valuable.
-
-## Who it’s for
 
 The 55-year-old executive who feels stuck in managing his department, the 38-year-old state administration employee who recognizes the flawed status quo but doesn’t know how she can change it, and anyone placed in a context where they need to act as a leader.

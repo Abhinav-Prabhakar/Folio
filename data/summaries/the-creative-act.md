@@ -22,11 +22,9 @@ Here are 3 lessons that will help you make things that are true to yourself whil
 
 Ready for your inner artist to start swinging the brush? Here we go!
 
-### The Creative Act Summary
-
 ## Lesson 1
 
-### Your creative journey begins when you open yourself up to inspiration from all sources.
+### Your creative journey begins when you open yourself up to inspiration from all sources
 
 In the surprisingly wisdom-packed kids’ movie *Kung Fu Panda*, Master Oogway teaches Master Sifu a lesson: “Look at this tree, Sifu,” Oogway says. “I cannot make it blossom when it suits me, nor make it bear fruit before its time.” Sifu, however, insists: “But there are things we *can* control! I can control when the fruit will fall!” With that, Sifu hits the tree, and while a bunch of peaches fall down, most of them land on the floor — and one knocks him on his head.
 
@@ -38,7 +36,7 @@ Only once you open yourself up to the creative forces flowing through the world 
 
 ## Lesson 2
 
-### Lower the stakes to get over your fear of making things.
+### Lower the stakes to get over your fear of making things
 
 As children, we’re excited about everything we make, no matter how inconsequential. We show sandcastles and crayon drawings to our parents, and before we can hear their opinion, we’re off to build the next thing.
 
@@ -52,7 +50,7 @@ Don’t try so hard. Especially not early on. Craft a guilt-free creative space,
 
 ## Lesson 3
 
-### We must make art for art’s sake. Anything else won’t work.
+### We must make art for art’s sake. Anything else won’t work
 
 This is more of a philosophical point, but it captures Rick Rubin’s spirit well: “The purpose of art is to make art,” he believes. All we can do is make the best, most playful, most honest art we can make. The rest is out of our hands.
 

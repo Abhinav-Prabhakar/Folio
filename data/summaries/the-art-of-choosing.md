@@ -18,7 +18,7 @@ Are you game to chop some complexity out of your choices? Let’s level up your 
 
 ## Lesson 1
 
-### You must find out how much choice you personally need, something that heavily depends on culture, for example.
+### You must find out how much choice you personally need, something that heavily depends on culture, for example
 
 There are innumerable factors that influence any given choice you make. When we think about how we can change these, we usually try to answer the question “How can I maximize the amount of choice I have?” – because we assume that more choice is better. At least that’s how *I* try to answer it, because I grew up in the Western civilization.
 
@@ -36,7 +36,7 @@ How much freedom of choice you need is not an easy one to answer for yourself, b
 
 ## Lesson 2
 
-### Some choice is better than none, and even the illusion of it makes us happier.
+### Some choice is better than none, and even the illusion of it makes us happier
 
 Two famous studies among over 10,000 British civil servants, called the Whitehall studies, showed that employees with a higher salary tended to be healthier, in spite of having more stressful jobs. Those with the lowest pay grade had the highest likelihood of dying from heart disease. However, nobody who works for their government in a Western country lives a life close to the poverty line, so what’s the deal?
 
@@ -48,7 +48,7 @@ For example, when new residents of a nursing home were given a suggested schedul
 
 ## Lesson 3
 
-### Sometimes it’s better to have others choose for you, but only if you’re properly informed.
+### Sometimes it’s better to have others choose for you, but only if you’re properly informed
 
 Sometimes in life, we have to make really, *really* hard choices.
 
@@ -67,7 +67,5 @@ Groups 1 and 3 felt equally as bad, either for being robbed the choice and the i
 ## Review
 
 There were so many good things to share from *The Art Of Choosing*, I had a tough time choosing – ironic huh? Highly recommended read!
-
-## Who it’s for
 
 The 27 year old Asian college student, who’s frustrated with her parents pressure to do things a certain way, the 79 year old nursing home resident, who’s sick of being told what to do, and anyone who struggled with a tough health decision before.

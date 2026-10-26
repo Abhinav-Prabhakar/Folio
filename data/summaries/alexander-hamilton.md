@@ -22,7 +22,7 @@ Are you ready to discover why we should appreciate Hamilton more? Let’s begin!
 
 ## Lesson 1
 
-### Hamilton’s wit and gift in writing helped him escape poverty and become an important figure in the American Revolution.
+### Hamilton’s wit and gift in writing helped him escape poverty and become an important figure in the American Revolution
 
 Hamilton was born on the Caribbean island of Nevis, far from where he would eventually be making history. His mother wasn’t married and because of this, he was poor. He also suffered a lot of stigmatization for being illegitimate. His father left his life when he was 11. Two years later, his mother passed away, leaving him and his brother orphaned.
 
@@ -34,7 +34,7 @@ George Washington was so impressed with his wit and writing that he made him his
 
 ## Lesson 2
 
-### Hamilton’s contributions included helping defend and ratify the Constitution and starting the first national bank and currency.
+### Hamilton’s contributions included helping defend and ratify the Constitution and starting the first national bank and currency
 
 After winning the Revolutionary War, the US was in bad shape. Under the Articles of Confederation, the federal government was weak and the colonies lacked unity. To make matters worse, soldiers who had fought in the war weren’t getting paid. The government had no money to pay them, and they were starting to revolt.
 
@@ -48,7 +48,7 @@ Next, he created a national bank and established a uniform currency for every st
 
 ## Lesson 3
 
-### Unfortunately, because of his strong personality and rocky personal life, he rubbed some people the wrong way, which resulted in his death.
+### Unfortunately, because of his strong personality and rocky personal life, he rubbed some people the wrong way, which resulted in his death
 
 Hamilton had many clashes with his colleagues, including Thomas Jefferson and James Madison. He favored a stronger government, while Jefferson and Madison wanted states rights. He and Jefferson were lifelong political adversaries.
 
@@ -61,7 +61,5 @@ When Burr ran for New York governor, Hamilton gave speeches to in an attempt to 
 ## Review
 
 Wow, what a wild ride! I wasn’t familiar with Hamilton’s history and this book was really enlightening. *Alexander Hamilton* is a great read that I highly recommend, which says a lot coming from someone who isn’t that into history books!
-
-## Who it’s for
 
 The 52-year-old who loves the Hamilton musical, the 24-year-old that loves history, and anyone that wants to know more about the exciting life and powerful influence of one of the greatest people in history.

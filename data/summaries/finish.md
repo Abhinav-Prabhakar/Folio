@@ -18,7 +18,7 @@ If you’re a chronic non-finisher, this is your chance to make a change. Let’
 
 ## Lesson 1
 
-### Practice strategic incompetence to take off the pressure.
+### Practice strategic incompetence to take off the pressure
 
 When I started my blog, I spent hours upon hours tweaking the design. I downloaded themes, cropped pictures and figured out CSS hacks, only to have the majority of my first few readers tell me that my color scheme sucked big time. It took me at least a year until I finally realized: I suck at design and that’s okay.
 
@@ -36,7 +36,7 @@ Strategic incompetence, I’m telling you. It’s a thing!
 
 ## Lesson 2
 
-### Pull the trigger once you reach the finish line.
+### Pull the trigger once you reach the finish line
 
 I’d love to tell you I’m always ahead of schedule with my posts, but I never am. I write about whatever fascinates me that week, and so there’s always urgency to publish new pieces in time for the newsletter. Whenever I finalize drafts early, there’s a little voice inside my head right before I want to hit ‘Publish.’
 
@@ -50,7 +50,7 @@ There is nothing sadder than that.
 
 ## Lesson 3
 
-### When you feel like you’re not moving forward, check your numbers.
+### When you feel like you’re not moving forward, check your numbers
 
 While checking your stats several times a day might destroy your blogging dream in less than a week, taking a peek once a week when you feel like nothing’s happening can be a good thing. One of perfection’s sneakiest tricks is to tell us we’re “not making enough progress,” when actually, we’ve never defined what enough progress looks like!
 
@@ -68,7 +68,5 @@ Don’t let vague doubts kill your vibe. Look at the right numbers at the right 
 ## Review
 
 Jon learned most the lessons in this book from hard data. Thousands of people have taken his 30 Days of Hustle challenge, and, interestingly, performed best after the lessons that took the pressure off. He turned his hard-won knowledge into *Finish* and the result shows. The book is a fun, but powerful way to put perfection in its place and wrap up what you start.
-
-## Who it’s for
 
 The 16 year old, who’s on her third instrument now, the 40 year old professor, who longingly stares at the drawer in his office that contains the first chapter of his sci-fi novel, and anyone who self-sabotaged their performance minutes before game time more than once.

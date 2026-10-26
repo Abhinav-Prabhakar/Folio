@@ -39,7 +39,7 @@ Reading those questions and asking ones like them is empowering. **They are full
 
 ## Lesson 2
 
-### When you focus on yourself by including “I” in your questions, you develop the rare and valuable habit of accountability.
+### When you focus on yourself by including “I” in your questions, you develop the rare and valuable habit of accountability
 
 People these days seem to be all about blaming everyone but themselves for their problems. We hear people say of their troubles “it’s just the way it is” without any hope for changing their situation. Many feel entitled to benefits without any willingness to become proactive and accountable for improving their situation.
 
@@ -49,7 +49,7 @@ Some situations prove to have barriers that seem insurmountable. Often we find o
 
 ## Lesson 3
 
-### To master the QBQ, ask questions that focus on action.
+### To master the QBQ, ask questions that focus on action
 
 Even though we may initially fear the risks of taking action, *not* acting is a greater risk. As Miller teaches:
 
@@ -66,7 +66,5 @@ Asking QBQ’s is as simple as combining all three of these principles. Start wi
 ## Review
 
 I love *QBQ!* and have since I read it a couple of years ago. I read *Learned Optimism* right before picking up this one, and my biggest question after that one was how to stay accountable and proactive while being optimistic. This book was the short and powerful answer I needed, and I highly recommend it as a must-read for everyone!
-
-## Who it’s for
 
 The 17-year-old high school student who loves to gossip and blame others for their misfortunes, the 45-year-old computer programmer who has just lost their job, and anyone who has ever asked themselves “why me?”

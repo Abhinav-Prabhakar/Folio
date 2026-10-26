@@ -18,11 +18,9 @@ Summarizing my own book, a book that is as much the result of this project, Four
 
 Ready to become a better saver, spender, and investor? Here’s a financial education in 4 minutes!
 
-### The 4 Minute Millionaire Summary
-
 ## Lesson 1
 
-### Even if you can only start small, your ability to start matters.
+### Even if you can only start small, your ability to start matters
 
 When it comes to achieving financial independence, many people defeat themselves before they even begin. If you think learning about money is useless until you have a lot, you’ll likely never accumulate any of it.
 
@@ -50,7 +48,7 @@ Risk is something to be managed rather than avoided. In Tom Lee’s case, he adv
 
 ## Lesson 3
 
-### Learn about these 7 new asset classes to get excited about investing.
+### Learn about these 7 new asset classes to get excited about investing
 
 The easiest way to stick to something is to have fun doing it. Therefore, if you want to build a long-term habit of investing, which is necessary for that habit to pay off, you need to find a class of investments that gets you excited.
 
@@ -73,7 +71,5 @@ Since I wrote this book, I might be a tad biased in reviewing it. Therefore, I�
 Michal Stawicki reviewed it. Uptime turned it into one of their knowledge hacks. And there are plenty of Amazon reviews too.
 
 My one-sentence pitch? Whether you want to build a saving habit, pay off debt, or invest like the pros – if you’re ready to look at money from a new perspective and build long-term wealth, this book is for you.
-
-## Who it’s for
 
 The 18-year-old high school graduate who wants to learn all about money but has been let down by traditional education, the 49-year-old parent who wonders what to teach their child about money, and anyone who wants financial freedom but doesn’t know where to start.

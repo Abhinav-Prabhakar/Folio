@@ -18,11 +18,9 @@ Here are 3 lessons outlining the simple, 3-part framework that will help us do m
 
 Let’s discover a better, more sustainable way to work!
 
-### Slow Productivity Summary
-
 ## Lesson 1
 
-### Limit your obligations big and small so you have time to work on — and accomplish — the work that matters most.
+### Limit your obligations big and small so you have time to work on — and accomplish — the work that matters most
 
 “Pseudo-productivity” is what Cal calls “the use of visible activity as the primary means of approximating actual productive effort.” Pair the dominance of knowledge work starting in the 90s with computers, the internet, and infinite communication tools, and you get a working population that’s busier *talking* about work than *doing* work.
 
@@ -42,7 +40,7 @@ Reduce your commitments, and your contribution to those commitments will drastic
 
 ## Lesson 2
 
-### Take your time with your biggest goals. They both need and deserve it.
+### Take your time with your biggest goals. They both need and deserve it
 
 Lin-Manuel Miranda is a composer, actor, and playwright best-known for his 2 smash-hit musicals *In the Heights* and *Hamilton*. But Miranda first performed *In the Heights* in 2000, 8 *years* before it hit Broadway and he won a Tony Award. His secret? He gave his masterpiece time. He kept working on it on and off until it was ready for its success.
 
@@ -54,7 +52,7 @@ Great work, like life itself, happens in seasons. Embrace slower periods, and gi
 
 ## Lesson 3
 
-### Relentlessly insist on producing quality work until you succeed.
+### Relentlessly insist on producing quality work until you succeed
 
 What do musician Jewel, Apple founder Steve Jobs, and small-business proponent Paul Jarvis have in common? They obsessed over quality instead of quantity. Jewel refused to make a certain kind of music to sell more records. Jobs trimmed down Apple’s product line and concentrated their energy on the Mac. And Jarvis went from popular creator to indie SaaS founder with no internet presence.
 
@@ -71,7 +69,5 @@ Whatever you do, remember: Slow and steady wins the race. “Do fewer things. Wo
 ## Review
 
 *Slow Productivity* provides a short-ish but elegant overview of more than a decade of productivity research. Cal practices academic rigor in his claims and then illustrates them with compelling, human stories. I can wholeheartedly recommend this one!
-
-## Who it’s for
 
 The 22-year-old college student who’s drowning in studying materials and assignments, the 40-year-old professional who doesn’t know how she is supposed to “keep this up” for another 20 years, and anyone who feels constantly busy but rarely proud of what they’ve accomplished.

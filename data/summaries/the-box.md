@@ -20,7 +20,7 @@ Let’s discover what we can learn here while writing our own success stories!
 
 ## Lesson 1
 
-### Malcolm McLean, a self-made trucking mogul battling rigid regulations began container shipping.
+### Malcolm McLean, a self-made trucking mogul battling rigid regulations began container shipping
 
 I imagined that the concept of container shipping was conceived by someone connected to the maritime realm. It was actually invented by an outsider in the trucking business named Malcolm McLean.
 
@@ -36,7 +36,7 @@ McLean’s genius wasn’t to invent the container, but to bring a crazy new ide
 
 ## Lesson 2
 
-### Major breakthroughs in Container shipping resulted from logistical mayhem while amassing troops during the Vietnam War.
+### Major breakthroughs in Container shipping resulted from logistical mayhem while amassing troops during the Vietnam War
 
 When you think about containers does the Vietnam War come to mind? I’m pretty sure it doesn’t. But I discovered that containers actually played a pretty significant role in the conflict.
 
@@ -50,7 +50,7 @@ Sea-Land provided seven ships. They would use their own trucks to transport to d
 
 ## Lesson 3
 
-### The impact of containerization affected industries outside shipping, like manufacturing and wholesaling.
+### The impact of containerization affected industries outside shipping, like manufacturing and wholesaling
 
 Even though it took some time to develop, containerization transformed the global economy. It wasn’t until about 1977 when industries like manufacturing and wholesaling began seeing the effects.
 
@@ -65,7 +65,5 @@ Transportation only rose more in significance as prices continued to drop, and i
 ## Review
 
 I enjoyed this book more than I thought I would. It’s one of those ideas that is so easy to take for granted, or not think about at all. These big containers impacts everyone in the world. *The Box* proves that life-impacting innovation does not always have to be super complex technology.
-
-## Who it’s for
 
 The 33-year-old logistics manager, the 41-year-old port agent and anyone who is considering an alternative home, that’s been around the world a few times.

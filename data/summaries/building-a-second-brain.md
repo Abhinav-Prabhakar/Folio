@@ -22,7 +22,7 @@ Let’s learn how to build a second brain!
 
 ## Lesson 1
 
-### There are 4 “CODE” steps of building and using a Second Brain.
+### There are 4 “CODE” steps of building and using a Second Brain
 
 How does Taylor Swift write smash hit after smash hit? What allowed dance choreographer Twyla Tharp to put together more than 160 pieces in her career? A Second Brain, which Tiago defines as “a private knowledge collection designed to serve a lifetime of learning and growth.”
 
@@ -41,7 +41,7 @@ But how do you organize your notes? Let’s talk about it!
 
 ## Lesson 2
 
-### Sort your notes with the PARA method to make them actionable and manageable.
+### Sort your notes with the PARA method to make them actionable and manageable
 
 Why do most note-taking systems fail? A lack of sync with our everyday lives. “[The systems] always required me to follow a series of elaborate rules that took time away from my other priorities,” Tiago writes, “which meant they would quickly become outdated and obsolete.”
 
@@ -60,7 +60,7 @@ Then, it’s back to the other steps of CODE — and using your Second Brain to 
 
 ## Lesson 3
 
-### Use your Second Brain to remember, connect, and create better than you ever have before.
+### Use your Second Brain to remember, connect, and create better than you ever have before
 
 A Second Brain isn’t a magic bullet, but where others are just killing time on their smartphones, you’ll create value instead, Tiago says. Specifically, you’ll gain 3 skills that will set you apart from most people:
 
@@ -75,7 +75,5 @@ What will *you* use your Second Brain for? Whether it’s writing a book, earnin
 ## Review
 
 *Building a Second Brain* is an honest, down-to-earth knowledge management system that doesn’t get lost in fancy terminology or too many complicated rules. If you want a plug-and-play method for taking notes that’ll help you remember more and think better, this one’s definitely worth a read!
-
-## Who it’s for
 
 The 19-year-old college freshman who has no idea how to handle all her classes, the 37-year-old mom with an unresolved chronic health issue, and anyone who hasn’t been able to find a note-taking system that sticks.

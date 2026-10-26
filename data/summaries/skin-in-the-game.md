@@ -18,7 +18,7 @@ If you’ve been scammed before, ended up with a low-quality product, or are fed
 
 ## Lesson 1
 
-### It is not uncommon for the minority to rule the majority.
+### It is not uncommon for the minority to rule the majority
 
 One of the many asymmetries Taleb has found lies in the consumption behavior of societies. Often, whoever has the most skin in the game can win, even if the odds are against them. This particular concept is called minority rule. It implies that societies will adapt demand for certain goods based on an inflexible minority. The majority does not always decide.
 
@@ -28,7 +28,7 @@ The majority doesn’t care, so the minority gets what it wants. Similarly, firm
 
 ## Lesson 2
 
-### Successful people don’t always have to be competent, because how we evaluate winners is industry-dependent.
+### Successful people don’t always have to be competent, because how we evaluate winners is industry-dependent
 
 If we’re honest, we’ve all used this excuse before, or at least thought of it: We claim someone got somewhere before us because they looked the part and we didn’t. While that may or may not have been true in your situation, Taleb claims the relationship between success and image isn’t the same in all industries. **For professions where skin in the game is necessary to succeed, an awkward image can be a sign of someone who’s more prolific, but where it isn’t, subjective factors decide who will win**.
 
@@ -38,7 +38,7 @@ On the other end of the spectrum are CEOs, politicians, and bankers. Being good 
 
 ## Lesson 3
 
-### When selling to rich people, the risk-reward-ratio of the transaction is off, which leads to more scams.
+### When selling to rich people, the risk-reward-ratio of the transaction is off, which leads to more scams
 
 You know how supposed door-to-door salesmen sometimes scam old people? They sell inferior products, charge too much, or sell products people don’t need in the first place. These con artists target older people because they’re a bit slower mentally. They also have more money.
 
@@ -51,7 +51,5 @@ As we get richer, the risk of spending more money on individual purchases goes d
 ## Review
 
 Taleb is out for truth. He reasons from the ground up, relies on the scientific method, yet paints colorful pictures with stories that are never boring to read. With *Skin In The Game*, he’s doing his part to help our generation tackle important problems we care about, instead of veering off into careers with lots of dollars, but little responsibility. I think that’s a good thing.
-
-## Who it’s for
 
 The 22 year old business graduate, who’s about to enter the consulting world, where no one takes on risk for their clients, the 40 year old professor, who hasn’t dared to put any of his non-scientific writing out for the public, and anyone who knows they’re an easy sales pitch victim.

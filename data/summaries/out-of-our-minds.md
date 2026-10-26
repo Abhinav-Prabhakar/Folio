@@ -20,7 +20,7 @@ In a world where we need to adapt faster than ever to succeed, it would be out o
 
 ## Lesson 1
 
-### As evolution changes faster and faster, creativity will become our competitive edge.
+### As evolution changes faster and faster, creativity will become our competitive edge
 
 One of Google’s scientists concerned primarily with the future coined a phrase: the Law of Accelerating Returns. It describes the habit of evolution to speed up. For example, ships and carriages were the de facto mode of transportation for almost 2,000 years before 150 years ago, we came up with steam engine trains. A mere 30 years later, we had cars. Another 20 and we had commercial airplanes. Little after that, we set foot on the moon.
 
@@ -32,7 +32,7 @@ If you’re hoping you can get a nice, cushy job, where you do what you’re tol
 
 ## Lesson 2
 
-### Creativity is applied imagination.
+### Creativity is applied imagination
 
 Few of us ever bother to do it, but if we researched what makes humans unique in the animal world, we’d realize biologically, there are very few elements we don’t share with some other species. What no other living being can do like us is psychological: simulate. Our imagination is limitless.
 
@@ -50,7 +50,7 @@ So what’s stopping us?
 
 ## Lesson 3
 
-### A common mistake in creativity is that we think we have to let go of our rules and take the blame.
+### A common mistake in creativity is that we think we have to let go of our rules and take the blame
 
 Besides the old, industrial model of school, which keeps us thinking in boxes, there are two common pitfalls that keep us from using our creativity to its full capacity in our careers:
 
@@ -64,7 +64,5 @@ Only when you learn to get over these old, albeit persistent dogmas, can you dev
 ## Review
 
 Sir Ken Robinson provides interesting insights all around. From framing recent human history in minutes to make the speed of evolution graspable, to going from abstract concepts to concrete implementations, to showing ways in which our current business landscape is flawed in fostering creativity, *Out Of Our Minds* provides a nice overview of one of the most important topics of our time.
-
-## Who it’s for
 
 The 15 year old who sits in the back of her biology class, bored out of her mind, the 28 year old sales manager, who just got laid off, because big parts of his job were automated, and anyone who’s in charge of leading a team.

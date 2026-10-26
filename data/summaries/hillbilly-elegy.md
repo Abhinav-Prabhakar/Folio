@@ -20,7 +20,7 @@ Let’s dive right in and see what lessons we can learn from *Hillbilly Elegy*!
 
 ## Lesson 1
 
-### J.D.’s childhood was really hard because of his awful family life.
+### J.D.’s childhood was really hard because of his awful family life
 
 J.D. was born in the rust belt town of Middletown, Ohio. After the local steel manufacturer was outsourced, the people lost their jobs and the property values declined, trapping the residents in poverty. This was the world he was born into.
 
@@ -34,7 +34,7 @@ His teen years were full of instability as he and his mother moved from place to
 
 ## Lesson 2
 
-### When J.D. moved in with his grandmother, everything started to change and it continued getting better when he joined the military.
+### When J.D. moved in with his grandmother, everything started to change and it continued getting better when he joined the military
 
 When he was living with his grandma “Mamaw’, J.D. finally had some stability. She encouraged him to work hard and apply himself in school. Her three rules were that he get good grades, get a job, and help her out. He was happy to finally have structure and complied with these new rules.
 
@@ -46,7 +46,7 @@ After the military, he went to college, worked like crazy, and got into Yale law
 
 ## Lesson 3
 
-### We can learn valuable lessons from Vance’s rise out of poverty.
+### We can learn valuable lessons from Vance’s rise out of poverty
 
 Vance soon learned at Yale that success is all about *social capital,* or who you know. Most students didn’t get a job by resumes, but by connections. Since he was a poor boy from Ohio, he didn’t really have connections that others seemed to have to the Ivy League world.
 
@@ -59,7 +59,5 @@ However, J.D. was fortunate enough to rise above the trials and he now has a gre
 ## Review
 
 What a crazy, sad, and inspiring story! Reminds me a lot of Tara Westover’s book *Educated*. One side of my family is what you might call hillbillies but they’re nowhere near this level of crazy and are some of the nicest people you’d ever meet. *Hillbilly Elegy* makes me grateful for my good upbringing and also inspired me to rise above the few challenges I do have!
-
-## Who it’s for
 
 The 17-year-old who has hillbilly parents that’s curious if there’s a chance for them to succeed, the 57-year-old that’s curious about the lifestyle of people like J.D.’s family, and anyone who loves to hear inspiring stories.

@@ -20,7 +20,7 @@ Curl up in your favorite reading chair and let’s get into this terrible story 
 
 ## Lesson 1
 
-### Tragedy and horror struck a small Kansas community when Dick Hickock and Perry Smith murdered the Clutter family.
+### Tragedy and horror struck a small Kansas community when Dick Hickock and Perry Smith murdered the Clutter family
 
 Normally, the Clutter family was at church every Sunday. But on this particular Sunday in 1959, they didn’t show up, causing a concerned neighbor to call them. When they didn’t answer, she and a few other neighbors decided they would stop by to check on them.
 
@@ -34,7 +34,7 @@ To make things worse, the police had no leads whatsoever.
 
 ## Lesson 2
 
-### The memory of an inmate combined with a mistake by Hickock and Perry was just what the police needed to close the case.
+### The memory of an inmate combined with a mistake by Hickock and Perry was just what the police needed to close the case
 
 The first info about the murders came to light when a prisoner overheard the news on the radio. Floyd Wells recognized the Clutter name immediately. He knew exactly who had done this.
 
@@ -52,7 +52,7 @@ After collecting other evidence such as matching food prints and finally confess
 
 ## Lesson 3
 
-### The murders took place after the men discovered there was no cash or riches to steal.
+### The murders took place after the men discovered there was no cash or riches to steal
 
 So what actually happened on that night in Holcomb? It turns out that Perry gave an astonishingly detailed confession of the murders. They arrived a little after midnight and snuck through an unlocked door on the side of the house.
 
@@ -69,7 +69,5 @@ With only a few dollars of cash and a couple of small items from the house, they
 ## Review
 
 I found *In Cold Blood* was both interesting and tragic, and while the story is so sad, it might inspire you to make some changes that could improve your chances of survival if you ever find yourself in the presence of a murderer!
-
-## Who it’s for
 
 The 37-year-old mom who loves to hear stories about true crime, the 64-year-old that wonders why some people kill others, and anyone who is a fan of suspenseful stories of criminal actions.

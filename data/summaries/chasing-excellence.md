@@ -20,7 +20,7 @@ While practice beats theory, these lessons are a great starting point if you’r
 
 ## Lesson 1
 
-### Hard, consistent work is what outpaces motivation in the long run.
+### Hard, consistent work is what outpaces motivation in the long run
 
 Athletes are some of the most committed people in the world. They train tirelessly, push their bodies to the absolute limit, and don’t allow anything or anyone to stand in their way. But how do they do it? What makes them so different from us? And how can we start to apply their principles to our own lives?
 
@@ -32,7 +32,7 @@ Motivation is what will get you out of the bed, but consistency and habit will g
 
 ## Lesson 2
 
-### To get past mistakes, athletes focus on what they can control and practice breathwork.
+### To get past mistakes, athletes focus on what they can control and practice breathwork
 
 In the world of athletics, mistakes happen. A lot. And when they do, athletes have to be able to move on quickly, or else they’ll never get anywhere. To do this, they use a mindset that’s rooted in stoicism: they focus only on what they can control, and try to let go of what they can’t.
 
@@ -46,7 +46,7 @@ They practice breathwork too—breathing exercises like deep breathing and medit
 
 ## Lesson 3
 
-### Excellence means being confident, seeing the good in everything, performing well, and knowing your worth.
+### Excellence means being confident, seeing the good in everything, performing well, and knowing your worth
 
 Athletes are well known for their physical strength, but they also possess mental toughness. Mental toughness is a set of behaviours and practices that help athletes achieve excellence by being confident and toughening their minds to help them, not play against them.
 
@@ -65,7 +65,5 @@ Confidence comes with training and consistency. Being confident means knowing wh
 Reading this book will make you understand how athletes achieve excellence by being confident and training their minds to coordinate them, not play against them. When facing losses, they’re humble and try to learn from their mistakes. Overall, they’re positive and always look forward to new experiences.
 
 Great insights to study and apply to your own personal life!
-
-## Who it’s for
 
 The 20-year-old athlete who wants to know what it takes to become a professional in the field, the 35-year-old coach who wants to better their training system and build top performers, or the 45-year-old person who is a sports lover and also likes to read about all great stories in the industry.

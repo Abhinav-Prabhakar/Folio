@@ -18,7 +18,7 @@ There’s a great deal of lessons to absorb from the most famous philosophers ar
 
 ## Lesson 1
 
-### Many of humanity’s essential discoveries start in ancient Greece.
+### Many of humanity’s essential discoveries start in ancient Greece
 
 Ancient Greece is widely known as the pylon of philosophical thinking and science, as the founders of such areas of expertise conducted groundbreaking discoveries in the aged poleis. At first, there was Socrates, considered the founder of Western philosophy.
 
@@ -30,7 +30,7 @@ People should choose their leader according to their academic performance, inste
 
 ## Lesson 2
 
-### Spinoza reformulated the meaning of religion in the ancient times.
+### Spinoza reformulated the meaning of religion in the ancient times
 
 Spinoza was a Jewish immigrant who led his life in Holland after the Portuguese Inquisition in the sixteenth century. He was excellent in his thinking, and grew up to be a star student in the Synagogue. He had a passion for the Jewish culture, Descartes’ philosophy, as well as religion in general.
 
@@ -40,7 +40,7 @@ He argued that God isn’t a super-being but rather a force of the universe, one
 
 ## Lesson 3
 
-### Voltaire helped France enter an enlightenment phase.
+### Voltaire helped France enter an enlightenment phase
 
 Voltaire was widely known for his controversial writings, as he was always criticizing the French tyranny and way of governance. For this reason, he was imprisoned twice, before he escaped to England. In the British territory, he found enlightenment.
 
@@ -51,7 +51,5 @@ He saw how the British rule freely, ports write with no restrictions, and how th
 ## Review
 
 *The Story of Philosophy* delves into the lives and ideas of famous personalities in history, such as Plato, Socrates, Voltaire, Immanuel Kant, and many others. The book is a compilation of philosophical concepts that traveled around the world and paved the way for the enlightenment era, new ways of governance, a stronger sense of purpose in humans, and an exploration of the meaning of life. The philosophers touched on humanity’s most burdening questions and came forth with some relative answers, which the author presents in this book.
-
-## Who it’s for
 
 The 30-year-old person who’s passionate about philosophy and the life of famous thinkers, the 36-year-old person who wants to explore famous philosophical ideas and concepts, or the 29-year-old person who wants to deepen their knowledge in history and philosophy and grow their spirituality.

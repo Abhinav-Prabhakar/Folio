@@ -16,11 +16,9 @@ Here are 3 lessons from the 3 acts of the novel to help you understand its core 
 
 Mirror mirror on the wall, who’s the most beautiful of them all? Dorian Gray, apparently — let’s see what that’s all about!
 
-### The Picture of Dorian Gray Summary
-
 ## Lesson 1
 
-### You can run from the consequences of your actions, but you can’t hide from them forever.
+### You can run from the consequences of your actions, but you can’t hide from them forever
 
 The book opens with artist Basil Hallward finishing a portrait of a young and beautiful Dorian Gray. Also-present Lord Henry Wotton talks about hedonism, a worldview that suggests only beauty is worth pursuing — because it never lasts. In response, Gray says he’d “give his soul” if only his portrait would age instead of him. Surprisingly, his wish comes true.
 
@@ -32,7 +30,7 @@ Similarly, Dorian can run from the consequences of his actions, but he can’t h
 
 ## Lesson 2
 
-### Our initial response to failure is often to blame someone else — usually, we are wrong.
+### Our initial response to failure is often to blame someone else — usually, we are wrong
 
 For the next 18 years, Dorian abandons all virtue and goes all in on beauty and vice, as Lord Henry suggested. He seduces countless women, attends lavish parties, and tries every drug under the sun, not aging a day through all of it.
 
@@ -44,7 +42,7 @@ We’re all human. It’s normal to not take it well when you hit rock bottom. I
 
 ## Lesson 3
 
-### Acceptance can resolve everything, even when it comes too late to change anything.
+### Acceptance can resolve everything, even when it comes too late to change anything
 
 After murdering Basil, fate lets Dorian off the hook two more times. First, he bumps into Sibyl’s brother James, who wants vengeance for his sister’s death. But the young-looking Dorian convinces him he can’t possibly be Sibyl’s ex-fiancé, for that must be an older man. Second, when James remains suspicious and stalks Dorian, he is accidentally shot while Dorian is out hunting with a group of others.
 

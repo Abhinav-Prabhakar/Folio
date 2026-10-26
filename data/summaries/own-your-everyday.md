@@ -22,7 +22,7 @@ Are you ready for some motivational life lessons?! Let’s get into this book an
 
 ## Lesson 1
 
-### If you want to finally solve your problems, dive deep enough to uncover their true roots.
+### If you want to finally solve your problems, dive deep enough to uncover their true roots
 
 Have you ever felt embarrassed by a huge zit on your forehead? Maybe this was a common occurrence for you as a teenager. The author had acne too, even into adulthood.
 
@@ -40,7 +40,7 @@ Start by taking a 30-day challenge during which you don’t criticize yourself. 
 
 ## Lesson 2
 
-### Stop comparing yourself to others and you’ll be less stressed.
+### Stop comparing yourself to others and you’ll be less stressed
 
 How often do you scroll through social media only to feel depressed afterward? Everyone you see is doing amazing things and you’re left wondering why you aren’t doing the same. You feel anxious wondering how your life could be better if you’d just work a little harder.
 
@@ -58,7 +58,7 @@ Also focus on joyful thoughts each time you’re tempted to be jealous. You migh
 
 ## Lesson 3
 
-### Use the 10-10-10 rule to uncover the hidden consequences of distractions so you can beat them.
+### Use the 10-10-10 rule to uncover the hidden consequences of distractions so you can beat them
 
 In the last couple of years I’ve found a dozen or more different graduate programs that I could do. I also purchased multiple online courses, most of which I haven’t finished yet.
 
@@ -79,7 +79,5 @@ Consider, for instance, the effects of putting off your blog post to scroll thro
 ## Review
 
 What an empowering and encouraging book! *Own Your Everyday* really got me pumped up, especially because I can relate to so many of the situations the author speaks about. I’m certain that this will be a game-changer for your life!
-
-## Who it’s for
 
 The 31-year-old mom of three kids that feels overwhelmed and wants more purpose, the 53-year-old that wonders if there’s more to life than the daily grind, and anyone that gets tired of the emptiness they feel after endlessly scrolling through social media.

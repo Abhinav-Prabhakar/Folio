@@ -28,7 +28,7 @@ Ready to finally sit in the marketing seat and run the media company that you re
 
 ## Lesson 1
 
-### Before creating a campaign, always go through the GRAB² model.
+### Before creating a campaign, always go through the GRAB² model
 
 If you think big brands like Coca Cola, Sony and Nike have long figured out Facebook ads and that there’s not much left to gain, you couldn’t be more wrong. Because it’s still a fairly new marketing channel – TV ads are almost 80 years old, Facebook was founded 12 years ago – most people just open the ad tool and have no idea what to do next. Big players, small companies, creative individuals, no one has a clue when they click on “create ad.” But you will, because you’ll go through this:
 
@@ -42,7 +42,7 @@ Running through the GRAB² model alone and thinking about these issues for each 
 
 ## Lesson 2
 
-### Optimize your budget to be most effective with the 20/30/50 rule.
+### Optimize your budget to be most effective with the 20/30/50 rule
 
 Remember the difference between being efficient and effective? The former is all about doing things the right way, the latter is about picking the right things in the first place. Obviously, effectiveness is a lot more important, because a wrong thing done well still gets you nowhere. In terms of money, one means spending the right amount at the right time, while the other means spending it on the right things.
 
@@ -58,7 +58,7 @@ Effective, not (just) efficient.
 
 ## Lesson 3
 
-### Try to narrow down your target audience to 300,000 people or less to make sure your conclusions hold up.
+### Try to narrow down your target audience to 300,000 people or less to make sure your conclusions hold up
 
 Facebook’s targeting system is insanely detailed. You can target a 53 year-old, divorced, Asian, liberal woman, who likes Oprah, The Times, plays Candy Crush on her iPhone, came home from an international business trip one week ago and has her 54th birthday coming up. It’s *that* specific.
 
@@ -81,7 +81,5 @@ I absolutely loved the book. I basically ate it. Over the course of 3-4 hours, I
 Do you know why that means a lot to me? Because having a scalable channel where I can acquire new email subscribers will allow me to increase the revenue from this site to $1,000/month instead of $700/month, which would allow me to pay for rent *and* food, not just rent. This would equate to less stress and more time to create things, like these awesome book summaries for you.
 
 You can abuse any kind of marketing for meaningless causes. But you can also use it to be of service to the world. That’s what this book is supposed to help you do. You already were a marketer. Now you know it. For the sake of all of us: be a responsible one.
-
-## Who it’s for
 
 The 17 year old fashion freak, who posts all of her new bargains on Instagram already, and could offer style consultations, the 36 year old marketing analyst, who’d love to be the one to get Facebook ads working for his company, and anyone who thinks or knows that they won’t be able to work with a boss for 40 years.

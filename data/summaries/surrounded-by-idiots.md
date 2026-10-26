@@ -20,7 +20,7 @@ Let’s see how these types work and interact!
 
 ### Between choleric, sanguine, phlegmatic, and melancholic, people usually have one dominant type of personality
 
-This concept of dominant personality types was first brought forth by Hippocrates way back in the fifth century BC. He stated that everyone can fall into one of the four categories of personalities: red (choleric), yellow (sanguine), green (phlegmatic), or blue (melancholic). **Of course, everyone shares traits from all these categories, but we all have adominant personality.**
+This concept of dominant personality types was first brought forth by Hippocrates way back in the fifth century BC. He stated that everyone can fall into one of the four categories of personalities: red (choleric), yellow (sanguine), green (phlegmatic), or blue (melancholic). **Of course, everyone shares traits from all these categories, but we all have a dominant personality.**
 
 Dominance, ambition, drive, initiative, and competitiveness characterizes the Red type, or choleric. They are usually hot-headed and hard to tame. They like to change things and claim leadership. This type is also the first one to stand up in a critical situation, as they’re not afraid to speak their minds.
 
@@ -28,7 +28,7 @@ The Yellow type is different. Sanguine people are confident, cheerful, and chari
 
 The Blue type, or the melancholic, is often the personality of a pessimistic person. They speak only when they thought everything through and they’ve analyzed all details carefully. They’re also perfectionists, which can slow down their work, and they’re silent in their actions and words. Famous melancholics include Bill Gates and Albert Einstein.
 
-**Now, having a predominantpersonality typedoesn’t mean that you don’t share traits with all the others.** However, people tend to have mixed Red and Yellow traits, like being extrovert and ambitious, or Green and Blue, implying calmness and analytical skills.
+**N ow, having a predominant personality type doesn’t mean that you don’t share traits with all the others.** However, people tend to have mixed Red and Yellow traits, like being extrovert and ambitious, or Green and Blue, implying calmness and analytical skills.
 
 ## Lesson 2
 
@@ -59,7 +59,5 @@ The melancholic type is ready to accept feedback, as long as you’re very detai
 ## Review
 
 *Surrounded by Idiots* shows you how you can improve your communication with the four dominant personality types by tailoring information to the individual. The book holds valuable insights on how to have fruitful conversations with anyone by identifying their type and building the dialogue accordingly. A definite recommend!
-
-## Who it’s for
 
 The 25-year-old aspiring psychologist who wants to learn more about the personality types that humans have, the 35-year-old team leader who’s looking to improve communication in their working group or the 30-year-old introvert who wants to learn how to communicate better and form meaningful connections with people outside their usual group.

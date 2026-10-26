@@ -68,6 +68,4 @@ The book will show you how to overcome systemic racism by helping you acknowledg
 
 Reading this book will shed light on views that will change your life for the better. This book will teach you how to overcome limitations using just your mind.
 
-## Who it’s for
-
 The 35-year-old person dealing with exclusion at their workplace. The 28-year-old person who’s heard about cognitive biases and wants to learn more about ways to overcome them. Or the 40-year-old person who feels stuck in a rut and wants to change the way they think.

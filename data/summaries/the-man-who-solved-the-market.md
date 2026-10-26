@@ -20,7 +20,7 @@ Are you ready for an inspiring story of a brilliant man? Let’s dive right in!
 
 ## Lesson 1
 
-### His outstanding knack for math began at a surprisingly young age.
+### His outstanding knack for math began at a surprisingly young age
 
 Do you think that a 4-year-old could understand complex math theorems? How about come up with them all on his own? As crazy as it sounds, this is just what young Simons did.
 
@@ -34,7 +34,7 @@ Although the family doctor thought that Simons should study medicine, the newly 
 
 ## Lesson 2
 
-### Simons’s first firm, Monemetrics, experienced wild and rapid success from his brilliance.
+### Simons’s first firm, Monemetrics, experienced wild and rapid success from his brilliance
 
 His impressive career includes studying at MIT and Berkeley, teaching at Harvard, cracking Soviet codes during the Cold War, and much more. All of his studies in math made Simons think about how it could apply to the stock market. At 40-years-old he left academia to begin a hedge fund management firm by the name of Monemetrics.
 
@@ -48,7 +48,7 @@ One time, while relaxing at the beach, Baum had an idea strike him that they had
 
 ## Lesson 3
 
-### Jim Simon’s earnings as a stockbroker are far better than any others in the investment world, and his resume is impressive.
+### Jim Simon’s earnings as a stockbroker are far better than any others in the investment world, and his resume is impressive
 
 Simons’s history includes introducing computers to the art of investing, two name changes of his firm, and working with some interesting people. His entire life is an impressive achievement that not many of us could do with three lifetimes, let alone one.
 
@@ -65,7 +65,5 @@ Jim simons is a great man who went from a wonder-filled child to one of the grea
 ## Review
 
 I’m not usually one for history books, but I thought *The Man Who Solved The Market* was interesting. It’s got the right amount of business and math for my tastes. The story of Jim Simons is interesting and inspiring!
-
-## Who it’s for
 
 The 52-year-old who loves their work in the financial field, the 31-year-old mathematician who wants some inspiration from the story of one of the smartest people in the world, and anyone who’s interested in stories about exceptionally intelligent people.

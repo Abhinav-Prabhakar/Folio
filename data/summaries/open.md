@@ -20,7 +20,7 @@ Serving up another great book summary! So let’s get right to it!
 
 ## Lesson 1
 
-### Agassi had a rough childhood because of his overbearing father, who was obsessed with grooming his son to become a tennis star.
+### Agassi had a rough childhood because of his overbearing father, who was obsessed with grooming his son to become a tennis star
 
 When Agassi was only seven years old, he spent every day playing tennis against a tennis ball machine his dad had built in their backyard. Agassi hit up to 2,500 balls a day as his father yelled directions on how to improve his technique.
 
@@ -34,7 +34,7 @@ Agassi began to rebel. But smoking weed, wearing jeans for practice, and a pink 
 
 ## Lesson 2
 
-### Agassi has struggled with his tennis fame for much of his life.
+### Agassi has struggled with his tennis fame for much of his life
 
 Agassi was just 16 when he placed second in the final of the Florida Masters tournament, but he struggled with his feelings about tennis. For one, he hated it, and he would have to face that for the rest of his career.
 
@@ -50,7 +50,7 @@ Rock bottom came soon after he got married. He ended up testing positive for ill
 
 ## Lesson 3
 
-### Agassi found purpose when he founded a school, and finding a good partner helped him make a surprising comeback.
+### Agassi found purpose when he founded a school, and finding a good partner helped him make a surprising comeback
 
 After hitting rock bottom, Agassi knew what he needed was a new challenge to motivate himself. So he set a goal to regain his number one ranking. But first, he needed to figure out who he really was. One of the things that helped him do this was establishing a new school for at-risk children in Las Vegas.
 
@@ -66,8 +66,6 @@ At the end of his career, people often commented on his transformation. Agassi s
 
 ## Review
 
-I had no idea how tough it could be to live in the spotlight like Agassi did! *Open* really *open* ed my eyes to a whole new side of fame that I didn’t know existed. Of course, I’d always heard Agassi’s name here and there growing up, but it was interesting and inspiring to learn more about him from his book.
-
-## Who it’s for
+I had no idea how tough it could be to live in the spotlight like Agassi did! *Open* really *open*ed my eyes to a whole new side of fame that I didn’t know existed. Of course, I’d always heard Agassi’s name here and there growing up, but it was interesting and inspiring to learn more about him from his book.
 
 The 35-year-old who loves to play tennis, the 62-year-old sports enthusiast, and anyone who wants to hear an inspirational life story.

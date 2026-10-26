@@ -56,6 +56,4 @@ Senolytics, or nutrients found in kale, red onion, or capers, are here to help! 
 
 *Lifespan* is a highly interesting and actual piece of writing regarding the aging process and the possibility to reverse this disease. Indeed, the author believes that aging is a treatable illness more than just a natural part of life, and so he provides its readers with potential solutions to fix thai problem and prolong their lifespan significantly. The book incorporates areas like nutrition, biology, molecular science, and groundbreaking discoveries from modern medicine to come up with ways of curing aging, and so it’s definitely a piece worth reading for the curious minds.
 
-## Who it’s for
-
 The 40-year-old biology professor who is highly passionate about their field of expertise, the 50-year-old woman who isn’t comfortable with her age and is looking to reverse the aging trend, or the 38-year-old science researcher who likes to read about groundbreaking discoveries in their area of interest.

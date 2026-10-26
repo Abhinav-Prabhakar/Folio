@@ -18,7 +18,7 @@ Ever wanted to launch a high tech product? Here’s the blueprint for ya!
 
 ## Lesson 1
 
-### The chasm is a gap between visionary early adopters and the pragmatic majority.
+### The chasm is a gap between visionary early adopters and the pragmatic majority
 
 The main idea of the book is based on the technology adoption life cycle, which states that new technology makes its way through the population in a bell curve distribution.
 
@@ -38,7 +38,7 @@ This dilemma is what Geoffrey Moore calls “The Chasm” and it’s something a
 
 ## Lesson 2
 
-### You can only cross the chasm by targeting a specific niche first.
+### You can only cross the chasm by targeting a specific niche first
 
 So how do you overcome that vast chasm between the two groups? You start small.
 
@@ -60,7 +60,7 @@ But you don’t just have to commit to a certain segment. You also have to talk 
 
 ## Lesson 3
 
-### Position yourself as the market leader in your niche by making a strong claim.
+### Position yourself as the market leader in your niche by making a strong claim
 
 Positioning is extremely important when it comes to customers making purchase decisions.
 
@@ -85,7 +85,5 @@ This claim will allow you to focus exactly on your initial niche and eventually 
 I’ve heard the concept of *Crossing The Chasm* several times before, and I keep wondering whether it translates into other segments as well, where the products aren’t as high-tech. If you want to learn more about it, Simon Sinek integrates it well into his TED talk.
 
 Mr. Moore’s blueprint works, dozens of companies have proven it over the years – most recently Uber, who initially targeted the techy hipsters at the SXSW conference, video drones, who are becoming a standard tool for shooting video and of course Facebook, who collected college campus after college campus in his user base until everyone wanted to get an account.
-
-## Who it’s for
 
 The 17 year old, who dreams of running a tech startup, the 53 year old, who just realized she might be part of the laggards group, and anyone who has trouble telling people in 2 sentences what they do for a living.

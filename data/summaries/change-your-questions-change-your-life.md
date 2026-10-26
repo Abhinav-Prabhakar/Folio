@@ -4,11 +4,11 @@
 
 ## Overview
 
-Through a vivid cast of characters, author Marilee Adams invites us into a workplace fable from which you’ll learn how to revolutionize your personal and professional relationships. Awareness of your thinking patterns will lead you to questions like *What happened?,* *What are the facts?*, and *What assumptions am I making?* Instead of seeking fault and blame.
+Through a vivid cast of characters, author Marilee Adams invites us into a workplace fable from which you’ll learn how to revolutionize your personal and professional relationships. Awareness of your thinking patterns will lead you to questions like *What happened?, What are the facts?*, and *What assumptions am I making?* Instead of seeking fault and blame.
 
 You’ll learn that, in addition to judging others, we’re also quick to judge ourselves. Every one of us operates from a mix of learner and judger mindsets. With effort, we can cultivate the seeds of connection by watering and fertilizing rich beds of acceptance, curiosity, dialogue, and creativity, while pulling the weeds of blame, rigidity, assumptions, and fear.
 
-Additionally, you’ll learn how to implement the ABCC Choice Process. First, ask yourself if you are judging. Next, take a breath and get curious about your circumstances. Finally, choose to ask learner questions. The insights, diagrams, and stories in *Change Your Questions, Change Your* *Life: 12 Powerful Tools for Leadership, Coaching, and Life* give you the tools to shape positive interactions in every facet of your life.
+Additionally, you’ll learn how to implement the ABCC Choice Process. First, ask yourself if you are judging. Next, take a breath and get curious about your circumstances. Finally, choose to ask learner questions. The insights, diagrams, and stories in *Change Your Questions, Change Your Life: 12 Powerful Tools for Leadership, Coaching, and Life* give you the tools to shape positive interactions in every facet of your life.
 
 Activate your curiosity with these 3 lessons:
 
@@ -20,7 +20,7 @@ Activate your curiosity with these 3 lessons:
 
 ## Lesson 1
 
-### You have the power to choose your reactions, whether to learn or to judge.
+### You have the power to choose your reactions, whether to learn or to judge
 
 Thoughts, feelings, and circumstances fill every waking moment of our days and spill over into our dreams. As recovering judgers, our first opportunity for change presents itself when we observe our thoughts and recognize their nature.
 
@@ -28,13 +28,13 @@ Questions like: *What am I responsible for?* and *What are they thinking, feelin
 
 Imagine receiving a call from your teenager who just backed your brand-new SUV into the shopping cart corral at the grocery store. Or, an email from your boss highlighting every benchmark you did not hit over the last quarter. Maybe you received a summons for jury duty, and it’s scheduled for the same week as your much-anticipated vacation. All of those scenarios elicit thoughts and feelings. How should you deal with them?
 
-**Will you ask: *Why am I so careless? Why am I a failure? Why Bother?* Or, instead: *What happened?* *What are my choices?* *What’s best to do now?***
+**Will you ask: *Why am I so careless? Why am I a failure? Why Bother?* Or, instead: *What happened? What are my choices? What’s best to do now?***
 
 Events, good and bad, flow through our lives like a river. When you mindfully paddle, you master the ability to skirt rocks and find less turbulent waters within the rapids. Asking learner questions keeps you moving forward.
 
 ## Lesson 2
 
-### Like a life preserver, a switching question can save you from drowning in a pit of misery.
+### Like a life preserver, a switching question can save you from drowning in a pit of misery
 
 Imagine yourself at a long, rectangular conference table waiting for a meeting to begin. For ten minutes, the woman to your right has been rapid firing opinions about your child’s primary school, which her children previously attended. You endure her complaints about the teachers, the lunch program, and the new math curriculum. She even has an opinion about how the janitor mops the floors. Running through your mind are questions like, *How did I get seated here?* and *Who does she think she is?*
 
@@ -46,7 +46,7 @@ Practice asking yourself questions like *What assumptions am I making?* and *How
 
 ## Lesson 3
 
-### Use these twelve questions to guide your success in personal and organizational explorations.
+### Use these twelve questions to guide your success in personal and organizational explorations
 
 When you encounter situations in which you are frustrated, feeling stuck, or want something to change, ask the questions listed below from different perspectives. You can substitute *You* and *We* for *I*.
 
@@ -70,7 +70,5 @@ Make a copy of the list and keep it handy!
 ## Review
 
 As I read *Change Your Questions, Change Your Life*, I found myself wanting to share each lesson with anybody willing to listen. The book’s ideas and questions are functional tools to shift away from conflict and into progress. I’ve put my internal observer on alert. When I find myself asking judgmental questions, I turn and look for a *switching question* to change my direction.
-
-## Who it’s for
 
 The 32-year-old who has just been promoted to a managerial position, a 52-year-old newly elected school board member, and anyone wanting to live a life of curiosity and exploration.

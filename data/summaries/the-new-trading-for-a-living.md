@@ -20,7 +20,7 @@ Want to trade for a living? Here are your starting steps!
 
 ## Lesson 1
 
-### Don’t let your commissions eat up your profits.
+### Don’t let your commissions eat up your profits
 
 Like anything, becoming a good trader won’t happen overnight, but while you can’t skip getting all the experience necessary to make a decent living at it, what you can skip are a few rookie mistakes.
 
@@ -32,7 +32,7 @@ That’s why it’s important to pick a broker with very low fees in the beginni
 
 ## Lesson 2
 
-### Leave your emotions at home.
+### Leave your emotions at home
 
 Another rookie mistake is **trading emotionally**. Just like in a good poker game, emotions have no place in trading. You can’t feel personally attached to any one stock and shouldn’t just buy a company’s stock because you like their product.
 
@@ -44,7 +44,7 @@ Once you let your emotions control how you trade, you can literally watch your c
 
 ## Lesson 3
 
-### Minimize your risk with two simple rules.
+### Minimize your risk with two simple rules
 
 Elder has two wonderful rules to help you avoid gambling and minimize your risks and losses. They’re called **the 2% rule and the 6% rule**.
 
@@ -65,7 +65,5 @@ Such a refreshing set of blinks! So much practical advice. Elder shares a lot of
 I like that in spite of being specific, his advice is still generic enough to help you with trading in general, and not limited to any particular kind of investment, like options, stocks, or futures.
 
 Highly recommended to pair *The New Trading For A Living* with *The Intelligent Investor* by Benjamin Graham. Two big thumbs up!
-
-## Who it’s for
 
 The 14 year old youngster, who’s heard about trading and wants to learn as much as she can before she’s allowed to finally trade herself, the 52 year old, who’s investing on the side, and suffers from high commissions, because he doesn’t have the same funds as a huge hedge fund, and anyone who’s ever gambled some money away and felt bad about it.

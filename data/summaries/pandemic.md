@@ -20,7 +20,7 @@ Get your face masks and gloves ready and let’s get smarter about pandemics!
 
 ## Lesson 1
 
-### Germs have adapted to humans as we have spread around the globe.
+### Germs have adapted to humans as we have spread around the globe
 
 In the last tens of thousands of years, humans have spread all around the globe. People are found on every continent and in all different types of environments. But there have been some serious consequences to this spreading out.
 
@@ -34,7 +34,7 @@ However, because they had so many animals caged close together, it adapted littl
 
 ## Lesson 2
 
-### Pathogens thrive in our modern transportation systems and inadequate waste disposal.
+### Pathogens thrive in our modern transportation systems and inadequate waste disposal
 
 As our lives have been improved with transportation advances like airplanes and trains, this has also been beneficial for germs as well. In fact, without the help of our transportation systems, they wouldn’t be able to spread across the globe as they do now.
 
@@ -48,7 +48,7 @@ Even if you’re not nearby you can experience the effects of this. How often do
 
 ## Lesson 3
 
-### Politics and false beliefs can be detrimental in our handling of outbreaks before they get too bad.
+### Politics and false beliefs can be detrimental in our handling of outbreaks before they get too bad
 
 When it comes to pandemics, sometimes the people put in charge to protect the people are the ones who do the most harm. This was the case of the cholera outbreaks in 1832 and 1849 that were helped by a crooked politician.
 
@@ -65,7 +65,5 @@ To the other doctors, replacing fluids couldn’t be the answer. They thought di
 ## Review
 
 This book is incredibly on point with where we are at right now. As of this writing, it’s 2020, and *Pandemic* was written in 2016. Right now we are experiencing every single one of these predicted dangers of pandemics with the COVID-19 outbreak worldwide. Let’s hope that this book and others like it makes us smarter so we don’t repeat these same mistakes!
-
-## Who it’s for
 
 The 57-year-old politician who has the ability to save millions of lives by calling for social distancing measures, the 21-year-old who is studying public health in college, and anyone affected by the COVID-19 pandemic.

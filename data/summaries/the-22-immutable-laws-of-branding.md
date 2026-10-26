@@ -18,7 +18,7 @@ Branding is an ever-changing field, but some laws remain forever. Fortunately, w
 
 ## Lesson 1
 
-### There are three core rules of advertising that you can use to market a successful brand.
+### There are three core rules of advertising that you can use to market a successful brand
 
 There are a lot of misconceptions associated with advertising. Marketers worldwide often promote products to the wrong market, at the wrong time, in all the wrong way. Fortunately, there is indeed a success formula – sort of – to use if you want to maximize your efforts.
 
@@ -30,7 +30,7 @@ This is how brands form and become recognizable. Similar to the first two laws, 
 
 ## Lesson 2
 
-### The Law of Publicity and the Law of Advertising can help you build a brand that sells.
+### The Law of Publicity and the Law of Advertising can help you build a brand that sells
 
 The fourth law of marketing and branding is the Law of Publicity, which is key when it comes to building a brand from scratch. Publicity is essential to any brand looking to scale, regardless of its size. Without it, your business isn’t going to be successful. A great start is by being the first within an industry.
 
@@ -42,7 +42,7 @@ Users want to know that your product is the top choice within its category – a
 
 ## Lesson 3
 
-### The last four laws of branding will get your product from average to exceptional.
+### The last four laws of branding will get your product from average to exceptional
 
 The sixth law of branding is the Law of the Word, which states that you should associate your brand with a powerful word. Mercedes is highly associated with “prestige”, while Honda is thought to be “well-engineered”. What’s your catchword?
 
@@ -59,7 +59,5 @@ You only need a great first impression and a one-time proven claim. Then, you’
 The book teaches us that brand is more than just a logo and should be part of every aspect of the business, whether it’s marketing or production. Brands emerge when customers are willing to pay a premium for goods or services simply because they associate them with your brand.
 
 There are numerous ways to achieve that and the dynamic business world changes continuously, but some laws remain universal truths.
-
-## Who it’s for
 
 The 24-year-old marketing student who wants to study their field in-depth, the 35-year-old old who wants to learn how to advertise their start-up, or the 40-year-old marketing manager who wants to upgrade their company’s marketing strategy from scratch.

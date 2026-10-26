@@ -18,7 +18,7 @@ Are you ready to learn more about what may be the most suitable philosophy for t
 
 ## Lesson 1
 
-### We should strive to gain wisdom in order to live a simple, natural life.
+### We should strive to gain wisdom in order to live a simple, natural life
 
 Astrophysicist Neil deGrasse Tyson has a great idea of the most astonishing fact about the universe:
 
@@ -32,7 +32,7 @@ If we do so, the result is wisdom, which makes attaining it not just a logical g
 
 ## Lesson 2
 
-### The single most valuable thing you own is your mind.
+### The single most valuable thing you own is your mind
 
 Looking at life through the Stoic model of the world, the logic consequence is that your mind is your most valuable possession. Since your thoughts are the only thing you *really* control, Stoicism is mainly concerned with studying, training, and practicing your perception, action, and will. In one of his letters, Seneca compares the healthy mind to a well-loaded ship: everything is secured and fastened in its right place, so regardless of how rough the sea gets, the view is always clear.
 
@@ -44,7 +44,7 @@ In reality, however, all we need to find true peace is turn inward and take care
 
 ## Lesson 3
 
-### Wise people don’t need friends, but they surround themselves with a few loyal ones regardless.
+### Wise people don’t need friends, but they surround themselves with a few loyal ones regardless
 
 One of the many ways a calm mind helps you build a good life is by allowing you on only surrounding yourself with true friends. How? First, a wise man or woman who’s at peace with herself will be happy from inside. He or she won’t need friends to fill some void in their life. Instead, they can build friendships from abundance and giving, which is exactly what makes *them* a good friend.
 
@@ -55,7 +55,5 @@ Second, because they can wait for the right people to come around, Stoics truly 
 ## Review
 
 You can never have enough Stoicism in your life. You can read the letters for free here, but Penguin Classics does a great job of coming up with modern translations and helpful context. So if you want to learn more now, don’t sleep on *Letters From A Stoic*.
-
-## Who it’s for
 
 The 15 year old pupil, who’s in danger of getting sucked into social media addiction, the 35 year old entrepreneur, who’s so deep into the hustle he’s forgotten what he’s hustling for, and anyone who’s suffered a tragic loss in the past year.

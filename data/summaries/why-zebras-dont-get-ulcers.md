@@ -18,11 +18,9 @@ Here are my three favorite lessons from the book:
 
 Now it’s time for us to go in depth with all these lessons, so let’s start exploring them one by one!
 
-### Why Zebras Don’t Get Ulcers Summary
-
 ## Lesson 1
 
-### Stress is a natural response to a crisis situation, but make sure not to create one out of thin air.
+### Stress is a natural response to a crisis situation, but make sure not to create one out of thin air
 
 The human body is remarkable in many ways. Everything that makes up our mind is wired in a way that connects everything within us and with the outside world. So if one part of us feels as if something dangerous or uncomfortable is happening, our brain will perceive it as a stressful situation. That’s because we are programmed to survive in every circumstance.
 
@@ -32,7 +30,7 @@ Since our biggest source of stress is psychological, we have to learn how to dea
 
 ## Lesson 2
 
-### The autonomic nervous system works in a remarkable way.
+### The autonomic nervous system works in a remarkable way
 
 The autonomic nervous system is another outstanding function in our body which helps us respond and recover from stress. Let’s see how! First thing first, this system has two parts, which work on opposite functions. The first part is called the sympathetic nervous system. It is responsible for triggering stress during real, or imaginary, situations of crisis.
 
@@ -44,7 +42,7 @@ On the other hand, the parasympathetic nervous system is responsible for the cal
 
 ## Lesson 3
 
-### Taking responsibility for your actions and giving back to your community improves stress levels.
+### Taking responsibility for your actions and giving back to your community improves stress levels
 
 Those who offer gifts and help feel better than those who receive it. And it looks like studies are here to back this information up. Married couples who give constant support to each other are generally healthier and happier than single people. As well as people working as judges, in hospitality, or other similar jobs.
 
@@ -55,7 +53,5 @@ However, it’s important to recognize what type of stress you can solve, and wh
 ## Review
 
 *Why Zebras Don’t Get Ulcers* taps into the subject of stress and teaches its readers how to keep it under control and manage it effectively by taking charge of your thoughts and stopping the overthinking process. The book talks about the harmful effects of stress on the human body and how by having high levels of cortisol and other stress-related hormones, we subject our body to disastrous effects. The author then explores ways to deal with stress and keep it under control with effective life practices that one can implement right away, like taking responsibility for their actions, or simply giving more.
-
-## Who it’s for
 
 The 40-year-old employee who works too much and is close to burnout, the 35-year-old person who suffers from chronic stress and wants to treat it effectively, and anyone trying to balance their career and their personal life.

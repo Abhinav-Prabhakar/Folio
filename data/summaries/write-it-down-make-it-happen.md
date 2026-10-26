@@ -20,7 +20,7 @@ Haven’t tried writing down your goals yet? Failed on your resolutions before? 
 
 ## Lesson 1
 
-### Be specific when writing down your goals to activate your RAS.
+### Be specific when writing down your goals to activate your RAS
 
 Spread throughout your brainstem is a wide, complex web of connected neurons called the reticular activating system, or RAS for short. It is one of the oldest parts of our brain and takes care of several basic, but essential biological functions. In essence, what it does is prime your subconscious to focus on certain triggers over others.
 
@@ -30,7 +30,7 @@ It is the RAS, for example, that gets parents of a newborn to wake up at the sli
 
 ## Lesson 2
 
-### Use rapidwriting to uncover hidden worries and concerns, and overcome them.
+### Use rapidwriting to uncover hidden worries and concerns, and overcome them
 
 When a Jewish person calls you a ‘kvetch,’ it means they’re annoyed by your constant whining. But what may start as incessant complaining can actually have a bigger purpose: ‘kvetching’ is also a way of talking out your negativity until you’ve got your feelings back in order.
 
@@ -42,7 +42,7 @@ When you feel you’re done, stop, take a break, then read everything again. You
 
 ## Lesson 3
 
-### To motivate yourself for your biggest goals, achieve small ones first and add charitable outcomes.
+### To motivate yourself for your biggest goals, achieve small ones first and add charitable outcomes
 
 A great way to pay down all your debts is to start with the smallest one and work your way up the ladder. Since you’ll finish the first one quickly, you’ll speed up getting an actual result, which will inspire you to tackle the next, bigger problem. With our goals, this dynamic also works.
 
@@ -53,7 +53,5 @@ Another thing you can do to inspire yourself is to add a charitable component. L
 ## Review
 
 The ideas in *Write It Down, Make It Happen* are simple, but work. If you’re looking for a good how-to on goal-setting that doesn’t get lost in theory and uses lots of practical examples, look no further!
-
-## Who it’s for
 
 The 22 year old college student, who makes lots of resolutions, but fails to see them through, the 38 year old suburban mom, who complains a lot to her friends, and anyone who quit working on their last big goal too early.

@@ -61,6 +61,4 @@ Receiving implies being open (both mentally and through your body language) to y
 
 *The Lost Art of Connecting* delves into the philosophy of meaningful connections and encourages its readers to aim for long-lasting, genuine bonds. Instead of looking at relationships from a transactional point of view, the book emphasizes the importance of helping others without having your best interest at heart, seeking help when you need it, and listening to your peers. Reading this book will teach you the Gather, Ask, Do method, which starts with looking for new friends, asking them questions, and listening to them, among other aspects.
 
-## Who it’s for
-
 The 30-year-old who feels that they’ve been revolving around the same circle for years and want to expand their network, the 40-year-old who achieved financial success but feels like they need to work on developing more meaningful relationships, or the 27-year-old hustler who wants to build networks and long-lasting friendships in life.

@@ -20,7 +20,7 @@ Are you ready to learn how to finally stand out in a competitive market? Let’s
 
 ## Lesson 1
 
-### Don’t follow old ways of advertising like TV, instead think about your customer’s questions and answer them with content.
+### Don’t follow old ways of advertising like TV, instead think about your customer’s questions and answer them with content
 
 It’s probably not hard to find some sort of advertisement around you right now. If there’s not one present, there will be on the next YouTube video you watch or website you visit. It’s hard to imagine parts of our day where someone *isn’t* trying to convince us to buy their product!
 
@@ -34,7 +34,7 @@ Deere & Company, for example, puts out a publication called *The Furrow*. It’s
 
 ## Lesson 2
 
-### If you want to find your niche and build a following, you need to start by focusing on understanding your audience.
+### If you want to find your niche and build a following, you need to start by focusing on understanding your audience
 
 So you know that you’ve got to have content, but how do you make it? Well, the best way is to begin by understanding what your customer needs. And to do that, you’ve got to find out who they are.
 
@@ -52,7 +52,7 @@ Say you have a pet store and you’re writing blog posts about the supplies you 
 
 ## Lesson 3
 
-### Social media and SEO are the tools you need to learn if you want people to see your content.
+### Social media and SEO are the tools you need to learn if you want people to see your content
 
 Alright so you’re figuring out some of the details of creating your posts or videos and now it’s time to get it out into the world. The best ways to get it seen are SEO and social media, but how do you use these in the right way?
 
@@ -73,7 +73,5 @@ Also, make sure to take advantage of search engine optimization. If you do it ri
 ## Review
 
 I really enjoyed *Epic Content Marketing*. It defines the more formal aspects of what it means to make money with a blog, which I am really interested in. It doesn’t account much for the solopreneur type who is doing it all on their own at the beginning but is still a great book that lays out the future of marketing!
-
-## Who it’s for
 
 The 56-year-old businessman who is tired of all their TV and mail ads failing and wants to know a better way, the 32-year-old that wants to quit their day job and become a blogger or content marketer, and anyone that wants to discover what effective marketing really looks like in the information age.

@@ -20,7 +20,7 @@ Want to choose to be great? Let’s do it!
 
 ## Lesson 1
 
-### Fanatic discipline is a trait of great companies.
+### Fanatic discipline is a trait of great companies
 
 Collins uses the story of the two most famous expeditions to the South Pole, both started simultaneously in 1910.
 
@@ -44,13 +44,13 @@ For example, writing this summary is my 20-mile march for today – after that, 
 
 ## Lesson 2
 
-### You should only innovate when the evidence supports it.
+### You should only innovate when the evidence supports it
 
 Yes, great companies are innovative, but not just for the sake of being innovative.
 
 You don’t see Apple throwing new products on the market every other week, do you? There’s a reason for that.
 
-Jim Collins calls it **firing bullets first, then cannonballs** *.*
+Jim Collins calls it **firing bullets first, then cannonballs** .
 
 Back in 2001, Apple released the first iPod, but it wasn’t the iPod you know today. It was a field test, and you can see that in the fact that it was only Mac-compatible.
 
@@ -64,11 +64,11 @@ That’s evidence-based innovation and that’s what you should practice.
 
 ## Lesson 3
 
-### Never rely on luck or chance to take care of things, instead maximize them by working hard.
+### Never rely on luck or chance to take care of things, instead maximize them by working hard
 
-If you know the basics of investing, you know that ROI means **R** eturn **O** n **I** nvestment. Every investor tries to maximize it, because the higher it gets, the more money you make per dollar invested.
+If you know the basics of investing, you know that ROI means **R**eturn **O**n **I**nvestment. Every investor tries to maximize it, because the higher it gets, the more money you make per dollar invested.
 
-Jim says leaders do something similar, but they maximize their ROL – **R** eturn **O** n **L** uck.
+Jim says leaders do something similar, but they maximize their ROL – **R**eturn **O**n **L**uck.
 
 That’s because in spite of what all the magazines, Youtube videos, news, Instagram channels and other media you see and follow tell you, success does not happen overnight.
 
@@ -93,7 +93,5 @@ I can’t wait to get my hands on Jim’s books. The summaries alone are so insp
 He puts more effort into them than 99% of all authors, and it really shows. There are guiding principles, supported with great stories and examples, infused with actionable steps you can take, and tons of inspiration built around it.
 
 I have already found lesson 1 and 3 to be profoundly true in my own life, so don’t underestimate the power of habits and hard work. Seems *Great By Choice* is definitely great by choice. I can also highly recommend its predecessors *Built To Last* and *Good To Great*.
-
-## Who it’s for
 
 The 31 year old who works at a marketing agency or service based business, which always seems to chase the next new thing, the 43 year old manager at a big corporation, who might see a lot of borrowed money spent on R&D, and anyone who thinks Justin Bieber just got lucky.

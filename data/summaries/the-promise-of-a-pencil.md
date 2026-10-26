@@ -26,7 +26,7 @@ Whether you want to build a charity, business, or book club, I hope you’re gam
 
 ## Lesson 1
 
-### You’re not following your intuition often enough. So do it more.
+### You’re not following your intuition often enough. So do it more
 
 Have you ever felt bad for following your intuition when it really mattered? Think about this for a second. Really hard.
 
@@ -44,7 +44,7 @@ Four Minute Books was started entirely on intuition, so don’t wait once you’
 
 ## Lesson 2
 
-### Act confident, even when you don’t know what you’re doing. Especially then.
+### Act confident, even when you don’t know what you’re doing. Especially then
 
 Too much confidence can be a problem. It’s often the reason the loudest person in the room makes the big decisions, and not the smartest one. While confidence and competence are two different things, **it’s crucial for you to have an unshakeable belief in yourself and your dream.**
 
@@ -58,7 +58,7 @@ You can’t change that you have to face a ton of failures and problems on your 
 
 ## Lesson 3
 
-### Quit trying to avoid mistakes and instead focus on learning from them.
+### Quit trying to avoid mistakes and instead focus on learning from them
 
 I love this one. It’s so simple. Yet so deep.
 
@@ -75,7 +75,5 @@ You’d become a lot better at everything you do, insanely fast. So stop trying 
 ## Review
 
 I’m afraid I’ve run out of words, because I just wrote and learned too much, haha. That’s a first. I think that tells you everything you need to know about what I think of *The Promise Of A Pencil* – plus one from me!
-
-## Who it’s for
 
 The 25 year old who’s done everything to please her family so far, but has an itch to do her own thing for a while, the 49 year old, who just started at a new job and is worried about making mistakes, and anyone who’s ever thought of starting a charity.

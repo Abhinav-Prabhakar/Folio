@@ -20,7 +20,7 @@ Let’s hear some two-minute pep talks!
 
 ## Lesson 1
 
-### The story of the $100 bill can help you remember your worth at all times.
+### The story of the $100 bill can help you remember your worth at all times
 
 One day, a teacher brought a $100 bill to her class. She showed it around and asked them: “How much is this worth?” “$100,” the class replied unanimously. She crumpled up the bill, then held it up in her hand. “And now?” The class was a bit confused. “Umm, still $100?”
 
@@ -34,7 +34,7 @@ That’s the lesson of the $100 bill. I hope you, just like the class, will neve
 
 ## Lesson 2
 
-### If you want the zig, learn to accept the zag.
+### If you want the zig, learn to accept the zag
 
 Sooner or later, we all learn that life’s not fair—but what if that’s actually one of the best things about it?
 
@@ -48,7 +48,7 @@ If you want the zig, you must accept the zag. Stop trying to have it both ways, 
 
 ## Lesson 3
 
-### No matter what happens, tomorrow can be a good day.
+### No matter what happens, tomorrow can be a good day
 
 As much as my friends and family insist that, at 33, I still behave like a 12-year-old sometimes, I, too, wonder where my Kinder Egg-pursuing spirit went. I have, however, managed to always retain one idea: Tomorrow can be a good day.
 

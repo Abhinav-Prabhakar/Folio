@@ -20,7 +20,7 @@ Let’s dive right in to see how our world has gotten into such disarray!
 
 ## Lesson 1
 
-### Economic agreements, nuclear weapons, and power balances have all made for a relatively peaceful order after World War II.
+### Economic agreements, nuclear weapons, and power balances have all made for a relatively peaceful order after World War II
 
 It seems like not much conflict came up once World War II was over. That wasn’t an accident though. A harmony between global leaders and balance of their powers was the start of it.
 
@@ -34,7 +34,7 @@ As economic interests increased after the war, countries also wanted a way to un
 
 ## Lesson 2
 
-### The international intervention policies that came as a result of Rwandan tragedies are important but difficult to implement.
+### The international intervention policies that came as a result of Rwandan tragedies are important but difficult to implement
 
 All seemed well within the allied nations, but outside there was still work to do. The African nation of Rwanda, for example, saw some rough times without any help from the outside.
 
@@ -48,7 +48,7 @@ Take Syria’s civil war, for example. When the majority Sunni Muslim citizens r
 
 ## Lesson 3
 
-### A peaceful world requires that all three of the big superpowers are thriving and cooperating.
+### A peaceful world requires that all three of the big superpowers are thriving and cooperating
 
 Does the growth of other nations worry you? Perhaps you’re afraid about Russia’s looming expansion into Ukraine. Or maybe you’re anxious about China overcoming territories in the South Seas. The truth is, there isn’t any evidence that these countries intention is to expand like that.
 
@@ -63,7 +63,5 @@ For that reason, the US should avoid intervening in these affairs to allow the g
 ## Review
 
 *A World In Disarray* had some interesting lessons, but it wasn’t my favorite. It seems odd that it identifies some policies which, to me, seem like they’re a good groundwork for a world not in disarray only if leaders followed them. Either way, this is an important topic to understand if we all want to work toward unifying our world.
-
-## Who it’s for
 
 The 23-year-old political science major with an interest in international relations, the 46-year-old history buff who wants to learn more about foreign policy, and anyone who is curious to discover what’s made our world so chaotic so they can find ways to make it more peaceful.

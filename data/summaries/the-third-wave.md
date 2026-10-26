@@ -20,7 +20,7 @@ Ready for a revolution? Let’s surf the Third Wave!
 
 ## Lesson 1
 
-### Soon, everything on this planet will be online, thanks to the Internet of Things.
+### Soon, everything on this planet will be online, thanks to the Internet of Things
 
 First, here’s a quick recap of the three waves of the Internet Age. The First Wave started in the 90s with the dawn of the internet.
 
@@ -32,7 +32,7 @@ Slowly seeping through to the general public after 1995, the Second Wave really 
 
 ## Lesson 2
 
-### You have to be okay with big, sudden changes, and even disrupt yourself to make it in a Third Wave world.
+### You have to be okay with big, sudden changes, and even disrupt yourself to make it in a Third Wave world
 
 This changes everything. The possibilities will be endless. Which means a lot of old solutions will become obsolete – and that’s okay. In fact, if you’re too busy trying to preserve the status quo, you’ll go down right with it.
 
@@ -46,7 +46,7 @@ It’s hard to abandon your worldview from one day to the next and doubt everyth
 
 ## Lesson 3
 
-### Cooperating with successful Second Wave companies will help you succeed.
+### Cooperating with successful Second Wave companies will help you succeed
 
 An especially sneaky part of disruption is that it often happens in subtle ways and before you know it it’s already the new status quo. How does that happen? Usually through partnerships.
 
@@ -59,7 +59,5 @@ Just like book publishers and record labels were gatekeepers before, now Amazon 
 ## Review
 
 Being a digital native this process feels almost natural to me. I’m not surprised if I find out that A is now connected to B or that my fridge now knows when to order milk, but if you’re not a millennial, this will get you up to speed fast! *The Third Wave* is a good book to help you live in the now and see the world as it is.
-
-## Who it’s for
 
 The 23 year old with lots of ambition to start an online company, the 40 year old who was around when the internet first rose but feels like history flew by her, and anyone who has a tough time admitting that what they’re doing might not be working any more.

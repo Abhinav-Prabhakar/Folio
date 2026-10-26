@@ -22,7 +22,7 @@ Are you ready to gain a new appreciation for the crapper? Let’s dive right in 
 
 ## Lesson 1
 
-### Adequate sanitation saves tons of money as well as lives.
+### Adequate sanitation saves tons of money as well as lives
 
 Did you know diarrhea takes an estimated 2.2 million lives a year? By just properly disposing of human feces, we can reduce diarrhea in developing countries by an astounding 40 percent. Havard scientist Gary Ruvkun suggested that access to a toilet is the biggest factor in living a long, healthy life. He believed it could add an estimated 20 years to a person’s lifespan.
 
@@ -34,7 +34,7 @@ Take Peru, for example. A 1991 cholera outbreak cost $1 billion to contain. Chol
 
 ## Lesson 2
 
-### In order to fix the problem, we need to get rid of the taboo and work to change sanitation habits.
+### In order to fix the problem, we need to get rid of the taboo and work to change sanitation habits
 
 Once we flush the toilet, we just don’t really want to talk about what happens after that. Even when talking about poop-related disease, we say things like “water-related diseases.” And then there’s “bathroom” and “water closet.” This taboo even appears in world charity groups like USAID, who spend 90 percent of their budget on clean water, which reduces diarrhea by 20 percent, instead of clean sanitation, which would reduce it by 40 percent.
 
@@ -46,7 +46,7 @@ Kar took the people around the village with him, calculating an estimate of how 
 
 ## Lesson 3
 
-### Though it presents many problems, there are also uses for human waste.
+### Though it presents many problems, there are also uses for human waste
 
 Calling it “waste” is a misnomer because it actually has some uses. People can reuse it and turn it into bricks for roads, for instance. It also contains valuable phosphates and nitrogen to feed plants.
 
@@ -59,7 +59,5 @@ This saves money on power, but in other ways as well. That’s because what’s 
 ## Review
 
 *The Big Necessity* is really eye-opening. If we want to do anything about the worldwide problem of waste disposal, the first step is to start talking about it. This book has a lot of details about the problems that we face when it comes to sanitation as well as valuable solutions for different parts of the world in dealing with it.
-
-## Who it’s for
 
 The 51-year-old activist that wants to know how we can save more lives, the 30-year-old that works as a city planner, and anyone that’s ever gone “number two” on the toilet.

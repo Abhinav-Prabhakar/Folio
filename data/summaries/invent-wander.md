@@ -16,11 +16,9 @@ Here are my three favorite lessons from the book:
 
 Now, we’re off to plenty of valuable insights from these lessons, which we’ll explore in detail below. Let’s start with the first one!
 
-### Invent and Wander Summary
-
 ## Lesson 1
 
-### A good businessman has a Day 1-mindset and knowledge in many areas.
+### A good businessman has a Day 1-mindset and knowledge in many areas
 
 A famous saying goes like this: *“Knowledge is power.”* This idea sets the foundation for all successful endeavors you’ll experience. Jeff Bezos himself advocates for cross-disciplinary education as the pillar of success. The more you extend your knowledge, the more you’ll be able to spot patterns and face challenges in multiple fields.
 
@@ -32,7 +30,7 @@ Not for Bezos! He approaches every day with a Day 1 mentality and imposes this c
 
 ## Lesson 2
 
-### Amazon’s tremendous success is based on its focus on customer satisfaction and its hiring practices.
+### Amazon’s tremendous success is based on its focus on customer satisfaction and its hiring practices
 
 In his letters to his shareholders, Jeff Bezos always addresses a series of principles that never change. Amazon is a company based on customers’ satisfaction, and will always place great emphasis on its clients. While other businesses try to study the competition and get ahead of their peers by adopting what works best for them and surpassing that, Amazon targets all efforts and resources toward their client base. Why is that? Well, without customers, all other operations are essentially useless.
 
@@ -44,7 +42,7 @@ Bezos spends many resources in the hiring process. He always focuses on attracti
 
 ## Lesson 3
 
-### Learn from your failures and make fewer but higher-importance decisions while thinking several years ahead.
+### Learn from your failures and make fewer but higher-importance decisions while thinking several years ahead
 
 Bezos advocates for productive failure. So what is that? In a nutshell, he states that while you can’t prevent failures, you can learn from them and do better next time. Rethink, regroup, find the flaws in your approach, and improve it. Eventually, there will be other opportunities coming up and many other challenges to face. So improving your skills today could help you tame the storms of tomorrow.
 
@@ -55,7 +53,5 @@ Another advice from Amazon’s founder is that you should work on making less de
 ## Review
 
 *Invent and Wander* delves into the lifelong philosophy of Jeff Bezos by synthesizing his letters to shareholders and other writings that the world’s once richest man composed. By looking at the way he is running his corporation to how he balances his passions and personal life, you’ll find great advice you can apply to all areas of your life. To achieve success implies a lifetime of hard work, dedication, taking risks, and calculating variables to get the desired outcomes. This book will help you learn how to do those things.
-
-## Who it’s for
 
 The 30-year-old entrepreneur who wants to thrive in his professional life and grow their business, the 22-year-old business administration or finance student who wants to extend their knowledge in this field outside their curricula, or the 40-year-old start-up founder who wants to work on their mindset and build a successful company by following the advice of the greatest businessmen in the world.

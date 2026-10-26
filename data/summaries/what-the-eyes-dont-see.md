@@ -22,7 +22,7 @@ Are you ready for a wild story that will probably mildly infuriate you? Let’s 
 
 ## Lesson 1
 
-### Flint’s drinking water crisis began in 2014, but government lies kept it hidden.
+### Flint’s drinking water crisis began in 2014, but government lies kept it hidden
 
 In 2011, Flint was in financial trouble. A provision of US law declares that a state’s governor can send an emergency manager (EM) to help in situations like this. Receiving their own EM would spark the beginning of the issues in Flint.
 
@@ -38,7 +38,7 @@ But the rest of Flint wasn’t so lucky. They weren’t even aware of the issue 
 
 ## Lesson 2
 
-### Dr. Mona wanted to do everything in her power to help the people of Flint, especially the children within her care.
+### Dr. Mona wanted to do everything in her power to help the people of Flint, especially the children within her care
 
 Through another fascinating story all on it’s own, Mona Hanna-Attisha, born of Iraqui parents in the UK, became the director of the pediatric residency program in a medical center in Flint. Her primary concern has always been for her patients-the children of Flint.
 
@@ -54,7 +54,7 @@ Mona presented her findings in a press conference that didn’t seem to make muc
 
 ## Lesson 3
 
-### Things started getting better after the state finally admitted the problem was real.
+### Things started getting better after the state finally admitted the problem was real
 
 It was almost 18 months after the initial water-source switch that Michigan state officials finally confirmed there was a problem. Their first press conference about it wasn’t very convincing, however.
 
@@ -73,7 +73,5 @@ After all of Mona’s efforts, the kids of Flint were finally getting the health
 ## Review
 
 Wow, *What The Eyes Don’t See* tells such a crazy story! I’m disappointed in my government for the way they’ve handled this situation. However, I’m grateful for the heroines like Mona Hanna-Attisha who will stand up to the corruption and lies against selfishness and racism!
-
-## Who it’s for
 
 The 57-year-old politician that wants to be better at serving the people than their own interests, the 33-year-old who wants some motivation to keep going in their fight against racism and other social issues, and anyone that loves and inspiring story of perseverance.

@@ -54,6 +54,4 @@ Regardless of how they intercept these emotions, whether they’re hormonal or i
 
 The Inner Life of Animals presents the similarities between humans and animals, and builds a case for all earth’s species to live in peace, coexist, and understand each other. Reading this book will deepen your knowledge of how animals feel, react, sense each other and us humans, and how we can empathize with them more. Moreover, it will help you let go of assumptions that make you think some animals are useless, bad, or uninteresting while helping you embrace the bigger picture of life.
 
-## Who it’s for
-
 The 30-year-old person who wants to escape excessive consumerism and get closer to nature, the 27-year-old person who is looking to stop eating meat out of empathy for animals, or the 40-year-old pet owner who wants to understand more about their beloved animal best friend.

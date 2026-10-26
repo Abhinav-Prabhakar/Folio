@@ -16,11 +16,9 @@ Here are three lessons from one of the most famous coming-of-age stories of all 
 
 **Note**: To historically significant books like this one, we’ll dedicate twice the word-space of our usual format. We hope you think it’s worth it. Let’s dive into one of the greatest novels of all time!
 
-### The Catcher in the Rye Summary
-
 ## Lesson 1
 
-### Everything is meaningless if you don’t apply yourself to it.
+### Everything is meaningless if you don’t apply yourself to it
 
 Holden Caulfield is a well-off boy at a prep school a few hours away from his home. On paper, he has everything he needs: food, clothes, a good education, and more. Emotionally, though, he is down in the dumps. He’s a teenager. He wants to rebel agains his parents. So, after failing all of his classes except one, he decides to paint the town — New York, his hometown — before his parents hear the news that he will be expelled yet again.
 
@@ -40,7 +38,7 @@ At the very end of the book, Holden notices that he misses all the people he com
 
 ## Lesson 2
 
-### Becoming someone, anyone, really, but especially the person you want to be, requires taking risks.
+### Becoming someone, anyone, really, but especially the person you want to be, requires taking risks
 
 A secondary theme of the book — and this, too, is something most of us experience as teenagers — is Holden’s struggle with forming an identity of his own. Just like Holden refuses to become emotionally attached to anything because he can’t assess it as unequivocally “good,” he is also paralyzed when it comes to chasing his own goals, because what would doing so say about *him*?
 
@@ -58,7 +56,7 @@ If you want to actually achieve your goals instead of just dream about them, you
 
 ## Lesson 3
 
-### Focus on the little joys, and life will become a lot less complicated.
+### Focus on the little joys, and life will become a lot less complicated
 
 For all his flaws and immaturity, Holden Caulfield still very much possesses the excitability and optimism so many of us lose as we grow up. He really enjoys his visit to the Museum of Natural History. He loves getting strangers to believe his made up but mostly harmless stories. Finally, Holden is thrilled at the prospect of delivering a record to his little sister, Phoebe, but unfortunately it breaks on the way.
 

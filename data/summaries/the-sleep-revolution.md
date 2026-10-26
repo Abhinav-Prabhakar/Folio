@@ -20,7 +20,7 @@ Ready to take a nap? Hold on, a few more minutes and you’ll get the most of it
 
 ## Lesson 1
 
-### You’ve been deprived of your sleep since you were a kid.
+### You’ve been deprived of your sleep since you were a kid
 
 I HATED getting up at 6 AM in school. Hated it. I had to take the bus to school every morning, which took half an hour, and was always there way too early. No matter how early I went to bed the night before, I was always tired.
 
@@ -49,7 +49,7 @@ In fact, women’s sex drive is directly connected to how much deep sleep they g
 
 ## Lesson 3
 
-### Install f.lux to avoid suppressing your melatonin production at night.
+### Install f.lux to avoid suppressing your melatonin production at night
 
 One of the best ways to spend more quality time with your partner at night is to ditch electronics after a certain time each day altogether, but depending on where your nighttime habits sit right now, that might be a bit of a stretch.
 

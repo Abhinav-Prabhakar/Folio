@@ -20,7 +20,7 @@ Is renewable energy all it’s cracked up to be? Let’s get right to these less
 
 ## Lesson 1
 
-### Wind and other alternative energy sources are sustainable, but producing them isn’t always.
+### Wind and other alternative energy sources are sustainable, but producing them isn’t always
 
 But alternative energy sources are renewable, so what could be wrong with that? One of the biggest problems with these energy sources is that the equipment and processes to actually produce power are not so renewable.
 
@@ -32,7 +32,7 @@ And while people might argue that it leaves less of a carbon footprint, they’d
 
 ## Lesson 2
 
-### The biggest challenge to our energy struggles is our high demand for it.
+### The biggest challenge to our energy struggles is our high demand for it
 
 We push for alternative energy but are ignoring the true core of our energy crisis: our huge demand for energy. But this is like treating the symptoms instead of the disease itself. Rather than find ways to make more energy, wouldn’t it be better to find ways to use less?
 
@@ -46,7 +46,7 @@ This is an attitude that values the production of things as this is what makes t
 
 ## Lesson 3
 
-### We could take better care of our planet if we could get our government to implement the right laws.
+### We could take better care of our planet if we could get our government to implement the right laws
 
 We can convince people to change their behavior, but the government also needs to help if we are to change the way things are. **In doing this, they also need to keep in mind that measures put in place need to not just decrease energy, but they also need to improve the well-being of the people and they can’t be too expensive.**
 
@@ -61,7 +61,5 @@ Lastly, the government should enforce “No junk mail” stickers on mailboxes a
 ## Review
 
 I’m really on the fence about *Green Illusions*. On one hand, these ideas bring up an important mindset of questioning that we should take into our plans and efforts to heal our planet from the harm that we’ve done to it. But on the other hand, it felt like there were a lot of assumptions made and some claims and ideas that just seemed too radical to work.
-
-## Who it’s for
 
 The 62-year-old who wants to become more informed about the truths behind the fight against climate change, the 29-year-old who wonders if renewable energy sources are actually all they’re cracked up to be, and anyone that’s concerned about our planet and wants to help heal it.

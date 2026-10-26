@@ -18,7 +18,7 @@ Ready to take the first step towards claiming the life that you deserve? Let’s
 
 ## Lesson 1
 
-### Stop complaining.
+### Stop complaining
 
 Remember yesterday’s example with your dollars being passengers on a bus? This lesson is exactly what that’s about. **You are the director of your own life.**
 
@@ -32,7 +32,7 @@ Every time you want to complain, ask yourself this question instead, and you’l
 
 ## Lesson 2
 
-### Make decisions about all unfinished projects in one weekend.
+### Make decisions about all unfinished projects in one weekend
 
 I’m so guilty of this. How many unfinished projects do you have? Think about work, your hobbies and side projects, and friends you’ve been meaning to catch up with for ages. Since Christmas I have a reminder in my phone to call an old friend. 4 months!
 
@@ -53,7 +53,7 @@ Just making a decision for every single thing you’ve got on your list will mas
 
 ## Lesson 3
 
-### Think positively, because your thoughts can mean life or death.
+### Think positively, because your thoughts can mean life or death
 
 Here’s how much what you think of yourself actually matters:
 
@@ -74,7 +74,5 @@ So beware your thoughts – they matter more than you might think.
 *The Success Principles* is a very philosophical book, with a similar message to books from other authors of Jack’s generation. Some of the techniques reminded me of *The Miracle Morning,* Jack talks a lot about visualization and affirmations.
 
 I really loved the completion weekend exercise, it spoke to me since it’s exactly what I need most myself right now, so I’ll get on it this weekend. In the meantime, I suggest you check out the summary of this book on Blinkist.
-
-## Who it’s for
 
 The 31 year old manager, who has more unfinished projects on his desk than he can count, the 47 year old single mum, who’s constantly worried she might never find a husband again, and anyone who keeps complaining about what’s reported in the news.

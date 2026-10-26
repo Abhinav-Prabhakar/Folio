@@ -18,7 +18,7 @@ Let’s explore each lesson in detail and learn more about the benefits of medit
 
 ## Lesson 1
 
-### If you want to remember things more easily and target your focus better, you should try meditation.
+### If you want to remember things more easily and target your focus better, you should try meditation
 
 Meditation is a mental exercise that involves focusing on one’s breathing or a specific word or phrase, which can be used to help the person achieve an altered state of consciousness. It has been shown to have many benefits, including improved focus and memory.
 
@@ -32,7 +32,7 @@ Find that feeling to focus on and discover the joy in it. Then, focus on the joy
 
 ## Lesson 2
 
-### There is a major difference between attention and awareness.
+### There is a major difference between attention and awareness
 
 The difference between attention and awareness is an important one to understand. Attention is the ability to focus on a particular thing, whereas awareness is being aware of what’s going on around you at all times. The two are closely related, but they’re not identical.
 
@@ -44,7 +44,7 @@ By learning to deal with thoughts and let them go when you’re meditating, you�
 
 ## Lesson 3
 
-### Set yourself up for success by taking the time each day to actively practice meditation.
+### Set yourself up for success by taking the time each day to actively practice meditation
 
 You know what they say: “Old habits die hard” – so how about turning that to your advantage? I know that making time for new rituals is not something everybody can do, considering professional and personal responsibilities.
 
@@ -63,7 +63,5 @@ This is your self-care time, so make sure to enjoy it without interrupting your 
 Meditation doesn’t have to be an abstract concept or a luxury service, but rather a mindfulness exercise that you practice during your self-care time for its benefits on your mind and body wellbeing.
 
 The book will teach you actionable steps that you can take today to start meditating, debunk popular myths about meditation, and so much more.
-
-## Who it’s for
 
 The 30-year-old person who needs to find a work-life balance, the 27-year-old mother who decided to give herself more self-care time and work on her mental health, or the 40-year-old person who just started learning about meditation or Buddhism.

@@ -20,17 +20,17 @@ If you’re willing to learn the implications of these lessons and see what they
 
 ## Lesson 1
 
-### Heroic individualism can lead to burnout, so start being more grounded in your inner life.
+### Heroic individualism can lead to burnout, so start being more grounded in your inner life
 
 So what is heroic individualism? Let’s see: Do you often feel like whatever you do isn’t enough? Or that the version of yourself that you want to achieve is far away from who you are now? Do you have to work restlessly to accomplish that? Whenever you take a break and stop working on being more efficient and productive, you have this unsettling feeling that can’t let you enjoy the present?
 
-If the answers are yes, I’ve got some news: You too suffer from heroic individualism. The solution? Ground yourself! Find your inner core and explore it. **Whether you love to dance, paint, spend time with your family, practice spirituality, connect with nature, do it!** It will make you reconnect with your life feel more stable and confident. Simply put, it will remind you of who you indeed are.
+If the answers are yes, I’ve got some news: You too suffer from heroic individualism. The solution? Ground yourself! Find your inner core and explore it. **W hether you love to dance, paint, spend time with your family, practice spirituality, connect with nature, do it!** It will make you reconnect with your life feel more stable and confident. Simply put, it will remind you of who you indeed are.
 
 Remember that the feeling of groundedness doesn’t derive from external factors but rather the inside ones. You’ll have to find or remember what it is that sparks the energy, the passion and the will to live within you. It doesn’t depend on the ups and downs going on in your life and your successes or failures. Your inner core is always constant.
 
 ## Lesson 2
 
-### After you’ve discovered your roots, share them with your community to grow stronger together.
+### After you’ve discovered your roots, share them with your community to grow stronger together
 
 Humans are social animals. We are made to live in communities, talk to people, socialize and form bonds. Whoever fantasizes about moving to a remote island and living there for the rest of their life would probably go crazy soon after they’ve arrived there. Therefore, to grow even more vital, people must collaborate.
 
@@ -40,7 +40,7 @@ To fix this mindset, you must ground yourself in a community. Find like-minded p
 
 ## Lesson 3
 
-### To become more grounded, you’ll have to start exercising.
+### To become more grounded, you’ll have to start exercising
 
 An old saying in Latin goes like this: *Mens sana in corpore sano*, which means a healthy mind in a healthy body. In other words, a healthy mind depends on a well-maintained, healthy body to function correctly.
 
@@ -51,7 +51,5 @@ However, the degree to which it affects the quality of our life is beyond remark
 ## Review
 
 If you feel too busy to enjoy life, always trying to be more efficient and productive, and feeling close to burnout or distanced from yourself, *The Practice of Groundedness* is the book for you. It will shed light on the importance of becoming more connected to your spirit and living a more balanced life. It will also offer some practical tips on how to start doing so right away. So if you want to learn how to become more grounded and connected, make sure to give this book a read.
-
-## Who it’s for
 
 This is for the 30-year-old person who works too hard and feels close to burnout. This is also for the 40-year-old person who has recently recovered from an illness. This can pertain to those who want to turn their life around by being more grounded. Lastly, it can also for the 50-year-old person close to retiring who wants to focus more on their spirituality and the relationship they have with themselves.

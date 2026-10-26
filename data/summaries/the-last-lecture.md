@@ -22,7 +22,7 @@ Let’s attend the last lecture, shall we?
 
 ## Lesson 1
 
-### Sticking to your dreams and ambitions will make them eventually come true.
+### Sticking to your dreams and ambitions will make them eventually come true
 
 Randy Pausch had a lot of dreams growing up. All of us do. Unfortunately, not all our childhood dreams come true. In fact, most of us don’t end up becoming what we thought we would when we were kids. Still, Randy managed to accomplish much of what he wished for.
 
@@ -34,7 +34,7 @@ Then, in 1995, he managed to convince the company to take him in as an expert in
 
 ## Lesson 2
 
-### We find pleasure often in giving, so helping others succeed can help you reach great levels of satisfaction.
+### We find pleasure often in giving, so helping others succeed can help you reach great levels of satisfaction
 
 Randy was a tough audience for his students. He often used a firm approach to encourage his class to become better and better. When his students presented projects in his “Building Virtual Worlds” class, he was receiving incredible projects. Still, he was always telling them to do better next time.
 
@@ -46,7 +46,7 @@ Finally, his desire to contribute to society made him create a computer programm
 
 ## Lesson 3
 
-### Simple advice does not necessarily mean poor advice, but rather the opposite.
+### Simple advice does not necessarily mean poor advice, but rather the opposite
 
 Randy’s courses were interactive and fun. He used to divide his class into groups and give them a handbook. The handbook contained information on how to form better connections and kick off a group session properly. Learning each other’s names, fostering brainstorming, and eating before work are pieces of advice he shared.
 
@@ -59,7 +59,5 @@ Sometimes, we receive advice that seems obvious or overrated. **However, the rea
 ## Review
 
 After getting his terminal diagnosis, Randy Pausch decided he would give *The Last Lecture*. The resulting book is awe-inspiring, thought-provoking, and will make you smile as well as look to the future with optimism in your heart. A highly recommended book!
-
-## Who it’s for
 
 The person who wishes to reconnect with his life and discover a deeper side of it, the person looking to give new meaning to their life after a traumatic event or a depression episode, or the book lover who’s interested in real-life emotional stories.

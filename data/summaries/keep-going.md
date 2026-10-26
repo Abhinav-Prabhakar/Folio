@@ -18,7 +18,7 @@ Now, let’s take each lesson one by one and explore the main ideas each section
 
 ## Lesson 1
 
-### Find whatever floats your boat, and add that to your daily routine to set the mood for work.
+### Find whatever floats your boat, and add that to your daily routine to set the mood for work
 
 Everybody functions in a different way, and when it comes to work, there’s no such thing as one-size-fits-all. Just like one person is good at math, while the other is good at arts, we all have different stimuli that get us motivated and ready to work, and that’s what everything is about when it comes to preparing your mind and body for something that requires creative thinking. For example, the famous German poet Goethe used to smell rotten apples before getting into his writing.
 
@@ -28,7 +28,7 @@ The lesson here is: find whatever floats your boat, and add it into your daily r
 
 ## Lesson 2
 
-### Set up a Bliss Station to focus on your work better.
+### Set up a Bliss Station to focus on your work better
 
 Bliss Station is a concept developed by the famous writer Joseph Campbell, and it implies setting up a work spot after your own taste. Building up a creative space allows you to retreat into a safe space where your creative being can express itself without being disturbed. Therefore, it’s particularly important to embrace your Bliss Station as something sacred, where nothing can interrupt your work.
 
@@ -38,7 +38,7 @@ To fully reap the benefits of this concept, you’ll have to take care of your B
 
 ## Lesson 3
 
-### Declutter your space, nap more, and stay authentic to your art instead of chasing profits.
+### Declutter your space, nap more, and stay authentic to your art instead of chasing profits
 
 So far, we’ve discussed the importance of creating a schedule, putting your mind to work, creating a Bliss Station, and filtering all potential distractions out. Now, let’s delve into why staying organized, napping, and avoiding prioritizing profits over art is essential to make your creative self thrive. First thing first, tidying up your station has a much larger impact than just the appearance.
 
@@ -49,7 +49,5 @@ Lastly, be careful when it comes to monetizing your work. Not all that you creat
 ## Review
 
 *Keep Going* is full of valuable tips and tricks on how to keep creating even when you don’t feel like it. If you struggle with working on your art every day, monetizing your work, or are stuck in a creative rut, this book is for you!
-
-## Who it’s for
 
 The 27-year-old journalist who feels like they need to better organize their work life, the 30-year-old writer who is struggling with writer’s block, and anyone who feels burned out and wants to turn their work life around.

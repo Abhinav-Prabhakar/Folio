@@ -20,7 +20,7 @@ Are you willing to open up and let this book into your life? I hope you are, bec
 
 ## Lesson 1
 
-### If you can be vulnerable, it means you’re strong.
+### If you can be vulnerable, it means you’re strong
 
 First, Brené makes two core points about vulnerability.
 
@@ -35,7 +35,7 @@ Second, you could hide from the things that make you vulnerable. The responsibil
 
 ## Lesson 2
 
-### Build a resilience to shame by understanding it and saying it out loud.
+### Build a resilience to shame by understanding it and saying it out loud
 
 What’s worse than completely bombing a speaking gig? Being ashamed about bombing a speaking gig and never doing one again.
 
@@ -53,7 +53,7 @@ Nobody wants to talk about shame. It’s uncomfortable. But the less you do, the
 
 ## Lesson 3
 
-### Be a role model for your (future) kids, it’s the only way they learn.
+### Be a role model for your (future) kids, it’s the only way they learn
 
 Whether you have kids or not, I thought this was worth taking away. **Your children can only inherit qualities you possess yourself**.
 
@@ -72,7 +72,5 @@ I think the reason Brené’s TED talk and work responds with so many people is 
 You can feel that in her talks and writing. She’s not a bullshit artist. She’s seen the dark side. And she’s here to tell us not only that we have to do too, but that we can and that it’ll be okay.
 
 A wonderful person to learn from. I highly recommended *Daring Greatly*.
-
-## Who it’s for
 
 The 15 year old, shy schoolboy, who’s being bullied, the 25 year old mother of this boy, and anyone who never talks about what they’re ashamed of.

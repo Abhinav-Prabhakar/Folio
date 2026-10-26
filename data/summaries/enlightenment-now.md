@@ -20,7 +20,7 @@ Despite what the news would tell you, the human story of the 21st century is one
 
 ## Lesson 1
 
-### Enlightenment has increased wealth while reducing poverty and inequality – and science can prove it.
+### Enlightenment has increased wealth while reducing poverty and inequality – and science can prove it
 
 Just 200 years ago, over 90% of the world’s people lived in extreme poverty. Today, that share is less than 10%. That’s because from 1820 to 1900, global income tripled. 50 years later, it had tripled again, and a third time by 1984. Nowadays, even poorer, less developed countries, like Rwanda or El Salvador double their income every 18 years. Richer countries do so every 35 years.
 
@@ -30,7 +30,7 @@ Another scientist, economist Adolph Wagner, found more evidence to prove this po
 
 ## Lesson 2
 
-### Thanks to the United Nations, a humanist movement, life is safer around the globe than ever before.
+### Thanks to the United Nations, a humanist movement, life is safer around the globe than ever before
 
 Today’s world is of course not perfect. There are civil wars in Iraq, Afghanistan, Sudan, and Syria still going on today. However, less than 100 years ago, war used to be the *normal* state the world was in. Just during WWII, over 60 million people lost their homes, more than even the peak global refugee numbers we have today.
 
@@ -40,7 +40,7 @@ One of the many movements behind these trends is the United Nations. With its in
 
 ## Lesson 3
 
-### Today’s critical issues, like terrorism, AI, and the environment, must be faced with reason, not conspiracy theories and pessimism.
+### Today’s critical issues, like terrorism, AI, and the environment, must be faced with reason, not conspiracy theories and pessimism
 
 The reason most people are afraid despite all these good news is that the media who report them don’t favor positive stories. You never hear that 100,000 people have made it out of poverty, but a terror attack is an event they can cover. Speaking of which, terrorism is one of Americans’ greatest fears. And yet, they’re more likely to be killed by a lightning strike or the sting of a bee. Globally speaking, your chances of dying in a car crash are 125 times higher.
 
@@ -53,7 +53,5 @@ As it has been for the past 300 years, human civilization will not stop making p
 ## Review
 
 *Enlightenment Now* is a much needed book in an age of fake news, media manipulation, and rising populism. It shows us that not everything is as bad as powerful people with their own agendas want us to believe. Moreover, it gives us a template for embracing today while continuing to move forward. Science, reason, humanism. I highly recommend you get familiar with the ideas in *Enlightenment Now*, so that together we can all make progress.
-
-## Who it’s for
 
 The 14 year old who gets most of her news from Twitter, the 59 year old Republican politician, who’s not sure what to make of climate change, and anyone who feels sad after browsing around on social media.

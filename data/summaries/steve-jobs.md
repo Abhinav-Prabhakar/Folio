@@ -18,7 +18,7 @@ Let’s take a good hard look at those facts!
 
 ## Lesson 1
 
-### Steve Jobs’s reality distortion field got its name from his team.
+### Steve Jobs’s reality distortion field got its name from his team
 
 The skill that allowed Steve Jobs to create this huge vision for Apple out of nothing was not his obsession for detail, nor his sense for design, simplicity, or aesthetics.
 
@@ -36,7 +36,7 @@ By using charisma, hyperbole, marketing and persistence, **Steve would pull impo
 
 ## Lesson 2
 
-### There is one major reason for Apple’s name.
+### There is one major reason for Apple’s name
 
 The first thing anyone wonders about upon learning about Apple and its products is where the hell it got that name. They’re not selling smoothie makers, after all.
 
@@ -52,7 +52,7 @@ I’m not sure if “Phaser Beam Computers” was ever in play (Matrix Electroni
 
 ## Lesson 3
 
-### Steve Jobs did not become a billionaire from Apple products, but from Pixar’s IPO.
+### Steve Jobs did not become a billionaire from Apple products, but from Pixar’s IPO
 
 Have you ever wondered who Steve Jobs became a billionaire? Everyone assumes all of his money came from Apple, but his bank account actually made the biggest jump on a whole other project.
 
@@ -75,7 +75,5 @@ His stocks were now worth $1.2 billion.
 There are so many details and lessons to be learned from this man’s life, and even though it’s a long read, I can highly recommend the book. If you’re interested in creating a company that outlasts a decade or even a century, making almost addicting products and becoming an awesome CEO, this book is an all-in-one package, just like the Apple II was back in the day.
 
 Even the summary on Blinkist is long (13 blinks), but gives a good overview for anyone who is unsure. May he rest in peace. He was one of the good ones. And he sure ‘thought different.’ So long, *Steve Jobs*.
-
-## Who it’s for
 
 The 14 year old computer geek, whose parents tell him that he should learn something that will get him “a proper job”, the 47 year old executive, who found a side project she’s passionate about, but is not sure if she can turn it into reality, and anyone who ever wants to be an entrepreneur.

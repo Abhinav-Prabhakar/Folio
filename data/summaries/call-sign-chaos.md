@@ -20,7 +20,7 @@ Are you ready for a few life lessons from the military? Let’s go!
 
 ## Lesson 1
 
-### Participating in a program like the Marines can help you find a purpose.
+### Participating in a program like the Marines can help you find a purpose
 
 It’s the winter of 1971 and Jim Mattis, newly graduated from college and wondering what to do with his life, is on a hiking trip. As he’s standing on a ridge over the Columbia river, he slips, falling down a ravine. Although Mattis could have died that day, he only had a few cracked ribs.
 
@@ -38,7 +38,7 @@ That all changed at the Quantico, Virginia training program for officers. There,
 
 ## Lesson 2
 
-### Win the most important battle – the one for your men’s hearts – by leading with competence, care, and conviction.
+### Win the most important battle – the one for your men’s hearts – by leading with competence, care, and conviction
 
 In 1973, the US introduced an all-volunteer army in an effort to defuse the anti-war feelings of the time. Prior to this time, conscription, or required enlistment, was the rule. With a choice-only basis for joining, many dropouts and criminals began enlisting. Leaders in the military had to learn to be tough but effective.
 
@@ -60,7 +60,7 @@ Last, to be a great leader you need conviction. Declare your rules and be solid 
 
 ## Lesson 3
 
-### If you want something to go well, do the proper planning ahead for it.
+### If you want something to go well, do the proper planning ahead for it
 
 Mattis’s experiences in Afghanistan and Iraq are examples of times when poor planning led to things not going so well. Let’s take a look at what happened in Iraq for a moment.
 
@@ -75,7 +75,5 @@ The state of the Iraqi army was one such problem. It’s defeat meant that many 
 ## Review
 
 I didn’t think *Call Sign Chaos* was the most interesting book I’ve ever read. That’s probably just me though because I really don’t take to stories of war and politics very well. However, I think this is going to be a great read for people who are into history and the global affairs of the United States.
-
-## Who it’s for
 
 The 21-year-old who is majoring in history in the United States, the 45-year-old who loves politics, and anyone who considers themselves a history buff.

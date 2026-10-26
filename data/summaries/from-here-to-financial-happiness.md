@@ -22,7 +22,7 @@ Are you ready to finally take charge of your relationship with money? Let’s di
 
 ## Lesson 1
 
-### Unexpected setbacks are inevitable, so prepare financially for them.
+### Unexpected setbacks are inevitable, so prepare financially for them
 
 When COVID-19 lockdowns started in March of 2020, my Fitbit showed that my resting heart-rate spiked. All of the monetary worries I was having were showing in real-time! And I wasn’t the only one with financial stresses
 
@@ -38,7 +38,7 @@ To get started with your emergency fund, look at your monthly living expenses an
 
 ## Lesson 2
 
-### Overindulgence and lack of planning are evolutionarily ingrained into you, but you’ll beat this by thinking ahead.
+### Overindulgence and lack of planning are evolutionarily ingrained into you, but you’ll beat this by thinking ahead
 
 Can you imagine if you had to labor for hours over every little decision? Luckily we don’t have to deal with this exhausting possibility because we’ve evolved the power of instinct.
 
@@ -60,7 +60,7 @@ It might be easy to start a book like this thinking that you’ll get the secret
 
 ## Lesson 3
 
-### Your health and financial situation will improve if you lower your expenses.
+### Your health and financial situation will improve if you lower your expenses
 
 Becoming happy with your finances is actually kind of a simple process when you look at it more closely. All you have to do is learn the right habits and implement them in your life.
 
@@ -79,7 +79,5 @@ Adding up how much your bad habits cost you just might be the incentive you need
 ## Review
 
 I usually love reading financial books but I’ll be honest, *From Here To Financial Happiness* wasn’t my favorite. My least favorite part was when it mentioned that retirement isn’t optional because I completely disagree, retirement is really bad for you and we need to change this societal norm! However, there were still a few great insights that those who are new to financial happiness will find beneficial.
-
-## Who it’s for
 
 The 55-year-old who is considering buying a brand new car but doesn’t realize it’s a waste of money, the 28-year-old couple that’s constantly overspending, and anyone that could really use a boost in their financial literacy.

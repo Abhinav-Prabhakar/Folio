@@ -24,7 +24,7 @@ Are you excited to discover a whole new world of productivity and freedom by ask
 
 ## Lesson 1
 
-### If you want to get more done, consider the people that can help you instead of worrying about the best way to do it.
+### If you want to get more done, consider the people that can help you instead of worrying about the best way to do it
 
 A couple of years ago I was in a job working for a boss that I didn’t really like. I remember sitting there one day realizing that I didn’t want to be there anymore and asking myself how in the world I was going to get out.
 
@@ -42,7 +42,7 @@ This is the power of *Who Not How*. I could complicate it but at its core, all y
 
 ## Lesson 2
 
-### You will have more time if you find the right people to help you reach your goals.
+### You will have more time if you find the right people to help you reach your goals
 
 As a 16-year-old living in California, Richie Norton wanted to get a job. After hearing about this, Richie’s dad told him that he didn’t want Richie to get a job. What Richie really wanted was money, so his dad told him how he could get it.
 
@@ -58,7 +58,7 @@ When you ask Who instead of How, you’ll save an exponential amount of time.
 
 ## Lesson 3
 
-### You will earn more money when you find the right Whos to solve your Hows.
+### You will earn more money when you find the right Whos to solve your Hows
 
 In addition to being the managing editor here at Four Minute Books, I am also a licensed professional engineer. I own my own company for both the writing and engineering. While both are doing well now, they weren’t always.
 
@@ -77,7 +77,5 @@ If you want to reach your big financial goals, start asking “Who can help me w
 ## Review
 
 Man, I love this idea. Not only did Shawn Achor prove it’s truth in *Big Potential*, but I’ve also personally seen the right Whos leading me to success, countless times. I firmly believe that, if you follow what it teaches, *Who Not How* is going to radically alter your life for the better.
-
-## Who it’s for
 
 The 33-year-old business owner who isn’t sure how to get their company to the next level, the 48-year-old that desperately needs help with their teenager, and anyone who has big goals that wants to see how to work smarter to accomplish them.

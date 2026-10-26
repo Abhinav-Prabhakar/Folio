@@ -18,7 +18,7 @@ Regardless of whether you want to become an artist, land your dream job, or actu
 
 ## Lesson 1
 
-### The best salespeople love unconditionally.
+### The best salespeople love unconditionally
 
 One of my favorite writers about love, Kris Gage, says love is an action, not a feeling. The emotional state of being *in* love comes and goes, but the choice *to* love? That’s always available to you. So when Mandino suggests you should “love everything and everyone,” it’s not romantic infatuation he talks about. It means approaching everyone you meet with kindness, appreciation, and understanding.
 
@@ -28,7 +28,7 @@ Even the people who don’t like you can’t help but be startled when you appro
 
 ## Lesson 2
 
-### Always persist, but take breaks whenever you need to.
+### Always persist, but take breaks whenever you need to
 
 Mandino was a big believer in taking action. In one of the later scrolls of the book, he repeats the phrase “I will act now” 18 times. The hardest part of sales, maybe in life altogether, is getting rejected. But you never know which attempt is the last time you need to try in order to succeed. That’s why persistence is always a good strategy.
 
@@ -38,7 +38,7 @@ In that moment, you’ll notice an urge to give up, to run away. Resist that urg
 
 ## Lesson 3
 
-### Control your emotions in everything you do.
+### Control your emotions in everything you do
 
 The two big components of success in anything are self-awareness and emotional control. If you know how you function and how to best manage your impulses, it’s gonna be hard to stop you. But if you constantly react based on your feelings, you’ll have a hard time.
 
@@ -51,7 +51,5 @@ Once you can do that, you won’t just be better at sales, you’ll also live a 
 ## Review
 
 If *The Greatest Salesman In The World* feels to spiritual for you, remember that it was written some 50 years ago. Back then, Christianity’s influence in the Western world was much bigger than it is today. That said, I think all religions have things to teach us. If you can look past certain terminology and concepts, you’ll find there’s a lot to learn from this humble and noble approach to selling.
-
-## Who it’s for
 
 The 16 year old Target employee, who wants to excel in his department, the 33 year old pharma sales rep, who has a tough time competing, and anyone who doesn’t like selling.

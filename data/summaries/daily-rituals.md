@@ -20,7 +20,7 @@ Exploring these lessons in depth will help you understand their main point, so t
 
 ## Lesson 1
 
-### Inspiration can come from anything, from daily rituals, a warm drink, or a sunset.
+### Inspiration can come from anything, from daily rituals, a warm drink, or a sunset
 
 There are certain things that artists, thinkers, or overall successful people in their field have in common. While they don’t do these things similarly, they do repeat certain actions that help them become more productive.
 
@@ -34,7 +34,7 @@ Lastly, writers and researchers often look for inspiration within their surround
 
 ## Lesson 2
 
-### There are numerous ways to get inspired and stay connected to your craft.
+### There are numerous ways to get inspired and stay connected to your craft
 
 The book talks about different authors and their ways of staying close to their craft, becoming inspired, and writing effectively. Some found peace and motivation in nature, so they’d take long walks until inspiration struck them. Then they’d rush home to create and design their pieces.
 
@@ -46,7 +46,7 @@ Lastly, keep in mind that there’s no wrong or right in the creative process. E
 
 ## Lesson 3
 
-### Your connections to the people in your life can make or break your creative mind.
+### Your connections to the people in your life can make or break your creative mind
 
 Any social science in the world can agree on one common fact: Our relationships define us and they also affect our mood. They are the pylon of our social life and they strongly impact our mental health. Friends, partners, parents, and other family members, all have a great impact on our work.
 
@@ -63,7 +63,5 @@ Do you want to inspire yourself as a writer and become as successful in life as 
 In this compilation of biographies from the most notorious writers in history, you can learn the habits and practices that helped them become so successful!
 
 The book reveals how history’s greatest minds have developed their daily habits and rituals, to help the reader develop their own creative process.
-
-## Who it’s for
 
 The 40-year-old writer who is suffering from writer’s block and wants to overcome it, the 24-year-old wannabe writer who wants to learn about the lives of famous artists in history, or the 50-year-old person who is fascinated with history and literature and wants to enjoy a good read from their area of expertise.

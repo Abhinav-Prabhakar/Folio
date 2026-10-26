@@ -22,7 +22,7 @@ Ready to finally start creating the results you want in life? Let’s begin!
 
 ## Lesson 1
 
-### You create your emotional pain and it has almost nothing to do with what is happening to you.
+### You create your emotional pain and it has almost nothing to do with what is happening to you
 
 When did you last you feel angry, sad or frustrated? Surely, your emotional state was a response to something that was happening to you at that time. Or was it?
 
@@ -36,7 +36,7 @@ In every situation, you can choose resistance – wishing something didn’t hap
 
 ## Lesson 2
 
-### The key to becoming emotionally invincible is to stop resisting what you can’t change.
+### The key to becoming emotionally invincible is to stop resisting what you can’t change
 
 Now you might say: “Are you telling me to be happy if I get cancer?” No, that would be silly.
 
@@ -56,7 +56,7 @@ This brings us to the next lesson!
 
 ## Lesson 3
 
-### Extraordinary effort and unwavering faith make achieving your goals inevitable.
+### Extraordinary effort and unwavering faith make achieving your goals inevitable
 
 If you’re like most people, you have a lot of goals you want to accomplish. The problem with trying to do them all at once leads to overwhelm. You end up not sticking to any of them in the long run.
 
@@ -77,7 +77,5 @@ Combine unwavering faith with extraordinary effort, and you have Hal Elrod‘s M
 ## Review
 
 Hal Elrod takes the mystery out of miracles and explains how to stop waiting for change and instead start creating it yourself. *The Miracle Equation* gives you an unconventional, but highly effective method for overcoming challenging situations and the emotional pain attached to them. It’s a collection of practical tools that guide you through a measurable process for achieving your most meaningful goals.
-
-## Who it’s for
 
 The 24-year-old who wants to see more results from his self-help practices, the 45-year-old who wants to learn how to let go of painful memories from the past, and anyone who’s interested in forming healthy habits and sticking to them long-term.

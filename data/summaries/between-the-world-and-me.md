@@ -20,7 +20,7 @@ Let’s dive right in and discover more about racism so we can know better how t
 
 ## Lesson 1
 
-### Coates came to realize early on that being black came with inherent dangers.
+### Coates came to realize early on that being black came with inherent dangers
 
 Growing up in Maryland, Coates saw the grim realities of racism at a young age. As he puts it, “to be black in the Baltimore of my youth was to be naked before the elements of the world.”
 
@@ -34,7 +34,7 @@ Prince Jones had a bright future. He was doing well in college and getting ready
 
 ## Lesson 2
 
-### Based on your race, you live in an entirely different version of America.
+### Based on your race, you live in an entirely different version of America
 
 Whites can never truly understand what it is to be black because they can never live it. So, whites live mostly blind to the differences in treatment.
 
@@ -48,7 +48,7 @@ Because of a lack of resources and public programs in black communities, they al
 
 ## Lesson 3
 
-### The American Dream was built on the backs of blacks and is a white dream.
+### The American Dream was built on the backs of blacks and is a white dream
 
 The American Dream is the belief that in America everybody has the chance to succeed. This might look like a positive thing, but if you look to the past you find that it depends on the subjugation of blacks.
 
@@ -63,7 +63,5 @@ You don’t have to be white to achieve the dream, but Coates points out the pro
 ## Review
 
 I feel like as a white person, I can hardly comment on the racism and marginalization of black people. But I can say that *Between The World And Me* was an important eye-opener for me that I think everybody should read. Everybody deserves kindness and equal opportunities, and I think this book can help the world make steps in the right direction.
-
-## Who it’s for
 
 The 62-year-old white couple who wonders about racism, the 32-year-old with an interest in politics that wants to learn more about social issues today, and anyone with a curiosity about US history.

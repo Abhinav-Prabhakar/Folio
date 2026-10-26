@@ -20,7 +20,7 @@ Ready to find out how to mend your broken heart… I mean… ideas about love? L
 
 ## Lesson 1
 
-### Love is an action word and we need to practice it as such to improve our relationships.
+### Love is an action word and we need to practice it as such to improve our relationships
 
 If you look at the most common topics throughout movies, books, television, and music, love is probably the most frequent to appear. You’d think that with all of these messages about it we’d be better at it. But many of us struggle with this trait in multiple aspects of life.
 
@@ -34,7 +34,7 @@ Many theorists and psychologists have identified this important idea before the 
 
 ## Lesson 2
 
-### A culture that emphasizes materialism and dishonesty makes it difficult to practice the principles of love.
+### A culture that emphasizes materialism and dishonesty makes it difficult to practice the principles of love
 
 There’s a lot of deception involved in online dating. Taking just one profile picture to let others try to get an idea of who you are is one example. But then you’ve got to add a little blurb about yourself, too. You’d never say that you are a liar, right? Yet society pushes us to lie about ourselves all the time.
 
@@ -50,7 +50,7 @@ When we instead put in the proper time and commitment that people require, we ha
 
 ## Lesson 3
 
-### Your extended family, friends, and community can provide the connection that you may be missing in a broken immediate family.
+### Your extended family, friends, and community can provide the connection that you may be missing in a broken immediate family
 
 How many family members do you have? If you’ve got three siblings and two parents, you’d probably say five, or six including yourself. But what if I told you I’ve got over 60 family members? It’s funny, but we don’t often think about our extended family when throwing around the word family, and we shouldn’t do this.
 
@@ -65,7 +65,5 @@ If you don’t have the luxury of a good extended family, then look to your clos
 ## Review
 
 I enjoyed *All About Love* and I think it’s just the kind of approach we need to take to improve our world. There were a few times I felt like it had a slight agenda, but that may have just been in my head. Check it out!
-
-## Who it’s for
 
 The 39-year-old whose marriage is falling apart and wants to figure out how to reconnect with their spouse, the 58-year-old that feels like their community isn’t very unified and wants to help fist that, and anyone that would like to know how to use the power of love for better relationships.

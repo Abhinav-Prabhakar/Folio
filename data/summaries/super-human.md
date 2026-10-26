@@ -20,7 +20,7 @@ Are you ready to learn the secrets of longevity, a disease-free life, and a bull
 
 ## Lesson 1
 
-### If you switch your diet now to a protein-based one, you’re likely going to avoid serious illness in the long run.
+### If you switch your diet now to a protein-based one, you’re likely going to avoid serious illness in the long run
 
 You are what you eat – isn’t that what everybody says? Well, not only is it true, but it also affects who you’re going to be. If you want to avoid mental diseases like Alzheimer, serious illnesses like cancer, or any degenerative diseases, here me out: ditch carbs today.
 
@@ -34,7 +34,7 @@ Instead of trans-fats, try olive oil, nuts, and salmon. Give yourself plenty of 
 
 ## Lesson 2
 
-### Try intermittent fasting right away, and make sure to get enough good light for vitamin D.
+### Try intermittent fasting right away, and make sure to get enough good light for vitamin D
 
 Intermittent fasting is a popular way of reversing the aging process through eating. The main idea behind it is that you should only eat in a preset time frame and not eat at all during the rest of the day. Many people opt for 16:8 fasting, which means eating for eight hours and fasting for 16.
 
@@ -46,7 +46,7 @@ To reap the benefits of sun exposure, try to go out for 10-20 minutes a day at s
 
 ## Lesson 3
 
-### You need to take sleep and your hormone levels seriously if you want to live longer and better.
+### You need to take sleep and your hormone levels seriously if you want to live longer and better
 
 Sleep is as consequential as your diet. Sleep allows the brain to clear out toxins and regenerate itself while also allowing you to rest. However, when you’re sleeping is just as important. Studies suggest sleeping anywhere between six to eight hours.
 
@@ -61,7 +61,5 @@ Now, let’s talk about hormones. They’re responsible for so many aspects of o
 The author put together everything you need to start living the life you have imagined, reclaim your body, and reverse the aging process.
 
 On top of all the wisdom shared in his book, he also gives away valuable information about what types of supplements you should take, how you can embrace your new life, and what other factors are worth considering in the process. A highly recommended read.
-
-## Who it’s for
 
 The 35-year-old person who is doubting the Western diet, the 48-year-old person who wants to stop the aging process and start living healthier ASAP, or the 23-year-old model who is cautious about their looks and health.

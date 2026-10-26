@@ -20,7 +20,7 @@ Ready to seriously level up your brainstorming game? Let’s figure out what ide
 
 ## Lesson 1
 
-### Kid’s wishes will get you right to the intersection of creativity and rationality.
+### Kid’s wishes will get you right to the intersection of creativity and rationality
 
 In 1968, George Land took a test he’d developed for the NASA, aimed at determining how creative people are and decided to give it to children. It worked so flawlessly, that he thought even children could do it. He was right. And they passed with flying colors.
 
@@ -38,7 +38,7 @@ All of these things started as crazy childhood dreams – but once rational adul
 
 ## Lesson 2
 
-### Come up with ideas in 30 seconds flat by using the “and” technique.
+### Come up with ideas in 30 seconds flat by using the “and” technique
 
 What if I told you you had to come up with a crazy new innovation in the next 30 seconds? You’d probably panic and freeze right up, wouldn’t you? Alright, alright, here’s a little help:
 
@@ -54,7 +54,7 @@ You’ll quickly have a whole bunch of new ideas!
 
 ## Lesson 3
 
-### Find suitable business ideas with billboarding.
+### Find suitable business ideas with billboarding
 
 But not all ideas are sustainable. To find out which ones are, you obviously have to get feedback from the real world. Before you do so, however, it helps to come up with a snappy way of sharing your idea, so you don’t end up giving a 30-minute talk to each prospect.
 

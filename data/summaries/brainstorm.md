@@ -22,7 +22,7 @@ Are you ready to have your idea of the stereotypical teenager changed? Let’s b
 
 ## Lesson 1
 
-### Adolescents may act strange, but upon closer inspection their behavior is perfectly normal.
+### Adolescents may act strange, but upon closer inspection their behavior is perfectly normal
 
 It may sound crazy, but the wild behavior of teenagers is a sign that their brain is right on track developmentally. Let’s take the embarrassment and frustration that kids suddenly feel toward their parents as one example.
 
@@ -34,7 +34,7 @@ While connected to the elevated levels of dopamine in their brains and peer pres
 
 ## Lesson 2
 
-### The development of the brain during youth is crucial for success later in life.
+### The development of the brain during youth is crucial for success later in life
 
 Not only do teenagers struggle with aggression, but they also appear to be pretty lazy. Partying all night and sleeping in until the early afternoon are hallmarks of adolescence. On closer inspection, however, this time of life is rather productive from the brain’s perspective.
 
@@ -46,7 +46,7 @@ Opposite of pruning is the process of myelination. This phenomenon is how the br
 
 ## Lesson 3
 
-### Learning the right way to have reflective conversations with teenagers will help them prepare for adulthood.
+### Learning the right way to have reflective conversations with teenagers will help them prepare for adulthood
 
 As frustrating as the behavior of teenagers is, they need help navigating this difficult time. They’re figuring out who they are, but most of them feel inadequate and awkward. It’s hard to make new friends and fit in. So what can adults do to help?
 
@@ -59,7 +59,5 @@ Additionally, connecting in this way allows them to develop empathy. Conversatio
 ## Review
 
 After reading *Brainstorm* I have a renewed appreciation for my teenage years. I also have a lot more compassion for the difficulties that those in adolescence face. This book is an amazing read that gives some great scientific data on why teenagers act the way they do!
-
-## Who it’s for
 
 The 45-year-old parent of teenagers who has no idea why they are acting the way they are, the 30-year-old high school teacher who is at her wits end with her rowdy classes, and anyone who is a teenager.

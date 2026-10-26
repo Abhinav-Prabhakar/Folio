@@ -20,7 +20,7 @@ Ready to illuminate your life by letting your own light shine? Then let’s lear
 
 ## Lesson 1
 
-### Your home shapes who you are – more than you think.
+### Your home shapes who you are – more than you think
 
 When Stephen Gary Wozniak was born (1950), computers already existed, but not nearly the way you know them today. Back then, a single computer would fill an entire room, cost millions of dollars and in general wasn’t available to the public.
 
@@ -34,7 +34,7 @@ If I had to guess (and I’m totally making this up) I’d say 80% of who we are
 
 ## Lesson 2
 
-### If the world doesn’t teach you well, teach yourself.
+### If the world doesn’t teach you well, teach yourself
 
 Winning science competition after science competition in high school, pursuing a degree in engineering in college was only the next logical step for him. He enrolled at the Colorado University in 1968, where the computer science program taught only FORTRAN, one of the first basic programming languages. Because that wasn’t enough for him, **Woz started teaching himself and experimenting with six other programming languages**.
 
@@ -48,7 +48,7 @@ Eventually, he managed to build his first computing machine, the Cream Soda Comp
 
 ## Lesson 3
 
-### One thing you’ll never regret is staying true to your own values, no matter what the consequences are.
+### One thing you’ll never regret is staying true to your own values, no matter what the consequences are
 
 It’s easy to trade passion for payment once you’ve gotten really good. People often wanted Woz to move into Apple management, but he always refused. He was an engineer at heart, and that meant he wanted to keep engineering things. That’s why he waited a long time to leave his job at HP, even while working at Apple, and retained a low-level engineering position there throughout his career.
 
@@ -61,7 +61,5 @@ No matter what they are, **staying true to your own values is something you’ll
 ## Review
 
 You don’t see them often and some people doubt they even exist, but they do. The people who build empires on being good. Woz is one of those people. He always has and always will be, the good soul of Apple. If you’re a genuinely nice, honest and kindhearted person and sometimes feel like you get left behind and whether it’s all worth it, *iWoz* is for you.
-
-## Who it’s for
 
 The 15 year old computer club member, who loves to tinker with electronics in his spare time, the 44 year old accountant, who’s not satisfied with her education, and anyone who sometimes feel they compromise their own values, just to comply with the expectations of the world.

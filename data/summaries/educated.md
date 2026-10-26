@@ -16,11 +16,9 @@ Here are the 3 most interesting lessons I’ve learned from this book:
 
 Let’s listen to Tara Westover’s story!
 
-### Educated Summary
-
 ## Lesson 1
 
-### Tara grew up on a farm in a fundamentalist family and she had little homeschooling or real-world experience.
+### Tara grew up on a farm in a fundamentalist family and she had little homeschooling or real-world experience
 
 Tara was born at home to an off-the-grid family in the mountains of Idaho. Her mother raised the children and practiced herbal medicine, and her father ran the farm and was the religious head of the household. Her father’s ideas were extremist and often dangerous.
 
@@ -32,7 +30,7 @@ She had close relationships with some of her siblings, though one of her brother
 
 ## Lesson 2
 
-### As she entered the real world, she finally left behind her abusive family and had wonderful educational opportunities.
+### As she entered the real world, she finally left behind her abusive family and had wonderful educational opportunities
 
 As she got older, Tara set her sights on college despite her father’s strong expectations that she get married. She worked relentlessly to teach herself grammar and math to get a good enough ACT score to get into Brigham Young University. When she was accepted, her father tried to stop her, but Tara’s mind was made up.
 
@@ -46,7 +44,7 @@ This hard work paid off, as she was offered a research opportunity at Cambridge 
 
 ## Lesson 3
 
-### She was forced to make the difficult decision to cut off her relationship with her parents in order to finish her education.
+### She was forced to make the difficult decision to cut off her relationship with her parents in order to finish her education
 
 Tara flourished at Cambridge. She enjoyed learning, particularly about feminism and the radical beliefs she had grown up with, like “women should be submissive.” Tara had always felt uneasy about womanhood, but she made friends and began to relax. She finally felt a sense of belonging.
 
@@ -59,7 +57,5 @@ The decision took so much out of her that she had a mental breakdown and almost 
 ## Review
 
 *Educated* hits close to home for me. I went to the same university that Tara did, and I am a member of the same church that she was. Although her family situation and story is not at all typical of people of my faith, it’s important that people know about it. There are good and bad circumstances in any religion, town, and family. What an eye-opening memoir! This one will make you think for a while.
-
-## Who it’s for
 
 The 37-year-old who enjoys reading inspiring biographies, the 19-year-old who doesn’t know whether or not they want to go to college, and anyone that doesn’t understand how great the ability to get an education is.

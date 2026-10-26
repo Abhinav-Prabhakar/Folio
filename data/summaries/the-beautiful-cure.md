@@ -24,7 +24,7 @@ Let’s hop on the magic school bus and head into the immune system!
 
 ## Lesson 1
 
-### We need both our adaptive and innate immune system to help fight off foreign invaders in the body.
+### We need both our adaptive and innate immune system to help fight off foreign invaders in the body
 
 Vaccines are one of the most important medical advances of the modern era and they have saved countless lives. But did you know that we actually have had them in some form since the 1700s?
 
@@ -40,7 +40,7 @@ He theorized that there are receptors on the T and B cells that interlock specif
 
 ## Lesson 2
 
-### Cytokines direct your immune system’s response.
+### Cytokines direct your immune system’s response
 
 Cytokines are special proteins made by cells that serve as molecular messengers in the body to coordinate immune responses. There are different kinds, and each has a unique purpose. **They communicate with various cells throughout the body and tell when we should or shouldn’t start an immune response.**
 
@@ -54,7 +54,7 @@ Fortunately, another scientist had already created this anti-cytokine. When he a
 
 ## Lesson 3
 
-### Using the power of the human immune system, we have the potential to cure many devastating diseases.
+### Using the power of the human immune system, we have the potential to cure many devastating diseases
 
 When 22 year old Sharon was diagnosed with stage IV melanoma, she opted for an experimental therapy. Doctors said she had a 50 percent chance of living six more months because it had spread to her lung. After just three months of experimental injections, the tumor had shrunk 60 percent.
 
@@ -67,8 +67,6 @@ This is just one example of how we can take advantage of the ever increasing kno
 ## Review
 
 *The Beautiful Cure* is fascinating. There is so much that goes into our immune system that we are just beginning to understand and this gives a lot of hope for the treatment of disease in the future. I would say it gets a little complex at times, and may be harder to understand without a scientific background.
-
-## Who it’s for
 
 The 62-year-old with a chronic illness that wants to understand their body better, the 34-year-old who is obsessed with health, and anyone that’s curious to know what goes on inside when they get sick.
 

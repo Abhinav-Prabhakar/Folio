@@ -20,7 +20,7 @@ Let’s discover what makes life worth living!
 
 ## Lesson 1
 
-### We interact with life in 4 different layers, and finding true meaning requires us to go to the deepest one.
+### We interact with life in 4 different layers, and finding true meaning requires us to go to the deepest one
 
 At a friend’s birthday party when I was 10, I was too scared to jump off the 10-meter tower in the public pool. I did, however, graduate from the 1-meter to the 3-meter diving board! Engaging with life’s big questions works in a similar way, the authors suggest. You can’t jump right from the 10-meter tower!
 
@@ -37,7 +37,7 @@ The first level happens on the plane of taking action. The other 3 are forms of 
 
 ## Lesson 2
 
-### The big “Question” of life breaks down into 6 sub-questions, each of which offers plenty of food for thought.
+### The big “Question” of life breaks down into 6 sub-questions, each of which offers plenty of food for thought
 
 Having arrived at the bottom of the meaning-ocean of life, we encounter what the authors call “the Question.” It’s an umbrella term for all inquiries related to purpose. In the book, however, they offer 6 main components, each a big question in its own right:
 
@@ -67,7 +67,5 @@ In your search, you’ll likely find many other tools to create meaning in your 
 ## Review
 
 If you enjoy books that draw from a great variety of examples, stories, and disciplines to inspire you and make their point, you’ll love *Life Worth Living*. It is a special, open-ended work you’ll likely return to again and again.
-
-## Who it’s for
 
 The 17-year-old who’s having his first existential crisis on a random Tuesday over his homework, the 55-year-old doctor who wonders whether she has lost her way in life, and anyone who’s interested in philosophy, religion, and psychology.

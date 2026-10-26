@@ -18,7 +18,7 @@ Let’s take a deeper look at these lessons, starting with the first one. Here w
 
 ## Lesson 1
 
-### Gravity and other laws of physics act upon outer space and the Earth equally.
+### Gravity and other laws of physics act upon outer space and the Earth equally
 
 Newton was one great thinker, quite ahead of his time, which earned him a well-deserved spot in history. While some of his assumptions regarding the speed of light proved to be less than accurate by Einstein, discovering gravity and other major laws of physics remain groundbreaking findings even today.
 
@@ -30,7 +30,7 @@ There, a microscopic world emerges, where completely new laws apply. These make 
 
 ## Lesson 2
 
-### The universe is made up of four essential forces that govern everything.
+### The universe is made up of four essential forces that govern everything
 
 All the masterminds of science discovered remarkable laws and truths about our universe, which ultimately led to one universal concept: the universe we know is made up of four core forces: gravity, electromagnetism, the strong force, and the weak force.
 
@@ -42,7 +42,7 @@ This model describes how the world works from a scientific point of view. Althou
 
 ## Lesson 3
 
-### Einstein’s fascination with black holes and his view of God changes many people’s perspectives.
+### Einstein’s fascination with black holes and his view of God changes many people’s perspectives
 
 Einstein was one of humanity’s top thinkers and scientists of all time. His groundbreaking discoveries, such as the theory of relativity, and his ideas about black holes, dark matter, and gravity, all laid the foundation for modern physics.
 
@@ -59,7 +59,5 @@ This force was named the *First Mover* in scientific terms, and it implies that 
 *The God Equation* compiles the wisdom of some of the most notorious scientists in the world while providing readers with a series of factual concepts about the universe and the laws of physics. While it does answer some of our most burning questions about the *Theory of Everything*, the laws of nature, how the universe works (briefly), and other similar concerns, it leaves us wondering about one major question: Does God exist?
 
 If so, how did He set in motion all these laws, forces, and principles? For this reason, this piece of writing is an excellent food for thought and a masterpiece in terms of educational and scientific content.
-
-## Who it’s for
 
 The 17-year-old curious high school student, who loves the natural sciences, the 43-year-old priest, who is wondering about how to unite science and faith, and anyone who wants to learn more about the universe, its rules, and our place in it.

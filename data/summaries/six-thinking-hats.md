@@ -27,7 +27,7 @@ Are you willing to experiment with your wardrobe? Let’s try on a couple of new
 
 ## Lesson 1
 
-### The blue hat helps you think about thinking and monitor processes at all times.
+### The blue hat helps you think about thinking and monitor processes at all times
 
 Whenever you start a brainstorming session, first put on the blue hat. It’s the hat to think about thinking. **Think of it as zooming out and getting a 10,000 foot view on the problem you’re tackling first**.
 
@@ -44,7 +44,7 @@ If that’s you, then it’s your job to tell everyone else when it’s time to 
 
 ## Lesson 2
 
-### It’s important to let employees express their feelings without judgement while wearing the red hat.
+### It’s important to let employees express their feelings without judgement while wearing the red hat
 
 Name a couple of things the color red reminds you of. I’m guessing right now you’re thinking of at least one of the following: blood, roses, hearts, lipstick, apples, fire, strawberries, cherries, chilis, tomatoes or a scarf or sweater.
 
@@ -64,7 +64,7 @@ This makes sure no resentment or grudges are carried over into the solution of t
 
 ## Lesson 3
 
-### Without wearing the yellow hat sometimes, it’ll be hard to stay enthusiastic about work projects and get cracking.
+### Without wearing the yellow hat sometimes, it’ll be hard to stay enthusiastic about work projects and get cracking
 
 Something many people envy me for is that I’m a natural optimist. I get it. This doesn’t come easy to everyone, yet is a huge beneficial factor in overcoming failure, moving on and tackling things with enthusiasm.
 
@@ -79,7 +79,5 @@ For example, if you come up with a clever new marketing strategy, don’t fantas
 ## Review
 
 I like simple ideas, which you can implement without a ton of training or expensive tools and that lead to a positive effect almost instantly. The *Six Thinking Hats* Method is one of those ideas. Especially for big businesses with larger teams, I think this can really save a ton of time and money, so if you work at a decently sized company, I highly recommend you take a look at this.
-
-## Who it’s for
 
 The 18 year old, who’s annoyed by her theater group’s disorganized management, the 32 year old social media manager, whose team has great ideas, but implements them in a very diffuse way and anyone who sometimes can’t make sense of the chaos in their head.

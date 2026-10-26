@@ -20,7 +20,7 @@ Do you want to increase your energy? Let’s see what you should eat and when!
 
 ## Lesson 1
 
-### Food triggers different processes depending on its key components.
+### Food triggers different processes depending on its key components
 
 Most people take food seriously only when they want to lose weight and end up focusing on its calorie content. Yet food is much more than just calories, it provides a wide range of chemicals. **But the ones you need to learn about first are its key components or macronutrients: carbohydrates, proteins, and fats.**
 
@@ -36,7 +36,7 @@ Proteins provide calories but also amino acids, that are like small bricks our b
 
 ## Lesson 2
 
-### Eating smart also means feeding yourself at the right times.
+### Eating smart also means feeding yourself at the right times
 
 To eat for your health, you need to forget about most assumptions about food.
 
@@ -54,7 +54,7 @@ So, let’s see how you can easily change your habits!
 
 ## Lesson 3
 
-### Feed yourself with the proper portion of macronutrients at every meal.
+### Feed yourself with the proper portion of macronutrients at every meal
 
 Another false assumption about eating is that at breakfast you should eat different things than at lunch or dinner. Actually, **the easiest way to get the right nutrients in the morning is by eating part of your dinner for breakfast**.
 
@@ -71,7 +71,5 @@ What about lunch? Switch from simple carbs, like sugar and white flour, to compl
 ## Review
 
 *What to Eat When* is an easy guide on how to organize our meals to include the best ingredients for each time of the day, to allow our body to work properly and ourselves to live at our full potential.
-
-## Who it’s for
 
 The 23-year-old who needs a lot of energy to deal with commitments of any kind, the 30-year-old who’s starting to experience more fatigue, the 48-year-old who wants to keep themselves in shape and anyone who want to improve his health through food.

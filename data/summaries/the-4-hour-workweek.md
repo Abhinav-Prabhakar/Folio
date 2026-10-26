@@ -18,11 +18,9 @@ It’s almost impossible to pull out just 3 things from this book, but I’ll do
 
 Let’s dig a bit deeper.
 
-### The 4-Hour Workweek Summary
-
 ## Lesson 1
 
-### Be effective, not efficient.
+### Be effective, not efficient
 
 If Tim’s life was designed around one rule, it would be the 80/20 rule or Pareto principle. **Most people measure productivity by the time spent working**, but that’s a bad indicator, because we waste so much time at work.
 
@@ -34,7 +32,7 @@ This is one of Tim’s major mantras in life and something you can adopt today t
 
 ## Lesson 2
 
-### Always validate your business ideas.
+### Always validate your business ideas
 
 Funny I mentioned him yesterday, but this lesson really sank in when I read Noah Kagan’s guest post on Tim’s blog. Before you go out and build any product or service, **make sure people give you money for it.**
 
@@ -54,7 +52,7 @@ Remember: ABV – always be validating!
 
 ## Lesson 3
 
-### Charge a premium to need less clients and make your life easier.
+### Charge a premium to need less clients and make your life easier
 
 Once you have validated your product and are set to start production, the next big question often is: Do I want to be high quality or the cheapest guy around?
 
@@ -81,7 +79,5 @@ I read the entire book in a few sittings. I can’t believe someone compiled all
 Blinkist’s summary is crammed with insights, but is still only an excerpt of the plethora of great info in the book. Tim created a great step-by-step structure with lots of resources, links and tools, like the dreamline worksheet or the comfort challenges at the end of each chapter.
 
 If you’ve entertained the idea of what your life could look like if you didn’t *have* to work, or could be a lot more picky about the projects you do take on, because you rest comfortably on a big, financial cushion, this is a must read.
-
-## Who it’s for
 
 The 17 year old who has a tough time to make up her mind about taking a year off before college to travel and explore, the 31 year old graduate who’s a few years into his corporate career and starts to question whether this is what he wanted, and anyone who’s ever tried to sell something that was a flop.

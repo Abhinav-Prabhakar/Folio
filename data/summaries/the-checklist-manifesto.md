@@ -20,7 +20,7 @@ Get ready to learn how to use checklists to check stress off your list! Let’s 
 
 ## Lesson 1
 
-### You will avoid serious mistakes by implementing a checklist.
+### You will avoid serious mistakes by implementing a checklist
 
 If you were receiving treatment for a heart attack in the 1950s, you may have only had to take meds and be on bed rest. But today there are multiple ways of treating a heart attack and we can even prevent them, too. While we are saving lives, this advancement comes with a cost. The added complexity makes it more difficult for professionals of any kind to make the right decisions consistently
 
@@ -30,7 +30,7 @@ The solution to all of these problems is to use a checklist. Though simple, chec
 
 ## Lesson 2
 
-### Focus on the essentials and be short and clear when creating checklists.
+### Focus on the essentials and be short and clear when creating checklists
 
 I love writing spreadsheets. Financial-planning, goal-setting, habit-tracking, and numerous other kinds of in-depth spreadsheets litter my Google Drive right now. If it were up to me to write a checklist for everything I do, I would likely make it too complex. But the power of checklists comes in their being concise, focused only on what’s essential.
 
@@ -45,7 +45,7 @@ Knowing which type you’re using is vital to the successful application of chec
 
 ## Lesson 3
 
-### Whether you are a chef or a stock market investor, checklists will help you become more effective.
+### Whether you are a chef or a stock market investor, checklists will help you become more effective
 
 It’s easy to see the usefulness of checklists in the medical field, or even engineering. But don’t discount their power to help your team, or even you as an individual, become more effective. No matter what type of intense environment you work in, using a checklist will help you be better at what you do.
 
@@ -58,7 +58,5 @@ Now that you’ve seen how checklists benefit people in other fields of work, ho
 ## Review
 
 *The Checklist Manifesto* is fascinating! Who knew that implementing such a small thing can have such a significant impact? I can see these principles helping everyone, individuals and teams alike, and I’m excited to try using them myself!
-
-## Who it’s for
 
 The 48-year-old doctor who still forgets all of the steps of important procedures, the 31-year-old engineer who would like to feel more thorough on their jobs, and anyone who wants to develop a more simple and effective way to do things correctly.

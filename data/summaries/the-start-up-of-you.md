@@ -22,7 +22,7 @@ Are you ready to become the CEO of your career and be in charge of your future? 
 
 ## Lesson 1
 
-### Examine the intersection between your assets, values, and passions to find your competitive advantage in today’s market.
+### Examine the intersection between your assets, values, and passions to find your competitive advantage in today’s market
 
 For anything worth having, there is usually competition. Whether it’s jobs, dating, or waiting in line to get those Broadway tickets before they sell out, we all have to contend for what we want. When things get cut-throat, our best bet is to find where we have the upper hand.
 
@@ -36,7 +36,7 @@ Third, the realities of today’s market are important because there needs to be
 
 ## Lesson 2
 
-### Adapting as the workplace changes is as simple as planning from A to B, then Z.
+### Adapting as the workplace changes is as simple as planning from A to B, then Z
 
 When it comes to planning our careers, we need to be “flexibly persistent.” It’s best to do lots of serious planning and to strategize, just not to set firm plans, as things change. Our guide to doing this is called ABZ planning.
 
@@ -50,7 +50,7 @@ Plan Z is your lifeboat. It’s not where you want to end up, but knowing it’s
 
 ## Lesson 3
 
-### Make smart, calculated risks, and you will have the advantage over your competition.
+### Make smart, calculated risks, and you will have the advantage over your competition
 
 The word “risk” seems to make a lot of people want to back away when they hear it. But if you think about it, most opportunities in life that are worthwhile involve at least some danger. Like driving a car, it has some uncertainty, but the benefits from being able to drive yourself around far outweigh the risks.
 
@@ -63,7 +63,5 @@ Another question to ask when evaluating the risk is how easy is it to turn back 
 ## Review
 
 *The Start-up of You* is a great read for anyone wanting to accelerate their career or figure out what they want to do. It gives valuable advice on how to have flexibility, take smart risks, and network like a pro. Instead of letting fate determine where you are going to be in your career, this book will give you the tools you need to take control and be who you want to be.
-
-## Who it’s for
 
 The 24-year-old who is looking to start a career but doesn’t know what exactly they want to do yet, the 33-year-old who realizes they don’t like where their job is going and are ready for a change, anyone who wants to kick start their career and get ahead.

@@ -18,7 +18,7 @@ Ready for a trip to the fountain of great ideas? Let’s take a walk to see *Whe
 
 ## Lesson 1
 
-### By building innovations on existing platforms, you can leverage accomplishments of the past.
+### By building innovations on existing platforms, you can leverage accomplishments of the past
 
 In ecology, there’s the concept of *keystone species*. Imagine there’s a small forest close to your hometown, which hosts almost no predators. This is a great environment for small mammals like rabbits or rodents, and chances are their population will grow fairly quickly. However, exponential population growth among just one species usually leads to a scarcity of resources quite fast – if the rabbits eat all the plants, there’ll soon be nothing left.
 
@@ -30,7 +30,7 @@ Similarly, Twitter could only be built because the internet existed. Now, countl
 
 ## Lesson 2
 
-### Facilitate “lucky breaks” by sharing your ideas with others in a physical or intellectual space.
+### Facilitate “lucky breaks” by sharing your ideas with others in a physical or intellectual space
 
 Do you know why Google’s cafeteria is a place designed to be so much fun you don’t wanna leave? It’s so you stick around, talk with people and come up with great ideas.
 
@@ -42,7 +42,7 @@ But remember: Just working on your ideas all by yourself all the time will event
 
 ## Lesson 3
 
-### A great way to innovate is to take something old and tinker with it to see if you can make it useful again.
+### A great way to innovate is to take something old and tinker with it to see if you can make it useful again
 
 In biology, there’s something called *exaptation*. It means a feature that was originally developed to serve one specific purpose is now being used in a completely different context.
 
@@ -57,7 +57,5 @@ So the next time you come across something old and seemingly useless, stick with
 ## Review
 
 I really like the main analogy *Where Good Ideas Come From* works with. It feels natural to describe innovation this way, because it’s, well, based on nature! A really interesting concept, I recommend you give it a go!
-
-## Who it’s for
 
 The 31 year old microbiologist, who stares through a microscope all day and often skips his coffee break, the 45 year old app developer, who’s really frustrated because she can’t seem to come up with a great app from scratch, and anyone who recently threw away an old smartphone.

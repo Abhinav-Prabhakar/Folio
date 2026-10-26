@@ -20,7 +20,7 @@ Are you as inspired as I am to discover how to make your dreams really happen? L
 
 ## Lesson 1
 
-### You can easily see where you want to go and where you don’t by pondering where you’re at in the four fundamentals of life.
+### You can easily see where you want to go and where you don’t by pondering where you’re at in the four fundamentals of life
 
 Have you ever tried to use Google Maps to get to a place you’ve never been to? I don’t use data very often, so it occasionally has a hard time finding my current location, let alone where I want to go. Interestingly enough, this is a good analogy for what you need to know to begin designing your life.
 
@@ -37,7 +37,7 @@ What you want to do is balance all of these pillars of life, but what that looks
 
 ## Lesson 2
 
-### To get clarity of purpose, identify what you do that fills you with energy and puts you into a state of flow.
+### To get clarity of purpose, identify what you do that fills you with energy and puts you into a state of flow
 
 Sometimes, the only thing holding us back from pursuing a more purposeful life is not knowing what fills us with energy.
 
@@ -51,7 +51,7 @@ It’s really empowering to discover that certain work activities can actually i
 
 ## Lesson 3
 
-### It’s good to have multiple options before you, which you can get by exploring where the different paths before you will lead.
+### It’s good to have multiple options before you, which you can get by exploring where the different paths before you will lead
 
 So we’ve talked about some pretty awesome ways to get started finding out what life design will make you happiest. But what about the actual design process? One of my favorites from the book is to let yourself have many options and plan for all of them.
 
@@ -68,7 +68,5 @@ Once he started, however, he began having Skype conversations with friends givin
 ## Review
 
 *Designing Your Life* was oddly, and amazingly, specific to my personal situation right now. I have a degree in Civil Engineering and am working on my “encore career” of writing and trying to balance the same aspects of life that it mentions. This is exactly what I needed to hear to motivate me to keep moving forward, and I’m confident that it can do the same to help you get into a career you love!
-
-## Who it’s for
 
 The 21-year-old college student who is unsure of whether they can change their mind after deciding on their major, the 37-year-old with a lot of experience in their field that wants to leave it but is scared, and anyone that feels like they’re drifting through life and could use more purpose.

@@ -18,7 +18,7 @@ Are you ready to jump to the Ghettoside to learn more about one of society’s b
 
 ## Lesson 1
 
-### Historically, black communities have developed their own, internal justice systems, which causes higher crime rates.
+### Historically, black communities have developed their own, internal justice systems, which causes higher crime rates
 
 Usually, the state is the only institution that’s allowed to use violence to ensure the law is held in place, for example by arresting people, breaking up fights and riots, or, worst case, fire back if someone runs amok. In an ideal world, the police wouldn’t even have to use these measures. But even if our world isn’t perfect, in most places where installed, this system works well.
 
@@ -32,7 +32,7 @@ In essence, these problems don’t cause disregard for the law, they’re the re
 
 ## Lesson 2
 
-### Because US police focuses on prevention, they approach the problem from the wrong end.
+### Because US police focuses on prevention, they approach the problem from the wrong end
 
 The best way to deal with a problem is to prevent it, right? Technically, yes, but in this case prevention doesn’t work. The LAPD has a strong tradition of patrolling, mass arrests and punishing little crimes, like possession of marijuana or shoplifting – all preventative measures.
 
@@ -47,7 +47,7 @@ But how do you do that?
 
 ## Lesson 3
 
-### The only way to restore peoples’ faith in the legal system is to start solving murder cases, no matter the race of the victim.
+### The only way to restore peoples’ faith in the legal system is to start solving murder cases, no matter the race of the victim
 
 Given the above, this might seem obvious, but with only 1 in 3 murder cases with a black victim solved, it’s worth iterating.
 
@@ -62,7 +62,5 @@ This of course a sensitive topic and one that’s tough to draw attention to in 
 ## Review
 
 I had no idea how big the gap in homicide cases was, this was really shocking. Freakonomics taught me that Black communities had bigger problems with crime than their White counterparts, but I didn’t know the disparity was this big and where it comes from. I love how logically and historically sensical Jill argued her way to the solution in *Ghettoside* and this is a topic that deserves a lot more attention than it gets, which makes this a definite recommend!
-
-## Who it’s for
 
 The 22 year old, who just moved to LA, and is afraid of becoming the victim of a crime, the 35 year old social worker, who deals with lots of different local communities, and anyone who doesn’t feel protected by their local police.

@@ -18,7 +18,7 @@ Let’s dive in!
 
 ## Lesson 1
 
-### Be actively engaged in deciding what it is that you want out of your life and how to achieve it.
+### Be actively engaged in deciding what it is that you want out of your life and how to achieve it
 
 It’s no secret that a person who organizes their schedule and has a little bit of structure in their life will be more productive than someone who sits around all day and procrastinates after accomplishing the bare minimum. However, the way we organize our life has a significant impact on results. Therefore, it is of utmost importance to learn how to do it properly.
 
@@ -30,7 +30,7 @@ These questions may bring some discomfort, as you’ll figure out that you have 
 
 ## Lesson 2
 
-### Use envy and the thought of death to unleash significant insights about your desires.
+### Use envy and the thought of death to unleash significant insights about your desires
 
 Acknowledging our feelings and being open about them is a strong sign of emotional intelligence. For this reason, whenever we feel something, be it a positive or negative emotion, it’s best to let it all out instead of suppressing it. The same goes with envy ― the negative emotion responsible for many of our actions.
 
@@ -42,7 +42,7 @@ Take death for example. You can look at it from different perspectives. While th
 
 ## Lesson 3
 
-### Be analytical of your thoughts and admit that you can’t always be right.
+### Be analytical of your thoughts and admit that you can’t always be right
 
 Sometimes it may be hard to acknowledge that our point of view is wrong. Personally, I find it very difficult to accept when someone else is right. However, as the book suggests, this can be counterproductive for our thinking mechanism, as it inhibits our analytical thinking, and the ability to switch perspectives.
 
@@ -55,7 +55,5 @@ As such, start by acknowledging that your thinking is faulty, as it should be. Y
 ## Review
 
 If you want to improve your thinking and be more analytical of yourself, instead of making rushed decisions, *How to Think More Effectively* is the book for you. The author gives practical advice on how to use your negative feelings for a positive return, how to set goals, and structure your life starting with your thoughts. *The School of Life* always delivers!
-
-## Who it’s for
 
 The 23-year-old psychology student who is passionate about cognitive processes, the 30-year-old who feels stuck in the mundane and wants to learn how to make better decisions in life, and anyone who wants to be on top of their thinking game.

@@ -18,7 +18,7 @@ If you want to explore these lessons in detail, stick around and let’s delve i
 
 ## Lesson 1
 
-### The atoms in molecules of fabrics and spices had a lot to do with Napoleon’s battles and Manhattan.
+### The atoms in molecules of fabrics and spices had a lot to do with Napoleon’s battles and Manhattan
 
 The story of Napoleon‘s disastrous Russian campaign is well-known. But what you might not know is that a little detail on the buttons of the soldiers in Napoleon’s army may have changed the course of history.
 
@@ -30,7 +30,7 @@ And Manhattan? What’s that got to do with anything? Well, it seems that in the
 
 ## Lesson 2
 
-### Accidental scientific experiments gave way for humanity to evolve and improve.
+### Accidental scientific experiments gave way for humanity to evolve and improve
 
 We owe a lot to the accidental scientific experiments of the past.
 
@@ -44,7 +44,7 @@ Even Queen Victoria wore clothes dyed by his groundbreaking discovery, which say
 
 ## Lesson 3
 
-### Science is a powerful concept, which is why it took us as humans so long to come to terms with it.
+### Science is a powerful concept, which is why it took us as humans so long to come to terms with it
 
 Human beings have always been fascinated by the power of chemical reactions and biology. They’re what allows us to live, grow and change. And yet, we’ve only recently begun to understand them.
 
@@ -61,7 +61,5 @@ The Earth has been around for billions of years. Humans have only been around fo
 We’ve developed technology that allows us to travel through space, build skyscrapers, and create new materials — but we’re still trying to understand the scientific force that’s driving our world.
 
 *Napoleon’s Buttons* delves into the why and the how of atoms and molecules. The book addresses their implications and effects on the world and how they shaped history altogether, which is why it’s such an interesting read.
-
-## Who it’s for
 
 The 15-year-old science geek, the 40-year-old chemistry professor who enjoys a good lecture, or the 30-year-old history enthusiast who loves to read about science and European history.

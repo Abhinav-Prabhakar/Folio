@@ -20,7 +20,7 @@ Let’s rediscover our powers of enchantment!
 
 ## Lesson 1
 
-### The first two elements that can enchant us are earth and water, reconnecting us to the planet and calming us down.
+### The first two elements that can enchant us are earth and water, reconnecting us to the planet and calming us down
 
 May describes enchantment as **“the ability to sense magic in the everyday, to channel it through our minds and bodies, to be sustained by it.”**
 
@@ -34,7 +34,7 @@ May also rediscovered an ancient well, which was once used as a place of healing
 
 ## Lesson 2
 
-### Two more enchanting elements are fire and air, one of which is as fascinating as it is dangerous, while the other represents change.
+### Two more enchanting elements are fire and air, one of which is as fascinating as it is dangerous, while the other represents change
 
 We often think of fire as the most dangerous of elements, but its power to destroy is also a force of cleansing. Where forests burn, the ashes of trees becomes soil for new plants. In some cases, fire’s ferocity even saves us. Take meteor showers, for example: While we’re watching beautiful shooting stars, fire is burning building-sized rocks before they hit our planet.
 
@@ -46,7 +46,7 @@ Whether it’s a Fata Morgana in the hot desert air, clouds giving way to sunshi
 
 ## Lesson 3
 
-### Aether an imaginary fifth element, best captures what enchantment is truly about.
+### Aether an imaginary fifth element, best captures what enchantment is truly about
 
 Closing with a story of how she went on an adventure to see the Lyrid meteor shower, May explains early scientists believed there was a fifth element: aether. Also known as quintessence, aether was invisible and imperceptible. It was the glue that held everything together, including the sky, the stars, and the sun.
 
@@ -63,7 +63,5 @@ Whether you seek it in earth, water, fire, or air, this is what your quest for e
 ## Review
 
 On the outside, *Enchantment* might look like a “woo-woo” book, but it is actually written in a humorous, down-to-earth style. As in *Wintering*, May simply narrates her story along with her discoveries. A fun book that will likely get you into nature but definitely out of your own head!
-
-## Who it’s for
 
 The 44-year-old family father, who’s so busy working he barely has time to look out the window, the 65-year-old grandmother who wants to remember what it was like to be young, and anyone who’s tired of endless doomscrolling.

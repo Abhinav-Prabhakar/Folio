@@ -20,7 +20,7 @@ Let’s jump right into these lessons!
 
 ## Lesson 1
 
-### If you want to create lasting change, make sure you have self-compassion and have a judgment-free zone.
+### If you want to create lasting change, make sure you have self-compassion and have a judgment-free zone
 
 Izadi tried countless diet fads and weight loss programs and was a pro at losing weight. The only problem was that she couldn’t keep it off. After struggling for years, she finally realized that maybe the struggle was more about her self-image than the actual number on the scale. She noticed other overweight people and how comfortable they could feel in their own skin.
 
@@ -32,7 +32,7 @@ That’s why support groups like Alcoholics Anonymous are so helpful to people. 
 
 ## Lesson 2
 
-### Start improving by examining what has worked in the past and what hasn’t.
+### Start improving by examining what has worked in the past and what hasn’t
 
 Shahroo believes that achieving real change requires less “finding yourself” and more *meeting* yourself. Doing this means understanding your current patterns so you can make a plan that works for you.
 
@@ -46,7 +46,7 @@ Lastly, label a map “Why haven’t I changed already?” This is the time to r
 
 ## Lesson 3
 
-### Build a plan and make sure that it’s both incremental and realistic.
+### Build a plan and make sure that it’s both incremental and realistic
 
 Now that you’ve taken time to examine where you are and where you want to go with maps, it’s time to finally create your plan. Exciting!
 
@@ -61,7 +61,5 @@ For your last map, write “What I’m proud of.” Then you can decide what inc
 ## Review
 
 As someone who has struggled with being too hard on myself, *The Kindness Method* is a game-changer. I really love the way books like this make me feel. They help me recognize that it’s okay to be imperfect and that I can still be happy and productive despite my weaknesses.
-
-## Who it’s for
 
 The 49-year-old who could use a way of losing weight that actually works, the 27-year-old that wants to beat their alcohol addiction, and anyone that wants a better and more realistic way of forming good habits.

@@ -24,7 +24,7 @@ Get ready to get into your own head and finally see why you sometimes make crazy
 
 ## Lesson 1
 
-### Your beliefs about money are strong because you began developing them when you were really young.
+### Your beliefs about money are strong because you began developing them when you were really young
 
 At what age would you say kids have a grasp of the importance of earning an income? If you thought it was 10 or 12-years-old, you’d be wrong. Research shows that children at least as young as six already know about the importance of money!
 
@@ -40,7 +40,7 @@ But also remember that there is great potential in being open and honest with yo
 
 ## Lesson 2
 
-### Your motivation at work can actually suffer because of money.
+### Your motivation at work can actually suffer because of money
 
 It might seem obvious that money can motivate people to do all kinds of things. But the research shows some surprisingly varied results on this topic.
 
@@ -56,7 +56,7 @@ Don’t let all of this negative talk of money motivation hinder you from giving
 
 ## Lesson 3
 
-### More money might make you happier, but after a certain amount the extra income doesn’t make any difference.
+### More money might make you happier, but after a certain amount the extra income doesn’t make any difference
 
 I cringe whenever people say they’d love to win the lottery. I wouldn’t wish that curse even on my worst enemies. That’s because I know the data behind people who get a big windfall like that, and it isn’t pretty.
 
@@ -73,7 +73,5 @@ Being financially stable is a critical component of staying physically and menta
 ## Review
 
 What I loved most about *Mind Over Money* is that it’s not your typical personal finance book. Most authors in this genre only give tips on how to manage your money, but Hammond actually dives into the psychology so you can make sense of your financial decisions. If you’re the kind of person that isn’t sure why you spend so much and never seem to have enough, this book is for you!
-
-## Who it’s for
 
 The ever-broke 37-year-old couple who just wants to make sure their kids are fed and clothed, the 18-year-old who thinks they’d be happy if they could just win the lottery someday, and anyone that wants to know how to make their mind work for them instead of against them when it comes to money.

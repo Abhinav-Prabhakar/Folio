@@ -18,8 +18,6 @@ Here are just 3 of the many inspiring lessons I learned from this book:
 
 Are you excited to figure out why you can find a solution to anything?! Let’s go!
 
-### Everything Is Figureoutable Summary
-
 ## Lesson 1
 
 ### If you want to beat your mind at its own games and make your dreams happen, adopt the mantra that “everything is figureoutable.”
@@ -38,7 +36,7 @@ The author once almost missed a flight because she was late for baggage check-in
 
 ## Lesson 2
 
-### You’re making excuses whenever you say “I can’t,” the reality is that you just don’t want to.
+### You’re making excuses whenever you say “I can’t,” the reality is that you just don’t want to
 
 All this talk of self-limiting beliefs makes you wonder where they come from in the first place. Digging deep within yourself, you can see that you’re just justifying and hiding how much you don’t want to do something.
 
@@ -56,7 +54,7 @@ Catch yourself the next time you’re saying “I can’t” and recognize the h
 
 ## Lesson 3
 
-### Always start first, then you’ll discover an endless supply of motivation and understanding of what you should do and how.
+### Always start first, then you’ll discover an endless supply of motivation and understanding of what you should do and how
 
 Indecision too often paralyzes even the best go-getters. It’s one of the biggest stumbling blocks in our way toward success.
 
@@ -75,7 +73,5 @@ After emailing a popular writer I’d been following for a few months and asking
 ## Review
 
 Whoa, what a powerful message! *Everything Is Figureoutable* has got to be one of my new favorite books. I really got a lot of motivation out of the ways it teaches to overcome limiting beliefs. Very cool read, go for it!
-
-## Who it’s for
 
 The 29-year-old that is always making excuses for why they can’t improve, the 49-year-old that would like to quit their job and start their own company but is too caught up in their self-doubts, and anyone that wants some real inspiration to get moving on their goals!

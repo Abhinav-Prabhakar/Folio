@@ -18,7 +18,7 @@ Are you excited to see how you can be a real-life hero? Let’s get into these l
 
 ## Lesson 1
 
-### Heroes have courage in the face of danger and are willing to sacrifice themselves for others.
+### Heroes have courage in the face of danger and are willing to sacrifice themselves for others
 
 When Admiral McRaven heard of the losses of three soldiers in Afghanistan one night, the news hit extra hard: He was responsible for one of them being there. Her name was Lieutenant Ashley White.
 
@@ -34,7 +34,7 @@ For this selfless sacrifice, Johnson was posthumously given the Medal of Honor. 
 
 ## Lesson 2
 
-### Heroes don’t give in, they persevere.
+### Heroes don’t give in, they persevere
 
 Young James Patrick Allison lost his mother to cancer when he was only 11. Not long after, he also lost two uncles to cancer. Instead of brooding over the loss, he decided he wanted to do something about it — he was going to cure cancer.
 
@@ -50,7 +50,7 @@ McRaven believes that for every Olympic gold medallist, there is also an equally
 
 ## Lesson 3
 
-### Giving people the gift of hope is heroic.
+### Giving people the gift of hope is heroic
 
 During the Vietnam war, over a thousand Americans were taken as prisoners of war. The treatment was brutal— captivity for years, beatings, isolation, and sometimes a severe withholding of food and water. In this situation, it was natural that many of them lost hope, and their faith in a return home faded the longer they were there. In November 1970, an Army Special Forces unit known as the Green Berets went on a rescue mission to free 60 prisoners of war.
 
@@ -67,7 +67,5 @@ Hope may not change something today, but it comes with the promise of a better t
 ## Review
 
 *The Hero Code* is such an inspiring and refreshing read. We hear so much about the bad things happening in the world that we sometimes overlook the beautiful acts of heroism all around us. This book definitely makes me feel motivated to try to display the attributes of a hero in my day-to-day life!
-
-## Who it’s for
 
 The 17-year-old who is thinking about joining the army, the 37-year-old that feels bored with life and wants some inspiration to be better, and anyone who could use some motivational life advice.

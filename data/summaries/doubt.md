@@ -20,7 +20,7 @@ Are you curious to learn how doubt has played such an important role in the hist
 
 ## Lesson 1
 
-### Religions have grown, changed, and are even born from skeptics.
+### Religions have grown, changed, and are even born from skeptics
 
 Faith plays an important role in religion. But doubt, the opposite faith, is also present in churches past and present. That’s because the entire basis of religious belief is that you can’t prove anything.
 
@@ -34,7 +34,7 @@ If you’re questioning your own religion, take heart from these examples of the
 
 ## Lesson 2
 
-### Doubters play an important role in the progression of science.
+### Doubters play an important role in the progression of science
 
 Doubt is the birthplace of science. In early times, people had few ways to describe natural phenomena like lightning. **Only when people decided to question the fables concocted to attempt an explanation for these events, did we start to make scientific discoveries.**
 
@@ -46,7 +46,7 @@ Whether you’re a budding new scientist or have been around for a long time, do
 
 ## Lesson 3
 
-### You can benefit from your doubts, no matter what religious or scientific beliefs you currently have.
+### You can benefit from your doubts, no matter what religious or scientific beliefs you currently have
 
 Rene Descartes begins his *Meditation on First Philosophy* by identifying his many disbeliefs. He questioned reality, the reliability of his senses, and even whether God existed. It could have all been a trick by an evil spirit, for all Descartes knew. Although he couldn’t release his doubts, he realized they at least confirmed that he existed. If he wasn’t real, then he wouldn’t dispute everything.
 
@@ -59,7 +59,5 @@ Let’s look at death, for example. **Doubt helps us see that, because death is 
 ## Review
 
 *Doubt: A History* was an interesting read for sure. Although I’m not a history buff, this was an interesting dive into a topic that I hadn’t ever considered before. Anyone who reads this book will come to a surprising new appreciation for doubt and it’s benefits.
-
-## Who it’s for
 
 The 65-year-old religious couple who wants to stay loyal to their church but has their doubts, the 34-year-old history buff who is interested to learn about lesser-known ideas, and anyone who is interested in religion.

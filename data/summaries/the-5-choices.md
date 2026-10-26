@@ -18,7 +18,7 @@ In the following paragraphs, we’ll go into detail about each lesson and focus 
 
 ## Lesson 1
 
-### To become productive, you’ll have to start organizing your time according to the four quadrants.
+### To become productive, you’ll have to start organizing your time according to the four quadrants
 
 Struggling with procrastination is a real thing, and it all boils down to one main issue – we don’t know how to manage our time. What’s worse is that we think we’re good at doing so. That is why we also reject scientific methods and advice on the matter, thinking that we know better.
 
@@ -35,7 +35,7 @@ Carry out a self-analysis and think about where you spend most of your time. You
 
 ## Lesson 2
 
-### Define your role titles, your role statements, and your schedule to set better goals.
+### Define your role titles, your role statements, and your schedule to set better goals
 
 By now you know that you should be spending most of your work time in Q2 doing important but non-urgent work. But what is that? Our jobs are complex and they require many tasks, so what’s important may seem blurry at times. Well, this is why you should define your role titles and statements.
 
@@ -47,7 +47,7 @@ Given a deadline, you now have to estimate how much time you can dedicate each d
 
 ## Lesson 3
 
-### To reap all the benefits of a time management system, you’ll have to nurture your body and energy levels.
+### To reap all the benefits of a time management system, you’ll have to nurture your body and energy levels
 
 Now that you’ve learned about the time management system presented in this book and got an idea of the strategies you need to use to implement it, it’s time to focus on the most important aspect of this system – you.
 
@@ -67,7 +67,5 @@ Without these three sources of energy ticked, it’ll be impossible for you to b
 This book will help you focus on what matters most by giving you clear strategies, priorities, and systems. It combines science and research with actionable advice to show you the best way to improve your work.
 
 Each chapter focuses on one aspect of your working life (time, movement and space, tools, stress) and provides tested methods for improving it.
-
-## Who it’s for
 
 The 25-year-old young professional who is struggling to find a balance between their new career opportunity and family life, the 40-year-old manager who wants to keep advancing in their career but doesn’t know how to become more productive and innovative at work, or the 30-year-old person who wants to coordinate their efforts better and stop procrastinating.

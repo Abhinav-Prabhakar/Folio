@@ -20,7 +20,7 @@ Let’s build success like investors build their portfolio, by using the compoun
 
 ## Lesson 1
 
-### When you come up with a new life goal, immediately turn it into a daily habit.
+### When you come up with a new life goal, immediately turn it into a daily habit
 
 We’ve all been there. You have an insightful, glorious moment, in which you decide you’ll “put your foot down” and make a change, right *now.* But then the morning comes and your idea to run 10k every day doesn’t seem so good any longer.
 
@@ -34,7 +34,7 @@ I’m not saying that finding the *right* habit is easy. It’ll take some exper
 
 ## Lesson 2
 
-### Create a routine which you can stick to, so you won’t lose your momentum.
+### Create a routine which you can stick to, so you won’t lose your momentum
 
 …because only when you can do your habit consistently can you make it part of the routine you need to increase your momentum.
 
@@ -50,7 +50,7 @@ Keep showing up until your habit clicks into a routine.
 
 ## Lesson 3
 
-### Use your momentum to push through limits as you hit them, even if you have to trick yourself at first.
+### Use your momentum to push through limits as you hit them, even if you have to trick yourself at first
 
 The goal of having a good routine going is that you’ll have momentum when you need it the most: the first time you hit a limit.
 
@@ -65,7 +65,5 @@ Finding tweaks like these to make your momentum work for you will allow you to p
 ## Review
 
 *The Compound Effect* pretty much sums up the momentum framework we use to coach on coach.me. Set a goal, break it down, monitor daily habits, build momentum, level up. Simple? Yes. Basic? Yes. But efficient as ever? Hell yeah! Especially good books for beginners in personal development.
-
-## Who it’s for
 
 The 22 year old, whose New Year’s resolution to quit smoking failed this year, the 43 year old tech manager, who’s trying to get his gym habit back up again, but keeps missing his workouts, and anyone who’s currently figuring out how to level up one of their habits.

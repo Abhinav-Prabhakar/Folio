@@ -18,11 +18,9 @@ Here are 3 lessons from the book to help you do just that:
 
 Let’s discover what we can bank on for years to come — maybe even literally!
 
-### Same as Ever Summary
-
 ## Lesson 1
 
-### Base your decisions on people’s behavior, not events, because history keeps reminding us that the world is unpredictable.
+### Base your decisions on people’s behavior, not events, because history keeps reminding us that the world is unpredictable
 
 Life hangs by a thread, and so does history. That’s Housel’s first assertion. He recounts how, as a teenager, by complete chance, he skipped skiing down a dangerous slope for the second time with two of his friends. They both died in an avalanche. Though hopefully not as drastic, we’ve all experienced moments like this. Split-second decisions shape our lives all the time.
 
@@ -38,7 +36,7 @@ When you make decisions and predictions, financial or otherwise, consider human 
 
 ## Lesson 2
 
-### Stories drive markets because a great story will always be more compelling than even the best statistic.
+### Stories drive markets because a great story will always be more compelling than even the best statistic
 
 As an investor in crypto since 2017, I can’t tell you how many narratives I’ve seen take Twitter by storm. For a while it was Bitcoin’s acceptance as an official currency that would “send its price to the moon.” Then it was companies putting it on their balance sheet. Then it was the Lightning Network. Oh, and let’s not forget the mythical Bitcoin ETF.
 
@@ -52,7 +50,7 @@ When investing but also otherwise, always look for the story. Humans prefer tale
 
 ## Lesson 3
 
-### Some lessons, we can’t learn until we experience them firsthand.
+### Some lessons, we can’t learn until we experience them firsthand
 
 I read *All Quiet on the Western Front* by Erich Maria Remarque in high school. At first, the young Paul Bäumer and his friends are excited to join World War I. As soon as the first bullets fly and their comrades die in ditches, however, they all become terrified children.
 
@@ -67,7 +65,5 @@ Every generation is condemned to learn some hard lessons for themselves. That, t
 ## Review
 
 *Same as Ever: A Guide to What Never Changes* follows one central theme: Psychology and behavior dominate everything, from our personal investing decisions to our collective history. In 23 short, interesting stories, you’ll discover timeless human patterns that’ll help you handle your money a bit better and make good long-term career and life decisions. A worthy follow-up to *The Psychology of Money*!
-
-## Who it’s for
 
 The 18-year-old newbie investor, who thinks they must bet big on innovative ideas to make it in the markets, the 33-year-old entrepreneur looking for a timeless business model, and anyone who enjoys history, economics, and stocks.

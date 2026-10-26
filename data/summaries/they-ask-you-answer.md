@@ -20,7 +20,7 @@ Among them, here are three of my favorite ones:
 
 ## Lesson 1
 
-### To connect with consumers, businesses ought to find and solve their fears.
+### To connect with consumers, businesses ought to find and solve their fears
 
 In the current business environment, knowing your audience is the winning ticket. Why? Because customers don’t want to spend time looking for solutions, but rather want the solution to come to them.
 
@@ -28,13 +28,13 @@ Moreover, they’re expecting you to guess what their fears are.
 
 Nowadays, 70% of customers make the purchase decision before they get in touch with the company. This soaring percent draws attention to a compelling reality. The consumers have access to a sea of information and they don’t need to be convinced into buying.
 
-Reviews, how-to videos, and your website’s content are already enough. Moreover, the buying decision is based on necessity. **Therefore, what’s left for the company is to address what could go wrong.Solutionized fears will increase sales.**
+Reviews, how-to videos, and your website’s content are already enough. Moreover, the buying decision is based on necessity. **Therefore, what’s left for the company is to address what could go wrong. Solutionized fears will increase sales.**
 
 To do that, prioritize informing content. The fears you want to address are: *Is this the right size? Will this item ship in time? What are the maintenance costs? Is it worth the money?* Reassure customers that they’re not being ripped off.
 
 ## Lesson 2
 
-### Companies should focus on four specific aspects in the content creation process.
+### Companies should focus on four specific aspects in the content creation process
 
 The first and most determinant factor for any prospect is ***price***. People have limited budgets for certain items, so it’s best to set a price that is convenient for both parties. Make sure to come up with a cost for consumers that reflects the true value for money.
 
@@ -46,7 +46,7 @@ The final aspect is ***reviews***. Allow customers to make their decisions based
 
 ## Lesson 3
 
-### Educational content draws consumers to you.
+### Educational content draws consumers to you
 
 According to Backlinko, 14% of all Google searches are a question. This fact could easily become one of the biggest opportunities for a website. Why? Well, instead of letting online users or competitors answer these inquiries, you could take on this mission.
 
@@ -63,7 +63,5 @@ The book is a go-to guide for everyone that seeks to step up their digital marke
 Marcus Sheridan’s valuable pieces of advice will enrich the reader’s perspectives on inbound sales, educational marketing, and digital audiences.
 
 Acting on the suggested strategies will decrease the input of money, time, and creative energy and put them to better use. Then *They Ask You Answer* methodology drives a growth mindset and fosters a more lucrative approach to content marketing.
-
-## Who it’s for
 
 The 25-year old entrepreneur who wants to scale his business, the marketer who wants to get creative with his work, the advertiser who wants to engage more with the audience and increase sales.

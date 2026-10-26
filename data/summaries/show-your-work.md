@@ -50,6 +50,4 @@ As you post valuable content and give credits to the references used, they’ll 
 
 *Show Your Work!* emphasizes the importance of networking correctly, creating a loyal audience to support your work, and most importantly, showcasing the part of your work that creates added value, inspires people, and shows your authenticity. Reading this book will shed some light on the importance of being discovered rather than remaining an unknown genius, and why leaving a trace through your professional endeavors is something you should aim for.
 
-## Who it’s for
-
 The 30-year-old artist who feels embarrassed to showcase and advertise their art, the 35-year-old employee who has great ideas at work but is afraid to speak up, or the 40-year-old entrepreneur who wants to learn how to become more popular online and advertise their business.

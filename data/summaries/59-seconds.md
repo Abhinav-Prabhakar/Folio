@@ -20,7 +20,7 @@ Ready to improve your life in three ways in just three minutes each? Let’s loo
 
 ## Lesson 1
 
-### Think about your own eulogy to align your actions with your long-term goals.
+### Think about your own eulogy to align your actions with your long-term goals
 
 One of the most popular techniques in self-improvement is visualizing your goals. You sit down, close your eyes, and imagine yourself achieving your dreams, as well as doing the things necessary to get there. I’ve done it for a while as part of my Miracle Morning and found it to be helpful.
 
@@ -34,7 +34,7 @@ Similar to the funeral test, this’ll show you what’s *really* important to y
 
 ## Lesson 2
 
-### Skip the brainstorming and go right from eureka to execution.
+### Skip the brainstorming and go right from eureka to execution
 
 You know what ruins a great idea? Thinking about how to implement it. Brainstorming is supposedly this creative process, but it really suppresses ideas, because it creates delay and friction between having an idea and getting to work.
 
@@ -50,7 +50,7 @@ This’ll save you plenty of planning time and make you loads more productive, k
 
 ## Lesson 3
 
-### Use “but” every time you point out something negative in another person.
+### Use “but” every time you point out something negative in another person
 
 When following couples around for a year to determine what makes some relationships successful while others break, researchers Sandra Murray and John Holmes found one word to be particularly useful: **“but.”**
 

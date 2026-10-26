@@ -22,7 +22,7 @@ Are you as excited as I am about this new perspective on life? Let’s dive righ
 
 ## Lesson 1
 
-### If you want to prepare your kids for the future, teach them to work hard and not give up easily.
+### If you want to prepare your kids for the future, teach them to work hard and not give up easily
 
 It might be easy when you see your kid struggling with a task to label it a weakness and let it go. But for Chinese parents this is unacceptable. They know that their children’s mindset is changeable and will turn their kid’s weaknesses into strengths.
 
@@ -38,7 +38,7 @@ Chua was having none of it though. She wanted Louisa to understand that she coul
 
 ## Lesson 2
 
-### Westerners may have a difficult time understanding Chinese parent’s philosophies on fun and happiness but they can learn a lot from them.
+### Westerners may have a difficult time understanding Chinese parent’s philosophies on fun and happiness but they can learn a lot from them
 
 What do you think when you see a tough parent scolding their child? It might be easy to assume that the kid isn’t happy. But the author, even with strict parents, remembers being very happy as a child.
 
@@ -54,7 +54,7 @@ In the mind of the author, many Western families struggle even though they’re 
 
 ## Lesson 3
 
-### There are many benefits to the harsh-sounding Chinese child-rearing mentalities.
+### There are many benefits to the harsh-sounding Chinese child-rearing mentalities
 
 Making your kid sit down to practice the piano just for an hour sounds intense to us Western parents. But the Chinese don’t have a problem with being hard on their kids. To them, that first hour is just a warmup.
 
@@ -71,7 +71,5 @@ In the case of requiring only top grades, Chua knows what her daughters can acco
 ## Review
 
 Whoa, *Battle Hymn Of The Tiger Mother* blew me away. I was not excited at the beginning when I heard the phrase “authoritarian parenting style” because I know how awful it can be and the problems it creates for kids. But discovering the details of and reasons behind the Chinese parenting philosophy really opened my eyes to its benefits.
-
-## Who it’s for
 
 The 28-year-old new parents who are wondering how to raise their kids, the 43-year-old school teacher that wants to help her students reach their full potential, and anyone that’s curious to see the positives of a parenting style that they might consider to be too tough.

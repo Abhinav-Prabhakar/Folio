@@ -20,7 +20,7 @@ Ready for some lessons in gratitude 101? Let’s do it!
 
 ## Lesson 1
 
-### Let go of your expectations and you’ll see that even tiny moments can be life-changing.
+### Let go of your expectations and you’ll see that even tiny moments can be life-changing
 
 One night Jeff’s infant son woke up and started crying. Eager to get back to sleep, Jeff hoped he could rock him back to sleep sooner rather than later. However, his son was stubborn and just wouldn’t fall asleep again.
 
@@ -32,7 +32,7 @@ While it’s always good to have a plan, you should never try to force your expe
 
 ## Lesson 2
 
-### Start paying attention here and now, and you’ll learn to value each and every moment.
+### Start paying attention here and now, and you’ll learn to value each and every moment
 
 When his semester abroad in Spain ended, Jeff reacted like any student studying overseas would: he didn’t want to go home. Hoping to at least turn the journey back home to “boring Illinois” into an adventure, he decided to take the train.
 
@@ -46,7 +46,7 @@ Whenever I travel, going home always makes me nostalgic. Jeff learned that those
 
 ## Lesson 3
 
-### Celebrate big events in your life as they happen and be grateful for them.
+### Celebrate big events in your life as they happen and be grateful for them
 
 Jeff was never into the idea of getting married, so when the day eventually did draw closer and closer, he didn’t have high expectations of what most men would probably call the best day of their lives (like one of his close friends).
 
@@ -63,7 +63,5 @@ So while you shouldn’t obsess over the big events in your life, do appreciate 
 There’s beauty to be found in every single moment we’re alive, and Jeff ever so kindly reminds us to do so with this wonderful piece of writing, directly from the heart.
 
 Go get yourself a copy, sit in the corner of your favorite café (like I’m doing right now) and read it in one go. You can thank me later 😉
-
-## Who it’s for
 
 The 21 year old college student, who can’t wait for the next big party or vacation, the 33 year old, who’s eager to make as much money as possible in his new job, so he can finally “start living” and anyone who usually kills time at the bus stop by playing games on their phone.

@@ -4,7 +4,7 @@
 
 ## Overview
 
-You’ve seen him behind the desk of *The* *Daily Show* — but do you know his inspiring backstory? Comedian Trevor Noah truly is one of a kind.
+You’ve seen him behind the desk of *The Daily Show* — but do you know his inspiring backstory? Comedian Trevor Noah truly is one of a kind.
 
 Noah was born in apartheid South Africa. As if that wasn’t hard enough, his very existence was a crime because he was the child of a white father and a black mother. His mother had to go to extraordinary measures to protect him.
 
@@ -20,11 +20,9 @@ Here are the 3 greatest lessons I got from this one:
 
 Let’s learn from this inspiring story!
 
-### Born a Crime Summary
-
 ## Lesson 1
 
-### Apartheid South Africa made Trevor’s existence a crime, but his mother made sure he was safe.
+### Apartheid South Africa made Trevor’s existence a crime, but his mother made sure he was safe
 
 One of the laws during apartheid, a period of segregation in South Africa, was that there should be no interracial sex. Authorities would imprison men and women who broke this rule. They were even known to look inside windows to make sure no illegal relations were taking place behind closed doors.
 
@@ -40,7 +38,7 @@ She spent what little money she had on books for him and a lot of time teaching 
 
 ## Lesson 2
 
-### Apartheid ended when Noah was coming of age, and it proved difficult in its own way.
+### Apartheid ended when Noah was coming of age, and it proved difficult in its own way
 
 In 1991, a year after Nelson Mandela was freed from his life sentence, apartheid finally came to an end. But though it was over, a whole new range of problems came. At the end of apartheid, there came a power struggle over who was actually in charge. The two tribes, Zulus and Xhosas, fought. Many people died.
 
@@ -52,7 +50,7 @@ He found the best way to navigate post-apartheid Africa was to learn many langua
 
 ## Lesson 3
 
-### Noah’s natural wit and ability to blend in with different types of people helped him in his young business endeavors.
+### Noah’s natural wit and ability to blend in with different types of people helped him in his young business endeavors
 
 Noah may have been considered “coloured,” or a mix of black and white, but he thought of himself as black. He spoke several African languages and grew up among African relatives. So it was no wonder he gravitated toward the black kids.
 
@@ -67,7 +65,5 @@ Other business endeavors extended to selling bootleg CDs with the CD writer his 
 ## Review
 
 And the moral of the story is Mom’s rule! I have so much respect for Trevor Noah after reading this one, but especially for his mother who worked hard to take care of him through a troubling time. *Born A Crime* is a great book with a lot of great lessons, and this is just one of them!
-
-## Who it’s for
 
 The 36-year-old who loves watching The Daily Show, the 58-year-old with an interest in history, and anyone that would love to hear an inspiring story.

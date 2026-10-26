@@ -18,11 +18,9 @@ Here are the 3 most helpful lessons this book teaches about trauma and recovery:
 
 Ready to find out how to recover from your most difficult experiences that still haunt you? Let’s dive right in!
 
-### The Body Keeps The Score Summary
-
 ## Lesson 1
 
-### Trauma patients who go through the EMDR technique have seen incredible results in recovery.
+### Trauma patients who go through the EMDR technique have seen incredible results in recovery
 
 Difficult events can have a long-lasting negative effect. Just remembering them can raise blood pressure and deactivate rational thinking parts of a victim’s brain. Many of these experiences came from childhood and have been around for a long time. But there is hope for even the nastiest of demons you face.
 
@@ -36,7 +34,7 @@ Using EMDR, van der Kolk helped Kathy re-imagine these memories in a helpful way
 
 ## Lesson 2
 
-### Dealing with your troubling past is easier when you practice yoga to help you connect your mind and body.
+### Dealing with your troubling past is easier when you practice yoga to help you connect your mind and body
 
 Your body and mind are more connected than you might think. Figuring out how your emotions work and impact your body is essential for balance and stability in life.
 
@@ -50,7 +48,7 @@ But refusing to give up, Annie persevered and began to notice how her body was g
 
 ## Lesson 3
 
-### Mindfulness and a support network of friends and family who care are also great ways to experience healing.
+### Mindfulness and a support network of friends and family who care are also great ways to experience healing
 
 The aim of mindfulness is to mentally connect with and become aware of your body and emotions instead of just denying them. It’s difficult to do this after adversity because we don’t like to deal with painful emotions like sadness or anger. But suppressing them, as many victims do, just leads to more problems.
 
@@ -63,7 +61,5 @@ Relationships are another vital component of the recovery process. Your network 
 ## Review
 
 *The Body Keeps The Score* is a powerful book especially at a time when too many have to deal with trauma. I’ve got family members who have been through some pretty difficult things that I know the techniques in this book could help. If you’ve been through traumatic events this book will give you hope to recover.
-
-## Who it’s for
 
 The 33-year-old who was abused by her father as a child and is now dealing with mental illness because of it, the 56-year-old who has chronic pain and wants to find ways to deal with it, and anyone who has been through trauma or suffers from depression or anxiety.

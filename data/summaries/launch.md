@@ -20,7 +20,7 @@ Ready to start an online business? Let’s get to work!
 
 ## Lesson 1
 
-### The money is in the list.
+### The money is in the list
 
 I’ve heard this line a million times. But when you’re not active in the internet marketing space, you won’t know what it means. And even though it sounds so cheesy, it’s true. Imagine me saying it in a hushed voice, while I’m wearing a trench coat and a fedora, almost whispering it:
 
@@ -44,7 +44,7 @@ To get started, all you need is a simple **squeeze page**, where people only hav
 
 ## Lesson 2
 
-### Use a pre-launch to build up excitement before your actual launch.
+### Use a pre-launch to build up excitement before your actual launch
 
 Remember how you could NOT wait for the latest Star Wars movie to be released, because the world kept teasing you with posters, trailers, gimmicks, talk show appearances and behind the scenes clips? That’s the power of Hollywood marketing, and there’s no reason you can’t do the same.
 
@@ -54,7 +54,7 @@ Video is a great medium for this, as it’s always perceived to be high quality 
 
 ## Lesson 3
 
-### Use seed launches to sell ideas before building them.
+### Use seed launches to sell ideas before building them
 
 But what if you have no idea and no list? Here’s a good way to start. Jeff calls it the seed launch.
 
@@ -75,7 +75,5 @@ The actual book and the summary on Blinkist are both good, but for entirely diff
 That said, if you only want the technical details, I’d go with just the summary. It is more than enough to get the nuts and bolts of Jeff’s launch formula, and while the book does provide some more details, it often also leaves you hanging, trying hard to sell you on his course for bonus materials.
 
 Jeff is a fascinating man and a good, humble guy, so if you’re into biographies like me, get the book. If you just want to start an online business as quickly as possible, read the summary on Blinkist.
-
-## Who it’s for
 
 The 14 year old who can get a head start on all of us by learning these things right now, the 51 year old business consultant with a great offline network, who could benefit massively from a seed launch, and anyone who doesn’t have an email list.

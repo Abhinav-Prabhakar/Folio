@@ -22,7 +22,7 @@ Looking for some inspiration? Well, you just found it! Let’s go!
 
 ## Lesson 1
 
-### You can have greater energy and better balance if you become obsessed.
+### You can have greater energy and better balance if you become obsessed
 
 Unless you’re some mythical creature, you regularly get tired and low on energy. Nobody’s immune to fatigue, but is there a way to generate energy instead of always lacking it?
 
@@ -36,7 +36,7 @@ After some thinking, he realized that it wasn’t a public speaking career he wa
 
 ## Lesson 2
 
-### Embrace your fears to skyrocket your growth.
+### Embrace your fears to skyrocket your growth
 
 When you’re going strong following what you love to do most, not everything is easy. As you’re pushing yourself to achieve great things, you’re bound to encounter the barrier of fear. But it’s important that you let it in and try to understand it because it’s often what you need to succeed.
 
@@ -50,7 +50,7 @@ Remember that it’s okay and even a good sign if you’re afraid. After all, wh
 
 ## Lesson 3
 
-### You can use the opposition that comes from becoming passionate to motivate you to work harder.
+### You can use the opposition that comes from becoming passionate to motivate you to work harder
 
 Whatever business you are in you can count on people who don’t like you and the work you are doing. Success goes hand in hand with haters. But that’s no reason to bow down to their insults.
 
@@ -67,7 +67,5 @@ Whether it was the jocks and mean girls in high school or the lender that wouldn
 ## Review
 
 *Be Obsessed Or Be Average* is a really inspiring book that will motivate you to think big and reach your dreams. I do think that Grant Cardone is a little intense for my liking and I prefer to be a little more balanced with my life. But it is nice to have people like him in the world to teach us how to fulfill our full potential!
-
-## Who it’s for
 
 The 23-year-old with big dreams that sometimes feels like they aren’t doing what’s necessary to make them happen, the 35-year-old entrepreneur that is close to a big breakthrough and wants some help thinking creatively, and anyone that wants to live a fulfilling life of hard work!

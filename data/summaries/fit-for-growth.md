@@ -22,11 +22,11 @@ Pull up your business’s books and let’s learn how to cut costs effectively!
 
 ## Lesson 1
 
-### Cut costs everywhere except for the areas in which your company excels.
+### Cut costs everywhere except for the areas in which your company excels
 
 There are many reasons why growth is hard to come by. The economy could be bad, or maybe competition is getting worse. Whatever it is, cutting costs will help. It’s so important that the authors recommend putting as much effort into reducing expenses as you do into increasing your revenue.
 
-But you have to be smart about it. You can’t just go slashing budgets left and right. **You might wonder where you should start, but the better question to ask as you begin is where should you*not*cut costs?**
+But you have to be smart about it. You can’t just go slashing budgets left and right. **You might wonder where you should start, but the better question to ask as you begin is where should you *not* cut costs?**
 
 To answer this question, you need to find out what your differentiating capabilities are. These are any knowledge, tools, or systems that your business has that makes you better than everyone else. They differentiate you in the market.
 
@@ -38,7 +38,7 @@ Unfortunately, this only makes them mediocre at everything. It’s far more prod
 
 ## Lesson 2
 
-### Begin reducing expenses today, you never know when a challenge will arise that might make you wish you’d started sooner.
+### Begin reducing expenses today, you never know when a challenge will arise that might make you wish you’d started sooner
 
 The COVID-19 pandemic has been a wake-up call for many businesses. Some have restructured, and others have had to close their doors permanently. They may have been able to prevent this, however, if they had begun cutting costs before they needed to.
 
@@ -54,7 +54,7 @@ If something’s not working or could use fewer resources, that would be the per
 
 ## Lesson 3
 
-### Relocate your business activities to low-wage countries but make sure they have sufficient talent and infrastructure first.
+### Relocate your business activities to low-wage countries but make sure they have sufficient talent and infrastructure first
 
 What would you think of if I were to ask you what your company’s footprint is? According to the authors, it means every location that your organization operates in, from service centers to research and development labs.
 
@@ -73,7 +73,5 @@ You also need to make sure the place has high-speed internet, reliable electrici
 ## Review
 
 I’ve read a lot of business books and they all seem the same. What I liked about *Fit For Growth* was that it wasn’t the same old stuff I’ve heard before! It really hones in on one aspect of entrepreneurship that I think people too often overlook and it leaves them unprepared and strapped for money.
-
-## Who it’s for
 
 The 52-year-old CEO that’s looking to restructure their company, the 32-year-old who is considering starting their own business and wants to budget wisely from the start, and anyone that wants to develop their management skills.

@@ -20,7 +20,7 @@ Let’s look deeper into how to be great EntreLeaders!
 
 ## Lesson 1
 
-### You need both entrepreneurial and leadership skills to become a great manager.
+### You need both entrepreneurial and leadership skills to become a great manager
 
 If you want to be a successful startup founder, you’ve got to be hard-working and passionate. It takes a lot of risk-taking to make a new company work, and that may require some innovation as well. Conversely, leadership principles are also a necessity to make it when you’re in the trenches of growing in a young business. Discipline and humility are key components, as is the ability to keep calm in the many tough times in the beginning. Leaders need to motivate teams and take charge of the company’s culture.
 
@@ -30,7 +30,7 @@ Contrast this leader with a younger Dave Ramsey, who one time made his team stay
 
 ## Lesson 2
 
-### A powerful marketing plan is required to make your business goals happen, and must be perfected over time to work well.
+### A powerful marketing plan is required to make your business goals happen, and must be perfected over time to work well
 
 In 1994 Dave Ramsey began teaching people how to avoid becoming bankrupt. The name of his class was “Life After Debt” and Ramsey ran ads on the radio, offering the first session for no charge. Unfortunately, a meager *six people* showed up for his class. After some analysis, Ramsey learned that his class wasn’t solving a problem that his audience really needed help with. Rather, people wanted to learn financial security.
 
@@ -40,7 +40,7 @@ A great sales strategy involves helping your audience have positive experiences.
 
 ## Lesson 3
 
-### Paying your team members generously and giving them bonuses is a surefire way to earn their trust and respect.
+### Paying your team members generously and giving them bonuses is a surefire way to earn their trust and respect
 
 A few months ago, I lost my job. Thankfully, a side business I was working on gave me the opportunity to work with a great leader and friend who is paying me very well for my work. I’ve noticed a powerful difference in my investment level with this new opportunity as opposed to how much I cared at my former job. Ramsey teaches that compensating well breeds hard work and loyalty from your employees, just as I have experienced recently.
 
@@ -51,7 +51,5 @@ One company made the unfortunate mistake of paying their employees no more than 
 ## Review
 
 Many of the principles in *EntreLeadership* don’t seem that new to me, but it might be because I’ve been surrounded by great leaders for many years. The book was released in 2011, which may be another reason some of these ideas don’t seem as fresh. Regardless, these are timeless fundamentals that will benefit anyone who is in business!
-
-## Who it’s for
 
 The 31-year-old who is getting their first employees in their brand new business, the 42-year-old accountant that wants to move up into management, and anyone considering starting a company that will have people working for them.

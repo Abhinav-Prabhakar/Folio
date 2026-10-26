@@ -20,7 +20,7 @@ The happiness equation isn’t as easy to solve as your usual third grade arithm
 
 ## Lesson 1
 
-### Ikigai is better than retirement.
+### Ikigai is better than retirement
 
 In one of his secrets, Neil takes us on a little history tour. He says we (the Germans, that is) invented retirement in 1889. Neil’s right. I remember the *actual* history lesson in school.
 
@@ -34,7 +34,7 @@ But fear not, the solution is around the globe. In Okinawa, Japan, where people 
 
 ## Lesson 2
 
-### Take the Saturday Morning Test.
+### Take the Saturday Morning Test
 
 Another one of Neil’s happiness secret is really straightforward: be yourself. Haha, good one Nik, platitudes much? I know that’s easier said than done, because often, we don’t quite know who we are, if we’re honest. It’s a lifelong process of finding out.
 
@@ -48,7 +48,7 @@ You can always turn pro later and make your calling your career.
 
 ## Lesson 3
 
-### Don’t listen to much advice at all.
+### Don’t listen to much advice at all
 
 Life is full of contradictions. Often, these contradictions confuse us, because they come to us in the form of advice from so many people, books, lectures, experts, family and friends. Funny enough, none of them know you as well as you know yourself.
 
@@ -63,7 +63,5 @@ You don’t need anyone to tell you what you need. You know. You got this. And y
 ## Review
 
 I like the basic formula of the equation, I like the way *The Happiness Equation* is structured, I like the stories, examples and creative ways of practicing happiness. A refreshing read all around!
-
-## Who it’s for
 
 The 28 year old young marketer, who’s hustling and hustling and not getting to where he wants with his income, the 47 year old housewife who fell out of love and anyone who lost someone they held dear.

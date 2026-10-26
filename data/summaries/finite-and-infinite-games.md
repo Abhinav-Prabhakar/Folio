@@ -16,11 +16,9 @@ Here are 3 lessons I’ve learned:
 
 Let’s set aside our preconceptions about “games” and reconsider the very nature of human existence!
 
-### Finite and Infinite Games Summary
-
 ## Lesson 1
 
-### Games with boundaries must end, but some playful activities can go on forever.
+### Games with boundaries must end, but some playful activities can go on forever
 
 As suggested by the book’s title, Carse believes that games come in two fundamental types: finite and infinite. Finite games are those where it’s clear who the players are and who the audience is. Finite games also take place at clear places, spaces, and times, under set rules. The purpose of the game is to finish the game and agree upon a winner. Sports are clear examples of finite games.
 
@@ -32,7 +30,7 @@ Both kinds of games are paradoxical, according to Carse. Finite games are played
 
 ## Lesson 2
 
-### If you don’t care about winning in front of the audience, then you have no reason to play that game.
+### If you don’t care about winning in front of the audience, then you have no reason to play that game
 
 Games don’t just happen in a vacuum. They have audiences who note what takes place, and whose memories can record information about winners and losers. Participants in a finite game are competing to prove that they’re not losers and to earn a more positive assessment of others. Titles in finite games, like sports champions, look to the past for information about who therefore holds power now.
 
@@ -42,13 +40,13 @@ What’s the implication here? **If you’re playing a game that you don’t car
 
 ## Lesson 3
 
-### Games are all around us — and we should start playing them.
+### Games are all around us — and we should start playing them
 
 Is this all sounding a little abstract? Well, it’s supposed to — but only because Carse’s theory of finite and infinite games ends up applying in one way to just about everything. He draws on examples as diverse as society, government, war, money, leisure, the family, and human sexuality.
 
 Even the act of speaking can be finite or infinite. According to Carse, finite speakers report on things that were already the case, while infinite speakers use words so they can be taken up by their audience and co-players and thereby changed in meaning after the fact. This makes storytelling the ultimate infinite game: anyone can speak, anyone can hear, anyone can take a narrative and make it hers in some way. You can’t stop a story: it has an infinite life of its own.
 
-**Carse even suggests that maybe there’s*only one*infinite game — with every human participating in various ways over time.** Players enter, experiment with things, change the game in various ways, and exit. This big, perpetual infinite game contains all the little finite games, but no finite game like politics or money can contain an infinite game.
+**Carse even suggests that maybe there’s *only one* infinite game — with every human participating in various ways over time.** Players enter, experiment with things, change the game in various ways, and exit. This big, perpetual infinite game contains all the little finite games, but no finite game like politics or money can contain an infinite game.
 
 ## Review
 

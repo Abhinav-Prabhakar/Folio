@@ -18,7 +18,7 @@ Ready to understand the need for the American revolution? Let’s begin!
 
 ## Lesson 1
 
-### Society and rules are a result of humans doing best when they work together.
+### Society and rules are a result of humans doing best when they work together
 
 You can probably screw in a lightbulb with just one person. But there are many behind the scenes that make it possible. Between the electric company, the manufacturer of the lightbulb, and the retailer that sells it, you need a lot of people for one simple task.
 
@@ -34,7 +34,7 @@ All of us are selfish and make bad choices sometimes. That means that people wil
 
 ## Lesson 2
 
-### Elected officials that enact what the people want is a better form of government than monarchy.
+### Elected officials that enact what the people want is a better form of government than monarchy
 
 Do you remember the last time you were trying to decide with your entire family where you should all go for dinner? The varying likes and dislikes makes this kind of choice pretty difficult. But can you imagine trying to get hundreds of thousands of people to agree on something?
 
@@ -48,7 +48,7 @@ The ruler by birthright system also has no way of protecting people from an inco
 
 ## Lesson 3
 
-### America had to separate from Great Britain, just like a teenager comes to a point where they need to leave the home.
+### America had to separate from Great Britain, just like a teenager comes to a point where they need to leave the home
 
 Putting two and two together here, we can see the obvious choice that America had to sever the ties with its mother country.
 
@@ -67,7 +67,5 @@ What’s worse, these people didn’t even have anyone representing them in the 
 ## Review
 
 I’ve always known about *Common Sense* from US History in high school. But I never realized how interesting it is and the importance it had in America’s history. I think these principles are timeless though and many, if not all of them still apply today!
-
-## Who it’s for
 
 The 23-year-old university student who is studying political science, the 53-year-old who is politically involved and likes to remind themselves of America’s beginning, and anyone with an interest in US history that would like to understand it better.

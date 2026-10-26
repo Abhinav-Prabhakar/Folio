@@ -18,7 +18,7 @@ Ready to take on the Goliath’s in your life? No worries, we’ll get you there
 
 ## Lesson 1
 
-### Living in a privileged environment might hinder your success.
+### Living in a privileged environment might hinder your success
 
 I’ll be the first to come out of the gate and admit this. **Growing up with rich parents makes you weak.**
 
@@ -34,7 +34,7 @@ Going to a less privileged school will make getting good grades harder, but offe
 
 ## Lesson 2
 
-### If you have a learning disability, it might actually give you an advantage.
+### If you have a learning disability, it might actually give you an advantage
 
 One of my best friends in school was dyslexic. Not only that, because of the local accent in our rural area, he also had a really hard time writing texts in proper German. He’d always get an F on his essays for his horrible spelling and grammar.
 
@@ -48,7 +48,7 @@ Remember the baseball and bat question from *Thinking Fast and Slow*? That’s e
 
 ## Lesson 3
 
-### Use your own, unique skill set to beat big competitors on your own terms.
+### Use your own, unique skill set to beat big competitors on your own terms
 
 Last year I could not stop rambling about the Spartans. *Spartan Up* was one of the first summaries on here. It never ceases to amaze me how those 300 Spartans beat an entire Persian empire.
 
@@ -67,7 +67,5 @@ If you’re facing a Goliath and feel like David, don’t compare yourself in ph
 So many encouraging lessons in *David and Goliath* for people who often feel like they’re outnumbered, outwitted or just put at an unfair advantage. If you’ve ever felt like an underdog, this is the one for you.
 
 Malcolm Gladwell also gave a fascinating TED talk about this book and subject, a great supplement to reading the book or summary and a definite recommend 🙂
-
-## Who it’s for
 
 The 17-year-old in a hobby baseball team, which always battles for survival among the last places of the league, the 41-year-old, who’s spent the majority of her life hiding a cognitive disability, and anyone who constantly feels like an underdog.

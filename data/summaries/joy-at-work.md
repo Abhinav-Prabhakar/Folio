@@ -22,7 +22,7 @@ Grab a trash can and let’s see what stuff of yours you don’t really need and
 
 ## Lesson 1
 
-### You will be more productive, profitable, and happy, and your boss will think more highly of you if you keep your workspace organized.
+### You will be more productive, profitable, and happy, and your boss will think more highly of you if you keep your workspace organized
 
 My old boss was constantly looking for papers and having to find other spaces to work when he needed to work on hard copies of plans. He always seemed pretty frazzled, running from one job to another. Again, I want to reiterate how awesome of a person he was and also how difficult I know staying organized can be.
 
@@ -38,7 +38,7 @@ All these reasons are good, but if you tidy up because someone tells you to, it�
 
 ## Lesson 2
 
-### First, look at each of your books and papers and keep them only if they spark joy or are useful.
+### First, look at each of your books and papers and keep them only if they spark joy or are useful
 
 Alright, now that you’ve got the motivation it’s time to get in and get your hands dirty. Or wait, I mean, clean!
 
@@ -62,7 +62,7 @@ Paperwork is a little different, but you can sort it by looking at three categor
 
 ## Lesson 3
 
-### Your email inbox and desktop are two places to start to get digitally organized.
+### Your email inbox and desktop are two places to start to get digitally organized
 
 Moving to your computer spaces, we’ll start with the first thing you see on your computer-the desktop. It’s got a lot of potential for joy, but most of us end up using it as a dumpster for computer files.
 
@@ -77,7 +77,5 @@ Also, set office hours for responding. I turn on do not disturb on my phone from
 ## Review
 
 I love that the focus of *Joy At Work* is happiness and not just tidying for the sake of it. It really is true, I’ve found, that when our workplaces are neat and somewhere that we enjoy being, work goes much better!
-
-## Who it’s for
 
 The 47-year-old office worker who always has a messy desk and is tired of it, the 29-year-old that hates going to work, and anyone who wants to be happier at work.

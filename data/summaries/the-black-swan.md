@@ -20,7 +20,7 @@ Are you prepared to find out what you don’t know? We’ll see!
 
 ## Lesson 1
 
-### Black Swans dramatically change the reality of those, who aren’t aware that they’re coming.
+### Black Swans dramatically change the reality of those, who aren’t aware that they’re coming
 
 Nassim Taleb calls an event a “Black Swan” if it’s unpredictable not because it’s random, but because our outlook on what’s possible was too narrow. The name stems from the fact that up until 1697, mankind believed all swans were white. But when Dutch explorers finally saw black swans for the first time in Western Australia, the term morphed into describing an event that occurred in spite of *seeming* impossible.
 
@@ -36,7 +36,7 @@ However, often Black Swans affect entire societies, or even the whole world. Jus
 
 ## Lesson 2
 
-### Don’t use your past to explain the future.
+### Don’t use your past to explain the future
 
 One of our biggest erroneous behaviors is **our tendency to predict what will happen in the future by using our past as an explanation**. Based on the only things we can be certain of – what has happened in our lives in the past – we weave a narrative that makes sense and expect that the future simply *must* unfold this way.
 
@@ -48,7 +48,7 @@ The very same thing happened to everyone who lost a lot of money during the fina
 
 ## Lesson 3
 
-### Trying to assess real-world risk like you would in a game can lead you to making the wrong choices.
+### Trying to assess real-world risk like you would in a game can lead you to making the wrong choices
 
 Another fallacy Taleb describes is called the ludic fallacy. This one explains why we do such bad jobs at getting the right insurance policy, for example.
 
@@ -67,7 +67,5 @@ It’s hard for us to assess risk accurately in the real world, but oversimplify
 ## Review
 
 Wow, I could’ve shared a ton more lessons. *The Black Swan* is fantastic. Really makes you aware of how your brain fails you, and as always, that awareness is the first step. An absolute must read!
-
-## Who it’s for
 
 The 18 year old star of the football team, who think his sports career will continue forever, the 52 year old, who’s lost a big chunk of money in the stock market once, and anyone who likes gambling.

@@ -18,7 +18,7 @@ Let’s learn about some of the greatest minds in technology!
 
 ## Lesson 1
 
-### The first programmer was 100 years ahead of her time, and she was a poet and mathematician.
+### The first programmer was 100 years ahead of her time, and she was a poet and mathematician
 
 We all know computers are somehow rooted in mathematics, but few people know just how much. In the early 1800s, Ada Lovelace, daughter of Lord Byron, furiously studied both mathematics and art, as she had a burning passion for one and felt the other helped discipline herself.
 
@@ -30,7 +30,7 @@ Lovelace later used her sense for poetry and mathematical ability to expand upon
 
 ## Lesson 2
 
-### The personal computer was invented by hackers and hippies.
+### The personal computer was invented by hackers and hippies
 
 You may be aware that in the early days of software, a fierce competition between Apple and Microsoft took place. Yet, both of them borrowed from a company named Xerox and so really, the first operating systems were a “combined effort.” But not just that, hardware was a group effort too.
 
@@ -40,7 +40,7 @@ Discussion about it at the club was lively, and once orders for $397 went throug
 
 ## Lesson 3
 
-### Universities, the military and private companies came together to create the web.
+### Universities, the military and private companies came together to create the web
 
 Some people are critical connections in any given process, with major responsibility for the eventual outcome. Vannevar Bush is one of those people. The dean of MIT’s School of Engineering, top military science advisor and founder of computer company Raytheon brought the three crucial parties behind the internet together.
 
@@ -55,7 +55,5 @@ As you can see, progress doesn’t happen overnight or behind closed doors. It�
 I think the big, *big* idea that hovers above all the lessons from *The Innovators* is that if you’re not willing to share your ideas, your thoughts, your work with other people, none of it will ever be of any significance. Whether you pursue something solo or as a team, there’s always a time to come out and say: *“Hey world, I made this, what do you think?”*
 
 Unless you do that, you can’t truly call yourself an innovator. And that’s as true for innovation in technology as it is for art, education, business, politics, social sciences, or any other field. Walter Isaacson is a great writer, I highly recommend his work.
-
-## Who it’s for
 
 The 23 year old electrical engineer, who wants to work at a company that’ll change the world, the 37 year old R&D team leader, who refuses to give his co-workers access to some of their most important work, and anyone who’s fascinated by binary logic.

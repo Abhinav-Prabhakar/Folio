@@ -20,7 +20,7 @@ Think long-term travel is just for gypsies? You’re about to learn something ne
 
 ## Lesson 1
 
-### Your relationship with money has to change.
+### Your relationship with money has to change
 
 Are you independent? Most likely, you’ll answer this with a resounding no. The majority of people depends on things. We depend on our location, because our job is there. We depend on our job, because it’s where our money comes from.
 
@@ -36,7 +36,7 @@ Here’s how.
 
 ## Lesson 2
 
-### Vagabonding is really a mindset you have to adopt long before you reach the airport.
+### Vagabonding is really a mindset you have to adopt long before you reach the airport
 
 If you’re like most people, you work to make a living, and then reward yourself occasionally with a vacation. **Vagabonds, however, work only to travel**.
 
@@ -50,7 +50,7 @@ And unless you’re a trustafarian, who never has to worry and just travels as a
 
 ## Lesson 3
 
-### Start with simplifying material possessions in 3 steps.
+### Start with simplifying material possessions in 3 steps
 
 Here are some actionable things you can do as soon as today to develop a vagabonding mindset. They all relate to **simplifying your material possessions**, because simplicity is a core concept any vagabond must embrace. After all, you can’t take your entire apartment with you, things just slow you down.
 
@@ -67,7 +67,5 @@ Once you’re done with those three steps, try to put everything you own into yo
 I just hope this got you into the travel mindset a bit. That’s all. If it did and your wanderlust spirit is awakening, take a look at the summary of *Vagabonding*, it holds quite the assortment of good tips.
 
 The audiobook is supposed to be really great as well. Can’t wait to pick this up when it’s time 🙂
-
-## Who it’s for
 
 The 17 year old, who wonders how to fill the gap time she has between high school and college, the 34 year old freelancer, who’s not bound to any location for his work, but still doesn’t travel, and anyone who’s never been away from home for more than a week.

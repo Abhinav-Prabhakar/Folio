@@ -16,11 +16,9 @@ Although difficult to choose from, here are the lessons that are the most fun an
 
 Science can seem like a difficult subject, but these lessons will help you start on the right foot and learn some pretty interesting facts about the universe. Let’s start with the first one!
 
-### Astrophysics for People in a Hurry Summary
-
 ## Lesson 1
 
-### Modern science discovered plenty of facts about the universe, but there’s still a lot that we don’t know.
+### Modern science discovered plenty of facts about the universe, but there’s still a lot that we don’t know
 
 There’s one thing that scientists agree upon: we know that we don’t know. There’s only so much that science had discovered about the universe, our planets, the stars, and how life emerged. We know that the laws of physics have an effect on all these things, but we don’t know which effect that is.
 
@@ -30,7 +28,7 @@ In terms of how our planet came to life, we know that it happened through a smal
 
 ## Lesson 2
 
-### Helium was discovered before it was found on Earth.
+### Helium was discovered before it was found on Earth
 
 Helium might seem like a common, day-to-day matter, but it carries a very interesting story. It was first discovered in the Sun’s spectrum, way before it was discovered on Earth. A fun fact about it is that the word helium means Sun in Greek. Cool, right? Now back to our point.
 
@@ -40,7 +38,7 @@ The similarities we share with the universe can only make us wonder: **What if t
 
 ## Lesson 3
 
-### The Universe started as a tiny, extremely hot dot, but then cooled off and expanded.
+### The Universe started as a tiny, extremely hot dot, but then cooled off and expanded
 
 Before everything we know today came to life, the energy and matter that makes up the Universe, the galaxies, planets, stars, matter, and everything in between, was concentrated into a tiny dot. **The dot exploded and started to cool off rapidly, giving way for celestial matter to form.**
 
@@ -53,7 +51,5 @@ This process was essential for our future development as a planet and for life t
 ## Review
 
 *Astrophysics for People in a Hurry* is a fascinating piece of writing about the most captivating facts of science, life, the beginning of the universe, and many other laws of science. By combining physics, chemistry, mathematics, and astronomy, the book manages to shed some light on the most wonderful facts about life and the universe. Reading this book will help you wrap your head around some of the universal truths about life and science in general.
-
-## Who it’s for
 
 The 30-year-old person who likes to read factual pieces about science, the 27-year-old who is trying to learn about science quickly, or the 22-year-old science student who likes to study the universe and its origins outside their curricula.

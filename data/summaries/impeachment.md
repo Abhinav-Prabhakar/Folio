@@ -18,7 +18,7 @@ Here are the 3 most helpful lessons about this power of the government:
 
 ## Lesson 1
 
-### Making laws regarding the ejection of a president was difficult, and the framers had to make them intentionally vague.
+### Making laws regarding the ejection of a president was difficult, and the framers had to make them intentionally vague
 
 The founding fathers understood that having a president was necessary, but weren’t going to allow any shenanigans with adverse effects. Would it be possible to write constitutional laws that could allow for the removal of corrupt leaders in the future?
 
@@ -32,7 +32,7 @@ All of this complication was intentional to ensure that tossing a corrupt presid
 
 ## Lesson 2
 
-### We can’t throw out a commander-in-chief because people don’t like them.
+### We can’t throw out a commander-in-chief because people don’t like them
 
 Let’s look at just two of the cases of impeachment-Andrew Johnson and Richard Nixon. Each one clearly shows different sides of how this process can go well and how it can be a sham.
 
@@ -48,7 +48,7 @@ It showed the government and the people how important these laws were. These eve
 
 ## Lesson 3
 
-### Only government leaders who are bipartisan can lead us through the muck of impeachment that stems from an awfully partisan system.
+### Only government leaders who are bipartisan can lead us through the muck of impeachment that stems from an awfully partisan system
 
 Asking any 6-year-old how to solve a problem in a group and they’ll tell you to work together. If only the leaders in Washington could figure this out. The sad truth is that the system is wildly polarized because of partisanship.
 
@@ -63,7 +63,5 @@ Impeachment is a scary, difficult, and confusing process that can threaten democ
 ## Review
 
 What an interesting and timely message! To be honest, I’m a little lost on politics and history, but *Impeachment* simplified at least this one small part of it all. This is a great book to help you improve your knowledge about this important political process!
-
-## Who it’s for
 
 The 29-year-old who doesn’t understand much about what impeachment is or how it works, the 45-year-old news reporter who feels like they know a lot about Trump and the events of his presidency, and anyone who wants to gain awareness about the events of 2020.

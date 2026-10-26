@@ -64,6 +64,4 @@ The second rule is to stop taking meaningless photos and snaps of everything you
 
 Bored and Brilliant takes the reader on a scientific journey about the impotence of boredom in the human life, then a psychological one which proves how boredom leads to genius, and ultimately a challenge to all its readers. Although difficult, those who want to embrace boredom and achieve positive output from their mind will have to quit distractions, including social media and their phones. The digital distraction is a real addiction, but quitting it can prove to be the best thing you’ll ever do. If you’re ready to step into this challenge with both feet, this book is a must-read for you.
 
-## Who it’s for
-
 The 21-year-old gen Z who wants to spend less time on their phone and work more on their career, the 35-year-old person who feels close to burnout and wants to learn to relax while still creating useful output with their mind, or the 40-year-old person who doesn’t know how to take a break anymore yet finds themselves facing the negative consequences of being overworked.

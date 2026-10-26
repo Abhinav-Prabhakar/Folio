@@ -22,7 +22,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### The future of work lies within the skills of the workforce.
+### The future of work lies within the skills of the workforce
 
 Many people find themselves at some point in their careers when they feel like quitting or changing their professional paths completely. As life expectancy grows, people start considering this even midlife. However, some find it difficult to do so, as they lack the luxury to just quit their jobs and pursue a different career.
 
@@ -36,7 +36,7 @@ Both employees and employers should start focusing on the demand and supply of c
 
 ## Lesson 2
 
-### Learning and working concomitantly is the new way of learning skills.
+### Learning and working concomitantly is the new way of learning skills
 
 Automation is here to stay. People who have been working in repetitive jobs or jobs that robots can easily replace should expect this. However, they can do something to become a part of this transition rather than getting left behind.
 
@@ -48,7 +48,7 @@ Other ways to train adults through targeted education are on-ramps. These are pr
 
 ## Lesson 3
 
-### Fairness and transparency in hiring are beneficial for all parties involves.
+### Fairness and transparency in hiring are beneficial for all parties involves
 
 The job matching process of today isn’t well structured. Instead of quality, employers seek large quantities of applications, then screen them rapidly without really getting to know their candidates. Ultimately, the two rarely meet or hear from each other. As a result, the job market has a significant shortage of skilled workforce.
 
@@ -61,7 +61,5 @@ Using real-life situations, applicants can prove their worth through practical t
 ## Review
 
 *Long Life Learning* draws a comparison between the current state of the working environment and its future through the perspective of a progressive eye. The relationship between employers and employees lacks the means to achieve long-term sustainability, while the educational system fails to prepare students for the dynamic job market. The readers will get an insight into the future and learn how to prepare for it by reading this book.
-
-## Who it’s for
 
 The person who is curious about the future of work, such as a professor or an entrepreneur, the college graduate who is interested in pursuing a degree in a lucrative field, or business leaders trying to foster a modern working environment and adapt to the trends.

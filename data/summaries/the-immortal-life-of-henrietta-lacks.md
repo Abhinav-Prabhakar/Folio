@@ -24,7 +24,7 @@ Let’s hop on the Magic School Bus and jump back in time and into the life and 
 
 ## Lesson 1
 
-### Henrietta died tragically of cancer when she was young, but her cells still live on today.
+### Henrietta died tragically of cancer when she was young, but her cells still live on today
 
 Henrietta was a poor black farmer who was born in Virginia in 1920. She married young and soon was a mother of five young children. She was 30 when she walked into the coloreds-only exam room at John’s Hopkins complaining of a lump on her cervix.
 
@@ -38,7 +38,7 @@ When they put Henrietta’s cancer cells, or “HeLa,” in the roller-tube, the
 
 ## Lesson 2
 
-### Though her cells were known around the world, most people knew nothing about Henrietta or her family, until recently.
+### Though her cells were known around the world, most people knew nothing about Henrietta or her family, until recently
 
 Though her cells were known and produced around the world, Henrietta and her family were largely forgotten. After her death, her family struggled to make ends meet. Her husband Day had to work two jobs, and her oldest son had to leave school to raise his younger siblings.
 
@@ -54,7 +54,7 @@ Even though the history of the exploitation of black people by scientists is doc
 
 ## Lesson 3
 
-### Henrietta’s cells have raised ethical questions regarding cell donation in the world today.
+### Henrietta’s cells have raised ethical questions regarding cell donation in the world today
 
 Though Henrietta had rare, aggressive cells that made lab research possible, the same thing can and has happened to others.
 
@@ -73,7 +73,5 @@ Some believe that the current laws are enough. But many argue the patient has a 
 ## Review
 
 Wow, what a crazy story! *The Immortal Life Of Henrietta Lacks* has me excited about the science, but also disappointed in the way she was treated. There is a lot of potential to do good in the world if healthcare providers will just be honest with people about how they use their tissue samples!
-
-## Who it’s for
 
 The 54-year-old with an interest in history that likes learning about new historical facts that were covered up at the time they happened, the 31-year-old who is in medical school, and anyone that wants to know who they can thank for many advances in modern medicine.

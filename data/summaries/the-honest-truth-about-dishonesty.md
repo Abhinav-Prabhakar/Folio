@@ -20,7 +20,7 @@ Ready to cheat a little less? Here we go!
 
 ## Lesson 1
 
-### The decision to cheat is not a rational one.
+### The decision to cheat is not a rational one
 
 When I ask you how you think people decide whether to cheat when they have a chance to, or not, you’ll probably say something like:
 
@@ -48,7 +48,7 @@ Then what does?
 
 ## Lesson 2
 
-### You’re more likely to cheat when there’s a psychological distance between you and the deed.
+### You’re more likely to cheat when there’s a psychological distance between you and the deed
 
 It’s about who you’re cheating to and what for.
 
@@ -70,7 +70,7 @@ There’s one more step between you and the deed and that makes it more likely f
 
 ## Lesson 3
 
-### Stop wearing fake designer clothes. It’ll only make it worse.
+### Stop wearing fake designer clothes. It’ll only make it worse
 
 Where’d you get those Gucci shades?
 
@@ -101,7 +101,5 @@ Maybe it was just the way this particular summary was written and Blinkist’s w
 This is really cool about Dan Ariely, he does all of his research himself. He’s not too much of a theorist, instead, he just goes out and does the experiments necessary to find out.
 
 Very great summary on Blinkist, a good foray into this field of research. I suggest you read *The Honest Truth About Dishonesty* and also watch one of Dan’s TED talks (I like this one) to see if these topics resonate with you.
-
-## Who it’s for
 
 The 17 year old, who often cheats on tests and tries to rationalize her behavior with logical arguments, the 31 year old, who took a lot of his roommate’s food in college, and anyone who’s ever worn fake designer clothes.

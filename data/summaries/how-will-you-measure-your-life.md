@@ -20,7 +20,7 @@ Ready to find a new measure for your life? Here we go!
 
 ## Lesson 1
 
-### Relationships constantly require your attention – even when it doesn’t seem like it.
+### Relationships constantly require your attention – even when it doesn’t seem like it
 
 Do you sometimes avoid going to family birthdays? Have you ever felt happy some important work thing happened right at the same time, and gave you a good excuse not to go?
 
@@ -37,7 +37,7 @@ It might seem like you can compensate less family time now for more later, but t
 
 ## Lesson 2
 
-### Build intuition and empathy by thinking of your family life as a job.
+### Build intuition and empathy by thinking of your family life as a job
 
 So what’s one thing you can do to instantly improve your relationships and give them the attention they deserve? How about treating them like a job?
 
@@ -51,7 +51,7 @@ The more often you do this, the better you’ll become at intuitively guessing w
 
 ## Lesson 3
 
-### Avoid the trap of marginal thinking.
+### Avoid the trap of marginal thinking
 
 One relationship we mustn’t neglect in all this is the one you have with yourself. A really easy way to protect it at all times is to live with integrity. If your conscience is clear, you’ll feel good about decisions you make and actions you take, and that’s what makes those work out.
 
@@ -68,7 +68,5 @@ Simply recognizing when you’re thinking marginally can make a huge difference 
 ## Review
 
 I like *How Will You Measure Your Life*. The book’s statement is not one you hear often these days. Less work, more family! I think I needed to hear that myself. Already reached out to some friends and will delete some contacts from my phone who aren’t valuable relationships and only take away from the important ones. A recommended read!
-
-## Who it’s for
 
 The 35 year old successful manager, who wants to start a family, but is really going for his career right now, the 55 year old working wife, who hasn’t seen a lot of her childhood friends in a long time, and anyone who has given in to the temptation to do something “just this once” before.

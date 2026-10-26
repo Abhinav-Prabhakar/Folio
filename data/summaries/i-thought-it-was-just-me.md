@@ -20,7 +20,7 @@ We all feel ashamed at times. It’s not unnatural and there’s no need to apol
 
 ## Lesson 1
 
-### The first step of understanding shame is to define what it means to you.
+### The first step of understanding shame is to define what it means to you
 
 We talk about our feelings all the time, yet we know quite little about them. When you say “I’m hungry,” do you know where that hunger comes from? What happens in your body when you feel it?
 
@@ -34,7 +34,7 @@ In my case, I felt embarrassed for not being “a prolific writer” any more, b
 
 ## Lesson 2
 
-### You can react better when you feel ashamed by practicing critical awareness.
+### You can react better when you feel ashamed by practicing critical awareness
 
 The point of defining what shame means to you isn’t having some arbitrary definition locked and loaded to spit out in a quiz show. It’s mostly a small step towards helping you *notice* when you feel ashamed. Seeing yourself from the outside in any present moment is the key to adjusting your reaction to the situation.
 
@@ -44,7 +44,7 @@ Brené calls this critical awareness. For example when she noticed her audience 
 
 ## Lesson 3
 
-### Anger is an easy outlet to channel shame into, but it’s the wrong one.
+### Anger is an easy outlet to channel shame into, but it’s the wrong one
 
 I spent a lot of time in the car with my dad this week. Unfortunately, I didn’t have the critical awareness to see shame about my broken promise as one of the causes of my discomfort. Therefore, another feeling tried to creep up a lot: anger.
 
@@ -57,7 +57,5 @@ Brené doesn’t condemn anger, though. She says it’s a useful emotion – jus
 ## Review
 
 As a classic read-it-when-y0u-need-it example, I chose this summary because I figured it would help me with my current situation. It did. However, I bet there are plenty more insights from all the interviews Brené conducted in the book. If you struggle with shame a lot and often lack self-esteem, I recommend you take the time to check out *I Thought It Was Just Me (But It Isn’t)* in detail.
-
-## Who it’s for
 
 The 15 year old who just got glasses and doesn’t want to go to school any more, the 33 year old mother who’s constantly doubting herself, and anyone who regularly gives talks or holds presentations.

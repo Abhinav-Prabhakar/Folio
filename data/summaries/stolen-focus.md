@@ -18,11 +18,9 @@ Here are three lessons about our collective attention crisis, and what you can d
 
 When our attention wanes, the quality of our life decreases. Let’s understand how it happens so we can fight back!
 
-### Stolen Focus Summary
-
 ## Lesson 1
 
-### The internet isn’t the only thing eroding our focus, but it’s declining ever-faster, and that’s a problem.
+### The internet isn’t the only thing eroding our focus, but it’s declining ever-faster, and that’s a problem
 
 Out of personal dissatisfaction with his ability to focus, Danish professor Sune Lehmann conducted a study about attention. He concluded that, even before the internet, the rise and fall of popular books in the last 200 years indicates that trend cycles are getting shorter. The internet compounds this problem. Between 2013 and 2016, the average duration for which topics trend on Twitter reduced by over 30%, from over 17 to just over 11 hours.
 
@@ -32,7 +30,7 @@ The culprit is the increasing rate at which we can spread information. From lett
 
 ## Lesson 2
 
-### Most of today’s big social media platforms exploit your attention on purpose so they can make money.
+### Most of today’s big social media platforms exploit your attention on purpose so they can make money
 
 We have a saying in Germany: “The only thing that’s free in life is death — and even for that, you’ll have to pay with your life.” It means that everything comes at a price, even if the price is hidden at first.
 
@@ -44,7 +42,7 @@ In 2020, the Wall Street Journal even broke a story showing Facebook knew full w
 
 ## Lesson 3
 
-### The first step to regaining your focus is to stop celebrating multitasking and begin practicing the state of flow.
+### The first step to regaining your focus is to stop celebrating multitasking and begin practicing the state of flow
 
 More information than we can handle, addictive technology, and an entire industry incentivized to keep you doomscrolling for as long as possible: It’s easy to put on your victim hat when it comes to your loss of deep focus. But we too carry some of the blame.
 
@@ -59,7 +57,5 @@ Start small. Put the brakes on multitasking, go down fewer social media rabbit h
 ## Review
 
 Hari packages the topic well. In outlining the situation as a global attention crisis, he conveys to us the gravity of the situation. He deftly compiles the history, latest developments, and up-to-date research on the subject, and he still manages to sneak in some personal recommendations as to how we can improve. *Stolen Focus* is a great read for learning to better manage your attention in the 21st century.
-
-## Who it’s for
 
 The 14-year-old high school student who’s so busy maintaining all her social media profiles that she barely has time to pay attention in class, the 27-year-old young professional who feels totally overwhelmed at a new job two weeks in, and anyone who feels like they just can’t focus the way they used to.

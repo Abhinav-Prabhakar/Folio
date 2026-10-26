@@ -20,7 +20,7 @@ Ready to have your dissatisfaction with your life finally put to rest? Here we g
 
 ## Lesson 1
 
-### Grow your self-esteem to combat the desire to be “somebody” that is currently making you anxious.
+### Grow your self-esteem to combat the desire to be “somebody” that is currently making you anxious
 
 It’s obvious that the rich try to get richer just because they’re greedy, right? But it makes no sense that someone would keep trying to build wealth even after they’ve acquired an amount they could never reasonably spend.
 
@@ -36,7 +36,7 @@ Instead of basing your self-worth on whether or not you’re a “somebody,” t
 
 ## Lesson 2
 
-### The feeling of restlessness you have comes from society’s high expectations you’re trying to live up to.
+### The feeling of restlessness you have comes from society’s high expectations you’re trying to live up to
 
 Let’s step back into medieval Europe for a moment. We could talk for hours about how much better we have it today. Disease and famine ravaged the poor class while the rich stayed isolated. Certainly people in these times had more status anxiety than we do now, right?
 
@@ -50,7 +50,7 @@ This causes angst because we don’t decide whether we have enough until we see 
 
 ## Lesson 3
 
-### Philosophy will help you relax by identifying the difference between what everybody else wants for you and what you truly need.
+### Philosophy will help you relax by identifying the difference between what everybody else wants for you and what you truly need
 
 One day in the city of Corinth in the fifth century BC, a philosopher named Diogenes was sitting under a tree. Alexander the Great finds him and asks how he can help. Diogenes lets Alexander, the most powerful person in the world, know he should get out of the way because he’s blocking the sun.
 
@@ -65,7 +65,5 @@ As yourself what is truly valuable to you and only you. Question the traditions 
 ## Review
 
 What an eye-opening book! *Status Anxiety* brings up a lot of issues that were kind of on the back of my mind but that I really need to come to terms with. I’ve always tried to challenge the parts of the status quo that are a waste of time and energy, and this book just gave me more motivation to keep this habit!
-
-## Who it’s for
 
 The 36-year-old mom who feels overwhelmed and wants a good reason to let go of her desire to be perfect, the 60-year-old rich person who looks down on others for not being wealthy, and anyone that wants some relief from the stress of underachievement.

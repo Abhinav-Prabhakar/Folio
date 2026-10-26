@@ -16,11 +16,9 @@ Let’s explore the answers to these questions by looking at three of the most i
 
 Let’s learn in-depth about human evolution and learn some pretty interesting facts about how we ended up where we are today by looking at each lesson in detail below.
 
-### Guns, Germs, and Steel Summary
-
 ## Lesson 1
 
-### Mesopotamia was the first region in the world where people started to practice agriculture.
+### Mesopotamia was the first region in the world where people started to practice agriculture
 
 The reason behind some nations’ advanced developments can be traced back to a common, low-interest idea – food. More precisely, it seems that agriculture contributed to the first flourishing societies. In Mesopotamia, archeologists found the first traces of specialized agriculture, followed by China and Mesoamerica.
 
@@ -32,7 +30,7 @@ In time, people from those regions grew immune to diseases, while in different p
 
 ## Lesson 2
 
-### Agriculture gave way for culture and languages to form.
+### Agriculture gave way for culture and languages to form
 
 As people started to grow food for more than just themselves and agriculture became the major profession of individuals, there had to be a record-keeping system in place. This is largely how language formed, as communities started collaborating to grow food.
 
@@ -48,7 +46,7 @@ This way, agricultural societies helped spread valuable ideas throughout the wor
 
 ## Lesson 3
 
-### People evolved differently because of the environmental factors around them, not due to biological differences.
+### People evolved differently because of the environmental factors around them, not due to biological differences
 
 There’s been a general misconception traveling around the world for a long time that certain ethnicities, races, or nationalities are simply smarter or better than others. As proof, the followers of such misbeliefs often point toward the great development of the named countries, as opposed to their not-so-fortunate neighbors.
 
@@ -67,7 +65,5 @@ Still, the general opinion is that it is not intelligence. Some people had to fi
 The book is a masterpiece of comparative history. On one level, it provides an absorbing account of the rise of European power and dominance.
 
 On another level, it is a synthesis of the latest thinking about humankind’s relationship with the planet — its land, geology, climate, and animal life which have all contributed to shaping our fates and destinies.
-
-## Who it’s for
 
 The 27-year-old person who is passionate about science and history, the 45-year-old historian who loves a good lecture, or the 38-year-old person who wants to read about the history of the world and the evolution of humans.

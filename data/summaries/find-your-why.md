@@ -18,7 +18,7 @@ Are you ready for some much needed, but practical soul-searching? Let’s do thi
 
 ## Lesson 1
 
-### Recount stories from your past to find your WHY.
+### Recount stories from your past to find your WHY
 
 Once, Simon sat next to a man on a plane, who had been living his WHY for over 20 years. Guess what that man’s company did? They produced steel. Super boring, right? How could someone be passionate about cold metal?
 
@@ -30,7 +30,7 @@ If you want to do this for yourself, go through 10-12 stories with a friend or s
 
 ## Lesson 2
 
-### Use your HOWs to be efficient in implementing your WHY.
+### Use your HOWs to be efficient in implementing your WHY
 
 We all have a WHY, and while finding it isn’t always easy, it’s only the first step. After all, you want to *live* your WHY, not just know it. This is where your HOWs come into play. They are the attitudes and behaviors that enable you to do your best work.
 
@@ -44,7 +44,7 @@ With your HOWs in hand, living your WHY becomes a lot easier.
 
 ## Lesson 3
 
-### Once you have your WHY, practice sharing it as much as possible.
+### Once you have your WHY, practice sharing it as much as possible
 
 If you know your WHY and do a good job at keeping it front and center in your life, you’re already ahead of most people in life on your journey towards happiness. **That’s why part of your responsibility once you have it is to share your WHY as much as you can**.
 
@@ -62,7 +62,5 @@ So, craft a short, one-sentence WHY and write it down somewhere!
 ## Review
 
 If you liked Simon’s last book, *Find Your Why* is a good addendum. It’s practical, so if you liked the message, but felt stuck in applying it to your own life, this may be the solution. Besides outlining the process for individuals, the book also includes ideas for team workshops and businesses, which rounds it all out nicely.
-
-## Who it’s for
 
 The 17 year old high school senior, who’s about to make a big life decision, the 34 year old on his fifth job, and anyone who struggles with answering the question “what do you do?”

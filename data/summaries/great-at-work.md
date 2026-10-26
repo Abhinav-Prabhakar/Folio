@@ -22,7 +22,7 @@ Would you like to improve your results while reducing your stress? Let’s find 
 
 ## Lesson 1
 
-### Being successful doesn’t imply working overtime and risking burnout.
+### Being successful doesn’t imply working overtime and risking burnout
 
 Many of us believe the key to success is working hard and putting in long hours day after day. After he graduated, Morten Hansen was one of these people.
 
@@ -40,7 +40,7 @@ As the author says:
 
 ## Lesson 2
 
-### Do what you love with purpose, even if it means redesigning your work, and never stop learning.
+### Do what you love with purpose, even if it means redesigning your work, and never stop learning
 
 Hansen’s research has brought some unexpected findings.
 
@@ -52,11 +52,11 @@ We need to feel useful. We can do our best only if we find a role that provides 
 
 Morten Hansen has also questioned the popular idea that you need to practice for 10,000 hours to master a skill. He says that’s not what top performers do. The best way to become smarter while working is to apply the “learning loop.” Regularly ask for feedback about what you do and use it to fine-tune your processes.
 
-Never give up learning while working! Even if you need to accomplish the same activities every day, explore new ways of doing them. This is the “*Quality learning”* principle *:* avoid mindless repetitions to keep improving your skills.
+Never give up learning while working! Even if you need to accomplish the same activities every day, explore new ways of doing them. This is the “*Quality learning”* principle*:* avoid mindless repetitions to keep improving your skills.
 
 ## Lesson 3
 
-### Collaborate only when useful and hold effective meetings using the “Fight and unite” method.
+### Collaborate only when useful and hold effective meetings using the “Fight and unite” method
 
 We consider collaboration to be efficient, and we often think the more, the better. Experts advise organizations to eliminate silos, build networks, and use lots of high-tech communication tools.
 
@@ -71,7 +71,5 @@ You also need to ask specific questions to get your teammates to express themsel
 ## Review
 
 Do you want to achieve great results without getting stressed out? I do, and I think *Great At Work* is a useful place to begin. Here, Morten Hansen explains the best smart practices he learned by observing many top performers and also offers concrete advice for us to apply them in our work.
-
-## Who it’s for
 
 The 24-year-old who is ready to put in long hours to make a career, the 35-year-old exhausted entrepreneur with no free time, and anybody who wants to excel in her job without renouncing her private life.

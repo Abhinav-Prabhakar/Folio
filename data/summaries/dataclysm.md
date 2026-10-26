@@ -22,7 +22,7 @@ Are you as anonymous as you think when you’re interacting online? You might be
 
 ## Lesson 1
 
-### People’s writing skills have improved because of Twitter.
+### People’s writing skills have improved because of Twitter
 
 While there are a lot of negative effects of the social media storm, there have been some benefits. It might be easy to think that it’s all bad and that we’re all less intelligent because of these platforms, but that’s not true. In many ways, it’s actually making us better.
 
@@ -36,7 +36,7 @@ So we’re doing a lot of it, but we’re also getting better at the same time. 
 
 ## Lesson 2
 
-### You’ll have a better relationship with your spouse and get better ideas if you have more connections online.
+### You’ll have a better relationship with your spouse and get better ideas if you have more connections online
 
 Did you know that Pixar only has bathrooms in the central atrium of its campus? The purpose of this is to encourage people to have random conversations that can spark new ideas. Most innovations are simply the combination of two seemingly unrelated ideas, and this is a perfect example of how to foster that.
 
@@ -52,7 +52,7 @@ But it’s also found that couples with mutual friends are more likely to stay t
 
 ## Lesson 3
 
-### Most people use the veil of anonymity as an excuse to be jerks.
+### Most people use the veil of anonymity as an excuse to be jerks
 
 Okay so I wanted to focus on the positives of our digital world with this summary, but there are some negatives as well. And it’s important to be aware of them.
 
@@ -73,7 +73,5 @@ The moral of the story is, be nice, even when you think nobody is watching. It w
 ## Review
 
 Although I enjoyed *Dataclysm*, I wish it would have had more ideas on what we should do about these problems. However, I think that just by knowing our own tendencies and how anonymity affects us, we can all try to do better. Either way, this book is definitely an eye-opener!
-
-## Who it’s for
 
 The 42-year-old who spends too much time arguing on Reddit and has a feeling that it’s making their life worse, the 23-year-old who is skeptical about how their online data is really used, and anyone that questions whether people are actually honest in their digital interactions.

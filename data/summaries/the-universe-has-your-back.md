@@ -20,7 +20,7 @@ Time to explore these lessons in detail and learn more about the power of spirit
 
 ## Lesson 1
 
-### Meditation and prayer might be just the cure you were looking for all along.
+### Meditation and prayer might be just the cure you were looking for all along
 
 Oftentimes, we have everything we need to live happy, meaningful lives, yet something is still missing. We are deeply disconnected, feeling anxious and stressed all the time, and living in fear. This state of being is detrimental to us, and there’s only one way to fix it.
 
@@ -34,7 +34,7 @@ Only in a deep state of meditation by connecting to our higher being and God can
 
 ## Lesson 2
 
-### Before you ask the Universe for whatever it is that you want, you should prepare your mind.
+### Before you ask the Universe for whatever it is that you want, you should prepare your mind
 
 When you’re ready to live the life you’ve been dreaming of, the Universe will be ready for you. The only thing you need to do is ask for whatever it is that you want.
 
@@ -48,7 +48,7 @@ Remember to be clear in your prayer. **Let emotions accompany you in your reques
 
 ## Lesson 3
 
-### In spirituality, it is important to let go of the reins and allow things to happen as they will.
+### In spirituality, it is important to let go of the reins and allow things to happen as they will
 
 You can’t let yourself get caught in a cycle of anxiety or frustration over things you can’t change. You have to learn to accept things as they are and stop worrying about what might happen in the future.
 
@@ -67,7 +67,5 @@ In a world that is constantly focused on material pleasures, people are starting
 *The Universe Has Your Back* offers guidance on how to do so by providing the tools needed in order to cultivate spiritual maturity.
 
 I highly recommend this book if you too feel like there must be something more to life than just your day-to-day cycle and want to explore the higher meaning of life itself, as well as what’s your purpose on this planet.
-
-## Who it’s for
 
 The 24-year-old person who just discovered their passion for spirituality, the 39-year-old person who feels burnt out and wants to explore their higher purpose or the 45-year-old person who is going through a personal crisis and needs some advice on how to find meaning in their life again.

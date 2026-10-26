@@ -18,7 +18,7 @@ Ready to read in the big leagues? Here comes the pep talk you need!
 
 ## Lesson 1
 
-### Try to think of synonyms the author could’ve used to understand more.
+### Try to think of synonyms the author could’ve used to understand more
 
 According to the Oxford Dictionary, there are around 170,000 words, currently used in the English language. Google says it’s over a million. It of course depends on what counts as a word and what is commonly used (as opposed to just being mentioned a few times in a narrow context).
 
@@ -36,7 +36,7 @@ This will help you understand the point the writer is trying to make and get in 
 
 ## Lesson 2
 
-### Take a breath after each paragraph to learn more about the writer’s personality.
+### Take a breath after each paragraph to learn more about the writer’s personality
 
 If you’re Sherlock Holmes, trying to unravel the mystery of three novels by three authors, which sound awkwardly familiar, and are the cause of a copyright lawsuit, here’s where you should start looking at: **paragraphs**.
 
@@ -52,7 +52,7 @@ Pretty cool, huh?
 
 ## Lesson 3
 
-### Actions, thoughts and dialogue reveal characters’ intentions, but one will likely overshadow the others.
+### Actions, thoughts and dialogue reveal characters’ intentions, but one will likely overshadow the others
 
 What makes characters in books come alive are the same things that determine how our own lives unfold: **what we think, what we say and what we do**.
 
@@ -67,7 +67,5 @@ Look at the mix of actions, thoughts and dialogues in the books you read, and yo
 ## Review
 
 Totally fascinated by this stuff. Can’t wait to learn more about it. The cool thing about improving even just one tiny thing in how you read is that it lasts forever and makes *all* your future reading better because of it. I highly recommend learning more about these topics, and *Reading Like A Writer* is a great place to start!
-
-## Who it’s for
 
 The 16 year old with a knack for English literature, the 52 year old housewife, who eats novels for breakfast, and anyone who wants to read to improve their skills at work.

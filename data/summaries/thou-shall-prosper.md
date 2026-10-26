@@ -18,7 +18,7 @@ Are you ready for a new look at money, seen through some very, very old glasses?
 
 ## Lesson 1
 
-### Think of business as a neutral object – it’s not good or bad in its own way, but depends on how people use it.
+### Think of business as a neutral object – it’s not good or bad in its own way, but depends on how people use it
 
 Mark Zuckerberg, Sergey Brin, Larry Page, Gary Vaynerchuk, the list of Jewish entrepreneurs who shape the globe is long. And I’m starting to understand why. The Jewish perspective on money and business is absolutely perfect to win in a meritocratic system.
 
@@ -30,7 +30,7 @@ That lets them hold those accountable, who abuse it, instead of condemning busin
 
 ## Lesson 2
 
-### Pick a few values to ground yourself in and then be open to change with anything else.
+### Pick a few values to ground yourself in and then be open to change with anything else
 
 Gary Vee likes to say that winners pull from opposite sides and boy, are Jews winners. One of their biggest symbols, the Star of David, is a union of very different ideas, according to one of its many interpretations: the first of the two triangles represents God, humans and the physical world, the second openness to change.
 
@@ -44,7 +44,7 @@ Changing without changing where it counts is what makes great people and busines
 
 ## Lesson 3
 
-### Don’t even try to retire, it’s an idea built on three lies.
+### Don’t even try to retire, it’s an idea built on three lies
 
 “Religion is a scam!” “Politics are a scam!” “Health insurance is a scam!” “Wall Street is a scam!” We throw around the word “scam” a lot these days. And fast too. Out of the many things we “call out” this way on a regular basis, few actually deserve those accusations.
 
@@ -61,7 +61,5 @@ Don’t ever start counting the days and don’t ever stop providing value throu
 ## Review
 
 The summary of *Thou Shall Prosper* on Blinkist was great. I’m starting to see a pattern among the perspectives on personal finances of successful people, that I agree with the most, and the Jewish traditions and philosophies around money. This resonates really well with me, I think it’s a very suitable, sustainable approach to go after financial freedom. Big thumbs up!
-
-## Who it’s for
 
 The 18 year old high school graduate, who’d love to study business, but has heard all his life from his parents that capitalism is evil, the 31 year old mother, who’s been saving for her child’s future, but struggles with new ways of investing, and anyone who’s current plan is to finally be happy when they retire.

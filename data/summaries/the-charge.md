@@ -20,7 +20,7 @@ Get ready to become a battery of energy and happiness because you’re about to 
 
 ## Lesson 1
 
-### Whether you want to be caged, comfortable, or charged, the type of life you live is up to you, including the consequences.
+### Whether you want to be caged, comfortable, or charged, the type of life you live is up to you, including the consequences
 
 Growing up I did everything “right.” I went to school, earned good grades and participated in activities, then got accepted to college. When I was done with that I got a 9-5 job and I thought that was it.
 
@@ -38,7 +38,7 @@ This is a charged life and is what you want to strive for.
 
 ## Lesson 2
 
-### The first of all the drives is reframing your understanding of control.
+### The first of all the drives is reframing your understanding of control
 
 We all want to be happy. That’s the ultimate goal, even if it gets muddled up in the middle of all this talk of different lifestyles. But no matter which way you spin it, people living charged lives are living happier lives.
 
@@ -60,7 +60,7 @@ If you’re living a caged life you might see difficulties as proof of your cons
 
 ## Lesson 3
 
-### Change can be a good thing, you just have to improve your attitude about it.
+### Change can be a good thing, you just have to improve your attitude about it
 
 The last five drives are called forward drives. They help you look to the future and fulfill your dreams and include:
 
@@ -85,7 +85,5 @@ To get clarity, explore your opportunities. If you have just graduated from coll
 ## Review
 
 I really liked *The Charge*, you could say it *charged* me up! I especially like the way that it’s organized with five baseline drives and five forward drives, which makes it easy to remember them.
-
-## Who it’s for
 
 The 19-year-old considering a major in psychology, the 48-year-old who is tired of being overweight and broke, and anyone that wants both inspiration and actionable steps to improve their life.

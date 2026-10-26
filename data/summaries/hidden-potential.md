@@ -18,8 +18,6 @@ Grant suggests 3 key pieces that form the latent-power-puzzle: character skills,
 
 Let’s crack some rocks and unearth our inner diamonds, shall we?
 
-### Hidden Potential Summary
-
 ## Lesson 1
 
 ### Start before you’re ready, and become “a creature of discomfort.”
@@ -52,7 +50,7 @@ Life is not a straight line but a road full of things we didn’t expect. No mat
 
 ## Lesson 3
 
-### Try “brainwriting” instead of brainstorming when working in groups for better, more collaborative results.
+### Try “brainwriting” instead of brainstorming when working in groups for better, more collaborative results
 
 In 2010, a copper and gold mine in the Atacama desert in Chile collapsed. 33 men ended up stuck inside. The Chilean government, a dozen companies from all over the world, and even NASA cooperated to try and save the men.
 
@@ -69,7 +67,5 @@ Try brainwriting. You and your team won’t regret it.
 ## Review
 
 *Hidden Potential: The Science of Achieving Greater Things* is a fascinating mix of study data, unconventional insight, and deeply human stories. “Potential is not a matter of where you start, but of how far you travel,” Grant says. If you want to go far, you could do worse than start with this book. Other good reads by Grant: *Give and Take*, *Originals*, *Think Again*, and *Option B*.
-
-## Who it’s for
 
 The 17-year-old high school senior too timid to leave her hometown for a better college, the 35-year-old athlete who believes it’s too late to succeed on the field, and anyone who feels they lack the talent to make their dreams come true.

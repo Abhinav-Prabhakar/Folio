@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Institutions are in place to help people be objective and rational.
+### Institutions are in place to help people be objective and rational
 
 In life, we’re all trying to get as close as possible to the absolute truth. Whether we’re talking about personal aspirations, the meaning of life, or any other end goal whatsoever, we have a tendency to look for a perfect state of being. Rationality helps us to get closer to this state of existence, but since we’re all flawed individuals, we still have a long way to go till we reach that point.
 
@@ -28,7 +28,7 @@ In every field, institutions find their way into our lives. Take the educational
 
 ## Lesson 2
 
-### We are moral beings because it is rational.
+### We are moral beings because it is rational
 
 Institutions help us live in peace and live a better life. But how does it all work out in fact? We comply with them and the moral principles that guide us because it is rational. As humans, we have two definitory characteristics: we are social animals and we always have our best interests at heart. If thrown into nature one day with no rules of conduct, everyone would look after their own survival
 
@@ -38,7 +38,7 @@ What’s also rational is to live in a society, because at the end of the day, i
 
 ## Lesson 3
 
-### Ignorance and self-constraint can prove to be rational choices in life if you use them to help yourself.
+### Ignorance and self-constraint can prove to be rational choices in life if you use them to help yourself
 
 Although it may sound like bad advice, sometimes it’s best to be ignorant. Yes, that’s right! Ignorance is bliss. Let’s say you have a strong genetic inclination to develop a horrible illness later in life. Some of your relatives may already have it, which makes you think about running some tests to find out how your life will turn out eventually. Still, what if you didn’t know?
 
@@ -51,7 +51,5 @@ Self-constraint is another counterintuitive thing that you can do to improve you
 ## Review
 
 Rationality is an extended lesson on human nature and the psychology of our species. This book explains how we’re programmed to function and how we go through life following what’s rational to our brain. In the end, everything we do is rational in a way or another, as we’re ultimately seeking to ensure our survival and well-being with every action we undertake.
-
-## Who it’s for
 
 The 40-year-old person interested in philosophy and social sciences, the 30-year-old who works with people and wants to understand more about human nature, or the 22-year-old psychology student who wants to expand their knowledge outside their curriculum.

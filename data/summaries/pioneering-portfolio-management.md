@@ -62,6 +62,4 @@ A good rule of thumb between investors is not to allocate belfow 5-10% to a sing
 
 *Pioneering Portfolio* is a guide to institutional investing, yet it’s also packed with many valuable insights for the everyday investor who’s still trying to wrap their mind around the different asset classes, the power of investing, and how to diversify a portfolio. This book is a starting point for everyone who wants to improve their investment strategy. You can also find the right formula when it comes to asset allocation. Reading this book will help you on your journey toward financial success. And at the same time, reveal sound investment strategies that passed the test of time.
 
-## Who it’s for
-
 The 25-year-old who wants to learn the secrets of becoming a successful stock market investor, the 30-year-old person who’s looking to save and invest early in their life, or the 28-year-old looking to learn more about investing and perhaps get a certification in the domain.

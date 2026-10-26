@@ -20,7 +20,7 @@ Are you ready to dig deep into the past and discover how evolution has shaped yo
 
 ## Lesson 1
 
-### Jealousy is natural, and men and women experience it differently.
+### Jealousy is natural, and men and women experience it differently
 
 Jealousy is historically thought of as a negative, ugly characteristic. But though we might try to hide it, jealousy is an entirely natural emotion for human beings. All of us feel it from time to time. But interestingly, men and women experience jealousy very differently
 
@@ -32,7 +32,7 @@ Why is this? **Evolutionary psychologists explain that a male’s unconscious de
 
 ## Lesson 2
 
-### What gender a family prefers to have depends on social class and wealth.
+### What gender a family prefers to have depends on social class and wealth
 
 Have you ever felt your parents favored another sibling over you? Remarkably, Wright uncovers that evolution can even influence child the family prefers, and specifically, which gender. **Evolutionary psychologists explain parents favor the gender that has the greater potential to carry on the family’s genes.**
 
@@ -44,7 +44,7 @@ This evolutionary influence still carries on today. In a 1986 study, scientists 
 
 ## Lesson 3
 
-### What people think of us drives morality and altruism is too self-serving.
+### What people think of us drives morality and altruism is too self-serving
 
 Why might we try to return that wallet we see left on the bus? An evolutionary psychologist would tell you our moral behavior it’s only to serve ourselves and protect our image. **They believe the reason we do things for other people is that it is to our advantage because it establishes a debt in our favor.**
 

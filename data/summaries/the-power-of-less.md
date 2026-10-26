@@ -36,7 +36,7 @@ Don’t just know your priorities. Live them.
 
 ## Lesson 2
 
-### Change your habits and you’ll change your life.
+### Change your habits and you’ll change your life
 
 Leo’s blog is called Zenhabits, not Zengoals for one simple reason: **Habits are at the root of all lasting change.**
 
@@ -54,11 +54,11 @@ If you start today, what could your life look like in 6 months, 5 years, or 10 y
 
 ## Lesson 3
 
-### Always start your day with your MITs.
+### Always start your day with your MITs
 
 Speaking of starting, there is one habit that will help you make much bigger leaps towards your goals.
 
-It’s the keystone of Leo’s productivity system and he calls it his MITs – **M** ost **I** mportant **T** asks.
+It’s the keystone of Leo’s productivity system and he calls it his MITs – **M**ost **I**mportant **T**asks.
 
 I’ve written an entire guide on how to implement it from A to Z, but here’s the gist of it:
 
@@ -81,7 +81,5 @@ Yes, there are more catchy books about productivity, hacks to get focused, and p
 The summary gives you a few good starting points, but if you want Leo’s full system with all details, you’ll have to get a copy of *The Power Of Less*. It’s not a long read either, but you wouldn’t have expected that from a book about minimalism, would you?
 
 Worth every second, penny and word.
-
-## Who it’s for
 
 The 15 year old high schooler, who hasn’t found out about the science behind habits yet, to get her started early, the 47 year old father, with a job, family, and lots of other things to juggle, and anyone who thinks MIT only stands for Massachusetts Institute of Technology.

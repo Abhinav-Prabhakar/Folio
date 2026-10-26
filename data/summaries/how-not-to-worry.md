@@ -20,7 +20,7 @@ Let’s dive right in and find out how we can worry less!
 
 ## Lesson 1
 
-### Worry is a mode of thinking that can manifest in a series of unhealthy physical reactions.
+### Worry is a mode of thinking that can manifest in a series of unhealthy physical reactions
 
 Worries can compound quickly and snowball completely out of control if you allow them to. If there’s one thing that you need to keep in mind it’s to “stop before you spiral.” This is easier said than done because of how the worrying mode of thinking leads to anxiety and quickly triggers your body’s survival mechanism.
 
@@ -34,7 +34,7 @@ This typically impacts your health and the quality of life. Stress can compromis
 
 ## Lesson 2
 
-### ‘Historical”, “Hysterical”, and “Helpful” are three types of worry we should learn to identify.
+### ‘Historical”, “Hysterical”, and “Helpful” are three types of worry we should learn to identify
 
 There is some good news when it comes to the topic of worry. Rather than succumb to the stress and anxiety often associated with it, let’s take a more offensive position and confront worry head-on!
 
@@ -54,11 +54,11 @@ Helpful worry is the most rational and based on real problems. Examples of helpf
 
 ## Lesson 3
 
-### A good step to tackle worry is to focus on outcomes you can control.
+### A good step to tackle worry is to focus on outcomes you can control
 
 Don’t let anybody tell you that the world is out of your control. We obviously can’t have control over everything, but you do have a lot more control than you give yourself credit for. So find out what it is that you do have influence over. That’s the place to begin focusing your energy.
 
-In Stephen Covey’s popular book, *The 7 Habits of Highly Effective People*, he talks about people’s many worries. Some stress about work, their health, relationships, the weather. **He notes thatthe problem isn’t so much the worry, but the fact that so many people worry about the things they have no control over.**
+In Stephen Covey’s popular book, *The 7 Habits of Highly Effective People*, he talks about people’s many worries. Some stress about work, their health, relationships, the weather. **He notes that the problem isn’t so much the worry, but the fact that so many people worry about the things they have no control over.**
 
 There’s a huge difference between worrying about a mass shooter coming into your workplace and a slideshow presentation that you are preparing for. Some worries can be addressed and prepared for while others can’t.
 
@@ -69,7 +69,5 @@ The more influence you perceive yourself as having, the more likely you are to t
 ## Review
 
 *How Not To Worry* is loaded with great and simple-to-apply lessons. Most of the tips are so simple and logical that they really serve more as reminders that we should control those things in which we have control over, and ride out those things that just happen to us – surf those waves of life’s trials and tribulations. I really got more out of this read than I expected.
-
-## Who it’s for
 
 The 18-year-old college freshman who fears the prospect of his life away from home, the 36-year-old account executive who just received a promotion to team leader, and anyone who’s scared shitless about the end of times.

@@ -18,7 +18,7 @@ Ready for the most interesting breakfast you’ve ever had? Let’s sit down wit
 
 ## Lesson 1
 
-### Philosophy gives you the tools to make wise decisions every day.
+### Philosophy gives you the tools to make wise decisions every day
 
 Like most people I used to think philosophy is just for dreamers and primarily concerned with giving yourself a headache from thinking too much. Man, was I wrong.
 
@@ -30,7 +30,7 @@ Yes, asking big questions is also part of the deal, but just some of the time, n
 
 ## Lesson 2
 
-### Every morning you fight a battle of the egos in your head.
+### Every morning you fight a battle of the egos in your head
 
 I’d ask you if you have a morning routine or not, but in fact, we all do. Lack of a morning routine is a routine in its own way – you either have a process, or you don’t, but chances are if you don’t it’s still the same cycle every morning (like waking up too late, brushing your teeth in a rush, throwing on the first outfit you find and running out the door).
 
@@ -59,7 +59,5 @@ Would you re-live every moment of your life in exactly the same way? The answer 
 ## Review
 
 *Breakfast With Socrates* is easily the most practical and approachable introduction to philosophy I’ve ever seen. If your gut reaction to all things philosophy is “Yuck!” then this book is for you. And if you’re a fan already, you can discover new philosophic angles. What a hidden gem!
-
-## Who it’s for
 
 The 15 year old who doesn’t have a philosophy class in high school, the 47 year old hardcore capitalist, who claims his sole religion is money, and anyone who struggles to leave on time in the morning.

@@ -18,11 +18,9 @@ Noah is *the* person to talk to when it comes to overcoming “your inner wantre
 
 Let’s start your million-dollar business right now!
 
-### Million Dollar Weekend Summary
-
 ## Lesson 1
 
-### The fear of starting and the fear of asking are the 2 most common killers of business dreams — address them with 2 challenges.
+### The fear of starting and the fear of asking are the 2 most common killers of business dreams — address them with 2 challenges
 
 After Facebook, Noah launched countless side hustles. He taught Korean students online marketing. He blogged. Noah launched local happy hours, chess meetups, and an event business. “Focus above all else on being a starter, an experimenter, a learner,” Noah suggests. Eventually, the pieces will come together.
 
@@ -36,7 +34,7 @@ Get over your fear of starting and your fear of asking, and you’ll have taken 
 
 ## Lesson 2
 
-### Tap into 4 sources to come up with a million-dollar business idea.
+### Tap into 4 sources to come up with a million-dollar business idea
 
 In college, I brainstormed business ideas with my best friend. “Wouldn’t it be cool if you could order at restaurants from an iPad right inside the table?” There was only one problem, says Noah: “Customers don’t care about your ideas; they care about whether you can solve their problems.”
 
@@ -58,7 +56,7 @@ Whether it’s a movie critique Youtube channel, knitting-on-demand service, or 
 
 ## Lesson 3
 
-### Don’t start any business you haven’t validated by getting 3 paying customers in 48 hours.
+### Don’t start any business you haven’t validated by getting 3 paying customers in 48 hours
 
 There’s one other criterion your business idea has to meet: People must be willing to pay for it. It’s Noah’s “Golden Rule of Validation:” **“Find three customers in 48 hours who will give you money for your idea.”**
 
@@ -73,7 +71,5 @@ Always validate your businesses *before* launching them. Keep it simple! Get 3 p
 ## Review
 
 *Million Dollar Weekend* is packed with great tools and easy-to-grasp concepts. Noah’s process hasn’t changed fundamentally since his blog post 13 years ago, only evolved. He’s a compelling, walking example that his advice works. A fantastic book for any budding entrepreneur!
-
-## Who it’s for
 
 The 19-year-old college student who can’t tell an idea from a solution, the 35-year-old journalist who believes her side hustle will never happen, and anyone who’s tired of spinning their wheels in the world of business.

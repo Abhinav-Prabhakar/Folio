@@ -20,7 +20,7 @@ Looking forward to getting some relief by understanding the hustling world aroun
 
 ## Lesson 1
 
-### Technology is accelerating exponentially and changing the world before our eyes.
+### Technology is accelerating exponentially and changing the world before our eyes
 
 One testament to just how fast technology is changing is the fact that Friedman says just in doing research to write this book, he had to consult each technologist at least twice to stay up-to-date. This unprecedented growth in technology is already disrupting the world in huge ways.
 
@@ -34,7 +34,7 @@ Though it may not feel like things are changing day-today, just thinking back fi
 
 ## Lesson 2
 
-### Market globalization has given us a vast world of instant connections.
+### Market globalization has given us a vast world of instant connections
 
 In the days of our parents and grandparents, people earned money by gathering knowledge and skills to deliver a product or a service. All that they needed was education or learning a trade and they could be secured a job for life. Today, things couldn’t be more different. Global flows of commerce and information change rapidly and a product having huge success today could be old news tomorrow.
 
@@ -46,7 +46,7 @@ Through these changes, companies that have been around for a long time must shif
 
 ## Lesson 3
 
-### We face the dangers of climate change but we can use our rapidly changing world to solve problems in ways we never could before.
+### We face the dangers of climate change but we can use our rapidly changing world to solve problems in ways we never could before
 
 You’ve probably heard it all before. The world is heating at an unprecedented rate, the oceans are rising, and CO2 is ever-increasing. It’s scary to consider that the climate “sweet spot” that humanity has enjoyed for hundreds of thousands of years is dissolving.
 
@@ -61,7 +61,5 @@ Visionary area leaders built forward-looking social policies and helped support 
 ## Review
 
 *Thank You For Being Late* ended up being a lot different than I thought it would be from the title. It was still really interesting though and one that I think I’d recommend everybody read. In some ways, our world tries to resist the rapid rate of change we’re experiencing, but we can beat this by looking at all the good going on!
-
-## Who it’s for
 
 The 59-year-old who spends too much time on social media and wonders why kids these days are so different than they used to be, the 21-year-old who is studying political science in college, and anyone who feels worried about the future of the world.

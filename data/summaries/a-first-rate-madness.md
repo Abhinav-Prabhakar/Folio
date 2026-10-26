@@ -20,7 +20,7 @@ Looking for hope amid yours or others mental illness? Get ready to find what you
 
 ## Lesson 1
 
-### The benefits of illnesses like bipolar disorder and depression can be good to have as a leader.
+### The benefits of illnesses like bipolar disorder and depression can be good to have as a leader
 
 The serious and devastating nature of depression and anxiety makes us easily ashamed of them. Depression runs in my family, and we’ve always struggled to talk about it. Although we are getting better, the social taboo around mental illness still lingers today. But there’s hope in the abilities mentally unwell individuals have that others don’t.
 
@@ -34,7 +34,7 @@ People with Bipolar Disorder spend time in the outlier regions of emotional high
 
 ## Lesson 2
 
-### Nations have made it through difficult times throughout history because of their mentally ill leaders.
+### Nations have made it through difficult times throughout history because of their mentally ill leaders
 
 Did you know that Martin Luther King Jr. and Gandhi both tried to commit suicide when they were young? The two of them suffered from depression that started in childhood. Later in life, it appears the stresses they had made their mental state worsen. This makes sense knowing the great changes each of these individuals brought about in the world.
 
@@ -48,7 +48,7 @@ Here’s one last example, this time of the possible benefits of Bipolar Disorde
 
 ## Lesson 3
 
-### Recognizing that mental illness has its good sides is a step toward breaking the stigma around it.
+### Recognizing that mental illness has its good sides is a step toward breaking the stigma around it
 
 Let’s wrap up with a deeper dive into a point we’ve mentioned before. We know that mental illness continues to be a taboo subject in many places around the world. While many people are breaking free of the stigma, countless others continue to struggle in silence.
 
@@ -63,7 +63,5 @@ From here, we can see that anyone, regardless of mental state, can make a positi
 ## Review
 
 Wow, this book blew my mind and was a very interesting read! While I would caution everyone to take its conclusions with a grain of salt, I also recommend *A First-Rate Madness* to anyone. Although I didn’t agree with everything the book taught, the idea that mental illness has benefits is fascinating.
-
-## Who it’s for
 
 The 29-year-old who is depressed and feels like there isn’t anything good about herself, the 44-year-old who has a child with bipolar disorder and is losing hope for their future, and anyone who is a student of history or psychology.

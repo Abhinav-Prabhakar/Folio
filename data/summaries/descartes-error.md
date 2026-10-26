@@ -18,7 +18,7 @@ Let’s dive right in!
 
 ## Lesson 1
 
-### We can begin to understand the connection between the mind and body by looking into the experience of Phineas Gage.
+### We can begin to understand the connection between the mind and body by looking into the experience of Phineas Gage
 
 To see the brain from the perspective of experimental neuropsychology, we need to look at case studies. Specifically of people who have had brain injuries by comparing their traits before and after their incident. Although there are many of these, the experience of Phineas Gage is the most interesting.
 
@@ -34,7 +34,7 @@ But today we have the author’s experience with a patient he refers to as Ellio
 
 ## Lesson 2
 
-### Your brain receives guidance from your emotions to help you think logically.
+### Your brain receives guidance from your emotions to help you think logically
 
 Elliot’s tragic situation taught the author a lot about how the mind and body work together. Among all of their interactions, these two got to know each other, but the way that Elliot never seemed to express emotion puzzled the author.
 
@@ -50,7 +50,7 @@ Our brain uses information from both of these types of signals from the body to 
 
 ## Lesson 3
 
-### Somatic markers are a way the brain makes decisions faster by using feelings from past experiences.
+### Somatic markers are a way the brain makes decisions faster by using feelings from past experiences
 
 Another curious experience the author had with Elliot was when scheduling an appointment. When the author suggested a couple of different dates, Elliot began deliberating all the different reasons each would be good or bad.
 
@@ -67,7 +67,5 @@ So if you want to be rational, your brain needs to be able to listen to the emot
 ## Review
 
 I enjoyed *Descartes’ Error*. I’ve always liked psychology and philosophy and this book is a good blend of the two. However, it would be nice if it had more practical advice on how to use the principles it teaches.
-
-## Who it’s for
 
 The 22-year-old college student who is studying psychology, the 37-year-old businessman who thinks that emotions have no use, and anyone that wants to learn more about the role that feelings have in logical thinking.

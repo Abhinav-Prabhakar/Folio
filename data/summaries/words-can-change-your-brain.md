@@ -35,13 +35,13 @@ Are you looking forward to learning these skills so you can become more likable 
 
 ## Lesson 1
 
-### Getting your mind relaxed, present, and quiet is the best way to prepare if you want to have a stellar conversation.
+### Getting your mind relaxed, present, and quiet is the best way to prepare if you want to have a stellar conversation
 
 A few years ago I ran a marathon. I trained like crazy to prevent injury and when the big day came I still limped over the finish line an hour later than I’d hoped to! Whenever you have anything big you must prepare if you want it to go well.
 
 For better conversations, begin by learning how to calm your mind. Recognize that your emotions influence your ability to communicate. Just think about how you snap at someone when you’re in a bad mood, for example.
 
-To relax your brain, practice breathing for 60 seconds before important conversations. **Researchconfirms that this activates the parts of your brain responsible for communication, mood, and social awareness.**
+To relax your brain, practice breathing for 60 seconds before important conversations. **Research confirms that this activates the parts of your brain responsible for communication, mood, and social awareness.**
 
 This exercise will also help you be more present. You need to work on this so you can focus on people’s words and emotions. It will take some effort to silence your inner voice so you can make this happen.
 
@@ -49,7 +49,7 @@ Another good way to do this is to ring a bell that makes noise for about 30 seco
 
 ## Lesson 2
 
-### Smile, and make sure you recall happy memories to make it genuine.
+### Smile, and make sure you recall happy memories to make it genuine
 
 Did you that there are over 10,000 ways you can express yourself with your face? For each one there’s a different way to convey a feeling as well.
 
@@ -65,7 +65,7 @@ I’m smiling right now just thinking of the day I found out I passed my licensi
 
 ## Lesson 3
 
-### To understand and be understood, listen well, speak more slowly, and say less.
+### To understand and be understood, listen well, speak more slowly, and say less
 
 With its 100 billion neurons and 1 quadrillion connections between them, our brain is the most powerful computer in existence. And yet, it can only store four bits of data at a time!
 
@@ -82,7 +82,5 @@ To get this one just right it’s important that you avoid interrupting the othe
 ## Review
 
 I didn’t expect how much I would need the advice in *Words Can Change Your Brain*! As one who tends to talk a lot I need every bit of help I can get when it comes to effective communication. I think this is a must-read for everybody and it will improve all kinds of relationships, from family to work and beyond!
-
-## Who it’s for
 
 The 67-year-old that wants to get better at having good conversations with her grandchildren, the 27-year-old who just entered the workforce and wants to feel more confident when talking to their boss, and anyone that wants better communication skills.

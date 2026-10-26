@@ -20,11 +20,9 @@ These are my 3 favorite lessons from his work:
 
 Ready to learn how to live longer, healthier, and happier? Let’s go!
 
-### Ikigai Summary
-
 ## Lesson 1
 
-### If you want to be happy and live longer, discover your ikigai – a reason to wake up in the morning.
+### If you want to be happy and live longer, discover your ikigai – a reason to wake up in the morning
 
 Okinawa, Japan is home to some of the longest-living people in the world. Their secret is ikigai. The Japanese word has two characters: ‘iki’ which means life, and ‘gai,’ or value. Finding your ikigai can be as simple as asking four basic questions:
 
@@ -41,7 +39,7 @@ Okinawans forced into retirement continue to stay active with their hobbies and 
 
 ## Lesson 2
 
-### Okinawan elders know a thing or two about well-being, and we should follow their advice if we want to live as long as they do.
+### Okinawan elders know a thing or two about well-being, and we should follow their advice if we want to live as long as they do
 
 Seniors have so much wisdom to share with the world from their years of experience. Those of us that are young might sometimes pretend like we know everything, but we should learn a thing or two about life from the generations before us.
 
@@ -55,7 +53,7 @@ Japanese centenarians also endorse eating healthy, waking up early, and making s
 
 ## Lesson 3
 
-### A key component of staying healthy is to keep moving throughout the day, no matter how little.
+### A key component of staying healthy is to keep moving throughout the day, no matter how little
 
 Residents of Okinawa suggest that you don’t always need to play a sport or go running to be healthy. **Longevity and health are more about finding simple, consistent ways to move more through the day.**
 
@@ -70,7 +68,5 @@ Whether you find an exercise program like that or not, always make time for smal
 ## Review
 
 Ikigai is an incredible concept that can benefit many people. Whether you feel stuck in your job, want to live longer, or just desire a deeper level of happiness and meaning, finding your reason to live will help you. The ikigai summary on Blinkist seems to focus more on how to live a long life than on ikigai itself, but some research on the topic reveals there are multiple books on the subject to explore further. I’m excited to dive in and figure out how not to retire and live happier and healthier!
-
-## Who it’s for
 
 The 35-year-old father of two who is uncertain if he wants to spend 30 more years in a career he doesn’t love, a 21-year-old college graduate who is planning for retirement, and everyone who wants to be fit and have joy throughout their life.

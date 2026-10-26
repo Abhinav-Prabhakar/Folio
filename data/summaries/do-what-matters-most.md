@@ -22,7 +22,7 @@ Now, let’s explore these lessons in detail and reveal the remarkable things th
 
 ## Lesson 1
 
-### To become more productive, one must set smart goals and stick to them.
+### To become more productive, one must set smart goals and stick to them
 
 First thing first, learn how to prioritize. Make a list of the things you have to do, and divide them by importance and urgency. Essentially, you’ll want to have four categories: high-stress and high-priority, high-stress and low-priority, low-stress and high priority, and low-stress and low-priority. The key is to plan ahead and spend most of your time in the last category.
 
@@ -32,7 +32,7 @@ For example, instead of writing down goals such as: “I want to lose weight.’
 
 ## Lesson 2
 
-### Plan your weeks ahead of time to avoid procrastination and become more time-efficient.
+### Plan your weeks ahead of time to avoid procrastination and become more time-efficient
 
 If your routine feels chaotic, unstructured and you often end the day feeling like you could’ve been more productive, chances are you could benefit from a new approach to your time management and direction in life. Making the most out of your days should be a priority, as the way you spend them will define your future.
 
@@ -44,7 +44,7 @@ Also, be strict while planning your weeks. Have your plan cover an entire day. O
 
 ## Lesson 3
 
-### Give each task on your planned schedule a specific deadline.
+### Give each task on your planned schedule a specific deadline
 
 When I’m talking about being specific when it comes to your schedule, I mean extremely specific. Let’s say it’s Friday afternoon and you’re in the process of planning for the next week. As you write down your daily activities and tasks, make sure to include the hour and the time allocated for each and every one of them.
 
@@ -55,7 +55,5 @@ The authors learned that by planning ahead, you can increase your productivity l
 ## Review
 
 This book will help anyone struggling with inefficient time management and a lack of direction gain a better understanding of how planning processes work and how to get the most out of their life. *Do What Matters Most* offers a great start to all of those who feel as if they can do better than they did yesterday. Reading this book will reveal some practical tips on how to set and achieve goals, and eventually, on how to become more productive and time-efficient.
-
-## Who it’s for
 
 The 33-year-old who wants to become more productive in all areas of their life, the 44-year-old leader who wants to implement more efficient practices in their team and personal life, or the 21-year-old student who finds it hard to manage their time and balance social and academic activities.

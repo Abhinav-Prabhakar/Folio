@@ -18,7 +18,7 @@ Ready for a round of billionaire advice? Let’s go!
 
 ## Lesson 1
 
-### Billionaires are multitaskers.
+### Billionaires are multitaskers
 
 Great. I spend a ton of time trying to stop multitasking (and helping you do the same) and now this book tells me it’s the opposite of what I need to be doing?!
 
@@ -32,7 +32,7 @@ Billionaires being multitaskers allows them to embrace some of the dichotomies w
 
 ## Lesson 2
 
-### Risk is relative.
+### Risk is relative
 
 The fine line between too risky and not promising enough is hard to strike, but billionaires obviously excel at it. What allows them to only take the exact risks they need to take, and not more?
 
@@ -46,7 +46,7 @@ However, in 2001 he had a chance to become the mayor of New York City, and left 
 
 ## Lesson 3
 
-### Producers must partner with performers.
+### Producers must partner with performers
 
 **Being producers, billionaires must, however, partner with performers, in order to succeed**.
 
@@ -61,7 +61,5 @@ A producer usually has a the big picture in really great control, but thus can�
 While reading the summary of *The Self-Made Billionaire Effect* on Blinkist, at first I felt a little put off – like billionaires were these magic know-and-can-do-it-all people and the message was: don’t even try. But these are actually habits you can learn, and the fact that all 5 characteristic billionaire habits are actually dualities makes perfect sense – who would’ve thought becoming a billionaire is easy, after all?
 
 The book is written in surprisingly plain language, which makes it easy to understand. I didn’t expect that from such a heavily research-based company, but am pleasantly surprised. The summary nails all the most important points, but I guess you’ll have to get the book to get the full scoop on all these self-made billionaires and their stories.
-
-## Who it’s for
 
 The 17 year old who feels distracted in school, because she’s got so many creative ideas, and isn’t just good at one subject, the 41 year old producer, who hasn’t found his performer partner yet, and anyone who’s crazy enough to think they can become a billionaire.

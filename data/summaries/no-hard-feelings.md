@@ -20,7 +20,7 @@ Now is a great time to take each of these lessons one by one and explore their d
 
 ## Lesson 1
 
-### Showing emotions to your co-workers and indulging in those PTO days can help you regain a sense of purpose.
+### Showing emotions to your co-workers and indulging in those PTO days can help you regain a sense of purpose
 
 Whether we like it or not, emotions are an essential part of how people interact with each other at work. In fact, research shows that most people experience negative emotions at work on a regular basis. This can have a negative impact on their performance and well-being.
 
@@ -34,7 +34,7 @@ Americans rarely take paid time off and usually work multiple jobs or spend long
 
 ## Lesson 2
 
-### Emotions can help you make better decisions.
+### Emotions can help you make better decisions
 
 Emotions are incredibly important for helping us make good decisions. They’re often the first thing that alerts us when something isn’t right—they help us detect danger and keep us safe. They also motivate us to act in ways that will help us achieve our goals.
 
@@ -46,7 +46,7 @@ For example, the feeling of regret or happiness that comes with a new task can t
 
 ## Lesson 3
 
-### Organizations that foster learning and communicative environments are more successful in the long run.
+### Organizations that foster learning and communicative environments are more successful in the long run
 
 Google conducted a study to determine which factors had the biggest impact on team performance, revealing that the most effective teams were the ones with increased psychological safety. So, why is that?
 
@@ -63,7 +63,5 @@ Everyone hates being in an uncomfortable position, but sometimes having those co
 The book offers practical tips for managing anger, stress, and anxiety at work, while also providing guidance on how to regulate your emotions when faced with issues such as bullying or discrimination.
 
 The book is a must-read for anyone who wants to develop their emotional intelligence and want to avoid disrupting their work-life balance disrupted ever again.
-
-## Who it’s for
 
 The 33-year-old employee who used to love their job but lost their motivation on the way, the 45-year-old manager who wants to foster a more positive environment, or the 50-year-old who finds it difficult to keep up with new trends and younger generations at work and is starting to dislike their job deeply.

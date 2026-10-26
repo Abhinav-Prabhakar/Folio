@@ -18,7 +18,7 @@ Were you *Born to Win*? Of course you were. Let’s get into these lessons and s
 
 ## Lesson 1
 
-### Winning starts as soon as you have a vision and you really want to make it happen.
+### Winning starts as soon as you have a vision and you really want to make it happen
 
 What separates a star athlete from the rest of the team? As far as the authors are concerned, the only difference is desire. Everyone has potential, but winners want to win. This desire leads them to plan, prepare, and expect to win.
 
@@ -32,7 +32,7 @@ So if you’re ready to start your path to winning, be on the lookout for moment
 
 ## Lesson 2
 
-### Next, outline goals and seek out good advice.
+### Next, outline goals and seek out good advice
 
 The authors say goals are important because they give you direction and save you time and effort. But it’s important to set the right goals.
 
@@ -48,7 +48,7 @@ Mentors should be good at listening, and more importantly, tell the truth, even 
 
 ## Lesson 3
 
-### Take time to care for every part of yourself, and you can expect to win.
+### Take time to care for every part of yourself, and you can expect to win
 
 What would you say distinguishes a winner from a loser? Most people probably would say that hard work and talent are a huge part of it, which is true. But it’s not the whole story.
 
@@ -67,7 +67,5 @@ Paying special attention to each of these components will give you energy, confi
 ## Review
 
 This book was a really inspiring must-read for anyone looking for the inspiration to succeed, whether it’s in business or life. They outline the path to success in a way that makes it simple enough for even the most unmotivated of us to find inspiration to accomplish something.
-
-## Who it’s for
 
 The 61-year-old who’s always loved Zig Ziglar’s work, the 32-year-old who feels lost and could use a specific plan to improve their life, and anyone who doubts that they were made for greatness.

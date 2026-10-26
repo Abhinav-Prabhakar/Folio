@@ -24,7 +24,7 @@ Ready to give your brain a good scrubbing to make it healthy and clean? Let’s 
 
 ## Lesson 1
 
-### Your future happiness is on the line when you follow social norms like unhealthy eating and checking your smartphone too much.
+### Your future happiness is on the line when you follow social norms like unhealthy eating and checking your smartphone too much
 
 We get pleasure out of each of the little daily actions that seem so normal to all of us. From buying and snacking, to scrolling and clicking, each of these is designed to give us a little satisfaction.
 
@@ -40,7 +40,7 @@ Sweet and salty foods are easy to grab and eat, but lead to diseases like diabet
 
 ## Lesson 2
 
-### Exercise if you want to get smarter.
+### Exercise if you want to get smarter
 
 Now that you know how bad following social norms is, you’re probably wanting to know how to break free of their grip. One of the best places to start is with exercise.
 
@@ -56,7 +56,7 @@ Working out doesn’t just make you smarter, it also boosts your mood. I just we
 
 ## Lesson 3
 
-### The Brain Wash program’s ten steps will set you on the path to long-term happiness.
+### The Brain Wash program’s ten steps will set you on the path to long-term happiness
 
 There isn’t an overnight fix to the problems that our modern world creates. But you can start small and with consistency, become mentally and physically happier and healthier again.
 
@@ -77,7 +77,5 @@ The authors created a ten-day pattern to get you started. The steps they recomme
 ## Review
 
 While I really enjoyed *Brain Wash*, none of the lessons I learned were new. It was nice to hear a lot of science behind why social media and fast food are bad for us and how to combat that, though. I think we all know generally what’s bringing us down and how to fix it, the problem is just putting in the work!
-
-## Who it’s for
 
 The 26-year-old that doesn’t have great habits and wants to change their life, the 58-year-old grandmother that spends too much time on social media and is anxious, and anyone that’s fed up with the busyness of our modern world and wants to find peace.

@@ -16,11 +16,9 @@ I decided to pick one lesson from each sector, so you’ll get a good idea of wh
 
 Ready to adjust your choice barometer? Time for some freakonomics!
 
-### Freakonomics Summary
-
 ## Lesson 1
 
-### There are three kinds of incentives that dominate your life’s choices.
+### There are three kinds of incentives that dominate your life’s choices
 
 Incentives have been dangled in front of your nose all of your life. From “if you finish your plate you’ll get some pudding” as a child to “if you sell 100 cars this quarter you’ll get a 25% bonus” all the way to “if you don’t stop harassing the cleaning lady, we’ll put you in a home, grandpa!”
 
@@ -38,7 +36,7 @@ For example, the disincentive (a negative incentive, the stick from the stick an
 
 ## Lesson 2
 
-### Experts are often incentivized to abuse that they know more than you do.
+### Experts are often incentivized to abuse that they know more than you do
 
 In any transaction between humans, incentives are the driving force at play. So the moment you figure out what makes the person across the table act the way they do (and know the same for yourself), you can make better decisions.
 
@@ -52,7 +50,7 @@ Using the information she has that you don’t, she can get you to sell quicker 
 
 ## Lesson 3
 
-### Just because two things happen simultaneously doesn’t mean that one causes the other.
+### Just because two things happen simultaneously doesn’t mean that one causes the other
 
 When something like the above example happens, we usually think we’re smart and can put two and two together quickly. But more often than not, two and two end up making five, because **we’ve confused causation with correlation**.
 
@@ -67,7 +65,5 @@ Similarly, take money’s influence on election outcomes. We all think whoever s
 ## Review
 
 *Freakonomics* is one of the best books on human psychology I’ve ever read. I also watched the movie and read its summary on Blinkist. So much to learn about making good decisions in here. This book has the same life-changing capability *The Paradox Of Choice* does.
-
-## Who it’s for
 
 The 26 year old graduate who’s about to take the highest paying job, the 52 year old family father, who can’t decide whether and how much to sell his house for and anyone who finds themselves jumping to wrong conclusions more often than they’d like to.

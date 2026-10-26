@@ -18,7 +18,7 @@ Let’s look at the what and why of these lessons!
 
 ## Lesson 1
 
-### The CEO should be the first one to shout when a crisis occurs.
+### The CEO should be the first one to shout when a crisis occurs
 
 Have you ever worked in a place where there was a lot of gossip? If so, it might have been due to a cover-up policy. A lot of companies try to cover up crises or when things go wrong, in order to solve them quietly while the employees think everything is great.
 
@@ -41,7 +41,7 @@ Don’t think your employees can’t handle the truth. **Be honest and upfront a
 
 ## Lesson 2
 
-### There are 2 types of CEOs.
+### There are 2 types of CEOs
 
 Good ones, and bad ones. Joke!
 
@@ -61,7 +61,7 @@ So make sure you learn the part you don’t do as well, or at least attract the 
 
 ## Lesson 3
 
-### What makes a great CEO is to be comfortable being uncomfortable.
+### What makes a great CEO is to be comfortable being uncomfortable
 
 This is what it comes down to. As a CEO, you’ll always be responsible for everything, whether it’s the new product that bombed or Steve’s clash with Sally over the last piece of cake.
 
@@ -82,7 +82,5 @@ Lesson 2 made me think a lot, but I think it’s impossible to know whether I’
 The parts about how to fire different kinds of employees were also interesting, this is something that’s uncomfortable to talk about, so I’m glad Horowitz shared it.
 
 If you’re a CEO, take a peek at the blinks and if you learn 1 or 2 things and want to learn more about Horowitz’s story, get a physical copy of *The Hard Thing About Hard Things*.
-
-## Who it’s for
 
 The 23 year old who wants to create a startup, but might be doing it just for the sake of having a startup, the 45 year old management executive of a big corporation with lots of inner politics, and anyone who’s a CEO.

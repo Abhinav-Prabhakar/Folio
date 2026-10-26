@@ -22,7 +22,7 @@ Let’s dive right in!
 
 ## Lesson 1
 
-### You can be a spark even if you don’t have a leadership title.
+### You can be a spark even if you don’t have a leadership title
 
 Typically, leadership training is reserved for those with higher-up job titles like managers. But what would you think if an organization started offering it to every employee– salespeople, janitors, or mail clerks? Many people would say it would be a waste of company resources.
 
@@ -36,7 +36,7 @@ When Morgan complimented her on her leadership, the coworker said she was an emp
 
 ## Lesson 2
 
-### Being a spark means connecting with others more deeply and making better decisions.
+### Being a spark means connecting with others more deeply and making better decisions
 
 Imagine you get in an argument with a coworker. Are you likely to sit down next to him in the break room that day? Probably not because most of us avoid awkward situations like the plague. But a spark would make the most of the situation.
 
@@ -46,11 +46,11 @@ The author struggled with a colleague who she thought was overly sensitive and s
 
 Another quality of a spark is that they have cognitive discipline. This means slowing down your thinking and halting instinctive reactions to have a more effective and intelligent response.
 
-When we use this at work, our performance will improve. An example of where you can use it is when you receive criticism in the workplace. Many of us like to get indignant and defensive. But all this does is make things worse. **Spark trainsthemselves to respond constructively and ask for ways they can improve.**
+When we use this at work, our performance will improve. An example of where you can use it is when you receive criticism in the workplace. Many of us like to get indignant and defensive. But all this does is make things worse. **Spark trains themselves to respond constructively and ask for ways they can improve.**
 
 ## Lesson 3
 
-### Becoming a spark requires that you become self-aware, serve others, and have a willingness to admit when you’re wrong.
+### Becoming a spark requires that you become self-aware, serve others, and have a willingness to admit when you’re wrong
 
 People love to pass the blame on to others. For example, when we get a bad grade, we blame the teacher. And it’s natural. It turns out, when we see something as a threat, we divert blame as a survival mechanism.
 
@@ -65,7 +65,5 @@ So become acquainted with your past and see what unique abilities you have that 
 ## Review
 
 What a fascinating book and idea! *Spark* has me filled with energy just thinking about all these new ideas I have to be a better leader. I hope everybody gets a chance to read this, I think it’ll be a game-changer for sure!
-
-## Who it’s for
 
 The 36-year-old who just got into their first management position, the 18-year-old who wants to be a leader someday, and everybody who wants to level up their career whether or not they are a leader.

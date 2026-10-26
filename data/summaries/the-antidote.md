@@ -24,7 +24,7 @@ Instead of giving up on happiness as a goal, let’s try some unconventional met
 
 ## Lesson 1
 
-### Focusing on happiness and chasing it won’t get you the result you want.
+### Focusing on happiness and chasing it won’t get you the result you want
 
 Common sense suggests the best way to get something is to try really hard at it. The psychology of happiness, however, turns this seemingly obvious truth on its head.
 
@@ -36,7 +36,7 @@ And people who repeat positive affirmations – you know, those peppy little man
 
 ## Lesson 2
 
-### Thinking about the worst-case scenario actually makes you tougher, not depressed.
+### Thinking about the worst-case scenario actually makes you tougher, not depressed
 
 How would you feel if you were asked to do something weird, like getting up on a crowded train and announcing the name of next stop? Certainly, people would glare, toss their newspapers at you, or even yell at you to shut up. You’d feel hesitant, even terrified, to go through with it.
 
@@ -50,7 +50,7 @@ But, as the self-humiliators learned, we are often wrong about how bad things wi
 
 ## Lesson 3
 
-### Choosing and chasing goals might make us happy, but it might just as well make us miserable.
+### Choosing and chasing goals might make us happy, but it might just as well make us miserable
 
 Why do skilled, experienced mountain climbers keep dying on Everest? Why do skilled, experienced executives keep setting audacious goals for their companies, only to drive those companies into the ground?
 
@@ -63,7 +63,5 @@ Most of us aren’t trying to climb Mount Everest, of course. Maybe, you have so
 ## Review
 
 *The Antidote* succeeds in throwing cold water on the pervasive idea that deliberate positive thinking will generally result in increased happiness. At the very least, positive thinking clearly doesn’t work the way its admirers promise — it’s not you, it’s them! As it turns out, various forms of negative thinking provide a surprisingly more robust psychological foundation for withstanding the ups and downs of life. And that’s a lesson worth remembering.
-
-## Who it’s for
 
 The 60-year old grouch, who’s never been willing or able to think positively but has a great life anyways, the 35-year old woman, who’s attracted to positivity-based life coaches and internet memes, so she can learn what she’s getting herself into, and parents of all ages who want to model true resilience for their kids instead of pushing them into mindless optimism.

@@ -16,11 +16,9 @@ Here are 3 lessons about cheese and what you should do when someone moves yours:
 
 Are you ready to become a champion of change? Let’s look for that cheese!
 
-### Who Moved My Cheese Summary
-
 ## Lesson 1
 
-### Stop thinking too much about your cheese and start chasing it.
+### Stop thinking too much about your cheese and start chasing it
 
 The two mice inside of our maze are Sniff and Scurry. They spend most of their time running up and down the corridors of the maze, looking for cheese. Turn a corner, run to the end, see if there’s any cheese, and if not, turn around and go back. That’s their pattern, and, while it seems kind of mindless and unstructured, it actually saves them a lot of time and energy.
 
@@ -40,7 +38,7 @@ Be more like a mouse and just start running!
 
 ## Lesson 2
 
-### Even the biggest cheese doesn’t last forever, so try to see change coming.
+### Even the biggest cheese doesn’t last forever, so try to see change coming
 
 Sniff and Scurry soon found a big stash of cheese at Station C, and even though they enjoyed snacking a bit of it every day, they kept paying attention. The amount of cheese kept declining, slowly, but steadily, every day. Once they realized they were about to run out, they decided to move on of their own accord and soon found another huge cheese at Station N.
 
@@ -52,7 +50,7 @@ This left Hem and Haw sad, depressed, feeling treated unfairly and in denial. In
 
 ## Lesson 3
 
-### Don’t worry, there’s always new cheese to be found. The minute you start moving things will improve.
+### Don’t worry, there’s always new cheese to be found. The minute you start moving things will improve
 
 The best part about cheese isn’t that once you’ve found it you’re set for life. It’s that there’s *always* more cheese to be found. Haw eventually got sick of sitting around, so he decided to go looking for new cheese all by himself.
 
@@ -65,7 +63,5 @@ Haw realized the accumulated fears in his mind were a lot worse than even the bi
 This is a great book. I love stories like these. It *is* a management book, and many a manager has told this story to his team to inspire them, but it’s just as valuable for you as an individual.
 
 It describes a simple pattern of embracing change, finding success, looking out for more change and then embracing it again, which will help you cultivate a much more optimistic attitude about life. A really cool book!
-
-## Who it’s for
 
 The 15 year old, who got this book from a relative, but has never touched it, because he thinks it’s “just a business book”, the 32 year old accountant at a big corporation, who sometimes feels her drive for change is nipped in the bud, because structures are rusty, and anyone who likes Stuart Little.

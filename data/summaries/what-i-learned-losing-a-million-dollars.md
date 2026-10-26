@@ -20,11 +20,9 @@ Let’s see how much we can discover in just 3 ideas:
 
 How about we dive right in and discover what Jim Paul learned losing a million dollars?
 
-### What I Learned Losing a Million Dollars Summary
-
 ## Lesson 1
 
-### You’ll make risky decisions too often if you don’t learn how your brain sometimes works against you.
+### You’ll make risky decisions too often if you don’t learn how your brain sometimes works against you
 
 Say you flip a coin five times and it comes up tails every time. What will come next? If you think it’s 100% got to be heads, you’d be wrong. There’s still a 50-50 chance it will be heads or tails.
 
@@ -40,7 +38,7 @@ But when the event is continuous, such as when you’re at a slot machine, the r
 
 ## Lesson 2
 
-### Crowd behavior is dangerous and can cause you to make bad choices, but you can avoid loss if you learn how to ignore it.
+### Crowd behavior is dangerous and can cause you to make bad choices, but you can avoid loss if you learn how to ignore it
 
 I always find myself shaking my head when I’m at a sports event and people are yelling at the referees. It won’t make any difference! But another psychological fallacy is that when people are in crowds, they do things they wouldn’t otherwise do.
 
@@ -58,7 +56,7 @@ Remember to be aware of this fallacy and always ask yourself “am I investing i
 
 ## Lesson 3
 
-### Before you take a risk make sure to evaluate the circumstances and make a plan.
+### Before you take a risk make sure to evaluate the circumstances and make a plan
 
 Throughout the 80s and 90s, the investment banking firm Morgan Stanley saw significant successes. The big key? Planning.
 

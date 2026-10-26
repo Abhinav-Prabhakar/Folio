@@ -24,7 +24,7 @@ If you’re looking for a recipe you can use over and over again to cultivate th
 
 ## Lesson 1
 
-### Make your habit changes as effective as possible by choosing a keystone habit first.
+### Make your habit changes as effective as possible by choosing a keystone habit first
 
 Roughly 40% of what you do each day happens on autopilot. Take a second to let that sink in. According to a study by Duke University, you don’t deliberately choose almost *half* of all the actions you perform on a daily basis. These automatic behaviors can be good or bad, depending on the habits you’ve acquired so far, which means they can drag you up or down quite fast.
 
@@ -44,7 +44,7 @@ Think about which habits have been keystone habits for you in the past, and pick
 
 ## Lesson 2
 
-### Eliminate the issue of willpower by making your first step laughably small.
+### Eliminate the issue of willpower by making your first step laughably small
 
 Speaking of starting out, try not to go from couch potato to marathon runner in a day, okay? Most of us have tried to make changes way too big, way too fast and have crashed and burned. The reason is as non-obvious as it is simple: your willpower fluctuates tremendously throughout your day.
 
@@ -74,7 +74,7 @@ And voilà, you’re one step closer to becoming a regular runner.
 
 ## Lesson 3
 
-### Turn the sunk cost fallacy into an advantage by building a long chain of daily habit check-ins.
+### Turn the sunk cost fallacy into an advantage by building a long chain of daily habit check-ins
 
 You have the right habit. You got started. Now all you have to do is to *keep going.* Of course this part of the habit puzzle is just about as hard as the one before it. While there will be many mental biases at play, trying to prevent you from going on, there is one you can flip on its head and use to your advantage.
 
@@ -114,7 +114,5 @@ It’s no coincidence that the three steps I’ve chosen also happen to be the f
 At heart, habit change is quite a simple process. Patrik delivers a step-by-step process for just that, but then goes much further, giving you backups upon backups. Thanks to the many layers of extra security he provides, his book helps aspiring beginners and pro’s in behavior change alike. You can take just the bare minimum of steps needed or add on more to increase your chances of success.
 
 All in all, *The Habit Blueprint* is the most action-oriented habit book I’ve read so far, thanks to its simplicity and uncluttered-ness. It’s a short, but powerful read. I can’t imagine a better way of spending $4.99.
-
-## Who it’s for
 
 The 18 year-old student, who’s about to finish high school and doesn’t know what she wants to do, but knows what kind of person she wants to be, the 39 year old successful entrepreneur, who promised himself to lose weight two years ago and really wants to make it happen this year, and anyone who used to be good at habit change, but has had trouble switching their behavior in recent months and years.

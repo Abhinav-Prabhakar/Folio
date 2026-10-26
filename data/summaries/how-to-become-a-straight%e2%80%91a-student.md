@@ -20,7 +20,7 @@ Do you have what it takes to be a straight A student? Let’s get your equipment
 
 ## Lesson 1
 
-### Increase focus while studying, decrease frequency.
+### Increase focus while studying, decrease frequency
 
 I’m 99% sure you already know this and you’ve heard it tons of times, but I’m also 99% sure that you’re still not doing it, so here it goes again: Study for less time, but be really focused when you study.
 
@@ -36,7 +36,7 @@ Part two comes down to eliminating distractions. No phones, Facebook feeds, web 
 
 ## Lesson 2
 
-### Keep a work progress journal to uncover your excuses.
+### Keep a work progress journal to uncover your excuses
 
 This is really cool, I think Cal came up with it himself. It’s called a work progress journal and it’ll help you find and destroy the excuses you make in order to avoid your work.
 
@@ -52,7 +52,7 @@ Cool, huh?
 
 ## Lesson 3
 
-### Use the three P’s to move through exams smoothly.
+### Use the three P’s to move through exams smoothly
 
 When it comes to taking exams, even the most well-prepared mind can take a spontaneous vacation, leaving you in a panic because all of your hard-learned notes seem to have gone out the window. That’s why Cal suggests having a step-by-step plan in place for every single one, so you don’t allow anxiety to take over.
 
@@ -75,7 +75,5 @@ It’s tempting to skip this last part and just finish early, but don’t. This 
 Everyone is different, which means every system you find has to be customized to your own needs. That said, I think what Cal describes in *How To Become A Straight A Student* is pretty solid and I find many of the techniques he outlines have worked for me in the past.
 
 If you struggle with deadlines, procrastination, writing papers and showing up to class on time, this one’s for you!
-
-## Who it’s for
 
 The 15 year old high schooler, who can benefit from learning these techniques early, the 20 year old college freshman who does not want to spend two extra semesters, and anyone who’s already finished college, but wasn’t happy with their performance.

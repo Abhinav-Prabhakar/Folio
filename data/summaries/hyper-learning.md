@@ -20,7 +20,7 @@ Ready to learn how to stay adaptable as the world changes rapidly? Let’s go!
 
 ## Lesson 1
 
-### Change your mindset to become a hyper-learner.
+### Change your mindset to become a hyper-learner
 
 The first step to becoming a hyper-learner is to quiet your ego. This begins with letting go of the titles, labels, and identities you have. Instead, take a more curious, teachable attitude toward everything that happens to you.
 
@@ -39,7 +39,7 @@ The other mindset to adopt is what the author calls NewSmart. You can get it by 
 
 ## Lesson 2
 
-### Becoming a hyper-learner will require you to improve your behavior.
+### Becoming a hyper-learner will require you to improve your behavior
 
 The next step in hyper-learning is to change your actions. Simply believing in growth isn’t enough; you actually have to work to make it happen. And this means even the details, like your mannerisms and the words you use.
 
@@ -55,7 +55,7 @@ To go even deeper, identify what the ideal collaborator *doesn’t* do. Maybe yo
 
 ## Lesson 3
 
-### To help your business take advantage of hyper-learning, you must follow four key ideas.
+### To help your business take advantage of hyper-learning, you must follow four key ideas
 
 If you own a business and aren’t willing to change with the times, you will fail. Just look at what happened to Blockbuster and Kodak. Those who stick to old ways get left behind. And those that innovate soar higher than anyone thought possible.
 
@@ -73,7 +73,5 @@ When it comes down to it, you need to be good to people if you want to succeed!
 ## Review
 
 *Hyper-Learning* is an amazing book that I’d highly recommend everyone read! I really liked how it went into both the personal and business applications of what it teaches. These principles are super important, especially as our world keeps changing faster and faster.
-
-## Who it’s for
 
 The 57-year-old executive that doesn’t want to get left in the dust as their market changes, the 23-year-old who is thinking about how they can stay competitive and sharp as the world advances, and anyone who wants to feel better about the speed at which our world is transforming.

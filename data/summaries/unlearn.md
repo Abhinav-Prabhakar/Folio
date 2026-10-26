@@ -24,7 +24,7 @@ Let’s do some unlearning!
 
 ## Lesson 1
 
-### Serena Williams used The Cycle of Unlearning to break free of failures after success, and so can you.
+### Serena Williams used The Cycle of Unlearning to break free of failures after success, and so can you
 
 The best-ranked woman tennis player in 2010 was Serena Williams. In the next season, she sat out the first half due to injury and her performance afterward wasn’t great. By 2012 she saw herself losing to a low-ranked player at the French Open.
 
@@ -42,7 +42,7 @@ If you’re having a hard time accepting that it’s time for a change, just con
 
 ## Lesson 2
 
-### Let go of your past wins if you want to keep winning.
+### Let go of your past wins if you want to keep winning
 
 Have you ever attended an aspiring conference only to revert to your old ways once you get back to your life? Why is it so hard to make lasting changes stick?
 
@@ -60,7 +60,7 @@ Persist through the fear and you’ll make great breakthroughs.
 
 ## Lesson 3
 
-### If you want the relearning process to stick, you must break it down into small steps.
+### If you want the relearning process to stick, you must break it down into small steps
 
 What would you say if I told you that you could go from couch potato to marathon runner in just six months? Although you might think I was crazy, there’s actually an app that does this successfully. But how?
 
@@ -79,7 +79,5 @@ Celebrate results even when they appear negative. This vital information shows y
 ## Review
 
 I really enjoyed *Unlearn* but wish it had more on personal development than just business ideas. These principles are universal though and it’s not too difficult to extract them and apply them to life in general. The idea that I need to get over my past wins and try new things to succeed is one I hadn’t considered before and that I’m sure will contribute to a brighter future for me!
-
-## Who it’s for
 
 The 38-year-old manager who has had big wins in the past but can’t seem to get them anymore, The 56-year-old CEO of a company that’s about to go under, and anyone who thinks that they can continue to be successful by following the same routine.

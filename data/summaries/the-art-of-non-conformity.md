@@ -20,7 +20,7 @@ Ready to learn the art of non-conformity? Let’s shatter some limiting beliefs!
 
 ## Lesson 1
 
-### Your own competence is the best job security you can have.
+### Your own competence is the best job security you can have
 
 How do you define job security? Chances are, the environment in which you’ve grown up has taught you that “sticking to a job with a regular paycheck” is the way to play it safe.
 
@@ -35,7 +35,7 @@ Two examples Chris mentions how you can build this are:
 
 ## Lesson 2
 
-### Gatekeepers make you feel like you’re free, but to see what’s really possible you have to challenge them.
+### Gatekeepers make you feel like you’re free, but to see what’s really possible you have to challenge them
 
 Imagine you’re being promoted. That’s great, right? Well, maybe not.
 
@@ -49,7 +49,7 @@ There will always be gatekeepers and limits, but **you can always give challengi
 
 ## Lesson 3
 
-### Aim to make the world a better place by producing work that’ll live longer than you do.
+### Aim to make the world a better place by producing work that’ll live longer than you do
 
 If you play your cards right, you might live to be 100 years old. That’s a lot of time, but still not forever. Wouldn’t it be cool to know that your work will still impact people long after you’re gone?
 
@@ -64,7 +64,5 @@ For example, I know not everyone has the money to buy many books, or even get a 
 What makes *The Art of Non-Conformity* great is that anyone can learn *something* from it. For some it’s personal finance, for others tips on starting a business or overcoming a big mental hurdle. The book really extends the concept of non-conformity to your entire life, which also helps the message sink in properly.
 
 Great guy, great book!
-
-## Who it’s for
 
 The 31 year old in his first corporate job after college, who’s not in too much debt yet, the 51 year old who’s wondering what to do with the second half of her life to make it more meaningful, and anyone who’s scared of just relying on one single source of income.

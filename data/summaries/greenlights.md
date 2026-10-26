@@ -16,11 +16,9 @@ Let’s see how much we can discover from his life in just 3 lessons:
 
 Let’s get learning!
 
-### Greenlights Summary
-
 ## Lesson 1
 
-### In his early years, McConaughey experienced tough love, popularity, loneliness, and career changes.
+### In his early years, McConaughey experienced tough love, popularity, loneliness, and career changes
 
 Matthew grew up in Texas in a family with some pretty unorthodox ideas. His parents had a very combative relationship, but in the end, they did always love each other. They had two divorces and got married three times.
 
@@ -34,7 +32,7 @@ After returning home, he pursued law but felt it wasn’t for him. A friend read
 
 ## Lesson 2
 
-### Film school at UT Austin was the place where Matthew’s success and fame began taking off.
+### Film school at UT Austin was the place where Matthew’s success and fame began taking off
 
 Matthew worked hard in film school but knew he’d need some luck as well. One night, at the Hyatt hotel bar, McConaughey met and drank with Don Phillips, who was in town to shoot a movie. They connected over golf and vodka, and by the time they got a cab hours later, Don offered Matthew a part in his film.
 
@@ -46,7 +44,7 @@ Schumacher told him he would need to go off-script to impress the executives. Th
 
 ## Lesson 3
 
-### McConaughey’s career and life have taken him all over the world, but he’s settled down with a family and found his place in the film industry.
+### McConaughey’s career and life have taken him all over the world, but he’s settled down with a family and found his place in the film industry
 
 Soon Matthew was the king of the romantic comedy and was living the high life with money, women, and motorcycles. But once again he wondered: What is all of this about? He says it was his existential challenge, and he believed he was up to the task of figuring it out.
 
@@ -61,7 +59,5 @@ Soon enough, Hollywood came calling again, and he landed new, non-romantic roles
 ## Review
 
 How can anybody not like Matthew McConaughey, especially after reading *Greenlights*? He seems like a really great and down-to-earth guy and I think it would be really cool to meet him. This is a great book and I highly recommend it!
-
-## Who it’s for
 
 The 20-year-old who wants to get inspired to do what it takes to see their career take off, the 47-year-old that’s curious to know what goes on in the mind of a creative, and anyone who is a fan of Matthew McConaughey.

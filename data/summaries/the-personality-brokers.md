@@ -22,7 +22,7 @@ Do you feel certain about your MBTI personality? After this you might not be, le
 
 ## Lesson 1
 
-### Carl Jung’s questionable methods were the basis for Briggs’ personality test.
+### Carl Jung’s questionable methods were the basis for Briggs’ personality test
 
 The MBTI is named after it’s two creators, Katharine Briggs and her daughter Isabel Myers. They were obsessed with the ideas of Carl Jung and based theirs off of his tenets.
 
@@ -36,7 +36,7 @@ What’s really strange is the depth of Briggs’s obsession with Jung. In her m
 
 ## Lesson 2
 
-### The roaring twenties was the perfect time for Briggs to release her first personality test.
+### The roaring twenties was the perfect time for Briggs to release her first personality test
 
 So the big question now is why did the test perform so well if it had so many flaws? It was a mix of the right marketing at the right time.
 
@@ -48,7 +48,7 @@ People needed psychologists, but there weren’t enough to go around. Bringing t
 
 ## Lesson 3
 
-### We can gain some useful information from the MBTI, even considering its questionable beginnings.
+### We can gain some useful information from the MBTI, even considering its questionable beginnings
 
 So the MBTI has a really weird history, does that mean it’s all bad? Not entirely.
 
@@ -63,7 +63,5 @@ With its focus on self-acceptance and self-justification, the test alleviates ou
 ## Review
 
 Well that was a fascinating story! I was already wary of the MBTI before reading *The Personality Brokers*, but now I know that my mistrust was correct. There are still some benefits of personality tests like this one, and I’m glad the book pointed that out.
-
-## Who it’s for
 
 The 45-year-old who has been living by their four-letter MBTI personality and feels like something is missing, the 32-year-old female entrepreneur who is looking for some inspiring stories of women in business, and anyone interested in psychology.

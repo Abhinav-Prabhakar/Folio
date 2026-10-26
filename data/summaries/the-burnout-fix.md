@@ -20,7 +20,7 @@ Here are my three favorite lessons from this book:
 
 ## Lesson 1
 
-### Mindfulness is the key to avoiding burnout and living a healthier life.
+### Mindfulness is the key to avoiding burnout and living a healthier life
 
 If you ever find yourself wondering about past mistakes, feeling anxious over something that happened at work, or carrying the stress from your job to your home, then you are probably experiencing mild forms of burnout.
 
@@ -32,7 +32,7 @@ The final step is becoming more aware of your thinking process. Try to examine i
 
 ## Lesson 2
 
-### Success is the consequence of a network made of meaningful connections and supportive people.
+### Success is the consequence of a network made of meaningful connections and supportive people
 
 Have you noticed how any time someone receives a prize, the first thing they do is thank the people that supported them? That is because we can’t always do everything by ourselves, and the people that circle us are a key determinant to our life.
 
@@ -44,11 +44,11 @@ Then, try to diversify your network. Don’t just socialize with the people at w
 
 ## Lesson 3
 
-### Drawing a personal statement will help you find purpose and fulfillment in your work.
+### Drawing a personal statement will help you find purpose and fulfillment in your work
 
 Take charge of your own life by creating a mission statement. Seeing what makes life meaningful for us is essentially the only reason why we do what we do. Start by asking yourself some questions like: *Why do I get up in the morning? What do I really stand for? What’s my purpose?*
 
-Finding an answer to these questions allows you to truly comprehend what you’re good at and what brings you happiness, so you can start doing just that! **Finding your*‘’personal why’’*and acting on it will bring great satisfaction and joy to your life instead of causing burnout and frustration.**
+Finding an answer to these questions allows you to truly comprehend what you’re good at and what brings you happiness, so you can start doing just that! **Finding your *‘’personal why’’* and acting on it will bring great satisfaction and joy to your life instead of causing burnout and frustration.**
 
 To find what brings meaning to your life, try to understand what your values are. What are your core characteristics or the things most important to you? Is it family, work, passion, or something else? Then, pick five of the most important values and use them as guidance.
 
@@ -59,7 +59,5 @@ Combine your values, skills, and meaningful pursuit and voilà! This is your mis
 ## Review
 
 The Burnout Fix is a guiding light for people everywhere struggling with burnout, anxiety, and frustration. Reading it will reveal significant insights on one’s true meaning and core mission and how they can help restore joy and fulfillment. For anyone feeling overwhelmed with life’s troubles, this book will provide easy-to-follow solutions that really do work.
-
-## Who it’s for
 
 The leader who wants to foster an innovative, learning environment for their team, the psychologist enthusiast looking to understand burnout and its effects, the person who wants to create a better work-life balance.

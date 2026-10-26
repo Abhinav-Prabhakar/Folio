@@ -18,7 +18,7 @@ Now, let’s truly master these lessons by looking at them in detail!
 
 ## Lesson 1
 
-### Living virtuously implies being in harmony with nature.
+### Living virtuously implies being in harmony with nature
 
 Stoic philosophers believed in living a simple yet meaningful life. Essentially, this implies getting closer to the natural world and living in alignment with nature and harmony with the world order. Stoics also built their philosophy on ration and logical reasoning, this implies being content with the life you’ve been given. Not questioning it, but rather just living it. In other words, to live in agreement with nature, you must first accept your condition and make peace with the life you have.
 
@@ -28,7 +28,7 @@ Therefore, living virtuously implies being close to the natural order of things 
 
 ## Lesson 2
 
-### Practice makes perfect, so it pays off to work on your virtues.
+### Practice makes perfect, so it pays off to work on your virtues
 
 In the Stoic philosophy, men have four core virtues in life: wisdom, morality, courage, and moderation. And since no one is perfect, mastering all of them takes a lifetime of work, and even so, we’ll always be far from perfection. Still, finding a balance between these four cardinals is essential for a happy, equilibrated life. So how does one learn how to find this balance and master their virtues? Through practice.
 
@@ -38,7 +38,7 @@ In the Stoic philosophy, happiness is the satisfaction one gets from virtuous li
 
 ## Lesson 3
 
-### Control your emotions and don’t dwell on the things you can’t control.
+### Control your emotions and don’t dwell on the things you can’t control
 
 One of the most prominent principles of Stoicism is that one should not worry about the things one can’t control. There will be times when negative situations will occur. Although they will alter the course of our life, as long as we can’t change them, we should avoid worrying and reacting to them. It’s easier said than done, this approach to life can end a lot of suffering and bring us peace. Marcus Aurelius himself spent a lifetime mastering this mindset, and as far as history recognizes, he succeeded at doing so.
 
@@ -49,7 +49,5 @@ There is nothing we can change about certain life situations, such as death, but
 ## Review
 
 *How to Think Like a Roman Emperor* is a remarkable piece of writing that explores the life of Marcus Aurelius, the Roman leader who managed to live a virtuous life by adhering to the Stoic philosophy. The book can teach you the secrets behind living meaningfully, learning to control your emotions, and strengthening your mind. Reading this book will make you change your perspective on life and rethink your principles and your moral compass. It’ll help you become more pragmatic and calculated when it comes to emotions, pleasures and discomforts, and many other elements of life.
-
-## Who it’s for
 
 The 45-year-old manager who is interested in Stoic philosophy and wants to study more about this topic, the 22-year-old student who has a passion for history and the life of Roman emperors or the Italian culture in general, and the 68-year-old retiree who is wondering what to do with the time they have remaining on this earth.

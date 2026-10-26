@@ -16,11 +16,9 @@ Here are my 3 take-aways:
 
 I bet 1 and 3 have you scratching your head, so let’s do some explaining!
 
-### Flow Summary
-
 ## Lesson 1
 
-### Pleasure and enjoyment are not the same thing.
+### Pleasure and enjoyment are not the same thing
 
 This is a really cool differentiation. **Pleasure** is what most people nowadays confuse with happiness. It comes from **sensory experiences**, like eating a pizza, getting a massage, or having sex and **takes away your control of your attention**.
 
@@ -36,7 +34,7 @@ But how can you find enjoyment? By trying to spend a lot of time in flow.
 
 ## Lesson 2
 
-### Flow is the state where challenges and skills match, so that time flies by.
+### Flow is the state where challenges and skills match, so that time flies by
 
 Flow is what’s behind every good video game. It is the state where you are so immersed in the activity you’re doing, that you’re **completely forgetting about all your worries and anxieties**, and you look up after hours, **wondering where time went**.
 
@@ -63,7 +61,7 @@ So make some time for your hobbies or take up a fun project – you never know w
 
 ## Lesson 3
 
-### Life goals are irrelevant, so set a life goal.
+### Life goals are irrelevant, so set a life goal
 
 I love this. The summary says **you can create your own meaning of life**. To do so, you simply have to set an ultimate goal for your life.
 
@@ -90,7 +88,5 @@ I can’t recommend this summary enough, it’s so packed with insights, I had s
 It doesn’t scream at you to get happy, like some of the more over-enthusiastic self-help books (which have their place, ain’t that right, Spartan Up?), but just shows you the path that’ll most likely get you there.
 
 He also has a TED talk, which I have to check out yet, but I’m sure it is worth watching.
-
-## Who it’s for
 
 The 18 year old, who quit 3 sports teams already and is frustrated because she can’t seem to find the right thing, the 42 year old restaurant manager, who’s in a bit of a rut at work, and anyone who has never played a video game.

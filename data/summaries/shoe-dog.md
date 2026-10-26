@@ -16,11 +16,9 @@ Here are 3 lessons from Phil Knight’s life about how he built Nike, the most v
 
 Have a crazy idea for a business to start? Let’s turn to Phil Knight to see how you can make it a reality and have fun along the way!
 
-### Shoe Dog Summary
-
 ## Lesson 1
 
-### You only get a few chances to start something crazy, so go for broke when you’re young.
+### You only get a few chances to start something crazy, so go for broke when you’re young
 
 Phil Knight has always loved sports. He loved following them and he loved doing sports. As a kid he once had a summer job tabulating the day’s sports scores for a newspaper during the night shift, which would then be published in the next day’s paper. Every morning after work, he ran home – seven miles.
 
@@ -36,7 +34,7 @@ It sure doesn’t happen often this way, but when you’re young, don’t know w
 
 ## Lesson 2
 
-### Get someone, who can be your mentor and partner and will believe in you and bring valuable skills.
+### Get someone, who can be your mentor and partner and will believe in you and bring valuable skills
 
 While sealing the initial deal had been as simple as showing up at Mr. Onitsuka’s door, getting the initial samples wasn’t. The first 300 pairs took over a year to be delivered, during which Phil worked as an accountant. When Phil finally got the shoes, one of the first people he mailed two pairs to was Bill Bowerman. Bill was his former running coach at the University of Oregon. Phil hoped to get a sale and a powerful testimonial.
 
@@ -48,7 +46,7 @@ Soon it would become clear that Bill’s skill set would be crucial for the comp
 
 ## Lesson 3
 
-### Just tell people what to do and let them figure out the how. Encourage everyone to be themselves.
+### Just tell people what to do and let them figure out the how. Encourage everyone to be themselves
 
 When working with people, the most successful ways seem to lie at the extreme ends of the spectrum: Tell them how to do everything, or don’t tell them anything, except the result you want.
 
@@ -65,7 +63,5 @@ This hands-off management style would continue to add to Blue Ribbon and then Ni
 ## Review
 
 I could go on and on about *Shoe Dog*, I love a good autobiography, especially from people like Phil, who have built their empire on good. Can’t think of any reason for anyone not to read this, especially if you like stories about Richard Branson, you’ll love this.
-
-## Who it’s for
 
 The 25 year old on a backpack trip around the world, trying to find herself, the 31 year old lonely founder, who could benefit from a business partner, and anyone who has a crazy business idea.

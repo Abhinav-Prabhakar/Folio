@@ -22,7 +22,7 @@ Have a troubled past that’s haunting you? Don’t fear, just read and start le
 
 ## Lesson 1
 
-### Gifted kids expect a lot of themselves which can lead to depression later in life.
+### Gifted kids expect a lot of themselves which can lead to depression later in life
 
 Do you ever wonder why so many of the greatest creative minds struggle with mental illness? You’d think that if they had all that success and intelligence they would be happy, right? Unfortunately, a sense of grandiosity, while good for creating, can also be a sign of repressed emotions from childhood, which can cause depression.
 
@@ -38,7 +38,7 @@ And when these kids grow up to have their own kids, these things can begin to af
 
 ## Lesson 2
 
-### Childhood trauma can get passed down through generations if it isn’t addressed.
+### Childhood trauma can get passed down through generations if it isn’t addressed
 
 Parents want the best for their children. They even want their kids to have better lives than they did. This is especially true for parents who themselves had a troubled, emotionally-repressed childhood.
 
@@ -58,7 +58,7 @@ This epiphany led her to finally start loving and accepting her kids as she’d 
 
 ## Lesson 3
 
-### Become your true self and you can change the world.
+### Become your true self and you can change the world
 
 Enough with the negatives of being a gifted child. Now let’s look more at how to stop this cycle and the possibilities for not only the individual that does, but everyone else around them.
 
@@ -77,7 +77,5 @@ Most of all, remember that the key in all of this is to embrace who you are on t
 ## Review
 
 *The Drama Of The Gifted Child* has made me realize that I was a gifted child — and I’m still dealing with some of the effects. However, I don’t blame anyone, and I’m grateful for this resource to help me figure out those struggles!
-
-## Who it’s for
 
 The 35-year-old who was abused by her father when she was a kid, the 49-year-old that struggles with depression, and anyone that is a parent or will be a parent in the future.

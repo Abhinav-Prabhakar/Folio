@@ -38,11 +38,9 @@ In this summary, we’ll specifically focus on steps 5, 12/13, and 19, and cover
 
 Are you with me? Let’s go!
 
-### Eat That Frog Summary
-
 ## Lesson 1
 
-### Make use of your unproductive time.
+### Make use of your unproductive time
 
 The summary said that the average driver spends 500 to 1,000 hours on the road each year. Holy moly!
 
@@ -60,7 +58,7 @@ A commute has been shown to be one of the biggest destroyers of our happiness, s
 
 ## Lesson 2
 
-### Know yourself.
+### Know yourself
 
 Know thyself. The ancient Greek phrase has been attributed to many sources, but that doesn’t make it any less true.
 
@@ -78,7 +76,7 @@ The book even talks about skills and knowing your special talent, **which makes 
 
 ## Lesson 3
 
-### Make appointments with yourself.
+### Make appointments with yourself
 
 In the time management section, Brian Tracy recommends **blocking your time in chunks and putting it on the calendar.**
 
@@ -105,7 +103,5 @@ Charlie Munger.
 Back when this book was originally published in 2001, it was a gold mine of valuable tips. Now, these are often considered standard practice, but that doesn’t make them any less valuable.
 
 *Eat That Frog* is still a great introductory read for new researchers of productivity. I found the statistics and studies quoted in it very interesting – these were all new to me. I suggest you go straight for the book, since it’s only around 120 pages long.
-
-## Who it’s for
 
 The 17 year old high schooler, who wants to learn the things school doesn’t teach, the 35 year old Mum, who hasn’t been told that her apple pie recipe might need a little cinnamon, and keeps doing it the same way, and anyone who has a commute.

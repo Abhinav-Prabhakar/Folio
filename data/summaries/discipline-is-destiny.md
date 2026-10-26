@@ -18,11 +18,9 @@ Here are 3 lessons from the book, covering the 3 areas in which we need discipli
 
 Let’s see what it takes to live a disciplined but satisfying life!
 
-### Discipline Is Destiny Summary
-
 ## Lesson 1
 
-### Taking charge of your body is the easiest way to build discipline, and you can take many small steps to do it.
+### Taking charge of your body is the easiest way to build discipline, and you can take many small steps to do it
 
 The reason discipline is most easily built by starting with small, physical challenges is that you can *feel* your body’s responses to those challenges. When you work out, you *feel* the result the next day. When you sleep early, you *feel* more rested. That’s a great way of sending yourself the feedback that, yes, building discipline is working — and helping.
 
@@ -32,7 +30,7 @@ Holiday mentions Lou Gehrig as an example, a legendary baseball player who playe
 
 ## Lesson 2
 
-### We can only be happy when we practice restraint, and it’s a lifelong job to moderate our minds.
+### We can only be happy when we practice restraint, and it’s a lifelong job to moderate our minds
 
 Like Vice calling out to Hercules, our modern world is loaded with opportunities for instant gratification. It, too, seems to want to fulfill our every desire immediately. But if you’ve ever given in to those impulses, you know how empty and unrewarding that can ultimately feel.
 
@@ -44,7 +42,7 @@ Try to pause before you react, analyze your feelings, and learn to shut things o
 
 ## Lesson 3
 
-### Unless used for the greater good, discipline is pointless, so show kindness and compassion both to yourself and others.
+### Unless used for the greater good, discipline is pointless, so show kindness and compassion both to yourself and others
 
 The highest level of discipline happens on the plane of the spirit, according to Holiday, who mentions ancient Roman charioteers — competitive horse carriage riders — as a prime example. Having to balance many activities and roles at once while performing in a life-or-death situation, these athletes used their self-discipline for a higher purpose — in this case to entertain their community — while remembering that failure is just part of the equation.
 
@@ -55,7 +53,5 @@ When Stoic philosopher Cleanthes walked down Athens’ streets one morning, he b
 ## Review
 
 This book is a follow-up to *Courage Is Calling*, the second of four books Ryan Holiday is penning on the cardinal Stoic virtues. The virtues are courage, temperance, justice, and wisdom. Given both books follow a similar structure, I assume all the others will too. It starts with a brief story and introduction to the four virtues, followed by three parts about how to master and implement this particular value into your life. Holiday’s writing style is conversational. He draws on a wide range of examples, and the chapters are manageable, engaging, and make clear points. I’ve been a fan of Holiday’s work for years, and *Discipline Is Destiny: The Power of Self-Control* is no exception!
-
-## Who it’s for
 
 The 15-year-old high school student who struggles with constant distraction, the 34-year-old waiter who feels lost in her career, and anyone who enjoys modern takes on Stoic philosophy.

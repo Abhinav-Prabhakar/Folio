@@ -18,11 +18,9 @@ Here are the 3 most helpful lessons I’ve learned from the life of Michelle Oba
 
 Ready for some inspiration? Let’s go!
 
-### Becoming Summary
-
 ## Lesson 1
 
-### Be proactive about learning and getting a good education, regardless of how good or bad things are around you.
+### Be proactive about learning and getting a good education, regardless of how good or bad things are around you
 
 The South Side of Chicago saw a huge demographic change between 1950 and 1980. In the’50s, it’s residents were 96% white. Just 30 years later, it was 96% black. Michelle Obama began life right in the middle of this, and at her school, there was a good mix of different people.
 
@@ -36,7 +34,7 @@ Her drive helped her get into an equal opportunity school with great teachers an
 
 ## Lesson 2
 
-### Don’t let people’s opinions of you discourage you, try for greatness, and you will eventually find the people who believe in you.
+### Don’t let people’s opinions of you discourage you, try for greatness, and you will eventually find the people who believe in you
 
 Even though she was in the National Honors Society, class treasurer, and heading toward being in the top 10% of her class, Michelle still had opposition.
 
@@ -50,7 +48,7 @@ Brasuell was a working mom, which is something Michelle hoped to be someday. She
 
 ## Lesson 3
 
-### Don’t fear using your strengths and ideas to try to improve the world, no matter how prestigious a position you may be in.
+### Don’t fear using your strengths and ideas to try to improve the world, no matter how prestigious a position you may be in
 
 Over the next few years, Michelle would go on to study at Harvard. After that, she began working for a law firm in Chicago. It was there that she met Barack Obama. Although she had some initial doubts about him, she quickly caught on and they were eventually married.
 

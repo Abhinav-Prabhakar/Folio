@@ -18,11 +18,9 @@ Use these 3 rules to improve your chances of ending up with a million dollars in
 
 Committed to making your dream of financial independence come true? Let’s see if you can keep these rules!
 
-### The Millionaire Next Door Summary
-
 ## Lesson 1
 
-### Save responsibly from the moment you first start earning more than you need to live.
+### Save responsibly from the moment you first start earning more than you need to live
 
 Most people think the only way to become a millionaire is to earn at least $1 million/year for a couple of years. But even if you’re one of the top earners in the world, taxes will eat away roughly 50% of your annual income. Deduct living expenses, maybe a mortgage and a few vacations and you might end up with just $200,000 – if you’re lucky.
 
@@ -36,7 +34,7 @@ Budgeting well and living a frugal life is really all you need to build wealth (
 
 ## Lesson 2
 
-### Calculate if you’re not reaching your full financial potential with this simple equation.
+### Calculate if you’re not reaching your full financial potential with this simple equation
 
 Stanley has come up with a simple formula to calculate your expected wealth:
 
@@ -52,7 +50,7 @@ Try to get closer and closer to your expected wealth over time, not by saving ex
 
 ## Lesson 3
 
-### Don’t fall for economic outpatient care to see your bank account go to seven figures.
+### Don’t fall for economic outpatient care to see your bank account go to seven figures
 
 Do you know how kids with rich parents often can’t handle their finances and never worry about spending?
 
@@ -73,7 +71,5 @@ If you have rich parents, don’t waste their money – at least invest it wisel
 *The Millionaire Next Door* is a great book. It’s not one of those “just buy an apartment complex building that doesn’t suck” or “just make a business and sell it” type of books. You know, things which are just impossible without skills that take decades to develop. This is much more practical.
 
 Most people could save half of their income or more if they just didn’t buy as many useless things as they do, and this is a book about how to make that happen, plain and simple.
-
-## Who it’s for
 
 The 23 year old, who’s about to take her first job after college, the 39 year old, who’s settled well into his career, but now realizes he’s not as well on his way as he’d like to be, and anyone who never had to take a job as a kid.

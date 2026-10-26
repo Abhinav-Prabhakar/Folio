@@ -24,7 +24,7 @@ Ready to discover a new philosophy for changing your life? Let’s go!
 
 ## Lesson 1
 
-### Incremental growth is what Kaizen is all about, and you can start using it today by analyzing your habits.
+### Incremental growth is what Kaizen is all about, and you can start using it today by analyzing your habits
 
 As we’ve already learned, Kaizen was originally a business theory. It started when the US wanted to help Japan restart its economy after World War II. It’s since helped many companies, including one of the most popular car brands—Toyota.
 
@@ -38,7 +38,7 @@ Dig deep to find out what you really seek. When you’re done with that, finish 
 
 ## Lesson 2
 
-### Make your first step so small that you hardly notice the difference.
+### Make your first step so small that you hardly notice the difference
 
 The story of the British cycling team is one of the most inspiring examples of how Kaizen works in the real world. The team had always done terribly in the Olympics, and they wanted to change that.
 
@@ -56,7 +56,7 @@ Experts recommend this because it keeps you going in the normally difficult earl
 
 ## Lesson 3
 
-### Review your habits regularly to track your progress and keep yourself moving forward.
+### Review your habits regularly to track your progress and keep yourself moving forward
 
 Japan’s first female journalist, Hani Motoko, is known for her unique journaling method called kakeibo. She initially created it to help women track their spending habits.
 
@@ -72,8 +72,6 @@ Whatever method you use, make sure it works for you. Set aside some time each da
 
 ## Review
 
-I have to admit, I was a little disappointed in *Kaiz* *en* but only because I’ve heard these ideas so many times before. I don’t think this means it’s a bad book though, these principles are worth repeating because they work! Definitely check it out if you want to further your understanding of habits and goal-setting.
-
-## Who it’s for
+I have to admit, I was a little disappointed in *Kaizen* but only because I’ve heard these ideas so many times before. I don’t think this means it’s a bad book though, these principles are worth repeating because they work! Definitely check it out if you want to further your understanding of habits and goal-setting.
 
 The 63-year-old that wants to break their smoking habit, the 42-year-old parents who want to improve themselves for their kids, and anyone that’s looking for yet another reason to utilize the power of habits and goal-setting.

@@ -20,7 +20,7 @@ Let’s jump right in and see how much we can learn!
 
 ## Lesson 1
 
-### The foundation of Harris’s career began with her early experiences working in the justice system.
+### The foundation of Harris’s career began with her early experiences working in the justice system
 
 Kamala realized at her time studying at Howard University that she wanted to be a lawyer. She realized her true heroes weren’t academics and doctors, but lawyers. She admired those involved in the civil rights movement and wanted to become like them to enact lasting change in the world.
 
@@ -32,7 +32,7 @@ After graduating, she had a job lined up as deputy DA in Oakland. H **ere she to
 
 ## Lesson 2
 
-### Kamala’s path to becoming a senator seemed natural after her work as a DA of California.
+### Kamala’s path to becoming a senator seemed natural after her work as a DA of California
 
 In 2003, Harris became DA of San Francisco. She used this position to tackle injustices such as mass incarceration. The United States imprisons more people than any other place in the world. Much of this is due to the “War on Drugs,” which imprisons countless people for minor drug offenses.
 
@@ -46,7 +46,7 @@ She won in 2016 but it was bittersweet because of the surprise victory of Donald
 
 ## Lesson 3
 
-### Harris’s work is helping improve those hurt by immigration and healthcare standards in the US.
+### Harris’s work is helping improve those hurt by immigration and healthcare standards in the US
 
 Kamala understands that many of the people immigrating to the US come from places in Central America where violence means leaving their home is the only option left.
 
@@ -61,7 +61,5 @@ Another area she’s helped reform as a senator was in healthcare. Most horrifyi
 ## Review
 
 I didn’t know much about Kamala Harris before coming across *The Truths We Hold* other than what I’d hear from other people or the news. But after learning about her life she seems like the kind of person that just wants to help other people. That’s something I can get behind, even if there are a lot of varying opinions of her.
-
-## Who it’s for
 
 The 24-year-old history buff, the 48-year-old that likes to be informed about politicians, and anyone who is curious to learn more about the first female vice president of the United States.

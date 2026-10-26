@@ -20,7 +20,7 @@ Ready to be rookiefied? Here we go!
 
 ## Lesson 1
 
-### Rookies are a necessity, because the world’s knowledge changes rapidly.
+### Rookies are a necessity, because the world’s knowledge changes rapidly
 
 We all talk about how fast-paced our world has become. But most of us don’t really have an idea of exactly *how* fast-paced it actually is.
 
@@ -40,7 +40,7 @@ And that’s where rookies excel. They aren’t set in their ways and have no su
 
 ## Lesson 2
 
-### When you ask questions and get help, you can outsmart experienced co-workers, even if you’re a rookie.
+### When you ask questions and get help, you can outsmart experienced co-workers, even if you’re a rookie
 
 In some cases, rookies will even outsmart their experienced co-workers from the get-go.
 
@@ -58,7 +58,7 @@ Liz says rookies reach out to experts 40% more than experienced workers, plus co
 
 ## Lesson 3
 
-### If you’re no longer a rookie, you can still regain rookie smarts by putting yourself into learning mode.
+### If you’re no longer a rookie, you can still regain rookie smarts by putting yourself into learning mode
 
 Okay, so you’re no longer a rookie. Does that mean you’re doomed?
 
@@ -83,7 +83,5 @@ However, that young nurse might have an idea to make the process better altogeth
 So many things I’ve learned in the past 1.5 years about blogging, social media and content marketing, have become moot already, because new alternatives have replaced them or rendered them unnecessary.
 
 The summary has lots of relevant info and if you’re then ready to become a perpetual rookie (and find out what that is) I suggest you buy this book 🙂
-
-## Who it’s for
 
 The 25 year old “new guy” at work, who’s being ridiculed a lot for not knowing how things work just yet, the 61 year old senior executive with a lot of authority and experience, who’s a little afraid she’s lost her edge, and anyone who wants to keep up with the world’s knowledge.

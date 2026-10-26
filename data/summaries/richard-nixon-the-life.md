@@ -22,7 +22,7 @@ Let’s explore these lessons one by one!
 
 ## Lesson 1
 
-### The consistency in our actions will create the right circumstances and put us in a place where good luck can find us.
+### The consistency in our actions will create the right circumstances and put us in a place where good luck can find us
 
 Richard Nixon was not what one would call lucky or well-positioned. His humble background could’ve been the perfect excuse for him to end up becoming a simple man with no aspirations or someone with no future at all. But instead, he worked hard throughout his life and pursued many paths, from law to military life, and obviously, politics.
 
@@ -34,7 +34,7 @@ His anti-communist inclinations and his drive to do whatever it takes to win all
 
 ## Lesson 2
 
-### When Nixon made it to the top, he started to drift away from his family and principles.
+### When Nixon made it to the top, he started to drift away from his family and principles
 
 Nixon’s career was skyrocketing, but unfortunately, everything in his life came at a cost. When he was running for Senate, Pat and their two daughters – Tricia and Julie, started to feel the imminent space. They thought that the man in their lives was drifting away from them. On one side, Nixon’s career was going well, as he was winning political arguments publicly one after the other.
 
@@ -48,7 +48,7 @@ On top of that, he was starting to have paranoiac episodes from substance and al
 
 ## Lesson 3
 
-### The Watergate scandal was the downfall of Nixon.
+### The Watergate scandal was the downfall of Nixon
 
 Richard Nixon loved power and status, but his unhealthy attachment proved fatal to his career. So, first, he tried to bring too many wins home. His visit to China was an important event that marked a successful endeavour – tightening the relations with Asia during the Vietnam war.
 
@@ -63,7 +63,5 @@ Then, there was the Watergate scandal. Nixon’s paranoia skyrocketed in the’7
 ## Review
 
 *Richard Nixon: The Life* is a detailed biography of the thirty-seventh president of the United States of America, presenting not only his political career and the challenges that occurred during his mandate but also his personal life and the ups and downs of his evolution as a human. If you enjoy politics, biographies, or are simply in the mood for a riveting story, grab this book.
-
-## Who it’s for
 
 The 45-year-old Republican wants to learn more about American history, the 30-year-old aspiring politician, or anyone who’s passionate about the biographies of famous political figures.

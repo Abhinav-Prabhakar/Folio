@@ -18,7 +18,7 @@ Let’s take a closer look!
 
 ## Lesson 1
 
-### The more options you have, the harder it gets to decide, and to decide well.
+### The more options you have, the harder it gets to decide, and to decide well
 
 You can’t argue that we don’t have enough choice nowadays. Between 1975 and 2008, the average number of products in a supermarket has risen from under 9,000 to **over 47,000**.
 
@@ -41,7 +41,7 @@ Similarly, this study showed that when students have to choose from an array of 
 
 ## Lesson 2
 
-### The more options you have, the less happy you will be, no matter what you decide on.
+### The more options you have, the less happy you will be, no matter what you decide on
 
 Okay, let’s say you do take on that shoe research internship and dive into the task, ready to find **the perfect pair of running shoes**.
 
@@ -66,7 +66,7 @@ You might even start blaming yourself, after all you should’ve found the perfe
 
 ## Lesson 3
 
-### Good enough is the best – become a satisficer.
+### Good enough is the best – become a satisficer
 
 Wrong! Have you heard the saying: “Only the best is good enough?” This was LEGO’s slogan in the 1930’s. However, with modern day choice, it should actually be the other way around:
 
@@ -98,7 +98,5 @@ Trust me, you’ll be much happier for it.
 This summary is great. There’s a common thread that weaves through the entire summary, which makes it read like a mini version of the book. I had to cut several parts here to make it fit, sadly, because it is just so packed with insights.
 
 If you’re interested in all the studies and papers, go for the book, as it lists all the resources in one convenient place, and you won’t have to dig around as much. I think *The Paradox Of Choice* will help you become a happier person. More so than even some of the most popular books about happiness, because limiting yourself is one of the most freeing things you’ll ever do.
-
-## Who it’s for
 
 The 23 year old new runner, who spent a lot of time contemplating which running shoes to buy, in order to make the best choice, the 13 year old, who is about to go on her first shopping spree, and anyone who feels a little overwhelmed when shopping for groceries sometimes.

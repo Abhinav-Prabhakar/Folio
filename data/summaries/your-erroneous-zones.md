@@ -50,6 +50,4 @@ Your belief system should be based on the security you get from within. The kind
 
 *Your Erroneous Zones* shows us how to let go of our toxic behaviors, self-destructive patterns, and accepting healing and an optimized perspective on life. Reading this book will reveal practical tips on how to achieve confidence and stop caring about what people think, along with many other great pieces of advice.
 
-## Who it’s for
-
 The 22-year-old person who feels like they care too much about what people think and they want to build more confidence in their group of friends, the 37-year-old team leader who wants to toughen up their image as a good executive and seem more confident at work, or the 30-year-old person who has a hard time pursuing what they truly want due to the fear of what others might say.

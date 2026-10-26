@@ -18,11 +18,9 @@ Here are my 3 favorite lessons from the book:
 
 Now, let’s discuss these lessons in detail, and see how we can benefit from them!
 
-### The Psychology of Money Summary
-
 ## Lesson 1
 
-### When it comes to managing your money, it’s better to leave greed out of it.
+### When it comes to managing your money, it’s better to leave greed out of it
 
 Are you a greedy person? Of course not! Or at least, that’s what you tell yourself. We all like to think highly of ourselves and blame our misfortune on bad odds. This is the case of Jesse Livermore, a stock market trader born in 1877.
 
@@ -36,7 +34,7 @@ When you already have what you wished for or accomplished significant goals in y
 
 ## Lesson 2
 
-### Strong emotions such as envy can push you towards making sloppy decisions.
+### Strong emotions such as envy can push you towards making sloppy decisions
 
 Most people know that investing takes time. They even *want* to stick to their investments through good and bad, but then the fear of missing out or envy get in the way — sometimes both at the same time!
 
@@ -48,7 +46,7 @@ In other words, he let envy get the best out of him and paid for it a thousandfo
 
 ## Lesson 3
 
-### The experiences we have early on in our life determine our financial decisions.
+### The experiences we have early on in our life determine our financial decisions
 
 We all grow up differently. Was your childhood similar to someone born in 1800? 1900? Of course not!
 
@@ -63,7 +61,5 @@ It is of utmost importance that we acknowledge our hidden biases, so as to be ab
 ## Review
 
 If you feel like you’ve made all the wrong financial decisions, or that wealth is just not one of the things you’ll ever be able to achieve, *The Psychology of Money* is the book for you. Reading it will open your mind towards new perspectives and have you conduct an introspection to realize how biased you were all along. This book will give you little steps to take to see instant changes in your financial life.
-
-## Who it’s for
 
 The 28-year-old person who feels like they’re behind with their finances and want to get out of that situation, the 40-year-old life coach who wants to deepen their knowledge to better help their clients or the 22-year-old economics student who wants to expand on their study materials.

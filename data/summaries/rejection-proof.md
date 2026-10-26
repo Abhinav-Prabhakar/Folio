@@ -22,7 +22,7 @@ Ready to master rejection and bust through your fears? Let’s get rejection pro
 
 ## Lesson 1
 
-### People saying “No” to you feels personal, because you blame it on yourself.
+### People saying “No” to you feels personal, because you blame it on yourself
 
 The times when rejection was actually dangerous are over. Just like with most others of our fears, the fear of rejection is no longer a useful mechanism in times when all or most of our basic needs are taken care of.
 
@@ -38,7 +38,7 @@ It sucks to be number two and it always feels like there’s something wrong wit
 
 ## Lesson 2
 
-### Rejection always has a number. No “No” is forever.
+### Rejection always has a number. No “No” is forever
 
 One of the main qualities of optimists is that they see negative events as temporary, specific to a situation and impersonal. Once you do the same with rejection, your entire perspective on it will change.
 
@@ -50,7 +50,7 @@ Keeping in mind that you can always change a few variables like the above three,
 
 ## Lesson 3
 
-### All revolutionary ideas were once dismissed as crazy, so rejection might be a sign you’re ahead of the pack.
+### All revolutionary ideas were once dismissed as crazy, so rejection might be a sign you’re ahead of the pack
 
 Galileo Galilei’s idea that the earth revolves around the sun, not the other way around, Apple’s first tablet computer in 1993 and Twitter’s 140 character limit.
 
@@ -67,7 +67,5 @@ I keep wondering why no one has done this before Jia, or if just no one has done
 One of the most surprising things I’ve learned from him is that rejection occurs much less frequently than we think it does – Jia himself was surprised at how many things he could get, simply by asking for them.
 
 I highly recommend you watch his TED talk, which gives you a first glimpse at his work and then dive deeper into *Rejection Proof*, which might change your perspective on rejection forever.
-
-## Who it’s for
 
 The 14 year old shy teenager, who was just shot down by his first love, the 53 year old writer, who’s afraid she’ll never get her break, and anyone who feels like they’re socially awkward.

@@ -22,7 +22,7 @@ Let’s dive right in and see how we can use these ideas to get better!
 
 ## Lesson 1
 
-### There are three types of feedback and each has its own purpose.
+### There are three types of feedback and each has its own purpose
 
 In college, I got a 14% on one of my Multivariable Calculus exams. Luckily the professor didn’t count one test score each semester, so I still did okay in the class. But I had no idea what I did wrong on that test because I only got a number back.
 
@@ -42,7 +42,7 @@ And if you don’t get the right kind of feedback at the right time, it’s vita
 
 ## Lesson 2
 
-### Don’t react to criticism too soon, there’s always more to understand than just what people say.
+### Don’t react to criticism too soon, there’s always more to understand than just what people say
 
 Taking offense is probably your most common response when someone gives you feedback of any kind. The sad truth about this, however, is that you miss an opportunity to learn how to improve when you let your emotions get in the way.
 
@@ -56,7 +56,7 @@ Remember that what other people think is valuable, even if they don’t share it
 
 ## Lesson 3
 
-### To reach your full potential you need to take advantage of feedback by developing a growth mindset.
+### To reach your full potential you need to take advantage of feedback by developing a growth mindset
 
 One of the biggest reasons that criticism can be so hard to take is because most people have a fixed mindset about themselves. They label themself as a “good person” or “hard worker.” Anyone who disagrees is just seen as a threat and brushed off.
 
@@ -73,7 +73,5 @@ When you choose the growth mindset, you open up unlimited opportunities, especia
 ## Review
 
 I thought I was good at receiving criticism until I read *Thanks For The Feedback*. I’m really grateful for this new outlook and ability to discover and work on my weaknesses! This book is going to change your life if you’re the kind of person that wants to improve but isn’t sure where to start.
-
-## Who it’s for
 
 The married couple in their 30’s that’s trying to figure out how to not take offense so often, the 53-year-old office worker that wants to improve their performance, and anyone who would like to become better at being awesome to the people around them.

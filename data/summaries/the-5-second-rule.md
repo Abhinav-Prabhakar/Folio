@@ -24,7 +24,7 @@ If you’re sick of telling others and yourself you’re feeling “fine,” whe
 
 ## Lesson 1
 
-### The 5 Second Rule builds courage like compounding interest.
+### The 5 Second Rule builds courage like compounding interest
 
 When we read stories about our heroes or biographies of historical figures, we tend to see people of extraordinary courage and bravery. That’s not the case. They were just as shy, anxious and afraid as you and I. It just so happened that throughout their life, they made a lot of small, courageous choices, which added up and now they’re all we remember.
 
@@ -36,7 +36,7 @@ I can confirm that **from each small act of courage, more courage follows.** It 
 
 ## Lesson 2
 
-### You can stop waiting for “the right time,” because it’ll never come for three reasons.
+### You can stop waiting for “the right time,” because it’ll never come for three reasons
 
 Here are two universal facts: One, we all want to change our lives one way or the other and two, we spend most of our time waiting for that change to magically occur. Our excuse is always the same: “I’m waiting for the right moment.” Yeah, right. Of course deep down we know that moment will never come. But Mel actually tells us why that is. She names three reasons:
 
@@ -52,7 +52,7 @@ That’s why the 5 Second Rule can be your best friend. Even if the first action
 
 ## Lesson 3
 
-### Feelings are just suggestions, which is why you should use psychological intervention to override them.
+### Feelings are just suggestions, which is why you should use psychological intervention to override them
 
 Okay, so we need courage to stop waiting, but why do we wait so much anyway? To answer this, Mel refers to world-renowned neuroscientist Antonio Damasio‘s work. In a book called *Descartes’ Error*, he lays out the results of his research that suggest as much as 95% of our decisions are ultimately decided by feelings, not facts. He therefore calls us “feeling machines that think, not thinking machines that feel.”
 
@@ -65,7 +65,5 @@ Choose good behavior and good feelings will follow. Ready? 5…4…3…2…1 –
 ## Review
 
 Of course you don’t need anything else to give *The 5 Second Rule* a try, but as we just learned, explaining an idea is rarely enough to get us to take action. If you want to learn more first, take a look at Mel’s TedX talk. She’s full of upbeat, positive energy and it’s quite contagious!
-
-## Who it’s for
 
 The 16 year old C student, who doesn’t really want to go to college, but hasn’t started working on an alternative yet, the 41 year old mom, who feels overwhelmed with all of her obligations and anyone who’s waiting for the right time to execute their big idea.

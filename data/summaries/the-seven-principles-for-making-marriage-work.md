@@ -18,7 +18,7 @@ Let’s dive right in and see what it takes to have a great relationship!
 
 ## Lesson 1
 
-### Start by developing your love map and setting up a fondness and admiration system.
+### Start by developing your love map and setting up a fondness and admiration system
 
 When you’re married, you get to know a lot of personal, sensitive information about your partner. Gottman says this information is stored in our brain’s *love map.* The more detailed the love map, the stronger your love.
 
@@ -40,7 +40,7 @@ If you can answer true to these, you’re in good shape!
 
 ## Lesson 2
 
-### Connect more deeply with each other through bids, being considerate, and understanding the true nature of problems.
+### Connect more deeply with each other through bids, being considerate, and understanding the true nature of problems
 
 Some of the most important moments in a marriage are just the day to day conversations with your spouse. Partners make “bids” through conversation to receive their partner’s attention, support, or affection. For a healthy marriage, make sure you turn toward their bids.
 
@@ -54,7 +54,7 @@ Gottman teaches that though many of us have these perpetual problems that arise 
 
 ## Lesson 3
 
-### Learn how to deal with difficulties and understand that you can be happy even if you don’t agree on some things.
+### Learn how to deal with difficulties and understand that you can be happy even if you don’t agree on some things
 
 So what are we supposed to do in the face of unsolvable problems? Gottman encourages couples not to attempt to eradicate the problem but turn it into a dialogue. Talk to your partner and try to figure out what is actually feeding the conflict.
 
@@ -69,7 +69,5 @@ For example, some spouses may take on more traditional roles, like the husband a
 ## Review
 
 I really like *The Seven Principles For Making Marriage Work*. But that might just be because I have such a great wife who makes marriage a lot easier than I think it is for most people. Regardless of the state of your relationships, you’re going to get a lot out of this book and it’ll change your life if you apply what it teaches!
-
-## Who it’s for
 
 The 45-year-old couple that is thinking about getting divorced, the 27-year-old newlyweds that hope to have a marriage as long as their grandparents, and anyone that wants to know how to make their relationship with their spouse the happiest and healthiest it can be.

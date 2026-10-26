@@ -20,7 +20,7 @@ Whether you’re up to building a retail store chain, a brick and mortar store, 
 
 ## Lesson 1
 
-### Good artists copy, great artists steal.
+### Good artists copy, great artists steal
 
 Sam was never reluctant to copy a great business strategy. The truth is **he was always experimenting, sometimes with his own ideas, sometimes with practices he saw his competitors use successfully**.
 
@@ -34,7 +34,7 @@ The Walmart cheer, two cashiers at the front of the store and the fact that Walm
 
 ## Lesson 2
 
-### Always put the customer first. Always.
+### Always put the customer first. Always
 
 Sam really had only one goal for all of his stores: **to make each and every single customer as happy as possibly can be**.
 
@@ -48,7 +48,7 @@ As James Altucher would say: “Be like Google. Be the source.” Google just re
 
 ## Lesson 3
 
-### Share your success with your employees, not just psychologically, but also financially.
+### Share your success with your employees, not just psychologically, but also financially
 
 Sam was an incredibly frugal guy. Yes, he did take out a loan to start his first store, but whenever he could afford to pay for things out of his own pocket, he did.
 
@@ -67,7 +67,5 @@ If you’re more of a skeptic about Sam Walton and his business philosophy, the 
 The summary gives a rough idea of Sam Walton’s business practices, but you can learn so much more from the book. His 10 rules at the very end of the book are worth twice the price of the copy alone. Plus, since it’s an autobiography, it puts all lessons in the context of his own life’s story, which lets you get a lot better grasp on everything.
 
 Blinkist’s summary isn’t bad at all, but I must still urge you to get this book – it’s neither a long nor hard read, but priceless.
-
-## Who it’s for
 
 The 31 year old brick and mortar store owner, the 61 year old franchise manager, and anyone who loves success stories.

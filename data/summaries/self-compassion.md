@@ -20,7 +20,7 @@ Hey, after all those years of being hard on yourself, you’re going to be okay.
 
 ## Lesson 1
 
-### Look to your childhood to discover the source of your self-criticism.
+### Look to your childhood to discover the source of your self-criticism
 
 It’s kind of a cliche in psychology to take whatever problems you have and blame them on your parents. Although this might be an oversimplification, there’s some truth to how it works in terms of being hard on yourself.
 
@@ -36,7 +36,7 @@ Before long you’ve internalized all of this and it’s simply a habit to be ha
 
 ## Lesson 2
 
-### You can start practicing self-compassion by thinking about how you would help a friend in the same position.
+### You can start practicing self-compassion by thinking about how you would help a friend in the same position
 
 Visualize yourself walking down the street with your best friend in the middle of winter. As you round a corner, she hits an icy patch falls to the ground. How would you respond?
 
@@ -54,7 +54,7 @@ You may show compassion to others by hugging, like in the case of a friend that 
 
 ## Lesson 3
 
-### Mindfulness combined with the ability to put psychological distance between you and your pain will make you a master at self-care.
+### Mindfulness combined with the ability to put psychological distance between you and your pain will make you a master at self-care
 
 You might be sitting there wondering why this all feels a little tough to do. Part of the reason is that the Western world-view maximizes the self and bearing trials without suffering. But there’s another reason, too.
 
@@ -71,7 +71,5 @@ You can still experience the frustration or disappointment, but watch it play ou
 ## Review
 
 This is such an incredible book! *Self-Compassion* is something that I think we could all use in this age of pushing ourselves to the point of burnout and mental illness. Definitely don’t miss this one.
-
-## Who it’s for
 
 The 31-year-old who was abused as a child and still hasn’t fully recovered, the 47-year old perfectionist who is tired of being so hard on themselves, and anyone that wants to finally be at peace with and love themselves.

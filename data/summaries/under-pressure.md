@@ -20,7 +20,7 @@ Let’s get right to this and see how we can help the ladies in our lives!
 
 ## Lesson 1
 
-### Sometimes stress is good because it can help us grow.
+### Sometimes stress is good because it can help us grow
 
 We’ve seen many social, political, and legal advancements for women in the last few years. It might be easy to look at this and think they have it easy, but the truth is life as a girl can be difficult.
 
@@ -40,7 +40,7 @@ You can find out if the fear your daughter is experiencing is negative by examin
 
 ## Lesson 2
 
-### Don’t teach your girls to avoid problems, but instead to confront them.
+### Don’t teach your girls to avoid problems, but instead to confront them
 
 Dr. Damour is an educational psychologist that sees a lot of girls in the middle of a meltdown. One such girl named Jamie came in tears once, afraid of failing a chemistry test she had to take.
 
@@ -58,7 +58,7 @@ When your girls struggle with anxiety, help them approach their fears a little a
 
 ## Lesson 3
 
-### Girls outperform boys in school but have a harder time worrying about how they’re doing.
+### Girls outperform boys in school but have a harder time worrying about how they’re doing
 
 Not only do girls do better than boys in all subjects in school, but more girls go to college than boys. Even in university, they have a higher graduation rate and get more advanced degrees than men.
 
@@ -77,7 +77,5 @@ The more they believe that they can develop their skills on their own, the less 
 ## Review
 
 *Under Pressure* initially appealed to me because I have a daughter and I want to help her with the challenges she’ll face throughout life. But after finishing it I realize how every young woman around me has had things harder than I imagined. I hope to be a force for good to help alleviate some of the stress that each girl I know feels!
-
-## Who it’s for
 
 The 56-year-old elementary school teacher who wants to know how to help the girls in their class, the 39-year-old with daughters that is looking for ways to ease their anxiety, and every guy who still thinks that it’s okay to treat women unfairly.

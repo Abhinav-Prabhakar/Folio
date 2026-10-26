@@ -18,15 +18,13 @@ Here are 3 lessons from this book that will help you answer life’s biggest que
 
 Let’s learn how to live!
 
-### How to Live Summary
-
 ## Lesson 1
 
-### Life is not black and white, and you can remember this with a simple question you already ask yourself every day.
+### Life is not black and white, and you can remember this with a simple question you already ask yourself every day
 
 “All misery comes from dependency,” Sivers opens the first chapter. It’s called “Be independent.” Break all ties, learn to survive alone in the woods, and don’t ever get married. Each chapter instructs you this confidently, acting like an authoritative guru. The next one, “Commit,” makes the opposite point: Pick a lane, and stay in it — for your career, for your friends, even for where you live and who you’ll marry. “When a decision is irreversible, you feel better about it.”
 
-Presenting you with contradicting ideas is Sivers’ great self-help stunt: Instead of serving you a convenient but insufficient answer on a silver platter, he shows you the truth: When it comes to how we should live, there *is* *no* right answer. Only an infinite sea of ideas we can choose from — and what we pick will keep changing.
+Presenting you with contradicting ideas is Sivers’ great self-help stunt: Instead of serving you a convenient but insufficient answer on a silver platter, he shows you the truth: When it comes to how we should live, there *is no* right answer. Only an infinite sea of ideas we can choose from — and what we pick will keep changing.
 
 Life is not black and white, but it’s important that we *see* and *feel* life’s grayness in our own lives on a daily basis. Only then can we have empathy and understanding for others.
 
@@ -36,7 +34,7 @@ We constantly contradict ourselves and hope the world will forgive us — and th
 
 ## Lesson 2
 
-### There are only 3 ways to live a happy, meaningful life, but they come in many shapes and sizes.
+### There are only 3 ways to live a happy, meaningful life, but they come in many shapes and sizes
 
 As I was reading the book, I realized that while no individual chapter had all the answers, all of them could be grouped into 3 distinct themes: focus, freedom, and curiosity. This translates to 3 overarching approaches for living your life:
 
@@ -54,7 +52,7 @@ We could argue about which chapter goes where, but you can group almost any life
 
 ## Lesson 3
 
-### You’ll switch “life themes” several times throughout your life, and that’s both okay and necessary.
+### You’ll switch “life themes” several times throughout your life, and that’s both okay and necessary
 
 I grew up in a little village. Everything mostly stayed as it was. I went to school, met friends, and enjoyed my hobbies. It was a type 1 life: small, slow, and focused.
 
@@ -64,7 +62,7 @@ Eventually, while studying abroad, I traveled the world extensively. I went to m
 
 Just like you need different shoes to navigate various terrains, the overall theme of your life will change depending on which season you’re in. This is not only normal, it’s actually necessary. What most people lack, however, is an awareness of these shifts as they happen. Suddenly, you’re 40 years old and feel like you missed the first 10 years of your daughter’s life!
 
-**Whether it’s a time for commitment, independence, or exploration, it pays to be truly presentfor the big inflection points of your life — for only then can you make those big changes deliberately.**
+**Whether it’s a time for commitment, independence, or exploration, it pays to be truly present for the big inflection points of your life — for only then can you make those big changes deliberately.**
 
 This is the last and perhaps biggest lesson from Sivers’ book: You’ll never stop changing, but you should always take some time to reflect about *how* and *why* you’re changing. *That’s* how to live, and it’s as close as we’ll ever get to finding an answer in an answerless world.
 

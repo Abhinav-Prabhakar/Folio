@@ -20,7 +20,7 @@ Let’s delve into these three lessons one by one and discover their true meanin
 
 ## Lesson 1
 
-### There are opportunities to discover even in pitch dark if you know how to look for them.
+### There are opportunities to discover even in pitch dark if you know how to look for them
 
 When you focus on the opportunities, you become optimistic and solutions-oriented. You start looking for solutions instead of focusing on the problems that are right in front of your face.
 
@@ -32,7 +32,7 @@ This is why it is crucial to stay focused on all the possible outcomes and how t
 
 ## Lesson 2
 
-### A mind that’s trained to adapt to different situations and stay neutral can navigate life more easily.
+### A mind that’s trained to adapt to different situations and stay neutral can navigate life more easily
 
 If you’re not careful, you might fall into the trap of overgeneralizing. This is when you make a determination based on very little evidence and apply it to a larger context—like deciding that all women are bad drivers because one woman almost hit you while driving on the highway.
 
@@ -46,7 +46,7 @@ You might think that you chose the wrong class or that the professor is not goin
 
 ## Lesson 3
 
-### Before making any decisions, make sure to fact-check all your data and perhaps ask your team for a second opinion.
+### Before making any decisions, make sure to fact-check all your data and perhaps ask your team for a second opinion
 
 Whether you’re a CEO or just trying to figure out what to have for dinner, making decisions is an important part of life. While it may seem intimidating at first, there are some basic steps you can take to make the process easier and more effective.
 
@@ -63,7 +63,5 @@ Finally, never make a decision without having all the necessary information at h
 The advice received serves as a tool for identifying and eliminating self-limiting beliefs, which are often masked as “truths” or “facts.” As a result, you’ll make better decisions, improve your relationships and grow in your career.
 
 Nevertheless, reading it will help you understand where your thinking process goes downhill and how to be proactive in the decision-making process in order to choose a better life.
-
-## Who it’s for
 
 The 45-year-old person going through a mid-life crisis, the 30-year-old employee who wants to become more proactive in their life and climb the career ladder faster, or the 34-year-old late boomer who wants to learn how to take charge of their life.

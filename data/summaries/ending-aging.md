@@ -20,7 +20,7 @@ Want to live to be 150? Better read on then!
 
 ## Lesson 1
 
-### The cure for aging is neither prevention, nor medication – it’s repair.
+### The cure for aging is neither prevention, nor medication – it’s repair
 
 The most common way to deal with a disease is to prescribe medication for it. Have a headache? Take a pill. Have heart problems? Take a pill. Itchy feet? Take a pill.
 
@@ -34,7 +34,7 @@ For example, if a 40-year-old is expected to live to be 80, and you cut his agin
 
 ## Lesson 2
 
-### A huge aging factor is mitochondrial mutation, and it can be dealt with.
+### A huge aging factor is mitochondrial mutation, and it can be dealt with
 
 You might have heard a thing or two about free radicals. Usually, all of the outermost electrons of an atom pair up in twos, which makes them stable. These are the lines you see around the letters in chemical formulas (like here). However, some reactions can cause an electron on the outer shell of its atom to end up by itself – which makes it a free radical.
 
@@ -46,7 +46,7 @@ A potential solution is allotopic expression: By hiding a healthy backup copy of
 
 ## Lesson 3
 
-### If we want to win the war against aging, we’ll have to change our mindset first.
+### If we want to win the war against aging, we’ll have to change our mindset first
 
 Most anti-aging treatments, like the one above, are still in experimental stages. Aubrey de Grey says the time we waste with trying to get more funding and waiting for drug trials to be approved actually costs more lives than the experiments it takes to get them released.
 
@@ -59,7 +59,5 @@ Aubrey himself currently has a project called robust mouse rejuvenation going, w
 ## Review
 
 *Ending Aging* was an out of the box read for sure! Very specific, incredibly detailed, and quite insightful. It’s interesting to see the development of this crucial branch of medicine and science, and alarming how little attention (and money) is paid to it. Even if you don’t want to live forever (I know I don’t), well worth a read.
-
-## Who it’s for
 
 The 18 year old college freshman, who thinks he can party and drink like crazy, because his body will forgive the damage as he’s still so young, the 45 year old woman with a physically demanding job, who’s had her first serious health issue recently, and anyone who doesn’t want to die.

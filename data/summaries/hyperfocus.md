@@ -20,7 +20,7 @@ Ready to finally learn how to just sit down and get some work done? Let’s get 
 
 ## Lesson 1
 
-### Master the four stages of Hyperfocus to reap its many benefits.
+### Master the four stages of Hyperfocus to reap its many benefits
 
 The four stages of Hyperfocus are:
 
@@ -41,7 +41,7 @@ And finally, as you’re working, bring your attention back to your task wheneve
 
 ## Lesson 2
 
-### Regularly check in with yourself to become more intentional about what’s in your attentional space.
+### Regularly check in with yourself to become more intentional about what’s in your attentional space
 
 If you’re anything like me, it’s tough to redirect your attention, let alone recognize it’s off-course! It doesn’t help that your mind takes in roughly eleven million pieces of information each second. But that’s not the limit of your attention span.
 
@@ -55,7 +55,7 @@ Whenever you need to focus, just practice using meta-awareness every so often to
 
 ## Lesson 3
 
-### It will be easier for you to focus if you remove distractions before you begin working.
+### It will be easier for you to focus if you remove distractions before you begin working
 
 Have you ever been excited because you’re about to get into a productive state only to get derailed by a phone call or email? This can be really discouraging, and unfortunately, it ends up being the norm a lot of the time.
 
@@ -72,7 +72,5 @@ There are many situations where you can’t completely go silent to the rest of 
 ## Review
 
 I bought a copy of *Hyperfocus* a couple of years ago, and it’s been one of my favorite go-to books on productivity ever since. Honestly, the Blinkist summary doesn’t do it justice. You’ve got to pick up the actual book and give it a read! It’s a highly underrated book in its category, and I wish more people knew about it.
-
-## Who it’s for
 
 The 20-year-old college student who doesn’t understand why they can’t just sit down and study, the 48-year-old manager who feels crippled by distractions, and anyone who wants to improve their concentration.

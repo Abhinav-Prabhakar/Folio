@@ -18,11 +18,9 @@ Here are my three favorite lessons so far:
 
 Let’s explore these valuable lessons in detail and find out more about each one of them!
 
-### Effortless Book Summary
-
 ## Lesson 1
 
-### A clear mind and a winning mentality will get us in the Effortless State, where everything becomes achievable.
+### A clear mind and a winning mentality will get us in the Effortless State, where everything becomes achievable
 
 Some people make everything seem so easy, am I right? Just look at top performers worldwide who run marathons, score goals, perform in front of large audiences for hours, and whatnot. Everything seems smooth and easy for them, so what’s the secret? *The Effortless State*, as it turns out. To reach this state of mind, one must get rid of all assumptions and clear it from negative thoughts.
 
@@ -34,7 +32,7 @@ That is because our brain can’t possibly function at its highest parameters at
 
 ## Lesson 2
 
-### Always take a minute to define the end goal of a project and then make the tasks more enjoyable.
+### Always take a minute to define the end goal of a project and then make the tasks more enjoyable
 
 To carry on with a project successfully from start to finish, you must first define its steps and the end goal. This is the only sustainable way to advance with your tasks, stay on track, and meet your objectives. To start, you’ll have to define how your end product should look like.
 
@@ -44,7 +42,7 @@ This will help you structure your work better and be more productive in your und
 
 ## Lesson 3
 
-### Don’t be afraid to share bad ideas, as any contribution can start a successful process.
+### Don’t be afraid to share bad ideas, as any contribution can start a successful process
 
 There are certain common misconceptions about how a productive working process should look like which slow us down. Oftentimes we’re afraid to start thinking about all the things that could go wrong, the multitude of tasks we have to finish up before a deadline, or come up with ideas that we turn down before we even speak them up because they sound stupid or utopic.
 
@@ -55,7 +53,5 @@ However, this irrelevant fear inhibits our growth and the chance for a potential
 ## Review
 
 If you’ve ever struggled with becoming more productive or adopting a winning mentality, *Effortless* is the book for you. Not only will it get you in the right state of mind, it will also shed some light on practices you can adopt right away to better target your efforts. The book also delves into failed attempts and mistakes and how we can learn from them.
-
-## Who it’s for
 
 The 23-year-old young professional who is struggling with their time management, the 30-year-old leader who wants to help their team be successful, and anyone looking for a way to get their side project off the ground.

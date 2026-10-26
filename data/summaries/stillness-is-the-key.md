@@ -20,7 +20,7 @@ Are you ready to see the power of letting more peace and quiet into your life? L
 
 ## Lesson 1
 
-### Slow down to get through difficult times.
+### Slow down to get through difficult times
 
 Imagine waking up to learn that your enemy is building missiles just miles away from your country’s border. This was the reality for John F. Kennedy in 1962 when the Soviet Union began constructing missile sites in Cuba. The threat of a nuclear attack on America was suddenly very real.
 
@@ -34,7 +34,7 @@ Rather than displaying strength, actions of peaceful solitude helped Kennedy res
 
 ## Lesson 2
 
-### For peace and clarity of mind, let yourself have more silence.
+### For peace and clarity of mind, let yourself have more silence
 
 Pay attention to your surroundings right now. How much noise is present? Perhaps you’ve got your headphones in and you’re listening to your Spotify playlist. Or maybe you’re hearing the bustle of the coffee shop you’re in.
 
@@ -50,7 +50,7 @@ If you think the 4’33 piece is crazy though, know that business leaders take a
 
 ## Lesson 3
 
-### Your peak state is only possible when you limit your work hours and embrace sleep.
+### Your peak state is only possible when you limit your work hours and embrace sleep
 
 A few months ago I tried a nifty experiment. Afternoons are hard for me, I’m usually tired and don’t get much work done. I wondered why I spend that time trying to work, so I stopped and tried to nap every afternoon. I began feeling happier about my work because every time I sat down to do it was when I had energy!
 
@@ -63,7 +63,5 @@ Have you ever heard of the famous 10,000 hour rule? This came from violinists th
 ## Review
 
 Wow, what a powerful message. *Stillness Is The Key* already has me living a more happy and peaceful life just by the idea of becoming more still. It’s difficult to break the shackles of business, but doing so, even just a little at a time, has great rewards.
-
-## Who it’s for
 
 The 48-year-old business woman who is constantly rushing from one project or meeting to the next, the 28-year-old parents that want to make the most of the time they have with their kids, and anyone who feels overwhelmed with the fast-paced nature of life these days.

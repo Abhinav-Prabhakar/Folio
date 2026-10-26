@@ -20,7 +20,7 @@ Happiness, here we come!
 
 ## Lesson 1
 
-### Knowing what happiness consists of is the first step in the journey to finding more joy.
+### Knowing what happiness consists of is the first step in the journey to finding more joy
 
 I love to reflect on the past so that I can learn from it. I also enjoy planning ahead for the future so I can use that knowledge to improve my life and the lives of those around me.
 
@@ -30,7 +30,7 @@ This is why the following quote by Lao Tzu worried me when I first heard it:
 
 “But isn’t it important to learn from the past and prepare for the future?” I thought. Only by recognizing the importance of the present, however, did I learn how to connect the important lessons of the past and the opportunities of the future together.
 
-**The keyword in the quote is*living*in the present, which is the sweet spot where happiness exists.**
+**The keyword in the quote is *living* in the present, which is the sweet spot where happiness exists.**
 
 Thubten teaches us that there are three components to happiness now:
 
@@ -46,7 +46,7 @@ And last is freedom, or the feeling of liberation from every source of unhappine
 
 ## Lesson 2
 
-### You will have more enjoyment in life if you understand what you do that takes it away.
+### You will have more enjoyment in life if you understand what you do that takes it away
 
 It may seem counterintuitive to learn how to be happy by learning about unhappiness. But whenever we uncover the roadblocks in our way to something we want, we set ourselves up for success.
 
@@ -68,7 +68,7 @@ And even if you do end up getting it, your satisfaction won’t last long. Soon 
 
 ## Lesson 3
 
-### Meditation is the pathway to inner peace and contentment, and you can develop it with daily practice in any situation.
+### Meditation is the pathway to inner peace and contentment, and you can develop it with daily practice in any situation
 
 Now that you understand the nature of happiness and unhappiness, it’s time for some concrete actions you can take to have more joy. And the big secret is, all it takes is learning how to meditate properly.
 
@@ -91,7 +91,5 @@ You can try this with actions you already do, like brushing your teeth. Anchor y
 ## Review
 
 I really liked *A Monk’s Guide To Happiness* and I’m confident that you will too. It does a great job of undermining our dysfunctional beliefs about how to feel peace and gives great tips for beating them. I already feel happier just after reading it, I can’t wait to see how applying its lessons is going to change my life!
-
-## Who it’s for
 
 The 58-year-old who is too engrossed in social media to notice the feelings of the people around her, the 34-year-old who has been working for a few years and is tired of striving for the happiness they think promotions will bring, and anyone who wonders why it’s so difficult to find joy.

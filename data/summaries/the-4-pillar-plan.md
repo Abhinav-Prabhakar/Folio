@@ -20,7 +20,7 @@ Do you want to wake up and live each day with energy and vibrance? Read on to di
 
 ## Lesson 1
 
-### One thing that everyone’s diet can use to improve health is less sugar.
+### One thing that everyone’s diet can use to improve health is less sugar
 
 I recently read an article about a woman who gave up her vegan diet after many years on it. She had begun to feel groggy and strange. After learning about orthorexia, or the disorder of eating too healthy, she knew she had to change. Once she added a little more meat and other foods to her diet, she began to feel much better.
 
@@ -34,7 +34,7 @@ This starts with knowing what’s in the foods you already eat. Check labels bef
 
 ## Lesson 2
 
-### Focus on moving more throughout each day rather than exercising too little or too much.
+### Focus on moving more throughout each day rather than exercising too little or too much
 
 Did you know that people who regularly run marathons may develop similar heart conditions as people who don’t move much each day?
 
@@ -48,7 +48,7 @@ Additionally, trying some simple strength-training exercises can help. These don
 
 ## Lesson 3
 
-### Quality of sleep is a vital component of overall health that you may be overlooking.
+### Quality of sleep is a vital component of overall health that you may be overlooking
 
 Have you ever wondered why you feel grumpy or tired all the time? It’s interesting that so many of us struggle with these and other frustrations and we fail to realize that the solution is simply improving our sleep.
 
@@ -67,7 +67,5 @@ Improving the quality of our rest is as simple as evaluating it against three st
 ## Review
 
 *The 4 Pillar Plan* is a great book that everybody needs to read! I’ve always known that diet, exercise, and rest were important, but some of these lessons are new to me. I’m excited to try them out and improve my health and energy!
-
-## Who it’s for
 
 The 28-year-old who works for a startup and always feels burnt out, then 57-year-old who has type 2 diabetes, and anyone who wants to have more energy and feel better.

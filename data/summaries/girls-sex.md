@@ -20,7 +20,7 @@ How about we dive right in and get learning?
 
 ## Lesson 1
 
-### Our culture of sexualizing and objectifying women in the media is disgusting and harms young girls.
+### Our culture of sexualizing and objectifying women in the media is disgusting and harms young girls
 
 If you have a daughter, you’ve probably become increasingly aware of the concerning ways the media portrays young women. **Usually, men treat women merely as sexual objects, which can affect the way young women see themselves.**
 
@@ -32,7 +32,7 @@ Some may say they are owning their sexuality performing in such a way. But it’
 
 ## Lesson 2
 
-### If you want to help your daughter avoid vulnerability, confusion, or possibly being taken advantage of, you must talk openly with her about sex.
+### If you want to help your daughter avoid vulnerability, confusion, or possibly being taken advantage of, you must talk openly with her about sex
 
 Parents usually dread having to give “the talk.” It’s easy to see why. Talking about sex openly with your own child is uncomfortable for everyone involved. **But it is a small price to pay for the trouble your daughter can find herself in down the road if you don’t help her navigate it.**
 
@@ -44,7 +44,7 @@ Unfortunately, it’s also common for young girls to feel an obligation to perfo
 
 ## Lesson 3
 
-### Only by improving our sex education can we reduce teen pregnancies and help young people experience the joys of sex.
+### Only by improving our sex education can we reduce teen pregnancies and help young people experience the joys of sex
 
 So what can we do to help these poor girls who are just trying to navigate the dangerous landscape of adolescent sexuality? Orenstein says it starts with improving sex education. The way we teach it seems to only teach about men’s pleasure and forgets about a woman’s pleasure entirely.
 
@@ -59,7 +59,5 @@ We can see from our past that not talking about it or teaching abstinence-only c
 ## Review
 
 I was apprehensive about *Girls & Sex* at first, but then I realized that this is going to help me be a better dad to my daughter! The lessons in this book are things that all men, young and old, should know about so we can treat girls better. I wish things weren’t so difficult for young women these days, but I’m glad to know the pitfalls they face so I can help.
-
-## Who it’s for
 
 The 39-year-old who has a pre-teen daughter, the 15-year-old girl who thinks that she can’t stand up for herself when boys mistreat her, and anyone that wants to learn the challenges of being a girl in the 21st century so they can help young women grow up more confident and happy.

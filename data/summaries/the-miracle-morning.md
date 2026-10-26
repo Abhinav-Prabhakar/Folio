@@ -16,11 +16,9 @@ Here are my takeaways from *The Miracle Morning*:
 
 Let’s take a closer look!
 
-### The Miracle Morning Summary
-
 ## Lesson 1
 
-### Don’t isolate incidences.
+### Don’t isolate incidences
 
 Hal suggest you don’t look at the events in your life as separate, but all part of the bigger picture. For example you might say to yourself: It’s okay if I skip gym today, I had a long day at work, it’ll be **just this once**.
 
@@ -32,7 +30,7 @@ So don’t skip your good habits, because how you do anything is how you do ever
 
 ## Lesson 2
 
-### You can get a good night’s sleep, even if you just sleep 4 hours.
+### You can get a good night’s sleep, even if you just sleep 4 hours
 
 This wasn’t part of the summary, but I know how Hal found this out from the book.
 
@@ -52,7 +50,7 @@ The lesson: You can create your own reality. Your mind’s power over your body 
 
 ## Lesson 3
 
-### Have a pre-morning routine to get out of bed faster.
+### Have a pre-morning routine to get out of bed faster
 
 This is what happens before you start your Miracle Morning, and even if you find a morning routine is not for you, this will help you.
 
@@ -75,7 +73,5 @@ If you actually want to **implement the SAVERS routine**, which includes silence
 The advice from lesson 1 seems contrary to what *Learned Optimism* suggests at first. Optimism is about seeing negative events as isolated incidences – **but only the ones you can’t control**. What Hal talks about is not making excuses and making the right choices when you are in control, but doesn’t mean you should beat yourself up for failures.
 
 Both the summary and the book are great, I suggest you read either one of them and then give the routine a try. You can always dive deeper and perfect it as you go along! Cheers to crafting your very own *Miracle Morning*!
-
-## Who it’s for
 
 The 52 year old, who wants to use her mornings to work on awesome projects that will help her lead a great second half of her life, the 37 year old, who works hard, and thus can’t find the time to work on his personal projects, and anyone who thinks mornings are the worst.

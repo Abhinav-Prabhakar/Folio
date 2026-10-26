@@ -23,7 +23,7 @@ Let’s show our respect to Simon Wiesenthal by carrying his lessons forward!
 
 ## Lesson 1
 
-### Arguments against forgiveness are backed by religion and our freedom to make choices.
+### Arguments against forgiveness are backed by religion and our freedom to make choices
 
 Imagine your girl- or boyfriend cheated on you. You break up with them when you find out, because you think cheating is a no-go. However, there are still two ways you can play the breakup:
 
@@ -42,7 +42,7 @@ Thinking that your partner was fully aware of the consequences of their actions,
 
 ## Lesson 2
 
-### The best pro argument for forgiveness is that it heals both the forgiver and the forgiven.
+### The best pro argument for forgiveness is that it heals both the forgiver and the forgiven
 
 …but then there’s the other side. There are also several strong arguments *for* forgiveness.
 
@@ -56,7 +56,7 @@ If someone really shows regret and true guilt, how else can you possibly transfo
 
 ## Lesson 3
 
-### There is no one-size-fits-all-forgiveness attitude, so you have to keep asking yourself questions about it.
+### There is no one-size-fits-all-forgiveness attitude, so you have to keep asking yourself questions about it
 
 As you can see, the question whether to forgive or not is tricky to answer, and in fact, can’t be just answered once and then you’re set for life. That’s not how it works.
 
@@ -69,7 +69,5 @@ Sometimes, some of these will be impossible to answer, and maybe that’s just t
 ## Review
 
 An entire human life and its lessons, condensed into a couple hundred pages. *The Sunflower* is one of the books that makes me awe-struck at the power of reading. Thank you Mr. Wiesenthal, for leaving behind this legacy.
-
-## Who it’s for
 
 The 16 year old, who’s just been left by his first girlfriend, the 32 year old refugee mother, who’s filled with thoughts of hate and revenge towards the forces that forced her to leave her country, and anyone who’s having second thoughts about someone they didn’t forgive when they had a chance to.

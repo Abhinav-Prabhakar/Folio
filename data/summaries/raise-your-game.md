@@ -18,7 +18,7 @@ Here they are – three of the most valuable lessons of this book. While this pi
 
 ## Lesson 1
 
-### A person that is highly self-aware and is willing to work hard consistently becomes unstoppable.
+### A person that is highly self-aware and is willing to work hard consistently becomes unstoppable
 
 One of the main ideas of this book revolves around self-awareness. The author praises knowing thyself as the single, most important first step in your journey towards success. Without a clear starting point, there’s no way to tell what to improve. Just like with Google Maps, where you start your journey from the current location, self-awareness begins within.
 
@@ -30,7 +30,7 @@ No one needs to know that you’ve embarked on a quest to find yourself and deve
 
 ## Lesson 2
 
-### If you want to live a happy life, stop comparing yourself to someone else.
+### If you want to live a happy life, stop comparing yourself to someone else
 
 Comparison is the mother of doubt, and it makes us feel miserable. No matter who you are, you’ll always find someone prettier, smarter, more musculus, younger, and richer than you. And the list goes on. Even if it’s not true, our biased consciousness will never play things out in our favor, so comparing will eventually lead to self-doubt.
 
@@ -40,7 +40,7 @@ Embarking on that train is not a fun trip, and it sure does take away a lot of t
 
 ## Lesson 3
 
-### Taking the first step towards your goal can feel overwhelming if you don’t start gradually.
+### Taking the first step towards your goal can feel overwhelming if you don’t start gradually
 
 Let’s say you’ve done the introspection and you’re working to become more self-aware. Knowing where you stand from every point of view is generally a wise approach to life, yet sometimes it can put us down and kill our morale. Realizing how much work needs to be done and that your goals are far away into the future is not fun.
 
@@ -53,7 +53,5 @@ Adopt the psychology of small, incremental steps by telling yourself that there�
 ## Review
 
 *Raise Your Game* comprises highly valuable information from former basketball coach Alan Stein Jr, who writes about peak performance and adopting a winning mentality. Reading this book will help you become more self-aware, set a clearly-defined goal, and stick to it by being more disciplined and ditching comparison overall. The author explores some effective ways of getting rid of toxic behaviors and finding the gaps in your performance to replace them with positive traits and strengths.
-
-## Who it’s for
 
 The 25-year-old who feels like they don’t know their purpose in life and want to find a direction, the 35-year-old procrastinator who wants to take charge of his life, or the 47-year-old late bloomer who wants to catch up on their peers and achieve peak performance in their life.

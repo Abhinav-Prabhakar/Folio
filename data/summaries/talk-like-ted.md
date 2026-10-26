@@ -18,7 +18,7 @@ Let’s get cracking!
 
 ## Lesson 1
 
-### Persuasive presentations have logos, ethos and pathos.
+### Persuasive presentations have logos, ethos and pathos
 
 After learning a lot about what influences and persuades people yesterday, today we’re taking it to the next level. Gallo says that communicating in a persuasive way can be traced back all the way to Aristotle.
 
@@ -42,7 +42,7 @@ Gallo says **the perfect talk consists of 65% pathos, 25% logos and 10% ethos**.
 
 ## Lesson 2
 
-### Sharing extreme moments and novel statistics will make your presentation memorable.
+### Sharing extreme moments and novel statistics will make your presentation memorable
 
 People have bad memory these days, so it’s your job to make your talk unforgettable and help them remember it. **Sharing extreme moments** in your story can help achieve that.
 
@@ -60,7 +60,7 @@ So think about some cool and novel stories and statistics to spice up your prese
 
 ## Lesson 3
 
-### Your presentation should be 18 minutes long and cover no more than 3 topics.
+### Your presentation should be 18 minutes long and cover no more than 3 topics
 
 We remember information not in single units, but in chunks, which is why 24122014 is much tougher to remember than 24/12/2014.
 
@@ -79,7 +79,5 @@ If you’ve even watched so much as a single TED talk, you probably know how add
 The whole idea of the 3 modes of persuasion was completely new to me, and while I knew about the 18 minute rule of TED talks, I had no idea why.
 
 I will definitely use the extreme and novelty approach for my next presentation or webinar, and can highly recommend this set of blinks.
-
-## Who it’s for
 
 The 13 year old, who’s about to give her first presentation to her class in high school, the 39 year old executive, who has to present to upper management on a regular basis, and anyone who loves TED talks.

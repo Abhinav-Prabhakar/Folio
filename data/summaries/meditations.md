@@ -18,11 +18,9 @@ Here are 3 lessons from one of the greatest men who ever lived:
 
 Excited about stoicism? Let’s begin your training, young philosopher!
 
-### Meditations Summary
-
 ## Lesson 1
 
-### The true meaning of “logic” is not something that always needs to make sense — but it’ll always have purpose.
+### The true meaning of “logic” is not something that always needs to make sense — but it’ll always have purpose
 
 The word logic as we use it today originally stems from ancient Greek. The word “logos” means “reason” and to the stoics, it was the force of life.
 
@@ -40,7 +38,7 @@ Can you?
 
 ## Lesson 2
 
-### Life is too short to waste even a second complaining.
+### Life is too short to waste even a second complaining
 
 If everything is exactly right the way it is, **complaining becomes utterly useless then**, doesn’t it?
 
@@ -60,7 +58,7 @@ Here’s some inspiration.
 
 ## Lesson 3
 
-### The only pain you suffer is the one you inflict upon yourself.
+### The only pain you suffer is the one you inflict upon yourself
 
 Being an emperor in ancient Rome was a dangerous job. People tried to kill you, abduct you, stab you in the back and poison you at least once a week.
 
@@ -77,7 +75,5 @@ So don’t make yourself suffer, it’s really all in your head.
 ## Review
 
 *Meditations* is available for free online, but usually, professional translations by a publisher in paperback format will help you engage with the book more and digest its ideas better. I recommend the Dover Thrift Edition. I also tend to do better with heavier topics, like life, death, thinking, etc., when I have something in my hand that I can mark, leave comments on in pen, and so on. If you’re new to Stoicism, this book is a must-read. Also, if you’re looking for some of his best lines, we’ve compiled the best Marcus Aurelius quotes for you as well.
-
-## Who it’s for
 
 The 20 year old with a YOLO-attitude, who’s trying to make every day perfect without worrying about the future, the 79 year old who’s gotten a bit grumpy over the years and complains a lot, and anyone who spends a lot of time beating themselves up in their own head.

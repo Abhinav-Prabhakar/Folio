@@ -18,11 +18,9 @@ Here are the 3 most interesting lessons this book teaches about our species:
 
 Are you ready for an exciting crash course on the entire history of mankind? Here we go!
 
-### Sapiens Summary
-
 ## Lesson 1
 
-### Exponential population growth began with agricultural advances after early humans had the ability to think and speak.
+### Exponential population growth began with agricultural advances after early humans had the ability to think and speak
 
 Homo sapiens had some distinct advantages that let them get ahead of other human species on earth. Most importantly are the differences in humans brains. These began with the *Cognitive Revolution* around 70,000 years ago. This was a time when mental development rose relatively suddenly, setting our ancient ancestors apart.
 
@@ -36,7 +34,7 @@ Things were looking up but there was a problem. Coping with this larger communit
 
 ## Lesson 2
 
-### The inventions of money and writing let mankind trade more efficiently, paving the way for further expansion.
+### The inventions of money and writing let mankind trade more efficiently, paving the way for further expansion
 
 With agriculture, humans became more efficient with their time and energy. This let some people begin doing other work like weaving or blacksmithing. These individuals would then trade or barter with farmers, exchanging their goods for food. While this new system was better, it quickly became inefficient.
 
@@ -48,7 +46,7 @@ From here, advancements for Homo sapiens began happening rapidly. Pretty soon la
 
 ## Lesson 3
 
-### Our society today is a result of explosive technological and scientific growth that came after our ancestors could trade and communicate better.
+### Our society today is a result of explosive technological and scientific growth that came after our ancestors could trade and communicate better
 
 Now that they had efficient food, trading, and writing methods, our ancestors could begin thinking more. This led to a *scientific revolution* with many people considering ways to improve their way of life. Experimentation and exploration became common, and massive leaps in astronomy, physics, and medicine made life significantly better.
 
@@ -61,7 +59,5 @@ Although we’ve had our times of war, the history of mankind has now come to a 
 ## Review
 
 Well that was an interesting read for sure! *Sapiens* is jam-packed with everything you need to know about the history of our species. It was fascinating to learn about the steps in our progression from early man to our technologically advanced society today.
-
-## Who it’s for
 
 The 27-year-old who doesn’t know much about history but would like a crash course in it, the 54-year-old that’s religious but wants to gain a more balanced view of mankind’s history, and anyone who’s curious about how our species got to where it is now.

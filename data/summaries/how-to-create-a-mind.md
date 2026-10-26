@@ -20,7 +20,7 @@ Are you curious to find out what the blueprint of your brain looks like? Let’s
 
 ## Lesson 1
 
-### Your brain stores information in sequences, which lets you remember many things with just one tiny hint.
+### Your brain stores information in sequences, which lets you remember many things with just one tiny hint
 
 Have you ever returned to a place you haven’t been to in a while, looked at a certain object, like a fountain on a square or a sign on the wall, and all of a sudden were flooded with memories from the last time you were there?
 
@@ -34,7 +34,7 @@ This is also the reason reciting the alphabet backwards is hard, as is playing a
 
 ## Lesson 2
 
-### Creativity, anger and our sex drive are all originate in the neocortex, where pattern recognizers deal with incoming information.
+### Creativity, anger and our sex drive are all originate in the neocortex, where pattern recognizers deal with incoming information
 
 So how does your brain recognize what information matches which sequence in your head? Simple: with pattern recognizers.
 
@@ -48,7 +48,7 @@ Lastly, when the pattern recognizers get the information, they fire 100 times pe
 
 ## Lesson 3
 
-### Artificial intelligence already uses pattern recognition right now, for example to understand what you’re saying.
+### Artificial intelligence already uses pattern recognition right now, for example to understand what you’re saying
 
 Since our brains rely so heavily on it, pattern recognition must also be a key part of creating artificial intelligence – and it is! Basing software on pattern recognition allows it to learn on its own. One such pattern recognition system is called **HHMM, the hierarchical hidden Markov model**, and it works like this:
 
@@ -63,7 +63,5 @@ If predictions are correct, they’re followed by more predictions, and if not, 
 ## Review
 
 A very cool way of approaching artificial intelligence, full of Ray’s usual, visionary ideas and an objective status report on something we’ve been chasing for 70 years. Free biology lesson included. *How To Create A Mind* is a recommended read for sure!
-
-## Who it’s for
 
 The 15 year old computer nerd, who’s building cool machines in his spare time, the 34 year old biologist, whose help we’ll very much need to make this happen the right way, and anyone who leaves the movie theater with a sense of awe after watching a movie like Iron Man or The Avengers.

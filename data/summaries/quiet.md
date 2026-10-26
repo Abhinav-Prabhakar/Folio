@@ -22,7 +22,7 @@ Ready to uncover the power of introverts? Here we go!
 
 ## Lesson 1
 
-### Whether you’re an introvert or extrovert determines if you like small talk.
+### Whether you’re an introvert or extrovert determines if you like small talk
 
 Huge lightbulb moment for me right there.
 
@@ -48,7 +48,7 @@ People often ask me how I can sit there and talk about a single business idea wi
 
 ## Lesson 2
 
-### In Western cultures, extroverts are often presented as the ideal of success.
+### In Western cultures, extroverts are often presented as the ideal of success
 
 Competence and confidence are two different things.
 
@@ -74,7 +74,7 @@ Different countries, different cultures, but in the Western world, the extrovert
 
 ## Lesson 3
 
-### Companies should adapt their workplaces to let introverts make their best contribution.
+### Companies should adapt their workplaces to let introverts make their best contribution
 
 Due to the extrovert success ideal, most companies are tailored to extroverts.
 
@@ -103,7 +103,5 @@ The internet might be the greatest invention of all time, especially for introve
 Thank you Susan!
 
 Great set of blinks on Blinkist, wonderful TED talk, and a terrific book – go on a spree and get, watch, read all three.
-
-## Who it’s for
 
 The 13 year old, who just wants to sit in her room and read, play or learn code all day, the 43 year old, who works in an open office environment and thus feels overwhelmed a lot, and anyone who works with or dates an introvert.

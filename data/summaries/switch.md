@@ -20,7 +20,7 @@ Ready to tame the elephant and harness the power of habit change? Let’s go!
 
 ## Lesson 1
 
-### Focus all your energy on one specific, critical aspect of the change you want to make, so you don’t have to decide.
+### Focus all your energy on one specific, critical aspect of the change you want to make, so you don’t have to decide
 
 The rider of the elephant is your neocortex, the newest, most rational part of your brain. It loves to think, to ponder and to look at all angles of a situation. This is very helpful when analyzing complex problems, but changing your behavior often isn’t one of them.
 
@@ -38,7 +38,7 @@ Some more ideas for eating healthy would be:
 
 ## Lesson 2
 
-### Get your inner elephant going by evoking a powerful emotional response.
+### Get your inner elephant going by evoking a powerful emotional response
 
 With the rider taken care of, now we have to get the elephant moving. However, unlike the rider, the elephant cares little about logical arguments and rational reasoning. It’s a stubborn, emotional creature, and those are best swayed by powerful feelings.
 
@@ -50,7 +50,7 @@ Both positive and negative emotions can get the elephant to move. **Negative emo
 
 ## Lesson 3
 
-### Make the path of change as easy to follow as possible, because human behavior depends more on the situation than you think.
+### Make the path of change as easy to follow as possible, because human behavior depends more on the situation than you think
 
 Lastly, even the best rider-elephant team can have a tough time on an uphill, steep, winding path. The environment in which you’re trying to change matters – more than you think.
 
@@ -67,7 +67,5 @@ Wherever you can, design your environment to make it a pleasant, downhill stroll
 ## Review
 
 I love that they used one analogy throughout *Switch*, which made it very easy to follow along. Definitely one of the best books out there on behavioral change. Powerful read for managers too!
-
-## Who it’s for
 
 The 25 year old semi-entrepreneur, who keeps overanalyzing and thus gets slowed down in his progress, the 72 year old grandpa, who’s too stubborn to finally turn on his hearing aid, and anyone who feels like their friends pressure them into negative behavior.

@@ -16,11 +16,9 @@ Here are 3 lessons I learned, one from each section of the book:
 
 Are you excited about the future? Then let’s take a sneak peak at what’s in store for us!
 
-### Homo Deus Book Summary
-
 ## Lesson 1
 
-### Stories are what make us the strongest animal on the planet.
+### Stories are what make us the strongest animal on the planet
 
 In democratic elections around the world, millions of people make a concerted effort to agree on choosing a group leader. They’re one of the best demonstrations of our ability to cooperate on a massive scale. This skill is at the heart of why humans have won the evolutionary race. But how did we develop it?
 
@@ -32,7 +30,7 @@ But with what?
 
 ## Lesson 2
 
-### Today’s dominant narrative is humanism.
+### Today’s dominant narrative is humanism
 
 Back when the world was less connected, narratives naturally formed regionally. But nowadays, we’re all aware of the many different religions, political movements, and belief systems around the globe. Thanks to the internet, it’s become obvious to many that there is no one, right choice for any of them.
 
@@ -44,13 +42,13 @@ The question that remains is what narratives will arise in the future. Currently
 
 ## Lesson 3
 
-### All our future narratives involve algorithms, but if we’re not careful, they could replace us altogether.
+### All our future narratives involve algorithms, but if we’re not careful, they could replace us altogether
 
 Since their invention, computers have quickly become a big part of our lives. Often more efficient at performing tasks, they allow us to enjoy more comfort in many areas. Algorithms make our work easier, help us monitor our health, and even contribute to our recreation by giving us more ways to express ourselves.
 
 Therefore, it’s not really a question of whether algorithms will be part of our future, just how. Two trends Harari sees appearing at the horizon are **techno-humanism, often called transhumanism, and dataism**. Transhumanism argues that humans should merge with technology to enhance their capabilities and keep up with the power of algorithms. Dataism, on the other hand, suggests we “get out of the way” and let algorithms become as powerful as they can become on their own.
 
-The former is already manifesting in military technology, athletics, and health, but it also means giving up parts of what makes us human, like empathy. The latter might eventually lead to some *Matrix* -style scenario, in which the machines get rid of us because we’re just in their way.
+The former is already manifesting in military technology, athletics, and health, but it also means giving up parts of what makes us human, like empathy. The latter might eventually lead to some *Matrix*-style scenario, in which the machines get rid of us because we’re just in their way.
 
 No one knows which narrative will win and if it’s even one of these two, but one thing’s for sure: the story of humanity will never be boring.
 
@@ -59,7 +57,5 @@ No one knows which narrative will win and if it’s even one of these two, but o
 Yuval Noah Harari is a smart man without a doubt. He grounds his arguments in science and his vivid stories add up to a coherent picture. Naturally, what receives lots of praise also must face the scrutiny of lots of critics. While some may say his newer books, which issue warnings to not overstep our bounds, are too gloomy, but I think his ideas are always worth considering. You may not agree with everything he says, but there is definitely a lot to learn from his work. *Homo Deus* is no exception.
 
 For more interesting ideas about current human affairs, take a look at our summary of *21 Lessons For The 21st Century*.
-
-## Who it’s for
 
 The 14-year-old student who’s bored with what they’re covering in history class, the 32-year-old tech entrepreneur who wants to invent the future, and anyone who’s worried about the impact of technology on human nature.

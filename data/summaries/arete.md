@@ -18,11 +18,9 @@ Here are 3 lessons from this 1,000-page tome to unlock your potential:
 
 Let’s learn how to live with Areté!
 
-### Areté Summary
-
 ## Lesson 1
 
-### Optimizing your energy, work, and love will get you 80% of the way to Areté.
+### Optimizing your energy, work, and love will get you 80% of the way to Areté
 
 451 degrees Fahrenheit is the temperature at which paper bursts into flames. That’s why Johnson’s book comes in 451 short chapters — each one adds 1º to our potential-thermostat, until we ignite! While the book covers 7 different areas, “The Big 3” is the most distinct one.
 
@@ -40,7 +38,7 @@ The road to Areté is a long journey. Start small, but start with the Big 3.
 
 ## Lesson 2
 
-### Never forget the fundamentals, even long after you’ve leveled up.
+### Never forget the fundamentals, even long after you’ve leveled up
 
 In *Raise Your Game*, high-performance basketball coach Alan Stein tells the story of when he shadowed the late Kobe Bryant. His first shock came when Bryant said he’d work out at 4, to which Stein replied they already had something else scheduled that afternoon. “I know,” Bryant said. “I work out at 4 AM.”
 
@@ -54,7 +52,7 @@ No matter how far you go in this life, please: Never forget the basics.
 
 ## Lesson 3
 
-### When the going gets tough, your “Soul Force” will keep you going — as long as you stick to your routines.
+### When the going gets tough, your “Soul Force” will keep you going — as long as you stick to your routines
 
 Brian loves finding inspiration in language, and so did Mahatma Gandhi. When he opposed the British Empire, he dubbed his movement “satyagraha.” Combined from “sat” and “graha,” it blends “being” or “truth” with “polite insistence” or “force.”
 

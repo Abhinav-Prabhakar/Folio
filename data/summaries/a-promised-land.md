@@ -16,11 +16,9 @@ Here are 3 lessons from Obama’s life:
 
 Let’s jump right in and see how much we can learn from *A Promised Land*!
 
-### A Promised Land Summary
-
 ## Lesson 1
 
-### If it weren’t for one last-ditch effort, the idealistic Barack Obama may never been president.
+### If it weren’t for one last-ditch effort, the idealistic Barack Obama may never been president
 
 Barack Hussein Obama grew up in Honolulu with his mom and grandparents. Nobody would expect him to end up in public office, much less be president one day. In his youth, he did drugs and partied, and even his grades were mediocre.
 
@@ -36,9 +34,9 @@ But for some reason, he couldn’t leave politics completely. **He couldn’t le
 
 ## Lesson 2
 
-### As Obama’s popularity skyrocketed, the chances of him becoming president grew.
+### As Obama’s popularity skyrocketed, the chances of him becoming president grew
 
-While he was running for the Senate, some of his speeches became viral on blogs and MySpace. His powerful and persuasive message moved people, and momentum grew. **His now-famous speech at the Democratic National Convention would bethe last time he could walk into a room unrecognized**. Soon after, he won the Senate mandate by a landslide.
+While he was running for the Senate, some of his speeches became viral on blogs and MySpace. His powerful and persuasive message moved people, and momentum grew. **His now-famous speech at the Democratic National Convention would be the last time he could walk into a room unrecognized**. Soon after, he won the Senate mandate by a landslide.
 
 Inside, however, Barack had a lot of self-doubts, not to mention he wasn’t very experienced yet. The media didn’t seem to take no for an answer. His stance changed when he visited Senator Ted Kennedy. He told Obama that this was *his* moment, and life doesn’t let us choose when our moment is.
 
@@ -46,7 +44,7 @@ When he announced he would be running, people came to see him in droves. But it 
 
 ## Lesson 3
 
-### The assassination of Osama bin Laden and The Affordable Care Act are just two notable accomplishments of Obama’s presidency.
+### The assassination of Osama bin Laden and The Affordable Care Act are just two notable accomplishments of Obama’s presidency
 
 His victory in the 2008 election made history. But he also had some big accomplishments during his two terms. One of the most notable of these was signing the Affordable Care Act into law. But getting it there was an uphill battle.
 
@@ -63,7 +61,5 @@ It was the first live military action he watched and he was so nervous. But fina
 ## Review
 
 I’ve always thought that it would be fun to hang out with Barack Obama. Maybe I’m just biased because I share my birthday with him. Either way, *A Promised Land* is worth your time!
-
-## Who it’s for
 
 The 57-year-old who loves to read biographies of famous people, the 28-year-old who doesn’t know much about how Obama became president, and anyone that’s curious about the life of this great man.

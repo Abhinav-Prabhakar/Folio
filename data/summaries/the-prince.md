@@ -22,13 +22,13 @@ Ready for a 500 year old course in entrepreneurship? Let’s go!
 
 ## Lesson 1
 
-### Countries that are easy to conquer are hard to rule and the other way around – so are modern markets.
+### Countries that are easy to conquer are hard to rule and the other way around – so are modern markets
 
 This distinction is interesting and I’d never thought of it that way.
 
 Machiavelli describes the example of Persia, which, in 323 BC when Alexander the Great died, had no governing ruler. One of his generals soon took over, but the Macedonians expected to lose control of the country they’d previously conquered quite quickly. In the end, they maintained power for another five decades.
 
-This was due to the *ruler-servant* *system* in place in Persia before, because Darius III had crushed all political enemies in the country and gotten institutions and leaders to become loyal followers. This made the country very hard to conquer, but once Alexander had control, there were no autonomous regions or rulers left to challenge him for the throne.
+This was due to the *ruler-servant system* in place in Persia before, because Darius III had crushed all political enemies in the country and gotten institutions and leaders to become loyal followers. This made the country very hard to conquer, but once Alexander had control, there were no autonomous regions or rulers left to challenge him for the throne.
 
 Thinking the other way around, a country like France with a *ruler-baron system*, where the king relies on barons running municipalities is inherently unstable and thus easy to conquer – but hard to rule.
 
@@ -38,7 +38,7 @@ On the other hand, if you enter a very competitive market, it’s hard to become
 
 ## Lesson 2
 
-### For a country to be properly protected it must have its own army, just like businesses need their own employees.
+### For a country to be properly protected it must have its own army, just like businesses need their own employees
 
 There are lots of ways to build an army and Machiavelli explains why some are better than others.
 
@@ -50,7 +50,7 @@ The same holds true for auxiliary troops from fellow states, who tend to occupy 
 
 ## Lesson 3
 
-### To be a good business leader, pick your advisors well and know when to listen and when to ignore them.
+### To be a good business leader, pick your advisors well and know when to listen and when to ignore them
 
 Nobody knows everything. Every leader needs advisors to complement the areas in which he lacks skills. As a CEO who’s good in finance and strategy, it’s your job to pick great advisors in marketing and sales. You know what you’re good at, so only you can pick the right people to help with those things you can’t do.
 
@@ -65,7 +65,5 @@ Having a board of directors and advisors is important – but ultimately you cal
 ## Review
 
 I don’t think this book is all bad. After reading the summary on Blinkist, it seems to me that most of the advice is actually very balanced – people just exaggerate it to the negative side. Yes, the practices *The Prince* describes are somewhat questionable, but nobody said it was a how-to book. Think of it as a description and criticism of the status quo at the time and you won’t run the risk of becoming a “Machiavellian prince” yourself.
-
-## Who it’s for
 
 The 22 year old politics major, the 31 year old startup founder, and anyone who loves 2Pac’s music.

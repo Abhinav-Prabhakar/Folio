@@ -18,7 +18,7 @@ In the following lines, we’ll take each lesson one by one and learn about them
 
 ## Lesson 1
 
-### Challenges are a natural part of life, but you can overcome them with a specific mentality.
+### Challenges are a natural part of life, but you can overcome them with a specific mentality
 
 When you’re faced with a challenge, it’s tempting to give up—to tell yourself that nothing is worth the struggle. But nothing worth having is ever easy to get, and the more you want something, the harder you have to work for it.
 
@@ -30,7 +30,7 @@ When you accept that hardship is a natural part of life, you understand an essen
 
 ## Lesson 2
 
-### Resilience starts with the power of habit and a sense of accountability.
+### Resilience starts with the power of habit and a sense of accountability
 
 Resilience is built on the power of habit and accountability. You may not feel like doing anything when you’re struggling, but if you know that if you do these things every day, they will make a difference—they will help you get through the bad times and build a fulfilling life after they pass.
 
@@ -44,7 +44,7 @@ You might not see results immediately (sometimes it takes months), but if you ke
 
 ## Lesson 3
 
-### Build resilience by setting purposeful goals and learning from failure.
+### Build resilience by setting purposeful goals and learning from failure
 
 The best way to become resilient is by learning from your mistakes and failures, and making sure they don’t happen again. This can be achieved by taking time out of your day to reflect on what happened, why it happened, and how you could have done things differently.
 
@@ -63,7 +63,5 @@ However, every obstacle that comes your way can be overcome with patience and re
 Part of his advice is to learn how to set goals, learn from failure, discover the power of perseverance, and many other useful life tips.
 
 I recommend this book for every person who is facing hardship or a challenging period in their life.
-
-## Who it’s for
 
 The 30-year-old person who’s life seems to be falling apart and they don’t know which direction to take, the 45-year-old person who is going through a mid-life crisis, or the 38-year-old person who is facing a big change in their life and wants to know how to go through it with grace.

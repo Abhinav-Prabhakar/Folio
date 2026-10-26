@@ -18,7 +18,7 @@ Ready to become that soldier, that person who’s willing to go on, long after o
 
 ## Lesson 1
 
-### When we say we think hard work trumps talent, we usually just bullshit ourselves.
+### When we say we think hard work trumps talent, we usually just bullshit ourselves
 
 If I approached you on the street and said: “We’re conducting a study and would like your opinion. What’s more important: hard work or talent?” you’d probably say “hard work.” It’s what you think you believe. It’s what you *want* to believe.
 
@@ -32,7 +32,7 @@ The majority of the experts ended up preferring the piece by the “natural.” 
 
 ## Lesson 2
 
-### The impact effort has on achievement is exponentially greater than talent.
+### The impact effort has on achievement is exponentially greater than talent
 
 The funny thing is, we have no reason to. Because if you said that hard work trumps talent and really believed it, you’d be right.
 
@@ -53,7 +53,7 @@ Regardless of how big the difference is though, there always will be one, and th
 
 ## Lesson 3
 
-### You can stay consistently motivated by combining small, low-level, daily goals with a larger vision.
+### You can stay consistently motivated by combining small, low-level, daily goals with a larger vision
 
 Okay, but a lot of effort means you’ll have to invest a lot of time and stay motivated for the long haul. How do you do that?
 
@@ -71,7 +71,5 @@ Small daily goals, big scary dreams – not one or the other – have both, okay
 ## Review
 
 The only caveat I have about *Grit* is that you should be very cautious about the big dream you pick. There is something to be said for quitting as a strategy, but once you’ve quit the wrong things, go all in on grit. Great book!
-
-## Who it’s for
 
 The 15 year old star of the high school basketball team, the 25 year old struggling entrepreneur, and anyone who complains about their work regularly.

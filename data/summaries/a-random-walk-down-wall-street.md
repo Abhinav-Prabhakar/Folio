@@ -18,7 +18,7 @@ Let’s dive deeper into these lessons!
 
 ## Lesson 1
 
-### Learn to accept risk as a natural part of an investment strategy and your portfolio evolution.
+### Learn to accept risk as a natural part of an investment strategy and your portfolio evolution
 
 Risk is everywhere, and the higher the potential return on your investment is, the higher the added risk. In other words, if you invest in a stock that has a promising future and you expect it to grow significantly, you’re essentially exposing yourself to the risk of it performing the opposite. However, if you are indeed right, your stock can have incredible returns for your portfolio.
 
@@ -30,7 +30,7 @@ One should be able to correctly assess the value of their investments. One can d
 
 ## Lesson 2
 
-### The market favors those who favor the market back.
+### The market favors those who favor the market back
 
 Some investors are more active, constantly researching new opportunities, others take a more passive approach. Everyone’s measure of comparison? The market. But how do you read the average market performance? For that, you can use index funds.
 
@@ -42,7 +42,7 @@ However, active investors often want to outperform its returns, as they can prov
 
 ## Lesson 3
 
-### Your mind and emotions dictate your moves in the market.
+### Your mind and emotions dictate your moves in the market
 
 While it may be easy for you to say that you’ve got full control over your brain and your decisions when it comes to investing, time-proven studies on the market may indicate differently. In fact, investors often do the opposite of what they’d like to accomplish in their trades. **This is due to four faulty traits we have as investors: overconfidence, biased judgments, herd mentality, and loss aversion.**
 
@@ -55,7 +55,5 @@ However, by the time we get on the gravy train, the stocks are overpriced and we
 ## Review
 
 *A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing* is the book you’re looking for if becoming financially independent is your goal. This is not a book for those who love get-rich-quick-schemes. It builds on the idea that the best ways to invest are low-cost, stable index funds that offer small, gradual returns. You can’t beat the market, so just join it, and let time do the work for you.
-
-## Who it’s for
 
 The 30-year-old employee looking for ways to invest their savings and start a retirement fund, the early 25-year-old investor who is eager to learn more about this field, or the 22-year-old who is passionate about finance and wants to start early and get expertise in this field.

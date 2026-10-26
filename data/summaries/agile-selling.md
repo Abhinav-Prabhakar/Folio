@@ -18,7 +18,7 @@ Are you excited to learn how to make more money with these techniques? Let’s g
 
 ## Lesson 1
 
-### Always try to see your situation in a new light and never have a negative attitude, whether you fail or succeed.
+### Always try to see your situation in a new light and never have a negative attitude, whether you fail or succeed
 
 Is learning sales just a matter of getting the right information? It’s actually more than that, you need to develop the mindset that releasing your negative emotions will keep your motivation high.
 
@@ -34,7 +34,7 @@ Also, set the right goals to motivate yourself regardless of how much success yo
 
 ## Lesson 2
 
-### Don’t fail early, win quickly by prioritizing the most important details that will make you feel more confident.
+### Don’t fail early, win quickly by prioritizing the most important details that will make you feel more confident
 
 They say that if you throw a frog into a pot of boiling water, it will jump right out. But if you set him inside and slowly turn up the heat, you’ll get your desired frog legs. Learning in a new situation is exactly the same way, too much all at once will make you want to hop out!
 
@@ -52,7 +52,7 @@ To master the language that people use in the field, jot down any word you hear 
 
 ## Lesson 3
 
-### You need good communication skills to personalize your pitch.
+### You need good communication skills to personalize your pitch
 
 When you’re trying to sell to someone, they don’t care about the details of the product or how much you want them to buy it. What people really want is a personable experience. In other words, you have to show them that you care and to do that you need to know how to communicate well.
 
@@ -67,7 +67,5 @@ Remember, the key point in all of these questions is to make sure to find out ho
 ## Review
 
 I want to say *Agile Selling* feels more like a book about how to learn than how to sell. But the more I think about it, the more I realize that it’s just a very masterful weaving together of agile learning with the principles of selling. This is an excellent book for anyone in any career, whether you’re a salesperson or not.
-
-## Who it’s for
 
 The 38-year-old who has just begun a new sales job, the 56-year-old who has almost an entire career of experience but could use a boost, and anyone that’s having a hard time getting people to buy their products.

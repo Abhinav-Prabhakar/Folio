@@ -20,7 +20,7 @@ Are you ready to learn how to raise your income and quality of life? Let’s dis
 
 ## Lesson 1
 
-### The acronym VVKIK has everything you need to know to start mastering money and making more of it.
+### The acronym VVKIK has everything you need to know to start mastering money and making more of it
 
 Smart people don’t just work on goals or habits, but focus on systems to make them successful. But we tend to focus too much on the details and not enough on the big picture. And some of us might instead have a hard time with the specifics but do well looking at the overall view.
 
@@ -42,7 +42,7 @@ Last is Key Performance Indicators, or KPIs. These are the specific items you tr
 
 ## Lesson 2
 
-### Working less but earning more seems like a fantasy, but isn’t if you know your income generating value.
+### Working less but earning more seems like a fantasy, but isn’t if you know your income generating value
 
 Do you wonder why the rich get richer? This next tip will help you discover the reason and how you can do it yourself. It involves calculating your income-generating value, or IGV.
 
@@ -54,7 +54,7 @@ That number gives you some golden information that you’ll use to begin buildin
 
 ## Lesson 3
 
-### Learn to be patient enough to harness the power of compounding if you want to become rich.
+### Learn to be patient enough to harness the power of compounding if you want to become rich
 
 Here’s a question that my Dad loves to ask his third-grade students. Would you rather take $1,000,000 right now or $0.01 doubled every day for a month? You might look at all those zeroes and want to take the million, right? Well, the way the math works out, you’d be losing out on over $4 million if you took that option!
 
@@ -69,7 +69,5 @@ And the other vital practice to follow is watching your spending. That brand new
 ## Review
 
 I really enjoyed *Money* and I believe you will too. It’s a nice compilation of a lot of lessons from recent books on the subject from *The 4-Hour Workweek* to *Rich Dad Poor Dad*. It’s refreshing to learn how to relax a little and just work smarter to earn our money to live happier lives.
-
-## Who it’s for
 
 The 27-year-old who is in the early stages at their first job out of college, the 54-year-old entrepreneur who feels like they’ve been putting in too many hours, and anyone who thinks that financial freedom comes from focusing solely on hard work.

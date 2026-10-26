@@ -20,11 +20,9 @@ Part satire, part prophecy, I recently read this masterpiece for the first time.
 
 **Note**: This is a book with historical significance. Therefore, we decided to double the length of our summary to accommodate more important ideas. We hope you’ll enjoy the combination of the plot points, and the lessons we can learn from them. Let’s dive into our *Brave New World*!
 
-### Brave New World Summary
-
 ## Lesson 1
 
-### A perfect world in which you can have everything will inevitably be devoid of any meaning.
+### A perfect world in which you can have everything will inevitably be devoid of any meaning
 
 In the foreword to the 2007 edition of the book, Margaret Atwood wrote: “In a world in which everything is available, nothing has any meaning.” The London described in the book is such a world.
 
@@ -40,7 +38,7 @@ A constant state of satisfaction is its own kind of prison, and it is this priso
 
 ## Lesson 2
 
-### There is nothing we hate more than not fitting in, and yet, even in the most homogenous groups, there’ll always be differences between people.
+### There is nothing we hate more than not fitting in, and yet, even in the most homogenous groups, there’ll always be differences between people
 
 Unlike Helmholtz, who’s too smart for his own good but otherwise a perfect example of an Alpha, Bernard is slightly shorter than intended — some mishap during his “hatching” — and, as a result, often gets mocked by women, peers, and even his subordinates. Add to that his monogamous tendencies, and you have yourself a man whom others wish “weren’t so odd,” including Lenina.
 
@@ -60,7 +58,7 @@ The next time you feel isolated or alone, remember that uniformity is a myth. We
 
 ## Lesson 3
 
-### In order for true happiness to exist, we must also face the potential for suffering.
+### In order for true happiness to exist, we must also face the potential for suffering
 
 Since the director of the hatchery threatened to send him into exile in Iceland over his odd behavior, Bernard comes up with a brilliant plan: He’ll take the Savage and Linda back to London, using them to embarrass the director out of his threat. The plan initially works and even makes Bernard famous, for he is now the custodian of the mysterious Savage everyone wants to see.
 
@@ -91,7 +89,5 @@ While the story isn’t as straightforward, nor the characters as deep, as in *1
 It is the convoluted mix of meddling with biology, keeping people sedated in various ways, and conditioning them to love their enslavement that provides countless points of discussion for this book, nearly 100 years after it was published.
 
 If you sometimes have doubts about our shiny, Instagram-happy world, you’ll get a lot out of this book. For more about the book’s context and the author’s inspiration, check out Wikipedia. The book is also one of Jordan Peterson’s favorites and comes with plenty of great quotes.
-
-## Who it’s for
 
 The 23-year-old college student, who knows she is using her smartphone too much but can’t seem to stop, the 43-year-old worker who hasn’t changed his job in years, and anyone who sometimes shakes their head at our relentless consumer culture.

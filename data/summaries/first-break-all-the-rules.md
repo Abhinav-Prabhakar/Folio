@@ -20,7 +20,7 @@ Let’s get right to it and see how much we can learn!
 
 ## Lesson 1
 
-### Satisfied employees are the only way to long-term success and managers control how happy employees are.
+### Satisfied employees are the only way to long-term success and managers control how happy employees are
 
 How many different ways have you tried to improve the profits of your company? Perhaps you’ve cut costs, restructured, or emphasized innovation. These might work for a time, but they will never bring consistent success.
 
@@ -40,7 +40,7 @@ You have to invest in your employees. You must care about their progress and hap
 
 ## Lesson 2
 
-### Lead effectively by setting baseline standards and letting your team members decide how they’ll accomplish outcomes.
+### Lead effectively by setting baseline standards and letting your team members decide how they’ll accomplish outcomes
 
 To be a great manager, you have to accept the truth that you can only be as successful as your team members. The key to this is understanding that processes don’t matter as much as outcomes.
 
@@ -56,7 +56,7 @@ This is much more efficient because it keeps you from having to create a trainin
 
 ## Lesson 3
 
-### Look to the most productive and successful employees when determining the standard everybody should strive for.
+### Look to the most productive and successful employees when determining the standard everybody should strive for
 
 If you want to help your people grow, you’ve got to get to know them on a personal level. And if you want to know what standard you should hold everybody to, you need to look at your top performers and spend a lot of time with them.
 
@@ -73,7 +73,5 @@ If you only look at what’s the norm, you also severely undermine the opportuni
 ## Review
 
 *First, Break All The Rules* is a fantastic book and one that I would highly recommend. It goes beyond the typical advice you hear in management books and is really thorough. I can think of a few of my past bosses that I wish had read this book, but I’m glad that at least I know about it now!
-
-## Who it’s for
 
 The 39-year-old who just became a manager and feels overwhelmed, the 58-year-old executive that wants to learn and play to their employee’s strengths, and anyone that would like to become a great leader at work.

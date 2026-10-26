@@ -20,7 +20,7 @@ Are you ready to discover how to get more peace in your life? Let’s take a clo
 
 ## Lesson 1
 
-### To get the peace that comes from silence and solitude, you must make time for them daily.
+### To get the peace that comes from silence and solitude, you must make time for them daily
 
 In a world where we are constantly bombarded with notifications on our devices, it can be hard to find silence and solitude.
 
@@ -36,7 +36,7 @@ Don’t have a mountain to disappear to? Don’t sweat it. Just make a point to 
 
 ## Lesson 2
 
-### Although you might think the idea of resting from work and everything else for one full day each week is old, it has some great benefits.
+### Although you might think the idea of resting from work and everything else for one full day each week is old, it has some great benefits
 
 Even God himself took a rest on after the sixth day of creation. And you should, too. Even if you don’t consider yourself particularly religious, make sure to set aside one day of the week for rest.
 
@@ -48,7 +48,7 @@ Even if you aren’t religious, set aside a day and respect it. Maybe spend time
 
 ## Lesson 3
 
-### Inefficiency isn’t such a bad thing, allowing it into your life will help you slow down and become more mindful.
+### Inefficiency isn’t such a bad thing, allowing it into your life will help you slow down and become more mindful
 
 Have you ever stood in the line of a grocery store frustrated at the person in line in front of you who is looking for coupons? Don’t they know we’re in a hurry? Comer wants us to realize that we shouldn’t be in a hurry.
 
@@ -63,7 +63,5 @@ But if you’re not into that more idea, you could delete social media and email
 ## Review
 
 *The Ruthless Elimination of Hurry* is a book that everyone in this busy world should read. I love all of the tips it gives, and I think you’ll find them especially helpful for you to become more mindful. I’ve already tried setting aside one day of the week for rest and the positive impact is huge, I’m certain the other principles will do the same!
-
-## Who it’s for
 
 The 42-year-old engineer who is always rushing to get jobs finished on time, the 18-year-old that has a hard time putting down their smartphone, and anyone who feels like they are too busy and wants some advice on how to slow down.

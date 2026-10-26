@@ -24,7 +24,7 @@ Let’s get right to it and see how much we can learn!
 
 ## Lesson 1
 
-### Investors know to diversify their portfolios, and you should consider how doing the same in your life will benefit you.
+### Investors know to diversify their portfolios, and you should consider how doing the same in your life will benefit you
 
 When was the last time someone told you to not put all your eggs in one basket? I’ve heard this recently regarding my income streams and also as I began investing in stocks recently.
 
@@ -44,7 +44,7 @@ Diversification of the types of people you associate with can also make a big im
 
 ## Lesson 2
 
-### Relationships and financial mergers have more in common than you might think.
+### Relationships and financial mergers have more in common than you might think
 
 When AOL and Time Warner merged in 2001, venture capitalists considered it “the single most transformational event” in the history of business in the US. But by 2009, after years of frustration, the two officially separated.
 
@@ -62,7 +62,7 @@ If you’re in a relationship where either you or your partner is controlling, i
 
 ## Lesson 3
 
-### Businesses must take on the risk of debt to grow, and the same can apply to your life.
+### Businesses must take on the risk of debt to grow, and the same can apply to your life
 
 The common advice when starting a company is that you need venture capital to get it off the ground. You need to buy stock, hire employees, and pay all sorts of other costs. Unless you come from riches, you’re going to need financial help.
 
@@ -79,7 +79,5 @@ It’s only after that initial sacrifice that parents get to relive life through
 ## Review
 
 I really enjoyed *The Wisdom Of Finance*, although I didn’t agree with everything in it. Analogies have always been fascinating to me, and I’d never considered how finance is like life. I think anyone can get something out of this that will improve their life, even if they know nothing about economics.
-
-## Who it’s for
 
 The 21-year-old that is considering a degree in finance, the 48-year-old who loves philosophical discussions, and anyone that wants to see what money can teach us about having a better life.

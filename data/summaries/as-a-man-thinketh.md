@@ -16,11 +16,9 @@ Here are 3 great lessons about how your thoughts shape your life:
 
 Want to become the master of your own mind? Time to think!
 
-### As A Man Thinketh Summary
-
 ## Lesson 1
 
-### What you do is the result of what you think.
+### What you do is the result of what you think
 
 The very first argument Allen lays out is that **man is the sum of his thoughts.** Just like tiny seeds turn into big plants, a single thought often turns into a major decision, which makes your thoughts the roots of your actions.
 
@@ -32,7 +30,7 @@ The time to start weeding out bad thoughts is right now. Today is the day to sto
 
 ## Lesson 2
 
-### You shape the world just as much as it shapes you.
+### You shape the world just as much as it shapes you
 
 The reason your thoughts and actions are so deeply connected is because they live in **a constant cause-and-effect relationship with the outside world**.
 
@@ -44,7 +42,7 @@ Therefore, you can’t describe a person’s character just by looking at the en
 
 ## Lesson 3
 
-### Be careful what you think, it might make you age faster.
+### Be careful what you think, it might make you age faster
 
 A crucial aspect almost no one looks at when examining thoughts is your health. When we talk about the power of positive thinking, we usually speak of affirmations, goals, priorities, etc. But not about health.
 
@@ -57,7 +55,5 @@ Pretend your mind is a garden, and everything that doesn’t help it grow has to
 ## Review
 
 *As A Man Thinketh* is a very short book, with a very short summary. At first I thought it’s best to just get the book and read it in one go, but come to think of it, I’d use this summary as a guideline and look into it to get a better grip on things, as the language in the book can be quite complicated, simply because it’s so old. I have since read the book and can recommend that too in full, though. It’s still a short read and worth reading through at least once in your life.
-
-## Who it’s for
 
 The 29 year old, who still doesn’t feel like his actions have consequences, the 74 year old, who, despite her relaxed retirement, can’t seem to shake a certain grumpiness, and anyone who’s recently noticed a few new wrinkles on their forehead.

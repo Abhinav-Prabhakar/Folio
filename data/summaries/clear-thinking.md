@@ -16,13 +16,11 @@ Here are 3 lessons from the book that will help you make better decisions:
 2. We need 4 key strengths to keep our wits about us when things get tough.
 3. If you want to handle your mistakes well, follow a 4-step process.
 
-### Clear Thinking Summary
-
 Let’s learn how to think clearly!
 
 ## Lesson 1
 
-### We have 4 default reactions, all of which prevent us from thinking clearly, especially if they appear together.
+### We have 4 default reactions, all of which prevent us from thinking clearly, especially if they appear together
 
 One time, while working for a moody CEO, Shane heard him yelling in his office. “They needed to be put in their place,” he later told him. As it turned out, the caller tried to report an important problem. Mere weeks later, the CEO was fired — the problem he ignored had severely hurt the company.
 
@@ -41,7 +39,7 @@ Willpower alone isn’t enough to combat these defaults, Shane writes. We must c
 
 ## Lesson 2
 
-### If you want to beat your defaults, stay calm under pressure, and make better decisions, you must develop 4 key strengths.
+### If you want to beat your defaults, stay calm under pressure, and make better decisions, you must develop 4 key strengths
 
 When the phone rings with bad news, we don’t need to throw a tantrum. We need “the pause-and-plan response,” as researcher Kelly McGonigal calls it. **But in order to take a breath when things get tough, we already need to be *the kind of person* who stays calm in such situations.**
 
@@ -56,7 +54,7 @@ Building these 4 strengths isn’t easy. It takes time, courage, and experience.
 
 ## Lesson 3
 
-### Use a 4-step process for dealing with your mistakes in order to benefit from them.
+### Use a 4-step process for dealing with your mistakes in order to benefit from them
 
 Even if we do our best to improve our thinking, we’ll still make mistakes. That’s okay, as long as we learn from them, Shane writes. “The biggest mistake people make typically isn’t their initial mistake. It’s the mistake of trying to cover up and avoid responsibility for it. The first mistake is expensive; the second one costs a fortune.”
 

@@ -18,7 +18,7 @@ Ready to infuse your day with a sense of calmness? Time to make it mindful!
 
 ## Lesson 1
 
-### Ignore your phone – on purpose.
+### Ignore your phone – on purpose
 
 I could really relate to this, especially today. Jon calls it practicing **voluntary simplicity.** Nope, this isn’t about minimalism, it just means to **engage with one activity or thought at a time**.
 
@@ -33,7 +33,7 @@ This spoke to me today, because this morning I decided to leave my phone at home
 
 ## Lesson 2
 
-### If someone takes something from you, don’t let them take your mind too.
+### If someone takes something from you, don’t let them take your mind too
 
 Today our patience is tested on a constant basis. Much of life is spent waiting – be it in line at the grocery store, in front of the cinema for a friend, or for an email response to a potentially life-changing application.
 
@@ -47,7 +47,7 @@ The Dalai Lama has all the reason in the world to be extremely angry at the Chin
 
 ## Lesson 3
 
-### Take the smallest step by focusing on your body and senses during automatic behaviors.
+### Take the smallest step by focusing on your body and senses during automatic behaviors
 
 In the end, mindfulness is a permanent practice. Sometimes I’m better at being aware of what’s going on, sometimes I’m worse, but as long as I keep practicing it, this ability slowly grows over time, and it’s made my life a lot better.
 
@@ -64,7 +64,5 @@ Asking yourself simple questions about the present moment will help you stay in 
 Many small, incremental takeaways make *Wherever You Go, There You Are* a stash of hidden gems. Of course it’s been updated over the years (it was published in 1994), but even if it hadn’t been you could still open this and learn something that’s just as valuable today.
 
 Even if you’re a bit scared of meditation, this is a good place to start learning about it. Probably even more so. Thumbs up for Mr. Kabat-Zinn.
-
-## Who it’s for
 
 The 18 year old D student, who’s frustrated with studying and studying and studying, without seeming to get anywhere, the 44 year old construction worker, who’s often too tired to think after coming home from work and just zones out, and anyone, who bites their nails or picks their nose without noticing.

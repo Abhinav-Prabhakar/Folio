@@ -20,11 +20,9 @@ Let’s look at 3 of them in detail to help you succeed and inspire others:
 
 Here’s the wisdom of the bullfrog!
 
-### The Wisdom of the Bullfrog Summary
-
 ## Lesson 1
 
-### Build trust slowly and steadily, because there’s no red emergency button to quickly create it when you need it.
+### Build trust slowly and steadily, because there’s no red emergency button to quickly create it when you need it
 
 I first learned about bullfrogs during the Simpsons episode “*Bart vs. Australia*.” After Bart accidentally introduces one into the Australian ecosystem, they soon become a plague. Puzzled by the animal, an uninformed store clerk calls them “chazzwazzers,” or “sheep creatures” in the German voiceover.
 
@@ -36,7 +34,7 @@ In the Navy, however, the title of “Bull Frog” goes to “the longest, conti
 
 ## Lesson 2
 
-### Embrace the Army Rangers’ “Sua Sponte” motto — “of your own accord — to thrive in your career.
+### Embrace the Army Rangers’ “Sua Sponte” motto — “of your own accord — to thrive in your career
 
 Most of the best things in my business have happened because I did something I thought was needed but that no one gave me permission to do. This summary is a perfect example: I didn’t ask McRaven for his permission to write it. I just think you deserve one, so I’m trying to do the best job I can and hope if McRaven ever sees it, he’ll appreciate the effort.
 
@@ -48,7 +46,7 @@ Don’t wait for the world to nudge you into action. Take initiative. See what n
 
 ## Lesson 3
 
-### Ask yourself if you could “stand before the long green table” to see if your decisions are strategically sound and morally justified.
+### Ask yourself if you could “stand before the long green table” to see if your decisions are strategically sound and morally justified
 
 General Billy Mitchell was a decorated pilot during World War I and strong advocate of more air power for the US military. Back then, warfare was mostly naval. But despite proving that planes could sink ships with bombs, Mitchell was court-martialed.
 

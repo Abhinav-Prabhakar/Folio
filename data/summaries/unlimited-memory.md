@@ -18,7 +18,7 @@ Now that we’ve debunked three of the most interesting lessons from the book, l
 
 ## Lesson 1
 
-### Instead of trying to get more things done at once, focus on getting them done one by one.
+### Instead of trying to get more things done at once, focus on getting them done one by one
 
 We’ve all been in a situation where we try to get things done faster by piling up tasks, but end up spending more time in the process and becoming frustrated in the end. Perhaps you’re trying to get something done at work while answering emails, or texts while driving, to save some time. Well, studies suggest that multitasking can slow you down by 50%, and increases the chance of you making a mistake in the process by the same percentage.
 
@@ -28,7 +28,7 @@ When your efforts are targeted towards a specific goal, your brain focuses on th
 
 ## Lesson 2
 
-### Enhance your retention rate by remembering words and phrases creatively.
+### Enhance your retention rate by remembering words and phrases creatively
 
 Sometimes we read and read pages, only to realize that we ended up remembering nothing. Whether you find your mind wandering around in the process, or you get easily distracted, it’s time to apply the first lesson and enhance your concentration. Now, let’s focus on improving your retention. You can try improving your memory by bringing it to life.
 
@@ -38,7 +38,7 @@ Personally, I find this trick quite useful, as It has always worked for me. For 
 
 ## Lesson 3
 
-### To improve retention, transform numbers into letters, and letters into words.
+### To improve retention, transform numbers into letters, and letters into words
 
 There are many tricks you can try to use to improve your retention. However, the author suggests using one in particular: transforming numbers into letters and sounds. Of course, this practice is only useful if you try to remember historical dates or values, but that type of information makes up a large part of what we usually study or try to remember! Now, let’s work with an example to understand this concept better. Take number 9, and flip it horizontally. It looks like a p or a b, right? Now take number 6.
 
@@ -49,7 +49,5 @@ If you find that linking data to things you already know helps, such as associat
 ## Review
 
 *Unlimited Memory* helps you create a memory system that works in your favor. Reading this book will make you understand how your brain works when trying to retain information, and how to make it remember things more easily using a few effective tips-and-tricks. By implementing a series of key practices, such as transforming numbers into letters and sounds, linking information with fixed places, or associating dates with information you already know, you can tap into your highest potential when it comes to your brain’s retention capacity.
-
-## Who it’s for
 
 The 20-year-old student who wants to study better at university, the 35-year-old public figure who is trying to improve their public speaking skills by remembering speeches and names better, or the 50-year-old who is trying to preserve and even improve their memory skills.

@@ -22,11 +22,9 @@ Here are 3 lessons from the book to help you achieve financial freedom:
 
 Let’s discover the algebra of wealth!
 
-### The Algebra of Wealth Summary
-
 ## Lesson 1
 
-### Wealth is the absence of economic anxiety.
+### Wealth is the absence of economic anxiety
 
 Professor Galloway hates skiing but goes every year. It’s an excuse to spend time with his family. One night, his 11-year-old son walked in, crying. “I lost a glove. Mommy just bought me these. They cost 80 €. That’s a lot of money.”
 
@@ -40,7 +38,7 @@ That’s what wealth is truly about. Anything more is a bonus — like finding y
 
 ## Lesson 2
 
-### The formula to build wealth consists of 4 parts: focus, Stoicism, time, and diversification.
+### The formula to build wealth consists of 4 parts: focus, Stoicism, time, and diversification
 
 Galloway’s “algebra of wealth,” as he calls his formula, is a simple, 4-part equation: **Wealth = Focus + (Stoicism x Time x Diversification)**.
 
@@ -57,7 +55,7 @@ Focus on these elements, and you’ll do just fine in the long run.
 
 ## Lesson 3
 
-### Galloway has learned 4 big lessons from a lifetime of investing.
+### Galloway has learned 4 big lessons from a lifetime of investing
 
 While we can’t fit Scott’s entire Personal Finance 101 class into this summary, we can share some unique tips that stood out to me. Towards the end of the book, Galloway offers 4 big lessons learned from many decades of investing:
 
@@ -71,7 +69,5 @@ There you have it. Building your financial life right can take a long time — b
 ## Review
 
 *The Algebra of Wealth* is a useful collection of Scott Galloway’s best money advice, of which he has plenty. Always told in story-form with plenty of dry humor, this book will both make you chuckle and go “Aha!” in every chapter. Awesome!
-
-## Who it’s for
 
 The 19-year-old college major who learned nothing about personal finance in school, the 35-year-old successful startup founder who hasn’t liquidated any of his stock, and anyone who feels like they should have “made it” by now.

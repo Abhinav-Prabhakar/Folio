@@ -16,7 +16,7 @@ Time to dig in!
 
 ## Lesson 1
 
-### Not all memories are created equal.
+### Not all memories are created equal
 
 Similar to the way we create habits (remember Hebb’s rule?), memories are also formed when neurons form new connections. The bridge between two neurons is called a synapse, and when these are newly formed, that’s when we remember. When we then recall that memory later, the synapses that belong to it grow thicker, making it easier to recall it in the future.
 
@@ -28,7 +28,7 @@ For example the taste of the ice-cream my grandma bought me is stored in the syn
 
 ## Lesson 2
 
-### Use the spacing effect to remember things long-term.
+### Use the spacing effect to remember things long-term
 
 Maybe you met your new neighbor John at a party, then I’m sure you know the scenario. He introduces himself, you shake his hand, and already start **repeating his name in your head**, so you don’t forget it within 20 seconds. “John, John, John, John…”
 
@@ -40,7 +40,7 @@ What does this mean for your studying? Simple: Study for the same time, but in m
 
 ## Lesson 3
 
-### Let the Zeigarnik effect boost your memory and creativity.
+### Let the Zeigarnik effect boost your memory and creativity
 
 The blink was a bit confusing, because it said interruptions help your memory. What it was talking about (without naming it), was the Zeigarnik effect. It means that your brain opens a loop once you start a project or task, and if you leave it unfinished, your brain will nag you about it until you complete it.
 
@@ -57,7 +57,5 @@ The Zeigarnik effect is the reason why.
 This was the perfect set of blinks. It wasn’t too long (8 blinks total), and every single blink had one great point to make. What’s more, all of them were new to me in one way or another. From someone who’s written a massive 11-step study routine post, and created a mini studying course this means a lot. The author really did his homework.
 
 I could’ve easily written down 8 lessons from this summary, I really had to settle here. What’s really cool about *How We Learn* is that it combats the common advice that you just have to put in your hours on one skill and instead shows you it’s actually better to practice with some space for time off and variety. A good read!
-
-## Who it’s for
 
 The 35 year old science nerd, who loves to learn all the latest research about how our brain works, the 21 year old college girl, who just forgot someone’s name yesterday, and anyone who’s attending high school or college right now.

@@ -14,8 +14,6 @@ I got *I Will Teach You To Be Rich* for Christmas last year, and liked his funny
 
 Let’s go!
 
-### I Will Teach You To Be Rich Summary
-
 ## Lesson 1
 
 ### Start taking responsibility for your money
@@ -58,7 +56,7 @@ As with any habit, removing the need for willpower makes it a lot easier to get 
 
 ## Lesson 3
 
-### Start investing today. No joke.
+### Start investing today. No joke
 
 Investing is hard. You have to read books, talk to people, and educate yourself. But you will **regret every single day you waited** to start doing it once you’re old.
 
@@ -85,7 +83,5 @@ Start taking responsibility and act today.
 *Rich Dad Poor Dad* teaches you the investor mindset, once you’re ready to invest. *I Will Teach You To Be Rich* teaches those who aren’t. There’s plenty of great starting points in this book, for those who struggle with swiping their magic credit card too often and have no clue about saving, let alone investing.
 
 I like that the book makes room for spending on what you enjoy, and eliminating temptations by simply automating as much as possible. Whatever’s left you can spend however you want. It’s quite a funny book too, go for it!
-
-## Who it’s for
 
 The 24 year old recent graduate, who blows all of his fancy new salary on video games and takeout, the 35 year old who sits on a pile of cash, because she’s afraid of losing the money, and anyone who blames others for being broke.

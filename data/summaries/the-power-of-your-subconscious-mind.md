@@ -16,11 +16,9 @@ That’s why this how-to guide for manipulating your own behavior to get what yo
 
 Would you like to steer your behavior in the right direction on autopilot? Who wouldn’t? So let’s see what we can learn!
 
-### The Power Of Your Subconscious Mind Summary
-
 ## Lesson 1
 
-### Visualization is a means to use the placebo effect to your advantage.
+### Visualization is a means to use the placebo effect to your advantage
 
 The central point of the book is that you can use your imagination to suggest ideas to your subconscious to get what you want. If repeated often enough, your mind will then steer your behavior more towards making those ideas a reality, unbeknownst to you. There are many ways you can do this, but most of them can be summarized under the concept of **visualization – picturing yourself achieving a certain goal or outcome**.
 
@@ -30,7 +28,7 @@ Murphy describes many examples in the book, like an opera singer, who used this 
 
 ## Lesson 2
 
-### When in doubt, sleep on it. Often, you can make more confident decisions after a good night’s rest.
+### When in doubt, sleep on it. Often, you can make more confident decisions after a good night’s rest
 
 Another way you can make use of your subconscious is to simply sleep on things when you have a tough time deciding.
 
@@ -40,7 +38,7 @@ Now, hindsight is 20/20 and it’s impossible to know how things might’ve chan
 
 ## Lesson 3
 
-### Wish others well, for envy will only prevent you from getting what you want.
+### Wish others well, for envy will only prevent you from getting what you want
 
 While your subconscious can be very useful if steered in the right direction, it can also make you get in your own way.
 
@@ -53,7 +51,5 @@ So don’t fall into a victim mindset. The pie isn’t limited. There’s enough
 ## Review
 
 For any book that’s over 50 years old, it’s important to consider the context of its time. In this case, the book goes a bit overboard with what we can realistically expect to be possible from visualization. The law of attraction is real, but only works if you do too. That said, with a bit of distance, you can pick up several useful ideas from *The Power Of Your Subconscious Mind*.
-
-## Who it’s for
 
 The 31 year old investment analyst, who’s so competitive he forgets his coworkers are people too, the 53 year old doctor, who scares her patients with her blunt attitude, and anyone who’s currently stuck with a tough decision.

@@ -22,7 +22,7 @@ Ready to hear the real story of a black man in America – and enjoy some laughs
 
 ## Lesson 1
 
-### Being an African American doesn’t necessarily help you connect with native Africans.
+### Being an African American doesn’t necessarily help you connect with native Africans
 
 For a white person who can’t imagine being black, it may seem that the blackness of the skin is enough of a bonding factor. A lot of people don’t realize that within what they call the “black culture,” divisions are also present.
 
@@ -38,7 +38,7 @@ His friend’s dad simply treated him from a position of superiority – exactly
 
 ## Lesson 2
 
-### One of the best ways to bridge the gap between black and white people is to encourage mixed-race friendships.
+### One of the best ways to bridge the gap between black and white people is to encourage mixed-race friendships
 
 When he went to school, Thurston initially struggled to make friends. There were only a handful of other black kids around – and even the visual impression this created felt, at the very least, awkward.
 
@@ -54,7 +54,7 @@ This, Thurston says, can enable mitigating the problems of racism and grow mutua
 
 ## Lesson 3
 
-### Skin color and cultural identity aren’t good predictors of people’s worldview and solidarity.
+### Skin color and cultural identity aren’t good predictors of people’s worldview and solidarity
 
 There is a common misconception that the black hold shared opinions on affairs such as politics or social justice. Just because of the color of their skin, people assume that they “think the same thing,” Thurston points out.
 
@@ -71,7 +71,5 @@ So, as it shows – racial labels are still present in both white and black peop
 ## Review
 
 *How To Be Black* is a perfect example of how well one person’s story can capture society as a whole. Thurston’s book brings the much-needed humor and distance into the fragile topics of racism, equality and inclusiveness. At the same time, he treats those problems with an appropriate dose of seriousness – which makes his book as eye-opening, as it is entertaining.
-
-## Who it’s for
 
 The 21-year-old cultural studies student who wants to get a deeper understanding of racial conflicts, the 32-year-old parent of a mixed-race child who wants to teach them how to bridge the gaps between the black and white communities, and to anyone passionate about equality and social justice.

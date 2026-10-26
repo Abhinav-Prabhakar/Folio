@@ -18,11 +18,9 @@ If we follow the story to its inflection points, there’s a lot we can learn. H
 
 Ghosts of Christmas, here we come!
 
-### A Christmas Carol Summary
-
 ## Lesson 1
 
-### Everyone gets self-obsessed from time to time, but not everyone listens to a reminder to snap out of it when they receive one.
+### Everyone gets self-obsessed from time to time, but not everyone listens to a reminder to snap out of it when they receive one
 
 On the 7th anniversary of his business partner Jacob Marley’s death, rich, old industrialist Ebenezer Scrooge spends yet another Christmas Eve by himself. He hates the holiday and everything about it. Walking the streets of London, he snubs the poor, rejects his nephew’s Christmas party invitation, and barely gives his employee Bob Cratchit the day off.
 
@@ -34,7 +32,7 @@ Look, I get it. Life is tough! Everyone wants something from you. It’s hard to
 
 ## Lesson 2
 
-### Both the past and the present can show us that we’d like to be involved in society beyond just looking out for ourselves.
+### Both the past and the present can show us that we’d like to be involved in society beyond just looking out for ourselves
 
 As promised, more ghosts show up at Scrooge’s house that night. The Ghost of Christmas Past takes him back to his childhood, showing him he once had meaningful relationships with both his sister and his first boss. Once upon a time, Scrooge was even engaged, but his fiancée Belle left him once he became obsessed with money.
 
@@ -48,7 +46,7 @@ As long as we do it in a way that aligns with our values, giving and sharing is 
 
 ## Lesson 3
 
-### It’s never too late to change your ways, and thinking about your funeral is a great way to start doing it.
+### It’s never too late to change your ways, and thinking about your funeral is a great way to start doing it
 
 Scrooge’s final, silent visitor, the Ghost of Christmas Yet to Come, shows him a bleak future. A hated man’s funeral is scarcely attended by a few businessmen who had to be bribed with lunch. Even his caretakers steal his last remaining possessions in order to sell them. The ghost also shows Scrooge that Timmy died. Finally, he reveals the tombstone of the hated man actually bears Scrooge’s name.
 

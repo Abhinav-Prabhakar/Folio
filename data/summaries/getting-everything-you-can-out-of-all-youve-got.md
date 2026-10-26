@@ -18,7 +18,7 @@ Ready for some uncommon marketing sense? Let’s learn from one of the world’s
 
 ## Lesson 1
 
-### Reduce your customers’ risk to less than zero with a BTRF guarantee.
+### Reduce your customers’ risk to less than zero with a BTRF guarantee
 
 What’s the biggest concern that keeps you from buying anything ever? For me it’s this: **How can I be sure, nay, 100% *certain*, that this will be worth the money I spend on it?**
 
@@ -32,7 +32,7 @@ Knowing you can get all of your money back *and* *more* is one of the most comfo
 
 ## Lesson 2
 
-### Create win-win relationships with businesses that are related to yours, but not direct competitors.
+### Create win-win relationships with businesses that are related to yours, but not direct competitors
 
 Have you ever heard the term cross-selling? It means to offer complementary goods and services with products. For example, if you look at picture frames on Amazon, it’s a good bet for them to show you pictures too, along with nails and maybe even a hammer – you’re likely to need those things in combination with the frame, after all!
 
@@ -63,7 +63,5 @@ Look at what non-monetary goods you have to offer and then let’s bring back th
 ## Review
 
 You’ll find at least one valuable strategy you haven’t yet tried to grow your business in *Getting Everything You Can Out Of All You’ve Got*. I’m sure of it. However, the summary on Blinkist is rather short, so I recommend you jump straight to the book with this one. If you’re in “What should I try next mode?” this is the book to read.
-
-## Who it’s for
 
 The 21 year old college student, who runs a business out of his dorm room and needs new growth strategies, the 46 year old CMO, who’s in an idea drought, and anyone who loves games where you can trade.

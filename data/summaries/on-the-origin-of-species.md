@@ -20,7 +20,7 @@ Without further ado, let’s try and at least touch upon the main ideas of Darwi
 
 ## Lesson 1
 
-### To understand natural selection, it may help to look at human selection first.
+### To understand natural selection, it may help to look at human selection first
 
 Before we proceed to explore the laws of natural selection, let’s look at human-induced breeding of certain animals. Various breeds of dogs or pigeons, for example, are the product of human selection.
 
@@ -34,11 +34,11 @@ We can acknowledge that, in the process of natural selection, nature acts as an 
 
 ## Lesson 2
 
-### Evolution uses sexual selection and diversification as important factors to decide what genes are passed on.
+### Evolution uses sexual selection and diversification as important factors to decide what genes are passed on
 
 Survival-enabling traits are important. But they’re not the only factor which decides about how natural selection will shape the species. Other important mechanisms in play are sexual selection and diversification.
 
-A very well-adapted individual, whose genes enable it to thrive in their current environment may still not manage to pass those genes on if it fails to mate. **That’s whybeing attractive to the potential sexual partner is also a key factor in natural selection.**
+A very well-adapted individual, whose genes enable it to thrive in their current environment may still not manage to pass those genes on if it fails to mate. **That’s why being attractive to the potential sexual partner is also a key factor in natural selection.**
 
 Interestingly, the competition in this realm happens mainly between males. As Darwin notes, male are the ones who have to adjust their traits to the liking of the females. The latter, conversely, get to decide which characteristics they value the most in their mates. Consequently, they have an important say in how the species evolves!
 
@@ -50,7 +50,7 @@ Over time, diversification within one species can go deep enough to create sever
 
 ## Lesson 3
 
-### The consequence of natural selection is the divergent biosphere in very similar geographical locations.
+### The consequence of natural selection is the divergent biosphere in very similar geographical locations
 
 One question that may be boggling is: why, in very similar environments across the planet, do we encounter different biosphere? After all, if species evolve to comply with their environment, shouldn’t we see the same species distribution where the living conditions are virtually identical?
 
@@ -65,7 +65,5 @@ Interestingly, some species figured out clever ways to surpass their migration b
 ## Review
 
 Is it even possible to write a “review” of a landmark book like this one? Darwin’s erudition and intelligence become self-evident as you read through *On the Origin of Species*. Although some of his assumptions are outdated, it is a pleasure to explore the natural world, guided by Darwin himself.
-
-## Who it’s for
 
 The 22-year-old biology student looking for supplementary reading, the 30-year-old freelance journalist interested in nature and environmental causes and to anyone who is trying to understand life better.

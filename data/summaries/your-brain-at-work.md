@@ -20,7 +20,7 @@ Ready to kick your brain into the next gear? Time to learn!
 
 ## Lesson 1
 
-### Your ability to think is limited, just like your willpower, so remove distractions and don’t multitask.
+### Your ability to think is limited, just like your willpower, so remove distractions and don’t multitask
 
 You might know that your willpower is limited, and that all you can do to get it back after a long tiring day is rest, get plenty of sleep and recover.
 
@@ -43,7 +43,7 @@ Rock suggests 2 solutions to this:
 
 ## Lesson 2
 
-### When you compete against your own self from the day before, you boost your brain power.
+### When you compete against your own self from the day before, you boost your brain power
 
 “Ha, I told you I was right!”
 
@@ -67,7 +67,7 @@ Talk about a lifehack, eh?
 
 ## Lesson 3
 
-### Instead of giving direct feedback, help others see the solution on their own.
+### Instead of giving direct feedback, help others see the solution on their own
 
 Yes, we all need some tough love sometimes.
 
@@ -92,7 +92,5 @@ Sorry (not really:P).
 The summary is very informative, has some great statistics and facts (as you’ve seen), and I’m very curious about the book now, wanting to follow Emily and Paul’s journey.
 
 Read the summary and then make up your mind, I’m sure you’ll agree with me that both are well worth a read.
-
-## Who it’s for
 
 The 19 year old college student, who thinks she just needs to study harder when she’s already pulling all nighters, the 44 year old team leader who can’t seem to help his employees overcome the obstacles they face at times, and anyone who thinks they need to be in competition with everyone else, instead of just themselves.

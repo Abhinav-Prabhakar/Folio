@@ -50,6 +50,4 @@ After you’ve understood what their issue is, validate it. You can do so using 
 
 *I Hear You* is a remarkable piece of writing that delves into the subject of emotions, empathy, acknowledging the others that are next to us, and most importantly, learning how to listen to them. This book will teach its readers how to engage in conversations that are productive and meaningful, without adding on to already existing frustrations. Moreover, it will help you lead a conversation the right way, validate your interlocutor, and avoid conflict using the right methods.
 
-## Who it’s for
-
 The 27-year-old person that wants to learn how to avoid conflicts and be more empathic in their romantic relationship, the 40-year-old leader who wants to learn how to listen to their team better and avoid conflicts at work, or the 30-year-old person who wants to improve their social skills and relationships overall.

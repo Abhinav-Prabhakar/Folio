@@ -18,11 +18,9 @@ Here are 3 lessons from the resulting book about those emotions’ purpose in ou
 
 Let’s dive into the complex world of human feelings and see what we can learn!
 
-### Bittersweet Book Summary
-
 ## Lesson 1
 
-### Positive and negative emotions go hand in hand, and if we want to avoid only some of them, we’ll suppress our feelings altogether.
+### Positive and negative emotions go hand in hand, and if we want to avoid only some of them, we’ll suppress our feelings altogether
 
 During the siege of Sarajevo in 1992, a bomb fell on a marketplace, killing 22 people queuing for food rations that day. The next morning, a man in a tuxedo showed up with a cello. For the next 22 days, he played Albinoni’s Adagio in G Minor in plain view, sitting amidst the ruins, commemorating each of the victims.
 
@@ -34,7 +32,7 @@ Think about it: If you didn’t feel down on some days, how could finding inspir
 
 ## Lesson 2
 
-### Western society’s focus on “winners vs. losers” has led to a forced-positivity craze.
+### Western society’s focus on “winners vs. losers” has led to a forced-positivity craze
 
 Americans supposedly smile more than any other people in the world, and yet, they also struggle with happiness. According to studies, 30% of Americans will suffer from anxiety at some point in their lives, and 1 in 5 will develop major depression.
 
@@ -46,7 +44,7 @@ There’s more to life than winning and losing, and if you’re tired of fake po
 
 ## Lesson 3
 
-### The older you get, the more aware of your mortality you’ll become — and this will actually make you happier.
+### The older you get, the more aware of your mortality you’ll become — and this will actually make you happier
 
 The most liked tweet on Twitter marks the passing of Chadwick Boseman, who played the *Black Panther*. Here, too, pain and joy go hand in hand. In the movie’s sequel, his sister Shuri struggles with his death. At first, she tries to just “move on,” but it only makes her angry and resentful. Only once Shuri finally performs the traditional Wakandan funeral rites does she find a sense of calm.
 
@@ -61,7 +59,5 @@ Don’t push away death, and don’t try to shut out grief when it comes. Reflec
 ## Review
 
 Like the emotions it aims to help us understand, *Bittersweet* is somewhat of a mixed-bag book. While the range of topics is broad and the book’s sections only loosely connected, everything Cain does tap into is worth exploring. If you’re looking for a good overview of our negative emotions and how they serve us, pick up this book!
-
-## Who it’s for
 
 The 14-year-old high school student who lost her father at a young age, the 35-year-old young professional who feels as if they are in a pressure cooker at work, and anyone who, for some inexplicable reason, prefers sad songs over happy ones.

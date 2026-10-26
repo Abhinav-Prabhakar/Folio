@@ -18,7 +18,7 @@ Ready to get your gears spinning about one of the most controversial topics in h
 
 ## Lesson 1
 
-### In the battle of evolutionist vs. creationist, creationism dominates most of the Western world.
+### In the battle of evolutionist vs. creationist, creationism dominates most of the Western world
 
 Before we get started, we’d do well to define what evolutionist and creationist even means.
 
@@ -32,7 +32,7 @@ In fact, over 400 years BC, two Greek philosophers, Leucippus and Democritus (in
 
 ## Lesson 2
 
-### In culture, economics and technology, progress is based on evolution.
+### In culture, economics and technology, progress is based on evolution
 
 What started in ancient Greece as a theory to make sense of the world, turned into a never-ending series of questions, such as “If God designed both humans and the earth, who designed God?”
 
@@ -46,7 +46,7 @@ Languages are made from small building blocks (words), all using the same elemen
 
 ## Lesson 3
 
-### The concept of money changed from evolutionist to creationist, and the same could happen to the internet.
+### The concept of money changed from evolutionist to creationist, and the same could happen to the internet
 
 With that, an important question to ask is this: **Where in our world do we conform to a creationist way of thinking, when really an evolutionary process is what drives progress?**
 
@@ -61,7 +61,5 @@ Thanks to the internet, there’s hope though. With loyalty programs for airplan
 ## Review
 
 Many interesting take-aways to be learned from *The Evolution Of Everything*, the most important one being: keep your eyes open for what’s creationist, and what’s evolutionist. More often than not, we’re blind to the obvious, evolutionary process going on underneath, and it hurts our ability to make progress. This’ll help.
-
-## Who it’s for
 
 The 23 year old devout Christian, who loves to talk and argument about the origins of his religion, the 32 year old agnostic, who doesn’t like church, but believes in the competence of her government, and anyone who had fun in biology class.

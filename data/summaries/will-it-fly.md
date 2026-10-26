@@ -20,7 +20,7 @@ Ready to pave the runway for your business, so it can take off and soar to the s
 
 ## Lesson 1
 
-### Interview your future self to match your lifestyle with your business.
+### Interview your future self to match your lifestyle with your business
 
 It’s so easy to screw this up. Trust me, I’ve done it. Even if you know your own values, goals and priorities, it’s another thing to truly live them.
 
@@ -36,7 +36,7 @@ Even just writing such goals down once and never looking at them again helps you
 
 ## Lesson 2
 
-### Match your idea with your target customers by creating a Customer P.L.A.N.
+### Match your idea with your target customers by creating a Customer P.L.A.N
 
 Between the two parts of achieving any goal, planning and executing, the planning part is what makes sure that your execution actually gets results. Naturally, Pat always does a ton of research, before launching a new idea, so he can be guaranteed it won’t fall flat on its face.
 
@@ -53,7 +53,7 @@ But even the best plan must be backed up by one thing, without no business can s
 
 ## Lesson 3
 
-### Never build something before validating it financially. Shoot for 10% of your buyers as pre-sales.
+### Never build something before validating it financially. Shoot for 10% of your buyers as pre-sales
 
 This is the last, but most important step of any idea validation process, and without it, all former steps are useless. **You have to get people to pay you for what you’re going to create for them – up front.**
 
@@ -68,7 +68,5 @@ So if you’re thinking about creating an Ultimate Frisbee class for adults and 
 ## Review
 
 At the time the book came out the whole concept wasn’t new to me any longer, but now going back through it, I think this should be mandatory reading for anyone even considering a side hustle. Seriously. If you’re not making money, you don’t own a business, you just have a hobby – *Will It Fly?* will help you make sure you’re not mistaking one for the other. If you have even the slightest entrepreneurial inclinations, go get this book!
-
-## Who it’s for
 
 The 17 year old with an app idea, that he wants to code in the hours after school and release on the App Store, the 39 year old, who went back to a regular job after her first business failed, and anyone who wonders if their ideas are actually any good.

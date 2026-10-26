@@ -10,7 +10,7 @@ Until, one day, I realized: The purpose of meditation is not to eliminate distra
 
 This reframing changed everything. Suddenly, outside noises were more chances to *practice* meditation instead of an *obstacle* to it!
 
-If you, too, would like to improve your life with reframes, look no further than Scott Adams. In his book *Reframe Your Brain: The User Interface for Happiness and Success*, the cartoonist of *Dilbert-* fame offers 160 of these simple perspective shifts.
+If you, too, would like to improve your life with reframes, look no further than Scott Adams. In his book *Reframe Your Brain: The User Interface for Happiness and Success*, the cartoonist of *Dilbert-*fame offers 160 of these simple perspective shifts.
 
 Here are some of Adams’ best reframes in 2 big categories, plus how you can come up with your own:
 
@@ -22,7 +22,7 @@ Let’s learn how to change our lives simply by changing our minds!
 
 ## Lesson 1
 
-### Improve your mental health with 10 Stoicism-inspired reframes.
+### Improve your mental health with 10 Stoicism-inspired reframes
 
 Adams is an outspoken multi-millionaire with controversial views who’s written several books about persuasion and success, like *How to Fail at Almost Everything and Still Win Big* and *Loserthink*. Given his background, you wouldn’t expect the largest section of his book to be about mental health — but it is. Refreshing!
 
@@ -52,7 +52,7 @@ Of course, Adams also has a few things to say about his favorite topic: success 
 
 ## Lesson 2
 
-### Adams’ philosophy of success rests on 3 pillars.
+### Adams’ philosophy of success rests on 3 pillars
 
 In *Star Wars*, Han Solo flies into an asteroid field to evade enemy spaceships. When his loyal robot C-3PO reminds him the chances of making it through are 3270 to 1, Han only says: “Never tell me the odds!” Sure enough, they manage to escape.
 
@@ -85,7 +85,7 @@ Adams failed at a lot of things that he was technically qualified for, yet he of
 
 ## Lesson 3
 
-### You can create your own reframes for any situation with 5 simple rules.
+### You can create your own reframes for any situation with 5 simple rules
 
 To end the book, Adams acknowledges that not all reframes will work for everyone. Thankfully, we can make up our own! All we have to do is follow 5 rules while doing so. From the book:
 
@@ -102,7 +102,5 @@ Learn to come up with your own reframes, be creative, and never stop changing yo
 ## Review
 
 *Reframe Your Brain* is a refreshing take in the affirmations-and-visualizations space. Adams’ writing is fun, unpretentious, and covers a wide range of useful tweaks you can try. Give reframes a go, and see if they work for you!
-
-## Who it’s for
 
 The 15-year-old anxious teenager, who’s too young for proper psychology books but wants to feel more confident, the 32-year-old failed entrepreneur who’s ashamed to admit that his business went bust, and anyone who doesn’t like walking their dog.

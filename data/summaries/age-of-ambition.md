@@ -20,13 +20,13 @@ Are you ready to take a look inside the recent history of one of the world super
 
 ## Lesson 1
 
-### The people of China had more influence on it’s rise to power than the government did.
+### The people of China had more influence on it’s rise to power than the government did
 
 Let’s go back to the 1950s. China is still pretty poor. The per capita income was only ⅓ of sub-Saharan African countries even up until about 1979. Part of the problem was the well-meaning Mao Zedong’s *Great Leap Forward* order, which made private farming illegal.
 
 This was an attempt to bring China to a new level of industrialism and economic status, and at first, production grew. But it quickly began to slide backward when famine and recession killed 30-45 million people. This was greater than all of the casualties, military and civilian, in World War I!
 
-Hope for the Chinese people still lay with the potential of the farmers whose determination to survive led to real progress. **The growth started with18 poverty-stricken farmers in Xiaogang village banded together to share land evenly, cultivate it, and protect one another.**
+Hope for the Chinese people still lay with the potential of the farmers whose determination to survive led to real progress. **The growth started with 18 poverty-stricken farmers in Xiaogang village banded together to share land evenly, cultivate it, and protect one another.**
 
 The government still took a large portion of these peasant’s harvests. But they did sell what was leftover to earn some profit. A year later, their earnings were 20 times greater! Other farmers caught on and quickly markets began thriving.
 
@@ -36,7 +36,7 @@ Never underestimate the power of the little things compounded many times over to
 
 ## Lesson 2
 
-### Drive for success is an abundant trait in the Chinese people.
+### Drive for success is an abundant trait in the Chinese people
 
 Ambition began to shine in China once individuals were allowed to start their own businesses. They have an idea called the “barehanded” fortune which is similar to the American dream. Stories of people working hard to get rich quickly became popular in newspapers and other media. We all love those rags to riches stories, and the Chinese are no different!
 
@@ -50,7 +50,7 @@ Some of these who can’t afford a higher quality education will send their chil
 
 ## Lesson 3
 
-### Individuality is finally starting to grow in China after a long time of governmental oppression.
+### Individuality is finally starting to grow in China after a long time of governmental oppression
 
 We could go on for days about the corrupt and over-controlling Chinese political system. Let’s just say that I’m grateful I don’t have helicopter parents, and I’m *really* grateful that I don’t have a helicopter government!
 
@@ -67,7 +67,5 @@ Mao Zedong banned matchmaking, which just led to family elders and others settin
 ## Review
 
 Whoa, I had no idea that China was improving this much! I haven’t ever really kept tabs on what’s going on there, but *Age Of Ambition* made it easy to get up to speed. What I liked though was that this book inspired me by showing the power that the average people have to make a big difference in a nation.
-
-## Who it’s for
 
 The 57-year-old who is curious about the current state of affairs in China, the 24-year-old who complains about the problems of free speech in their country but has no idea how bad it can really get, and anyone who wants to hear an inspiring story of how China is growing quickly.

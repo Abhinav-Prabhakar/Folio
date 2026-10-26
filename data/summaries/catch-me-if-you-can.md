@@ -18,7 +18,7 @@ Catch these lessons…if you can!
 
 ## Lesson 1
 
-### Don’t let a means become an end.
+### Don’t let a means become an end
 
 Why would anyone become a con-artist as early as age 16? Sure, Frank Abagnale was an extreme case, but how did he end up with this “career choice?” I believe it comes down to this: Being a spoiled child, Frank Abagnale never had a chance to learn the value of hard, honest work.
 
@@ -32,7 +32,7 @@ And that’s exactly what happened to Frank…
 
 ## Lesson 2
 
-### Lying is exhausting, because you have to keep track of everything you’ve said.
+### Lying is exhausting, because you have to keep track of everything you’ve said
 
 …but not for a while. It took national and international police five long years to catch Frank, because he was really good at one thing: lying. However, the longer you lie, the bigger your construct of false statements gets and the harder it becomes to maintain.
 
@@ -44,7 +44,7 @@ When you speak the truth, it’s still the truth five years later, so if someone
 
 ## Lesson 3
 
-### Sometimes the wrong skill can lead you to the right path, so don’t discredit anything you’ve learned.
+### Sometimes the wrong skill can lead you to the right path, so don’t discredit anything you’ve learned
 
 After being captured in France in 1969, Frank first served six months of jail time in an almost medieval prison, then another six months in Sweden, before being extradited to the United States and sentenced to another 12 years. However, he spent a mere five of those in jail, and was then granted parole in exchange for working with the FBI to help identify crimes involving fraud, forgery and scams.
 
@@ -57,7 +57,5 @@ So don’t discredit anything you’ve done, learned or experienced in your life
 ## Review
 
 *Catch Me If You Can* is a great story. Funny, memorable and so much to learn from. In case you haven’t seen the movie, definitely go and do that, but I can also highly recommend a talk Frank gave in 2013. Very refreshing read!
-
-## Who it’s for
 
 The 18 year old soon-to-be college freshman, who has no idea what she wants to do in life, and is about to choose a major that’ll “make a lot of money”, the 35 year old bachelor, who’s forgotten half of the broken promises he’s made to the women in his life, and anyone who thinks they have a skill that’s completely and utterly useless.

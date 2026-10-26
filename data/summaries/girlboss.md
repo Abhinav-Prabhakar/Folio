@@ -22,7 +22,7 @@ Let’s find out what’s important to know when you run a startup!
 
 ## Lesson 1
 
-### The way to greatness is not always straight – odd jobs and unconventional experiences can be part of your way to success.
+### The way to greatness is not always straight – odd jobs and unconventional experiences can be part of your way to success
 
 Going to university, getting good grades, and having the support of others can make it easier to start your own business. But through unique adventures, you can learn a lot about yourself, your passions, and your strengths.
 
@@ -36,7 +36,7 @@ She had so much time to kill that she decided to start her Nasty Gal Vintage sho
 
 ## Lesson 2
 
-### Know your business and focus on products and customers.
+### Know your business and focus on products and customers
 
 When you’ve found what you love to do, what happens next? Get to know your business inside and out and stay focused on it.
 
@@ -52,7 +52,7 @@ After selling an item quickly, she immediately looked for similar pieces. If her
 
 ## Lesson 3
 
-### To grow your company, you need to work for your customers and with like-minded people.
+### To grow your company, you need to work for your customers and with like-minded people
 
 When starting her online shop, Sophia wanted to differentiate it from other vintage eBay stores that used romantic names, bad pictures, and poor marketing. Amoruso provided an immersive fashion experience and an inimitable, quirky style. Additionally, she put in the effort to understand her customers’ tastes.
 
@@ -67,7 +67,5 @@ One year the Nasty Gal’s warehouse chief quit just before Black Friday. It cou
 ## Review
 
 As kids, we learn that to prosper, we need to get good grades, go to college, and find a 9-5 job. *#GIRLBOSS* is inspiring for both those who stuck to those rules and those who didn’t. Whatever your choices, remember that you can learn from any experience and support yourself with your passions.
-
-## Who it’s for
 
 The 29-year-old who doesn’t like his job and feels lazy, the 20-year-old student who thinks the most crucial step to happiness is to finish university as soon as she can, and anyone who is feeling bad because they do odd jobs to pay the bills.

@@ -24,7 +24,7 @@ Well, stick with us, and let’s explore them in detail to discover what they re
 
 ## Lesson 1
 
-### Play on your strong points, such as your talents and skills.
+### Play on your strong points, such as your talents and skills
 
 When you engage with others and create a network of your own, it is important to remark yourself as a reliable, skilled individual when it comes to certain subjects and domains. This is particularly important as your colleagues will become the future professionals of tomorrow, and so will you.
 
@@ -38,7 +38,7 @@ Moreover, identify your personal characteristics and native strengths to make us
 
 ## Lesson 2
 
-### Keep an open mindset when it comes to new ideas and change.
+### Keep an open mindset when it comes to new ideas and change
 
 Being an inflexible person, unable to adapt to change, and receiving criticism is a very harmful approach to life in the long run. Not only will it narrow your circle of friends and acquaintances, but it will also inhibit your personal growth and creativity skills.
 
@@ -50,7 +50,7 @@ Listen to what others have to say about you and accept constructive criticism, a
 
 ## Lesson 3
 
-### Always strive for more by setting goals and sticking to them.
+### Always strive for more by setting goals and sticking to them
 
 When you find yourself in a completely new environment, it can be quite challenging to find a direction and a sense of belonging. Of course, everyone wants to be seen for who they are and excel at what they’re doing. To get there, you’ll have to find what you’re good at and work on it until you become an expert.
 
@@ -63,7 +63,5 @@ Start by writing down concrete and specific goals, bound by a time frame. Split 
 ## Review
 
 *U Thrive* is a go-to guide for any potential college student who wants to start fresh and create meaningful experiences and relationships in their campus life. Surviving the pressure of having good grades, keeping the focus on what matters, all while trying to stay social and connected to everyone can be tough. Reading this book will help any high-school graduate find the balance between all of these while maintaining their happiness.
-
-## Who it’s for
 
 The 19-year-old high-school graduate who feels unprepared for college life, a 22-year-old college student who wants to improve their academic experience or a 38-year-old professor who wants to be more empathic towards their students and help them throughout their academic life or admission process.

@@ -20,7 +20,7 @@ Are you ready for a new perspective on the power of your brain? Let’s dive rig
 
 ## Lesson 1
 
-### Right-brain thinking is great for the Conceptual Age that we are moving into now.
+### Right-brain thinking is great for the Conceptual Age that we are moving into now
 
 A few months ago I had a friend contact me for some help finding a job. He’s an engineer like I am, and wanted to see if I had any connections that were hiring. I did what I could, but these days it’s just difficult to stand out. It seems that everyone’s got an engineering degree or knows how to code. What does it take then?
 
@@ -41,7 +41,7 @@ These skills are so vital also because it’s easy for companies to outsource le
 
 ## Lesson 2
 
-### Giving facts isn’t enough to convince people to follow you anymore, storytelling is the way to go now.
+### Giving facts isn’t enough to convince people to follow you anymore, storytelling is the way to go now
 
 One central component of the human existence has always been stories. They are the way we remember things, even our own lives. If you think about it, you tend to see your existence as having a beginning and events along the way. Tales, which we use to remember things, have a bigger impact on our minds than mere facts. Stories also help our lives have a sense of purpose.
 
@@ -53,7 +53,7 @@ In general, many companies are switching to storytelling as a way to stand out i
 
 ## Lesson 3
 
-### You need to practice your emotional skills such as empathy if you don’t want to become obsolete in the wake of AI.
+### You need to practice your emotional skills such as empathy if you don’t want to become obsolete in the wake of AI
 
 Is your job at risk of being taken over by a machine? In this age we’re all worried about this happening, and for good reason. But there is hope in the one difference between us and computers, and that’s emotion. Computers can’t replicate this important feature of people that is a component of our right hemisphere.
 
@@ -68,7 +68,5 @@ Take a lesson from some of the top programs in the world and teach yourself some
 ## Review
 
 Well, at first I didn’t think I would like *A Whole New Mind* but found it a pleasant surprise. I’m not sure we need to compare the importance of the left and right brains, but knowing their functions is vital. This was especially helpful to me, as one who is good at details, to get an appreciation for big-picture thinking!
-
-## Who it’s for
 
 The 47-year-old engineer who has a difficult time seeing the forest through the trees, the 22-year-old college student that’s looking for information on how the workplace has changed in the last few years, and anyone who wants to understand their brain better.

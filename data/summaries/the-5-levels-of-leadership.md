@@ -26,7 +26,7 @@ Are you as excited as I am to learn the keys to motivational leadership? Let’s
 
 ## Lesson 1
 
-### Use your personality and values to lead, not your management title.
+### Use your personality and values to lead, not your management title
 
 Have you ever had a leader that you felt was constantly defending their position in the company? This person might have built a large staff or got the highest budget just to make themselves look important. We’ve all seen these types of leaders. They’re more focused on their position than people, and thus end up wasting time, energy, and the potential of their team.
 
@@ -38,9 +38,9 @@ An experience of a Southwest Airlines former CEO shows how this works. He watche
 
 ## Lesson 2
 
-### Get people’s permission to let you lead them by building a relationship of trust with them.
+### Get people’s permission to let you lead them by building a relationship of trust with them
 
-While position is important for making a difference in people’s lives, it’s not enough for them to follow you. **It’s vital that you get their*permission*for you to lead them.** Doing this is as simple as changing your focus from yourself to others.
+While position is important for making a difference in people’s lives, it’s not enough for them to follow you. **It’s vital that you get their *permission* for you to lead them.** Doing this is as simple as changing your focus from yourself to others.
 
 Think of a person that you have to spend time with that you don’t like. How do you feel when you are around them? For most of us, these kinds of people sap our energy and give us a negative attitude about life.
 
@@ -50,7 +50,7 @@ Leadership must remain more formal than friendship. But you’ve got to be the k
 
 ## Lesson 3
 
-### Prepare those you lead to be future leaders themselves to create a legacy of greatness.
+### Prepare those you lead to be future leaders themselves to create a legacy of greatness
 
 Although the journey might be long and different for everyone, the process of creating leaders must be a continual cycle. You can do this best by aiming to turn those you lead into leaders themselves.
 
@@ -69,7 +69,5 @@ While all of these lessons are important reasons to build up new leadership, the
 ## Review
 
 *The 5 Levels of Leadership* is a really inspiring book. It felt like some of the ideas were things I’d heard before, but I really think there is a lot of power in the basics of good leadership. I’m excited to try to practice these principles myself to really make a difference in people’s lives!
-
-## Who it’s for
 
 The 45-year-old CEO who would like to influence his employees for good beyond their paychecks and benefits, the 29-year-old college grad who is young in their career and wants to make a difference, and anyone who is in a position of leadership.

@@ -16,7 +16,7 @@ Now let’s have some fun!
 
 ## Lesson 1
 
-### Your dog thinks your sex life is super weird.
+### Your dog thinks your sex life is super weird
 
 Compared to thirty million other animal species, we really are the “odd one out”. If your dog could talk, he’d probably pull you aside and tell you to get your sex life straight.
 
@@ -38,7 +38,7 @@ Who’s the weirdo now?
 
 ## Lesson 2
 
-### Concealed ovulation is what made us monogamous.
+### Concealed ovulation is what made us monogamous
 
 This was a big lightbulb moment for me. The reason we randomly have sex is **we simply don’t know when a woman is fertile**.
 
@@ -54,7 +54,7 @@ So yeah, monogamy is what’s up!
 
 ## Lesson 3
 
-### Menopause helps women live longer lives.
+### Menopause helps women live longer lives
 
 **The less fertile you are, the longer you live.**
 
@@ -85,7 +85,5 @@ The dog story in the beginning was fun, in the book Diamond actually writes from
 This book was also further proof to me that pickup is bullshit, which is probably incredibly prejudiced, but something I believe in with all my heart.
 
 I love to be able to learn something about being a CEO, creating habit-forming products, lifestyle design and then sex all within a week, how great is that?
-
-## Who it’s for
 
 The 18 year old biology major in college, who really cares about her subject, the 40 year old eternal bachelor, who might console himself with biological evidence against monogamy a little too much, and anyone who owns a dog.

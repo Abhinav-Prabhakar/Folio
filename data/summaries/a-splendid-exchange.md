@@ -18,7 +18,7 @@ Chances are over 50% of the items you use daily have not been manufactured in yo
 
 ## Lesson 1
 
-### The first item traded long-distance was…a stone.
+### The first item traded long-distance was…a stone
 
 There is a place in modern-day Iraq that is called the cradle of civilization. In the middle of nowhere, between two rivers that reconnect at the Persian Gulf, the Euphrates and the Tigris, lies our ancient history. Then called Mesopotamia, this was one of the first urban hubs in the world.
 
@@ -28,7 +28,7 @@ However, the very first long-distance trade happened a lot earlier still, around
 
 ## Lesson 2
 
-### Trading always involves more goods than just the traded items and sometimes, they can be deadly.
+### Trading always involves more goods than just the traded items and sometimes, they can be deadly
 
 In the Middle Ages, wealthy royals showed off their power in the form of huge castles and pompous decor. But there was another vice of the rich that could never be flaunted for long: spices. Salt, pepper, cinnamon, all of these were incredibly rare in Europe, so dangerous journeys had to be taken to get them. That’s why merchants often sold them for a cool 100% in profit and doctors all added them to their medicines, even though they didn’t do anything.
 
@@ -40,7 +40,7 @@ What’s the lesson? You never just trade item A for item B. There are always ot
 
 ## Lesson 3
 
-### One of the biggest enablers of transcontinental trade had nothing to do with transportation.
+### One of the biggest enablers of transcontinental trade had nothing to do with transportation
 
 When we think of the history of trade, our minds quickly wander to new means of transportation. It’s true that two major reasons why you could eat strawberries year round in New York as early as 1900 originate from this industry: the steamship and the railroad. The former surpassed the sailboat as the preferred type of ship in 1890, the latter helped transport goods cross-country, even in terrible weather conditions.
 
@@ -51,7 +51,5 @@ You could now preserve meats, flowers, vegetables and fruits for as long as the 
 ## Review
 
 In school I thought history was boring. Now I know better. Understanding the past is the single best way to figure out what’s going on today. Whether you want to improve your business, become a better investor, or just come up with better ideas for yourself, *A Splendid Exchange* lives up to its title indeed: your time is well spent in acquiring this book’s knowledge.
-
-## Who it’s for
 
 The 14 year old, who just got started with history classes in school, the 39 year old merchant representative of a global corporation, and anyone whose favorite item is an import.

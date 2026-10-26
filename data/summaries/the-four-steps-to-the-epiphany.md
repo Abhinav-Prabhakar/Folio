@@ -23,7 +23,7 @@ Are you looking forward to starting your company off on the right foot? Let’s 
 
 ## Lesson 1
 
-### Don’t treat your startup like a big company, focus on finding your customers and find out if your vision is feasible.
+### Don’t treat your startup like a big company, focus on finding your customers and find out if your vision is feasible
 
 As a startup, you can’t use the same methods as giant companies and expect success for many reasons. For one, a larger business can offer a product to the mainstream market but you can’t.
 
@@ -39,7 +39,7 @@ Don’t forget to use the power of your original calling to motivate you to keep
 
 ## Lesson 2
 
-### You need to base your strategy on the market type that you want to get into.
+### You need to base your strategy on the market type that you want to get into
 
 You’ll be tempted as you begin to use a cookie-cutter template to run your business. But it’s important to remember that every startup is different so your strategy should follow suit.
 
@@ -61,7 +61,7 @@ In-N-Out is a good example of this. They’ve succeeded by keeping prices of bur
 
 ## Lesson 3
 
-### Don’t go after the mainstream market first, early adopters are who you want to design your product for.
+### Don’t go after the mainstream market first, early adopters are who you want to design your product for
 
 Right now I’m trying to sell my car. There are some things I need to do to prepare it to sell, and I’m willing to pay someone to get them done quickly even if it’s not perfect.
 
@@ -80,7 +80,5 @@ Instead, you need to get your product out as quickly as possible by finding earl
 ## Review
 
 *The Four Steps To The Epiphany* is an excellent book but will definitely be beneficial to specific people only. I’m glad to be one of those that can benefit so much from this information though! There were a lot of ideas in here that I was familiar with as an entrepreneur, but some new ones as well that I’m excited to try out!
-
-## Who it’s for
 
 The 32-year-old who is starting their first company and doesn’t want to make the mistakes that cause most to fail, the 52-year-old that would like to become an entrepreneur but isn’t sure how to be successful, and anyone that wants to learn how to start a new business off on the right foot.

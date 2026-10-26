@@ -54,6 +54,4 @@ However, when Softbank cut off the funding, the company had to find a new source
 
 *The Cult of We* explores the downfall of America’s most valuable and sought-after start-up: WeWork. The overhyped office-space provider advertised itself as a service/tech-like company so as to attract huge investments. But once Neumann received them, it looked like he didn’t know how to use the money wisely. As power and a thirst for rapid expansion and wealth took over him, WeWork started to crumble from within. It then culminated with a total fiasco once the company tried to go public.
 
-## Who it’s for
-
 The 30-year-old financial journalist who loves a good story that made it to the top news, the 32-year-old start-up founder who is looking to learn from other people’s mistakes in business or the 27-year-old person who likes to be on top of financial news around the world.

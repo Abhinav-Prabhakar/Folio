@@ -18,7 +18,7 @@ Ready for some ruthless prioritizing? Let’s figure out your first things!
 
 ## Lesson 1
 
-### Ditch the status symbol of urgency and attend to things by importance.
+### Ditch the status symbol of urgency and attend to things by importance
 
 The battle of urgent vs. important is a recurring theme in Dr. Stephen R. Covey’s work (remember the Eisenhower matrix from The 7 Habits of Highly Effective People?) and is the foundation of the principles in this book.
 
@@ -33,7 +33,7 @@ In the long run, this leads to regret, but is actually something that’s preven
 
 ## Lesson 2
 
-### Imagine your 80th birthday to make decision-making a piece of cake.
+### Imagine your 80th birthday to make decision-making a piece of cake
 
 Have you ever met someone who found it really easy to make decisions and envied them? Chances are they had **a strong vision for the future**. Knowing where you want to be in 5 or 10 years makes aligning today’s decisions with the future a much easier task than when you’re just drifting around. Sometimes you might have to take a slight curve, but you’ll always know how to get back on track.
 
@@ -47,7 +47,7 @@ The goals you want to see yourself have accomplished when you look back when you
 
 ## Lesson 3
 
-### Switch from an independence and competition mindset to an attitude of interdependence and cooperation.
+### Switch from an independence and competition mindset to an attitude of interdependence and cooperation
 
 The lifestyle of urgency and rushing around is mostly a result of seeing ourselves as independent and in constant competition with everyone else. The only way to overcome it is to realize that **we all depend on one another and can only succeed if we cooperate**.
 
@@ -60,7 +60,5 @@ Whether you’re trying to build a business, improve your love life, learn more,
 Back when I first read this summary on Blinkist I remember thinking it was one of the best ones I’ve read so far, and that’s still true. All time management tactics are only as good as the goals you want to achieve with them, so this really addresses the root of the problem, instead of just scratching the surface.
 
 The summary gets you quite far, but after you’ve read *The 7 Habits of Highly Effective People* I suggest you get *First Things First* next, especially if you like Dr. Covey’s work.
-
-## Who it’s for
 
 The 43 year old sales manager, who thinks his job is really competitive, but could actually achieve better results when cooperating, the 70 year old, who still has 10 years left to create her perfect 80th birthday, and anyone who often wakes up feeling behind on their schedule already.

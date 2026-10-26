@@ -57,6 +57,4 @@ So start establishing some rules, making some commitments, and designing your en
 
 I love this book! When coach.me teamed up with Gretchen Rubin early in 2015 when she published *Better Than Before*, us coaches all got a copy of it. Many of us went through her quiz to find our habit tendency. I’m an upholder and I’ve taken a lot of my clients through the quiz since. All of them found it helpful to know their tendency and had a-ha moments when finding out about it. Highly recommend this one!
 
-## Who it’s for
-
 The 18 year old who’s just about to start college at a new location, the 48 year old secretary who feels like she’s just pleasing her boss, and anyone who doesn’t know their habit tendency yet.

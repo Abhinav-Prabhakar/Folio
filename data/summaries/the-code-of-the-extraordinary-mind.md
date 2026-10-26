@@ -20,7 +20,7 @@ Ready to code your own, extraordinary mind? Let’s get to work!
 
 ## Lesson 1
 
-### Bend reality in your favor by holding two different visions in your mind at once.
+### Bend reality in your favor by holding two different visions in your mind at once
 
 When Vishen was growing Mindvalley, he’d constantly be stressed about meeting certain revenue goals. “How much did we increase this month?” “Should we expand to this market?” For a while he completely forgot how to be happy and have fun.
 
@@ -33,7 +33,7 @@ This’ll make sure you neither get unhappy nor lose sight of your long-term goa
 
 ## Lesson 2
 
-### Focus on what’s called your reverse gap to practice blissipline.
+### Focus on what’s called your reverse gap to practice blissipline
 
 Rule 7 is a reminder to practice blissipline. Blissipline is a combination of the words “bliss” and “discipline” that Vishen came up with after noticing that this feeling of bliss, for example after accomplishing a big goal, rarely lasts long and often fades fast.
 
@@ -45,7 +45,7 @@ You can sure see how this relates to rule 6, because it forces you to not put ha
 
 ## Lesson 3
 
-### Become unfuckwithable by setting goals that are in your control.
+### Become unfuckwithable by setting goals that are in your control
 
 Rule 9 is about becoming what Vishen calls “unfuckwithable,” meaning nobody can stop you from making your dreams come true. If you’re unfuckwithable it’ll be impossible to compromise you, to entice you to give up your dreams for money, or for others to put you down with their words and actions. The only person you really can (and need) to depend on is yourself.
 
@@ -61,7 +61,5 @@ Stop trying to do things that require gatekeepers to let you pass and blaming yo
 ## Review
 
 I have mixed feelings about this one. Yes, all of these rules and practices are good and helpful in general, but no, none of them are groundbreaking. It’s cool that Vishen comes up with his own terms for things, but at the same time he’s rehashing old ideas a lot. Let’s put it this way: if you’re new to self-improvement, *The Code Of The Extraordinary Mind* is a very good book, which gives you the most important ideas and concepts in a nutshell. If not, this might feel a bit fluffy. In that case you can just pick the rules that you think are worth following (which is another one of the rules in the book itself:)).
-
-## Who it’s for
 
 The 18 year old, who’s figuring out her life and just starting to learn about self-improvement, the 40 year old entrepreneur, who’s working really hard, but doesn’t have any fun, and anyone who thinks they’re not unfuckwithable yet.

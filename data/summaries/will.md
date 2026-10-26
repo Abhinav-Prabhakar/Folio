@@ -18,11 +18,9 @@ The book is packed with valuable lessons derived from a life of learning. Here a
 
 Let’s explore these valuable lessons from Will Smith!
 
-### Will Summary
-
 ## Lesson 1
 
-### You can’t control where you’re born, but you can control who you become.
+### You can’t control where you’re born, but you can control who you become
 
 Will Smith is one of the most successful actors in Hollywood, but he didn’t grow up in a rich and educated family. In fact, he grew up in a poor neighborhood with an alcoholic father who threatened him and his mother.
 
@@ -36,7 +34,7 @@ From there he moved on to acting, which became his passion—and eventually led 
 
 ## Lesson 2
 
-### Adversity teaches us to become more resilient and achieve success.
+### Adversity teaches us to become more resilient and achieve success
 
 Will Smith is a successful actor, producer, and rapper who has been in the business for decades. However, his path to success wasn’t easy. One of the most difficult times of his career was when he owed the IRS over $3 million dollars in taxes.
 
@@ -48,7 +46,7 @@ At the time, his first marriage with a woman named Sheree was also crumbling, wh
 
 ## Lesson 3
 
-### Facing your fears is one of the best things you can do for your growth.
+### Facing your fears is one of the best things you can do for your growth
 
 Will Smith, known for his roles in movies like *Independence Day* and *Men in Black*, is famous for saying that God put all the beautiful things in life on the other side of fear. That’s why he faced his fears and jumped out of a plane, trying skydiving for the first time despite being terrified of heights.
 
@@ -63,7 +61,5 @@ Still, he doesn’t want people to see him as an expert on this. Will believes a
 Will Smith’s memoir, *Will*, is a quick and easy read. The book has different sections that have various meanings for Will personally. Each section has an introduction that gives you some background on what you are about to read.
 
 Some sections are more fun and entertaining, others deep and thoughtful. Overall, I would say that this book is worth reading if you’re interested in learning more about Will Smith, need some inspiration to accomplish big dreams, or just want a lighthearted read on your next vacation.
-
-## Who it’s for
 
 The 33-year-old actor who is going through a tough time and needs inspiration from someone else’s story, the 43-year-old fan who is passionate about Will Smith’s movies and his life, and anyone who wants to find motivation in their life to achieve their wildest dreams.

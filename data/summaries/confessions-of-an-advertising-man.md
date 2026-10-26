@@ -22,7 +22,7 @@ Ready for a dose of ethic marketing? Here we go!
 
 ## Lesson 1
 
-### Only sell stuff you believe in.
+### Only sell stuff you believe in
 
 If all marketers lived by this mantra, and nothing else, I 100% believe we would not live in a world where marketing is considered as sleazy and has a negative connotation right from the get-go.
 
@@ -38,7 +38,7 @@ This is also what led David to only accept accounts for which he truly believed 
 
 ## Lesson 2
 
-### In the end, ads are meant to sell, not to entertain. Focus on the basics.
+### In the end, ads are meant to sell, not to entertain. Focus on the basics
 
 Did that Coke video above move you? It moved me. I mean, how can you not feel for the lone, hard-working truck driver, who finally gets a break and is reunited with his family on Christmas?
 
@@ -52,7 +52,7 @@ Great ads are as simple as that.
 
 ## Lesson 3
 
-### Use facts, intrigue and scientific research to create great advertisements.
+### Use facts, intrigue and scientific research to create great advertisements
 
 As the world gets noisier and noisier, creating unique marketing campaigns that stand out gets harder and harder. David Ogilvy used a 3-pronged approach to get people’s attention and hold it, and it’s still as relevant in 2016 as it was in 1963 (when this book came out).
 
@@ -69,7 +69,5 @@ Lastly, if scientific research shows that color photos work better than black an
 ## Review
 
 *Confessions Of An Advertising Man* made me feel proud and hopeful. Why? Because even in a time when bad, mass media marketing was just beginning, there were already people trying to reverse the trend. David Ogilvy was one of them. Can’t think of a better person to learn the basics of advertising from. Great read for marketers and anyone who’s really active on social media, even just privately.
-
-## Who it’s for
 
 The 20 year old, who spends most of her time after college classes posting pictures on Instagram, the 27 year old copywriter, who just got his first job as an assistant account manager at an advertising agency, and anyone who’s sick of bad advertisements.

@@ -22,7 +22,7 @@ Let’s dive right in and learn from *Bad Feminist*!
 
 ## Lesson 1
 
-### It may be entertaining, but reality TV dehumanizes women.
+### It may be entertaining, but reality TV dehumanizes women
 
 Admit it, at one point or another you’ve probably been watching TV and seen at least a little bit of a reality TV show. These shows suck people in with dramatic confrontations between contestants and often exaggerated romantic connections. But the biggest problem, perhaps, is that they perpetuate damaging stereotypes about women.
 
@@ -34,7 +34,7 @@ Makeover shows and those that focus on outward appearance are also damaging. Sur
 
 ## Lesson 2
 
-### More and more, we are becoming desensitized when it comes to sexual violence and agression against women.
+### More and more, we are becoming desensitized when it comes to sexual violence and agression against women
 
 Rape is a horrible crime that is often both physically and emotionally damaging for victims. Unfortunately, TV and movies love to add it into storylines for drama. This exposure through media desensitizes us to the horrors of rape culture.
 
@@ -46,7 +46,7 @@ Politicians also have not been good at helping the cause. Just consider former U
 
 ## Lesson 3
 
-### The United States is still very much dealing with the deeply troubling problems of institutional racism and sexism.
+### The United States is still very much dealing with the deeply troubling problems of institutional racism and sexism
 
 It seems as if we are hearing about another mass shooting almost weekly in the US. In fact, you’re far more likely to die in one of these random acts of violence than in an act of terrorism. And for some reason, we don’t ever consider attacks by white men to be terrorism. **Somehow, there always seems to be an explanation for why a white man would become violent.**
 
@@ -61,7 +61,5 @@ This is why Gay encourages all women, especially those who are of color or who d
 ## Review
 
 Gay‘s writing is entertaining, relateable and easy to read. But if you are looking for a more substantial book and not essays on various feminist topics, *Bad Feminist* isn’t for you. Lots of interesting ideas here for anyone who wants a light read about modern feminism. I definitely do agree that we need a more inclusive form of feminism.
-
-## Who it’s for
 
 The 62-year-old man who is sexist, the 27-year-old that would like to get a better idea of the current state of racial and sexual equality in America, and anyone that’s curious about how to make the world a more fair place for all.

@@ -54,6 +54,4 @@ Youtube, Twitter, Facebook, and Instagram were widely known for censoring anti-l
 
 *Woke, Inc.* delves into the dark secrets of American corporations and exposes their true nature. Companies often hide behind woke culture and promote social causes, only to benefit more in the end and close an eye to problems that truly matter. Reading this book will open your eyes to the reality we’re all facing, whether we like it or not – corporations rule the world we live in.
 
-## Who it’s for
-
 The 30-year-old person who’s passionate about politics and conflicts around the world, the 38-year-old aspiring diplomat who wants to delve deeper into American corporate philosophy, or the 40-year-old politics teacher who is a casual reader of news and important matters around the world.

@@ -20,7 +20,7 @@ Are you ready to learn all about tyrants and how to resist them? Let’s go!
 
 ## Lesson 1
 
-### Avoid the news and read more books if you want to be smarter than the masses that succumb to political agendas.
+### Avoid the news and read more books if you want to be smarter than the masses that succumb to political agendas
 
 Sometimes it’s hard to avoid the constant noise of the political ads and slogans around us, particularly during election time. Their catchy slogans are meant to get caught in our heads. To avoid getting sucked into the groupthink, Snyder encourages you to seek out ways to find and express your own ideas.
 
@@ -32,7 +32,7 @@ Books are the best way to go if you want to think for yourself and get truly inf
 
 ## Lesson 2
 
-### Take apart social barriers in your community if you want to keep it alive and well.
+### Take apart social barriers in your community if you want to keep it alive and well
 
 Connections with the people around us give us our humanity. Too often we walk through our day to day activities looking only at devices and not at each other. Making eye contact makes you a connected part of the community.
 
@@ -46,7 +46,7 @@ The alliance grew stronger until 1980 when the workers were on strike again, but
 
 ## Lesson 3
 
-### Watch out for the ways social media and the internet get you to give up your freedoms.
+### Watch out for the ways social media and the internet get you to give up your freedoms
 
 We all know someone who over-shares on Facebook. They post wherever they are and what they’re doing at all times, and often they don’t have any privacy settings so the whole world can see what they’re up to. It’s scary. But in truth, all of us give up a little bit of our personal freedom when we share details of our lives online.
 
@@ -61,7 +61,5 @@ Snyder encourages us all to protect our freedoms by securing our privacy online.
 ## Review
 
 I didn’t like *On Tyranny* very much, but that doesn’t mean that you won’t enjoy it! I’m not the biggest fan of history or politics and felt like it had way too much of an agenda for my taste. It’s important to be aware of the topics this book brings up, though, and if you’re into history then you’ll probably like it better than I did.
-
-## Who it’s for
 
 The 35-year-old activist, the 19-year-old who thinks they might want to study political science, and anyone that would like some ideas on how to fight back against oppressive governments.

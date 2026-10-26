@@ -20,11 +20,9 @@ Let’s see how much we can discover in just 3 lessons:
 
 Ready to learn all about social classes and how to dismantle them? Let’s get to it!
 
-### Caste Summary
-
 ## Lesson 1
 
-### The first 4 pillars of the caste system are Divine Will and Laws of Nature, Heritability, Endogamy, and Purity vs Pollution.
+### The first 4 pillars of the caste system are Divine Will and Laws of Nature, Heritability, Endogamy, and Purity vs Pollution
 
 Wilkerson believes eight pillars that make up every caste system are:
 
@@ -40,23 +38,23 @@ As you can see, caste systems form around arbitrary but culturally strengthened 
 
 ## Lesson 2
 
-### Hierarchy, dehumanization, terror, and superiority are the last 4 pillars of the caste system.
+### Hierarchy, dehumanization, terror, and superiority are the last 4 pillars of the caste system
 
 The remaining 4 pillars are made up reasons to keep the other four in place:
 
 **5. Occupational Hierarchy**. People claim someone has to do the hard and menial jobs in society. As an example, Americans argued that low-status jobs were for Blacks.
 
-**6.Dehumanization and Stigma**. Some groups dehumanize other groups to elevate themselves. Nazis did this to the Jewish community, and America has done the same to African-Americans. In both cases, the lower-class people are subject to torture and medical experiments, sometimes solely for the higher caste’s enjoyment.
+**6. Dehumanization and Stigma**. Some groups dehumanize other groups to elevate themselves. Nazis did this to the Jewish community, and America has done the same to African-Americans. In both cases, the lower-class people are subject to torture and medical experiments, sometimes solely for the higher caste’s enjoyment.
 
 Blacks and Jewish people were also greatly stigmatized. They blamed Nazis for Germany’s loss in World War I and the economic downturn that came after. In the US, a high crime rate and economic challenges were blamed on African-Americans.
 
-**7.Terror as Enforcement and Cruelty as Means of Control.** Tragically, whippings, burnings, and hangings were things both Nazis and American slave owners did as a means of control or to serve warnings. This often happened on plantations. Hangings and burnings continued even after slavery was abolished.
+**7. Terror as Enforcement and Cruelty as Means of Control.** Tragically, whippings, burnings, and hangings were things both Nazis and American slave owners did as a means of control or to serve warnings. This often happened on plantations. Hangings and burnings continued even after slavery was abolished.
 
-**8.Inherent Superiority vs Inherent Inferiority.** Interactions between castes are dominated by a long, unspoken list of rituals, rules, and traditions to remind inferior castes of their lower status, which causes lasting damage in any society.
+**8. Inherent Superiority vs Inherent Inferiority.** Interactions between castes are dominated by a long, unspoken list of rituals, rules, and traditions to remind inferior castes of their lower status, which causes lasting damage in any society.
 
 ## Lesson 3
 
-### If we want to take down the caste system, we have to support those trying to destroy it.
+### If we want to take down the caste system, we have to support those trying to destroy it
 
 A few years ago, the US had around 230 memorials commemorating Robert E Lee, the commander of the Confederate Army during the Civil War. Despite being tolerated and even honored for a long time, people finally feel brave enough to say they should be taken down.
 
@@ -71,7 +69,5 @@ But in America, merely removing a statue of a Confederate leader leads to death 
 ## Review
 
 Social classes and the people that try to uphold them make me sick. We’re all human beings, we are *all* equal, and we *all* deserve equal rights, opportunities, and treatment. *Caste* made me angry not because it was wrong or a bad book, but rather because it identified a huge problem with society that I can’t wait to tear down.
-
-## Who it’s for
 
 The 67-year-old white supremacist, the 33-year-old who wonders why racism is still a thing, and anyone tired of the persistent and pervasive onslaught of inequality in society.

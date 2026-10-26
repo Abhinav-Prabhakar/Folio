@@ -20,7 +20,7 @@ If you’re getting tired of the busy city life and hustling all day, this 150 y
 
 ## Lesson 1
 
-### If you mostly keep to yourself you won’t automatically end up lonely.
+### If you mostly keep to yourself you won’t automatically end up lonely
 
 Every year some weird escapist ends up on television, telling everyone how he survives off chewing bark in the woods and why that’s the path to enlightenment. Even back in 1845, Thoreau faced similar reactions, even though he never took his “sabbatical” to such extremes. He simply wanted to reconnect with life in a deeper, meaningful way. His goal was to spend as much time on reading, thinking and writing as he could.
 
@@ -32,7 +32,7 @@ Today we’re more bombarded with activities than ever. **If you crave a break f
 
 ## Lesson 2
 
-### Life doesn’t need to be complicated to be challenging and rewarding.
+### Life doesn’t need to be complicated to be challenging and rewarding
 
 As you’d expect, winter became the most challenging time for Thoreau. He had to build a chimney for proper ventilation and keeping fires burning, insulate the walls of his cabin and break the ice of the frozen lake to gather water. **His simple tasks remained the same, but they became a lot more challenging in this season of his life**. We don’t need to artificially complicate our life when it feels easy. It’ll throw us obstacles soon enough.
 
@@ -42,7 +42,7 @@ There’s no need to artificially try and construct that.
 
 ## Lesson 3
 
-### True fulfillment doesn’t cost a dime, because seeking truth and thinking deeply are available to all of us.
+### True fulfillment doesn’t cost a dime, because seeking truth and thinking deeply are available to all of us
 
 Just like winter made Thoreau’s life harder, spring brought about a transformative experience of natural wonders. Sitting on his chair, he got to watch the ice melt, the lake refill, the grass turn green and the animals awake from their slumber. It was the ultimate revitalization before he returned to the city and started his next chapter.
 
@@ -57,7 +57,5 @@ After all, we’re all free to think deeply, practice simplicity, learn to be mo
 ## Review
 
 I always imagined *Walden* to be a person. Going by ear I would’ve thought this book is a dark novel about the demise of a man. Instead, it turns out to be quite the opposite: the memoir of a man who found happiness. Now I can’t wait to get my hands on it, even if it’ll take me forever to finish. More so, I already feel relieved looking at the tree right outside my window. Ah, the simple life.
-
-## Who it’s for
 
 The 16 year old camping fan, who’ll learn to cultivate and treasure her hobby even more, the 29 year old busy city professional, who often crashes tired on his couch on Friday night, and anyone who wasn’t forced to read this classic in school.

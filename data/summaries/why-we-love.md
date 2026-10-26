@@ -20,7 +20,7 @@ Dying for some dopamine? Let’s boot the love system!
 
 ## Lesson 1
 
-### Three hormones are responsible for the majority of your love feelings.
+### Three hormones are responsible for the majority of your love feelings
 
 For centuries people have sought the source of love. People have looked to the stars, magic powers and mystical oracles, but for a few decades we’ve known what’s really behind the most complex feeling of them all: **chemistry.**
 
@@ -36,7 +36,7 @@ You’re probably familiar with *dopamine* – it’s what makes you happy. When
 
 ## Lesson 2
 
-### We’re all attracted to people who are mysterious, different and visually symmetric.
+### We’re all attracted to people who are mysterious, different and visually symmetric
 
 So what triggers the release of these three hormones? Three things we’re all attracted to, no matter our gender or personal preferences, are mystery, difference and symmetry.
 
@@ -50,7 +50,7 @@ But in the end, we don’t all go for the same types of people, so where do we d
 
 ## Lesson 3
 
-### You have your own unique love map, which helps you find your ideal partner.
+### You have your own unique love map, which helps you find your ideal partner
 
 Helen Fisher calls it a **love map.** It’s **a set of characteristics**, both physical and non-physical, like eye color, hair style, height, pitch of voice, kindness, motivation, and so on.
 
@@ -65,7 +65,5 @@ Your love map is absolutely unique to you, and no two people have the same, whic
 *Why We Love* doesn’t break love down to an exact science, and that’s a good thing. It educates you. It expands your knowledge in love and once you close it and put it down, that slowly seeps in. I believe this book has a very strong, but subtle power to influence your unconscious in a way that’ll make you behave more aligned with your love map.
 
 No one learns enough about love, I’d actually suggest this to you before a whole bunch of other books on success, productivity, or finance.
-
-## Who it’s for
 
 The 15 year old who’s dying to know what’s happening in her body as she goes through puberty, the 42 year old single bachelor, who thinks love is “for suckers”, and anyone who’s ever bought one of those cheesy “bake yourself a dream man” kits.

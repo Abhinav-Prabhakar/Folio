@@ -20,7 +20,7 @@ You’ve worked hard for your new gig. Let’s ace the first 90 days!
 
 ## Lesson 1
 
-### Whenever you start a new role, run through a 7-step checklist to prepare yourself well.
+### Whenever you start a new role, run through a 7-step checklist to prepare yourself well
 
 After 8 years in marketing, Julia was promoted to product launch manager. Instead of delegating work across functions, however, she micromanaged and neglected non-marketing tasks. Soon, she was back in her old role.
 
@@ -38,7 +38,7 @@ Sliding into a new job rarely goes smoothly during the best of times. With this 
 
 ## Lesson 2
 
-### Diagnose job aspects with the STARS model to quickly understand and prioritize new responsibilities.
+### Diagnose job aspects with the STARS model to quickly understand and prioritize new responsibilities
 
 One of the first things you should do once you’re *on* the job, Watkins says, is run a “STARS” analysis. “STARS is an acronym for five common business situations,” he writes. They are:
 
@@ -48,7 +48,7 @@ One of the first things you should do once you’re *on* the job, Watkins says, 
 4. **Realignment**: Restoring a once-great business to its former glory and beyond.
 5. **Sustaining success**: Leveling up a flourishing legacy business.
 
-**Apply this framework to“the 5 Ps:” products, processes, projects, plants, and people**. Overlap is possible. A legendary clothing brand like Nike might have a new shoe line starting up and a now-defunct Yeezy brand to deal with at the same time.
+**Apply this framework to “the 5 Ps:” products, processes, projects, plants, and people**. Overlap is possible. A legendary clothing brand like Nike might have a new shoe line starting up and a now-defunct Yeezy brand to deal with at the same time.
 
 Make a table putting each element into the right categories, and try to assign a priority-percentage to each one so the total adds up to 100%. Do the start-ups deserve most of your attention? Or the turnarounds?
 
@@ -56,7 +56,7 @@ With a quick STARS-analysis, you’ll make sure your strategies match the situat
 
 ## Lesson 3
 
-### Have “the 5 Conversations” to build great relationships with your new boss and team.
+### Have “the 5 Conversations” to build great relationships with your new boss and team
 
 Onboarding well depends on quickly building efficient and strong relationships. If your new boss thinks you’re acting unilaterally or your team doesn’t have your back, you won’t get anything done. Not in 90 days, and not in 900.
 
@@ -73,7 +73,5 @@ These 5 conversations should be ongoing, and you’ll likely discuss more than o
 ## Review
 
 *The First 90 Days* is a business classic with over 1.5 million copies sold. It is chock-full of great tips, useful frameworks, and detailed planning exercises. “The actions you take during your first few months in a new role will largely determine whether you succeed or fail,” Watkins reminds us. With this book, you’ll have all the tools you need to do the former instead of the latter!
-
-## Who it’s for
 
 The 17-year-old starting their first desk job fresh out of high school, the 30-year-old young professional who just switched companies for the first time, and anyone who’s about to get promoted or currently looking for a new gig.

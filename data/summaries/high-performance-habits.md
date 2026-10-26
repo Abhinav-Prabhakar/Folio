@@ -29,7 +29,7 @@ Let’s jump right into these High Performance Habits!
 
 ## Lesson 1
 
-### Know your purpose and keep your energy levels high.
+### Know your purpose and keep your energy levels high
 
 The first habit is seeking clarity, which means finding and following your purpose. This gives high performers focus and direction in everything that they do.
 
@@ -48,7 +48,7 @@ Extraordinary people, the data reveals, are more positive than others even thoug
 
 ## Lesson 2
 
-### Finding reasons you have to perform well makes you more productive.
+### Finding reasons you have to perform well makes you more productive
 
 Pretend you’re watching two runners walking up to the starting line before a big race. One is thinking about the fame they’ll get by winning, and the other considers their children that they have to win the race for.
 
@@ -66,7 +66,7 @@ Also watch out for the deadline trap, which is when people don’t hold themselv
 
 ## Lesson 3
 
-### Be generous with others and confident in yourself.
+### Be generous with others and confident in yourself
 
 You’ve heard the phrase “it’s lonely at the top” but is this actually true? Do the best people out there actually get to and work in their positions alone? According to Burchard’s research, the answer is a resounding no.
 
@@ -87,7 +87,5 @@ High achievers, on the other hand, aren’t afraid of being called “idealistic
 ## Review
 
 I think we could all use some *High Performance Habits* in our lives. This book is inspiring, actionable, and interesting to read! I really appreciate that there is science and experiences to back up that these habits work, and I can’t wait to get started developing them!
-
-## Who it’s for
 
 The 19-year-old college student that wants to achieve great things throughout school and life, the 45-year-old office worker that would like to boost their motivation and productivity, and anyone that wants to become happier and healthier.

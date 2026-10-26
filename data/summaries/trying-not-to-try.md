@@ -36,7 +36,7 @@ This isn’t a coincidence: a typical symptom of being in wu-wei is forgetting t
 
 ## Lesson 2
 
-### Together with “de,” wu-wei puts you on “The Way,” the journey towards becoming the best human you can be.
+### Together with “de,” wu-wei puts you on “The Way,” the journey towards becoming the best human you can be
 
 Have you seen or read *Harry Potter and the Half-Blood Prince?* At one point, Harry drinks a special potion, which briefly turns him into the “luckiest person in the world.” For the next few hours, it seems like Harry can do absolutely nothing wrong, completely deciding in the moment, yet somehow making the perfect decision each time.
 
@@ -50,7 +50,7 @@ No wonder the Chinese encourage trying to reach this state as much as possible! 
 
 ## Lesson 3
 
-### The most important aspect of finding wu-wei is being honest, above all with yourself, and then taking action daily.
+### The most important aspect of finding wu-wei is being honest, above all with yourself, and then taking action daily
 
 So how can you spend as much time in wu-wei as possible? Step 1: **be honest with yourself and others**. That might sound counterintuitive at first, but it makes perfect sense.
 
@@ -65,7 +65,5 @@ This is why there are several different philosophies about how to attain wu-wei,
 It’s kind of cool to learn that what’s a fairly new idea in modern psychology has been around, analyzed and taught for thousands of years. I think this adds exactly the kind of extra validation to modern science and tactics I was looking for when I started turning more towards philosophy. After all, what’s stood the test of time for thousands of years must be solid knowledge!
 
 A very refreshing read, will try to get my hands on *Trying Not To Try* as soon as I can!
-
-## Who it’s for
 
 The 15 year old skateboarder, who loves his hobby, but has a hard time justifying it in front of his parents, the 37 year old task force leader, who wants to be a great manager for his team, and anyone who’s tasted the power of flow once before.

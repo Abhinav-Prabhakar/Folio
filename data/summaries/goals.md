@@ -24,7 +24,7 @@ Ready to discover how to finally set yourself on the path for success? Let’s g
 
 ## Lesson 1
 
-### Getting your mindset right is vital if you want to reach your big dreams.
+### Getting your mindset right is vital if you want to reach your big dreams
 
 What would you attempt if you knew that you had the power to succeed in anything you did? Can you imagine how amazing your life would be if that were the case? Well, luckily for you, it’s the truth.
 
@@ -45,7 +45,7 @@ You have to proactively fight the tendency to concentrate on the negative. This 
 
 ## Lesson 2
 
-### The best goals include deadlines, are specific, and challenge yourself to rise to a higher level.
+### The best goals include deadlines, are specific, and challenge yourself to rise to a higher level
 
 The problem most people have isn’t a lack of goals. It’s not understanding how to make those goals as effective and attainable as possible.
 
@@ -60,7 +60,7 @@ There are six principles of effective goal-setting that Tracy teaches:
 
 ## Lesson 3
 
-### Soul searching is one of the best ways to set you on a sure path to reaching your goals.
+### Soul searching is one of the best ways to set you on a sure path to reaching your goals
 
 Now that you know the importance of goal-setting and how to set effective goals, it’s time to get your heart involved and make your goals even more powerful. To do this, ask yourself a few questions.
 
@@ -77,7 +77,5 @@ Last, consider how accomplishing your goal will improve your life. List as many 
 ## Review
 
 I love setting goals and learning how to do it effectively, so naturally, *Goals!* is one of my favorites. I’ve known about this book for a long time, and it’s really impacted the way I live and set goals, and I know it will do the same for you. Brian Tracy is a legend in the personal development world, and this book of his doesn’t disappoint!
-
-## Who it’s for
 
 The 56-year-old entrepreneur that wants some inspiration and direction, the 20-year-old college student who’s looking for a good way to beat procrastination, and anyone that wants to get more out of life and reach their full potential.

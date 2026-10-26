@@ -18,7 +18,7 @@ Ready to dive deep into the science of healthy relationships? Let’s go!
 
 ## Lesson 1
 
-### Know what bids are and how to use them correctly to become closer to others.
+### Know what bids are and how to use them correctly to become closer to others
 
 When it comes to relationships, bids are extremely important. No, not on eBay. Gottman teaches that a bid is an attempt to emotionally connect with someone either verbally or nonverbally.
 
@@ -34,7 +34,7 @@ Through research, Gottman has identified the importance of these three types of 
 
 ## Lesson 2
 
-### It’s hard to understand what people really want, so be careful how you respond to requests.
+### It’s hard to understand what people really want, so be careful how you respond to requests
 
 The reason these bids are so important, even if they seem menial, is because they often have hidden messages about what we really want. For example, a wife telling her husband she’s cold may be more than just a statement about temperature. It may mean she wants to cuddle and feel close to her husband.
 
@@ -46,7 +46,7 @@ Imagine you’re the mother of the child throwing the tantrum for a toy. Rather 
 
 ## Lesson 3
 
-### When expressing your needs to others, make sure to use soft language.
+### When expressing your needs to others, make sure to use soft language
 
 While it’s important to dig deeper and make sure you are responding in a caring way to people’s bids, there are also times when you need your bid to be acknowledged too. There are things you can do to help you be more easily understood.
 
@@ -61,7 +61,5 @@ This is an example of *softening* a bid to ensure you are understood and it does
 ## Review
 
 I was familiar with Gottman’s research before reading *The Relationship Cure* and was excited to get this deeper dive into it! This goes far beyond your typical relationship advice and I think because of that it’s bound to help you grow closer to the people you care about the most. I highly recommend this to everyone!
-
-## Who it’s for
 
 The 35-year-old couple who are struggling to connect with each other, the 58-year-old that wants to learn how to become closer to their family and friends, and anyone that wants to get better at communicating with others and building connections.

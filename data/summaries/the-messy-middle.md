@@ -20,7 +20,7 @@ Let’s get our hands dirty in the messy middle!
 
 ## Lesson 1
 
-### Failure or success of your project is the result of perseverance through the chaotic center.
+### Failure or success of your project is the result of perseverance through the chaotic center
 
 No matter what type of journey you are setting out on, whether it’s entrepreneurial or a personal project, the messy middle is inevitable. Whenever you initiate a new endeavor, you need to give a significant amount of initial energy. While this power is necessary to get your project off the ground, it also isn’t as hard to find because the puppy-love phase has you enamored with your new idea. With fairytale-like wonder, we often only see the beginning or the end of ventures.
 
@@ -30,7 +30,7 @@ The author, Scott Belsky, is no stranger to the laborious center of any project.
 
 ## Lesson 2
 
-### If you want to last through the hard middle of your journey, remain self-aware through trials and triumphs.
+### If you want to last through the hard middle of your journey, remain self-aware through trials and triumphs
 
 Inevitably, you will go through numerous moments of success and failure along your journey, especially in the intermediate portion. What does it take to survive the messy middle? Belsky says that to come out on top, we should maintain self-awareness amid the lows *and* the highs. We don’t realize that both the ups and the downs impact us personally in ways that can hinder our progress.
 
@@ -42,7 +42,7 @@ Self-awareness can be as simple as remaining open to feedback. **From the experi
 
 ## Lesson 3
 
-### Your greatest victories come from focusing on improving what works well.
+### Your greatest victories come from focusing on improving what works well
 
 I remember well the moment I read about working on strengths rather than weaknesses. Being a perfectionist for much of my life I’ve struggled with my shortcomings, always wanting to eliminate every one of them. I didn’t see the power and potential of doubling down on what works well until I tried it myself. Once I made this practice a habit, my self-confidence and success began to skyrocket. The same is true for any business venture or project you begin.
 
@@ -53,7 +53,5 @@ One way to do this is through what’s called A/B testing. If you have a clickab
 ## Review
 
 Wow, what a great book! I was excited to take a closer look at *The Messy Middle* because I’m all too familiar with this stage of my own projects. After reading the book, I now have a much more realistic idea of what it takes to make it through that crucial and most painful intermediate section of any project. This is a fantastic book, and I would definitely recommend it!
-
-## Who it’s for
 
 The 31-year-old employee of a new start-up who is working too hard and discouraged, a 45-year-old entrepreneur who has started many projects but gives up when they get hard, and anyone who has a hard time finding motivation when life gets tough.

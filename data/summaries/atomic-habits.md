@@ -20,11 +20,9 @@ Here are 3 lessons to help you use everything he’s learned to break bad habits
 
 Let’s see what it takes to form new habits by learning from a true habit master!
 
-### Atomic Habits Summary
-
 ## Lesson 1
 
-### All habits are based on a four-step pattern, which consists of cue, craving, response, and reward.
+### All habits are based on a four-step pattern, which consists of cue, craving, response, and reward
 
 In 1776, Adam Smith laid the foundation of modern economics in his magnum opus, *The Wealth of Nations*. One of his most famous observations is that, in a free market system, all workers naturally maximize their own society’s welfare, even if merely acting in their own best interest:
 
@@ -41,7 +39,7 @@ There are several popular methodologies that try to predict how and why we do wh
 
 ## Lesson 2
 
-### To form habits, you must make them obvious, attractive, easy, and satisfying.
+### To form habits, you must make them obvious, attractive, easy, and satisfying
 
 From the four-step pattern he suggests, James then derives four laws of behavior change, which correspond to one part of the loop each. Here they are, along with some ideas for how you can use them to facilitate good behaviors and make bad ones harder:
 
@@ -54,7 +52,7 @@ You can apply these to all kinds of good habits, like running, working on a side
 
 ## Lesson 3
 
-### A habit tracker is a fun and easy way to ensure you stick to your new behaviors.
+### A habit tracker is a fun and easy way to ensure you stick to your new behaviors
 
 With a framework like this, making and breaking habits becomes fun. You’ll likely want to tackle multiple things sooner rather than later, but it’s important to not take on too much at once. An easy way of keeping yourself accountable without becoming overwhelmed is to track your habits with a habit tracker.
 

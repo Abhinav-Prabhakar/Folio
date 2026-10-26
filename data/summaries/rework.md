@@ -20,11 +20,9 @@ Here are 3 great lessons about starting a business from the book:
 
 Ready to rework your approach to business? Let’s go!
 
-### Rework Summary
-
 ## Lesson 1
 
-### Take a stand for something you believe in and then pick a fight with a competitor.
+### Take a stand for something you believe in and then pick a fight with a competitor
 
 If you’re going to start a business, please, please, please, do it right. Don’t be one of those people who spout off ideas over lunch like: “Oh yeah, we’re gonna build this fitness app and in 2-3 years, we’ll sell it to CrossFit, that should be a sweet exit!”
 
@@ -42,7 +40,7 @@ Plus, taking a stand will make it easy to pick a fight with a competitor, which 
 
 ## Lesson 2
 
-### Screw big corporate marketing, stay honest, personal and nimble.
+### Screw big corporate marketing, stay honest, personal and nimble
 
 > *Founded in 1998, Milestone Systems is a global industry leader in open platform IP video management software. With support for the widest choice in network hardware and integration with other systems, XProtect provides best-in-class solutions to video enable organizations – managing risks, protecting people and assets, optimizing processes and reducing costs.*
 
@@ -60,7 +58,7 @@ I screwed up, so guess what – I apologized. No fancy buzzwords needed. So forg
 
 ## Lesson 3
 
-### Forget long hours and meetings, they hurt productivity.
+### Forget long hours and meetings, they hurt productivity
 
 The only thing that happens when someone stays late at the office is that the rest of the office feels bad for not doing the same. Don’t even try to convince yourself that those late-night hours are really productive, you know they’re not.
 

@@ -20,7 +20,7 @@ Want to start a company that’ll change the world? In today’s environment, bl
 
 ## Lesson 1
 
-### Blitzscaling is not just about growing fast, it’s about doing so while staying sustainable.
+### Blitzscaling is not just about growing fast, it’s about doing so while staying sustainable
 
 Exponential growth is what every startup dreams about. But achieving it is neither simple nor always healthy.
 
@@ -34,7 +34,7 @@ As a result, blitzscaling **is the process of quickly scaling a company to a mas
 
 ## Lesson 2
 
-### There are four growth factors companies must maximize to achieve blitzscaling.
+### There are four growth factors companies must maximize to achieve blitzscaling
 
 Until recently, exponential growth was mostly about virality. A few smart growth hackers could balloon a new company to a huge size with clever tricks and then the team could figure out a business model. But it’s not so simple anymore.
 
@@ -49,7 +49,7 @@ If you want to go big and go fast, these are the four things you should pay atte
 
 ## Lesson 3
 
-### The two biggest growth limiters for blitzscaling businesses are product-to-market fit and operational scalability.
+### The two biggest growth limiters for blitzscaling businesses are product-to-market fit and operational scalability
 
 Just like there are factors that facilitate blitzscaling, there are also limiters of potential growth which could stop you in your tracks. According to Reid, two of the biggest ones are product-to-market fit and operational scalability.
 
@@ -64,7 +64,5 @@ Make sure you address these issues from day one and maybe, you and your company 
 ## Review
 
 *Blitzscaling* is a refreshing perspective from Silicon Valley on the world of startups. It feels very professional and balanced, unlike the usual hyped, but unfocused startup advice. Reid has a lot of fun stories to tell and they’re all ones you can learn something from. If you’re fascinated by the biggest business successes in recent history, I highly recommend you check out this book.
-
-## Who it’s for
 
 The 19 year old college freshman, who spends most of her time dreaming about having her own startup, the 39 year old who thinks it’s finally time to start his own thing, and anyone who loves learning about startups.

@@ -20,11 +20,9 @@ Here are the 3 most helpful lessons this book taught me:
 
 Think you’ve got life all figured out? You better *Think Again*!
 
-### Think Again Summary
-
 ## Lesson 1
 
-### If you want to be smarter and more likable, admit that you don’t know everything.
+### If you want to be smarter and more likable, admit that you don’t know everything
 
 Most of us are completely unaware of the things we aren’t good at. In fact, sometimes we even think we are good at the things we are the worst at. For example, studies have found that people who score lowest on logical reasoning and sense of humour tests also have the most overinflated perception of their abilities in these areas.
 
@@ -36,7 +34,7 @@ Confidence is all about self-belief, while humility means you are willing to exa
 
 ## Lesson 2
 
-### Sometimes, even the most ignorant people change their minds.
+### Sometimes, even the most ignorant people change their minds
 
 Grant tells the story of Black musician Daryl Davis. In 1983, he started talking to Ku Klux Klan members to convince them to change their minds about race. Since then, he has persuaded many to rethink their beliefs and leave. One of these former KKK members even asked Davis to be a godfather to his daughter.
 
@@ -52,7 +50,7 @@ So, if you want someone to change their mind, don’t just tell them they’re w
 
 ## Lesson 3
 
-### If you want to convince people of your perspective, ask them the right questions.
+### If you want to convince people of your perspective, ask them the right questions
 
 Another solid way to get people to rethink their beliefs is to interview them with the right questions. Grant tells the story of a young mother who was an anti-vaxxer or someone who didn’t want her baby to get the measles vaccine.
 
@@ -67,7 +65,5 @@ A motivational interviewer doesn’t simply try to persuade someone with many fa
 ## Review
 
 I love *Think Again*! This is the kind of book that would do a lot of good if everybody in the world read it. I also like that it will make anyone who reads it and applies what it teaches smarter, more humble, and more likable as well!
-
-## Who it’s for
 
 The 61-year-old who always gets into political debates and can never be wrong, the 21-year-old that wants to learn how they can start their adult life off on the right foot, and anyone who is tired of a world that’s constantly fighting.

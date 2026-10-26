@@ -22,7 +22,7 @@ Ready to see how to break out of the endless cycle of *Eat Sleep Work Repeat*? L
 
 ## Lesson 1
 
-### Your health and productivity suffer when you’re unhappy at work.
+### Your health and productivity suffer when you’re unhappy at work
 
 If you hate your job, you’re far from alone. Countless survey results paint the grim picture that people hate going to work. A lot.
 
@@ -40,7 +40,7 @@ However, the data also confirms that people who are happy at work are 22% more p
 
 ## Lesson 2
 
-### Get out for frequent walks, take a proper lunch break, and limit notifications to have more enthusiasm at work.
+### Get out for frequent walks, take a proper lunch break, and limit notifications to have more enthusiasm at work
 
 One of the most life-changing things I’ve done recently was turn off the email notifications on my phone. I also have an automatic do not disturb period in the mornings.
 
@@ -54,7 +54,7 @@ Another powerful tool to enhance your enjoyment at work is going for walks. I us
 
 ## Lesson 3
 
-### Boost your productivity with “monk mode” sessions.
+### Boost your productivity with “monk mode” sessions
 
 Let’s get into some more intense ways to focus at work. Be warned, though, you need to make sure that you talk about these with your employer first. Even if you’re not sure how they’ll take it, at least start the conversation.
 
@@ -66,12 +66,10 @@ If you don’t work for yourself, try establishing that you’ll work from home 
 
 You might also want to try disconnecting completely from everything for an entire day. Although you probably won’t do this on very many weekdays, at least make it happen on weekends.
 
-**Researchindicates that those that take Sunday off and work 48 hours a week get a lot more done than those who don’t take a day off and work 56 hours.** So don’t be afraid to take a break, too!
+**Research indicates that those that take Sunday off and work 48 hours a week get a lot more done than those who don’t take a day off and work 56 hours.** So don’t be afraid to take a break, too!
 
 ## Review
 
 I really love how *Eat Sleep Work Repeat* goes into both the problem of workplace stress and some reasonable solutions to fix it. This growing problem needs to be resolved if we are ever to improve our overall happiness and productivity. I’m grateful for people like Daisley to call out harmful workplace culture and try to make it better!
-
-## Who it’s for
 
 The 57-year-old executive who is always telling their employees to get back to work when they’re chatting even a little bit, the 28-year-old that is tired of their job, and anyone that wants to be happier and more productive at the office.

@@ -20,7 +20,7 @@ Let’s see what we can learn from the life and philosophy of this amazing man!
 
 ## Lesson 1
 
-### Neuroscience and writing were Kalanithi’s two passions.
+### Neuroscience and writing were Kalanithi’s two passions
 
 Growing up, Paul Kalanithi fell in love with literature. He decided he would study literature, but in the summer before college, he found something else captivated him: human biology. On his way to Stanford, he got a book that explored the idea that the brain is a machine that allows the human mind to exist. His fascination led to him taking neuroscience courses.
 
@@ -30,7 +30,7 @@ But he understood that literature wouldn’t give him the whole answer. He neede
 
 ## Lesson 2
 
-### He learned much about life and death during his time in medical school and later as a doctor.
+### He learned much about life and death during his time in medical school and later as a doctor
 
 During his time in medical school, Kalanithi spent a lot of time with cadavers. Most students covered the faces of the cadavers and didn’t learn their names, but he was moved by their humanity.
 
@@ -42,7 +42,7 @@ He witnessed many deaths, both from patients and even people who worked at the h
 
 ## Lesson 3
 
-### Kalanithi’s life ended in his mid-thirties from cancer, but his reflections on the illness can teach us much about life.
+### Kalanithi’s life ended in his mid-thirties from cancer, but his reflections on the illness can teach us much about life
 
 By the time his residency was ending, he had earned awards and the respect of senior doctors. He even had a great job lined up. But after months of back pain, he found out that he had malignant lung cancer that was spreading across his body.
 
@@ -56,10 +56,6 @@ In the last months of his life, he focused on being with family. He and Lucy gre
 
 Eventually, he became too weak to finish the book. Lucy wrote the epilogue, describing him facing death with integrity. **It’s unfinished, but perhaps that’s what makes this book about confronting the uncertainty of death most realistic**. But we are thankful to Dr. Kalanithi for sharing such beautiful thoughts about what gives life meaning.
 
-## Review
-
 *When Breath Becomes Air* is both inspiring and tragic at the same time. It was fascinating to hear about death from the perspective of both a doctor and a patient. This book will help you understand what is truly important in life and helps you confront the inevitability of death.
-
-## Who it’s for
 
 The 57-year-old who just lost their spouse to cancer, the 31-year-old medical school student who’s feeling burnt out and like they don’t get enough time with their family, and anyone who thinks often about what’s really important in life.

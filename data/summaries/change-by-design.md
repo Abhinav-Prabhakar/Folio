@@ -18,7 +18,7 @@ Put your thinking cap on and let’s learn how to use it to design something ama
 
 ## Lesson 1
 
-### Design thinking requires that you bring together the inspiration, ideation, and implementation phases of a project.
+### Design thinking requires that you bring together the inspiration, ideation, and implementation phases of a project
 
 Most of us consider innovation to simply involve the invention of something new. It’s almost as if these two terms are synonymous. But this view makes it hard to get into the intricacies of the process that make it enjoyable and life-changing for mankind.
 
@@ -36,7 +36,7 @@ To make sure to integrate all components, keep feasibility, viability, and desir
 
 ## Lesson 2
 
-### To get better at utilizing each step all at once, prototype as early as possible.
+### To get better at utilizing each step all at once, prototype as early as possible
 
 I used to love playing with LEGOs. I would spend hours constructing sets and building my own creations. My ideas for new combinations of pieces always went best when just started building and then figured it out as I went.
 
@@ -52,7 +52,7 @@ But the main reason testing early like this is so powerful is that it perfectly 
 
 ## Lesson 3
 
-### Make sure to involve stories at every stage to help get your idea to stick with people.
+### Make sure to involve stories at every stage to help get your idea to stick with people
 
 As a kid, I loved hearing the Harry Potter books that my teachers and parents read to me. Even now I really enjoy a good adventure in a movie or book. We all do, don’t we? This is part of human nature and something you need to utilize when working with ideas.
 
@@ -67,7 +67,5 @@ Another example is what would become the predecessor of GPS systems. The company
 ## Review
 
 *Change By Design* has important information for any business, including service-based ones and especially writers. The applications here are endless and I believe anyone can benefit by applying these principles!
-
-## Who it’s for
 
 The 37-year-old mechanical engineer that would like to start their own company and wants to learn how to prepare, the 59-year-old executive that wants to find ways to foster more innovative thinking in their business, and anyone that wants to get better at problem-solving.

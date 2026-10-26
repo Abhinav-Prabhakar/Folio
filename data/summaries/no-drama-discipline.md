@@ -18,7 +18,7 @@ To teach them best, we need to understand how a child’s brain works, so let’
 
 ## Lesson 1
 
-### Take the opportunity to teach your child when they misbehave.
+### Take the opportunity to teach your child when they misbehave
 
 First, we need to make sure we separate discipline from punishment. We do this by making sure our disciplining is proactive rather than reactive. When our go-to is time outs our spanking, this only creates resentment and fear, which isn’t good for parent or child. Instead, we learn to use the magical parenting tool that is “connect and redirect.” First, we take time to connect with our child, then redirect them to the correct the behavior.
 
@@ -28,7 +28,7 @@ Everyone has what the authors call the “downstairs” brain, or the part of th
 
 ## Lesson 2
 
-### Connect, rather than punish, so that the brain can receive feedback.
+### Connect, rather than punish, so that the brain can receive feedback
 
 If you want to discipline your child effectively, you need a loving relationship. The key to developing that love is getting your kid in a receptive state of mind by connecting with them.
 
@@ -38,7 +38,7 @@ So what do we do in situations like this? First thing, don’t dismiss the child
 
 ## Lesson 3
 
-### Search for the “why” and be sure to stay positive while refraining from lecturing.
+### Search for the “why” and be sure to stay positive while refraining from lecturing
 
 Sometimes as parents our automatic response to misbehavior is to scold or lecture. But what kids really need is someone who will try to understand them. If you want to redirect them, children need to feel understood. Rather than just telling them to stop “or else,” try seeking out *why* they are doing something and dig deeper for a reason. Once you figure out the reason for the misbehavior, it will be a lot easier to redirect them.
 
@@ -49,7 +49,5 @@ In addition to positivity, remember that kids are a lot like us-they don’t lik
 ## Review
 
 *No-Drama Discipline* gives a fascinating look into the developing mind of young children. It contains many relatable examples of how to handle the conflicts that come with raising kids. The advice is totally doable and helps turn discipline into a positive teaching experience instead of the part of parenting that most parents dread.
-
-## Who it’s for
 
 The 36-year-old mother who can’t seem to find any way to get her kids to listen to her, a 40-year-old school teacher with a rowdy class that they aren’t sure how to calm down, and anyone with an interest in psychology.

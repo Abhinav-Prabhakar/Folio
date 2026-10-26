@@ -16,11 +16,9 @@ What initially began as a series of letters to his then-teenage daughter eventua
 
 Ready for a simple path to wealth? Let’s look at J. L. Collins’ roadmap in detail!
 
-### The Simple Path to Wealth Summary
-
 ## Lesson 1
 
-### Always spend less money than you earn.
+### Always spend less money than you earn
 
 “If your lifestyle matches—or god forbid exceeds—your income, you are no more than a gilded slave,” Collins says. He mentions Mike Tyson, one of history’s greatest boxers, who made over $300 million (!) yet still wound up bankrupt.
 
@@ -34,7 +32,7 @@ From the moment you make more than you need, aim to spend less than you earn.
 
 ## Lesson 2
 
-### Get out of debt as fast as you can — and stay there.
+### Get out of debt as fast as you can — and stay there
 
 There are many different approaches and takes on having debt. Some experts say it can be a useful tool. Others suggest you should get away from it as far as you can. Personally, I lean more towards the latter perspective, and so does Collins.
 
@@ -48,7 +46,7 @@ If you’re (still) debt-free, try and stay there. If you’re in debt, try to p
 
 ## Lesson 3
 
-### Invest most of your savings into index funds until you’re financially free.
+### Invest most of your savings into index funds until you’re financially free
 
 Sometimes, I hate belaboring the same point over and over again, but it is in countless finance books for a reason: index funds, index funds, index funds! Collins is no exception. He, too, is part of the large crowd of finance experts making investments in index funds the backbone of their wealth-building strategy.
 
@@ -63,7 +61,5 @@ Once you reach your portfolio goal, say $1,000,000, you can safely withdraw 3-7%
 ## Review
 
 Like *The Wealthy Gardener*, this book was written from a parent to their child. Those always make for a powerful read. If you like straightforward, conversational advice with a humorous tone, I think you’ll really enjoy this book.
-
-## Who it’s for
 
 The 24-year-old recent college graduate who’s about to get his first big paycheck, the 45-year-old who still has surprisingly much time left until retirement, and anyone looking for a timeless, simple investing formula that works.

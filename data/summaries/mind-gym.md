@@ -24,7 +24,7 @@ Let’s take our brains to the weights section, shall we? Walking into the mind 
 
 ## Lesson 1
 
-### Mental toughness is made up of seven things.
+### Mental toughness is made up of seven things
 
 It’s a good thing our short-term memory can hold up to seven items, because that means if you lock and load this list of what the authors call the “Seven C’s of Mental Toughness,” you’re good to go:
 
@@ -40,7 +40,7 @@ A pretty cool stack of good traits, huh? Think 3-2-2 in bundling them, but add t
 
 ## Lesson 2
 
-### Sometimes you have to go slow to go fast.
+### Sometimes you have to go slow to go fast
 
 You’ve heard that one before. Take regular breaks, give yourself down time to recover, muscles only grow when they get rest, etc. But that’s not what I’m talking about. I’m talking about *actually* going slower while you’re moving.
 
@@ -56,7 +56,7 @@ Fascinating, right?
 
 ## Lesson 3
 
-### Live a life of love, learning and labor.
+### Live a life of love, learning and labor
 
 Forget external yardsticks to measure your success by. Those by definition always depend on other people, so screw that. What you can instantly answer every time you look into the mirror is: **Am I living a life that’s filled with love, learning and labor?**
 
@@ -71,7 +71,5 @@ He who learns, loves and labors has nothing to fear of life. Only good things to
 ## Review
 
 I like how memorable *Mind Gym* is, because it uses so many alliterations. Seven C’s, three L’s, and so on. This makes the concepts easy to recall. Very good book for athletes, but even for mental marathon runners, this one has a lot to offer!
-
-## Who it’s for
 
 The 13 year old member of the high school track team with big aspirations, the 28 year old freelance writer, who wonders if going solo after college was the right choice, and anyone whose career in sports is about to come to an end.

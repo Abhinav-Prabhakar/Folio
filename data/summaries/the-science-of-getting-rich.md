@@ -20,7 +20,7 @@ Are you ready to reach a new level of prosperity? Let’s learn how!
 
 ## Lesson 1
 
-### For a happy and fulfilling life you need a healthy mind, body, and soul, which requires temporal wealth.
+### For a happy and fulfilling life you need a healthy mind, body, and soul, which requires temporal wealth
 
 People that have money worry they’ll lose it and people without money want to have it. While there are many forces around us that attempt to make our desire for affluence seem wrong, it’s a natural part of being human.
 
@@ -34,7 +34,7 @@ Nurturing the soul is a matter of love, and love is all about our relationships.
 
 ## Lesson 2
 
-### Your specific talents are another key element to progress, and by using them you can encourage others to reach their dreams too.
+### Your specific talents are another key element to progress, and by using them you can encourage others to reach their dreams too
 
 Visualization is a powerful tool to help move us towards reaching our goals. When we envision what we want and how it will feel to attain it, then we will make that vision a reality. But looking towards the future with hope isn’t the only ingredient required for success. We also have to act.
 
@@ -44,7 +44,7 @@ Some fall into the trap of giving their mental effort in one area and their phys
 
 ## Lesson 3
 
-### Our society has engineered much of daily movement out of our lives, and we need to get it back.
+### Our society has engineered much of daily movement out of our lives, and we need to get it back
 
 Imagine two circles that overlap in the center, also known as a Venn diagram. One circle is your talents. The other circle represents what you enjoy doing, or your passions. **Identifying the overlap between your talents and passions is critical to effectively acting to reach your goals.**
 
@@ -53,7 +53,5 @@ As you continue to follow what you love to do, recognize that you are progressin
 ## Review
 
 An oldie but goodie, *The Science of Getting Rich* shows a remarkable new way of thinking about having and earning wealth. This book can help anybody increase their riches if only they will apply the lessons that Wattles teaches. It may take a little discernment to recognize its application in the 21st century, the principles here are powerful.
-
-## Who it’s for
 
 The 52-year-old churchgoer who believes that getting rich is unnecessary and immoral, a 31-year-old construction worker who wants to make more money, and anyone interested in living with more freedom and abundance.

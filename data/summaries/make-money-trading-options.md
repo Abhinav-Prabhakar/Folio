@@ -18,7 +18,7 @@ Here are the 3 of the most helpful lessons this book taught me:
 
 ## Lesson 1
 
-### Stock option trading is a very lucrative business as long as you know how to keep the risk at a minimum.
+### Stock option trading is a very lucrative business as long as you know how to keep the risk at a minimum
 
 Imagine you’re retired with $150,000 in the bank. The only problem? You want to travel the world and pay off your mortgage — and those are expensive. You’re going to need to increase your income.
 
@@ -32,7 +32,7 @@ However, a lot can go wrong if you don’t know what you’re doing, so make sur
 
 ## Lesson 2
 
-### Discover which stocks will be the most profitable by using the Test Trading Strategy.
+### Discover which stocks will be the most profitable by using the Test Trading Strategy
 
 The author says options trading can be compared to betting on horses. You wager on a horse you think will win, and if he does, you get money. If he doesn’t, you lose. But there is one difference: you can place a bet partway through when you have a better idea of where things are going.
 
@@ -61,7 +61,5 @@ Your last step is to review the charts for a final time to make sure that you un
 ## Review
 
 As a stock market newbie, *Make Money Trading Options* was useful to me. The author made everything simple enough for a beginner to understand. If you’re looking for applicable tools and a way to slowly wade into option-waters, get this book.
-
-## Who it’s for
 
 The 58-year-old who loves stock investing and wants to try a new way of doing it, the 19-year-old economics student, and anybody looking to diversify their investment portfolio.

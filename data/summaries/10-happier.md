@@ -16,11 +16,9 @@ Here are 3 lessons to show you why your ego causes problems, that letting it go 
 
 Ready to crank up your happiness by at least 10%? Let’s go!
 
-### 10% Happier Summary
-
 ## Lesson 1
 
-### Your ego gets in the way of your happiness by constantly wanting more.
+### Your ego gets in the way of your happiness by constantly wanting more
 
 The friction between acting in the present, but constantly thinking about the future and past is what causes your ego to be impossible to satisfy. This issue is also addressed in The Power of Now by Eckhart Tolle in a very similar manner.
 
@@ -32,7 +30,7 @@ Time to reign it in!
 
 ## Lesson 2
 
-### Be simple, not a simpleton—why letting go of your ego won’t make you a pushover.
+### Be simple, not a simpleton—why letting go of your ego won’t make you a pushover
 
 Now you might say: “If my ego is my drive to achieve greater things, won’t I lose my edge if I completely let go of it?”
 
@@ -46,7 +44,7 @@ Dan found himself filling pages upon pages with notes during a meditation retrea
 
 ## Lesson 3
 
-### Meditation makes you more mindful and compassionate by giving you a fourth habitual response.
+### Meditation makes you more mindful and compassionate by giving you a fourth habitual response
 
 So what is it that meditation can help us do to tame the ego and fuel our drive?
 

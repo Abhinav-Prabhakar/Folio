@@ -20,7 +20,7 @@ Let’s get smarter with a crash course on capitalism! Here we go!
 
 ## Lesson 1
 
-### Capitalism is all about using money to make more.
+### Capitalism is all about using money to make more
 
 Although most of the world runs on this system, the details of its implementation vary. However, there are a few prevailing ingredients that we can see all around the world.
 
@@ -38,7 +38,7 @@ Markets are another important piece of the puzzle. Our ancient ancestors used to
 
 ## Lesson 2
 
-### Medieval Europe is where the roots of this system began as best as we can tell.
+### Medieval Europe is where the roots of this system began as best as we can tell
 
 We can’t really say for sure when the exact beginning of capitalism was. But by looking at historical conditions we have a pretty good idea. We at least know that it came from the absence of a uniform and domineering elite.
 
@@ -54,7 +54,7 @@ But this also was key to letting in refugees leaving the Counter-Reformation. Th
 
 ## Lesson 3
 
-### Financial crises are inevitable with capitalism and society should look for ways to correct this.
+### Financial crises are inevitable with capitalism and society should look for ways to correct this
 
 The great recession of 2008 shook the world and many would say that we haven’t learned our lesson.
 
@@ -73,7 +73,5 @@ But the current weakness of the political left makes it hard for them to introdu
 ## Review
 
 *Capitalism* has so much good information about the way our money system works! I feel like I learned a lot about economics also, which is great. The first step to making more money is to understand the way it works, and this book is a great place to start!
-
-## Who it’s for
 
 The 22-year-old political science major, the 45-year-old who had a hard time finding a job during the 2008 recession, and anyone that wants to get a better understanding of how the flow of money in the world works.

@@ -20,7 +20,7 @@ Ready to close the career gap? Here we go!
 
 ## Lesson 1
 
-### Getting your dream job does not begin with quitting your current one.
+### Getting your dream job does not begin with quitting your current one
 
 Just earlier this week we learned from Jeff Goins that only 13% of people actually like to show up for work in the morning.
 
@@ -39,7 +39,7 @@ This makes it less likely for you to jump at an opportunity that might seem okay
 
 ## Lesson 2
 
-### Always hustle in the morning, even if you think you’re a night owl.
+### Always hustle in the morning, even if you think you’re a night owl
 
 Hustle is the most important word, ever. At least if you ask Gary Vaynerchuk 🙂
 
@@ -61,7 +61,7 @@ So put that achievement in your bank account in the mornings, where no one can t
 
 ## Lesson 3
 
-### Define what enough means to you before you reach it.
+### Define what enough means to you before you reach it
 
 Lastly, Jon has a great tip about success.
 
@@ -88,7 +88,5 @@ I really want to sit down and binge read all books by Jon Acuff right now. I’v
 I’m setting up an email to myself with “enough” as I write this and suggest you read this combined with the above and *So Good They Can’t Ignore You.*
 
 Great work, looking forward to more of Jon’s books both on Blinkist and in paperback 🙂
-
-## Who it’s for
 
 The 24 year old ambitious upstart, who’s about to quit his day job for his entrepreneurial career, the 35 year old, who’s successful, but never sure when she’s reached her goal, and anyone who claims to be a night owl.

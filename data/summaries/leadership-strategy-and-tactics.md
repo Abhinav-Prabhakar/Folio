@@ -20,7 +20,7 @@ Ready for a big boost to your leadership skills? Let’s get to it!
 
 ## Lesson 1
 
-### Taking a step back, even literally, will always help you see your situation accurately and make better decisions about how to move forward.
+### Taking a step back, even literally, will always help you see your situation accurately and make better decisions about how to move forward
 
 Imagine you’re with a Navy SEAL team on an offshore oil rig doing a training mission. The team ends up stuck in a position, not knowing how to move forward, waiting for the call. But nobody is making a move because there are just too many unknowns.
 
@@ -34,7 +34,7 @@ If you’re feeling like what you’ve got on your plate is too much, just step 
 
 ## Lesson 2
 
-### Picking up brass is just one thing that a good, humble leader does.
+### Picking up brass is just one thing that a good, humble leader does
 
 Some people still mistakenly believe that people are born with talent or the lack thereof. This is not only untrue but also harmful to personal growth. That’s because admitting that talent doesn’t exist beyond hard work lets you see that anyone can improve at anything.
 
@@ -48,7 +48,7 @@ It doesn’t mean you have to volunteer for these jobs. But when you do help wit
 
 ## Lesson 3
 
-### Everything goes better when you communicate clearly with your team.
+### Everything goes better when you communicate clearly with your team
 
 To be the best you can for the people you’re in charge of, learn how to give information effectively. When you don’t, it’s easy for people to get confused, make mistakes, get left behind, and start rumors that damage morale.
 
@@ -69,7 +69,5 @@ It’s also important to pay careful attention to how you say things. People lis
 ## Review
 
 Jocko Willink is an awesome leader who I always enjoy learning from, and his *Leadership And Strategy Tactics* didn’t disappoint. His experiences as a Navy SEAL make for a lot of interesting stories of why these principles work. I like that I’ve already seen the power of some of these ideas in my work, and I’m excited to try them all!
-
-## Who it’s for
 
 The 36-year-old manager whose team members keep leaving the company because he micromanages and doesn’t know it, the 19-year-old who wants to be a leader someday, and anyone that wants some inspiration on how to help their team run more efficiently.

@@ -20,7 +20,7 @@ Could this be the book that sets of a money journey that doubles your income? Re
 
 ## Lesson 1
 
-### Believe that money is good to realize your full financial potential.
+### Believe that money is good to realize your full financial potential
 
 What are your beliefs about money? Maybe you’re like most people and believe that money makes people greedy and selfish. Sadly, this is a myth that our society continues to perpetuate that is holding us all back.
 
@@ -34,7 +34,7 @@ Remember, money isn’t bad and neither are you for wanting more of it.
 
 ## Lesson 2
 
-### Replace your negative attitude about money with positivity and belief and you’ll be amazed at what you can accomplish.
+### Replace your negative attitude about money with positivity and belief and you’ll be amazed at what you can accomplish
 
 If you had a friend that talked bad about you all the time, would you stay friends with them for long? **How you feel about this awful fictional friend is exactly how money “feels” about you when you talk bad about it.**
 
@@ -46,7 +46,7 @@ Sincero has an experience with this that seemed pretty crazy but is evidence tha
 
 ## Lesson 3
 
-### Specific money goals will give you specific results.
+### Specific money goals will give you specific results
 
 Jim Carrey’s story is the perfect example of the power of having well-defined financial goals. Starting out poor, Carrey dreamed of one day being a famous actor. One day he wrote himself a check for $10 million for “acting services rendered,” and dated it for three years in the future. **About three years after this, Carrey found out that his role in Dumb and Dumber would make him exactly $10 million.**
 
@@ -59,7 +59,5 @@ What amount of money do you need to do what you want with your life?
 ## Review
 
 *You Are A Badass At Making Money* is one of the books that has influenced me more than most books out there. I continue to use the lessons it’s taught me to improve my financial situation. It’s tips for reaching financial goals have helped me go from a dead-end job to making nearly six figures in just over a year!
-
-## Who it’s for
 
 The 34-year-old couple who is struggling financially and can’t seem to get ahead, the 45-year-old who feels stuck in their money situation and wants hope, and anyone who is afraid of money because they think it is “the root of all evil.”

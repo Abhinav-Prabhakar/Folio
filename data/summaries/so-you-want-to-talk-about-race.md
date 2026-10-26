@@ -22,7 +22,7 @@ Are you ready to find out what you can do to take a stand against systemic racis
 
 ## Lesson 1
 
-### Racism is part of our society and government and we need to begin seeing the truth of this if we want to help fight it.
+### Racism is part of our society and government and we need to begin seeing the truth of this if we want to help fight it
 
 In 2016 when Donald Trump became president, some people thought that the Democrats lost because societal problems in America were a matter of class, not race. People surmised that the left focused only on Blacks, Latinx, women, and trans people and not white men.
 
@@ -40,7 +40,7 @@ We must fix these problems by focusing on race. Oluo gives a few ideas to consid
 
 ## Lesson 2
 
-### Uncomfortable conversations on the topic of race is the starting point of ending discrimination.
+### Uncomfortable conversations on the topic of race is the starting point of ending discrimination
 
 When Oluo was 34 she had her first serious talk about race with her white mother. Her mom had told a joke involving a “Black punchline” at work and one of her Black coworkers asked her if she knew anything about being Black.
 
@@ -57,7 +57,7 @@ You can have the same mindset shift by being willing to have conversations about
 
 ## Lesson 3
 
-### More minorities end up incarcerated as a result of racial bias in schools.
+### More minorities end up incarcerated as a result of racial bias in schools
 
 Oluo’s brother Aham had some struggles to get through school. His teachers misinterpreted the boy’s energy as aggression, leading to all sorts of challenges.
 
@@ -76,7 +76,5 @@ To help fight this, you can talk to your local schools and see how they handle d
 ## Review
 
 *So You Want To Talk About Race* is a must-read for everyone. I especially liked how thoroughly it went over the reasons racism exists and gave specific tips for fighting it. It’s going to take work to end systemic racism, but books like this one definitely make it easier!
-
-## Who it’s for
 
 The 60-year-old white male who doesn’t realize how racist they are, the 35-year-old that is oblivious to the fact that racism is still a huge problem, and anyone that knows that black lives really do matter.

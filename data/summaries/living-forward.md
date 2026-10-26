@@ -20,7 +20,7 @@ Are you excited to finally start to live forward? Let’s get right to it!
 
 ## Lesson 1
 
-### You must have a Life Plan if you want to have the kind of life that you’re happy with.
+### You must have a Life Plan if you want to have the kind of life that you’re happy with
 
 Although next to nobody uses GPS navigators anymore, we all have them on our phones. They direct us to places we want to go but never have been before. What’s even better, they’ll reroute us without judgment if we get off course.
 
@@ -38,7 +38,7 @@ Now we’ll into how to make one in our next lesson!
 
 ## Lesson 2
 
-### The right questions will help you create your Life Plan, which you must set aside an entire day to write.
+### The right questions will help you create your Life Plan, which you must set aside an entire day to write
 
 There are three key questions to reflect on and write about to make your Life Plan:
 
@@ -58,7 +58,7 @@ Writing your Life Plan is so important that it’s worth taking the time to do i
 
 ## Lesson 3
 
-### Review your long-term goals often and reflect frequently on how your daily, weekly, and quarterly actions are helping you get there.
+### Review your long-term goals often and reflect frequently on how your daily, weekly, and quarterly actions are helping you get there
 
 Hyatt once worked for a quickly-growing company that was in need of a formal plan. A three-day retreat with a consultant did the trick and a detailed plan was born. But it didn’t make any difference.
 
@@ -77,7 +77,5 @@ When the year is over, set aside an entire day to do an in-depth checkup on your
 ## Review
 
 I’ve done a lot of these things myself before but getting the clarity from *Living Forward* on how to do it right was awesome. Michael Hyatt always writes good stuff and this book is just further proof of that. I’m confident in these tips not only because I’ve done them, but because they come from such an accomplished author.
-
-## Who it’s for
 
 The 46-year-old that is having a difficult time beating procrastination, the 21-year-old who’s tired of not having a purpose and wants to find it, and anyone that wants to live life to the fullest.

@@ -20,7 +20,7 @@ Although it’s difficult to compress all the valuable information Maslow has di
 
 ## Lesson 1
 
-### To get to the top of the pyramid and achieve self-actualization, you must first fulfill all previous needs.
+### To get to the top of the pyramid and achieve self-actualization, you must first fulfill all previous needs
 
 Maslow believed in self-actualization as a science. Therefore, he stated that this ultimate state of fulfillment can only be achieved if one follows their true nature and inner voice. For example, maybe you have a burning desire and an inclination towards dancing. But you choose to spend your life being an accountant. In that situation, you’ll never achieve self-actualization.
 
@@ -30,7 +30,7 @@ The second category is your safety needs represented by personal security, emplo
 
 ## Lesson 2
 
-### Achieving a “state of Being” is only possible through self-actualization.
+### Achieving a “state of Being” is only possible through self-actualization
 
 On the quest to achieve self-actualization, humans must go through different challenges and fulfill various levels of needs. Advancing to the next category on the pyramid implies that all previous needs have been taken care of. That’s why it is a challenge for anyone to make it to the top. However, once there, Maslow suggests that the person will experience a state of Being.
 
@@ -40,7 +40,7 @@ You become free from all other needs and get to focus on what you wish. When you
 
 ## Lesson 3
 
-### Reaching a state of Being opens up one’s mind to a whole new type of creativity.
+### Reaching a state of Being opens up one’s mind to a whole new type of creativity
 
 Achieving a state of Being and that superhuman perspective that comes with it is not an easy feat. Still, people who’ve got there seem to know something that the average person doesn’t, simply because they have more time and willingness to connect with the world, instead of chasing their objectives. The first thing Maslow observed about them is their creativity.
 
@@ -51,7 +51,5 @@ Some people just follow technical specifications to create a predefined outcome,
 ## Review
 
 Maslow discovered not just one of the ways humans are programmed to function, but also how to go through obstacles to achieve ultimate fulfillment. *Toward the Psychology of Being* is a valuable piece of writing on the positive side of psychology that explores how one can improve their life, health, and reach self-actualization. The process is lengthy and challenging, which is why Maslow estimates that only 1% of the population achieves that state. However, reading this book will certainly bring you one step closer to your ultimate goal.
-
-## Who it’s for
 
 The 40-year old person who is passionate about psychology and the power of the brain on the body and spirit, the 27-year-old person who feels lost and frustrated and wants to find their purpose and achieve it, or the 38-year-old parent who wants to pave the way for a happy life for their child

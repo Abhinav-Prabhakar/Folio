@@ -18,7 +18,7 @@ Now, we’ll dig deep into each lesson and scoop out all the valuable insights t
 
 ## Lesson 1
 
-### Groundedness and loving your life are the key to a Zen state-of-mind.
+### Groundedness and loving your life are the key to a Zen state-of-mind
 
 Similar to the Stoic philosophy, being Zen promotes loving your fate and the present moment. Living by some self-imposed standards that you inherit from society and the expectations that come with the conventional definition of success will only hurt you in the long run. Instead, work on being happy with what you currently have and loving your fate. Why? Because even if you don’t, it won’t change a thing.
 
@@ -28,7 +28,7 @@ In the process, you’ll encounter hardship, such as discomfort, sickness, negat
 
 ## Lesson 2
 
-### Make problems turn into decisions, instead of making decisions turn into problems.
+### Make problems turn into decisions, instead of making decisions turn into problems
 
 From the moment we wake up, to the moment we fall asleep, life is all about making choices. However, many of us relate to those decisions as problems. Whether we like it or not, we’re going to have to face them anyway. Imagine how your life would look if every day you woke up you’d be upset with the fact that you have to choose whether to eat breakfast or brush your teeth first.
 
@@ -40,7 +40,7 @@ The lesson here is to stop turning decisions into problems, but rather view them
 
 ## Lesson 3
 
-### Impermanence is just another word for perfection.
+### Impermanence is just another word for perfection
 
 Practicing Zen comes with acknowledging that everything, from the flowers in your garden to your life, is impermanent. The circle of life comes with birth, growth, and death, and that’s the beauty of it. Just as you’re reading this, cells in your body are dying to leave room for new cells to form. Instead of fearing and opposing this natural part of life, why not accept it and live with it? Doing so will bring you a lot of peace of mind, along with a feeling of contentment.
 
@@ -51,7 +51,5 @@ Just think about it – without the death of plants and animals, there would be 
 ## Review
 
 *Everyday Zen* explores the idea of living a meaningful, peaceful, fulfilling life by embracing the idea of Zen. By delving into concepts such as death, love, and the grand energy of the universe, the book offers its readers a wider perspective on life and a way to live more meaningfully. Reading this book will make you feel more grounded and in touch with yourself and the life you were born into by teaching you how to accept your fate and make peace with everything that comes in your life.
-
-## Who it’s for
 
 The over-stressed 40-year-old person who can’t find balance in their life, the 35-year-old person who wants to discover how to live in Zen, or the 70-year-old person who feels like they want to explore their spiritual side in depth.

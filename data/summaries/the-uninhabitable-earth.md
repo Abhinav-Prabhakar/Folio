@@ -6,7 +6,7 @@
 
 Have you ever considered why movies about the end times, post-apocalyptic and zombie films are so popular these days? Movies like *Mad Max: Fury Road*, *Children of Men*, *The Colony* and most recently, *The Bird Box* continue to draw massive audiences. What is it about humanity’s bleak future that is so entertaining to us?
 
-In David Wallace-Wells’ book, *The Uninhabitable Earth: Life After Warming* *,* these fictionalized film accounts of what our earth might be like after suffering the ravages of toxic air, water shortages and melting ice caps become all too real. The chilling thought of our planet damaged beyond repair is a frightening prospect indeed. And this terrifying global nightmare is closer than we might think.
+In David Wallace-Wells’ book, *The Uninhabitable Earth: Life After Warming* , these fictionalized film accounts of what our earth might be like after suffering the ravages of toxic air, water shortages and melting ice caps become all too real. The chilling thought of our planet damaged beyond repair is a frightening prospect indeed. And this terrifying global nightmare is closer than we might think.
 
 Here are 3 lessons mismanagement of our environment demonstrate:
 
@@ -18,7 +18,7 @@ Let’s delve deeper into this chilling future that the planet earth seems desti
 
 ## Lesson 1
 
-### The Paris climate agreement goals are hopelessly optimistic and too little, too late.
+### The Paris climate agreement goals are hopelessly optimistic and too little, too late
 
 There was an epic meeting of the world leaders in Paris about 4 years ago. These leaders working towards an agreement were trying to set new goals to tackle the mounting threat of climate change. Finally, politicians are recognizing the serious implications and urgency that can occur from this situation.
 
@@ -26,11 +26,11 @@ From these talks stemmed the objective of maintaining global average temperature
 
 The Intergovernmental Panel on Climate Change (IPCC) released a report in 2018. The data indicates that even if the world governments take aggressive actions now, by enacting all proposed policies agreed to in the Paris talks, we will still continue to see global temperatures rise in excess of 3.2 degrees before warning halts. This is not good news.
 
-**What this means is thatthe world’s ice sheets will still collapse in our lifetime.** This would lead to the eventual flooding of hundreds of cities, including Miami, Shanghai, and Hong Kong. Southern Europe would experience permanent drought and wildfires in the U.S would increase 600 percent. And this is the optimistic scenario.
+**What this means is that the world’s ice sheets will still collapse in our lifetime.** This would lead to the eventual flooding of hundreds of cities, including Miami, Shanghai, and Hong Kong. Southern Europe would experience permanent drought and wildfires in the U.S would increase 600 percent. And this is the optimistic scenario.
 
 ## Lesson 2
 
-### Atlantis might not be such a myth for long with major cities underwater as a consequence of climate change.
+### Atlantis might not be such a myth for long with major cities underwater as a consequence of climate change
 
 The best-known consequence of climate change is melting polar ice caps. This will cause a rise in sea levels. Without curbing our emissions output this can translate into ocean rises between 1.2 and 2.4 meters within the next century.
 
@@ -44,7 +44,7 @@ Imagine the disappearance of ports, energy plants, military bases, farmlands alo
 
 ## Lesson 3
 
-### We might be on the verge of a global health crisis as old diseases are revived and current ones rejuvenated.
+### We might be on the verge of a global health crisis as old diseases are revived and current ones rejuvenated
 
 It’s unsettling to think that all the progress in medical science over the centuries could be gone in a single generation. And it would all be due to climate change. It’s possible that this global health crisis would manifest in two ways: old diseases revived and current ones rejuvenated.
 
@@ -57,7 +57,5 @@ As warming accelerates, the earth’s tropic zones will expand. This will lead t
 ## Review
 
 This book reads like a non-fiction horror story. And *The Uninhabitable Earth* leaves very little room for hope. It’s an interesting read, but pretty distressing.
-
-## Who it’s for
 
 The 25-year-old clean air engineering technician, the 36-year-old epidemiologist, and anybody who wants themselves and their posterity to keep living healthily on Earth.

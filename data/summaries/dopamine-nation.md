@@ -20,11 +20,9 @@ Here are my three favorite lessons from the book:
 
 Let’s discuss them to reveal some interesting insights!
 
-### Dopamine Nation Summary
-
 ## Lesson 1
 
-### Dopamine addiction follows from our desire to stop feeling miserable.
+### Dopamine addiction follows from our desire to stop feeling miserable
 
 Going through life, there’s plenty of misery and unhappiness we’ll face, just as there are many happy and beautiful moments we’ll witness. However, it seems that we’re not too good when it comes to dealing with pain, so we try to cover it up with small, but effective doses of pleasure.
 
@@ -40,7 +38,7 @@ If you learn to tolerate slight discomforts and deal with your emotions instead 
 
 ## Lesson 2
 
-### Constantly fulfilling our dopamine cravings leads to neuroadaptation.
+### Constantly fulfilling our dopamine cravings leads to neuroadaptation
 
 Just like a drug addict, we go back to our sources of dopamine every time we need a new dose of pleasure. However, as we consume more of them, our brain starts to get used to the feeling and builds resistance.
 
@@ -54,7 +52,7 @@ The balance between the mind, body, and spirit can be restored, as long as the d
 
 ## Lesson 3
 
-### Using pain as a dopamine source can promote our well-being.
+### Using pain as a dopamine source can promote our well-being
 
 By now you already know that pleasure is inevitably followed by pain, and that too much of it can cause high levels of damage to our brain and body.
 
@@ -73,7 +71,5 @@ Subjecting your body to such activities increases its resistance and builds up a
 *Dopamine Nation* explores how overflowing sources of dopamine can become a burden to carry. Although the constant availability of resources looks like a good thing from the outside, it can lead to serious problems and the avoidance of discomfort in our society.
 
 However, by learning to use pain to our advantage and fighting the urge to indulge in the nearest dopamine source, we can become balanced individuals who live healthy, addiction-free lives.
-
-## Who it’s for
 
 The 30-year-old gambler who wants to fight his addiction, the 35-year-old person who is looking to better themself and create a healthier routine in their life, or the 40-year-old life coach who is looking to learn more about the root causes of misery and how to fight them, so as to deliver better advice to their customers.

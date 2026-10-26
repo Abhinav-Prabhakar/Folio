@@ -18,7 +18,7 @@ Do you think predicting human behavior is tough? Here’s a filter that’ll hel
 
 ## Lesson 1
 
-### Even the best incentives don’t work out as planned and always come with side effects.
+### Even the best incentives don’t work out as planned and always come with side effects
 
 Even though we can’t see into peoples’ heads and just look at what exactly makes them tick, we’re still driven by the power of incentives all the time. Governments, companies, schools, even just other people constantly try to get us to do things by dangling certain rewards in front of us.
 
@@ -34,7 +34,7 @@ Don’t forget: all incentives have intended and unintended consequences!
 
 ## Lesson 2
 
-### Simple solutions to tricky problems are often hidden on a more generic level.
+### Simple solutions to tricky problems are often hidden on a more generic level
 
 What do scientists do if they can’t find the solution to a problem? They collect data! Data always helps you find a solution, but it might not do so in the way that you think.
 
@@ -52,7 +52,7 @@ So when you face a complex problem, zoom out, take a step back and look outside 
 
 ## Lesson 3
 
-### You can never have enough data, so always collect as much as you can.
+### You can never have enough data, so always collect as much as you can
 
 Lastly, since the most valuable pieces of data are the ones you rarely observe, plus those that you find are missing from the normal picture, you need a lot of data to find them.
 
@@ -67,7 +67,5 @@ Data never hurts, to the contrary, so make sure you’re always getting more of 
 ## Review
 
 Statistics is a topic that really speaks to me in 2016. There’s something about reducing issues to numbers that forces you to think rationally and look at what’s *actually* going on, not guess based on your own, muddled feelings and intuition. In a hyper-sensitive, trash-news driven world, whoever can do that the best wins, and I really want you and I to win – so I’m recommending *Superfreakonomics* to you.
-
-## Who it’s for
 
 The 27 year old research assistant, who’s dealing with a really tough problem this semester, and can’t find the solution in her data, the 44 year old sales team leader, who has to figure out a new incentive system for his team, and anyone who’s never run a survey before.

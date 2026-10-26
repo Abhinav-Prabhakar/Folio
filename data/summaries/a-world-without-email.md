@@ -20,7 +20,7 @@ Let’s keep learning from these lessons by exploring them in detail below!
 
 ## Lesson 1
 
-### Instant messaging and emailing can decrease productivity drastically in the workplace.
+### Instant messaging and emailing can decrease productivity drastically in the workplace
 
 Everyone uses emails at work – it’s just the way things are right now. Emails keep us connected and enhance collaboration within teams. Sounds good? That’s what the companies thought. However, it seems that communication through inboxes might do more harm than good.
 
@@ -32,7 +32,7 @@ That is because we are wired to only focus on one thing at a time. And keeping m
 
 ## Lesson 2
 
-### To improve productivity, we have to switch to project management execution apps instead of emails.
+### To improve productivity, we have to switch to project management execution apps instead of emails
 
 Emails are outdated project assignation tools, and for a reason. They decrease the attention span by keeping employees hooked to a constantly open tab. Not only that, but they also get messy and unstructured.
 
@@ -46,7 +46,7 @@ Make sure to include employees in the workflow change and give them autonomy in 
 
 ## Lesson 3
 
-### People work best when they receive straightforward, coordinated tasks.
+### People work best when they receive straightforward, coordinated tasks
 
 Emails are a great means of communication, but what happens when we don’t know what to communicate? Most of the time, they get in the way of productivity. The problem with emails is that people feel productive writing and reading them when they’re in fact not productive at all.
 
@@ -63,7 +63,5 @@ Every employee should receive work that they perceive easy to understand, follow
 The book presents an idea of the workplace where employees receive clearly-structured tasks and assigned responsibilities that they can fulfill without having to go back and forth about them on email apps.
 
 Everything happens on management apps monitored by disseminators, and productivity spikes as an externality – doesn’t that sound great? It looks like we’ll have to try it out to see for ourselves.
-
-## Who it’s for
 
 The 30-year-old worker who wants to take a peek into the future of a knowledge worker’s day at work, the 49-year-old executive who wants to shape a more productive work environment, or the 37-year-old start-up founder who wants to gain a competitive hedge by establishing effective practices at their company from the early days.

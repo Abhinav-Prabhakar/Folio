@@ -20,7 +20,7 @@ Let’s use Jarvis’s principles to figure out exactly what it takes to become 
 
 ## Lesson 1
 
-### To have a successful company of one, don’t continually aim higher, set profit limits.
+### To have a successful company of one, don’t continually aim higher, set profit limits
 
 The word “more” is the best way to describe the mindset around the modern-day business. Consumers want to buy more. Companies want to sell more. And while buyers are slowly discovering the benefits of saying no to this “never satisfied” mentality, companies can also find success in setting limits on their earnings.
 
@@ -34,7 +34,7 @@ If you think about it, $500,000 is probably enough for you too, isn’t it?
 
 ## Lesson 2
 
-### Your goal should be to reach a specific audience – the more niche, the better.
+### Your goal should be to reach a specific audience – the more niche, the better
 
 When Starbucks began in 1971 in Seattle, Washington, their aim was to be the neighborhood boutique coffee place. Unfortunately, as Starbucks’ popularity grew in the early 2000s, the chain lost sight of this original goal and tried to be everything to everyone. The subsequent downturn resulted in the closure of around 900 stores.
 
@@ -48,7 +48,7 @@ One example is Kurt Elster, who only serves e-commerce businesses that utilize S
 
 ## Lesson 3
 
-### Forget investing big upfront, focus on making a small profit fast instead.
+### Forget investing big upfront, focus on making a small profit fast instead
 
 Once your clientele and earnings expand, you may be tempted to quit your day job and begin making large investments both time- and money-wise. Don’t act so fast though. Your new little seedling company needs time to expand slowly. This way, you can properly manage it and adjust to organic growth.
 
@@ -61,7 +61,5 @@ However, don’t get stuck trying to make a profit forever. The longer you take 
 ## Review
 
 This is an inspiring book for those who don’t fancy the 9-to-5 but don’t want to burn themselves out in a crazy startup ride either. *Company Of One* is as motivational as it is informative. Thanks to Jarvis’s many experiences, examples, and practical steps, it sure feels like the definitive guide to solo entrepreneurship.
-
-## Who it’s for
 
 The 29-year-old young professional, who is stressed about the idea of working in a dead-end job for the next 30 years, the 36-year-old freelance writer looking to turn their gig into a personal business, and anyone wanting to graduate from the daily 9-5 grind.

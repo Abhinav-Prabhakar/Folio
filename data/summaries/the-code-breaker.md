@@ -18,11 +18,9 @@ Here are three of the most relevant lessons from this book:
 
 Now, let’s take each lesson one by one and learn even more about these amazing scientific discoveries!
 
-### The Code Breaker Summary
-
 ## Lesson 1
 
-### CRISPR technology could potentially cure cancer, as we can already understand viruses thanks to it.
+### CRISPR technology could potentially cure cancer, as we can already understand viruses thanks to it
 
 The potential of CRISPR technology is vast, and it’s only going to get better. We can already understand viruses thanks to CRISPR, which means that we can potentially cure cancer.
 
@@ -34,7 +32,7 @@ We can use this to cure diseases like cancer by removing harmful mutations from 
 
 ## Lesson 2
 
-### CRISPR is a biological weapon, an ethical issue, and a revolutionary concept.
+### CRISPR is a biological weapon, an ethical issue, and a revolutionary concept
 
 The CRISPR-Cas9 system is a way of editing genes in order to cure diseases or other genetic defects. It has been used to treat congenital blindness and sickle cell disease, among other things.
 
@@ -46,7 +44,7 @@ This means that we can use CRISPR as a tool to repair certain diseases or get ri
 
 ## Lesson 3
 
-### This groundbreaking discovery will shape our entire future, the author thinks.
+### This groundbreaking discovery will shape our entire future, the author thinks
 
 Biohacking involves the use of biology and biotechnology to alter the genetic makeup of a living organism in order to cause harm or enhance its abilities.
 
@@ -67,7 +65,5 @@ CRISPR has the potential to cause huge positive changes in the world, and even s
 *The Code Breaker* shows just how powerful this technology is, and how science played a crucial role in the development of humans and nations. However, if we are not careful enough, this technology may surpass us, and the implications can be catastrophic.
 
 Still, science is vital for evolution, and CRISPR could be the revolution we so desperately needed to fight grave diseases. If you want some food for thought, I highly recommend this book, as it’ll pose some pretty serious life questions for anyone who dares to read it.
-
-## Who it’s for
 
 The 55-year-old science professor who wants to keep up with emerging trends in his field, the 33-year-old biologist who is highly interested in CRISPR technology, or the 40-year-old person who enjoys a good lecture from the science world and is looking for a perspective on the future of humanity.

@@ -16,11 +16,9 @@ Here are three of the most important lessons from this book that’ll change you
 
 Let’s explore these lessons in detail so you can improve your financial future!
 
-### The Wealthy Gardener Summary
-
 ## Lesson 1
 
-### Life is meant to be lived fully, enjoying the ride, and taking each season as it comes.
+### Life is meant to be lived fully, enjoying the ride, and taking each season as it comes
 
 Life has a beautiful symmetry that just makes one stop and wonder. Just like nature, humans too go through seasons of their own, the wealthy gardener had noticed in his lifetime.
 
@@ -34,7 +32,7 @@ The twenties are just like the spring season when we plant the seeds of our fina
 
 ## Lesson 2
 
-### Adopt healthier money habits to become rich instead of obsessing over making more money.
+### Adopt healthier money habits to become rich instead of obsessing over making more money
 
 Making money is the first step to becoming financially successful. However, what comes after is truly what sets apart the rich from the poor. Let’s start with the definition of being rich.
 
@@ -48,7 +46,7 @@ Therefore, take on your financial independence journey and start saving money af
 
 ## Lesson 3
 
-### We get whatever we’re willing to tolerate, but even if we’re ready to step up, most dreams take a “five-year crusade” to achieve.
+### We get whatever we’re willing to tolerate, but even if we’re ready to step up, most dreams take a “five-year crusade” to achieve
 
 The wealthy gardener gave a piece of advice with tremendous importance to his son: “We get in life the poorest conditions we will tolerate.” To overcome adverse circumstances, you must actively reject them, then engage in chasing your dream. Now, this is a complex lesson, so let’s take it step-by-step.
 

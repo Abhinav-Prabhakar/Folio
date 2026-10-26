@@ -18,7 +18,7 @@ Nothing in life ever works out the way we want it. But what if that wasn’t a b
 
 ## Lesson 1
 
-### Show up to your emotions, even the bad ones.
+### Show up to your emotions, even the bad ones
 
 If you’re an optimistic person like me, chances are you tend to swallow bad feelings, downplay them as minor issues, and smile through the pain. While that’s a better approach than being a total drama queen, it’s still not perfect. Forced optimism can’t be sustained, which means it’s only a temporary solution to a permanent problem.
 
@@ -28,7 +28,7 @@ That’s because **even negative emotions can have positive consequences, as lon
 
 ## Lesson 2
 
-### Step out of your feelings to create distance and perspective.
+### Step out of your feelings to create distance and perspective
 
 Recognizing your emotions as they happen is a necessary precursor to consciously deciding how you’ll deal with them. However, it’s not easy. It’s a habit that takes practice. The practical part, the ability you’ll need to regularly exercise, is mindfulness. While being too mindful can be a problem, noticing your emotions allows you to step out and get some space.
 
@@ -38,7 +38,7 @@ If you want to see the power of identified emotions, select an object around you
 
 ## Lesson 3
 
-### Walk your why by setting want-to goals, not have-to ones.
+### Walk your why by setting want-to goals, not have-to ones
 
 Our brains are powerful distortion machines. Compelled to force our life’s story into a functioning narrative at all times, they tweak fact to fiction in order to make sense of the world and keep us from going insane. However, this comes at a cost: we only partially act in reality.
 
@@ -57,7 +57,5 @@ Just like showing up and stepping out help you adapt emotionally to ever-changin
 ## Review
 
 I see why this book has received so many accolades. It delivers a well-researched, simple to remember and easy to execute framework for a very intangible problem: emotional instability. The future is less certain than it’s ever been, which causes us imaginary problems, but problems nonetheless. Problems, which must be addressed. If you want to learn more, Susan’s 5-minute quiz is a good start.
-
-## Who it’s for
 
 The 21 year old first time professional, who feels lost with the overwhelming responsibilities of adult life, the 38 year old young mom, who can’t afford to let emotions run her day, and anyone who achieved their goals, but realized they were the wrong ones to begin with.

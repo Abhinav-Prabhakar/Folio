@@ -20,7 +20,7 @@ Are you excited to learn about one of the most influential and intelligent minds
 
 ## Lesson 1
 
-### The world began to see John Nash’s brilliance when he was in graduate school making mathematical breakthroughs.
+### The world began to see John Nash’s brilliance when he was in graduate school making mathematical breakthroughs
 
 Like many geniuses, John Nash had some eccentric and reclusive tendencies. But though his parents worried about him socially, he had a gift for thinking about math problems in new and unorthodox ways. Surprisingly, he didn’t show glowing grades in high school math because he would neglect to show his work and just write an answer that he had solved in his head. But in college, his professors were astounded by his methods for solving difficult math problems with ease, and he was accepted to graduate school at Princeton University.
 
@@ -32,7 +32,7 @@ His thesis gave him huge recognition in the mathematics field and landed him a j
 
 ## Lesson 2
 
-### Nash’s diagnosis of schizophrenia came after a stressful time in his career and life.
+### Nash’s diagnosis of schizophrenia came after a stressful time in his career and life
 
 When Nash approached the age of 30, he began to be increasingly anxious about not yet receiving tenure and a lack of new mathematical breakthroughs. His anxieties lead him to decide to take on Reimann’s hypothesis, a famously hard unsolved math problem. It was when he was putting all of his energy into this that he found out his wife was pregnant. This was when people noticed his increasingly strange behavior.
 
@@ -44,7 +44,7 @@ Nash saw things get worse with his income source gone and Alicia filing for divo
 
 ## Lesson 3
 
-### His tragic story turned around when he made a seemingly unbelievable recovery and he finally was able to have success.
+### His tragic story turned around when he made a seemingly unbelievable recovery and he finally was able to have success
 
 To most everyone around him, all seemed lost. But in a miraculous turn of events, he began to recover.
 
@@ -57,7 +57,5 @@ He spent his remaining years reconnecting with family and friends he had estrang
 ## Review
 
 What a story! *A Beautiful Mind* is a great read, especially if you’ve seen the movie. I enjoy math and it’s fascinating to learn more about Nash’s contributions to the field and the struggles with mental illness he had along the way.
-
-## Who it’s for
 
 The 25-year-old student of economics who would like some inspiration, the 47-year-old who is curious about schizophrenia and other mental illnesses, and anyone who wants to learn more about an incredible man who contributed much to the world of mathematics.

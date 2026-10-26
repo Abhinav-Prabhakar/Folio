@@ -4,7 +4,7 @@
 
 ## Overview
 
-Explaining Japanese concepts for a Western audience has been a big trend in nonfiction lately. There are books about “kaizen,” the philosophy of continuous improvement, books about “shinrin-yoku,” the art of “forest bathing,” and many more. I love it, but: Since Japanese is a big, complex, and varied language, authors can also *mis* interpret words and concepts. As a result, we sometimes end up with books that are useful but don’t capture the original idea very well.
+Explaining Japanese concepts for a Western audience has been a big trend in nonfiction lately. There are books about “kaizen,” the philosophy of continuous improvement, books about “shinrin-yoku,” the art of “forest bathing,” and many more. I love it, but: Since Japanese is a big, complex, and varied language, authors can also *mis*interpret words and concepts. As a result, we sometimes end up with books that are useful but don’t capture the original idea very well.
 
 Take one of the most popular of those ideas: ikigai. If you’ve heard of it, you probably connect the word with “happiness” or “your life’s purpose.” That’s because a book written by two Spanish authors has largely shaped our view of ikigai in the West. It’s a good book—but unfortunately, it doesn’t describe what ikigai is really about.
 
@@ -20,7 +20,7 @@ Let’s learn about ikigai from someone who’s grown up and lived in Japan all 
 
 ## Lesson 1
 
-### Ikigai is whatever makes your life worth living. It’s accessible to everyone and has nothing to do with your career.
+### Ikigai is whatever makes your life worth living. It’s accessible to everyone and has nothing to do with your career
 
 The word “ikigai” (生き甲斐) is a compound of “iki” and “gai,” words meaning “to live” and “reward” or “worth doing.” In English, you’ll often see the liberal translation that ikigai is your “reason for waking up in the morning.” Sound familiar? “Why do you get out of bed in the morning?” is a popular question. But when we conflate the two, we think ikigai is all about finding your life’s mission when, actually, it can be very small.
 
@@ -34,7 +34,7 @@ So first of all, remember that ikigai is about meaning and happiness—and those
 
 ## Lesson 2
 
-### Ikigai is rooted in 5 pillars of equal importance.
+### Ikigai is rooted in 5 pillars of equal importance
 
 From 99-year-old sushi master Jiro Ono to seeing office workers play shogi on his high school–commute as a teenager, Mogi provides many examples of ikigai in the book. All of them meet at least one of “the 5 Pillars of Ikigai:”
 
@@ -50,7 +50,7 @@ Let’s see what that can look like in everyday life!
 
 ## Lesson 3
 
-### A great example that hits all 5 pillars of ikigai is the traditional Japanese tea ceremony.
+### A great example that hits all 5 pillars of ikigai is the traditional Japanese tea ceremony
 
 For all the interesting examples of ikigai throughout the book, Mogi only mentions two that meet not just some but all the 5 pillars of ikigai: the traditional Japanese tea ceremony, and the act of becoming a sumo wrestler.
 

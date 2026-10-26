@@ -20,7 +20,7 @@ Let’s see what these lessons truly mean and uncover some interesting insights!
 
 ## Lesson 1
 
-### Action takers will accomplish what they wish for eventually.
+### Action takers will accomplish what they wish for eventually
 
 If you feel stuck in a routine that makes you unproductive and miserable but can’t find the inner strength and determination to break it, we have some news ━ you have an underlying fear of failure. Doesn’t sound good, right?
 
@@ -32,7 +32,7 @@ Lastly, keep in mind that success is most often the result of a winning mentalit
 
 ## Lesson 2
 
-### Failing throughout your life can turn out to be one of the best things you can do.
+### Failing throughout your life can turn out to be one of the best things you can do
 
 No one likes to lose, right? Whether we’re talking about insignificant things going on in your day, to more serious aspects such as missing a promotion or having your business become insolvent, failing can be very upsetting and it can seriously impact one’s spirit.
 
@@ -44,7 +44,7 @@ The lesson here is: Try. Fail. Learn from your mistakes. Don’t be afraid to fa
 
 ## Lesson 3
 
-### Set goals and divide them into smaller objectives to make them more achievable.
+### Set goals and divide them into smaller objectives to make them more achievable
 
 Although failure is a natural part of the evolution process, that doesn’t mean that we should just fail as often and as unstructured as we can. **Prevention is still necessary, and failing can only turn into a lesson if you discover how to do it productively by analyzing where the gaps in your plan are.**
 
@@ -57,7 +57,5 @@ This part is essential. If you end up biting more than you can chew, your motiva
 ## Review
 
 Not many books offer actionable advice and focus on direct guidance instead of comforting their readers. However, *Fail Fast Fail Often* manages to speak to its readers by being a wake-up call for all those who are stuck in a rut and are one step away from burnout. Reading this work will positively influence your mind and body to start the process of changing your life for the better. All done without having to worry about the fear of failure anymore.
-
-## Who it’s for
 
 The 35-year-old who’s dealing with failures in their professional life and is afraid to start over, the 40-year-old divorced person who finds it hard to meet new people and reconnect with old friends, or the 28-year-old who feels stuck in a job that they hate but feel afraid to quit.

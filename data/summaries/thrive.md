@@ -20,7 +20,7 @@ Did you sleep well? Especially if not, it’s time for our three to thrive!
 
 ## Lesson 1
 
-### Add a third metric to your definition of success: thriving.
+### Add a third metric to your definition of success: thriving
 
 After Arianna’s skull-shattering incident in 2007, the doctor told her she was suffering from burnout after working 18 hours a day for so many years. If that’s not cause to take a good look at your life, I don’t know what is. Determined to put an end to the stress, she found the reason for her problem in her distorted view of success.
 
@@ -39,7 +39,7 @@ Here’s one of the ways in which you can make sure you thrive too.
 
 ## Lesson 2
 
-### For true wisdom, look inside yourself.
+### For true wisdom, look inside yourself
 
 Huffington says true wisdom does have nothing to do with intelligence or knowledge. When we hear that word, we usually think of something ancient, maybe an old man with a long, white beard, who amazes us with profound insight. But that’s just because we lost touch with ourselves.
 
@@ -51,7 +51,7 @@ So view life as a classroom, keep your eyes open and listen to your intuition wh
 
 ## Lesson 3
 
-### Stop looking at your smartphone so much. Seriously.
+### Stop looking at your smartphone so much. Seriously
 
 Ready for a pretty sobering statistic? Here goes.
 
@@ -72,7 +72,5 @@ You know it’s the right thing to do.
 Another thing I like about Arianna Huffington is that she keeps things simple, but not in a simpleton’s way. The way she delivers these powerful calls to action to return to some of the things from our past, which are proven to be healthier and better for us, makes them easy to understand and implement.
 
 The fact that she manages to run this behemoth of a company called The Huffington Post, while still getting 8 hours of sleep a night and not having a smartphone transplanted into her arm tells you a lot about true success.
-
-## Who it’s for
 
 The 21 year old McKinsey intern who thinks she just has to push through for a couple of years until she’s “made it”, the 59 year old, who asks himself why he’s not feeling truly happy, in spite of having all the money and power he wants, and anyone who secretly knows they’re addicted to their smartphone.

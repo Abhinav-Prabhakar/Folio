@@ -20,7 +20,7 @@ It might not change your life, but the next time you’re at a dinner party grab
 
 ## Lesson 1
 
-### The Celts were a wealth ancient people, yet few know that their success was built on salt.
+### The Celts were a wealth ancient people, yet few know that their success was built on salt
 
 Many years ago in a mountain mine, near the Austrian border, a perfectly preserved body was found – salted like a codfish. Resting close to the town of Salzburg, which translates to ‘salt castle,’ the body was colorfully dressed and identified as an ancient salt miner, dating back to about 400 B.C. This well-preserved corpse later proved to be an ancient Celt.
 
@@ -34,7 +34,7 @@ Alas, despite their success as innovators, shrewd traders, engineers and formida
 
 ## Lesson 2
 
-### By restricting trade and attacking their saltworks, Britain triggered the American revolutionary war.
+### By restricting trade and attacking their saltworks, Britain triggered the American revolutionary war
 
 After the fall of the Roman empire, Venice and Genoa remained influential in the business of salt. Eventually, new trade routes to India and the New World popped up.
 
@@ -50,7 +50,7 @@ Once the war ended in 1815, towns near saltworks became hubs of prosperity and g
 
 ## Lesson 3
 
-### Brine extraction caused homes to sink and railroad tracks to buckle, but the resulting damages tax only empowered big players.
+### Brine extraction caused homes to sink and railroad tracks to buckle, but the resulting damages tax only empowered big players
 
 Cheshire in northwest England had been harvesting salt from brine springs even before the Roman conquest. Centuries later, this particular kind of salt became “Liverpool salt,” a unique delicacy.
 
@@ -64,8 +64,6 @@ Historic champions in the industry, like France and Britain, slowly fell behind 
 
 ## Review
 
-Mark Kurlansky does a great job of “seasoning” what might be a boring narrative about a common, everyday product, and turn it into a delicious read. It was hard to pick just three lessons, as there’s a lot more to learn, for example about Japan, the Great Wall and Gandhi’s role in the story of salt. The book includes lots of photos, illustrations, and related artwork as well. I highly recommend *Salt: A World History* *.*
-
-## Who it’s for
+Mark Kurlansky does a great job of “seasoning” what might be a boring narrative about a common, everyday product, and turn it into a delicious read. It was hard to pick just three lessons, as there’s a lot more to learn, for example about Japan, the Great Wall and Gandhi’s role in the story of salt. The book includes lots of photos, illustrations, and related artwork as well. I highly recommend *Salt: A World History.*
 
 The 29-year-old market researcher, moderating focus groups on consumer packaged goods, the 42-year-old bartender, who likes to be the smartest one in the pub, and anyone interested in history or global power struggles.

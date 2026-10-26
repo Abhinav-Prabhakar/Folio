@@ -20,7 +20,7 @@ Are you excited to learn how to beat out the competition and become salesperson 
 
 ## Lesson 1
 
-### The SPIN mentality for selling has four parts: situation, problem, implication, and need-payoff.
+### The SPIN mentality for selling has four parts: situation, problem, implication, and need-payoff
 
 The key to becoming good at sales is to know your client’s needs and really understand them. To do this, follow the four-pronged SPIN mentality for asking questions:
 
@@ -39,7 +39,7 @@ Last is **need-payoff** questions, which are for discovering the client’s inte
 
 ## Lesson 2
 
-### Benefits are not the same as features, and knowing the difference can make the process of persuasion go much better.
+### Benefits are not the same as features, and knowing the difference can make the process of persuasion go much better
 
 In Simon Sinek’s famous *Start With Why*, he outlines an important truth about people’s purchasing habits. Nobody buys items, they invest their money in a “why”, or a purpose. But how can you take advantage of this and sell the “why” instead of the “what?”
 
@@ -55,7 +55,7 @@ Let’s say that you know that your client wants to help the environment and sav
 
 ## Lesson 3
 
-### Using the SPIN technique requires practice.
+### Using the SPIN technique requires practice
 
 Practice makes perfect, right? There are countless books on this topic for many different aspects of life. Learning how to use SPIN selling is no different.
 
@@ -72,7 +72,5 @@ Keep at it and in no time you’re going to see great successes from SPIN sellin
 ## Review
 
 I don’t know a lot about sales, but the tips from *SPIN Selling* got me excited to try them. These seem like simple mindset shifts that can improve the success of anyone, beginner or experienced. Although this isn’t my area of expertise, I still enjoyed this book and I believe you will too.
-
-## Who it’s for
 
 The 45-year-old manager that wants a proven way to get more clients, the 22-year-old salesman who is having a hard time finding success, and anyone that wants to learn how to become more persuasive.

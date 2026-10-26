@@ -18,7 +18,7 @@ Have you been wanting to change your habits for the better? Here’s how to do i
 
 ## Lesson 1
 
-### Make starting your habit easy, because objects in motion stay in motion.
+### Make starting your habit easy, because objects in motion stay in motion
 
 Let’s say you want to be able to do 100 push-ups in a row. Where would you start? 10, 20? Doing as many as you can every day? It’s very easy to think that by starting at the highest level you can currently achieve, you’ll reach your goal the fastest, but actually, that’s just a recipe for disaster.
 
@@ -32,7 +32,7 @@ Soon, you’ll find yourself upgrading to two push-ups a day, then three, and so
 
 ## Lesson 2
 
-### Track your habits using a system, so you’ll know how much progress you make.
+### Track your habits using a system, so you’ll know how much progress you make
 
 To know how you’re fairing with your habits, it pays to track them. Last year, I tracked 15 of my habits and learned a lot. Next to good old pen and paper, there’s a whole bunch of habit tracking apps available at this point. Goals are much more powerful the second you write them down (even if you never look at them again), so even just adding habits to a tracker helps.
 
@@ -42,7 +42,7 @@ The most important thing about tracking is **looking at your tracker every day a
 
 ## Lesson 3
 
-### Don’t make big successes your new standard targets.
+### Don’t make big successes your new standard targets
 
 Let’s say you do join the one push-up challenge and on the fifth day, you’re so motivated and energized, that you just keep on going and manage to pull off a staggering 15 push-ups. Congrats! That’s fantastic!
 
@@ -57,7 +57,5 @@ By keeping your mini habits mini, you’ll soon find yourself living a life that
 ## Review
 
 As someone who’s dealt so extensively with the subject, I knew many of these things already, but I do have to say the way Stephen lays out his strategy is something for anyone to learn from. He manages to never ask too much of you, take things one step at a time and make habits feel effortless. This is the perfect signal that he’s living his mini habits concept – it has seeped into how he’s written *Mini Habits*. This is the kind of authenticity you can’t manufacture and for that alone, the book is well worth a read.
-
-## Who it’s for
 
 The 31 year old waiter, who’s been trying to lose weight for months without getting ahead, the 42 year old notorious snoozer, and anyone who thinks small steps aren’t worth taking.

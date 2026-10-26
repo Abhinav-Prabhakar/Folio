@@ -20,7 +20,7 @@ Let’s delve into these valuable lessons and see how we can learn from James O�
 
 ## Lesson 1
 
-### The media can favor certain parties or opinions, which will in turn reflect on the everyday person, just like it happened during Brexit.
+### The media can favor certain parties or opinions, which will in turn reflect on the everyday person, just like it happened during Brexit
 
 The media has a significant impact on how people think, and what they believe to be true. For example, the media can favor certain parties or opinions. This will in turn reflect on the everyday person, just like it happened during Brexit.
 
@@ -34,7 +34,7 @@ This is why it’s important for journalists to remain unbiased when reporting o
 
 ## Lesson 2
 
-### Political correctness is starting to rule the world as we know it.
+### Political correctness is starting to rule the world as we know it
 
 A city planner in Birmingham wanted to save costs with light decorations, so he decided to leave all lights on during a time called Winterval. Without changing them with each celebration. Fast forward to a politically correct time, people use the word to replace Christmas and feel offended when others don’t do the same.
 
@@ -46,7 +46,7 @@ If you are offended by someone’s opinion or actions then you have every right 
 
 ## Lesson 3
 
-### Social media and the rise of fake news made it possible for everyone to share their opinions, which is not a good thing.
+### Social media and the rise of fake news made it possible for everyone to share their opinions, which is not a good thing
 
 Disinformation is a common problem that occurs in the media, where people tend to share information from unreliable sources without verifying their accuracy. As a result, disinformation spreads and causes confusion. Fake news is often propagated through social media as well.
 
@@ -65,7 +65,5 @@ In *How to Be Right*, O’Brien serves a not-so-politically correct view of the 
 In a world of mass disinformation, keeping yourself protected from fake and gaslighting news is imperative. Not only do they interfere with our well-being and anxiety levels, but they also shape a new society that few of us want to be part of, yet it develops under our own eyes.
 
 Reading this book is a great first step toward becoming more informed. This book will help us know how to choose our sources of information. All while staying true to facts and not falling for mass trends.
-
-## Who it’s for
 
 The 30-year-old political activist. The 40-year-old diplomat who wants to learn how to better deal with fake news and political waves. Or the 55-year-old person who enjoys reading a well-written piece about politics and the world’s affairs.

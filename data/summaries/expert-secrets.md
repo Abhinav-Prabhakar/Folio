@@ -18,7 +18,7 @@ Now, let’s explore these lessons in detail and see how they can help you learn
 
 ## Lesson 1
 
-### The first ten secrets of the book are the most powerful tools for everyone looking to build a pitch that sells.
+### The first ten secrets of the book are the most powerful tools for everyone looking to build a pitch that sells
 
 The first secret is to create an attractive or charismatic leader that’s the face of your product. Brand yourself around a niche. The second secret is to glorify your cause and build a movement or a cult around it. Make it seem big and important.
 
@@ -32,7 +32,7 @@ The ninth secret is about changing their false beliefs by acknowledging that you
 
 ## Lesson 2
 
-### To build the perfect webinar, you’ll have to follow these four steps.
+### To build the perfect webinar, you’ll have to follow these four steps
 
 **When you’re making a webinar, you have to think about 4 different elements:**
 
@@ -51,7 +51,7 @@ The final element is Stacking the Deck for Sale: this means making it easy for a
 
 ## Lesson 3
 
-### If you want to build a successful email campaign, try the five-email-sequence first.
+### If you want to build a successful email campaign, try the five-email-sequence first
 
 This 5-email sequence is about the origin story, a new opportunity, internal belief change, external belief change, and the stack or sales.
 
@@ -70,7 +70,5 @@ Lastly, the stack or the sales is where you get to pitch and monetize your offer
 *Expert Secrets* is a book that offers tips and tricks for anyone who wants to make money online. It has been called one of the best books on Internet marketing, especially since it gives you a complete system of how to get started making money online today, without any prior experience with making money online or starting an online business.
 
 You’ll learn how to create an irresistible offer that will sell itself without even having to be sold because it speaks directly to them! In addition, you’ll learn how to create a sales funnel that sells each of your products three times more often without any extra effort on your part!
-
-## Who it’s for
 
 The 27-year-old start-up founder, the 24-year-old graduate student who wants to start making money online, or the 35-year-old marketer and blogger who wants to monetize and scale their side gig.

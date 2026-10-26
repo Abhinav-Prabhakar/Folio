@@ -20,7 +20,7 @@ Ready to become a growth hacker? Let’s learn how to market in the 21st century
 
 ## Lesson 1
 
-### Start big, but small.
+### Start big, but small
 
 Huh? What the hell is that supposed to mean?
 
@@ -38,7 +38,7 @@ Going for a big share of a small market allows you to do several things:
 
 ## Lesson 2
 
-### Experiment with a freemium model, but only under certain conditions.
+### Experiment with a freemium model, but only under certain conditions
 
 A great way to make sure you actually do reach a substantial share of your small target market is to go the freemium route.
 
@@ -57,7 +57,7 @@ Dropbox, on the other hand, is dead simple to use. The only problem you could ru
 
 ## Lesson 3
 
-### Build a free tool that solves a problem to get people to know you.
+### Build a free tool that solves a problem to get people to know you
 
 Online marketers do a lot of things wrong these days, but this one they get right. **A free tool that solves a pressing problem for your target customers** is a great way to get yourself noticed and potentially draw more people into your freemium model (which then helps you get that big market share of your local market).
 
@@ -72,7 +72,5 @@ The big, fat caveat to the lessons from *Startup Growth Engines* is this: these 
 When you have the right thing, or think you do, then these strategies will give you the feedback you need to learn if that’s true. But please, don’t abuse them to try and sell what was never meant to be sold: more of the same crap we already have enough of.
 
 **Note:** I recommend this guide as a great primer on growth hacking in general.
-
-## Who it’s for
 
 The 24 year old, who’s simply sick of hearing his friends complain about the same problem again and again, the 64 year old, who’s angry she didn’t have the means to realize her creative ideas 40 years ago, but could now benefit from how things have changed, and anyone who ever caught themselves trying to sell something they didn’t believe in.

@@ -20,7 +20,7 @@ Get your telescope ready, because we’re about to go on a journey to the stars!
 
 ## Lesson 1
 
-### Our universe is expanding and doing so faster each day.
+### Our universe is expanding and doing so faster each day
 
 Everything we know began in the big bang 14 billion years ago. A lot has happened since then, including a lot of expansion of human knowledge about outer space. We’ve come a long way since thinking that the Earth was the center of our solar system!
 
@@ -32,7 +32,7 @@ Research confirms that this same effect happens with light. Objects that are mov
 
 ## Lesson 2
 
-### Dark energy and dark matter fill what we think of as emptiness between what we can see in our universe.
+### Dark energy and dark matter fill what we think of as emptiness between what we can see in our universe
 
 So we know that the universe is expanding, but what is causing this? Just as blowing a balloon up requires air, so does our universe have a force pushing it outward. The trouble is, there’s nothing we can observe that’s causing this. Physicists thus call this force in empty space “dark” energy. But they still can’t explain where this propelling force comes from or even what it really is.
 
@@ -44,7 +44,7 @@ Next time you look up at the night sky and see the darkness between stars you ca
 
 ## Lesson 3
 
-### Although we can currently see neighboring and even distant galaxies, eventually our expanding universe will make this impossible.
+### Although we can currently see neighboring and even distant galaxies, eventually our expanding universe will make this impossible
 
 Alright so we’ve mentioned the invisible part and the observable section of our universe. But there’s another area of the great expanse we haven’t discussed. That’s the part of the universe that we cannot see because it’s too far away.
 
@@ -57,7 +57,5 @@ That means that scientists trillions of years from now will have no celestial ev
 ## Review
 
 I’ve always loved learning about space and our universe, and *A Universe From Nothing* didn’t disappoint. While some of the concepts in this book are complex, I like how it explains them in a way that we all can understand. The attachment to the dogma that science rules over faith was a bit much for me, but I still enjoyed this book and think you will too!
-
-## Who it’s for
 
 The 20-year-old college physics student who is curious to know more about how our universe began, the 54-year-old who is fascinated by the stars and wants to understand them better, and anyone who wants to learn about the past, present, and future of our universe.

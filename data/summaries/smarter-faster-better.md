@@ -18,7 +18,7 @@ Ready to start chipping away at those big dreams of yours? Let’s go for it!
 
 ## Lesson 1
 
-### Use small reminders to stay motivated for long-term goals.
+### Use small reminders to stay motivated for long-term goals
 
 Setting goals is fun. Setting big goals is even more fun. Everyone loves it. Especially with December 31st approaching, millions of people set out for grand achievements…
 
@@ -38,7 +38,7 @@ For example, if you want to come up with a crazy good new set of headphones, whi
 
 ## Lesson 2
 
-### Set goals with the SMART goal framework to make them manageable.
+### Set goals with the SMART goal framework to make them manageable
 
 Aside from staying motivated on goals, which take a while to accomplish, it also helps to break them down into manageable chunks. **Big goals shouldn’t scare you, tackling them without a plan is what to be afraid of**.
 
@@ -56,7 +56,7 @@ For example, if you want to write a book, you can first be *specific* by saying 
 
 ## Lesson 3
 
-### Deal with distractions in advance by making a plan for when they occur.
+### Deal with distractions in advance by making a plan for when they occur
 
 There’s a famous Woody Allen quote:
 
@@ -71,7 +71,5 @@ Anticipation is the enemy of distraction. The best way to deal with distractions
 ## Review
 
 I’m not going to waste a lot of time discussing this. Charles Duhigg is gold. Just go and get *Smarter Faster Better*!
-
-## Who it’s for
 
 The 17 year old with an idea for an app in his head, that he gets laughed at for, the 29 year old journalist, whose articles always take twice as long to publish than her original estimate, because of distractions, and anyone who has repeatedly screwed up their New Year’s Resolutions.

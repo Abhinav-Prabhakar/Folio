@@ -22,7 +22,7 @@ Now, let’s see what it takes for children to grow into happy adults!
 
 ## Lesson 1
 
-### Children should be taught that emotional intelligence is more important than test scores.
+### Children should be taught that emotional intelligence is more important than test scores
 
 Growing up, schools have taught children that test scores measure one’s cognitive capabilities. They also taught them that exams are definitory for their future success. Grades, school merits, and academic success are universal metrics for analyzing pupils and students.
 
@@ -36,7 +36,7 @@ The solution is simple: Teaching the new generation emotional literacy and build
 
 ## Lesson 2
 
-### A system that can build skills based on one’s talents will create more successful people.
+### A system that can build skills based on one’s talents will create more successful people
 
 We all have different sets of skills and talents that help us navigate through life. Essentially, that is what helps humanity survive and evolve. Unfortunately, however, it seems that the current educational system fails to adapt to one’s unique characteristics. Therefore, it fails to raise capable people that can hold their own in society.
 
@@ -48,7 +48,7 @@ Sadly, today’s educational system relies too much on memory skills, which is s
 
 ## Lesson 3
 
-### An innovative mindset is something specific to children, and it fades rapidly once they grow up.
+### An innovative mindset is something specific to children, and it fades rapidly once they grow up
 
 Children tend to be fascinated by everything they discover. Their curiosity often pushes them to learn more and more every day, get out of their comfort zone and pursue new activities. Essentially, these are some of the most sought-after skills today.
 
@@ -61,7 +61,5 @@ Moreover, the rewards that come after completing tasks as they are being told st
 ## Review
 
 *Thrivers* opens up a debate on the highly challenging environment to which today’s children are being exposed constantly. Unfortunately, this builds up frustration, stress, and high-performance anxiety, leaving little to no room to enjoy their childhood and hobbies. This book is a must-read for every concerned parent and citizen who wants to be part of a positive change and become a better role model for their children to help them overcome the demanding digital era.
-
-## Who it’s for
 
 The concerned 30-year-old parent who wants to see their children be happy and fulfilled, the 45-year-old scientist who wants to better understand the challenges a child faces nowadays, and any teacher who wants to connect with their pupils on a deeper level.

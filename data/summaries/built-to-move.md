@@ -31,11 +31,9 @@ Here’s a closer look at 3 of those lessons, numbers 1, 4, and 7:
 
 Let’s see how a few small tweaks to our daily routine can add up to a lot more flexibility, health, and freedom!
 
-### Built to Move Summary
-
 ## Lesson 1
 
-### If you can’t go from standing to sitting cross-legged without using your hands, you should practice it on daily basis.
+### If you can’t go from standing to sitting cross-legged without using your hands, you should practice it on daily basis
 
 The Starretts define mobility as “being able to move in the ways nature designed us to move.” Therefore, they recommend going back to movements and positions we used all the time as children.
 
@@ -51,7 +49,7 @@ Pro tip: You *must* do this barefoot. Socks will be too slippery. Your feet will
 
 ## Lesson 2
 
-### Track your steps for 3 days, then up your count to get closer to 8,000.
+### Track your steps for 3 days, then up your count to get closer to 8,000
 
 Between the summers of 2016 and 2017, I walked 10,000 steps every day for a year. On some days, it was serious work to hit that mark. I didn’t always feel like taking a 45-minute stroll just to make my target. But I did learn several lessons.
 
@@ -65,7 +63,7 @@ Wear comfy shoes, go barefoot in your garden, or make your neighborhood park you
 
 ## Lesson 3
 
-### Relearn how to squat and spend some time in this position every day.
+### Relearn how to squat and spend some time in this position every day
 
 My girlfriend was born in Malaysia. In school, she used to squat every day — on the toilet! Squat toilets — essentially a hole in the floor — were the only kind they had.
 

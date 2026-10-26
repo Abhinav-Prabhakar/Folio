@@ -20,7 +20,7 @@ Are your mental faculties sharpened? Let’s win the battle of business!
 
 ## Lesson 1
 
-### Only enter battles you know you can win.
+### Only enter battles you know you can win
 
 Winners know when to fight and when not to fight. Losers always fight and thus often end up losing.
 
@@ -40,7 +40,7 @@ Only enter battles you know you can win.
 
 ## Lesson 2
 
-### Deceive your competitors to impose your will on them.
+### Deceive your competitors to impose your will on them
 
 Mask strength with weakness, courage with timidity and order with disorder, Sun Tzu says.
 
@@ -60,7 +60,7 @@ There are endless examples like this one on the web, and this humbleness and mod
 
 ## Lesson 3
 
-### Lead your team as if you were leading a single man by the hand.
+### Lead your team as if you were leading a single man by the hand
 
 Eventually, your business will need a team. And eventually, that team will have to grow. But as companies get bigger, they get more complex.
 
@@ -87,7 +87,5 @@ Wow. When I started typing I didn’t know I’d end up here. I have learned a t
 I didn’t expect the advice to be so practical. Brilliant read. I’m not sure the 7 blinks cover all of the 13 chapters, but there are definitely lessons from all of them in there.
 
 Let the blinks inspire you and then take the ideas into an entirely different field. You’ll be surprised how much you learn.
-
-## Who it’s for
 
 The 21 year old athlete, who wants to go professional in a competitive sport, the 37 year old founder, who just came up with his business plan and is still in the research phase, and anyone who ever had to lead a team, even if it was just in high school.

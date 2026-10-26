@@ -20,7 +20,7 @@ No grain, no gain – is that actually true? Let’s see if we can find out!
 
 ## Lesson 1
 
-### Your body regulates your cholesterol, depending on your intake, so cholesterol itself isn’t a problem.
+### Your body regulates your cholesterol, depending on your intake, so cholesterol itself isn’t a problem
 
 My grandma used to say: “Don’t eat more than one egg per day, it’s bad for your cholesterol,” when I was a kid. I distinctly remember having one boiled egg every Sunday morning for breakfast, and that was it. High cholesterol had been linked to lots of incidents of heart diseases for decades – but as it turns out, cholesterol isn’t the problem.
 
@@ -36,7 +36,7 @@ If our ancestors survived on a diet that was 70% fats, chances are, so can we.
 
 ## Lesson 2
 
-### You might get smarter by eating right, because it could allow your brain to create more neurons.
+### You might get smarter by eating right, because it could allow your brain to create more neurons
 
 This is a classic example of a book blowing the results of a study out of proportion. When your brain creates new neurons, this process is called neurogenesis. An important part of this process is BDNF – brain-derived neurotrophic factor protein. The book states that by eating less, you can increase the amount of BDNF your brain produces, and therefore get it to create more neurons.
 
@@ -48,7 +48,7 @@ What does that mean? There’s a chance that with the right diet (if you find it
 
 ## Lesson 3
 
-### How much you sleep affects your leptin levels, which in turn control your hunger.
+### How much you sleep affects your leptin levels, which in turn control your hunger
 
 Here’s something we know for sure makes your life better: sleep more. A lack of sleep impacts the functionality of up to 711 of your genes, including the ones in charge of stress, inflammation, your metabolism and immune system.
 
@@ -61,7 +61,5 @@ You see, it’s all connected, and there’s no way to change your diet without 
 ## Review
 
 As I said, I was very skeptical about *Grain Brain* at first. Somewhat still am. Not all of it can stand its ground. That said, there are some high-level lessons in there worth nothing, as you can see from the 3 I outlined above. If you know your food, and think you can safely distinguish between what’s good and what’s not, go for it!
-
-## Who it’s for
 
 The 14 year old, overweight teenager, who is determined to do something about it, the 57 year old never-quitter, who runs on only 6 hours of sleep most days, and anyone who doesn’t believe there’s just one right diet out there for them.

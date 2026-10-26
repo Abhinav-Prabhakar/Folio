@@ -18,7 +18,7 @@ We will now take each lesson one by one and explore the secrets of a keto diet, 
 
 ## Lesson 1
 
-### Following a keto diet can help increase energy levels and lose weight by consuming the fat that’s already in your cells.
+### Following a keto diet can help increase energy levels and lose weight by consuming the fat that’s already in your cells
 
 One of the most exciting nutrition stories to hit the scene in recent years has been that of the ketogenic diet. The ketogenic diet is more than just a weight-loss strategy—it’s also a way to combat insulin resistance. This diet improves your mood and mental health, and even boosts your energy levels.
 
@@ -32,7 +32,7 @@ However, with the keto diet, that’s just not the case! When you’re not eatin
 
 ## Lesson 2
 
-### Planning your meals ahead of time will help you avoid eating too many carbs and messing up your keto diet.
+### Planning your meals ahead of time will help you avoid eating too many carbs and messing up your keto diet
 
 The key to a successful keto regime is simply to avoid carbs, and stack on proteins, and healthy fats. Wherein you also maintain an optimum exercise level. If you want to set yourself up for success, give meal planning a try.
 
@@ -46,7 +46,7 @@ Stack on animal proteins like meat and seafood. Foods rich in good fats like yog
 
 ## Lesson 3
 
-### If you think keto is too difficult to adhere to, try cyclical keto and pair it with fasting.
+### If you think keto is too difficult to adhere to, try cyclical keto and pair it with fasting
 
 Many people find that keto can be difficult to adhere to because it requires strict compliance with a high-fat diet. That’s where cyclical keto comes in! Cyclical keto allows you to eat about 70% fat, 20% protein, and 10% carbs 5 days per week. Then on 2 days each week, you’ll ingest carbs throughout the day.
 
@@ -65,7 +65,5 @@ Pairing cyclical keto with intermittent fasting will make you alternate between 
 It also provides detailed information on how this type of eating regime works and why it might be a good choice for many people looking to lose weight or improve their overall health.
 
 If you want to get an in-depth look at what keto is, how it works, and how to get started with this diet, I recommend this book.
-
-## Who it’s for
 
 The 30-year-old person who is struggling with weight loss, the 40-year-old person who needs to try out a diabetes-friendly diet, or the 25-year-old health-conscious person who is educating themselves on the latest health trends.

@@ -18,11 +18,9 @@ Nobody said the path to mastery would be easy. Here are the 3 first steps you ca
 
 Let’s learn how to walk the path of mastery!
 
-### Mastery Summary
-
 ## Lesson 1
 
-### Trust your gut feeling to pick a skill to master.
+### Trust your gut feeling to pick a skill to master
 
 Every one of us has probably had a few rare moments in their lives where the felt an inner voice calling out to them.
 
@@ -42,7 +40,7 @@ It might sound foreign to you, but once you start trusting your gut, you’ll no
 
 ## Lesson 2
 
-### Learning comes before earning, so take an apprenticeship.
+### Learning comes before earning, so take an apprenticeship
 
 > *The more you learn, the more you earn.* – Frank Clark
 
@@ -60,7 +58,7 @@ Benjamin Franklin could’ve swooped in on his father’s successful candle-maki
 
 ## Lesson 3
 
-### Once you complete your apprenticeship, challenge everything you learned.
+### Once you complete your apprenticeship, challenge everything you learned
 
 Not that an apprenticeship isn’t hard enough to find, let alone complete, but no, the path to mastery becomes even harder. Once you leave your apprenticeship to venture out on your own, **you have to immediately throw everything you learned out of the window**.
 
@@ -79,7 +77,5 @@ I feel like many of the stories and examples that make the book come to life hav
 Contrary to what we learned a little earlier from Cal Newport, this book is more along the lines of the adage to follow your passion – but it doesn’t water down the effort, dedication and deliberate practice it takes to become successful.
 
 I love the message but want more of the stories that powerfully carry it, so I’m going for the book. I recommend you do the same. His latest work, *The Laws of Human Nature*, is also worth a look!
-
-## Who it’s for
 
 The 18 year old, who’s about to pick a career path and is debating between interest and money, the 23 year old apprentice, who is about to complete her training, and anyone who keeps second-guessing their gut feelings.

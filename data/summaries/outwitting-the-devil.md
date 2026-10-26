@@ -18,11 +18,9 @@ Here are 3 lessons from a fascinating book by one of the world’s first self-im
 
 Whether you take the devil as the literal figure, an invisible force, or merely the antics of our mind, let’s learn how to outwit him, shall we?
 
-### Outwitting The Devil Summary
-
 ## Lesson 1
 
-### You spend your entire life operating from either fear or faith.
+### You spend your entire life operating from either fear or faith
 
 Going into his fictitious interview with evil incarnate, Hill already knew one of the primary tools in the devil’s belt: fear. A few years earlier, Hill had received a death threat. He ended up hiding with relatives for over a year, paralyzed. One night, he finally went outside and found what Carnegie had told him about years before:
 
@@ -34,7 +32,7 @@ However, this ‘other self’ is exactly what the devil tries to undermine at e
 
 ## Lesson 2
 
-### The devil seeks to make us permanent drifters, never getting around to what we’re meant to do in life.
+### The devil seeks to make us permanent drifters, never getting around to what we’re meant to do in life
 
 Once he starts drilling the devil for the most common fears he uses against man, Hill quickly finds he has even cleverer ways of ruining us. The devil claims to first invade our minds with “the principle of habit” in order to then establish “the habit of drifting.”
 
@@ -50,7 +48,7 @@ Unless we outwit the devil, that is.
 
 ## Lesson 3
 
-### There are seven principles which help us gain mental, spiritual, and physical freedom.
+### There are seven principles which help us gain mental, spiritual, and physical freedom
 
 After he forced the devil to reveal every dirty trick in his book, Hill finally goes about asking the master of evil for the ways in which we can combat his dire forces. He reveals seven principles humans should follow to find freedom in all walks of life:
 
@@ -67,7 +65,5 @@ Setbacks happen to the best of us. But those setbacks can quickly turn into last
 ## Review
 
 What a creative approach for writing a book, especially considering its time. Even 80 years after it was written, *Outwitting The Devil* shines with simple ideas, packaged in stories we can understand, and repeated in fun ways so they stick. Napoleon Hill may have been a controversial figure, but in his writing, I sense he had his fellow citizens’ best interests at heart.
-
-## Who it’s for
 
 The 27 year old office worker, who’s already bored with life at the beginning of her career, the 43 year old writer, who struggles with procrastination, and anyone who feels like a spectator in their own life.

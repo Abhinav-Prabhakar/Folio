@@ -20,7 +20,7 @@ Let’s see what the prolific Peter Drucker has to say about how to be a better 
 
 ## Lesson 1
 
-### Developing your own skills so you can lead by example is a must to be an effective executive.
+### Developing your own skills so you can lead by example is a must to be an effective executive
 
 One team I worked on had two executives that worked closely with the head of our large group. I remember how much responsibility they had. They worked hard to prepare trainings and do administrative work. But they never ceased to be good examples of taking care of their own tasks. These leaders always lead from the front. Seeing their examples made me want to be better and work harder.
 
@@ -30,7 +30,7 @@ Additionally, seek insight from others in performance reviews. You may not be ab
 
 ## Lesson 2
 
-### Master the ability to stick to your decisions, regardless of others’ criticism.
+### Master the ability to stick to your decisions, regardless of others’ criticism
 
 As a manager of people, you have to make a lot of decisions. These choices affect other people, who won’t always agree with the path you select. Thankfully, there are some useful tips to making good decisions. People may still disagree with you, but you can have the confidence that you made the right choice.
 
@@ -47,7 +47,7 @@ Start by managing commitment and enforcement of decisions. Without these in plac
 
 ## Lesson 3
 
-### To make your team more efficient, focus on the strengths of your people.
+### To make your team more efficient, focus on the strengths of your people
 
 All my life I heard that I should work on my weaknesses. Then, about a year ago, I read something that changed everything for me. The author mentioned how he didn’t ever feel truly confident until he worked on improving his strengths, not weaknesses. After applying this myself, I am grateful for a surge of self-esteem like I’ve never seen before.
 
@@ -60,7 +60,5 @@ You don’t have to be in a leadership position to follow this advice though. Ev
 ## Review
 
 Although I’m not in the type of executive position this book teaches about, I really enjoyed *The Effective Executive*. I can see how these tips would be useful for someone managing a team in a larger company. But I really liked that this book taught me how to take what Drucker teaches and apply it to my current business ventures.
-
-## Who it’s for
 
 The 48-year-old manager in a startup who is trying to get the right team together, the 31-year-old who wants to improve their performance at the job they just began, and anyone who wants to make their workplace more unified and efficient.

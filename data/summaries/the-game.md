@@ -18,7 +18,7 @@ Let’s take a good hard look at those.
 
 ## Lesson 1
 
-### Social dynamics can be manipulated.
+### Social dynamics can be manipulated
 
 Of course the blink said social situations can be manipulated to help you seduce women. However, that shouldn’t be your takeaway.
 
@@ -44,7 +44,7 @@ Wherever you go, people will make assumptions about you, just like you do yourse
 
 ## Lesson 2
 
-### Pickup is really about men, not women.
+### Pickup is really about men, not women
 
 After Project Hollywood, an experiment where Neil tried to live together with 3 other pickup gurus, failed, Neil started to come to grips why pickup wasn’t sustainable.
 
@@ -62,7 +62,7 @@ So make sure who you spend your time with complements you by being different, an
 
 ## Lesson 3
 
-### Routines will never help you find love.
+### Routines will never help you find love
 
 I didn’t want to just say pickup is bullshit (which I think it is), or a waste of time (which it definitely is), so I’m glad the blinks made this point.
 
@@ -81,7 +81,5 @@ Maybe I’m just hopelessly romantic, or an idealist, but I’ve always hated pi
 If you haven’t found love yet, put all your energy into it. Life is long, if you know how to use it.
 
 I’m 100% convinced we all want true love eventually. It’s hard enough to find 1 person out of 7 billion as it is, so there’s really no time to waste playing games. Even if it’s “The Game”.
-
-## Who it’s for
 
 My 17 year old self, who’s desperately wishing for a girlfriend, but wasting his time in the friendzone, the 42 year old playboy, who seems to do fine on the outside but secretly feels lonely, and anyone who’s chasing one night stands over the real thing.

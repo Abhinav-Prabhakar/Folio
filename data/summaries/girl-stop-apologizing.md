@@ -24,7 +24,7 @@ Grab your planner and get your goals ready, this one will have you wanting to pr
 
 ## Lesson 1
 
-### Having a lot of ambition to do great things shouldn’t be a reason women have to apologize.
+### Having a lot of ambition to do great things shouldn’t be a reason women have to apologize
 
 Even in the age of female empowerment and #Metoo, many women continue to neglect what they really want. One reason for this is that people worry about what others think of them.
 
@@ -38,7 +38,7 @@ Hollis puts it this way: boys are brought up to follow their dreams while girls 
 
 ## Lesson 2
 
-### Moving forward toward achieving your goals starts when you stop making excuses.
+### Moving forward toward achieving your goals starts when you stop making excuses
 
 It’s a phrase all of us use far too often: “I don’t have time.” That’s why Hollis encourages you to banish the phrase from your mind. If you want to pursue your dreams, you need to *make* time for them.
 
@@ -54,7 +54,7 @@ The judgmental ones will find reasons to judge you no matter what you do, so you
 
 ## Lesson 3
 
-### Learn how to make your dreams turn into a reality with the right habits, skills, and foundation for success.
+### Learn how to make your dreams turn into a reality with the right habits, skills, and foundation for success
 
 Historian Laurel Thatcher Ulrich wrote, “Well-behaved women seldom make history.” We can take this to heart today and realize it’s okay to break social norms and embrace your ambition. Hollis has some ways you can increase your chances of success in whatever you set your mind to.
 
@@ -73,7 +73,5 @@ Make sure your goal is measurable, so instead of “I want to make more money”
 ## Review
 
 *Girl, Stop Apologizing* is a really empowering read. Although for me some of the principles don’t ring true, overall this book comes highly recommended. I’m confident this will inspire anyone to stop making excuses, get up, and make their dreams reality!
-
-## Who it’s for
 
 The 40-year-old mom with a good business idea who feels afraid to start, the 24-year-old college student who is filled with ambition to reach her goals, and anyone who’d like to be more motivated to succeed.

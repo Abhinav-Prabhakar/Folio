@@ -20,7 +20,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Being thirsty for knowledge allows you to grasp a wider perspective and create masterpieces.
+### Being thirsty for knowledge allows you to grasp a wider perspective and create masterpieces
 
 We are born curious. Children learn from their surroundings by touching, smelling, and looking at everything. It is our best and most effective tool for discovering new things. However, some people are born with a deeper sense of curiosity that allows them to learn constantly.
 
@@ -32,7 +32,7 @@ Whether traveling, reading, or finding yourself in a new situation, work more cu
 
 ## Lesson 2
 
-### Geniuses are completely focused on their work and prioritize it.
+### Geniuses are completely focused on their work and prioritize it
 
 It’s no secret that focused work and determination help you get things done faster and better. But there is a certain thing that geniuses do, in contrast with the rest of the world. They don’t get distracted. Instead, they give their full attention to the work and often neglect themselves to save time.
 
@@ -44,7 +44,7 @@ The perfect example for this type of person would be Einstein, who used to take 
 
 ## Lesson 3
 
-### Breaking the rules can foster innovation and an original way of working.
+### Breaking the rules can foster innovation and an original way of working
 
 Rules and working frameworks exist for a reason. We are expected to follow them because they are tested and proven to be efficient in dealing with different tasks. However, some people can see beyond them and create new, better rules or just work more efficiently without them.
 
@@ -57,7 +57,5 @@ However, if one proves to be right in their innovative concepts, the rewards are
 ## Review
 
 *The Hidden Habits of Genius* explores the nature behind the most brilliant minds and zooms in on the recipe that creates geniuses. By observing the lives of Leonardo Da Vinci, Picasso, Einstein, and others alike, the author unveils the key characteristics of a mastermind and the habits that we can implement ourselves to resemble them. Its readers will gain significant insights into how to be more curious, innovative, and daring. These traits will help them throughout their life.
-
-## Who it’s for
 
 Aspiring entrepreneurs looking to boost their attitude and reform their mentality to become the next big disruptors, human nature students or social studies curious about the genius mind, or people who consider themselves gifted and want to reach their full potential.

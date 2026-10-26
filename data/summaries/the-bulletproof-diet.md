@@ -26,7 +26,7 @@ Wanna make your body bulletproof? Let’s see how it’s done!
 
 ## Lesson 1
 
-### Put butter in your coffee and blend it to unlock more of its health benefits.
+### Put butter in your coffee and blend it to unlock more of its health benefits
 
 Coffee is great. I love it. The taste, the smell, the effects. If you love coffee too, then you’ll really dig this diet. After experimenting a lot with his own way of eating, Dave discovered that adding butter to his coffee greatly improved its effects.
 
@@ -47,7 +47,7 @@ Plus, a Bulletproof coffee easily keeps you full until the afternoon, which is g
 
 ## Lesson 2
 
-### Make sure you get short-chained, saturated fats to stay focused, thin and energized.
+### Make sure you get short-chained, saturated fats to stay focused, thin and energized
 
 The great thing about spending a lot of your time in ketosis is that it allows you to eat lots of (good) fats, from which you can get your energy, without overeating (which so easily happens with carbs) and storing the excess energy as fat.
 
@@ -64,7 +64,7 @@ So yes, as long as you’re eating good fats, you’ll stay healthier, have more
 
 ## Lesson 3
 
-### Make all of your meat and eggs pastured and grass-fed to get just the right amount of high-quality protein.
+### Make all of your meat and eggs pastured and grass-fed to get just the right amount of high-quality protein
 
 A simple way to get more of those healthy fats and great protein at the same time is to just **switch all of your meat to be grass-fed and to only consume pastured eggs** (which means the chickens also ate grass).
 
@@ -81,7 +81,5 @@ Other good protein sources besides grass-fed beef and pastured eggs, which Dave 
 I’m wary of all diets, because I fundamentally believe variety is the spice of life, and that no one way of eating will last you forever. However, as far as my own experience with the diet goes, those aspects I have tested have all held true for me. In the end, becoming bulletproof means weaving your own Kevlar vest, so I encourage you to try, mix and adapt some of the parts of *The Bulletproof Diet* to see what works for you.
 
 **Disclaimer:** I’m not a nutritionist and this isn’t medical advice.
-
-## Who it’s for
 
 The 16 year old, who eats lunch at school every day, and struggles with her weight, the 38 year old manager, who struggles with eating the right breakfast, and anyone who loves coffee.

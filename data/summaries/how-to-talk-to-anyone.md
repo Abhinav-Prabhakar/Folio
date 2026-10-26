@@ -16,11 +16,9 @@ It’s a very practical how-to guide, so let’s see some of the specific advice
 
 Ready for a rapid-fire session of quick communication hacks? Let’s get to it!
 
-### How To Talk To Anyone Summary
-
 ## Lesson 1
 
-### Smooth introductions tend to turn into good conversations.
+### Smooth introductions tend to turn into good conversations
 
 The part we sweat the most when meeting new people is always the first ten seconds. Often, that’s the *only* part we’re sweating. If you’ve ever talked to a stranger, you know this is true. Once you’ve gotten over that initial hurdle, things usually go just fine. That’s why Leil suggests simply skipping that first, potentially awkward part. How? By getting an introduction!
 
@@ -30,7 +28,7 @@ And if you’re trying to replicate this online, email introductions work well, 
 
 ## Lesson 2
 
-### Mimicry and companionship are two powerful ways to form a connection.
+### Mimicry and companionship are two powerful ways to form a connection
 
 The easiest way to get people to like you is to keep them talking about themselves. But while it’s nice that you don’t *have* to say all that much, eventually it’ll be your turn, or maybe you love to talk too. So what else can you do once the introduction is made? Two powerful tools, Lowndes says, are mimicry and companionship. Here’s what she means:
 
@@ -42,7 +40,7 @@ Nothing like a running gag to keep spirits high, ain’t that right?
 
 ## Lesson 3
 
-### The better you know someone, the more specific you should be in your praise.
+### The better you know someone, the more specific you should be in your praise
 
 One of the most common tips to get along well is to give people compliments. That’s true, but according to Leil, there are some misconceptions around the idea of praise, especially when it comes to when and how to deliver it. **As a rule of thumb, the more you know and appreciate someone, the more detailed and frequent you can be in telling them**.
 
@@ -53,7 +51,5 @@ If you know someone well, like a close friend or someone you’re keen on dating
 ## Review
 
 As you can tell from my summary, *How To Talk To Anyone* is very practical, focused on little tricks you can try today. It’s important to not overdo it on books like these, because you’ll drown in tactics you’ll never employ, but the occasional experiment is very useful indeed. Give some of what we discussed a shot and if you feel ready for more, consider getting a copy of the book.
-
-## Who it’s for
 
 The 16 year old high schooler, who’s a few nights away from prom, the 32 year old real estate agent, who’s income depends on her relationships, and anyone who butchers compliments all the time.

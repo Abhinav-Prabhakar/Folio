@@ -20,7 +20,7 @@ Ready to have your eyes opened? Let’s dive right in and see what we can learn!
 
 ## Lesson 1
 
-### The American criminal justice system has a problem with punishing too harshly and over-incarceration.
+### The American criminal justice system has a problem with punishing too harshly and over-incarceration
 
 Unfortunately, since the 1980s, the American criminal justice system has been rampant with excessive punishment. This is when US courts started giving extreme sentences even for minor offenses. If you had any kind of criminal behavior on your record, no matter how small, it was even worse. This meant even a small crime could give you a life sentence.
 
@@ -34,7 +34,7 @@ The United States prison population has gone from 300,000 in the ‘70s to a who
 
 ## Lesson 2
 
-### The United States judicial system is unfair toward Women, Blacks, and children.
+### The United States judicial system is unfair toward Women, Blacks, and children
 
 It’s tragic to think about the problem of mass incarceration. But it’s even worse when you examine who is getting the worst of it. African Americans, women, and children get the brunt of the unfairness.
 
@@ -50,7 +50,7 @@ When they are tried as adults, they get punished in the same way as adults. In p
 
 ## Lesson 3
 
-### When someone goes to prison it negatively affects their entire community, which brings down our entire country.
+### When someone goes to prison it negatively affects their entire community, which brings down our entire country
 
 Simply being in prison is a traumatic experience that has effects for the rest of that person’s life. A ten-year sentence might seem reasonable for certain crimes, but the experience can be damaging beyond that time for the person convicted.
 
@@ -63,7 +63,5 @@ His sentence even affected his community. This was especially true because Walte
 ## Review
 
 It’s books like these that reveal important injustices that make me super disappointed in my country. *Just Mercy* is an eye-opening and vital read if you want to understand just how unfairly the US “justice” system treats criminals. The only question that I wish the book would have answered is “how do we stop these awful things?”
-
-## Who it’s for
 
 The 54-year-old judge whose conscience bothers them when it comes to sentences given for crimes, the 30-year-old American that wants to know the truth about how his country is really doing at “liberty and justice for all,” and everybody in the United States government that has the ability to put an end to these disgusting atrocities.

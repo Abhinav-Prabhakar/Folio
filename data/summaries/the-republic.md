@@ -20,7 +20,7 @@ Do you want to understand the most important ideas of one of philosophy’s all-
 
 ## Lesson 1
 
-### You can’t say what’s just only for an individual or a city. You have to look at both.
+### You can’t say what’s just only for an individual or a city. You have to look at both
 
 The dialogue starts with Socrates asking his students to propose definitions of justice, all of which he dismantles quite quickly. As it turns out, defining justice without huge loopholes isn’t that easy. The reason is that it’s impossible to say what’s just if you only look at an individual or a city alone. You have to consider both.
 
@@ -36,7 +36,7 @@ So in a just city, individual and societal needs are intertwined and they work i
 
 ## Lesson 2
 
-### Cities, as well as human souls, can be divided into the same three, distinct parts.
+### Cities, as well as human souls, can be divided into the same three, distinct parts
 
 After defining justice, Socrates goes on to use something called the “noble lie” to give people something to believe in, which will keep social harmony intact. A noble lie can be a myth or a story, often of religious nature, presented by a leader as true to guide their followers, even though it’s not, but with good intent.
 
@@ -52,7 +52,7 @@ Considering how old this idea is, it makes a scary lot of sense when you compare
 
 ## Lesson 3
 
-### Being a philosopher and teaching others justice is like trying to pull people out of a cave.
+### Being a philosopher and teaching others justice is like trying to pull people out of a cave
 
 If reason is the golden part of the soul and it’s what gets cities to be governed in a just way, then it naturally follows that kings should be philosophers and philosophers should be kings. However, rational rarely means popular, which means philosophers will face a lot of headwind when educating others.
 
@@ -65,7 +65,5 @@ Imagine a cave where people are chained to the wall and have been so all of thei
 ## Review
 
 With books like *The Republic,* I’m super glad to have Blinkist as a mediator and make the ideas more understandable. Sure, Wikipedia helps, but it’s often a slew of long articles, and you have to filter them a ton to get down to the core. Blinkist makes this really easy. I hope I managed to present the ideas in a way you can understand too!
-
-## Who it’s for
 
 The 14 year old, who just started learning about ancient Greece in her history class, the 33 year old young lawyer, who’s slowly adjusting his moral compass in navigating the world of law, and anyone who takes an interest in politics.

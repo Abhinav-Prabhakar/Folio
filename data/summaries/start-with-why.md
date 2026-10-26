@@ -16,11 +16,9 @@ Here are 3 lessons you should take away from *Start With Why*:
 
 Buckle up, it’s about to get inspirational!
 
-### Start With Why Summary
-
 ## Lesson 1
 
-### If you want to inspire others, always communicate your why first.
+### If you want to inspire others, always communicate your why first
 
 This is Simon’s key idea in a nutshell: *“People don’t buy what you do, they buy why you do it.”*
 
@@ -42,7 +40,7 @@ If you want to inspire others, start by telling them why you do things, instead 
 
 ## Lesson 2
 
-### Excited employees are the backbone of the best businesses.
+### Excited employees are the backbone of the best businesses
 
 Which business wouldn’t want their employees to go above and beyond for the company’s success?
 
@@ -58,7 +56,7 @@ Excel pro Johnny, who’s only here to collect his consulting fee? Or Lisa, who 
 
 ## Lesson 3
 
-### When you start with why there’s no need for sleazy sales tactics.
+### When you start with why there’s no need for sleazy sales tactics
 
 Why do companies use sales funnels, red discount signs, limited time offers, and social proof to trick you into buying their products?
 
@@ -85,7 +83,5 @@ After reading the summary of *Leaders Eat Last* already, this had to get a re-ru
 He also offers a course, which looks interesting and includes a hard copy of the book. If you want to see *Start With Why* in action, look at the intro video of the course – Simon is a master of communicating his why.
 
 Reading the summary on Blinkist will get you a few extra bits and pieces after watching his talk. But going straight from the talk to the book makes sense in this case if you ask me.
-
-## Who it’s for
 
 The 18 year old high school student at the brink of college, who has a chance to start pursuing a great career early once he finds his why, the 48 year old business owner, who wonders why her employees lack drive recently, and anyone who hasn’t found their why.

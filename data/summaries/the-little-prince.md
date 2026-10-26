@@ -18,11 +18,9 @@ Here are 3 lessons we can learn as we follow the plot of the book:
 
 Let’s see what the little prince has to teach us!
 
-### The Little Prince Summary
-
 ## Lesson 1
 
-### If we don’t apply our imagination to our sensory observations, we’ll miss the point of life.
+### If we don’t apply our imagination to our sensory observations, we’ll miss the point of life
 
 The story begins with the narrator complaining about adults’ inability to understand what’s important in life. To test them, he shows them a picture of a boa that has eaten an elephant. When they claim it looks like a hat, he knows they’ve lost their imagination.
 
@@ -36,7 +34,7 @@ Don’t lose your imagination, and always look beyond the obvious.
 
 ## Lesson 2
 
-### Adulthood comes with 6 common ruts, but we can get out of them if we’re willing to take an honest look in the mirror.
+### Adulthood comes with 6 common ruts, but we can get out of them if we’re willing to take an honest look in the mirror
 
 While the pair tries to find water and fix the narrator’s plane, the little prince tells him his story. Originally hailing from a house-sized asteroid, where tended to three volcanoes, kept fast-growing baobab trees at bay, and cared for his single rose, the prince one day decided to visit other planets.
 
@@ -55,7 +53,7 @@ Don’t get lost in the hum-drum-ness of adult life. Stay humble, curious, and a
 
 ## Lesson 3
 
-### The most important things in life aren’t things we can see or touch — and friendship is one of them.
+### The most important things in life aren’t things we can see or touch — and friendship is one of them
 
 After more encounters, one of them being a garden full of roses, showing the prince that his rose was not unique, he met a fox, who taught him about “taming” — friendship. The fox explained the prince’s rose was special because it was the one he chose to care for, not because there were no other roses. “It is the time you have wasted for your rose that makes your rose so important,” he said.
 
@@ -70,7 +68,5 @@ Listen to your heart. What does it tell you? Who should you spend more time with
 ## Review
 
 *The Little Prince* is a lovely novella full of deep and hidden meanings. Children will enjoy it at face value, and adults can ruminate over it for days. Plus, it’s a short and easy read. If you haven’t read this one, don’t miss it.
-
-## Who it’s for
 
 The 6-year-old who just learned to read, the 32-year-old young dad, who’s desperate for a bedtime story to read to his daughter, and anyone who loves planes, flying, and travel.

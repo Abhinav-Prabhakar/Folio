@@ -18,7 +18,7 @@ Here we go!
 
 ## Lesson 1
 
-### Happiness can hurt your performance.
+### Happiness can hurt your performance
 
 Yes, a work environment that boosts happiness, like at Google, is believed to make people better workers. However, there is a downside to it.
 
@@ -32,7 +32,7 @@ Therefore, a happy person might be a better manager, who is responsible for the 
 
 ## Lesson 2
 
-### Guilt is good, shame is shit.
+### Guilt is good, shame is shit
 
 One of the emotions this book takes a look at is guilt. There are 2 upsides to guilt:
 
@@ -53,7 +53,7 @@ So pay attention the next time you feel bad about doing something. If you want t
 
 ## Lesson 3
 
-### Being mindful comes at a price.
+### Being mindful comes at a price
 
 **Your ability to be mindful is limited**. There is only so much data that your brain can process consciously. However, its capability to process information unconsciously is huge.
 
@@ -87,7 +87,5 @@ I’d still rather be happy and focus on a very non-salesy approach to life and 
 I’m often guilting myself into good habits. For example, I felt pretty bad for getting up late yesterday, but now I know this is a legit reaction, which gives me confirmation in what I do. I’m not a huge fan of meditation, at least not in a rigid sense, so I also liked the little counter-argument against it.
 
 Lots to learn from looking at *The Upside Of Your Dark Side*. I can recommend this book and its summary on Blinkist!
-
-## Who it’s for
 
 The 37 year old, successful startup CEO, who wonders if she’s living life too fast, the 52 year old lawyer with a reputation for angry outbursts, and anyone who meditates on a regular basis.

@@ -22,7 +22,7 @@ Are you ready to dive into the world of therapy and learn more about yourself in
 
 ## Lesson 1
 
-### Often, patients who come in have problems that are a lot deeper than what it first seems.
+### Often, patients who come in have problems that are a lot deeper than what it first seems
 
 The first question you’ll get when you go into a therapist’s office will be some version of, “Tell me what brings you here today?” The answer to this question is what is known as the *presenting problem.* It’s the problem that they come in with hopes of finding a solution. Sometimes it can be something specific, but often it’s something more general, such as feeling “trapped.”
 
@@ -34,7 +34,7 @@ His mother was hit by a car and killed when he was six, and his young son died i
 
 ## Lesson 2
 
-### In order to avoid painful feelings, we use defense mechanisms that therpists need to see through.
+### In order to avoid painful feelings, we use defense mechanisms that therpists need to see through
 
 If there’s one thing we hate as human beings, it’s painful emotions. Loneliness, sadness, stress, can be so powerful that they can make you physically ill.
 
@@ -46,7 +46,7 @@ She would say things about her life being “half over.” This clued him in tha
 
 ## Lesson 3
 
-### Finding freedom and letting your emotions out is the key to making progress.
+### Finding freedom and letting your emotions out is the key to making progress
 
 Many people come to therapy feeling trapped.
 
@@ -63,7 +63,5 @@ The acknowledgment of repressed feelings is known as “breaking open.” They l
 ## Review
 
 *Maybe You Should Talk To Someone* is a compelling look into what it’s like to be on both sides of therapy as both the therapist and the patient. We learn how therapy really works, and why it’s so helpful for people. She also helps get through the misconceptions and explains what therapy isn’t. We gain a better understanding of how our emotional lives really work.
-
-## Who it’s for
 
 The 21-year-old who is interested in going into social work, the 49-year-old who is dealing with emotional problems and is considering getting help, anyone who wants a fascinating look into the world of psychotherapy.

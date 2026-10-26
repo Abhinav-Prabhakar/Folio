@@ -26,7 +26,7 @@ Ready to see how these two seemingly disparate disciplines connect? Let’s go!
 
 ## Lesson 1
 
-### Time and space, energy and matter, phenomena and their observers, everything is interconnected according to modern physics.
+### Time and space, energy and matter, phenomena and their observers, everything is interconnected according to modern physics
 
 One of the most disrupting concepts in Einstein’s theory of relativity was that time and space are interdependent. Since light takes time to reach the human eyes, the further an event takes place from an observer, the later it occurs.
 
@@ -44,7 +44,7 @@ Due to these many equivalents, modern physicists now agree that everything in th
 
 ## Lesson 2
 
-### Movement and change are consistent behaviors of the universe and all matter that’s in it.
+### Movement and change are consistent behaviors of the universe and all matter that’s in it
 
 In 1929, the astronomer Edwin Hubble discovered that the universe was born around 10 billion years ago from a big explosion called the Big Bang. Since then, it had kept on slowly expanding.
 
@@ -60,7 +60,7 @@ Energy itself is also a form of movement in the form of waves and particle vibra
 
 ## Lesson 3
 
-### Eastern wisdom has known reality is oneness and dynamism for millennia.
+### Eastern wisdom has known reality is oneness and dynamism for millennia
 
 Hinduism, Buddhism, and Taoism are among the most ancient religions. They were born in India and China between 2000 and 500 BC.
 
@@ -83,7 +83,5 @@ The Tao is a dynamic force too: “Returning is the motion of the Tao” and “
 ## Review
 
 *The Tao of Physics* might not be perfectly scientifically accurate anymore, but it’s only gained more charm over the years. Physics continues to provide more and more evidence of Asian religions’ intuitions. Naturally, people are now curious to better understand the connections between the two. For all of them, this book is a great place to start!
-
-## Who it’s for
 
 The 45-year-old westerner that is interested in spirituality and would like to understand the basic concepts of Asian religions, the 22-year-old physics student who is curious about the unbelievable behavior of quantum particles, and anyone who wants to understand why there’s no real contraposition between science and eastern spirituality.

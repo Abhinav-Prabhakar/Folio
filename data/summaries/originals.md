@@ -18,7 +18,7 @@ Wanna be original? Let’s look at creativity through a new pair of glasses!
 
 ## Lesson 1
 
-### Quantity leads to quality when it comes to producing great ideas.
+### Quantity leads to quality when it comes to producing great ideas
 
 > When I look back and I see a stack of 17 books and I see 4,800 blog posts and speeches I’ve given – none of which were good enough – but all of which I shipped, it becomes pretty clear to me that I’m better off shipping than I am making it perfect. – Seth Godin
 
@@ -34,7 +34,7 @@ The more you ship, the higher your chances of having an impact.
 
 ## Lesson 2
 
-### Use procrastination strategically and it’ll help you fill in the blanks.
+### Use procrastination strategically and it’ll help you fill in the blanks
 
 Shipping a lot is important. But that doesn’t mean you should publish half-assed creations and almost-done pieces of art before they’re ready. So when you’re stuck and can’t seem to move forward, how about some strategic procrastination?
 
@@ -48,7 +48,7 @@ Who’s a master procrastinator now?
 
 ## Lesson 3
 
-### You can make your crazy ideas less threatening with the mere exposure effect and by repeating yourself.
+### You can make your crazy ideas less threatening with the mere exposure effect and by repeating yourself
 
 Sometimes though, you have to step off the crazy creative train for a while and convince others that your ideas are solid. Especially when you need funding or someone to give you green light for a project. In those cases, it helps to use two techniques to help others slowly get used to your earthshaking vision:
 
@@ -64,7 +64,5 @@ The movie went on to become the highest-grossing film of 1994 (and the first mov
 ## Review
 
 I love this book. There are so many examples, it’s ridiculous. Those alone are well worth your money, but the way Adam Grant uses them to give practical advice for your own creative pursuits makes them even better. One of the best books of the year for sure! A fun place to start learning more is to take Adam’s quiz about creativity, specifically designed for the launch of *Originals*.
-
-## Who it’s for
 
 The 18 year old infrequent fashion blogger, with new posts out every sometimes, the 33 year old architect, who sometimes stays up all night to figure out a spacing problem with no luck, and anyone who was shocked the first time they saw The Lion King.

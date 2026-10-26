@@ -22,7 +22,7 @@ Ready to re-shape your image of the history of communication? Let’s see where 
 
 ## Lesson 1
 
-### If you have a big and broad vision, you have a shot at impacting the world for centuries.
+### If you have a big and broad vision, you have a shot at impacting the world for centuries
 
 More often than not, the greatest inventors in history are forgotten. They either don’t get credit for their inventions, or, if they do, it is purely academic. Since their work is seldom tied to commercial ventures and big, profitable businesses, their names aren’t broadcast enough and end up hidden in the dusty pages of history books.
 
@@ -36,7 +36,7 @@ He knew that he needed to keep inventing, make profits and re-invest those, in o
 
 ## Lesson 2
 
-### Bell Labs was majorly involved in inventing most of modern technology, including the phone, radio, computers and the web.
+### Bell Labs was majorly involved in inventing most of modern technology, including the phone, radio, computers and the web
 
 Bell Labs was set up as a subsidiary of AT&T, you know, the 12th-largest company in the world, which provides mobile phone services to every other person in the US. While they did do lots of operational work (like improving and fixing phone networks, cables, etc.) they also had a division entirely committed to basic research.
 
@@ -50,7 +50,7 @@ Clearly, hiring MIT graduates paid off. But how have they been able to afford to
 
 ## Lesson 3
 
-### Monopoly is a great driver of innovation, as it can use its big profits to fund great scientific efforts.
+### Monopoly is a great driver of innovation, as it can use its big profits to fund great scientific efforts
 
 Remember I said Bell Labs originated from AT&T? Well, what you might not know is that AT&T (American Telephone & Telegraph Company) itself evolved from the Bell Telephone Company, the firm that held Alexander Graham Bell’s original phone patent and commercially provided the first phone services to people.
 
@@ -65,7 +65,5 @@ But the company doesn’t give up. In 2016, Nokia acquired it – with Bell’s 
 ## Review
 
 Of course Bell Labs didn’t invent all of these things alone, but the fact that they had a hand in so many of the most crucial inventions, which impact most of the time we’re awake today, is nothing less than shocking. I could spend hours researching *The Idea Factory*, an absolutely fascinating topic!
-
-## Who it’s for
 
 The 23 year old electrical engineering student, who loves to tinker with tech in his spare time, the 31 year old physicist PhD candidate, who works with optical fibers, and anyone who doesn’t know who invented the world wide web.

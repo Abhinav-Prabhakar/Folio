@@ -20,7 +20,7 @@ Ready to de-stress? Who isn’t? Let’s do this!
 
 ## Lesson 1
 
-### Whenever you face a stressful situation, change it, leave it, or accept it.
+### Whenever you face a stressful situation, change it, leave it, or accept it
 
 It’s easy to just try and deny stress for as long as you can. But eventually, reality *will* catch up with you. We all face stressful events, and sometimes they get really bad. Eventually, you’ll have to deal with the situation, one way or the other.
 
@@ -40,7 +40,7 @@ No matter how bad things get **you always have at least one of these three optio
 
 ## Lesson 2
 
-### You must practice a peaceful mindset every day.
+### You must practice a peaceful mindset every day
 
 Do you sometimes get mad at people with a zen-like, almost monk-style state of mind? I do. But if I’m honest, most of the time it’s just because I’m jealous. In reality, I’d always prefer to be as calm as them in the situations where I usually get mad.
 
@@ -57,7 +57,7 @@ Doing these two things alone will help you kill a lot of stress within a few day
 
 ## Lesson 3
 
-### Improve your health long-term by making use of the placebo effect.
+### Improve your health long-term by making use of the placebo effect
 
 I’m sure you’ve heard of this one. It’s called the placebo effect and it’s what happens every time people see real results from fake causes.
 
@@ -72,7 +72,5 @@ Pay attention to what you think of what you’re doing to get healthier – it�
 ## Review
 
 I discovered *The End Of Stress* thanks to a friend. Despite being somewhat out of the public eye, it’s a very comprehensive take on stress and the things you can do about it. Lots of small wins in here, many of which you can find in the summary on Blinkist as well. A recommended read.
-
-## Who it’s for
 
 The 19 year old who’s scared of college, because she tends to freeze when giving a talk in front of her peers, the 31 year old busy marketer, who has less than 15 minutes between waking up and having to leave for work, and anyone who thinks the placebo effect has worked on them before.

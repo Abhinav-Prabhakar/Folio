@@ -22,7 +22,7 @@ Are you ready to see how you can grow from a small acorn into a large tree? Let�
 
 ## Lesson 1
 
-### Surround yourself with positive influencers to begin growing the SEEDS of big potential.
+### Surround yourself with positive influencers to begin growing the SEEDS of big potential
 
 UConn women’s head basketball coach Geno Auriemma knows what it means to surround yourself with positive influencers. Evaluation of his players focuses on how well they contribute to the team, instead of their individual accomplishments. The success of this method shows, too. As of the current writing, the team hasn’t lost a game in two years.
 
@@ -32,7 +32,7 @@ It’s not just having a team-centered mindset that helps, however. Who you have
 
 ## Lesson 2
 
-### Help your team grow by Expanding their opportunities to lead and Enhancing by focusing on the system as the source of success.
+### Help your team grow by Expanding their opportunities to lead and Enhancing by focusing on the system as the source of success
 
 The “I Saved a Life” program at Kaiser Permanente has saved almost 500 lives by empowering receptionists and other staff to be part of the lifesaving process. The leaders of the organization expanded their power by allowing people other than “medical providers” to participate in the health care process. If someone called to schedule an appointment, for example, employees could see if they were overdue for any preventative screenings. Representatives asked if patients wanted to schedule appointments for these procedures. In one case, 40% of those diagnosed with cancer had scheduled the screening appointment through one of these calls!
 
@@ -53,7 +53,5 @@ Have you ever been to a motivational day of training at a conference or other ev
 ## Review
 
 I love *Big Potential*, it’s one of my favorite books. Achor’s inclusion of many studies provides the motivation to change the way we look at potential. I’m certain that anyone who reads this book and does what it says will see their health, wealth, and happiness skyrocket.
-
-## Who it’s for
 
 The 21-year-old college student who thinks it’s better to live in a single room rather than shared, the 37-year-old project manager with the goal of improving the company’s bottom line, and anyone who wants the secret to being happy and successful.

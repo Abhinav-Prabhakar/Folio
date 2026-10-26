@@ -22,7 +22,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Poor education forms abusive behavior.
+### Poor education forms abusive behavior
 
 We may think that childhood trauma, emotional wounds, or broken homes are the catalyst for abusive behavior. In reality, although they contribute to this issue, they aren’t what turns a man into an abuser. Instead, his role models and influences are responsible for it.
 
@@ -34,7 +34,7 @@ Just like role models, social media and news can influence behavior and negative
 
 ## Lesson 2
 
-### There are subtle signs an abuser shows early in the relationship.
+### There are subtle signs an abuser shows early in the relationship
 
 Just like a condition, abusive behavior has its symptoms. Avoid getting trapped in such a relationship by learning how to recognize the warning signs and act on them as soon as possible. It’s easier to detach yourself from the beginning than later in the relationship.
 
@@ -46,7 +46,7 @@ Another forewarning could be a false sense of generosity or receiving favors you
 
 ## Lesson 3
 
-### An abusive man has to change himself, and you have nothing to do with it.
+### An abusive man has to change himself, and you have nothing to do with it
 
 Abusive behavior is learned and inherited, and that cannot change. Although you may hear promises and witness small acts of change, they don’t usually last long. That is because change has to come from within and doesn’t rely on extrinsic factors.
 
@@ -61,7 +61,5 @@ If he accepts the problem and agrees to fix it, he cannot impose conditions. For
 In *Why Does He Do That?* Lundy Bancroft uses his knowledge to save women from abusive relationships and help them discover the true nature of uncaring and vicious men. His insights on discovering certain typologies of mistreating males can help readers spare themselves from many heartaches.
 
 From early-stage signs to types of abuse, the book covers every aspect behind the mentality of manipulators. It is a must-read for anyone going through toxic relationships and women everywhere who want to free themselves from abusers.
-
-## Who it’s for
 
 The person who feels trapped in their relationship, the ones who feel like they have no voice, abused mothers who consider leaving their partners, or people who feel like others close to them are being abused.

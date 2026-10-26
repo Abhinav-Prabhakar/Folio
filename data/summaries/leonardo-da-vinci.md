@@ -20,7 +20,7 @@ Ready to learn from the man who ushered in the Renaissance? Let’s go Leonardo!
 
 ## Lesson 1
 
-### Leonardo Da Vinci is the reason we see artists as artists.
+### Leonardo Da Vinci is the reason we see artists as artists
 
 Saying Leonardo Da Vinci is one of the few people who still deserves the label ‘genius’ in today’s world is obviously a mouthful. However, in no way does it indicate he *didn’t* work hard to sharpen his talents. At age 14, he started an apprenticeship under a man named Andrea del Verrocchio, who was an artist and an engineer. This alone has several interesting implications.
 
@@ -34,7 +34,7 @@ Third, because of the commission payment model, it was easier for artists to mak
 
 ## Lesson 2
 
-### Infuse even the most random of your interests into everything you do.
+### Infuse even the most random of your interests into everything you do
 
 What’s most remarkable about Da Vinci is that he fundamentally changed our thinking in not just one, specific area, but across a range of disciplines: painting, sculpturing, frescoes, biology, anatomy, medicine, engineering, architecture, and a lot more. To use a modern term, he was an expert generalist.
 
@@ -48,7 +48,7 @@ So, unless intense focus on one thing comes naturally to you, don’t be afraid 
 
 ## Lesson 3
 
-### Make sure your thoughts have a way to reach the world after you die.
+### Make sure your thoughts have a way to reach the world after you die
 
 Speaking of learning from you, so that we can, you first have to share. Most people don’t want to be a writer, Youtuber, or person of public interest. That’s fine, but it probably robs us of some of the greatest ideas of mankind. For example, thanks to a donation of corpses from a university, Leonardo was able to study human anatomy in detail.
 
@@ -61,7 +61,5 @@ You don’t have to write a blog or create content regularly, but it’d be a go
 ## Review
 
 Make no mistake, a Walter Isaacson book is a behemoth. *Leonardo Da Vinci* even has a version with lots of illustrations, which I can’t wait to dive into. But until you have time for that, spending 20 minutes to read the summary on Blinkist and looking up some of Da Vinci’s artwork on Wikipedia is a great way to get to know the man.
-
-## Who it’s for
 
 The 17 year old, who gets a lot of flack from his parents for trying to become a pro gamer, the 48 year old neurosurgeon, who feels somewhat stuck in her technique, and anyone who’s never written down their big ideas.

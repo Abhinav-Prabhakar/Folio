@@ -20,7 +20,7 @@ Do you wish to become an expert consultant and build your own business? Then you
 
 ## Lesson 1
 
-### There are two types of expertise and one is more valuable for consultants than the other.
+### There are two types of expertise and one is more valuable for consultants than the other
 
 What does a consultant even do? Sure, the guys at McKinsey always walk around in suits, have a lot of PowerPoint slides, and talk really fast, but what’s their job?
 
@@ -34,7 +34,7 @@ These are things that help *any* online store and go beyond technical knowledge,
 
 ## Lesson 2
 
-### Calculate your fees according to the value you provide at all times, never based on the time you spend working.
+### Calculate your fees according to the value you provide at all times, never based on the time you spend working
 
 I’ll never forget or unlearn this lesson: Never charge hourly. Most businesses are used to an hourly or daily fee model for consultants, but that’s nonsense. Do you know why?
 
@@ -46,7 +46,7 @@ When you focus on value, charging a proper consultant’s fee will come a lot ea
 
 ## Lesson 3
 
-### Think of your work as a pipeline and keep it evenly filled for the next 12 months.
+### Think of your work as a pipeline and keep it evenly filled for the next 12 months
 
 Unsurprisingly, most people still live paycheck to paycheck even after becoming a solo consultant. They hustle to get work, score a project and boom, the marketing machine stops.
 
@@ -61,7 +61,5 @@ The second you have this tool, you can monitor it, distribute your work evenly, 
 ## Review
 
 I learned a lot of these lessons from my friend Ryan Waggoner, and they have been extremely helpful in judging the value of my time, feeling less stressed and focusing on high-value, important work. If you are in, or think about, doing some combination of consulting, freelancing or project-based work, I highly recommend you read *Million Dollar Consulting*.
-
-## Who it’s for
 
 The 34 year old Wordpress developer, with a lot of content expertise, but not much process expertise, the 51 year old manager in a leadership position, who’d love to do something different until she retires, and anyone who’s felt bad with an hourly wage they once got.

@@ -20,7 +20,7 @@ Are you ready to dig deep and understand your feelings a little better? Let’s 
 
 ## Lesson 1
 
-### We still believe in a classical view of emotions that science doesn’t support anymore.
+### We still believe in a classical view of emotions that science doesn’t support anymore
 
 In our society, we often think of emotions of something you can’t control, almost like a reflex. This classical view is the idea that emotions are more or less irrational reflexes leftover from our evolution. We even teach it in textbooks and see it all around us in the media. Further, there’s a notion that each emotion comes from a distinct part of the brain. This essentialist look on emotion also assumes that everyone experiences, expresses, and interprets emotions in the same way.
 
@@ -30,7 +30,7 @@ Experiments in emotion show that single emotions don’t originate in a specific
 
 ## Lesson 2
 
-### The brain makes emotions on the spot based on sensory input and predictions.
+### The brain makes emotions on the spot based on sensory input and predictions
 
 So if the classical view has it all wrong, what should we believe? The author advocates for the *theory of constructed emotion*. This is that we create emotions spontaneously and concurrently in more than one area of the brain. Furthermore, emotions are based on the individual. We form our feelings from a combination of unique sensory input and the brain’s best predictions.
 
@@ -42,7 +42,7 @@ The author compares this to Darwin’s theory of evolution, that each animal var
 
 ## Lesson 3
 
-### Our experience of emotion is largely based on culture and our beliefs about it.
+### Our experience of emotion is largely based on culture and our beliefs about it
 
 Not only do people not experience emotions the same way, but culture also shapes our concept of emotions. In the Tahitian language, they don’t have any words to describe sadness. Rather, they use a word meaning something along the lines of “the fatigue that comes with the flu.”
 
@@ -53,7 +53,5 @@ Smiling is a relatively recent concept. Interestingly, the Ancient Romans didn�
 ## Review
 
 *How Emotions Are Made* is a refreshing new take on the true source of our feelings. Although some of the concepts in the book were unfamiliar to me, I enjoyed the fascinating takeaways. I think we need more research on these ideas, but I would highly recommend this book!
-
-## Who it’s for
 
 The 20-year-old college student who wants to study psychology, the 39-year-old who would like to understand his emotions better to improve his life, and anyone who wants the truth about what emotions are and how they form.

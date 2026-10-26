@@ -18,7 +18,7 @@ There are 7 principles in the book in total, but these 3 stood out most to me. L
 
 ## Lesson 1
 
-### Happy people become successful, not the other way around.
+### Happy people become successful, not the other way around
 
 This is the core message of the book. The book quotes a study done by Martin Seligman, the “father” of positive psychology, where the happiness of 272 employees was monitored over 18 months. Those who were happier before the study achieved more success later on.
 
@@ -34,7 +34,7 @@ For example, research has shown that just anticipating something you’re lookin
 
 ## Lesson 2
 
-### Train your brain to spot positives with “The Tetris Effect”.
+### Train your brain to spot positives with “The Tetris Effect”
 
 I had no clue about this. Really cool.
 
@@ -50,7 +50,7 @@ For example you can start a gratitude ritual, where you **write down 3 things yo
 
 ## Lesson 3
 
-### Fall up instead of down, by using failures as a stepping stone.
+### Fall up instead of down, by using failures as a stepping stone
 
 After each failure, crisis or catastrophe, 3 possible things can happen:
 
@@ -79,7 +79,5 @@ Some of the principles felt like additional tips for Learned Optimism, while oth
 As a video game nerd, I loved “The Tetris Effect”, and falling up, Achor has a great way of using metaphors and images to make his point. A great follow-up read to falling up instead of down is The Obstacle is The Way by Ryan Holiday.
 
 Very refreshing set of blinks, thumbs up!
-
-## Who it’s for
 
 The 40 year old parents, who won’t let their 12 year old be consumed by video games or another seemingly unimportant activity, the 64 year old, who’s just about to retire, but still keeps complaining about how terrible politics are, and anyone who goes to bed already worrying about tomorrow’s problems.

@@ -18,11 +18,9 @@ Let’s explore how you can break free from your phone addiction by looking at t
 
 Time to take each lesson one by one and explore them in detail to see what they have to offer!
 
-### How to Break Up With Your Phone Summary
-
 ## Lesson 1
 
-### What makes us addicted to our phones is that they drip-feed us dopamine with every tiny interaction.
+### What makes us addicted to our phones is that they drip-feed us dopamine with every tiny interaction
 
 If you’re like most people, you have a phone. And if you’re like most people with phones, you probably check it compulsively throughout the day. A recent survey found that the average American spends more than 3 hours a day on their phone. This means that they spend nearly half of their waking hours staring at a screen.
 
@@ -36,7 +34,7 @@ Dopamine won’t replace quality time with your close ones, time spent in nature
 
 ## Lesson 2
 
-### Our phones not only poison our mental performance, they also negatively influence our short-term memory.
+### Our phones not only poison our mental performance, they also negatively influence our short-term memory
 
 When we look at our phones, we often see a way to connect with others, gather information quickly, and even entertain ourselves. But as we spend more time with our phones, we may start to notice that they are not just tools for communication and entertainment.
 
@@ -50,7 +48,7 @@ Another main issue with our phones is that they affect our short-term memory and
 
 ## Lesson 3
 
-### Treating your phone addiction starts with inner motivation.
+### Treating your phone addiction starts with inner motivation
 
 The first step to breaking up with your phone is to develop an awareness of what you’re doing when you’re on your phone. Responding to work emails? Are you sending a text? Or maybe you are scrolling through social media? Or are you just wasting time?
 
@@ -65,7 +63,5 @@ However, if you decide to improve your relationship with your phone just note th
 ## Review
 
 In *How to Break Up With Your Phone*, author Catherine Price examines the increasingly visible and often addictive relationships we have with our phones. If managed correctly, however, we can stop using our devices as endless distractions and instead use them as tools to enhance our lives. I strongly recommend this book to anyone who wants to improve their relationship with their phone.
-
-## Who it’s for
 
 The 19-year-old person who is constantly on their phone. The 34-year-old concerned parent who wants to help their children get off their phones. Or the 30-year-old late boomer who finds that social media stands in the way between themselves and a better life and wants to ditch it for good.

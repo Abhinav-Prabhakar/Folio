@@ -22,7 +22,7 @@ Ready for some real #relationshipgoals that are better than what you see on soci
 
 ## Lesson 1
 
-### Trying to find the perfect person will keep you single forever, so adjust your relationship goals accordingly.
+### Trying to find the perfect person will keep you single forever, so adjust your relationship goals accordingly
 
 I recently deleted my Instagram and Twitter accounts. I’ve reluctantly kept Facebook but locked myself out intentionally. The half-truths that people share about how good life is just got to be too much for me.
 
@@ -42,7 +42,7 @@ You can and should identify what you’re looking for in a companion, but apply 
 
 ## Lesson 2
 
-### Becoming the best person you can be while you’re single is the surest way to guarantee a strong marriage.
+### Becoming the best person you can be while you’re single is the surest way to guarantee a strong marriage
 
 Growing up, the author didn’t receive much relationship advice beyond “no sex until after you’re married.” Because the church isn’t great about handling this aspect of life, many people turn to advice from TV, movies, or celebrities and end up ruining their relationships while single.
 
@@ -65,7 +65,7 @@ By working on these you’ll prepare well for your relationship future by gettin
 
 ## Lesson 3
 
-### Keep dating your spouse after you’re married and never stop improving yourself.
+### Keep dating your spouse after you’re married and never stop improving yourself
 
 I don’t like Disney. They make pretty good movies, but those princess ones put some dangerous ideas into kid’s heads. The biggest offender of all is the idea of “happily ever after.”
 
@@ -84,7 +84,5 @@ Also, keep dating your spouse. My wife and I love to talk with each other about 
 ## Review
 
 I really liked *Relationship Goals*! It reminded me of what’s strong in my own marriage and gave me some ideas on how to improve. There were a few points that I didn’t agree with, although it may have just been the way the author presented them.
-
-## Who it’s for
 
 The 30-year-old who thinks that her life is over because she isn’t married yet, the 62-year-old empty nesters who want to work on their relationship with each other, and anyone that wants to be in a healthy romantic relationship.

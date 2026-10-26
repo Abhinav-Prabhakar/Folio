@@ -16,11 +16,9 @@ Here are 3 lessons to help you understand the monomyth and become the hero of yo
 
 Now, let’s take each lesson and explore it in detail!
 
-### The Hero With a Thousand Faces Summary
-
 ## Lesson 1
 
-### To advance in life, the hero must go through 3 essential stages.
+### To advance in life, the hero must go through 3 essential stages
 
 Similar to the course of a lifetime, the hero must fulfill a series of stages to complete his purpose and the cycle of his life. These are the call, the quest, and the return. Of course, he isn’t obliged to do so, but if he doesn’t, he will feel unhappiness and misery. If we were to compare ourselves with the hero, we could find many similarities.
 
@@ -32,7 +30,7 @@ Lastly, there’s the return. This stage marks the fulfillment of the hero’s p
 
 ## Lesson 2
 
-### The hero must go beyond the veil of the known in her journey.
+### The hero must go beyond the veil of the known in her journey
 
 The hero faces a dilemma: to leave his comfort zone, the life as he knows it, and all those around his, just to answer his inner call. There is no guarantee that he’ll be back, nor that he will succeed in his quest. This controversy sparks an unsettling feeling within him, and so he must make a decision soon.
 
@@ -44,7 +42,7 @@ The heroic potential lies within you, but you have to open your mind and listen 
 
 ## Lesson 3
 
-### No great hero has ever made it without putting in hard work.
+### No great hero has ever made it without putting in hard work
 
 The hero from the story had a long quest to fulfill, but he made it. What helped him fulfill his mission wasn’t an extraordinary talent, a super power, nor other outstanding circumstances. Instead, he had to go little by little and be very determined to achieve his purpose.
 
@@ -59,7 +57,5 @@ If you limit your beliefs, they’ll stay that way. **Your mind believes everyth
 ## Review
 
 *The Hero With a Thousand Faces* is an extraordinary piece of writing that can inspire anyone to take charge of their life. Heroes may seem like supernatural creatures, but their stories are rarely too far from what we all go through in our everyday lives. If we take a page out of their and Campbell’s book, we too can find happiness and fulfillment.
-
-## Who it’s for
 
 The 27-year-old entrepreneur who is looking for motivation and inspiration in other’s life stories, the 35-year-old English professor who is passionate about mythology and folk tales, and the Harry Potter, Lord of the Rings, or Star Wars fan who loves magical stories.

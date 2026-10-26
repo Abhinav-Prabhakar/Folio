@@ -22,7 +22,7 @@ Let’s see just how much *Four Hundred Souls* can teach us!
 
 ## Lesson 1
 
-### Anti-Black laws slowly entrenched slavery into society.
+### Anti-Black laws slowly entrenched slavery into society
 
 In the 17th century, ships leaving Liverpool transported an estimated 1.5 million enslaved African people to the Americas. Their motive? Money.
 
@@ -36,7 +36,7 @@ The Virginia Assembly created laws to make sure this couldn’t happen. They put
 
 ## Lesson 2
 
-### After the American Revolution, slavery exploded.
+### After the American Revolution, slavery exploded
 
 Unfortunately, this was only the beginning of Black oppression in America. In 1789, America elected its first president, George Washington. But in reality, only a small fraction of the population elected him: only white males over age 21. Naturally, their choice was a wealthy white war hero who was also a slave owner.
 
@@ -52,7 +52,7 @@ As terrible as all of this was for Blacks, their culture still thrived. Those wh
 
 ## Lesson 3
 
-### The struggle for equality has been going on for a long time and continues today through Black Lives Matter.
+### The struggle for equality has been going on for a long time and continues today through Black Lives Matter
 
 Jumping forward in time, we know that Black people finally got the rights they always should have had. But it doesn’t mean that they aren’t still dealing with institutional racism and oppression regularly.
 
@@ -69,7 +69,5 @@ Black Lives Matter serves to bring attention to the many Black people who are ne
 ## Review
 
 I hate racism. It makes no sense to me that you’d treat anybody, no matter how different they are, as if they had less value. *Four Hundred Souls* helped me understand just how deep this problem goes, and it’s the kind of book that everybody should read to understand how America got here and what we can do to finally help Blacks achieve equality.
-
-## Who it’s for
 
 The 37-year-old American who wonders if what they were taught about their country in school was correct. The 65-year-old white supremacists and anyone who has any inkling of racism in their mind.

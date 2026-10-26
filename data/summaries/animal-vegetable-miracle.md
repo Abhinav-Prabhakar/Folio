@@ -24,7 +24,7 @@ Are you ready to dive in and learn what it takes to grow your own food? Let’s 
 
 ## Lesson 1
 
-### We have forgotten what real food is because of the food industry.
+### We have forgotten what real food is because of the food industry
 
 Most of us have lived in the city for so long we don’t actually know a lot about food creation. A lot of our foods have additives we can’t pronounce, or are genetically modified. For the most part, we don’t even think about local farmers.
 
@@ -36,7 +36,7 @@ You’ve also probably heard about genetically modified food or GMOs. These are 
 
 ## Lesson 2
 
-### If we start early in the spring and are diligent, we can have a plentiful summer harvest.
+### If we start early in the spring and are diligent, we can have a plentiful summer harvest
 
 If you’re ready for better tasting, healthier, and more environmentally friendly food, it’s time to start growing it yourself. Kingsolver gives a plan that will help you have your own veggies all year long. March is the time to start planting. You can start indoors if it’s too cold to plant outside and transplant them later.
 
@@ -50,7 +50,7 @@ Growing your own food is a great way to encourage you to prepare your own meals,
 
 ## Lesson 3
 
-### Autumn is the time for meat and preparing for winter.
+### Autumn is the time for meat and preparing for winter
 
 Something that was a little harder for Kingsolver and her family to do was harvesting their animals come fall. t can be a pretty controversial process, but she talks about how it can be done with respect.
 
@@ -65,7 +65,5 @@ You can store all of these in cool places for winter. She recommends making sure
 ## Review
 
 I really like the idea behind *Animal, Vegetable, Miracle*! I’ve always enjoyed fruits and vegetables, and my family has a history of farming, so I can really appreciate all of these lessons. We should all take whatever we can learn from this book and try it to improve our health and the environment!
-
-## Who it’s for
 
 The 56-year-old who is tired of taking so many prescriptions that would like to eat healthier, the 27-year-old who doesn’t want to end up overweight and lethargic all the time like so many of their friends, and anyone who wants to discover the fascinating world of gardening and cooking.

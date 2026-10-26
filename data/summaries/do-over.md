@@ -4,7 +4,7 @@
 
 ## Overview
 
-Today’s a big day. It’s the day Jon Acuff‘s book trilogy is completed on Four Minute Books! After *Quitter* and *Start,* *Do Over* now completes this set in the four minute hall of fame.
+Today’s a big day. It’s the day Jon Acuff‘s book trilogy is completed on Four Minute Books! After *Quitter* and *Start, Do Over* now completes this set in the four minute hall of fame.
 
 Quitter was about quitting your job. Start was about starting your own. Do Over is what happens before, after, and sometimes in-between those two. It shows you how to intentionally build your career by focusing on developing four skills, each of which is particularly helpful in a certain stage of your career.
 
@@ -18,9 +18,9 @@ Ready to call do over? Let’s do it over then!
 
 ## Lesson 1
 
-### Take stock of your Career Savings Account™.
+### Take stock of your Career Savings Account™
 
-Jon says just like a filled bank account helps you through a financial slump, a filled Career Savings Account **™** helps you through a career slump.
+Jon says just like a filled bank account helps you through a financial slump, a filled Career Savings Account**™** helps you through a career slump.
 
 And it happens quite often. According to the 2014 Gallup poll around 70% of Americans are either not engaged (=enthusiastic) in their jobs or downright hate them. But changing your career and rebuilding it requires courage.
 
@@ -32,7 +32,7 @@ Knowing you have a good network, solid technical skills, and a strong character,
 
 ## Lesson 2
 
-### Learn new skills to break through career ceilings.
+### Learn new skills to break through career ceilings
 
 Sometimes everything seems to be going fine, even though it feels like it doesn’t. When you can’t really put your finger on what’s wrong, because technically, everything is well at your job, that’s often a sign you’ve hit a career ceiling.
 
@@ -46,7 +46,7 @@ For example, if you’re good at organizing, how about actively creating and mar
 
 ## Lesson 3
 
-### Invest in your own character to get ready to take a career jump.
+### Invest in your own character to get ready to take a career jump
 
 But maybe you don’t want to break through a career ceiling. Maybe you want to leave that building altogether, take a career jump, and start your own thing.
 
@@ -67,7 +67,5 @@ Invest in your character whenever you get a chance. All it takes is time, and yo
 Simple, funny, straightforward advice. Jon is really cool. He tries to bring out the best in others, without sounding preachy or like he knows it all. The phrases and formulas he coins make his work more memorable, and it’s easy to recall the concepts later on.
 
 If you’re just not feeling it at whatever work you’re doing right now, *Do Over* is a great book to pick up and learn from!
-
-## Who it’s for
 
 The 19 year old who’s worried about her resume and can take stock of her CSA with Jon’s quiz, the 33 year old with a solid job but not much going on outside of work, and anyone who often looks at their phone when talking to people.

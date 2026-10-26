@@ -58,6 +58,4 @@ Breathwork does an amazing job, and so does unstructured time spent reflecting o
 
 *Lead Yourself First* is a guide for leaders and those who are struggling with becoming leading figures, as it teaches its readers how to find confidence and perspective in solitude. By learning how to shut down unnecessary noise from outside and within, a leader can tap into their own power and discover great insights, clarity, grow their emotional intelligence, and nurture their creativity. This book is a must read for all those who are looking to learn about leadership from great personalities in history, such as Martin Luther King or Winston Churchill, and whoever wants to become more persuasive, confident, and clear in their leadership approach.
 
-## Who it’s for
-
 The 35-year-old project manager who wants to improve their leadership, the 40-year-old person who wants to know more about the great leaders of the world that shaped today’s history, or the 30-year-old introvert who wants to take on more interesting projects at work but knows they have to improve their leadership skills first.

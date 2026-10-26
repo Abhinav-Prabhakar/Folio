@@ -22,7 +22,7 @@ Let’s learn what it takes for a company to continuously reinvent itself!
 
 ## Lesson 1
 
-### Your company’s longevity is determined by a hierarchy of 5 powers.
+### Your company’s longevity is determined by a hierarchy of 5 powers
 
 Many a company that was once the world’s #1 in their industry no longer exists. Motorola. Silicon Graphics. Polaroid. Others are shells of their former selves. Nokia, Kodak, At&T, anyone? Why? Because they consumed their power instead of maintaining it.
 
@@ -40,7 +40,7 @@ If you look at your business through these 5 lenses, you’ll start focusing on 
 
 ## Lesson 2
 
-### Category Power is the most important determinator of whether your business will grow or shrink.
+### Category Power is the most important determinator of whether your business will grow or shrink
 
 In 2010, the world-famous magazine Newsweek was sold for a single dollar. Meanwhile, 3Par, “a not particularly distinguished storage company,” sold for $2.3 billion. Why? Category power. Computer storage was hot, print media was not.
 
@@ -58,7 +58,7 @@ More than anything else, ensure you’re in the right category for what you’re
 
 ## Lesson 3
 
-### Offer Power is how you neutralize, improve upon, and differentiate yourself from the competition.
+### Offer Power is how you neutralize, improve upon, and differentiate yourself from the competition
 
 In 2011, with the iPhone still new-ish and the iPad just out, Apple was the poster child of power. Today, many people claim the company has lost its magic touch. Enter the Apple Vision Pro, their first augmented/virtual reality headset. Where other products are made of plastic, use controllers, and cost around $300, Apple’s is made of metal and glass, works only with your hands, and costs $3,500. Is it perfect? No, but folks are going nuts over it, and that is the point: getting into people’s heads.
 
@@ -77,7 +77,5 @@ You might not be Apple, but if you play your cards right, your company, too, can
 ## Review
 
 Geoffrey Moore’s *Escape Velocity* lays out the cleanest, most practical business analysis framework I’ve ever come across. Whether you’re a big tech CEO or solo creative, I’m sure you will learn something valuable from this book. Oh, and you can even apply the hierarchy of powers to your own life and career, and that comes with plenty of interesting lessons too. A phenomenal book all around!
-
-## Who it’s for
 
 The 21-year-old business student who feels her management classes aren’t teaching her anything, the 45-year-old senior corporate executive who wants to make a real dent in the business strategy, and anyone who wants to launch their own product.

@@ -22,7 +22,7 @@ Ready to stop fighting to feel happy, once and for all? Let’s give ACT a spin!
 
 ## Lesson 1
 
-### People tend to make negative emotions much worse than they have to be by fighting against them.
+### People tend to make negative emotions much worse than they have to be by fighting against them
 
 It’s bad enough to feel stressed, sad, or angry in the first place. Unfortunately, most of us heap lots of additional stress, sadness, and anger on ourselves by trying, and usually failing, to make that bad feeling go away as soon as possible. We believe, on some level, that we should have a high level of control over our emotions. We then find, repeatedly, that we have far less control than we ever thought.
 
@@ -36,7 +36,7 @@ You can also try practicing “expansion.” This visualization technique involv
 
 ## Lesson 2
 
-### Learn to enjoy pleasant feelings when they do arise while realizing that it doesn’t work to pursue them directly.
+### Learn to enjoy pleasant feelings when they do arise while realizing that it doesn’t work to pursue them directly
 
 Telling yourself “thanks, mind!” and expanding into tough emotions might actually work to make you feel happier. However, it’s important to remember that ACT is *not* just another attempt to closely control your emotions.
 
@@ -50,7 +50,7 @@ Try it yourself right now! The next time negative emotions or thought patterns c
 
 ## Lesson 3
 
-### Don’t try to design how you feel, just act on your values.
+### Don’t try to design how you feel, just act on your values
 
 You can’t count on feeling any particular way because emotions are uncontrollable. But you *can* choose how to act each day. Now that you’ve learned to stop struggling against your emotions and ride them out instead, what will you do with your newfound emotional freedom?
 
@@ -61,7 +61,5 @@ You can’t count on feeling any particular way because emotions are uncontrolla
 ## Review
 
 *The Happiness Trap* is a realistic and practical breath of fresh air compared to most shallow discussions of mindfulness and happiness. Because it offers many specific techniques that you can practice at your own pace, *The Happiness Trap* is more like a useful personal development reference book than a one-time read. Even its author, Russ Harris, admits to falling off the ACT wagon sometimes. But with practice, we can all learn to “stop struggling and start living.”
-
-## Who it’s for
 
 The emotionally turbulent 22-year old college graduate facing the “real world” and its disappointments for the first time, the 65-year old retiree who expected to enjoy this new phase of life more than he is, and anyone who scoffs at happiness-related advice but doesn’t know what to do instead.

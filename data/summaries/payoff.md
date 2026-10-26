@@ -20,7 +20,7 @@ Zig Ziglar once said if motivation doesn’t last, that makes it no different fr
 
 ## Lesson 1
 
-### Meaningful work can be miserable, yet still make you happy.
+### Meaningful work can be miserable, yet still make you happy
 
 Do you like your job? I mean really like it? If your pay was cut in half, would you still do it?
 
@@ -38,7 +38,7 @@ Sure, sipping pina coladas all day on a beach would be nice for a while, but the
 
 ## Lesson 2
 
-### Effort engenders meaning.
+### Effort engenders meaning
 
 Dan’s next assumption lends further credibility to his last one: **effort engenders meaning**. The more work you put into something, the more meaningful it will seem to you. This principle piggybacks off one of the strongest biases in humans: the sunk cost fallacy.
 
@@ -50,7 +50,7 @@ As you would expect, the guided group’s origamis looked a lot better. But when
 
 ## Lesson 3
 
-### External motivators aren’t sustainable.
+### External motivators aren’t sustainable
 
 Lastly, and I’m sure this won’t surprise you, Dan found that **external motivators, such as money or (social) status, will work in the short run, but actually hurt your motivation long-term.**
 
@@ -65,7 +65,5 @@ Whatever comes from the inside is a lot more powerful than any carrot or stick c
 ## Review
 
 I hope you enjoyed this little book summary of *Payoff*. It is short, enlightening, fun and entertaining. No fluff, no clutter. *Payoff* is everything a book should be. Just yesterday I took a walk and thought: “Hmm, actually it hasn’t mattered much what I’ve done in life so far, I always had fun doing it.” My guess was that if you give everything you do your best shot, you’ll always consider it worth your while. Sure seems to be true for me. Hypothesis confirmed!
-
-## Who it’s for
 
 The 23 year old student, who keeps complaining about the material she has to study for school, the 37 year old developer, who can’t think of another reason to do his job besides money, and anyone who knows they could put in more effort at work.

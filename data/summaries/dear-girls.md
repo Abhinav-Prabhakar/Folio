@@ -20,7 +20,7 @@ Let’s dive in!
 
 ## Lesson 1
 
-### Traveling abroad is one of the most valuable things you’ll ever do.
+### Traveling abroad is one of the most valuable things you’ll ever do
 
 If you’re born in a village, live in a village, and die in a village, a village perspective is all you’ll ever have. My college friends and I often talk about how different we have become from the people we used to know back home, and for most of us, travel played a large role in that transformation.
 
@@ -34,7 +34,7 @@ From confidence to inspiration to love, there are a million treasures on the roa
 
 ## Lesson 2
 
-### You are more than your race and gender, and the sooner you see yourself beyond those labels, the better.
+### You are more than your race and gender, and the sooner you see yourself beyond those labels, the better
 
 The stand-up comedy industry is dominated by men, white men in particular. Plus, since comedy is full of irony, snark, and dark humor, a lot of sexism and misogyny hides behind the veneer of laughter. From being booed before she even began her set to being patronized by fellow comedians, Wong has witnessed no shortage of “-isms.”
 
@@ -46,7 +46,7 @@ Little tricks like this can help you weather early storms, but remember: In the 
 
 ## Lesson 3
 
-### Remembering your roots can be one of the greatest sources of motivation in your life.
+### Remembering your roots can be one of the greatest sources of motivation in your life
 
 When Wong started hitting the comedy scene of New York City, she could only afford to live in a crappy apartment with six other people. Her living situation was anything but ideal, and she couldn’t wait to get out of there. Whenever she felt like complaining, however, she remembered the sacrifices her family had made for her to be where she was, especially her grandfather.
 
@@ -59,7 +59,5 @@ No one is born from thin air. We all have someone in life who sacrificed so we m
 ## Review
 
 If you like Ali Wong‘s shows, style, and don’t mind a swear word or two, you’ll also enjoy *Dear Girls*. The stories are interesting, the delivery is funny, and the life advice is sound. Given her recent divorce, some of it is to be taken with a grain of salt, but it is a cool concept for a memoir/self-help crossover nonetheless. A book I’d recommend to men just as much as women.
-
-## Who it’s for
 
 The 15-year-old rebellious teenager who needs to learn that bucking trends can be exciting but also get one into trouble, the 29-year-old single woman who’s desperate to find a partner and settle down, and anyone who feels like their life is a comedy of errors.

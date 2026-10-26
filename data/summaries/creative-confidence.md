@@ -20,7 +20,7 @@ Ready to discover the courage you need to begin taking advantage of your inventi
 
 ## Lesson 1
 
-### Creativity isn’t just about making art, and understanding its broader applications will change your life.
+### Creativity isn’t just about making art, and understanding its broader applications will change your life
 
 When I was younger, I didn’t like art beyond the occasional doodle in the margins of my notebooks. I think a lot of this was because adults taught me that art means paintings, which is something I really don’t like much.
 
@@ -36,7 +36,7 @@ A good example is one MRI technician that used innovative thinking to help child
 
 ## Lesson 2
 
-### Although once looked down on, artistic skills are now a valuable asset in the eyes of most companies.
+### Although once looked down on, artistic skills are now a valuable asset in the eyes of most companies
 
 Maybe you’re like me and you remember the time when everybody thought that only artsy people were creative. Or perhaps you’re lucky enough to see just how old fashioned this idea has become.
 
@@ -52,7 +52,7 @@ There’s growing evidence that employers value this skill, too. In an IBM surve
 
 ## Lesson 3
 
-### Find a healthy balance between following your passion and making enough money to have a good career.
+### Find a healthy balance between following your passion and making enough money to have a good career
 
 Do you want to be happy in your work or would you prefer to make a lot of money? It’s a trick question, sort of, because most of us would say something like “why not both?” Unfortunately, trying to take this route only brings you a lot of stress.
 
@@ -71,7 +71,5 @@ Today, I am both an engineer and a writer. I am much happier with my career and 
 ## Review
 
 As someone who is just learning the importance of their creativity, this book is life-changing. *Creative Confidence* is a must-have for anyone who is on a creative journey at any stage. In fact, I think everyone can benefit from this book because we could all use a lot more innovation in all aspects of life!
-
-## Who it’s for
 
 The 30-year-old who is thinking about changing their career to something more creative, the 55-year-old business owner that could use some innovative thinking, and anyone who is apprehensive about doing something more artistic because everyone tells them that it doesn’t make much money.

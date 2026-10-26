@@ -20,7 +20,7 @@ Here’s more about my favorite activity and how it can help you succeed: writin
 
 ## Lesson 1
 
-### Your first freewriting session should follow three rules.
+### Your first freewriting session should follow three rules
 
 Warren Buffett likes to joke that the secret to a happy marriage is low expectations. I’m not sure about that, but for freewriting it sure sets the right context. The whole point of the exercise is to get ideas flowing, so perfectionism would only get in the way. Before you start a stream-of-consciousness session, relax, remember it’s no pressure and put yourself in a 90% mindset, rather than 110%.
 
@@ -36,7 +36,7 @@ So, for a good, first freewriting session:
 
 ## Lesson 2
 
-### Lie all you want in your freewriting. It’s an exercise in creativity.
+### Lie all you want in your freewriting. It’s an exercise in creativity
 
 Reality, psh, so yesterday, right? While most of the time the truth serves us well, freewriting might be the one of the few cases where you can and in fact *should* lie like a trooper. Since it’s an idea practice, abandoning reality for fantasy adds to your creative process. There are two ways you can do this:
 
@@ -51,7 +51,7 @@ The whole point of lying in your freewriting is to question the assumptions you 
 
 ## Lesson 3
 
-### A freewriting habit might just be what you need to finally start your book.
+### A freewriting habit might just be what you need to finally start your book
 
 I really believe everyone of us has at least one book in them. Most people would probably agree. Yet, very few write books. Why is that? Well, writing a book seems – and is – one of the most daunting challenges we can think of. The financial reward potential is terribly low. The work is hard. It takes forever.
 
@@ -66,7 +66,5 @@ Even if you don’t intend to publish a book, keeping an archive of your freewri
 ## Review
 
 Most of science agrees: genius is not a genetic trait reserved for the magnificent few. Instead, what we’ve learned from books like *The Eureka Factor* is that genius happens in serendipitous moments. In Accidental Genius, Mark Levy presents a practice to facilitate these chance encounters in our brain. More freewriting, more firing neurons, more good ideas. That’s the idea. And from over three years of both free and deliberate writing, I can assure you: it works.
-
-## Who it’s for
 
 The 27 year old Physics PhD candidate, who’s gotten weary from writing over her academic career, the 49 year old logistics manager, who’s used to a strict system of rules at work, and anyone who wants to one day write a book.

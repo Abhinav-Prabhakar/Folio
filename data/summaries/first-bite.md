@@ -18,7 +18,7 @@ Want to cultivate healthier eating habits? You’ve come to the right place, her
 
 ## Lesson 1
 
-### Children will make good food choices on their own, if we let them.
+### Children will make good food choices on their own, if we let them
 
 Who had the biggest impact on your eating habits? Your parents, of course! Chances are that, if you were always told to finish your plate, you still eat whatever’s in front of you today, even when you’re already full. Or if your mom always allowed you to snack before dinner, you probably still do that today. The eating habits of our parents become our eating habits.
 
@@ -34,7 +34,7 @@ So don’t stress about letting your kids decide what to eat – especially with
 
 ## Lesson 2
 
-### Grandparents tend to make their children and grandchildren overeat.
+### Grandparents tend to make their children and grandchildren overeat
 
 Did your grandma use to tell you to “have just one more bite” when you were little? Or to finish your entire plate? Or to have dessert, even when you said you were full?
 
@@ -50,7 +50,7 @@ So watch how your parents influence your kids’ eating habits (and your own).
 
 ## Lesson 3
 
-### Know when you’re hungry and when you just “want to eat” to spare yourself plenty of unnecessary calories.
+### Know when you’re hungry and when you just “want to eat” to spare yourself plenty of unnecessary calories
 
 Of course nutritional value is a problem nowadays, with salt, sugar and fat being the primary components of most processed foods. But the worst calories to consume are still the ones you never needed in the first place.
 
@@ -63,7 +63,5 @@ Studies have shown that children can learn to regulate how much they eat within 
 ## Review
 
 Some of the insights in *First Bite* are surprising, others not so much – but all of them are important. This isn’t the most exciting book in the world, but a very necessary one, if you ask me. Awareness is key, it all starts with learning about how we work and what biology and history tell us about eating. A good read!
-
-## Who it’s for
 
 The 12 year old, who’s often forbidden to eat what she wants at home, the 33 year old mom, who’s worried about her kids eating right, and anyone who sometimes finds themselves munching on a snack when they’re not really hungry.

@@ -20,7 +20,7 @@ Ready to unleash your inner rebel upon your business to make it better? Rock’n
 
 ## Lesson 1
 
-### Come up with your own, plain vocabulary to communicate your vision at all times.
+### Come up with your own, plain vocabulary to communicate your vision at all times
 
 A leader can only be a leader when he or she is guiding others *towards* something. That something is your vision. But the word vision itself already infers that while this is a goal you can see, it’s still far out of reach. Your best bet, therefore, to make sure you don’t lose anyone along the way, is to keep talking about and describing it, so everyone else looks in the same direction as you.
 
@@ -34,7 +34,7 @@ Think of what Jack Welch did, when he took over GE: he said “we’re either go
 
 ## Lesson 2
 
-### Give your employees rules of thumb to help them think like you, the CEO.
+### Give your employees rules of thumb to help them think like you, the CEO
 
 Another challenge you’ll likely face is getting your instinct to trickle down your organizational chart. If your staff can’t make good gut decisions, you’ll never be able to give them the responsibility they need to treat your customers the best way possible (for example by issuing $100 gift certificates as apologies for mistakes on their own).
 
@@ -48,7 +48,7 @@ As a result of his transparency, all of Chip’s hosts worked even harder, incre
 
 ## Lesson 3
 
-### Ask your employees a simple question to help them deliver the best level of customer service.
+### Ask your employees a simple question to help them deliver the best level of customer service
 
 Speaking of customer service, it’s the most important area of your business, because that’s where you get to make a human connection.
 
@@ -65,7 +65,5 @@ By coming up with examples, they can directly emulate that behavior try to deliv
 ## Review
 
 I’ll be the first to endorse *The Rebel Rules* and Chip Conley in general. We really don’t need more people following the rules, trying to fit in. We need those who “fit out,” live by their own values and run their businesses their way, because that’s what makes them set up for the long term. Definitely one of the best business books around!
-
-## Who it’s for
 
 The 26 year old with massive ambition to start a successful chain of hotels or restaurant, the 47 year old corporate manager, who sees her employees are in pain over all the bureaucracy they face, and anyone who’s working in customer service.

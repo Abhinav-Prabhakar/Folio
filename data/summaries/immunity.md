@@ -20,7 +20,7 @@ Did you get your flu shot already? If not, here goes!
 
 ## Lesson 1
 
-### Your immune system is a weapon that can work for and against you.
+### Your immune system is a weapon that can work for and against you
 
 Smallpox killed hundreds of millions of people over several thousand years. In the 18th century, it was discovered that milkmaids, who often acquired cowpox, a less dangerous variant of the disease, tended to be immune to smallpox later on. Since the two diseases were closely related, it was hypothesized that being exposed to cowpox could help build immunity and protect people from smallpox.
 
@@ -32,7 +32,7 @@ However, a malfunctioning immune system can turn against you, causing so-called 
 
 ## Lesson 2
 
-### Your body exhibits three different immune responses.
+### Your body exhibits three different immune responses
 
 But how does your body react when a few pathogens – cells that cause diseases – sneak in?
 
@@ -46,7 +46,7 @@ Third, there’s **adaptive immunity**, in which highly specialized cells are pr
 
 ## Lesson 3
 
-### There’s a chance that your immune system might even be able to fight off cancer.
+### There’s a chance that your immune system might even be able to fight off cancer
 
 Cancer is one of the worst diseases of modern times, and even though it has somewhat autoimmune effects, the immune system just might be able to fight it off!
 
@@ -65,7 +65,5 @@ Research like that brings new hope that we might one day see the eradication of 
 Whoa. *Immunity* was a buttload of information to take in. Biology is definitely not my field of expertise, so I guess it’s easier for me to learn more here, but the blinks really knocked it out of the park this time.
 
 I highly recommend you check them out, learn more about the three laws of your immune system and start to understand how this miraculous thing called your body works!
-
-## Who it’s for
 
 The 9 year old with a knack for biology, the 31 year old resident doctor, because hey, catching up on the basics can never hurt, and anyone who’s fought off an infectious disease more than once or has a family member who’s fought cancer.

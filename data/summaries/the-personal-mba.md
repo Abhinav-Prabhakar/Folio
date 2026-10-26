@@ -20,7 +20,7 @@ Ready for the education of a lifetime? Here we go!
 
 ## Lesson 1
 
-### Address one of the four core needs with your product to make selling easy.
+### Address one of the four core needs with your product to make selling easy
 
 Have you seen The Wolf of Wall Street? There’s a scene where Jordan Belfort asks one of his employees to sell him a pen, who then uses a clever trick to make it an easy sale: he asks him to sign a napkin. Of course Jordan hasn’t got a pen, but luckily, the solution is right in front of him.
 
@@ -37,7 +37,7 @@ The next time you strike up a business idea, ask yourself which of these four ne
 
 ## Lesson 2
 
-### Think about the context you deliver your marketing message in, so customers understand it right.
+### Think about the context you deliver your marketing message in, so customers understand it right
 
 Here’s a big one no one thinks about in their marketing: **the way you choose to communicate your message in matters just as much, if not more, than what you actually say**.
 
@@ -55,7 +55,7 @@ Think hard about the medium and channels you choose for your marketing, they mak
 
 ## Lesson 3
 
-### If you ever need to make a deal, do the work up front, so the negotiation becomes easy.
+### If you ever need to make a deal, do the work up front, so the negotiation becomes easy
 
 Sometimes in business, you have to make a deal. Most of us have zero experience negotiating, but here’s a good tip to make it less scary to sit down at a table with someone and work out a contract:
 
@@ -74,7 +74,5 @@ With these things in hand, the negotiation itself will be a lot easier, because 
 *The Personal MBA* is a great book for anyone, who doesn’t have a clue about business, because they mostly study and work in other fields, and for all college business students, because it might spare them another year and a few hundred grand.
 
 You can think of this book as a “START HERE” page on one of the world’s best blogs about business. Highly recommended!
-
-## Who it’s for
 
 The 18 year old high school graduate, who’s interested in chemistry, and doesn’t know the first thing about business, the 30 year old tech-savvy marketer, who considers getting an MBA to boost his career, and anyone who wants to start a business.

@@ -20,7 +20,7 @@ Ready to incentivize your life? Let’s do this!
 
 ## Lesson 1
 
-### Waiting always brings uncertainty, which is why we’d rather have a small reward now, than a big reward later.
+### Waiting always brings uncertainty, which is why we’d rather have a small reward now, than a big reward later
 
 Richard Thaler made a fascinating discovery in 1981. In a study he did, he asked people to choose whether they’d like to receive one apple in one year, or two apples in one year and one day.
 
@@ -36,7 +36,7 @@ Waiting means uncertainty means risk of loss and boy, do we hate losing…
 
 ## Lesson 2
 
-### We hate losing, unless we’re losing something we don’t own yet.
+### We hate losing, unless we’re losing something we don’t own yet
 
 If you give monkeys the option between two slices of an apple with a 50% chance of one being taken away and one slice of an apple with a 50% chance of getting another one, they’ll always choose the second option. Even though the outcome is exactly the same, they’d rather not have something and then lose it, so they never even take the risk.
 
@@ -48,11 +48,11 @@ He created a saving program called “Save More Tomorrow“, which encourages pe
 
 ## Lesson 3
 
-### Use one, gigantic stick to get it together, instead of fiddling around with many little carrots.
+### Use one, gigantic stick to get it together, instead of fiddling around with many little carrots
 
 Once you know that we spend a lot more of our time avoiding losing than chasing the next win, you’ll also understand why sticks (=punishments) work better than carrots (=rewards).
 
-Imagine the government offered you $10 for every cigarette you didn’t smoke. That could add up to a lot of money, couldn’t it? Yet, it’s very unlikely that you’ll give up your precious ciggies, because you don’t mind *not* *getting* those $10 dollars.
+Imagine the government offered you $10 for every cigarette you didn’t smoke. That could add up to a lot of money, couldn’t it? Yet, it’s very unlikely that you’ll give up your precious ciggies, because you don’t mind *not getting* those $10 dollars.
 
 Let’s flip this around. How much more would you fight the urge to take a puff, if I told you that every single cigarette means $10, straight out of your pocket? Not only that, but also, I’d give those $10 straight to Donald Trump. Sounds a lot more powerful, right?
 
@@ -69,7 +69,5 @@ Forget little carrots. Use big sticks.
 I liked *Carrots And Sticks* a lot more than I thought I would. I expected it to re-hash many of the ideas from Freakonomics. That was an unfair judgment. I’m glad I was wrong. There’s lots of good stuff in here, Ian is one serious researcher!
 
 The examples are awesome and some of the arguments he flips around have made things a lot clearer to me. Definite recommend.
-
-## Who it’s for
 
 The 22 year old shopping queen, who can’t resist a good sale, the 27 year old online entrepreneur, with big ambitions, who constantly finds himself out of money at the end of the month, and anyone who’s a smoker.

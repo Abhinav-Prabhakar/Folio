@@ -20,7 +20,7 @@ Do you want to set yourself up for a successful career in a post-Industrial Age 
 
 ## Lesson 1
 
-### There’s no bigger gift you’ve been born with than the ability to choose.
+### There’s no bigger gift you’ve been born with than the ability to choose
 
 In order to help others find their voice, you first have to find your own, obviously. Stephen Covey says how fast you’ll be able to do that depends on how well you use the gifts you’ve been given at birth. There are many advantages we’re born with, just because we’re humans, but according to Stephen, the by far biggest one is this:
 
@@ -41,7 +41,7 @@ Recognizing these powers you have and playing with how you use them is the first
 
 ## Lesson 2
 
-### Be nice, apologize when you have to and deliver on what you promise to build trust.
+### Be nice, apologize when you have to and deliver on what you promise to build trust
 
 Communicating with others comes easiest when your relationship is built on trust. The more you trust in one another, the more things you’ll feel comfortable saying, the more you think about each other’s words and the more likely you are to accept them.
 
@@ -57,7 +57,7 @@ However, trust isn’t a one-way street. It’s not just built by you being trus
 
 ## Lesson 3
 
-### Give up control and hand others responsibility to empower them.
+### Give up control and hand others responsibility to empower them
 
 One of the strongest ways to empower others is to just hand the power to them – literally! That doesn’t mean you should let the intern run the business, but **always keep extending the responsibility and control your employees have over their work**.
 
@@ -70,7 +70,5 @@ By the way, this applies to friendships too! Ask your friends for help, trust th
 ## Review
 
 Mostly directed towards leaders and businesses, I think *The 8th Habit* is also an important book on a personal level. Especially the section about building trust, as it’s become a rare commodity in our short-term oriented world. A modern classic!
-
-## Who it’s for
 
 The 24 year old graduate, who’s already stuck in a job he hates, but doesn’t see how big his freedom to choose really is, the 47 year old supply chain manager, with a very strict approach to rules and leadership, and anyone who knows they often fail to deliver on what they promise.

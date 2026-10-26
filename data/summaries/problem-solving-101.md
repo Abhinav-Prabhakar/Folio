@@ -20,7 +20,7 @@ If you often find yourself jumping head first into solutions that don’t really
 
 ## Lesson 1
 
-### The first step of properly tackling any problem is to break it down.
+### The first step of properly tackling any problem is to break it down
 
 Let’s say you and your partner want to move in together and start a family. You’ve both entered the working world a couple years ago and are now looking to buy a home. However, once you look at your salaries and expenses, you realize you can’t afford the kind of home you want your future kids to grow up in. What could you do?
 
@@ -32,7 +32,7 @@ With a proper breakdown in hand, it’s much easier to analyze the causes and po
 
 ## Lesson 2
 
-### Make sure you analyze all potential root problems and solutions by gathering data and reflecting.
+### Make sure you analyze all potential root problems and solutions by gathering data and reflecting
 
 Of course it’s impossible to be 100% objective when judging what lead to your problem, but that’s where analysis comes in. For each root cause that you marked with a yes in your decision tree, ask what data you need to verify your answer. For example, to see if your salary is below industry average, you can use Google to compare it to several statistics. And to figure out why you didn’t get promoted, ask coworkers when they were last promoted and come up with your own, company-internal data.
 
@@ -42,7 +42,7 @@ That’s why it also applies to all potential solutions you subsequently brainst
 
 ## Lesson 3
 
-### When trying to find a solution, formulate multiple hypotheses, then test them one by one.
+### When trying to find a solution, formulate multiple hypotheses, then test them one by one
 
 Analysis helps you separate the wheat from the chaff when it comes to the sources of your problem, as well as your options to get rid of it. However, the pool of choices you’re left with is still just a set of ideas. There are no guarantees that you’ve identified the correct causes or that executing a chosen solution will actually bring relief.
 
@@ -53,7 +53,5 @@ Whenever you feel lost or don’t know what to do, take an intermediary step of 
 ## Review
 
 Breakdown, analysis, hypothesis, execution. What Watanabe has described here is the scientific method, except he did it in a way everyone can understand. Teaching children this from a young age helps them think on their feet decades later. When they enter the working world, they’ll find real-world problems less complex and confusing. If I ever do come up with a school of life, there’ll definitely be a class called *Problem Solving 101*.
-
-## Who it’s for
 
 The 9 year old third grader, who has a chance to learn proper problem solving right from the start, the 30 year old young professional, who could use a reset on how she tackles problems after college, and anyone who tends to jump to conclusions.

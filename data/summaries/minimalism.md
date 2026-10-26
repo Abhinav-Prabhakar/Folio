@@ -18,7 +18,7 @@ Do you feel life’s promises about work and money have disappointed you so far?
 
 ## Lesson 1
 
-### Paying off all your debt will give you a tremendous sense of freedom and relief.
+### Paying off all your debt will give you a tremendous sense of freedom and relief
 
 Germans tend to have a healthy dose of respect for debt, but in other countries, especially the USA, it’s become so socially normalized that it’s almost weird to *not* have debt. If you look at any collection of graphs about the state of debt, however, it’s easy to get scared fast. It keeps climbing up while wages average down, student debt has eclipsed credit cards, and 50% of all money owed to the US government comes from student debt one way or another.
 
@@ -28,7 +28,7 @@ Whether you start cleaning out your possessions at the same time or not is up to
 
 ## Lesson 2
 
-### You can use the TARA method to accept other people as they are, even if they disagree with minimalism.
+### You can use the TARA method to accept other people as they are, even if they disagree with minimalism
 
 One of the hardest things for self-improvement nerds is that other people often simply don’t care. They enjoy their lives because they’re *not* constantly busy testing a new diet, experimenting with morning routines, or, well, minimalism. That doesn’t make them worse, just different. And instead of trying to change others, it’s much healthier to try and how we deal with them.
 
@@ -43,7 +43,7 @@ You can use this model not just to better deal with the little things that annoy
 
 ## Lesson 3
 
-### Social interactions are centered around our work, but you’re much more than your job. Make sure it shows.
+### Social interactions are centered around our work, but you’re much more than your job. Make sure it shows
 
 Ever since I started working for myself, I’ve had huge problems answering the most common question when meeting new people: “What do you do?” Until now, I’ve usually gone for the cop out “I’m a student” answer, mostly because it’s the easiest. Going forward, I’ll probably go with “writer,” but the truth is I’m doing many things. Chances are, you are too.
 
@@ -54,7 +54,5 @@ No matter how long you’ve been doing it, a job is just a job. You can change i
 ## Review
 
 This is a good book for people first hearing about minimalism and skeptics. It’s about how Ryan and Josh got their start, what they let go of, and what they filled their lives with instead: health, relationships, passion, growth, contribution, and confluence. *Minimalism: Live a Meaningful Life* offers some new perspective on an age-old problem: dealing with excess.
-
-## Who it’s for
 
 The 25 year old college student, who spends $500 on Amazon Prime Day, the 37 year old young father, who’s working hard, but can never seem to find time for his kids, and anyone who feels unfulfilled, despite having everything they want and need.

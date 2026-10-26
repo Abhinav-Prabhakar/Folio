@@ -20,7 +20,7 @@ Are you ready to learn about another new diet program? Let’s take a closer loo
 
 ## Lesson 1
 
-### Plants might make you experience mental cloudiness and weight gain because of the proteins they use to defend themselves.
+### Plants might make you experience mental cloudiness and weight gain because of the proteins they use to defend themselves
 
 We all know that animals evolve to avoid predators. Think of a Monarch caterpillar, poisonous to birds, or a cuttlefish that can change color to avoid being seen. But did you know that plants also have found ways to protect themselves? One secret weapon that a plant has to defend itself is in the form of the protein lectin.
 
@@ -30,7 +30,7 @@ The bad news for humans is that it also causes brain fog and weight issues. One 
 
 ## Lesson 2
 
-### Your body can attack itself when you consume whole-grain foods because of the protein lectin.
+### Your body can attack itself when you consume whole-grain foods because of the protein lectin
 
 The side effects of wheat lectin don’t end at weight gain. But first, we need to understand a little about the way digestion works.
 
@@ -44,7 +44,7 @@ This increases the risk of developing autoimmune disorders such as diabetes and 
 
 ## Lesson 3
 
-### Avoiding certain foods, doing three-day cleanse, and taking supplements will get you on the right track to full health.
+### Avoiding certain foods, doing three-day cleanse, and taking supplements will get you on the right track to full health
 
 Like many diets, the author’s Plant Paradox Program tells you what foods you should cut out of your diet. He believes what you don’t eat is more important than what you do eat because eating the wrong things will lead to a harmful reaction in your body.
 
@@ -59,7 +59,5 @@ Luckily, nowadays we can supplement to get the vitamins our body desperately nee
 ## Review
 
 I’ve been wondering when a book would have me going “what the heck did I just read?!” and this book is it. I don’t know if I believe anything in *The Plant Paradox*! There might be something to the idea that plants defend themselves against predators like us. But why we should discourage things that are *known to help with heart disease and cancer* such as whole grains, legumes, and some vegetables?! I would definitely do my own research after reading this one.
-
-## Who it’s for
 
 The 52-year-old nutrition professor who wants a different perspective on plants, the 34-year-old that is curious about leaky gut because they think they might have it, and anyone who wants to try a semi-crazy diet plan to see if it might work.

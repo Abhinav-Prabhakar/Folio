@@ -18,7 +18,7 @@ If you think these lessons deserve to be explored in detail, stick with me, as I
 
 ## Lesson 1
 
-### Challenging yourself and going through life’s hardships unsheltered will help you grow.
+### Challenging yourself and going through life’s hardships unsheltered will help you grow
 
 We are currently living in a life of utmost comfort. We have constant access to food, shelter, entertainment of all sorts, and whatnot. Growing up, there aren’t many physical challenges we have to face. And ever since helicopter parenting took over, children are being sheltered from the smallest inconveniences and obstacles. However, it’s only in recent history that humans started to live like this.
 
@@ -30,7 +30,7 @@ On his quest to become more grounded, the author found out that stripping away h
 
 ## Lesson 2
 
-### Being by yourself in nature can help you connect with yourself and feel less lonely.
+### Being by yourself in nature can help you connect with yourself and feel less lonely
 
 In a world dominated by technology, which allows us to stay in contact with each other at all times, nearly 50% of Americans claim that they feel lonely.
 
@@ -42,7 +42,7 @@ A good place to start this self-searching journey is, as previously mentioned, n
 
 ## Lesson 3
 
-### Ditch unnecessary comforts and embrace a traditional lifestyle.
+### Ditch unnecessary comforts and embrace a traditional lifestyle
 
 When you’re hungry, chances are you go to the fridge to grab something, or even better, order it from the comfort of your own home. The same goes for when you feel tired, you can easily go to your house and find your bed, or perhaps when you feel bored, chances are you’ll grab your phone and splurge on the many apps it has. Frankly, life isn’t supposed to be lived like this, and doing so is what makes us unhappy.
 
@@ -53,7 +53,5 @@ Try to eat only when you’re hungry, and after a glass of water. Fasting has im
 ## Review
 
 *The Comfort Crisis* addresses the importance of ditching the unnecessary comforts in our life, which may look like they’re helping us carry on with our days more easily, but in fact, they strip us from our happiness. In a world where all necessary resources are one fingertip away, the author decided to embark on a journey to Alaska to know a life without security. In return, he improved his self-confidence, became more grounded, then came back to tell everyone the remarkable benefits of living a simpler life by giving up on the day-to-day comforts.
-
-## Who it’s for
 
 The 25-year-old person who’s passionate about investing and wants to learn about the lives of successful people in the field, the 30-year-old who loves biographies and real-life inspirational stories of top performers, or the 35-year-old who feels lost in their career and wants to get motivated.

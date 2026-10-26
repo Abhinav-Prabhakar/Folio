@@ -18,7 +18,7 @@ Let’s dig in!
 
 ## Lesson 1
 
-### You don’t need a great idea to start a great company. Or any idea, for that matter.
+### You don’t need a great idea to start a great company. Or any idea, for that matter
 
 James Altucher would love this. It’s right in line with his theme of becoming an idea machine.
 
@@ -38,7 +38,7 @@ Being restless and persistent matters much more than having that one in a millio
 
 ## Lesson 2
 
-### Without a core ideology, your company can’t be visionary.
+### Without a core ideology, your company can’t be visionary
 
 A core ideology consists of two things: **a higher purpose and a set of core values**.
 
@@ -79,7 +79,5 @@ I had no idea that *Built To Last* was so popular and such a classic. An incredi
 Lesson 1 was a game-changer for me, I didn’t think you’d need to have a great idea, but I sure thought you had to have one. Imagining just sitting together with 2 good friends, starting a company, and then coming up with something surely puts entrepreneurship into a new light for me. I always knew it was a jump into a cold pool, but this actually makes it sound fun.
 
 I’ve also never seen the idea of a core ideology formulated so clearly. The summary made it really easy to understand, I feel as if I could come up with my own right now. Jim’s follow-up books *Good To Great* and *Great By Choice* are equally as interesting, by the way!
-
-## Who it’s for
 
 The 27 year old who sits on his one business idea, not telling anyone about it, but not acting on it because he’s afraid it might fail, the 47 year old with an itch to start something new, and anyone who repeatedly questions the values of his employer.

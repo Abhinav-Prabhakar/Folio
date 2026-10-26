@@ -22,7 +22,7 @@ Get those blankets and pillows ready, after this you’re going to know how to s
 
 ## Lesson 1
 
-### You cannot be healthy if you don’t sleep well.
+### You cannot be healthy if you don’t sleep well
 
 How much do you think that mankind knows about our own brains? You’d probably believe we know about all of its systems by now, right? Not really.
 
@@ -40,7 +40,7 @@ Research from the University of California in 2015 confirms this. The study disc
 
 ## Lesson 2
 
-### To boost your sleep hygiene, prepare well and use the power of routine.
+### To boost your sleep hygiene, prepare well and use the power of routine
 
 You’ve heard the phrase sleep hygiene before, but what is it? This process involves intentionally designing your environment and patterns before bedtime so your sleep can be as efficient as possible.
 
@@ -62,7 +62,7 @@ Whatever you do, make sure to stay consistent!
 
 ## Lesson 3
 
-### Insomnia is a state of being frustrated about poor sleep quality, it doesn’t come from not getting enough sleep.
+### Insomnia is a state of being frustrated about poor sleep quality, it doesn’t come from not getting enough sleep
 
 One in five people in the United States has insomnia. While it’s pretty prevalent, what’s even more common is the misconceptions about this issue.
 
@@ -81,7 +81,5 @@ Most of the time, this condition comes from anxiety or other medical issues. To 
 ## Review
 
 *The Sleep Solution* blew me away! I’ve summarized a few books on sleep but never heard some of these useful ideas before. I think this could really be the solution to sleep problems of all kinds!
-
-## Who it’s for
 
 The 33-year-old who is constantly telling everyone how tired they are and how little sleep they got, the 56-year-old who thinks that insomnia running in her family means that they can’t ever get over theirs, and anyone that wants to have more energy, become more efficient, and improve their health.

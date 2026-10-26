@@ -18,7 +18,7 @@ Want to unleash your creative potential? Let’s go!
 
 ## Lesson 1
 
-### Success starts with one product. Just one.
+### Success starts with one product. Just one
 
 When Steve Jobs started Apple, how many lines of computers did he and Steve Wozniak build? Zero! They built one single unit of their first computer – the Apple I.
 
@@ -38,7 +38,7 @@ That’s when they slowly started thinking about other products.
 
 ## Lesson 2
 
-### Do things that don’t scale whenever you can.
+### Do things that don’t scale whenever you can
 
 The reason you won’t have enough time to work on 10 products at once is because you’ll be so busy going above and beyond for your first customers – if you’re building a great company, that is.
 
@@ -58,7 +58,7 @@ He’s living proof that this works.
 
 ## Lesson 3
 
-### Always be fully transparent to everyone.
+### Always be fully transparent to everyone
 
 The way Gary does it is by
 
@@ -87,7 +87,5 @@ Creatives aren’t managers for a reason, but nowadays, we all have to be, to so
 Starting with valuable tips around finding a purpose, that reminded me of Simon Sinek’s Start With Why, Jocelyn then shares how to build a company that’s lean (small meetings, fast decisions), focused (start with one product only) and goes the extra mile for its customers.
 
 Lots of examples, lots of great people to learn from, I think I’ll stick with the summary for now, but might get the book for more case studies down the road. I encourage you to do the same.
-
-## Who it’s for
 
 The 27 year old painter, who wants to make her art a business, but doesn’t know where to start, the 52 year old head of PR, who usually tries to keep information shut, but is ready to take a new approach, and anyone who’s building a blog.

@@ -22,7 +22,7 @@ I think I can, I think I can, I think I can think positive! Let’s do this!
 
 ## Lesson 1
 
-### Ask yourself if your thoughts are true, kind, or helpful.
+### Ask yourself if your thoughts are true, kind, or helpful
 
 As much as we said “sticks and stones may break my bones, but words will never hurt me” as kids, we all know now that it’s not true. Words hurt. And it’s the worst when they’re the words you’re telling yourself.
 
@@ -46,7 +46,7 @@ Once you know the soundtracks that need to get the boot, it’s time to replace 
 
 ## Lesson 2
 
-### Borrow soundtracks from people who inspire you and invert old thoughts to better thinking patterns.
+### Borrow soundtracks from people who inspire you and invert old thoughts to better thinking patterns
 
 The good news about unearthing negative thinking is that you can use it against itself by turning it upside down. One of the best places to do this is where you think in absolutes like “I must” or “it has to be perfect” or “I have to finish the whole thing right now.”
 
@@ -68,7 +68,7 @@ Now that you know how to beat negative thinking and get positive soundtracks run
 
 ## Lesson 3
 
-### Embed your new soundtracks into an item to make them permanent.
+### Embed your new soundtracks into an item to make them permanent
 
 In January of this year, I spontaneously bought tickets to Hawaii after a family member raved about it. My family and I had a blast swimming with sea turtles and exploring the island. One of the coolest things we saw as we drove along the coast of Maui was this black sand beach. While there, I picked up a small black rock as my souvenir.
 
@@ -83,7 +83,5 @@ Now I keep the rock in my pocket all the time and pull it out whenever I’m stu
 ## Review
 
 Jon Acuff is hilarious, and his books are really fun to read. I feel like I can relate to him so much that it’s almost like he’s in my head sometimes. *Soundtracks* has got to be one of my favorites of his, and it’s significantly impacted my life for the better.
-
-## Who it’s for
 
 The 42-year-old who takes pride in being a thinker but hasn’t realized how much it’s been holding them back, the 23-year-old that knows exactly what they need to do to be successful but gets stuck in their thoughts, and anyone who is tired of overthinking and wants healthier thought patterns that lead to success.

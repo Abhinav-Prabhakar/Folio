@@ -20,7 +20,7 @@ Let’s delve deeper into the summary by exploring these top lessons in detail, 
 
 ## Lesson 1
 
-### Enjoy the journey and aim for more in your career only when it makes sense for your life.
+### Enjoy the journey and aim for more in your career only when it makes sense for your life
 
 You may not be able to change your current position. But you are always free to choose an option that suits you better. The most important thing is to be happy, whatever job you are doing. It’s very common for employees to be stuck in a rut. So we’ll explore ways to get out of it without having to change your life drastically.
 
@@ -32,7 +32,7 @@ This concept is commonly known as the “hedonic treadmill”. Essentially, it�
 
 ## Lesson 2
 
-### Work on becoming a life reframer by redesigning your work.
+### Work on becoming a life reframer by redesigning your work
 
 Only you can decide whether your job is good enough. You might not be able to find a ‘dream job’ right away, but you can learn how to design your work life. You can choose the aspects of your life that are most important to you and make sure those are aligned with your career.
 
@@ -44,7 +44,7 @@ Once you figure out the right mix, start redesigning your dream job. Ask yoursel
 
 ## Lesson 3
 
-### Use the ARC formula to rediscover motivation in your work life.
+### Use the ARC formula to rediscover motivation in your work life
 
 There’s no such thing as an enjoyable workplace where you are not stressed and you look forward to 100% of the time. Social media, friends, TV, and other sources of information can sometimes paint a bright picture when it comes to our professional life, making people feel like they’re doing something wrong for not feeling absolute joy at all times.
 
@@ -61,7 +61,5 @@ Lastly, competence implies the set of skills you need to perform your job. We’
 ## Review
 
 This is a book that has some innovative, inspiring, and thought-provoking ideas in it; it’s fantastic to read and learn from. As a rather technical subject matter e.g. career change, *Designing Your Work Life* is easy to understand, especially with the explanations of the ‘rules’ at the end of each chapter. It’s an excellent insight into methods other than quitting your job and starting a new one, helping you to find satisfaction in what you have already got. A great read.
-
-## Who it’s for
 
 The 30-year-old who feels stuck at their job, the 40-year-old person who feels too late in life to change their career so they want to redesign the existing one, or the 45-year-old person who wants to learn healthy principles about redesigning their life and embracing their professional journey.

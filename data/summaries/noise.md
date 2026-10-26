@@ -16,11 +16,9 @@ Here are my three favorite lessons from the book:
 
 If you want to fully understand the lessons presented, keep on reading, as I’ll take each of them one by one and analyze them in detail!
 
-### Noise Book Summary
-
 ## Lesson 1
 
-### Our biases can lead to life-altering decisions, so we must learn to spot them to be able to eradicate them.
+### Our biases can lead to life-altering decisions, so we must learn to spot them to be able to eradicate them
 
 All humans make mistakes. However, it is the degree and frequency of those mistakes that alter the course of our path and the lives of those around us. Moreover, if we are in powerful positions, such as heads of admission committees, judges, or any other profession that calls for neutrality and a strong mind that can carry cognitive processes almost err-free, we must eliminate the mistakes and biases completely. Ultimately, it’s a moral responsibility and not just a professional one.
 
@@ -30,7 +28,7 @@ The types of biases are many, but let’s take one in particular for example: th
 
 ## Lesson 2
 
-### Humans are naturally inclined to seek closure and blindly follow a flawed gut when making predictions.
+### Humans are naturally inclined to seek closure and blindly follow a flawed gut when making predictions
 
 Predictions are more accurate when complex algorithms and high-performance machines make them instead of humans. But that’s not something that may come as a surprise. Still, why is that? In simple words, humans are prone to error and subjectivity, and we’re way too confident in our gut’s ability to make predictions. Our brain seeks answers to questions, closure, and that feeling of “rightness”.
 
@@ -40,7 +38,7 @@ Studies show that simple algorithms and basic formulas can outperform judges wit
 
 ## Lesson 3
 
-### Noise gets canceled by averaging the opinions of people through the wisdom-of-crowds.
+### Noise gets canceled by averaging the opinions of people through the wisdom-of-crowds
 
 You may have or may have not heard of the wisdom-of-crowds, but either way, let me explain this remarkable concept in detail. In a nutshell, it states that although the individual opinions of people on a given matter vary and are sometimes completely opposite from each other, once you average them, the result is most likely the correct answer, or not too far from it, anyways.
 
@@ -51,7 +49,5 @@ Then, the crowd must be diversified in a way that they don’t share the same bi
 ## Review
 
 *Noise* teaches us how to spot errors in our thinking and get rid of the undesired variability in our judgment. Learn to address problems step by step, then find the correct solutions. A worthy read from a Nobel Prize winner!
-
-## Who it’s for
 
 The 45-year-old soon-to-be judge who wants to strengthen their mind before starting their journey in this field, the 30-year-old person who wants to work on their cognitive biases and understand their judgment mechanism so as to improve it, or the 40-year-old behavioral economist who wants to expand their knowledge in this field by approaching inter-related subjects.

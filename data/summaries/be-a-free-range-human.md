@@ -20,7 +20,7 @@ Are you excited to figure out how to finally become happy and free? Let’s get 
 
 ## Lesson 1
 
-### Doing work you love is a prerequisite to success, and you’ll discover your passion by asking yourself the right questions.
+### Doing work you love is a prerequisite to success, and you’ll discover your passion by asking yourself the right questions
 
 Sadly, we focus more on paying the bills than living our dreams. The idea that doing what you love and making a living with it isn’t popular, but it’s 100% possible.
 
@@ -39,7 +39,7 @@ Just write freely without editing or thinking limiting thoughts and you’ll be 
 
 ## Lesson 2
 
-### Focus on your strengths, not your weaknesses, but look to what you’re bad at to help you find what you’re best at.
+### Focus on your strengths, not your weaknesses, but look to what you’re bad at to help you find what you’re best at
 
 This is one of my favorite parts of this book and of venturing out on your own. You’ve been sold a lie your whole life that you should improve in all areas to be well-rounded. But guess what?
 
@@ -55,7 +55,7 @@ The author had a job once where she was always being reprimanded for trying to i
 
 ## Lesson 3
 
-### You don’t have to have a complicated business proposal and a lot of money to begin, try something within these four categories.
+### You don’t have to have a complicated business proposal and a lot of money to begin, try something within these four categories
 
 You’ve got to have money to make money, right? Actually, this old saying is usually what makes businesses fail. You don’t need startup capital or a business plan to begin. But you do need to pick the right model.
 
@@ -77,7 +77,5 @@ Finally, we have **advertising**, which just means putting ads on a YouTube chan
 ## Review
 
 *Be A Free Range Human* is awesome!! I loved reading it and partway through realizing that I am a Free Range Human. These tips are just what you need to get there, which is why I highly recommend this book!
-
-## Who it’s for
 
 The 32-year-old who just got let go from his job and is sick of working hard to make somebody else rich, the 51-year-old that wants to become an entrepreneur but isn’t sure where to begin, and anyone that wants the facts about working for yourself and the inspiration to finally pull the trigger and do it.

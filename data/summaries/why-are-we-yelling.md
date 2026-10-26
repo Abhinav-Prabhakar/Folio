@@ -20,7 +20,7 @@ Get ready for a few ways to have more intelligent views about the world! Let’s
 
 ## Lesson 1
 
-### Endless possibilities open up when you pay attention to the different voices in your head and what they’re telling you about opposing views.
+### Endless possibilities open up when you pay attention to the different voices in your head and what they’re telling you about opposing views
 
 Is climate change real? Should we ban guns? Is it a good idea to make vaccination a requirement? These are just a few of the polarizing issues of our times that make us anxious.
 
@@ -39,7 +39,7 @@ These three voices are problematic because they shut down dialogue that can open
 
 ## Lesson 2
 
-### Questions are the golden ticket to make it through disagreements productively.
+### Questions are the golden ticket to make it through disagreements productively
 
 Another tool in your arsenal of arguing effectively is knowing how to ask the right questions. But first, do you remember the game Battleship? You and a partner would arrange ships on a grid that the other player couldn’t see, then ask questions to try to find and sink their ships. What does this have to do with arguments? Well, some of us disagree like we play Battleship, with the intent to destroy our opponents fleet.
 
@@ -53,7 +53,7 @@ Asking instead about the experiences they’ve had that have led to this conclus
 
 ## Lesson 3
 
-### It is possible to disagree with dangerous ideas while also letting them into the conversation, and doing so helps solve these problems.
+### It is possible to disagree with dangerous ideas while also letting them into the conversation, and doing so helps solve these problems
 
 You might have an easy time applying the lessons so far with everyday issues, like what to eat. But hotter topics like gun control or euthanasia can be tough. It’s pretty difficult to even begin to entertain some of the abhorrent viewpoints people have out there. We can start by trying to engage with our head, heart, and hands instead of just ignoring them.
 
@@ -68,7 +68,5 @@ What we need in this day of great polarization is people who are good at arguing
 ## Review
 
 Wow, I am thoroughly impressed with *Why Are We Yelling?* and I believe you will be too. This message and these tactics are what we all need in this day of immature and unintelligent arguments all over the internet and world. I think the little bit of extra understanding that implementing these tactics can bring will go a long way in improving our world.
-
-## Who it’s for
 
 The 54-year-old republican who is set in their ways and thinks everyone who believes differently than him is crazy, the 31-year-old millennial who has too many arguments on the internet, and anyone who cares to try to make the world a better and less conflicted place.

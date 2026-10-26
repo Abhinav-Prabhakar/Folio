@@ -18,7 +18,7 @@ Let’s dig right in and get learning!
 
 ## Lesson 1
 
-### Socialism is a complex term that can look different in certain forms, but all types share common characteristics.
+### Socialism is a complex term that can look different in certain forms, but all types share common characteristics
 
 When I say “socialism,” what comes to mind? Is it Joseph Stalin and the USSR? Fortunately, that is just one of the forms of socialism. And history has seen many others since it came to be in the nineteenth century.
 
@@ -32,7 +32,7 @@ Socialists believe that this is possible because they believe that humans are co
 
 ## Lesson 2
 
-### Capitalism led the way to the beginning of socialism, and from there came two different schools of thought.
+### Capitalism led the way to the beginning of socialism, and from there came two different schools of thought
 
 In the early nineteenth century, the Industrial Revolution changed everything about the way people worked and lived. Booming new factories and industries brought people into crowded and poorly planned cities—- a far cry from the cooperative rural communities they left behind. People lived and worked in horrible conditions. Moreover, the measly wages forced them to compete with each other.
 
@@ -48,7 +48,7 @@ The second answer was revolution. Russian dictator Vladimir Lenin famously champ
 
 ## Lesson 3
 
-### Socialism could have a promising future if people learn from the mistakes from the past.
+### Socialism could have a promising future if people learn from the mistakes from the past
 
 Over the span of the last 30 years, neoliberalism— a type of capitalism that calls for the deregulation of markets and privatization—- has been rising.
 
@@ -67,7 +67,5 @@ While it’s clear there are unanswered questions when it comes to socialism, we
 ## Review
 
 Well, that was a really interesting and eye-opening read! *Socialism* taught me a lot about this government theory that I didn’t know. I think this political system gets a bad rap when really, it began as something much more benevolent than people think.
-
-## Who it’s for
 
 The 19-year-old political science student, the 56-year-old conspiracy theorist who can hardly stand someone even uttering the word “socialism,” and anyone that’s curious to know about the merits of this way of government.

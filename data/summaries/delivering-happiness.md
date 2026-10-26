@@ -20,7 +20,7 @@ Want to deliver happiness too? Let’s go learn how to do it!
 
 ## Lesson 1
 
-### Company culture is more important than customer service.
+### Company culture is more important than customer service
 
 At his first company, Tony Hsieh made the mistake of hiring too many people, way too fast. This hyper growth eventually led to him coming into the office, looking around, and not knowing who half the people even were. Many of these folks turned out to be a horrible fit for the company, which taught Hsieh a valuable lesson:
 
@@ -36,7 +36,7 @@ A big step that helped Tony improve company culture at Zappos was to move everyo
 
 ## Lesson 2
 
-### Be the best at one thing, instead of average at many.
+### Be the best at one thing, instead of average at many
 
 Zappos entire strategy can be summarized in one word: WOW. That’s all they want to hear out of their customers’ mouths. They didn’t try to be the cheapest online store for shoes, not the one with the biggest selection, or the rarest shoes.
 
@@ -50,7 +50,7 @@ You can outsource anything, but not everything. If you decide to create the grea
 
 ## Lesson 3
 
-### Invest everything into your product and let it do your marketing for you.
+### Invest everything into your product and let it do your marketing for you
 
 Being the best in the world is hard. Really hard. Even those companies who might already follow lesson 2 often still spread themselves too thin. Why?
 
@@ -65,7 +65,5 @@ Great phone service helped them get their customers to spread the word in the be
 I do get the message of the Zappos sucess story here. What I’m missing is Tony’s. Not because it isn’t in the book, but because it isn’t in the summary. The book starts with Tony explaining his first attempt at entrepreneurship: a worm farm. He started it when he was 9 years old.
 
 As logical as all the steps above sound, you can’t even remotely guess how much work went into the company and the people behind it by just reading the facts. I recommend you get *Delivering Happiness*.
-
-## Who it’s for
 
 The 27 year old with an idea for a SaaS business, the 54 year old brick and mortar store owner, and anyone who’s working in customer service.

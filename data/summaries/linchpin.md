@@ -18,11 +18,9 @@ Here are 3 lessons about what makes you a linchpin and how to become one:
 
 Determined to become indispensable? Let’s linchpin the heck out of your work!
 
-### Linchpin Summary
-
 ## Lesson 1
 
-### Give your work all you’ve got.
+### Give your work all you’ve got
 
 Maybe you’ve heard of the scenario: A restaurant has to close after the chef leaves, or a car dealership struggles, because their top sales star goes to the competition. In these instances, the people leaving are so-called linchpins.
 
@@ -36,7 +34,7 @@ That’s why they’ll always find work, be treated fairly and businesses are re
 
 ## Lesson 2
 
-### Make a conscious choice to act in spite of your fears.
+### Make a conscious choice to act in spite of your fears
 
 Why then, are there so few linchpins, when it would be easy to stand out by investing a little more than your co-workers. Well, most of us are afraid. From a young age on we’re conditioned to follow the rules, merge with the masses, and hide behind them to stay safe and comfortable.
 
@@ -50,7 +48,7 @@ Don’t let fear steal your determination to do something productive. **Accept t
 
 ## Lesson 3
 
-### Give, give, give, and don’t expect anything for it.
+### Give, give, give, and don’t expect anything for it
 
 Economy used to work like this: “You give me $20, and I’ll give you this DVD of your favorite movie.” Everyone expected something in return for, well, everything.
 
@@ -67,7 +65,5 @@ So if you want to stand out, **start giving like a true artist**, as Seth calls 
 Seth’s ideas stick. Not only because of the great stories he tells and good examples he gives, but also because he always comes up with a catchy name. A *Linchpin*. It sounds so cool I know I want to be one, before I even know what a linchpin is.
 
 Don’t you? Seriously, Seth’s stuff is gold. All of it. It’s a good summary, but you should stock up your Seth Godin collection with this book on your shelf as well.
-
-## Who it’s for
 
 The 29 year old who just started a new job with a new chance to make herself indispensable, the 47 year old who’s always taken the backseat at work to play it safe, and anyone who works as a barista.

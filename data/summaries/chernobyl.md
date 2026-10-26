@@ -20,7 +20,7 @@ Grab your hazmat suit and let’s learn about this disaster of nuclear proportio
 
 ## Lesson 1
 
-### A safety test was at the beginning of the events that led to the meltdown.
+### A safety test was at the beginning of the events that led to the meltdown
 
 Nuclear power plants have a lot of potential to generate significant amounts of clean energy. They do this by making nuclear fission happen. This is easiest with chemicals like Uranium, which are put into rods.
 
@@ -36,7 +36,7 @@ But the test which began in the early hours of April 26, 1986, went horribly wro
 
 ## Lesson 2
 
-### The explosion happened because of a prideful leader, incompetent staff, and a major design flaw that the USSR covered up.
+### The explosion happened because of a prideful leader, incompetent staff, and a major design flaw that the USSR covered up
 
 It’s Friday afternoon and the night crew is beginning their shift at Chernobyl. However, the leader, Yuri Tregub, didn’t feel well-acquainted with the procedure for the test they had to conduct that night. Luckily, or rather unluckily, Anatoly Dyatlov, deputy chief-engineer was there to oversee the operation.
 
@@ -52,7 +52,7 @@ Two explosions tore through the reactor core and sent radioactive material every
 
 ## Lesson 3
 
-### The official response to the disaster was slow, which led to many people dying early from the eventual effects of radiation.
+### The official response to the disaster was slow, which led to many people dying early from the eventual effects of radiation
 
 The Fire Department was the first to arrive on the scene. Little fires were everywhere, but they had to focus on the roof of the building first. Their standard protective gear wasn’t enough to protect them from the intense radiation, however.
 
@@ -71,7 +71,5 @@ This meant that the response was slow. Not only did many of the initial responde
 ## Review
 
 What a chilling story and one that everyone should know about. *Chernobyl* is interesting, heart-wrenching, and frustrating all at the same time. The science of this disaster has always been interesting to me, but I like that this book dives even deeper into the long-term consequences of it.
-
-## Who it’s for
 
 The 20-year-old who is obsessed with the HBO miniseries about this disaster, the 45-year-old that works in a nuclear power plant, and anyone with an interest in nuclear science or catastrophic events.

@@ -18,7 +18,7 @@ Ready to start nourishing your body and mind while still eating good food? Here 
 
 ## Lesson 1
 
-### To improve mental well-being, eat lots of healthy fats and cut out unhealthy fats.
+### To improve mental well-being, eat lots of healthy fats and cut out unhealthy fats
 
 For a long time, fat was given a bad rap. Doctors advised us for decades to switch to “low-fat” foods to lose weight and keep our hearts healthy. Most of this was false, and fat is making a well-deserved recovery in recent years. **Certain fats are actually really good for you, and especially for your brain!**
 
@@ -32,7 +32,7 @@ The bottom line? Not all fats are created equal, so make sure to learn which one
 
 ## Lesson 2
 
-### Fueling your brain with ketones will improve your mental capacities.
+### Fueling your brain with ketones will improve your mental capacities
 
 In normal circumstances, glucose, or sugar is what fuels the brain. It breaks down carbohydrates to their simplest form, glucose, and runs on that. But what if I told you there was a cleaner, more efficient fuel? Ketones are that fuel. Switching the brain to running on ketones is sort of like switching from a gas-powered car to an electric car.
 
@@ -57,7 +57,5 @@ After the first 14 days, you can begin re-introducing certain carbs. Make sure y
 ## Review
 
 *Genius Foods* is an awesome guide for what you need to eat not just to nourish your body, but your mind. It’s full of interesting studies, but my favorite part is that we get an actionable diet plan. Forget Atkins or Paleo, the plan laid out here is simple, doable, and science says it will make you smarter!
-
-## Who it’s for
 
 The 35-year-old who feels like they have a hard time concentrating and thinking clearly, the 55-year-old who knows their genetic susceptibility to Alzheimer’s and wants to do as much as they can to prevent it, and anyone who wants to become smarter and healthier by improving their diet.

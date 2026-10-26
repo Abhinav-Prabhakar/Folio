@@ -22,7 +22,7 @@ Ready for a stroll down your mental circuit board and uncovering some security f
 
 ## Lesson 1
 
-### Life isn’t fair, which makes the rewards of continued effort excessively big.
+### Life isn’t fair, which makes the rewards of continued effort excessively big
 
 Many of the systems we move and live in work in a linear fashion. With every day at work, you get closer to the next promotion. With every exam in school, you get closer to graduation. With every dollar into your retirement plan, you get closer to being able to retire with the same lifestyle, and so on.
 
@@ -38,7 +38,7 @@ This is exactly what The Dip is talking about, the disproportionate size of rewa
 
 ## Lesson 2
 
-### Without our irrational emotions we often couldn’t make decisions at all, we need them.
+### Without our irrational emotions we often couldn’t make decisions at all, we need them
 
 If we were to make every single one of our decisions based on rational reasoning, we would cease to exist, because some choices really are indifferent – neither outcome will make us better or worse off.
 
@@ -50,7 +50,7 @@ Of course, the flipside (pun intended) is that our emotions can also get us to b
 
 ## Lesson 3
 
-### You can use stoicism to deal with the bad kind of randomness and enjoy it when it’s harmless.
+### You can use stoicism to deal with the bad kind of randomness and enjoy it when it’s harmless
 
 Most of what Taleb writes about in this book is supposed to help us eliminate and better deal with the randomness in our lives. However, I liked that he also said it’s not all bad: **randomness can be beautiful when it’s harmless**.
 
@@ -65,7 +65,5 @@ The only thing we have full control over and that’s never forced to be random 
 ## Review
 
 *Fooled By Randomness* is another jam-packed gem full of valuable lessons, which will allow you to live a better life, starting today. How does that mental circuit board of yours look? Marked some short circuits already? I know I have. An absolute must-read!
-
-## Who it’s for
 
 The 21 year old, who just moved out from home, and spends a lot of her time deliberating what to wear and eat, the 59 year old writer, who’s not sure whether the next page is even worth writing, and anyone who has someone with a bad illness in their family.

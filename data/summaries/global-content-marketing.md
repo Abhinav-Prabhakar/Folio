@@ -22,7 +22,7 @@ Now, let’s see what these lessons really mean!
 
 ## Lesson 1
 
-### The four Ps are a great start for a marketer looking to set things in motion.
+### The four Ps are a great start for a marketer looking to set things in motion
 
 Quality content and great promotion can work wonders for your company. But in order to do this, you will need a focused, clear marketing strategy. Therefore, it is important to start with the first P, which stands for **planning**. This means establishing objectives for your campaign and a framework to meet them.
 
@@ -34,7 +34,7 @@ Lastly, you want to work on **perfecting** your content. **We know that no artis
 
 ## Lesson 2
 
-### A company that wants to achieve sustainable, long-lasting growth has to communicate efficiently.
+### A company that wants to achieve sustainable, long-lasting growth has to communicate efficiently
 
 It’s no secret that communication is the key to every healthy relationship.
 
@@ -48,7 +48,7 @@ Before taking on a project, make sure that not only roles but also responsibilit
 
 ## Lesson 3
 
-### Tailored content for customers is the future of marketing.
+### Tailored content for customers is the future of marketing
 
 There are certain things that come to our minds when we talk about personalized content. It implies notions like specific, targeted, unique, and individualistic. But why is that?
 
@@ -61,7 +61,5 @@ You can now personalize the content on a whole new level, offer solutions for a 
 ## Review
 
 Pam Didner offers her readers a winning formula in global marketing. Her valuable insights on understanding audiences make it clear for any reader that the marketing strategies presented will succeed. The book opens up new perspectives on digital marketing, content creation, solid planning in a team, and the newest trends. Reading this piece will allow you to strengthen your company both internally, by creating a better, more structured team, and externally, by implementing the most effective marketing plans of action.
-
-## Who it’s for
 
 The entrepreneur that wants to scale their business and reach wider audiences using digital marketing strategies, the students and graduates who have a passion for marketing, or the start-up founder that wants to gain more knowledge about the business area and the marketing field.

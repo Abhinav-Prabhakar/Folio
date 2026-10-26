@@ -22,7 +22,7 @@ Let’s get right into these ideas and see how much we can learn!
 
 ## Lesson 1
 
-### Everybody that you negotiate with is a human being, just like you.
+### Everybody that you negotiate with is a human being, just like you
 
 Although it would be nice, conversations are never a simple discussion of facts by two people who are completely rational. In reality, you’re always dealing with two different sides to the story, two separate interpretations of reality.
 
@@ -36,7 +36,7 @@ This means addressing and working through intense emotions like fear or anger. Y
 
 ## Lesson 2
 
-### If you want to reach a win-win outcome you must consider every option instead of focusing on one solution.
+### If you want to reach a win-win outcome you must consider every option instead of focusing on one solution
 
 Think of the last time you had to negotiate with someone. Did you go in with a clear picture of what you wanted? Were you committed to making it happen no matter what? Chances are if that was the case then things didn’t turn out how you expected.
 
@@ -53,7 +53,7 @@ Think of all negotiations as having two parts:
 
 ## Lesson 3
 
-### The best results come when you prepare for your negotiations well.
+### The best results come when you prepare for your negotiations well
 
 To get ready for a negotiation, you have to learn as much as possible about all aspects of what you’re about to get into. Compile all the information you can and review it carefully.
 
@@ -70,7 +70,5 @@ It might take time to consider all the details, but doing so will prepare you to
 ## Review
 
 I enjoyed *Getting To Yes*, although it reminded me of a lot of other books on this subject. The good thing about getting even more negotiation tips, however, is that you’ll always need them so you can never have too many! This book is going to be beneficial to a wide range of people, whether you’re in a formal setting or just deciding what movie to watch with your spouse!
-
-## Who it’s for
 
 The 29-year-old who is just getting settled into their career and wants to be better at communicating than their managers are, the 55-year-old married couple that doesn’t have kids living at home anymore but never really learned to express their needs efficiently, and anyone who needs to get to a win-win solution in a conflict.

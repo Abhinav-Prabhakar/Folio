@@ -1,6 +1,6 @@
 # The Eureka Factor
 
-> The Eureka Factor lays out the history of so-called “aha moments” and explains what happens in your brain as you have them, where they come from and how you can train yourself to have more flashes of genius .
+> The Eureka Factor lays out the history of so-called “aha moments” and explains what happens in your brain as you have them, where they come from and how you can train yourself to have more flashes of genius.
 
 ## Overview
 
@@ -18,7 +18,7 @@ Craving a breakthrough (or two)? These lessons will make you go “Aha!” for s
 
 ## Lesson 1
 
-### Every seemingly straightforward idea is only obvious after someone else has told you about it.
+### Every seemingly straightforward idea is only obvious after someone else has told you about it
 
 I’m sure you’ve uttered these six words before: “I could have thought of that!” Happens to me all the time. I look at some invention and say: “Wow, that’s actually quite obvious, why didn’t I think of that?” Even worse are the occasions where I *did* think of the idea, but didn’t implement it, but doing the work is a whole other topic.
 
@@ -34,7 +34,7 @@ He’d clearly made his point.
 
 ## Lesson 2
 
-### You can only have your best insights when you keep your distractions under control – like in the shower.
+### You can only have your best insights when you keep your distractions under control – like in the shower
 
 Whenever you live with someone, please, please don’t rush them when they’re in the shower. Those few extra minutes of quiet might lead them to brilliant insights. But why is that?
 
@@ -46,7 +46,7 @@ The only precondition to this is that you’ve previously given your brain some 
 
 ## Lesson 3
 
-### A good exercise to evoke more eureka moments is to practice distant-future thinking.
+### A good exercise to evoke more eureka moments is to practice distant-future thinking
 
 Your capacity to have eureka moments is to some extent set in your genes – some peoples’ right brain halves are just less inhibited as others’. But before you moan and think it’s all for nothing, there are several things you can do make yourself have more flashes of genius.
 
@@ -61,7 +61,5 @@ Imagine I told you that you’ve just won a trip to Hawaii, but in one case, the
 ## Review
 
 Wow, so many great stories and examples to share from this book. It’s really hard to contain myself to just three here. Lovely combination of storytelling and useful scientific insight, a hidden gem for sure. *The Eureka Factor* is definitely a recommended read!
-
-## Who it’s for
 
 The 25 year old marketer, who feels he’s stuck and can’t come up with a creative way to run his current campaign, the 52 year old PhD scientist, who thinks there’s nothing new left to discover in her field, and anyone who doesn’t know the story of the egg of columbus.

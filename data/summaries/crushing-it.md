@@ -18,7 +18,7 @@ Gary was right in 2009, yet most of us still haven’t started putting our lives
 
 ## Lesson 1
 
-### Personal brands can be monetized in lots of ways, so you don’t need to create your own product.
+### Personal brands can be monetized in lots of ways, so you don’t need to create your own product
 
 When you have a restaurant or brick and mortar store, a personal brand seems like an obvious move. After all, you can use your social media clout to fill the seats or make more sales. But what if you have neither a service, nor something to sell? Well, ask Brittany Xavier from Thrifts and Threads.
 
@@ -28,7 +28,7 @@ Initially, she just documented her life as a young mom for fun on Instagram. Eve
 
 ## Lesson 2
 
-### Gary has seven principles he thinks should mark the base of any social media presence.
+### Gary has seven principles he thinks should mark the base of any social media presence
 
 Gary has a few themes, both in business and in life. They’ve changed little to nothing throughout the years, because they’re virtues of who he is as a person. As such, they’re a big part of how he’s grown his own businesses and personal brand to such massive levels. Here they are:
 
@@ -44,7 +44,7 @@ Regardless of whether you start a brand or not, if you centered your life around
 
 ## Lesson 3
 
-### Instead of worrying about what particular content to create, just document your journey.
+### Instead of worrying about what particular content to create, just document your journey
 
 The part where most people get hung up on, the main reason why they never start creating a personal brand, is that when they sit down to publish, they freeze. “What do I talk about? I don’t have anything to say!” That’s because we look at the process like it’s an artist’s work. But it’s not.
 
@@ -57,7 +57,5 @@ Most of us can’t afford that, but we don’t need to, because we can just use 
 ## Review
 
 I love Gary. He’s one part inspiration, one part strategy, and one part tactics. So is this book. It’s easy to understand, showcases different social media platforms and how they work, as well as presents lots of examples of people *Crushing It*. If you want to check out some more of his books, I’ve written summaries of *Crush It*, *The Thank You Economy*, and *Jab, Jab, Jab, Right Hook*, as well.
-
-## Who it’s for
 
 The 14 year old, who still has all day to build a social media empire, the 47 year old manager, who’s stuck in a job he doesn’t like, and anyone who’s scared a few lines on their resumé will determine their future.

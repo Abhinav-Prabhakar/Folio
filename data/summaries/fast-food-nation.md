@@ -18,7 +18,7 @@ Ready to kiss your favorite burger joint goodbye? You’ll want to find a new on
 
 ## Lesson 1
 
-### Fast food companies target children in their marketing, because they’re impressionable.
+### Fast food companies target children in their marketing, because they’re impressionable
 
 When you think about who to market a product to, one of the first questions that comes up is usually: “Who has the money to buy this?” But the fast food industry found a group of customers that helped them go around this question: children.
 
@@ -34,7 +34,7 @@ Oh and the food has long snuck into schools too. Fast food chains like Subway ar
 
 ## Lesson 2
 
-### Wherever big meat packaging companies go, crime and poverty are on the rise.
+### Wherever big meat packaging companies go, crime and poverty are on the rise
 
 How is it even possible for one cheeseburger to cost $1? I mean, think about how much of the work that goes into one burger you could do if I gave you $1. And that’s not even thinking about profit!
 
@@ -50,7 +50,7 @@ Everything comes at a price. Even if it’s just $1. *Especially* if it’s just
 
 ## Lesson 3
 
-### There’s a worse health issue than obesity that the fast food industry creates, and it affects 130,000 people a DAY.
+### There’s a worse health issue than obesity that the fast food industry creates, and it affects 130,000 people a DAY
 
 You’re probably aware of the big obesity problem in the US, and you’re right to suspect that fast food is largely at fault here. However, there’s an even bigger health issue, one that affects still more people, that you probably have no idea about.
 
@@ -67,7 +67,5 @@ As a result, 130,000 Americans get sick from food poisoning – EVERY DAY.
 ## Review
 
 I’ve eaten at McDonald’s once in the past four years. And once at Burger King. I haven’t regretted it so far and I think neither will you. Read *Fast Food Nation.* Get educated. Choose better food.
-
-## Who it’s for
 
 The 14 year old, who considers getting a job at McDonald’s during school holidays, the 29 year old entrepreneur, who thinks he’ll try a franchise next, and anyone who eats fast food more than twice a month.

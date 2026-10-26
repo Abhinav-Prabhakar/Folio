@@ -20,7 +20,7 @@ Ready to debunk the E-Myth? Let’s do it!
 
 ## Lesson 1
 
-### Having great technical skills does not mean you know how to run a business.
+### Having great technical skills does not mean you know how to run a business
 
 4 out of 5 small businesses never make it past the 5-year mark, which is quite a depressing statistic. Why is that?
 
@@ -36,7 +36,7 @@ If all you know is how to make great coffee, then your first café is very likel
 
 ## Lesson 2
 
-### Think of your business as a national franchise, then start with one store.
+### Think of your business as a national franchise, then start with one store
 
 The solution to that problem, according to Gerber, lies in systems. Ever since McDonalds, businesses have relied on franchising to make handing over the keys easy and comfortable.
 
@@ -52,7 +52,7 @@ Your franchise prototype, combined with a set of detailed manuals for everything
 
 ## Lesson 3
 
-### Build a system of systems, so your business doesn’t rely on people’s skills.
+### Build a system of systems, so your business doesn’t rely on people’s skills
 
 If you continue to weave the idea of systems as a constant thread in your business, you’ll end up with a system of systems, which seamlessly work together.
 
@@ -71,7 +71,5 @@ Instead of doing all the work yourself, it now becomes your job to make sure the
 A very interesting book. The fact that it’s old doesn’t make it any less valuable. If anything, *The E-Myth Revisited* is even more relevant today, as more people than ever start their own businesses – and more than ever fail.
 
 Gerber advocates doing a lot of thinking on the front end to prevent you from maneuvering yourself into a situation you can’t get out of. Incredibly thorough and helpful read!
-
-## Who it’s for
 
 The 22 year old barista with an itch to start her own café, the 49 year old restaurant owner, who slowly has to think of retirement options, and anyone who’s started a business that’s failed.

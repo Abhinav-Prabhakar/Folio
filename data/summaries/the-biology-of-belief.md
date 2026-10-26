@@ -22,7 +22,7 @@ If you are ready to uncover some mysteries of life, let’s waste no more time. 
 
 ## Lesson 1
 
-### Charles Darwin wasn’t the first to come up with the theory of evolution.
+### Charles Darwin wasn’t the first to come up with the theory of evolution
 
 I know, right? Reading this, you may at first think that it’s a misunderstanding. Surely we call Darwin “the father of natural selection” for a reason?
 
@@ -38,7 +38,7 @@ Lamarck understood this process differently. According to him, species learn to 
 
 ## Lesson 2
 
-### Genes don’t determine our lives to the extent that our environment does.
+### Genes don’t determine our lives to the extent that our environment does
 
 The notion that our genes primarily determine our lives became widely accepted in the 20th century. As a result, people came to believe that much of their health, psychology, and disease predisposition is hard-wired into their biology and hence, beyond control.
 
@@ -48,13 +48,13 @@ It wasn’t until his moment of epiphany while working in the Caribbean that he 
 
 > *“Suddenly I realized that a cell’s life is fundamentally controlled by the physical and energetic environment with only a small contribution by its genes. Genes are simply molecular blueprints used in the construction of cells, tissues and organs. The environment serves as the “contractor” who reads and engages those genetic blueprints and is ultimately responsible for the character of a cell’s life.”*
 
-That realization was a transformative moment, both for Lipton and for modern biology. **It endorsed the notion thatgenes only determine a small part of who we are – and that we can shape our own destiny to a previously unimaginable extent.**
+That realization was a transformative moment, both for Lipton and for modern biology. **It endorsed the notion that genes only determine a small part of who we are – and that we can shape our own destiny to a previously unimaginable extent.**
 
 ## Lesson 3
 
-### Your parents influence on you started in the womb.
+### Your parents influence on you started in the womb
 
-**The logical conclusion of what Lipton discovered was thatour environment shapes us from the earliest stages of our lives.** This means that from the moment of conception, every human, or any other organism, is influenced heavily by their parents.
+**The logical conclusion of what Lipton discovered was that our environment shapes us from the earliest stages of our lives.** This means that from the moment of conception, every human, or any other organism, is influenced heavily by their parents.
 
 It’s easy to see the impact of the parenting we receive as children on the rest of our lives. For example, most people understand that if a child repeatedly hears that he or she is “stupid” or “weak,” this is likely to influence their self-image in the later years.
 
@@ -67,7 +67,5 @@ However, the good news is that later in life we can still re-wire even the earli
 ## Review
 
 Eye-opening and easy to read, *The Biology of Belief* is a book that I would recommend to all the curious ones. You may even realize that what you once thought were “scientific facts,” are actually just *beliefs*. Lipton’s writing has an amazing quality of conveying complicated concepts in a very comprehensive way that anyone can understand.
-
-## Who it’s for
 
 The 28-year-old medical college graduate who doesn’t want to rely solely on pills she prescribes, the 41-year-old psychotherapist who wants to expand his knowledge about human psyche and physique, and anyone who loves to dig deeper into big questions about the nature of life.

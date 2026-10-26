@@ -20,7 +20,7 @@ Are you ready to crack *The Talent Code*? Let’s analyze it together!
 
 ## Lesson 1
 
-### You can hardwire any skill into your body by developing more myelin in your brain.
+### You can hardwire any skill into your body by developing more myelin in your brain
 
 Here’s what happens in your brain when you think a thought, feel angry, or raise your left foot: The electrical energy in your brain increases, until it crosses a certain threshold called the action potential. Once crossed, electrons are fired off in one neuron (a node in your network of nerve cells), and start traveling towards the next.
 
@@ -38,7 +38,7 @@ Therefore, the more myelin you develop, the better any skill gets hardwired into
 
 ## Lesson 2
 
-### Deep practice is how you grow myelin, and it consists of two parts.
+### Deep practice is how you grow myelin, and it consists of two parts
 
 That’s where what the author calls deep practice comes in. It’s based on three things:
 
@@ -54,7 +54,7 @@ This will inevitably lead you to making mistakes, like missing notes or playing 
 
 ## Lesson 3
 
-### Whatever you’re practicing, chunk it up into the smallest, possible units.
+### Whatever you’re practicing, chunk it up into the smallest, possible units
 
 Lastly, to fix mistakes, you have to spot them. That is easiest when you chunk down your practice into its smallest, possible units.
 
@@ -71,7 +71,5 @@ In my case, as a writer, I could try to write 20 different versions of just one 
 *The Talent Code* is grounded in science. Biology, to be exact. I like that. It doesn’t skip straight to the “here’s how it works, go do that”, but lets you understand where learning comes from. Once you know these things, you’ll have a better sense of what’s going on as you’re learning, which makes it easier to endure the process.
 
 Talent is awesome, but you can code your own. This book shows you how, thumbs up for that!
-
-## Who it’s for
 
 The 31 year old, who understands the value of deliberate practice, but not where it comes from, the 72 year old, who just decided to pick up a new hobby and become a master of retirement, and anyone who tries to become a world-class athlete.

@@ -20,7 +20,7 @@ Feel like exploring these lessons a little bit more? I’ve got each one detaile
 
 ## Lesson 1
 
-### Foster a healthy working environment by addressing discrimination and minorities’ rights.
+### Foster a healthy working environment by addressing discrimination and minorities’ rights
 
 Today’s society is quite different compared to a few years back. On the good side, people are more open and vocal when it comes to their problems, which in turn builds connectivity and trust. On the bad side, some people abuse this new phenomenon and feel offended and discriminated for no reason, and some may even sue.
 
@@ -32,7 +32,7 @@ It’s easier said than done, indeed. However, if big companies like Starbucks, 
 
 ## Lesson 2
 
-### Avoid burnout by working within your own limits and not forcing yourself.
+### Avoid burnout by working within your own limits and not forcing yourself
 
 The modern culture of work implies spending long hours at your job, having a side hustle if possible, learning skills continuously and maintaining a personal life on top of all. Not only is this detrimental to our physical and emotional health, but it’s also counterproductive.
 
@@ -44,7 +44,7 @@ If you’re an employee, think of it this way: do you want to reach burnout? Of 
 
 ## Lesson 3
 
-### Your fear of missing out is causing you anxiety.
+### Your fear of missing out is causing you anxiety
 
 New generation, new problems. The seniors and the aged adult working force of today spent their life at the same job, rarely changing it. In contrast to that, the younger generation is more dynamic than ever. People change jobs faster than ever before, sometimes even after only a few months.
 
@@ -57,7 +57,5 @@ Building a career takes time, and not everyday can be exciting and challenging, 
 ## Review
 
 *Anxiety at Work* addresses a series of important topics, from employee mental health, to sources of anxiety and how to avoid discrimination and burnout at work. Reading this book is imperative for every manager, executive or team leader, as well as for employees who want to set healthy professional boundaries and have a balance between their job and personal life.
-
-## Who it’s for
 
 The 40-year-old team leader who wants to be a better manager and improve their team’s spirit, the 55-year-old CEO who wants to internally rebrand their organization into a more open, learning environment, and anyone who wants to become a team leader.

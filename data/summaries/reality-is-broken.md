@@ -20,7 +20,7 @@ Ready? Loading…loading…aaaaand….press play!
 
 ## Lesson 1
 
-### We can get far more motivation and rewards from games than we ever could from real life.
+### We can get far more motivation and rewards from games than we ever could from real life
 
 Guess how many teens play video games in one format or the other. 97%. Yes, video games have become a central part of society. It’s no coincidence that Youtube’s biggest channel is a gamer. However, the most common comment about people spending a lot of time playing video games is that it’s just some form of escapism.
 
@@ -37,7 +37,7 @@ So yes, there’s real value to be gained from playing video games!
 
 ## Lesson 2
 
-### You can turn your boring housework into an awesome experience by gamifying it.
+### You can turn your boring housework into an awesome experience by gamifying it
 
 On a scale of 0 to 10, how excited do you get about cleaning the bathroom, vacuuming or buying groceries? For me, I’d say I’m at -4 😀 Chores are a typical example of something in your life that isn’t really hard or actively getting you down – they’re just boring and thus make life feel dull.
 
@@ -49,7 +49,7 @@ Of course housework is just the start. You can really turn *anything* into a gam
 
 ## Lesson 3
 
-### Long-time gamers develop a set of seriously valuable skills that they can use in the real world.
+### Long-time gamers develop a set of seriously valuable skills that they can use in the real world
 
 Many parents are worried that if their kids spend so much time playing video games, they’ll end up irresponsible, dependent, and unable to live a life of their own. Looking at how many games I played as a teenager, I can understand their concern in retrospect – but it’s mostly unfounded.
 
@@ -66,7 +66,5 @@ The world has become a pretty fast-paced place, so it seems like gaming is actua
 ## Review
 
 I’m a gamer, so what do you expect me to say about this book? I’ve been in “camp Jane” for years now, so I can wholeheartedly endorse her work. Whatever you do, don’t deny the reality of video games. They’re happening. And even if you’re not a fan, try to adapt and make the most of our current situation. *Reality Is Broken* is a good way to start that process.
-
-## Who it’s for
 
 The 16 year old passionate gamer nerd, the 57 year old housewife, who thinks chores are boring, and anyone who thinks video games are a waste of time.

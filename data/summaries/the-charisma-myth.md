@@ -20,7 +20,7 @@ Let’s learn how to become more influential, more persuasive, and more inspirin
 
 ## Lesson 1
 
-### Presence, power, and warmth are the key factors for developing charisma.
+### Presence, power, and warmth are the key factors for developing charisma
 
 With the rise in never-ending distractions from smartphones and technology, the skill of staying present in a conversation is becoming rare. We all want others to understand and listen to us. So if you master the art of being present, you’ll distinguish yourself from the crowd and make people feel heard.
 
@@ -32,7 +32,7 @@ The author gives us three visualizations to remember all three traits. First, im
 
 ## Lesson 2
 
-### Find your charisma style to stay yourself while developing charisma.
+### Find your charisma style to stay yourself while developing charisma
 
 You don’t need to force charisma by copying it from another person. **Everyone is unique and you can find your own charisma style that suits your personality, goals and the situation you’re in.** There’s no “one-size-fits-all” solution for being charismatic. So knowing the different styles will help you pick your own style.
 
@@ -42,7 +42,7 @@ To decide which charisma style you should choose, you can follow certain rules s
 
 ## Lesson 3
 
-### Charisma begins in your mind, so you must prepare yourself to face the internal obstacles.
+### Charisma begins in your mind, so you must prepare yourself to face the internal obstacles
 
 The biggest charisma destroyers arise in your mind. They include self-doubt, impatience, annoyance, irritation, and so on. **Your internal mental states influence your body language and words, which can make or break your charisma because they define how present, powerful and warm you’ll be in a situation**. The author suggests some powerful tools to combat such internal obstacles.
 
@@ -53,7 +53,5 @@ Next, you can neutralize negativity by labeling them and realizing that your per
 ## Review
 
 *The Charisma Myth* is an absolutely amazing book on social skills. It’s a fun, quick read that is packed with practical tips and covers the art and science of becoming more charismatic. The analogies, examples, strategies, and tools are helpful for anyone who wants to become more charismatic.
-
-## Who it’s for
 
 The 21-year-old man getting ready to start his career, the 38-year-old woman who wants to lead a team, and anyone who wants to be more charismatic.

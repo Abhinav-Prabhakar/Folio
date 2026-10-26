@@ -20,11 +20,9 @@ In the meantime, here are 3 lessons from the book:
 
 Chances are your view of higher education is warped. I know mine was. Let’s remove the filter, okay?
 
-### Excellent Sheep Summary
-
 ## Lesson 1
 
-### Most elite college graduates end up in financing or consulting, because they don’t know what they really want and feel lost.
+### Most elite college graduates end up in financing or consulting, because they don’t know what they really want and feel lost
 
 First of all, the problems with our educational system aren’t limited to elite schools like Harvard, Yale (where the author is a professor) and Columbia. The system as a whole is fundamentally broken, and it shows. According to a 2010 study by the American Psychological Association, almost 50% of students report a feeling of hopelessness and over 30% admit being so depressed that they find it hard to function normally throughout the year.
 
@@ -36,7 +34,7 @@ Because most students and recent graduates don’t even have the time to do the 
 
 ## Lesson 2
 
-### The most prestigious college institutions are run like businesses, not schools, so they miss the point of education.
+### The most prestigious college institutions are run like businesses, not schools, so they miss the point of education
 
 The reason students feel lost lies, at least in part, with the way the colleges they attend are run. Especially prestigious schools suffer from monetization, because the more money a college has and makes, the more it’s run like a business, not a school. For example, TU Munich has a budget of almost 800 million €, in case of Harvard and co., we’re talking about billions.
 
@@ -48,7 +46,7 @@ If on a 0.0-4.0 scale, the average is 3.43, the scale is either wrong, or the nu
 
 ## Lesson 3
 
-### Originally, college was a time of self-discovery and learning to think critically, and we need to go back to that.
+### Originally, college was a time of self-discovery and learning to think critically, and we need to go back to that
 
 …learning how to think for themselves. When you graduate high school at 18 years old, you have a whole ton of ideas and beliefs about the world – most of which aren’t your own. Your parents, your teachers, your friends, they’ve all majorly shaped your views and values.
 
@@ -66,7 +64,5 @@ So wherever you go to school, remember: don’t rush. Take your time, ask questi
 ## Review
 
 I’m not sure William Deresiewicz’s solution of encouraging more people to get liberal arts degrees is enough to address this problem, especially seeing how much I’ve learned during the last two years about making money in ways which don’t require a college education at all, but he’s sure right in shining a light on the problem. I’d recommend *Excellent Sheep* to any current college student or recent graduate.
-
-## Who it’s for
 
 The 17 year old high school graduate, who’s deliberating what should be her next move, the 22 year old college student, who’s unhappy with most of his subjects and not sure what career to choose, and anyone who works in finance or consulting, but isn’t really passionate about it.

@@ -18,7 +18,7 @@ Ready to fix the sobering fact that *Nobody Wants to Read Your Sh*t*? Here we go
 
 ## Lesson 1
 
-### Every piece of writing must have a concept.
+### Every piece of writing must have a concept
 
 Steve started his writing career as a copywriter when he was 19. One of the first things he learned in the world of slogans is that each campaign must put a unique spin on an existing idea. Everyone hates commercials and most people even hate reading, so whatever you float in front of their eyes better cause strong emotions.
 
@@ -30,7 +30,7 @@ Before you write the first line, come up with a concept.
 
 ## Lesson 2
 
-### Writers solve problems.
+### Writers solve problems
 
 Thousands of hours of writer’s block are caused around the world each and every single day by two seemingly simple questions:
 
@@ -45,7 +45,7 @@ All writing solves problems, whether it shows us how to make a lasagna in seven 
 
 ## Lesson 3
 
-### Three-act structure applies to all writing.
+### Three-act structure applies to all writing
 
 Boy loses his father, evil servant takes the throne, orphan prince grows up and wins it back. That’s *The Lion King.* And, with a few tweaks, a sub-plot in *Lord of the Rings*, *Aladdin* and *Prince of Persia.* All fantastic stories with the *exact* same three-act structure. That’s how universal this idea is.
 
@@ -57,8 +57,6 @@ This applies to fiction, non-fiction, page 17 news articles and anything in-betw
 
 ## Review
 
-If you’re a writer, especially a young writer, get this book *.* You’ll learn all the most important fundamentals you haven’t heard of, and then some. If you’ve honed your craft for a while already, and have consumed all the classics, Steve might not tell you anything new, but it’ll be a refreshing reminder of core writing concepts nonetheless. This belongs in every writer’s arsenal, in my opinion.
-
-## Who it’s for
+If you’re a writer, especially a young writer, get this book*.* You’ll learn all the most important fundamentals you haven’t heard of, and then some. If you’ve honed your craft for a while already, and have consumed all the classics, Steve might not tell you anything new, but it’ll be a refreshing reminder of core writing concepts nonetheless. This belongs in every writer’s arsenal, in my opinion.
 
 The 26 year old writer, who wants to make a living writing books and articles about stuff that fascinates him, the 50 year old working mother, who knows she’s got a book inside her, and anyone who tells their story online in video, writing or audio.

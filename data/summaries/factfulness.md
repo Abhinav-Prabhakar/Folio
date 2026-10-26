@@ -18,11 +18,9 @@ Here are my favorite 3 and the lessons I learned from debunking them:
 
 The world is trying hard to hide the facts from you on a day-to-day basis. Let’s learn how to find them anyway!
 
-### Factfulness Summary
-
 ## Lesson 1
 
-### The East vs. West mentality is outdated. We all share this planet.
+### The East vs. West mentality is outdated. We all share this planet
 
 There are two kinds of people in the world: those who divide the world into two kinds of people, and those who don’t. What I hope to be a clever Quora answer of mine is also one of the first points Rosling makes. He calls it ‘the gap instinct.’ It’s our tendency to want to see things as black and white. The example he uses to illustrate it is the classic division of the world into East and West.
 
@@ -32,7 +30,7 @@ If we use child mortality, for example, only 13 countries could be considered �
 
 ## Lesson 2
 
-### Increasing population growth is blown out of proportion, because it’s likely to level off rather soon.
+### Increasing population growth is blown out of proportion, because it’s likely to level off rather soon
 
 A second megamisconception, as Rosling calls these ideas that are rooted deeply, but incredibly wrong, is that of our impending doom due to exponential population growth. Books like *The World Without Us* elaborate on the idea that one day, nature will conceive devastating diseases and catastrophes to rid itself of the growing damage from humans. But while our growing numbers are sure a cause for concern, they might never hit apocalypse-worthy levels.
 
@@ -42,7 +40,7 @@ There are three biases that prevent our feelings from matching the numbers: the 
 
 ## Lesson 3
 
-### The only thing that allows you to see the world as it really is is to look at everything from multiple angles.
+### The only thing that allows you to see the world as it really is is to look at everything from multiple angles
 
 Democracy is one of the 21st century’s most popular ideas, because in it, Western countries have thrived. But right now, most of the fastest-growing countries aren’t democratic, indicating it’s not the only political system that works. And yet, we tend to see it as the ultimate end goal for any ‘developing’ nation.
 
@@ -53,7 +51,5 @@ Also, when getting your information online, it’s always best to read multiple 
 ## Review
 
 *Factfulness* is only one of many books in a long, recent line of works that help us fight our biases. It delivers its research in a way that’s easy to understand and uses great examples to help us see clearly. If Bill Gates can learn something from it, I’m sure we can too.
-
-## Who it’s for
 
 The 18 year old graduate, who’s just starting to regularly read the news, the 45 year old developer, who never left his town, and anyone who’s really worried about population growth.

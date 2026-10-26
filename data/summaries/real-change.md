@@ -54,6 +54,4 @@ To get a better view of the world and face problems with compassion rather than 
 
 *Real Change* offers a different approach to improving your mentality, problem-solving skills, and perspective on life, starting from within. This book will teach you how to address hardship through meditation, face challenges with an unbiased mind, and find peace in the everyday chaos so that you don’t feel frustrated and anxious any more. If you’re struggling with a nervous mind, lacking a way out of your issues, or simply want to change your life for the better, this book is for you.
 
-## Who it’s for
-
 The 30-year-old modern woman who feels overwhelmed with her busy schedule and wants to feel less anxious, the 40-year-old who feels stuck in life and is looking for mental peace, or the 28-year-old who can’t focus thier mind on their goals and wants to improve themselves through meditation.

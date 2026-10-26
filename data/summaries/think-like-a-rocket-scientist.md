@@ -26,7 +26,7 @@ Ground control to Major Tom! Let’s get right into it and learn how to *Think L
 
 ## Lesson 1
 
-### You’ll become great at innovating only when you stop following the crowd.
+### You’ll become great at innovating only when you stop following the crowd
 
 Elon Musk’s journey to creating SpaceX wasn’t easy. It began with a $20 million problem when he couldn’t afford to build even one rocket. But that was based on thinking he had to do it like everybody else.
 
@@ -44,7 +44,7 @@ And pretty soon you’ll be solving problems and achieving goals you never imagi
 
 ## Lesson 2
 
-### If you want your chances of success to skyrocket, test test test.
+### If you want your chances of success to skyrocket, test test test
 
 A few months ago I was scrolling through Reddit when I saw that NASA was accepting applications for astronauts. I’ve always been mesmerized by the idea of going to space, so I clicked on it.
 
@@ -60,7 +60,7 @@ Keep trying everything you can think of to prepare, and push yourself to your li
 
 ## Lesson 3
 
-### Even when you are doing well you need to look at your failures so you can learn from them and improve.
+### Even when you are doing well you need to look at your failures so you can learn from them and improve
 
 You’re working hard toward your goals, experiencing successes along the way. But inevitably, at some point, you stumble and fail. It’s one thing to follow the crowd and get up and try again, but it’s another to learn from the failure and adapt.
 
@@ -77,7 +77,5 @@ Even if you succeed at something that doesn’t mean you didn’t make mistakes 
 ## Review
 
 I couldn’t help but geek out at almost everything I learned from this book. It’s so awesome to be able to learn how to *Think Like A Rocket Scientist* from the experiences of rocket scientists! I’ve always thought that the problem-solving techniques engineers use are really applicable in all aspects of life, and I’m glad this book identified how.
-
-## Who it’s for
 
 The 53-year-old manager that wants to find better ways to innovate, the 28-year-old who has big hopes and dreams but struggles with fear, and anyone that’s curious how rocket science can help you reach your full potential!

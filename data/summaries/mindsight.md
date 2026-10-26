@@ -20,7 +20,7 @@ Out of all the possible jedi mind tricks you could learn, mindsight is by far th
 
 ## Lesson 1
 
-### Imagine yourself as a river to stay calm and balanced.
+### Imagine yourself as a river to stay calm and balanced
 
 This is it. If I could only ever give you three lessons to live by, this would be one of them. It’s been one of the core things that’s allowed me to live a very happy life so far. Ready for it?
 
@@ -36,7 +36,7 @@ This means accepting that it’s normal for your actions, emotions and thoughts 
 
 ## Lesson 2
 
-### Practice the three key aspects of mindsight with different exercises: observation, objectivity and openness.
+### Practice the three key aspects of mindsight with different exercises: observation, objectivity and openness
 
 The reason the above exercise helps is that it shows you that **your emotions aren’t character traits** – they’re fleeting experiences in your life, nothing more. This is great because it gives you control and makes them much less frustrating to deal with.
 
@@ -52,7 +52,7 @@ Keep practicing these and you’ll become the most balanced human being you know
 
 ## Lesson 3
 
-### Try to be receptive, not reactive in your relationships with loved ones.
+### Try to be receptive, not reactive in your relationships with loved ones
 
 We all fight with our partners. Whether you’re married, in a relationship, or even single and still waiting for someone special, you know that arguing is a natural part of any (not just romantic) human relationship.
 
@@ -67,7 +67,5 @@ And if things get really heated, you can try taking a time out from the fight, p
 ## Review
 
 What a beautiful book. I had no idea this’d turn out to be that important. But I think it outlined some of the most important ways in which you can develop mindfulness – and *stay* mindful. Again, lesson 1 has been one of the best things I’ve learned in my humble, 25-year old life, making *Mindsight* a must-read, if you ask me.
-
-## Who it’s for
 
 The 16 year old nerd, who feels isolated at school, and is getting more and more frustrated with his peers, the 31 year old sales manager, with a tough time regulating her temper, and anyone who’s lost a relationship because they were reactive, not receptive.

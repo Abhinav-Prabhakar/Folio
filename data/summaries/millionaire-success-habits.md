@@ -20,7 +20,7 @@ Could this be the book that changes your life forever? Read on to find out more!
 
 ## Lesson 1
 
-### The seven levels of why exercise will help you find the motivation and energy to start and continue your path to wealth.
+### The seven levels of why exercise will help you find the motivation and energy to start and continue your path to wealth
 
 Dean tells of an experience he had when he hired a consultant named Joe Stump to help get his readers and students more engaged. **Joe teaches Dean the “Seven Levels Deep” exercise, which is simply just asking yourself the question “why?” seven times.** It’s a small thing that made a big impact on Dean and can do the same for you.
 
@@ -32,7 +32,7 @@ Having a purpose is good, but there’s another power to this exercise too. When
 
 ## Lesson 2
 
-### Give up on your weaknesses, focusing on your strengths is the holy grail of a happy, productive life.
+### Give up on your weaknesses, focusing on your strengths is the holy grail of a happy, productive life
 
 This single lesson is likely responsible for 90% of the changes I’ve been through in the last year. When I first read this book, I was in a rough place. Working in a job I wasn’t pumped about was just the tip of the iceberg. I was battling depression, slogging through graduate school, and never feeling like I could get ahead.
 
@@ -46,7 +46,7 @@ If you want to live within your strengths, start by finding them. Ask the people
 
 ## Lesson 3
 
-### Let your inner hero awaken and take control of your life.
+### Let your inner hero awaken and take control of your life
 
 Now that you know your superpowers you need to wake up the hero inside of you. One example of someone who did this was a woman named Carol. She was down in the dumps with no money or food when she bought Dean’s book. That’s when things started turning around for her.
 
@@ -66,7 +66,5 @@ To have courage, you must believe that your efforts, even if scary, will bring r
 ## Review
 
 I love *Millionaire Success Habits*, it’s one of the most influential habits books I’ve ever read. The advice seems so simple, but the way Dean shares it with such passion and personality has had a real impact on me. My life has completely turned around over the last year since getting and reading this book, and I’m confident yours will too if you read it!
-
-## Who it’s for
 
 The 29-year-old who is in a career they don’t like and is tired of working on all of their weaknesses, the 43-year-old who longs to earn more money but doesn’t feel confident in their abilities, and anyone who wants a fire lit inside of them to go out and be their best selves.

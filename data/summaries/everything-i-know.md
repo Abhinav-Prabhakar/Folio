@@ -18,7 +18,7 @@ I hope you’re feeling adventurous – buckle up!
 
 ## Lesson 1
 
-### Let your most important guide in life be your own, inner values.
+### Let your most important guide in life be your own, inner values
 
 Here are some of the external yardsticks the world gives us to measure our worth by, which we usually happily take and compare ourselves with:
 
@@ -38,7 +38,7 @@ Ironically, this is also the basis of worldly success, because it allows you to 
 
 ## Lesson 2
 
-### Make time to create the work the world needs right now.
+### Make time to create the work the world needs right now
 
 Whether you’re trying to plan your finances or start a business, you can’t predict the future. It’s impossible to control any eventual outcomes, which makes setting too specific goals a futile effort.
 
@@ -52,13 +52,13 @@ Take time, start now, don’t fret about the future and keep following your valu
 
 ## Lesson 3
 
-### Don’t be afraid to steal, mix, match and adapt other people’s ideas.
+### Don’t be afraid to steal, mix, match and adapt other people’s ideas
 
 Ideas aren’t the result of thinking inside a vacuum. Every thought you ever have is the result of your cumulated experiences – the entirety of what you’ve ever felt, seen, heard, read and learned.
 
 In that way, we innovate by letting others inspire us and then infusing our own, unique values into it.
 
-Therefore, you can start by “stealing” initial ideas to start working with, for example by meshing three different website designs into your own, or mixing a travel writer’s style with one of a scientific research paper. The more you iterate and integrate what you stand for into the work, the less it’ll look like the original, **untilyou arrive with something totally unique to you**.
+Therefore, you can start by “stealing” initial ideas to start working with, for example by meshing three different website designs into your own, or mixing a travel writer’s style with one of a scientific research paper. The more you iterate and integrate what you stand for into the work, the less it’ll look like the original, **until you arrive with something totally unique to you**.
 
 Imagine the idea you start with as a piece of clay, which you shape until it’s in line with your values, so it’ll eventually tell *your* own story.
 
@@ -71,7 +71,5 @@ Look at Four Minute Books. With each summary, I take a small piece of someone el
 Recently, I realized that much of the “one-size-fits-all” advice out there, well, doesn’t fit. I got really frustrated by it and switched to listening to people with a more philosophical approach, because it leaves more room for me to align what I learn with what I already know about myself.
 
 Paul is one of those guys and sure worth following. He reminds me a bit of Seth Godin. You can feel that he cares about you and that’s rare.
-
-## Who it’s for
 
 The 25 year old in the middle of his quarter-life crisis, the 54 year old who’s worried she’s not doing anything to impact the world in the second half of her life, and anyone who thinks they need to have a really great idea before they can start working on it.

@@ -22,11 +22,9 @@ These are the 3 most memorable lessons I got out of this book:
 
 Let’s get right into it and learn how to expand our minds and get smarter!
 
-### Limitless Summary
-
 ## Lesson 1
 
-### If you want to improve your focus while studying, utilize music, smell, and the Pomodoro technique.
+### If you want to improve your focus while studying, utilize music, smell, and the Pomodoro technique
 
 *Limitless* is also the title of a movie starting Bradly Cooper where the main character finds a pill that lets him make full use of his mental abilities. The drug, called NZT-48, takes him from a struggling author to a millionaire who’s on track to become the US President.
 
@@ -42,7 +40,7 @@ Also, try active recall with your Pomodoro’s. This means closing your book or 
 
 ## Lesson 2
 
-### Visualization can help you instantly expand your concentration and memory.
+### Visualization can help you instantly expand your concentration and memory
 
 Scientists have only recently discovered neuroplasticity, or the brain’s ability to change over time. That means you can mold all parts of your brain to do and be whatever you want!
 
@@ -75,7 +73,5 @@ Instead, count as you go down the page or use your finger to keep your mind goin
 ## Review
 
 I’ve seen Jim Kwik in a few YouTube videos and the guy has always impressed me. I’m really happy that he’s written *Limitless* to summarize all the nuggets of wisdom that are in his brilliant mind! I love that this is real life evidence that a growth mindset works.
-
-## Who it’s for
 
 The 25-year-old who gets discouraged thinking they’re stuck at their current intelligence level, the 62-year-old who loves learning new things and wants to get better at it, and anyone that wants to find ways to efficiently master skills like reading and focus.

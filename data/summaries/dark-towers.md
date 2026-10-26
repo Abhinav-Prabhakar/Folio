@@ -20,7 +20,7 @@ Let’s dive right in and get learning!
 
 ## Lesson 1
 
-### Corrupt people and vile institutions were the main clients for Deutsche Bank in its early stages.
+### Corrupt people and vile institutions were the main clients for Deutsche Bank in its early stages
 
 In 1883, German immigrant Henry Villard arrived in Gold Creek, Montana to nail in the last spike of the transcontinental railroad his company had built. Georg von Siemens of Deutsche bank was there because he had funded the railroad. But despite the big celebration, Villard’s company was falling apart.
 
@@ -36,7 +36,7 @@ After the war, what was left of the Berlin headquarters of the bank was now unde
 
 ## Lesson 2
 
-### It wasn’t until 2013 that Deutsche’s shady business finally began to come to light.
+### It wasn’t until 2013 that Deutsche’s shady business finally began to come to light
 
 It took a long time, but in 2013, regulators started to catch on to just how much shady business was going on behind Deutsche’s closed doors. Just in the first half of 2013, Deutsche fielded around 5,000 requests for information.
 
@@ -52,7 +52,7 @@ On this job, he was increasingly aware of the US and British regulators zeroing 
 
 ## Lesson 3
 
-### Deutsche’s loans to Donald Trump helped him become president of the United States.
+### Deutsche’s loans to Donald Trump helped him become president of the United States
 
 Believe it or not, Deutsche bank was involved in helping Donald Trump get elected. Trump’s involvement with the bank stretched back into 2010. Rosemary Vrablic, a Deutsche banker, let him off the hook for about $300 million he owed. However, he still didn’t have the funds for the $40 million he needed to pay.
 
@@ -67,7 +67,5 @@ But the biggest problem was that it became a huge conflict of interest. The US p
 ## Review
 
 This is just awful. Big banks are awful, and I wish they didn’t exist. *Dark Towers* was interesting for sure, but I can’t really do anything to change what it’s taught me about, so I’ll do the best I can and take care of the people around me.
-
-## Who it’s for
 
 The 54-year-old who works for a big bank, the 33-year-old that wonders how deep the corruption in our world goes, and anyone who thinks that the United States is anything other than an oligarchy.

@@ -20,7 +20,7 @@ Ready to get a crash course in the intricacies of Bitcoin? Let’s dive right in
 
 ## Lesson 1
 
-### Money is how we exchange goods and services, the standard for which has historically been gold.
+### Money is how we exchange goods and services, the standard for which has historically been gold
 
 Early money wasn’t very much like the paper you keep in your wallet today. Money has been different all over the world in the past. People have traded everything from stones and shells to livestock.
 
@@ -34,7 +34,7 @@ Britain led the way with this standard to back bills with gold, known as the “
 
 ## Lesson 2
 
-### Bitcoin could replace money as we know it because it is scarce, secure, and unique.
+### Bitcoin could replace money as we know it because it is scarce, secure, and unique
 
 After the First World War, financial deficits forced European powers to drop the gold standard. They introduced fiat money, which was backed by decree instead of gold. This switch led to an age of unsound money where governments could intervene in the economy to stabilize the value of their currencies.
 
@@ -50,7 +50,7 @@ It’s also incredibly secure. The public ledger, known as the blockchain, keeps
 
 ## Lesson 3
 
-### If we want to use Bitcoin to its full potential, we need to overcome some obstacles first.
+### If we want to use Bitcoin to its full potential, we need to overcome some obstacles first
 
 We know it is incredibly promising, but of course, there are challenges. One of these is price volatility. From 2010 to 2017, an individual bitcoin has jumped from $0.000994 to $4,200, a 422,520,000 per cent increase! But in just 2017 alone, bitcoin went from $750 to $20,000.
 
@@ -65,7 +65,5 @@ Even then, though, bitcoin has the potential to give us the framework for a new 
 ## Review
 
 I’ve been diving into the details of Bitcoin recently, and *The Bitcoin Standard* really helped me see why this currency is going to be the future. The hype about Bitcoin is real, and this book explains why it’s not just a fad but why it has so much power to improve our world. I really hope a lot of people will read this book and learn how much potential it has!
-
-## Who it’s for
 
 The 61-year-old who thinks that Bitcoin is just another passing craze, the 33-year-old that wants to invest in cryptocurrencies and isn’t sure what they’re doing, and anyone who wants to know the history of money and where our current technologies could be taking us in the future.

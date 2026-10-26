@@ -22,7 +22,7 @@ Get ready for some powerful help on becoming a better parent! Let’s go!
 
 ## Lesson 1
 
-### Help your child be responsible and persevere rather than be a victim.
+### Help your child be responsible and persevere rather than be a victim
 
 If you want a child that’s mentally strong, you need to start showing them what this looks like. One way you can do this is by not encouraging a victim mentality.
 
@@ -36,7 +36,7 @@ When parents are mentally strong, they don’t let kids shy away from assuming r
 
 ## Lesson 2
 
-### Don’t expect perfection or step in to help every time they mess up.
+### Don’t expect perfection or step in to help every time they mess up
 
 A lot of parents view their kids as an extension of themselves. Many secretly hope that if they push them to succeed in the things they didn’t, they can help mend old wounds. But pushing your kid to perfection is bad for their mental health. When you expect perfection, they start to believe your love is conditional and you won’t love them if they make a mistake.
 
@@ -48,7 +48,7 @@ When we expect perfection we also tend to micromanage and overstep, which leads 
 
 ## Lesson 3
 
-### Mentally strong parents only do things that match the values they teach.
+### Mentally strong parents only do things that match the values they teach
 
 As parents, we get caught up in the day to day problems we face. But how often do we step back and wonder if we are teaching them the right life lessons? Morin shares the story of a 15-year-old student named Kyle who got kicked out of his advanced school program when he was caught cheating. His parents couldn’t understand where things went wrong.
 

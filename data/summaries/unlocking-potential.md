@@ -30,7 +30,7 @@ Are you ready to inspire your people to reach their full potential? Let’s get 
 
 ## Lesson 1
 
-### Build trust and unlock potential as your first steps when coaching someone.
+### Build trust and unlock potential as your first steps when coaching someone
 
 If someone who you didn’t trust started giving you advice, would you listen to them? Of course not! I remember recently a leader I had no faith in tried to give me advice. Not only was it awkward, it also fell on deaf ears. In contrast, recently I’ve enjoyed working with mentors that I knew I could trust. With their help, my happiness and success have reached new heights.
 
@@ -42,19 +42,19 @@ This type of faith in a person can help light a fire within them that they didn�
 
 ## Lesson 2
 
-### Help your people learn the art of flow and ask the right questions to encourage commitment.
+### Help your people learn the art of flow and ask the right questions to encourage commitment
 
 Motivation is difficult to maintain over the time it takes to achieve a goal. But when we fully commit, that desire to work hard becomes more consistent. So how do you help the people you’re coaching stay motivated and committed? The answer goes back to the hallmark of coaching, which is asking questions and actively listening.
 
 Try asking “what actions and goals are crucial for you to reach professionally and personally?” Or you might try “how badly do you want to make an impact on the world?” Gauge daily progress by using the question “do you seek to grow your skills each day?” Take time to think of your own questions to help your specific clients commit to their goals.
 
-After a pledge to action the next step is execution. To invite action towards your people’s goals, change your vision of your own role as their coach. Don’t view your job as pushing or pulling them to your idea of fulfillment. **Instead, seek to make sure that you take the client where*they*want to go.**
+After a pledge to action the next step is execution. To invite action towards your people’s goals, change your vision of your own role as their coach. Don’t view your job as pushing or pulling them to your idea of fulfillment. **Instead, seek to make sure that you take the client where *they* want to go.**
 
 The best way to do this is to help them figure out what will get them into the *flow* state. What work makes them feel completely absorbed in body, mind, and soul? Helping them get into this state as often as possible is how you will help your clients get the most done. This will make them happier, which will also lead to more success!
 
 ## Lesson 3
 
-### The best ideas for people to help themselves come when you ask them to give advice to someone in their situation.
+### The best ideas for people to help themselves come when you ask them to give advice to someone in their situation
 
 If you want to really improve in life, don’t just welcome feedback, *seek* it. As a coach, you are particularly well-positioned to offer advice. But to help people the most you need to get out of the way and help people help themselves. The best way to do this is to ask people to give feedback to themselves.
 
@@ -67,7 +67,5 @@ Most of us associate feedback with negative feelings. To combat this, center you
 ## Review
 
 *Unlocking Potential* is a great read that I really enjoyed. I particularly liked how it’s helpful both to push people to action and also get the coach out of the way so people can succeed on their own. The book did a great job of outlining the importance of identifying individuals innate strengths and asking the right questions to help them improve.
-
-## Who it’s for
 
 The 37-year-old executive coach who wants to become even better at helping their clients succeed, the 26-year-old beginner coach who is looking for a path to success, and anyone who is a leader in any capacity.

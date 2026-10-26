@@ -20,7 +20,7 @@ Let’s discover how to make some mental upgrades!
 
 ## Lesson 1
 
-### The way you act is a result of the mental image you create of yourself.
+### The way you act is a result of the mental image you create of yourself
 
 Whether you like it or not you’ve created your own self-image or a blueprint of who you are. Every success, failure, and experience you’ve had has played a role in the creation of this mental illustration. Life events, whether traumatic or wonderful, lead us to create the mental blueprint of ourselves. This principle is important to know because who you believe yourself to be determines how you act every day.
 
@@ -30,7 +30,7 @@ This principle is similar to Martin Seligman’s explanatory style described in 
 
 ## Lesson 2
 
-### To create a successful personality, include these seven principles.
+### To create a successful personality, include these seven principles
 
 Maltz teaches that there are seven elements of a personality that attracts success. The acronym S.U.C.C.E.S.S. summarizes these fundamentals.
 
@@ -44,7 +44,7 @@ Maltz teaches that there are seven elements of a personality that attracts succe
 
 ## Lesson 3
 
-### How you care for your emotional well-being determines whether or not you can become your best self.
+### How you care for your emotional well-being determines whether or not you can become your best self
 
 As with physical injuries that form physical scars, emotional pain leads to emotional scars. The pain that causes scars is our body’s natural way of protecting itself from more damage in the same place. The purpose of emotional scars is the same-to protect the soul from future damage.
 
@@ -57,7 +57,5 @@ Another unlikely but vital key to our emotional well-being is practicing disinhi
 ## Review
 
 What an interesting read! *Psycho-Cybernetics* is full of powerful ways to get out of a rut and reach your full mental capacities. The message of hope from this book can uplift many who have struggled for a long time with self-doubt and discouragement.
-
-## Who it’s for
 
 The 15-year-old high schooler who struggles with beating themselves up, a 35-year-old mother of three who considers herself a failure, and everyone needing a mental boost.

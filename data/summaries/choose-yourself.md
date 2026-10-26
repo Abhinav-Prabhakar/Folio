@@ -20,7 +20,7 @@ Let’s learn from the master!
 
 ## Lesson 1
 
-### The American dream the middle class keeps chasing is dead.
+### The American dream the middle class keeps chasing is dead
 
 Remember how 2 days ago you learned that women taking up careers post World War II lead to the rise of processed food?
 
@@ -38,7 +38,7 @@ But what should you do if your fancy college degree now only gets you a job at M
 
 ## Lesson 2
 
-### You have to make yourself the only person who controls your dreams.
+### You have to make yourself the only person who controls your dreams
 
 I can’t believe I couldn’t remember where I read this, I wrote a whole article about this sentence, after all. I’m texting myself this very sentence every morning, for Pete’s sake 😀
 
@@ -70,7 +70,7 @@ Remember this, and carry it with you as you make your first steps: *You have to 
 
 ## Lesson 3
 
-### You can choose yourself by beginning a daily practice of good habits in 4 areas.
+### You can choose yourself by beginning a daily practice of good habits in 4 areas
 
 Now you know why you have to choose yourself and what that looks like, but where do you even begin? James suggests a very simple daily practice, focusing on taking care of yourself in 4 areas.
 
@@ -90,7 +90,5 @@ The strength to choose yourself comes from within. James’s daily practice give
 If you have no clue about self-improvement, but want to get started, read this book. If you don’t even know what an entrepreneur does, but know you want to be one, read this book. If you’ve been playing the game for five years, and you’re still not where you want to be, read this book.
 
 *Choose Yourself* is an easy and quick read, thanks to James’s casual style and engaging personal story. Every day, I choose myself through my writing, this website, and in many other ways. It’s all because of this man and his work. Read. This. Book.
-
-## Who it’s for
 
 The 12 year old, who really likes to learn HTML in her spare time, but worries if it makes her forget her English homework, the 37 year old, who works a job he knows he doesn’t like, but does not know where to start to get out, and anyone who doesn’t feel like they’re controlling their own dreams.

@@ -22,7 +22,7 @@ Are you ready for less cleaning and stress in your life? It’s much easier than
 
 ## Lesson 1
 
-### Minimalism is not about removing just for the sake of it, but about creating space for what you love the most.
+### Minimalism is not about removing just for the sake of it, but about creating space for what you love the most
 
 In today’s world, it’s easy to look around and feel overwhelmed because we own too many things. We buy the newest phone, only to end up wanting an even newer one not too long after, and the cycle continues. The problem is we can’t buy happiness. Once we realize that, our lives will change for the better.
 
@@ -32,7 +32,7 @@ Minimalism isn’t just about getting rid of things. **It’s about making room 
 
 ## Lesson 2
 
-### Advertisements still affect how you spend your money – way more than you think.
+### Advertisements still affect how you spend your money – way more than you think
 
 As a whole, Americans are now spending more than any past generation. Why is that? The answer is simple: advertising is everywhere. You can’t watch a video online or drive anywhere without seeing advertisements. And whether you like it or not, this *does* impact the way you spend.
 
@@ -44,7 +44,7 @@ Becker wants us to understand how powerful they are so we don’t give them powe
 
 ## Lesson 3
 
-### Donating our unwanted items will bring the greatest fulfillment.
+### Donating our unwanted items will bring the greatest fulfillment
 
 If there is anything minimalism will teach you, it is that people are more important than possessions. **Endless accumulation of belongings only brings short-lived enjoyment, while helping others is the gift that keeps on giving.**
 
@@ -61,7 +61,5 @@ Her friends followed this example, and now she runs a nonprofit encouraging othe
 *The More Of Less* gives a very convincing and thought-provoking look at why we need less in our lives to have more meaning. Becker not only focuses on the importance of decluttering but also on using our newly found extra time and resources to help others in the world. If we follow his advice, we can learn how to live simpler, more meaningful lives, all while making the world a better place.
 
 If you want to check out other interesting books about minimalism, start with *The Power Of Less* and *Minimalism: Live a Meaningful Life*.
-
-## Who it’s for
 
 The 58-year-old early retiree, who is tired of having too much stuff, a 24-year-old recent college graduate, who wants to become a digital nomad, but is tied down by their possessions, and anyone wanting to declutter their life and have more joy.

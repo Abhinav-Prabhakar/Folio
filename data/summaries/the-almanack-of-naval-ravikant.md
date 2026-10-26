@@ -18,11 +18,9 @@ Here are 3 of Naval’s secrets on how to “make it” both on the outside and 
 
 Let’s dive in!
 
-### The Almanack of Naval Ravikant Summary
-
 ## Lesson 1
 
-### Compounding interest can be applied to your finances and your relationships.
+### Compounding interest can be applied to your finances and your relationships
 
 What is compound interest? Essentially, it’s when your money makes more money, and then that money makes even more money. Take the following example: you invest 10,000 dollars into the stock market for an interest of 10% annually. Then, you cash them out and reinvest 11,000 dollars back. Naturally, those 11,000 will be worth 12,100 dollars next year.
 
@@ -32,7 +30,7 @@ Albert Einstein once said that compound interest is the eighth world wonder. As 
 
 ## Lesson 2
 
-### Money is the ultimate tool for freedom.
+### Money is the ultimate tool for freedom
 
 Don’t be the person who says that money is the root of all evil, that you don’t need them to be happy, or that you’re not interested in building wealth. Sure, these affirmations are true, up to a certain point. However, many use them to justify not growing their mindset and accepting the status-quo in their life. Truth be told, money is a great thing to have, especially if you know how to use it.
 
@@ -44,7 +42,7 @@ Instead, actively engage in conversations, listen to educational videos, and loo
 
 ## Lesson 3
 
-### To become happy, learn how to be neutral and quiet.
+### To become happy, learn how to be neutral and quiet
 
 Contrary to popular belief, in order to be happy, we don’t need much. Just look at children playing. They don’t stress much about the future, nor the past, but rather explore the present moment and immerse themselves into whatever they’re doing at that time. Pausing our human ability to judge, we’ll find new ways of becoming happier.
 
@@ -55,7 +53,5 @@ Another way to become happier is to quiet down your mind. Your subconscious and 
 ## Review
 
 *The Almanack of Naval Ravikant* is a remarkable piece of writing on two subjects that may seem antithetical at first sight, building wealth and living a meaningful life, but in fact have a lot in common. Naval offers its readers advice in how to build wealth, and more importantly, how to use it correctly. With a strong focus on the end means, which are living a good life, having freedom and helping those around you, the author delves into the secrets of a well-off life both financially and spiritually. The book is available for free online, by the way.
-
-## Who it’s for
 
 The 25-year-old person who wants to advance in their career without losing sight of their true persona, the 30-year-old entrepreneur who wants to find a balance between their work and what matters to them in their personal life, or the 40-year-old life coach who wants to expand their knowledge in the field and offer better advice.

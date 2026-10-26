@@ -20,7 +20,7 @@ Whether you’re in baseball, singing, or selling, this’ll teach you the perfe
 
 ## Lesson 1
 
-### Make sure your pitch speaks to your audience’s ancient (kinda stupid) brains.
+### Make sure your pitch speaks to your audience’s ancient (kinda stupid) brains
 
 Our brains as they are today have evolved in three stages, leaving us with three levels to process stuff on.
 
@@ -36,7 +36,7 @@ If you’ve ever been hit with a 180 page slide deck starting with complicated g
 
 ## Lesson 2
 
-### Turn yourself into the prize, instead of chasing your target.
+### Turn yourself into the prize, instead of chasing your target
 
 Once you have attention, it’s time to convince. And do you know what’s the most convincing? **Someone who doesn’t try to convince us**. If you can position yourself as the prize instead of the contestant, you’ve already won (pun intended).
 
@@ -48,7 +48,7 @@ Don’t come across as someone who’s desperate for another sale. Know your wor
 
 ## Lesson 3
 
-### To get people to make a gut decision in your favor, use multiple frames.
+### To get people to make a gut decision in your favor, use multiple frames
 
 A core concept of Oren Klaff’s philosophy are so-called frames. You can think of them as lenses, through which we view any situation, and when people come together, frames collide, with one eventually winning over the other.
 
@@ -63,7 +63,5 @@ This simply means your audience will make a gut decision in your favor. We hardl
 ## Review
 
 A lot of powerful stuff, and I haven’t heard much of this before. I like that Oren came up with his own terminology for a lot of this stuff. I don’t agree with everything in *Pitch Anything*, some of it is downright manipulative. It’s a sales book, so that’s to be expected, but still. Nevertheless, there’s a lot to learn here, not just for actual selling but also for presenting your ideas in general – and that’s something we all need to do in today’s world.
-
-## Who it’s for
 
 The 17 year old, who just started his career in direct selling, the 33 year old startup CFO, who’s in charge of getting new investors on board, and anyone who wants to perform in front of a big audience some day.

@@ -18,7 +18,7 @@ Let’s learn more about one of my favorite character values together, shall we?
 
 ## Lesson 1
 
-### All companies start out honest.
+### All companies start out honest
 
 First of all, if you think some companies are inherently bad, Dale argues that that’s not true. Even Coca Cola, McDonalds and Goldman Sachs started out with very few people, and had to hustle hard to make ends meet in the beginning.
 
@@ -32,7 +32,7 @@ So remember: Even the worst companies were once small, honest businesses.
 
 ## Lesson 2
 
-### Don’t try to avoid transparency, it’s a fool’s game.
+### Don’t try to avoid transparency, it’s a fool’s game
 
 One of the seven values Dale describes that can help your business *stay* honest is transparency. We constantly talk about privacy and data security these days (in Germany people go crazy over this), but actually, you can double-check almost any statement within a matter of seconds.
 
@@ -46,7 +46,7 @@ What does your company or employer do? Can you encourage them to be more transpa
 
 ## Lesson 3
 
-### Become a better consumer, because half the responsibility is on you.
+### Become a better consumer, because half the responsibility is on you
 
 Here’s the interesting part: Even if you don’t own a company, half of the honesty battle is yours to fight.
 
@@ -65,7 +65,5 @@ We’ll all be better for it.
 Most business books focus on tactics. Some focus on strategies. Few address philosophy. This is one of the few. In Germany there’s a saying: it’s the head where the fish reeks. If you can foster a spirit of honesty among your first few employees and keep this philosophy alive until your company is all grown up, you’ll automatically teach it from the top down for a long time to come.
 
 Sure, it’s possible to redeem your company, should you end up in the dishonesty stage, but does it even have to get that far? Dale thinks it doesn’t, and neither do I, which is why I suggest you pick up *People Over Profit* 🙂
-
-## Who it’s for
 
 The 33 year old, who’s head is spinning from all the awesome blogging and online marketing tactics she reads about, but that might lead her down the wrong path, the 68 year old former CEO, who realizes he can still go back to companies and teach them about honesty, even if it’s not a model that was lived when he was still active, and anyone who says they want better products, but still shops based on price.

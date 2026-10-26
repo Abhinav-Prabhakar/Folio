@@ -20,7 +20,7 @@ No matter in what capacity you want to lead people, these rules are timeless, so
 
 ## Lesson 1
 
-### A leader must always stand on solid ground. Stick to the rules you represent.
+### A leader must always stand on solid ground. Stick to the rules you represent
 
 The number one element that empowers a leader to be successful (and lead the way in the first place) is trust. Even a tourist guide needs his group to trust him, because otherwise, why would they bother walking behind him for two hours?
 
@@ -40,7 +40,7 @@ When leaders think they’re above the rules, trouble follows – take Richard N
 
 ## Lesson 2
 
-### Your followers must respect you, but that respect has to be earned on a constant basis.
+### Your followers must respect you, but that respect has to be earned on a constant basis
 
 Trust gets people to put what you say into action. But to do that, they have to listen to you first, and that’s where respect comes in. A leader is by definition at the front of the group, and therefore, *ahead* of everyone else. This is the exact thing followers *want* from a leader. Having someone who’s more skilled, more determined and more courageous than they are go first and say: “It’ll be okay, follow me.”
 
@@ -52,7 +52,7 @@ Being so loyal to your followers that you’re willing to get hurt for them is r
 
 ## Lesson 3
 
-### Hating losing is a good thing if you’re a leader – it keeps you focused on winning.
+### Hating losing is a good thing if you’re a leader – it keeps you focused on winning
 
 When you lose at Monopoly, does that make you mad? Does it make you want to just take the board and throw it out the window? Well, today’s probably the first day someone will tell you that’s a good thing. According to Maxwell’s *Law of Victory*, **giving up and losing are not valid options for a true leader**.
 
@@ -69,7 +69,5 @@ His, the ideal attitude of a leader, is summed up best in one of his most famous
 ## Review
 
 *The 21 Irrefutable Laws Of Leadership* is a leadership classic. It’s a great read for independent artists and solo entrepreneurs building a tribe, startup founders creating a company and, of course, newly minted managers. It makes you think about how you interact with others and what kind of person you want to be, which is always worth ruminating about.
-
-## Who it’s for
 
 The 28 year old young professional who just got his first position where she’s responsible for leading a team, the 45 year old manager, who gets his coffee from his secretary, and anyone who hates losing at board games.

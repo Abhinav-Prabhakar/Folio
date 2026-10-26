@@ -20,7 +20,7 @@ Are you ready to feel some motivation by hearing the stories of a few successful
 
 ## Lesson 1
 
-### Regardless of your weaknesses you can utilize the tools at your fingertips to build your ideas.
+### Regardless of your weaknesses you can utilize the tools at your fingertips to build your ideas
 
 Innovation is all around us in the age of the internet. This tool remains highly underutilized as a way to not only grow businesses, but ourselves. Young Craig Newmark, while nice, was nerdy and shy. He wanted to have many friends, but recognized that his poor communication skills were holding him back. So he did what any introverted young person might do and turned to the internet.
 
@@ -30,7 +30,7 @@ Eventually, the lists within his emails grew so large that Craig began his own w
 
 ## Lesson 2
 
-### When you persist time and again after being shot down, you’ll reach your dreams.
+### When you persist time and again after being shot down, you’ll reach your dreams
 
 When you are inspired to make something good for the world, you make it happen. This is one of the core beliefs of Wendy Kopp, who started Teach for America. The road to building this organization which has impacted millions, however, wasn’t easy.
 
@@ -42,7 +42,7 @@ Sometimes, though, changing direction when things get hard is exactly what you n
 
 ## Lesson 3
 
-### Even when you fail at first, it can be an opportunity to do what you were meant to.
+### Even when you fail at first, it can be an opportunity to do what you were meant to
 
 From the time she was young, Sara Blakely hoped to be a lawyer when she grew up. Unfortunately, she failed her law school admissions test twice, which broke her resolve to continue. After giving up, she took a door-to-door sales job. Enduring pitches to one uninterested customer after the next, Blakely grew her determination to close each sale. The longer she worked though, the more she wanted to sell something about which she could really get behind.
 
@@ -53,7 +53,5 @@ With her newfound strength against rejection, she persisted through all the diff
 ## Review
 
 *Getting There* really inspired me to do and be better. I feel more motivated to work harder through the difficulties and excuses that so easily hold me back every day. I highly recommend this book!
-
-## Who it’s for
 
 The 26-year-old college graduate who isn’t sure what they want to do with their life, the 30-year-old who is launching their first business, and anyone beginning what will be a lengthy project.

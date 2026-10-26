@@ -54,6 +54,4 @@ Getting people to interact with your product is an essential step that allows pe
 
 *Value Proposition Design* is a hands-on guide that teaches you how to build a successful product from A to Z, from the idea to the prototype. This book addresses multiple perspectives, such as customer centricity, the importance of added value, how to address pain points when it comes to your prospects, and many more! If you’re looking to materialize a concept, create a product that will sell, and find ways of becoming successful in your business, this is the book for you.
 
-## Who it’s for
-
 The 25-year-old who wants to open up a business and doesn’t know where to start, the 37-year-old business owner who’s looking for ways to improve their organization and grow it, or the 42-year-old project management leader who wants to approach a successful direction for their current endeavor.

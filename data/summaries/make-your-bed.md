@@ -8,7 +8,7 @@ In 2014 Admiral William H. McRaven gave the commencement address at the Universi
 
 As a cadet, McRaven learned that success doesn’t depend on social status, race or religion. It’s not how good your parents were to you or which school you went to that determines your future. It’s a combination of the little actions and help from others that makes people successful.
 
-The admiral’s speech went viral on Youtube and later became a book *.*
+The admiral’s speech went viral on Youtube and later became a book*.*
 
 In *Make Your Bed: Small things that can change your life… and maybe the world,* McRaven stresses that life is unfair, as everybody knows. In fact, what defines great men and women is how they deal with life’s unfairness. People like Helen Keller, Nelson Mandela, Stephen Hawking are just a few examples.
 
@@ -20,11 +20,9 @@ Here are my 3 favorite lessons about leveraging self-discipline and teaming up f
 
 Do you want to be prepared for life challenges? Let’s see what we can learn from a Navy veteran who has held impressive key roles inside and outside the military!
 
-### Make Your Bed Summary
-
 ## Lesson 1
 
-### Making the bed can boost your productivity and even give you hope in the bad days.
+### Making the bed can boost your productivity and even give you hope in the bad days
 
 As a US SEAL cadet, McRaven had to make his bed to perfection first thing after waking up.
 
@@ -38,7 +36,7 @@ It was his way of showing that he was recovering and moving forward.
 
 ## Lesson 2
 
-### If you want to make a difference in life, never give up, learn from failures and keep improving yourself.
+### If you want to make a difference in life, never give up, learn from failures and keep improving yourself
 
 During the SEAL training, McRaven and his fellows had to withstand uncountable challenges of strength and courage. Giving up at any time was very easy: they just had to ring a bell hanging in the center of the compound and they would be free, immediately.
 
@@ -56,7 +54,7 @@ If you want to achieve your full potential in life, don’t let fear stops you.
 
 ## Lesson 3
 
-### Life is a struggle. To accomplish great things you need to fight. But you can’t do it alone: you need teammates.
+### Life is a struggle. To accomplish great things you need to fight. But you can’t do it alone: you need teammates
 
 SEAL cadets also have to overcome Hell Week, 7 days of endurance tests when many of them call it quits.
 
@@ -66,14 +64,12 @@ Sometimes life gets very hard: the loss of someone you love, a disease or someth
 
 Years ago the author was badly wounded in a parachute accident and he had to go through months of recovery and rehabilitation. He’s sure he would have surrendered to self-pity and depression if his wife hadn’t been there to support him.
 
-**In McRaven’s view, life is like a small rubber boat: you cannot paddle it alone.It takes a team of good people to get you where you want to go.** So, as he says,
+**In McRaven’s view, life is like a small rubber boat: you cannot paddle it alone. It takes a team of good people to get you where you want to go.** So, as he says,
 
 > *“Find someone to share your life with. Never forget that your success depends on others.”*
 
 ## Review
 
 *Make Your Bed* is an inspiring book that exhorts us to think big while taking care of the small things. You are supposed to meet 10000 people in your life, but even if you affect the ones of only 10 people and they do the same for someone else, the world is going to be a better place within a few generations. Each of us can make a difference.
-
-## Who it’s for
 
 The 17-year-old discouraged about what he can do in life since he lives in a poor neighborhood, the 36-year-old who doesn’t like his life and blames it on his parents, and anyone who feels unlucky, demotivated or just lazy.

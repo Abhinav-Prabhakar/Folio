@@ -20,7 +20,7 @@ If these lessons seem interesting to you, stick around, as I’ll explore each a
 
 ## Lesson 1
 
-### Everyone can learn lateral thinking, although they have an inclination for data and facts.
+### Everyone can learn lateral thinking, although they have an inclination for data and facts
 
 Growing up, society tells us that there are essentially two types of people. There are the ones that prefer numbers and the ones that prefer artistic or creative fields. Certainly, this assumption is not completely untrue, but it can do more damage than good. People from either category tend to focus on their native inclinations while ignoring the other completely.
 
@@ -32,7 +32,7 @@ Still, lateral thinking is particularly important when constructing strategies, 
 
 ## Lesson 2
 
-### Along with brainstorming, the reversal method is great for solving problems.
+### Along with brainstorming, the reversal method is great for solving problems
 
 Brainstorming is one of the most effective ways of solving a problem creatively. By teaming up with other people and sharing ideas in a constructive environment, there’s a strong chance that an innovative solution will pop up. The first stage of a brainstorming session is sharing ideas in a non-judgemental manner.
 
@@ -44,7 +44,7 @@ Lastly, use analogies to help yourself find a solution. By associating the probl
 
 ## Lesson 3
 
-### The random exposure and the formal generation techniques to develop your lateral thinking.
+### The random exposure and the formal generation techniques to develop your lateral thinking
 
 There are many ways to train your lateral thinking. Throwing yourself into new situations and exploring the world outside your comfort zone, for example. You can start by engaging with conversations outside your area of expertise, reading books outside your usual study materials, or just trying anything new for a chance.
 
@@ -57,7 +57,5 @@ Instead, make use of your intuition and let your creative mind wander and explor
 ## Review
 
 *Lateral Thinking* explores numerous ways to optimize your thinking models and integrate creativity, alternation, and innovation into your problem-solving approach. Reading this book will teach you how to become a free thinker and rely on more than just vertical thinking in your life. It is full of techniques and habits one can start implementing right away to see results.
-
-## Who it’s for
 
 The 30-year-old leader who wants to increase their team’s performance and find new solutions for their problems, the 40-year-old person bored of the mundane, and anyone who wants to rely on more than just the one way of thinking they were taught at school.

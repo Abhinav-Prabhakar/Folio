@@ -20,7 +20,7 @@ Let’s jump right into these ideas!
 
 ## Lesson 1
 
-### Strong gatekeepers are required to keep democracy safe.
+### Strong gatekeepers are required to keep democracy safe
 
 You might not think of a political party as a protector of democracy, but actually, this is exactly what they do. Parties have the power to accept candidates. That means they essentially decide who they allow to come into mainstream politics.
 
@@ -30,11 +30,11 @@ Chavez was already known to be a threat to democracy. Not long before, he led a 
 
 Soon, he won the 1998 election by a landslide and dismantled the democratic system that Venezuela had put in place. Some of the ways he did this were by packing the supreme court with sycophants, silencing independent media, and exiling or imprisoning his rivals.
 
-This is just one example of why gatekeepers need to keep extremists out of the public view. **Political parties can do this is by quickly rejecting extremists so they don’t become normalized.** The Swedish Conservative Party did this when they ousted fascist sympathizers in 1933. It cost them party votes, but the most important thing to them was protecting democracy by rejecting any anti-democratic influence. German Conservatives, on the other hand, made a mistake in the 1930s when they allowed joint rallies that included Hitler supporters, essentially normalizing their extremism.
+This is just one example of why gatekeepers need to keep extremists out of the public view. **P olitical parties can do this is by quickly rejecting extremists so they don’t become normalized.** The Swedish Conservative Party did this when they ousted fascist sympathizers in 1933. It cost them party votes, but the most important thing to them was protecting democracy by rejecting any anti-democratic influence. German Conservatives, on the other hand, made a mistake in the 1930s when they allowed joint rallies that included Hitler supporters, essentially normalizing their extremism.
 
 ## Lesson 2
 
-### Trump bypassed the gatekeepers and began to tear down democratic institutions.
+### Trump bypassed the gatekeepers and began to tear down democratic institutions
 
 So how was Trump able to get past the gatekeeping system? He had two important assets: fame and money.
 
@@ -52,7 +52,7 @@ Then came his attempts to change the rules of the game. One of the ways he did t
 
 ## Lesson 3
 
-### If we hold fast to our democratic norms, we have a chance at resisting authoritarianism.
+### If we hold fast to our democratic norms, we have a chance at resisting authoritarianism
 
 Maintaining a democracy isn’t easy by any means. Especially when you consider the diversity in political beliefs across the United States. But there are some things you can do to help protect it.
 
@@ -69,7 +69,5 @@ It would also help if political activists focused on cooperation rather than pol
 ## Review
 
 *How Democracies Die* shares some very interesting and important ideas, but I felt it was held back by its own anti-Trump agenda. That said, the historic case studies are well worth the read!
-
-## Who it’s for
 
 The 19-year-old who is majoring in political science, the 65-year-old that’s curious about the current threats to democracy, and anyone who wants to find ways to protect governments that are ruled by the people and not by dictators.

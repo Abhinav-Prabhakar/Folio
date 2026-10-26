@@ -20,11 +20,11 @@ I don’t know what you want to create. Maybe it’s a museum, maybe a rare bree
 
 ## Lesson 1
 
-### An amateur is terrified of being her real self and the consequences that come with it.
+### An amateur is terrified of being her real self and the consequences that come with it
 
 None of us are born as pros. We all start as amateurs, addicted to ‘shadow careers,’ as Steve calls them, which we pursue in lack of the guts to chase our real calling. I have no way of putting it better than Steve, so (emphasis mine):
 
-> *“Fear is the primary color of the amateur’s interior world. Fear of failure, fear of success, fear of looking foolish, fear of under-achieving and fear of over-achieving, fear of poverty, fear of loneliness, fear of death.* ***But mostly what we all fear as amateurs is being excluded from the tribe**, i.e., the gang, the posse, mother and father, family, nation, race, religion.* *The amateur fears that if he turns pro and lives out his calling, he will have to live up to who he really is and what he is truly capable of.* *The amateur is terrified that if the tribe should discover who he really is, he will be kicked out into the cold to die.”*
+> *“Fear is the primary color of the amateur’s interior world. Fear of failure, fear of success, fear of looking foolish, fear of under-achieving and fear of over-achieving, fear of poverty, fear of loneliness, fear of death. **But mostly what we all fear as amateurs is being excluded from the tribe**, i.e., the gang, the posse, mother and father, family, nation, race, religion.* *The amateur fears that if he turns pro and lives out his calling, he will have to live up to who he really is and what he is truly capable of. The amateur is terrified that if the tribe should discover who he really is, he will be kicked out into the cold to die.”*
 
 This was a big issue for me. The idea that the more we become ourselves, the less we’ll be understood, and the fewer people will walk, talk, and act like us is paralyzing. Most people never get out of this incapacitated state of ungrounded fear. People do turn on you when you “go rogue,” but you’ll also find new people who are discovering themselves too.
 
@@ -32,7 +32,7 @@ Nonetheless, for the few who break out of their shell of fear, another roadblock
 
 ## Lesson 2
 
-### One major roadblock for amateurs is trying to please gurus, mentors, authorities, and teachers.
+### One major roadblock for amateurs is trying to please gurus, mentors, authorities, and teachers
 
 Once I finally got over the hump of pressing ‘Publish’ on my first articles, I instantly turned to the gurus whose work I’d read in order to get there. This is as natural a part of the process as it is damaging. You just ventured into new, uncharted, scary territory, and now you realize there’s no clear path to go. So you hang on anyone’s every word who tells you otherwise.
 
@@ -46,7 +46,7 @@ The moment you take your power back, magical things start to happen.
 
 ## Lesson 3
 
-### Doing your work for its own sake, as a practice, is what being a pro is really about.
+### Doing your work for its own sake, as a practice, is what being a pro is really about
 
 Steve published his first book when he was 52, despite writing novels since his late twenties. You’d think by that point, any rational person would’ve quit, which is exactly right. Eventually, the professional must commit herself to her work to an extent that is beyond reason. This, she will do gladly, because like Steve and like me, she at one point realizes she can’t do anything else.
 

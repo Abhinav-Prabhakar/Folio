@@ -18,7 +18,7 @@ Let’s take a stroll down politics lane!
 
 ## Lesson 1
 
-### Democracy alone does not guarantee personal freedom.
+### Democracy alone does not guarantee personal freedom
 
 Ancient Greece, England, pre-World War II Germany, Libya, Egypt, Cambodia – we all know plenty of cases of dictatorships and need not discuss the terrible consequences a single-leader tyranny can bring about.
 
@@ -44,7 +44,7 @@ So no, democracy alone won’t solve all of our problems.
 
 ## Lesson 2
 
-### It’s only okay to limit people’s freedom when you’re trying to save them from harm.
+### It’s only okay to limit people’s freedom when you’re trying to save them from harm
 
 One of the rational principles that Mill suggests we adopt in order to truly assure personal freedom is that we meddle in and limit other people’s freedom only when the reason is that we want to save them or others from harm.
 
@@ -64,7 +64,7 @@ These are scenarios in which limiting freedom would be okay, because it helps th
 
 ## Lesson 3
 
-### False opinions are good and important.
+### False opinions are good and important
 
 You would probably agree that we’d all be better off if people with radical opinions stopped spouting them around on Facebook, in public and at work.
 
@@ -87,7 +87,5 @@ I’m really glad I read this in summary form. The full text is available online
 The level of thought is incredible and it’s very interesting to learn some of the thought patterns and ideas that precede what we consider to be the most evolved and modern form of governing countries.
 
 *On Liberty* is not a light read for sure, but if you’re taking an interest in any of the 3 above subjects, or just want to learn something that’s really outside of the box, you can try to read the full text. If you find yourself giving up, try the summary on Blinkist.
-
-## Who it’s for
 
 The 13 year old, who just picked up history as a subject in school, the 42 year old, politically ambitious member of any given party and anyone with an extreme opinion about a popular topic.

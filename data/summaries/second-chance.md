@@ -18,7 +18,7 @@ Buckle up, you’re about to get some serious crisis-prep!
 
 ## Lesson 1
 
-### You can’t get a financial education in school, they only teach you to be poor.
+### You can’t get a financial education in school, they only teach you to be poor
 
 As I read this, I made a shocking realization: **Education might not be the solution to eliminate poverty**.
 
@@ -34,7 +34,7 @@ I’m glad you asked.
 
 ## Lesson 2
 
-### Pick one of the 4 asset categories and start educating yourself.
+### Pick one of the 4 asset categories and start educating yourself
 
 Robert has long been talking about the 4 categories of assets. Right after taking stock of your current financial situation with an income statement and a balance sheet, listing out all of your incomes, expenses, assets and liabilities, you should pick the asset category you’re most curious about and start learning.
 
@@ -51,7 +51,7 @@ It doesn’t matter which one of these most fascinates you, what counts is getti
 
 ## Lesson 3
 
-### Don’t fear debt. Instead, take on debt and use it to acquire assets.
+### Don’t fear debt. Instead, take on debt and use it to acquire assets
 
 Have you heard of cases where someone got a raise, but ended up worse than before due to switching tax rates? This happens all the time and proves working harder isn’t always the best solution to making more money.
 
@@ -72,7 +72,5 @@ I just watched *The Big Short* this morning and was left in shock, awe, and with
 Robert says *Second Chance* explains why he wrote *Rich Dad, Poor Dad,* because now’s the time to reveal some of the uncomfortable truths we’ll have to face in the near future.
 
 I’ll leave you with the recommendation to pick up the summary of this book on Blinkist or get yourself a copy, and a line from *The Big Short*: The truth is like poetry – and most people fucking hate poetry.
-
-## Who it’s for
 
 The 16 year old math geek, who can prepare herself for the real world by picking up finance books on the side right now, the 41 year old family-father with a mortgage, who thinks his own house is an asset, and anyone who’s really scared of debt.

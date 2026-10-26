@@ -18,7 +18,7 @@ Ready to discover the power of doing nothing? Let’s get to it so we can try it
 
 ## Lesson 1
 
-### It’s constantly getting harder to see the difference between work and leisure, which is making us feel like doing nothing is a waste of time.
+### It’s constantly getting harder to see the difference between work and leisure, which is making us feel like doing nothing is a waste of time
 
 In the late 1800s, workers in America wanted 8-hour workdays. In the words of a popular trade union song they desired “eight hours of work, eight hours of rest, and eight hours of what we will.”
 
@@ -34,7 +34,7 @@ Combine this with the beginning of the information age and you get people compet
 
 ## Lesson 2
 
-### Pause more frequently and reflect and you’ll begin to notice the wealth of beauty around you.
+### Pause more frequently and reflect and you’ll begin to notice the wealth of beauty around you
 
 Imagine this. The sun is about to set over the Pacific ocean. A greeter checks you in and directs you to sit in a folding chair as he reminds you not to take pictures. You sit in silence with the other guests, watch the sunset, clap, then enjoy refreshments together.
 
@@ -50,7 +50,7 @@ As I directed my attention through doing nothing, I felt peace where there was o
 
 ## Lesson 3
 
-### Minor inconveniences are easier to deal with when you take a second to consider that everybody’s just human.
+### Minor inconveniences are easier to deal with when you take a second to consider that everybody’s just human
 
 I don’t honk at people that are rude while driving. If I get cut off, I sit back and relax, just enjoying driving and being with my family.
 
@@ -69,7 +69,5 @@ Once you realize this, it doesn’t matter what other people do. You know that s
 ## Review
 
 *How To Do Nothing* is such an important book for the fast-paced world we live in today. I’ve tried some of these tips already and I can say that they make a huge difference!
-
-## Who it’s for
 
 The 61-year-old grandmother who is too involved on social media and in politics to relax, the 35-year-old entrepreneur who is tired and needs a good reason to take a break, and anyone that wants more calmness and clarity in their life.

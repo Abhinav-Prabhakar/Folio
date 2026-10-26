@@ -22,7 +22,7 @@ Are you ready to cross the Rubicon and make your dreams come true? Let’s burn 
 
 ## Lesson 1
 
-### Your instincts work for you even when things go wrong — learn to trust them.
+### Your instincts work for you even when things go wrong — learn to trust them
 
 Higgins started working when he was just ten years old. Unfortunately, being a child, his salary was capped at $5/hour. With his brothers moving out in their teenage years and his overweight, eventually wheelchair-bound mother getting sicker by the day, Higgins knew he had to make more faster.
 
@@ -36,7 +36,7 @@ Three months after his death, he was finally invited to Shark Tank after being r
 
 ## Lesson 2
 
-### Nervousness can help you perform, but it must be balanced just right.
+### Nervousness can help you perform, but it must be balanced just right
 
 When he was finally invited to be a guest shark on Shark Tank, Higgins knew he deserved the opportunity. From being NYC’s youngest press secretary to heading the Ground Zero rebuilding efforts to becoming the Vice Chairman of the Miami Dolphins, he had more than put in his time. Still, he froze with anxiety the first day he walked onto the set.
 
@@ -51,7 +51,7 @@ Sitting on stage paralyzed as the other sharks were already haggling over the fi
 
 ## Lesson 3
 
-### As you burn boat after boat, use 4 principles to grow your success.
+### As you burn boat after boat, use 4 principles to grow your success
 
 Okay, once you’re in the water and your anxiety is under control, what do you do? You start building new boats. Higgins has worked in journalism, construction, sports, and many other industries. He reinvented himself again and again, and so can you.
 
@@ -67,7 +67,5 @@ Whether you’re trying to be a world-class painter, million-dollar entrepreneur
 ## Review
 
 *Burn the Boats* is a refreshing book from a man worth studying you likely haven’t heard of. It’s not perfect, but Matt Higgins proudly presents and convincingly tells his story. The book is replete with examples from all walks of life, which will show you that you, too, can burn the boats and succeed!
-
-## Who it’s for
 
 The 14-year-old who thinks about dropping out of high school, the 26-year-old young professional who thinks she’s not mature enough for a leadership role, and anyone who has a big dream they’re scared to go all-in on.

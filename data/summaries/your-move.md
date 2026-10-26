@@ -24,7 +24,7 @@ What better way to celebrate the release of this instant bestseller than by taki
 
 ## Lesson 1
 
-### You can make sure your business idea is profitable with four questions and by running it through the Demand Matrix.
+### You can make sure your business idea is profitable with four questions and by running it through the Demand Matrix
 
 Let’s start at ground zero. You’re considering yourself to be normal, not particularly skilled in anything and have no ideas. Zip. Nada. Where should you even begin to think business? This is where Ramit shines: Breaking things down to the simplest step *you* can take. He’s used the same process for all of his 20+ products and it all starts with thinking about what you already pay for yourself.
 
@@ -49,7 +49,7 @@ A high-price, high-demand product, like an iPhone, is a golden goose. With many 
 
 ## Lesson 2
 
-### You’ll have to overcome your fear of selling stuff and the best way to do that is to focus on only the right people to sell to.
+### You’ll have to overcome your fear of selling stuff and the best way to do that is to focus on only the right people to sell to
 
 Guess how long Ramit waited until he created his first product to sell. Two years! By the time he released it, he already had 50,000 visitors/month. Guess how much he charged for Ramit’s 2007 Guide to Kicking Ass? A glorious $4.95. And he was *scared to death*. What if people called him a sellout? Would he charge too much? What if everyone would want a refund?
 
@@ -65,7 +65,7 @@ No matter if you’re a natural salesperson or not, as Ramit says: **“When you
 
 ## Lesson 3
 
-### To brace yourself for what’s to come in the future, you’ll need a growth mindset, so start working on it to day.
+### To brace yourself for what’s to come in the future, you’ll need a growth mindset, so start working on it to day
 
 One year from now, where will you be? You can be in the same spot, reading the same summary on the same computer. *Or*, you can actually go out and put these lessons into practice. But it’ll be hard. Everybody gets stuck. What makes winners different is that they grow anyway.
 
@@ -92,7 +92,5 @@ What I loved about *Your Move* was that it’s short, cuts out the fluff and is 
 What I didn’t like as much was that he included a few lessons and stories written by students. Some of them do have solid lessons, but because they have different writing styles, it breaks the flow of the text a bit. There are also a few too many calls to action to go to the bonus section, if you ask me.
 
 Other than that, it’s one of the most practical ebooks on entrepreneurship and building a business I’ve ever read. I highly recommend reading it cover-to-cover once and then using it as a guide and executing each step as you go along.
-
-## Who it’s for
 
 The 18 year old, who keeps telling his college friends about the million dollar business he’s “gonna” build, the 38 year old single mom with two kids, who just wants her weekend back, and anyone who was ever afraid of naming the price of something they were about to sell.

@@ -18,7 +18,7 @@ Let’s take a deep dive!
 
 ## Lesson 1
 
-### If your work is important to you, the fear of doing it will never go away.
+### If your work is important to you, the fear of doing it will never go away
 
 We always think that if we practice enough, we’ll get so good we’ll never have any problems with our work, ever again.
 
@@ -32,7 +32,7 @@ So don’t stop when you’re afraid and instead, **move on in spite of fear**. 
 
 ## Lesson 2
 
-### Don’t take action and reflect at the same time.
+### Don’t take action and reflect at the same time
 
 Guess what the worst time is to edit a blog post? **Right after you wrote it.**
 
@@ -48,7 +48,7 @@ For example, I found it’s much easier to just write another blog post, instead
 
 ## Lesson 3
 
-### Your work should be the biggest reward for your work.
+### Your work should be the biggest reward for your work
 
 Resistance is a nasty thing. The perfect example happened to me today. It’s January 1st, which means I stayed up late for New Year’s Eve yesterday. However, I had already had a sleep deficit from getting up at 5 am for the past 2 weeks, to write these summaries every day.
 
@@ -72,7 +72,5 @@ This book summary was very very short, only 4 blinks total, and while it was ver
 The War Of Art is a fantastic book, and the summary on Blinkist for it is great, so I have no doubt that *Do The Work* is a good book as well – it just doesn’t really shine through in the summary.
 
 Nevertheless, if you’re looking for a quick boost in inspiration, this is a good set of blinks to turn to. Otherwise, I suggest you just go straight for the book.
-
-## Who it’s for
 
 The 34 year old theater actress, who has her routine down to the last detail, the 20 year old blogger, who worries a lot between finishing a blog post and pressing publish, and anyone who relies too much on external motivation.

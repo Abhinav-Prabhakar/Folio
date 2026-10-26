@@ -20,7 +20,7 @@ Ready to learn something new about nutrition? Let’s go!
 
 ## Lesson 1
 
-### Your health is a matter of nutrition, not medicine.
+### Your health is a matter of nutrition, not medicine
 
 In a way, we’re all slacking with our health. We have this great medical system, which we can rely on to take care of us, whatever might one day be wrong with our bodies.
 
@@ -36,7 +36,7 @@ Health is a matter of prevention, not redemption. You choose your health by choo
 
 ## Lesson 2
 
-### You don’t need as much protein as you think.
+### You don’t need as much protein as you think
 
 The Paleo diet is one of the most popular diets and has seen a massive surge in its following over recent years. Prompting us to eat like our caveman ancestors, it relies heavily on veggies, nuts, seeds, berries, and, of course, meat and animal products. It’s particularly popular among fitness freaks, due to its high intake in protein, which is important for muscle growth.
 
@@ -48,7 +48,7 @@ Ironically, he’s also the same guy that started the pro-protein craze, recomme
 
 ## Lesson 3
 
-### Cancer is more often caused by animal-proteins than by plant-based proteins.
+### Cancer is more often caused by animal-proteins than by plant-based proteins
 
 Meat, milk and fish are prime sources of protein, and therefore fuel most people’s diets. Nobody’s worried about taking in too little carbs or fat – we all know we get more than enough of that – we think, and instead just focus on upping our protein intake, mostly resorting to animal-based products, because their laden with it.
 
@@ -71,7 +71,5 @@ What some people might call me unethical for is really just non-spiritual – I�
 **Hint:** Call me too objective again, but for me a good indicator of what’s extreme is always how many people follow the trend – after all, that’s how an extreme is defined in statistics. For the vegan diet, it’s ~1% in the US.
 
 If you’re interested in food and health, definitely read some summaries around this topic and pick up *The China Study* – but make sure to balance your view with more books on the topic – I like *Salt, Sugar, Fat*.
-
-## Who it’s for
 
 The 18 year old, who sees her parents suffer from bad long-term food choices, the 49 year old, who’s been following a strict diet for more than a year, and anyone who’s interested in optimizing their health and thinks about quitting fast food.

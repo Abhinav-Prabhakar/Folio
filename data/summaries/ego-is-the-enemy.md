@@ -16,11 +16,9 @@ Putting reins on your ego helps you in both good and bad times, because you’ll
 
 Ready to confront your biggest enemy within? Let’s take your ego to church!
 
-### Ego Is The Enemy Summary
-
 ## Lesson 1
 
-### Think of yourself as an eternal student to stay humble.
+### Think of yourself as an eternal student to stay humble
 
 How could we not start the summary of a book about stoicism with a quote from one of the all-time greats?
 
@@ -36,7 +34,7 @@ However, it pays to look both up and down the chain: take some time to mentor an
 
 ## Lesson 2
 
-### Delegate tasks to learn to trust in others.
+### Delegate tasks to learn to trust in others
 
 Have you ever held on to an incredibly dull task, just because you thought no one else can do it better than you? I do this all the time, especially for repetitive to-dos. This not just inflates your own ego, it’s also a huge missed opportunity to build trust with the people you work with.
 
@@ -51,7 +49,7 @@ For example, legendary American car manufacturer DeLorean may always be remember
 
 ## Lesson 3
 
-### Use unexpected results as inflection points to keep improving.
+### Use unexpected results as inflection points to keep improving
 
 Our ego has the tendency to blow everything out of proportion, both good and bad. Sometimes we get results, which are a lot better than we expected. Other times they’re much worse. The ego ruins both of them.
 
@@ -66,7 +64,5 @@ Take results only as what they truly are: a great opportunity to honestly reflec
 ## Review
 
 Stoicism is one of the few things you can hardly be confronted with often enough in your life. Besides *Ego Is The Enemy*, *The Obstacle Is The Way* is another great read on the subject, also by Ryan Holiday. I can also recommend *The Daily Stoic*, a book that works like a daily inspirational calendar, with a Stoic quote and a short explanation for each. And if you want to get a rough overview of the high-level mission of the Stoics, check out this table.
-
-## Who it’s for
 
 The 22 year old student, who’s about to graduate and can’t wait to not be a student any longer, the 37 year old manager, who just got promoted to a role with team responsibility and finds it impossible to delegate, and anyone who still remembers the last time their ego bit them in the ass.

@@ -26,7 +26,7 @@ Get ready to discover a whole new dimension of human interactions, but beware: o
 
 ## Lesson 1
 
-### Our bodies express our emotions physiologically.
+### Our bodies express our emotions physiologically
 
 Common sense suggests that how a person expresses their emotions is largely based on their culture. Yet, over the past two centuries, scientists have proven the opposite. **They discovered that *all* basic human emotions have universal facial expressions attached to them**.
 
@@ -40,7 +40,7 @@ Facial expressions, however, are just one of three areas of communication where 
 
 ## Lesson 2
 
-### Lying is more prevalent in everyday life than you would imagine.
+### Lying is more prevalent in everyday life than you would imagine
 
 An average adult can distinguish truth from falsehood 54% of the time. That’s hardly better than a blind guess. Therefore, at least once in a while, you are lied to without ever realizing it.
 
@@ -56,7 +56,7 @@ Well… Since we nowadays rely on technology for communication, lying is a lot m
 
 ## Lesson 3
 
-### Most people prefer to tell the truth. Your job is to make it as easy for them as possible.
+### Most people prefer to tell the truth. Your job is to make it as easy for them as possible
 
 The last part of Meyer’s book focuses on how to use your new skills in practice. Usually, it is not enough to just realize that somebody is deceiving you. What you really need is to find out the truth.
 
@@ -71,7 +71,5 @@ The bottom line is to remind you about a good old rule: if you want to see a cha
 ## Review
 
 *Liespotting* is the kind of book that permanently changes your perception of other people and yourself. It is not just about knowing whether someone is lying to you. This book offers so much more than that: deep insight into the world of human motivations, emotions, and desires. I recommend it to anyone who, well, interacts with other people. And, who doesn’t?
-
-## Who it’s for
 
 The 50-year old executive, who wants to better understand their employees, the 33-year old startup founder determined to play honest in the brutal business world, and to anyone interested in the psychology of human interactions.

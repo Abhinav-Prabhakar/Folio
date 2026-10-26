@@ -18,7 +18,7 @@ Are you all about that singletasking life? Let’s get you there!
 
 ## Lesson 1
 
-### Multitasking is as bad as being drunk, and costs the US $175 billion a year.
+### Multitasking is as bad as being drunk, and costs the US $175 billion a year
 
 One day I almost crashed my parents’ car, because I was fumbling around with my phone and not looking at the road. While that was a good (and probably necessary) lesson, I don’t recommend learning it the hard way.
 
@@ -30,7 +30,7 @@ Oh, and guess what number one is: drunk driving.
 
 ## Lesson 2
 
-### The more hacks and techniques you combine, the longer you can singletask.
+### The more hacks and techniques you combine, the longer you can singletask
 
 What makes multitasking complex and a tough problem to crack is that it’s not just one habit. It’s not like you can “stop multitasking” from one day to the next, because it’s a combination of many small things that you do, which, in total, add up.
 
@@ -45,7 +45,7 @@ Two of these changes Devora suggests are:
 
 ## Lesson 3
 
-### Singletasking won’t just make you more productive, it’ll also make you happier.
+### Singletasking won’t just make you more productive, it’ll also make you happier
 
 This I hadn’t heard before, but it makes perfect sense. The biggest benefit of singletasking is that it makes you happier, and more fulfilled.
 
@@ -60,7 +60,5 @@ So even if you don’t believe any of the many points about singletasking and pr
 ## Review
 
 As I said, a great reminder, even for those who do singletask, to keep doing it. Even if you know a lot about multitasking and productivity already, *Singletasking* will show you how it ties into your happiness and fulfillment, which has a nice new ring to it. Always worth picking up and reading a few pages, it’s like an alarm clock for your mind.
-
-## Who it’s for
 
 The 22 year old, who spends most of her time in class looking at her phone, the 67 year old, who’s a really good singletasker, but feels lost in the sea of modern day technology and options, and anyone who ever sent a text while driving.

@@ -58,6 +58,4 @@ When Boeing decided to cut on steps in the manufacturing process and let go of q
 
 Lessons from the Titans present the case studies of ten of the greatest companies in the USA, their best and worst practices, what great management looks like, and also how one company can crumble from the top down. Businesses can inherit tremendous value from such lessons and learn how to scale up, focus on their core values, and achieve long-term sustainability, reading this book will give you a much deeper insight into the world of business, finance, profits, and management.
 
-## Who it’s for
-
 The 30-year-old economist who is passionate about business case studies, the 35-year-old business owner who finds himself facing challenges in their organization and wants to learn how to overcome them, or the 25-year-old MBA student who wants to learn more outside their curricula.

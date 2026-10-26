@@ -18,11 +18,9 @@ Here are 3 good lessons to know what’s going on up there:
 
 Want to school your brain? Let’s take a field trip through the mind!
 
-### Thinking Fast and Slow Summary
-
 ## Lesson 1
 
-### Your behavior is determined by 2 systems in your mind – one conscious and the other automatic.
+### Your behavior is determined by 2 systems in your mind – one conscious and the other automatic
 
 Kahneman labels the 2 systems in your mind as follows.
 
@@ -42,7 +40,7 @@ However, these 2 systems don’t just perfectly alternate or work together. They
 
 ## Lesson 2
 
-### Your brain is lazy and causes you to make intellectual errors.
+### Your brain is lazy and causes you to make intellectual errors
 
 Here’s an easy trick to show you how this conflict of 2 systems affects you, it’s called the bat and ball problem.
 
@@ -74,7 +72,7 @@ So when it seems system 1 can handle things, it won’t activate system 2. In th
 
 ## Lesson 3
 
-### When you’re making decisions about money, leave your emotions at home.
+### When you’re making decisions about money, leave your emotions at home
 
 Even though Milton Friedman’s research about economics built the foundation of today’s work in the field, eventually we came to grips with the fact that the *homo oeconomicus*, the man (or woman) who only acts based on rational thinking, first introduced by John Stuart Mill, doesn’t quite resemble us.
 
@@ -100,7 +98,5 @@ Don’t let emotions get in the way where they have no business. After all, rule
 ## Review
 
 Kahneman’s thinking in *Thinking Fast and Slow* reminds a bit of Nassim Nicholas Taleb’s *Antifragile*. Very scientific, all backed up with math and facts, yet simple to understand. I highly recommend this book!
-
-## Who it’s for
 
 The 17 year old with an interest in biology and neuroscience, the 67 year old retiree with a secret passion for gambling, and anyone who’s bad at mental math.

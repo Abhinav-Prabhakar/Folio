@@ -20,7 +20,7 @@ Want to know how to make a country productive? Let’s learn how from the Israel
 
 ## Lesson 1
 
-### Nobody has more startups per capita than Israel.
+### Nobody has more startups per capita than Israel
 
 Israel is in constant conflict with Palestine. In fact, this endless, religious war is what the country is most known for. And if it’s not in the news for that, it’s for something about its nuclear weapons.
 
@@ -34,7 +34,7 @@ How the hell is such a tiny country so creative and productive? For one, it lies
 
 ## Lesson 2
 
-### To be innovative, you have to doubt things, assert yourself and informally discuss your ideas.
+### To be innovative, you have to doubt things, assert yourself and informally discuss your ideas
 
 When PayPal bought an Israeli company in 2008 to better deal with fraud among its payments, the Israelis openly criticized PayPal’s current practices during their first meeting with the CEO. This assertiveness, this **strong confidence in standing up for your ideas**, is called chutzpah in Hebrew, and it’s a typical value instilled in Israeli children.
 
@@ -46,7 +46,7 @@ If you want to be innovative yourself, try working on some of these traits!
 
 ## Lesson 3
 
-### Your location might suck politically, but you can use that to your advantage.
+### Your location might suck politically, but you can use that to your advantage
 
 Israel is a country rigged with political problems throughout all of history. Until recently, Israelis couldn’t even travel to neighboring countries. But this limitation was exactly the right one, forcing Israeli companies to think international and pursue ventures in technology, software and communication – the things that transcend all borders.
 
@@ -59,7 +59,5 @@ So even if your location might suck or you face political limits, if you play it
 ## Review
 
 A refreshing book shines a much-needed light on a seriously underrated country and economy. *Start-Up Nation* is very insightful! If you’re interested in entrepreneurship, give this a go 🙂
-
-## Who it’s for
 
 The 17 year old Israeli, who wants to know more about his country’s economy, the 55 year old venture capital investor, who wants to find new investing opportunities, and anyone who’s interested in political issues.

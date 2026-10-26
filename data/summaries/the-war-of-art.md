@@ -20,7 +20,7 @@ Ready to turn pro at your dream? Here we go!
 
 ## Lesson 1
 
-### You’re not alone, everyone struggles with Resistance.
+### You’re not alone, everyone struggles with Resistance
 
 Have you ever had that feeling that you are here to do something great? Maybe you feel you owe the world a great book, a new approach to fitness, or even a blockbuster movie.
 
@@ -38,7 +38,7 @@ Will Smith was afraid to meet with Quincy Jones before becoming the Fresh Prince
 
 ## Lesson 2
 
-### You have to treat your dream like a full-time job.
+### You have to treat your dream like a full-time job
 
 So what do you do to combat Resistance? What any professional would do: you work.
 
@@ -54,7 +54,7 @@ Do you show up to your job on time? I bet you do. Do you keep working when shit 
 
 ## Lesson 3
 
-### When you commit to a territory, you can change the world.
+### When you commit to a territory, you can change the world
 
 Each of us has a different calling. Some of us are app developers, some want to direct movies, others write books or knit tea cozies. That means we all pick different territories to leave our mark in. You find your territory based on 3 things:
 
@@ -71,7 +71,5 @@ Steven Pressfield feels like the kind of guy you could bump into on the street a
 Whether you believe Cal Newport, who says to just pick a profession and let passion follow, or others like Steven, who put passion first, it doesn’t matter. The message remains the same: Be a professional. Don’t wait for motivation, the perfect moment, or other peoples’ approval, just sit down and work – that’s still the best productivity hack there is.
 
 The summary on Blinkist is a great read as is, but Steven’s anecdotes and stories are priceless. The book isn’t long either, I read it in one park bench sitting on a beautiful summer afternoon. *The War Of Art* is an absolute must read for all self starters.
-
-## Who it’s for
 
 The 37 year old hobby wine collector, who’s worried he might be the only one who fears turning his passion into a business, the 63 year old, who could use a challenge to prove herself she’s still got it, and anyone who hasn’t committed to a territory yet.

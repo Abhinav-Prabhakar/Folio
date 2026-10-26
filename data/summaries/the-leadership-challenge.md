@@ -26,7 +26,7 @@ Get ready to learn all the secrets of great leadership! Let’s dive right in an
 
 ## Lesson 1
 
-### Effective leadership means setting a good example.
+### Effective leadership means setting a good example
 
 It’s much easier to persuade someone to follow you if you’re doing the right thing than if you’re merely telling them what to do. Sometimes this even results in people changing their behavior without even realizing it!
 
@@ -42,7 +42,7 @@ The moral of the story is, if you want those you lead to do something or act a c
 
 ## Lesson 2
 
-### Be proactive by always seeking out challenges and opportunities.
+### Be proactive by always seeking out challenges and opportunities
 
 If it weren’t for the proactive attitude of one Starbucks manager, the Frappuccino might not exist.
 
@@ -60,7 +60,7 @@ Innovation like this requires that you have a good baseline understanding of whe
 
 ## Lesson 3
 
-### If you want to accomplish amazing things you have to empower your team members to make their own choices.
+### If you want to accomplish amazing things you have to empower your team members to make their own choices
 
 I’ve been fortunate to never have a boss take credit for my work. But I can imagine how depressing it can be. If it did happen to me it would kill my motivation because I’d know that nobody would ever recognize my efforts.
 
@@ -79,7 +79,5 @@ When you give people the opportunity to rise to a new level you will improve eve
 ## Review
 
 I really like *The Leadership Challenge*. It gave me a lot of ideas on how to improve as a leader and also reminded me of some of my favorite leaders. I also enjoyed seeing how these principles are applicable whether you lead in an office, your home, or anywhere else in the world!
-
-## Who it’s for
 
 The 47-year-old who just became a manager and feels a little overwhelmed, the 22-year-old that wants to start working on becoming a great leader, and anyone who is in charge of a team of any kind.

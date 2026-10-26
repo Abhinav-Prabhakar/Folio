@@ -18,11 +18,9 @@ Here are my 3 favorite lessons from the book:
 
 Let’s look more closely at these distinctions between men and women!
 
-### Men Are From Mars, Women Are From Venus Summary
-
 ## Lesson 1
 
-### Men need to process their problems in their head while women want verbal communication.
+### Men need to process their problems in their head while women want verbal communication
 
 After a long day at work, Tom and Mary come home with work-related issues on their mind. As they both sit down for dinner, Mary starts talking about how her boss is making her work too much. Tom, being the problem-solver he is, starts offering solutions. This upsets Mary since she only needs Tom to listen to help her feel better.
 
@@ -34,7 +32,7 @@ As a man, you can let women talk without offering solutions and deal with your o
 
 ## Lesson 2
 
-### Women need to feel loved, whereas men like the sense that they are useful.
+### Women need to feel loved, whereas men like the sense that they are useful
 
 One Sunday afternoon, Tom decides to fix a broken bookshelf by himself. After watching Tom work for hours, Mary tells him to call his brother for help. Tom doesn’t like the advice because he wants to feel useful by fixing the bookshelf by himself. All he needs from Mary is an appreciation of his efforts and trust in his skills.
 
@@ -46,7 +44,7 @@ As a woman, you can show men that you trust them and let them help when they wan
 
 ## Lesson 3
 
-### Men and women may use similar words, but mean different things.
+### Men and women may use similar words, but mean different things
 
 One day, Mary brings up the issue that Tom has been too busy to spend time with her. She says: “We never go out together!” As a result, Tom bursts out in anger, reminding her of all the times they did go out together and all the things he’s been doing for the family.
 
@@ -63,7 +61,5 @@ As a man, you can focus on the feelings of women rather than their words alone. 
 ## Review
 
 *Men Are from Mars, Women Are from Venus* addresses some of the most common relationship problems couples experience. It highlights the key differences between men and women in how they think, act, and communicate. Therefore, it is a good guide, but don’t take this book as absolute truth. Every individual is unique and some may not fall into these patterns. That said, the book provides solid examples and “aha” moments in your quest to figure out the opposite gender.
-
-## Who it’s for
 
 The 35-year-old husband, who wants to better understand his wife, the 28-year-old wife, who is eager to fight less with her husband, and anyone interested in recognizing the differences between men and women.

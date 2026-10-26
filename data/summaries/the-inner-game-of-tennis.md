@@ -20,7 +20,7 @@ Whatever you want to accomplish, mastering your inner game will help you relax, 
 
 ## Lesson 1
 
-### We all have two selves and their inner battle determines our outer success.
+### We all have two selves and their inner battle determines our outer success
 
 Do you sometimes insult yourself out loud? For example when you drop something? “Ugh, you idiot, watch out!” While some of us do it more than others, it’s a very common phenomenon in sports for players to curse at themselves. This is a prime example of Self 1 and Self 2, as Tim Gallwey calls them, interacting.
 
@@ -32,7 +32,7 @@ For this inner conflict to be resolved, we need to take a different approach. Ap
 
 ## Lesson 2
 
-### To resolve our inner conflict, we must quiet Self 1 and trust Self 2.
+### To resolve our inner conflict, we must quiet Self 1 and trust Self 2
 
 The inner game is so powerful in determining our behavior that, sometimes, we can predict who will win a match, fight, or competition before it’s even begun. If you see a boxer stiffening before a match, they’re often trying too hard and, thus, will lose.
 
@@ -42,7 +42,7 @@ What we can do, however, to resolve this inner conflict, is to quiet Self 1 and 
 
 ## Lesson 3
 
-### The inner game isn’t limited to tennis or sports in general, it matters everywhere in life.
+### The inner game isn’t limited to tennis or sports in general, it matters everywhere in life
 
 As children, we’re great at playing the inner game. We don’t intellectualize everything. All we do is observe and then try on our own. This is called implicit learning. Basically, you memorize a skill without necessarily being able to describe what you’re doing every step along the way.
 
@@ -57,7 +57,5 @@ So, before you set out to achieve your biggest goals, remember to stay cool, not
 After reading the summary of *The Inner Game Of Tennis* on Blinkist, I instantly ordered a copy. It’s only 160 pages and I really want this idea to sink in. All of my best work has happened when I didn’t think about what I was doing. When I wasn’t worrying.
 
 The metaphor Tim Gallwey uses to describe this state really resonated with me. There’s a reason this book has been selling so many copies for so long. I highly recommend you learn from it.
-
-## Who it’s for
 
 The 15 year old tennis player, who has a real shot at a professional career, the 31 year old struggling actress, who can’t seem to access her talents during auditions, and anyone who forgot what it feels like to be “out of their mind.”

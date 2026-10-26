@@ -18,11 +18,9 @@ Here are the three most important lessons from the book that map the core princi
 
 Philosophy is a large subject, so studying it may take much more than reading a summary about Stoics. However, these three core lessons might take you one step closer to understanding what a life lived in virtue means.
 
-### The Daily Stoic Summary
-
 ## Lesson 1
 
-### As humans, we must learn to control our perceptions about the world if we want to live purposefully.
+### As humans, we must learn to control our perceptions about the world if we want to live purposefully
 
 Stoicism is a philosophy that teaches us how to control our emotions and maintain emotional balance in all things. It is the practice of being able to achieve this state of emotional balance by training the mind to be objective, calm, and rational.
 
@@ -34,7 +32,7 @@ For example, imagine someone steals your prepacked meal from the common fridge a
 
 ## Lesson 2
 
-### Work on controlling your actions, instead of letting them control you.
+### Work on controlling your actions, instead of letting them control you
 
 Mastering a skill is not an easy feat, but learning about the stoic philosophy will help you become much calmer, centered, and aware of your actions. Then, you’ll be able to focus on objective perceptions, leave your biases behind, and act accordingly. Action is a core component of Stoicism after perception is formed.
 
@@ -46,7 +44,7 @@ If someone says something mean about you, you’ll first form a perception about
 
 ## Lesson 3
 
-### Will sticks with us when everything else fades.
+### Will sticks with us when everything else fades
 
 The third core concept of the Stoic philosophy is will. So far, we’ve explored how perception must be interpreted, changed, and how action is a result of it. Action is not always necessary, and it’s a powerful act that can change our life.
 
@@ -63,7 +61,5 @@ Both types of will are within us, but in times of true heartbreak, pain, and hur
 The book addresses the natural thinking process of humans by pointing out areas of improvement that we can work on through a fresher perspective, acts of change, and the power of will.
 
 While highlighting the main concepts of this philosophy, the author proves a core point of thought – we can improve our life right away, starting from the way we think. A good life is all about perception, and material things rarely bring long-lasting happiness. Continuous improvement is the key to achieving wisdom.
-
-## Who it’s for
 
 The 45-year-old person who achieved material success but feels empty inside and wants to find more meaning in their life, the 30-year-old person passionate about the stoic philosophy who wants to deepen their knowledge in the field or the 36-year-old person who is faced with a negative event in their life and wants to learn how to deal with it.

@@ -20,7 +20,7 @@ Are you ready to feel some inspiration to take a chance at your long-forgotten p
 
 ## Lesson 1
 
-### Testing many different options is just as good as focusing on just one area early in life.
+### Testing many different options is just as good as focusing on just one area early in life
 
 Remember before when I mentioned Tiger Woods starting golf at a young age? Roger Ferderer, one of the best tennis players in the world and longtime friend of Woods’, reached athletic stardom in quite a different way.
 
@@ -32,7 +32,7 @@ Van Gogh of all people showed us it’s okay to take your time and test the wate
 
 ## Lesson 2
 
-### Having a wide range of experience will increase your chances of success in whatever field you are in.
+### Having a wide range of experience will increase your chances of success in whatever field you are in
 
 When researchers wanted to see what made certain comic creators successful, they hypothesized the more comics a particular creator had published, the more successful their comics would be.
 
@@ -46,7 +46,7 @@ Epstein makes a plea that hiring managers think outside of the box and avoid cle
 
 ## Lesson 3
 
-### The experts that we listen to are frequently useless at making accurate predictions about their area of expertise.
+### The experts that we listen to are frequently useless at making accurate predictions about their area of expertise
 
 Now that we understand how great it is to have a wide range of knowledge, let’s look at the biggest disadvantage of specialization. During the Cold War, forecasting expert Philip Tetlock gathered the predictions of 284 experts and assessed them. His shocking conclusion was that your average expert is horrible at predicting anything. It didn’t even make a difference in how many years of experience the expert had or even access to information that was classified.
 
@@ -59,7 +59,5 @@ The problem probably stems from the fact that experts have too narrow a focus. T
 ## Review
 
 This book blew me away, I had no idea the effects of specialization could be so negative! While I think that there are a time and place for focusing on one area, the case *Range* makes for generalization is strong. This gives me hope because I can’t seem to focus on just one idea, project, or career to specialize in.
-
-## Who it’s for
 
 The 43-year-old who has been working in the same field for much of their adult life and wants to try something new, the 24-year-old college graduate who is wondering how to find their purpose, and anyone who is looking for a more unique path to success.

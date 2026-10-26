@@ -20,7 +20,7 @@ Time to explore each lesson in detail and learn everything they have to offer, s
 
 ## Lesson 1
 
-### Authentic happiness and fun don’t necessarily imply a fancy vacation, but a simple treat.
+### Authentic happiness and fun don’t necessarily imply a fancy vacation, but a simple treat
 
 According to the author, fun isn’t an activity, but a feeling. She remembers vividly her childhood memories and looks back at a much simple time with joy and nostalgia. While in Georgia, she used to snap beans with her mother and grandmother from dusk till dawn. The best part? Well, that was the best part!
 
@@ -32,7 +32,7 @@ The idea is that happiness doesn’t come from future events, fancy trips, or ex
 
 ## Lesson 2
 
-### Fun starts right here, right now, so stop planting seeds for your future joy.
+### Fun starts right here, right now, so stop planting seeds for your future joy
 
 The author has a valuable lesson for all of us: stop planting seeds for the future and start harvesting the ones you’ve been growing for so long. As a single woman, she constantly delayed her happiness for a future state of being where she’d be married to someone.
 
@@ -44,7 +44,7 @@ Count your blessings and start living joyfully, without waiting for some end goa
 
 ## Lesson 3
 
-### Having fun is no excuse to deny your true feelings.
+### Having fun is no excuse to deny your true feelings
 
 Sometimes life sends hardships our way only to make us braver and stronger. During those difficult times, it may be hard to enjoy life and have fun. And the author knows it all too well. During a trip to Lone Valley, she felt as if she must have fun because everyone else does so.
 
@@ -59,7 +59,5 @@ Another great aspect that the book highlights is the importance of having hobbie
 *That Sounds Fun* is a wake-up call for anyone who wants to have fun again, find joy, or rediscover the joy of little things. We often prioritize our work over our leisure time, only to later resent that we never get to reap the fruits of our labor.
 
 If that sounds like you, you’ll be happy to discover the way out of work’s vicious loop Downs offers, do more of what makes you happy, and become content with where you stand in life.
-
-## Who it’s for
 
 The 35-year-old person who feels as if life gets too much in the way of fun and great experiences, the 40-year-old who wants to quit their 9-5 job and start living a more spontaneous and joyful life, or the 23-year-old who is going through a tough breakup and wants to learn how to deal with it by having fun and doing more of what makes her happy.

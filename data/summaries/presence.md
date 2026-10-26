@@ -22,7 +22,7 @@ Let’s dive right in and discover how to become more confident!
 
 ## Lesson 1
 
-### Find your top core value and write about it if you want to handle stress better and become more courageous.
+### Find your top core value and write about it if you want to handle stress better and become more courageous
 
 You know that playing to your strengths will make you more confident but how do you do it? While some self-help books will tell you to use affirmations, they don’t always work. Unless you utilize the power of your core values.
 
@@ -40,7 +40,7 @@ Writing about your core values will give you a major confidence boost. Consisten
 
 ## Lesson 2
 
-### Reminding yourself of past wins is a great way to beat powerlessness.
+### Reminding yourself of past wins is a great way to beat powerlessness
 
 Do you feel like there are some aspects of your life that are out of your control? The author once got a message from a woman named Cassidy who was really struggling with these feelings.
 
@@ -58,7 +58,7 @@ Just the other week I was feeling down and utilized this. I began listening to s
 
 ## Lesson 3
 
-### If you want to become more self-confident, improve your posture.
+### If you want to become more self-confident, improve your posture
 
 Would you believe me if I told you that you can improve your feeling of empowerment right now just by moving your body? You might doubt me but try it out by sitting more confidently and you’ll notice the difference immediately.
 
@@ -77,7 +77,5 @@ So if you want to feel confident, remember that acting confident in how you sit 
 ## Review
 
 Whoa, what an empowering book! I wasn’t sure what to expect of *Presence* at first, but now I’m excited to practice these tips to become more confident. This isn’t your average advice on courage and between the actionable tips it gives and the science to back up why they work, this book will change your life!
-
-## Who it’s for
 
 The 16-year-old that wants to do great things but thinks they’re too shy and can’t change that, the 37-year-old office worker who’d like to stand up for themselves better so they can get a raise, and anyone that wants to learn how to become more confident.

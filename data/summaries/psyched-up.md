@@ -22,7 +22,7 @@ Are you ready to get rid of nervousness and improve your next performance? Let�
 
 ## Lesson 1
 
-### If you want to fend off performance anxiety, reappraise and center yourself.
+### If you want to fend off performance anxiety, reappraise and center yourself
 
 Believe it or not, the intense anxiety that comes before a big task is your body’s natural response to stress, known as the fight-or-flight response. It causes an increase in adrenaline, blood pressure, and heart rate and is a good thing when it comes to survival in dangerous situations.
 
@@ -36,7 +36,7 @@ Another essential technique in calming performance anxiety is centering. You can
 
 ## Lesson 2
 
-### Have rituals and beliefs to enhance your state of mind before a showdown.
+### Have rituals and beliefs to enhance your state of mind before a showdown
 
 Maybe, you swing the bat a few times before stepping up to the plate. Maybe, you always wear a special necklace. Or maybe, you meditate to calm yourself down before going on stage. **Whatever you do before the big moments, research says it works – as long as you make sure you stay consistent.**
 
@@ -46,7 +46,7 @@ Beliefs play a big part in improving performance as well. In one study, golfers 
 
 ## Lesson 3
 
-### Competition will improve your performance.
+### Competition will improve your performance
 
 A little competition never hurt, right? When it comes to performance, competition and rivalries are a great thing. **Studies show that competition dramatically enhances performance.**
 
@@ -57,7 +57,5 @@ The motivating effects of competition help not only in sports but in the busines
 ## Review
 
 This book is a life-saver for those, who choke under pressure. *Psyched Up* delivers fascinating stories of real-life performers and provides studies to back up the claims it makes. It not only proves that there is a science behind mental preparedness but also gives the average person powerful suggestions on how to prepare for their time in the spotlight.
-
-## Who it’s for
 
 The 19-year-old pitcher on the college baseball team, who wants to improve his delivery during games, the 35-year-old sales manager, who needs to prep for their big presentation in front of management, and anyone who gets jittery before a public task.

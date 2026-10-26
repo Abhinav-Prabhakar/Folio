@@ -16,11 +16,9 @@ Here are three lessons from Taoism that will help you live a better life:
 
 Let’s dig into these lessons and learn from the master philosopher – Lao Tzu.
 
-### The Tao Te Ching Summary
-
 ## Lesson 1
 
-### Hold nothing back and surrender yourself to what is.
+### Hold nothing back and surrender yourself to what is
 
 The Master surrenders himself to the moment. He knows the difference between what’s in his control and what’s not in his control. He knows that death is the final outcome, so he does not fear it. Instead, he surrenders to it and prepares himself for it because he knows it may arrive at any time. He doesn’t hold on to anything because he knows nothing will last forever.
 
@@ -30,7 +28,7 @@ The old wisdom applies today as much as it was true in the past or it will be in
 
 ## Lesson 2
 
-### Seek to know your faults by observing yourself and how you judge others.
+### Seek to know your faults by observing yourself and how you judge others
 
 When the master makes a mistake, he realizes it. Having realized it, he admits it. Having admitted it, he corrects it. He doesn’t get offended by the ones who point out his faults. Instead, he treats them as his generous teachers. He catches himself when he’s not giving his best, and then he fixes it. He treats every faulty realization as an opportunity to increase self-awareness and become better, not an excuse to feel down.
 
@@ -40,7 +38,7 @@ The master thinks of his enemies as shadows he himself cast. He observes how he 
 
 ## Lesson 3
 
-### The purpose of competition is to playfully create and improve.
+### The purpose of competition is to playfully create and improve
 
 The master doesn’t wish his opponents to have a bad day on the day of competition. He wants everyone to bring their best to the table so that they can raise the level of the game, have a good match and bring out the spirit of play. He sees competition not as an ego-driven event, but as an opportunity to play and improve his skills. At the end of the competition, he wants everyone to leave better than before regardless of the outcome.
 

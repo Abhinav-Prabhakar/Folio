@@ -22,7 +22,7 @@ Are you ready to stop deeming your ego the enemy and embrace it instead? Then le
 
 ## Lesson 1
 
-### Letting go of your ego may lead to a spiritual bypass.
+### Letting go of your ego may lead to a spiritual bypass
 
 Have you heard about spiritual bypassing? The term was introduced by a Buddhist teacher and psychotherapist John Welwood. He used it to describe *“a widespread tendency to*
 
@@ -42,7 +42,7 @@ When self-depreciation is your baseline, the idea of “letting go of ego” onl
 
 ## Lesson 2
 
-### A healthy ego helps you pick relevant goals and build rewarding relationships.
+### A healthy ego helps you pick relevant goals and build rewarding relationships
 
 One consequence of having an ego is that it creates a “sense of separate self.” This gets a bad rap in the spiritual community as it’s associated with selfishness, not caring about others, and not being able to see that we’re all connected.
 
@@ -60,7 +60,7 @@ This benefits not just you — but everyone you come in contact with.
 
 ## Lesson 3
 
-### One way to a healthier ego is increasing your emotional awareness.
+### One way to a healthier ego is increasing your emotional awareness
 
 The vision of a healthy and functional ego surely is an attractive one — but how can you develop it?
 
@@ -77,7 +77,5 @@ That’s typically the first step to befriending it.
 ## Review
 
 *Ego Friendly* is a bit of a different self-help book. Rather than teaching you exactly what to do, it presents you with an alternative view of the ego. It frames the spiritual path as a journey directed by acceptance and compassion, rather than discipline and sacrifices. The last part of the book also contains practical guides on mindfulness meditation, mirror work, and other ways of working with the ego.
-
-## Who it’s for
 
 The 30-year-old about to make serious life decisions, the 47-year-old psychotherapist who wants to better understand their “spiritual but not religious” clients, and anyone who seeks answers in meditation or other spiritual practices.

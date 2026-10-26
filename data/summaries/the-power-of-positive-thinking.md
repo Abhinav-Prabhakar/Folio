@@ -18,11 +18,9 @@ Here are 3 lessons to help you think more positively:
 
 Let’s pump up the positive jam!
 
-### The Power of Positive Thinking Summary
-
 ## Lesson 1
 
-### Believe in yourself and visualize your goals to see how small your problems are.
+### Believe in yourself and visualize your goals to see how small your problems are
 
 Yes, confidence is important, because if you feel inferior, you’ll act inferior. We know confidence alone doesn’t solve all problems. After all, it’s not the same as competence, and telling a kid who’s horrible at math that she’s great won’t make her study more for the next test.
 
@@ -38,7 +36,7 @@ This is called mental contrasting and has been proven to cause changes in behavi
 
 ## Lesson 2
 
-### Your attitude determines your entire life.
+### Your attitude determines your entire life
 
 This quote really struck me:
 
@@ -54,7 +52,7 @@ Don’t choose negative thoughts, when you can choose positive ones. Ever.
 
 ## Lesson 3
 
-### Imagine your life free of worry to become less concerned about the future.
+### Imagine your life free of worry to become less concerned about the future
 
 Here’s a super meta hack for worrying less: **Imagine yourself as a worry-free person in the future**. Just imagining that it is possible for you to live without worry will take a lot of your current worries away.
 
@@ -69,7 +67,5 @@ Peale calls this draining your mind and it’s especially helpful before going t
 I’m a huge sucker for positive psychology. It’s easy for me to get carried away with it, and I’ve spent many years just sitting around, being a massive optimist, but not doing anything to get to where I wanted to be. Eventually, I’ve gotten my own personal reality check and now I know it takes more than a bunch of happy thoughts to make stuff happen.
 
 However, that hasn’t shifted my belief that positive thinking works even an inch. I believe a positive attitude is at the root of every successful person, however you may define that.
-
-## Who it’s for
 
 The 31 year old worrier, who sighs at every potential obstacle, the 57 year old high performer, who often goes to bed thinking about next day’s problems, and anyone who’s a pessimist.

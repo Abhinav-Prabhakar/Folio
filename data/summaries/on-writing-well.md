@@ -20,7 +20,7 @@ Let’s get right to these lessons and learn how to become better writers!
 
 ## Lesson 1
 
-### Cut out unnecessary words and phrases as much as possible because simple writing is the best at conveying meaning.
+### Cut out unnecessary words and phrases as much as possible because simple writing is the best at conveying meaning
 
 Of all the lectures I participated in throughout college, one stands out every time I think about great writing. The professor was telling us that you don’t find good writing in fancy magazines like the *New York Times* and *Time*.
 
@@ -40,7 +40,7 @@ As Stephen King famously said:
 
 ## Lesson 2
 
-### Your beginnings and endings make a big difference for reader engagement, so spend time making them great.
+### Your beginnings and endings make a big difference for reader engagement, so spend time making them great
 
 One of my high school teachers was well-known for saying “you never get a second chance to make a good first impression.” The more I thought about it the more I grew to like this piece of wisdom. Especially for how it applies to writing.
 
@@ -56,7 +56,7 @@ When it’s time to conclude, don’t summarize too much. Review everything brie
 
 ## Lesson 3
 
-### Inspire yourself with your writing and you will inspire those who read it.
+### Inspire yourself with your writing and you will inspire those who read it
 
 You can practice the skills we’ve covered so far and all of the others in this book and you’ll write well. But if you don’t learn to get your heart into it, your readers won’t connect with your words. It takes enjoyment, confidence, and inspiration, but it’s not easy.
 
@@ -77,7 +77,5 @@ Write about what you enjoy and enjoy what you write about and others will love r
 ## Review
 
 I love writing and reading books that help me become a better writer. *On Writing Well* is refreshing because it goes beyond the typical writing advice you usually hear. It gives tips that will inspire you to do what’s really necessary to become a great writer.
-
-## Who it’s for
 
 The 28-year-old that is just getting started on their writing journey, the 45-year-old blogger who is looking to write their first book, and anyone that wants to become a master at communicating with words on a page.

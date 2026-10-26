@@ -18,7 +18,7 @@ Ready for some common sense investing logic? Let’s invest in index funds!
 
 ## Lesson 1
 
-### Actively managed funds suck, because past profits don’t guarantee future success.
+### Actively managed funds suck, because past profits don’t guarantee future success
 
 It’s the same game, every single year. Come December, there’ll be a new, smiling face on the front of every finance magazine. Number one fund manager, analyst of the year, bla bla bla. Then, many people invest in that guy’s fund – and lose it all.
 
@@ -30,7 +30,7 @@ So chances are most actively managed funds go down the tubes sooner or later. Bu
 
 ## Lesson 2
 
-### Put the majority of your money in safe, low-cost index funds.
+### Put the majority of your money in safe, low-cost index funds
 
 If actively managing money sucks, what should you invest in then? How about something that’s *not* managed at all?
 
@@ -44,7 +44,7 @@ But which of the 500+ index funds should you choose?
 
 ## Lesson 3
 
-### Choose the cheapest fund to keep things simple.
+### Choose the cheapest fund to keep things simple
 
 Since all index funds work according to the same principles and promise returns similar to the overall stock market (which averages 8% a year), your best bet is **the cheapest index fund that’s available to you**.
 
@@ -57,7 +57,5 @@ Since index fund companies’ expenses don’t correlate with their returns, you
 ## Review
 
 I own some of Vanguard’s index funds, because I could instantly see the point of this strategy when I first learned about it in *Money – Master The Game*. It’s been a year and all funds are up 10%. What else could you possibly need to know? The blinks are almost too short, so I suggest you go straight for the full read. It’s called *The Little Book of Common Sense Investing* for a reason – it’s just over 200 pages.
-
-## Who it’s for
 
 The 20 year old who’s made his first foray into investing and lost some money with stocks, the 40 year old, who’s worried investing into index funds now won’t pay big enough dividends for a proper retirement, and anyone who doesn’t like the hassle of investing.

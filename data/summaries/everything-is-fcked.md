@@ -20,7 +20,7 @@ Let’s find out how to live in a world where everything is f*cked!
 
 ## Lesson 1
 
-### The rational mind is not capable of making the best decisions.
+### The rational mind is not capable of making the best decisions
 
 When a man named Elliot had a tumor removed from his frontal lobe, he lost his capability to process feelings. You may think that he became a more efficient person as he no longer had to deal with emotional resistance as we do.
 
@@ -32,7 +32,7 @@ For example, if you want to stop eating junk food, your Thinking Brain would tel
 
 ## Lesson 2
 
-### Accepting life’s truths and following principles is better than hoping or creating belief systems.
+### Accepting life’s truths and following principles is better than hoping or creating belief systems
 
 Every religion has one thing in common – it gives a sense of hope and faith to its followers. People love to adopt such views because of their unhappy lives. But the problem with such hope-related beliefs, as the German philosopher Friedrich Nietzsche identified, is that hope divides people’s perception into “good” and “bad.” It creates more unhappiness and conflict than meaning in life.
 
@@ -46,7 +46,7 @@ To adopt Kant’s philosophy, develop strong principles to build your character 
 
 ## Lesson 3
 
-### The pursuit of happiness leads to more depression and anxiety.
+### The pursuit of happiness leads to more depression and anxiety
 
 Any marketer or buyer knows the power of hitting potential customer’s pain points to get people to make purchases. We’re all trying to buy our way to happiness to make us feel better. Many advertisers take advantage of our desire for happiness to sell us products that we don’t need.
 
@@ -59,7 +59,5 @@ With the rise in technology, we’re trying to make life easier for ourselves. B
 ## Review
 
 *Everything Is F*cked* aims to bring some hope in a world where everything is f*cked. Mark describes everything wrong with the way we approach happiness and offers solutions from old-school philosophy to solve the problems we face in the modern world. While the book may come off as pessimistic at first, it has timeless principles that will give you some hope at last.
-
-## Who it’s for
 
 The 39-year-old man who often feels pessimistic, the 23-year-old woman who is in pursuit of happiness, and anyone interested in the philosophy of happiness and mental health.

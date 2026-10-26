@@ -22,7 +22,7 @@ Want to catapult your business from 0-60 in the blink of an eye? Let’s go get 
 
 ## Lesson 1
 
-### Think about your marketing as soon as you begin working on your startup.
+### Think about your marketing as soon as you begin working on your startup
 
 **The #1 mistake I keep seeing people make when trying to start a business is to not start marketing instantly**. Every time a friend tells me “I’m building this thing…” I ask: “Have you started marketing yet?”
 
@@ -40,7 +40,7 @@ Oh and don’t be afraid to share updates before you’re ready to launch. Marke
 
 ## Lesson 2
 
-### Go to trade shows to find people and companies to partner with.
+### Go to trade shows to find people and companies to partner with
 
 This is one of 19 traction channels Justin and Gabriel describe, but I picked it because it combines offline and online.
 
@@ -52,9 +52,9 @@ You can also use these to come up with creative marketing campaigns. For example
 
 ## Lesson 3
 
-### Use the bullseye framework to find which traction channel works best for you.
+### Use the bullseye framework to find which traction channel works best for you
 
-However, trade shows are just one of 19 ways to get traction, but that doesn’t mean you should pick that one. Nor does it mean you should do all of them at once. Here’s what Justin and Gabriel call the bullseye framework to **findwhich traction channel works best for you:**
+However, trade shows are just one of 19 ways to get traction, but that doesn’t mean you should pick that one. Nor does it mean you should do all of them at once. Here’s what Justin and Gabriel call the bullseye framework to **find which traction channel works best for you:**
 
 1. Brainstorm which channels work in your industry and how you could use them for your particular product.
 2. Categorize them into promising, possible and long shots.
@@ -69,7 +69,5 @@ As Steve Jobs said: “Focus is about saying no.”
 ## Review
 
 If I ran a “Startup Marketing 101” class, I’d probably make every student buy *Traction*. It gives a great overview of all your options, without allowing you to get completely lost in them, thanks to the bullseye framework. The two authors combine having a broad set of general knowledge with taking only a very narrow, focused path, and that’s what makes their marketing strategies for startups so efficient.
-
-## Who it’s for
 
 The 22 year old with an idea for a roommate matching service for college dorms, the 39 year old, who just remembered his past 2 failed startups and how too little marketing was the problem, and anyone who wants to get into online marketing.

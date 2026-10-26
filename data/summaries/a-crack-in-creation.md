@@ -20,7 +20,7 @@ Get ready for your mind to be blown by some really fascinating breakthrough scie
 
 ## Lesson 1
 
-### Scientists have found a way to utilize the natural phenomenon of CRISPR that happens in bacteria.
+### Scientists have found a way to utilize the natural phenomenon of CRISPR that happens in bacteria
 
 The acronym CRISPR stands for clustered regularly interspaced short palindromic repeats. Sounds complex, right? Think of it more simply as a part of bacterial DNA that lets us cut and modify genes as we please.
 
@@ -38,7 +38,7 @@ When CRISPR makes it’s slice, there’s a space right afterward that the body 
 
 ## Lesson 2
 
-### We can use gene editing to grow healthier crops and eliminate some diseases.
+### We can use gene editing to grow healthier crops and eliminate some diseases
 
 Let’s take a look at some of the practical applications of this tool. The ability to modify genes gives us a chance to create crops that produce more, resist sickness, and are healthier.
 
@@ -52,7 +52,7 @@ This amazing new tool even has a chance at stopping cancer entirely. Because DNA
 
 ## Lesson 3
 
-### Although this new breakthrough sounds all good, we must answer some questions and ethical implications about it.
+### Although this new breakthrough sounds all good, we must answer some questions and ethical implications about it
 
 The author’s breakthrough research was going well in 2014 when an entrepreneur had an interesting pitch to co-author Samuel Sternberg. They wanted him to help create a “CRISPR baby.” Sternberg declined this offer, but this began a string of ethical questions about gene editing that we still need to answer.
 
@@ -65,7 +65,5 @@ Which brings us to her last point of the regulations that governments must make.
 ## Review
 
 Whoa, what a mind-blowing idea! *A Crack In Creation* is fascinating, exciting, and a little scary all at the same time. I’ve always been interested in genetics and physiology and knew a little about CRISPR, but this book gave me a lot more in-depth knowledge that I’m sure you’ll enjoy too!
-
-## Who it’s for
 
 The 43-year-old lawmaker who is curious about the possibilities and issues surrounding gene editing, the 24-year-old who is majoring in biology and is curious to learn more about CRISPR, and anyone who wants to discover how this amazing breakthrough works.

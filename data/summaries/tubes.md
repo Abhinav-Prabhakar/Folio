@@ -22,7 +22,7 @@ Curious to understand the physical nature of the world’s most powerful technol
 
 ## Lesson 1
 
-### The internet isn’t just one network, it’s a network of networks.
+### The internet isn’t just one network, it’s a network of networks
 
 We’ve obviously come a long way since the very humble beginnings of the internet in the 1960s (then called ARPANET), ever since it’s grown exponentially. You’d think that with so many networks and participants added every day, the internet would become a messier and messier place – but in reality, it just gets better.
 
@@ -32,7 +32,7 @@ Physically, these connections happen at hubs, so-called internet exchange points
 
 ## Lesson 2
 
-### Big companies and major networks peer with one another at big hubs, which is what makes some websites faster than others.
+### Big companies and major networks peer with one another at big hubs, which is what makes some websites faster than others
 
 The practice of directly connecting one big network to another at a hub is called peering. **It’s nothing more than plugging a cable from one router to another,** allowing the data packages to travel shorter distances and thus reach their destinations faster.
 
@@ -42,7 +42,7 @@ However, as good as peering is while it works, sometimes companies disagree and 
 
 ## Lesson 3
 
-### Everything you create online is stored in data centers, which are connected with underwater cables and hubs.
+### Everything you create online is stored in data centers, which are connected with underwater cables and hubs
 
 Apart from IXPs, two other physical components are majorly responsible for keeping the internet up and running:
 
@@ -58,7 +58,5 @@ The last part of the internet equation are the submarine communication cables, w
 ## Review
 
 *Tubes* not only sheds some much needed light on how one of the most standard and taken-for-granted technologies of today works, it also lets you appreciate the internet much more. If anything, this is a great reminder to not freak out if your phone takes a few seconds longer to load something or when your wifi at home doesn’t work for a couple hours. Very informative and a good way to close a gap in general education!
-
-## Who it’s for
 
 The 16 year old, who doesn’t know what the picture of a receiver on her smartphone’s phone app really stands for, the 37 year old freelance web designer, who makes his living online, but doesn’t know much about its physical structure, and anyone who recently yelled at their screen because their wifi was down.

@@ -20,7 +20,7 @@ Let’s dive right in and get learning!
 
 ## Lesson 1
 
-### Boys’ mental health is suffering because of the incorrect stereotypical image of tough, emotionless males that society holds up.
+### Boys’ mental health is suffering because of the incorrect stereotypical image of tough, emotionless males that society holds up
 
 When Orenstein asked boys what they looked for in the ideal woman, she expected stereotypes like big boobs and blonde hair. Many of them actually listed positive descriptors like “ambitious” and “intelligent.” That surprises Orenstein.
 
@@ -34,7 +34,7 @@ This only continues into school years, where young men feel their peers will see
 
 ## Lesson 2
 
-### Young men have a hard time understanding consent and connecting deeply with others because of hookup culture.
+### Young men have a hard time understanding consent and connecting deeply with others because of hookup culture
 
 It seems the youth of today have decidedly “swiped right” on hookup culture and mostly rejected emotional commitment. Fueled by this culture are Dating apps and booze-filled one-night stands. And it is having big consequences.
 
@@ -48,7 +48,7 @@ Young men also report feeling the pressure to perform, leading them to drink alc
 
 ## Lesson 3
 
-### If we want to alleviate the struggles that boys have and cause when it comes to sexual matters, we need to be more open with them about sex.
+### If we want to alleviate the struggles that boys have and cause when it comes to sexual matters, we need to be more open with them about sex
 
 Orenstein did find some positives about boys and sex in today’s world. For one, they understand consent more than men of the past. They are also much more progressive when it comes to feminism and LGBTQI+ rights. But as we know, they also struggle with outdated ideas of masculinity and are exposed to more graphic pornography than any other generation.
 
@@ -61,7 +61,5 @@ As a parent, you shouldn’t just have “the talk’. You should regularly have
 ## Review
 
 I really wish every parent who has boys could read this book. There are also a lot of young men who could do well to read it also. Comparing it to Orenstein’s other book *Girls & Sex*, it seems this one focuses more on the problems boys cause. At first, this frustrated me but now I realize that these issues come from an incorrect view of masculinity. That stems from society, and not always the boys themselves. With the help of books like this, however, I think we can beat these problems for good!
-
-## Who it’s for
 
 The 17-year-old boy who wonders why it’s so hard to figure out sexuality, the 38-year-old high school teacher that wants to understand her male students better, and every parent who has boys.

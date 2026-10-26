@@ -22,7 +22,7 @@ Ready to admit your mistakes? What’s that? Not yet? Okay, we’ll work it out!
 
 ## Lesson 1
 
-### You make up self-justifications to deal with the cognitive dissonance your mistakes create.
+### You make up self-justifications to deal with the cognitive dissonance your mistakes create
 
 Wow.
 
@@ -42,7 +42,7 @@ This is called confirmation bias and it can lead you to not only believe in very
 
 ## Lesson 2
 
-### Confirmation bias can lead you to changing your entire morals.
+### Confirmation bias can lead you to changing your entire morals
 
 Confirmation bias goes in fact so far, that it can change your morals altogether, for example from someone who would never steal, to someone who thinks it’s actually okay.
 
@@ -60,7 +60,7 @@ When they reach the bottom, they end up at totally different ends of the pyramid
 
 ## Lesson 3
 
-### Stop thinking you’re stupid, just because you make mistakes.
+### Stop thinking you’re stupid, just because you make mistakes
 
 So what can you do to stop this self-reinforcing cycle of not admitting mistakes, making up excuses and then confirming those excuses?
 
@@ -89,7 +89,5 @@ Almost impossible to pick just 3 things, and I’d have loved to share more, but
 Many points of *Mistakes Were Made, But Not By Me* are tangentially related to other topics like memory or mental toughness, which makes you want to dive down the rabbit hole even further.
 
 I peeked inside the book and the stories and examples seem fascinating, but to get a rough overview the summary on Blinkist is very good, it’s quite comprehensive, so go for it!
-
-## Who it’s for
 
 The 13 year old student, who’s afraid of looking stupid in front of the class for making a mistake, the 35 year old politician, who knows there’s something he has to apologize about to his party, and anyone who smokes.

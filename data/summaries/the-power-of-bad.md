@@ -20,7 +20,7 @@ Negativity isn’t good but learning about it is about to help you become happie
 
 ## Lesson 1
 
-### You need to have five positive experiences to combat the overwhelming effects of just a single negative one.
+### You need to have five positive experiences to combat the overwhelming effects of just a single negative one
 
 How do you measure whether you should stay in a relationship or not? The perfect one doesn’t exist, after all. Our partners are usually great but once in a while their dark side comes out. Does that mean you should leave?
 
@@ -36,7 +36,7 @@ If you’re trying to improve yourself, though, Baumeister suggests you shot for
 
 ## Lesson 2
 
-### Sandwiching criticism between compliments doesn’t work, but when you deliver feedback correctly it can help others grow.
+### Sandwiching criticism between compliments doesn’t work, but when you deliver feedback correctly it can help others grow
 
 I recently saw a video while scrolling through Facebook that interested me because I could relate. It showed a woman standing between two large jars. One began filling slowly with jelly beans, which eventually reached the brim.
 
@@ -52,7 +52,7 @@ So when you need to give feedback, remember what doctors do when sharing bad new
 
 ## Lesson 3
 
-### Remove people that have a bad attitude from your life so that you don’t catch their infectious negativity.
+### Remove people that have a bad attitude from your life so that you don’t catch their infectious negativity
 
 Eliza Byington knows a thing or two about the power of a bad apple. Where once her office was tense and gloomy, one day everything changed for the better. What happened? The grumpiest employee started working from home!
 
@@ -75,7 +75,5 @@ To limit their effect on your team, start by catching it early before they can m
 ## Review
 
 I love the lessons this book teaches! It may sound counterintuitive, but *The Power Of Bad* is one of the best books on happiness that I’ve ever read. The advice and scientific research to back it up is motivational to help anyone and everyone get over the bad things in life to have more of the good!
-
-## Who it’s for
 
 The 29-year-old who is a pessimist at heart but is sick of always being miserable, the 53-year-old that loves to learn about psychology and how to use it to improve their life, and anyone that wants a new perspective on how to be happier.

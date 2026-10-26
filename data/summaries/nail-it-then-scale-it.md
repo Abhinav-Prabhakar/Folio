@@ -24,7 +24,7 @@ Get that business idea ready, after this you’re going to be ready to turn it i
 
 ## Lesson 1
 
-### Your new company might not survive if you get too much funding or rely too much on your “brilliant idea” alone.
+### Your new company might not survive if you get too much funding or rely too much on your “brilliant idea” alone
 
 If I walked up to you, handed you a million dollars, and said you had to use it to start a successful company, could you do it?
 
@@ -42,7 +42,7 @@ Without knowing what your customers want, there’s little chance it will catch 
 
 ## Lesson 2
 
-### Customer’s needs come first when it comes to making your plan, then you can refine it.
+### Customer’s needs come first when it comes to making your plan, then you can refine it
 
 It’s obvious that the easiest way to beat someone at their own game is with a solid strategy. Business is no different, but the process of crafting a good plan isn’t always so clear.
 
@@ -62,7 +62,7 @@ Apple, for example, began by selling kits so people could put together their own
 
 ## Lesson 3
 
-### Hire talented people and use a tested business model to scale effectively.
+### Hire talented people and use a tested business model to scale effectively
 
 If you do your market research and nip assumptions in the bud well enough, your company will begin to grow. At some point, you may even find your business taking off in ways you hadn’t anticipated.
 
@@ -81,7 +81,5 @@ The e-commerce site eBay, on the other hand, survived by focusing on slow growth
 ## Review
 
 I hate the idea of startup funding, which is why I loved *Nail It Then Scale It*! This book focuses more on the focus on the customer that you need if you really want to succeed in business. I hope that more entrepreneurs will catch on to this idea because it’s vital to building a sustainable company.
-
-## Who it’s for
 
 The 28-year-old who loves their new business idea but hasn’t done any market research yet, the 55-year-old that has build companies that have failed but wants to take a crack at entrepreneurship, and anyone that wants to learn the real way to get a startup off its feet.

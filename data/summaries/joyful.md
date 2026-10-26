@@ -20,7 +20,7 @@ Colors and designs may not seem like a thing worth writing about, but trust me t
 
 ## Lesson 1
 
-### A bright home with minimalist touches will feel more airy and fresh than a common accessorized space.
+### A bright home with minimalist touches will feel more airy and fresh than a common accessorized space
 
 When it comes to designing your new home, colors and shapes are a few of the most important elements. Bright, open spaces with minimalistic features and designs can help keep your home comfortable and inviting.
 
@@ -36,7 +36,7 @@ Keep in mind that minimalism is more about living with less than it is about bei
 
 ## Lesson 2
 
-### The Chinese had a strong sense of harmony that is still used in today’s design concepts.
+### The Chinese had a strong sense of harmony that is still used in today’s design concepts
 
 The Chinese people came up with a remarkable concept, namely Feng Shui. In a nutshell, it is about creating a living space that feels harmonious and inspires you to live peacefully. By placing certain objects in specific spots in your house, you too can achieve that sense of harmony.
 
@@ -48,7 +48,7 @@ Think of your home as a reflection of yourself. Keep in mind to also make it bre
 
 ## Lesson 3
 
-### People are naturally attracted to odd, yet funny visuals and creations that inspire awe.
+### People are naturally attracted to odd, yet funny visuals and creations that inspire awe
 
 Humans are generally used to everything life has to offer in terms of colors and designs. However, once in a while, certainly remarkable creations manage to surprise even the toughest of critics.
 
@@ -69,7 +69,5 @@ The first thing you notice when you walk into a room is its color. They have the
 This is what *Joyful* is all about. The book manages to highlight how tiny aspects of life can mean so much when we take the time to think about them, how colors give life meaning, and how we can make the most out of these nature-given creations in our life.
 
 The book is definitely worth reading, as it teaches you how to adopt minimalism in your life, how to decorate your home to make the most out of it, how to use colors to relieve stress and anxiety, and many more valuable ideas that will change your life for the better.
-
-## Who it’s for
 
 The 26-year-old aspiring interior designer, the 34-year-old person who wants to redecorate their house, or the 40-year-old person who has an affinity for Feng Shui and the power of design.

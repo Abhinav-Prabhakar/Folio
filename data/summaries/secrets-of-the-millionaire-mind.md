@@ -20,7 +20,7 @@ Ready to flip the switch from pennies to profits? Let’s go!
 
 ## Lesson 1
 
-### You probably try to make money the same way your parents do.
+### You probably try to make money the same way your parents do
 
 Imagine your Mum makes an awesome chocolate cake (I hope she does!) and you wanted to bake one yourself. You’d probably turn to her for advice and ask: “Hey Mum, how are you making that chocolate cake?”
 
@@ -34,7 +34,7 @@ While entirely natural, replicating the income habits of our parents won’t wor
 
 ## Lesson 2
 
-### Realize you’re the one in charge, to start taking control of your money.
+### Realize you’re the one in charge, to start taking control of your money
 
 Let’s paint a mental picture. At the beginning of the month, your paycheck arrives. Now imagine every single dollar bill is a passenger on a bus, and over the course of the month, that bus drives along, and everyone gets off at a different stop. Some dollars leave at the rent stop, some leave at the grocery stop, some get off at the dry cleaner’s, and so on.
 
@@ -46,7 +46,7 @@ Stop complaining, analyze where you’re spending too much money and adjust acco
 
 ## Lesson 3
 
-### Don’t despise rich people.
+### Don’t despise rich people
 
 This one struck me because it was subtle, yet I could see the truth in it. **If you hate rich people, you will never get rich**.
 
@@ -61,7 +61,5 @@ So quit the complaints and start objectively looking at what you have to do, the
 *Secrets Of The Millionaire Mind* has some really good insights, like lesson 3, which makes a lot of sense once you catch on, but is not something you’d think of yourself. I can definitely relate to the predisposition part, we just adapt to what our parents do in every facet of life. It’s natural, so if we want something different, we have to change our thought patterns.
 
 The book has 17 “Wealth Files” which describe the habits and mindsets of millionaires in a lot more detail. Definite recommend!
-
-## Who it’s for
 
 The 21 year old, who’s been working for 5 years, and always scrambles to meet ends meet at the end of the month, the 39 year old who realized she exactly modeled her parents’ financial behavior, and anyone who keeps pointing fingers at the government, their boss or the economy.

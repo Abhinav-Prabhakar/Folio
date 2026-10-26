@@ -18,11 +18,9 @@ Here are just 3 of the many eye-opening lessons from *The Alchemist*:
 
 Let’s jump right into this wonderful book and see how much we can learn!
 
-### The Alchemist Summary
-
 ## Lesson 1
 
-### If you want to reach your biggest goals and feel fulfilled, you must follow your Personal Legend.
+### If you want to reach your biggest goals and feel fulfilled, you must follow your Personal Legend
 
 The story begins with a young Spanish shepherd having a recurring dream. It happens each time he sleeps under a Sycamore tree outside of an old church building. In the dream, the boy hears from a child that he must go to the Egyptian pyramids to seek a treasure.
 
@@ -40,7 +38,7 @@ Once you begin, the whole universe will conspire to make it happen. But that doe
 
 ## Lesson 2
 
-### Stop being afraid if you want to remove the barriers that keep you from progressing.
+### Stop being afraid if you want to remove the barriers that keep you from progressing
 
 The boy soon arrives in Tangier. The culture and the language, which he cannot speak, amaze him. This leads to someone stealing all his money. Even worse, he fears he’s made the wrong decision and almost heads back for Spain.
 
@@ -56,7 +54,7 @@ You also must your dreams, even when you’re afraid of the unknown path ahead. 
 
 ## Lesson 3
 
-### Rise more times than you fall and you will never fail.
+### Rise more times than you fall and you will never fail
 
 As the young man’s journey continues, he meets an Englishman who tells him of an alchemist that can turn lead into gold. Eventually, the two stop in Al-Fayoum as part of the caravan they travel with.
 
@@ -73,7 +71,5 @@ Just like this young man, you will fall while on your journey. But if you commit
 ## Review
 
 *The Alchemist* is a classic and one of my favorite books. It’s deep, thought-provoking, a great story, and shares some of the best principles I know for living a happier and more successful life. Truly a must-read I would recommend to anyone!
-
-## Who it’s for
 
 The 37-year-old who wants to be a writer but feels stuck in their office job, the 17-year-old who wants to live a life of fulfillment, and anyone who’s tired of living small.

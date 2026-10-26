@@ -20,13 +20,13 @@ Let’s use these NVC touchpoints as the foundation for a new way of speaking an
 
 ## Lesson 1
 
-### Keep your observations and your judgments separate in order to keep others from feeling defensive.
+### Keep your observations and your judgments separate in order to keep others from feeling defensive
 
 Often, our brains leap to label someone: that student is “lazy,” that husband is “careless,” and so on. Often our mouths rush to speak the judgment, too!
 
 But does it really work to go around judging people? How do they tend to respond when you judge them? How do *you* respond when other people do this to you?
 
-A person who’s feeling judged typically goes on the defensive or just shuts down. **Judging someone is about the*worst* thing you can do if what you want is for them to listen to you or change something about their behavior!**
+A person who’s feeling judged typically goes on the defensive or just shuts down. **Judging someone is about the *worst* thing you can do if what you want is for them to listen to you or change something about their behavior!**
 
 Rosenberg suggests a foundational habit for NVC: that we learn to separate observations about what happened from our judgments about them. An observation is objective, concrete, and neutral. Instead of a “lazy student,” learn to think “that student did not complete the homework.” Instead of a careless husband, think “he left toothpaste in the sink.”
 
@@ -34,7 +34,7 @@ Straightforward observations leave much more space for potentially understanding
 
 ## Lesson 2
 
-### Connecting actions and requests to people’s specific needs can diffuse tensions and point towards possible resolutions.
+### Connecting actions and requests to people’s specific needs can diffuse tensions and point towards possible resolutions
 
 Why are we so judgmental, if it’s not usually productive? Rosenberg explains that “analyses of others are actually expressions of our own needs and values.”
 
@@ -50,7 +50,7 @@ If you first find a way to show others that you truly understand their needs, yo
 
 ## Lesson 3
 
-### Using nonviolent communication on yourself can alleviate feelings of regret and anxiety.
+### Using nonviolent communication on yourself can alleviate feelings of regret and anxiety
 
 Since all people have needs and deserve empathy, that includes your past and current selves too!
 
@@ -63,7 +63,5 @@ NVC even provides a better way of giving compliments. After all, even positive j
 ## Review
 
 Some of the ways of speaking endorsed in *Nonviolent Communication* do sound awfully stilted. As I read it, I had a hard time imagining myself saying some of those things. However, NVC’s core lessons seem sound, and it’s really as simple as judging less and meeting everyone’s needs more. Given how many problems in life come from communications breakdowns, what do you have to lose anyway?
-
-## Who it’s for
 
 The 34-year old professional who hates conflict but needs to start sticking up for herself, the 25-year old hothead who doesn’t seem to be able to stop getting into verbal sparring matches with everyone in his life, and anyone who’s interested in learning what seems to come naturally to the best mediators among us.

@@ -22,7 +22,7 @@ Let’s get right to learning!
 
 ## Lesson 1
 
-### Our ancestors didn’t live as long or as well as we do now.
+### Our ancestors didn’t live as long or as well as we do now
 
 The first humans on earth were hunter-gatherers. While they lived healthily, their lives were short. On average, they lived only until age 40, with most of their life dedicated to finding food and shelter.
 
@@ -36,7 +36,7 @@ So both their quality of life and life expectancy took a sharp decline during th
 
 ## Lesson 2
 
-### The last 250 years have seen a dramatic rise in human lifespans thanks to political, economic, scientific, and societal advancements.
+### The last 250 years have seen a dramatic rise in human lifespans thanks to political, economic, scientific, and societal advancements
 
 Just in the last century, we have seen the average life expectancy increase by about 30 years in wealthy countries. **The biggest driver of this monumental feat is the decrease in child mortality.**
 
@@ -50,7 +50,7 @@ But these advances, unfortunately, have not reached every part of the earth. Sad
 
 ## Lesson 3
 
-### Inequality is changing because of globalization, but this isn’t going to fix the poor state of some countries.
+### Inequality is changing because of globalization, but this isn’t going to fix the poor state of some countries
 
 You can find inequality among citizens in all countries — but the biggest gaps are between nations. Before the Enlightenment and the Industrial Revolution, most countries worldwide were similar in disparity. Most countries had poor farmers and rich aristocrats who owned the land they worked on.
 
@@ -65,7 +65,5 @@ Poverty doesn’t just make it hard to buy food or afford housing. It makes it h
 ## Review
 
 What I liked about *The Great Escape* was that it blew away all the doom and gloom stories of how bad things are in the world that we see in the news all the time. Things really are much better than we think, and I wish we could see that more often. It was tough to learn how bad poverty is throughout the world. But I think we can keep moving forward to improve this as we have in many other areas.
-
-## Who it’s for
 
 The 20-year-old who wonders if their quality of life is really that great, the 42-year-old who is tired of the news making them feel like the world is on fire, and anyone who has any political power to do something about the rampant inequality in the world.

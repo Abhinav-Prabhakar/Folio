@@ -16,11 +16,9 @@ Here are 3 lessons from the book to worry less about productivity, scale your wo
 
 Let’s become automation masters!
 
-### Automate Your Busywork Summary
-
 ## Lesson 1
 
-### Separate your meaningful work from your busywork, and audit the latter.
+### Separate your meaningful work from your busywork, and audit the latter
 
 In *Alice in Wonderland*, Alice gets lost, then asks for directions — but without a destination, the Cheshire cat can only tell her: “It doesn’t matter which way you go.” Similarly, to eliminate tedious tasks, you *must* know what’s annoying, dull, and repetitive vs. what’s meaningful, impactful, and fun. If you don’t see clearly, you will stay lost in the forest of busyness.
 
@@ -41,7 +39,7 @@ Tracking your busywork vs. important work for a few days will give you automatio
 
 ## Lesson 2
 
-### Understand the 3-part “Automation Flywheel” to start eliminating busywork and make automation a way of life.
+### Understand the 3-part “Automation Flywheel” to start eliminating busywork and make automation a way of life
 
 Once you have a list of tasks to automate, you can get to work with Tank’s “Automation Flywheel” model.
 
@@ -55,13 +53,13 @@ The model has 3 phases consisting of 2 steps each:
 
 There’s a lot to this model, which Tank refined over decades, but for now, let’s remember that, first, automation is an ongoing process. This reflects the Japanese philosophy of “Kaizen,” which translates to “continuous improvement.”
 
-Second, the flywheel has 3 repeating phases: a problem-phase, a solution-phase, and a measurement-phase. You can remember the 6 individual steps with this acronym: **D** readed **C** hores **D** eserve **I** ngenious **R** eflection **I** mmediately.
+Second, the flywheel has 3 repeating phases: a problem-phase, a solution-phase, and a measurement-phase. You can remember the 6 individual steps with this acronym: **D**readed **C**hores **D**eserve **I**ngenious **R**eflection **I**mmediately.
 
 Now let’s look at some real-world examples!
 
 ## Lesson 3
 
-### Use automation to improve everything from your memory to your creativity, communication, and even peace of mind.
+### Use automation to improve everything from your memory to your creativity, communication, and even peace of mind
 
 How can you use the Automation Flywheel to make immediate, lasting change? Let’s start with something universal: email. Specifically, your email **memory**: By automatically saving email attachments, you’ll never have to ask people to resend things.
 
@@ -80,7 +78,5 @@ Automation goes beyond getting more done. **Once you’ve mastered its principle
 ## Review
 
 *Automate Your Busywork* is a refreshingly technical productivity book. Tank keeps it light on the theory side and heavy on templates, examples, and implementation. There’s a flair of academic depth, but without the boredom of textbooks. This book requires some commitment, but it pays back manifold with a skill you’ll keep for life and apply to almost anything.
-
-## Who it’s for
 
 The 25-year-old college graduate who wants to quickly make a lasting impact at work, the 48-year-old executive who feels she has become bogged down in low-priority tasks, and anyone who enjoys making big plans and executing them well.

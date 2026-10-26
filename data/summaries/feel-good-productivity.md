@@ -18,18 +18,16 @@ Here’s an overview of its 3 pillars in 3 lessons:
 
 Let’s discover a new, better way of living and working!
 
-### Feel-Good Productivity Summary
-
 ## Lesson 1
 
-### Everything starts with energy, and there are 3 Ps you can leverage to increase yours.
+### Everything starts with energy, and there are 3 Ps you can leverage to increase yours
 
 Behind the study Ali discovered lay a bigger idea: the broaden-and-build theory. It says that “positive emotions ‘broaden’ our awareness and ‘build’ our cognitive and social resources,” he writes. When you’re happy, you’ll consider more options — like using a thumbtack box to hold up a candle instead of nailing it directly to the wall. And over time, good feelings also provide a mental and emotional buffer for tough situations.
 
 **Good feelings aren’t a side effect — they’re the very thing that supplies us with energy, and it takes energy to do anything!** Ali explains there are 3 ways to energize ourselves:
 
 1. **Play**. Seriousness makes us tense, and when we are tense, we rarely do our best work.
-2. **Power**. This is about confidence, not control. We need to feel *em* powered to shape our lives and work.
+2. **Power**. This is about confidence, not control. We need to feel *em*powered to shape our lives and work.
 3. **People**. Nothing motivates us like the right people who naturally lift us up through their mere presence.
 
 To implement these ideas, Ali suggests multiple experiments in each chapter. With play, for example, you could turn your work into a video-game like adventure or lower the stakes so you’ll have more fun. Confidence is a matter of mastering hard skills and taking responsibility for your situation. Finally, many of us already have the right people in our lives — we just need to offer and ask for help more often.
@@ -38,7 +36,7 @@ When your batteries are empty, go back to the 3 Ps: Bring some play, power, and 
 
 ## Lesson 2
 
-### The most common productivity blockers are fear, uncertainty, and inertia, and they each have one specific remedy.
+### The most common productivity blockers are fear, uncertainty, and inertia, and they each have one specific remedy
 
 If you’ve ever had a day where you felt full of energy yet got nothing done, you know there’s more to work than vitality. Ali relates the story of someone who observed Leonardo Da Vinci while painting *The Last Supper*. “He would go for two, three or four days without touching his brush, but spending several hours a day in front of the work, his arms folded, examining and criticizing the figures to himself,” the contemporary noted.
 
@@ -56,7 +54,7 @@ Finally, make a small change, *any* change, to get started on the right path. Mo
 
 ## Lesson 3
 
-### Burnout isn’t just burnout. There are 3 types we must avoid for long-term, feel-good productivity.
+### Burnout isn’t just burnout. There are 3 types we must avoid for long-term, feel-good productivity
 
 Even after Ali left medicine to focus on his Youtube business — technically a dream job that he loved — he found himself yet again lying on the couch, telling his mom he couldn’t work anymore. “It sounds like you’re going through burnout,” she told him.
 
@@ -73,7 +71,5 @@ Ultimately, it’s about remembering that life is about the big picture, not how
 ## Review
 
 *Feel-Good Productivity* is a clean, well-structured buffet of some of the best productivity advice science has to offer. The 3 pillars come with 3 strategies each, for each of which Ali offers 3 techniques, backed with 2 experiments per technique. That’s 54 experiments you can run to change how you approach work and life. If you pick and choose what works for you, you’ll get a lot out of this book!
-
-## Who it’s for
 
 The 19-year-old college student first grappling with how to be more productive, the 35-year-old busy doctor who’s struggling to keep up, and anyone who feels burned out.

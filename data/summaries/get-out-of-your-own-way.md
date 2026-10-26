@@ -20,7 +20,7 @@ Let’s get right to it and find out how to stop getting in our own way on the r
 
 ## Lesson 1
 
-### Failure is normal and acceptable for the people who grow the most.
+### Failure is normal and acceptable for the people who grow the most
 
 One day, Dave’s son Jackson decided that he’d like to run for class president. Knowing this was a learning opportunity no matter how Jackson did, Dave encouraged him to do it.
 
@@ -38,7 +38,7 @@ You can choose to have a growth mindset too. It is possible to break your social
 
 ## Lesson 2
 
-### Stop avoiding pain if you want to see your life improve.
+### Stop avoiding pain if you want to see your life improve
 
 Dave and his wife Rachel have three biological sons. Feeling their family was incomplete without a daughter, however, they decided to adopt in 2013.
 
@@ -56,7 +56,7 @@ This was just what the Hollis’s needed to realize that pushing through pain wa
 
 ## Lesson 3
 
-### Break yourself of your limiting beliefs if you want to reach your full potential.
+### Break yourself of your limiting beliefs if you want to reach your full potential
 
 Dave is now an avid runner. But he didn’t even begin running until his mid-thirties.
 
@@ -75,7 +75,5 @@ You probably hold onto your limiting beliefs because it’s easier to stay insid
 ## Review
 
 What an excellent book! *Get Out Of Your Own Way* is perfect for all the studying I’m doing right now on limiting beliefs and how to beat them. It’s inspired me to get over myself and my stories so that I can reach my dreams and I’m confident that it will do the same for you!
-
-## Who it’s for
 
 The 47-year-old who has been working in their job for a while and never paused to ask themselves whether they like it or not, the 22-year-old with low self-esteem that always makes excuses but doesn’t realize it, and anyone that wants to be their best self.

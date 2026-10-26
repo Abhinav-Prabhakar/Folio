@@ -22,7 +22,7 @@ Get ready to find more happiness at work, whether you’re an employee or an emp
 
 ## Lesson 1
 
-### The passion you have for learning new things can be really useful at work, but your job smothers it.
+### The passion you have for learning new things can be really useful at work, but your job smothers it
 
 You might not remember it, but when you were a kid you loved learning. And you were great at it too. If you want to see why, just find a toddler and watch them as they touch, smell, and taste everything they see. They don’t care if they fall when walking or fail at anything else, they just get back up and try again.
 
@@ -38,7 +38,7 @@ Fortunately, you can beat all of these problems with the five disciplines, which
 
 ## Lesson 2
 
-### You can get enthusiasm back at the office by adopting the five disciplines to make it a place of learning.
+### You can get enthusiasm back at the office by adopting the five disciplines to make it a place of learning
 
 Old habits might be hard to break, but if you work at them every day, you can make new ones in no time. In your workplace, you’ll be tempted to go back to the old ways as you try to implement the five disciplines, but don’t give up and it will work.
 
@@ -54,7 +54,7 @@ Last and most important is **systems thinking**, which requires looking at probl
 
 ## Lesson 3
 
-### If you are a leader, change your mindset around your role to adopt the ideals of a designer, teacher, and steward.
+### If you are a leader, change your mindset around your role to adopt the ideals of a designer, teacher, and steward
 
 What comes to mind when you hear the word “leader?” You might think of managers or executives that take the “top spots” or “senior ranks” within a company. But this doesn’t work for learning organizations as it focuses solely on the title.
 
@@ -73,7 +73,5 @@ Last comes the mantle of a steward who protects the most important things. To do
 ## Review
 
 Whoa, I really enjoyed *The Fifth Discipline* a lot more than I thought I would! I think that the title doesn’t do it justice, this book is fantastic. It’s an inspiring marriage of career and passion in a way that integrates employee’s and employer’s goals that I think everyone will enjoy.
-
-## Who it’s for
 
 The 38-year-old manager who can’t seem to understand why his team members keep leaving, the 58-year-old that wants to start a company that attracts motivated people, and anyone that is tired of not feeling passionate at work.

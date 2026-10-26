@@ -20,7 +20,7 @@ Let’s get right to it so we can understand why blockchain is so cool!
 
 ## Lesson 1
 
-### Tampering with the blockchain is almost impossible.
+### Tampering with the blockchain is almost impossible
 
 First off, you might be wondering why we call it “blockchain.” Put simply, every transaction is recorded in what’s known as a block. Each new block is linked to the block before it, making it like a chain.
 
@@ -34,7 +34,7 @@ But doing this wouldn’t even be worth it anyway. The cost of that kind of comp
 
 ## Lesson 2
 
-### Our current banking system is much slower, more expensive, and less equal than blockchain.
+### Our current banking system is much slower, more expensive, and less equal than blockchain
 
 Have you ever tried to make a transaction or deposit and you were told you would have to wait one or more business days for it to go through? You might wonder why this kind of thing is still taking so long when you can email someone and they receive it instantly. It goes to show how outdated our financial system is.
 
@@ -48,7 +48,7 @@ In contrast, blockchain could provide many of the services a bank could at no co
 
 ## Lesson 3
 
-### You can use blockchain to allow for transparency or security.
+### You can use blockchain to allow for transparency or security
 
 One of the big problems facing our modern world of technology is how we can keep our personal information safe online. Blockchain could also help us in this area, because transactions allow you to have both transparency and privacy, depending on the situation.
 
@@ -63,7 +63,5 @@ If you wanted to earn some extra money, you could give out pieces of your person
 ## Review
 
 Technology is so cool and so is *Blockchain Revolution*! I can only hope that society and the government will fully adopt things like the blockchain so that we can improve the awful inefficiencies in our financial system.
-
-## Who it’s for
 
 The 46-year-old that’s tired of having to deal with slow and insecure banks, the 73-year-old who wants to get caught up on the current money trends, and anyone that wants to understand blockchain so they can be prepared for the future.

@@ -20,7 +20,7 @@ Want to do less and live more? Here we go!
 
 ## Lesson 1
 
-### Create an external brain to save space in your own.
+### Create an external brain to save space in your own
 
 Think you can remember everything and juggle multiple things at a time?
 
@@ -46,7 +46,7 @@ As my grandma used to say: Knowing means knowing where to find it!
 
 ## Lesson 2
 
-### Customize your life to save time and even make money.
+### Customize your life to save time and even make money
 
 Do you know how sometimes architects shape rooms in a really weird way?
 
@@ -66,7 +66,7 @@ An entirely new perspective, right?
 
 ## Lesson 3
 
-### Use upper and lower limits to trade quantity for quality.
+### Use upper and lower limits to trade quantity for quality
 
 Deliberately limiting yourself is one of the most freeing things you can do.
 
@@ -89,7 +89,5 @@ Great collection of tools and resources. I liked how each blink on Blinkist ment
 The summary felt like a fusion of *The Pomodoro Technique* and *Essentialism,* while reminding me slightly of Leo Babauta’s *The Power of Less*.
 
 Tip: Read the summary on Blinkist to get a feel for how the book meshes technology and sound productivity strategies and then get the full resource treasure chest in form of the book.
-
-## Who it’s for
 
 The 21 year old, who always forgets one thing on her shopping list, the 31 year old, who feels like he has two left hands and can’t build anything custom for himself, and anyone who feels like they have too much stuff.

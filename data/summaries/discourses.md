@@ -18,7 +18,7 @@ Of course, there’s more to the Stoic philosophy and Epictetus’s valuable lif
 
 ## Lesson 1
 
-### Life’s hardships help us grow as individuals.
+### Life’s hardships help us grow as individuals
 
 Epictetus tries to make sense of life’s challenges by looking at them from another perspective. What if everything you’ve been going through and everything bad that’s happened to you was for a reason? What if your challenges shaped you into a stronger individual? If you don’t buy into this philosophy yet, stick with me, as I’ll walk you through an example.
 
@@ -28,17 +28,17 @@ Now, imagine if Hercules didn’t have any challenges to face, nor any obstacles
 
 ## Lesson 2
 
-### Building greatness takes time.
+### Building greatness takes time
 
 You might’ve heard this before, but success doesn’t happen overnight. Just like Epictetus says, even grapes and figs take time to ripen. As such, he suggests that you grow like a fig, slowly but steadily, but never rushing the process. If a fruit can’t be brought to maturity in an hour, nor can you. And frankly, this isn’t a bad thing. Life isn’t supposed to make you grow fast and then stagnate there.
 
 Instead, growth happens incrementally, through everyday small steps. However, sometimes life makes us take huge leaps ahead, especially through difficult times. But again, they help us grow and evolve as we learn to navigate through them. Now, back to the grapes and figs. Epictetus mentions that our growth as humans resembles these plants’ life cycle.
 
-***“First it must blossom. Then bear fruit. Then ripen.”*– and therefore, no great thing happens overnight.** As such, next time you feel stuck in your life, just remember that you’re undertaking a lengthy process and that it’s all going to work out for you. Essentially, if you’re working towards your dreams, creating your dream life, and going on your desired path, you’re just growing slowly into your best self.
+***“First it must blossom. Then bear fruit. Then ripen.”* – and therefore, no great thing happens overnight.** As such, next time you feel stuck in your life, just remember that you’re undertaking a lengthy process and that it’s all going to work out for you. Essentially, if you’re working towards your dreams, creating your dream life, and going on your desired path, you’re just growing slowly into your best self.
 
 ## Lesson 3
 
-### The Stoic philosophy states that you must not stress over the things you can’t control.
+### The Stoic philosophy states that you must not stress over the things you can’t control
 
 One of the fundamental principles of the Stoic philosophy is that life is composed of things we can control, and things we cannot control. As such, the external things that surround us are outside of our control, but we can choose how to react to them, and that is where our responsibility begins. The good and the bad are to be found in our choices and reaction to the outside world.
 
@@ -49,7 +49,5 @@ As such, consider life as a series of circumstances, without asking why certain 
 ## Review
 
 *Discourses* is a remarkable compilation of Epictetus’s informal lectures given to his students. The book addresses the Stoic philosophy of life and delves into a series of concepts such as happiness, well-being, hardship and challenges, and the way the human mind works in relation to emotions. To fully grasp the meaning of this book, I recommend reading and re-reading it until you reach a full understanding of the universal truths presented. If you manage to understand and apply the Stoic concepts from this book, you’ll be one step ahead in life.
-
-## Who it’s for
 
 The 24-year-old philosophy student who wants to deepen their knowledge in the domain, the 50-year-old person who gained an interest in philosophy and ancient wisdom, or the 35-year-old person who wants to optimize their life using time-tested strategies and wisdom from the old world.

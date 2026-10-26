@@ -20,7 +20,7 @@ Ready to trade your lens of time for something with a longer view? Let’s do th
 
 ## Lesson 1
 
-### Our modern lives are centered around the clock and this reinforces short-term behavior.
+### Our modern lives are centered around the clock and this reinforces short-term behavior
 
 Humans suck at understanding time. Even the world’s greatest scientists struggle with it. Especially large periods of time we can barely comprehend.
 
@@ -32,7 +32,7 @@ Since we live our modern lives in 5, 10, 25 minute intervals, **we’re used to 
 
 ## Lesson 2
 
-### The rise of cars was actually a short-term move, and its consequences are severe.
+### The rise of cars was actually a short-term move, and its consequences are severe
 
 Cars were instantly popular when they came out some 120 years ago. They resembled the freedom to go where you go when you wanted to go there and came with the status of being able to afford this freedom. **However, their environmental impact has been devastating, because nobody thought of the long-term consequences.**
 
@@ -44,7 +44,7 @@ Factoring all of this into the equation, cars just might take the top spot in te
 
 ## Lesson 3
 
-### Buy locally and spend your money where you are to support your community long-term.
+### Buy locally and spend your money where you are to support your community long-term
 
 Alright, enough complaining, I wouldn’t want to end this summary without telling you what *you* can do to change all that and help ensure a good future for humanity. Right here, right now, you and I can change our behavior, one day and decision at a time. One way to do this, is of course to rely less on your car, take public transport and walk a lot.
 
@@ -57,7 +57,5 @@ Local businesses reinvest 55 cents of every dollar again locally, big brands onl
 ## Review
 
 I thought *Long-Term Thinking For A Short-Sighted World* would play more on a psychology level, but instead of throwing tons of rational arguments at you, maybe this solution of showing you a wide array of how short-term thinking has thrown us back might be a lot better! Pick the topic that most resonates with you out of the blinks or chapters, find a small step you can take to support long-term thinking in this area and put it into practice!
-
-## Who it’s for
 
 The 27 year old, stressed out manager, who wants to get his career done as fast as possible, the 57 year old driver, who keeps cursing on the road, and anyone who complains about a bad selection at their local jeans shop, but keeps ordering on Amazon.

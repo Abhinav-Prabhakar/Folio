@@ -20,7 +20,7 @@ Ready to discover the details about the currency of the future? Let’s get righ
 
 ## Lesson 1
 
-### Money and Bitcoin are equivalent because we can use both to exchange goods and services.
+### Money and Bitcoin are equivalent because we can use both to exchange goods and services
 
 Some people have a hard time viewing it as “real” money because they can’t see it.
 
@@ -34,7 +34,7 @@ At the time that amount of Bitcoin was worth about $41. Now those 10,000 Bitcoin
 
 ## Lesson 2
 
-### To “mine” a Bitcoin, you have to solve a complicated math problem, and every Bitcoin transaction is within the blockchain.
+### To “mine” a Bitcoin, you have to solve a complicated math problem, and every Bitcoin transaction is within the blockchain
 
 You may be wondering where Bitcoins come from because not just anyone can create them or they’d be worthless. Like gold, Bitcoin has to be “mined.” But unlike mining gold, you don’t need pickaxes, you need a powerful computer.
 
@@ -48,7 +48,7 @@ Every transaction is completely public so people can trust Bitcoin’s authentic
 
 ## Lesson 3
 
-### Bitcoin has a lot of benefits, but there are some drawbacks we must consider as well.
+### Bitcoin has a lot of benefits, but there are some drawbacks we must consider as well
 
 So what are the advantages of Bitcoin compared to traditional currency? With a credit card, every time you use it, credit card companies take a little bit off the top. Using Bitcoin eliminates middlemen who profit from transactions and transfers making them both cheaper and more efficient.
 
@@ -67,7 +67,5 @@ Criminals can use Bitcoin for their unlawful purposes, such as buying or selling
 ## Review
 
 Bitcoin is complex, fascinating, and here to stay for a while. If you want to understand it, *The Age Of Cryptocurrency* is one of the best places to start. The book explained this usually complicated subject in a way that anybody can understand.
-
-## Who it’s for
 
 The 22-year-old who is just getting into investing, the 65-year-old who doesn’t get Bitcoin but is curious to know what the craze is all about, and anyone that wants to get a basic understanding of the currency of the future.

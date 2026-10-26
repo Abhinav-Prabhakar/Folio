@@ -56,6 +56,4 @@ Airbnb was never in this type of business, but they had to adapt to the new envi
 
 *Masters of Scale* teaches its readers ways to scale a business, overcome obstacles in the process of setting up a company or even in full-operational mode, foster a learning organization for employees, and many other business practices. The book offers great advice on how to scale a business and how to pick the right timing. Moreover, it’ll teach you essential business-related aspects, such as becoming a remarkable leader and taking care of corporate social responsibility in the meantime.
 
-## Who it’s for
-
 The 30-year-old leader who wants to learn more about scaling procedures, the 27-year-old start-up founder who wants to set up a successful company, or the 40-year-old project manager who wants to go more in-depth about specific business and scaling practices.

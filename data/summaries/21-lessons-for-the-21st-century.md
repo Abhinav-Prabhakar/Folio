@@ -16,11 +16,9 @@ Here are 3 from his 21 lessons to help us and future generations thrive in the 2
 
 Are you sometimes worried about the future? Don’t fret, let’s prep!
 
-### 21 Lessons for the 21st Century Summary
-
 ## Lesson 1
 
-### Data has become the most valuable asset, which is why technology disrupts all our systems.
+### Data has become the most valuable asset, which is why technology disrupts all our systems
 
 Different ideologies have always shaped how humans see and steer the world. Whichever one grabs the most people tends to determine our history for decades. In the 20th century, fascism, communism, and liberalism fought for that privilege. Liberalism ended up being the clear winner.
 
@@ -34,7 +32,7 @@ And yet, we know just as little about technology as they do.
 
 ## Lesson 2
 
-### We believe we have a lot of knowledge, but we don’t and that’s dangerous.
+### We believe we have a lot of knowledge, but we don’t and that’s dangerous
 
 I rarely talk about politics with my family, but when we do, we like to joke about the “genius” of certain policymakers. In Germany, it’s common for the minister of economics to suddenly become the minister of health. Highly specialized offices are swapped like Christmas presents, which makes no sense. How could someone be an expert in both medicine and military defense?
 
@@ -46,7 +44,7 @@ Instead, we should stay humble, be thankful, and do our best to never stop learn
 
 ## Lesson 3
 
-### School needs to start teaching us how to think, not what to think.
+### School needs to start teaching us how to think, not what to think
 
 Neil deGrasse Tyson once gave a great speech on the value of knowing *how* to think vs. just knowing *what* to think. Sadly, our schools only teach us the latter. Even higher education still very much centers around cramming as many facts into your head as you can, only to spit them out once on a piece of paper, then forget them again. That’s a problem.
 

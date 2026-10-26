@@ -20,7 +20,7 @@ I hope you’re ready for yet another software upgrade for your mind, because nu
 
 ## Lesson 1
 
-### You use mathematics more than you think, because it’s mostly just common sense.
+### You use mathematics more than you think, because it’s mostly just common sense
 
 The most beautiful thing about math is that it allows you to determine with 100% certainty whether something is true or not. Of course, the occasions where you apply Pythagoras’s Theorem in daily life are few, but that doesn’t mean you don’t use the underlying principles of math.
 
@@ -36,7 +36,7 @@ This is called *survivorship bias*, which is the mistake of focusing on only the
 
 ## Lesson 2
 
-### We often use probability to assess risk, but they’re not the same.
+### We often use probability to assess risk, but they’re not the same
 
 Here’s another mistake we often make: Confusing probability and risk. Because we use probability to assess how risky a bet, an investment, or an action we want to take is, we think that’s all there is to it – but it’s not.
 
@@ -57,7 +57,7 @@ The expected value is the same, $50,000, but because the negative result in the 
 
 ## Lesson 3
 
-### You should always question the findings of scientific research, because there are several problems with them.
+### You should always question the findings of scientific research, because there are several problems with them
 
 “New study shows milk is related to Alzheimer’s.” “This study reveals how much work you really do while at the office.”
 
@@ -72,7 +72,5 @@ As you can see, statistical errors sneak their way all the way up into even the 
 ## Review
 
 I could’ve cited a lesson for every blink here, *How Not To Be Wrong* is awesome, it’s an unequivocal YES from me!
-
-## Who it’s for
 
 The 15 year old ninth grader, who really starts to hate math, the 27 year old doctoral fellow, who collects a lot of data for her thesis, and anyone who fantasizes about winning big in a casino.

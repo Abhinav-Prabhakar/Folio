@@ -20,7 +20,7 @@ Are you ready to see why compassion will give you the upper hand? Here we go!
 
 ## Lesson 1
 
-### Cooperation among our early ancestors would have been much harder were it not for the cognitive abilities they developed.
+### Cooperation among our early ancestors would have been much harder were it not for the cognitive abilities they developed
 
 One of the greatest achievements of the human species is our ability to understand that others have intentions and knowledge separate from our own. **It may seem simple and obvious that other people can think for themselves. But this is a sophisticated concept only we humans have that has come through our evolution to help us communicate.**
 
@@ -32,7 +32,7 @@ Dogs fare a bit better in this game. They seem to instinctively follow our gestu
 
 ## Lesson 2
 
-### Our survival chances skyrocket when we can communicate well, which is dependent on our friendliness.
+### Our survival chances skyrocket when we can communicate well, which is dependent on our friendliness
 
 In 1959, geneticist Dmitry Bylaev conducted a long-running experiment in a far-off town in Siberia. His experiment involved domesticating wild foxes. He let foxes with ample affinity with humans breed, while others couldn’t reproduce. Over time, the friendlier group of foxes developed a whole new set of characteristics while the wild ones remained the same.
 
@@ -44,7 +44,7 @@ This research highlights the fact that sociability and communication skills are 
 
 ## Lesson 3
 
-### Evolution has chosen kindness to prevail because it leads to prosperity.
+### Evolution has chosen kindness to prevail because it leads to prosperity
 
 Have you ever chosen a specific person to ask for directions simply because they seemed friendly? Maybe they had kind eyes or a smile that made them seem trustworthy. In fact, looking around you will probably see many faces that appear friendly. Why is this?
 
@@ -59,7 +59,5 @@ Another modern evolutionary sign of the selection of friendliness in humans toda
 ## Review
 
 I can never get enough of books that speak highly of being awesome to people, and now I have proof that it’s an evolutionary advantage! *Survival Of The Friendliest* is interesting, informative, and encouraging. I wish everybody could read this book to see why kindness wins above everything.
-
-## Who it’s for
 
 The 45-year-old introvert that wants a reason to get out and meet people, the 22-year-old that loves learning about evolutionary psychology, and anyone who mistakenly thinks that they can get far in life by being mean.

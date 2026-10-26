@@ -20,7 +20,7 @@ Let’s see how Elizabeth Holmes kept this falsehood going for as long as she di
 
 ## Lesson 1
 
-### It’s possible to lie your way to a $9 billion product valuation.
+### It’s possible to lie your way to a $9 billion product valuation
 
 This machine, called Edison, would not do what asserted, no matter how many endless hours the Theranos engineering team worked to meet the claim. The Edison could not test for any more than a handful of common illnesses. And even with that number, the accuracy of the data was questionable at best.
 
@@ -36,7 +36,7 @@ Safeway invested $350 million to renovate their stores to accommodate the Edison
 
 ## Lesson 2
 
-### A deceptive smoke screen can hide that you can’t really deliver – for a while.
+### A deceptive smoke screen can hide that you can’t really deliver – for a while
 
 There was so much pressure to get the Edison machines into the marketplace that the company didn’t consider spending money and more time in research and development. Who knows what they could have done if they had taken the time to further build it.
 
@@ -50,7 +50,7 @@ Theranos then express-couriered the samples to a lab in Palo Alto and tested the
 
 ## Lesson 3
 
-### Theranos used some fancy footwork to dance its way around FDA regulatory inspection.
+### Theranos used some fancy footwork to dance its way around FDA regulatory inspection
 
 How is it that Theranos could pull off this huge scam in such a strictly regulated market, and with human lives at stake? And what about the necessary FDA approval?
 

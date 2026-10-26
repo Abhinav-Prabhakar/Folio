@@ -16,11 +16,9 @@ Here is a summary of *Outliers* in just 3 lessons:
 
 Let’s see what it takes to be an outlier!
 
-### Outliers Summary
-
 ## Lesson 1
 
-### After you cross a certain skill threshold, your abilities won’t help you.
+### After you cross a certain skill threshold, your abilities won’t help you
 
 To debunk the myth of the “self-made man”, which might be the most popular myth of our time, Gladwell first looked at how much your skills really influence where you end up in life.
 
@@ -36,7 +34,7 @@ Because once you’ve reached a certain level of legal expertise, other factors 
 
 ## Lesson 2
 
-### Being born in the wrong month can put you at a disadvantage.
+### Being born in the wrong month can put you at a disadvantage
 
 Remember when you saw an 8th grader in high school date a 10th grader? You were probably shocked! “He’s 2 years older than her, that’s insane!” – I still remember the comments, it was a huge deal in our school.
 
@@ -52,7 +50,7 @@ Think through your own life, and you’ll see this happens all the time. I too s
 
 ## Lesson 3
 
-### Asians are good at math, because where you come from matters.
+### Asians are good at math, because where you come from matters
 
 If you think age is bad, **try imagining being born somewhere entirely different**. Warren Buffett always says he’s been lucky to have been born into the United States at the time he was, because a few thousand years ago, with his kinds of genes, he’d have been some animal’s lunch.
 
@@ -69,7 +67,5 @@ So yes, **where you’re born matters**.
 ## Review
 
 I loved *The Tipping Point*, and I expect *Outliers* to be just as awesome. I’m really glad I read the summary first. Now, I’m even more interested in it than before. It is refreshing to hear some counter-arguments to the “self-made man” myth. I hope you enjoyed our brief book summary of *Outliers* by Malcolm Gladwell. This one’s definitely worth your time.
-
-## Who it’s for
 
 The 21-year-old with a weakness for motivational talks, who’s sure if he just keeps working hard every day, he’ll eventually get his dream, the 38-year-old Mum, who’s worried her child might get bullied in school for being younger, and anyone who thinks Asians are good at math is a stupid cliché.

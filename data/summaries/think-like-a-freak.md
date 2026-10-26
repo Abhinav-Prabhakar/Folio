@@ -1,6 +1,6 @@
 # Think Like A Freak
 
-> Think Like a Freak teaches you how to reject conventional wisdom as often as possible, ask the right questions about everything and come up with your own, statistically validated answers, instead of relying on other peoples’ opinions or common sense .
+> Think Like a Freak teaches you how to reject conventional wisdom as often as possible, ask the right questions about everything and come up with your own, statistically validated answers, instead of relying on other peoples’ opinions or common sense.
 
 ## Overview
 
@@ -38,7 +38,7 @@ Being right often means being disliked, but which one would you rather be – a 
 
 ## Lesson 2
 
-### To find better solutions to problems, observe how incentives actually impact human behavior in the real world.
+### To find better solutions to problems, observe how incentives actually impact human behavior in the real world
 
 Psychologist and marketing professor Robert Cialdini (who wrote *Influence*) once did an interesting experiment. He wanted to find out what gets people to conserve energy at home (electricity, water, heat, etc.). Naturally, he started with a survey, asking people to rank a few factors by how much they thought they influenced their use of energy.
 
@@ -61,7 +61,7 @@ Naturally, this’d be the one to advertise with. **What gets people to do thing
 
 ## Lesson 3
 
-### Letting go of conventional wisdom will likely make you happier, because it’s often wrong anyways.
+### Letting go of conventional wisdom will likely make you happier, because it’s often wrong anyways
 
 How many people who do you know, who live their lives by the book, doing everything conventional wisdom says, yet are profoundly unhappy? Now contrast that with how many people you know that seem to be doing nothing society dictates, but are almost annoyingly happy.
 
@@ -80,7 +80,5 @@ The authors did a study getting people to flip a virtual coin to make important 
 ## Review
 
 Totally ran out of space with this one. And as for *Freakonomics*, I could’ve written way more lessons. *Think Like a Freak* is a great book, an absolute must-read!
-
-## Who it’s for
 
 The 15 year old soccer player with big aspirations, the 33 year old housewife, who thinks she’s resistant to advertising, and anyone who feels pressured to keep doing something that’s clearly not working.

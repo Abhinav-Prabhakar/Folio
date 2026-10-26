@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Interpreting how the clouds look is a great way to predict the weather.
+### Interpreting how the clouds look is a great way to predict the weather
 
 When we want to tell how the weather will turn out in the immediate future, we instinctively look up to the sky. That is because most of the clues we need are exactly there. Clouds can tell you about the air, the water, and the temperature.
 
@@ -30,7 +30,7 @@ The second type of cloud covers flat, wide portions of the sky. They usually mov
 
 ## Lesson 2
 
-### Wind is strongly linked with clouds and other environmental factors.
+### Wind is strongly linked with clouds and other environmental factors
 
 So what is wind? Scientifically, it is created when a warm front, such as a high-pressure air mass, collides with a cool front, or a low-pressure air mass. When the wind is strong and shifts direction, it shows that the air masses are changing, and so is the weather.
 
@@ -42,7 +42,7 @@ An interesting fact is that ground wind is greatly affected by mountains, trees,
 
 ## Lesson 3
 
-### Other elements from nature, such as animals or extreme weather, can teach us essential things.
+### Other elements from nature, such as animals or extreme weather, can teach us essential things
 
 It is said that the behavior of animals can help us predict the weather. Although some of the presumptions are not true, such as cows lying down before the rain, there are certain things that animals do before bad weather approaches. For example, spiders start to spin smaller webs when it’s windy.
 
@@ -55,7 +55,5 @@ They usually last no more than 90 minutes. However, at peak, they can have as mu
 ## Review
 
 *The Secret World of Weather* is everyone’s guide to forecasting the weather and learning its particularities. This book will teach you when you should take precautions, how to tell if bad weather is approaching, and ways to read nature’s clues. It is a great read, as it gives practical advice that you can use wherever you are, without having to rely on meteorologists.
-
-## Who it’s for
 
 The nature lover who likes to take trips in the forest and get by on their own, the person who likes to go on camping and wants to learn more about the weather, or anyone who doesn’t trust their weather apps or the TV channels and want to double-check the information.

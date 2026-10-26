@@ -1,6 +1,6 @@
 # The Little Book That Still Beats The Market
 
-> The Little Book That (Still) Beats The Market is a step-by-step tutorial to implement a simple, mathematical formula when buying stocks which guarantees long-term profits .
+> The Little Book That (Still) Beats The Market is a step-by-step tutorial to implement a simple, mathematical formula when buying stocks which guarantees long-term profits.
 
 ## Overview
 
@@ -18,11 +18,9 @@ Here are 3 lessons to help you get the gist of Joel Greenblatt’s magic formula
 
 Ready for a proven stock market blueprint you can follow? Let’s do this!
 
-### The Little Book That Still Beats The Market Summary
-
 ## Lesson 1
 
-### Evaluate stocks based on earnings yield and return on capital.
+### Evaluate stocks based on earnings yield and return on capital
 
 Joel’s magic formula is based entirely on two typical numbers used to judge the quality of a stock, combined with a few rules and guidelines.
 
@@ -34,7 +32,7 @@ The second number is *return on capital (=ROC)*. This is calculated by dividing 
 
 ## Lesson 2
 
-### Pick winning companies by combining these two factors and ranking them.
+### Pick winning companies by combining these two factors and ranking them
 
 Okay, now what do you do with those numbers? You calculate them. For every single company available on a major US stock exchange, like the 3,500 you can find on either the New York Stock Exchange or the Nasdaq.
 
@@ -48,7 +46,7 @@ In the end, this leaves you with **a single, ordered list, telling you which com
 
 ## Lesson 3
 
-### Be patient, it’s what makes this formula unpopular, but effective.
+### Be patient, it’s what makes this formula unpopular, but effective
 
 How did Carl Richards say in *The One-Page Financial Plan*? The toughest thing about investing is that you have to be lazy, behave, and keep yourself out of new trouble, once you’ve set a good plan.
 
@@ -67,7 +65,5 @@ You know better now. Don’t be greedy. Don’t be in it for the short term. Hav
 ## Review
 
 This was great! So simple! Whether the returns are as great as proclaimed or not, I’m super intrigued to try this now. Might ask my Dad if he wants to split an investment. Once a year you put in a day of work and then not even look at your portfolio for 12 months. That’s my kind of investing. The book is also just 200 pages, so two big thumbs up for *The Little Book That Still Beats The Market*.
-
-## Who it’s for
 
 The 15 year old, who wants to learn how to make money, the 41 year old, who’s been dabbling in investments all his life, but keeps jumping from strategy to strategy, without seeing significant results, and anyone who wants a way of investing their money that runs (almost) on autopilot.

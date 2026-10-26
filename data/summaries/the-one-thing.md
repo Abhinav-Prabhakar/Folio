@@ -18,11 +18,9 @@ It’s called *The ONE Thing* and here are the 3 biggest takeaways from it:
 
 Let’s figure out how you can find and focus on your ONE thing!
 
-### The ONE Thing Summary
-
 ## Lesson 1
 
-### You only need one question to figure out your priorities, both long-term and short-term.
+### You only need one question to figure out your priorities, both long-term and short-term
 
 If you only take away a single sentence from this book, let it be this one:
 
@@ -46,7 +44,7 @@ One helps you figure out the direction of your life, the other the next action y
 
 ## Lesson 2
 
-### Getting focused means learning to say no.
+### Getting focused means learning to say no
 
 I wish I had a dime for every time anyone quoted Steve Jobs on something, because I’d probably be richer than the man himself was within a year.
 
@@ -62,7 +60,7 @@ Try to reduce incoming requests and low-level distractions, so you won’t have 
 
 ## Lesson 3
 
-### Never sacrifice your personal life for your work.
+### Never sacrifice your personal life for your work
 
 A great quote to make a great point.
 
@@ -81,7 +79,5 @@ After all, what good is it to achieve your ONE thing when there’s no one left 
 You could argue that this book only has one gear and that you could pull out the focusing question and be done with it. But then you’d miss the point. While the focusing question is the core concept, the chapters around it are like supporting pillars, making the whole thing come together in a big, beautiful picture that makes a lot more sense than the question alone.
 
 I think I’d recommend this to productivity newbies over some of the more classic books, because it provides a wholistic approach, including topics like willpower, multitasking, saying no and living with purpose. *The ONE Thing* is one of the best summaries on Blinkist for sure, but it’s also a great book.
-
-## Who it’s for
 
 The 20 year old college student, who noticed if she does all of her tasks in chronological order, she misses deadlines sometimes, the 47 year old executive, who’s trying hard to manage it all, but sometimes sees personal events slip through the cracks, and anyone who has a tough time to say no.

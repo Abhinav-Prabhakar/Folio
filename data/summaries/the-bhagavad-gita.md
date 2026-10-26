@@ -16,11 +16,9 @@ To understand how we can do so, let’s explore three of my favorite lessons fro
 
 Now, we’ll explore the wisdom behind each lesson and learn how to live a more meaningful life by letting go of assumptions and embracing our dharma fully. Let’s see how we can do that!
 
-### The Bhagavad Gita Summary
-
 ## Lesson 1
 
-### We all have our dharma to fulfill if we want to know joy and peace.
+### We all have our dharma to fulfill if we want to know joy and peace
 
 A man’s purpose in life is the eternal question of humanity. Throughout time, religion, science, different beliefs, and faiths have tried to answer this burdening question. However, it seems that throughout this quest, all these forces seem to meet at a common point.
 
@@ -32,7 +30,7 @@ Everyone has a dharma to fulfill. This powerful concept lies at the foundation o
 
 ## Lesson 2
 
-### Work on your temperament and enjoy the journey.
+### Work on your temperament and enjoy the journey
 
 Part of our lack of fulfillment and misery comes from not experiencing life fully. Naturally, not pursuing your dharma is going to hurt your soul. Even worse, following someone else’s dharma can cause you pain and regret. However, even if you’re on the correct path in life, there’s another important aspect to consider.
 
@@ -42,7 +40,7 @@ Instead of always anticipating, it’s crucial to find joy in the journey. Ups a
 
 ## Lesson 3
 
-### To meditate is to learn how to control your mind.
+### To meditate is to learn how to control your mind
 
 Meditation is one of the keys to mastering your own mind, body, and spirit. To meditate is to fully immerse yourself in the present moment by letting go of how life should be and embracing it for what it is.
 
@@ -53,7 +51,5 @@ The person who can master themselves and control their thoughts can conquer anyt
 ## Review
 
 *The Bhagavad Gita* teaches us the mastery of our own minds, the importance of pursuing our dharma truthfully and unapologetically, and how to embrace life for what it is. I believe that only after repeatedly reading this book we can fully comprehend the immense wisdom it encapsulates. Essentially, this is a guide to a meaningful life and so much more. Everyone should give this book a try!
-
-## Who it’s for
 
 The 40-year-old who is working on their spirituality, the 35-year-old person who feels as if they need to develop a connection with nature, their spirit, and life itself, or the 30-year-old spiritual person who wants to deepen their knowledge in this field.

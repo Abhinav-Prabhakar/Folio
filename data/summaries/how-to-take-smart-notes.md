@@ -20,7 +20,7 @@ Here are the three most valuable lessons from this book:
 
 ## Lesson 1
 
-### Always take three types of notes when learning, reading, and creating ideas.
+### Always take three types of notes when learning, reading, and creating ideas
 
 Now that we acknowledged the importance of taking notes, it’s time to dive a little bit deeper into this subject. Let’s take the example of Luhmann, a sociology professor at University of Bielefeld, author of nearly 60 books and hundreds of articles.
 
@@ -34,7 +34,7 @@ After making permanent notes, store them in a safe place, and throw away your fl
 
 ## Lesson 2
 
-### Create a hard version of your memory by designing a slip-box to store all your ideas and thoughts.
+### Create a hard version of your memory by designing a slip-box to store all your ideas and thoughts
 
 By now, you should be accustomed to the term *slip-box*. It’s a storage box used to keep all your valuable notes in an organized way. The author suggests that we keep two of these boxes nearby, each corresponding to a different purpose.
 
@@ -46,7 +46,7 @@ However, you need to take the time to prepare these slip-boxes and gather valuab
 
 ## Lesson 3
 
-### Dividing overwhelming tasks into smaller chunks can help increase productivity and execution.
+### Dividing overwhelming tasks into smaller chunks can help increase productivity and execution
 
 According to the book, over half of all doctoral theses remain unfinished. But why is that? People often feel overwhelmed with such tasks and the amount of work they imply, so they give up on the way. This is more of a psychological issue, as people tend to be intimidated by large amounts of work.
 
@@ -59,7 +59,5 @@ Writing down helps you externalize your thoughts. When you take notes, you give 
 ## Review
 
 *How to Take Smart Notes* is a valuable, reliable source of lessons on thinking processes and how to improve them. It offers a complex yet easy-to-read guide on taking notes in a smart and organized way. Using real-life examples, the book managed to give fact-based insights that speak to its readers personally.
-
-## Who it’s for
 
 The students who struggle with writing their papers and theses, the psychology enthusiast who wants to gain insights on learning processes, or the person looking to improve their retention levels and become a faster learner.

@@ -22,7 +22,7 @@ Ready to learn what it means to live a good life from one of the wisest, richest
 
 ## Lesson 1
 
-### Start early.
+### Start early
 
 With a stockbroker father and a loving, but overbearing mother, the two defining traits of a young Warren Buffett were introversion and an interest in numbers. He memorized entire pages from a book about baseball statistics his grandfather gave him at age eight and loved visiting his Dad’s office. As a natural consequence, Warren started making money at a very early age:
 
@@ -39,7 +39,7 @@ And if you haven’t, just pick something you enjoy. Passion has a way of findin
 
 ## Lesson 2
 
-### Be patient.
+### Be patient
 
 If there’s one guiding value, a North star, that’s floating above Warren Buffett’s life, it has to be patience. Time and time again, he chose to sacrifice a good today for a better tomorrow.
 
@@ -51,7 +51,7 @@ And the SEC investigation in 1974 and the newspaper lawsuit ending in 1981? He p
 
 ## Lesson 3
 
-### Build reputation.
+### Build reputation
 
 One of the great things patience allows you to do is never choose what seems like a shortcut over the long-term, right thing to do. When you’re not worried about getting your results fast, you can commit to integrity like few people can. All of his life, Warren’s been concerned with his reputation much more than his net worth:
 
@@ -64,7 +64,5 @@ For example, integrity is what brought him to help his good friend John Gutfreun
 ## Review
 
 I’m 100% positive *The Snowball* is the next biography I’ll read. It’ll fit nicely in between Ryan Holiday’s and Gary Vaynerchuk’s bibliographies, both of which I’ve just ordered. So far, I can recommend the summary for sure!
-
-## Who it’s for
 
 The 15 year old introvert computer geek, who gets mocked a lot at school, the 37 year old stock analyst, who wants to make lots of money fast, and anyone who’s never thought about their legacy before.

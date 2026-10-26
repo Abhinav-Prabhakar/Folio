@@ -18,7 +18,7 @@ Want to read literature like a professor? Let’s take a literature trip!
 
 ## Lesson 1
 
-### Most books hide their message using memory, symbols and patterns.
+### Most books hide their message using memory, symbols and patterns
 
 The majority of people falls into the category of shallow readers. When they read books, they only pay attention to the basic story level, but not much more. If you want to go beyond that and actually *interpret* what you’re reading, Foster says there are three things you need to watch out for.
 
@@ -30,7 +30,7 @@ But spotting these and interpreting them correctly is hard, so let’s look at t
 
 ## Lesson 2
 
-### The quest structure is one of the most common patterns in literature.
+### The quest structure is one of the most common patterns in literature
 
 One of the most universally applied structures in novels, which you can find anywhere in life (even in your latest trip to the grocery store), is the quest structure. It’s sometimes also called the hero’s journey and it always contains the five following things:
 
@@ -48,7 +48,7 @@ See, it has all the elements of a quest, even though it’s a very trivial scena
 
 ## Lesson 3
 
-### Look for universal messages in books to discover which symbols authors use.
+### Look for universal messages in books to discover which symbols authors use
 
 Do you sometimes feel like books are a rip-off? That they’re just blatantly copying from another author? Well, actually it’s tough to find a book that *doesn’t* copy from a previous one. In truth, no book is 100% original, whether the author knows he or she is copying, or not.
 
@@ -67,7 +67,5 @@ Ask “What’s the universal message behind this event?” as you read, and you
 I want more of this. More reading about reading. If reading a lot is good, then reading a lot about reading is great. Every tiny improvement you make in how you read will be with you for the rest of your life and therefore help you get more out of *every* next book you pick up.
 
 This is highly recommended. *How To Read Literature Like A Professor* is a great book and the summary on Blinkist is a very good starting point, with most of the big ideas explained well and plenty of examples.
-
-## Who it’s for
 
 The 16 year old, who struggles with English class, the 44 year old, who wants to get more out of his reading for his job, and anyone who’s read their favorite book more than once.

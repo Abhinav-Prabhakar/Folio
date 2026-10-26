@@ -20,7 +20,7 @@ Ready to finally start feeling good about all those times you just have to do no
 
 ## Lesson 1
 
-### Our obsession with being efficient is rooted in our past.
+### Our obsession with being efficient is rooted in our past
 
 Part of our busyness problem is that social media allows us to see the accomplishments of others. It leads us to want to “keep up with the Joneses.” But now, instead of just keeping up with a few friends and neighbors, social media makes us feel like we need to keep up with the world. No wonder our ambitions keep getting loftier.
 
@@ -34,7 +34,7 @@ Unfortunately, the increase in efficiency has been much more beneficial for boss
 
 ## Lesson 2
 
-### Our fixation on working hard means we feel guilty about relaxation and miss out on meaningful connections with other people.
+### Our fixation on working hard means we feel guilty about relaxation and miss out on meaningful connections with other people
 
 The shift from pay per task to pay per hour also had a dramatic psychological effect on workers. This is because when you start paying people for each hour, they see time in a different way—- especially time off. When people put a dollar value toward an hour, each hour off felt increasingly indulgent.
 
@@ -48,7 +48,7 @@ The consequences of isolation can be very negative. For one, it’s emotionally 
 
 ## Lesson 3
 
-### There are a few easy things you can do to slow down and rediscover leisure.
+### There are a few easy things you can do to slow down and rediscover leisure
 
 Doing nothing is surprisingly hard to do— it usually takes conscious planning. One way we can make more room for it is to improve our perception of time. Studies show that people with better time perception are less overwhelmed and less likely to spend time scrolling through social media and watching TV.
 
@@ -63,7 +63,5 @@ So how can we fix the problem? Examine the “productive” things you do and ma
 ## Review
 
 *Do Nothing* was refreshing because it’s nice to finally hear someone saying it’s okay to relax and take a break. It makes you realize how important it is to spend time *not* working to maintain your health! No matter who you are, after reading this, you’ll make more of a conscious effort to save some time for leisure.
-
-## Who it’s for
 
 The 31-year-old overworked mother who thinks she doesn’t deserve time for herself or the 56-year-old executive that works too much and feels bad about doing anything else. And anyone that wants to learn how to do more by doing less.

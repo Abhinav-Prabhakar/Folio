@@ -20,7 +20,7 @@ Are you excited learn how cooking has been shaping human lives for the past mill
 
 ## Lesson 1
 
-### The amount of time spent in the kitchen is inversely correlated with health issues.
+### The amount of time spent in the kitchen is inversely correlated with health issues
 
 For the longest time, cooking has made human lives better. It enabled us to eat and digest a wider range of foods. This too also helped us preserve them to be consumed at a later date. It also provided an occasion for social bonding and enjoying meals together.
 
@@ -30,13 +30,13 @@ But what good does it do to save a bit of time, when most instant foods provide 
 
 This is the case because food providers often “fill up” their products with loads of sugar, salt and fat – first, to lower their costs, and second, to make them taste better. The food industry is business like any other and the point is to make money. However, the profits often come at the cost of public health.
 
-**Pollan cites a Harvard study, according to whichthe more time people spend cooking their own food, the better their health.** Conversely, consuming lots of processed food and hence neglecting to cook their own food was correlated with overall poorer health – obesity in particular.
+**Pollan cites a Harvard study, according to which the more time people spend cooking their own food, the better their health.** Conversely, consuming lots of processed food and hence neglecting to cook their own food was correlated with overall poorer health – obesity in particular.
 
 It seems like the simplest way to ensure a healthy diet is preparing your own meals as often as possible.
 
 ## Lesson 2
 
-### Baking bread “unlocks” nutrients that would be otherwise indigestible by the human body.
+### Baking bread “unlocks” nutrients that would be otherwise indigestible by the human body
 
 Bread is one of the most important staple foods in a lot of cultures around the world. And there are good reasons it ranks so high in so many people’s diets.
 
@@ -44,7 +44,7 @@ In paleolith, our ancestors already consumed a variety of grains coming from wil
 
 The true breakthrough, however, occurred in Egypt around 4000 BC, when a bowl of mashed seeds was once left in a warm place and started to ferment. Some smart chef – the inventor of the bread! – decided to put such dough in an oven to see what happens. That’s how the first loaf in history was baked.
 
-Soon enough, bread became a widely eaten staple. **That’s because it was immediately apparent thatgrains processed in such a way provided a much higher nutritional value than when eaten raw.** Later on, modern science explained that it is the process of yeast fermentation that simply “unlocks” a lot of nutrients that the human body couldn’t absorb otherwise.
+Soon enough, bread became a widely eaten staple. **That’s because it was immediately apparent that grains processed in such a way provided a much higher nutritional value than when eaten raw.** Later on, modern science explained that it is the process of yeast fermentation that simply “unlocks” a lot of nutrients that the human body couldn’t absorb otherwise.
 
 It is important to mention at this point that it is *whole grain bread* that Pollan means here. White bread doesn’t provide nearly the same nutritional value, as it is deprived of the most precious ingredients.
 
@@ -52,7 +52,7 @@ Bread, however, is not the only common product that people enjoy thanks to ferme
 
 ## Lesson 3
 
-### Alcohol is an indulgence well-known to the animal kingdom.
+### Alcohol is an indulgence well-known to the animal kingdom
 
 The natural process of fermentation allows people to enjoy bread, pickles and even coffee. It also enables humans to produce alcohol for all different purposes – entertainment being the primary one. **But the fondness to get tipsy is by no means a human domain – other animals enjoy it, too.**
 
@@ -67,7 +67,5 @@ Seeing that a variety of species in nature seem to benefit from small doses on a
 ## Review
 
 What a refreshing perspective on the seemingly simple act of cooking! Reading *Cooked* pretty much forces you to reflect on your eating habits and rituals, and uncovers a whole new world of possibility to enrich your diet. Additionally, it is infused with multi generational knowledge about eating well, which can inspire you to experiment in your kitchen in ways you have never done before.
-
-## Who it’s for
 
 The 32-year-old foodie who is excited about testing new recipes, the 51-year-old chef who is looking for fresh cooking inspiration, and to anyone willing to eat healthy without compromising on the taste of meals.

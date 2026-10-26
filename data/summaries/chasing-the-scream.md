@@ -20,7 +20,7 @@ Are you ready to have your mind expanded on this history of drug use in the worl
 
 ## Lesson 1
 
-### The US started the war on drugs during WWI and proponents used it as a way to push racism.
+### The US started the war on drugs during WWI and proponents used it as a way to push racism
 
 At the beginning of the twentieth century, drugs we now consider illicit were widely used and sold at places like department stores. The crackdown came in 1914 when the US started prohibiting the sale of drugs. It was the outbreak of WWI, and the US was becoming rapidly industrialized.
 
@@ -34,7 +34,7 @@ Harry Anslinger made claims in interviews that the increase in drug use was enti
 
 ## Lesson 2
 
-### Criminalizing drugs has just made way for more crimes and violence.
+### Criminalizing drugs has just made way for more crimes and violence
 
 When Anslinger started their crusade to ban drugs, they thought they would slowly disappear from the streets. But as it turns out, criminalizing a product doesn’t make it disappear. People instead find ways to get it illegally. **This is especially true with drugs because addiction drives people to try to find a way to get their fix at any cost.**
 
@@ -46,7 +46,7 @@ It also has increased violence because of the risky nature of drug dealing. Beca
 
 ## Lesson 3
 
-### Addicts are misunderstood, and criminalizing drugs has made it hard for them to get support.
+### Addicts are misunderstood, and criminalizing drugs has made it hard for them to get support
 
 We think using drugs leads to addiction, but this might not be the case. You probably know someone who had surgery and was prescribed opiates to help the pain for a while. Did they develop an addiction? If just taking a drug consistently meant addiction, wouldn’t hospitals have tons of post-surgery addicts?
 
@@ -61,7 +61,5 @@ If they aren’t afraid of being arrested for admitting drug use, people are mor
 ## Review
 
 Wow, everything about these events is so tragic. I knew about some of these ideas from watching the author’s TED talk but reading *Chasting The Scream* really opened my eyes to how bad this problem is. I genuinely hope that we can find a better way forward, especially to take care of people who are addicted to drugs.
-
-## Who it’s for
 
 The 47-year-old lawmaker who wants to find ways to really make a difference instead of just pandering to the corruption in the government, the 31-year-old who has a sibling that’s addicted to drugs, and anyone that’s curious to know why there are still so many problems with drugs in the world.

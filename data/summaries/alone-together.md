@@ -20,7 +20,7 @@ Wondering what it might be like to have your own robot partner? Let’s dive rig
 
 ## Lesson 1
 
-### Our society has a lot to benefit from using robots, but it’s easy for people to sacrifice personal relationships for these artificial ones.
+### Our society has a lot to benefit from using robots, but it’s easy for people to sacrifice personal relationships for these artificial ones
 
 Do you remember Tamagotchi? It was a small device that displayed a little pet that you had to care for. The idea of having a real-life robot pet seems crazy, but it’s now become a reality.
 
@@ -36,7 +36,7 @@ Bring a robot into the picture and this problem is gone. It can give him the soc
 
 ## Lesson 2
 
-### It’s convenient for people to always be able to reach us, but it can be stressful to have this constant connection.
+### It’s convenient for people to always be able to reach us, but it can be stressful to have this constant connection
 
 Have you ever left your phone at home on purpose? I’ve seen my dad do this often. Knowing how busy he is, it’s probably relaxing to disconnect. It’s easy to feel anxious without your smartphone though.
 
@@ -50,7 +50,7 @@ For example, one woman that goes hiking often always takes her phone with her. T
 
 ## Lesson 3
 
-### Reconnect with people in person to relieve yourself of all the overwhelm that technology causes.
+### Reconnect with people in person to relieve yourself of all the overwhelm that technology causes
 
 One thing I’ve done and have seen friends do to disconnect is what’s known as a “media fast.” It’s like fasting, which is not eating food, but instead, you’re taking a break from consuming media.
 
@@ -69,7 +69,5 @@ She was alone when it happened and the news could have really scared her. Becaus
 ## Review
 
 This is an interesting book that I enjoyed reading. I was expecting *Alone Together* to be more about why we should stop using our devices so much. But the discussion about the good that these new technologies can do for us, with an eye for using them in moderation, is a helpful new viewpoint.
-
-## Who it’s for
 
 The 45-year-old who wonders how they’re going to take care of their aging parents, the 22-year-old that is studying sociology and wants to learn more about technology’s affects on society, and anyone that’s curious about the future.

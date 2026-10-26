@@ -20,7 +20,7 @@ Let’s learn from the brilliant mind of Stephen Hawking!
 
 ## Lesson 1
 
-### When it comes to extraterrestrial lifeforms, there are a lot more questions than answers.
+### When it comes to extraterrestrial lifeforms, there are a lot more questions than answers
 
 Aliens have always been a fascination for us earthlings. That’s why so many Hollywood films have cashed in on the extraterrestrial invasion theme. A good portion of video gaming is designed with the objective to kill space invaders.
 
@@ -32,7 +32,7 @@ This does not necessarily imply that this alien life is all intelligent. Life mi
 
 ## Lesson 2
 
-### Surviving on Earth will require immediate action and cooperation form all of its inhabitants.
+### Surviving on Earth will require immediate action and cooperation form all of its inhabitants
 
 Now let’s bring this next topic a little bit closer to home and turn our attention to life on planet Earth.
 
@@ -65,7 +65,5 @@ And now AI ethics is a quickly growing field of academic study. Let’s just hop
 ## Review
 
 *Brief Answers To The Big Questions* is a great book and a fast read, considering its rather heavy subject matter. I like that the book also covered multiple topics that we often question such as, time travel, space colonization, black holes and predicting humanity’s future. There’s also a cool Foreword by Eddie Redmayne, the actor who portrays Hawking in the movie, The Theory of Everything.
-
-## Who it’s for
 
 The 27-year-old software developer, the 36-year-old astronomy professor and anyone who’s ever questioned the meaning of life.

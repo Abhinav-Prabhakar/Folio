@@ -20,7 +20,7 @@ Let’s figure out whether overpopulation is a real threat, or if the data says 
 
 ## Lesson 1
 
-### Once countries enter the “fertility trap,” they never escape, and the population keeps falling.
+### Once countries enter the “fertility trap,” they never escape, and the population keeps falling
 
 To maintain their numbers, countries need female residents to produce about 2.1 children each. This is enough to replace both a mother and father in the next generation. It also adds a little extra to account for premature deaths and gender ratio imbalance.
 
@@ -32,7 +32,7 @@ Urbanization continues, women’s liberation advances, and secularization procee
 
 ## Lesson 2
 
-### World population decline has some severe downsides.
+### World population decline has some severe downsides
 
 Why does it matter that world population may peak soon, with some countries’ populations having reached their maximum already? **Fewer people doesn’t just mean fewer worries and more food to go around.**
 
@@ -57,7 +57,5 @@ Countries are probably already not doing enough to mitigate the negative effects
 ## Review
 
 *Empty Planet* provides plenty of contrarian food for thought! This is an insightful read that anyone can learn from, including those hesitant to believe it’s claims. Even if you are more optimistic about humanity’s prospects for mitigating the harms of declining population than Bricker and Ibitson, it’s hard to deny that change is coming.
-
-## Who it’s for
 
 The 23-year old recent grad who feels like the world is too crowded for him to make his mark, a retired 68-year old Baby Boomer who wants to understand the unusually fertile period she was born into, and anyone with moral qualms about bringing new life into an “already-full world.”

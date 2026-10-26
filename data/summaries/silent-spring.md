@@ -18,11 +18,9 @@ Here are 3 lessons I took away about the use of pesticides and environmental pro
 
 If you are all about making the world a better place and protecting nature, there’s no time to waste. Let’s go!
 
-### Silent Spring Summary
-
 ## Lesson 1
 
-### Pesticides destroy not just the particular pests, but whole ecosystems.
+### Pesticides destroy not just the particular pests, but whole ecosystems
 
 Humanity “inherited” pesticides from World War II. During the war, scientists involved in chemical warfare discovered many substances with which to kill enemies.
 
@@ -40,7 +38,7 @@ Quite a big price to pay for an inconsiderate use of some chemicals.
 
 ## Lesson 2
 
-### Once DDT enters the food chain, it affects all the species involved.
+### Once DDT enters the food chain, it affects all the species involved
 
 Even if you don’t care much about other living organisms on the planet, it would certainly be concerning to learn that pesticides found a way into your own body.
 
@@ -58,7 +56,7 @@ By eating the eggs, people in the study still ingested a dangerously high amount
 
 ## Lesson 3
 
-### The two main solutions to the harmful effect of pesticides are education and biological alternatives to deal with pests.
+### The two main solutions to the harmful effect of pesticides are education and biological alternatives to deal with pests
 
 With all the information we possess about the harmful effects of pesticide use, we can’t afford to behave as if we didn’t know. We know a hell of a lot – and we’ve known it for more than 50 years, at least since *Silent Spring* was published.
 
@@ -75,7 +73,5 @@ There are numerous innovative solutions at human disposal already. The important
 ## Review
 
 *Silent Spring* turned out to be a milestone in raising global awareness of environmental issues. It is insightful and well-written. The book also conveys the voice of a woman who stood for truth even in the face of the assaults from the chemical industry, which went after her. The determination and knowledge shine through Carson’s words on every page.
-
-## Who it’s for
 
 The 20-year-old passionate environmental activist hungry for knowledge, the 41-year-old sociologist researching the collective awareness of the environmental issues, and anyone for whom Planet Earth is the dearest of homes.

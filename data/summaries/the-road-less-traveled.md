@@ -18,11 +18,9 @@ Here are 3 lessons from the first three categories he discusses:
 
 At Four Minute Books, we’re all about finding new paths. What better way to do that than to take *The Road Less Traveled*? Let’s go!
 
-### The Road Less Traveled Summary
-
 ## Lesson 1
 
-### Always be willing to update your view of the world.
+### Always be willing to update your view of the world
 
 Most of our decisions to be dishonest originate from irrational thinking. When we lie, consciously or not, we’ve often just fallen prey to so-called cognitive biases, like the backfire effect, survivorship bias or irrational escalation. It’s easy to raise a finger and say: “Always be honest!” A lot of gurus do that.
 
@@ -32,7 +30,7 @@ Sometimes, even when we’re presented with an opportunity to get a better under
 
 ## Lesson 2
 
-### Love is an action, not a feeling.
+### Love is an action, not a feeling
 
 One of Sigmund Freud’s many contributions to the field of psychology was the idea of cathexis. It’s defined as the investment of emotional energy into an object or a person, often to an extent that’s unhealthy. Think of it like a romantic obsession or overdose of sexual desire.
 
@@ -44,7 +42,7 @@ For example, in a well-functioning marriage both partners continue to choose the
 
 ## Lesson 3
 
-### Religion is just a way of viewing the world, which means we all have one.
+### Religion is just a way of viewing the world, which means we all have one
 
 We mostly view religion as a set of strict rules and traditional rituals that a certain group follows in order to worship a or multiple deities. Peck begs to differ. He says we need to expand our definition of religion and uses it synonymously with ‘worldview.’ **Our perspective of life is mostly shaped by our education in school and at home, as well as the family environment we grow up in.**
 
@@ -55,7 +53,5 @@ What can we do to improve our religion, then? This goes back to the first lesson
 ## Review
 
 *The Road Less Traveled* strikes a great balance between science and religion, declaring neither superior to the other, which is likely a big part of its allure. Besides discipline, love and spirituality, Peck also describes grace as a mysterious force of positive growth in our lives. It universally adds serendipity in ways we can’t quite explain and thus comes as close to a miracle as it gets. A good read for everyone who leans heavily towards either side of the science-religion spectrum.
-
-## Who it’s for
 
 The 17 year old, who returns home each day to a hostile household, the 29 year old single, who can’t explain why none of her relationships last and anyone who’s very religious or agnostic.

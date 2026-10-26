@@ -1,6 +1,6 @@
 # 60 Seconds & You’re Hired
 
-> 60 Seconds & You’re Hired! is a guide to getting your dream job thanks to impressing interviewers,focusing on your strengths, and building your confidence with a step-by-step plan of the process.
+> 60 Seconds & You’re Hired! is a guide to getting your dream job thanks to impressing interviewers, focusing on your strengths, and building your confidence with a step-by-step plan of the process.
 
 ## Overview
 
@@ -20,7 +20,7 @@ Are you ready to gain the confidence you need to get a new job? Let’s begin!
 
 ## Lesson 1
 
-### Help your interviewer remember that you are a good fit by consistently mentioning your top 5 skills throughout the interview.
+### Help your interviewer remember that you are a good fit by consistently mentioning your top 5 skills throughout the interview
 
 We’ve already made it clear why you need to stand out from the crowd to your potential new employer. But how do you do that? It starts with helping the interviewer remember you by focusing their mind on your strengths.
 
@@ -34,7 +34,7 @@ Once you’ve got the list ready, practice so you can highlight all five in less
 
 ## Lesson 2
 
-### Eradicate fear and boost your confidence to answer questions concisely by preparing beforehand.
+### Eradicate fear and boost your confidence to answer questions concisely by preparing beforehand
 
 Preparation kills fear. Every time I have to give a speech, presentation, talk to a stranger, or answer an interviewers questions, taking the time to get ready calms my nerves. The reason this works is because when you’re in the interview you have no surprises. Nothing can catch you off guard if you’ve put in the work to get ready.
 
@@ -46,7 +46,7 @@ Last, get ready to market your specific personality as an *ideal worker persona*
 
 ## Lesson 3
 
-### The question “do you have any questions for me?” is a chance to let your true motivations and preparation shine.
+### The question “do you have any questions for me?” is a chance to let your true motivations and preparation shine
 
 I still remember when, not long before an interview, my friend told me to take advantage every time an interviewer asks if I have any questions. Testing this out in my next interview, I asked what their ideal candidate was like, then talked about how I felt I was a good fit for that. Not long afterward, I found out that I got the job!
 

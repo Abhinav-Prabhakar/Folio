@@ -20,13 +20,13 @@ Get your candlelight dinner ready and let’s learn how romanticism applies to b
 
 ## Lesson 1
 
-### If you want to be successful at the office, focus on connection, not just productivity.
+### If you want to be successful at the office, focus on connection, not just productivity
 
 Picture this. You’re sitting in the office lunchroom after enjoying a nice birthday cake for a coworkers birthday. Suddenly, the boss walks in and tells everyone it’s time to get back to work. Although they may not do it in a mean way, their comment sort of deflates the fun atmosphere, right?
 
 I had this experience not long ago, and it wasn’t fun. Looking back at that job, I could see that the company was more concerned with metrics than people. I heard countless coworkers of mine saying how afraid they were of the managers seeing them talking with one another. I’m glad I got out of there!
 
-Most companies prioritize tasks over chatting, but is this the right approach? Science says your boss might be wrong to keep you from talking too much in the office. **One studydiscovered that happiness at work similar to happiness experienced outside the workplace only comes from informal conversations with coworkers.**
+Most companies prioritize tasks over chatting, but is this the right approach? Science says your boss might be wrong to keep you from talking too much in the office. **One study discovered that happiness at work similar to happiness experienced outside the workplace only comes from informal conversations with coworkers.**
 
 We know from *The Happiness Advantage* that happiness leads to success and not the other way around. Casual conversations, then, as the highest source of in-office happiness, are a catalyst for success.
 
@@ -34,7 +34,7 @@ Forget worrying about continuing that interesting conversation you’re having w
 
 ## Lesson 2
 
-### Giving gifts is a great way to energize your workplace.
+### Giving gifts is a great way to energize your workplace
 
 What better way to connect with someone than to give them gifts? After all, it is one of *The 5 Love Languages*! Although this may seem like an odd idea, remember that gift-giving is a deeply human experience. It leaves both the giver and receiver feeling happy and connected. It’s a vital component of romantic business.
 
@@ -48,7 +48,7 @@ Another source to look for inspiration on the subject is Reddit. In the Random A
 
 ## Lesson 3
 
-### Get a leg up on the competition by finding ways to make your product or service a somewhat challenging experience.
+### Get a leg up on the competition by finding ways to make your product or service a somewhat challenging experience
 
 Have you ever wondered why people camp out for days just to get the newest Apple device? Why go through all the trouble? And how on earth is IKEA still in business if their stuff is so difficult to put together?!
 
@@ -63,7 +63,5 @@ Be careful though, because if a product requires too much effort, it will only f
 ## Review
 
 I really enjoyed *The Business Romantic*. While a lot of the ideas seem obvious to me, I can understand how some of the older generations will need to learn these lessons to thrive with the up and coming millennials in business. I’m excited to see this shift in mindset and hope to see it continue to grow to make the workplace better for everyone!
-
-## Who it’s for
 
 The 45-year-old manager who can’t find a way to understand and connect with his millennial-age workers, the 58-year-old CEO who would like to acquire some fresh, young talent, and anyone who wants to be a leader in a company.

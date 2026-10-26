@@ -18,7 +18,7 @@ Brown’s metaphorical wilderness is the unkown, the scary, the life outside our
 
 ## Lesson 1
 
-### Stop trying so hard to fit in and give yourself permission to be yourself.
+### Stop trying so hard to fit in and give yourself permission to be yourself
 
 All of us experience rejection in one way or another early in our lives. For Brené, it was not getting picked for the cheerleading team and her parents’ subsequent disappointment. For me, it was being sneered at for being smart and wearing glasses. That sucks, but real problems only follow if we then spend the rest of our lives trying to make up for these early traumas.
 
@@ -30,7 +30,7 @@ Ultimately, belonging is about feeling good in your own skin above all else.
 
 ## Lesson 2
 
-### Courage comes from trusting both others and yourself, which is built in seven steps.
+### Courage comes from trusting both others and yourself, which is built in seven steps
 
 Throwing the expectations of others to the winds is liberating, but it takes courage. This courage to face the world on your own will partly come from building trust. Trust in other people, trust *from* other people, and, most of all, trust in yourself.
 
@@ -48,7 +48,7 @@ You can do all of these in small ways, but if you repeat them thousands of times
 
 ## Lesson 3
 
-### Acknowledge your anger, but use it to become better, not bitter.
+### Acknowledge your anger, but use it to become better, not bitter
 
 In November 2015, a series of coordinated terrorist attacks led to the deaths of 130 people in Paris, France. One of the many victims was Hélène Leiris, whose husband Antoine and baby son Melvil were at home. If there’s a single good reason to be angry in this world, it’s losing someone you love before their time is up.
 
@@ -61,7 +61,5 @@ Antoine’s outpour of love following such deeds of pure hatred went viral and r
 ## Review
 
 Brené‘s books aren’t the most straightforward. They rarely give you a few steps and one, two, three, you’re done. They’re about processes of changes. They tell you stories that inspire. They’re honest, raw, and you have to pick out what works for you. But they never fail to make you feel like you’re on the right path. *Braving The Wilderness* is no exception.
-
-## Who it’s for
 
 The 15 year old high school student who’s just learning to play our many social games, the 46 year old mother who’s scared to try something new, and anyone who knows their own anger is hurting them.

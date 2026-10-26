@@ -20,7 +20,7 @@ Let’s jump right into these lessons and see what we can learn!
 
 ## Lesson 1
 
-### To understand how stories affect economics, look no further than the example of Bitcoin.
+### To understand how stories affect economics, look no further than the example of Bitcoin
 
 When the idea of Bitcoin was first introduced online in 2008 by a mysterious person under the name Satoshi Nakamoto, hype quickly grew around it. It was an entirely new system of money that had the ability to change everything we know about currency. From there, it became a global phenomenon, though partly not for the reason you’d think.
 
@@ -34,7 +34,7 @@ In short, it is these futuristic narratives along with the mysterious founding o
 
 ## Lesson 2
 
-### There is a lot in common with epidemics and economic narratives.
+### There is a lot in common with epidemics and economic narratives
 
 Two subjects people don’t usually compare are epidemiology, or the study of epidemics, and economics. This is a shame, because epidemiology and economics could learn a lot from each other. Epidemiologists study how diseases spread, and many of the patterns they see are similar to what economists observe.
 
@@ -48,7 +48,7 @@ While this isn’t the end of the story for Bitcoin, we can see that the rapid i
 
 ## Lesson 3
 
-### We must understand the narratives of the past if we want to be ready for our economic future.
+### We must understand the narratives of the past if we want to be ready for our economic future
 
 Taking stories seriously is important when predicting what’s next for our economy. Luckily, we now have more data than ever. We can learn through market research, looking at social media, and gathering information about internet searches.
 
@@ -63,7 +63,5 @@ If people in charge of making policy understand the narratives and take control 
 ## Review
 
 *Narrative Economics* is a super enlightening book. I’m not an economist, but I feel like this totally changes the way people will look at economics in the future! I think this is a really important conversation for us to be having in this day and age.
-
-## Who it’s for
 
 The 41-year-old financial analyst who wants to be ready for the future, the 63-year-old who doesn’t understand money trends, and anyone who wants to be more informed about the past, present, and future of economics.

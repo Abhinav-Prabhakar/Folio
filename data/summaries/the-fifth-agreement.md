@@ -26,7 +26,7 @@ Okay, let’s learn a few ancient lessons, updated for modern times!
 
 ## Lesson 1
 
-### Symbology makes the world go round, but it also conditions us.
+### Symbology makes the world go round, but it also conditions us
 
 In *The Four Agreements*, Don Miguel described the sum of uncontrollable elements in our lives as the source of our domestication. These include all habits, attitudes, ideas and behaviors we pick up as innocent children from parents, mentors, friends, and teachers. Miguel called it a ‘collective dream.’ You know, what society expects of us.
 
@@ -36,7 +36,7 @@ Symbols are a huge part of all our lives and without them, the world wouldn’t 
 
 ## Lesson 2
 
-### Everything we know rests on symbology, which means there are no absolute truths, just relative ones.
+### Everything we know rests on symbology, which means there are no absolute truths, just relative ones
 
 The first piece of evidence that symbology is important, regardless of its flaws, is that you couldn’t be reading this without it. All of humanity uses a shared catalog of symbols to communicate: language. We don’t all use the same catalog and we don’t all understand each other, but without alphabets, words, and sentences, we could neither read nor talk.
 
@@ -46,7 +46,7 @@ However, what this *also* proves is that all human knowledge must rely, to some 
 
 ## Lesson 3
 
-### Being impeccable in your use of words allows you to use symbology to your benefit.
+### Being impeccable in your use of words allows you to use symbology to your benefit
 
 Given language might be the most pervasive example of relative truths in our lives, it makes sense that the first agreement is “be impeccable with your word.” We might not all be writers, painters, and directors, but with every word we say or pick up in a conversation, we continue to tell the story of our lives in our heads.
 
@@ -57,7 +57,5 @@ The next time you catch yourself thinking “I’m not good enough,” or “I s
 ## Review
 
 Since this book recaps its predecessor and goes a bit deeper, I guess *The Fifth Agreement* is not just where it ends, it’s also the place to start. If you really dig Toltec wisdom, however, nothing speaks against reading both, or reading one now and the other one a few months or years later.
-
-## Who it’s for
 
 The 17 year old introvert, who gets bullied at school, the 39 year old scientist, who argues with facts for a living, and anyone who doesn’t like the voice in their head.

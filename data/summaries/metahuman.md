@@ -24,7 +24,7 @@ Let’s dive right in and find out how to get meta!
 
 ## Lesson 1
 
-### To connect with metareality, practice mindfulness.
+### To connect with metareality, practice mindfulness
 
 If you want to become a metahuman, you need to understand the path to the infinity that is metareality. And your gateway to that is simply letting everything regarding the past and future to fall away so you can focus on the present.
 
@@ -42,7 +42,7 @@ As you get better at this you’ll connect more with metareality, which is just 
 
 ## Lesson 2
 
-### If you want to find your true self and reach your full potential, challenge your mental conditioning.
+### If you want to find your true self and reach your full potential, challenge your mental conditioning
 
 Our society is good at taking immaterial ideas and turning them into material forms. The concept of money, for example, takes physical presence in the form of a $50 bill. Or a wedding ring is an object to represent love.
 
@@ -60,7 +60,7 @@ To get back to your true self, try to have just one original thought. That means
 
 ## Lesson 3
 
-### You can unlock limitless creativity if you look beyond the traditions of everyday reality.
+### You can unlock limitless creativity if you look beyond the traditions of everyday reality
 
 Where do you think creativity comes from? According the Greeks, it was the muses that gifted only a few with this power. In the eyes of the Romantic poets, creativity was just a fleeting revelation that you had to be lucky to experience.
 
@@ -77,7 +77,5 @@ Start by considering how small objects, like your keys, are just an idea that’
 ## Review
 
 Whoa, this book is really meta! I liked *Metahuman* even though some of it felt a little too philosophical for my taste. What I really love and think you will too though is how it pushes you to think beyond the current limitations of society and your own mind!
-
-## Who it’s for
 
 The 31-year-old who aspires to unlock their full potential but doesn’t know where to begin, the 49-year-old that’s learning meditation but wants to dive deeper into it, and anyone that wants to get more out of this one shot that we all have at life.

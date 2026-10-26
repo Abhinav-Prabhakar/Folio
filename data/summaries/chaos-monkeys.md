@@ -20,7 +20,7 @@ Ready for a point-of-view report from one of Silicon Valley’s most prominent �
 
 ## Lesson 1
 
-### Startup employees sometimes enter fake marriages, just so they can move to SF for work.
+### Startup employees sometimes enter fake marriages, just so they can move to SF for work
 
 Way back in Europe in the 18th century, people who hadn’t won the ethnic and cultural lottery, for example by being born poor or with a certain racial background, had few options. There was no way for a peasant to become king, or for a Jew to just shed his religion, if Jews were being discriminated against in his country.
 
@@ -32,7 +32,7 @@ To avoid all this, **it’s not all that rare that startup employees trying to m
 
 ## Lesson 2
 
-### If you really want to build a company that makes it, there’s no way you can’t be crazy and obsessed.
+### If you really want to build a company that makes it, there’s no way you can’t be crazy and obsessed
 
 The year Antonio spent as the CEO of AdGrok, his own startup providing software to optimize Google Ads, before they sold it to Twitter, was shaped by long work nights, dozens of tech events, giving up hobbies, books, movies, friends and basically living family life only via Skype.
 
@@ -46,7 +46,7 @@ The thing about being crazy this way is: we don’t mind. We’re in for the lon
 
 ## Lesson 3
 
-### Facebook’s ninja security team acts in the dark, because it’d be scary to reveal the kind of stuff they take care of.
+### Facebook’s ninja security team acts in the dark, because it’d be scary to reveal the kind of stuff they take care of
 
 Working at Facebook’s security team really must be a shitty job. You have to look at scams, violent status updates, and weird, pornographic content all day long, flag it and then remove it from the system. Even worse, you’ll get zero credit for your work, because if you do it well, no one will ever know about it. Only if you screw up and something slips through the cracks can you expect to get flack.
 
@@ -57,7 +57,5 @@ Apart from this group, keeping a closed lid on this line of work is probably a g
 ## Review
 
 Of course, *Chaos Monkeys* is just one person’s point of view, but it’s a highly informative, fun, not-so-serious-yet-shockingly-accurate inside look at one of the most popular hot spots on earth. Good read!
-
-## Who it’s for
 
 The 22 year old college student, who’s tempted to move to Silicon Valley and start a company, the 52 year old asset manager, who thinks about becoming an angel investor, and anyone who’s ever reported someone on Facebook.

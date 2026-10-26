@@ -18,7 +18,7 @@ Here we go!
 
 ## Lesson 1
 
-### If you want to get an idea of what a traditional society functioned like, you can look to the ones that are still around today.
+### If you want to get an idea of what a traditional society functioned like, you can look to the ones that are still around today
 
 When we talk about hunter-gatherer peoples, you might think this kind of society is long gone. But actually, there are several traditional societies still living with this sort of lifestyle, and they are still living mostly as they did 11,000 years ago.
 
@@ -32,7 +32,7 @@ The difference between all of these shows that there is an entire continuum that
 
 ## Lesson 2
 
-### If we look to traditional societies, we can learn important lessons on how to resolve conflicts and more.
+### If we look to traditional societies, we can learn important lessons on how to resolve conflicts and more
 
 When there is a dispute in a traditional society, they emphasize the importance of restoring a peaceful relationship between two parties. This way, they can continue to live together in a close-knit society.
 
@@ -46,7 +46,7 @@ Children in these societies are also given adult-like roles at earlier ages. For
 
 ## Lesson 3
 
-### Modern lifestyles have given rise to a variety of health problems that traditional societies never knew.
+### Modern lifestyles have given rise to a variety of health problems that traditional societies never knew
 
 As far as health goes, modern societies are generally better off. But that doesn’t mean we don’t have anything to learn from our ancestors’ way of life.
 
@@ -63,7 +63,5 @@ We have modern medicine. Now we just need to learn from these traditional societ
 ## Review
 
 *The World Until Yesterday* is really interesting. I never really thought to look back to older societies and learn from them. Even if you aren’t particularly into history, you’ll probably enjoy the takeaways you can find here!
-
-## Who it’s for
 
 The 34-year-old who always hated learning facts in history, the 61-year-old that wonders if all the recent technological advancements are actually making all parts of life better, and anyone that wants to get more out of history than mere stories.

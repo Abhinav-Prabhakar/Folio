@@ -18,11 +18,9 @@ Here are 3 key takeaways that show how the world really works — so we can chan
 
 Ready to get the facts on life as we know it? Let’s jump in!
 
-### How the World Really Works Summary
-
 ## Lesson 1
 
-### We mainly get our energy from 3 sources, and only 2 of those won’t cause environmental trouble in the long run.
+### We mainly get our energy from 3 sources, and only 2 of those won’t cause environmental trouble in the long run
 
 They say that money makes the world go round, but actually, it’s energy. Without power in the form of heat and electricity, modern life would come to a screeching halt within days. But Canadians don’t freeze in the winter, and even half of Africa already has internet access.
 
@@ -38,7 +36,7 @@ Given the mix of global energy, clearly, we have a long way to go in making heat
 
 ## Lesson 2
 
-### The world is built on 4 materials, and they all require extensive use of fossil fuels.
+### The world is built on 4 materials, and they all require extensive use of fossil fuels
 
 A common criticism of current politicians is that they live in their heads, but we, too, can easily become divorced from reality. We might scroll through the news and think we’ve got the world economy figured out, but if someone questioned us about our environment on a walk around the block, we’d likely have little to show for.
 
@@ -55,7 +53,7 @@ Innovations for making these four materials and the things they power carbon-neu
 
 ## Lesson 3
 
-### Master magnitudes of numbers for a better understanding of reality.
+### Master magnitudes of numbers for a better understanding of reality
 
 As useful as the many facts Smil shares about the world in the book are, perhaps its best idea comes from the appendix: Dedicate a few minutes to understanding the different magnitudes of numbers. This skill will serve you for the rest of your life.
 
@@ -72,7 +70,5 @@ Grasping the dimensions of modern monetary policy and technological improvements
 ## Review
 
 *How the World Really Works* is an awesome, concise book to help us gain a rich understanding of where humanity is at, and what challenges we must overcome for a beautiful future. Fun, illuminating, and important. Highly recommended! For more about energy specifically, see Smil’s book about that topic.
-
-## Who it’s for
 
 The 19-year-old environmental activist who got caught up in a trend before understanding it, the 32-year-old high school teacher who wants to prepare her pupils for the real world, and anyone who’s interested in the underpinnings of everyday life.

@@ -52,6 +52,4 @@ After reading *The End of Jobs* yesterday, I found *Humans Are Underrated* a gre
 
 I would have liked to see these blinks expand even more on creativity, but the statistics and studies quoted were very interesting. I really liked the idea of combining computers, social skills and creativity to get the best of both worlds.
 
-## Who it’s for
-
 The 50 year old who’s worried about losing his or her job to a computer, the 15 year old computer geek who never goes outside and anyone extroverted.

@@ -16,11 +16,9 @@ Here are 3 lessons from *Deep Work* to help you go from busy to brilliant:
 
 I hope you brought your scuba diving gear,’cause we’re about to go deep!
 
-### Deep Work Summary
-
 ## Lesson 1
 
-### Use one of these four deep work strategies, but be intentional about it.
+### Use one of these four deep work strategies, but be intentional about it
 
 I’m glad that Cal isn’t one of those “one-size-fits-all-advice” kind of people. He knows that different things will work for different people, so when making his case for deep work he suggests four different strategies:
 
@@ -35,7 +33,7 @@ Speaking of which…
 
 ## Lesson 2
 
-### Make the most of unproductive time with productive meditation.
+### Make the most of unproductive time with productive meditation
 
 This is an idea I really like and have recently been using more and more, without knowing I’d find it in this book. Cal calls it *productive meditation*, and it comes down to using your “unproductive” time to do deep thinking.
 
@@ -47,7 +45,7 @@ The next time you have some “down time”, in which you do menial tasks, latch
 
 ## Lesson 3
 
-### Quit work at the same time each day, and stick to it.
+### Quit work at the same time each day, and stick to it
 
 Cal has a habit of ending his work day at 5:30 PM, every day. No emails, no internet, no to-do lists, no computer after that. He describes his practice in this 7-year old blog post, and while his systems evolve, planning both work and free time have remained a constant factor.
 
@@ -60,7 +58,5 @@ For example, I let Inbox Pause move my email to my inbox at 11 AM and 6 PM. Afte
 ## Review
 
 I’ve only checked out some previews, read excerpts, interviews with Cal, articles on his blog, and the summary on Blinkist for this one so far, but I can’t wait to get my hands on it. I’ve been moving towards a deep work mindset already, and I’m feeling more productive than ever. I highly recommend you explore the concept of *Deep Work*.
-
-## Who it’s for
 
 The 19 year old, who aspires to a career as a creative, the 35 year old consultant, who's bombarded with notifications every day, and anyone who thinks their attention span is too short.

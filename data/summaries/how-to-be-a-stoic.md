@@ -18,7 +18,7 @@ Despite all that’s different today compared to 2,000 years ago, the fundamenta
 
 ## Lesson 1
 
-### Use preferred indifferents to live morally without becoming a fanatic.
+### Use preferred indifferents to live morally without becoming a fanatic
 
 Despite being influential and sometimes wealthy figures, many famous Stoics died premature deaths. Or sometimes, because of it. Seneca, Socrates, and Cato were all sentenced, imprisoned, ordered to, or somehow otherwise condemned to commit suicide. Cato refused to be captured by Caesar, Seneca was conspired against by Nero, and Socrates was unjustly executed. Unlike the others, however, he had a chance to escape. But he didn’t, in order to stand by his morals.
 
@@ -30,7 +30,7 @@ Everything in life has a moral component. There’s always a *right* choice. Oft
 
 ## Lesson 2
 
-### Virtue is the highest good, and it consists of temperance, courage, justice, and wisdom.
+### Virtue is the highest good, and it consists of temperance, courage, justice, and wisdom
 
 One thing that can make it a lot easier to make the morally correct choice time and time again in your life is the Stoic concept of virtue. If you align all your decisions with it, you will do just fine by not just Stoic, but pretty much all religious or spiritual standards across the world.
 
@@ -47,7 +47,7 @@ A simple question you can ask any time, to figure out what’s the most virtuous
 
 ## Lesson 3
 
-### There are three kinds of friendships, and while all are important, one you should particularly focus on.
+### There are three kinds of friendships, and while all are important, one you should particularly focus on
 
 A sad part of growing up is that the older you get, the more superficial new friendships become. Wouldn’t you agree? I sure find this to be the case. And while we don’t need many true friends, it’d sure be nice to make some real connections, even after we launch into our careers. Luckily, the Stoics have a solution for this too.
 
@@ -62,7 +62,5 @@ While we all need friendships of the first and second kind, you should treat the
 ## Review
 
 The distinction between the three disciplines is almost equivalent to the one Ryan Holiday makes in *The Obstacle Is The Way*. It is commonly used when dissecting Stoicism, and as such, a useful tool indeed. I enjoyed the level of detail and research that went into *How To Be A Stoic*. Even if you’re already familiar with many of this philosophy’s ideas, you can still learn something new.
-
-## Who it’s for
 
 The 17 year old pupil, who recently heard about Stoicism in school, but didn’t bother to look deeper, the 25 year old college student, who’s frustrated with her friendships, and anyone who is short-tempered.

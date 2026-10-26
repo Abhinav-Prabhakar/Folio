@@ -16,11 +16,9 @@ Here are three of the most interesting lessons from the book:
 
 If you think you know how to write correctly and express yourself on paper, you’ll want to think again! These lessons will have you reconsider your punctuation marks and get the best out of your writing skills.
 
-### Eats, Shoots & Leaves Summary
-
 ## Lesson 1
 
-### There are 8 correct ways to use apostrophes in a sentence.
+### There are 8 correct ways to use apostrophes in a sentence
 
 A language is like a living organism. It lives and develops with time, it twists and changes every once in a while, and as new people learn it, it alters its structure. However, for the grammar-conscious people out there, it seems that a language is much more than just a way of communicating.
 
@@ -41,7 +39,7 @@ For a punctuation fanatic, misplacing apostrophes in conjunctions like “CD’s
 
 ## Lesson 2
 
-### Commas are flexible punctuation marks, yet they too have some rules in place.
+### Commas are flexible punctuation marks, yet they too have some rules in place
 
 Commas are considered volatile punctuation marks, as the author can place them wherever they see fit. They are often used to style up a text and offer a different connotation, so the rules that make this punctuation mark work are flexible. Still, they’re there.
 
@@ -61,7 +59,7 @@ Overusing commas is a violation of at least two rules, one of which is rule seve
 
 ## Lesson 3
 
-### Don’t overdo the question marks, exclamation marks, and quotations.
+### Don’t overdo the question marks, exclamation marks, and quotations
 
 Just like with everything else, these three punctuation marks have their limits. However, some writers seem to have a difficult time defining them and we often end up reading papers that overdo them. This is especially true when it comes to exclamation marks.
 
@@ -74,7 +72,5 @@ While this is partially true, it also makes the reader interpret it differently 
 ## Review
 
 *Eats, Shoots & Leaves* is a non-fiction piece of writing about the importance of using punctuation marks of all types properly and maintaining a high level of grammar in your texts. The book offers a humorous approach to grammar and teaches its readers how to use all the punctuation marks properly, and what to avoid when writing a text. The book is filled with hands-on advice that can help anyone convey their written messages better right away.
-
-## Who it’s for
 
 The 40-year-old grammar and literature professor who is looking for lectures to recommend to their students, the 30-year-old parent who wants to educate their child better and offer a useful book, or the 50-year-old writer and grammar aficionado who is looking for a book to support their point of view.

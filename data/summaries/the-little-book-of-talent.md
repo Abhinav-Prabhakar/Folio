@@ -22,7 +22,7 @@ Great lessons, right? Now, let’s dig a little bit deeper into each one!
 
 ## Lesson 1
 
-### If you work on your mindset and what you believe of yourself, you will achieve what you desire.
+### If you work on your mindset and what you believe of yourself, you will achieve what you desire
 
 Let’s debunk a myth: You don’t need to be a genius, a super mind, or have extraordinary capabilities to achieve greatness. Indeed, the things we do and the result of our work have to be truly remarkable to spark attention and drive us towards success, but that is the result of a winning mindset and strong determination.
 
@@ -34,7 +34,7 @@ Connecting yourself to your source of inspiration will increase the chances of y
 
 ## Lesson 2
 
-### Hard skills and practice will help you develop your desired talents.
+### Hard skills and practice will help you develop your desired talents
 
 Think about your talents as a house. The hard skills or the real, factual knowledge of a domain are the foundation, and the soft skills are the finishing touches. Naturally, you want to build a house so strong that it can resist any situation, so you’ll want to focus on building your skills base.
 
@@ -46,7 +46,7 @@ If you find it difficult at first, try splitting your objective, which is learni
 
 ## Lesson 3
 
-### Psychological work is equally important when it comes to building talents.
+### Psychological work is equally important when it comes to building talents
 
 Now you know that hard skills lie at the essence of your talents. However, mastering the learning process isn’t the only thing that you must take into consideration. **When it comes to further building on your foundation, the psychological factor plays a significant role.**
 
@@ -59,7 +59,5 @@ Lastly, make sure to employ a bit of visualization in the learning process. Why 
 ## Review
 
 This easy-to-implement handbook will change your perspective on what talents and skills truly mean. If you’ve ever thought that only natively talented people or geniuses can excel in certain fields, *The Little Book of Talent* will teach you how to build a skill base so strong that you will achieve success without a doubt. Reading this book is a must for anyone who feels as if they cannot compete with their peers or find their true vocation, as it teaches its readers to build any talent skill by skill.
-
-## Who it’s for
 
 The 22-year-old who wants to learn new skills faster and start their professional life right, the 44-year-old teacher who wants to improve themselves and be able to pass on useful advice for their students, or the 35-year-old who feels as if they need to boost themselves and develop more skills to advance in their life.

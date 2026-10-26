@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Assume the best in people, even when you have reasons not to do that.
+### Assume the best in people, even when you have reasons not to do that
 
 When you’re a good person at heart, life gets better. That is because, as the law of attraction states, you get what you give and what you think of. For better or for worse, being a good person and assuming that others are as well will lighten up everyone’s day.
 
@@ -30,7 +30,7 @@ For example, someone could cut in line at the coffee shop, or forget to hold the
 
 ## Lesson 2
 
-### Failing productively is the best way to fail.
+### Failing productively is the best way to fail
 
 Whether we like it or not, we are going to encounter many failed attempts in our endeavors. That’s just how life works, and we have no control over that. However, what we do have control over is how we react to those failures. **If we change the way we respond to life’s challenges, we can learn to fail productively.**
 
@@ -42,7 +42,7 @@ Keep in mind that failing productively doesn’t mean you have to relish disappo
 
 ## Lesson 3
 
-### Trust the process and always be patient.
+### Trust the process and always be patient
 
 When we set goals for ourselves and strive to achieve them, it can get frustrating to find out that our attempts end up becoming failures. Sure, the theory says to keep on pushing even when the odds are against us, but how does one do that? How can we overcome failures and become better?
 
@@ -55,7 +55,5 @@ An ambitious objective can take longer to fulfill. If your goal is, for example,
 ## Review
 
 *Be Where Your Feet Are* is food for the souls of those who are too busy to live. It teaches its readers that the most important aspect of their life is the very present moment and that they should nurture and appreciate its uniqueness. Anyone reading this book will start living a more meaningful life and connecting more with their inner selves and their surroundings.
-
-## Who it’s for
 
 Someone looking to turn their life around by improving it, the ambitious person that wants to ‘have it all’, or an entrepreneur looking for ways to get the most out of his routine and business by shifting their mindset.

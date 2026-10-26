@@ -18,7 +18,7 @@ Here’s what to learn from the book:
 
 ## Lesson 1
 
-### Marketing has changed, especially for startups.
+### Marketing has changed, especially for startups
 
 Back in the day when Apple started, they would follow a simple mantra: Build a great product, and then get it in front of as many eyeballs as possible.
 
@@ -38,7 +38,7 @@ This approach dissolves the line between marketing and product development and u
 
 ## Lesson 2
 
-### Target a small group of early adopters first.
+### Target a small group of early adopters first
 
 So how can you growth hack the heck out of your own product? Simple: **Target the right people.**
 
@@ -64,7 +64,7 @@ Dropbox’s video blew up their waiting list from 5,000 to 75,000 people – in 
 
 ## Lesson 3
 
-### Make your product go viral by letting customers market it for you.
+### Make your product go viral by letting customers market it for you
 
 But even with that initial traction you might not make it. Eventually, your product will have to be everywhere. And this is where the buzzword of the 21st century comes in.
 
@@ -94,7 +94,5 @@ To me, the most fascinating part of growth hacking was never the money you could
 It’s a dream of mine to make something like this happen one day. I want to use my creativity to spread a powerful, good message across the world. *Growth Hacker Marketing* marked my start. It’s entirely different from classic marketing books. The summary is very short, because the book itself is short. Plenty of the examples from the book made it into the summary, which is a big plus.
 
 You can read the book in about 2-3 hours, but if you want more insights first, check out my step-by-step guide on the blog.
-
-## Who it’s for
 
 The 17 year old with an idea that might take the world by storm, but that she doesn’t quite know how to spread, the 30 year old, who really wants to figure out this online thing, and anyone, who has started (and maybe failed at) a startup.

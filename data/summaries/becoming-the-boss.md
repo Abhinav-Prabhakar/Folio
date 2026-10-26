@@ -20,7 +20,7 @@ Read? Set? Lead! Here we go!
 
 ## Lesson 1
 
-### The best leaders are the best at leading themselves.
+### The best leaders are the best at leading themselves
 
 When I was a missionary, our leaders had to teach us but also take care of their own areas. I didn’t understand how they could do it until I spend more time with them.
 
@@ -38,7 +38,7 @@ Additionally, always be learning and working harder. Assess your current knowled
 
 ## Lesson 2
 
-### Focus on others and make your communication skills top-notch if you want to have a positive influence on them.
+### Focus on others and make your communication skills top-notch if you want to have a positive influence on them
 
 In one of my favorite speeches I’ve attended, a leader I admire used a phrase that I’ll never forget:
 
@@ -58,7 +58,7 @@ One survey by Accountemps identified that not communicating often or openly enou
 
 ## Lesson 3
 
-### Use people’s names when talking with them, avoid gossip at all times, and know how to deal with difficult questions.
+### Use people’s names when talking with them, avoid gossip at all times, and know how to deal with difficult questions
 
 You’re not born with excellent communication skills, but you can learn them. Some of the most basic ones you can apply in just a few minutes to start seeing results!
 
@@ -83,7 +83,5 @@ Don’t lose your employee’s trust. Never talk about other people when they’
 ## Review
 
 *Becoming The Boss* is an excellent book that I highly recommend everybody read, not just managers. I especially liked how it focused on looking inward at how you can improve as a leader. It seems that so much of being a boss these days is about having a commanding presence with no humility, but we need leaders that can see their faults too!
-
-## Who it’s for
 
 The 60-year-old executive who doesn’t think they need to change anything to be a better leader, the 36-year-old that just got their first management position and feels a little out of place, and anyone that wants to learn to lead themselves.

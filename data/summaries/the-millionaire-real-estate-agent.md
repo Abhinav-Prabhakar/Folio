@@ -18,7 +18,7 @@ Ready to shoot for the moon? Here we go!
 
 ## Lesson 1
 
-### A successful real estate business is based on 3 L’s: leads, listings, and leverage.
+### A successful real estate business is based on 3 L’s: leads, listings, and leverage
 
 Gary Keller was an operator for many years. He built his business from the ground up, long before he started writing and teaching others what he learned. To this day, the 3 L model is his baseline.
 
@@ -34,7 +34,7 @@ Lastly, **leveraging systems, tools, and people** will help you grow your busine
 
 ## Lesson 2
 
-### There’s no finish line in the race towards becoming a better human being.
+### There’s no finish line in the race towards becoming a better human being
 
 Gary tells two remarkable stories about embracing failure. One is about Abraham Lincoln, who went bankrupt twice, lost a bid for a legislative seat, screwed up not one, but two congressional campaigns, two senatorial campaigns, and a vice presidency campaign – all before eventually becoming president.
 
@@ -46,7 +46,7 @@ Great people don’t need anyone leading the way. They always strive to be bette
 
 ## Lesson 3
 
-### Don’t spend all your time working in your business, work on your business to save time.
+### Don’t spend all your time working in your business, work on your business to save time
 
 Eventually, no matter how many deals you can make thanks to your systems, leads, leverage, and listings, eventually you’ll hit a roadblock: time. You just can’t duplicate yourself. **Time will always be your most valuable resource, and the only way to get more of it is to work on your business**.
 
@@ -57,7 +57,5 @@ The more you’re busy with creating revenue, the less time you have to think ab
 ## Review
 
 What I like about *The Millionaire Real Estate Agent* is that it extends beyond just real estate. Plus the combination of personal development and business development is helpful. As Hal Elrod would say: Your level of success rarely exceeds your level of personal development. A million-dollar business takes a million-dollar person to run it. This book will help you work towards both.
-
-## Who it’s for
 
 The 17 year old athlete, who thinks he can’t beat his best time on the track, the 51 year old real estate agent, who feels she’s working at her absolute limit and can’t find time to get more sales, and anyone interested in starting a service business.

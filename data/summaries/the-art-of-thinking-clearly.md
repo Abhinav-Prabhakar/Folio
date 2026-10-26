@@ -24,11 +24,9 @@ Here are the 3 most interesting psychology lessons from this book:
 
 Are you ready to learn how to challenge your inner thought patterns for a healthier mind? Let’s begin!
 
-### The Art of Thinking Clearly Summary
-
 ## Lesson 1
 
-### You think you can change things that you have no control over.
+### You think you can change things that you have no control over
 
 The *illusion of control* is a bias that describes how we believe our influence extends to things that are impossible to manipulate. We do this because believing that we have the power to change our situation brings us hope. Don’t let this get you down, however, because your life isn’t fixed, you can improve many aspects of your life. Let’s examine some of the inconsequential things that we think we have control over.
 
@@ -40,7 +38,7 @@ To combat the illusion of control, be wary of your predictions. **Rather than wo
 
 ## Lesson 2
 
-### You use availability and comparison to determine value rather than looking at actual pros and cons.
+### You use availability and comparison to determine value rather than looking at actual pros and cons
 
 Taking your more attractive friend to a club with you is a bad idea. Doing this makes you less likely to score a date. This happens because the comparison to your more attractive friend makes you appear less attractive than you really are.
 
@@ -52,7 +50,7 @@ If you want to break through these biases of scarcity and comparison, focus on t
 
 ## Lesson 3
 
-### Too many options to choose from makes it hard to make choices.
+### Too many options to choose from makes it hard to make choices
 
 In one experiment, researchers tested a hypothesis by selling 24 different kinds of jelly in a supermarket. The next day, they only displayed six types of jelly for customers to sample and purchase at a discounted price. On that second day, those conducting the study sold ten times the amount of jelly as on day one.
 
@@ -63,7 +61,5 @@ This phenomenon that makes decisions hard when there are many options is known a
 ## Review
 
 *The Art of Thinking Clearly* is a very interesting read. I was familiar with many of these psychological biases before, but this book sheds new light on some I didn’t know about. I liked that it gave some specific ways to avoid succumbing to these false ways of thinking, but also wanted to hear more of that.
-
-## Who it’s for
 
 The 34-year-old mother who wants to learn how to avoid the same mental pitfalls she always falls into, the 45-year-old business executive who is looking for ways to improve her every day decisions, and anyone who is fascinated by human behavior.

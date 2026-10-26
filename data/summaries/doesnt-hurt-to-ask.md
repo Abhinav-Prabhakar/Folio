@@ -20,7 +20,7 @@ Ready to discover the art of persuasion? Let’s get right into it!
 
 ## Lesson 1
 
-### One of your most valuable tools for persuading someone else is learning how to ask good questions.
+### One of your most valuable tools for persuading someone else is learning how to ask good questions
 
 Effective persuasion isn’t just about being good at debating with your opponent. It is about listening, communicating, and sharing your beliefs in a way that is compelling.
 
@@ -36,7 +36,7 @@ Still, the author believes that a stupid question is better than a stupid assert
 
 ## Lesson 2
 
-### You can improve your persuasion skills when you measure, repeat, and repackage.
+### You can improve your persuasion skills when you measure, repeat, and repackage
 
 “Do you agree America is more respected worldwide now than under President Obama?” someone asked Gowdy. Gowdy asked for more explanation: What does “more respected” mean? How do you define “worldwide?” His friend had no answers.
 
@@ -54,7 +54,7 @@ The author would use this strategy when he worked with domestic violence victims
 
 ## Lesson 3
 
-### If you are losing your argument, try to divert, deconstruct, double-down, or play the victim in response.
+### If you are losing your argument, try to divert, deconstruct, double-down, or play the victim in response
 
 The author knows that even masters of persuasion can’t always nail an argument. Sometimes the best thing to do is walk away. But he does have a few last-second strategies to mitigate the damage from a failed argument.
 
@@ -71,7 +71,5 @@ For example, when former House Speaker Paul Ryan was attacked during a debate ov
 ## Review
 
 I always love reading books about communication because they remind me of all the awesome people I know who are mind-bendingly good at it. *Doesn’t Hurt To Ask* has to be one of my favorite books on this subject because of how detailed it is. I think everybody is going to benefit from this, whether they work in a career that requires persuasion or not!
-
-## Who it’s for
 
 The 54-year-old with strong political beliefs that wants to be able to share them without feeling icky, the 35-year-old parents who are at a loss for how to persuade their kids to do the right things, and anyone that wants to be a better communicator in all walks of life.

@@ -62,6 +62,4 @@ Science is a fascinating field, as it offers answers for many of humanity’s qu
 
 *Chaos* presents the idea that the universe isn’t always predictable, that there’s beauty in the mystery of not knowing, and that chaotic fluctuations that don’t follow patterns are a natural part of life. Reading this book is a must if you want to improve your overall knowledge about the world.
 
-## Who it’s for
-
 The 50-year-old scientist who loves a good non-fiction book, the 30-year-old person who just loves to read about science, or the 17-year-old student who loves science and reads a lot in their free time.

@@ -20,7 +20,7 @@ Get your calculator ready; let’s learn how to become a Multiplier!
 
 ## Lesson 1
 
-### Bosses who are Multipliers make their team better by magnifying their strengths, while selfish Diminishers pull their team down.
+### Bosses who are Multipliers make their team better by magnifying their strengths, while selfish Diminishers pull their team down
 
 Although frequently intelligent, Diminishers drain the enthusiasm and skills from their team. They focus more on their own strengths and qualities than exploring how to utilize those of others. Employees often feel inferior and unfulfilled in the presence of a Diminisher, who reduces people’s potential and productivity. An example is a leader that smothers others ideas, taking a large chunk of meeting times with their own plans.
 
@@ -34,7 +34,7 @@ Although frequently intelligent, Diminishers drain the enthusiasm and skills fro
 
 ## Lesson 2
 
-### A little actionable advice on how to handle a Diminisher boss can go a long way toward improving your workplace.
+### A little actionable advice on how to handle a Diminisher boss can go a long way toward improving your workplace
 
 Have you ever had a terrible boss? Between shows like *The Office* and even your typical workplace, there are far too many examples of bad bosses. Normally, when we encounter a Diminisher, we are likely to avoid them, lay low, confront them, ignore them, or just quit. None of these knee-jerk reactions make any difference.
 
@@ -46,7 +46,7 @@ One boss I had was a terrible micromanager. He diminished my capabilities and se
 
 ## Lesson 3
 
-### To improve your work environment, become a Multiplier by following these swift and simple rules.
+### To improve your work environment, become a Multiplier by following these swift and simple rules
 
 So you’ve examined yourself and notice some Diminisher tendencies, what can you do about it? Well, here are some easy ideas to help you get started.
 
@@ -57,7 +57,5 @@ Rather than attempting to be the best at everything, look at one strength you ca
 ## Review
 
 *Multipliers* will make you think hard about your workplace and the role you play in it. I found myself looking at how others are Diminishers, but I also think it would be wise to check myself to see if I exert some of these tendencies also. These ideas will revolutionize any workplace and team, whether healthy or not.
-
-## Who it’s for
 
 The 36-year-old team leader who wants to improve their workplace atmosphere, the 25-year-old office worker with a micromanaging boss, and anyone interested in what it takes to become a great leader.

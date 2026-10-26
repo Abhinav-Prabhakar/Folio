@@ -24,7 +24,7 @@ Personal preference this or that, let’s not fret and look at some of the most 
 
 ## Lesson 1
 
-### A proven formula you can follow to find health, wealth or wisdom doesn’t exist.
+### A proven formula you can follow to find health, wealth or wisdom doesn’t exist
 
 If there’s anything to be learned from this book, I believe it’s that there is no recipe you can just plug and play on your path to a fit body, a jacked up bank account, or a serene mind. This book has all the tools and tactics used by the best in the world in their field, and yet, **it’s up to you to pick which ones will work for you**.
 
@@ -34,7 +34,7 @@ What works for the cubicle champion might not for the professional sprinter or t
 
 ## Lesson 2
 
-### You need thick skin and a mule’s attitude to beat peer pressure and do your thing.
+### You need thick skin and a mule’s attitude to beat peer pressure and do your thing
 
 This is something I’ve been thinking about a lot through the first semester of my Master’s degree. By my admittedly high standards, most college students are lazy. They do the bare minimum required to slip through exams, if that, and spend the rest of their time recovering from their “demanding college life.” Naturally, the peer pressure to procrastinate here is huge.
 
@@ -52,7 +52,7 @@ So instead of agreeing to the deal to just show off and split the prize money, S
 
 ## Lesson 3
 
-### To be creative, you first need to experience the stories you later want to tell.
+### To be creative, you first need to experience the stories you later want to tell
 
 Maybe some of his friends and advisors *did* tell Tim to not structure the book the way he did. But to even get to the point where he could be stubborn and say: “I’m doing it this way anyway” and going through with this particular experiment, he had to come up with it in the first place.
 
@@ -67,7 +67,5 @@ Working hard is good and important, but be aware of this balance to make sure yo
 ## Review
 
 As I said above, I’m not too excited about this book. But I think the lessons from looking at it, even on just a meta-level, are worth considering. That said, if you know your field, what you need help with, or even some of the experts, and want to pick individual people’s brains, *Tools Of Titans* is a great go-to resource.
-
-## Who it’s for
 
 The 22 year old marketer, who keeps trying quick-fix after quick-fix without success, the 37 year old sales manager, who always caves when her team goes out for cocktails, and anyone who can’t think of any hobbies within a few seconds after being asked about them.

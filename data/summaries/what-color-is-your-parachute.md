@@ -20,7 +20,7 @@ Whether you’ve been out of a job or just feel ready for a new one, here’s ho
 
 ## Lesson 1
 
-### Don’t rush your job hunt. It takes some time nowadays.
+### Don’t rush your job hunt. It takes some time nowadays
 
 It might be the hardest element to deal with in finding a job: the uncertainty of when it’ll happen. At the end of her second month searching, a friend of mine recently told me the rejections started to eat at her. I get that.
 
@@ -36,7 +36,7 @@ Keep calm and carry on.
 
 ## Lesson 2
 
-### Forget optimizing your resumé, optimize your online presence instead.
+### Forget optimizing your resumé, optimize your online presence instead
 
 One of the most powerful lessons I’ve learned in my two years of freelancing is this: **You don’t need a resumé to get a job**.
 
@@ -54,7 +54,7 @@ Let’s play!
 
 ## Lesson 3
 
-### There are three ways to score in a job interview and you can tackle all of them before you even show up.
+### There are three ways to score in a job interview and you can tackle all of them before you even show up
 
 Keeping your cool and building rapport online are nice, but sooner or later, you’ll have to subject yourself to the scrutiny of the inevitable: the job interview. Think of it like an exam: you should only be terrified when you go in unprepared.
 
@@ -71,7 +71,5 @@ And if it doesn’t work out? You’ll start right back at lesson one. Now go an
 ## Review
 
 I can’t help but applaud the concept of updating your book every year. What a work ethic! When I heard this book was from 1975 I thought: “Great, another dust-catcher.” I could not have been more wrong. I highly recommend *What Color Is Your Parachute*. Look at his flower exercise too.
-
-## Who it’s for
 
 The 23 year old business major, who’s about to take her first job, the 45 year old industry pro, who recently got laid off, and anyone who’s scared they won’t get the job they want.

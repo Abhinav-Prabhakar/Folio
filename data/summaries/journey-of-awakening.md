@@ -20,7 +20,7 @@ Wake up! We’ve got to get going on this *Journey of Awakening*!
 
 ## Lesson 1
 
-### Meditation is a useful tool that helps you stay grounded in the present and find clarity and balance in your life.
+### Meditation is a useful tool that helps you stay grounded in the present and find clarity and balance in your life
 
 You know those moments when everything feels right in the world, and you’re free of self-conscious thought? This is *flow*. Unfortunately, most of the time, we don’t live in flow. Why? Because our egos trap us.
 
@@ -32,7 +32,7 @@ When you bring your mind to a place of awareness, you’ll start to realize that
 
 ## Lesson 2
 
-### Find the best form of meditation for you and incorporate techniques that will help you concentrate and evolve your practice.
+### Find the best form of meditation for you and incorporate techniques that will help you concentrate and evolve your practice
 
 Meditation doesn’t have to look the same for everyone. A classic meditation would entail something like picturing a stream and watching thoughts float by like autumn leaves. For some people, this might work well.
 
@@ -46,7 +46,7 @@ By developing both mindfulness and concentration at the same time, you will fina
 
 ## Lesson 3
 
-### You might run into ego traps, but if you really want freedom from your ego, you need to keep going.
+### You might run into ego traps, but if you really want freedom from your ego, you need to keep going
 
 As you continue to practice meditation, you might have a shift in your consciousness where you experience ecstasy. You could possibly even experience tingling or visions. If you do experience something like this, don’t chase it, just acknowledge it and let it go.
 
@@ -63,7 +63,5 @@ It takes a lot of strength to get through this part of your journey, but the aut
 ## Review
 
 I like learning all I can about meditation, and repeating the basics via *Journey of Awakening* helped me solidify them. This book also went into some details of mindfulness that I hadn’t thought about before, which I was super happy about!
-
-## Who it’s for
 
 The 43-year-old mother of four who is stressed and needs a way to quickly unwind, the 17-year-old that struggles with anxiety and is curious to find out more about meditation, and anyone who wants to be more mindful and at peace with themselves.

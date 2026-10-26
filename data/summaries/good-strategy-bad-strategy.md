@@ -20,7 +20,7 @@ Let’s understand the difference between good and bad strategy and how we can p
 
 ## Lesson 1
 
-### Bad strategy is based on 4 mistakes many companies make over and over again.
+### Bad strategy is based on 4 mistakes many companies make over and over again
 
 Good strategy is often easy to explain in hindsight. *Of course* it was a great idea for Apple to focus all of its resources on the Macintosh, or for McDonald’s to build playgrounds next to each restaurant. The Macintosh was a global success, and McDonald’s became the family-friendly fast-food restaurant of choice.
 
@@ -35,7 +35,7 @@ Okay, so much for what *not* to do. But what is *good* strategy? Let’s find ou
 
 ## Lesson 2
 
-### A good strategy only has 3 parts: diagnosis, guiding policy, and a set of actions.
+### A good strategy only has 3 parts: diagnosis, guiding policy, and a set of actions
 
 Ever since Elon Musk became the CEO of Tesla in 2008, the company’s mission has been “accelerating the world’s transition to sustainable energy.” But how did they deliver on this mission so far and become one of the most valuable companies in the world along the way? Good strategy was not the only, but surely one big piece of the puzzle.
 
@@ -53,7 +53,7 @@ As you can see, good strategy is simple in its essence, but it can be hard to de
 
 ## Lesson 3
 
-### Nvidia is the perfect case study of good strategy in action.
+### Nvidia is the perfect case study of good strategy in action
 
 As I’m writing these words, the chip manufacturer and leading hardware provider for the AI revolution, Nvidia, is the 3rd-largest company in the world. Back in the early 90s, however, no one knew their name. Rumelt explains the origins of their meteoric rise.
 
@@ -70,7 +70,5 @@ In the long run, good strategy makes all the difference. Diagnose your challenge
 ## Review
 
 *Good Strategy, Bad Strategy* offers a simple but classic business framework that cuts through the noise. It’s packed with useful examples and case studies. Whether you’re studying business in college, working at a big firm, or running your own, I recommend you browse this book and see what helpful bits you can find!
-
-## Who it’s for
 
 The 21-year-old business student who’s bored of her college materials, the 33-year-old CEO of a fast-growing company, and anyone who wants to know why some of the world’s biggest companies succeeded.

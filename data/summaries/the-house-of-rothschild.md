@@ -18,7 +18,7 @@ Ready for a trip down memory lane Wall Street? Let’s learn more about the Roth
 
 ## Lesson 1
 
-### Use whatever industry’s available to you as leverage for the one you really want to break into.
+### Use whatever industry’s available to you as leverage for the one you really want to break into
 
 Even though you might think the name sounds aristocratic, the Rothschilds weren’t always rich. Far from it, the head of the family, Mayer Amschel Rothschild lived, like all Jews, in a ghetto in Frankfurt, Germany, with very few narrow streets, in the 1750s. The family name is simply derived from the house they inhabited, which was marked with a red shield.
 
@@ -32,7 +32,7 @@ Instead of thinking inside his own limitations, Mayer picked an industry adjacen
 
 ## Lesson 2
 
-### If the best solution that’s currently available still isn’t good enough, build your own instead.
+### If the best solution that’s currently available still isn’t good enough, build your own instead
 
 By the time Mayer died in 1812, he had set up his business and family for success. His five sons were establishing and running banks in Frankfurt, Vienna, London, Paris and Naples. Because the brothers cooperated and used their partnerships to their advantage, the five Rothschild houses in the finance hubs of Europe comprised the largest bank in the world at the time.
 
@@ -48,7 +48,7 @@ When nothing works quite like you want it to, build your own solution. Not only 
 
 ## Lesson 3
 
-### You can expect the 80/20 rule to apply in even the most extreme circumstances and businesses.
+### You can expect the 80/20 rule to apply in even the most extreme circumstances and businesses
 
 The 80/20 Principle says that 20% of the input will get you 80% of the results. You’ll find it’s true in most aspects of life – for example 20% of the items in the trash can I’m looking at right now account for 80% of the volume that’s filled up (I’m guessing it’s the pizza boxes) – but it’s especially important to remember in business.
 
@@ -61,7 +61,5 @@ As you can see, even in extreme cases like this one, where super wealthy busines
 ## Review
 
 Given how long I procrastinated on writing this today, I’m super happy how it turned out (it’s my first calm Saturday in three weeks). I’m happy I found this out-of-the-box read, because one of the aspects of learning to be good at making and handling money is knowing its history. *The House Of Rothschild* is especially recommended to all investors!
-
-## Who it’s for
 
 The 19 year old finance major, who’s dad owns a bank, the 27 year old accountant, who works at a big auditing and consulting company, and anyone who thinks they’ll never have a chance of breaking into the industry they really want to get into.

@@ -12,7 +12,7 @@ But it doesn’t stop there. The way we eat is also ruining our planet by contri
 
 What we eat has negative effects on the planet and the damage we do to the planet negatively affects how we eat. It all sounds pretty scary, right?
 
-In Dr. Mark Hyman’s *Food Fix:* *How to Save Our Health, Our Economy, Our Communities, and Our Planet–One Bite at a Time* we learn about the origins of this food crisis and what we can do about it.
+In Dr. Mark Hyman’s *Food Fix: How to Save Our Health, Our Economy, Our Communities, and Our Planet–One Bite at a Time* we learn about the origins of this food crisis and what we can do about it.
 
 Here are the 3 most important lessons I’ve learned from this book:
 
@@ -24,7 +24,7 @@ Ready to fix what’s wrong with your diet? Let’s dig right in and find out ho
 
 ## Lesson 1
 
-### The greatest challenges we face today all trace back to the food we eat.
+### The greatest challenges we face today all trace back to the food we eat
 
 When we look at the news, sometimes it’s easy to feel like the world is crumbling around us. There are conflicts, rising death rates, famine, the ice is melting, and we are losing vital species.
 
@@ -38,7 +38,7 @@ Another challenge is the disruption of communities that the big business of food
 
 ## Lesson 2
 
-### Big agribusiness is in the process of causing an irreversible environmental disaster.
+### Big agribusiness is in the process of causing an irreversible environmental disaster
 
 Soil is one of the most important parts of the earth’s ecosystem. It is a living environment, full of microorganisms, worms, and fungi, among other things. These take nutrients from dead matter and feed plants. When soil isn’t healthy, we can’t continue to farm.
 
@@ -54,7 +54,7 @@ This is the worst for pollinators like bees and butterflies, a devastating probl
 
 ## Lesson 3
 
-### By working together and implementing regenerative farming practices and innovative technologies, we have hope for our future.
+### By working together and implementing regenerative farming practices and innovative technologies, we have hope for our future
 
 All of the problems our food presents us with today are pretty bleak, but the author does offer some hope. One thing each of us can do is to change the way we eat, which will put pressure on big agribusiness to alter their ways. After all, without our money, they will be forced to change.
 
@@ -75,7 +75,5 @@ Instead of plowing at the end of harvest, they leave the stubble and plant new c
 ## Review
 
 *Food Fix* is a crucial and eye-opening read. You will be astounded to find that pretty much every problem we face as a global society today can be traced back to our food. Consumers should be aware of what big corporations are doing so that we can make sure they are held responsible for their actions. Hyman also shows that if we can all come together and make changes we still have hope to save the world’s future.
-
-## Who it’s for
 
 The 28-year-old who wants to find out ways they can help the environment, the 54-year-old who knows they can eat better but isn’t sure how, and anyone that wants to beat or prevent disease.

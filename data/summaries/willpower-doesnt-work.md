@@ -20,7 +20,7 @@ Are you pumped up to learn why *Willpower Doesn’t Work* and what to do instead
 
 ## Lesson 1
 
-### Stop worrying about self-discipline if you want to change your life, instead, intentionally design your environment.
+### Stop worrying about self-discipline if you want to change your life, instead, intentionally design your environment
 
 If you’ve read any of the books on willpower, you know that it’s like a muscle. In the same way that you can lift weights to improve your strength, you can grow this muscle with exercise.
 
@@ -43,7 +43,7 @@ But when we intentionally design our environment, like in domesticated evolution
 
 ## Lesson 2
 
-### If you want to be happy, productive, and successful, designate specific, separate places for work and play.
+### If you want to be happy, productive, and successful, designate specific, separate places for work and play
 
 The COVID-19 pandemic has completely altered our world. Hidden in all of the restrictions it’s brought with it are some benefits, like you being able to work from home. But, as you’re well aware, that added time with your family comes at a cost.
 
@@ -57,7 +57,7 @@ When you intentionally designate one space for work and one for play, you optimi
 
 ## Lesson 3
 
-### If you have something in your life that requires willpower to resist, quickly and firmly choose to eliminate it.
+### If you have something in your life that requires willpower to resist, quickly and firmly choose to eliminate it
 
 You need to get rid of the things that make it hard to reach your goals. That’s not an easy thing to do, but if you go into it with the right mentality, it gets much easier.
 
@@ -76,7 +76,5 @@ You’ll be grateful you did when, instead of having to use willpower to make a 
 ## Review
 
 I’ve liked everything I’ve read from Ben Hardy since I first started reading his stuff back in 2018. *Willpower Doesn’t Work* has been on my list to check out for a while and my only regret is that I wish I’d read it sooner! This is an excellent book that’s sure to boost your productivity immediately after reading it.
-
-## Who it’s for
 
 The 31-year-old that’s trying to lose weight but wonders why it’s so difficult, the 48-year-old entrepreneur that wants to reach their full potential, and anyone that struggles to be consistently productive.

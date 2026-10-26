@@ -20,7 +20,7 @@ Ready to learn something that will change your life for the better? Let’s get 
 
 ## Lesson 1
 
-### No amount of alcohol consumption is safe, it increases your chances of cancer, is the most harmful drug in the world, and harms society.
+### No amount of alcohol consumption is safe, it increases your chances of cancer, is the most harmful drug in the world, and harms society
 
 Alcohol is bad for you, and we’ll get to that in a moment. But it also causes the most damage of any drug on the planet. A 2009 report from British scientists ranked the health dangers of different drugs on a scale of 0 to 100. **Alcohol came in at the top with a score of 72!** That’s greater than heroin at 55 and crack at 54.
 
@@ -36,7 +36,7 @@ Oh, but what about the red wine studies, you say? They found it was healthy, rig
 
 ## Lesson 2
 
-### With exercise, your weak sobriety muscles can become strong.
+### With exercise, your weak sobriety muscles can become strong
 
 We’ve only scraped the tip of the iceberg of the many reasons this book teaches that you shouldn’t drink alcohol. But just consider that giving it up means a healthier life. No more hangovers, facial bloating, bloodshot eyes, or nights you can’t remember what kind of trouble you got into.
 
@@ -52,7 +52,7 @@ It’s also helpful to tell people ahead of time you won’t be drinking. And if
 
 ## Lesson 3
 
-### Giving up booze will make you more intelligent and better at performing during sex and enjoying it.
+### Giving up booze will make you more intelligent and better at performing during sex and enjoying it
 
 The truth about your drinking that you probably don’t want to admit is that it stopped being enjoyable a while ago. But your brain doesn’t care, it’s built the habit already. Anytime you have a problem of any kind, your brain goes to alcohol as the solution.
 
@@ -69,7 +69,5 @@ Without being intoxicated you can remember it better, or at all. You also get mo
 ## Review
 
 Wow, I had no idea that alcohol is so bad for you and that being sober is something to be extremely grateful for! I’ve never drunk but every story I hear about booze just makes me never want to. *The Unexpected Joy Of Being Sober* just reinforced my commitment to sobriety even more!
-
-## Who it’s for
 
 The 37-year-old whose father was a drunk that is starting to have problems with drinking also, the 22-year-old college student who is tired of dealing with hangovers every weekend, and anyone who wonders if there is more to enjoying life than just trying to take the edge off with a drink.

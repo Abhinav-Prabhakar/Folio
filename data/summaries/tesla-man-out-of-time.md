@@ -20,7 +20,7 @@ Let’s dig deeper into these lessons and learn more about the world’s top eng
 
 ## Lesson 1
 
-### Despite Tesla’s modest origins, he made it to America and became a worldwide famous engineer.
+### Despite Tesla’s modest origins, he made it to America and became a worldwide famous engineer
 
 Hard work and passion combined prove that there truly is a timeless formula for success. And Nikola Tesla harnessed this combination to its full extent. He was born and raised in Croatia and his future revolved around becoming part of the clergy or the Austro-Hungarian army. But his destiny took a drastic spin.
 
@@ -32,7 +32,7 @@ He then resigned and went on his quest to develop and implement alternative curr
 
 ## Lesson 2
 
-### Tesla went on to discover radio communication and achieve one of humanity’s greatest inventions.
+### Tesla went on to discover radio communication and achieve one of humanity’s greatest inventions
 
 Even after Nikola Tesla achieved fame, and money, and praised all over the world, he didn’t stop pursuing his passion. In contrast, his lab was working harder than ever to discover yet another groundbreaking technology: radio communication.
 
@@ -44,7 +44,7 @@ Following a modest childhood, part of Tesla’s life was all about skyrocketing 
 
 ## Lesson 3
 
-### Tesla was a man who came to know the highest highs and the lowest lows.
+### Tesla was a man who came to know the highest highs and the lowest lows
 
 Tesla was a man ahead of his time, but his further groundbreaking discoveries were not something investors were interested in anymore. They just didn’t share his vision like they used to, which caused plenty of frustration and depressive feelings for the Croatian genius.
 
@@ -61,7 +61,5 @@ His last years weren’t as we would’ve hoped. Modern technology was a disgrac
 Growing up, Tesla had a passion for science, which projected him on top of the world, but also dragged him to the bottom during the second half of his life. He lived to know fame and fortune but was also disappointed with people who didn’t give him credit for his inventions.
 
 His life serves as a valuable lesson about hard work and the positive implications of science in humanity’s evolution. The book is a morality lesson and a tale worth reading for the world, as it teaches us the importance of nurturing the precious genius of the few chosen ones.
-
-## Who it’s for
 
 The 23-year-old science geek who wants to read about the life of geniuses who lived before him, the 35-year-old science professor who has a passion for the biographies of the world’s top physicists and engineers, or the 14-year-old child who finds joy in the world of science, reading, and in studying during his free time.

@@ -18,7 +18,7 @@ Need a revised definition of success? Here comes one that’s based on fun and l
 
 ## Lesson 1
 
-### Impose limits on yourself to activate your creativity.
+### Impose limits on yourself to activate your creativity
 
 Have you ever had a test in school where the teacher would just sit you down in front of a blank piece of paper, give you a pencil, and tell you to start? Probably not. That’d be weird, right?
 
@@ -32,7 +32,7 @@ This is also why tweets on Twitter allow only 140 characters – it forces you t
 
 ## Lesson 2
 
-### Never stop forming your ideas, even after they’re released.
+### Never stop forming your ideas, even after they’re released
 
 When Biz Stone designed the Twitter logo, he just sketched a bird based on an image he found online. But it didn’t quite feel right, so someone else made a few changes he hadn’t thought of. Eventually, the design was finalized by a professional designer. Over the years, the logo has changed a couple times.
 
@@ -46,7 +46,7 @@ So never stop forming your ideas with the feedback of others, there’s always s
 
 ## Lesson 3
 
-### You have to be your own product’s most passionate user for it to work out.
+### You have to be your own product’s most passionate user for it to work out
 
 Frustration is a great source of motivation. For example, right now I’m really mad at how landlords treat potential tenants in Munich. I’ve been left standing in front of doors, not given notice that they picked someone else and thrown out again after sealing the deal and handing in all my paperwork. It got my gears spinning about how I can make this process more human, less frustrating and smoother for everyone.
 
@@ -61,7 +61,5 @@ So don’t just solve a frustrating problem, be sure to actually use the solutio
 ## Review
 
 I think Biz has a great mindset. It’s positive, but not shying away from hard work, which, in my eyes, makes it sustainable in the long run. And you’re gonna have to work for the long run for anything worth creating. Reading *Things A Little Bird Told Me* can make it rub off on you, so go get yourself a dose of Biz 🙂
-
-## Who it’s for
 
 The 25 year old who’s mad at himself for not starting his own business ten years earlier, the 43 year old sales manager, who’s selling something she doesn’t really believe in (nor use), and anyone is an avid Twitter user.

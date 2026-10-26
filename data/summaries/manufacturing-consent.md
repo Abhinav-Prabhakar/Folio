@@ -16,11 +16,9 @@ Here are 3 of the most fascinating lessons from this book:
 
 Get ready to blow the lid open on the problems with mass media! Let’s begin!
 
-### Manufacturing Consent Summary
-
 ## Lesson 1
 
-### The elite ruling class control what news the media covers.
+### The elite ruling class control what news the media covers
 
 At first glance into the ideas behind this book, you might say you’ve seen the media criticize someone who is rich or powerful. But did you stop to think that their condemnation could be the result of another person who is more rich and powerful paying them off?
 
@@ -36,7 +34,7 @@ Political and financial incentives that benefit the elite govern what the news s
 
 ## Lesson 2
 
-### Advertiser interests govern what the news shares because of their payments to news stations.
+### Advertiser interests govern what the news shares because of their payments to news stations
 
 To make it in the media world, you’ve got to pay for expensive reporters and publishing equipment. Add to this the competitive nature of the industry and you’ve got a recipe for easy disaster. That is unless you’ve got the cash to back up your station.
 
@@ -50,7 +48,7 @@ The end interest of these corporation owners and other big-wigs is to maximize s
 
 ## Lesson 3
 
-### The upper class pays for experts to share their skewed findings on media outlets.
+### The upper class pays for experts to share their skewed findings on media outlets
 
 How often have you seen something to the effect of “experts say…” in the news or other media? I’ve often found myself quoting some of their statements. Now, I am a bit more leery of the accuracy of what “experts” tell us.
 
@@ -63,7 +61,5 @@ Let’s look at the assassination attempt on Pope John Paul II as an example of 
 ## Review
 
 I wanted to like *Manufacturing Consent* more than I actually did after reading it. The concept that the media skews information to the interests of the elite is intriguing, but the examples given are a bit too outdated for me. Still, it’s an important concept to be aware of!
-
-## Who it’s for
 
 The 35-year-old reporter who wonders if their employer is fair, the 63-year-old who is concerned about the validity of their news sources, and anyone who consumes mass media.

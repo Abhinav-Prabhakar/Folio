@@ -20,7 +20,7 @@ Want to learn more about the biology of happiness? You’ve come to the right pl
 
 ## Lesson 1
 
-### The chemicals that make you unhappy are equally as important as the happy ones.
+### The chemicals that make you unhappy are equally as important as the happy ones
 
 The four chemicals of happiness serve different purposes, like rewarding you for being social (oxytocin), going after a reward (dopamine) or pushing through physical pain (endorphins) at different times. Naturally, we spend a lot of our waking lives chasing after them in one way or another, whether we’re aware of it or not.
 
@@ -32,7 +32,7 @@ Cortisol is what gives you that “do something” feeling when you feel threate
 
 ## Lesson 2
 
-### There is nothing in this world that will keep making you happy forever.
+### There is nothing in this world that will keep making you happy forever
 
 But even if we could get our hormone system to work perfectly in sync with our rational thinking, that wouldn’t make us permanently happy. Permanent happiness, a continuous state of bliss, is nothing more than a myth.
 
@@ -48,7 +48,7 @@ You might think habituation sucks, but it’s what helped us survive. Sitting ar
 
 ## Lesson 3
 
-### Life is a series of constant choices, so it’s important to not let others choose for you.
+### Life is a series of constant choices, so it’s important to not let others choose for you
 
 Our brains have become very complex, and because there are so few real risks left out there, it keeps coming up with its own, overblown sense of what’s truly risky and what’s not.
 
@@ -61,7 +61,5 @@ But out of all decisions, that’s the only one that’ll truly make you unhappy
 ## Review
 
 *Habits Of A Happy Brain* went deep and at the same time managed to explain everything in a way I could understand – which is rare. Also, since it’s the only book I could find (so far) on all four happiness hormones simultaneously, it really makes it a one-stop-shop for learning about the biology of happiness. Highly recommended!
-
-## Who it’s for
 
 The 23 year old college student, who wishes she could always remain a student, sleep in, relax and “stay happy”, the 43 year old lottery winner, who’s gotten bored with all of his material belongings, and anyone who often finds themselves thinking “this is my boss’s fault”.

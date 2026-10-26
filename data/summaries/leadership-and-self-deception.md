@@ -20,7 +20,7 @@ Are you excited to reach your full potential by uncovering and destroying an asp
 
 ## Lesson 1
 
-### Self-deception makes you think that the needs of other people aren’t important, which, in turn, makes you treat them like objects.
+### Self-deception makes you think that the needs of other people aren’t important, which, in turn, makes you treat them like objects
 
 Imagine you’re sitting on a bus with an empty seat next to you. Are you carefully watching others around you, hoping that nobody takes the seat?
 
@@ -36,7 +36,7 @@ In other words, you frequently deceive yourself into thinking that others don’
 
 ## Lesson 2
 
-### You deceive yourself by focusing too much on other’s weaknesses while overemphasizing your own virtues.
+### You deceive yourself by focusing too much on other’s weaknesses while overemphasizing your own virtues
 
 Once you fall into the vicious cycle of self-deception it can be hard to get out. Part of the reason for this is because you tend to think of it as being harmless to others. But it does hurt people, and it keeps you from reaching your full potential.
 
@@ -54,7 +54,7 @@ So how do you stop it? You’ll find out next!
 
 ## Lesson 3
 
-### If you want to eliminate self-deception and reach your full potential, commit to always act on the instinct to help other people in need.
+### If you want to eliminate self-deception and reach your full potential, commit to always act on the instinct to help other people in need
 
 Self-deception means betraying yourself, so if you can stop that, then you can get out of the box. But you can’t just change your behavior, especially by trying to cope or avoid others.
 
@@ -71,7 +71,5 @@ As you follow these steps you’ll quickly reach your full potential and soon be
 ## Review
 
 I almost feel like *Leadership and Self-Deception* should be called just “Self-Deception” because it’s got so much useful stuff on the topic for everyone. It would be even better if it was just called “Self-Awareness” because I feel like that’s what it really teaches! Either way, this book is a classic and a must-read for anyone that wants to become their best self!
-
-## Who it’s for
 
 The 62-year-old that wonders why people don’t like him, the 35-year-old who wants to improve their relationship with others at work, and anyone who wants to unlock their full potential by becoming more aware of how they treat others.

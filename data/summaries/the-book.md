@@ -22,7 +22,7 @@ Ready to have your understanding of the world challenged? Then let’s check wha
 
 ## Lesson 1
 
-### You are part of a bigger whole, rather than a lonely island.
+### You are part of a bigger whole, rather than a lonely island
 
 The first fallacy Watts point us to is that most people perceive themselves as entities separated from the rest of the world. In his own words:
 
@@ -36,9 +36,9 @@ Watts wants you to see through this illusion of “me against the world.” He e
 
 ## Lesson 2
 
-### Causality of events is a kind of cognitive bias.
+### Causality of events is a kind of cognitive bias
 
-Most of us perceive the world in binary terms. We recognize *day* based on its opposition to *nigh* t – and the other way around. This kind of labeling leads us to believe that things are indeed black or white in this world.
+Most of us perceive the world in binary terms. We recognize *day* based on its opposition to *nigh*t – and the other way around. This kind of labeling leads us to believe that things are indeed black or white in this world.
 
 Such a biased perception is often taken for granted and not even verbalized. That’s just how everyone sees the world – and so it doesn’t cross our minds to question it. Germans refer to such deeply embedded assumptions as *Hintergedanken*, which literally translates as “behind the thoughts.”
 
@@ -52,7 +52,7 @@ As long as you look through the hole, it will never occur to you that the head, 
 
 ## Lesson 3
 
-### Death is an opportunity, not a threat.
+### Death is an opportunity, not a threat
 
 The concept of death as the doomsday of our lives is deeply rooted in Western culture. According to Watts, Christianity is largely responsible for that.
 
@@ -62,12 +62,10 @@ None of that sounds particularly comforting, does it? However, Watts points out 
 
 Death can be seen as a gateway to a new dimension of spiritual growth. In fact, reminding yourself about the inevitability of death can greatly add to the sense of purpose and quality of your life. As Greek spiritual teacher, G. I. Gurdjieff said:
 
-> *“* *Every one of those unfortunates during the process of existence should constantly sense and be cognizant of the inevitability of his own d* *eath* *(…). Only such a sensation and such a cognizance can now destroy the egoism completely crystallized in them that has swallowed up the whole of their Essence, and also that tendency to hate others which flows from it.”*
+> *“Every one of those unfortunates during the process of existence should constantly sense and be cognizant of the inevitability of his own death (…). Only such a sensation and such a cognizance can now destroy the egoism completely crystallized in them that has swallowed up the whole of their Essence, and also that tendency to hate others which flows from it.”*
 
 ## Review
 
 Although *The Book* was first published in 1966, it is as relevant as ever today. That’s because it tackles the timeless issues of human existence and tries to answer questions we’ve been asking since the beginning of time. Whatever the year, an insight into a great mind such as Watts’ is always a delight.
-
-## Who it’s for
 
 The 25-year old raised as a devout Christian but curious to expand her perspective, the 47-year old who has succeeded professionally and personally but finds himself in an existential crisis, and anyone who is looking for guidance or inspiration on their spiritual path.

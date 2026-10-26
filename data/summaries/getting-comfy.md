@@ -28,7 +28,7 @@ Grab an alarm clock and notepad and let’s learn how to make our morning routin
 
 ## Lesson 1
 
-### Calmness and openness are the first two steps of the COMFY framework.
+### Calmness and openness are the first two steps of the COMFY framework
 
 Waking up to a buzzing alarm then going straight to work is a recipe for anxiety. If you want to be ready for the day, you’ve got to introduce **calmness** right away.
 
@@ -46,7 +46,7 @@ Be open with yourself by journaling about your thoughts. Be vulnerable about you
 
 ## Lesson 2
 
-### Move your body and get yourself laughing with something funny before starting your workday.
+### Move your body and get yourself laughing with something funny before starting your workday
 
 The first two steps of COMFY are things I’ve not done too much yet but am excited to experiment with. These next two, on the other hand, are things I’ve done this morning and many days of my life, so I know they work.
 
@@ -62,7 +62,7 @@ You can also designate your own “funny buddy” to share entertaining things w
 
 ## Lesson 3
 
-### The last step in your morning routine is learning and growing your passions.
+### The last step in your morning routine is learning and growing your passions
 
 At the end of the day, or beginning, rather, none of the ideas we’ve talked about to this point get you out of bed. And although your alarm clock might interrupt your sleep, you might not often think of your reasons for setting it. But you need to.
 
@@ -81,7 +81,5 @@ Jordan’s passion is “adding value to others,” and he is excellent at it. E
 ## Review
 
 What a great book! I really enjoyed *Getting COMFY* and it’s given me a lot of really helpful tips that I can’t wait to use to improve my routine. I was excited about this one because I know Jordan personally and he’s a great guy who’s advice you can trust!
-
-## Who it’s for
 
 The 49-year-old that’s always thought of themselves as a night owl and needs some help to make their mornings better, the 37-year-old that works at a startup who could use a more peaceful morning routine to prepare them for the day, and anyone that wants a great way to start each day off on the right foot!

@@ -18,11 +18,9 @@ Here are the 3 most helpful lessons I’ve learned about how we talk to stranger
 
 Are you ready to learn how to tell when you’re making bad assumptions about people? Let’s begin!
 
-### Talking to Strangers Summary
-
 ## Lesson 1
 
-### If you tell people that you’re naturally good at getting a read on people’s thoughts or emotions, you’re wrong.
+### If you tell people that you’re naturally good at getting a read on people’s thoughts or emotions, you’re wrong
 
 Who better to look to on the accuracy of making judgments than a bail judge? Solomon is one in New York City who makes a point to look at the people he sentences in the eye. After all, how can you know if a person is shady or not unless you can see it in their eyes? Against artificial intelligence, however, Solomon and other judges did worse at assessing people that the computers. In a 2017 study, one Harvard economist fed his program the same information the judges got before making their decisions. **The defendants that the judges gave bail were 25% more likely to go out and commit another crime than those the computer would have chosen.**
 
@@ -34,7 +32,7 @@ But when the same group looked at answers that other participants shared, the st
 
 ## Lesson 2
 
-### Knowing when another person is lying is not something that humans are good at.
+### Knowing when another person is lying is not something that humans are good at
 
 Do you think you’d be able to spot a Cuban spy if you worked with one? Ana Montes worked for the US Defense Intelligence Agency (DIA) and while there fed US secrets to Cuba. It was only after she was found out that the DIA realized the red flags were there all along.
 
@@ -48,7 +46,7 @@ Levine concludes that people need a clear trigger to tell if someone isn’t tel
 
 ## Lesson 3
 
-### There is no uniform way that every person expresses themselves, so it’s hard to tell what is really going on inside their heads.
+### There is no uniform way that every person expresses themselves, so it’s hard to tell what is really going on inside their heads
 
 If you’ve ever seen the show *Friends*, you know how easy it is to tell what the characters are feeling. Shock is shown by wide eyes and a jaw drop, while anger is narrow-eyed and furrowed brows. You can read their faces like a book. But this isn’t how people work in the real world.
 
@@ -63,7 +61,5 @@ But it turned out that Knox wasn’t guilty. Her actions were only a different w
 ## Review
 
 I always like a good Malcolm Gladwell book, and his *Talking to Strangers* didn’t disappoint. The stories in this book are as fascinating as they are eye-opening to how bad we are at judging others. This is one book that I hope everyone in the world reads because we can all be a little more understanding of each other.
-
-## Who it’s for
 
 The 52-year-old judge who hopes that they are making fair decisions, the 34-year-old who works in a large city and passes many strangers everyday, and anyone who thinks that they are good at reading how people are feeling.

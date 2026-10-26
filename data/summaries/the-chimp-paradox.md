@@ -18,11 +18,9 @@ Here are 3 lessons that will help you exercise control over your emotions:
 
 Ready to chase the monkey inside your brain? Let’s see if we can get it up the next tree!
 
-### The Chimp Paradox Summary
-
 ## Lesson 1
 
-### There are two competing forces in your brain, so learn to recognize them.
+### There are two competing forces in your brain, so learn to recognize them
 
 One of the easiest ways for us to learn is through analogy. That’s why, when Steve replaced two complex sounding names for parts of our brain with simpler images, he made a brilliant move as a teacher. He describes our prefrontal cortex as the human part of our brain and our limbic system as our inner chimp. The human acts rationally, based on facts, but the chimp only decides using emotions.
 
@@ -34,7 +32,7 @@ Therefore, the most important thing is to start observing your own state of mind
 
 ## Lesson 2
 
-### We communicate in four distinct modes, which determine how to best say what you want to say.
+### We communicate in four distinct modes, which determine how to best say what you want to say
 
 In the scenario above, your partner can’t know what mental state you’re in before making a comment. It’s hard to guess sometimes, so it’s normal that you will often be wrong about others too. As a result, **there are four communication scenarios**:
 
@@ -49,7 +47,7 @@ Explaining your reasoning in an assertive, but respectful manner is the best way
 
 ## Lesson 3
 
-### Since the chimp always wants more, it can become a fundamental obstacle to your long-term happiness.
+### Since the chimp always wants more, it can become a fundamental obstacle to your long-term happiness
 
 This is something I struggle with: We should celebrate and appreciate our achievements as they come. I always have goals, but when I achieve them, I tend to gloss over, not really take much of a break, and immediately dig in to the next challenge. That’s not healthy.
 
@@ -60,7 +58,5 @@ So remember: Your inner monkey will always dangle the next reward in front of yo
 ## Review
 
 What academics often struggle with is communicating their vast knowledge in ways people enjoy, like, and understand. But not Steve Peters. *The Chimp Paradox* is a brilliant, simple metaphor that will help you assess your own behavior, focus on the long-term, and communicate better with others.
-
-## Who it’s for
 
 The 25 year old med student, who’s really tired of the long path she’s been on to become a doctor, but wants to hang in there and pull through, the 38 year old athlete, who’s starting to hit his limits more and more, and anyone who often wonders how they got into an argument with their partner in the first place.

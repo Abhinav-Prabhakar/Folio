@@ -20,7 +20,7 @@ Ready for a deep dive into one of history’s most fascinating biographies? Let�
 
 ## Lesson 1
 
-### Above all, Benjamin Franklin embraced learning. He was a true self-improvement nerd.
+### Above all, Benjamin Franklin embraced learning. He was a true self-improvement nerd
 
 Ben Franklin started learning early. At just ten years old, he took his first apprenticeship and worked ever since. So by the time he took a job with printer Samuel Keimer at age 17, he’d been learning for seven years already.
 
@@ -34,7 +34,7 @@ You could say that Benjamin Franklin was one of the first self-improvement nerds
 
 ## Lesson 2
 
-### If it was possible in the 1700s, it’s possible in 2016. If you really want to learn something, you’ll find a way.
+### If it was possible in the 1700s, it’s possible in 2016. If you really want to learn something, you’ll find a way
 
 For all his success in business, what Ben Franklin *really* wanted to do was write. That’s why he took an apprenticeship with a printer in the first place. He also worked at the New England Courant, the first, independent Boston newspaper, which belonged to his brother.
 
@@ -46,7 +46,7 @@ Sure, having access to a newspaper isn’t something everyone can count on, but 
 
 ## Lesson 3
 
-### Don’t let being ahead of your time get to you. Embrace it and be patient.
+### Don’t let being ahead of your time get to you. Embrace it and be patient
 
 No matter what you want to learn and eventually be successful in, it’s always going to entail some kind of risk, whether it means putting all of your money into a new technology, sticking with your opinion, even if it’s unpopular, or pursuing something that other people tell you will never work.
 
@@ -63,7 +63,5 @@ Until the very end, he kept up his visionary thinking, putting forward a petitio
 ## Review
 
 I love biographies. The facts aren’t just lined out, they’re woven into the story of another human life, which is always the most compelling way to get the point across. Ben Franklin is an especially interesting example, because he changed not one, but many fields in his lifetime. *Benjamin Franklin: An American Life* is a must read!
-
-## Who it’s for
 
 The 17 year old who thinks she might be weird for sticking her nose into books rather than shot glasses, the 33 year old would-be writer, who feels he needs to sign a book contract before he can start writing, and anyone who thinks they’re ahead of their time.

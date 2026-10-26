@@ -16,8 +16,6 @@ For now, let’s explore my three favorite lessons from the book:
 
 Now, we’ll take each lesson and explore it in detail, so as to learn everything there is to know about them!
 
-### Four Thousand Weeks Summary
-
 ## Lesson 1
 
 ### Humans didn’t care much about their days before time wasn’t considered such an important factor
@@ -51,7 +49,5 @@ The decline of leisure that started decades ago provoked a huge build-up in stre
 ## Review
 
 *Four Thousand Weeks* suggests we shouldn’t optimize our schedules but rather leave room for unstructured time and leisure activities. By learning how to enjoy the little things, find pleasure in hobbies, and reconnect with our dear ones, we can improve the quality of our lives significantly. Reading this book will have you rethink your time management and the lack of free time in your life, making you take action to change your situation for the better.
-
-## Who it’s for
 
 The 30-year-old person who wants to ditch time management practices that lead to burnout, the 28-year-old who lives an unfulfilling married life due to an increased time spent at the office, or the 37-year-old entrepreneur who wants to find a better balance between work and leisure time.

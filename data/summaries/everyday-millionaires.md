@@ -18,7 +18,7 @@ The book presents a series of uncomfortable truths and also plenty of useful adv
 
 ## Lesson 1
 
-### The interview carried out by the author shows that most millionaires don’t inherit the money – they work for it.
+### The interview carried out by the author shows that most millionaires don’t inherit the money – they work for it
 
 The truth is that most millionaires are self-made men and women who have worked hard to get where they are today. They didn’t inherit their wealth—they created it through hard work and determination, along with some smart investments.
 
@@ -30,7 +30,7 @@ In fact, most people like to talk about millionaires as if they’re some sort o
 
 ## Lesson 2
 
-### The myth about millionaires going only to high-end schools, having all sorts of degrees, and working high-paying jobs needs to stop.
+### The myth about millionaires going only to high-end schools, having all sorts of degrees, and working high-paying jobs needs to stop
 
 Millionaires don’t necessarily come from high-end schools, have a bunch of degrees, work in real estate, finance or other such jobs. The truth is that the majority of millionaires do not come from families with money. In fact, some of them did not even graduate from college!
 
@@ -47,7 +47,7 @@ The secret to becoming wealthy doesn’t always consist of luck, a better job, o
 
 ## Lesson 3
 
-### Not a single self-made millionaire lives by a victim mentality.
+### Not a single self-made millionaire lives by a victim mentality
 
 You might’ve heard this before, but millionaires, especially the self-made ones, don’t like to complain, don’t gossip much, and they surely don’t blame their misfortune on external factors. In other words, they don’t live by the victim mentality, nor spend too much time overthinking situations.
 
@@ -66,7 +66,5 @@ Don’t just wait to get rich. Act upon it! In the same way you complain about t
 If you want to learn how millionaires are being made, how money can work for you and not against you, or how these people think ahead of the game, give this book a try.
 
 It is truly an insightful piece that delves deep into the minds of successful people and explains how millionaires are not always high-earners, but rather mindful spenders.
-
-## Who it’s for
 
 The 30-year-old person living paycheck to paycheck and wants to break out of this cycle, the 24-year-old person who is ready to get serious with their finances, or the 38-year-old life coach that is looking to refine their skills and learn more useful advice to pass on.

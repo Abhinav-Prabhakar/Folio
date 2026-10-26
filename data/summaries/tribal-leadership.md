@@ -30,7 +30,7 @@ No matter if you are already a leader or only beginning to dream about being one
 
 ## Lesson 1
 
-### A tribe is the social structure that humans evolved to operate within.
+### A tribe is the social structure that humans evolved to operate within
 
 No matter how prehistoric the word “tribe” may sound to you, it is still the basic social structure today. This is just how humans are wired. **We need others not only to survive but also to learn, thrive emotionally, and pursue projects that would be impossible to complete alone.**
 
@@ -44,11 +44,11 @@ A tribe fulfills it’s purpose most effectively when progression reaches stage 
 
 ## Lesson 2
 
-### The way people relate to each other largely determines the stage of tribal improvement.
+### The way people relate to each other largely determines the stage of tribal improvement
 
 Within a company, a tribe is typically bigger than a team but smaller than the organization as a whole. All members of the tribe know of each other’s existence, but the degree to which they interact varies.
 
-The interactions and relationships between individuals determine the overall culture. We cannot overestimate the importance of human connections, and this is not just Logan’s theory, either. In his best-selling book *Tribes* *,* Seth Godin also argues that powerful links between people are the biggest advantage the group can ever have.
+The interactions and relationships between individuals determine the overall culture. We cannot overestimate the importance of human connections, and this is not just Logan’s theory, either. In his best-selling book *Tribes**,* Seth Godin also argues that powerful links between people are the biggest advantage the group can ever have.
 
 So, what kind of connections do we mean here? First of all, they need to stem from the sense of security each individual has about their own position. **People must feel safe enough to put collaboration over competition.** This personal sense of safety is what the leader needs to foster at stage three.
 
@@ -60,7 +60,7 @@ Once the leader knows what kind of relationships support the tribe’s growth, a
 
 ## Lesson 3
 
-### To bring your tribe’s progress to the next level, focus on individuals.
+### To bring your tribe’s progress to the next level, focus on individuals
 
 Upgrading the atmosphere of a group is the leader’s main responsibility. This is no easy task since the current stage of development dictates how the members behave. That’s why, to level up the group, the leader needs to work with individuals first.
 
@@ -73,7 +73,5 @@ This points us to the final guideline for leaders: tribes can only move forward 
 ## Review
 
 The people you associate with certainly affect you. But the bold and empowering statement that *Tribal Leadership* makes is that you can influence your environment, too! This refreshing read will be helpful not only to formally designated leaders but also to anyone who cares about making a difference in their world.
-
-## Who it’s for
 
 The 45-year-old executive who cares about her employees as much as the company’s success, the 32-year-old new father who wonders how to raise his kids and build family relationships around shared values, and anyone who wishes to improve the atmosphere of their workplace.

@@ -54,6 +54,4 @@ Will you keep on going like Kavanagh did, or will you give up on your goals? Loo
 
 *Win or Learn* is a powerful piece of writing that highlights important life lessons from John Kavanagh, the trainer of superstar MMA Conor McGregor. The book explores the philosophy of a growth mindset, the importance of finding your true calling and working hard to achieve your goals, and the inspiring story of Kavanagh and McGregor. While this book will inspire you to pursue your higher purpose and never quit on your objective, it’ll also serve as an insightful case study for your personal and professional life.
 
-## Who it’s for
-
 The 30-year-old MMA fighter who is passionate about the life of Kavanagh and McGregor, the 35-year-old gym enthusiast who likes the biographies of sports celebrities, or the 20-year-old MMA fighter who wants to become the new world champion and is looking for inspiration.

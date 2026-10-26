@@ -20,7 +20,7 @@ If you’re wondering why we’ve become such bad readers, this is the right pla
 
 ## Lesson 1
 
-### Less than 200 years ago, everyone was well-read.
+### Less than 200 years ago, everyone was well-read
 
 A few days ago, the 52nd Super Bowl glued over 100 million Americans to their TVs. That’s about a third of the entire population. Can you imagine a book being that popular? In recent history, only *The Hunger Games* comes close, with about 65 million copies sold. However, even if your book sells ‘just’ one million copies, it’s already part of the top 0.001%.
 
@@ -34,7 +34,7 @@ But then…
 
 ## Lesson 2
 
-### The telegraph and the camera ushered in a period of little context.
+### The telegraph and the camera ushered in a period of little context
 
 Around halfway through the 19th century, the telegraph really took off. This brilliant piece of technology allowed people to communicate short messages over vast distances in a matter of minutes. Sending letters back and forth took weeks, but with a telegram, important messages could reach the recipient immediately.
 
@@ -46,7 +46,7 @@ People now knew more tidbits about everything, but much less about the few thing
 
 ## Lesson 3
 
-### On TV, everything must be entertaining, so the medium dictates the message.
+### On TV, everything must be entertaining, so the medium dictates the message
 
 Most innovations extend older technology, and when it seems they don’t, we often find they picked up a thread we left untouched for dozens, sometimes hundreds of years. In case of the television, since initial programming covered only news, most people thought it was the next iteration of the printing press, a new way to spread information around the globe.
 

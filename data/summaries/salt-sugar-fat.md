@@ -18,7 +18,7 @@ Some mouthy claims here, we better take a closer look at them!
 
 ## Lesson 1
 
-### TV, jobs and smart advertising marked the downfall of home-cooked meals.
+### TV, jobs and smart advertising marked the downfall of home-cooked meals
 
 Gary Vaynerchuk always says marketers ruin everything. He’s right.
 
@@ -42,7 +42,7 @@ The combined power of being busy, TV and the heavily marketed faces of convenien
 
 ## Lesson 2
 
-### You eat 50% more fat than you should and it’s because you can’t taste it.
+### You eat 50% more fat than you should and it’s because you can’t taste it
 
 From an evolution standpoint, our bodies have developed to crave sugar. It gives us a short energy boost, which, back in ancient could save our lives. Today, however, we should treat it like a drug. We all have way too much of it because it’s in everything.
 
@@ -60,7 +60,7 @@ As a result, tons of processed foods are full with tons of fat, and that’s the
 
 ## Lesson 3
 
-### It’s not the food industry’s fault that it offers so many bad foods – it’s yours.
+### It’s not the food industry’s fault that it offers so many bad foods – it’s yours
 
 Here comes the worst part of all of this. None of this is the food industry’s fault. It’s ours.
 
@@ -87,7 +87,5 @@ The research is interesting and the statistics are shocking and powerful.
 No other book has ever made me want to eat healthier more than this one. And so far in 2016, I’m doing a good job. I’m eating out only 2 times per week (down from 4-5) and prepare 90% of my meals myself.
 
 Go for the blinks, it’s only a short set, because they’ll inevitably make you want to buy the book!
-
-## Who it’s for
 
 The 29 year old busy employee, who has an easy time justifying processed foods with how much she works, the 41 year old husband, who always wondered why he could never resist his wife’s wonderful butter cupcakes, and anyone who thinks the food industry really needs to change.

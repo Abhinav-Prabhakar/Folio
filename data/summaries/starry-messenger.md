@@ -6,11 +6,11 @@
 
 Someone once asked Neil deGrasse Tyson, an astrophysicist and the director of the Hayden Planetarium: “What’s the most astounding fact about the universe?” In his typical, eloquent manner, Tyson launched right into a full-blown speech:
 
-> *“The most astounding fact is the knowledge that the atoms that comprise life on Earth, the atoms that make up the human body, are traceable to the [stars].* *When I look up at the night sky, I know that yes, we are part of this universe, we are* in *this universe, but perhaps more important than both of those facts is that* the universe is in us *. Many people feel small,’cause they’re small and the universe is big, but I feel big. Because my atoms came from those stars.”*
+> *“The most astounding fact is the knowledge that the atoms that comprise life on Earth, the atoms that make up the human body, are traceable to the [stars]. When I look up at the night sky, I know that yes, we are part of this universe, we are* in *this universe, but perhaps more important than both of those facts is that* the universe is in us *. Many people feel small,’cause they’re small and the universe is big, but I feel big. Because my atoms came from those stars.”*
 
 This is “the cosmic perspective,” the concept at the heart of Tyson’s book, *Starry Messenger: Cosmic Perspectives on Civilization*. The idea is to zoom out, look at life from this grand, universal, scientific point of view, and then zoom back in to put our problems into the right context.
 
-Religion and politics, war and the environment, gender and race — these are important topics, and they deserve a holistic, rational understanding. Equipped with it, we can, as T. S. Eliot wrote *,* “arrive where we started, and know the place for the first time.”
+Religion and politics, war and the environment, gender and race — these are important topics, and they deserve a holistic, rational understanding. Equipped with it, we can, as T. S. Eliot wrote*,* “arrive where we started, and know the place for the first time.”
 
 Here are 3 lessons from the book that show how the cosmic perspective helps us improve our understanding, culture, and the world we live in:
 
@@ -22,7 +22,7 @@ Ready for the 100,000-foot view? To the stars we go!
 
 ## Lesson 1
 
-### If we hadn’t landed on the moon, environmentalism might be years behind where it is now.
+### If we hadn’t landed on the moon, environmentalism might be years behind where it is now
 
 A sunrise is always marvelous to look at, but have you ever seen an earthrise? Don’t worry, few people have — because in order to do so, you’ll need to go to space. On Christmas Eve, 1968, astronaut William Anders took an iconic photograph of the Earth “rising” beyond the moon’s horizon.
 
@@ -34,7 +34,7 @@ Books like *Silent Spring* had pointed to environmental problems before, but it 
 
 ## Lesson 2
 
-### Exploration and discovery are necessary tools for humans to keep up with life’s hard-to-grasp, exponential pace.
+### Exploration and discovery are necessary tools for humans to keep up with life’s hard-to-grasp, exponential pace
 
 It’s ironic that environmentalism’s massive success can partially be traced back to an event as “ecologically wasteful” as the moon mission. Rockets use tons of fuel and cause huge emissions. Modern activists with their sometimes extreme calls for sustainability would probably have argued *against* exploring the moon, and their movement might never have taken off!
 
@@ -50,7 +50,7 @@ It’s not just nature and technology: Even human knowledge is on an exponential
 
 ## Lesson 3
 
-### Exponentiality can show us how precious and special life is — especially our own.
+### Exponentiality can show us how precious and special life is — especially our own
 
 While exponentiality is both an exciting and terrifying force, it can also be a source of extreme gratitude. 400 trillion to 1, for example, is an exponentially large ratio, marking the chances of being born. “You are more likely to win the lottery 9 times in your life than ‘being Rick,'” Gary Vee said when sharing the idea.
 
@@ -65,7 +65,5 @@ With all his books, talks, and podcasts, that’s what Tyson hopes to inspire: G
 ## Review
 
 *Starry Messenger* is an awe-inspiring, thoughtful, extremely diverse and idea-rich book. It can be a great source of calm in turbulent times. If you’re looking for more about the physical nature of the universe, check out Tyson’s *Astrophysics for People in a Hurry*, and if you want more cosmic inspiration, check out this article I wrote called “Life Is Full of Cosmic Jokes.”
-
-## Who it’s for
 
 The 12-year-old who’s curious about space and starting to first encounter social dynamics, the 37-year-old, frustrated maths professor, and anyone who’s tired of the constant debates online and in the media.

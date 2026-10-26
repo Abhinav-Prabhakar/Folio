@@ -18,11 +18,9 @@ Here are 3 lessons from his world-famous 1946 book, *Man’s Search for Meaning*
 
 Are you ready for some of the toughest lessons anyone has ever had to learn? Let’s show Viktor Frankl some respect by learning from him.
 
-### Man’s Search for Meaning Summary
-
 ## Lesson 1
 
-### Being indifferent to death allowed people to survive.
+### Being indifferent to death allowed people to survive
 
 Frankl said all concentration camp prisoners went through the several phases after arriving at the camp. This one is what made him and some of his surviving peers different from those, who perished, and it’s quite paradoxical.
 
@@ -36,7 +34,7 @@ Sometimes, the only way to survive is to surrender to dying.
 
 ## Lesson 2
 
-### Your life has its own meaning and it’s up to you to find it in any given moment.
+### Your life has its own meaning and it’s up to you to find it in any given moment
 
 If you ask any great chess player what the best move in chess is, they’ll just stare at you with a puzzled face. There is no such thing. There *is*, however, a best move in any particular constellation of pieces on the board. Of course there’s a best move in any game situation, but no general move beats all others.
 
@@ -52,7 +50,7 @@ For example, Frankl found meaning when stumbling through the night, barefoot, ac
 
 ## Lesson 3
 
-### Try to force your fears to come true to make them go away.
+### Try to force your fears to come true to make them go away
 
 Another thing logotherapy does is enable people by focusing on their internal state of mind, instead of external factors, thus giving them a sense of control over their own life.
 
@@ -71,7 +69,5 @@ You’ll notice that, as soon as you try to force it to happen, it won’t work,
 But there’s still that feeling of having to take responsibility for the course of history by learning as much about it as we can and showing our respect to those, who shaped it.
 
 Maybe it’s because I’m German, but I really think everyone should read this. Also, this short video is a great start to learn more about Viktor Frankl and his work.
-
-## Who it’s for
 
 The 16 year old, who’s just starting to learn about World War II in school, the 30 year old, who’s on his fourth job, desperate to finally discover his life’s meaning, so he can build a real career, and anyone who’s afraid of being embarrassed in public for small mistakes.

@@ -20,7 +20,7 @@ Ready to ramp up your relationships and rally in 2017? Let’s learn from Dr. He
 
 ## Lesson 1
 
-### Ditch all connections that are bad for you, fake or non-existent.
+### Ditch all connections that are bad for you, fake or non-existent
 
 According to Dr. Cloud, every single relationship you have in your life falls into one of four categories, which he calls connection corners. There are corner one relationships, corner two relationships, and so on. The higher their degree, the better, but in fact, only one type of connection really matters.
 
@@ -34,7 +34,7 @@ These kinds of connections all suck and that’s important to know – but what 
 
 ## Lesson 2
 
-### Cultivate only those relationships, in which you can truly be yourself.
+### Cultivate only those relationships, in which you can truly be yourself
 
 Everyone has at least one or two of those people in their life, that they feel they can be completely open and honest with. Who do you feel comfortable enough around to 100% be you? These are the kinds of connections Dr. Cloud calls corner four relationships – and they’re the only ones that matter.
 
@@ -48,7 +48,7 @@ Take some time to think about which corner four relationships you already have i
 
 ## Lesson 3
 
-### Your best relationships in life won’t solve your problems for you, but will give you the feedback you need to tackle them on your own.
+### Your best relationships in life won’t solve your problems for you, but will give you the feedback you need to tackle them on your own
 
 How exactly do corner four relationships make you better? Well, because you can openly share your weaknesses with those people, they’re the perfect way to get the feedback you need to move to the next level. However, that doesn’t mean that your best friends or your spouse will solve your problems *for* you.
 
@@ -61,7 +61,5 @@ For example, a great mentor will always give you valuable feedback on your book�
 ## Review
 
 After reading this, I almost feel like I should go right through my contact list again and delete some more numbers. Indeed, the connections that really matter in our life are few and far between, but once you accept that, it makes letting go of the other three kinds feel like a huge relief. The concepts in *The Power Of The Other* are surely worth ruminating regularly about!
-
-## Who it’s for
 
 The 14 year old, who’s grades have been going down since she’s been hanging out with new friends, the 39 year old agency owner, who’s not sure how to get to the next level in his business without a mentor, and anyone who feels like their partner acts superior to them.

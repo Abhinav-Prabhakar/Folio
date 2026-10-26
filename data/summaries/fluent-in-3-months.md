@@ -22,7 +22,7 @@ Ditch that Rosetta Stone and get ready to learn the real secrets from a language
 
 ## Lesson 1
 
-### If you want to learn a new language you need to watch out for the myths society tells about it and set specific plans and goals.
+### If you want to learn a new language you need to watch out for the myths society tells about it and set specific plans and goals
 
 Whether you’re learning to bake pastries or play golf, mastering a new skill isn’t easy. But when it comes to learning a new language most people feel entirely overwhelmed at the idea.
 
@@ -36,7 +36,7 @@ Instead, figure out how fluent you want to become. Do you want to have conversat
 
 ## Lesson 2
 
-### Interact as much as possible with native speakers of the language you’re learning, but don’t leave your city to do it.
+### Interact as much as possible with native speakers of the language you’re learning, but don’t leave your city to do it
 
 As you get started with this new goal, don’t just try to memorize new words by saying them a lot. Make connections with that word and your world to help you remember it. You might, for instance, tell yourself a story and remember it with a word that sounds similar in your native language.
 
@@ -50,7 +50,7 @@ Instead, welcome couch surfers into your home with hospitality exchange networks
 
 ## Lesson 3
 
-### Don’t worry about the finer details until you can carry on a conversation.
+### Don’t worry about the finer details until you can carry on a conversation
 
 Do you remember learning to ride a bike and having to use training wheels? Wasn’t it exciting to be able to take them off and realize that you could actually ride the bike on your own?
 
@@ -69,7 +69,5 @@ By following all these tips you’ll be fluent in no time!
 ## Review
 
 I enjoyed *Fluent In 3 Months.* It’s going to be incredibly useful in a few years when I want to learn a new language. I wish I had known about this book in high school though, then I might have already become fluent in another language!
-
-## Who it’s for
 
 The 62-year-old who thinks they can’t learn a new language, the 25-year-old traveler that would like to be able to have conversations with more people, and anyone who has tried and failed to become fluent in another language.

@@ -18,7 +18,7 @@ Here are three of my favorite lessons from this book:
 
 ## Lesson 1
 
-### When planning your meals, gut-supporting foods are the most important.
+### When planning your meals, gut-supporting foods are the most important
 
 What are gut-supporting foods? They are nutritionally dense foods, free of toxins, and they don’t pose a threat to your immune system. When opting for these types of edibles, look for the least processed ones, as they have the highest nutritional value.
 
@@ -30,7 +30,7 @@ The same goes for animal proteins too. Desserts and alcohol should be limited to
 
 ## Lesson 2
 
-### Improv recipes are easy and convenient if you precook components.
+### Improv recipes are easy and convenient if you precook components
 
 Cooking at home has its pros and cons. We all like to add as much sauce to our pasta as we want to, yet we loathe washing the dishes after. For most of us, the time and energy required to cook at home outweigh the benefits, so we opt for takeaway.
 
@@ -42,7 +42,7 @@ There are a bunch of meals that you can improvise from leftovers or precooked in
 
 ## Lesson 3
 
-### There’s more to a healthy lifestyle than nutrition, and that is sports and supplements.
+### There’s more to a healthy lifestyle than nutrition, and that is sports and supplements
 
 Now that you know the basics of a clean diet, it’s time to talk about other aspects of a healthy lifestyle. It’s no secret that regular exercise enhances the quality of life and that food supplements can give our system a boost when we have a vitamin deficiency.
 
@@ -57,7 +57,5 @@ The book suggests you should always check with your doctor what are your deficie
 Giada de Laurentiis offers her readers an overview of the most common dietary problems and a proven way to combat them. Her path to wellness inspires people to take a deep look at their eating habits and acknowledge their problems.
 
 Her go-to diets and lifestyle routines will heal anyone willing to stick to them and enrich their lives. This book is the right guide to selecting foods that make you feel great, adopting a healthy routine, and cleaning your body from inflammatory toxins.
-
-## Who it’s for
 
 The 30-year old person that is tired all the time and wants to change their eating habits, the person that feels stuck in a rut and wants to turn their life around, or the health-conscious foodie who wants to learn about the right approach to a better lifestyle.

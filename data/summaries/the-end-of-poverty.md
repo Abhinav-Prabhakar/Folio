@@ -20,7 +20,7 @@ Let’s get right into these lessons and discover the difficulties with this wor
 
 ## Lesson 1
 
-### Poor countries can’t get free of the poverty trap on their own.
+### Poor countries can’t get free of the poverty trap on their own
 
 Poverty is the result of a variety of factors, but most impoverished countries are caught in a poverty trap. **This is a vicious cycle that doesn’t allow them to pull themselves out of poverty on their own.**
 
@@ -34,7 +34,7 @@ Lastly, demography can present a problem. Extremely high birth rates in developi
 
 ## Lesson 2
 
-### We can’t fix this problem by using the same solution everywhere, we must use specific methods for each country.
+### We can’t fix this problem by using the same solution everywhere, we must use specific methods for each country
 
 People might try to come up with a magical solution to stop poverty forever, but in reality, there is no one-size-fits-all solution. **Every country that suffers from poverty has its own individual problems.**
 
@@ -50,7 +50,7 @@ The problem was more than just a budget deficit. So this time, it defaulted on i
 
 ## Lesson 3
 
-### We must make ending poverty a high priority.
+### We must make ending poverty a high priority
 
 Developmental aid can help end poverty if used right. But it’s also imperative to change international politics if we want to make a real difference. The first priority, Sachs says, is that we should cancel all poor countries’ national debt. They are crippling and they will never be able to repay them.
 
@@ -65,7 +65,5 @@ Lastly, we need to address climate change. Africa releases comparatively small e
 ## Review
 
 I really wish poverty didn’t exist and that there was more I could do to help stop it. *The End Of Poverty* opened my eyes to the reasons this problem exists and some ways we might end it, which I appreciate. I just hope that wealthy governments throughout the world can stop bickering over silly issues and start actually helping countries that are less fortunate.
-
-## Who it’s for
 
 The 58-year-old American who thinks that starving kids in Africa aren’t their problem, the 35-year-old budding politician who has the power to influence the world for the better, and anyone that cares about the quality of life of their fellow human beings no matter how far away they may be.

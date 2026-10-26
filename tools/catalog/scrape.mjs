@@ -25,8 +25,14 @@ const decode = s => String(s || '')
   .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
   .replace(/&([a-z]+);/gi, (m, n) => ENT[n.toLowerCase()] ?? m);
 const clean = s => decode(s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
-const tidy = s => s.replace(/\s+/g, ' ').replace(/\s+([,.;:!?’”)])/g, '$1').replace(/([(“‘])\s+/g, '$1')
-  .replace(/\*\*\s*\*\*/g, '').replace(/(^|\s)\*\*\s+/g, '$1**').replace(/\s+\*\*(\s|$)/g, '**$1').trim();
+const tidy = s => {
+  s = s.replace(/\s+/g, ' ');
+  // WordPress splits one bold run across adjacent tags (often around a link); join the pieces.
+  for (let prev; s !== prev;) { prev = s; s = s.replace(/\*\*\s+\*\*/g, ' ').replace(/\*\*\*\*/g, ''); }
+  return s.replace(/\s+([,.;:!?’”)])/g, '$1').replace(/([(“‘])\s+/g, '$1')
+    // source sometimes italicises a trailing comma separately: "*Title* *,*" -> "*Title*,"
+    .replace(/(?<![*\w])\*([,.;:!?…]+)\*(?![*\w])/g, '$1').trim();
+};
 
 async function get(url, tries = 5) {
   for (let k = 1; ; k++) {
@@ -57,18 +63,36 @@ function authorOf(seoTitle, description) {
 /* ---------- summary HTML -> Folio Markdown ---------- */
 const DROP = 'script,style,iframe,form,noscript,img,figure,svg,video,audio,.su-note,.convertkit-form,[class*="convertkit"],.youtube-video,.wp-block-embed,a.button,.glyphicon,sup';
 function inline(node) {
+  const kids = [...node.childNodes];
   let out = '';
-  for (const c of node.childNodes) {
+  for (let i = 0; i < kids.length; i++) {
+    const c = kids[i];
     if (c.nodeType === 3) { out += decode(c.rawText); continue; }
     if (c.nodeType !== 1) continue;
     const t = c.rawTagName?.toLowerCase();
-    const inner = inline(c);
-    if (t === 'br') out += ' ';
-    else if ((t === 'strong' || t === 'b') && inner.trim()) out += ` **${inner.trim()}** `;
-    else if ((t === 'em' || t === 'i') && inner.trim()) out += ` *${inner.trim()}* `;
-    else out += inner;
+    if (t === 'br') { out += ' '; continue; }
+    const bold = t === 'strong' || t === 'b';
+    if (!bold && t !== 'em' && t !== 'i') { out += inline(c); continue; }
+    // WordPress often splits one run of emphasis into adjacent tags (<b>A</b><b><i>B</i></b><b>.</b>).
+    // Merge them, across whitespace, so the markers close cleanly at the end of the run.
+    let inner = inline(c), j = i + 1;
+    for (;;) {
+      let k = j, gap = '';
+      while (kids[k]?.nodeType === 3 && /^\s+$/.test(kids[k].rawText)) { gap += ' '; k++; }
+      const d = kids[k], dt = d?.nodeType === 1 ? d.rawTagName?.toLowerCase() : '';
+      if (!(bold ? dt === 'strong' || dt === 'b' : dt === 'em' || dt === 'i')) break;
+      inner += gap + inline(d); j = k + 1;
+    }
+    i = j - 1;
+    const core = inner.trim();
+    // Keep spacing that lived inside the tag; a multi-word emphasis also needs breathing room
+    // when WordPress forgets the space after it (*Title*by Author). Single-word emphasis stays
+    // tight so intraword cases like Story*Brand*time keep working.
+    const spaced = /\s/.test(core);
+    const lead = /^\s/.test(inner) || spaced ? ' ' : '', trail = /\s$/.test(inner) || spaced ? ' ' : '';
+    if (core) out += `${lead}${bold ? '**' : '*'}${core}${bold ? '**' : '*'}${trail}`;
   }
-  return out.replace(/\*/g, m => m);   // keep markers; tidy() fixes spacing
+  return out;
 }
 const text = n => tidy(inline(n));
 // Markdown-safe paragraph: a line that happens to start like a list, quote or heading is escaped by a zero-width joiner
@@ -97,8 +121,9 @@ function convert(html, title) {
       const h = clean(b.innerHTML);
       if (!h) continue;
       sawHeading = true;
-      skipping = /^video summary|^(listen|watch)\b|^free (pdf|audio)|^download/i.test(h);
+      skipping = /^(video|audio) summary|^(listen|watch)\b|^free (pdf|audio)|^download/i.test(h);
       if (skipping) continue;
+      if (!/^lesson/i.test(h) && /\bsummary\b/i.test(h) && h.length < title.length + 40) continue;   // a bare "<Title> Summary (Author)" divider
       let m;
       if ((m = h.match(/^lesson\s*(\d+)\s*[:.–—-]\s*(.+)$/i))) {
         const lesson = m[2].trim().replace(/\.$/, '');   // headlines read better without a full stop
@@ -120,10 +145,11 @@ function convert(html, title) {
     if (!s) continue;
     const plain = s.replace(/\*/g, '');
     let m;
-    if ((m = plain.match(/^1-Sentence[- ]Summary:\s*(.+)$/i))) { hook = m[1].trim(); continue; }
+    if ((m = plain.match(/^(?:The )?1-Sentence[- ]Summary:\s*(.+)$/i))) { hook = m[1].trim(); continue; }
     if ((m = plain.match(/^Read in:\s*(\d+)/i))) { minutes = +m[1]; continue; }
     if (/^(favorite|favourite) quote from the author/i.test(plain)) continue;
     if (/^(if you want to save this summary|download pdf|video summary|listen to the audio|read the full|get the book)/i.test(plain)) continue;
+    if (/\baffiliate commission\b|\bcoupon for blinkist\b/i.test(plain)) continue;   // the author's own sponsorship plug
     if (t === 'blockquote') { push(`> ${s}`); continue; }
     if (!sawHeading && !introOpen) { push('## Overview'); introOpen = true; }
     push(para(s));

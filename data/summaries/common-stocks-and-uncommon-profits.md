@@ -20,11 +20,11 @@ Now, let’s take a closer look at these lessons and see what they have to offer
 
 ## Lesson 1
 
-### You must perform a comprehensive analysis on your stock before you invest in it.
+### You must perform a comprehensive analysis on your stock before you invest in it
 
 Naturally, you can’t just place your money in a company without conducting comprehensive research on it beforehand. So where do you start? First, make a list of the companies you wish to research. You could also look up potential names from the industries that you understand best.
 
-Then you will have to narrow it down by conducting extensive analysis. Research their activity profile and industry analysis, their competitors, their main clients, and how they manage their money. **These are all challenging to research, that is why the*scuttlebutt method*can prove to be highly efficient.**
+Then you will have to narrow it down by conducting extensive analysis. Research their activity profile and industry analysis, their competitors, their main clients, and how they manage their money. **These are all challenging to research, that is why the *scuttlebutt method* can prove to be highly efficient.**
 
 It implies contacting their stakeholders directly and learning information firsthand. This way, you get to form your own idea about the company in the most accurate way. However, it can be quite time-consuming to do such thorough research. So make sure you pick the right stocks to work with.
 
@@ -32,7 +32,7 @@ Make sure to take into account their management effectiveness and if they’re i
 
 ## Lesson 2
 
-### Always buy low and then sell your stock for a higher price.
+### Always buy low and then sell your stock for a higher price
 
 Essentially, investing comes down to buying and selling, right? Of course, the best way to increase your wealth is to buy a stock when the price is low, and then sell it later on when you see an increase. Although this sounds obvious, you’d be surprised to see how your mentality changes when it comes to practice.
 
@@ -44,7 +44,7 @@ If you time your entry properly, you can increase your wealth significantly. The
 
 ## Lesson 3
 
-### Look for mature companies and seek stable, long-term profits.
+### Look for mature companies and seek stable, long-term profits
 
 To trade or to invest – that’s the dilemma many people face. It may look appealing to cash in short-term profits or sell when you catch your stock going down early. The greatest investors, however, suggest that you should always keep your position in the market. Try not to time it, as the market is irrational and short-term oriented.
 
@@ -55,7 +55,5 @@ What I mean by fundamental reason is a change in the company’s fundamentals. A
 ## Review
 
 *Common Stocks and Uncommon Profits* is a valuable piece of writing on the stock market and the analysis of potential investments, as it offers both the newbie and intermediate investor all the information needed to enter the field. If you’re looking to accumulate and maintain wealth over time, this book is perfect for you. The strategies presented in this book have passed the test of time, thus becoming evergreen concepts to be studied and applied by all investors.
-
-## Who it’s for
 
 The 25-year-old stock market investor who wants to learn more about this field, the 21-year-old finance student who wants to expand their knowledge in this domain outside their classes, or the 30-year-old who wants to start a retirement fund and is looking for ways to invest the money they’ve saved so far.

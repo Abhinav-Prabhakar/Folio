@@ -20,7 +20,7 @@ Starving for some solitude? Even if not, it might still be time to take a walk a
 
 ## Lesson 1
 
-### Expand your alone time step by step until you’re ready for more.
+### Expand your alone time step by step until you’re ready for more
 
 The simplest way to get more alone time and figure out if you can see its benefits is to slowly expand the alone time you’re *already* getting. For example, you might be running or biking on a regular basis, which are already solo activities, so you could just do more or longer sessions of those.
 
@@ -34,7 +34,7 @@ Very few things build more self-awareness than an extended period of time spent 
 
 ## Lesson 2
 
-### Solitude leads to active imagination – something that made you very happy as a child.
+### Solitude leads to active imagination – something that made you very happy as a child
 
 What’s one thing kids do all the time, which we tend to stop as adults?
 
@@ -48,7 +48,7 @@ Taking back this kind of alone time to actively imagine things and connect with 
 
 ## Lesson 3
 
-### Forget psychology and just figure out what works for you.
+### Forget psychology and just figure out what works for you
 
 Did the name Carl Jung ring a bell when I just mentioned it? If it did, but you couldn’t place him anywhere, it’s likely because you’ve seen his name pop up in a different context: the so-called Jung Typology Test. This is one of, if not *the* most popular and well-known personality tests in the world.
 
@@ -70,7 +70,5 @@ Experiment, don’t let anyone else tell you what to do and, most importantly, r
 ## Review
 
 *How To Be Alone* was a surprise hit for me. It stood out thanks to its title and provided a very interesting background on how we promote individualism, but not really, because loners are considered weirdos. This might be an even more important read for you, if you’re *not* an introvert, because it’ll help you understand them better and see that alone time is good for everyone.
-
-## Who it’s for
 
 The 15 year old, who wonders if he’s different than the other kids, because he likes being alone, the 29 year old young parent, who thinks she must arrange play dates for her child whenever she hasn’t got time for her son, and anyone who hasn’t taken a walk in the woods for over half a year.

@@ -20,7 +20,7 @@ Are you finally ready to feel relieved about your money situation instead of str
 
 ## Lesson 1
 
-### Practicing FIRE will help you not have to work for money and begins with taking advantage of the 4% rule.
+### Practicing FIRE will help you not have to work for money and begins with taking advantage of the 4% rule
 
 The author discovered that FIRE isn’t just a good idea, but that there are many people practicing it already. As he began it himself, he saw the potential it had to free him of a lot of stressful money woes.
 
@@ -36,7 +36,7 @@ If you have $60,000 yearly expenses, for example, you’d need $1.5 million to l
 
 ## Lesson 2
 
-### Financial independence requires that you make smart investments and save aggressively.
+### Financial independence requires that you make smart investments and save aggressively
 
 So you know what the end goal is, but how do you get there? The next step toward financial independence is to look at your finances in detail. You’ll need to maximize assets and minimize expenses.
 
@@ -50,7 +50,7 @@ Then it came to savings. The author focused on just three types: stock market in
 
 ## Lesson 3
 
-### The FIRE mentality is flexible and works for anyone regardless of income level.
+### The FIRE mentality is flexible and works for anyone regardless of income level
 
 You might be sitting there thinking this all sounds great but wondering how you can do this with how little you make. The truth is, it doesn’t matter what you earn, it’s what you do with it that makes the difference.
 
@@ -67,7 +67,5 @@ I heard someone once compare it to being hot and cold. When it’s cold, you can
 ## Review
 
 *Playing With FIRE* is my kind of book, I loved this one! I’m not too keen on the idea of retirement, but the way this approached it was fantastic. If you’re sick of the 9-5 slog and can’t stand the idea of doing it for 30+ years only to have free time when you’re too old to do much, you’ve got to read this book!
-
-## Who it’s for
 
 The 24-year-old who just began their first full-time job out of college and can’t imagine staying there for a third of their life, the 45-year-old couple who lives paycheck to paycheck and feels trapped, and anyone who wants a better way of life than what society preaches is the norm!

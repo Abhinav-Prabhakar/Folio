@@ -20,7 +20,7 @@ Ready to get smarter and figure out how to stop buying things you don’t need? 
 
 ## Lesson 1
 
-### You buy things we don’t need because stores know how to use our fears against you.
+### You buy things we don’t need because stores know how to use our fears against you
 
 We’ve had fears since the times of our caveman ancestors. If they couldn’t become afraid, their chances of survival plummeted. They had to move fast when a threat came along, so now our brains do the same in the right circumstances.
 
@@ -36,7 +36,7 @@ The allergy spray Flonase, for example, once depicted a woman with allergies hav
 
 ## Lesson 2
 
-### Addiction can happen to anyone, and companies know the process well and exploit it to get you to buy.
+### Addiction can happen to anyone, and companies know the process well and exploit it to get you to buy
 
 Many of us can’t live without our phones or favorite foods. You know all too well the feeling of leaving the house without your phone and feeling withdrawals bad enough that you have to go back for it. This is a classic symptom of an addiction.
 
@@ -52,7 +52,7 @@ Remember, companies know this and will not hesitate to use your body’s ability
 
 ## Lesson 3
 
-### You make some purchases because of fake peer pressure that vendors create.
+### You make some purchases because of fake peer pressure that vendors create
 
 It’s human nature that we like to follow what others are doing. Looking at our ancestors, this makes perfect sense. People survived better in communities, which were easier to get into if you fit in well.
 
@@ -69,7 +69,5 @@ We also go crazy for items on bestseller lists because we think it means they ha
 ## Review
 
 I’ve read a lot of books recently that give the sneaky tactics that you can use to get more sales, but this one was different. I really enjoyed the position that *Brandwashed* took of looking at the consumer’s perspective. Recognizing how marketers use our own brains against us to buy irrationally is important if we want to save money and be happier!
-
-## Who it’s for
 
 The 57-year-old who has a shopping addiction and is scared of their dwindling savings, the 22-year-old student who is taking marketing courses, and anyone that wants to make more informed buying decisions.

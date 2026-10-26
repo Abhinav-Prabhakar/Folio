@@ -20,11 +20,9 @@ Here are the 3 lessons I see as most important:
 
 Let’s see what practical steps you can take to improve your finances…today!
 
-### The Barefoot Investor Summary
-
 ## Lesson 1
 
-### Manage your money with multiple bank accounts.
+### Manage your money with multiple bank accounts
 
 In most couples, the men love to deal with the family’s finances. Moving money around feels powerful, no matter how little you’re shoveling from left to right and back. Whether traditional gender roles apply or not, your partner may not love spreadsheets, budgeting and investing as much as you do, or vice versa.
 
@@ -48,7 +46,7 @@ You can set up the entire system with five bank accounts:
 
 ## Lesson 2
 
-### Start eliminating your debt by cutting up your credit cards.
+### Start eliminating your debt by cutting up your credit cards
 
 Once you’ve set up your buckets, Scott has an interesting take on how you can instantly build momentum: Take a pair of scissors and cut all your credit cards into tiny pieces. Paying off your credit card debt first is a common strategy. It’s usually small enough to be manageable, but big enough to make you feel you’ve accomplished something meaningful.
 
@@ -58,7 +56,7 @@ Call your bank and tell them about an 18-month zero interest offer from [insert 
 
 ## Lesson 3
 
-### Use index funds for long-term, automated growth.
+### Use index funds for long-term, automated growth
 
 Living debt-free is one thing, but actively growing your money is another. And that’s the thing. To most people, the ‘active’ part seems risky and daunting. Hence, Scott recommends dipping your toe into the water with an approach to investing we’ve discussed on Four Minute Books before: index funds. First commercialized by Jack Bogle in the 70s, **these nifty investment vehicles simply track and trace the biggest, most common stocks in a given industry or geographic region**.
 
@@ -69,7 +67,5 @@ Not even Warren Buffett beats the stock market as a whole, so as a first source 
 ## Review
 
 Different people need different books at different times. Maybe you have your own financial system already. Or no debt left. But wherever you are in your journey, reading a new finance book once or twice a year will usually make you rethink your strategy. That in itself has value. And maybe *The Barefoot Investor* will do exactly that for you.
-
-## Who it’s for
 
 The 26 year old area manager, who just started her professional career, and has no financial system in place, the 37 year old young father, who wants to get out of his debt, and anyone who’s scared to start investing.

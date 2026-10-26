@@ -22,7 +22,7 @@ I hope you’re not too anxious to dive into this book, because it’s going to 
 
 ## Lesson 1
 
-### Life is hard and embarrassing for those that struggle with this disease.
+### Life is hard and embarrassing for those that struggle with this disease
 
 Some people with clinical anxiety compare the constant battle to having diabetes. They must constantly deal with difficult afflictions on a daily basis. It takes vigilance to watch out for situations that could make them stressed and need to seek relief with drugs, which is draining.
 
@@ -38,7 +38,7 @@ Some aspects of life are even embarrassing when you have mental illness this bad
 
 ## Lesson 2
 
-### How we grew up and our biology can both be responsible for anxiety.
+### How we grew up and our biology can both be responsible for anxiety
 
 So what causes this disorder, anyway? It’s rooted in our evolution, actually. And a little fear and worry isn’t actually such a bad thing.
 
@@ -56,7 +56,7 @@ Another study compared the effects of a mother’s traits on her children. It id
 
 ## Lesson 3
 
-### Drugs and therapy are two of the best forms of treatment for this mental illness.
+### Drugs and therapy are two of the best forms of treatment for this mental illness
 
 So now we know what life is like with it, and we’ve seen some ideas about where it comes from. But how do doctors treat anxiety? The current leaders for this are medication and therapy. And what’s most effective just depends on the person.
 
@@ -75,7 +75,5 @@ He’s also been through imaginal exposure. This is where the therapist explores
 ## Review
 
 At the beginning of *My Age Of Anxiety*, I kept thinking that I didn’t like that it was just about the causes and effects of worry. But then I realized that understanding this side of it can help us know how to beat it. I think I still prefer happier books, but this one is a good dive into a big problem and might help us see ways to fix it.
-
-## Who it’s for
 
 The 34-year-old mom who worries a lot and wonders if it’s clinical anxiety, the 57-year-old who has a friend that struggles with anxiety and wants to know how to help, and anyone with an interest in psychology and improving mental health.

@@ -18,15 +18,13 @@ Here are 3 lessons I’ve learned:
 
 If you haven’t dealt with real tragedy yet, unfortunately, you probably will — so let’s take a moment to remember the following lessons.
 
-### When Bad Things Happen To Good People Summary
-
 ## Lesson 1
 
-### People often don’t get what they deserve.
+### People often don’t get what they deserve
 
 Rabbi Kushner knows it all too well that bad things can happen to perfectly innocent people. His son Aaron was diagnosed with an incurable disease as a toddler. The boy suffered from the effects of premature aging for a decade and died at just 14 years old.
 
-Why didn’t the devastating loss of his child destroy Rabbi Kushner’s faith? **He realized thatGod just can’t step in all the time to bend the laws of nature and protect individuals from harm.**
+Why didn’t the devastating loss of his child destroy Rabbi Kushner’s faith? **He realized that God just can’t step in all the time to bend the laws of nature and protect individuals from harm.**
 
 Our bodies break, sometimes in unpredictable ways, but they also give us life. Flowing water can sweep away a house, but it also carries hydration all around the world. Gravity can cause a rock to fall on your head, but it also keeps your feet on the ground. Humans wouldn’t be able to get around, build things, or make plans for the future if our physical habitat displayed no regularity.
 
@@ -34,11 +32,11 @@ Maybe an all-powerful God really does loves us. Maybe these earthly realities fo
 
 ## Lesson 2
 
-### Don’t listen to people who try to explain misfortunes.
+### Don’t listen to people who try to explain misfortunes
 
 It’s deeply comforting that God, karma, or natural laws deliver each person what he or she really deserves. Plenty of non-religious people believe this, on some level.
 
-Maybe you’re ready to swallow this bitter pill about life. **But just because*you*accept that there’s no comforting connection between deservingness and outcomes doesn’t mean that everyone else will.**
+Maybe you’re ready to swallow this bitter pill about life. **But just because *you* accept that there’s no comforting connection between deservingness and outcomes doesn’t mean that everyone else will.**
 
 Bystanders often say things to a person in pain like “everything happens for a reason” or “what doesn’t kill you makes you stronger.” They usually mean well, but these expressions can hurt more than they help. What’s the “reason” for your pain, then? What if you didn’t *want* to be stronger, you would prefer to have your loved one back?
 
@@ -46,7 +44,7 @@ Try to understand that everyone’s grappling with life’s difficulties in her 
 
 ## Lesson 3
 
-### The meaning of pain comes from what you do with it.
+### The meaning of pain comes from what you do with it
 
 If bad things happen due to bad luck, not by God or karma, then what are we supposed to do about it? Instead of raging at God, are we just supposed to dwell on our unluckiness?
 
@@ -59,7 +57,5 @@ As a man of faith, Kushner thinks that people rise up to withstand suffering wit
 ## Review
 
 Best-selling books are often shallow, so I felt suspicious about *When Bad Things Happen to Good People* because it’s sold over 4 million copies. Can the type of book that people impulse-purchase in an airport really teach you anything important about life? I have to admit that the crowd was right this time, this book is a great read that I highly recommend.
-
-## Who it’s for
 
 The 70-year-old man whose friends from church have begun to die, the 27-year-old atheist who doesn’t understand how anyone can maintain belief in a benevolent creator, and anyone who’s trying to face pain and suffering with their sanity intact.

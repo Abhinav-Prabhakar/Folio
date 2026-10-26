@@ -20,7 +20,7 @@ Now, let’s take a look at each of these lessons and see what they have to offe
 
 ## Lesson 1
 
-### Stocks may not be as risky as they seem if you give the market sufficient time to prove their worth.
+### Stocks may not be as risky as they seem if you give the market sufficient time to prove their worth
 
 In finance and economics, there is a universal conception that bonds are safer investments than stocks. If you look at them from a volatility ratio perspective, stocks will definitely fluctuate more than bonds, with no promise to deliver returns. In contrast to that, they can even wipe out your life savings if you’re not careful.
 
@@ -32,7 +32,7 @@ Although it seems that stocks have more ups and downs, they are definitely less 
 
 ## Lesson 2
 
-### Stocks are not always priced according to their underlying value.
+### Stocks are not always priced according to their underlying value
 
 The market is an efficient mechanism for placing trades
 
@@ -44,7 +44,7 @@ Stocks fluctuate for numerous reasons. Siegel suggests that the *“noisy market
 
 ## Lesson 3
 
-### Keep your money invested in ETFs and find value stocks.
+### Keep your money invested in ETFs and find value stocks
 
 ETF stands for Exchange Traded Fund. It is a security that tracks an index, a commodity like gold or silver, or an industry. It also tracks other types of assets. This security trades like a stock and is publicly bought and sold on a stock exchange just like other regular shares.
 
@@ -57,7 +57,5 @@ Finding a value stock can be challenging, but if you look to your favorite shop,
 ## Review
 
 *Stocks for the Long Run* is a must read for everyone who wants to take charge of their finances and become a good investor. The book comprises information that serves all beginner and intermediate investors, as it explains the basic principles of investing in securities on the money market, but also information on how to trade successfully and find winning stocks. If you’re ready to put your savings to work, invest in stocks, learn more about finance, and become a better money manager, this is the book for you.
-
-## Who it’s for
 
 The 36-year-old who managed to save some money and wants to learn how to invest it, the 22-year-old finance student who wants to expand their knowledge in the field, and anyone who wants to build a crisis-resistant portfolio.

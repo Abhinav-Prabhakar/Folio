@@ -4,7 +4,7 @@
 
 ## Overview
 
-Initially, I approached *The Happy Mind* *: A Simple Guide to Living a Happier Life Starting Today* as just another book on happiness. Since I’ve read a lot of self-help content, I wasn’t expecting to learn anything new. But I was pleasantly surprised by what the authors had to offer.
+Initially, I approached *The Happy Mind: A Simple Guide to Living a Happier Life Starting Today* as just another book on happiness. Since I’ve read a lot of self-help content, I wasn’t expecting to learn anything new. But I was pleasantly surprised by what the authors had to offer.
 
 The value of this book is not so much in discovering brand new lands of knowledge about happiness. Kevin Horsley and Louis Fourie constantly point towards the fact that we all have what it takes to be happy inside of us. In *The Happy Mind*, they assemble the characteristics that happy people have in common. They build their signposts towards happiness on these traits.
 
@@ -36,13 +36,13 @@ In short, we are biologically wired to be unhappy. The good news is that we can 
 
 ## Lesson 2
 
-### Happiness requires intentional effort.
+### Happiness requires intentional effort
 
 The underlying belief many of us have is that happiness either happens to us or doesn’t and that there’s not much we can do about it. If we want to be happy, we need to change this assumption.
 
 Horsley and Fourie try to disrupt this statement throughout the whole book by teaching that happiness is something that you create with applying deliberate effort. You need to stop waiting around until it falls upon you and take your fate in your own hands.
 
-**You need to assumeresponsibilityfor your own happiness, rather than playing the role of a victim of your life circumstances.**
+**You need to assume responsibility for your own happiness, rather than playing the role of a victim of your life circumstances.**
 
 Sure, some people seem to be more predisposed to happiness than others. It may be due to their genes or the excellent parenting they received as children. But if you were not fortunate enough to have those gifts, that doesn’t mean you cannot work on your own happiness.
 
@@ -52,7 +52,7 @@ In the second part of *The Happy Mind*, Horsley and Fourie provide you with a bu
 
 ## Lesson 3
 
-### Transform your own behavior, and the behavior of others will follow.
+### Transform your own behavior, and the behavior of others will follow
 
 People mirror us. As much you think that what someone else does annoys you, their actions should rather be seen as part of your interaction together.
 
@@ -67,7 +67,5 @@ It is impossible to control someone else’s behavior. You can only create the c
 ## Review
 
 *The Happy Mind* is what I can truly call a “no-bullshit” guide to happiness. It doesn’t claim to reveal any “magic trick” to happiness by making it clear that there is no such thing. Instead, the book offers actionable advice on how to get into *practicing* happiness in all areas of life.
-
-## Who it’s for
 
 The 40-year-old chronically ill person who wants to find a way to enjoy life regardless of what it throws at them, the 55-year old parent who is experiencing the “empty nest” syndrome, and anyone who senses that their potential for happiness is greater.

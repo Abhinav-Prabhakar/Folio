@@ -34,7 +34,7 @@ Add short-term (aka 18-month) goals to that, and you have a solid sense of direc
 
 ## Lesson 2
 
-### Walk the razor’s edge by balancing your ambition with your appeal to others.
+### Walk the razor’s edge by balancing your ambition with your appeal to others
 
 For women to cultivate the right public image to advance their career is like walking on a tightrope. You can’t be too ambitious, because others will just perceive you as rude, which often happens when women are assertive and go for what they want. If you’re too nice though, people will put you into the “cute bucket” and not take you seriously, which is something you don’t want either.
 
@@ -46,7 +46,7 @@ Let’s hope these kinds of verbal and behavioral acrobatics won’t be needed o
 
 ## Lesson 3
 
-### Lean into your career while you can and don’t dial back for motherhood before you have to.
+### Lean into your career while you can and don’t dial back for motherhood before you have to
 
 The one thing you should avoid at all costs is giving up before you have to, just because society tells you too. Look, I’m 100% in favor of having at least one full-time parent in any family. I really believe we need more dedicated moms and dads – it’s probably the most underrated job in the world.
 
@@ -59,7 +59,5 @@ Instead, go full throttle for as long as you can, take opportunities, give it a 
 ## Review
 
 As I said in the intro, I think entirely regulating the playing field to “level” it 50:50 is not the solution to gender inequality. There will always be differences in men and women, and it’s a good thing there are. However, there are places where life is just plain unfair, and that will require big shifts to improve. I’m confident we’ll get there, but in the meantime, use *Lean In* to make the most of right now!
-
-## Who it’s for
 
 The 16 year old girl president of the computer club, the 24 year old college grad, who’s about to enter the workforce and has to get herself some thick skin, because she knows she’ll enter a male-dominated industry, and anyone who complains about being disadvantaged because of their gender.

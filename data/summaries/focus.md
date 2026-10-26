@@ -20,7 +20,7 @@ Do you feel focused? If not, we’re about to fix it!
 
 ## Lesson 1
 
-### When you just keep staring at the screen, let your mind wander.
+### When you just keep staring at the screen, let your mind wander
 
 The first thing you should know about is **open awareness.** All kinds of attention are valuable – not just the one that’s laser-sharp and focused. When you find your mind wandering a lot, that doesn’t necessarily mean it’s wandering in the wrong direction.
 
@@ -32,7 +32,7 @@ Studies have found that we can generate up to 40% more original ideas when letti
 
 ## Lesson 2
 
-### The best way to improve your willpower is to do something you love.
+### The best way to improve your willpower is to do something you love
 
 But sometimes you really do need to work on something for several hours in a focused manner, ideally in the state of flow. What you need to make that happen is willpower. You might know that nutrition, sleep and exercise are important determinants of how much willpower you can muster, but Daniel Goleman discovered one I bet you haven’t heard about: **doing work you love.**
 
@@ -44,7 +44,7 @@ As an example Goleman mentions George Lucas, who, when creating the original Sta
 
 ## Lesson 3
 
-### Imagine distant problems as immediate to make better long-term decisions.
+### Imagine distant problems as immediate to make better long-term decisions
 
 I bet you have a dream. A crazy one. Something no one really cares about, but you. And even before you knew that working on it might boost your willpower, I’m sure you wanted to. But you didn’t.
 
@@ -59,7 +59,5 @@ Traffic jams are often solved by building new highways, but all that does is cre
 ## Review
 
 *Focus* feels like an encompassing instruction manual for attention. It really covers most of the relevant bases where most other books only address specific areas and issues, like willpower or leadership. The summary on Blinkist is very long and comprehensive, I’d definitely go for it before checking out the full book, which of course has plenty more examples and relevant case studies.
-
-## Who it’s for
 
 The 13 year old, who just got her first smartphone, the 62 year old community leader with a lot of pressure to perform well, and anyone who thinks they can always start working on that novel tomorrow.

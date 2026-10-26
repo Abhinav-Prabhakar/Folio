@@ -20,7 +20,7 @@ Angry, neurotic little man or courageous, visionary leader? Let’s look at what
 
 ## Lesson 1
 
-### Napoleon was of Italian descent, which gave him a competitive edge.
+### Napoleon was of Italian descent, which gave him a competitive edge
 
 Napoleon was born in 1769, but not, as you might expect, in France. He was born on the island of Corsica, halfway between France and Italy, next to Sardinia. His full name at birth? Napoleone di Buonaparte. Yes, Napoleon was of Italian descent.
 
@@ -34,7 +34,7 @@ So technically, Napoleon was an immigrant, and he got a lot of flack for it: the
 
 ## Lesson 2
 
-### His philosophy about life was a truly Stoic one, focused on interdisciplinarity and what he could control.
+### His philosophy about life was a truly Stoic one, focused on interdisciplinarity and what he could control
 
 We talk a lot about Stoicism on Four Minute Books, and I think Napoleon is a good example of one. In particular, he did two things very characteristic of this ancient, Greek philosophy:
 
@@ -49,7 +49,7 @@ When lived consistently, these two traits have a huge potential to make you happ
 
 ## Lesson 3
 
-### Napoleon’s vision was too early for his time, but that’s a price all great leaders pay.
+### Napoleon’s vision was too early for his time, but that’s a price all great leaders pay
 
 One of Napoleon’s biggest goals was to beat the British by getting most of the other European states to cooperate and shut them off economically. This kept backfiring however, and instead he saw himself faced with the “Coalition Forces” in 1813, which consisted of the united armies of the United Kingdom, Austria, Spain, Italy, Prussia, Russia, Portugal, Sweden and a few others.
 
@@ -64,7 +64,5 @@ Being alone with your vision is the price all great leaders must pay, but if the
 ## Review
 
 Wow, what a comprehensive summary! Very detailed, I really enjoyed *Napoleon The Great*. Learned more from this than all of French history we had in school, which is a good sign you’ll enjoy it too.
-
-## Who it’s for
 
 The 12 year old immigrant girl, who’s bullied in school, the 47 year old CFO of a medium-sized business, who’s frustrated with his marriage, and anyone who sometimes feels lonely, because they seem to be the only one with big plans.

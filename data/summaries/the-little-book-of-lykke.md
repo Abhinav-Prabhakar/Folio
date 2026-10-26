@@ -20,7 +20,7 @@ Let’s figure out how to have more joy!
 
 ## Lesson 1
 
-### To be happier, spend less time online and instead connect with the people around you.
+### To be happier, spend less time online and instead connect with the people around you
 
 They say that nothing is certain except death and taxes. While this idiom is funny, it identifies the truth that a lot of people despise paying taxes. But can you imagine a place where citizens actually enjoy paying taxes, even at average tax rates of *45%*? Denmark is such a place, and it’s no accident that it’s also one of the happiest countries in the world.
 
@@ -32,7 +32,7 @@ To develop this sense of social unity wherever you live, Wiking teaches to get o
 
 ## Lesson 2
 
-### Your joy grows when you have more free time.
+### Your joy grows when you have more free time
 
 Most Danish people don’t work 40 hours a week. Working an average of about 1,450 hours each year, Danes work less than 30 hours a week! And this added free time makes them happier, too.
 
@@ -44,7 +44,7 @@ In Denmark they have what’s called the “Bonus Grandparents” program. New p
 
 ## Lesson 3
 
-### Helping other people is a great way to help yourself feel better.
+### Helping other people is a great way to help yourself feel better
 
 Have you heard of the helper’s high? It’s that happy feeling that you get when you help somebody else.
 
@@ -52,14 +52,12 @@ Science shows that being kind and generous lights up the nucleus accumbens, or t
 
 If you want to be happier, add volunteering to the list of activities that will help you get there.
 
-When you give freely of your time to help others, it helps you be more grateful. **Research showsthat volunteers have more friendships and social connections and less depression.** And you can add volunteering to the growing list of happiness-inducing activities of the Danish, as well.
+When you give freely of your time to help others, it helps you be more grateful. **Research shows that volunteers have more friendships and social connections and less depression.** And you can add volunteering to the growing list of happiness-inducing activities of the Danish, as well.
 
 To get more service opportunities, start looking for them! The RAKtivists group is full of people who look for Random Acts of Kindness they can perform. You can also download the Be My Eyes app and help visually impaired people identify objects or read. Look around in your community and you will also see many opportunities to help those around you. Doing so will make you happier!
 
 ## Review
 
 Wow, this book is amazing! *The Little Book Of Lykke* has so many good insights that it was hard to nail down just three to focus on. I’m excited to try these ideas in my life to grow my own happiness.
-
-## Who it’s for
 
 The 34-year-old neuroscientist who is studying happiness, the 54-year-old American couple who is curious how Scandinavians live, and anyone that wants to improve the level of happiness in their life.

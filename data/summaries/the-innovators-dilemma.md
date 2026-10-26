@@ -18,11 +18,9 @@ Here are 3 lessons of what it’s about:
 
 If you want to be an innovator, let’s lift the veil of the dilemma you’ll have to solve and how you can do just that!
 
-### The Innovator’s Dilemma Summary
-
 ## Lesson 1
 
-### There is disruptive technology and sustaining technology, and innovation works differently for the two.
+### There is disruptive technology and sustaining technology, and innovation works differently for the two
 
 I’m not sure if Peter Thiel referenced this book in his business manifesto, *Zero to One*, but it wouldn’t surprise me to learn this is where he got the idea from. Clayton Christensen published *The Innovator’s Dilemma* in 1997 and with it, disrupted the way leaders talk about technological progress.
 
@@ -37,7 +35,7 @@ For example, while it was a piece of cake for IBM to make hard disks thinner and
 
 ## Lesson 2
 
-### When the resources, processes and values of a company don’t match the target market, even the best management won’t help.
+### When the resources, processes and values of a company don’t match the target market, even the best management won’t help
 
 The reason startups have a chance to overtake industry titans when it comes to disruption is that it starts in low-margin niche markets, because the target customer is often an entirely different one than before. Big companies are slow in serving these, because two of the three defining factors of a business’s culture and capability to act are rigid for them:
 
@@ -51,7 +49,7 @@ When you’re processes and values don’t match the market disruption forces yo
 
 ## Lesson 3
 
-### The way market leaders solve the innovator’s dilemma is through equipping independent subsidiaries with what they need.
+### The way market leaders solve the innovator’s dilemma is through equipping independent subsidiaries with what they need
 
 So what do you do then, if you’re a leading player in a drastically changing field? Well, first of all, Clayton suggests, you should accept the limitations of your processes and values. It’s almost impossible to do well in developing both sustaining and disrupting technology from one source.
 
@@ -70,7 +68,5 @@ That’s what Steve Jobs knew and that’s how you solve *The Innovator’s Dile
 Earlier today, I sent a video to a friend that breaks down how everything is just a remix of something that came before it, based on the new Star Wars movie, *The Force Awakens*. The premise of *The Innovator’s Dilemma* has obviously been adapted and remixed many times in the 20 years the book has been out, and I wonder what he used to re-mix into the book himself.
 
 However, this seems like one of the few times we get as close to an idea that could be dubbed original as possible and that alone makes this book worth a read. Then again, maybe you’re just curious what Steve Jobs knew that so many others didn’t: how to solve the innovator’s dilemma.
-
-## Who it’s for
 
 The 27 year old startup founder in training, who thinks his special fruit blender will really change the fitness industry, the 52 year old Fortune 500 CEO, and anyone who sees his organization slowly falling behind in innovation.

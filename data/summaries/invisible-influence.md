@@ -22,7 +22,7 @@ Are you ready to see how knowing about the unseen influence of others can improv
 
 ## Lesson 1
 
-### Learn about the affect others have on your choices so that you can overcome it.
+### Learn about the affect others have on your choices so that you can overcome it
 
 A study by psychologist Richard Moreland proves the power of invisible influence. Four women of similar attractiveness attended a big college class, acting like regular students. Each attended a different number of class sessions ranging from 0 to 15.
 
@@ -36,7 +36,7 @@ As the girl considers if it’s true that people who read a lot are losers, she�
 
 ## Lesson 2
 
-### Although you might not see it at first, you usually embrace other’s opinions and imitate their actions.
+### Although you might not see it at first, you usually embrace other’s opinions and imitate their actions
 
 Even if you feel like you’re a pretty independent thinker, you’re likely wrong. We’re highly inclined to adopt behaviors and opinions from the people who are around us.
 
@@ -48,7 +48,7 @@ Social influence even explains why people like certain media. In a study, teens 
 
 ## Lesson 3
 
-### Motivation or distraction come from the people around us, depending on the type of task we’re doing.
+### Motivation or distraction come from the people around us, depending on the type of task we’re doing
 
 When people lose weight, they often join groups for support. But what is it about these connections that is so valuable?
 
@@ -63,7 +63,5 @@ If you want to take advantage of the invisible influence of others, find someone
 ## Review
 
 *Invisible Influence* is really interesting and insightful! It’s making me rethink what I thought I knew about how much others influence me and why. I believe everyone in the world can benefit from this book!
-
-## Who it’s for
 
 The 34-year-old deep-thinker who is curious to know how others influence their choices, the 54-year-old leader who needs to make more unbiased decisions, and anyone who’d like more control over the choices they make.

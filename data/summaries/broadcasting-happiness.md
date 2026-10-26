@@ -20,7 +20,7 @@ Are you pumped up to learn how to unleash the full power of positivity and becom
 
 ## Lesson 1
 
-### Sharing happiness is more about how you share information, and it has the power to improve your health.
+### Sharing happiness is more about how you share information, and it has the power to improve your health
 
 Humans have been telling stories since the dawn of time. Our early ancestors’ cave writings are the perfect example. What began as simple drawings has evolved into the mass media that we know today.
 
@@ -38,7 +38,7 @@ The differences in results of strength, memory, and intelligence tests before an
 
 ## Lesson 2
 
-### You will do better on exams, at work, and in your relationships by broadcasting positive words and stories.
+### You will do better on exams, at work, and in your relationships by broadcasting positive words and stories
 
 If you’ve ever done a group project at school, you know how wildly different people are when it comes to working. Some are driven and organized while others are sloppy and lazy. It’s hard to get along in these kinds of settings no matter what kind of person you are.
 
@@ -54,7 +54,7 @@ Those that had priming by the thoughts of the professor did better on the exam t
 
 ## Lesson 3
 
-### Nobody escapes hard times, but approaching them the right way can make it easier to get through them.
+### Nobody escapes hard times, but approaching them the right way can make it easier to get through them
 
 Bad things happen to all of us. Often, our natural tendency is to hold it all in. But the best way to get over difficult experiences is to talk about them. You can help your friends do this without encouraging negativity if you use the four C’s:
 
@@ -76,7 +76,5 @@ If a person is being too negative, however, don’t feel like you have to stick 
 ## Review
 
 I’m a big believer in the power of positivity, and *Broadcasting Happiness* just reinforced it for me! I am blown away by the research and tips this book gives and that it doesn’t sugar coat it but also goes over negative things also. This is one of those books that will really change your life for the better!
-
-## Who it’s for
 
 The 39-year-old manager who wants to find ways to improve the morale and performance of their team, the 23-year-old blogger who wants some science-backed ways to make a positive difference in their follower’s lives, and anyone who wants to be happier and healthier!

@@ -24,7 +24,7 @@ Pennebaker’s book demystifies this part of human communication that usually co
 
 ## Lesson 1
 
-### Your social skills and the use of style words are located in the same region of the brain.
+### Your social skills and the use of style words are located in the same region of the brain
 
 The English language and most other modern languages consist of two types of words. The first are content words – verbs, nouns, adjectives, and pronouns. These convey culturally shared meaning and denote objects, actions and abstract concepts.
 
@@ -38,7 +38,7 @@ Turns out, it may be possible to tell how out-going or socially awkward a person
 
 ## Lesson 2
 
-### The pronouns you use disclose a lot about your socialization and thinking style.
+### The pronouns you use disclose a lot about your socialization and thinking style
 
 During his research, Pennebaker found that style words can reflect a lot more about people than just their social skills. **In fact, it seems that the whole process of socialization each of us went through is heavily reflected in the use of pronouns.**
 
@@ -52,11 +52,11 @@ His conclusions led him to identify three different thinking styles that showed 
 
 ## Lesson 3
 
-### People who use function words in similar ways are more likely to get on well.
+### People who use function words in similar ways are more likely to get on well
 
 What also matters is how people use language in relation to one another. Have you ever noticed yourself “borrowing” phrases or even just particular words from your friends or movie characters?
 
-This is a perfectly natural process, called “language style matching” (LSM) by linguists. It involves one person mimicking another’s use of function words, especially pronouns. **Interestingly, the extent to which LSM occurs isdependent on the level of engagementwith the other person.**
+This is a perfectly natural process, called “language style matching” (LSM) by linguists. It involves one person mimicking another’s use of function words, especially pronouns. **Interestingly, the extent to which LSM occurs is dependent on the level of engagement with the other person.**
 
 This has far-reaching implications. For example, researchers found that by measuring LSM during a speed dating experiment, they could, to some extent, predict how compatible the couples will be in the future. It turned out that 77 percent of the couples who scored high on LSM tests were still dating after three months. The same was true for only 52% of those whose LSM score during the experiment was below average.
 
@@ -67,7 +67,5 @@ If the frequency is high in most members – there are good chances that the tea
 ## Review
 
 *The Secret Life of Pronouns* is the kind of book that has the potential to reveal a whole new world to you. Turns out that, by paying attention to the little habits in each others’ (and our own) language, we can access information that otherwise remains hidden! If you read this book attentively you will, yet again, be reminded how much human connection is based on the unconscious, yet crucial, behaviors and tendencies. And that is truly eye-opening.
-
-## Who it’s for
 
 The 35-year-old life coach who wants to get a more nuanced image of their clients, the 22-year-old linguistics student looking for inspiration for an essay, and to anyone who is eager to explore the intersection of the human mind and language.

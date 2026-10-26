@@ -22,7 +22,7 @@ Let’s get right to the bottom of these interesting lessons in human behavior!
 
 ## Lesson 1
 
-### If you think you’re always the same person in every situation, you’re wrong.
+### If you think you’re always the same person in every situation, you’re wrong
 
 Zimbardo says it is a common misperception that people are either good or evil. The fact is, personalities aren’t static, they change all the time. Just think about how you are around your best friend. Now think about how you are around little kids. Do you act the same in these situations? The answer is most likely no.
 
@@ -38,7 +38,7 @@ The participants weren’t all bad people, but this showed that under certain ci
 
 ## Lesson 2
 
-### Regular people can turn bad rather quickly, as proven by the Stanford prison experiment.
+### Regular people can turn bad rather quickly, as proven by the Stanford prison experiment
 
 The Stanford prison experiment also showed how quickly ordinary people can do cruel things. The author himself conducted this experiment while at Stanford Univerity. The idea was that he would put students into a mock prison and study their behavior.
 
@@ -52,7 +52,7 @@ The experiment was supposed to be two weeks, but for obvious reasons, it had to 
 
 ## Lesson 3
 
-### You’re not destined to act evil, heroic and moral choices are always possible.
+### You’re not destined to act evil, heroic and moral choices are always possible
 
 You may be thinking now that we are all evil deep down and there is nothing we can do about it. But Zimbardo teaches that because our capacity to do wrong depends on our situation, there are things we can do to resist it.
 
@@ -67,7 +67,5 @@ Zimbardo teaches that we can be a hero by not just resisting evil but working fo
 ## Review
 
 What an interesting concept! It’s honestly one I hadn’t really thought about much before but now that I know about it I’m glad that I do. I think everybody should read *The Lucifer Effect* at some point in their lives so they don’t fall prey to thinking they’re perfect.
-
-## Who it’s for
 
 The 65-year-old that wonders why their children have done horrible things, the 24-year-old with an interest in psychology and human behavior, and anyone that’s curious why even some of the best people in the world turn evil.

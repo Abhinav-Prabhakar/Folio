@@ -20,7 +20,7 @@ Ready to see how you might break the world record for productivity? Let’s go!
 
 ## Lesson 1
 
-### You are far more likely to achieve your goals when they are specific.
+### You are far more likely to achieve your goals when they are specific
 
 It’s winter in 1971 and the author is in the Israeli military. He’s struggling with completing a 3,000-meter run in under 12 minutes as part of basic training. During every practice Bar-Eli is the slowest, ending up at the back of his team. But his motivation quickly changes after a threat of punishment from one of his superiors.
 
@@ -34,7 +34,7 @@ This works especially well for long-term goals. The best way to eat an elephant 
 
 ## Lesson 2
 
-### Innovation is as simple as testing unconventional methods for doing everyday tasks.
+### Innovation is as simple as testing unconventional methods for doing everyday tasks
 
 The word innovation probably makes you think of business rather than sports. But it does have it’s place in competitive events. The history of it in athletics can teach us a lot about how to use it in other areas too.
 
@@ -55,7 +55,7 @@ Experimentation and **practice** throughout his time in high-school helped the y
 
 ## Lesson 3
 
-### Visualization is a powerful technique that can help you get almost the same benefits as actually practicing.
+### Visualization is a powerful technique that can help you get almost the same benefits as actually practicing
 
 While you may have gotten in trouble for daydreaming in class as a kid, today the ability to have a vivid imagination is a critical skill. It can set apart the great athletes and top workplace performers from the mediocre ones.
 
@@ -72,7 +72,5 @@ Pete Maravich, an NBA basketball player, is a good example of focusing on the pr
 ## Review
 
 *Boost!* is right up my alley. I love books about performance and this one didn’t disappoint! I’ve often heard about the similarities between productivity and peak performance levels in sports and work, but this succinctly put them all into one great book.
-
-## Who it’s for
 
 The 48-year-old leader who would like to become more efficient, the 33-year-old office worker who has a difficult time being productive and wants to fix that, and anyone that wants to know what psychology has to do with all kinds of performances.

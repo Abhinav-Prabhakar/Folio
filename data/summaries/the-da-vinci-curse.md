@@ -20,7 +20,7 @@ Sick of drifting around? Let’s lift Leonardo’s curse!
 
 ## Lesson 1
 
-### The world wants you to specialize, so if you have many talents, you naturally feel like you don’t belong.
+### The world wants you to specialize, so if you have many talents, you naturally feel like you don’t belong
 
 Who do you go to when you wake up and your back hurts? Your physician. Who do you go to, if it still hurts the next week? Your chiropractor. If it becomes a chronic thing, you’ll probably go to a physical therapist. Worst case scenario, you’ll end up on a spinal reconstruction surgeon’s table.
 
@@ -32,7 +32,7 @@ This is a huge bummer for multi-talented people (like you and me). That’s beca
 
 ## Lesson 2
 
-### Don’t switch fields when it’s about to get serious, it’s worse than facing criticism.
+### Don’t switch fields when it’s about to get serious, it’s worse than facing criticism
 
 So what can you do about it?
 
@@ -48,7 +48,7 @@ Instead, pause and do the following.
 
 ## Lesson 3
 
-### Find one, single, complex activity, which forces you to use many of your talents.
+### Find one, single, complex activity, which forces you to use many of your talents
 
 Leonardo Lospennato realized that he’d have to pick something to master, but didn’t want to give up on all of his skills and passions. So he decided to **choose something so complex, that it would require him to use many of his skills**.
 
@@ -61,7 +61,5 @@ For example, in writing this blog, I can practice writing, editing videos, desig
 ## Review
 
 I had no idea this book existed. Found it randomly on Blinkist, and am really happy about it! I love the name, the message, and Leonardo’s simple three-step framework for finding your calling – it’s very practical. I like practicality. *The Da Vinci Curse* is definitely a hidden champion. If you think you have many talents, go give this a read!
-
-## Who it’s for
 
 The 17 year old, who just graduated high school, and has no clue what to do, because she liked many subjects, the 48 year old, who still keeps switching jobs and making career jumps, and is afraid he might run out of time, and anyone who feels like a jack of all trades in a world of specialists.

@@ -22,7 +22,7 @@ Let’s see how much of Lincoln’s story we can use as a model to apply some of
 
 ## Lesson 1
 
-### We all know Lincoln was born in a tough time, but his personal hardships ran much deeper.
+### We all know Lincoln was born in a tough time, but his personal hardships ran much deeper
 
 As soon as his father determined Abe was capable, he put him to hard labor on the farm, where he chopped down trees, dug wells and plowed fields.
 
@@ -36,7 +36,7 @@ These difficulties didn’t break Lincoln’s spirit, but hardened him and spurr
 
 ## Lesson 2
 
-### Despite being far from the top choice as the Republican nominee, Lincoln won in a true-to-life tortoise and the hare story.
+### Despite being far from the top choice as the Republican nominee, Lincoln won in a true-to-life tortoise and the hare story
 
 Compared to the other candidates, Lincoln’s career in politics was relatively brief. So, who were these “rivals” and what superpowers did they possess?
 
@@ -52,7 +52,7 @@ However, while his rivals were overly confident and made some enemies within the
 
 ## Lesson 3
 
-### Because of his unusual, yet effective leadership style, even Southerners felt Lincoln’s death was a tragic blow to the reconstruction of the United States.
+### Because of his unusual, yet effective leadership style, even Southerners felt Lincoln’s death was a tragic blow to the reconstruction of the United States
 
 Lincoln’s victory in the election was a great testimony to his genius and intelligence as a politician. When it was time for him to choose the members of his presidential cabinet, he was equally as thoughtful and strategic.
 
@@ -69,7 +69,5 @@ Southern-born Montgomery Blair, a founding member of the new Republican party, c
 ## Review
 
 *Team Of Rivals* is a fascinating read by acclaimed historian and author, Doris Kearns Goodwin. It’s a hefty 945 pages, so if you’re not a true history buff, you’ll likely find it a bit overwhelming. However, the book’s structure makes it easy to pick and choose chapters to learn valuable lessons from history.
-
-## Who it’s for
 
 The 29-year-old history major, who thinks they know everything there is to know about Lincoln, the 34-year-old District Sales Team Manager, who’s looking to build a winning sales force, and anyone who’s interested in political history and the American Civil War.

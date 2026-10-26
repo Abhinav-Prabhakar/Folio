@@ -40,7 +40,7 @@ Be present. Don’t wait around mulling over your lack of purpose in life. Creat
 
 ## Lesson 2
 
-### Learn and try as many things as possible to find out what you like.
+### Learn and try as many things as possible to find out what you like
 
 Once you’ve taken back the wheel of the car that is your own life, Jon says it’s time to start learning. If the goal is to lead an awesome life, that indicates doing many awesome things. But to do awesome things, **you first have to find what you think is awesome**.
 
@@ -54,7 +54,7 @@ Maybe it’s time to go and do just that! But start small. Research the topic, a
 
 ## Lesson 3
 
-### Edit your life and remove the things you don’t enjoy doing.
+### Edit your life and remove the things you don’t enjoy doing
 
 In the course of learning many things and exploring lots of ideas, you’ll notice you like some more than others. Maybe a few activities even have you totally in the zone and time just seems to fly by. Those are the ones you should focus on.
 
@@ -86,7 +86,5 @@ Jon is gold. He’s very eloquent, funny and has a way of being very convincing 
 Technology has given us an infinite array of options to live the life we want, and it’s up to us to use it. Jon’s five stages of success are a great guideline to follow.
 
 My suggestion would be to check out the blinks for *Start* and if you like them and want more of Jon’s personal stories and anecdotes, get the book in paper or audio format.
-
-## Who it’s for
 
 The 21 year old who’s freaking out because she hasn’t found her purpose yet, the 71 year old who hasn’t learned anything new in a while, and anyone who finds themselves doing things they don’t like on an ongoing basis.

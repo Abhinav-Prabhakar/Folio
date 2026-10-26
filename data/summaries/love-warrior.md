@@ -18,7 +18,7 @@ Let’s delve deeper into the beautiful lessons Glennon shared with us and get t
 
 ## Lesson 1
 
-### There are people out there who understand you and share your struggles, so don’t think you’re alone.
+### There are people out there who understand you and share your struggles, so don’t think you’re alone
 
 Glennon Doyle was just another girl in college trying to fit in. She had a problem with her image and often fell for social standards when it came to choosing health over appearances. Like many of us, she ignored her problems in the hope they would go away – but they didn’t.
 
@@ -32,7 +32,7 @@ Just like she found a new way of being herself: one where the vulnerability was 
 
 ## Lesson 2
 
-### Life will keep serving you hard lessons until you finally listen to your inner voice.
+### Life will keep serving you hard lessons until you finally listen to your inner voice
 
 Sometimes we have to know rock bottom before we can fully recover. That’s what happened to Glennon when she found out about Craig’s affairs.
 
@@ -46,7 +46,7 @@ It was then that she discovered that her life lifelong lesson was to listen to h
 
 ## Lesson 3
 
-### Knowing and accepting pain is the purest form of authenticity and self-love.
+### Knowing and accepting pain is the purest form of authenticity and self-love
 
 Pain is a part of life. It is the price we pay for being alive and aware, and no one can escape it. But pain does not have to be a source of suffering. In fact, accepting pain as a part of life is perhaps the purest form of authenticity and self-love.
 
@@ -63,7 +63,5 @@ In time, the blog changed her life, as she became an online sensation and create
 It’s a journey of self-discovery that will help you learn how to love yourself, forgive yourself, and take responsibility for your actions. It will also teach you about letting go of toxic people in your life and choosing to surround yourself with people who support your goals and dreams.
 
 I recommend this empowering read that will give you strength when you’re feeling down and make you feel like anything is possible if you work hard enough at it!
-
-## Who it’s for
 
 The 32-year-old mother who finds it hard to raise her children and look like a perfect mom, the 40-year-old woman who feels like she’s lost herself and needs to regain direction or the 45-year-old person who has troubles in their marriage and wants to learn how to overcome them.

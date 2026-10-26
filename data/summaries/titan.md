@@ -24,7 +24,7 @@ Are you excited to learn from the life of one of the most successful businessmen
 
 ## Lesson 1
 
-### Even though his father was absent young John D. Rockefeller got into entrepreneurship early and advanced quickly.
+### Even though his father was absent young John D. Rockefeller got into entrepreneurship early and advanced quickly
 
 Sometime around 1723, Johann Peter Rockefeller and his family immigrated to the United States. Nobody could have anticipated that their modest beginning in this new country would lay the foundation for the rise of one of the richest people ever.
 
@@ -40,7 +40,7 @@ Although they began with buying and selling items, a connection with chemist Sam
 
 ## Lesson 2
 
-### Standard Oil was the hallmark of this titan’s business career that made him the richest man in America.
+### Standard Oil was the hallmark of this titan’s business career that made him the richest man in America
 
 Striking a deal with Lake Shore Railroad was the next big step on Rockefeller’s rise to riches, and one of the most important. It let him have rebates on the costs of transporting his oil, which kept margins low and competitive.
 
@@ -56,7 +56,7 @@ He didn’t let all the success go to his head though, and continued a modest li
 
 ## Lesson 3
 
-### Later in life, Rockefeller was very philanthropic even after his company fell apart.
+### Later in life, Rockefeller was very philanthropic even after his company fell apart
 
 Eventually, Standard Oil Company’s expansions and acquisitions grew so significant that people began opposing the stronghold it had. The Supreme Court determined that the monopoly was illegal on May 15, 1911, and it was soon shut down.
 
@@ -73,7 +73,5 @@ He suffered a heart attack on May 22, 1937, and the next day John D. Rockefeller
 ## Review
 
 There’s just so much to learn from the life of Rockefeller that it’s really difficult to contain it all in one book summary, let alone an entire book! I especially liked how *Titan* outlined the rags to riches portion of the Rockefeller family’s rise to wealth. If you’re a business person who loves history and inspiring stories, you’re going to love this one!
-
-## Who it’s for
 
 The 41-year-old entrepreneur that gets inspired by stories of successful business endeavors, the 23-year-old that loves reading biographies that motivate them, and anyone who wants to learn more about one of the richest and most influential people in modern history.

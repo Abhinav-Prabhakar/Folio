@@ -20,7 +20,7 @@ While we won’t go into detail with each piece of valuable advice the author gi
 
 ## Lesson 1
 
-### Define your values, work for yourself, and ditch all your excuses if you want to know success.
+### Define your values, work for yourself, and ditch all your excuses if you want to know success
 
 Excuses are the silent killers of all your dreams. You’ve heard it before: if only I had more money, or if only I had more time, or if only I was prettier/stronger/smarter/more creative/whatever. If only the world were different, then you could move on with your dreams and follow your purpose.
 
@@ -32,7 +32,7 @@ Lastly, make sure to work for your own dream, not someone else’s. The author k
 
 ## Lesson 2
 
-### You need to get out of your comfort zone, meet positive people and keep learning from your failures.
+### You need to get out of your comfort zone, meet positive people and keep learning from your failures
 
 If you want to know success, then you have to define your dream and work for yourself. We’ve established that. However, what if those around you don’t think the same? What if they’ve already accepted that they will live a life working on someone else’s dream?
 
@@ -44,7 +44,7 @@ After you get out of your comfort zone, many failures will occur. It’s a natur
 
 ## Lesson 3
 
-### Time is a valuable resource, so make the most of it by standing out and manifesting your success story.
+### Time is a valuable resource, so make the most of it by standing out and manifesting your success story
 
 You’ve probably heard the story of how Steve Jobs was fired from Apple. He was fired because he wasn’t a good fit with the rest of the team. But he didn’t let that failure stop him from building one of the most successful companies in history.
 
@@ -57,7 +57,5 @@ And finally: don’t assume that time is on your side. If you want something bad
 ## Review
 
 *The Book of Mistakes* will forever change your life for the better. It will show you how to live a meaningful life and go confidently in the direction of your dreams without fearing failure or criticism. I recommend this book to anyone who wants to take charge of their life.
-
-## Who it’s for
 
 The 30-year-old person who is tired of their 9-5 job and wants to find the courage to start working on their dream, the 23-year-old person who is clever enough to realize that they’re too inexperienced in life and could use advice from a wiser mentor, and the 43-year-old late boomer who wants to live a meaningful life and finally chase their dreams.

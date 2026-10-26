@@ -18,7 +18,7 @@ Whether your brand is just you or backed by a huge group of people, let’s make
 
 ## Lesson 1
 
-### Your brand is more than your product, so think about the story you want to tell.
+### Your brand is more than your product, so think about the story you want to tell
 
 When you’re done eating at a Chinese restaurant, the fortune cookie comes just at the right time. It satisfies your craving for something sweet after having a hearty entree. But that’s just one half of the story. The cookie’s not the reason you come back to the restaurant. The fortune inside *might* be.
 
@@ -33,7 +33,7 @@ Most of our behavior as consumers isn’t driven by rational thought, so without
 
 ## Lesson 2
 
-### Use three questions to develop your brand’s vision.
+### Use three questions to develop your brand’s vision
 
 One of the most powerful parts of your story, which consumers judge you by, is your vision. Like the cat told Alice when she landed in Wonderland: If you don’t know where you want to go, it won’t matter which road you take. People always want to know where you’ll take your brand next, so they can decide whether you’re still worth following.
 
@@ -47,7 +47,7 @@ This vision will change over time. That’s normal. It doesn’t have to be part
 
 ## Lesson 3
 
-### Every piece of content you create must match your brand story.
+### Every piece of content you create must match your brand story
 
 Imagine an organic, healthy, jungle-themed café squeezed right in-between a Versace and a Gucci store on Rodeo Drive in LA. Not very convincing, is it? Just like the location’s part of your story, so is your company name. Four Minute Books describes the premise of the site in a nutshell. It’s short and snappy, but it still stands out.
 
@@ -60,7 +60,5 @@ It’s the bread and butter of any good business – the fortune that keeps peop
 ## Review
 
 *The Fortune Cookie Principle* delivers a very simple metaphor you can use to guide all your marketing efforts. Whether you’re marketing yourself as a freelancer, writer, or opera singer or your company as a startup or global brand, this idea keeps it simple. You can return to it again and again, to check in each instance if your storytelling matches your offering – and that’s a valuable ace up your sleeve. Also check out Bernadette’s TEDx talk. It’s a good place to start.
-
-## Who it’s for
 
 The 19 year old college student, who wonders why no one goes to her campus group’s events, even though they’re cheap and fun, the 44 year old manager, who just took over marketing of a company in a crisis, and anyone who likes fortune cookies.

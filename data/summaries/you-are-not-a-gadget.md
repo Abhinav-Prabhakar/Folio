@@ -22,7 +22,7 @@ Let’s take a deep dive into the workings of the internet and how it’s affect
 
 ## Lesson 1
 
-### Because of the advancement of technology, we are putting people into boxes and undermining the value of individuals.
+### Because of the advancement of technology, we are putting people into boxes and undermining the value of individuals
 
 Between the internet, digital media, and our devices, there are countless pieces of information floating around. Some people even think we’ll eventually compile all of it together into one big unit of wisdom!
 
@@ -38,7 +38,7 @@ We should stop putting technology on a pedestal and re-focus on what’s most im
 
 ## Lesson 2
 
-### Anonymity on the internet can be dangerous unless you provide some limitations for it.
+### Anonymity on the internet can be dangerous unless you provide some limitations for it
 
 It’s no secret that the internet is full of arguments. Just go to any YouTube comments section or Reddit thread and it’s obvious. Some people start these fights on purpose, and the mob mentality doesn’t help when things get heated.
 
@@ -54,7 +54,7 @@ eBay, for instance, has rating systems that motivate people to be on their best 
 
 ## Lesson 3
 
-### We must explore options to improve the way the internet works to renew our appreciation of individuals.
+### We must explore options to improve the way the internet works to renew our appreciation of individuals
 
 Do you remember life before the internet? While that time may seem long gone, it’s not that far behind us, and the web is relatively new. That means we can mold it to be whatever we want, including a way to promote intelligence and individuality.
 
@@ -73,7 +73,5 @@ Whatever we do with the internet, our future is bright if we use it right!
 ## Review
 
 I’m really on the fence about *You Are Not A Gadget*. On the one hand, it’s good to pay attention to the negative side of the internet and the connectedness it brings. But on the other hand, the book felt a little too pessimistic for my tastes. I did like the ideas it brought up about paying creators better for their work, though!
-
-## Who it’s for
 
 The 64-year-old who wants to get a better understanding of how technology is changing the world, the 37-year-old blogger that would like a better way to get paid for her work, and anyone that wants to know how the internet is affecting artists’ work.

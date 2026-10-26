@@ -20,7 +20,7 @@ Ready to build a business that shoots for the moon, not just the local newspaper
 
 ## Lesson 1
 
-### Customers have a lot more power than they used to, so you should act accordingly and respect them.
+### Customers have a lot more power than they used to, so you should act accordingly and respect them
 
 Here’s how I bought my last TV (which was six years ago, btw, I don’t own one any more): I went into the local electronics store, looked at a few models live and how much I liked the color, design, etc. After I found one that I liked, I took out my smartphone and googled the model name. I saw a price range on a comparison site, looked at the tag of the TV in the store, and instantly realized that there was a difference of at least 10%. I went home, browsed around some more and ordered it online for 25% less than it cost in the store.
 
@@ -36,7 +36,7 @@ However, if you use the same data to your advantage, for example by finding your
 
 ## Lesson 2
 
-### People want to use products more than they want to own them, especially millennials.
+### People want to use products more than they want to own them, especially millennials
 
 Another mega-trend that changes consumer behavior in a big way is the sharing economy. Especially people from the millennial generation (like me), care a lot more about having *the lifestyle* certain products allow than actually *owning* them.
 
@@ -53,7 +53,7 @@ On the other hand, middle class consumption is on the rise in Asian countries, a
 
 ## Lesson 3
 
-### At the heart of all businesses needs to be a great customer experience.
+### At the heart of all businesses needs to be a great customer experience
 
 I love John Sculley’s answer to the question “What’s the most important element in any successful business?” I’m really glad he chose his words the way he did.
 
@@ -76,7 +76,5 @@ What makes your customer experience amazing could be a variety of different thin
 ## Review
 
 *Moonshot!* is another one of those books where seeing how the author thinks might be more valuable than the insights themselves (which are great as well, don’t get me wrong!). John Sculley is a business legend, don’t underestimate his ideas. A refreshing read!
-
-## Who it’s for
 
 The 27 year old, who wants to start an excess capacity startup to solve a problem he and his friends have, the 59 year old direct marketer, who still sends out coupons via direct mail, and anyone who’s recently been disappointed in a buying experience.

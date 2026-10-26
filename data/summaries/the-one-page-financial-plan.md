@@ -23,7 +23,7 @@ Got your pen and (single piece of) paper? Let’s plan your finances!
 
 ## Lesson 1
 
-### Set specific financial goals, but remain flexible and fine-tune as you go along.
+### Set specific financial goals, but remain flexible and fine-tune as you go along
 
 Think of mobile phones, 10 years ago. Would you ever have guessed that you could call and text anyone, anywhere in the world, for a flat rate fee of a few dozen dollars a month?
 
@@ -35,7 +35,7 @@ So whatever you do, remember that you can always adapt when your situation chang
 
 ## Lesson 2
 
-### Turn budgeting into a game to make saving fun.
+### Turn budgeting into a game to make saving fun
 
 Do you think budgeting is just the world’s way to punish those with little discipline? Then it’s time to shift your perspective.
 
@@ -53,7 +53,7 @@ If you have a partner, this becomes even more fun, because you can compete again
 
 ## Lesson 3
 
-### Think of paying off your debt as an investment in your future self.
+### Think of paying off your debt as an investment in your future self
 
 Just last week I found the idea to start eliminating your debts by paying back the smallest one first, and really liked it. In that same summary, I also realized that debt is always your biggest expense. If that’s true, then Richards’s approach also makes a lot of sense. He suggests you pay down the one with the highest interest rate first.
 
@@ -68,7 +68,5 @@ You’re creating your financial future with every single dollar you spend – a
 ## Review
 
 *The One-Page Financial Plan* brings a new, fresh perspective and comes with tons of cool illustrations. The way it looks at planning your how your money comes and goes sure sounds like a no-headache approach to personal finance. If you’re not on top of your finances, go give this a read!
-
-## Who it’s for
 
 The 14 year old, who just got her first allowance, the 29 year old couple, who’s about to get married, and wants a head start on their finances, and anyone who’s never really taken stock of how much they spend on food in a month.

@@ -20,7 +20,7 @@ Ready to discover your strengths and start to stand out more? Here we go!
 
 ## Lesson 1
 
-### Sometimes, we focus far too much on weaknesses, and it makes us completely forget we have valuable strengths.
+### Sometimes, we focus far too much on weaknesses, and it makes us completely forget we have valuable strengths
 
 From a young age, we’re encouraged to identify what we’re bad at and try to improve. Why is this? If we spent time searching for what we’re good at, we would find much more success.
 
@@ -30,13 +30,13 @@ Organizations that allow employees to use their strengths on a daily basis are b
 
 They found that the 20% of employees who strongly agreed with this question were 50% more likely to work somewhere where there was less employee turnover. They were also 44% more likely to work in a company with higher customer satisfaction and 38% more likely to work in a more productive business.
 
-Despite the data, many organizations insist on having employees work on weaknesses, thus wasting time and money. For example, employees often get sent to special training programs that involve correcting weaknesses rather than growing strengths. **Unfortunately, whenwe spend time doing damage control rather than development, we neglect an employee’s true potential.**
+Despite the data, many organizations insist on having employees work on weaknesses, thus wasting time and money. For example, employees often get sent to special training programs that involve correcting weaknesses rather than growing strengths. **Unfortunately, when we spend time doing damage control rather than development, we neglect an employee’s true potential.**
 
 That’s not to say damage control isn’t necessary at times, but it shouldn’t be the entire focus of managing employees if you want them to really reach their potential.
 
 ## Lesson 2
 
-### Combine your natural talent with new skills, and you have yourself a new strength.
+### Combine your natural talent with new skills, and you have yourself a new strength
 
 We all love doing things we’re good at, right? But have you ever thought about why we are good at certain things? Some people might say it’s all about practice, but that’s not the whole story. You’ve likely built your strengths because you had a natural talent to begin with.
 
@@ -50,7 +50,7 @@ Developing a strength doesn’t happen overnight. It will take work. But the mor
 
 ## Lesson 3
 
-### You can find your own strengths as well as the strengths of others and use them to excel in the workplace.
+### You can find your own strengths as well as the strengths of others and use them to excel in the workplace
 
 You might be wondering how you identify the strengths you already have. To do this, look at your reactions to everyday situations.
 
@@ -67,7 +67,5 @@ Another example is the restorative type. This person enjoys solving problems and
 ## Review
 
 I love books about strengths and *Now, Discover Your Strengths* has got to be one of my new favorites! The methods it teaches for finding strengths are unique, and I can’t wait to try them out myself.
-
-## Who it’s for
 
 The 49-year-old manager that wants to bring out the best in their employees, the 32-year-old who wants to find the clearest path to success, and anyone that wants to discover their hidden talents so they can reach their full potential.

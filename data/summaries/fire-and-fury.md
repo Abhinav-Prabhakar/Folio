@@ -20,7 +20,7 @@ Would you like to get an exclusive sneak peek into the inner workings and surrou
 
 ## Lesson 1
 
-### Everyone on Trump’s presidential campaign was surprised to see him win, even Trump himself.
+### Everyone on Trump’s presidential campaign was surprised to see him win, even Trump himself
 
 Here’s an interesting thought experiment: What if Donald Trump never *wanted* to become president? Think about it. He’s over 70, rich, famous, and well-connected. Would you want to go through the trouble? Plus, he was known for pulling all kinds of media stunts long before announcing his candidacy. **What if the whole thing was set up to fail?**
 
@@ -30,7 +30,7 @@ Lastly, and maybe the most revealing, Melania, Trump’s wife complained a lot a
 
 ## Lesson 2
 
-### Trump’s executive orders are mostly a way to compensate for his staff’s inability to create policies the usual way.
+### Trump’s executive orders are mostly a way to compensate for his staff’s inability to create policies the usual way
 
 Within seven months of Trump taking office, Bannon was fired. Thus, he ended up contributing even more derogatory, public statements about Trump and those surrounding him to Wolff’s book than the journalist had already recorded. Before that, however, Steve Bannon was largely considered the puppet master behind not just Trump’s successful campaign, but also many of the policies he established in his first year.
 
@@ -40,7 +40,7 @@ This not just got Trump’s staff out of trouble, it also allowed Bannon to prog
 
 ## Lesson 3
 
-### Since Trump is so emotional and confused, most of his first-year decisions were the result of two teams fighting to persuade him.
+### Since Trump is so emotional and confused, most of his first-year decisions were the result of two teams fighting to persuade him
 
 Donald Trump doesn’t seem like the kind of guy who takes orders. If you look at his Twitter, within two minutes you can tell he’s angry, impulsive, and unpredictable. But it’s precisely *because* of his many cognitive biases that the people close to him can steer his decisions by pushing the right buttons. Next to Bannon, another party that made good use of Trump’s tendency to agree with whoever speaks last is the couple Wolff refers to as ‘Jarvanka.’
 
@@ -53,7 +53,5 @@ I don’t know what the truth is. Maybe Donald Trump can’t decide, maybe he co
 ## Review
 
 I don’t like politics. They pit people against one another and usually, they don’t impact your daily life all that much. That said, for a book that caused a media storm like this, I think a summary is important. *Fire And Fury* takes a clear stance against Trump, but whether you like or hate him, I hope you can use it to learn something and keep an open mind.
-
-## Who it’s for
 
 The 15 year old young Republican, the 43 year old skeptic Democrat, and anyone who’s constantly outraged by Donald Trump’s behavior.

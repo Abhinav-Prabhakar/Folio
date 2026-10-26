@@ -18,7 +18,7 @@ Ready to read like a pro? Let’s crank up your literary intake!
 
 ## Lesson 1
 
-### Be restrictive with what you read by asking these two questions.
+### Be restrictive with what you read by asking these two questions
 
 Just like true productivity doesn’t mean doing everything, but doing it faster, being a prolific reader doesn’t mean reading everything that lands in front of you.
 
@@ -35,7 +35,7 @@ The second one digs into whether you’ll actually use what you read. For exampl
 
 ## Lesson 2
 
-### Subject everything you’re about to read to a preview, it might be enough.
+### Subject everything you’re about to read to a preview, it might be enough
 
 This won’t work with fiction books, but for everything non-fiction, it helps a lot. By getting an overview of what a book or article is about, you’ll get a better sense of the bigger picture and figure out which parts will be relevant for you to read in the first place.
 
@@ -49,7 +49,7 @@ According to the authors, previewing can give you up to 40% of the information �
 
 ## Lesson 3
 
-### Focus on important keywords to grasp sentences without reading them.
+### Focus on important keywords to grasp sentences without reading them
 
 You could look at the entire lesson above and instantly tell me what its core takeaway is, without reading a single sentence.
 

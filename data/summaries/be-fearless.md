@@ -22,7 +22,7 @@ Do you want to change the world? Let’s find out how!
 
 ## Lesson 1
 
-### To improve life for everyone, head for a revolutionary change and take huge risks.
+### To improve life for everyone, head for a revolutionary change and take huge risks
 
 America wouldn’t have been the first to land on the moon in 1969 if John F. Kennedy hadn’t boldly promised it even before the technology to do so existed. In 1961, he announced on national TV that, in less than a decade, the U.S.A. would accomplish this mission. His leap of faith rallied the country to achieve his ambitious goal.
 
@@ -34,7 +34,7 @@ As a student herself, Sumekh decided to face a problem nobody seemed to take ser
 
 ## Lesson 2
 
-### Question assumptions and peek around corners if you want to find new solutions.
+### Question assumptions and peek around corners if you want to find new solutions
 
 To make big bets, you need to defy assumptions. **Changemakers don’t settle for answers like “that’s just the way it is,” they commit themselves to look ahead to see what the future holds.**
 
@@ -46,7 +46,7 @@ Let’s take a look at another example. Back in 1990, the internet was young and
 
 ## Lesson 3
 
-### Get out of your comfort zone and reach beyond your bubble, embracing the new and unexpected.
+### Get out of your comfort zone and reach beyond your bubble, embracing the new and unexpected
 
 You can do just fine in your comfort zone, but if you want to be great, you must get uncomfortable. **Nobody has ever accomplished game-changing work while feeling comfortable.**
 
@@ -63,7 +63,5 @@ Scidmore’s story also reminds us of the importance of looking beyond our own b
 ## Review
 
 Jean Case is an enthusiastic advocate for social responsibility and commitment to the environment. In *Be Fearless*, she urges us to adopt a revolutionary approach and get involved in making a global difference for everybody. Through fascinating stories of people who really made their mark on humanity, she inspires us to be fearless enough to do the same.
-
-## Who it’s for
 
 The 15-year-old who often thinks of the problems in society but feels there’s nothing they can do about it, the 20-year-old that wants to change the world, and anyone who wants to use their free time to make life better for all of us.

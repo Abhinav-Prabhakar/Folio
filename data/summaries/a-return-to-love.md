@@ -20,7 +20,7 @@ Are you ready to have your heart grow three sizes today? Let’s go!
 
 ## Lesson 1
 
-### Fear is the root of everything that causes us to be unhappy.
+### Fear is the root of everything that causes us to be unhappy
 
 Whether it’s losing your job, the death of a loved one, or getting sick, we all have crummy times in life. But whatever it is you’re going through, the feeling of unhappiness is because you’re afraid.
 
@@ -32,7 +32,7 @@ Not only is the workplace full of negativity, but the world in general teaches u
 
 ## Lesson 2
 
-### Being happier at work and making the world a better place come from turning your career path over to a higher power.
+### Being happier at work and making the world a better place come from turning your career path over to a higher power
 
 Unfortunately, too many people only listen to their ego when it comes to their career and financial life. When we focus only on our own preservation and survival we separate ourselves from others who are the true key to our success. Only by opening our hearts and minds to the higher power of love and kindness can we tap into our full potential.
 
@@ -44,7 +44,7 @@ Regardless of your work, it’s better to focus on kindness and love than just l
 
 ## Lesson 3
 
-### Try to understand the people who are mean to you, most likely all they need is a little empathy for what they’ve been through to open their hearts.
+### Try to understand the people who are mean to you, most likely all they need is a little empathy for what they’ve been through to open their hearts
 
 I know someone who was abused as a child. I’ve heard how this individual is ridiculed by the rest of the family, but my friend doesn’t think that’s okay. They understand that sometimes people with a mean exterior are only trying to protect themselves after the trauma they’ve been through. If we all had the wisdom of this person, the world would be a much better place.
 
@@ -57,7 +57,5 @@ So the next time you see someone angry, just stop to think about the shield they
 ## Review
 
 I really liked the message that *A Return to Love* preaches. We really need less egoism and selfishness in our world and more kindness and selflessness. As someone who values being nice, I really appreciate the reminder that nice people *don’t* finish last.
-
-## Who it’s for
 
 The 33-year-old childhood abuse victim who is wanting to let go and forgive, the 19-year-old college freshman who is wondering how to find purpose in their career, and anyone who wants guidance on how to live their lives more peacefully and happily.

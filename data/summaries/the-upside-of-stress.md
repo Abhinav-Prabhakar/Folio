@@ -20,7 +20,7 @@ Let’s dig in!
 
 ## Lesson 1
 
-### Stress is only harmful to your health if you believe it is.
+### Stress is only harmful to your health if you believe it is
 
 The very first study quoted in the summary found that high levels of stress increased people’s chances of suffering a pre-mature death by 43%.
 
@@ -42,7 +42,7 @@ Even better news: You can learn to adopt this mindset!
 
 ## Lesson 2
 
-### The stress paradox says that happiness and stress belong together.
+### The stress paradox says that happiness and stress belong together
 
 Here’s the stress paradox in a nutshell: **Stress is always part of a happy life, which means a totally stress-free life cannot be a happy one**.
 
@@ -60,7 +60,7 @@ Just by remembering that happiness and stress go together like yin and yang you 
 
 ## Lesson 3
 
-### You can channel your stress into energy that boosts your performance.
+### You can channel your stress into energy that boosts your performance
 
 Which one do you think is the better thing to tell yourself before a presentation, “I am calm” or “I am excited”?
 
@@ -77,7 +77,5 @@ As someone who’s constantly stressed out about even minor things and just tryi
 I knew about the two kinds of stress, distress, which is bad, and eustress, which is good (the kind of stress when you’re positively excited about something), but I didn’t make the connection of turning one into the other.
 
 I think lesson 1 is the most intriguing here, and once again shows the incredible power of the mind over the body. I’ll try to improve my attitude towards stress and see it as a good thing that I get to do lots of work, since it’s work that’s meaningful to me.
-
-## Who it’s for
 
 The 14 year old high schooler, who’s worried about how she’ll do the first time she has to present something to the class, the 42 year old executive, who, in spite of liking his work, is afraid he might suffer from burnout, and anyone who spends their mornings rushing to work.

@@ -18,7 +18,7 @@ Want to find the motivation of your childhood again? I know I do, let’s go!
 
 ## Lesson 1
 
-### Both the carrot and the stick are dead – why extrinsic motivators don’t work.
+### Both the carrot and the stick are dead – why extrinsic motivators don’t work
 
 When the industrial age started, external rewards where all you needed to motivate workers. There was so much money to make, and such a great life to be lived, if only you had a little extra cash to pay for new conveniences, like TV, a radio, or pre-cooked dinners.
 
@@ -34,7 +34,7 @@ The more money is on the line, the worse it gets. Participants of a study tasked
 
 ## Lesson 2
 
-### Over time, extrinsic rewards destroy our inner drive.
+### Over time, extrinsic rewards destroy our inner drive
 
 But wait a minute…aren’t almost ALL jobs nowadays somewhat creative? Exactly! Of course this applies to developed countries more than to emerging ones, but eventually, we’ll all end up with jobs that require us to only work with information, people and creatively solve problems.
 
@@ -48,7 +48,7 @@ When kids are being asked to draw, once just to have fun, and once for a small r
 
 ## Lesson 3
 
-### Find a way to get into the zone at work, and you’ll be a lot happier.
+### Find a way to get into the zone at work, and you’ll be a lot happier
 
 No wonder then, that 70% of Americans either hate or don’t feel fulfilled at their job. But what to do about it?
 
@@ -63,7 +63,5 @@ Keep that in mind while looking for the next job, talking to your boss about wor
 In a short detour during writing this, I also watched Dan’s great TED talk about the subject. As I’m currently going through my own career finding process, motivation is becoming a huge question mark for me, and I want answers.
 
 If you happen to work in a carrot and stick model, and find yourself not happy with where you are, then I highly recommend you give *Drive* or its summary on Blinkist a go.
-
-## Who it’s for
 
 The 29 year old young professional, who slowly starts to see his interest in company benefits, like a car, better insurance, and end-of-year bonuses decline, the 42 year old working mum with a passion for painting, who somehow can’t work creatively anymore, since she started to sell her paintings, and anyone who struggles to find the time to work on something fun over the weekend.

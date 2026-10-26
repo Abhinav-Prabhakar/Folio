@@ -22,7 +22,7 @@ Let’s dive right into these ways that we can make the world a better place!
 
 ## Lesson 1
 
-### Women are just as valuable as men in society and shouldn’t be seen as second-class.
+### Women are just as valuable as men in society and shouldn’t be seen as second-class
 
 Even from the start of the Bible with Adam and Eve, we get an idea that women exist for men’s entertainment. And for most of human history, they have existed as the second sex. Wollstonecraft says that in order to have a fair society, this notion needs to change.
 
@@ -34,7 +34,7 @@ Women also need better representation within the government. When the government
 
 ## Lesson 2
 
-### Girls and boys should have equal educational and other opportunities.
+### Girls and boys should have equal educational and other opportunities
 
 What is the reason that girls aren’t able to do the same things as boys? Is it because of some sort of inferiority? Or is it because they are taught they aren’t equal, and this lesson is perpetuated their whole lives?
 
@@ -46,7 +46,7 @@ Girls are told to play with dolls indoors, while boys are encouraged to play out
 
 ## Lesson 3
 
-### Equality between men and women will improve relationships and society as a whole.
+### Equality between men and women will improve relationships and society as a whole
 
 The whole point of Wollstonecraft’s plea for women’s rights is not a call for women to overpower men. Rather, she teaches that when society gives women more rights, it is fairer and women can equally contribute to the world alongside men.
 
@@ -61,7 +61,5 @@ Better education would help women know breastfeeding is best for them and their 
 ## Review
 
 Although old, *A Vindication Of The Rights Of Woman* brings up some important equality issues. However, I also see that in the time since this books publishing, we’ve made great advances in this realm. We’re still not done making the improvements we ought to though, so these principles are valuable for all of us.
-
-## Who it’s for
 
 The 54-year-old man who thinks that his wife and the women in his office are inferior to him, the 24-year-old sociology major who wants to learn more about gender equality, and anyone who wants to help the way we treat and view women become more fair.

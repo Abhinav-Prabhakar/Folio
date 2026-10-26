@@ -20,7 +20,7 @@ Ready for a new approach to managing life? Rock’n’Roll!
 
 ## Lesson 1
 
-### Manage your energy, not your time.
+### Manage your energy, not your time
 
 Doesn’t it make sense to you instantly?
 
@@ -46,7 +46,7 @@ How did you feel after working for 8 hours straight the last time? How after pul
 
 ## Lesson 2
 
-### Keep an eye on all four sources of energy in your life.
+### Keep an eye on all four sources of energy in your life
 
 So what to do instead? Manage your energy!
 
@@ -66,7 +66,7 @@ Pay attention to these kinds of energy throughout your day and you’ll notice t
 
 ## Lesson 3
 
-### Accept your limitations.
+### Accept your limitations
 
 But Nik, how do I optimize all of these energy levels? This blog post is too short!
 
@@ -89,7 +89,5 @@ When I first came across this book I was a bit shocked, because it so closely re
 It is very detailed and provides several blinks to help you deal best with all of your energies, and wraps everything up nicely with some blinks about living a life of purpose and using habits to conserve energy.
 
 I highly recommend what Jim and Tony have put together. Blinkist allows you to get a good feel for the book, which you can then follow up with the whole thing. Unleash *The Power Of Full Engagement*.
-
-## Who it’s for
 
 The 28 year old marketing manager, who keeps cramming her day with tasks until she can hardly breathe, the 47 year old actor, who’s very proud of his work and often dismisses criticism, and anyone who’s never looked at all four energies simultaneously before.

@@ -20,7 +20,7 @@ If you feel lost in a sea of confusing success advice, here’s a more balanced 
 
 ## Lesson 1
 
-### How good your grades are only predicts one of your abilities, and it’s not one that matters in the real world.
+### How good your grades are only predicts one of your abilities, and it’s not one that matters in the real world
 
 Most people envy the guy or gal at high school graduation, who gets to give the commencement speech. These people, usually top of their year, are called valedictorians, and most of their fellow students expect them to do well for themselves later on. In reality, that’s rarely the case.
 
@@ -32,7 +32,7 @@ So, what *do* you need to succeed in the real world, then? Barker says it’s a 
 
 ## Lesson 2
 
-### Extroverts are likely to earn more, but it’s easier for introverts to become experts in their fields.
+### Extroverts are likely to earn more, but it’s easier for introverts to become experts in their fields
 
 Besides grades, the introvert vs. extrovert debate is a huge topic when it comes to personal success. Some argue that “your network is your net worth,” while others celebrate introverts’ capacities for single-tasking. So which one is it? As always, the answer is not so black and white.
 
@@ -44,7 +44,7 @@ Once again, what matters isn’t what’s better, but that you know who you are,
 
 ## Lesson 3
 
-### Working more works, there’s no denying that.
+### Working more works, there’s no denying that
 
 Like everyone, I have my ups and downs when it comes to work. For the past 18 months, I’ve worked a lot more than ever before. Naturally, I’ve gravitated towards telling people to work more, but not just because I see it working for myself. Work has been, and always will be, the one variable you fully control.
 
@@ -57,7 +57,5 @@ Whether this insight puts a ceiling on your productivity, because you have famil
 ## Review
 
 Eric’s take on success is very refreshing. *Barking Up The Wrong Tree* is not black and white, considers the latest research, weighs pros and cons, and then arrives at the golden middle. He’s dedicated to helping you do *your* best, not push his own definition of success, and you can feel that in his writing.
-
-## Who it’s for
 
 The 17 year old high school graduate, who just got done with the first stage of following people’s rules, the 42 year old sales manager, who’s frustrated by the success others have with networking, and anyone who’s used their lack of intelligence as an excuse not to try.

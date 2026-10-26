@@ -18,7 +18,7 @@ Alright, are you ready for the Feynman technique for fine learning? Let’s lear
 
 ## Lesson 1
 
-### Observation and understanding allow you to build your own analogies, which is when you learn the most.
+### Observation and understanding allow you to build your own analogies, which is when you learn the most
 
 The greatest minds are often bred by the greatest parents, which is definitely true for Richard Feynman. His father predicted that if he were to have a son, he would become a great scientist. But Melville Feynman didn’t stop at visualizing, he made sure his son would be equipped with all the mental tools he needed to make this dream come true.
 
@@ -28,7 +28,7 @@ Their focus always lay on observing and understanding, so Richard could build hi
 
 ## Lesson 2
 
-### Empathy is the bedrock of intelligence.
+### Empathy is the bedrock of intelligence
 
 In school, it quickly became clear that Richard was better in math than anyone else. He breezed through his exams and won competitions with ease, mostly thanks to his visualization abilities and empathy. In a competition, your path to the solution doesn’t matter, and so Richard often got a jump on everyone else.
 
@@ -40,7 +40,7 @@ This highlights another highly developed trait of Feynman: his empathy. He would
 
 ## Lesson 3
 
-### Figure out what you suck at and then maneuver around it as best as you can.
+### Figure out what you suck at and then maneuver around it as best as you can
 
 Nobody’s great at everything, and this sure was true for Richard Feynman too. In his studies at MIT he was confronted with many of his anti-passions, which included art history, English, philosophy and music. He claimed the last one even caused him “physical pain.” The second he realized he wasn’t interested in man-made constructs like language, discourse and art, he navigated around them.
 
@@ -53,7 +53,5 @@ That’s what geniuses do and who’s to say you’re not one?
 ## Review
 
 A lot of material you can find online about Feynman is tagged with lines like: “You might never have heard of this man.” It’s true. I didn’t know anything but his name before learning more from *Genius: The Life And Science Of Richard Feynman*. He’s a fascinating, shimmering character, and I look forward to finding out more. Go team Feynman!
-
-## Who it’s for
 
 The 16 year old math genius, who’s bored to death in school, the 33 year old theoretical physicist, who feels she’s right before a breakthrough, and anyone who loves science.

@@ -18,7 +18,7 @@ Let’s take a look at each one.
 
 ## Lesson 1
 
-### Don’t try to inspire, try to attract inspired people.
+### Don’t try to inspire, try to attract inspired people
 
 Here’s the story: Larry Page saw a Google page with really badly designed ads on it. He printed it out and pinned it on a board in the kitchen and wrote “THESE ADS SUCK” next to it **on a Friday evening**.
 
@@ -42,7 +42,7 @@ Google calls them smart creatives.
 
 ## Lesson 2
 
-### Let decisions take forever, but make sure everyone’s happy when they’re made.
+### Let decisions take forever, but make sure everyone’s happy when they’re made
 
 The only way to keep those smart, creative and inspired employees, is to **treat them as equals when making decisions**.
 
@@ -56,7 +56,7 @@ However, sometimes you do need a decision fast, which is why Google had **daily 
 
 ## Lesson 3
 
-### Give your employees room to be creative.
+### Give your employees room to be creative
 
 In yesterday’s Built To Last summary I hinted at the fact that Google’s 20% time, where employees get to spend 1 day per week on whatever fun little project they want, wasn’t their idea.
 
@@ -81,7 +81,5 @@ I first thought this was a boring summary, I’m not gonna lie. But then I looke
 Lesson 3 is a must of modern company-culture for me already, maybe because I’m a millennial, but lesson 1 was where it’s at. Contrast the ad story with Steve Jobs, talking hours about fonts, and you have a real game changer here.
 
 Nevertheless, I noticed that the index of the book mentions many curiously named rules and principles, and I’d love to see some of these names turn up on Blinkist – I guess that just means I’ll have to get a copy of *How Google Works*.
-
-## Who it’s for
 
 The 53 year old CEO of a small to medium sized business, which is stuck in its old ways, the 28 year old founder, who just found her own values and is about to start a business, and anyone who doesn’t make food at work a priority.

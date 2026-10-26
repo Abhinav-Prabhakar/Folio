@@ -20,7 +20,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Effective communication and reciprocation are the keys to setting healthy limits.
+### Effective communication and reciprocation are the keys to setting healthy limits
 
 You’ve probably heard that communication is the key to a healthy relationship. Therefore, it is essential to be open about our particularities with everyone around us. When we don’t do that, passive-aggressiveness and frustration start to build up.
 
@@ -32,7 +32,7 @@ However, you have to define the line between forgiveness and foolishness. Depend
 
 ## Lesson 2
 
-### Be firm about your limits by imposing consequences on those who overstep their bounds.
+### Be firm about your limits by imposing consequences on those who overstep their bounds
 
 Letting people know what your boundaries are it’s a great first step. Normally, you would want them to acknowledge your requests and act on them immediately. Unfortunately, your priorities are personal, so they might forget about them and go back to the old ways.
 
@@ -44,7 +44,7 @@ If you decide to end a relationship of any kind, you might feel remorse or sadne
 
 ## Lesson 3
 
-### Learn more about yourself by knowing what you accept and what you don’t from other people.
+### Learn more about yourself by knowing what you accept and what you don’t from other people
 
 Poor boundaries will make you absorb other people’s emotions and take them as your own. In contrast, rigid boundaries will make you cold and lonely in the eyes of those around you. That is why you have to reflect on yourself first and find out what are the right limits.
 
@@ -59,7 +59,5 @@ We have to first know ourselves before we can present that person to others. Fin
 The book connects with its readers instantly. It touches on a regular, yet sensitive topic. Setting boundaries shouldn’t feel as difficult as it does, and yet, people struggle to communicate with others about them.
 
 *Set Boundaries, Find Peace* will teach you how to respect people and create boundaries to make them respect you. It will make you realize your potential, claim the freedom you deserve, and form healthy attachments with others.
-
-## Who it’s for
 
 The person who finds it hard to say no, the couples who need to re-establish healthy communication, or the psychology enthusiast who is fascinated by human relationships.

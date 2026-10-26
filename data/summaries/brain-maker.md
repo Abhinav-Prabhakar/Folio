@@ -18,7 +18,7 @@ Lifestyle and diet choices are a real struggle – I know. However, after examin
 
 ## Lesson 1
 
-### People often underestimate the power of a healthy gut because they don’t know how many functions it’s responsible for.
+### People often underestimate the power of a healthy gut because they don’t know how many functions it’s responsible for
 
 The largest collection of microbes to ever inhabit a human body isn’t located in your colon, as one might expect. It isn’t located anywhere within the boundaries of your skin, either. This complex ecosystem is present in greater numbers within the gut.
 
@@ -33,7 +33,7 @@ An imbalanced microbiome sends signals to your brain, and because your brain doe
 
 ## Lesson 2
 
-### Fructose can seriously impact your overall health, which is a huge problem in the Western diet.
+### Fructose can seriously impact your overall health, which is a huge problem in the Western diet
 
 Advancements in our societies brought forth plenty of amazing discoveries, but also a series of changes in our lifestyle that are far from being considered ‘advancements’. Many of these changes occurred in the standard diet that people followed in the past.
 
@@ -47,7 +47,7 @@ However, in order to cause an inflammatory response in your body, you’ll have 
 
 ## Lesson 3
 
-### Antibiotics are harmful to our bodies, while fermented foods are health-boosting.
+### Antibiotics are harmful to our bodies, while fermented foods are health-boosting
 
 The discovery of antibiotics was a groundbreaking invention attributed to Alexander Flemming. Grace to his experiments, we now know how to fight bacteria and cure diseases that once killed people. However, nothing too good lasts forever, so with antibiotics’ popularity growth, other problems have come to the surface.
 
@@ -64,7 +64,5 @@ In other words, look for fermented foods like yogurt, sauerkraut, black tea, win
 You’ll learn about the negative effects of a Western diet, the correlation between the microbiome in your gut and the brain, and a handful of valuable tips and tricks that can improve your health.
 
 Most importantly, you’ll come across first-hand knowledge that can change your life right away, which makes this book a highly valuable piece to study.
-
-## Who it’s for
 
 The 40-year-old person who is overweight and wants to learn how to lose weight safely, the 30-year-old health-conscious person who wants to deepen their knowledge, or the 35-year-old person who constantly gets sick and wants to learn how to boost their immune system.

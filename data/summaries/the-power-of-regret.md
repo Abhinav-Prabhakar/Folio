@@ -16,11 +16,9 @@ Here are 3 lessons from this instant New York Times bestseller:
 
 Let’s learn how to make the most of our mistakes!
 
-### The Power of Regret Summary
-
 ## Lesson 1
 
-### There is unproductive regret and productive regret; one paralyzes, the other catalyzes.
+### There is unproductive regret and productive regret; one paralyzes, the other catalyzes
 
 When I was 16, I was in love with my best friend. For the better part of three years, I lamented countless of our interactions — but I also never told her how I actually felt. “Why didn’t I take her hand here? What if I had…?” According to Pink, the problem with all these regrets is not that I had them. It’s that I allowed them to remain unproductive.
 
@@ -37,7 +35,7 @@ So even years later, we can still turn unproductive regret into productive regre
 
 ## Lesson 2
 
-### Think of regret as only one “stock” in your emotional portfolio to better accept its presence in your life.
+### Think of regret as only one “stock” in your emotional portfolio to better accept its presence in your life
 
 You’ve heard it a million times: “No regrets!” It’s a slogan printed on t-shirts, the title of self-help books, and a YOLO-esque battle cry of friends on the prowl, usually followed by doing something stupid.
 
@@ -49,7 +47,7 @@ If you deny regret, you’ll also deny all the growth that can come from it. Ima
 
 ## Lesson 3
 
-### There are 3 good ways to handle regret: Undo it, “at least” it, or analyze and strategize.
+### There are 3 good ways to handle regret: Undo it, “at least” it, or analyze and strategize
 
 So, how can you turn a specific regret from unproductive into productive? Pink suggests 3 approaches:
 
@@ -64,7 +62,5 @@ To use this universal emotion to your benefit rather than detriment, the next ti
 ## Review
 
 *The Power of Regret* is a contrarian read in a positivity-focused industry, written by a positive person. While it forces us to open some scary doors, it ultimately brings us back to the uplifting spirits and trajectory we want to be in and on. Well done, Daniel Pink!
-
-## Who it’s for
 
 The 15-year-old teenager who had their first big falling out with one of her best friends, the 55-year-old teacher who regrets never traveling abroad, and anyone who has a discomforting feeling in their gut whenever someone yells “No regrets!”

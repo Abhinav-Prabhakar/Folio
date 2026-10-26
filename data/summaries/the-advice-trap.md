@@ -18,7 +18,7 @@ Grab your monster hunting gear and let’s discover how to take down our advice 
 
 ## Lesson 1
 
-### There are three personas of The Advice Monster to tame.
+### There are three personas of The Advice Monster to tame
 
 During Stanier’s childhood in Australia, he would often play dress up with his brothers. They could instantly change from being Superman to a train conductor.
 
@@ -36,7 +36,7 @@ Your Advice Monster’s last persona is **Control-It**, which tricks you into th
 
 ## Lesson 2
 
-### Practicing these skills becomes easier when you use the power of priming, repetition, and enjoyment.
+### Practicing these skills becomes easier when you use the power of priming, repetition, and enjoyment
 
 Alright, so we’ve got it all out there on the table and now it’s time to learn how to beat these monsters.
 
@@ -54,7 +54,7 @@ You can do this by asking the person how useful the advice you’ve given was fo
 
 ## Lesson 3
 
-### Use three skills to be generous when talking with others.
+### Use three skills to be generous when talking with others
 
 You might think of generosity as just giving stuff to people, but it’s much deeper than that. It really means having an attitude of open-heartedness and being willing to accept others and see the best in them and in the situation.
 
@@ -75,7 +75,5 @@ Appreciation is last and is one that we all need to be more generous with. This 
 ## Review
 
 Wow, what an amazing book!! *The Advice Trap* has got to be one of my new favorites, it’s tips are just what I needed because I’m the kind of person who gives too much advice. I love how actionable the suggestions it gives are, especially that it shares some really excellent ways to make practicing easier!
-
-## Who it’s for
 
 The 57-year-old who talks too much about themselves and never asks people questions about themselves, the 35-year-old coach that wants to learn how to communicate with their clients better, and anyone who chimes in to share advice without really trying to understand whenever someone around them mentions a problem.

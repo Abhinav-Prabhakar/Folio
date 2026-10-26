@@ -18,7 +18,7 @@ Our biggest human advantage is that we can simulate and learn from others, witho
 
 ## Lesson 1
 
-### Think of your productivity in terms of energy, time and attention.
+### Think of your productivity in terms of energy, time and attention
 
 The New York Times once called Tim Ferriss “a cross between Jack Welch and a Buddhist monk.” Chris suggests that’s exactly what you want to be. Neither as frantic and distraught as a Wall Street trader, nor as slow and perfectionist as a cleric.
 
@@ -34,7 +34,7 @@ Therefore, productivity becomes a mix of health, time management and designing y
 
 ## Lesson 2
 
-### The Rule of 3 could help organize your schedule.
+### The Rule of 3 could help organize your schedule
 
 In a book by a Microsoft executive called *Getting Results the Agile Way*, Chris found a way to chunk his goals into more achievable milestones. It’s called The Rule of 3 and prompts you to think in three time frames:
 
@@ -50,7 +50,7 @@ Pro tip: Adding a 50% time buffer is a great way to make sure you don’t overes
 
 ## Lesson 3
 
-### There’s a reason most businesses follow the 40-hour workweek.
+### There’s a reason most businesses follow the 40-hour workweek
 
 While in no means originating from scientific research, the 40-hour workweek actually happens to live up to academic scrutiny. In his experiments, Chris went all the way from 20 hours of work per week to 90 and found he accomplished more or less the same in both extremes.
 
@@ -63,7 +63,5 @@ Of course you have to find your own rhythm here, but the gist is: neither extrem
 The most important lesson I’ve learned so far about productivity is that it’s fluid. Don’t try to nail it to one standard. In the same sense, don’t pick up this book expecting the golden goose of getting things done. See it like Chris did: as a series of experiments. Pick which ones you want to run and which ones you want to skip, based on his experience.
 
 Don’t be afraid to keep revising and going back to this and other productivity books either. Chances are you’ll need a different system at a different time. With a take-what-works approach, *The Productivity Project* can make a valuable contribution to your work.
-
-## Who it’s for
 
 The 21 year old college student with enough time to optimize his productivity now, before his real career starts, the 42 year old product manager, who feels worn out from work and anyone who doesn’t like waking up early.

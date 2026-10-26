@@ -20,7 +20,7 @@ Let’s jump right in and get learning!
 
 ## Lesson 1
 
-### Arguments are an important part of being human, and they do everything from influencing our attitude to guiding our decisions.
+### Arguments are an important part of being human, and they do everything from influencing our attitude to guiding our decisions
 
 The art of argumentation, also known as *rhetoric*, is much more than a screaming match between two angry people. It traces back to ancient Greece and involves skills that help the arguer effectively persuade others.
 
@@ -32,7 +32,7 @@ What we can learn here is that coming into an argument just to win isn’t a goo
 
 ## Lesson 2
 
-### Identify core issues first to reach a cordial resolution.
+### Identify core issues first to reach a cordial resolution
 
 Have you ever been in an argument and there just seemed like there was no way out? The author teaches the reason arguments come to an end without a resolution is because the people arguing are debating two separate core issues.
 
@@ -48,7 +48,7 @@ Heinrichs says the easiest way to find a resolution is to ensure you are speakin
 
 ## Lesson 3
 
-### Figure out the shortcomings of your opponent’s argument to use to your advantage.
+### Figure out the shortcomings of your opponent’s argument to use to your advantage
 
 All of us can probably relate to being convinced of purchasing something against our better judgment by a slick salesman. Salespeople are effective because they use some of the most notorious rhetorical tricks out there.
 
@@ -65,7 +65,5 @@ For example, if someone reads about a plane crash and they say they won’t go o
 ## Review
 
 What a fantastic book. So many people would do a lot better in life if they just knew about and followed what *Thank You For Arguing* teaches. This has got to be one of the most influential books I’ve discovered about this subject and one that I’ll definitely come back to again and again.
-
-## Who it’s for
 
 The 47-year-old who spends too much time fighting with strangers on the internet, the 32-year-old couple that’s tired of their fights escalating, and anyone that wants less contention and more solutions in their lives.

@@ -22,7 +22,7 @@ Ready? Set? Write!!
 
 ## Lesson 1
 
-### Believe that you can write no matter how much discouragement you feel.
+### Believe that you can write no matter how much discouragement you feel
 
 When I began writing, I was really afraid of how I was doing. I even wrote about it multiple times. Reading back through those articles, they were awkward. But I’ve since discovered that great writers don’t care if they’re good or bad, they just write!
 
@@ -38,7 +38,7 @@ But you also must believe in what you’re typing. Nobody will believe in what y
 
 ## Lesson 2
 
-### If you want to become a great writer you must establish a daily writing routine.
+### If you want to become a great writer you must establish a daily writing routine
 
 If you think you’re going to have a writing career by doing it only when inspiration strikes, you’ve got a lot to learn.
 
@@ -54,7 +54,7 @@ There’s no secret to becoming successful at writing. Lamott says that she didn
 
 ## Lesson 3
 
-### You must find people to talk with about your writing if you want to be successful.
+### You must find people to talk with about your writing if you want to be successful
 
 So you’ve got your routine running smoothly and all is well. But there’s a lurking problem with stopping there. While it’s good to get away to finish a few chapters of your book, you must not fall for the trap of isolating yourself as a writer.
 
@@ -71,7 +71,5 @@ From experience, I know that if you believe in yourself and work hard, these opp
 ## Review
 
 Gosh, I learned so much from *Bird By Bird* that it was really difficult to just pick three lessons! I love being able to relate with successful writers on the writing journey. The advice that Lamot gives in this book is fantastic and really inspires me to keep going even through the tough times!
-
-## Who it’s for
 
 The 31-year-old who aspires to become a professional writer, the 52-year-old who is in a creative profession that wants some tips to become more efficient, and anyone that is curious if a writer’s life is the one for them.

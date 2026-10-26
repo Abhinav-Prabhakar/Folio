@@ -20,7 +20,7 @@ Let’s jump right into *The Lives of The Stoics*!
 
 ## Lesson 1
 
-### Stoicism began as a way to cope with life’s hardships.
+### Stoicism began as a way to cope with life’s hardships
 
 Though it’s now a giant in the world of philosophy, stoicism came from humble beginnings. It all started in the fourth century BCE when a man named Zeno had a devastating shipwreck in the Mediterranean. He made his living selling a rare purple dye, and when the ship came down, Zeno and his family lost everything.
 
@@ -34,7 +34,7 @@ Stoicism took its name after this simple porch. Perhaps it shows just how humble
 
 ## Lesson 2
 
-### Some leaders failed to practice what they preached when it came to Stoicism.
+### Some leaders failed to practice what they preached when it came to Stoicism
 
 Though the Ancient Roman leader Cicero wrote a book about Stoicism, he didn’t always live up to its ideals. He wasn’t born to a prominent family, but he was able to climb the ladder to Roman leadership at an impressive pace. Eventually, he made his way up to consul of Roman and the commander of the Roman army.
 
@@ -46,7 +46,7 @@ By the time he was done, thousands of people were killed, and it was a dark spot
 
 ## Lesson 3
 
-### The Roman emperor Marcus Aurelius led with Stoic compassion and humility.
+### The Roman emperor Marcus Aurelius led with Stoic compassion and humility
 
 Far too often, those with absolute power quickly become corrupt. But if there is one person who is an exception to this rule, it is Marcus Aurelius, the world’s first philosopher-king. Stoicism owes a lot to this great leader.
 
@@ -63,7 +63,5 @@ In the end, Marcus’s writings and way of leadership are arguably one of the mo
 ## Review
 
 I don’t love history, but I do like philosophy and stoicism, so *Lives of the Stoics* was pretty good. I mostly liked the parts where it focuses on the philosophy itself instead of just the facts, but at least it wasn’t just a historical dialogue. Ryan Holiday is a great author, though, and always has a way of making things interesting!
-
-## Who it’s for
 
 The 67-year-old who is inspired by stoic values, the 21-year-old who wants to be a better person and would love some motivation, and anybody who loves to learn about history.

@@ -18,11 +18,9 @@ Here are 3 of the things you can learn from it:
 
 Hit the pedal to the floor, we’re going in the fastlane!
 
-### The Millionaire Fastlane Summary
-
 ## Lesson 1
 
-### Wealth stands for 3 things, none of which is money.
+### Wealth stands for 3 things, none of which is money
 
 When you hear the word wealth you probably imagine Scrooge McDuck swimming around in his vast sea of gold coins.
 
@@ -44,7 +42,7 @@ Since you don’t have to trade your time for money any longer, you can now spen
 
 ## Lesson 2
 
-### Your income eventually can’t depend on your time any more.
+### Your income eventually can’t depend on your time any more
 
 Okay, but how do you stop trading your time for money?
 
@@ -60,7 +58,7 @@ Exit or not, that’s the way to become rich and retire young.
 
 ## Lesson 3
 
-### Start producing, stop consuming.
+### Start producing, stop consuming
 
 This one speaks right from my soul. Stop consuming, and start creating!
 
@@ -93,7 +91,5 @@ I really like MJ DeMarco’s message. It feels real, down to earth, and not blow
 He kept creating, producing, having fun and eventually reaped the rewards. If you’re looking for motivation, inspiration and a few good starting points for seizing control of your own life, *The Millionaire Fastlane* is a great start.
 
 It’s an entirely different mindset from The 4-Hour Workweek, but just as unconventional.
-
-## Who it’s for
 
 The 15 year old with a lot of free time, so she might have a chance to retire super early (before 30), the 32 year old store clerk, who loves the products he sells, but has never quite looked behind the curtain, and anyone loves Lamborghinis.

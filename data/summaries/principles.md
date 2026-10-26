@@ -18,11 +18,9 @@ Here are 3 lessons from this masterpiece:
 
 Are you ready to update your life’s compass so that it always points towards true North? Let’s discover some principles!
 
-### Principles Summary
-
 ## Lesson 1
 
-### Principles are the ultimate way of seeing the world as it truly is, not as you’d like it to be.
+### Principles are the ultimate way of seeing the world as it truly is, not as you’d like it to be
 
 If you asked Ray why he thinks having principles is important, this is the answer he’d give you: *“Principles are ways of successfully dealing with reality to get what you want out of life.”*
 
@@ -36,7 +34,7 @@ So, what you’re really doing when you begin to think about your own principles
 
 ## Lesson 2
 
-### Two of the most important principles are radical truthfulness and transparency.
+### Two of the most important principles are radical truthfulness and transparency
 
 While all of Ray’s principles have contributed to his success one way or the other, some have done so more than others. Here are two of his most important ones:
 
@@ -49,7 +47,7 @@ But how much more would your friends benefit if you honestly told them you think
 
 ## Lesson 3
 
-### The best companies are idea meritocracies.
+### The best companies are idea meritocracies
 
 Radical truthfulness and transparency enable what Ray calls an idea meritocracy. **An idea meritocracy is a place where the best ideas win**. Especially in entrepreneurship, this is key. The quicker you can separate the wheat from the chaff, the better. Execute only the best suggestions, and you’ll make progress faster.
 
@@ -62,7 +60,5 @@ That’s how Ray built a company whose actions are fundamentally grounded in rea
 ## Review
 
 So far, I’ve only gotten a glimpse of Ray’s work through his features around the web, some interviews, his TED talk, and some of his content. However, the minute I heard he had a book coming out, I put it on my Amazon wish list. The level of detail in *Principles* is staggering and I can’t wait to dig into this treasure chest of wisdom. Who knows, by the time you read this, I’ve probably already turned it upside down 😉
-
-## Who it’s for
 
 The 17 year old impulsive entrepreneur, who’s had some success, but now needs grounded reasoning, the 43 year old creative, who just suffered a major setback, and anyone who often swallows their concerns in order to “be nice.”

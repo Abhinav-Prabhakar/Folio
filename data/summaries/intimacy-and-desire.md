@@ -20,7 +20,7 @@ Here we go!
 
 ## Lesson 1
 
-### In each relationship, there will be a person who is a low desire partner and a person who is a high desire partner.
+### In each relationship, there will be a person who is a low desire partner and a person who is a high desire partner
 
 It’s common for people to believe that a good relationship won’t have any sexual desire problems. The author says that *every* committed relationship has these types of problems. This is because, in every relationship, there is both a high desire partner (HDP) and a low desire partner (LDP).
 
@@ -34,7 +34,7 @@ It’s common for couples in therapy to accuse each other of wanting too much se
 
 ## Lesson 2
 
-### As we get used to a relationship, sexual experimentation tends to slow down.
+### As we get used to a relationship, sexual experimentation tends to slow down
 
 You lay in bed, and your partner starts rubbing your shoulders. Right away, you know that they want sex because this has been their cue since the beginning of your relationship. So you get geared up to go through the motions.
 
@@ -48,7 +48,7 @@ There isn’t anything wrong with familiar sex. **But the problem is that when y
 
 ## Lesson 3
 
-### Make an effort to create a stronger collaborative alliance with your partner when it comes to sex.
+### Make an effort to create a stronger collaborative alliance with your partner when it comes to sex
 
 The secret to reawakening intimacy with your partner lies in creating a strong collaborative alliance. This is an agreement that you will work together on your relationship.
 
@@ -65,7 +65,5 @@ Building alliances can be hard at the beginning. But it’s all about working to
 ## Review
 
 I feel like a lot of what I learned from *Intimacy And Desire* should have been obvious to me way earlier in life. But it was nice to get that sort of “a-ha” moment to realize the truth to these ideas. And it was even better that this is all backed up by real-world experiences!
-
-## Who it’s for
 
 The newly-wed couple who is feeling kind of lost when it comes to sex, the husband and wife in their 40s that wonder why their sex life has stagnated, and anyone who wants to get smarter about intimacy.

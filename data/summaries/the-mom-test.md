@@ -50,6 +50,4 @@ Casual meetings are the go-to option of modern entrepreneurs who are looking to 
 
 *The Mom Test* steps in to help inexperienced entrepreneurs kick-start their journey in the business world by teaching them how to spot valuable insights in the market, find a niche, get the attention of investors, and know when it’s time to let go of an idea or keep pursuing it. By learning how to ask the right questions, you’ll tap into the hidden truths that lie in front of you and get the most out of your market research.
 
-## Who it’s for
-
 The Mom Test Summary can be recommended first to those 25-year-old people who want to start up a company. For those looking to learn valuable insights from the industry. Next, it is for the 30-year-old person who is looking to spot investors for his business idea but doesn’t know how to talk to them, or the 28-year-old person who has a business idea and doesn’t know how to spot fake versus real opinions from those around them.

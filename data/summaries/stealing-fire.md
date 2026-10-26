@@ -22,7 +22,7 @@ Now, let’s explore these lessons in detail!
 
 ## Lesson 1
 
-### Psychedelic substances trigger a state of consciousness in the human mind.
+### Psychedelic substances trigger a state of consciousness in the human mind
 
 Plants and different animal substances can have incredible effects on the body and mind. Nature offers many sources of natural medication for the body. And along with them, many other substances appear to have a hallucinogenic effect on humans after ingestion.
 
@@ -34,7 +34,7 @@ So far, the studies conducted on those who used these substances reveal that, wh
 
 ## Lesson 2
 
-### Non-ordinary states of mind can be achieved using the Hedonic Calendar and four sciences.
+### Non-ordinary states of mind can be achieved using the Hedonic Calendar and four sciences
 
 People have been exploring ways to alter their consciousness and enter states of ecstasis since their discoveries. As such, some found out that meditation can help reach a state of mindfulness and reduce stress. Consequently, neurobiology practitioners discovered transcranial magnetic stimulation, which can cure depression.
 
@@ -46,7 +46,7 @@ Sort out how frequently you want to do those activities. We’re talking about d
 
 ## Lesson 3
 
-### Technology can bring us close to a state of ecstasis and eliminate the risks associated with it.
+### Technology can bring us close to a state of ecstasis and eliminate the risks associated with it
 
 People have discovered their preferred ways of getting out of their minds and altering their consciousness. As a result, they tend to keep on repeating those things in hope of prolonging their ecstasis. More often than not, the things they use to reach those states of mind are dangerous for them and can do more damage than good.
 
@@ -61,7 +61,5 @@ Special devices can now deactivate certain parts of your brain and induce the ef
 ## Review
 
 *Stealing Fire* is an informative piece on a controversial, yet increasingly popular topic nowadays. The authors present the revolutionary discoveries behind achieving states of ecstasis in a simple, yet illuminating manner. Reading this book can help you find practices that will stimulate your consciousness, create an impaired flow of creativity, and escape reality for a bit.
-
-## Who it’s for
 
 The 25-year-old tech employee who is passionate about newer inventions, the 45-year-old psychologist who wants to explore non-ordinary therapies and coping systems, and the 30-year-old professional who feels burnt out and wants to find ways to free their mind.

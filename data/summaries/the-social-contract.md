@@ -20,7 +20,7 @@ Here are my three favorite ones:
 
 ## Lesson 1
 
-### A state is legitimate only when its citizens freely accept to live under the rules and policies that come with it.
+### A state is legitimate only when its citizens freely accept to live under the rules and policies that come with it
 
 Rousseau opens his book by criticizing the Europe of his day. He claims that people did not choose where to be born and if they wish to live under the rules and laws of their time and their states. Back then, states were absolute monarchies, and they held the power in their hands.
 
@@ -32,7 +32,7 @@ However, he rejected this presumption and proceeded to think about how leaders h
 
 ## Lesson 2
 
-### A legitimate state is characterized by the common will of the people.
+### A legitimate state is characterized by the common will of the people
 
 Rousseau insists on the idea that the sovereign, or the monarchs, should exercise their authority as an expression of the general will of the people. This is where the idea of the social contract originated from. Moreover, the people should be sovereign over the monarchs, and not the opposite.
 
@@ -44,7 +44,7 @@ For Rousseau, any state that applies these principles and represents its citizen
 
 ## Lesson 3
 
-### Popular assemblies are a good way to express the general will.
+### Popular assemblies are a good way to express the general will
 
 In a legitimate state, authoritative bodies split the power. The sovereign and the government have separate roles. The sovereign determines what is the law and the government is responsible for its application.
 
@@ -57,7 +57,5 @@ When people meet, they can discuss proposals, new laws, and their new objectives
 ## Review
 
 The political philosophy of Rousseau is an evergreen piece, being as actual today as it was almost three hundred years ago. The concepts presented in the book can empower any citizen to believe in democracy and expand their knowledge of the principles that created it. This book is a must-read for all of us, as it highlights the essential aspects of a free state, which all of us should know and implement in our daily lives.
-
-## Who it’s for
 
 The preoccupied citizen that wants to learn more about the politics of the democratic states, the person passionate about philosophy and history, or the student who wishes to expand their knowledge in these domains.

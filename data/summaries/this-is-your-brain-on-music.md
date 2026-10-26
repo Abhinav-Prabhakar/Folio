@@ -22,7 +22,7 @@ Ready to look at your brain on music? Let’s explore!
 
 ## Lesson 1
 
-### You could not take away music without changing the course of history, since it’s part of our evolution.
+### You could not take away music without changing the course of history, since it’s part of our evolution
 
 There’s a small minority of scientists that argues that music only serves hedonic purposes – it’s simply a byproduct of language and is only a pastime for us to feel pleasure. But that would mean that if you eliminated all music from the world right now, life would just go on as if nothing happened.
 
@@ -43,7 +43,7 @@ Looking at how musicians are idolized today and many are considered the sex symb
 
 ## Lesson 2
 
-### Music is all about expectations and how well you can predict what’s to come.
+### Music is all about expectations and how well you can predict what’s to come
 
 How much you like a song depends primarily on one thing: how well you can predict what comes next. Great musicians play with your brain and expectations in the way that they get you to expect something, and then surprise you, before taking you back to comfortable terrain.
 
@@ -57,7 +57,7 @@ However, it’s important as a composer to not overdo this, because it’ll wear
 
 ## Lesson 3
 
-### Each song you hear leaves an imprint in your brain, which is used for future reference.
+### Each song you hear leaves an imprint in your brain, which is used for future reference
 
 Memory is an incredible complicated thing, but music seems to have somehow cracked the code – songs are really easy for us to remember.
 
@@ -74,7 +74,5 @@ That’s how you can remember a childhood event from decades ago when you hear a
 Again, music is such a complex topic, yet it affects most people in this world somehow. Whether you’re just listening to music when you’re exposed to it, or wear your headphones every time you leave your house, learning more about music will give you a better understanding and make all your future listens better.
 
 *This Is Your Brain On Music* is the perfect place to start.
-
-## Who it’s for
 
 The 16 year old aspiring violinist, who’s sometimes frustrated with practice, the 54 year old classical music connoisseur, who enjoys sitting in his armchair and listening to the classics, and anyone who regularly walks around with headphones on outside.

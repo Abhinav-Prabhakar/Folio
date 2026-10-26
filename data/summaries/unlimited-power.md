@@ -20,7 +20,7 @@ Ready to unleash your inner reservoir of unlimited power? Here. We. Go!
 
 ## Lesson 1
 
-### Perform like the elite by modeling their behavior in 5 steps.
+### Perform like the elite by modeling their behavior in 5 steps
 
 Tony is a big fan of modeling. Basically, this comes down to looking at how the best of the best in any given field go about their work, and then trying to emulate it as best as possible.
 
@@ -32,13 +32,13 @@ What he did was to simply take the top performers, analyze how they thought, mov
 2. **Practice** imitating these movements.
 3. **Visualize** the top performer in perfect flow, excelling at their craft.
 4. **Imagine** *yourself* as that performer, executing it all perfectly.
-5. **Stepup** and go for it!
+5. **Step up** and go for it!
 
 This way, you’ll cut the learning curve short and reach a higher level of achievement much faster.
 
 ## Lesson 2
 
-### Look in the right direction to improve your memory and creativity.
+### Look in the right direction to improve your memory and creativity
 
 Yup, you read that right. **Where you look can change how creative or good at memorizing you are**. For example, can you think of a classic image of someone who’s thinking hard about something? Where do those person’s eyes go?
 
@@ -52,7 +52,7 @@ Crazy, huh?
 
 ## Lesson 3
 
-### Figure out your partner’s favorite way of communicating to show your love the right way.
+### Figure out your partner’s favorite way of communicating to show your love the right way
 
 When we’re in love, we all have different ways of expressing it. You might be the kind of person who constantly says “I love you,” or gives lots of compliments. Or, you’re a bit more like me, and love to write little notes, give gifts, and show your love that way.
 
@@ -71,7 +71,5 @@ Of course people can also be a combination of the two – so experiment with all
 ## Review
 
 *Unlimited Power* is a great starter’s book for people new in self-improvement. Not as wishy-washy as most of the newer books, covers all areas of life and is still rock solid. If you just recently got into personal development, give this a go!
-
-## Who it’s for
 
 The 22 year old Marine applicant, who hopes to get into the military soon, the 33 year old creative writer, who spends much of her time coming up with new ideas for articles, and anyone who feels like their partner sometimes doesn’t appreciate their compliments.

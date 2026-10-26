@@ -60,6 +60,4 @@ A stretch is a goal for the long run. Setting objectives in this area will have 
 
 *Die Empty* explores the beauty behind working purposefully, living a meaningful life, setting goals to achieve your potential and make it a habit to evaluate yourself on your way to success. This book will help you set your lifetime goal and mark the objectives in between, so that you end up with a step by step strategy for achieving your given purpose. By starting small, dreaming big, and learning to utilize the inner resources you’ve been given, you can build something remarkable, beat all odds, and die empty of all regrets that you could have.
 
-## Who it’s for
-
 The 30-year-old who wants to quit their 9-5 to chase their dreams, the 35-year-old entrepreneur who wants to create valuable products and leave a legacy behind, or the 28-year-old person who feels like they have a higher purpose but don’t know how to unlock their true potential.

@@ -4,7 +4,7 @@
 
 ## Overview
 
-Let’s make a bet. I would actually put money on this. At some point in your life, you have asked yourself a variation of the following question: “How can I be happy?” Whether it was “How can I be happi *er*?” or “How can I be happy *more often*?” or “How can I *go back to* being happy?” I’m very sure you’ve turned this over in your head at least a couple times.
+Let’s make a bet. I would actually put money on this. At some point in your life, you have asked yourself a variation of the following question: “How can I be happy?” Whether it was “How can I be happi*er*?” or “How can I be happy *more often*?” or “How can I *go back to* being happy?” I’m very sure you’ve turned this over in your head at least a couple times.
 
 Today’s book comes from the person you should direct this question to. He’s a founding father of happiness research and established the entire scientific field of positive psychology. His name is Martin Seligman. If you’ve heard the name before, it was likely in connection with a book called Learned Optimism (one of the first summaries on here, btw).
 
@@ -20,7 +20,7 @@ Are you done just floating along in the river of life? Then it’s time to flour
 
 ## Lesson 1
 
-### Make PERMA your model of choice to build your life after, if you want to live a fulfilled and happy life.
+### Make PERMA your model of choice to build your life after, if you want to live a fulfilled and happy life
 
 The model Martin Seligman built to completely represent a happy life with all its facets and components is predicated on five key pillars. Numbers 1, 2 and 4 have been agreed upon in their importance by psychologists for a long time, 3 and 5 have been identified through Seligman, his team and their work.
 
@@ -34,7 +34,7 @@ And there you have it – the PERMA model in a nutshell. Positive emotion, engag
 
 ## Lesson 2
 
-### Positive psychology exercises don’t have to be complicated to have a profound effect, like these two.
+### Positive psychology exercises don’t have to be complicated to have a profound effect, like these two
 
 Martin Seligman has the best and most positive feedback from his students about the exercises they’ve done in class. Many of them said that in spite of taking so little effort, they ended up changing their life. Here are two of them.
 
@@ -45,7 +45,7 @@ See? You don’t need to complicate it. Changing your life can happen one day, o
 
 ## Lesson 3
 
-### Success is based on more than intelligence, such as character traits, making IQ a bad way to measure it.
+### Success is based on more than intelligence, such as character traits, making IQ a bad way to measure it
 
 The accomplishment part from the PERMA model is the one where most people will pause for a second and think “but…” and then insert excuses. “But I’m not that smart.” “But I’m not that talented.” And so on.
 
@@ -63,7 +63,5 @@ Since IQ mainly tests the speed of thinking part, it’s not all that helpful in
 ## Review
 
 Wow, *Flourish* is an awesome book, a complete look at happiness, which includes all the things I thought of when designing my own happiness formula recently. Definitely a one-stop shop, go for it!
-
-## Who it’s for
 
 The 24 year old student, who used to be happy until she started college, but lost her positive energy along the way, the 45 year old teacher, who’s looking for something new to teach his kids, and anyone who thinks they don’t have what it takes to be successful.

@@ -40,7 +40,7 @@ Noam Chomsky argues that globalization allowed corporations to import from low-i
 
 Government spending on such families or poorer people lowered significantly. While the remaining budget helped support these companies in exchange for a place in their world. These tax cuts allowed corporations to grow richer but also pushed families into poverty.
 
-**For example, Chomsky says that in his view*“the income tax has been converted into a device for subsidizing the rich.*”** How come? Well, the entire system of taxation works for the high-income profiles, as the money keeps on being redistributed upwards.
+**For example, Chomsky says that in his view *“the income tax has been converted into a device for subsidizing the rich.*”** How come? Well, the entire system of taxation works for the high-income profiles, as the money keeps on being redistributed upwards.
 
 Simply put, the system taxes working people at a higher rate than it does corporations or wealthy individuals. Even more, government spending on families was reduced to help support these companies, all while the middle class shrank and the poor one grew.
 
@@ -69,7 +69,5 @@ The book argues that neoliberalism has been a major cause. With its principles o
 Reading it will open your eyes and widen your perspective of what’s going on behind the curtains. The so-called democratic superpower that America represents.
 
 I recommend reading this book if you find that the system is rigged. And if you’re ready to see the reasons behind it through a powerful, yet grey lens.
-
-## Who it’s for
 
 This book is recommended to the 30-year-old activist who wants to be informed about the affairs of their country. The 40-year-old electorate who wants to study the significant American problems up close. Or the 55-year-old sociology or economy professor who enjoys a great read in their field of study.

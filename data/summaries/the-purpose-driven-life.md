@@ -32,7 +32,7 @@ Ready to discover the true meaning of life? Let’s go!
 
 ## Lesson 1
 
-### If you let God into your life then you will find your purpose.
+### If you let God into your life then you will find your purpose
 
 We know that Warren teaches that God has five purposes for your life. But the overall reason for your existence, according to Christianity, is that God created you to serve Him. So what does that mean?
 
@@ -48,7 +48,7 @@ All of a sudden everything became clear. Walking out of the metro station and in
 
 ## Lesson 2
 
-### Live intentionally by building up other’s faith, but be careful to avoid envy, which tears apart unity.
+### Live intentionally by building up other’s faith, but be careful to avoid envy, which tears apart unity
 
 Christian missionaries have been spreading the word of Christ for centuries now. It’s not easy, but God wants you to share your beliefs too. It’s so important that the author considers it another of God’s purposes for your life.
 
@@ -66,7 +66,7 @@ Consider King Solomon’s teachings in Ecclesiastes 4:4. He declares “I observ
 
 ## Lesson 3
 
-### Combine your determination with a willingness to follow The Holy Spirit if you want to live a good life like Jesus did.
+### Combine your determination with a willingness to follow The Holy Spirit if you want to live a good life like Jesus did
 
 I think all people, regardless of what they think of Jesus Christ’s status as the Son of God is, would agree that He lived an exceptional life. Nobody would regret trying to become more like Him.
 
@@ -81,7 +81,5 @@ You also have to become proactively engaged in becoming a better person. Your ha
 ## Review
 
 I think everybody could use a higher purpose these days and would love to know what their own reason for existing is. But I don’t know that everyone is going to like *The Purpose Driven Life*. I could comment on my own faith here but I’ll just say that I’m a believer and even though I think of things a little differently than the author, I think that society could really use some Christian ideals right now.
-
-## Who it’s for
 
 The 35-year-old non-believer that wonders what Christians really believe, the 65-year-old man of faith that wants to learn how to be more purposeful in their practice of it, and anyone who wonders why they are here.

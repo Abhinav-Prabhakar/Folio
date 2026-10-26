@@ -18,7 +18,7 @@ Are you ready to dive into why our politics have become so divisive, and learn w
 
 ## Lesson 1
 
-### As humans, we crave dignity and recognition from others.
+### As humans, we crave dignity and recognition from others
 
 Remember the first time you got a certificate or medal for something? Maybe it was for sports, dancing, or a spelling bee. Do you remember how amazing you felt? Even as adults, we crave for recognition. It’s a natural part of being human, and even back in Ancient Greece, Socrates had a name for it: thymos. Thymos was a distinct part of our souls that longed for positive judgments from others about our dignity and worth.
 
@@ -28,7 +28,7 @@ Before gay marriage became legal in the United States, gay people could enter in
 
 ## Lesson 2
 
-### Identity politics have fractured the left and are contributing to a rise in nationalism.
+### Identity politics have fractured the left and are contributing to a rise in nationalism
 
 Dividing and conquering was an effective military strategy used by the British Empire when they were trying to colonize. They would encourage divisions internally within the colony to suppress resistance. The problem with identity politics in today’s world is that we get a similar effect. It has splintered the political left in recent times.
 
@@ -38,7 +38,7 @@ Instead of returning to broad equality, the political left we have today is spli
 
 ## Lesson 3
 
-### If we make more inclusive groups, we can improve the polarized situation of politics today.
+### If we make more inclusive groups, we can improve the polarized situation of politics today
 
 Okay, so everyone fighting for their own individual identity is making us all more polarized. But we can’t be expected to give up our identities, right?
 
@@ -49,7 +49,5 @@ He goes on to present ways we can create and reinforce national identity. First 
 ## Review
 
 I really enjoyed how *Identity* brings to light the reasons behind so much of the political mess we have today. There is a great fusion of philosophy, political science, and it’s easy to follow but occasionally dry. If you’re like me, you’ll find yourself coming to the realization that his ideas explain so much about why everything in our world suddenly seems so polarized. Though it comes off a bit pessimistic, it does give a welcome sense of urgency to fix the state of things today.
-
-## Who it’s for
 
 The 26-year-old who is curious about why the political left is struggling recently, the 30-year-old who enjoys philosophy and history, anyone who is wondering what the heck is going on with politics in the world right now.

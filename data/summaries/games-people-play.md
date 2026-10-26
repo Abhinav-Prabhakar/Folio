@@ -20,7 +20,7 @@ Want to play a game? Let’s jump right into these lessons and see what we can l
 
 ## Lesson 1
 
-### Parent, Adult, and Child are the three ego states that everybody can act within.
+### Parent, Adult, and Child are the three ego states that everybody can act within
 
 Even though it seems like humans behavior is pretty random, there are recurring behavioral patterns. As a psychiatrist, the author saw thousands of patients, and he found that each person fell into the category of one of three ego states: Child, Parent, or Adult.
 
@@ -32,7 +32,7 @@ Lastly, the Child is the pattern of behavior that we’re born with. This sponta
 
 ## Lesson 2
 
-### Depending on which ego state and what situation you’re in, you’ll play different games with other people.
+### Depending on which ego state and what situation you’re in, you’ll play different games with other people
 
 Whenever we interact with people, we are in one of these ego states, and the other person is in another. **Sometimes it might be obvious which state you’re operating in, but when it seems like you’re acting in one state but you aren’t, you’re playing a game.**
 
@@ -50,7 +50,7 @@ This benefits both because the psychotherapist gets to continue to be the Parent
 
 ## Lesson 3
 
-### If you can learn to live without playing games then you’ll become closer to the people you love.
+### If you can learn to live without playing games then you’ll become closer to the people you love
 
 After learning about games, you can see most of them are either harmful or pointless. So the way to a more fulfilling life would clearly be learning to live without them.
 
@@ -63,7 +63,5 @@ First, we need to understand the egos. By doing this we can recognize when we ar
 ## Review
 
 What a strange, interesting, insightful, and helpful book! *Games People Play* made me realize some things about human nature that I sort of always knew but hadn’t ever really thought about. If you liked this then you should go watch *The Imitation Game* because the main character is excellent at spotting and calling out the games people play!
-
-## Who it’s for
 
 The 37-year-old therapist who wants to know how to stop letting their ego get in the way of truly healing people for good, the 16-year-old who is tired of all the drama in school, and anyone that wants to become smarter about human nature than anyone around them and benefit from a life without relationship games.

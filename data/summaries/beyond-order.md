@@ -18,11 +18,9 @@ Here are the 3 of the most helpful lessons this book taught me:
 
 Ready for 12 more rules for life? I know I am. Let’s go!
 
-### Beyond Order Summary
-
 ## Lesson 1
 
-### Have a clear vision of who you want to become and then strive to be that person.
+### Have a clear vision of who you want to become and then strive to be that person
 
 Before modern science, there was an ancient art known as alchemy. Alchemists believed they could turn materia prima, or the primal element, into anything, even gold.
 
@@ -38,7 +36,7 @@ Next, confront the fears and chaotic psychological forces that hold you back. It
 
 ## Lesson 2
 
-### Make room for beauty in your life, even if it’s on a small scale.
+### Make room for beauty in your life, even if it’s on a small scale
 
 At the University of Toronto, where Peterson was a young professor, he found the faculty offices depressing. He decided that if he was going to spend so much time here, he was going to give the place a makeover.
 
@@ -56,7 +54,7 @@ It is more than just a decorative pleasure. Viewing compelling works of aestheti
 
 ## Lesson 3
 
-### Find ways to be grateful even when life is especially difficult.
+### Find ways to be grateful even when life is especially difficult
 
 Every single one of us is going to go through hard things. We’ll experience loss, misfortune, and misery of all kinds. But the truth of life is that good and bad can only exist in balance. We can only know happiness because we’ve seen misery.
 
@@ -71,7 +69,5 @@ Peterson teaches that in the moments when we experience suffering, it’s wise t
 ## Review
 
 Peterson knows his stuff, and *Beyond Order* has definitely inspired me. I learned a lot and would recommend it to anyone who likes self-help books.
-
-## Who it’s for
 
 The 35-year-old who is trying to get his life together, the 49-year-old who wants some solid advice on what direction to go next, and anyone who wants some reassurance that everything will be okay even if the world is a little bit crazy sometimes.

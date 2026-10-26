@@ -26,7 +26,7 @@ Let’s discover the way of nagomi!
 
 ## Lesson 1
 
-### Nagomi is a special kind of relaxed balance, rooted in a harmony of differing parts.
+### Nagomi is a special kind of relaxed balance, rooted in a harmony of differing parts
 
 Like many Japanese words, “nagomi” does not have an exact English translation. “Roughly, it means balance, comfort, and calm of the heart and mind,” Mogi writes. The balance could be one in the external world as well as an internal balance we cultivate. “Ultimately, nagomi is a state of human consciousness characterized by a sense of ease, emotional balance, well-being, and calmness,” Mogi explains.
 
@@ -38,7 +38,7 @@ Let’s see what that looks like on an everyday basis, shall we?
 
 ## Lesson 2
 
-### When it comes to food, nagomi is about mixing and matching both likely and unlikely ingredients.
+### When it comes to food, nagomi is about mixing and matching both likely and unlikely ingredients
 
 Japanese food is loved all around the world. One reason for that is that it’s rooted in nagomi. The idea shows up in Japanese cuisine in various ways.
 
@@ -54,7 +54,7 @@ Finally, nagomi isn’t limited to Japanese food. “‘Wayochu’ refers to the
 
 ## Lesson 3
 
-### You can express yourself creatively as an individual without clashing with the rest of society—that, too, is nagomi.
+### You can express yourself creatively as an individual without clashing with the rest of society—that, too, is nagomi
 
 In 1945, during World War II, a then 17-year-old Osamu Tezuka walked through the destroyed streets of Osaka. A kind family gave him three rice balls, which nourished him on his 18-kilometer walk home. That day, he decided he’d be a manga artist. Years later, Tezuka would revolutionize the world of Japan’s comic-equivalent, most notably with *Astro Boy*.
 

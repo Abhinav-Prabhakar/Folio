@@ -16,11 +16,9 @@ I won’t be able to portray the system in full detail here, but since that’s 
 
 Ready for productivity made simple? Let’s go!
 
-### Getting Things Done Summary
-
 ## Lesson 1
 
-### Use a “collection bucket” to store things outside your mind and stay focused.
+### Use a “collection bucket” to store things outside your mind and stay focused
 
 This one’s been a major game changer for me in 2015. There’s a reason it made #1 on this list.
 
@@ -48,7 +46,7 @@ Your brain will only get a feeling of relief from putting something in your coll
 
 ## Lesson 2
 
-### Create a “next actions” list for all your projects to avoid thinking in the moment.
+### Create a “next actions” list for all your projects to avoid thinking in the moment
 
 Here’s the major problem with to-do lists: They trick you into thinking you can know in advance how much you’ll be able to achieve.
 
@@ -97,7 +95,5 @@ I’m not sure if I’ll ever use the system in full, but I want to give it a go
 Other productivity systems, like The ONE Thing or The Power of Less appear to be a little more forgiving, but then again they’re probably also not as powerful.
 
 I do love GTD, otherwise I wouldn’t have written about it so much, and I highly recommend you check it out.
-
-## Who it’s for
 
 The 28 year old grad student, about to start her first day at the new job, the 45 year old executive, who needs a change in workplace organization, and anyone who’s ever felt behind on their to-do list.

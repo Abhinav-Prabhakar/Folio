@@ -16,11 +16,9 @@ Let’s see how my three favorite lessons from the book can help you achieve a m
 
 Let’s study these ideas in detail below!
 
-### The Courage to Be Happy Summary
-
 ## Lesson 1
 
-### Love is the key to becoming self-reliant and growing up healthily.
+### Love is the key to becoming self-reliant and growing up healthily
 
 Imagine a person who has been struggling with drug addiction or alcoholism. You might say that they need to stand up for themselves and fight their demons on their own—but what if you were the one who was struggling with those same demons? Wouldn’t it be nice if someone else was there for you?
 
@@ -32,7 +30,7 @@ To do so, they must accept that they will be independent adults that still recei
 
 ## Lesson 2
 
-### Avoid praising people for every good deed, as it can affect their emotional growth.
+### Avoid praising people for every good deed, as it can affect their emotional growth
 
 Do not praise someone for every good deed, including yourself. Praise can inhibit one’s growth, as it becomes a reward for good deeds. Moreover, when done in a group context, it creates a hierarchy of rewards. **By declining to create hierarchies through praise, educators can remove rivalry from the classroom.**
 
@@ -46,7 +44,7 @@ Oftentimes, people are simply curious and they’re exploring with no meaning to
 
 ## Lesson 3
 
-### Children mature well when we treat them with warmth, empathy, and equality.
+### Children mature well when we treat them with warmth, empathy, and equality
 
 Children need to feel the warmth and empathy of friendship, even when they’re still young. Our little bundles of joy naturally develop a sense of inferiority, as they live a life of dependency. They look up to us and see all the things we can do and they can’t.
 
@@ -65,7 +63,5 @@ Human beings are fascinating creatures who live a life of continuous learning. W
 We have different needs at different stages of our development. When we ignore these needs or treat them unequally, it can lead to insecurity, depression, and anxiety in the future. Luckily, we now know more about making sure that these negative feelings don’t develop.
 
 *The Courage to Be Happy* managed to break through the lenses of children and emotionally unhappy adults and bring forth a series of remarkable insights. Reading this book will bring you one step closer to connecting with your inner child and making sure that the children around you grow up in a safe space.
-
-## Who it’s for
 
 The 27-year-old soon-to-be parent, the 30-year-old school teacher, or the 29-year-old person who wants to learn more about childhood trauma and ways to overcome negative feelings in their life.

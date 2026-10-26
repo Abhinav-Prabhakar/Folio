@@ -8,7 +8,7 @@ My parents are big music lovers. I recall as a kid how my mom and dad wanted me 
 
 For a while, I went out of obligation only. Practice was always a chore, and I never had a passion for the instrument. Consequently, I wasn’t very good at playing the guitar and abandoned it altogether. I had to make my own path based on my particular interests.
 
-You know who else made their own way? Satya Nadella. In *Hit Refresh* *: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone*, he tells his story – and it can change our world.
+You know who else made their own way? Satya Nadella. In *Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone*, he tells his story – and it can change our world.
 
 Nadella was born in Hyderabad, India in 1967. His father tried to inspire him to become a great economist by hanging a poster of Karl Marx in his room. Similarly, his mother responded with a poster of the Indian goddess of fortune and prosperity.
 
@@ -24,7 +24,7 @@ Let’s take a closer look at how Satya Nadella charted his own trajectory in li
 
 ## Lesson 1
 
-### Nadella’s efforts teach that working hard consistently will reap great benefits.
+### Nadella’s efforts teach that working hard consistently will reap great benefits
 
 It was in the fall of 1992 when Satya Nadella first set foot on Microsoft’s campus in Redmond, Washington. Windows 95, the most prominent consumer technology product ever developed, was already a big deal. Bill Gates was still somewhat unknown at the time, at least as a public figure.
 
@@ -36,7 +36,7 @@ By 1994, Nadella completed the MBA and received his first managerial project ove
 
 ## Lesson 2
 
-### The greatest people put the needs and talents of their team above their own.
+### The greatest people put the needs and talents of their team above their own
 
 During Nadella’s career at Microsoft, his boyhood dream of becoming a professional cricket player continued to inspire him. His first rule is that whenever he feels intimidated, he knows it is time to compete.
 
@@ -50,7 +50,7 @@ Applying these three rules to the world beyond the cricket field is a good recip
 
 ## Lesson 3
 
-### In a world of fierce competition, those that learn to play well with their rivals come out on top.
+### In a world of fierce competition, those that learn to play well with their rivals come out on top
 
 It’s interesting to see how Nadella approaches the challenge of competitors like Apple. The typical business instinct is to show no mercy in a relentless winner-takes-all battle. Instead, he chooses a different path. He makes an effort to reach out to his rivals and work together.
 
@@ -63,7 +63,5 @@ Over time, suspicion and skepticism melted into something that looked more like 
 ## Review
 
 What’s not to love about a book tracing the journey of what appears to be an ordinary kid from humble beginnings, who one day takes technology to some of the most impactful revolutionary changes of the digital era? It’s not only about the transformation of a person, but the evolution of a company, an industry, and even a culture. *Hit Refresh* is a truly inspirational read!
-
-## Who it’s for
 
 The 33-year-old soccer coach who’s not sure how to handle his weakest player. The 41-year-old app developer who needs some fresh inspiration, and anyone who is tempted to succeed by beating the competition to a pulp.

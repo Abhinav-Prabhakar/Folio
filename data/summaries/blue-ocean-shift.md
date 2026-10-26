@@ -18,7 +18,7 @@ Are you ready to discover how to eliminate the competition? Let’s begin!
 
 ## Lesson 1
 
-### Learn the ways that new markets are created to get into your own blue ocean.
+### Learn the ways that new markets are created to get into your own blue ocean
 
 They key to finding a blue ocean is to create a new market. There are three types of strategies to do so:
 
@@ -36,11 +36,11 @@ In other words, you need to replace an existing product with a breakthrough, sol
 
 ## Lesson 2
 
-### New opportunities are hiding within the pain points that customers experience.
+### New opportunities are hiding within the pain points that customers experience
 
 Good businesses solve problems. To do that, you have to examine what makes it difficult for people to accomplish a task to uncover their pain points. A good blue ocean strategy takes a look at the hidden troubles customers might have. New opportunities lie within these mysteries, but how can you find them?
 
-**Using what the authors call a*buyer utility map*, you can see different areas that customers might struggle.** Imagine a table made of six rows and columns. Across the columns, you have the *buyer experience stages*:
+**Using what the authors call a *buyer utility map*, you can see different areas that customers might struggle.** Imagine a table made of six rows and columns. Across the columns, you have the *buyer experience stages*:
 
 1. Purchase
 2. Delivery
@@ -66,7 +66,7 @@ When you uncover the hidden struggles people have, you can change your offering 
 
 ## Lesson 3
 
-### The assumptions that businesses make when selling a product are another great place to discover blue oceans.
+### The assumptions that businesses make when selling a product are another great place to discover blue oceans
 
 Finding out what makes it hard for people to use your product is important. But what happens next is crucial to making the blue ocean ideology work best. You’ve got to go through the *four actions framework* by asking yourself a few more questions. These are:
 
@@ -86,7 +86,5 @@ To help hotel-stayers have the best experience, citizenM drastically improved th
 ## Review
 
 Wow, this book has some really clear and actionable marketing advice! I strongly believe the reason most businesses fail is because they don’t do the type of preparation that *Blue Ocean Shift* teaches you how to do. If you’re looking to up your marketing game, this is definitely a book for you!
-
-## Who it’s for
 
 The 54-year-old CEO who wants to set their company apart from the competition, the 28-year-old business owner that is looking to create a new product, and anyone who is entrepreneurially minded.

@@ -22,7 +22,7 @@ I know, these lessons don’t sound as if they’re bringing something new to th
 
 ## Lesson 1
 
-### Even seemingly negative characteristics of yours can help you advance in life.
+### Even seemingly negative characteristics of yours can help you advance in life
 
 There is a lot of unproductive thinking that goes on in the world. Most of us fall victim to it at one time or another. The first step in dealing with this problem is recognizing that we are not victims and that there are certain habits we can change if we want to stop being so negative.
 
@@ -34,7 +34,7 @@ Just like them, you too can use your ego to upgrade your spirit and change your 
 
 ## Lesson 2
 
-### Don’t think of the past as a future reference, and don’t let big projects scare you.
+### Don’t think of the past as a future reference, and don’t let big projects scare you
 
 The first thing you notice when you look at your past is where you stand in that situation. This comes naturally for our brain, as it’s one of the mechanisms we use to prepare for the future. We think that patterns are indicators, but the truth is that it doesn’t always work like that.
 
@@ -48,7 +48,7 @@ So, next time you have a bigger goal to target, think of it as a series of small
 
 ## Lesson 3
 
-### Clear up your thoughts and always clarify them with people when you have assumptions or misunderstandings.
+### Clear up your thoughts and always clarify them with people when you have assumptions or misunderstandings
 
 Our brain has a collection of unproductive thinking habits that get in the way of success. One thing that we do is get anchored in negative thinking habits, like biases and assumptions.
 
@@ -67,7 +67,5 @@ To move past these biases, always ask a person for clarification and try to look
 - How to recognize when someone else is engaging in loserthink
 
 The book manages to pull us out of this negative loop by pointing out these aspects and teaching us how to correct them.
-
-## Who it’s for
 
 The 24-year-old person who is dealing with negative self-talk, the 33-year-old person who is suffering from burnout from a job that doesn’t bring them happiness and wants to change their life, or the 40-year-old coach who wants to learn what to tell people to change their life.

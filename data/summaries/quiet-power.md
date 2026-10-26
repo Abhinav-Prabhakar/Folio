@@ -20,7 +20,7 @@ Shhh, I’m trying to read about the power of introverts! Let’s get right to i
 
 ## Lesson 1
 
-### Introverts think something is wrong with them because the world doesn’t understand them.
+### Introverts think something is wrong with them because the world doesn’t understand them
 
 First, let’s define what “introvert” means. We all live on a spectrum, and most of us are “ambiverts,” sometimes more introverted, sometimes outgoing. One primary characteristic of introverts, however, is that they have a rich inner life. **It doesn’t mean they don’t like being around others. Instead, they tend to look within themselves and like to be in quiet and safe environments to recharge.**
 
@@ -32,7 +32,7 @@ So if you’re an introvert, you don’t have to go on believing there is someth
 
 ## Lesson 2
 
-### If teachers want to connect with and help quiet students, they must be intentional about their teaching techniques.
+### If teachers want to connect with and help quiet students, they must be intentional about their teaching techniques
 
 Teachers often hold classroom discussions as a way to expose students to different points of view. While this can be good, it tends to put introverted kids at a disadvantage. **The expectation that everyone participates in class verbally ignores the fact that some good students might be afraid to voice their opinions in front of the class.**
 
@@ -46,7 +46,7 @@ One-on-one discussions are much more relaxed for introverts but still help them 
 
 ## Lesson 3
 
-### Use the power of friends, a quiet spot, and focus if you want to succeed as an introvert.
+### Use the power of friends, a quiet spot, and focus if you want to succeed as an introvert
 
 One of the most stressful things for an introvert is attending a crowded event with strangers. They can steer clear of things like this for the most part, but there are times when this is unavoidable.
 
@@ -63,7 +63,5 @@ Introversion is a gift, not a curse. Find a way that works for you, and use your
 ## Review
 
 *Quiet Power* is such a great book! I always knew that there was something powerful about my quiet side. I love that this had some really great science about introverts and that adds a lot of credibility to what it teaches.
-
-## Who it’s for
 
 The 71-year-old wife who doesn’t know why her husband doesn’t like being in social situations, the 24-year-old who thinks they’re broken because they are quiet, and anyone who considers themselves an introvert.

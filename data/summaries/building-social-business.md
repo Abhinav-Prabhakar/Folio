@@ -20,7 +20,7 @@ Get ready to change the world for the better, because you’re about to learn ho
 
 ## Lesson 1
 
-### Social Business is more about solving problems of today than becoming rich.
+### Social Business is more about solving problems of today than becoming rich
 
 The biggest distinction between a social business and a normal one is that it isn’t about getting as rich as possible. Normally, a company will pay investors as it becomes very profitable. **But instead, a social business will pay back investors only what they put in and the rest of the extra profit goes back into the company, helping it reach its social goal.**
 
@@ -32,7 +32,7 @@ An example of this is Grameen Bank of Bangladesh. It is run by the poor people a
 
 ## Lesson 2
 
-### To start your own social business, find a problem in society and make a good business plan.
+### To start your own social business, find a problem in society and make a good business plan
 
 What most people will tell you to do when you start a business is to find a problem and seek to fix it with your product or service. Your social business should do the same, but it should be looking to solve a social issue in the world today.
 
@@ -46,7 +46,7 @@ Your budget should show revenue that covers all costs and a rainy day. **The bot
 
 ## Lesson 3
 
-### Capitalism the way we have it is incomplete because it leaves people behind.
+### Capitalism the way we have it is incomplete because it leaves people behind
 
 After the emergence of new capitalism following World War II, people were much better off financially.
 
@@ -61,7 +61,5 @@ Yunus encourages us to see the great untapped potential at the bottom of the pyr
 ## Review
 
 What an exciting prospect! I love the principles that *Building Social Business* teaches and I’m excited about the idea of creating my own someday. I firmly believe that the true way to happiness in life is first securing your own well-being, and then focusing on uplifting others, just like this book teaches how to do.
-
-## Who it’s for
 
 The 56-year-old CEO of a for-profit company that feels unfulfilled and wants to find ways to make a bigger impact for good in the world, the 37-year-old politician that is looking for ways they can help businesses make a positive difference, and anyone that wants to make the world a better place.

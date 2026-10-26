@@ -16,11 +16,9 @@ Here are 3 lessons about what emotional intelligence is, why it’s so important
 
 Ready for an emotional education? The class is now in session!
 
-### Emotional Intelligence Summary
-
 ## Lesson 1
 
-### Emotional intelligence depends on your ability to be self-aware and self-regulate.
+### Emotional intelligence depends on your ability to be self-aware and self-regulate
 
 There are two parts to being emotionally intelligent. One is being *emotionally self-aware*. It simply means that **you’re able to recognize and label your feelings.**
 
@@ -36,7 +34,7 @@ Both of these qualities rely heavily on the neural connections between your rati
 
 ## Lesson 2
 
-### If you have a high EQ, you’re more likely to be successful and healthy.
+### If you have a high EQ, you’re more likely to be successful and healthy
 
 IQ, the level of your intelligence, is usually what we think determines success. But Goleman’s research led him to believe that EQ, emotional intelligence, is just as, if not more important, to find happiness.
 
@@ -50,7 +48,7 @@ Your health also highly depends on your EQ, because the more you have of it, the
 
 ## Lesson 3
 
-### You can boost your EQ by mirroring other people’s body language and thinking optimistically.
+### You can boost your EQ by mirroring other people’s body language and thinking optimistically
 
 Alright, Nik, that’s all good, but how can I improve my EQ then?
 
@@ -68,7 +66,5 @@ The second exercise helps you become an optimist. Optimistic people continue to 
 ## Review
 
 Do you know how many non-fiction books really have just one good point to make and then fill an extra 200 pages with additional information so they can actually publish it as a book? *Emotional Intelligence* is NOT like that. It’s super comprehensive. After first introducing you to emotions in general and why they matter, Goleman then explains the idea of EQ, what constitutes it, why it’s great and how to improve it. A definite recommend.
-
-## Who it’s for
 
 The 31 year old manager, who wants to be a leader in his organization, the 43 year old mother, whose child is just learning how to speak, and anyone who has never paid conscious attention to other people’s body language.

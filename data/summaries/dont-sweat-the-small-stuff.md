@@ -20,7 +20,7 @@ Want to calm down? Here we go.
 
 ## Lesson 1
 
-### Remember that your life isn’t an emergency.
+### Remember that your life isn’t an emergency
 
 Forget relaxation and happiness, right?
 
@@ -44,7 +44,7 @@ Quit the people pleasing and just do what’s good for you. There is no one to s
 
 ## Lesson 2
 
-### Give others a break, especially when they don’t deserve it.
+### Give others a break, especially when they don’t deserve it
 
 Did you ever have one of those days where people seem to just make your life harder on purpose?
 
@@ -70,7 +70,7 @@ Give others a break when they least deserve it. That’s when they need it the m
 
 ## Lesson 3
 
-### Don’t procrastinate on relaxing.
+### Don’t procrastinate on relaxing
 
 Go see my family over the weekend? I can do that next week.
 
@@ -101,7 +101,5 @@ Patience is grossly underestimated and this book and summary on Blinkist will he
 There’s a lot of life to be lived right now. Be sure you don’t miss it because you’re too busy working for something that might never happen.
 
 Double recommend!
-
-## Who it’s for
 
 The 22 year old, who’s in such a rush to go to work and make a lot of money, the 52 year old manager, who’s grown frustrated with the slow processes of everyday life, and anyone who puts off relaxing on a regular basis.

@@ -20,11 +20,9 @@ Here are 3 of the most powerful lessons I learned from the book:
 
 Ready to put pen to paper and fingers to keys? Let’s see what it takes to make it as a writer!
 
-### On Writing Summary
-
 ## Lesson 1
 
-### Treat rejection like a game, and play it until you succeed.
+### Treat rejection like a game, and play it until you succeed
 
 Stephen King’s journey is one of stubborn perseverance. Where he did get lucky was that his mother encouraged him to start writing at just six years old. She told him his first original story was good enough to be in a book, and she also paid him his first dollar for the next four ones he wrote. The early praise and earnings were pivotal in his life — but they were also the only ones he received.
 
@@ -36,7 +34,7 @@ It was only when he was 16 that he first heard the words, “This isn’t for us
 
 ## Lesson 2
 
-### Avoid adverbs and passive tense; they make your writing sound weak.
+### Avoid adverbs and passive tense; they make your writing sound weak
 
 As a budding writer, some of the easiest lessons to follow are the things you’re *not* supposed to do. Whatever you try might fail, but what you can avoid entirely helps a great deal. Two of King’s biggest pet peeves are adverbs and passive tense. Both weaken your writing and ultimately reveal a lack of confidence.
 
@@ -48,7 +46,7 @@ Writing means committing to a path of words you think works best to accomplish a
 
 ## Lesson 3
 
-### Read a lot, write a lot, and the rest will fall into place.
+### Read a lot, write a lot, and the rest will fall into place
 
 The most important part of achieving anything is to keep going, especially when that “thing” is an identity. You can’t call yourself a runner if you’re not running. Sooner or later, the label will feel cheesy and expire.
 
@@ -63,7 +61,5 @@ If you remember nothing else from Stephen King’s journey, make it this: Read a
 ## Review
 
 *On Writing* is a clever book. It draws you in with King’s personal story, then whacks you over the head with great writing advice. Should we have expected anything less from a man who’s been writing for 50 years? It’s a unique and rare way of combining story and instruction. Thumbs up for this one, a must-read for all writers.
-
-## Who it’s for
 
 The 9-year-old who prefers creating her own worlds in her room to going to school, the 39-year-old journalist who’s halfway through his novel, and anyone who hopes their writing might one day become a true career.

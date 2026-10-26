@@ -18,7 +18,7 @@ Here are the most important lessons from this book:
 
 ## Lesson 1
 
-### Be authentic in your leadership style and focus on your strengths.
+### Be authentic in your leadership style and focus on your strengths
 
 Many of us have a specific person that pops into our head when we think about examples of leaders. It could be the president, an army general, or an activist that is a factor of change in our world. Role models can help us set a direction for ourselves and aspire for better. However, it is best if we find a leadership style of our own.
 
@@ -30,7 +30,7 @@ There is no right or wrong way of being a leader. The most important thing is ho
 
 ## Lesson 2
 
-### Establishing a common goal can be a great motivator for a team.
+### Establishing a common goal can be a great motivator for a team
 
 A true leader must possess the ability to inspire their team to go in a particular direction. Without one, it’s easy to lose focus and unity. Therefore, the first thing a leader should do is establish their team’s purpose and how to achieve it. Once people have a common goal to fight for, the feelings of connectivity and belonging will follow.
 
@@ -42,7 +42,7 @@ Take the example of Nelson Mandela, Thomas Jefferson, or even personalities from
 
 ## Lesson 3
 
-### A good leader accepts different perspectives and knows when to listen.
+### A good leader accepts different perspectives and knows when to listen
 
 One of the distinctive characteristics of a leader is empathy. Without it, one cannot link, mobilize, and truly understand their people. With it, seeing things from the other person’s perspective feels natural. Therefore, when tough situations occur, you can help ease the burden and pave the way for the person next to you. People will appreciate those who are understanding in times of need.
 
@@ -55,7 +55,5 @@ Lastly, always keep in mind that listening is the best form of communication. Pe
 ## Review
 
 *The Leader in You* is an evergreen piece of writing that can help you become the leader of tomorrow by understanding how human relations work. Carnegie’s life lessons have passed the test of time over and over again, proving to be universal truths. His invaluable insights on society, human psychology, and his success formula are a must-read, as they can inspire any individual to turn their life around and adopt a winning mentality.
-
-## Who it’s for
 
 The leader or business executive who wants to enhance their leadership skills, the person who wants to improve their communication with others, or someone looking to change their life for the better and adopt a proactive mindset.

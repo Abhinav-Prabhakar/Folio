@@ -18,7 +18,7 @@ Are you ready to get a crash course on how the ultra-wealthy pay less taxes than
 
 ## Lesson 1
 
-### If you’ve got a lot of money, you may consider hiding it in accounts outside of your country.
+### If you’ve got a lot of money, you may consider hiding it in accounts outside of your country
 
 Say you’ve just embezzled millions from your country and you’re looking for a place to hide it. The bank might come to your mind, but only amateurs use those. And while your next idea might be putting it under your mattress, that’s not a good idea either.
 
@@ -34,7 +34,7 @@ Skuratov took this information public and soon was getting backlash. Footage cam
 
 ## Lesson 2
 
-### National borders are no restriction for the far-reaching grips of the rule of the rich.
+### National borders are no restriction for the far-reaching grips of the rule of the rich
 
 You might be tempted to think that if your country is relatively corruption-free that you’d be safe from the issues this book describes. If you’re English, for example, you might have faith that your country’s system protects against illicit happenings like this.
 
@@ -52,7 +52,7 @@ And although this might seem like an isolated incident, sadly, it isn’t. Many 
 
 ## Lesson 3
 
-### The United States is home to a few tax havens itself.
+### The United States is home to a few tax havens itself
 
 A few years ago I lived on the Isle of Man in the United Kingdom for six months. Everybody told me that it was a “tax haven.” I had no idea what that meant but it makes more sense now that I understand taxes a little better.
 
@@ -71,7 +71,5 @@ They’re so secure that not one person has ever extracted funds from a Nevada t
 ## Review
 
 The fact that billionaires profit, while large portions of the world go hungry, is sickening. I wish I could do something to change the awful greed that *Moneyland* reveals, but the reality is it’s a complex issue. The best we can hope for is that everybody will try to be kind and generous to those around them and just make sure that we each do that ourselves.
-
-## Who it’s for
 
 The 57-year-old billionaire that doesn’t realize what a stain their greed is to their name, the 34-year-old with a career in finance, and anyone that wants to know more about how the rich get richer by avoiding taxes.

@@ -18,7 +18,7 @@ Do you want to know if you’re going to be employable in 50 years? Let’s find
 
 ## Lesson 1
 
-### Nearly everything in our world is on the verge of succumbing to automation due to great breakthroughs in deep learning.
+### Nearly everything in our world is on the verge of succumbing to automation due to great breakthroughs in deep learning
 
 Many years ago the idea of artificial intelligence was mere science fiction. But we’re long past that point. All of us wonder where the technology is heading and what it will change about our lives.
 
@@ -32,7 +32,7 @@ Rule-based folks thought to teach machines one law at a time. Those on the neura
 
 ## Lesson 2
 
-### Authorities and experts are largely divided on the future that AI will bring for humanity.
+### Authorities and experts are largely divided on the future that AI will bring for humanity
 
 So, will AI bring a prosperous future, or will it mean the destruction of mankind? While the idea of Terminator robots taking over isn’t realistic, many of us do wonder if we’ll be able to hold a job when AI can do it for us.
 
@@ -40,13 +40,13 @@ Experts like Ray Kurzweil believe that machines are the tool that can finally up
 
 On the other side, however, we’ve got Elon Musk and Stephen Hawking. These two and others in their camp see AI as a threat to our species. You might get a computer to provide a solution to global warming, but what happens when part of that is the eradication of humans from the planet?
 
-Economically there’s a great divide as well. **This mostly comes froma 2013 Oxford studythat declared 47% of US jobs are at risk of automation.** As companies want to cut costs and boost profits, letting computers do as many tasks as possible becomes pretty appealing.
+Economically there’s a great divide as well. **This mostly comes from a 2013 Oxford study that declared 47% of US jobs are at risk of automation.** As companies want to cut costs and boost profits, letting computers do as many tasks as possible becomes pretty appealing.
 
 Don’t panic yet, though. Other research indicates that tasks will be automated but not entire jobs. Some studies put the estimate of jobs at risk as much lower. The truth is, we are doing the research and learning more every day.
 
 ## Lesson 3
 
-### There is at least one significant quality of humans that sets us apart from computers and gives us irreplaceable advantages over them.
+### There is at least one significant quality of humans that sets us apart from computers and gives us irreplaceable advantages over them
 
 Lee’s life changed after a diagnosis of stage IV lymphoma in 2013. Previously a workaholic, his illness made him see the importance of his relationships. These are what really matter and give our lives meaning, and thankfully they are also what set us apart from AI.
 
@@ -61,7 +61,5 @@ For this to work best it might require taxing the wealthy to make a universal ba
 ## Review
 
 *AI Superpowers* is a really interesting book that I think everyone should at least know the major points of. I’ve always wondered if my job will be replaced by automation as I’m sure many people do. I’m glad to learn a little about what the future may hold so I can know how to prepare if that does happen.
-
-## Who it’s for
 
 The 53-year-old who loves learning about the future of society, the 23-year-old that feels uncertain about computers replacing their job, and anyone who wants to know about the current state of artificial intelligence.

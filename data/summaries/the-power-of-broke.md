@@ -20,7 +20,7 @@ Trust me, you don’t need money to make money. If you don’t believe it, after
 
 ## Lesson 1
 
-### Being broke allows you to find resources others can’t see.
+### Being broke allows you to find resources others can’t see
 
 Gary Vaynerchuk often talks about wishing everybody was an immigrant and it’s because as an immigrant, your default setting is that you have to prove yourself. You’re looking for opportunity where other people see only problems. Well, being broke is similar to being an immigrant.
 
@@ -36,7 +36,7 @@ When passion, creativity and authenticity are all you’ve got, you’ll use the
 
 ## Lesson 2
 
-### The power of broke isn’t reserved for startups, it’s helpful in all four stages of business growth.
+### The power of broke isn’t reserved for startups, it’s helpful in all four stages of business growth
 
 The power of being broke isn’t limited to when you’re starting. Daymond says there are four stages in a business’s journey to success and it’s helpful in all four.
 
@@ -49,7 +49,7 @@ You see, no matter where you are in your journey, the creativity of a broke begi
 
 ## Lesson 3
 
-### There’s no better time than to start using the power of broke than now, because running a business gets cheaper and cheaper.
+### There’s no better time than to start using the power of broke than now, because running a business gets cheaper and cheaper
 
 Every single day new technologies are released by the millions. A lot of them, especially software, are free. Product Hunt alone gives you access to thousands of tools you can use. Maintaining a website is cheap. Blogging is free on a platform like Medium.
 
@@ -64,7 +64,5 @@ Never was this more true than now, so get out there and embrace it.
 ## Review
 
 *The Power Of Broke* holds a very singular and focused message: being broke is an advantage. Nonetheless, there are many more built around it, which are hidden inside the stories Daymond tells. Definitely worth your attention!
-
-## Who it’s for
 
 The 17 year old with 10,000 Instagram followers, who could start selling t-shirts tomorrow, the 33 year old secretary, who’s been waiting for “the right opportunity” to launch her fashion brand for five years now, and anyone who hates being broke.

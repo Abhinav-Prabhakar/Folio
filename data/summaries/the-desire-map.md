@@ -20,7 +20,7 @@ Ready for a goal-setting makeover? Here we go!
 
 ## Lesson 1
 
-### Desiring something makes you more creative.
+### Desiring something makes you more creative
 
 Danielle says desire is the driving force behind life. Chances are, when you hear the word desire, the first thing you think about is our animalistic sex drive, but desire goes *way* beyond that. Apart from getting you out of bed in the morning, because you crave human connection, food, love and achievement, and forcing you to tackle your fears, desire also makes you more creative.
 
@@ -32,7 +32,7 @@ So when you use desire as your foundation for setting goals, you’re preparing 
 
 ## Lesson 2
 
-### Feelings are just as true as facts – even if it’s just for you.
+### Feelings are just as true as facts – even if it’s just for you
 
 We usually try to make decisions based on facts, not feelings. We think basing our choices on what’s true for everyone, we end up with better results, but in most cases, that’s not true. Actually, choosing to ignore our feelings is sort of a way of ignoring truth.
 
@@ -46,7 +46,7 @@ But no matter what your boss tells you, you should never ignore what your “cor
 
 ## Lesson 3
 
-### Goals that you dread chasing aren’t worth achieving in the first place.
+### Goals that you dread chasing aren’t worth achieving in the first place
 
 Danielle used to set goals like a lot of driven people do nowadays. “I’m going to make $100,000 this year.” or “I’ll publish my book by October 15th next year.” But those hard numbers only sapped her energy and put her in a constant state of stress and worry about hitting the deadline.
 
@@ -63,7 +63,5 @@ This summary was a bit short to get a really good idea of the book, but it does 
 However, the book is really where the juice is at in this case, since it has all kinds of quizzes, worksheets and exercises included, to help you figure out your core desired feelings and successfully flip the switch from facts to feelings.
 
 70% of Danielle’s audience are women, but guys can learn just as much from her. I sure can relate to the ideas in *The Desire Map*.
-
-## Who it’s for
 
 The 17 year old girl in a conservative family, whose life has so far been primarily dictated by what her parents think is what’s best for her, the 48 year old consultant, who keeps chasing and succeeding in reaching very tangible, quantifiable goals, but never feels happy about it, and anyone who obsessively keeps checking their blog’s traffic stats.

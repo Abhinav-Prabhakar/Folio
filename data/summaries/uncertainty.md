@@ -18,7 +18,7 @@ Ready for the uncertain coming your way? We’ll find out!
 
 ## Lesson 1
 
-### Embrace uncertainty, for it’s the root of innovation.
+### Embrace uncertainty, for it’s the root of innovation
 
 Why aren’t most people millionaires? Really, the internet killed our last excuses not to be, didn’t it? The reason most people will remain average, with an average job, average house and average life, is not because of a lack of options.
 
@@ -34,7 +34,7 @@ But there are of course ways to help you steer the course as the waves get unpre
 
 ## Lesson 2
 
-### Use rituals and routine to anchor yourself in uncertain times.
+### Use rituals and routine to anchor yourself in uncertain times
 
 Usually, we react to pressure by throwing our habits out the window. Jonathan Fields says that’s exactly the wrong move, because as uncertainty gets bigger, **routines anchor us and give us something reliable to hold on to**.
 
@@ -50,7 +50,7 @@ If you have plenty of writing ideas, for example, but find it tough to sit down 
 
 ## Lesson 3
 
-### Handle your worst fears with three simple questions.
+### Handle your worst fears with three simple questions
 
 No matter what, fear will always be a part of your life. You will have to deal with it again and again. And sometimes, it’s going to get really paralyzing. For example when you have to decide if you should really spend your last $10,000 in savings on a container full of scrap metal, which might be your only chance to turn a profit and get the money to open that orange farm you dream of, your fear of failure could make it impossible to decide.
 
@@ -71,7 +71,5 @@ These will teach you to be realistic, yet stay optimistic at the same time and n
 Reminded me a bit of *Antifragile,* which makes both of these books address a niche, but crucial topic, because uncertainty is only going to get bigger over the next decades. Everything grows and evolves faster. Startups rack up billion dollar evaluations in less than a decade, the stock market cycles become shorter and volatility goes through the roof and no one can predict what next climatic catastrophe mother nature will throw at us and when.
 
 If you’re looking for a book to make you future-proof, this is it.
-
-## Who it’s for
 
 The 17 year old with a cool idea, but no money to start it with, the 31 year old freelance developer, who often pulls all nighters to deliver on time, and anyone who feels they take too long to make important decisions.

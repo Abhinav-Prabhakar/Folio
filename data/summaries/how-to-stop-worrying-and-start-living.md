@@ -16,11 +16,9 @@ Here are my 3 favorite lessons:
 
 Ready to let go of your worries so you can start focusing on doing your best today? Let’s see what Dale’s got up his sleeve!
 
-### How To Stop Worrying And Start Living Summary
-
 ## Lesson 1
 
-### Clear confusion with a 3-step approach and you’ll eliminate the worry it causes.
+### Clear confusion with a 3-step approach and you’ll eliminate the worry it causes
 
 When you’re worried you’re not busy doing things, but since taking action is the only thing that can improve your situation, every minute spent worrying is a minute that doesn’t make your life better.
 
@@ -40,7 +38,7 @@ There’s nothing like some good old common sense to disarm your worries.
 
 ## Lesson 2
 
-### Put a stop-loss on the things in your life that cause you stress, grief and anxiety.
+### Put a stop-loss on the things in your life that cause you stress, grief and anxiety
 
 One thing that’s crucial when applying the above strategy is timing. If you spend all of your time analyzing the facts and trying to make a decision, until the thing you’re worried about actually happens, you won’t have won much.
 
@@ -52,7 +50,7 @@ This can be a time-limit or a general rule, like Hal Elrod’s 5-minute rule or 
 
 ## Lesson 3
 
-### Think of criticism as compliments, instead of obsessing about negative feedback.
+### Think of criticism as compliments, instead of obsessing about negative feedback
 
 Critical thinking is important. Feedback is an essential part of doing great work. However, not all criticism is constructive. You have to be careful in deciding who to listen to, and who to ignore.
 
@@ -65,7 +63,5 @@ So hear their comments, nod, thank them, take it as indication you’re on the r
 ## Review
 
 One thing I liked in particular as I was reading the blinks for *How To Stop Worrying And Start Living* is that Dale backed up every single one of his tactics with a specific example of someone who applied it to reduce their worry. That made them more actionable. I could’ve easily shared three more, so I highly recommend you check out the blinks to get the full pool of ideas. Simple, straightforward, and useful, thumbs up!
-
-## Who it’s for
 
 The 24 year old startup founder, who’s worried about the next round of investor pitches every night, the 55 year old who knows her marriage isn’t making her happy any more, and anyone who obsesses about criticism.

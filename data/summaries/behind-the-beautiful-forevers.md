@@ -20,7 +20,7 @@ Let’s jump right in!
 
 ## Lesson 1
 
-### Life in the Annawadi slums is dangerous, and they live without basic human rights.
+### Life in the Annawadi slums is dangerous, and they live without basic human rights
 
 Danger is everywhere in these areas. This comes in the form of diseases, violence, and lack of protection from police, among other things.
 
@@ -34,7 +34,7 @@ When a 15-year-old boy is killed, everyone around can see it was plainly murder.
 
 ## Lesson 2
 
-### Bribes are needed for almost everything because the people live among corruption.
+### Bribes are needed for almost everything because the people live among corruption
 
 Corruption is also everywhere.
 
@@ -48,7 +48,7 @@ The people know the police will only help them with bribes. When one of the resi
 
 ## Lesson 3
 
-### Annawadians dream of a better life, but one small setback can devastate all they have worked for.
+### Annawadians dream of a better life, but one small setback can devastate all they have worked for
 
 We hear the story of the Husain family, who has hopes and dreams of one day leaving the slum. Through their garbage business, they are able to scrape together enough money to put a deposit down for a plot to build on a legal settlement.
 
@@ -63,7 +63,5 @@ The odds seem to be stacked against them, and very few can escape. Boo tells us,
 ## Review
 
 It sounds cliche, but reading a book like *Behind The Beautiful Forevers* truly changes your perspective on life. We complain of things like inequality and pollution, which are important, but that pale in comparison to what these people are dealing with everyday. Still, this one will leave you feeling inspired by their stories and their plight.
-
-## Who it’s for
 
 The 48-year-old who enjoyed the movie Slumdog Millionaire, the 22-year-old who is sick of the corruption in the world and wants some motivation to find out how to make a difference, and anyone that wants some reasons to be more grateful for what they have.

@@ -20,7 +20,7 @@ Ready for an energizing discussion on this important piece of your life? Let’s
 
 ## Lesson 1
 
-### We have a lot of different definitions of energy, all of which are important.
+### We have a lot of different definitions of energy, all of which are important
 
 How we speak when referring to energy shows us that we’re not certain what it actually means. We use phrases like “he really energized the audience with that speech,” for example. Or if someone is training for a triathlon they might feel energized after a swim.
 
@@ -38,7 +38,7 @@ Although energy is a complex idea, it’s been an important part of our history.
 
 ## Lesson 2
 
-### This precious resource is a key component to the survival of everything on our planet.
+### This precious resource is a key component to the survival of everything on our planet
 
 Everything the light touches has to have energy to survive. Well, living things, at least. It doesn’t matter if it’s your power-hungry uncle or a lion on an African savanna. Without energy, it will die. Let’s dive deeper into how this works.
 
@@ -54,7 +54,7 @@ And not everything uses energy in the same way. Younger creatures use more than 
 
 ## Lesson 3
 
-### Our future is bright as long as we look to and begin using renewable sources of energy to sustain us.
+### Our future is bright as long as we look to and begin using renewable sources of energy to sustain us
 
 While we can’t accurately predict what’s going to happen for our energy consumption, we do know where we need to go. As the demand for it grows, the need to handle it appropriately will increase also.
 
@@ -71,7 +71,5 @@ And that’s not to say that better options than this might be developed in the 
 ## Review
 
 Wow, what an interesting book! *Energy* is definitely the type of science book that I like to read and I learned a lot from it. I had no idea there was so much to this hugely important aspect of our lives!
-
-## Who it’s for
 
 The 56-year-old that denies climate change, the 25-year-old who likes to read about physics, and anybody that’s curious to know what really makes the world go ‘round.

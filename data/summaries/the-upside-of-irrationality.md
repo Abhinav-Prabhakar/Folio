@@ -20,7 +20,7 @@ Are you ready to embrace your irrational side? If not, you’re about to!
 
 ## Lesson 1
 
-### Creator’s bias makes you overvalue your work.
+### Creator’s bias makes you overvalue your work
 
 In the 1940s and 50s processed food was on the rise, thanks to color TV and clever marketing. One of the first products to hit the shelves was the Pillsbury cake mix. Baking a cake was now as easy as washing hands. Moms could just add water to the powder mix, pour it in a tray and pop it in the oven.
 
@@ -36,7 +36,7 @@ This is called creator’s bias and it shows how much you overvalue your own wor
 
 ## Lesson 2
 
-### Online dating doesn’t work, because checklists aren’t how we evaluate partners.
+### Online dating doesn’t work, because checklists aren’t how we evaluate partners
 
 Young people in my age group (I’m 25, let’s say the age group is 18-29) are more single than ever. In 2014, 64% of those young people confirmed that they’re single.
 
@@ -54,7 +54,7 @@ But checking boxes on hobbies, zodiac signs, annual incomes and profile pictures
 
 ## Lesson 3
 
-### Avoid short-term outbursts now to steer clear of long-term bad habits later.
+### Avoid short-term outbursts now to steer clear of long-term bad habits later
 
 Do you curse a lot while driving? My sister does, it’s hilarious. Sadly, it might lead to a lot more cursing down the road (pun intended).
 
@@ -69,7 +69,5 @@ Therefore, short-term emotional outbursts have a much bigger long-term effect th
 ## Review
 
 I could’ve easily doubled all these lessons in length, simply because there are still so many examples and good points to cover. And I’m only touching on a small portion of *The Upside Of Irrationality* in this summary. Just get it!
-
-## Who it’s for
 
 The 18 year old, who’s about to give up on becoming a writer after his first two blog posts tanked, the 27 year old, who can’t seem to make online dating work in her favor, and anyone who curses at other drivers in traffic regularly.

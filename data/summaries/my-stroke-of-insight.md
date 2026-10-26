@@ -24,7 +24,7 @@ Sometimes, you really do have to learn things for yourself. Thankfully, sufferin
 
 ## Lesson 1
 
-### Your brain can heal and change in amazing ways.
+### Your brain can heal and change in amazing ways
 
 You know from the beginning of this book that Taylor must have recovered reasonably well from her stroke. After all, she wrote *a book!* Yet it still feels surprising that anyone could survive, let alone thrive, with such a brain injury.
 
@@ -36,7 +36,7 @@ If people with literal brain damage can so often regain the abilities they’ve 
 
 ## Lesson 2
 
-### You feel like just one person, but your brain really has two totally different parts.
+### You feel like just one person, but your brain really has two totally different parts
 
 You may have read in a textbook or heard in a lecture that the human brain has two separate and very different sides. The left side of our brains deals with language and numbers. It allows us to see patterns and perceive time in the world. The right brain is responsible for sensory perception and the big picture in the present moment.
 
@@ -48,7 +48,7 @@ Most of us enjoy the luxury of a well-integrated brain. But, like Taylor, we mus
 
 ## Lesson 3
 
-### You can opt out of many negative emotions and choose to feel mostly the positive ones instead.
+### You can opt out of many negative emotions and choose to feel mostly the positive ones instead
 
 Speaking of “mindfulness” like a character trait makes it seem like it’s a quality people either possess or lack. Meditation gurus have it, and everyone else doesn’t, right? Maybe, with enough practice, we can cultivate our measly powers of mindfulness into more robust ones.
 
@@ -61,7 +61,5 @@ You can choose to visit that mental place *right now*.
 ## Review
 
 *My Stroke Of Insight* straddles the line between science and self-help. Between the compact summary of how the human brain works, the gripping tale of Taylor’s life-threatening injury, and the nearly unbelievable description of her remarkable recovery, there’s something in here for everyone. While Taylor does tend to downplay how difficult it can be to tap into our right brain peace of mind, there’s something comforting about the thought that it’s lying in wait.
-
-## Who it’s for
 
 The skeptical 32-year old who hasn’t quite bought into “mindfulness” practices, the 50-year old who’s burned out emotionally but isn’t sure whether it’s possible to make a radical psychological change, and anyone who feels semi-spiritual but would like some science to back it up.

@@ -24,7 +24,7 @@ Let’s learn how to meditate to find out how to destress and strengthen our bra
 
 ## Lesson 1
 
-### If you want to become smarter and happier, you need to start meditating.
+### If you want to become smarter and happier, you need to start meditating
 
 When I was younger I remember adults telling me that your brain is unchangeable after about age 25. I’ve since learned that this is not true. You can actually mold your brain however you like, no matter your age.
 
@@ -44,7 +44,7 @@ And if this isn’t enough to motivate you to try meditation out yourself, other
 
 ## Lesson 2
 
-### Begin your mindfulness practice with these six steps.
+### Begin your mindfulness practice with these six steps
 
 Now that you know the science behind what meditation can do for your brain, it’s time to learn how to actually do it. To make it easier, the author has broken it down into six simple steps:
 
@@ -65,7 +65,7 @@ Try to come up with mantras that you can think of the first syllable on the in b
 
 ## Lesson 3
 
-### You can combine meditation with visualization to beat negative thinking.
+### You can combine meditation with visualization to beat negative thinking
 
 Does it seem like the worrying or sad thoughts you have are like a weight that you just can’t shake off? Can you imagine how free you would feel if you could finally get rid of them and let that heaviness go?
 
@@ -82,7 +82,5 @@ Remember that you don’t have to engage with your thoughts to benefit from ackn
 ## Review
 
 Woah, I really liked this book! *Unplug* gives all the basics and some of the more advanced tips of meditation, including the science of the potential this practice has to boost your brainpower. I’ve given meditation a chance and it’s changed my life. I hope you too will give it a try.
-
-## Who it’s for
 
 The 42-year-old father dealing with stress after a job loss, the 62-year-old who’s worried about all the bad news in the world, and anyone who wants to unlock the full potential of their brain.

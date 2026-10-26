@@ -20,19 +20,19 @@ Are you ready to get into some deep religious and philosophical ideas? Let’s d
 
 ## Lesson 1
 
-### Healing ourselves, even from depression, can result from religious experiences.
+### Healing ourselves, even from depression, can result from religious experiences
 
 Similar to ideas in *Think and Grow Rich* and *The Magic of Thinking Big*, James argues that belief has the power to change our physical world. Often paraphrased “mind over matter,” this notion was widely challenged for it’s potential scientific inaccuracy.
 
 Rather than being passive objects, however, humans are active participants in affecting reality. All one needs to do is unleash the force for change within through belief. Once you introduce faith to your life, religious or not, anything becomes possible. Let’s take a look at one example of how the power belief from a religious experience can heal depression.
 
-**Leo Tolstoy, in his book*My Confession*, explains how he overcame deep despair through a religious experience.** The source of his depression came from the notion that life was finite, therefore meaningless. After attempts to find meaning in a life that, from a scientific perspective would one day end, he continued feeling nothing.
+**Leo Tolstoy, in his book *My Confession*, explains how he overcame deep despair through a religious experience.** The source of his depression came from the notion that life was finite, therefore meaningless. After attempts to find meaning in a life that, from a scientific perspective would one day end, he continued feeling nothing.
 
 Through recognizing the potential for the infinite life through belief in the spiritual, Tolstoy understood that life does have meaning. He saw that reason and facts on their own couldn’t explain meaningful existence. The weariness with life he felt was the result of the superfluous, artistic, upper-class life of which he was a part. Once he realized that all he had to do was believe, not even become dogmatic or zealous, Tolstoy felt better.
 
 ## Lesson 2
 
-### Learning from the principle of conversion can improve your life.
+### Learning from the principle of conversion can improve your life
 
 When you hear the word conversion, you may think it’s exclusively religious. But this word simply means “to change,” and isn’t only an occurrence for those who go to church. **It’s not just any change though, but the movement of energy from one set of beliefs to another.**
 
@@ -46,7 +46,7 @@ Whichever type of conversion you let yourself experience, you can use this princ
 
 ## Lesson 3
 
-### Prayer is a means to transfer energy from a higher power into your life, which anyone can do.
+### Prayer is a means to transfer energy from a higher power into your life, which anyone can do
 
 When I say the word “religion” you might think of prayer and revelations. While important to religion, these practices aren’t exclusively religious. Practicing them can have a powerful effect on your life.
 
@@ -59,7 +59,5 @@ The change from negative to positive that accompanies prayer opens new ideas and
 ## Review
 
 Wow, this book is really profound! I’ll be honest, some of the jargon, possibly due to the age of *The Varieties of Religious Experience* had me a little lost at times. Regardless, this book will have me thinking some powerful deep thoughts for a while!
-
-## Who it’s for
 
 The 65-year-old religious couple who is curious to see a different take on their faith, the 24-year-old student of philosophy, and anyone who is interested in psychology.

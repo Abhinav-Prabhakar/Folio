@@ -20,7 +20,7 @@ Do you want to be productive daily and throughout your life? Read on to find out
 
 ## Lesson 1
 
-### To realize your full potential, combine hard work each day with the courage to aspire for greater things.
+### To realize your full potential, combine hard work each day with the courage to aspire for greater things
 
 Do you tend to think of yourself as a doer or a dreamer? Maybe you fluctuate between both, but most of us generally fail in one of these ways or the other.
 
@@ -34,7 +34,7 @@ The sweet spot really is having a balance of perspective and control. Another wa
 
 ## Lesson 2
 
-### Divide your tasks each day into projects and focus them on your lifelong vision for yourself.
+### Divide your tasks each day into projects and focus them on your lifelong vision for yourself
 
 Do you ever feel busy but take a harder look at your day and wonder what you actually accomplished? It’s easy to get caught up in the little everyday tasks we have to do and lose sight of the bigger picture.
 
@@ -52,7 +52,7 @@ The final component is reviewing your long-term goals to see that your projects 
 
 ## Lesson 3
 
-### Get the big picture for your life by asking the big questions to identify what means the most to you.
+### Get the big picture for your life by asking the big questions to identify what means the most to you
 
 Have you ever been walking through the forest and wondered where you really are? It’s always interesting to look at a map because the elevated view it shows is so different from the view in front of us. There are sometimes many different paths that lead to various places. Without knowing which one we’re on, it’s hard to tell where we’ll end up.
 
@@ -67,7 +67,5 @@ This plan is your elevation-level view, with the specifics of your dreams as tho
 ## Review
 
 I want to say that *Making it All Work* sounded a little repetitive, but maybe that’s just because I know and practice these principles daily. Either way, I really enjoyed this book. These principles will help anyone get a grasp on what’s important in the long-term and how to center daily activities around those long-term goals.
-
-## Who it’s for
 
 The 45-year-old office worker who feels like there’s something more to their life than filling out reports and making copies, the 29-year-old who is afraid of going into their 30’s without having fulfilled many of their life goals, and anyone who is looking for better work-life balance.

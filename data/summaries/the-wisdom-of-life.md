@@ -20,7 +20,7 @@ Let’s take a closer look!
 
 ## Lesson 1
 
-### Your personality, which consists of your physical and mental health, is the most important factor for happiness.
+### Your personality, which consists of your physical and mental health, is the most important factor for happiness
 
 Not to his credit, but much to his credibility, Schopenhauer re-examined a lot of what the ancient Stoics of Greece had thought about to set up his model. One example is his view of our personality. Besides repeating that it’s the only thing you can’t escape from, no matter where you go, he also shared their idea that **this psychological construct rests on two pillars: our body and our mind**.
 
@@ -48,7 +48,7 @@ A number often quoted is about $65,000 per year if you live in a Western country
 
 ## Lesson 3
 
-### Position is about what others think of you, and it’s just an obstacle to happiness, not a supporting factor.
+### Position is about what others think of you, and it’s just an obstacle to happiness, not a supporting factor
 
 The first factor in Schopenhauer is necessary for happiness. The second is somewhat necessary, but too much decreases our levels of joy. The third is an impediment altogether, and it’s about status. To Schopenhauer, ‘position’ is the cumulated result of what other people think of you.
 
@@ -59,7 +59,5 @@ If we instead just ensured we think highly, but not exuberantly, of ourselves, a
 ## Review
 
 If you think this model is overly simplistic, consider the time and context. Schopenhauer published *The Wisdom Of Life* in 1851, having been one of the first philosophers ever to research Eastern philosophy, reflect it, and bring it into a more Western context. What he came up with here is, in essence, Maslow’s hierarchy of human needs, just in a different format. For a 170-year-old self-help piece, that’s pretty impressive, don’t you think?
-
-## Who it’s for
 
 The 17 year old, who’s about to read Schopenhauer’s works in school, the 44 year old senior partner at a law firm, who finds he spends all of his huge salary but doesn’t really know why, and anyone who has a chronic health problem that they’ve so far avoided dealing with.

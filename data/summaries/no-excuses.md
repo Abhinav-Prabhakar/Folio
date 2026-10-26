@@ -20,9 +20,9 @@ Are you ready to stop finding excuses and start getting results? Take advantage 
 
 ## Lesson 1
 
-### For a rewarding life, constantly improve yourself and plan your actions with The Seven-Step Method.
+### For a rewarding life, constantly improve yourself and plan your actions with The Seven-Step Method
 
-Self-actualization implies skills and knowledge. **You should allocate 3% of your income and a little time every day to move from average to excellencein what you do**. What about staying at work a little longer to learn something new, or reading a book instead of watching tv at home?
+Self-actualization implies skills and knowledge. **You should allocate 3% of your income and a little time every day to move from average to excellence in what you do**. What about staying at work a little longer to learn something new, or reading a book instead of watching tv at home?
 
 You can also learn a lot from people who are successful in your field. Observe how they dress and talk. Ask them how you can improve: what books to read, what courses to take. Self-actualization also requires thinking long-term. Tracy’s Seven-Step Method can help you with that!
 
@@ -36,7 +36,7 @@ You can also learn a lot from people who are successful in your field. Observe h
 
 ## Lesson 2
 
-### Take care of the 5 ingredients of happiness to feel good about yourself and in control of your life.
+### Take care of the 5 ingredients of happiness to feel good about yourself and in control of your life
 
 **The more you understand that what happens to you is mostly a consequence of your actions, the happier you may be.** On the other side, people who feel powerless and at the mercy of external circumstances are usually unhappy.
 
@@ -52,7 +52,7 @@ Start working towards these now! Abandon *Someday Isle*, where most of humanity 
 
 ## Lesson 3
 
-### Fear is normal but can be overcome by creating a Disaster Report.
+### Fear is normal but can be overcome by creating a Disaster Report
 
 A lack of self-discipline is not the only thing that can prevent you from realizing yourself. Maybe the fear of failing and losing your money is holding you back from undertaking your personal challenges.
 
@@ -68,7 +68,5 @@ Another trick to avoid getting stuck in your worries is pretending not to be wor
 ## Review
 
 *No Excuses!* is a useful book to improve almost any area of your life. Whether you want to get better at work, financial freedom, health, fitness, relationships, parenting, or inner peace, this book will help. It provides many step-by-step techniques that can help you practice self-discipline for happiness.
-
-## Who it’s for
 
 The 20-year-old who lacks self-confidence, the 35-year-old who doesn’t like his life and blames it on his parents, and anyone who feels they’re never going to be happy.

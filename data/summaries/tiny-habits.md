@@ -20,7 +20,7 @@ I’m pumped for this one because it’s the secret you’ve been waiting for to
 
 ## Lesson 1
 
-### To reach your dreams of becoming your best self, you need to begin with almost embarrassingly small patterns.
+### To reach your dreams of becoming your best self, you need to begin with almost embarrassingly small patterns
 
 I love setting goals and building new habits. For the last 15 years, I’ve set my goals at the beginning of the year. But many times I found myself failing to uphold all of the massive changes I was trying to make. It was hard to understand why. I knew that exercising, sleeping, and reading more were all good for me, but I still couldn’t follow through!
 
@@ -38,7 +38,7 @@ That’s why tiny habits are so important because we can change them and, if don
 
 ## Lesson 2
 
-### If you want to sustain long-term growth, stop trying to build motivation and instead use the proven power of behavior.
+### If you want to sustain long-term growth, stop trying to build motivation and instead use the proven power of behavior
 
 Have you ever taken an online course? I’ve paid for a few myself and I have a hard time finishing them. And I’m not alone: 90% of people who take courses don’t complete them. This is because we overestimate the power of motivation.
 
@@ -52,7 +52,7 @@ You’ll learn a neat trick to help you see ways to tap into the power of behavi
 
 ## Lesson 3
 
-### Connect your desired habits to prompts within your daily routine to unleash the power of tiny habits.
+### Connect your desired habits to prompts within your daily routine to unleash the power of tiny habits
 
 Each day you’ve got dozens of automatic responses to what happens to you. Hearing an alarm makes you get up, or feeling hungry leads to eating. These are known as prompts.
 
@@ -67,7 +67,5 @@ You’ve also got to think about the frequency of your prompt. If it’s somethi
 ## Review
 
 I really enjoyed *Tiny Habits* and I think that you will too. At first, it reminded me of *Atomic Habits*, but this one goes more into the one idea of making the smallest habits possible. This new pattern for building habits can be revolutionary to your efforts to improve your life and I hope you’ll try it out soon!
-
-## Who it’s for
 
 The 43-year-old office worker who is overweight but just can’t seem to build the habit of exercising, the 25-year-old productivity junkie who wants a simple and proven way to set up a system for success, and anyone who is searching for the real way to build habits that stick.

@@ -18,7 +18,7 @@ Ready to learn more about the way in which philosophy, Buddhism and science meet
 
 ## Lesson 1
 
-### We think in terms of “I” due to the left side of the brain, which is a storyteller.
+### We think in terms of “I” due to the left side of the brain, which is a storyteller
 
 What would you answer if somebody asked you who you are? Would you say you are your profession, your civilian status, or perhaps your gender? Would you say you are a doctor, a wife, a daughter, or something similar?
 
@@ -30,7 +30,7 @@ It is also responsible for interpreting what you see, yet that’s also quite ab
 
 ## Lesson 2
 
-### The problem with “I” and with using language to make sense of the world is that it causes suffering.
+### The problem with “I” and with using language to make sense of the world is that it causes suffering
 
 When we use our language system and the mind to interpret what we see, hear, and feel, we’re essentially trying to make sense of the world. Everyone does it. That’s how we define the “I”, and everything that follows.
 
@@ -42,7 +42,7 @@ If you choose not to take them for good and understand that everything you see i
 
 ## Lesson 3
 
-### Moving your body can help you gain more control of your brain and activate its right side.
+### Moving your body can help you gain more control of your brain and activate its right side
 
 The right brain is responsible for spatial consciousness and movement. It’s not surprising that the best way to tap into your right-brain side is through movement-based activities, such as yoga, exercise, or even meditation.
 
@@ -61,7 +61,5 @@ The only way to understand your mind is to be fully aware of its functions and t
 The author bridges the gap between religion and science by pointing out a common point between the two and how they’re, in fact, quite similar at the core.
 
 Reading this book will not only make you smarter, but it’ll also help you help yourself more and become more objective, aware, and intuitive. I recommend this read, as long as you’re willing to really pay attention to what the author has to say.
-
-## Who it’s for
 
 The 40-year-old person who just discovered yoga and the power of meditation, the 24-year-old who is a health-conscious person with a passion for yoga, or the 36-year-old philosophy teacher who enjoys a scientific lecture that can teach them new ideas.

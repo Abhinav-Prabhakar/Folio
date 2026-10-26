@@ -24,7 +24,7 @@ Let’s get right into these lessons and see why what you think you know about b
 
 ## Lesson 1
 
-### Following all the traditional business advice leaves you struggling because it goes against human nature.
+### Following all the traditional business advice leaves you struggling because it goes against human nature
 
 There are endless businesses out there, each with differences. One thing in common, though, is that their owners all want profit.
 
@@ -46,7 +46,7 @@ Instead, begin by finding out what you want to earn and taking that out from you
 
 ## Lesson 2
 
-### Work with smaller amounts of money if you want to successfully manage your finances.
+### Work with smaller amounts of money if you want to successfully manage your finances
 
 Parkinson’s Law also affects your ability to eat healthy portion sizes. When you get a big plate of dinner, for example, you naturally fill it completely full, right? Your business finances are the same way.
 
@@ -68,7 +68,7 @@ If you feel tempted to break your rules, just keep certain accounts out of sight
 
 ## Lesson 3
 
-### Ask yourself how you can make your business more financially efficient to take your profits and company to the next level.
+### Ask yourself how you can make your business more financially efficient to take your profits and company to the next level
 
 The other day I remembered I had some rewards from a wellness activity with my health insurance. After looking into it I got $100 that I hadn’t expected at all!
 
@@ -85,7 +85,5 @@ If you find out what you’re best at and double down on it, you can earn more i
 ## Review
 
 I went into reading *Profit First* thinking of the book *People Over Profit*, which made me think I wouldn’t like it. But I was pleasantly surprised, and I think you will be too! Even as a small business owner these tips are incredibly useful, and I believe they will also help my personal finances as well.
-
-## Who it’s for
 
 The 48-year-old CEO who has a successful company but that wants to improve their financials, the 24-year-old entrepreneur that wants to know why so many others like him struggle to stay profitable, and anyone that wants to win at business.

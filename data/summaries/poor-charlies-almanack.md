@@ -16,11 +16,9 @@ Here are my 3 favorite lessons from the book:
 
 Now, let’s explore these lessons in-depth!
 
-### Poor Charlie’s Almanack Summary
-
 ## Lesson 1
 
-### Munger’s successful career had many drawbacks throughout its course.
+### Munger’s successful career had many drawbacks throughout its course
 
 Charlie Munger wasn’t always a successful investor. In fact, he didn’t even hold a bachelor’s degree. During his teenage years, he had a passion for studying and reading. He spent most of his days in libraries and lived through the books he was reading. After he dropped out of college, he learned a series of informal skills that proved to be useful during his lifetime.
 
@@ -34,7 +32,7 @@ Moreover, improve your work ethic. Munger insisted on finishing things the first
 
 ## Lesson 2
 
-### The key to Munger and Buffett’s successful business was morality, honesty, and respect.
+### The key to Munger and Buffett’s successful business was morality, honesty, and respect
 
 Early in his professional life, Munger started a law firm that went on with its operations successfully, yet something didn’t sit right with him. It wasn’t long after when he had to take a trip to Omaha to close on some real estate he inherited, where he met Buffett. Their shared interest in the business world and investing was enough to spark a long-lasting business relationship between them.
 
@@ -46,7 +44,7 @@ Still, over time, by doing their best to keep their integrity, Munger and Buffet
 
 ## Lesson 3
 
-### Munger appreciates people who own up to their mistakes because it’s only natural to make errors in life.
+### Munger appreciates people who own up to their mistakes because it’s only natural to make errors in life
 
 Throughout his life, Munger made some terrible mistakes when it comes to business. He failed to buy more stock in valuable companies, he thought Walmart was a costly stock before it skyrocketed, and he once failed to acknowledge that See’s Candy is a great investment prospect.
 
@@ -57,7 +55,5 @@ Luckily, other agents made him change his mind about that one. Still, he acknowl
 ## Review
 
 *Poor Charlie’s Almanack* delves into the fascinating life of Charlie Munger, one of the best investors of all time. Charlie built Berkshire Hathaway with Warren Buffett from the beginning. The book explores the principles that served him throughout his life and helped him achieve tremendous success. If you like this book, you’ll likely also enjoy *The Almanack of Naval Ravikant*.
-
-## Who it’s for
 
 The 25-year-old person who’s passionate about investing and wants to learn about the lives of successful people in the field, the 30-year-old who loves biographies and real-life inspirational stories of top performers, or the 35-year-old who feels lost in their career and wants to motivate themselves.

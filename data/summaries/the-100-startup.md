@@ -18,7 +18,7 @@ Got your $100 ready? Good, let’s start a business!
 
 ## Lesson 1
 
-### Passion is only 1/3 of the equation, you also need skills and customers.
+### Passion is only 1/3 of the equation, you also need skills and customers
 
 Thanks to Steve Jobs we now face a generation where a myriad of people try to turn their passion into their paycheck. While I generally support that with all my heart, I cringe at the level of unpreparedness of most people who do so.
 
@@ -34,7 +34,7 @@ So be flexible enough to stay open for a skill transformation, where you learn s
 
 ## Lesson 2
 
-### Focus on low costs and being profitable to turn your hobby into a business.
+### Focus on low costs and being profitable to turn your hobby into a business
 
 Newsflash: Unless someone pays you, your passion business is just a hobby. Therefore, you must look at funding, income and costs of your business.
 
@@ -48,7 +48,7 @@ Running your passion business should be fun, but it’s still a business, and if
 
 ## Lesson 3
 
-### Action beats planning, so keep your plans simple.
+### Action beats planning, so keep your plans simple
 
 **Action beats planning, every time**. Write that on your wall. If you’ve ever bought a domain name you never ended up using (guilty) or spent an entire weekend making a complex business plan (guilty again, don’t judge me), you know what I’m talking about.
 
@@ -65,7 +65,5 @@ Oh and lastly, when you start a business, suddenly everyone seems to become an e
 The book reminds me a lot of *The 4-Hour Workweek,* but honestly, it feels even more practical for the average Joe, because it makes starting easier and doesn’t deal as much with scaling, which is something to worry about a lot later.
 
 It’s hard to overestimate how actionable and practical this book is in a 2016 world, I have nothing to say except: I highly recommend it!
-
-## Who it’s for
 
 The 18 year old who’s still in school, with an incredible advantage of starting early, the 45 year old who’s fed up with her 9 to 5, but doesn’t want to take any risks, and anyone who spent hours planning an incredibly fun side project, which never came to life.

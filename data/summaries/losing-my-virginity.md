@@ -20,7 +20,7 @@ Ready for some adventures in the world of business? Screw it, let’s do it!
 
 ## Lesson 1
 
-### Don’t feel bad if you haven’t been born and bred as an entrepreneur.
+### Don’t feel bad if you haven’t been born and bred as an entrepreneur
 
 With the way Richard Branson was raised, there’s no way he could’ve been anything else than an entrepreneur. Reading about some of the challenges his parents gave him (on purpose) as a kid, you can instantly see where he got his relaxed attitude towards taking risks from and how that made it easy for him to bet thousands, even millions of £ on a single event.
 
@@ -32,7 +32,7 @@ Thanks to the internet, even people like you and me, who just exhibit entreprene
 
 ## Lesson 2
 
-### Always be on the lookout for what’s next, but keep things one adventure at a time.
+### Always be on the lookout for what’s next, but keep things one adventure at a time
 
 As I read through the blinks, I noticed something. Richard Branson is one of the most adventurous entrepreneurs out there and many of his now successful companies began with challenges that were completely outside of the scope of business, like his airline, Virgin Atlantic.
 
@@ -48,7 +48,7 @@ So keep your eyes open, but don’t let yourself be fooled into thinking you can
 
 ## Lesson 3
 
-### Practice being creative every single day.
+### Practice being creative every single day
 
 The only reason so many of Richard Branson’s businesses work out is that **he sees profits where most people don’t even see business**. He turns his own quagmire into cash, and the only way you can do that is by being incredibly creative.
 
@@ -63,7 +63,5 @@ Therefore, if there’s *one* thing you should take away from Richard Branson, i
 I could go and on. Reading about Richard Branson’s life is too much fun. This time the blinks really focus on his story and tell many great stories. It’s a very long summary too, so this is really well worth the time spent reading, and many of the examples stick, because they’re so catchy. If you don’t know the first thing about him, this is the place to start learning.
 
 *Losing My Virginity* is a whopping 600+ pages, so the summary gives you an easy in before diving deeper.
-
-## Who it’s for
 
 The 20 year old ambitious upstart, who’s worried it might be too late for him, even at this young age, to become a proper entrepreneur, the 50 year old, who’s slowly learning that dabbling in too many things at once hasn’t worked out so far, and anyone who doesn’t create something on a daily basis already.

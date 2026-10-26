@@ -22,7 +22,7 @@ Are you ready for an eye-opening experience? Let’s get right to it!
 
 ## Lesson 1
 
-### Women were computer programmers before men took it over by releasing false reports.
+### Women were computer programmers before men took it over by releasing false reports
 
 If I asked you to think of the typical software engineer, what would say they look like? You probably think of a geeky guy that doesn’t have great people skills but is a wiz when it comes to numbers, right? Interestingly, this stereotype only exists because of some misinformation back in the early days of the tech industry.
 
@@ -30,7 +30,7 @@ At the beginning of the 20th century, typing and operating a switchboard were cl
 
 But there’s a lot to be said for their contributions to society because of these duties. Women programmed the US Army’s first computer in WWII. Some helped with the coding that contributed to the creation of the atomic bombs that the US dropped on Japan in 1945.
 
-**And of course, there is the story of the three*Hidden Figures*without whom John Glenn’s first orbit around the Earth wouldn’t have been possible.**
+**And of course, there is the story of the three *Hidden Figures* without whom John Glenn’s first orbit around the Earth wouldn’t have been possible.**
 
 But this all began to come crashing down in the late 1960s. A software company hired a couple of psychologists to try and identify the traits of the best computer programmers.
 
@@ -38,7 +38,7 @@ Their sample size of only 1,378 interviewees contained only 186 women. This resu
 
 ## Lesson 2
 
-### It’s hard to be a woman who works for a tech giant.
+### It’s hard to be a woman who works for a tech giant
 
 This book dives into the disgusting practice that some Silicon Valley companies have of using strip clubs as meeting rooms. It’s pretty obvious that women executives wouldn’t feel welcome in these circumstances, right? Some have even reported having interviews in these lewd places!
 
@@ -48,13 +48,13 @@ Usually, when a woman is successful in this business, people consider it chance.
 
 But when a man does something great it’s “because of his abilities.” Women are often thought to be less qualified than men, too.
 
-One example of this is that women get quality control checked for their work more often than men. **Ironically,one studyfound that if the quality assurance checker doesn’t know the coder’s gender they’ll approve women’s work more often than men’s!**
+One example of this is that women get quality control checked for their work more often than men. **Ironically, one study found that if the quality assurance checker doesn’t know the coder’s gender they’ll approve women’s work more often than men’s!**
 
 Oh, and if you’re a startup with only men leaders then you’re more likely to get funding from venture capitalists than if you have a woman at the head.
 
 ## Lesson 3
 
-### Hiring more women and treating them fairly will improve your profits.
+### Hiring more women and treating them fairly will improve your profits
 
 So women who want to be in the tech industry have a tough time getting jobs. Even then their treatment when they do get hired often isn’t acceptable. But why should businesses hire more women in the first place?
 
@@ -62,7 +62,7 @@ Well, for one, it’s got good chances of making the company more money. Custome
 
 Additionally, 70-80% of consumer purchases come from women. It only makes sense that equality would help companies make better decisions to cater to the majority of their customer’s needs.
 
-And you don’t need to just guess whether this works or not. Businesses with better equality of men and women in leadership report making more money. **Those who have women making up 40-60% of leadership positions have better financial returns according toone study.**
+And you don’t need to just guess whether this works or not. Businesses with better equality of men and women in leadership report making more money. **Those who have women making up 40-60% of leadership positions have better financial returns according to one study.**
 
 The research also indicates that these companies have better critical thinking skills and are more creative. This is because of the new perspectives that women bring to the workplace.
 
@@ -71,7 +71,5 @@ It also found that companies with a better balance of women and men have better 
 ## Review
 
 It’s embarrassing that some men would treat women in the ways that *Brotopia* describes. This “bro culture” is obnoxious, damaging, and anyone who tries to hold it up is immature. I think we need more people calling out bad behavior like this, which is why I highly recommend this book!
-
-## Who it’s for
 
 The 28-year-old woman who wants to get into the tech industry and wants to know what to be prepared for, the 47-year-old manager with only a few women on his team that wants to know how to be fairer, and everyone who works in Silicon Valley or any male-dominated workplace.

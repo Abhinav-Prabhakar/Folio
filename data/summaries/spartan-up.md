@@ -48,7 +48,7 @@ You **will think less and do more,** just like De Sena applied multiple times to
 
 A simpler life will also make you happier. As put in few words by ancient Greek philosopher Epictetus: *“Wealth consists not in having great possessions, but in having few wants.”*
 
-However, you should always know the difference between **your real limitsand your perceived limits.** Don’t push your body or mind beyond what it can do.
+However, you should always know the difference between **your real limits and your perceived limits.** Don’t push your body or mind beyond what it can do.
 
 Some things are just outside of your control, and that’s okay.
 
@@ -63,7 +63,5 @@ So get off the couch, go outside and leave your comfort zone!
 *Spartan Up* is mainly a marketing tool, created by Joe to promote his races. The summary on Blinkist is quite short as well, but the scientific research and insights in it are sound.
 
 It’s more for beginners who still need their wake-up call to *do something meaningful* with their life, but does that just fine.
-
-## Who it’s for
 
 The 16 year old who wastes all her spare time with meaningless distractions, the 47 year old who wonders if he’s still got it and anyone who spends the majority of their evenings with a bag of Doritos in front of the TV, watching Netflix.

@@ -18,7 +18,7 @@ Want to tell an authentic story in a fuzzy world? Here we go!
 
 ## Lesson 1
 
-### Successful marketers tell stories people want to believe in.
+### Successful marketers tell stories people want to believe in
 
 George Riedel has been telling a powerful story about wine glasses for ages. His company has been in the business of glass-blowing for over 4 centuries. Leading the family business in the 10th generation, Riedel introduced a special series of wine glasses, where different glasses are meant to bring out the best qualities of different sorts of wine.
 
@@ -30,7 +30,7 @@ We live in a world where people buy what they want, not what they necessarily ne
 
 ## Lesson 2
 
-### You have to want to believe in a story, because that’s how your brain works.
+### You have to want to believe in a story, because that’s how your brain works
 
 The reason you think a pair of Nike’s is high quality and justifies a steep $100 price tag in addition to making you look cool, when they really just cost $5 to manufacture (hint: Macklemore’s Wings tells a great story about those) is the way your brain reacts to new information.
 
@@ -46,7 +46,7 @@ Stories help us make sense of the world, so whatever we want to believe in, we e
 
 ## Lesson 3
 
-### Fibs can improve the customer experience, while fraud always hurts your authenticity.
+### Fibs can improve the customer experience, while fraud always hurts your authenticity
 
 According to Seth, there’s a difference between fibs and frauds. A fib is when you tell your spouse you had a late meeting, when really you were out shopping for their birthday present. It’s an “honest lie”, because you tell it to improve their birthday experience, not with mean intent.
 
@@ -65,7 +65,5 @@ Instead, target the right people with an honest message from the get-go and buil
 One of the most fun things to do with any Seth Godin book is look at the many many examples he provides and then try to come up with your own or more recent ones. *All Marketers Are Liars* is from 2005, so it’s easy to find new examples, like the VW one, for all of the scenarios he describes.
 
 What can I say? Another set of valuable lessons learned from the master – don’t think about it, go check out this book!
-
-## Who it’s for
 
 The 32 year old shoe sales rep, who frequently makes up features about shoes to meet the sales quota, the 54 year old with a company, who’s product is struggling because it’s too feature-focused, and anyone who’s a fan of one particular brands products.

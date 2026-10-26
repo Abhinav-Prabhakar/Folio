@@ -20,7 +20,7 @@ Let’s dive right into this little known history lesson!
 
 ## Lesson 1
 
-### The Great Migration is an interesting and neglected piece of US history that involved many purposes and destinations.
+### The Great Migration is an interesting and neglected piece of US history that involved many purposes and destinations
 
 You might be little surprised that your US History class didn’t study this big migration. Why did we barely touch on this topic that affected our history so greatly?
 
@@ -34,7 +34,7 @@ Another factor that influenced the migration was World War I. The war caused a h
 
 ## Lesson 2
 
-### Ida Mae and her family’s move from the South for better pay and safety is just one story of many in The Great Migration.
+### Ida Mae and her family’s move from the South for better pay and safety is just one story of many in The Great Migration
 
 Ida Mae lived on a farm with her family in Mississippi. In 1928, she married a fellow farmer named George and the young couple began their family and started as sharecroppers. Sharecroppers were people employed by a farmer and harvested crops in return for a place to live.
 
@@ -48,7 +48,7 @@ But the tipping point came in 1937 when George’s cousin was accused of stealin
 
 ## Lesson 3
 
-### Chicago became Ida Mae’s eventual home, but moving didn’t change her life like she had hoped.
+### Chicago became Ida Mae’s eventual home, but moving didn’t change her life like she had hoped
 
 When Ida Mae made it to Chicago, she thought it looked like heaven. But soon they found things weren’t quite so easy. George and Ida Mae travelled to Milwaukee to find a job. But unfortunately, because of the Depression, even the low paying factory jobs were scarce.
 
@@ -61,7 +61,5 @@ But finally, Ida Mae found a job at a hospital. Soon they were able to move into
 ## Review
 
 I’m not the best with history books, so I didn’t really enjoy *The Warmth Of Other Suns*. But that doesn’t mean that it’s a bad book! I did think that the stories of Ida Mae, George Starling, and Pershing Foster were interesting. And they teach a lot of important lessons about many aspects of life, too!
-
-## Who it’s for
 
 The 64-year-old who is curious about the untold parts of US history, the 32-year-old history buff that wants to hear about something they probably didn’t learn in school, and anyone with an interest in the forces that affected America as it grew from 1915 to 1970.

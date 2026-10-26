@@ -20,7 +20,7 @@ Let’s get right into these lessons and see how much we can learn!
 
 ## Lesson 1
 
-### Society made up the idea of race because of some gross misunderstandings about certain groups of people.
+### Society made up the idea of race because of some gross misunderstandings about certain groups of people
 
 At its core, white fragility denies and misunderstands the nature of racism and race. This reinforces inequality and makes it difficult to resolve. To start breaking it down, we need to understand racism, which means we’ve got to understand race.
 
@@ -36,7 +36,7 @@ This let white people prevent blacks from rising up and taking their status and 
 
 ## Lesson 2
 
-### Even though they experience hardships, all white people still have more privilege than those who aren’t white don’t receive.
+### Even though they experience hardships, all white people still have more privilege than those who aren’t white don’t receive
 
 Although I didn’t know it growing up, I have a lot of what I now know is white privilege. I could get defensive about this and think about how I didn’t always have it so easy, but that’s not what this is about.
 
@@ -46,13 +46,13 @@ If you need evidence just pay attention to the sense of belonging that our cultu
 
 This paints the picture of America as a predominantly white society and sends the implied message that white people belong here. And that people of color don’t.
 
-Consider also the idea of crime. In the media, we see black and Latino people depicted as having an association with crime. **This perpetuates into people’s minds, andresearchconfirms that white people consider a neighborhood’s crime levels to be connected with how many people of color live there.**
+Consider also the idea of crime. In the media, we see black and Latino people depicted as having an association with crime. **This perpetuates into people’s minds, and research confirms that white people consider a neighborhood’s crime levels to be connected with how many people of color live there.**
 
 What’s worse is that police and judges are also likely to think this way. This can have disastrous consequences as we’ve seen in situations like what happened to George Floyd.
 
 ## Lesson 3
 
-### We can’t fully examine, challenge, and end racism until we deal with white fragility.
+### We can’t fully examine, challenge, and end racism until we deal with white fragility
 
 The author co-leads anti-racism workshops all across the US. Even at these events, she encounters white fragility. But the lessons she learns might help us all find ways to resolve this issue.
 
@@ -69,7 +69,5 @@ Unfortunately, this is a hallmark of white fragility that keeps us from bringing
 ## Review
 
 This book really opened my eyes. I had no idea that racism was this bad and I only hope I can help tear it down. Although it felt a little intense at times, *White Fragility* may be the kind of book that people need to read to finally understand and annihilate inequality.
-
-## Who it’s for
 
 The 61-year-old who doesn’t think he’s racist but won’t talk about it, the 35-year-old black woman who’s curious to learn why it’s so hard for white people to talk about race, and every white person who cares to try to help end systemic racism.

@@ -20,7 +20,7 @@ Get your running shoes or basketball shorts ready, this book will make you want 
 
 ## Lesson 1
 
-### You may have the body type of a swimmer or a basketball player, and you have your genes to thank for that.
+### You may have the body type of a swimmer or a basketball player, and you have your genes to thank for that
 
 We all know that tall people make great basketball players. Experts estimate that 80% of the variation in height is due to genes. So, unfortunately, tall people really are just born good at basketball. But did you know that short people have a few advantages in this sport as well? Some have stronger Achilles tendons that help them jump higher or a longer arm span for a greater reach.
 
@@ -34,7 +34,7 @@ Take a look at some of your body characteristics. What sports might you be good 
 
 ## Lesson 2
 
-### Endurance and motivation are also genetic factors that influence how good you can become at sports.
+### Endurance and motivation are also genetic factors that influence how good you can become at sports
 
 While you may not think of it, genes also determine how likely you are to get up and go to the gym. Studies indicate that much of the difference in exercise people get is because of genetic makeup.
 
@@ -46,7 +46,7 @@ Take a look at your body’s risk of injury as well. This is one more trait you 
 
 ## Lesson 3
 
-### Specific places in Africa have all the right conditions to make genetically superior runners.
+### Specific places in Africa have all the right conditions to make genetically superior runners
 
 If you remember watching the summer Olympics, you know how successful people from the African countries are in running. But what is it about this region that makes such powerful runners? Let’s take a closer look.
 
@@ -57,8 +57,6 @@ Kenya and Ethiopia are two countries with the most world-class long-distance run
 Looking back on the history of these countries, their ancestors had to run long distances to raid cattle from other tribes for survival. Generally, people in these areas just run more each day than most of the rest of the world, so they are continually improving at the sport.
 
 And as crazy as it sounds, malaria might even be the reason that some Africans run so well. Because of the high prevalence of this disease, only the healthiest people survive it. Those with more resilient red blood cells made it, and this trait is still common in their genes today.
-
-## Review
 
 *The Sports Gene* was interesting for me to read because I’ve been a runner for many years. I had no idea about some of these genetic advantages and disadvantages that I have! The history of the genetics of elite athletes was also fascinating to discover, and is another reason I’d highly recommend this book!
 

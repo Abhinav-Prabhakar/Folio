@@ -20,7 +20,7 @@ Ready to learn how to approach business Branson-style? Here we go!
 
 ## Lesson 1
 
-### Go where people are getting screwed.
+### Go where people are getting screwed
 
 What would you find if you broke down business to an atomic level? I think at the core, you’d see this: Each dollar earned is the result of a transaction. People pay money and receive an experience. Therefore, Richard Branson is dealing with fundamentals when he asks: “How can we improve peoples’ experience here?”
 
@@ -32,7 +32,7 @@ Look around. Where are you getting screwed? How can you improve this?
 
 ## Lesson 2
 
-### Assemble a team of great people and then figure out the rest.
+### Assemble a team of great people and then figure out the rest
 
 At one point, Branson became friends with Nelson Mandela. Later, as he thought about what charity he could start, he couldn’t come up with a clear focus. Instead of waiting for one to spontaneously emerge, he called up Mandela and told him he wanted him on board. Mandela agreed.
 
@@ -44,7 +44,7 @@ What’s the lesson? **You don’t always need a plan for everything**. Sometime
 
 ## Lesson 3
 
-### Always partner with someone early on.
+### Always partner with someone early on
 
 When Richard Branson entered the cable, internet and communications sector with Virgin Media, one of their biggest competitors, NTL, wanted to partner with them. There was only one problem: NTL’s customer service *sucked*, but customer service was the one thing Virgin cared about.
 
@@ -57,7 +57,5 @@ If you can partner, do it. You’ll get off the ground much quicker.
 ## Review
 
 I like biographies because by looking at the big picture you can see big, strategic lessons. In the case of *Finding My Virginity*, they’ve reaffirmed what I already saw as Richard Branson’s defining traits: Focus on fun, love and help people, and always go for what improves more lives, even if it means losing some business in the short term. I recently listened to an interview Tim Ferriss did with him, which I can recommend.
-
-## Who it’s for
 
 The 28 year old entrepreneur, who takes his startup way too seriously, the 43 year old working mom, who keeps spotting problems working moms face, and anyone who feels like they have to prove the world something by going it alone.

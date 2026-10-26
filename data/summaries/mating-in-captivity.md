@@ -22,7 +22,7 @@ Do you want a better sex life? Then this book is for you! Let’s jump right in!
 
 ## Lesson 1
 
-### The experiences you had as a kid make up your views on sex now, and you can improve the areas in which you’re lacking.
+### The experiences you had as a kid make up your views on sex now, and you can improve the areas in which you’re lacking
 
 It seems a little weird to think about how your childhood influences your sex life now. But your background actually does have a lot to do with how you see intimacy.
 
@@ -38,7 +38,7 @@ If we can overcome childhood fears of separation or other trauma, we will finall
 
 ## Lesson 2
 
-### Parents must prioritize sex if they want to stay physically intimate even while kids are still in the home.
+### Parents must prioritize sex if they want to stay physically intimate even while kids are still in the home
 
 It’s ironic, if you think about it, that though sex makes babies, they tend to smother parents’ sex life. This can happen whether or not the child is biologically yours or even if you had a stellar sex life before.
 
@@ -50,7 +50,7 @@ Perel says to combat these changes and find time among your busy schedules to se
 
 ## Lesson 3
 
-### You can protect against infidelity best if you acknowledge that it exists.
+### You can protect against infidelity best if you acknowledge that it exists
 
 Thinking about a monogamous relationship where two people are so attracted to each other they don’t even notice other people in the world is a nice thought, but it’s not really realistic. Temptation will most likely continue to exist, even if you’re deeply in love with and attracted to your partner.
 
@@ -63,7 +63,5 @@ Perel says it’s okay to include this third person in your sex life. She doesn�
 ## Review
 
 The thing I really liked about *Mating In Captivity* was that it identified a lot of things that nobody ever talks about that can make marriage a lot harder! Even better, it talked openly about these things and how to deal with them in healthy ways. I think everybody should read this book because honestly, society will never teach you enough of the right things about sex, love, and marriage.
-
-## Who it’s for
 
 The 32-year-old couple with kids that just can’t seem to reignite the passion they once had, the 45-year-old couple who are emotionally connected but aren’t physically intimate, and anyone that’s in a relationship or who wants to be in one.

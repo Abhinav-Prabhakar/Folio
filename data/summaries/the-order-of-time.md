@@ -20,7 +20,7 @@ Ready to have your mind blown by some crazy physics lessons? Let’s go!
 
 ## Lesson 1
 
-### We wouldn’t have time without heat, and time doesn’t pass at the same speeds everywhere.
+### We wouldn’t have time without heat, and time doesn’t pass at the same speeds everywhere
 
 Usually, we fall prey to the common idea that if we see something happening a certain way, that’s the truth. But your eyes deceive you more than you think. Consider your beliefs about whether the earth is flat or round if you went by sight alone!
 
@@ -38,7 +38,7 @@ We can only distinguish these processes by change, which requires motion, which 
 
 ## Lesson 2
 
-### Time doesn’t move at the same rate even in the same place.
+### Time doesn’t move at the same rate even in the same place
 
 At the beginning of the twentieth century, Albert Einstein found out that time advances differently even in the same location. He discovered that how fast an object or person is moving affects their sense of time.
 
@@ -56,7 +56,7 @@ For all you know, by the time you do find out what he was doing, he could alread
 
 ## Lesson 3
 
-### Just like a kiss, a rock is an event, not a thing.
+### Just like a kiss, a rock is an event, not a thing
 
 According to the ancient philosopher Heraclitus, “The only constant in life is change.” Physicists think similarly, but to them, this means that there are no such things as objects. In reality, everything is only experiencing change on different scales.
 
@@ -73,7 +73,5 @@ This means that our definition of time as “present” doesn’t really work. T
 ## Review
 
 Science is so cool! The concepts Rovelli teaches in *The Order Of Time* are a little confusing, but I have to say, they’re a lot less confusing the way he puts it than how others do. I think I’m finally beginning to understand, at least in a tiny way, how time actually works in the mind of a physicist.
-
-## Who it’s for
 
 The 58-year-old who has a fascination with science, the 21-year-old who is in a physics class in college, and anyone that’s curious to get a better understanding of the confusing subject of time.

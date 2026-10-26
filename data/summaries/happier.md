@@ -20,7 +20,7 @@ Are you ready to have a better life? Let’s get right to these lessons and disc
 
 ## Lesson 1
 
-### All goals in life point to the ultimate aim of happiness, which leads to success.
+### All goals in life point to the ultimate aim of happiness, which leads to success
 
 It’s obvious that we all want to be happy. But have you ever think about why we think of it with such high regard? If you’re playing a game and someone asks you why you’re doing it, for example, you’d likely say because you find it enjoyable. That’s a valid answer that the person asking will always accept.
 
@@ -36,7 +36,7 @@ And if you want to learn more about why happiness leads to success, check out *T
 
 ## Lesson 2
 
-### To have more joy, learn how to balance your view of the present and future.
+### To have more joy, learn how to balance your view of the present and future
 
 There’s a famous quote by Lao Tzu that proclaims that depression is living in the past, anxiety is living in the future, and peace comes in the present. While I mostly agree with this, I’ve learned it’s vital to learn from the past and prepare for the future.
 
@@ -53,7 +53,7 @@ If you set goals and stay focused on being happier in the present, however, you 
 
 ## Lesson 3
 
-### You will be happier if you nurture meaningful relationships.
+### You will be happier if you nurture meaningful relationships
 
 Have you ever come home from work exhausted only to have a friend or family member invite you to dinner? Although you’re tired, you go and by the end of the outing, you’re filled with energy again. Contrary to expectation, hanging out with someone you care about made you happier!
 
@@ -72,7 +72,5 @@ This makes sense when you consider how much you can be your true self whenever s
 ## Review
 
 What I love most about *Happier* is how extensively it dives into the many facets of happiness in life. It excellently teaches the path to happiness in relationships, finances, and health, and also explains what goals have to do with joy. I’ve read and summarized a lot of books on this subject and this is one of my favorites.
-
-## Who it’s for
 
 The 21-year-old college student that is trying to choose their major, the 46-year-old parent that wants to help their children see the truth about chasing success, and anyone that’s feeling trapped by life and wants to find more purpose and joy.

@@ -20,7 +20,7 @@ Want to be a fly on the wall of these successful companies? Then read on. Let’
 
 ## Lesson 1
 
-### When launching an enterprise, a good team is more important than a good idea.
+### When launching an enterprise, a good team is more important than a good idea
 
 In 1993 Joe Kraus, the co-founder of the early web search tool Excite, teamed up with five of his friends from Stanford University. They demonstrated that having a good team proved more important than having a good plan. Kraus and his friends weren’t even sure what their business was going to be, only that they were all passionate and intelligent individuals. All they needed was a goal.
 
@@ -30,7 +30,7 @@ Their attention soon turned to the web. After showing that their technology coul
 
 ## Lesson 2
 
-### Many founders recommend that you reduce costs or find a way to avoid bringing in new investors.
+### Many founders recommend that you reduce costs or find a way to avoid bringing in new investors
 
 Investor money often comes with strings attached. This can come in various forms, from the addition of investor-approved executives, relinquishing shares in the company, or a percentage of the profits.
 
@@ -44,7 +44,7 @@ Paul Graham, the co-founder of Viaweb, Y Combinator, and other companies, has an
 
 ## Lesson 3
 
-### It’s best to listen and be transparent while creating a product or service that people really need.
+### It’s best to listen and be transparent while creating a product or service that people really need
 
 The most common advice that author Jessica Livingston heard while interviewing founders was the importance of listening to customers. This is critical to creating something of real value to others.
 
@@ -57,7 +57,5 @@ Others might argue and say the way to win sales is with charm and finesse. Graha
 ## Review
 
 *Founders at Work* contains a wealth of valuable information – even to somebody with no intention of launching a startup. It’s a good sampling of some of the smartest business minds. A true one-stop-shop. I find it as interesting to learn from their mistakes as from their accomplishments.
-
-## Who it’s for
 
 The 31-year-old retail manager who is looking to start his own store chain, the 46-year-old physical therapist who has a new concept for quick recovery, and anyone who dreams big and has smart friends willing to take some risks.

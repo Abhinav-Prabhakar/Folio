@@ -20,7 +20,7 @@ Don’t hold your breath, you’re so close to learning about to learn about som
 
 ## Lesson 1
 
-### Start breathing out of your nose to unlock natural health benefits.
+### Start breathing out of your nose to unlock natural health benefits
 
 If you’ve seen the Netflix series *Stranger Things,* you’re familiar with the term “mouth-breather”. In addition to being cringey to hear, mouth breathing is also bad for your health! It turns out breathing through your nose is the definitive way to go.
 
@@ -32,7 +32,7 @@ Scientists have learned that excessive mouth breathing actually alters the shape
 
 ## Lesson 2
 
-### You can receive unexpected health benefits just from slowing down your breathing.
+### You can receive unexpected health benefits just from slowing down your breathing
 
 Unlocking health benefits from breathing can be as easy as just breathing a little slower. You don’t even have to breathe very deep breaths. Science says that shallow breaths 5.5 seconds in and 5.5 seconds out are best.
 
@@ -46,7 +46,7 @@ The author encourages us to breathe slowly and less deeply for these reasons. Yo
 
 ## Lesson 3
 
-### Ancient Eastern cultures have been practicing breathing techniques for millennia, but Western culture still mostly ignores the importance of breathing.
+### Ancient Eastern cultures have been practicing breathing techniques for millennia, but Western culture still mostly ignores the importance of breathing
 
 Recently there have been people embracing the power of mindful breathing in the West, but Western society as a whole is still very much behind. A lot of the medical community just doesn’t take it seriously.
 
@@ -61,7 +61,5 @@ With how fundamental this knowledge is in many Eastern cultures, it’s surprisi
 ## Review
 
 I’m starting to go down the rabbit hole of this science now because this book was so interesting. *Breath* is fascinating, informative, helpful, and, well, refreshing! If you’re looking for a simple way to improve your health today, this is it!
-
-## Who it’s for
 
 The 61-year-old who is overweight and wants to learn some easy ways to get healthier, the 27-year-old that wonders why prayer and meditation are so good at helping people mentally and physically, and anyone who has lungs.

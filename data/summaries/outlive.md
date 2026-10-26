@@ -18,11 +18,9 @@ Having long researched what makes us live longer and healthier, Attia compiles h
 
 Let’s see what this longevity expert can teach us — and perhaps change our minds along the way!
 
-### Outlive Summary
-
 ## Lesson 1
 
-### Create your “Centenarian Decathlon” for a sustainable approach to exercise.
+### Create your “Centenarian Decathlon” for a sustainable approach to exercise
 
 The most important part about exercising is to go from zero workouts to getting any regular movement at all. In one study, participants going from inactive to 15 minutes of daily, moderate exercise saw a decline in overall mortality of 14%. That’s huge!
 
@@ -38,7 +36,7 @@ The exercise you dream of but never do is pointless. The exercise you do on a da
 
 ## Lesson 2
 
-### Try eating less with 1 of 3 simple food restrictions.
+### Try eating less with 1 of 3 simple food restrictions
 
 While he no longer believes in multi-day water fasts, like he used to do on a monthly basis, Dr. Attia still thinks eating less is one of the easiest yet healthiest things we can do.
 
@@ -56,7 +54,7 @@ Which one of these will work best for you? Only you can find out. Try them all f
 
 ## Lesson 3
 
-### Track your sleep for a week to see if you should change anything.
+### Track your sleep for a week to see if you should change anything
 
 For Dr. Attia, a near-accident with his car after 60 hours of no sleep was the wake-up call he needed. But even if you get your 7.5-8.5 hours a night, there are likely still things you can improve. Are you also sleeping deeply? Do you wake up frequently throughout the night? A sleep tracker will tell you.
 

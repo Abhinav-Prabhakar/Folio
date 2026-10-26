@@ -20,7 +20,7 @@ Take a breath. Relax. You don’t have to be so stressed about work and we’re 
 
 ## Lesson 1
 
-### Work won’t be so crazy if you treat your company like it was a product.
+### Work won’t be so crazy if you treat your company like it was a product
 
 In my old engineering job, I had managers who consistently put in 60 hour weeks or longer. They’d be the first to come in and the last to leave. And most of the time they wore their weariness from it like a badge of honor.
 
@@ -38,7 +38,7 @@ And don’t forget that just like software, companies and individuals will end u
 
 ## Lesson 2
 
-### You can get more out of the workday if you don’t waste so much time in unimportant meetings and other time sinkholes.
+### You can get more out of the workday if you don’t waste so much time in unimportant meetings and other time sinkholes
 
 As cofounders of their business, Fried and Hansson have done something radical for their employees. They’ve let them have an eight-hour workday. Doesn’t sound crazy to you? Well in this day, most managers don’t think this is enough.
 
@@ -52,7 +52,7 @@ One way that Basecamp, the authors’ company, does this is by getting rid of us
 
 ## Lesson 3
 
-### Relaxation, confidence, and decisiveness are all results of taking calculated risks.
+### Relaxation, confidence, and decisiveness are all results of taking calculated risks
 
 Although it’s not always a fun thing, risk is absolutely necessary in business. No matter what you do, there will always be some amount of uncertainty involved.
 
@@ -69,7 +69,5 @@ Often the best way forward is to look for new ways to make testing your product 
 ## Review
 
 I feel like every self-improvement book about work is either saying “go harder” or “be reasonable,” and *It Doesn’t Have To Be Crazy At Work* is definitely more of the latter, which I really like. It’s great to have ambitions, but this really helps put everything into perspective of what’s actually achievable. Now if we could only get more employers to catch on to these reasonable measures!
-
-## Who it’s for
 
 The 38-year-old manager who thinks that his employees aren’t as good if they work less than 45 hours a week, the 24-year-old who is just starting her career and wants to make sure to have work-life balance, and anyone that would like to feel less stress about work.

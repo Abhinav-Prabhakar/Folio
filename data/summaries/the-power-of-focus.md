@@ -20,7 +20,7 @@ Here are my three favorite lessons:
 
 ## Lesson 1
 
-### In order to become more productive, we must create healthy habits and stick to them.
+### In order to become more productive, we must create healthy habits and stick to them
 
 Every day you wake up, there are certain things you do out of habit, such as brushing your teeth. You don’t waste time thinking about whether you should do that, or how to do it. Along the day, there are dozens of things you do the same way. But what if you could automate productivity as well?
 
@@ -32,7 +32,7 @@ For example, if you’re looking to increase your net worth, you can consult wit
 
 ## Lesson 2
 
-### Use the Problem Solver method to overcome the challenges and setbacks.
+### Use the Problem Solver method to overcome the challenges and setbacks
 
 Everybody experiences setbacks. It could be that your bills for the month skyrocketed, or that you experienced a negative event in your personal life. Although the circumstances differ for each one of us, the Problem Solver method functions as a universal cure.
 
@@ -44,7 +44,7 @@ Then, look for information that will help you achieve the desired outcomes. Rese
 
 ## Lesson 3
 
-### Procrastination hinders the decision-making process by stealing our time and focus.
+### Procrastination hinders the decision-making process by stealing our time and focus
 
 Our natural inclination to postpone and procrastinate is what created this unproductive habit that makes us lose our focus. Therefore, we must break this trait, starting with identifying the cause. Usually, it is one of these four reasons: boredom, an overwhelming amount of work, unenjoyable work, or plain laziness.
 
@@ -59,7 +59,5 @@ Try to be more objective with yourself and act as if you were a parent catching 
 ## Review
 
 *The Power of Focus* is an asset for anyone willing to break unproductive habits and become proactive. After reading this book, its readers will be able to take their life into their own hands and understand how small actions shape their future. The key insights are the hands-on approaches that the authors reveal, which can help anyone shift their mindset.
-
-## Who it’s for
 
 Entrepreneurs and motivated individuals who want to make a change in their life and achieve their objectives, the person who’s trying to become proactive and take charge of their life, or anyone looking for guidance to become the best version of themselves and get rid of unproductive habits.

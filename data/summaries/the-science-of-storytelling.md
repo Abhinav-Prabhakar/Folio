@@ -24,7 +24,7 @@ Once upon a time, there was a book that could teach us how to tell good stories.
 
 ## Lesson 1
 
-### It’s part of human nature to like stories.
+### It’s part of human nature to like stories
 
 Is what you’re experiencing right now a simulation? If you’ve ever wondered this you’re not alone. And you’ll be interested to discover that there is some truth to the idea.
 
@@ -42,7 +42,7 @@ We use stories in the same way today to help us understand others around us and 
 
 ## Lesson 2
 
-### Give your characters flaws if you want to write the kind of story that gets people’s attention.
+### Give your characters flaws if you want to write the kind of story that gets people’s attention
 
 One side effect of your brain always casting you as the hero of your stories is that it makes you morally above everyone else. This is one reason that you’re so bad at seeing your own weaknesses. But seeing other’s inadequacies can help.
 
@@ -58,7 +58,7 @@ Additionally, because you enjoy setting and achieving meaningful goals that you 
 
 ## Lesson 3
 
-### At the heart of every great tale is a change in status.
+### At the heart of every great tale is a change in status
 
 Status is a big deal in the animal kingdom. Crickets keep track of how many times they’ve won against their enemies. Chimps watch alphas closely to determine if it’s time for a new leader. And our species is the same.
 
@@ -75,7 +75,5 @@ Status changes also spur on the deconstruction of long-held belief systems, whic
 ## Review
 
 I’ve read a lot of books about storytelling recently and *The Science Of Storytelling* has to be one of the best. It reminded me how enjoyable stories are just for their own sake, not just how useful they are in marketing. Recommended!
-
-## Who it’s for
 
 The 49-year-old journalist that wants to learn how to use persuasion better, the 29-year-old that wants to become a great writer, and anyone that’s curious to know why they get sucked into every story in a podcast, book, or movie.

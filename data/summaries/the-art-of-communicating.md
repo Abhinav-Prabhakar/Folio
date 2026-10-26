@@ -22,7 +22,7 @@ Let’s dive right in and discover the connection between mindfulness and commun
 
 ## Lesson 1
 
-### You either nourish or harm others with every word you speak.
+### You either nourish or harm others with every word you speak
 
 We learn there are two main kinds of speech: nourishing and toxic. Like food, some communication can nourish our bodies, and other communication can be poisonous. Nourishing speech seeks to understand and remains positive. Toxic speech is negative and makes you feel emotions like anger or frustration.
 
@@ -34,7 +34,7 @@ This can also help you be more immune to others’ toxic speech. **Mindfulness w
 
 ## Lesson 2
 
-### To get better at communicating with others, learn how to understand yourself better.
+### To get better at communicating with others, learn how to understand yourself better
 
 You probably spend a good amount of your day talking to others. Maybe this is in person with family or clients, or maybe it’s online through email. But do you spend a lot of time communicating with yourself? Probably not.
 
@@ -48,7 +48,7 @@ Through mindfulness, she can come to realize that her problem with her partner i
 
 ## Lesson 3
 
-### Your loving speech nurtures others when you are honest and compassionate with them.
+### Your loving speech nurtures others when you are honest and compassionate with them
 
 Hanh tells of a Vietnamese saying that says “it doesn’t cost anything to have loving speech.” If we choose our words wisely, we can make others happy. How can we have loving speech?
 
@@ -61,7 +61,5 @@ Hanh shares a story about Buddha that illustrates this concept. A person once as
 ## Review
 
 And mindfulness knocks it out of the park again! I love Thích Nhất Hạnh’s way of relating this remarkable tool to just about every aspect of life. *The Art Of Communication* gives a much-needed perspective on relating to others that has the power to improve any relationship!
-
-## Who it’s for
 
 The 32-year-old who wants to become more outgoing but struggles to connect with others, the 57-year-old that doesn’t understand their adult children very well and would like to become closer with them, and anyone who wants to become better at communicating.

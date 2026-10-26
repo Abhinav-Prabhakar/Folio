@@ -20,7 +20,7 @@ Do we have permission to take off? Great!
 
 ## Lesson 1
 
-### Ads that rely on interrupting people are dead.
+### Ads that rely on interrupting people are dead
 
 Man, looking back, marketing in the 1950’s must’ve been a dream. Color TV became available on a big scale and people’s eyes were glued to the tiny boxes in their living rooms.
 
@@ -38,7 +38,7 @@ You can save that money you were going to spend on posters and flyers, Seth has 
 
 ## Lesson 2
 
-### Give people a chance to volunteer their attention and you’ll build a much better customer base.
+### Give people a chance to volunteer their attention and you’ll build a much better customer base
 
 We now live in the age of *Permission Marketing*. Not only does it sound a lot nicer, if done right, it’s also much more effective than the old ways. Here’s how it works:
 
@@ -83,7 +83,5 @@ I would never have become interested, nor involved in any marketing activities w
 We can let honesty, hard work and great service rule and work with the people who choose to work with us. No need for scams and marketing bullshit.
 
 *Permission Marketing* is packed with much more insights, details and case studies, but the summary gives a great overview of the history of marketing and how permission marketing works in specific cases. Thumbs up for both!
-
-## Who it’s for
 
 The 24 year old with no online presence, the 74 year old with no online presence, and anyone who works in a company that still relies on interruption marketing.

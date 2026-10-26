@@ -20,7 +20,7 @@ Ready to jump out of the fish bowl and into the open sea? It’s time for a big 
 
 ## Lesson 1
 
-### We artificially limit our happiness, because we don’t think we deserve to have it all.
+### We artificially limit our happiness, because we don’t think we deserve to have it all
 
 In the early 19th century, engineers figured out how to use steam engines to power wheels and thus, the steam locomotive was born. First used only to transport goods and resources, people quickly discovered it’d be a great means of transport as well. However, due to the state of science at the time, early adopters suggested to never run trains at more than 30 mph, for the human bodies on board would just explode.
 
@@ -32,7 +32,7 @@ In *The Happiness Hypothesis*, Jonathan Haidt explained that we all have a biolo
 
 ## Lesson 2
 
-### Two common upper limits are fear and self-sabotage.
+### Two common upper limits are fear and self-sabotage
 
 So, why did I blow my relationship with the people who wanted to promote the heck out of me? I sabotaged myself. That’s it. Since we have this subconscious idea of how much happiness we deserve, we tend to ruin ourselves for no apparent reason, if things start going too well for us. Hendricks calls this **an upper limit mindset, as a result of which we create fake drama and unnecessary problems**.
 
@@ -44,7 +44,7 @@ Since fear isn’t something you can rid yourself of completely, Hendricks sugge
 
 ## Lesson 3
 
-### There are four zones of work and the Zone of Genius is where we should strive to be.
+### There are four zones of work and the Zone of Genius is where we should strive to be
 
 Transferring this idea of lasting happiness to your career, Hendricks claims work shouldn’t really feel like work. You want time to flow by for a few hours and emerge inspired, ready to pick up where you left off the next day. To achieve this, you need to work in what Hendricks calls your Zone of Genius. It’s one of four different stages of work:
 
@@ -60,7 +60,5 @@ So, what are you waiting for? If you’re not going to choose yourself, who will
 ## Review
 
 This book is more on the motivational side, but it does hold practical exercises as well. If you’re stuck on making a big decision or are fed up with your own perspective on life, *The Big Leap* is a good read to pick up.
-
-## Who it’s for
 
 The 17 year old with plenty of spare time to figure out her career trajectory, if only she tries, the 52 year old, who’s bottled up marriage issues for over a decade now, and anyone who regularly struggles with impostor syndrome.

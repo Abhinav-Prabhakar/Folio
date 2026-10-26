@@ -18,7 +18,7 @@ Ready to wake up your inner giant? Let’s do it!
 
 ## Lesson 1
 
-### Associate bad habits with pain and good ones with pleasure.
+### Associate bad habits with pain and good ones with pleasure
 
 A very simple framework to look at the world is this: **All of our actions are aimed at either avoiding pain or getting pleasure.** Going to the job you don’t like is something you do to avoid the pain of not being able to pay rent. Listening to your favorite song should lift your mood. And so on.
 
@@ -30,7 +30,7 @@ Eventually, you’ll have to replace your bad habit with a new, better, more pos
 
 ## Lesson 2
 
-### Use different words to end up in a different state of mind.
+### Use different words to end up in a different state of mind
 
 If you’ve ever seen Tony Robbins in action, you know he’s a powerful guy in every sense of the word. He’s tall, big, loud, and has a very positive aura. Something you might have not picked up on is his vocabulary. Tony always uses expressive and unusual language to reinforce positive emotions and play down negative ones.
 
@@ -46,7 +46,7 @@ For example, instead of saying that lying in the sun makes you feel happy, you c
 
 ## Lesson 3
 
-### Make up your own rules and tell other people about them to increase your happiness.
+### Make up your own rules and tell other people about them to increase your happiness
 
 “I’m having a long day at work today, but I know I’ll feel great once I sit down on my couch after I come home.”
 
@@ -61,7 +61,5 @@ Secondly, **communicate your rules as much as you can**, because you can’t pos
 Tony Robbins is always worth spending some time with, no matter in what format. Even 25 years later, *Awaken The Giant Within* still has a massive capacity to inspire you and give you actionable steps to start changing your life for the better, today. I especially loved using better language, because it’s an easy win.
 
 Tony is giving away a few excerpts from the book, around 100 pages out of the original 500+, so that’s a good next step to take. The summary on Blinkist is quite long as well and covers a good bunch of his ideas.
-
-## Who it’s for
 
 The 20 year old, who’s shy and not sure how to make it in this crazy world, the 39 year old with a tough and sometimes frustrating job, who often uses the wrong words to describe her situation, and anyone who feels like their happiness is out of their control.

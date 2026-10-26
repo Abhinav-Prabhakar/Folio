@@ -20,7 +20,7 @@ Ready to learn more about how you think, based on what you say? Here we go!
 
 ## Lesson 1
 
-### You can see how close-knit a society is, based on the grammatical complexity of its language.
+### You can see how close-knit a society is, based on the grammatical complexity of its language
 
 It’s impossible to say whether one language is more difficult to learn than another. German and Chinese, for example, have a reputation of being hard to pick up, but in reality, this highly depends on what languages you *already* speak.
 
@@ -36,7 +36,7 @@ For example, in the sentence “the two went back there” the word “there” 
 
 ## Lesson 2
 
-### Depending on what language requires us to say, our thinking changes.
+### Depending on what language requires us to say, our thinking changes
 
 These grammatical rules not just affect how easily we can pass on information, but also how we think in the first place, because they change the requirements the words we speak have to meet.
 
@@ -48,7 +48,7 @@ Take German, Spanish, or French, for example, all languages in which the gender 
 
 ## Lesson 3
 
-### People, who speak languages with gendered nouns, perceive the world a lot differently, depending on those genders.
+### People, who speak languages with gendered nouns, perceive the world a lot differently, depending on those genders
 
 Interestingly, this effect doesn’t stop at living things. In fact, German has three different noun markers: male, female and neutral, and every noun in the language is assigned one of the three. Spanish only has male and female, and sometimes, the two languages use a different one for the same noun.
 
@@ -59,7 +59,5 @@ This even affects how well you can remember the thing in question, for example a
 ## Review
 
 *Through The Language Glass* was sure an out-of-the-box read! I had some real aha moments here. Considering most people speak over 15,000 words per day (!), it’d sure be wise to learn more about how your language changes what happens in your brain and what comes out of your mouth, don’t you think? A good read!
-
-## Who it’s for
 
 The 18 year old college student with a major in linguistics or sociology, the 29 year old professional translator, and anyone who wants to know more about their own language.

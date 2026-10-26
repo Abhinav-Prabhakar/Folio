@@ -63,6 +63,4 @@ The key isn’t to have everything figured out, but to be aware of these four ca
 
 *Not Today* is your go-to guide for becoming more efficient, getting things done in a smart way by cutting back on procrastination, and overcoming life barriers with success. The book goes in detail about the personal lives of Mike and Erica Schultz, who faced great challenges in parenting an ill child, running a business, and being proactive in their community in the meantime. This book will teach you how to live an extraordinary life and get past barriers by simply efficientize your days and categorizing time.
 
-## Who it’s for
-
 The 25-year-old graduate who finds it hard to keep up with their freshly started career on top of a personal life, the 27-year-old freelancer who spends the whole day in front of their laptop but does little to no work, or the 37-year-old parent who faces challenges in their personal life but needs to maintain focus on all areas of their life in the meantime.

@@ -20,7 +20,7 @@ Are you ready to have a better time when you’re in between the sheets with you
 
 ## Lesson 1
 
-### Not all ways to reach sexual climax are equal.
+### Not all ways to reach sexual climax are equal
 
 Fair warning, what we’re about to get into is not safe for work. But that doesn’t mean you shouldn’t read it at home!
 
@@ -38,7 +38,7 @@ And if you still doubt the power of the clitoris, consider this. There are peopl
 
 ## Lesson 2
 
-### Get to know the clitoris, it’s location, and how to stimulate it if you want to have the best sex of your life.
+### Get to know the clitoris, it’s location, and how to stimulate it if you want to have the best sex of your life
 
 If you’re starting to catch on you might now wonder how to stimulate the clitoris correctly. The key is cunnilingus, which is oral sex on a woman. But to get it right, you first have to understand the anatomy of the area.
 
@@ -63,7 +63,7 @@ You can stimulate each of these parts during sex for maximum pleasure, but you�
 
 ## Lesson 3
 
-### Don’t just think of sex in terms of foreplay and intercourse, it’s about foreplay, coreplay, and moreplay.
+### Don’t just think of sex in terms of foreplay and intercourse, it’s about foreplay, coreplay, and moreplay
 
 It might be easy to just think of sex in terms of preparing, getting it done, and then falling asleep. But this is what average people do and they don’t have great sex. If you really want to reach a new level of pleasure, you should go for multiple orgasms.
 
@@ -84,7 +84,5 @@ Coreplay comes next, and this is time to perform cunnilingus, which the author g
 ## Review
 
 Even though I felt a little awkward about this one at first, I’m super glad I read *She Comes First*. The thing about sex is that nobody talks about it, which means that relationships suffer from sex illiteracy and many never find out that they can have great sex or how it’s done. If we were all a little more open about these things and read more books like this one, I think everybody would be happier.
-
-## Who it’s for
 
 The 37-year-old man who wants to improve his wife’s experience in the bedroom, the 23-year-old woman who thinks she knows everything about having great sex, and anyone that would like to become a better lover.

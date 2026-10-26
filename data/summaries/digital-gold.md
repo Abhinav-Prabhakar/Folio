@@ -18,7 +18,7 @@ Let’s jump right in and see what we can learn about Bitcoin!
 
 ## Lesson 1
 
-### The intricacies of Bitcoin are fascinating and useful.
+### The intricacies of Bitcoin are fascinating and useful
 
 In January of 2009, an anonymous internet user under the name Satoshi Nakamoto had an idea that would change the world forever– a digital currency called *Bitcoin.*
 
@@ -26,7 +26,7 @@ Aside from being a completely digital form of money, it also differs from cash i
 
 Another difference with Bitcoin is that there isn’t a centralized authority. National economies can do things like create more money at will or freeze bank accounts, meaning they have real control of your money. With Bitcoin, there is an established amount of currency that no one person has control of.
 
-**Further, unlike a bank account where transactions are secret, Bitcoin has a communal database called the *blockchain*that everyone can see.** This way, everyone can see every transaction as well as every Bitcoin in existence and who has them.
+**Further, unlike a bank account where transactions are secret, Bitcoin has a communal database called the *blockchain* that everyone can see.** This way, everyone can see every transaction as well as every Bitcoin in existence and who has them.
 
 But while your transactions aren’t private like a bank account, you do have the potential to be completely anonymous. There is no limit on how many accounts, or *wallets* a user can have, and no form of identification or even name is needed to create one, just an email address.
 
@@ -36,7 +36,7 @@ Public-key cryptography has two parts: private and public. The public part allow
 
 ## Lesson 2
 
-### Argentina’s financial crisis is the perfect example of how Bitcoin is going to change the world.
+### Argentina’s financial crisis is the perfect example of how Bitcoin is going to change the world
 
 The people of Argentina know that their government’s financial experiments don’t work. This has meant financial crisis and severe inflation followed by failed attempts to fix the problems. This laid the path for Bitcoin to enter the scene.
 
@@ -50,7 +50,7 @@ Since 2013, the Argentine peso has fallen an additional 25 percent compared to t
 
 ## Lesson 3
 
-### Bitcoin is superior to traditional money in a lot of ways.
+### Bitcoin is superior to traditional money in a lot of ways
 
 Just like the advent of the internet freed information and communication all around the world, many think Bitcoin has the potential to free money from banks and governments. They might be right about this.
 
@@ -65,7 +65,5 @@ Bitcoin may be a new thing, but it’s clear it has the potential to change the 
 ## Review
 
 Bitcoin is so cool! It’s always been in the back of my mind since a few years ago when I heard about some of my neighbors who were going to try to live off of it. It makes me want to find out how that went for them. Today I’ve invested a little bit in it and am excited to have books like *Digital Gold* to teach me all about it!
-
-## Who it’s for
 
 The 57-year-old who doesn’t know what cryptocurrency is and is skeptical about it, the 41-year-old that doesn’t have much trust in banks, and anyone who wonders why only smart people know about and invest in Bitcoin.

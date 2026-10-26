@@ -16,11 +16,9 @@ Here are 3 of the most lovely lessons from this book:
 
 Are you ready to learn how to grow closer to the people you love most? Let’s learn how!
 
-### The 5 Love Languages Summary
-
 ## Lesson 1
 
-### As your relationship changes, communication will make it last.
+### As your relationship changes, communication will make it last
 
 Falling in love is amazing. There’s blushing, butterflies, flirting, and infatuation. We see the world through rose-colored glasses that can blur even our best judgment. As unromantic as it may sound, it’s driven by the instinctual drive to continue our species.
 
@@ -34,7 +32,7 @@ Just like talking to someone who speaks an unfamiliar language, effectively comm
 
 ## Lesson 2
 
-### The five love languages are the different ways in which we express that we love someone.
+### The five love languages are the different ways in which we express that we love someone
 
 Most languages have ways beyond words to express yourself. The same goes for love: There are different ways to show it. Here are five Chapman describes:
 
@@ -48,7 +46,7 @@ Remember: There are many ways to show someone you love them. Be sure to use them
 
 ## Lesson 3
 
-### To be closer with your significant other, learn each other’s love languages.
+### To be closer with your significant other, learn each other’s love languages
 
 Now that you know the five love languages, you can figure out what your primary language is. Then, with the help of your partner, discover what theirs is.
 
@@ -67,7 +65,5 @@ You can help your partner feel more loved, appreciated, and understood the way i
 ## Review
 
 *The 5 Love Languages* is essential for anyone who is in a serious relationship or ever plans to be in one. It will help couples understand each other better by teaching them how to find what their love language is. By explaining the love languages, it serves as a guide so couples can communicate better and build a relationship that lasts.
-
-## Who it’s for
 
 The 40-year-old married couple who feels that their love is waning, the 26-year-old newlyweds who are wanting to set solid ground for their marriage, and anyone in a relationship or considering one.

@@ -20,7 +20,7 @@ Are you ready to start helping the world with your head rather than your heart? 
 
 ## Lesson 1
 
-### Our empathy is selective and biased, and we don’t realize it.
+### Our empathy is selective and biased, and we don’t realize it
 
 Putting ourselves in the shoes of someone else doesn’t seem all that bad. The problem is, we can’t put ourselves into the shoes of *everyone,* making it biased.
 
@@ -32,7 +32,7 @@ Sometimes our concern for other people comes dependent on our perception of whet
 
 ## Lesson 2
 
-### Empathy can lead us to make bad decisions.
+### Empathy can lead us to make bad decisions
 
 Sometimes, empathy can drive us to fix problems in the short term, which ends up bad for the long term. Think of a child crying desperately in the store for a sucker. Sometimes, the parent’s empathy kicks in, and they may buy the sucker. Sure, this helps the short term goal of calming the child down. But how about that long term goal of raising a kid without spoiling them rotten? Not so much.
 
@@ -42,7 +42,7 @@ It also can be dangerous when we feel such strong feelings of empathy for a mino
 
 ## Lesson 3
 
-### Try rational compassion instead of empathy.
+### Try rational compassion instead of empathy
 
 There’s no denying that empathy does drive people to do good things. But there are better, less flawed reasons to help others. If you see a child drowning in a river, what motivates you to help? Probably not empathy for the child as much as just the fact that it’s the right thing to do. You don’t have to *feel* the desperation and fear of the drowning child in order to help. It actually would probably make things a lot harder if you did.
 
@@ -55,7 +55,5 @@ He also recommends a more depersonalized approach to helping others that focuses
 ## Review
 
 *Against Empathy* is very compelling, and it’s meant to capture your attention by calling out a societal norm so idealized that you think he can’t be serious at first. But rest assured, he’s serious, and his argument is surprisingly persuasive. Bloom’s points about why empathy hinders us are solid and thought-provoking.
-
-## Who it’s for
 
 The 20-year-old psychology student, the 58-year-old philanthropist who wants to his help to extend to more people who need it, and anyone who likes a good philosophical debate.

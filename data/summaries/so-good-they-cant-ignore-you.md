@@ -18,7 +18,7 @@ Ready to let your passion find you? Let’s go!
 
 ## Lesson 1
 
-### Don’t do what you love, but learn to love what you do.
+### Don’t do what you love, but learn to love what you do
 
 When finding himself having to decide between a job at Microsoft, a professorship at Georgetown University, and a career as a full-time writer, Cal didn’t deliberate anxiously for weeks, which is what most people would have done, in order to not choose the wrong one.
 
@@ -38,7 +38,7 @@ That means as long as you work hard and eventually become a master of your craft
 
 ## Lesson 2
 
-### Become a craftsman to collect the skills you need.
+### Become a craftsman to collect the skills you need
 
 The likely reason why 43% of Americans are unhappy at their jobs, is that they constantly ask themselves what they want, instead of asking **“What value can I bring to my job?”.**
 
@@ -52,7 +52,7 @@ When you become a craftsman you’ll seek out those problems at work which you c
 
 ## Lesson 3
 
-### Consider saying no to a raise to keep your control.
+### Consider saying no to a raise to keep your control
 
 In the course of becoming better and better at work, you’ll probably be awarded with more responsibility and autonomy as you go along.
 
@@ -75,7 +75,5 @@ Saying no to a raise will not only let you keep your hard earned control, it’l
 I remember loving the term “craftsman mindset” when I first read the summary of this book on Blinkist. Don’t we all want to be someone who crafts things? It’s easy for me to work and stay motivated – I know I love writing. But that also means I can get carried away and puzzled at others who haven’t found their passion.
 
 Yet, my advice has always been similar to Cal’s – stop thinking and start creating. There rings so much truth in this book, which will not only make you feel less pressured but also get your butt in gear. I keep re-reading parts of it every now and then because it just takes a while until you’re… *So Good They Can’t Ignore You*.
-
-## Who it’s for
 
 The 25 year old recent graduate, who is faced with seemingly difficult career choices to make, the 35 year old, who wonders why she feels worse after her raise, and anyone who doesn’t spend part of his or her time creating just yet.

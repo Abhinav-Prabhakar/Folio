@@ -14,11 +14,9 @@ Here are 3 lessons about power to help you understand it better:
 
 Want to discover where Kanye gets his power? Let’s study the actual laws of the world!
 
-### The 48 Laws of Power Summary
-
 ## Lesson 1
 
-### Always make superiors look smarter than you.
+### Always make superiors look smarter than you
 
 Here’s one surefire way how to *not* get promoted: When your boss comes across a problem she can’t solve on her computer, go to her, and, as you fix it, say: “Seeeeee? *That’s* how you do it. No problem, I’m happy to help!”
 
@@ -30,7 +28,7 @@ For example, when Galileo Galilei discovered the four moons of Jupiter, he could
 
 ## Lesson 2
 
-### Make errors on purpose to confuse your competition.
+### Make errors on purpose to confuse your competition
 
 Sometimes the competition seems to always be one step ahead of you. That’s likely because they’ve invested time and energy into researching you and finding out your behavior patterns. When that happens, your best move is to act unpredictably. Do the opposite of what you think people expect, make a mistake on purpose, or just disappear for a while.
 
@@ -44,7 +42,7 @@ Bobby Fischer used this exact strategy to confuse Boris Spassky in their match f
 
 ## Lesson 3
 
-### Seduce others into voluntarily doing what you want them to, instead of forcing them.
+### Seduce others into voluntarily doing what you want them to, instead of forcing them
 
 Even when you’re in a position of power already, people won’t always do what you want them to. When that’s the case, you should **never resort to trying to force people to obey**. Instead, make it impossible for them *not* to do what you’d like them to by **seducing them**.
 
@@ -57,7 +55,5 @@ Raw force only breeds resentment, so use seduction instead.
 ## Review
 
 If you’re a “Mr. Nice Guy” like me, *The 48 Laws Of Power* won’t tell you what you want to hear. However, it might be what you *need* to hear, at least in some cases. I don’t agree with all the laws, but there’s a solid reason behind each of them. All in all a great read with lots to learn! Check out *The Laws of Human Nature* after that.
-
-## Who it’s for
 
 The 19 year old, who gets bullied in college for being a nerd, the 31 year old “overnight” celebrity, who struggles with dealing with the sudden fame and attention, and anyone who wants to learn more practical lessons from history than the ones taught in school.

@@ -20,7 +20,7 @@ Now, let’s dig a little deeper into these lessons!
 
 ## Lesson 1
 
-### Humans are naturally inclined to favor their families over anything else.
+### Humans are naturally inclined to favor their families over anything else
 
 Humans are social creatures. From the beginning of time, people have been looking for ways to cooperate and live with each other. That will never change. We thrive in social cooperation, and that is how the complex social layers of today came to life.
 
@@ -34,7 +34,7 @@ As these relationships became more complex and defined, politics were born, and 
 
 ## Lesson 2
 
-### States that seek long-term survival must always adapt to the people and the political environment.
+### States that seek long-term survival must always adapt to the people and the political environment
 
 Throughout time, societal layers and roles developed. In tribes, there was no ruler, but families and third parties solved disputes about property ownership or justice matters.
 
@@ -48,7 +48,7 @@ Middle Eastern dictators seemed to be one step ahead, as they hindered family co
 
 ## Lesson 3
 
-### The masses will always win in the long run and favoritism for the rich can only last so much.
+### The masses will always win in the long run and favoritism for the rich can only last so much
 
 Europe met a distinctive evolution once the Catholic religion spread and the church represented one of the greatest authorities. It valued family ties, and so it diminished the desire of people to rise against their states.
 
@@ -67,7 +67,5 @@ Therefore, history makes it clear that unification starts with inclusion and end
 Francis Fukuyama takes the reader on a historical walk through the construction and evolution of the present-day states. The book highlights not only the rise and fall of notorious empires from all over the world but also the reasons behind them, most of the time linked to improper governance systems.
 
 *The Origins of Political Order* will broaden your perspective on human nature in relation to the machine behind today’s society. Its readers will learn about the contextual development of China, the Middle East, Europe, India, and other countries, and what made them so alike in the past, but so fundamentally different today.
-
-## Who it’s for
 
 The curious 24-year-old who wants to dive deeper with his lectures and explore more complex topics, the retired 55-year-old who finds leisure in learning and cultivating his knowledge, and any history enthusiast who enjoys reading and wants to broaden their horizon.

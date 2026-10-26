@@ -20,7 +20,7 @@ Ready to start your own company? After this, you’ll know how to! Let’s go!
 
 ## Lesson 1
 
-### The foundation of a great business model begins with customer groups, value propositions, and market channels.
+### The foundation of a great business model begins with customer groups, value propositions, and market channels
 
 Look around you right now. Are you in the car? On the phone? Maybe you’re sitting in a cafe. Whatever you’re doing, you are surrounded by businesses. Although they all have different purposes, they all have one thing in common. Every business creates value for its customers.
 
@@ -34,7 +34,7 @@ The next step is to figure out how you’re going to reach your audience. This i
 
 ## Lesson 2
 
-### Resources, ways to make money, and relationships with your customers are all vital things to plan to have a successful company.
+### Resources, ways to make money, and relationships with your customers are all vital things to plan to have a successful company
 
 You know who you’re serving and how you’re meeting their needs and the ways you’ll reach them. Now you need to identify what relationship you want to have with them. This step is vital.
 
@@ -50,7 +50,7 @@ Materials, buildings, and equipment are all examples of physical resources you n
 
 ## Lesson 3
 
-### Know your costs, who you’ll work with, and what you do each day to finish your business plan.
+### Know your costs, who you’ll work with, and what you do each day to finish your business plan
 
 Just like you have to exercise if you want to keep your body healthy, you need to know the activities that will make your business healthy. This includes platform or network hosting, problem-solving, and production.
 
@@ -65,7 +65,5 @@ In contrast, value-driven companies brush aside how expensive it is to take care
 ## Review
 
 I really enjoyed *Business Model Generation* because I can see the importance of planning when creating a business from the ones I’ve started recently. To be honest, these steps are some of the least fun of being an entrepreneur. But doing them is the difference between success and failure.
-
-## Who it’s for
 
 The 29-year-old who wants to begin working for themselves but isn’t sure how to start, the 54-year-old executive who wants to get back to the basics for success in their company, and anyone that would like to be an entrepreneur.

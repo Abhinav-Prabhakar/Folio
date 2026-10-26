@@ -16,11 +16,9 @@ Here are your 3 must-takeaways:
 
 Ready to science the heck out of your habits? Let’s go!
 
-### The Power of Habit Summary
-
 ## Lesson 1
 
-### Habits work in 3-step loops: cue, routine, reward.
+### Habits work in 3-step loops: cue, routine, reward
 
 Roughly 40% of what you do happens on autopilot.
 
@@ -46,7 +44,7 @@ That’s how habits are built and the stronger this link gets, the harder it bec
 
 ## Lesson 2
 
-### You can change your habits by substituting just one part of the loop, the routine.
+### You can change your habits by substituting just one part of the loop, the routine
 
 Naturally, the more often you reinforce a habit, the more embedded in your brain it gets.
 
@@ -62,7 +60,7 @@ You’ll still have the entire experience from A to Z, but instead of pressing a
 
 ## Lesson 3
 
-### Your most important habit is willpower, and you can strengthen it over time in 3 ways.
+### Your most important habit is willpower, and you can strengthen it over time in 3 ways
 
 Not all habits are created equal and Duhigg says willpower is by far one of the most important ones, as it helps us do better in all aspects of life.
 
@@ -79,7 +77,5 @@ Focus on improving these important, big aspects of your life over minor hacks, a
 ## Review
 
 Duhigg has managed to combine the scientific research with his own ideas and personal experiences in such a way that the book tells many extremely compelling stories, while teaching you everything you need to know about habits. If I could have you read only one book this year, this would be it – although Duhigg has published a new book in 2016, *Smarter Faster Better*, hmmm. Nah, go with *The Power Of Habit*!
-
-## Who it’s for
 
 The 9 year old, who always has a cookie after lunch, and might want to know why, the 28 year old, who struggles with sticking to her new diet, and anyone who has less willpower than they’d like to have.

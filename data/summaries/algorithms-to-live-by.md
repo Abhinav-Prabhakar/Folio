@@ -20,7 +20,7 @@ Ready to make your life easier with some plug-and-play recipes for productivity?
 
 ## Lesson 1
 
-### Organize your stuff faster using a variety of sorting algorithms.
+### Organize your stuff faster using a variety of sorting algorithms
 
 Einstein was notoriously known as a walking source of chaos, and he’s famously credited with saying:
 
@@ -38,7 +38,7 @@ Pretty cool, huh?
 
 ## Lesson 2
 
-### Don’t waste time managing your time, just pick a to-do list algorithm and go.
+### Don’t waste time managing your time, just pick a to-do list algorithm and go
 
 Do you know the frustration when managing your time becomes a waste of time in itself? When you look at the clock and realize you’ve spent two hours organizing your day, which means now you won’t have enough time left to take care of everything you’ve set out to do?
 
@@ -56,7 +56,7 @@ Especially for hard work, the ultimate algorithm is still to enter deep work mod
 
 ## Lesson 3
 
-### Make better decisions for yourself and for others with game theory and mechanism design.
+### Make better decisions for yourself and for others with game theory and mechanism design
 
 Game theory is a field of economics that deals with how rational people make decisions, based on other peoples’ choices. For example, depending on whether your friend buys a street they land on in a game of Monopoly, or not, you’ll make a different move next in order to win.
 
@@ -69,7 +69,5 @@ Mechanism design is a bit easier, asking **what would force yourself to make the
 ## Review
 
 I knew all of the algorithms or at least had seen them before in college. They actually come from a variety of fields: economics, operations research, statistics and of course programming. *Algorithms To Live By* really shows that algorithms aren’t just a thing of computers – they permeate our whole world, and learning to see and use patterns to your advantage is one of the best “life hacks” you can get going for yourself. Highly recommended!
-
-## Who it’s for
 
 The 15 year old, who doesn’t want to clean up her room, but her Mom keeps telling her to do it, the 29 year old manager with a time problem, and anyone who loves playing Monopoly.

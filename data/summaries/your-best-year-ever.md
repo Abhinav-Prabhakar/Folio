@@ -22,7 +22,7 @@ Are you looking forward to having *Your Best Year Ever*? Let’s get right to it
 
 ## Lesson 1
 
-### Choose what areas of life to work on wisely and your efforts will multiply across many different categories.
+### Choose what areas of life to work on wisely and your efforts will multiply across many different categories
 
 The best place to begin is to find out where you’d like to be a year from now. What does an outstanding year look like to you? To find out, simply journal about the answer to that question. Write freely and don’t edit or hold back.
 
@@ -49,7 +49,7 @@ You’ll become more productive at work, for example, if things are good in your
 
 ## Lesson 2
 
-### Set your goals high but not so lofty that they discourage you.
+### Set your goals high but not so lofty that they discourage you
 
 I love talking with people about their goals. One thing I hear often is that they feel their goals are too much, that they’re unattainable. I always tell people that those kind of goals are good if you plan them correctly.
 
@@ -59,13 +59,13 @@ If you want to write a book, for example, you’re not going to be a Nobel Prize
 
 On the other hand, if you give yourself too long to finish your book, you’re more likely to give up when things get boring.
 
-**The sweet spot for your goals and plans is what Hyatt calls the*discomfort zone*.** It’s that place where you’re just outside of your comfort zone enough that you’re going to grow, but not too far that the difficulty pushes you away.
+**The sweet spot for your goals and plans is what Hyatt calls the *discomfort zone*.** It’s that place where you’re just outside of your comfort zone enough that you’re going to grow, but not too far that the difficulty pushes you away.
 
 To find this perfect middle ground, ask yourself if the goal is attainable for where you’re at, but make sure it makes you a little uncomfortable.
 
 ## Lesson 3
 
-### Get a team or partner if you want your chances of success to rise significantly.
+### Get a team or partner if you want your chances of success to rise significantly
 
 Last year I was struggling to figure out a good pattern of productivity after beginning to work for myself. At the recommendation of a friend, I hired a coach to help me stay accountable. My rate of progress quickly improved like I hadn’t ever imagined possible.
 
@@ -82,7 +82,5 @@ They can see things that we need to improve and ways to do it that would have ta
 ## Review
 
 *Your Best Year Ever* is one of my new favorite books. The advice it gives is simple, new, and highly actionable. I think this is going to be the one that helps you finally start sticking with your goals!
-
-## Who it’s for
 
 The 19-year-old who wants to become a better person but isn’t sure how, the 40-year-old who is tired of living the same old life and wants to finally change, and anyone that feels like they lose motivation quickly and has a hard time following through with their goals.

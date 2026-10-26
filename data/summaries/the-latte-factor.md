@@ -20,7 +20,7 @@ Do you want to leverage your income to achieve your dreams and even retire early
 
 ## Lesson 1
 
-### Being able to afford what you really love mostly depends on how you manage your small money.
+### Being able to afford what you really love mostly depends on how you manage your small money
 
 Like many of us, Zoey feels stuck on an endless treadmill where, no matter how hard she works, she never has enough money to do what she loves.
 
@@ -34,7 +34,7 @@ Over the next days, Henry will explain to Zoey how she can make it sustainable i
 
 ## Lesson 2
 
-### Overcome the false beliefs about money and get in the mindset to live rich.
+### Overcome the false beliefs about money and get in the mindset to live rich
 
 Zoey is going to learn about personal finance even from her own boss. Barbara teaches her to change her mindset about money first, by overcoming the Three Myths of Money:
 
@@ -52,7 +52,7 @@ Let’s see how we can do it!
 
 ## Lesson 3
 
-### To make your dreams come true, apply the Three Principles of Financial Freedom.
+### To make your dreams come true, apply the Three Principles of Financial Freedom
 
 Here they are:
 
@@ -71,7 +71,5 @@ Will you end up sacrificing your upcoming financial freedom? No, because **besid
 ## Review
 
 Most of us are used to think that saving small amounts doesn’t make any difference. But *The Latte Factor* shows us that it really does in the long term, especially if you invest them wisely. This book pushes us to cultivate awareness towards how we use money, to be able to spend it for what really matters to us.
-
-## Who it’s for
 
 The 20-year-old student who’s struggling to make ends meet, the 30-year-old who doesn’t feel like sticking to his 9-5 job for all their life, and anyone who would enjoy not having to worry about money anymore and working only if they feel like.

@@ -18,7 +18,7 @@ Let’s explore these comprehensive lessons in detail and unveil some interestin
 
 ## Lesson 1
 
-### The system is faulty, so it’s up to you to save yourself and take charge of your life.
+### The system is faulty, so it’s up to you to save yourself and take charge of your life
 
 It’s no secret that we live in a crooked world. Big corporations, along with governments and the media run the world 24/7. Yet, there are people who still “make it”, contrary to all odds. If you think I’m talking about the super rich and famous, think again. There are millions of people out there with remarkable stories.
 
@@ -30,7 +30,7 @@ If you stop for a second and think about how to navigate this world instead of f
 
 ## Lesson 2
 
-### Pure, brutal honesty is what’s going to save you.
+### Pure, brutal honesty is what’s going to save you
 
 Facing the fact that no one is going to save you is what’s actually going to save you. People like to play the victim and blame their misfortune on the elected officials, the government, the unfairness they’ve had to deal with, and pretty much anything else going wrong in their life.
 
@@ -42,7 +42,7 @@ Lastly, once you start focusing on your goals, you’ll want to alienate negativ
 
 ## Lesson 3
 
-### If you want to make it, you’ll have to get used to challenges, loneliness, and figure out a plan.
+### If you want to make it, you’ll have to get used to challenges, loneliness, and figure out a plan
 
 Once you discover that burning desire within that makes you want to achieve success, your life will change dramatically. At first, the long hours you spend working on yourself and your hustles will make the people around you perceive you differently. You might hear them say “you’ve changed!”
 
@@ -55,7 +55,5 @@ The best way to figure out a plan is to know where to start. Find your strengths
 ## Review
 
 *Real Help* is not your usual self-help book. The practical advice offered by this book will not only enlighten you, widen your perspective on the world, change your mindset from victim to winner, but also guide you through the next steps in your life. Achieving success is not guaranteed, but expect to improve your life and mindset significantly after reading, and most importantly, implementing the lessons from this book.
-
-## Who it’s for
 
 The 30-year-old soon-to-be-entrepreneur who’s looking to improve their mentality and become a better version of themselves, the 40-year-old person who has failed in their endeavors recently, and anyone who’s interested in human psychology.

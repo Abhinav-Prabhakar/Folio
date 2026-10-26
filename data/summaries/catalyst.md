@@ -20,7 +20,7 @@ Are you ready to find out what it takes to give your career path a boost? Let’
 
 ## Lesson 1
 
-### A focus on personal growth will carry you further throughout your career than trying to get promoted.
+### A focus on personal growth will carry you further throughout your career than trying to get promoted
 
 As much as you don’t want to admit it, careers are unpredictable. Your progression through your chosen field isn’t a straight path, either. Even though you’d love to move smoothly up the corporate later, reality is tough. The road to success is bumpy and sometimes takes unexpected turns, for better or worse.
 
@@ -32,7 +32,7 @@ Think of this focus on personal growth as if you were a baseball batter. If you 
 
 ## Lesson 2
 
-### Seek to find mentors and not managers to improve faster.
+### Seek to find mentors and not managers to improve faster
 
 Jim Rohn’s “you are the average of the five people you spend the most time with” quote certainly applies to your work also. You learn nearly everything along your career path from someone else. Usually, those who influence you the most are your superiors. This is why it’s crucial to choose the right bosses who are mentors instead of managers.
 
@@ -44,7 +44,7 @@ It may seem easy to seek out a job that looks appealing and hope that the right 
 
 ## Lesson 3
 
-### Grow more effective by focusing on choosing the right hobbies when you are away from work.
+### Grow more effective by focusing on choosing the right hobbies when you are away from work
 
 One last catalyst for your career involves what you do outside the office more than what happens while you’re there. The author discovered, while watching senior executives in successful companies, that each of them had a hobby about which they were passionate. But it wasn’t any regular hobby. These business leaders involved themselves in *striving sports*.
 
@@ -57,7 +57,5 @@ Additionally, the wise use of time outside of the office can act as a pressure v
 ## Review
 
 *Catalyst* is a great read, especially for anyone who wants to find the best ways to improve their work-life. The advice in this book will work excellent for anyone who follows the traditional career path. For those more entrepreneurially minded, however, you will want to take some of the principles with a grain of salt.
-
-## Who it’s for
 
 The 43-year-old manager who wants to become a more effective leader, the 31-year-old business coach who is seeking a better way to help her clients, and anyone who is ambitious and wants to have a great career.

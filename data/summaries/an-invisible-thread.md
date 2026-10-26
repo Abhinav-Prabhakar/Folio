@@ -20,7 +20,7 @@ Get ready for a heartwarming story of an unlikely friendship! Let’s dive right
 
 ## Lesson 1
 
-### Maurice endured a tough childhood, and Laura’s upbringing helped her understand the importance of a lucky break.
+### Maurice endured a tough childhood, and Laura’s upbringing helped her understand the importance of a lucky break
 
 Maurice had tragically only known extreme poverty and had his life threatened at a young age. He didn’t see his father much because of his gang affiliation, so Maurice and his mother had to scavenge for food in trash cans. He and his siblings moved from apartment to apartment while their mother scraped together as much money as she could selling cocaine.
 
@@ -34,7 +34,7 @@ From there, she made the best of her situation and eventually was able to make c
 
 ## Lesson 2
 
-### Laura took care of Maurice with lunches in paper bags and by taking him to baseball games at first, but she had to have balance in the relationship.
+### Laura took care of Maurice with lunches in paper bags and by taking him to baseball games at first, but she had to have balance in the relationship
 
 After their first meeting, Maurice naturally thought that lunch was all he would get. But Laura couldn’t get him out of her mind and found him again. She wanted to learn his story and help him in any way she could. After this, they met once a week for lunch and established trust. Eventually, she invited him to her home for a meal, and then to baseball games.
 
@@ -46,7 +46,7 @@ For those who have an average childhood, going to a baseball game and having a b
 
 ## Lesson 3
 
-### This friendship forever changed Laura and Maurice.
+### This friendship forever changed Laura and Maurice
 
 When talking about their unlikely friendship, Maurice likes to say “the Lord sent me an angel.” Laura also believes a higher power guided her to Maurice. Not long before they met, Laura’s mother said on her deathbed that she would still be looking over her when she was gone. Laura wonders if her mother pulled Maurice to her.
 
@@ -57,7 +57,5 @@ Laura’s help and guidance helped Maurice get out of a situation that has trapp
 ## Review
 
 *An Invisible Thread* is such a great story that has so many lessons to teach. It’s really got me thinking about how I can make a bigger difference by looking at the little things I can do for the people around me. If everyone was more like Laura Schroff, the world would be a much better place.
-
-## Who it’s for
 
 The 51-year-old office worker who passes homeless and poor people on their way to work every day, the 33-year-old that likes hearing an inspiring story, and anyone who is curious about the benefits of caring about people more than work or things.

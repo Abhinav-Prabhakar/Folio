@@ -20,7 +20,7 @@ Learning more about these lessons will reveal a series of useful concepts that c
 
 ## Lesson 1
 
-### Build a powerful image of yourself to improve self-confidence.
+### Build a powerful image of yourself to improve self-confidence
 
 Everybody views themselves in a certain way. Some people seem to have it all figured out, that’s why they feel confident and unshakeable. Others don’t think highly of themselves, and unfortunately, that shows as well. However, that can change at any time. The impression we have on ourselves is a construct of our own mind. And so we can always access it and change it for the better.
 
@@ -30,7 +30,7 @@ You can’t underperform or even outperform your self-image, especially in the l
 
 ## Lesson 2
 
-### Set goals effectively by following your passion and aiming to become the person you want to be.
+### Set goals effectively by following your passion and aiming to become the person you want to be
 
 Everybody has a dream, or at least something that they love doing more than anything else. Some people are lucky enough to call their passion a job, but what happens to the rest of us? The majority of the world works for financial security, and not out of love for their occupation. As such, when the rewards come, they don’t feel accomplished nor successful.
 
@@ -40,7 +40,7 @@ If you follow money or social status, but that’s not what you truly desire in 
 
 ## Lesson 3
 
-### Success is a result of gradual improvement, not sudden motivation.
+### Success is a result of gradual improvement, not sudden motivation
 
 Have you ever caught yourself in a particular moment having an unusual desire to just fix everything in your life, follow your ambitions and take charge of everything at once? Those sudden bursts of motivation can definitely fuel your ambitions, but they won’t take you too far in the long run.
 

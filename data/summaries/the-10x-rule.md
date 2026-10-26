@@ -18,7 +18,7 @@ Imagine you 10x-ed everything in your life right this second. What would that fe
 
 ## Lesson 1
 
-### All average everything is the world we live in, but it often doesn’t last.
+### All average everything is the world we live in, but it often doesn’t last
 
 One of Grant’s favorite quotes is that “average is, by definition, less than extraordinary.” A line rappers use to hint at the lavish luxury of their cars or clothes is “all black everything.” Our world is closer to “all average everything,” where most people live average lives in average houses with average careers and average goals.
 
@@ -30,7 +30,7 @@ The 10x Rule will help you make sure this never happens.
 
 ## Lesson 2
 
-### There are two parts to The 10x Rule: extra effort and bigger goals.
+### There are two parts to The 10x Rule: extra effort and bigger goals
 
 To prevent your brain from even thinking in “average mode,” you can use Grant’s 10X Rule, which has two simple aspects to it:
 
@@ -45,7 +45,7 @@ Kicking your creativity into high gear helps you accomplish more than you think 
 
 ## Lesson 3
 
-### A degree of action most people don’t see is massive action and it’s the one that’ll get you to your goals.
+### A degree of action most people don’t see is massive action and it’s the one that’ll get you to your goals
 
 Another thing Grant sees that most people don’t is an extra degree of action. Here are the three everyone knows, we all spend most of our time in one of them:
 
@@ -64,7 +64,5 @@ Well, so can you and maybe that’s the true secret behind *The 10X Rule*.
 ## Review
 
 Rarely has the phrase “don’t judge a book by its cover” felt more appropriate. Grant’s a good guy. Give him a chance and hopefully, you’ll learn to think in bigger dimensions too. If there’s only one takeaway from this summary, I think it’s that.
-
-## Who it’s for
 
 The 22 year old college grad, who just wants “a normal job with a decent salary”, the 48 year old frustrated author, who’s about to give up when she might be just before her big breakthrough, and anyone who tells their kids that “that’s just not the way the world works.”

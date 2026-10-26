@@ -20,7 +20,7 @@ Inclined to invent something? Let’s get our lab coats and start experimenting!
 
 ## Lesson 1
 
-### At the beginning of every great invention is your desire to solve a problem.
+### At the beginning of every great invention is your desire to solve a problem
 
 When Bernard Sadow returned from his family vacation in 1970, a lightbulb went off in his head as he struggled with carrying two big suitcases, made by the luggage company he was vice president of, through the airport. As he watched an airport employee effortlessly push a huge, heavy machine on top of a wheeled platform, he turned to his wife and said: “You know, that’s what we need for luggage!”
 
@@ -34,7 +34,7 @@ This is a great example of how painful a problem really needs to become to drive
 
 ## Lesson 2
 
-### You have to accept that it might take time for your solution to catch on, even if you know the problem well and lots of people have it.
+### You have to accept that it might take time for your solution to catch on, even if you know the problem well and lots of people have it
 
 People don’t like change. Even though Bernard Sadow knew his invention was the right solution for a big problem, it took him many months, calls and sales presentations until finally Macy’s ordered some and the product started taking off. That’s because the pragmatic majority lacks the vision needed to try something new and it takes time for a new way of doing things to diffuse and reach the masses.
 
@@ -50,7 +50,7 @@ Still, he first only sold his invention to flight attendants, who became the fir
 
 ## Lesson 3
 
-### Don’t be afraid of solving problems outside of your field of expertise, it means you’ll bring a fresh perspective to the problem.
+### Don’t be afraid of solving problems outside of your field of expertise, it means you’ll bring a fresh perspective to the problem
 
 Being deeply immersed in a certain field is only one way to come across these hidden kinds of problems that desperately need a solution – sometimes others find them for you.
 
@@ -63,7 +63,5 @@ It doesn’t matter what industry you’re in. **As long as you understand the p
 ## Review
 
 So many great stories and examples, *Inventology* is really encouraging. I think it opens your perspective. If you like history, tinkerers, science and finding out how to make things better, then this is for you.
-
-## Who it’s for
 
 The 15 year old car nut, who loves to tinker with nuts and bolts in his spare time, the 36 year old research fellow, who’s afraid she might’ve picked the wrong field to make an impact on the world, and anyone who loved watching Bill Nye The Science Guy as a kid.

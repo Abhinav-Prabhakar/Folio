@@ -22,7 +22,7 @@ Ready to learn from the life of an emperor? Let’s dig into history!
 
 ## Lesson 1
 
-### Always bundle your energy and resources to direct them towards one specific thing.
+### Always bundle your energy and resources to direct them towards one specific thing
 
 When Alexander the Great conquered Asia Minor (modern-day Turkey), he strategically bundled all of his resources and armed forces to achieve specific milestones.
 
@@ -36,7 +36,7 @@ After the decisive victory, he decided to bundle his resources again by disbandi
 
 ## Lesson 2
 
-### Do what people wouldn’t expect you to do.
+### Do what people wouldn’t expect you to do
 
 Concentrating his resources and efforts in small, but tactically important places would often lead Alexander the Great to go against what conventional wisdom of war would have him do, like leading his troops across high mountains in harsh winters or sneaking a few dancers into a city, who would then proceed to kill the soldiers they danced for at night.
 
@@ -50,7 +50,7 @@ Often getting what you want is simply a matter of doing the opposite of what peo
 
 ## Lesson 3
 
-### Had it not been for Alexander’s empire, Christianity wouldn’t have had an audience to start with.
+### Had it not been for Alexander’s empire, Christianity wouldn’t have had an audience to start with
 
 At 32 years old, Alexander the Great died very young. Imagine what he might’ve built had he lived to be 50! Nevertheless, his legacy would extend far beyond himself. Having touched three continents with his empire, Alexander changed the history of Greece, Persia (Iran), Egypt, Afghanistan, Pakistan, India as well as of all world religions, such as Christianity, Judaism, Buddhism and Islam.
 
@@ -65,7 +65,5 @@ It’s funny how often one thing causes the other in ways we’d never have expe
 ## Review
 
 Why didn’t we cover *that* extensively in history class? Seriously, I feel like they left out the best stuff. *Alexander The Great* is definitely a part of history that belongs into every educated person’s brain, no debate here.
-
-## Who it’s for
 
 The 13 year old 7th-grader, who just started history in school with ancient Greece, the 22 year old soldier, who tries to learn everything he can about military strategy, and anyone who loves Stoicism.

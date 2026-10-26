@@ -24,7 +24,7 @@ Here’s to the success of introverted employees everywhere! Let’s begin!
 
 ## Lesson 1
 
-### Your resume can help you overcome your natural modesty and really show your skills.
+### Your resume can help you overcome your natural modesty and really show your skills
 
 So maybe boasting about yourself isn’t your favorite thing to do. But when it comes to getting a job, you need to brag to be seen through all the other applicants. One way to overcome your modesty is to have an awesome resume that makes your skill set shine. Did you know recruiters spend only around six seconds looking at your resume? If that’s all the time you’re going to get, make sure it stands out.
 
@@ -34,7 +34,7 @@ The author suggests using the Scope-Contribution-Outcome method. For each achiev
 
 ## Lesson 2
 
-### Prepare for job interviews well by practicing the right techniques to annihilate your anxiety.
+### Prepare for job interviews well by practicing the right techniques to annihilate your anxiety
 
 So you got the interview, now what? The introvert in you might freeze up when asked about yourself, because like I mentioned before, it’s probably not in your nature. So how can you help from freezing up when you’re presented with a personal question?
 
@@ -67,7 +67,5 @@ This will help you get noticed as the valuable employee you are.
 ## Review
 
 As an introvert most of the time, I really enjoyed the ideas in *The Introvert’s Complete Career Guide*. There were a few things I feel could have been a little more in-depth, and some of the assumptions it made about introverts were questionable. But if you have a hard time talking to people at work, this book is going to help you a lot.
-
-## Who it’s for
 
 The 48-year-old engineer who has great ideas but struggles to speak up in meetings, the 24-year-old recent graduate that’s terrified of job interviews, and any shy person who wants to improve their career opportunities.

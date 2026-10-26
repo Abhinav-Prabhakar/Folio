@@ -20,7 +20,7 @@ Even though slavery is a thing of the past, its deep roots are difficult to get 
 
 ## Lesson 1
 
-### From street names to statues and buildings, black people’s history fills the USA.
+### From street names to statues and buildings, black people’s history fills the USA
 
 The author begins his journey in New Orleans, which is both his hometown and a landmark in black people’s history. From street and park names to public statues of Confederate leaders (Robert E. Lee’s statue) and buildings (the Omni Royal Orleans Hotel), the history of slavery remains engraved in the public domains.
 
@@ -32,7 +32,7 @@ Here he discovered the old plantation fields as a guide walks them through the h
 
 ## Lesson 2
 
-### We now know that the lavishness we know in the USA emerges from the lifelong work of the black community.
+### We now know that the lavishness we know in the USA emerges from the lifelong work of the black community
 
 The USA rose to fame as the land of opportunity, freedom, justice, capitalism, and luxury. However, it wasn’t always like this. To build today’s infrastructure, the justice system, community values, and overall the country itself, white communities exposed and put at risk many black lives. And often only for the benefit of the white communities.
 
@@ -44,7 +44,7 @@ They then sold their babies for profit. The most gruesome part was that only whi
 
 ## Lesson 3
 
-### Slavery is a thing of the past, but its consequences remain alive in the present.
+### Slavery is a thing of the past, but its consequences remain alive in the present
 
 What followed the year 1600 was a period of disgrace and darkness for the USA. As Europeans started to treat Africans like lesser beings and use them for physically demanding jobs, a new wave of racial injustice emerged: the entire world considered the black race inferior and liable for the wrongs of humanity.
 
@@ -59,7 +59,5 @@ Two centuries later, black communities still live in much poorer conditions than
 *How the Word Is Passed* presents the history of the American culture with black communities at its center. From its origins of slavery and racial inferiority to its current state of theoretical equality, this racial group faced all sorts of limitations that are still very much actual even today.
 
 The book takes the readers through nine historical sites popular for black history and educates them on the power of racial injustice, its negative effects on human morale and development, and how history can easily repeat itself if we’re not paying attention to it.
-
-## Who it’s for
 
 The 23-year-old black person who wants to educate themselves on their ancestors and their origins, the 40-year-old American citizen who wants to learn more about the USA’s past, or the 35-year-old person who is passionate about the history of black communities.

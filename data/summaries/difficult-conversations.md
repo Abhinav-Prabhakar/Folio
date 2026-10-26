@@ -20,7 +20,7 @@ Are you ready to up your conversation skills? Let’s begin!
 
 ## Lesson 1
 
-### Exchanges can be tough because of blame, feelings, and identity.
+### Exchanges can be tough because of blame, feelings, and identity
 
 **In every difficult conversation, there are really three different conversations happening at the same time**:
 
@@ -36,21 +36,21 @@ The third is the *Identity Conversation.* We hate when we feel like our characte
 
 ## Lesson 2
 
-### You can turn any rough conversation into a learning conversation instead.
+### You can turn any rough conversation into a learning conversation instead
 
 A *Learning Conversation* is a conversation where we are able to discuss tough topics and work something out without blaming, fighting, or silencing our emotions. For the *What Happened* conversation, try to see where the other person is coming from. Instead of getting defensive, be curious about how someone could see something so differently from you. Also, don’t ever assume someone has bad intentions. Instead, just focus on what their actions say. Lastly, instead of playing the blame game try looking for how everyone contributed to the problems, even you.
 
-The *Feelings Conversation* can be hard because sometimes we’re embarrassed about how we feel, and other times we worry about offending the other person. **You can improve the*Feelings Conversation* by exploring your own *emotional footprint*, or the reason for why you react emotionally.** Think about past experiences that affected the way you handle your feelings and from there, explore the way you really feel. Next, focus on the other person with curiosity about how they feel. Then share your feelings in a thoughtful way, making to share both the good and the bad, such as “I really appreciate your concern but it makes me feel frustrated when you keep nagging me about finding a job.”
+The *Feelings Conversation* can be hard because sometimes we’re embarrassed about how we feel, and other times we worry about offending the other person. **You can improve the *Feelings Conversation* by exploring your own *emotional footprint*, or the reason for why you react emotionally.** Think about past experiences that affected the way you handle your feelings and from there, explore the way you really feel. Next, focus on the other person with curiosity about how they feel. Then share your feelings in a thoughtful way, making to share both the good and the bad, such as “I really appreciate your concern but it makes me feel frustrated when you keep nagging me about finding a job.”
 
 For the *Identity Conversation,* remember not to judge yourself with absolute terms such as mean or kind, friendly or introverted. This can make you confused when someone challenges your character. Remember that your identity is made up of many different components. This will help you feel less threatened. Another tip is to refrain from feeling like you can control how people will react. No matter how well you know someone you never know how they’ll react. The sooner you realize this, the better you’ll be able to focus and stay on track.
 
 ## Lesson 3
 
-### Make sure to tell a neutral third story.
+### Make sure to tell a neutral third story
 
 When starting a tricky conversation, it’s good to remember never to begin with your own side of the story. Your story isn’t a good place to start because it can threaten the self-image of the other person.
 
-So where should you begin? Tell a Third Story *.*
+So where should you begin? Tell a Third Story*.*
 
 **This dialogue isn’t from your point of view or the other person’s.** Rather, it should be told as an impartial observer. Suppose you have a roommate who doesn’t like to clean their side of the room. Instead of approaching them by saying something like, “I’m so frustrated that you never clean up and I have to walk over your stuff,” the third story would be, “It seems like we have two different preferences of what our dorm should look like in terms of cleanliness.”
 
@@ -59,7 +59,5 @@ When we hold back from passing judgment, there’s no need for getting defensive
 ## Review
 
 If you’ve ever avoided confronting someone about something that bothered you, or are frustrated when you can’t seem to get through a difficult conversation without high emotions, *Difficult Conversations* is for you. The authors do an awesome job in giving real life examples that you can apply in your own life. This book will help you professionally and personally by helping you communicate with others better and understand yourself too.
-
-## Who it’s for
 
 The 42-year-old parent who wants to become better at talking with their teenagers, the 53-year-old teacher who has to have some hard talks with her students, and anyone who wants to have deeper relationships.

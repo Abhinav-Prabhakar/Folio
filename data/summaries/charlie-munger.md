@@ -22,7 +22,7 @@ Want to learn from one of the wisest man on the planet? Here we go!
 
 ## Lesson 1
 
-### Good investors stick with what they know and stay inside their circle of competence.
+### Good investors stick with what they know and stay inside their circle of competence
 
 Just like Warren, Charlie believes a good investing approach comes from accepting your limits and sticking with what you know. If a stock analyst tries to sell you on Facebook one week, a pharmaceutical company the next, and a car manufacturer after that, all kinds of alarm bells should ring in your head.
 
@@ -52,7 +52,7 @@ Of course most people believe waiting to be unproductive, so instead of just gat
 
 ## Lesson 3
 
-### Build worldly wisdom by learning from a wide range of disciplines.
+### Build worldly wisdom by learning from a wide range of disciplines
 
 What’s probably even cooler than Charlie’s knowledge about investing is his knowledge about life. He tries to accumulate something he calls worldly wisdom, which is really just **a set of mental models** (like these) he built for himself, coming from a vast variety of different disciplines and fields.
 
@@ -67,7 +67,5 @@ But to do so, you have to go beyond merely studying facts and figures. You have 
 It’s hard to find lots of information about *Charlie Munger*. He doesn’t speak in public too much and over the years, much too little has been compiled about him and his work. I think there are very few people on this planet that deserve to be learned from more than him.
 
 **Note:** One of the best ways to learn more about him (besides this book) is this commencement speech.
-
-## Who it’s for
 
 The 13 year old investing nerd, who knows he wants to be an investor when he grows up already, the 72 year old, who thinks very few people can still teach her things, and anyone who often finds themselves going with the crowd, even if they don’t want to.

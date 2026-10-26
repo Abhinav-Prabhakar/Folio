@@ -20,7 +20,7 @@ Let’s stop spending time, especially without meaning to, and start *making* it
 
 ## Lesson 1
 
-### Make an important, meaningful, or joyful activity the highlight task of your day, every day.
+### Make an important, meaningful, or joyful activity the highlight task of your day, every day
 
 Passion projects, family fun, learning new things in your spare time, none of these magically meander into your life. They’re the things that get left by the wayside unless we deliberately cultivate them. But because we *want* them to be big, we think they *have to be*.
 
@@ -34,7 +34,7 @@ You can choose a different highlight each day, but once you do and commit to mak
 
 ## Lesson 2
 
-### Design your environment to fight the Busy Bandwagon of work and the Infinity Pools of entertainment.
+### Design your environment to fight the Busy Bandwagon of work and the Infinity Pools of entertainment
 
 The authors group time wasters into two big categories: work and entertainment. Both exploit our tendency to react to external stimuli by default because that’s how our brains are wired.
 
@@ -50,7 +50,7 @@ There are many more steps you can take, from changing triggers to avoiding cues,
 
 ## Lesson 3
 
-### Sprinkle caveman-style activities into your day to stay energized.
+### Sprinkle caveman-style activities into your day to stay energized
 
 Humans have existed for 200,000 years. Our farming-based, mostly sedentary settler lifestyle, however, has only been around for about 12,000 of those. As a result, our bodies are somewhat out of sync with our societal activities and obligations. Getting this harmony back doesn’t have to be extreme. You don’t need to walk barefoot all the time and live in a cave.
 
@@ -61,7 +61,5 @@ Once you implement little ways to maintain your natural state of being energized
 ## Review
 
 *Make Time* may be another addition in a long line of books about time management, but it teaches the subject in creative ways. First, it delivers a simple, fundamental approach in four steps: highlight, laser, energize, reflect, three of which we addressed. Second, it combines this with 87 tactics from which you can and *should* pick, acknowledging there is no one-size-fits-all advice. Third, it wraps everything into a story that gives you clear labels to identify heroes and villains by. Well done, J & J!
-
-## Who it’s for
 
 The 33-year-old young professional, who sometimes gets lost in her work in a bad way, the 48-year-old father, who’d love to spend more time with his kids, and anyone who’s had a passion project stuck in their drawer for ages.

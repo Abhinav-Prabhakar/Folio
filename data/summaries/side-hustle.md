@@ -18,7 +18,7 @@ Sick of your boss? Not making enough? Afraid to lose your pay check and health i
 
 ## Lesson 1
 
-### Your side hustle needs an idea that’s feasible, profitable and persuasive.
+### Your side hustle needs an idea that’s feasible, profitable and persuasive
 
 About ten minutes ago I tossed out the entire structure of my latest Medium post series. Completely redid it. Earlier this morning I threw out a marketing idea. I constantly replace my ideas with better ideas, no matter what stage they’re in. Sure, there are milestones I complete before making more changes, but the plan always keeps evolving.
 
@@ -34,7 +34,7 @@ Then, turn it into an offer.
 
 ## Lesson 2
 
-### Go from idea to offer with price, pitch and promise.
+### Go from idea to offer with price, pitch and promise
 
 In copywriting, there’s this important distinction of features vs. benefits. A lot of salespeople suck because they drown you in features, like a quad-core CPU, gesture control, or hand-woven alpaca wool, without explaining how those features make your life better. By condensing your idea into an offer with a big promise, a concrete pitch and a specific price, you avoid that mistake.
 
@@ -48,7 +48,7 @@ With your offer geared up and ready to go the only question that remains is: whe
 
 ## Lesson 3
 
-### The quintessential side hustle shopping list contains four items.
+### The quintessential side hustle shopping list contains four items
 
 If you end up with an idea for a side hustle that requires you to take out a $10,000 loan, you’ve done it wrong. I *shouldn’t* be expensive. That said, there are four low- to no-cost items you should add to your metaphorical launch shopping cart:
 
@@ -64,7 +64,5 @@ Once you have this in place, it’s time to hustle for your side hustle!
 ## Review
 
 With step-by-step instruction manuals like Chris writes, it’s impossible to cram everything into four minutes. That’s a good thing, because if you were fascinated by the idea of a new income stream before, you should be on fire now. 🙂 Don’t debate. Don’t wait. The right time will never come. Follow the 5 Second Rule and take action now. If you’re serious, buy a copy and get to work!
-
-## Who it’s for
 
 The 19 year old college student, who has lots of time and little cash, the 60 year old soon-to-retire senior manager, who’ll need a new pastime soon, and anyone who wants to be an entrepreneur but is scared to take the leap.

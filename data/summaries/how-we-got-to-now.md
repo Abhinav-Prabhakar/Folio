@@ -20,7 +20,7 @@ Would you like to pull back the curtain and take a look at the inner workings of
 
 ## Lesson 1
 
-### Sometimes innovations don’t directly cause change, but create the right environment for it.
+### Sometimes innovations don’t directly cause change, but create the right environment for it
 
 The Renaissance was one of the most innovative periods in history. Lasting from roughly the 14th to the 17th century, the density of innovations and technologies that allowed society to progress hasn’t been as big again until 300 years later. Gunpowder, glasses, the printing press, the flush toilet, the microscope, the telescope, the submarine, matches, that’s just a tiny selection of its accomplishments.
 
@@ -34,7 +34,7 @@ In this way, the mirror didn’t exactly cause the renaissance, but it’s impos
 
 ## Lesson 2
 
-### Innovations can lead to other, unexpected innovations, and even cause laws to change.
+### Innovations can lead to other, unexpected innovations, and even cause laws to change
 
 Sometimes, however, an innovation is of course *directly* responsible for a huge change. Like the light bulb, for example. Before artificial light, there were only candles. But they were expensive to make. Guess what they were made of.
 
@@ -48,7 +48,7 @@ And that’s how one innovation can lead to another, and another, and another, a
 
 ## Lesson 3
 
-### Not all innovations are inevitable, some are very personal.
+### Not all innovations are inevitable, some are very personal
 
 In case of the light bulb, it’s actually not that self-evident that we think of Thomas Edison as the inventor. Around 20 people came up with very similar concepts and working prototypes at almost the same time, Edison was just the one to popularize it the fastest.
 
@@ -63,7 +63,5 @@ As you can see, there are many ways to change the world and it doesn’t matter 
 ## Review
 
 What really makes *How We Got To Now* come to life is the vast number of examples it sheds a light on. Innovation is a complex, tricky process, and not easy to describe in a few words, but this makes it a lot of fun to learn about it!
-
-## Who it’s for
 
 The 15 year old boy, who’s favorite toys as a kid were LEGOs, the 32 year old photographer, who has a passion for her craft but hasn’t studied the history of it too much, and anyone who feels like they can’t change the world on their own.

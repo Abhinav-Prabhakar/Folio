@@ -22,7 +22,7 @@ Time to double check!
 
 ## Lesson 1
 
-### Your brain is really bad at filling in the blanks, but it keeps on trying.
+### Your brain is really bad at filling in the blanks, but it keeps on trying
 
 Did you know you have a blind spot? It’s a certain area of your vision that’s basically blank – you can’t see what’s there, due to your nerve fibers blocking your retina where they leave the eye.
 
@@ -46,7 +46,7 @@ Your brain is not so great at filling in those blanks, but it will keep trying, 
 
 ## Lesson 2
 
-### Always compare products based on value, never on past price.
+### Always compare products based on value, never on past price
 
 Dang it! How could that coffee place raise the price again?
 
@@ -62,7 +62,7 @@ Similarly, people will rather buy a $500 TV that was reduced from $600, instead 
 
 ## Lesson 3
 
-### Bad experiences are better than no experiences.
+### Bad experiences are better than no experiences
 
 Speaking of comparisons, consider this paradox: You are introduced to someone you find attractive and then given the choice between one of two options:
 
@@ -94,7 +94,5 @@ Then again, sometimes these qualities help us see the good in bad situations. Ac
 So instead of doing nothing, go read the summary of this book on Blinkist 🙂
 
 Given *Stumbling On Happiness* already touched on the subject of choice and its impact on our happiness, I think I know what book to read next…
-
-## Who it’s for
 
 The 18 year old, slightly spoiled girl, who’s often disappointed when things don’t go her way, the 43 year old stay-at-home Dad, who saves a lot with $1 coupons, but might lose it all again on investment fees, and anyone who’s afraid of taking action towards something that might be dangerous.

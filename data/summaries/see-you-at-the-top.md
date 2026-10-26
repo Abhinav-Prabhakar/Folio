@@ -20,7 +20,7 @@ Get your climbing gear ready, start climbing the mountain to success, and after 
 
 ## Lesson 1
 
-### What you think about others, including yourself, has a huge impact on how successful you and they are.
+### What you think about others, including yourself, has a huge impact on how successful you and they are
 
 If you want to become successful, you need to have positive relationships. Nobody can climb the ladder when the people around them are constantly pulling them down. But it’s easier to have kind people around you when you are proactively nice.
 
@@ -36,7 +36,7 @@ What you think of others matters because it affects how you treat them and how f
 
 ## Lesson 2
 
-### Be specific about your goals and break them into daily actions to achieve your dreams.
+### Be specific about your goals and break them into daily actions to achieve your dreams
 
 Goal-setting is a mighty tool for changing your life. But you probably struggle with it simply because you don’t know how to do it right. It does take hard work and focus, but with some help, you can harness its power.
 
@@ -56,11 +56,11 @@ His daily work to achieve this aspiration included short runs and later on longe
 
 ## Lesson 3
 
-### Defeat “stinkin’ thinkin’,” also known as a bad attitude, with the power of a positive attitude.
+### Defeat “stinkin’ thinkin’,” also known as a bad attitude, with the power of a positive attitude
 
 No matter how diligent you are, you’re always going to have setbacks while working toward your goals. You can’t do anything about these events, but you can control how you’ll react to them.
 
-This is what Ziglar means when he says you need to develop a positive attitude. **It’s so important thatone Harvard University studyidentified that 85% of what you accomplish is a matter of your attitude!** Only 15% comes from your intelligence.
+This is what Ziglar means when he says you need to develop a positive attitude. **It’s so important that one Harvard University study identified that 85% of what you accomplish is a matter of your attitude!** Only 15% comes from your intelligence.
 
 It’s hard not to sabotage the power of your outlook on life by unproductive thinking patterns. The author calls this “stinkin’ thinkin’,” and it brings all of us down from time to time.
 
@@ -75,7 +75,5 @@ Society today makes this hard with the flood of negativity from the news and soc
 ## Review
 
 Just when I think I’ve read everything by Zig Ziglar I find another great book of his. *See You At The Top* is one of my new favorites. Even though it has some of the same advice as most self-improvement books, the research it shares and the ideas to implement the principles are unique and actionable.
-
-## Who it’s for
 
 The 37-year-old who is overweight and doesn’t like their career, the 61-year-old that wants some inspiration to start setting goals again, and anybody that wants to know how to improve their lives in a few simple, research-backed steps.

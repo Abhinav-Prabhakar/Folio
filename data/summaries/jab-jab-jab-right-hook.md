@@ -20,7 +20,7 @@ Ready for Social Media 101? The class is in session!
 
 ## Lesson 1
 
-### If you’re not on social media, you’re going to lose.
+### If you’re not on social media, you’re going to lose
 
 As of April 2014, there are 327 million phones in the US – but only 317 million people.
 
@@ -38,7 +38,7 @@ If you haven’t started yet, start now. **When you’re not on social media, yo
 
 ## Lesson 2
 
-### You have to constantly deliver great content, that’s custom-tailored to the platform, before asking for something in return.
+### You have to constantly deliver great content, that’s custom-tailored to the platform, before asking for something in return
 
 The way you win the social media game is by producing great content.
 
@@ -72,7 +72,7 @@ Never disrespect the context of the platform you’re acting on.
 
 ## Lesson 3
 
-### If you want massive engagement across all ages, be on Instagram.
+### If you want massive engagement across all ages, be on Instagram
 
 This lesson is not directly from the book, even though it does talk about Instagram quite a bit.
 
@@ -93,7 +93,5 @@ You could watch Gary Vee talk for hours and hours – and that’s great. But pi
 The summary on Blinkist is way too short in my opinion, you’d probably be better off going straight for the book, it’s not too long of a read either.
 
 I personally have learned 90% of what I know about social media from Gary and I highly recommend you start learning from him.
-
-## Who it’s for
 
 The 14 year old who could be a social media star 2 years from now, if she learns how to play the game early, the 48 year old who thinks being around on social media won’t matter for him, and anyone who hasn’t got an Instagram account yet.

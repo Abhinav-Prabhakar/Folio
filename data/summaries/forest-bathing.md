@@ -18,7 +18,7 @@ The book, written by Dr. Qing Li, centers around this natural medicine and its p
 
 ## Lesson 1
 
-### Forest bathing implies a connection between nature, you, and a state of meditation.
+### Forest bathing implies a connection between nature, you, and a state of meditation
 
 The urban chaos is both beautiful and stressful. Although we feel as if the city is our natural habitat, a walk in the forest will make us reconsider that. According to the book, just gazing into the forest can decrease our stress levels by up to 60%!
 
@@ -28,7 +28,7 @@ Therefore, you ought to reconnect with nature by following a few simple steps. F
 
 ## Lesson 2
 
-### Engage your body senses with nature using touch and taste.
+### Engage your body senses with nature using touch and taste
 
 Touching nature allows you to physically interact with it, creating a powerful healing connection. Picking up rocks, twigs, leaves, and pretty much any natural element from your surrounding allows you to experience a deeper interrelation.
 
@@ -40,7 +40,7 @@ Savoring berries, tree fruits, or edible plants you may come across can excite y
 
 ## Lesson 3
 
-### Don’t just forest-bathe in nature, but also at home.
+### Don’t just forest-bathe in nature, but also at home
 
 Ideally, you would want to forest bathe every time you feel down, need an energy boost, or just some peace of mind. However, most of the time, our personal and professional lives leave us little time to do these kinds of things.
 
@@ -53,7 +53,5 @@ Essential oils, such as redwood or pine oils, can help recreate a forest ambianc
 ## Review
 
 Dr. Qing Li offers valuable pieces of advice on how to benefit from the natural healing power of trees. Born into the Japanese culture, his insights on forest bathing are authentic and relevant, giving a great deal of knowledge to his readers. The book provides simple, yet meaningful guidance for finding health, happiness, and fulfillment in the simplicity of forests. Readers will reconnect not just with nature, but themselves, after taking on Dr. Li’s lessons.
-
-## Who it’s for
 
 The person interested in nature’s effect on human health, the forest lover, the Japanese culture enthusiast, or the person curious about natural medications and treatments for the mind and body.

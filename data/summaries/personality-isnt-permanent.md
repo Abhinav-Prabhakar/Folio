@@ -26,7 +26,7 @@ After this, you’re going to want to shred your MBTI test results so you can be
 
 ## Lesson 1
 
-### Your fixed mindset holds you back and makes your life mediocre because of the five destructive myths of personality.
+### Your fixed mindset holds you back and makes your life mediocre because of the five destructive myths of personality
 
 Science and the many experiences that Hardy shares in the book prove that people can and do change. You know that you want to improve your life, but believing that your personality is fixed is damning your progress.
 
@@ -42,7 +42,7 @@ Let’s briefly dive into these and discover why they’re false.
 
 Type-based personality tests aren’t scientific. It’s a gross misrepresentation of the complexity of what it means to be human to think we can categorize people into types.
 
-**Additionally,research showsthat your personality changes dramatically over the years.** Think about who you were 10 or 20 years ago and you’ll realize how true this is.
+**Additionally, research shows that your personality changes dramatically over the years.** Think about who you were 10 or 20 years ago and you’ll realize how true this is.
 
 You think your personality is permanent because of past traumas, the identity you think you have, your subconscious, and your environment. Our perception of historical events changes over time, so why can’t the way we think about ourselves?
 
@@ -54,7 +54,7 @@ And finally, the last myth is destructive because trying to be “true to yourse
 
 ## Lesson 2
 
-### You can change your identity and personality through setting goals.
+### You can change your identity and personality through setting goals
 
 Every action you perform has a purpose. Another word for purpose is goal.
 
@@ -80,7 +80,7 @@ And lastly, you need to have confidence that you can accomplish your goals or yo
 
 ## Lesson 3
 
-### You can improve the way you view your personality and change your future, regardless of where and who you’ve been in the past.
+### You can improve the way you view your personality and change your future, regardless of where and who you’ve been in the past
 
 A young man named Nate always struggled with his weight as did his whole family. Seeing the health problems his parents were having, he asked himself some life-changing questions:
 
@@ -108,8 +108,6 @@ The last step is to simply tell your new story, to others and yourself, as if it
 
 ## Review
 
-*Personality Isn’t Permanent* is changing my life. I say chang *ing* because I’m going to re-read this book as much as I can to change! I’ve summarized over 200 books so far and this has been the very best one about how to improve your life.
-
-## Who it’s for
+*Personality Isn’t Permanent* is changing my life. I say chang*ing* because I’m going to re-read this book as much as I can to change! I’ve summarized over 200 books so far and this has been the very best one about how to improve your life.
 
 The 26-year-old victim of child abuse that believes they can’t change, the 57-year-old that thinks the best years of their life are over and is miserable about it, and anyone that still thinks that their personality test results are permanent.

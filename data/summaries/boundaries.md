@@ -18,7 +18,7 @@ Let’s get right into these ideas and learn how to take better care of ourselve
 
 ## Lesson 1
 
-### It is an act of kindness to yourself and those around you to set boundaries.
+### It is an act of kindness to yourself and those around you to set boundaries
 
 From concrete walls to “No Trespassing” signs, we find physical boundaries all around us. Usually, these exist for a good reason. A tall chainlink fence around an electrical plant is there to protect us from walking inadvertently into a dangerous area.
 
@@ -32,7 +32,7 @@ On the other hand, they could hand the responsibility to their son instead. They
 
 ## Lesson 2
 
-### It can be hard to set up boundaries, but it will make your life much better.
+### It can be hard to set up boundaries, but it will make your life much better
 
 Before you are comfortable enough to assert boundaries, you might make excuses for other people violating your boundaries. You might say stuff like, “Jeff always puts me down when he’s with his friends. He’s only joking, though.” But over time, you start to get resentful. This resentment can be a good thing! If it means you’re done being complacent about boundary violations, so pay attention!
 
@@ -44,7 +44,7 @@ After that, you can start setting small boundaries like telling your partner you
 
 ## Lesson 3
 
-### Boundaries are essential in both your personal life and your work life.
+### Boundaries are essential in both your personal life and your work life
 
 Most friendships fall into a compliant person and a controller. An example of this is that friend that wants you to cancel all of your plans to spend time with them. In situations like this, one person walks all over the other, and both are left unhappy. Being a natural compliant or controller isn’t necessarily bad, but you need boundaries to make sure the friendship stays within the bounds it should.
 
@@ -59,7 +59,5 @@ At the end of the day, remember that you need to create a boundary that separate
 ## Review
 
 *Boundaries* is really eye-opening. It makes you realize that you need to lay down some boundaries for your own health and that you shouldn’t feel guilty about doing so! It also helps you recognize other people’s boundaries and hopefully become a better person for that, which the world could use a lot more.
-
-## Who it’s for
 
 The 47-year-old who always feels mentally drained and isn’t sure why, the 29-year-old that lets people walk all over them, and anyone who wants to discover a crucial component of self-care.

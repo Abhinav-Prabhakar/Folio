@@ -18,7 +18,7 @@ While this book is packed with many more useful lessons, we’ll stick to explor
 
 ## Lesson 1
 
-### Achieving your potential might be delayed by your mistaken identity.
+### Achieving your potential might be delayed by your mistaken identity
 
 What if you haven’t even met your best self? Chances are, no one has! Leading this hypothesis further, it may look like no one really knows you, including yourself. However, that’s not a bad thing necessarily.
 
@@ -32,7 +32,7 @@ Your mind is you, and that’s the only superpower you need to overcome obstacle
 
 ## Lesson 2
 
-### Challenging times are part of the road to success.
+### Challenging times are part of the road to success
 
 The trend of perfectionism and high-performance anxiety is taking over the world, and it’s driving people insane, unfortunately. Perfectionism makes people think that nothing they’ll ever do is good enough for as long as they encounter failure and bad days. Wrong!
 
@@ -42,7 +42,7 @@ So how many bad days are we talking about? Well, everyone’s life is different 
 
 ## Lesson 3
 
-### Greatness arrives in your life when you learn how to kill fear.
+### Greatness arrives in your life when you learn how to kill fear
 
 Fear is the biggest opponent in achieving our dreams. In life, other people often tell us to be rational, realistic, and careful. This type of advice prevents us from doing something courageous and great. No one made something memorable out of fear. And this concept goes back to ancient philosophy.
 
@@ -55,7 +55,5 @@ Aristotle believed that those who conquer their fear win in life. In fact, he sa
 *Elite Minds* talks about the importance of training your mind to help you and stop self-sabotage by using mental toughness to achieve goals. Conquering fear, going for whatever it is that you want, achieving your higher purpose, and embracing failure, are all major aspects the book discusses.
 
 Reading this remarkable piece will teach you valuable ideas from ancient philosophy to modern studies about the importance of training your mind and embracing the winning mindset in your journey to success.
-
-## Who it’s for
 
 The 30-year-old person who feels stuck in the mundane and wants to live a more meaningful life, the 40-year-old who has achieved the average life they were striving for and wants to aim for their higher purpose, or the 33-year-old who is intrigued by the power of the brain in relation to sustained performance.

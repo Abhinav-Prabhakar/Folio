@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Food can be either poison or medicine, and it all depends on us.
+### Food can be either poison or medicine, and it all depends on us
 
 Breakthrough discoveries show that well-known illnesses, such as Alzheimer’s, don’t actually develop due to poor genes most of the time. In fact, less than 1% of people develop this cognitive dysfunction due to their hereditary misfortune.
 
@@ -30,7 +30,7 @@ If you haven’t guessed by now, they come from our daily meals and they go stra
 
 ## Lesson 2
 
-### Staying hydrated and ingesting fats will support your brain.
+### Staying hydrated and ingesting fats will support your brain
 
 “Stay hydrated’’ is something we’ve probably heard more than once. And for a reason! The brain is made out of 80% water, and this special element is only one of the few ones allowed to pass the blood-brain barrier. In other words, water goes straight to your brain, as it is involved in the energy production process.
 
@@ -42,7 +42,7 @@ Still, you should consume monounsaturated fats, and they come from nuts, avocado
 
 ## Lesson 3
 
-### Include amino acids and glucose in your daily meals.
+### Include amino acids and glucose in your daily meals
 
 Your central brain system is made up of neurons. Many of the amino acids that make up proteins function as neurotransmitters, helping your brain process information. These are responsible for your thinking, speaking, remembering, and dreaming functions. Therefore, a poor diet can influence our cognitive capabilities.
 
@@ -55,7 +55,5 @@ When you ingest bad sugar from sodas, candy bars, cakes, and pastries, your bloo
 ## Review
 
 *Brain Food* is a fantastic piece of writing as it emphasizes the importance of nutrition in our daily lives, and most importantly, our cognitive functions. The author manages to deliver life-changing advice using simple, yet effective foods and recipes that anyone can introduce in their diets right away. The message of this book should be taken into careful consideration by each and every one of us who cares about our health and wish to maximize our brain’s parameters.
-
-## Who it’s for
 
 The person passionate about nutrition and diets, anyone looking to improve their diet by ingesting more brain-supporting foods, or someone looking to sharpen their cognitive capabilities by adopting a healthier lifestyle.

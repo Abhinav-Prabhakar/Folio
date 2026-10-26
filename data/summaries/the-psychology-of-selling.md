@@ -20,7 +20,7 @@ Ready to boost your sales performance? Let’s get right to it!!
 
 ## Lesson 1
 
-### You will be more successful if you unlock the power of your subconscious mind.
+### You will be more successful if you unlock the power of your subconscious mind
 
 Have you written a to-do list recently? Your latest one might have a few things to finish around the house or some errands you need to run. You might not realize it, but this simple part of almost everybody’s daily life is a powerful tool to motivate salespeople.
 
@@ -38,7 +38,7 @@ When it comes time to deal with the difficulties of selling, the salesperson wit
 
 ## Lesson 2
 
-### Learn as much as you can, especially from people who are passionate and motivated.
+### Learn as much as you can, especially from people who are passionate and motivated
 
 Most people graduate from college and think they’re done learning. But the really exceptional ones never quit. They’re always hungry to discover new and better ways of doing their work.
 
@@ -56,7 +56,7 @@ When you do meet these individuals, pay attention to what they do. Ask them ques
 
 ## Lesson 3
 
-### You will get more sales if you ask your customers questions and adjust your pitch appropriately to their needs.
+### You will get more sales if you ask your customers questions and adjust your pitch appropriately to their needs
 
 When I was a missionary we often talked about teaching people not lessons. The big key to doing that was to know how our message could benefit them. But to discover this, we had to ask them questions and get to know their needs.
 
@@ -73,7 +73,5 @@ If you’re personable and ask the right questions in the right ways, you’ll d
 ## Review
 
 *The Psychology Of Selling* is really motivating and Brian Tracy is awesome as always. I do feel like some of the tactics and examples in this book are outdated, however. But it’s not that difficult to find ways to apply these same principles today, especially as some of them will always be helpful to follow!
-
-## Who it’s for
 
 The 47-year-old salesman who is having a hard time with it, the 29-year-old that doesn’t have great self-esteem, and anyone that wants some motivation to get better at negotiating.

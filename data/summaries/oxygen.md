@@ -22,7 +22,7 @@ Take a deep breath and then let’s explore the 21% of our air that make your lu
 
 ## Lesson 1
 
-### Without an increase in oxygen, multi-cellular life wouldn’t have developed.
+### Without an increase in oxygen, multi-cellular life wouldn’t have developed
 
 Most of the organisms we know and interact with today are multi-cellular. Animals, humans, and most plants on earth have many different types of cells. But life didn’t start that way.
 
@@ -38,7 +38,7 @@ Because the floods from the ice age then washed out tons of minerals and nutrien
 
 ## Lesson 2
 
-### Giant animals could exist because of high levels of atmospheric oxygen.
+### Giant animals could exist because of high levels of atmospheric oxygen
 
 In fact, animals were on a meteoric rise in terms of sophistication and size after that point. Fast forward 200 million years from what we just talked about (that puts us 300 million years ago) and if you had walked around outside back then you’d have seen dragonflies with wings spanning 2 feet (65 cm), scorpions of over 3 feet in length (1m) or mayflies with huge wings.
 
@@ -50,7 +50,7 @@ Similarly, air provided less resistance against moving objects at those oxygen l
 
 ## Lesson 3
 
-### Your breath is what determines how fast you age.
+### Your breath is what determines how fast you age
 
 Did you know that breathing is toxic?
 
@@ -71,7 +71,5 @@ It’s more about how much toxins your body produces while breathing, and that t
 It’s fun to learn from books like *Oxygen* on occasion, because it’s no subject you usually concern yourself with. Most people, who don’t study biology, would never come across this topic (or buy a textbook about it).
 
 Great job by Dr. Lane and a big thumbs up for helping you and me learn more about the air we breathe!
-
-## Who it’s for
 
 The 13 year old high school girl with a knack for biology, the 37 year old school teacher, who’s permanently stressed and has asthma problems, and anyone who likes mystery stories of giant, prehistoric animals.

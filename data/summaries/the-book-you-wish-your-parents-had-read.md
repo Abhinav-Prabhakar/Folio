@@ -20,7 +20,7 @@ Are you ready to throw away your complicated parenting books and get back to the
 
 ## Lesson 1
 
-### Our responses to parenting situations are closely linked to how we were parented.
+### Our responses to parenting situations are closely linked to how we were parented
 
 Sometimes when our kids do stuff we just don’t understand why. **But to understand them Perry says we need to step back and realize we need to look at the biggest influences in their lives: ourselves.** We have the biggest influence on them and they watch us closely, so if we want to really understand our kids, we need to first understand ourselves.
 
@@ -36,7 +36,7 @@ Whenever negatively charged emotions come back, it’s a sign we should explore 
 
 ## Lesson 2
 
-### Validating all of your child’s feelings will be more productive and healthier for the child.
+### Validating all of your child’s feelings will be more productive and healthier for the child
 
 If you’ve read our summary on *No-Drama Discipline,* this one won’t be entirely new to you. But I chose it because it is so essential to a child’s development. Sometimes as parents we have to calm some pretty ridiculous-seeming tantrums over things like not getting ice cream for dessert. Ridiculous to us, yes, but to the child, those feelings are entirely real.
 
@@ -50,7 +50,7 @@ An example of this is if a child is upset about not having ice cream, saying som
 
 ## Lesson 3
 
-### Our parenting can encourage sound mental health in our children.
+### Our parenting can encourage sound mental health in our children
 
 The mental health of a child can set the stage for how their mental health will be as an adult. And good news, parents: you can have a hand in helping your child grow to be mentally healthy.
 
@@ -65,7 +65,5 @@ Lastly, make sure your child has time for play, and encourage it as much as poss
 ## Review
 
 *The Book You Wish Your Parents Had Read* is a relevant and beautifully simple guide for parents today. Rather than being condescending or complicated, it sticks to the basics and contains actionable advice from start to finish. If you want sound advice on how to raise an emotionally and mentally healthy human, this is the book for you.
-
-## Who it’s for
 
 The 28-year-old mom pregnant with her first child, the 37-year-old dad who wants advice on how to connect better with his children, or anyone who has kids, wants kids, or works with kids.

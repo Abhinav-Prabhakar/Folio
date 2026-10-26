@@ -22,7 +22,7 @@ Are you ready to finally understand some of your strangest quirks? Let’s dig i
 
 ## Lesson 1
 
-### Your behavior is still dictated by every way that your ancient ancestors had to evolve to survive.
+### Your behavior is still dictated by every way that your ancient ancestors had to evolve to survive
 
 Have you ever wondered what would happen if you were suddenly transported to the middle of a forest with nothing? Do you think you could pull a Bear Grylls and survive? The unfortunate truth is that it’s unlikely you’d make it very long.
 
@@ -38,7 +38,7 @@ We also value persuasive stories and confidence today because of their role in t
 
 ## Lesson 2
 
-### If you want to find out where misery and joy come from, look to the purpose of happiness in our evolutionary history.
+### If you want to find out where misery and joy come from, look to the purpose of happiness in our evolutionary history
 
 I’ve always thought that winning the lottery would be one of the worst things that could happen to me. It seems strange, but I feel this way because I know how it usually goes and I don’t want that for myself.
 
@@ -54,7 +54,7 @@ This balance of satisfaction and motivation is still a major part of your behavi
 
 ## Lesson 3
 
-### You will be happier when you understand and satisfy your evolutionary requirements.
+### You will be happier when you understand and satisfy your evolutionary requirements
 
 If you’re a squirrel, life is simple and you only have a few options to become content. Just like most other animals, all you have to do is act so that you can live longer and pass on your genes. Eating, avoiding predators, and getting good at mating rituals are your ticket to a good life.
 
@@ -71,7 +71,5 @@ You’ll also feel better when you find and utilize what makes you special. For 
 ## Review
 
 I really enjoyed *The Social Leap*. It reminded me a lot of *Sapiens*, but focused more on psychology and sociology, which I thought was a great take on our history. I was hoping that there would be more on how to use these parts of our past to our advantage though.
-
-## Who it’s for
 
 The 49-year-old that loves to learn about evolution, the 22-year-old who is curious about human behavior, and anyone that’s curious to know how we got into the social situations we find ourselves in today.

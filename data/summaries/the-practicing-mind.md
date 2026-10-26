@@ -20,7 +20,7 @@ Are you prepared to make your mind a practicing one? Let’s learn how to stay i
 
 ## Lesson 1
 
-### Completely forget about your end goal every time you work towards it.
+### Completely forget about your end goal every time you work towards it
 
 Wait, what? Did I seriously just suggest that you should forget what you’re working towards?! Yes and no. What you shouldn’t forget is what you’re doing right now, what the end goal of any given day is, what your final output before you drop the pen, close the laptop or punch out on the clock is.
 
@@ -42,7 +42,7 @@ So yes, forget about your end goal while you work.
 
 ## Lesson 2
 
-### Don’t use your goals as an indicator of how much progress you’ve made.
+### Don’t use your goals as an indicator of how much progress you’ve made
 
 Another area where your big aspirations do more damage than good is when looking at your overall progress bar. Not the daily one, but the monthly, annual or even multi-year measuring stick you use to compare your current success to your former, past self.
 
@@ -56,7 +56,7 @@ That’s why it’s sometimes good to take a second, step back, turn around and 
 
 ## Lesson 3
 
-### When you lose your focus, use the Do, Observe, Correct technique to get it back.
+### When you lose your focus, use the Do, Observe, Correct technique to get it back
 
 Staying in the present moment and working on a task with maximum focus is hard enough as it is. But sometimes, feelings can make it almost impossible to keep at it. In those cases, you can use what Tom calls the Do, Observe, Correct technique.
 
@@ -73,7 +73,5 @@ Overall, **the more you apply the Do, Observe, Correct technique, the better you
 ## Review
 
 *The Practicing Mind* combines common productivity advice with common mindfulness advice, which, in turn, makes it pretty uncommon. Most books focus on one or the other, whereas this one mixes the two to give you the best of both worlds – and it works. This is pretty much how I stay productive!
-
-## Who it’s for
 
 The 17 year old, who’s frustrated by all the reading she has to do for school, the 35 year old, who’s had a thriving first decade of his post-college career, and is starting to think there is no sense in making more money, and anyone who’s often frustrated after a long day of hard work, on which they still didn’t get much done.

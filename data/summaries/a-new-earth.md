@@ -18,7 +18,7 @@ Wanna come and save the planet? Let’s think ourselves to a better earth!
 
 ## Lesson 1
 
-### Religion won’t help us save the world, because it always carries part of the problem.
+### Religion won’t help us save the world, because it always carries part of the problem
 
 Tolle first describes that **all religions already accept pain, chaos, madness and suffering as part of life in one form or the other**. Therefore, religion can’t possibly solve the problem.
 
@@ -30,7 +30,7 @@ Most of these problems with religion have emerged over time, because as religion
 
 ## Lesson 2
 
-### Overthinking is detrimental, so be like a duck.
+### Overthinking is detrimental, so be like a duck
 
 Tolle uses a cool Zen story to make this point.
 
@@ -44,7 +44,7 @@ Don’t be like Ekido. Don’t carry things with you longer than you need to. Be
 
 ## Lesson 3
 
-### You can live an enlightened life only through enjoyment, which you can find by accepting things as they are.
+### You can live an enlightened life only through enjoyment, which you can find by accepting things as they are
 
 So here’s the solution Tolle proposes: Accept every moment as it is. **Do whatever you have to do in any given moment, but do it peacefully, without judgement and keep an open mind.**
 
@@ -59,7 +59,5 @@ The more you seek to find this enjoyment in your life, the more it’ll become y
 I think *A New Earth* was even more successful than Tolle’s first one is that it works with the concepts he previously described, but places them in a much larger context. Not only are his ideas about living in the present the key to *your own* happiness, but they just might help us *all* make the world a better place.
 
 I’d suggest you read the free preview on Amazon and then make up your mind. Tolle is known for being a complicated read, so the blinks might help you understand this book a lot better and thus make a good supplemental read.
-
-## Who it’s for
 
 The 13 year old, who’s supposed to go to Confirmation in a year, the 33 year old stock broker, whose day is often ruined when he ends the it in the negative, and anyone who thinks their job involves doing lots of things they don’t like.

@@ -50,6 +50,4 @@ Whether you’re being stopped by a policeman for driving too fast, you’re lat
 
 *Words That Work* explores the art of communication and how to build long-lasting social skills that will help you thrive in your personal and professional life. Using just a few practices, such as relating to your interlocutor, knowing your audience, or keeping your vocabulary short and concise, you’ll manage to win over crowds and people in your life in no time! Reading this book will reveal a great deal of insights on effective communication techniques. You will also learn how to get your point across more easily and how to strengthen your relationships.
 
-## Who it’s for
-
 The 35-year-old aspiring politician who wants to work on their people skills, the 40-year-old public speaker or ghostwriter for public personas who wants to enhance their communication skills, or the 23-year-old communication student who wants to deepen their knowledge in the field.

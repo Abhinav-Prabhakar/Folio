@@ -20,7 +20,7 @@ Are you ready to learn from one of the most interesting figures in human history
 
 ## Lesson 1
 
-### The events of your childhood will shape you for the rest of your life.
+### The events of your childhood will shape you for the rest of your life
 
 Malcolm Little would never have become the iconic figure with an X for his last name (which hinted at his true last name being taken by “some blue-eyed devil”) if it weren’t for all the things that happened in his childhood.
 
@@ -34,7 +34,7 @@ His entire childhood channeled him into becoming someone, who hated the status q
 
 ## Lesson 2
 
-### In order to find yourself, you might have to get completely lost first.
+### In order to find yourself, you might have to get completely lost first
 
 This escape brought him right into the crime scene of Boston and later Harlem in the 1940s. Malcolm spent the majority of his teenage and early adult years hustling, dealing drugs, “steering” white people to secret prostitution locations, resulting in bigger and more dangerous crimes as he went on.
 
@@ -46,7 +46,7 @@ Malcolm spent all of his time in prison reading, learning about the religion of 
 
 ## Lesson 3
 
-### Even the best of us can get it wrong sometimes.
+### Even the best of us can get it wrong sometimes
 
 In 1963, Malcolm found out that the leader of Nation of Islam, Elijah Muhammad, to whom he had devoted himself, had slept with several of his secretaries, who were now filing paternity suits. He felt betrayed, disappointed and misguided.
 
@@ -61,7 +61,5 @@ There he was, one of the most iconic figures of the African-American movement, h
 Writing summaries like this one always takes forever. Why? Because I always end up reading 17 Wikipedia articles on the person in question and his or her entire family. If I let myself daydream for a bit, I see the day unfold watching documentaries, reading, and then discuss Malcolm X with an expert. Sadly, that’s not going to happen (yet).
 
 Reading *The Autobiography Of Malcolm X* or its blinks shouldn’t even be a question, it’s mandatory reading for sure!
-
-## Who it’s for
 
 The 15 year old high schooler, who wants to make history class more interesting, the 33 year old, who feels lost for job hopping the past ten years, and anyone who’s politically active.

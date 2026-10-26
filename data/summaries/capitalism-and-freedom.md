@@ -20,7 +20,7 @@ Are you ready to learn some important lessons about capitalism and freedom? Let�
 
 ## Lesson 1
 
-### Decreasing the size of government and decentralizing it will help keep political and economic freedom strong.
+### Decreasing the size of government and decentralizing it will help keep political and economic freedom strong
 
 In school, we learn that economics and politics are separate. Actually, they almost always come hand in hand. Just imagine trying to mix the state-led ways of the Soviet Union with the freedom-centric government of the United States. It wouldn’t go over so well.
 
@@ -36,7 +36,7 @@ That’s why we need free-market capitalism. In this system, the government’s 
 
 ## Lesson 2
 
-### Politicians like to think they’re going to improve the economy when they mess with it, but they only make things worse.
+### Politicians like to think they’re going to improve the economy when they mess with it, but they only make things worse
 
 One thing that proponents of big government like to argue about capitalism is its riskiness. Crashes like the Great Depression and the recession of 2008 are examples. These people believe that politicians need to oversee the economy to make sure it doesn’t head for crisis when left to its own devices. But this kind of thinking comes from bad economics.
 
@@ -50,7 +50,7 @@ It’s also extremely difficult to accurately predict what such a large populati
 
 ## Lesson 3
 
-### Social welfare systems don’t work and we should replace them with a negative income tax, among other things.
+### Social welfare systems don’t work and we should replace them with a negative income tax, among other things
 
 A lot of the reason we even have social welfare programs is to try to reduce inequality. Unfortunately, they too often fail at this and other purposes. Frequently they end up hindering equality rather than helping it.
 
@@ -65,7 +65,5 @@ The author proposes that we instead implement a negative income tax. First, we s
 ## Review
 
 *Capitalism And Freedom* brings up a lot of important points in the debate between free-market capitalism and more regulated economic systems. I think that we still need more research to determine what the best path forward in all of this really is. All in all, I did like this book and I think that society can’t ignore these ideas whatever way we choose.
-
-## Who it’s for
 
 The 39-year-old with an interest in politics and capitalism, the 22-year-old who is taking an economics class, and anyone that is curious about the benefits of free-market capitalism.

@@ -18,7 +18,7 @@ Are you ready to find out how to make world peace a reality, at least in your wo
 
 ## Lesson 1
 
-### Choose the higher path of peace by learning to understand when your heart is leaning toward conflict.
+### Choose the higher path of peace by learning to understand when your heart is leaning toward conflict
 
 Pretend for a moment that your parents taught you to always hate left-handed people due to a bunch of them attacking your family’s right-handed ancestors. You notice, one day, that a left-handed person falls in the street, dropping what he was carrying. Do you help him or leave him there?
 
@@ -34,7 +34,7 @@ You can choose this better way of peace also. Let go of past grudges and listen 
 
 ## Lesson 2
 
-### Changing the environment to invite other people to change is more effective than thinking that you can force them to change.
+### Changing the environment to invite other people to change is more effective than thinking that you can force them to change
 
 Nearly a year ago I lost my job. The manager that let me go didn’t even bother to take the time to listen to me. Even if he had, I know from coworkers experiences that he was not the kind to care. It wasn’t a healthy work environment because I felt like more of an object than a person with feelings.
 
@@ -46,7 +46,7 @@ Even in cases with a more serious issue, like drug or alcohol addiction, trying 
 
 ## Lesson 3
 
-### Learn to resist the destructive urge to justify your bad behavior by putting yourself into a box.
+### Learn to resist the destructive urge to justify your bad behavior by putting yourself into a box
 
 We are remarkably good at deceiving ourselves. Think about a time when you tried to justify actions that were clearly wrong and you’ll see this is true. One way we do this is by putting ourselves into a few different kinds of boxes:
 
@@ -69,7 +69,5 @@ The amount of harmony around you depends on your heart and mind. If you choose t
 ## Review
 
 What a powerful message! *The Anatomy Of Peace* is a book that we all need to read in this day of heightened conflict. Although some of the lessons are hard to swallow, applying them will make your world a much more peaceful place.
-
-## Who it’s for
 
 The 53-year-old politician who thinks members of the opposing political party are terrible people, the 22-year-old who can’t stop getting into fights on the internet, and everyone who wants world peace.

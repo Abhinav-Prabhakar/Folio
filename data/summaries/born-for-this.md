@@ -20,7 +20,7 @@ Don’t know what you were born for yet? No sweat, we’ll find out together!
 
 ## Lesson 1
 
-### Create a set of if-then sketches as fallback plans so you’ll sweat risks less and feel more confident.
+### Create a set of if-then sketches as fallback plans so you’ll sweat risks less and feel more confident
 
 A popular technique in books that encourage you to start your own business is visualizing your worst-case scenario. Imagining your world when everything that could possibly go wrong would often makes you realize that it wouldn’t be so bad and that you’d likely be able to recover. This feels reassuring and makes it easier to take the next step.
 
@@ -32,7 +32,7 @@ This will make you feel very safe and confident about moving ahead, and even if 
 
 ## Lesson 2
 
-### Get your side hustle off the ground fast with a 100 People Project.
+### Get your side hustle off the ground fast with a 100 People Project
 
 Some of the tips Chris gives in this book about finding the right work for yourself include making a list of all the skills you’re good at (and not just the ones you learned about in college), the things you hate doing and paying attention to what other people ask you for help with.
 
@@ -46,7 +46,7 @@ Pretty neat, huh?
 
 ## Lesson 3
 
-### Learn to be okay with the seasons of life, your life isn’t a straight line, after all.
+### Learn to be okay with the seasons of life, your life isn’t a straight line, after all
 
 Do you know what’s depressing? Having to pick just one option out of a myriad of choices. Do you know what’s even worse? Having to live with that choice for the rest of your life.
 
@@ -63,7 +63,5 @@ Life is seasonal and it’s perfectly okay for your career to reflect that. You 
 ## Review
 
 I’m such a fanboy, but I don’t even care. Chris is great. Don’t think, just read. Oh and take the quiz that comes with *Born For This*.
-
-## Who it’s for
 
 The 25 year old grad school graduate with a strictly mapped out career plan, the 45 year old father with a steady job that feels like a dead-end on the career ladder, and anyone who doesn’t like their job in one season, but loves it in the next.

@@ -18,7 +18,7 @@ Ready to learn how to make some ca$h from your advertising? Let’s go!
 
 ## Lesson 1
 
-### To have a successful marketing campaign, you need to know and appeal to the eight core desires of people.
+### To have a successful marketing campaign, you need to know and appeal to the eight core desires of people
 
 Marketing is just applied psychology. Those that are best at getting people to buy know the most about human nature. So what is it that they know that the rest of us don’t?
 
@@ -43,7 +43,7 @@ To appeal to this desire, identify the tension that’s preventing their cat’s
 
 ## Lesson 2
 
-### A persuasive headline that gets people to click and read is as simple as following three steps.
+### A persuasive headline that gets people to click and read is as simple as following three steps
 
 Most titles aren’t exciting enough to get people interested. It’s estimated that 60% of those that see an ad only look at the headline!
 
@@ -65,7 +65,7 @@ And last, use powerful words in your headlines to catch people’s attention. Go
 
 ## Lesson 3
 
-### Shorter articles don’t do as well as longer ones for drawing people in.
+### Shorter articles don’t do as well as longer ones for drawing people in
 
 People are busy these days. They probably don’t have time to read an in-depth article, right? Although a lot of marketers think this way, it’s actually not true. People like to get the details of purchases they’re considering. And if you give that information, they’ll keep reading, even if the copy is long.
 
@@ -80,7 +80,5 @@ The length of the content I saw didn’t discourage me from consuming it, in fac
 ## Review
 
 I enjoyed *Cashvertising* but also think that some things have changed in the time since 2008 when Whitman wrote it. The mention of ads in a magazine, for example, feels a bit outdated. However, the principles around human nature and online content are timeless and give great tips we can use even today.
-
-## Who it’s for
 
 The 34-year-old blogger who feels like they know next to nothing about marketing, the 56-year-old business executive that wants to understand consumers better to cater to their needs, and anyone that would like to get better at selling.

@@ -22,9 +22,9 @@ If you’re aspiring to build a business, then these are for you. Let’s take a
 
 ## Lesson 1
 
-### Focus your marketing on the end user of your product, even if you’re in B2B.
+### Focus your marketing on the end user of your product, even if you’re in B2B
 
-The only way to become a billion-dollar business is if people talk about you. A lot. One of the ways Salesforce tried to harness the human desire to share was to focus on *editorials*, which are written up, unbiased reviews by individuals, published in news outlets or even on personal blogs. Another was going after *testimonials*, which is when a user tells about his or her success with the product and thus inspires others to give your service a try *.*
+The only way to become a billion-dollar business is if people talk about you. A lot. One of the ways Salesforce tried to harness the human desire to share was to focus on *editorials*, which are written up, unbiased reviews by individuals, published in news outlets or even on personal blogs. Another was going after *testimonials*, which is when a user tells about his or her success with the product and thus inspires others to give your service a try*.*
 
 Interestingly, in spite of being an online business, **Salesforce found offline events to be a great avenue to pursue both of these**.
 
@@ -36,7 +36,7 @@ Eventually, they later replicated this by hosting private cocktail parties, whic
 
 ## Lesson 2
 
-### Always do what’s best for the customer, even if it scares you and might hurt your business.
+### Always do what’s best for the customer, even if it scares you and might hurt your business
 
 Salesforce started with a mission to bring about “the end of software.” That’s a scary thing to announce, but an even scarier to thing to actually live and breathe.
 
@@ -50,7 +50,7 @@ Similar decisions included a public bug report system and giving all developers 
 
 ## Lesson 3
 
-### When going global, remember to respect the context of other cultures.
+### When going global, remember to respect the context of other cultures
 
 I’ll admit, this one is probably far off in the future for you, but it’s a worthy reminder nonetheless. When Salesforce dipped its toe into overseas water for the first time, they set up headquarters in Dublin, Ireland, for two reasons:
 
@@ -68,7 +68,5 @@ Remember, **different cultures have different contexts, which must be respected 
 ## Review
 
 Not everyone wants to build a billion dollar business. Not everyone can, I get that. Learning lessons like these is much more about the mindset, than it is about the specific strategies you can apply. By observing the thinking of people like Marc Benioff, we can learn a lot about how they make decisions and navigate the world of business, which will help us with entirely different problems that we don’t even know we’ll run into yet. *Behind The Cloud* is a solid read for entrepreneurs!
-
-## Who it’s for
 
 The 33 year old product manager, who just got rejected in a B2B pitch, the 48 year old PR executive, who’s debating whether to make certain data available publicly or not, and anyone who’s about to approach someone in another country for business.

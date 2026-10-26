@@ -24,7 +24,7 @@ Are you ready to discover the fountain of youth? Let’s dive right in and see w
 
 ## Lesson 1
 
-### Your telomeres affect how old you look and how fast you age.
+### Your telomeres affect how old you look and how fast you age
 
 How many people do you know that are afraid to get old? It’s not an uncommon fear, and for good reason-aging is not fun. As they say, getting old ain’t for sissies!
 
@@ -44,7 +44,7 @@ And although these powerful cell structures help fight aging, they don’t last 
 
 ## Lesson 2
 
-### Negative thinking damages your telomeres.
+### Negative thinking damages your telomeres
 
 It’s not easy to avoid reacting poorly when something goes wrong in your life. After all, we’re only human, right? Be careful how much you do, though, because it’s not good for your telomeres and can make you age faster.
 
@@ -62,7 +62,7 @@ Anxiety and depression come from major life events. More recent occurrences have
 
 ## Lesson 3
 
-### Make sure you exercise and get enough rest if you want to have healthy telomeres.
+### Make sure you exercise and get enough rest if you want to have healthy telomeres
 
 We’d all like to lose a little weight. But setting this kind of goal isn’t only a matter of looks. The health of your telomeres and your youth is at stake too.
 
@@ -81,7 +81,5 @@ So the longer you sleep, the longer your telomeres will be. Getting at least sev
 ## Review
 
 Wow, physiology is so cool! *The Telomere Effect* taught me a ton of concepts about my own body that I never even though of before. It’s a fascinating read that I’m certain you will enjoy.
-
-## Who it’s for
 
 The 26-year-old that doesn’t want to get gray hairs like her mother did at a young age, the 53-year-old that wants to learn a few ways to increase their lifespan, and anyone that wants to be healthier.

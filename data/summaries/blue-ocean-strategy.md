@@ -20,7 +20,7 @@ Knowledge comes from repetition, so we’ll have to take each lesson in detail a
 
 ## Lesson 1
 
-### Instead of competing in a Red Ocean, learn to dive deep into the Blue Ocean.
+### Instead of competing in a Red Ocean, learn to dive deep into the Blue Ocean
 
 The book brings forth two types of markets, namely the Red and Blue Oceans. The first type of market is the battlefield of businesses, the place where they practice their operational activities, look for new sources to gain their competitive advantage, and pull the rug from each other’s feet.
 
@@ -32,7 +32,7 @@ In the Red Ocean, it is difficult to look for new sources of revenue and innovat
 
 ## Lesson 2
 
-### Arriving at a Blue Ocean implies a strategy canvas that allows you to win the competition.
+### Arriving at a Blue Ocean implies a strategy canvas that allows you to win the competition
 
 Every business will have to fight its battles in the Red Ocean, regardless of its industry. Competition is a natural part of every company’s environment and growth, but it’s up to its executives to come up with ways to tame it while focusing on innovation. In other words, you’ll need to swim in the Red Ocean till you reach the Blue one.
 
@@ -51,7 +51,7 @@ The second question is similar, but it asks what you can focus on to be the best
 
 ## Lesson 3
 
-### Jump into the Blue Ocean and make your competition seem irrelevant.
+### Jump into the Blue Ocean and make your competition seem irrelevant
 
 Reaching the Blue Ocean is a big step for every company, because not only will it assure your survival in the market, but also grow your enterprise successfully, at least for a brief time. Innovation is at the cornerstone of every business, industry, and advancement of a field.
 
@@ -66,7 +66,5 @@ You can create added value by improving what you already have, which is great, b
 *Blue Ocean Strategy* is a revolutionary piece of writing based on the idea that there is always a blue ocean around the traditional industry and business markets. The main concept presented is that you don’t have to match or beat your competitors, as there are always other industries waiting to be conquered.
 
 This book is a great starting point for any small businesses seeking to understand how they should approach the market differently so as to win and create their own Blue Ocean.
-
-## Who it’s for
 
 The-55-year old CEO who wants to learn more about business strategy and how to create a new market in their well-established company, the 35-year-old start-up founder who wants to learn how to navigate the competitive field of business, or the 24-year-old MBA student who wants to learn hands-on knowledge about the business world.

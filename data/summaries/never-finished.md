@@ -16,11 +16,9 @@ The book offers 8 evolutions for our thinking, reminding us that what we think i
 
 Let’s understand what it means that life is “never finished,” why that’s not a bad thing, and how you can keep going forever!
 
-### Never Finished Summary
-
 ## Lesson 1
 
-### Use 1-second decisions to boost your resolve when you need it the most.
+### Use 1-second decisions to boost your resolve when you need it the most
 
 Goggins isn’t your typical self-help guru, bubbling with inspiration but little else. He’s a straight shooter handing out tough truths people need to hear. “This one second will change your life” is the last thing you’d expect from him, but if you think this one through, it makes sense.
 
@@ -32,7 +30,7 @@ Imagine opening a rejection letter from your dream college. Think about hearing 
 
 ## Lesson 2
 
-### Refuse to accept low-level success.
+### Refuse to accept low-level success
 
 The core message of Goggins’ book is that life is never finished. *You’re* never finished. There’s always more to learn, do, and improve. New challenges waiting to be tackled. New heights waiting to be reached.
 
@@ -46,7 +44,7 @@ It’s perfectly okay to say, “I have enough” one day. To redefine what succ
 
 ## Lesson 3
 
-### Don’t just meet standards — set your own and go beyond what anyone thinks you’re capable of.
+### Don’t just meet standards — set your own and go beyond what anyone thinks you’re capable of
 
 The worst thing you can do at a new job is to deliver exactly what people ask you to deliver. You’ll blend right in with the invisible masses who “do what’s expected, no more, no less,” and your first promotion will recede into the distance.
 
@@ -57,7 +55,5 @@ Exceeding expectations is especially easy when people demand quantity, but the p
 ## Review
 
 Goggins’ writing-style is authoritative, blunt, and crass. It won’t work for everyone. But it is also honest, forward-looking, and inspiring. If, deep down, you know you need a no-BS slap in the face to start living your best life, *Never Finished* is the book for you.
-
-## Who it’s for
 
 The 22-year-old store worker who is stuck in a dead-end job because she still wallows over a big rejection that happened years ago, the 35-year-old creator who’s outwardly successful but unsatisfied because he is stuck in the wrong opportunity, and anyone who knows they need to make a change but lack the courage to do so.

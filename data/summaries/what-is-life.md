@@ -18,7 +18,7 @@ Although these lessons don’t make much sense now, as we dive deeper into them 
 
 ## Lesson 1
 
-### Atoms define our world, and they function in a remarkable way.
+### Atoms define our world, and they function in a remarkable way
 
 Everybody’s heard about atoms. But what are they, really? Essentially, they’re the tiniest part of any surrounding thing you can get your eyes on, and the way they function isn’t anything short of outstanding. Just think about it: everything you are, you touch or see, is made of atoms. They don’t have much relevance if you take them one by one, but together they form our world.
 
@@ -30,7 +30,7 @@ Genes play a role of utmost importance in your life, as they determine your deve
 
 ## Lesson 2
 
-### Our evolution in time is based on quantum jumps that mutate the body in a positive way.
+### Our evolution in time is based on quantum jumps that mutate the body in a positive way
 
 Charles Darwin promoted a large misconception about evolution. He stated that organisms develop in time by smooth, small changes that occur in a continuous and accidental way. Unfortunately, this theory proved to be wrong. In fact, evolution takes place in a much different way.
 
@@ -42,7 +42,7 @@ To break their pattern and form new configurations, they must be brought to a ne
 
 ## Lesson 3
 
-### Consciousness is a remarkable trait of humans and it functions separately from sensations.
+### Consciousness is a remarkable trait of humans and it functions separately from sensations
 
 Consciousness is a trait only humans possess among all living organisms. It separates us from animals and it elevates our organisms significantly. This outstanding mental mechanism helps us survive by producing responses to a large variety of situations and behaviours to match them, according to Schroedinger.
 
@@ -53,7 +53,5 @@ Understanding consciousness brings us one step closer to understanding evolution
 ## Review
 
 *What is Life?* explores the idea of life from a scientific point of view and presents an easy-to-follow perspective on human evolution. By merging years of research with some aspects from Darwin’s theory, quantum physics, and his famous lectures, Erwin Schroedinger manages to conduct thorough research on this intriguing subject. Reading this book will widen your perspective on life overall, how the brain works, why atoms are spectacular in the way they function, quantum theory, and many other fascinating aspects.
-
-## Who it’s for
 
 The 30-year-old scientist who is fascinated by quantum physics, the 35-year-old person who is curious about the world and has a passion for science, or the 65-year-old retired person who wants to learn about the fascinating aspects of life from a scientific point of view and has the time for it.

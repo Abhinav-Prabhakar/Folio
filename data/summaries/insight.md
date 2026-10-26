@@ -20,7 +20,7 @@ Ready to gain some *insights* on how to become self-aware? Let’s get started!
 
 ## Lesson 1
 
-### Self-awareness, or the power to know who you are and what others think of you, comes by following seven insights.
+### Self-awareness, or the power to know who you are and what others think of you, comes by following seven insights
 
 Self-awareness comes in two parts.
 
@@ -28,7 +28,7 @@ The first is understanding our own behavior, or internal self-awareness.
 
 The second is known as external self-awareness, or having a sense of how others see us.
 
-**It is beneficial to develop your self-awareness because research showsthat the better you are at it, the happier you will be.** Knowing yourself also helps you make wiser decisions, have deeper relationships, and be more creative.
+**It is beneficial to develop your self-awareness because research shows that the better you are at it, the happier you will be.** Knowing yourself also helps you make wiser decisions, have deeper relationships, and be more creative.
 
 So now that you know why you need it, how do you get more self-awareness? There are seven forms of insight, all of which must be developed to become wholly self-aware:
 
@@ -42,7 +42,7 @@ So now that you know why you need it, how do you get more self-awareness? There 
 
 ## Lesson 2
 
-### Developing self-awareness comes from being introspective, but do it correctly, or it may backfire.
+### Developing self-awareness comes from being introspective, but do it correctly, or it may backfire
 
 Looking closely at yourself to examine your actions and feelings is important, but going about it the wrong way will harm you. Self-analyzers have a worse view of themselves, more negative relationships, and more anxiety.
 
@@ -56,7 +56,7 @@ On the complete opposite spectrum of introspection is rumination, or a preoccupa
 
 ## Lesson 3
 
-### If you want to be the best you can at self-understanding, learn how to react well to feedback.
+### If you want to be the best you can at self-understanding, learn how to react well to feedback
 
 A team I once worked on taught me that the greatest people don’t just take correction; they *seek* it. I’ve found this to be true as I’ve tried it myself.
 
@@ -74,8 +74,6 @@ The third and final way to receive feedback well is to monitor how you respond t
 
 ## Review
 
-Wow, this book is really *insight* ful! I suppose I always felt that I was fairly self-aware, but *Insight* fills a lot of gaps in my understanding of how I see myself. Knowing yourself is really important to happiness and success, which is something that I never really thought of before reading this. This is an interesting and helpful book that I would highly recommend!
-
-## Who it’s for
+Wow, this book is really *insight*ful! I suppose I always felt that I was fairly self-aware, but *Insight* fills a lot of gaps in my understanding of how I see myself. Knowing yourself is really important to happiness and success, which is something that I never really thought of before reading this. This is an interesting and helpful book that I would highly recommend!
 
 The 31-year-old with a boss who is oblivious to their own shortcomings, the 52-year-old executive who desires a successful team, and anyone who wants to grow their self-awareness.

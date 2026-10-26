@@ -16,11 +16,9 @@ Here are 3 lessons that will help you understand its core message:
 
 Let’s discover *A Tale of Two Cities*!
 
-### A Tale of Two Cities Summary
-
 ## Lesson 1
 
-### It is never too late to “be reborn,” to change ourselves and make something of our lives.
+### It is never too late to “be reborn,” to change ourselves and make something of our lives
 
 The first act of the book is called *“Recalled to Life,”* a key phrase that repeats throughout the book. Initially, it is used to describe the release of Dr. Alexandre Manette from the Bastille prison after 18 years. Lorry carries this news to Lucie, Manette’s daughter. Together, they travel to France and bring a clearly traumatized and mentally unstable Dr. Manette home to London.
 
@@ -30,7 +28,7 @@ The point Dickens makes is that no matter our circumstances or past failures, it
 
 ## Lesson 2
 
-### Everything in life resembles something else, and there are always parallels to learn from if we look for them.
+### Everything in life resembles something else, and there are always parallels to learn from if we look for them
 
 “There is nothing new under the sun,” they say. In the second act, *“The Golden Thread,”* more and more parallels between Lucie’s and Darnay’s families unfold. When Lucie and her father are witnesses at Darnay’s trial for treason, she falls in love with him. Since present lawyer Sydney Carton resembles Darnay, all evidence against him is dismissed.
 
@@ -44,7 +42,7 @@ The lesson? **No matter what situation you are currently facing, if you look aro
 
 ## Lesson 3
 
-### One of the most meaningful things we can do is to sacrifice for others which, ironically, will make us happy and fulfilled.
+### One of the most meaningful things we can do is to sacrifice for others which, ironically, will make us happy and fulfilled
 
 In the last act, *“The Track of a Storm,”* Darnay is promptly thrown into prison after his arrival in France for being “an old aristocrat.” The Manettes arrive and get him acquitted at his trial, but he is rearrested instantly — and sentenced to death.
 
@@ -55,7 +53,5 @@ Of course, in our everyday lives, sacrifice doesn’t mean dying to save someone
 ## Review
 
 *A Tale of Two Cities* truly has everything you could ask for in a story. It’s a literary classic full of important themes, metaphors, and symbols. Dive in slowly with some summaries and analyses of the book, then read the whole thing. You won’t regret it!
-
-## Who it’s for
 
 The 15-year-old high school student who needs to read the book for class but doesn’t quite see the point, the 27-year-old stay-at-home mom who feels alone in her situation, and anyone who wants to better understand the great classics of literature.

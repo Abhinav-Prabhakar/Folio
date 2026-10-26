@@ -22,7 +22,7 @@ You’d better be ready to have a fulfilling career because after this it’s go
 
 ## Lesson 1
 
-### Focus on the lifestyle you desire and your skills to find your dream job.
+### Focus on the lifestyle you desire and your skills to find your dream job
 
 It’s easy to hear someone talk about being in a job they love and think it must have just fallen into their lap because they followed their passion. But this isn’t how it works. Getting there requires a bit more planning and focus on the right things.
 
@@ -38,7 +38,7 @@ That wasn’t the end of his practice though. He kept improving so that he could
 
 ## Lesson 2
 
-### Develop a yearning to improve instead of just trying to stay good at your work.
+### Develop a yearning to improve instead of just trying to stay good at your work
 
 Are you the kind of person that wants to stay proficient at your job? Or do you take an outlook of trying to get better into work each day? If you want to stay great at what you do and find happiness in your job, you need to always seek to get better.
 
@@ -56,7 +56,7 @@ And remember, research shows that people see you as more capable when you ask fo
 
 ## Lesson 3
 
-### You can only take advantage of opportunities if you’re willing to take risks and overlook pitfalls.
+### You can only take advantage of opportunities if you’re willing to take risks and overlook pitfalls
 
 Our ancient ancestors usually didn’t have very long lives. But their brains did try to protect them from animals, weather, and other dangers by adapting to become better at avoiding risk.
 
@@ -77,7 +77,5 @@ Anyone can find plenty to be afraid of when new opportunities arise. But it take
 ## Review
 
 *Maximize Your Potential* offers solid advice on its subject. If you want to leave the “daily grind” and get into a job that lines up with your passions, check out this book.
-
-## Who it’s for
 
 The 25-year-old that just got into their first full-time job out of college, the 53-year-old who feels like they’re just coasting and wants to get meaning in their work, and anybody that wants to reach their full potential when it comes to their career!

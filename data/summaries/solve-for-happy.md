@@ -20,7 +20,7 @@ Life is short. There’s no time to waste. So let’s solve for happy!
 
 ## Lesson 1
 
-### The voice inside your head is not you.
+### The voice inside your head is not you
 
 Every single person on earth has an inner monologue that runs 24/7/365. It’s a stream of thoughts that uses the I- or You-form when addressing us, for example “I should stop partying so much,” or “you can never be a professional at basketball.” The first big illusion Mo wants to help us shatter is the belief that this voice is not just talking to us, it *is* us.
 
@@ -32,7 +32,7 @@ If you strip away everything, what you own, your friends, your body, even your i
 
 ## Lesson 2
 
-### Your brain’s automatic filters keep you from observing everything around you.
+### Your brain’s automatic filters keep you from observing everything around you
 
 Humans are built on heuristics. They’re little if-then rules for automatic behavior in certain situations. Shortcuts, if you will. For thousands of years, these heuristics have allowed us to survive, find food, and reproduce. However, over the past 2,000 years of somewhat modern civilization, they’ve become a lot less useful.
 
@@ -44,7 +44,7 @@ It’s impossible to turn these filters off completely, and that’s a good thin
 
 ## Lesson 3
 
-### Living in the present always makes you happier, even if bad things happen.
+### Living in the present always makes you happier, even if bad things happen
 
 Matt Killingsworth has been researching happiness at Harvard and Berkeley for several years. As part of his work, he runs a large-scale happiness study through the Track Your Happiness app. Over 15,000 people have joined and the results clearly show one thing: **the more we focus on the present moment, the happier we are**.
 
@@ -55,7 +55,5 @@ Once again, it’s about awareness and going with the flow. This is the first ul
 ## Review
 
 *Solve For Happy* is not a revelation, but it’s a solid compendium of what we know about happiness. Given the mission of the man behind the book, I think it’s a cause well worth supporting by helping to spread the word. May we all solve our own happiness equations.
-
-## Who it’s for
 
 The 29 year old upstart, who’s trying too hard to chase success, the 53 year old accomplished professional, who’s become a multitasker through modern technology, and any parent who lost a child.

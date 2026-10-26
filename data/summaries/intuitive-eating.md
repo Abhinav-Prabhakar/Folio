@@ -58,6 +58,4 @@ At the end of the day, it’s all about moderation and avoiding polarizing the c
 
 *Intuitive Eating* is a must-read for everyone who is concerned about their food intake and wants to live a long, fulfilled, healthy life. By ditching traditional diets and embracing gut-supportive foods and habits, you too can become more health-conscious and get over the struggles that come with dieting. Moreover, the book will teach how to achieve a healthy lifestyle and drop the idea of restrictive eating overall, all while keeping yourself in shape and within optimum parameters.
 
-## Who it’s for
-
 The 30-year-old woman who is constantly struggling with her weight, the 38-year-old who is looking to become healthier and control their eating habits, or the 27-year-old person who’s facing health issues like bulimia and wants to learn how to cure them.

@@ -18,7 +18,7 @@ Are you sick and tired of being sick and tired? Let’s get into some ways to en
 
 ## Lesson 1
 
-### You don’t need to follow every health news article or a new piece of research.
+### You don’t need to follow every health news article or a new piece of research
 
 People tend to get excited about new food studies. Take vitamin D, for example. Multiple studies showed that a large proportion of the population is actually deficient in it. This is important because it reduces the risk of everything from cancer to Parkinson’s.
 
@@ -30,7 +30,7 @@ In vitamin D, though many studies show the benefits, there are actually drawback
 
 ## Lesson 2
 
-### Vitamins are good, but it’s pretty common for people to take supplements they don’t need.
+### Vitamins are good, but it’s pretty common for people to take supplements they don’t need
 
 Many people take vitamins every single day. It’s easy to see why— we know vitamins are essential for our health. Vitamins help our bodies perform various functions, and because we can’t produce them ourselves, we need to obtain most of them from food.
 
@@ -44,7 +44,7 @@ Because so many Americans take some supplement, it is a booming business. The an
 
 ## Lesson 3
 
-### We know our bodies better and have an easier time predicting illness outbreaks because of technologies like Google.
+### We know our bodies better and have an easier time predicting illness outbreaks because of technologies like Google
 
 We know many modern technologies such as computers and phones can make it harder to do things like exercise, but they’re also many ways that technologies have the potential to make us more healthy. Google can actually be used to predict both seasonal illnesses like the flu or even track pandemics.
 
@@ -59,7 +59,5 @@ The author says all of this is likely in our near future and more. But for now, 
 ## Review
 
 *The End Of Illness* is a fantastic idea, but I think the title is a little misleading in reality. It’s still a great book about health that will help you take better charge of your fitness, though! I like feeling empowered to be smarter about how I take care of my body, and I think you will too!
-
-## Who it’s for
 
 The 57-year-old feels good about taking their vitamins every day but wonders if it’s actually helping them. To that 28-year-old that is exhausted by following every new piece of health advice they read. To anyone who wants to take better care of their body.

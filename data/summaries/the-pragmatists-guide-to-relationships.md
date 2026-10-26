@@ -24,7 +24,7 @@ Are you ready to take your relationship skills to the next level? Here we go!
 
 ## Lesson 1
 
-### Use the 6 efficient relationship lures to find a great partner.
+### Use the 6 efficient relationship lures to find a great partner
 
 According to the Collins’, a relationship lure is the value you offer a potential partner. It sets the stage for the short and long-term quality of the partnership, so it’s vital that you get it right.
 
@@ -43,7 +43,7 @@ These lures are not the end of a good relationship but the beginning. Use them w
 
 ## Lesson 2
 
-### The beauty of a good marriage lies in sharing your mental load.
+### The beauty of a good marriage lies in sharing your mental load
 
 My wife never has to think about our finances, but she does help me with my work. I don’t have to worry about groceries, but I do help my wife plan meals. This is what the Collins’ call “cognitive integration.”
 
@@ -63,7 +63,7 @@ One is a tree with separate branches, stems, and sections of leaves, the other i
 
 ## Lesson 3
 
-### Find a partner that’ll unlock your potential and help them do the same.
+### Find a partner that’ll unlock your potential and help them do the same
 
 People always say: “Never marry someone out of the expectation they will change.” There is some truth to it, but people *always* change, and there’s also an opportunity to help your partner become the best version of themselves – and vice versa! Imagine a good friend always pushing you to do your best.
 
@@ -78,7 +78,5 @@ To train your partner in return, express both disappointment in their bad action
 ## Review
 
 *The Pragmatist’s Guide To Relationships* is the most thorough book on relationships that I have ever come across. It challenged my thought patterns, helped me see the strengths and weaknesses of my own marriage, and gave me actionable advice to make strengthen my relationship with my wife. I highly recommend this book to everyone. All proceeds go to charity. Grab your copy today!
-
-## Who it’s for
 
 The 21-year-old college student who is trying to figure out how to get a date, the 48-year-old married couple that wants to improve the weak spots in their relationship, and anyone who’s ever been in love.

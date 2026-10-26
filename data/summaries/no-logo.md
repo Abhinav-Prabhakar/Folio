@@ -20,7 +20,7 @@ Let’s get right to learning!
 
 ## Lesson 1
 
-### Successful brands focus more on brand identity than their actual product.
+### Successful brands focus more on brand identity than their actual product
 
 Believe it or not, the best way to have a successful product isn’t making something that’s the highest quality. It’s about making something considered the coolest. That’s why companies spend enormous amounts of money every year trying to figure out what’s cool and incorporating this into their brand.
 
@@ -34,7 +34,7 @@ It also has sought to be seen as a company that empowers both women and Black pe
 
 ## Lesson 2
 
-### Outsourcing isn’t just bad for workers in developing countries, it’s bad for workers everywhere.
+### Outsourcing isn’t just bad for workers in developing countries, it’s bad for workers everywhere
 
 In the 80s and 90s, many big companies began outsourcing to save on labor costs. They closed up factories in Western countries and built new ones in the developing world where the labor is cheaper. **Because these workers are considered contractors rather than employees, these multinationals don’t have responsibility for them.**
 
@@ -50,7 +50,7 @@ In many of these workplaces, unions are strongly discouraged and work satisfacti
 
 ## Lesson 3
 
-### If you want to make a difference, you can try targeting specific multinational brands to bring them down.
+### If you want to make a difference, you can try targeting specific multinational brands to bring them down
 
 Whether we realize it or not, brands wield an immense amount of cultural power in our society. Persistent brainwashing burned the names and logos of these companies into our minds, making them instantly recognizable. This seems like a great thing for them, but it is also something that can be used against them fairly easily.
 
@@ -65,7 +65,5 @@ They can take a slogan and change it slightly or touch up an image to change the
 ## Review
 
 I’m always a big fan of any book or person with an attitude of let’s tear down the ultra-rich, so naturally, I liked *No Logo*. The jargon gets a bit much sometimes, but it’s not too bad and I wouldn’t write the book off just for that. It’s definitely an eye-opener that I hope a lot of people will read!
-
-## Who it’s for
 
 The 57-year-old ultra-rich CEO of a multinational company, the 33-year-old who wants to learn more about how the power of big brands has changed in the last few years, and anyone that hopes to find ways to make the world a more fair place.

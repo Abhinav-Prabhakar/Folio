@@ -18,11 +18,9 @@ Here are 3 valuable lessons from *How to Win Friends and Influence People*:
 
 Ready to become a master of influence? Rock and roll!
 
-### How to Win Friends and Influence People Summary
-
 ## Lesson 1
 
-### A simple smile is all it takes for you to make a great impression.
+### A simple smile is all it takes for you to make a great impression
 
 There’s that famous quote about how actions speak louder than words, because in the way we act we truly show whether we follow through on our intentions, instead of just stating them.
 
@@ -42,7 +40,7 @@ So the next time you meet someone new, turn that frown upside down and smile as 
 
 ## Lesson 2
 
-### You can be interesting to others by getting them to talk about themselves.
+### You can be interesting to others by getting them to talk about themselves
 
 What’s everyone’s favorite topic? The weather? Nope. Themselves!
 
@@ -62,7 +60,7 @@ If you want to go one step further, you can do what Teddy Roosevelt did, and eve
 
 ## Lesson 3
 
-### In order to convince people, you have to get them to say yes a lot.
+### In order to convince people, you have to get them to say yes a lot
 
 Dale Carnegie has 3 steps to help you convince people, the premise of all of them being that they don’t know you’re trying to change their mind.
 
@@ -79,7 +77,5 @@ The idea behind this approach, called the Socratic method, is that the probabili
 ## Review
 
 I could easily have summarized every single blink in this summary, such a good one. The tips are incredibly simple, which is why they’re so powerful. All of them you can start applying right now, as *How To Win Friends And Influence People* carries a strong message of “be the change you want to see in the world.” This book uses less scientific language than Cialdini’s *Influence*, for example, which makes it a light, but recommended read.
-
-## Who it’s for
 
 The 14 year old who just got a paper route, and now has to talk to a lot of people, the 27 year old girl who usually spends a lot of time on dates talking about herself, and anyone who’s job involves selling something.

@@ -20,13 +20,13 @@ Let’s go!
 
 ## Lesson 1
 
-### To change your habits, use self-directed neuroplasticity.
+### To change your habits, use self-directed neuroplasticity
 
 How cool does that sound? Almost like a weapon from Star Wars VII. But what the hell is it?
 
 If you break down the term, it comes down to this: **self-directed** means you exert neuroplasticity on yourself. So you’re the one who’s using it, and who it’s being used on.
 
-**Neuro** – stands for your neurons, or nerve cells, in your brain, which are the pathways where feelings and thoughts flow.
+**Neuro**– stands for your neurons, or nerve cells, in your brain, which are the pathways where feelings and thoughts flow.
 
 **Plasticity** means something is like plastic – it is firm initially, but can be formed and changed by using the right tools.
 
@@ -44,7 +44,7 @@ This is what happens when you hear stories like the one of Christopher Reeve, fa
 
 ## Lesson 2
 
-### Hebb’s law and the quantum zeno effect.
+### Hebb’s law and the quantum zeno effect
 
 So how do you start to direct some neuroplasticity at yourself? By learning about two more cool concepts with funky names.
 
@@ -66,7 +66,7 @@ Then, by consciously changing your thoughts and behavior, you can **rewire your 
 
 ## Lesson 3
 
-### Take these 4 steps to break a bad habit.
+### Take these 4 steps to break a bad habit
 
 As much as I love this, enough with the scientific mumbo-jumbo, let’s get to the actionable part. The 4-step framework is the main point of the book and summary, so I’ll only touch on it briefly.
 
@@ -85,7 +85,5 @@ The terminology this book uses is brilliant, I’m glad Blinkist picked up on it
 Even if not, everything is explained simply enough to understand the ideas behind it, and while the 4-step framework isn’t groundbreaking, it works.
 
 I knew Hebb’s law, but the quantum zeno effect was big news. I feel well-informed and the summary does a perfect job at giving you enough to know whether you want to get a copy of *You Are Not Your Brain*.
-
-## Who it’s for
 
 The 21 year old smoker, who picked up the habit before knowing about its harmfulness, and now wants to change, the 34 year old recent graduate with a curiosity for science, and anyone who struggles with overthinking things.

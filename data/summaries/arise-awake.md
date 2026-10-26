@@ -20,7 +20,7 @@ Get your business ideas ready, because after this you’re going to want to go o
 
 ## Lesson 1
 
-### Dream big, work hard and pay attention when luck comes your way.
+### Dream big, work hard and pay attention when luck comes your way
 
 One day, in a dorm room in India, a few college students found themselves discussing what they’d do with their lives. Sourabh Bansal excitedly wrote 50 billion rupees on the wall. He exclaimed that was the amount his business would be worth someday.
 
@@ -32,7 +32,7 @@ After just six years the company, now called Magicrete Building Solutions, was m
 
 ## Lesson 2
 
-### Although failure is bitter, it holds the seeds to future business success.
+### Although failure is bitter, it holds the seeds to future business success
 
 Have you ever heard of lassi? It’s a special Indian drink with yogurt, spices, salt, and water. In 2009 a new kind of flavored lassi popped up. Prabhkiran Singh felt inspiration strike when he tried his first flavored lassi, and started his first business selling them.
 
@@ -44,7 +44,7 @@ Still in the process of closing his first company, Singh noticed a friend of his
 
 ## Lesson 3
 
-### Utilizing unconventional methods will help you persevere through challenges to get your venture off the ground.
+### Utilizing unconventional methods will help you persevere through challenges to get your venture off the ground
 
 When Anurag Arora began studying at ICFAI Business Schoole in Pune, Maharashtra, he found his accomodations lacking in many areas. The building was run-down and the hot water didn’t even work! The man was fed up with the situation and moved into an apartment with some friends just three days later.
 
@@ -57,7 +57,5 @@ With the green light from the school, he enthusiastically began his efforts. He 
 ## Review
 
 Wow, *Arise, Awake* has some really interesting and inspiring stories! I really enjoyed hearing some of the experiences these Indian entrepreneurs had starting their businesses. This is a great book that I think is a must read for everyone that would like to be their own boss!
-
-## Who it’s for
 
 The 22-year-old college student who is fed up with the ineffectiveness of their classes, the 45-year-old who’s itching to try out their new business idea, and anyone who wants to work for themselves.

@@ -16,11 +16,9 @@ Here are 3 key lessons from Graham’s book to help you start investing:
 
 Ready to become an intelligent investor? Let’s get going!
 
-### The Intelligent Investor Summary
-
 ## Lesson 1
 
-### There are 3 principles to becoming an intelligent investor.
+### There are 3 principles to becoming an intelligent investor
 
 Often also called value investing, intelligent investing according to Benjamin Graham rests on 3 principles.
 
@@ -44,7 +42,7 @@ Oh and she does one other thing.
 
 ## Lesson 2
 
-### Never trust Mr. Market.
+### Never trust Mr. Market
 
 Graham’s most famous analogy is the one of Mr. Market, where he pictures the entire stock market as a single person.
 
@@ -62,7 +60,7 @@ If you want to be an intelligent investor, rely on your own research and ignore 
 
 ## Lesson 3
 
-### Always stick to a strict formula and you’ll do fine.
+### Always stick to a strict formula and you’ll do fine
 
 Lastly, to further remove you from the emotional stress of investing with the market, you should always stick to a strict formula when investing.
 
@@ -83,7 +81,5 @@ I could listen to Warren Buffett’s talks all day – the man is brilliant. He 
 Value investing is very defensive, but if it’s worked for the richest man on earth, why not for you? It takes away the stress of day trading and is hassle-free, once you get into the right mindset.
 
 This is a more advanced book than *I Will Teach You To Be Rich*, *Rich Dad Poor Dad*, or *Money Master The Game*, but the blinks make it really easy to understand. I have yet to read the book, but I’m already looking forward to reading *The Intelligent Investor*.
-
-## Who it’s for
 
 The 15 year old, who wants to learn more about stocks and start practicing, the 46 year old, who’s lost a few sums here and there when experimenting with different stocks and options, but has never consistently stuck with great companies, and anyone who likes Warren Buffett.

@@ -20,7 +20,7 @@ Let’s dive right in and get some inspiration from the life of Beth Comstock!
 
 ## Lesson 1
 
-### Comstock overcame sexism in the workplace by utilizing her strengths.
+### Comstock overcame sexism in the workplace by utilizing her strengths
 
 It’s 1998 and Comstock’s career is booming forward. She’s already helped NBC News become a major media player and is only 38-years-old.
 
@@ -38,7 +38,7 @@ This made it possible for her to think more about the ideas and plans that they 
 
 ## Lesson 2
 
-### Adversity is inevitable, but you can lead yourself and others through it with daring innovation.
+### Adversity is inevitable, but you can lead yourself and others through it with daring innovation
 
 It’s easier to put our heads down and try to wait it out when tragedy strikes the world. We want to rely on what we know instead of trying new things. Sometimes, though, there are opportunities to shine and lift others hidden within the horrors.
 
@@ -54,7 +54,7 @@ It was just the message of hope that people needed, many of whom cut it out and 
 
 ## Lesson 3
 
-### Amid uncertainty, craft a meaningful story about your circumstances to get clarity and focus on a brighter future.
+### Amid uncertainty, craft a meaningful story about your circumstances to get clarity and focus on a brighter future
 
 We cannot escape change. This is especially true in this age of technological advancements and new businesses emerging constantly. In the words of economists describing this constant flux, it’s volatile, uncertain, complex, and ambiguous.
 
@@ -75,7 +75,5 @@ But after coming up with a powerful story of where the company was, why the stru
 ## Review
 
 I wasn’t hooked on *Imagine It Forward* at first, but by the end, I had learned a lot. Comstock’s story is inspiring and I think of it as a great example of using innovative methods to combat outdated thinking. Whether you’re a business or just an individual looking to succeed, you’re going to get some great ideas from this book!
-
-## Who it’s for
 
 The 37-year-old woman who wants to live her dreams but is afraid of competing in a male-dominated world, the 58-year-old business executive who wants to see how they can be more open to new ideas, and anyone that wants to hear an inspirational story.

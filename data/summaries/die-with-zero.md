@@ -18,11 +18,9 @@ Let’s explore three lessons from the book that will help us live better, happi
 
 Now let’s delve deeper into these lessons and explore ways to live more meaningfully while also saving for retirement.
 
-### Die With Zero Summary
-
 ## Lesson 1
 
-### A good life comes with meaningful memories and remarkable experiences, not with more cash.
+### A good life comes with meaningful memories and remarkable experiences, not with more cash
 
 Frankly, delayed gratification is overrated and comfortable retirement is an illusion. After all, will you be enjoying hiking in the mountains and boating around Rome in your 60s the same way you would in your 30s? I think not.
 
@@ -34,7 +32,7 @@ In this life, nothing is promised. We don’t know how long our journey will be,
 
 ## Lesson 2
 
-### Die with zero while still taking care of your children’s inheritance.
+### Die with zero while still taking care of your children’s inheritance
 
 The author suggests that we shouldn’t be working for free. What does that mean? Well, let’s take a look at an average American working for $19 an hour. If you save $16,000 from your average salary of $49,000, that’ll make $770,000 saved for retirement.
 
@@ -48,7 +46,7 @@ Not only is it more predictable from a financial point of view, but it also help
 
 ## Lesson 3
 
-### Securing your financial future and a steady retirement might be easier than you think.
+### Securing your financial future and a steady retirement might be easier than you think
 
 There is a way to make the most out of your money so that it lasts longer and secures your future. It all starts with learning to leverage what you’ve already set aside through the power of interest rates.
 
@@ -65,7 +63,5 @@ If you can compute these numbers, either by yourself or with a financial planner
 ## Review
 
 The concept of delayed gratification is one that has been ingrained in our culture since childhood, and it’s become a mantra for financial success. But are we missing the mark? *Die With Zero* explores the benefits of spending more and saving less. The book busts the myth that the only time to enjoy our money is in retirement while still helping us be financially responsible. Great read!
-
-## Who it’s for
 
 The 40-year-old person who feels bad whenever they spend instead of saving money, the 30-year-old person who wants to secure their financial future, or the 55-year-old person who is approaching their senior years and wants to plan their financials more meticulously than before.

@@ -22,7 +22,7 @@ Ready to learn from one of the biggest legends in entertainment history? For the
 
 ## Lesson 1
 
-### There is no such thing as creative foresight, where creators know everything about their world in advance.
+### There is no such thing as creative foresight, where creators know everything about their world in advance
 
 The very first Star Wars movie, *A New Hope*, came out in 1977 and was met with instant success and popularity, becoming the highest-grossing film of all time back then. Given that, you’d think creator George Lucas had it all figured out – but he didn’t.
 
@@ -34,7 +34,7 @@ But that’s just how creativity works. It’s not this straightforward process 
 
 ## Lesson 2
 
-### Whatever creative thing you do will be subject to luck and timing, and you can’t make those up.
+### Whatever creative thing you do will be subject to luck and timing, and you can’t make those up
 
 The fact that almost everyone in the world knows Star Wars, Coca-Cola, Facebook and a few other names is of course the result of long years of hard work – but to some degree, it’s coincidence.
 
@@ -55,7 +55,7 @@ However, you can neither manufacture luck, nor timing, which is a reminder to st
 
 ## Lesson 3
 
-### Star Wars is about one of our most important rights: the freedom of choice, which comes at a price.
+### Star Wars is about one of our most important rights: the freedom of choice, which comes at a price
 
 Democracy and liberty are always in a trade-off. If all of us give up *some* freedom, we maximize the freedom of every individual in a state or society.
 
@@ -68,7 +68,5 @@ In Star Wars, the two opposing forces – the Rebels and the Empire – also hav
 ## Review
 
 Man, I could get sucked up in writing about *The World According To Star Wars* for hours. So much cool Star Wars stuff to research! But I’ll leave it at that and say: watch the movies and decide for yourself.
-
-## Who it’s for
 
 The 18 year old sci-fi fan and Star Wars nerd, the 54 year old family father, who still remembers seeing the original movies in the theatre, and anyone who thinks movies are a waste of time.

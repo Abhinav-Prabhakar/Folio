@@ -20,7 +20,7 @@ Are you ready to learn some new spells? Let’s begin!
 
 ## Lesson 1
 
-### Knowing that people most often act irrationally is a great foundation for finding ways to get ahead of your competition.
+### Knowing that people most often act irrationally is a great foundation for finding ways to get ahead of your competition
 
 It’s easy to compartmentalize people into little boxes of behavior or demographics. People act in just the way we think they do, right? It’s easy to correctly assume the choice a person will make in any given situation, isn’t it? Actually, this is far from the truth.
 
@@ -32,7 +32,7 @@ That extra color stripe in your toothpaste bottle makes it feel like you’re ge
 
 ## Lesson 2
 
-### The little things may seem insignificant, but they really make the biggest difference on people’s actions.
+### The little things may seem insignificant, but they really make the biggest difference on people’s actions
 
 So now that you know the importance of abstract thinking, how can you apply it? Start by looking at the little details that most people don’t even think twice about.
 
@@ -46,7 +46,7 @@ A man by the name of Jared Spool had designers remove this option for the abilit
 
 ## Lesson 3
 
-### Focus on outliers instead of the “average customer” to have greater success.
+### Focus on outliers instead of the “average customer” to have greater success
 
 There’s more to humans than meets the eye. This makes planning for the typical buyer pretty much obsolete. If you’re in business or doing any type of marketing, stay away from this tactic.
 
@@ -61,7 +61,5 @@ A lot of sensationally unusual ideas will come from taking this approach, and yo
 ## Review
 
 Wow, I am blown away at how cool and helpful this book is! I’ve always loved the idea that some of the best ideas sound illogical, and if you look back throughout history you’ll find that’s true. *Alchemy* is a great read for anyone in business and I highly recommend it!
-
-## Who it’s for
 
 The 45-year-old brand manager who feels like they don’t understand their customers very well, the 29-year-old entrepreneur who with a lot of great ideas that wants to make sure they’ll really work, and any creative who’s having a hard time breaking out of logical thinking.

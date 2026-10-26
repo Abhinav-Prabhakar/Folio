@@ -16,7 +16,7 @@ All of these deserve a thorough explanation, so here goes!
 
 ## Lesson 1
 
-### Safety means progress. And leaders provide safety.
+### Safety means progress. And leaders provide safety
 
 Think about the last time you made a lot of progress on a fun little side project of yours. Where there was nothing to gain but the joy of doing it.
 
@@ -42,7 +42,7 @@ Once you’re not worried about avoiding threats, you can start improving.
 
 ## Lesson 2
 
-### Responsibility means truly caring about other people, so don’t get detached.
+### Responsibility means truly caring about other people, so don’t get detached
 
 Let’s say you manage the finances of your company. In that case, your responsibility might be to “allocate the budget in a way that maximizes profits”.
 
@@ -62,7 +62,7 @@ My own email list sits at 1500 people right now. It’s easy to blast out a mass
 
 ## Lesson 3
 
-### Technology has turned us into performance addicts, looking for the next dopamine hit.
+### Technology has turned us into performance addicts, looking for the next dopamine hit
 
 Our ancestor Grok was really glad when that runner’s high kicked in on the last few yards before the cave, so he could jump to safety and not be eaten by a bear.
 
@@ -81,7 +81,5 @@ Lots of new insights here for me, and many great examples of both good and bad l
 As a side note, *Leaders Eat Last* is the third book this week (here are number 1 and number 2), that talks about how important company culture is.
 
 I want to learn more about the biological development of leadership now and I’m really happy about the very human, normal and vulnerable image of a leader this book summary created in my head, because it means **I can be a leader too**.
-
-## Who it’s for
 
 The 12 year old bully, who keeps forcing others to give him their lunch money, the 32 year old corporate consultant, who’s lost in charts and cash flow projections, and anyone who thinks a like on Facebook will change anything.

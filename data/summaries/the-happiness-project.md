@@ -18,7 +18,7 @@ Alright, at least 2 of those need some thorough further explanation, so let’s 
 
 ## Lesson 1
 
-### Both mental and physical clutter are a drag, so clean up your house AND your brain.
+### Both mental and physical clutter are a drag, so clean up your house AND your brain
 
 The very first area of her life Gretchen looked at was her health, her energy, as she calls it. Why? Because if you’re sick in bed, there’s no way in hell you’ll be happy.
 
@@ -32,7 +32,7 @@ The stress this creates comes from the Zeigarnik effect, which makes your brain 
 
 ## Lesson 2
 
-### These are two great principles to base happy relationships on.
+### These are two great principles to base happy relationships on
 
 It was really hard to fit these into one fitting headline, so here go two of Gretchen’s principles for happier relationships:
 
@@ -47,7 +47,7 @@ Similarly, Gretchen started performing more acts of random kindness, with little
 
 ## Lesson 3
 
-### Money is like health.
+### Money is like health
 
 Money is like health – you can’t buy it, but whoever has the most of it wins. Ha! Gotcha. You didn’t really think she said that, did you? Here’s what Gretchen *actually* says about money:
 
@@ -68,7 +68,5 @@ Running one-month experiments for a year is something I’ve been putting off fo
 I’ve gotten the privilege to work with Gretchen and her four tendencies framework from *Better Than Before*, through my work as a coach.me coach. She has a way of making things sound scientific and sincere without losing the everyday, conversational touch many scientific publications are missing.
 
 *The Happiness Project* is a buffet of happiness snacks – all you have to do is pick and try them, see which ones work for you, and not worry about the rest. Such a great book!
-
-## Who it’s for
 
 The 15 year old teenager in a stressful young relationship, who spends a lot of her time wishing her partner was different, the 46 year old executive with a great salary, who still feels unhappy, and anyone who hasn’t decluttered their home for over a year.

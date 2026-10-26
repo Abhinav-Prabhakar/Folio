@@ -16,11 +16,9 @@ We’ll explore how to do so by looking at three of my favorite lessons from the
 
 Let’s see what each lesson is all about, and go into detail to explore what they have to offer!
 
-### The Mountain Is You Summary
-
 ## Lesson 1
 
-### When we realize what our core needs are, we’ll understand why we make certain decisions in life.
+### When we realize what our core needs are, we’ll understand why we make certain decisions in life
 
 Our subconscious is responsible for pretty much everything we do on a daily basis. This includes big decisions too. Unfortunately, it is responsible for our self-sabotage too, and there’s only one thing we can do about it: identifying our core commitments. These are the things that our heart desires and looks for in every action we do. Find out what they are by looking at the things you struggle the most with and the things that drive you the most.
 
@@ -30,7 +28,7 @@ No matter what your core commitment is, you must actively acknowledge it and wor
 
 ## Lesson 2
 
-### Seek risky opportunities, instead of accepting comfortable life situations.
+### Seek risky opportunities, instead of accepting comfortable life situations
 
 As humans, we are guided by comfort. We seek the familiar and are naturally risk-averse, even if it’s not to our benefit. In situations when we find ourselves unhappy with our lives, a change could be the catalyst for a significant jump forward. Still, we fear it, as if it’s something negative, and postpone it until it feels more uncomfortable to live in the status quo than changing it.
 
@@ -40,7 +38,7 @@ Keep in mind that everything you’ll lose was built for the person you no longe
 
 ## Lesson 3
 
-### Learn to differentiate between intuition and intrusive thoughts.
+### Learn to differentiate between intuition and intrusive thoughts
 
 Our mind is a powerful tool. Most often than not, our subconscious knows what’s best for us, and it seeks the things our spirit desires, without us noticing. However, if we try to listen to it, we might get confused and receive mixed signals, because as we seek comfort, some of our thoughts may also come from fear, and not just intuition. So how can we tell which ones are good, and which ones are bad? Is there a filter we can use?
 
@@ -51,7 +49,5 @@ Understanding these thoughts is a great first step towards taking care of yourse
 ## Review
 
 *The Mountain Is You* explains how to actively train your mind to identify your core needs and build a life that serves them. It’ll show you how to stop sabotaging yourself and act in line with what you truly want and deserve. An empowering read that’ll show you how to fulfill your real potential!
-
-## Who it’s for
 
 The 35-year-old person who feels as if they’re unhappy and burnt out and want to change their lives for the better, the 40-year-old person going through a midlife crisis who wants to navigate their emotions better, or the 29-year-old person interested in building their emotional intelligence.

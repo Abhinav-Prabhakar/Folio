@@ -20,7 +20,7 @@ This is a great book that will get you pumped up to work hard! Let’s dive righ
 
 ## Lesson 1
 
-### Through innovative thinking and hard work, Jack Ma beat all challenges to build Alibaba.
+### Through innovative thinking and hard work, Jack Ma beat all challenges to build Alibaba
 
 Jack Ma began his career as an English teacher. But one day he had an epiphany that changed his outlook.
 
@@ -34,7 +34,7 @@ Sadly, the connection in China wasn’t always very reliable. Sometimes Jack had
 
 ## Lesson 2
 
-### Focusing on the needs of customers and employees is at the core of Alibaba’s business model.
+### Focusing on the needs of customers and employees is at the core of Alibaba’s business model
 
 You can’t expect that a brand customers love will just come out of nowhere. It takes work and commitment to serving your clients, which is exactly what Jack does. His determination to take care of them is a hallmark of his leadership and business model.
 
@@ -50,7 +50,7 @@ The company’s campus is 2.6 million square feet. It’s got food, bikes, and e
 
 ## Lesson 3
 
-### Winning in China was key for Alibaba’s success, and Ma worked hard to beat out eBay to get on top in that market.
+### Winning in China was key for Alibaba’s success, and Ma worked hard to beat out eBay to get on top in that market
 
 Have you ever noticed that in most movies, the hero only finds their true strength after meeting their greatest challenge? If you think about it, the main characters would never realize their true potential if it weren’t for the villains. Crazy, right?
 
@@ -67,7 +67,5 @@ Alibaba was the winner! And the crowd goes wild!
 ## Review
 
 I always love a good origin story for big businesses, and *Alibaba*’s is as good as they get! This book is inspiring and helpful to see how I, also from humble beginnings, might find success by working hard and smart. Although I don’t ever want to grow as influential as Jack Ma, I’ve learned a lot from him by reading this book.
-
-## Who it’s for
 
 The 51-year-old business-woman who likes uplifting stories that motivate her to keep working hard, the 32-year-old who came from next to nothing but wants to be an entrepreneur and improve the world, and anyone who likes getting inspiration from a rags to riches story.

@@ -22,7 +22,7 @@ Let’s take a look at each lesson in greater detail and see what they really me
 
 ## Lesson 1
 
-### Invest in your staff and keep them happy at all times in order to achieve success.
+### Invest in your staff and keep them happy at all times in order to achieve success
 
 If you want to outsmart your competition and develop a sustainable business model, you’ll have to center your business around the customers. In order to do that, you will also have to take care of your staff first and foremost. Why? Because they are responsible for keeping your operations going.
 
@@ -36,7 +36,7 @@ Also, in order to keep them happy, management has to be very transparent and ado
 
 ## Lesson 2
 
-### Running a business is both science and art, and a good executive knows how to combine both.
+### Running a business is both science and art, and a good executive knows how to combine both
 
 A sustainable business model implies an executive who understands the company they run very well. They can also find the balance between the practical and artistic sides of their business. **Disney is a great example of outstanding management and a harmonious balance between the two.**
 
@@ -48,7 +48,7 @@ Disney is also a great example of how trained and happy employees will dictate t
 
 ## Lesson 3
 
-### Adapt to changes, learn from the past, and anticipate the future.
+### Adapt to changes, learn from the past, and anticipate the future
 
 Businesses must always adapt to the dynamicity of their environment, as it is unpredictable and quite competitive, and whoever fails to do so will find that their business is in big danger of going bankrupt. **A good leader and administrator must frequently analyze the company’s strategy and adjust it.**
 
@@ -63,7 +63,5 @@ One important aspect when it comes to creating or maintaining business practices
 ## Review
 
 *Disney U* focuses on the essential aspects of a successful business like Disney, which managed to stay relevant on the market for decades and gain new audiences constantly. The power of example is what makes this book valuable, as companies can learn many good practices by reading about this organization. The author offers advice on how to keep employees happy, hold on to traditions without altering the future of a company, and other actionable advice.
-
-## Who it’s for
 
 A 40-year-old business executive who wants to learn more about successful business practices, a 35-year-old leader who wants to understand what keeps team members happy and engaged, or a 23-year-old who is passionate about Disney and their theme parks from their childhood.

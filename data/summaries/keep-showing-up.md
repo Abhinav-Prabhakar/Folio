@@ -20,7 +20,7 @@ Through this book, Ehman offers many lessons that can help anyone achieve sereni
 
 ## Lesson 1
 
-### Love changes over time and transforms into new types of affection.
+### Love changes over time and transforms into new types of affection
 
 Love is a powerful sentiment that has to be maintained and nourished in a marriage. However, we can’t expect it to stay the same forever, even if we care for our partner and do everything right. Love changes and takes different forms over time, and we have to learn to evolve with it and with our partners.
 
@@ -32,7 +32,7 @@ The fourth type is the one that originates with God. This is unconditional love.
 
 ## Lesson 2
 
-### Learn to understand love languages and be grateful when you notice your partner showing affection.
+### Learn to understand love languages and be grateful when you notice your partner showing affection
 
 Just like in the world, we don’t all speak the same language. In love, we might not always show the same gestures of affection. But would you get upset if the person living in a foreign country doesn’t speak your native tongue? Of course not!
 
@@ -44,7 +44,7 @@ For example, let’s say you like to have your partner help around the house wit
 
 ## Lesson 3
 
-### Difficulties are often opportunities disguised, and seeking God in those times can help you overcome them.
+### Difficulties are often opportunities disguised, and seeking God in those times can help you overcome them
 
 Sometimes it can be difficult to oversee some negative aspects of your partner and remember the good ones. Always remember that every relationship has ups and downs and that bad times only last so much. However, we can’t avoid trouble knocking at our door.
 
@@ -57,7 +57,5 @@ After accepting your situation and starting to reconnect with God, don’t expec
 ## Review
 
 Keep Showing Up is a must-read for struggling couples, as it provides the simplest yet most meaningful pieces of advice on how to fix their problems. The book has a realistic approach to the couple’s life and breaks the stereotypes of the Hollywood, perfect-like marriage we see on the screens. By learning how to reconnect with God and their partner, people reading this book will improve their marriages and form better connections.
-
-## Who it’s for
 
 Couples that find it difficult to adjust to marriage, well-established married couples who feel like they are falling out of love and lack something in their relationship, and anyone who wants to re-establish a connection with both their partner and God.

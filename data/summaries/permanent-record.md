@@ -18,7 +18,7 @@ Let’s delve into these lessons and learn more about the most famous national w
 
 ## Lesson 1
 
-### Snowden realized that STELLARWIND was far from being just a national safety program.
+### Snowden realized that STELLARWIND was far from being just a national safety program
 
 It is said that the road to hell is paved with good intentions. Fortunately for us, Edward Snowden was the one to stop this train from reaching its destination. Rather than taking part in a mass monitoring program similar to the one used in China, Snowden chose to expose the unconstitutional practices of the US government.
 
@@ -30,7 +30,7 @@ If you too feel enranged, it’s because you should. The American constitution i
 
 ## Lesson 2
 
-### Snowden’s exposé was a tough journey to go through, and it ended with him in Moscow.
+### Snowden’s exposé was a tough journey to go through, and it ended with him in Moscow
 
 Snowden had a passion for technology, the internet, and ways to hack it since childhood. It was a no-brainer for him that this is the path he was going to pursue. His parents were both employed in the public sphere, having jobs secretive in nature.
 
@@ -44,7 +44,7 @@ When he managed to compile the data, the team exposed it through The Guardian ne
 
 ## Lesson 3
 
-### The exposure operation took a toll on Snowden’s life and changed its course.
+### The exposure operation took a toll on Snowden’s life and changed its course
 
 Snowden cannot travel outside of Russia without fear of arrest and extradition, so he has been unable to see his family in person since 2013.
 
@@ -61,7 +61,5 @@ In 2015, he got a job with Russia Today, where he lives now with his wife Lindsa
 The book takes us on a spin of events, from the beginning of Snowden’s passion for hacking to his adventurous job at the NSA and finally the moments that led to his life-altering decision to expose his own government.
 
 Reading this book will give you chills as your moral compass awakens in the light of Snowden’s journey. This lecture is truly a riveting read and a life lesson for every one of us.
-
-## Who it’s for
 
 The 24-year-old concerned citizen who wants to know more about what happens with their online data, the 45-year-old public service employee who is facing a moral decision to make at their job, or the 35-year-old person interested in online security and data processing.

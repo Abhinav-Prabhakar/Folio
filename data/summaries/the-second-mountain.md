@@ -22,7 +22,7 @@ Get your climbing gear on and let’s learn how to scale *The Second Mountain*!
 
 ## Lesson 1
 
-### Society is plagued by widespread selfishness, which is making us all lonely and ultimately unhappy.
+### Society is plagued by widespread selfishness, which is making us all lonely and ultimately unhappy
 
 Individualism is rampant in our world. Everywhere we turn, we see people telling us to do whatever we want, follow our desires, and focus on ourselves. We are taught to resist any commitment that could limit our personal freedom, such as being religious or starting a family. Unfortunately, this way of thinking sets us apart from others, which negates the benefits that communities provide.
 
@@ -32,7 +32,7 @@ Whether you like it or not, the loneliness that results from doing things your w
 
 ## Lesson 2
 
-### Serving the people around us is the greatest focus we can have in life, and brings not only happiness, but joy as well.
+### Serving the people around us is the greatest focus we can have in life, and brings not only happiness, but joy as well
 
 Now, before you start groaning at how difficult it can be to lose yourself in the care of others, it’s not all so terrible. It is wise to begin your ascent up the second mountain by asking yourself, “what’s in it for me?”
 
@@ -42,7 +42,7 @@ Instead of a quest for self-fulfillment, the path to joy is about self-transcend
 
 ## Lesson 3
 
-### Loving those you seek to help isn’t enough to keep you going when it gets hard to continue; you must be committed to working hard.
+### Loving those you seek to help isn’t enough to keep you going when it gets hard to continue; you must be committed to working hard
 
 While it may sound easy to make this journey about being friendly and loving toward everyone, you need to be aware of some harsh realities of the second mountain. When you let others into your life to help them, you expose yourself to their trauma. In a world of addiction, loneliness, depression, and many other ailments, that can feel like a steep hill to top. Unfortunately, the Beatles were wrong when they sang “All You Need Is Love.”
 
@@ -53,7 +53,5 @@ For example, a married couple may establish the habit of going on a date each we
 ## Review
 
 What a powerful message, this way of thinking blows my mind. I’ve been pondering that quote from *Doctor Strange* for a couple of weeks now, and *The Second Mountain* really hit home the idea that my life isn’t about just my own enjoyment. I highly recommend this one to everyone, no matter where you are in life.
-
-## Who it’s for
 
 The 45-year-old accountant who feels unfulfilled with their career, the 31-year-old married couple that feels disconnected from their community, and anyone who is missing joy in their life and is unsure where to find it.

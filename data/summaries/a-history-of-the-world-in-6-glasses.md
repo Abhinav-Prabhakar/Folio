@@ -20,7 +20,7 @@ Grab a glass and get ready to learn about your favorite drinks!
 
 ## Lesson 1
 
-### If it weren’t for the discovery of beer, mankind may not have become farmers as quickly.
+### If it weren’t for the discovery of beer, mankind may not have become farmers as quickly
 
 So you might like beer, but do you know who invented it and how? The truth is, this influential drink wasn’t invented but instead discovered. To learn how, we need to take a look all the way back to about 10,000 BC, or the end of the Ice Age.
 
@@ -32,7 +32,7 @@ Not long later, mankind made the discovery that storing grains let them have a c
 
 ## Lesson 2
 
-### Coffee is a product of the Middle Ages, and was useful for intellectuals who didn’t want to be intoxicated all day.
+### Coffee is a product of the Middle Ages, and was useful for intellectuals who didn’t want to be intoxicated all day
 
 Fast-forward now to the Middle Ages. As alcoholic drinks became popular, more people began drinking them throughout the day. For intellectuals this wasn’t great, but it was better than taking a risk with drinking water, which was often contaminated. Then coffee came to Europe from the Arab world and a better solution for scientists and scholars was here.
 
@@ -44,7 +44,7 @@ These places for coffee-lovers to gather may have also contributed significantly
 
 ## Lesson 3
 
-### Coca-Cola was originally medicinal but it’s use as a refreshing drink spread rapidly after Americans began drinking and sharing it regularly.
+### Coca-Cola was originally medicinal but it’s use as a refreshing drink spread rapidly after Americans began drinking and sharing it regularly
 
 Joseph Priestly was a British clergyman and scientist who was the first to discover how to dissolve gas into water. He used this invention to create the very first carbonated soda. Because Priestly’s new product was similar to spring water, people first used it for medical purposes. But citizens of the United States began drinking it because of the unique taste.
 
@@ -57,7 +57,5 @@ That’s around when Coca-Cola came into existence. A Georgian pharmacist by the
 ## Review
 
 While I found *A History Of The World In 6 Glasses* interesting, it was a little difficult to relate because I don’t consume any of these drinks. It was fascinating to learn their true origins though. It was also enjoyable to discover the hidden effect that these drinks have had on our society.
-
-## Who it’s for
 
 The 29-year-old coffee lover who is curious about its origins and affect on humanity, the 54-year-old that can’t go without their diet coke and doesn’t know where it came from, and anyone who likes to drink beer, wine, alcoholic spirits, tea, coffee, and soda.

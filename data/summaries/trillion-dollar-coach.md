@@ -20,7 +20,7 @@ Let’s see what this giant of a man has to teach us about leadership!
 
 ## Lesson 1
 
-### To improve your employee’s satisfaction and performance, learn to show the right emotions in the workplace.
+### To improve your employee’s satisfaction and performance, learn to show the right emotions in the workplace
 
 Bill Campbell was well-known for his casualness and friendliness, even in the most formal of settings. From his profanity to giving bear hugs and even blowing kisses to others across the table in meetings, Campbell wasn’t afraid to show his personality.
 
@@ -34,7 +34,7 @@ Find out what works for you by trial and error, and don’t give up. It may be a
 
 ## Lesson 2
 
-### The best ideas may be hiding in the minds of your top talent, so make sure that even the quietest of people has a say in meetings.
+### The best ideas may be hiding in the minds of your top talent, so make sure that even the quietest of people has a say in meetings
 
 As Bill began his work in Silicon Valley in the 1980’s, the majority of executives were men. Apple’s head of HR in the US, Deb Biondolillo, was one of the few women in a leadership position at the time. She was known for always sitting at the back of the room in weekly staff meetings.
 
@@ -48,13 +48,13 @@ He continued to support women in business throughout his entire career.
 
 ## Lesson 3
 
-### When you build trust in others, you open up a wealth of potential to make a difference for the better.
+### When you build trust in others, you open up a wealth of potential to make a difference for the better
 
 Campbell’s experience helping Deb Biondolillo get involved in meetings helps us understand another powerful way great leaders influence others. The reason that Bill could help Biondolillo and the other executive that questioned her coming to the table was because they both trusted him.
 
 Without the trust of others, Bill wouldn’t have been as influential as he was to these giant companies, and to our world today. So how do we understand trust?
 
-**Trust is an enthusiasm for taking a risk on someone because you have *positive expectations*for their behavior.** People trusted Campbell because they knew, as he had shown time and again, that he would deliver on his promises and treat people well.
+**Trust is an enthusiasm for taking a risk on someone because you have *positive expectations* for their behavior.** People trusted Campbell because they knew, as he had shown time and again, that he would deliver on his promises and treat people well.
 
 One of the simplest ways he did this was by listening to others. Bill was known for focusing his full attention on people when they talked, but he also was a champion of asking questions.
 
@@ -65,7 +65,5 @@ For example, I recently hired a coach myself. Just like what Bill Campbell did f
 ## Review
 
 Wow, this one impressed me! Campbell’s story and philosophies in *Trillion Dollar Coach* are inspiring and informative. As a creative trying to figure out my career, this story of change and growth helped me feel like anything is possible!
-
-## Who it’s for
 
 The 35-year-old who is working at a startup, the 54-year-old manager of a large team, and anyone who loves to hear an inspiring true story.

@@ -20,11 +20,9 @@ Here are my 3 favorite lessons from the book:
 
 Let’s dig in!
 
-### Get Good With Money Summary
-
 ## Lesson 1
 
-### Your first financial milestone is creating a solid budget.
+### Your first financial milestone is creating a solid budget
 
 Everything runs on a budget. From your local shop to corporations, they all use financial estimates. So why shouldn’t you? Creating one will make you less likely to overspend on impulsive purchases. This is a great first step towards your financial success.
 
@@ -38,7 +36,7 @@ Aliche suggests setting up two checking accounts – for cash expenses and bills
 
 ## Lesson 2
 
-### Become debt-free and boost your credit score.
+### Become debt-free and boost your credit score
 
 Debts are a burden most of us carry around like an anchor. Mortgages, student loans, car loans, and any other liabilities are all standing in your way to achieving financial freedom. Luckily, there is a way out of this rut. It starts with changing your mentality on debts.
 
@@ -50,7 +48,7 @@ Make it a financial priority to improve your credit score by always paying on ti
 
 ## Lesson 3
 
-### Investments help build wealth and secure your retirement.
+### Investments help build wealth and secure your retirement
 
 Have you ever heard about compound interest? Albert Einstein called it the eighth wonder of the world! It’s when your money makes more money using reinvested interest. Set this process on repeat until your wealth grows exponentially.
 
@@ -67,7 +65,5 @@ Figure out what type of investor you are: *active* or *passive*. If you’re wil
 Her advice is easy to follow and can help any financially struggling person turn their life around. I personally recommend this book to everyone willing to improve themselves and become financially literate.
 
 If you want to build a sound future, change your spending habits and prepare for retirement, this book is great for you.
-
-## Who it’s for
 
 People who struggle financially and want to change their spending habits, earners looking to find additional sources of income, and anyone looking to cut off debt, create a budget, and achieve financial stability.

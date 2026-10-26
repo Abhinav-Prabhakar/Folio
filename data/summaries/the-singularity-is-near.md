@@ -20,7 +20,7 @@ Ready for a sneak peek into the future? Let’s look into Ray’s crystal ball!
 
 ## Lesson 1
 
-### The speed of evolution increases every year, according to the Law of Accelerating Returns.
+### The speed of evolution increases every year, according to the Law of Accelerating Returns
 
 Take a second to think about all the changes your great-grandparents have seen in their lifetime. Mine have seen the rise of the car, the commercialization of aircraft travel and the first moonlanding. Now your grandparents. My grandma and grandpa are some of the few who manage to deal with smartphones and the internet somewhat decently.
 
@@ -34,7 +34,7 @@ For example, if you look at the number of calculations per second a $1,000 compu
 
 ## Lesson 2
 
-### Your doctor will soon be out of a job, because nanobots will repair your body from the inside.
+### Your doctor will soon be out of a job, because nanobots will repair your body from the inside
 
 Let’s transfer this accelerating rate of returns to a field that’s becoming more and more intertwined with technology: medicine. Can you imagine what medicine will look like 10-20 years from now, given that it’ll evolve faster every year?
 
@@ -46,7 +46,7 @@ Apart from being controllable via the internet, these nanobots will be able to s
 
 ## Lesson 3
 
-### If the nanobots spin out of control, we’re all doomed.
+### If the nanobots spin out of control, we’re all doomed
 
 Everything that has an upside also has a downside. Ray thinks the singularity will happen by 2045. By then, nanobots in our bodies will be common practice. In fact, they’ll be a vital part of our survival. Imagine some of the nanobots protecting and healing your brain or immune system are destroyed or break down – they’ll need to be replaced quite fast! That’s why they’ll be able to replicate themselves in the first place.
 
@@ -61,7 +61,5 @@ Scary huh?
 ## Review
 
 I took two of the most contrasting points from the book, because I wanted to show you that the future lies on a spectrum. These are the extremes and we’ll likely end up somewhere in the middle of annihilation and immortal super-humans. I think Ray is one of your best bets to learn something about tomorrow today, so if you want to learn more about some of his other predictions, go check out *The Singularity Is Near*!
-
-## Who it’s for
 
 The 23 year old medical or nursery student with an interest in anti-aging technology, the 37 year old app developer, who’s curious about the development of artificial intelligence, and anyone who likes sci-fi movies.

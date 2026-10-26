@@ -8,7 +8,7 @@ When I was a kid, we had a big colorful book around the house. It was Aesop’s 
 
 Those fables really did help communicate good moral standards for living. And it’s easy for kids to relate to these stories as many are told through animals and nature.
 
-I still remember many of the popular ones – you might recognize some of them yourself. Everyone knows *The Tortoise and the Hare*! I also recall, *The Fox and the Grapes, The Boy Who Cried Wolf,* *The Ant and the Grasshopper.*
+I still remember many of the popular ones – you might recognize some of them yourself. Everyone knows *The Tortoise and the Hare*! I also recall, *The Fox and the Grapes, The Boy Who Cried Wolf, The Ant and the Grasshopper.*
 
 Aesop was a Greek storyteller who died in 564 BCE. This book by The School of Life, *Great Thinkers; Simple Tools from 60 Great Thinkers to Improve Your Life Today* showcases many examples of other greats and why their life lessons have endured for centuries and are still relevant for us today.
 
@@ -22,7 +22,7 @@ Whaddaya say we start learning from some of the smartest people in history?
 
 ## Lesson 1
 
-### Famous stoic philosophers aim to help people overcome anxiety and paranoia in life’s sufferings.
+### Famous stoic philosophers aim to help people overcome anxiety and paranoia in life’s sufferings
 
 Great stoic philosophers dating back to ancient Greece and Rome at around the third century BC., believed that it was senseless getting emotionally caught up in life’s many ups and downs. Men like Seneca the Younger and Emperor Marcus Aurelius believed that one true source of pleasure in life is virtue.
 
@@ -36,7 +36,7 @@ Stoics also believe in not blaming yourself when something doesn’t work out. A
 
 ## Lesson 2
 
-### Chinese philosopher, Lao Tzu taught that much like an ocean, life can be sweet and harmonic under the turbulent surface.
+### Chinese philosopher, Lao Tzu taught that much like an ocean, life can be sweet and harmonic under the turbulent surface
 
 The Chinese philosopher, Lao Tzu is believed to have lived during the sixth century BC.
 
@@ -50,7 +50,7 @@ Unless you want a life full of stress and strain, it’s better to surrender to 
 
 ## Lesson 3
 
-### To Jane Jacobs, the social aspect of a city needed to function like a thriving ecosystem to be healthy.
+### To Jane Jacobs, the social aspect of a city needed to function like a thriving ecosystem to be healthy
 
 Journalist, author and activist, Jane Jacobs lived in New York City during the 1950s and 60s. She was a huge influence on urban studies and one of the sharper minds to consider how cities could be more comfortable and enjoyable.
 
@@ -67,7 +67,5 @@ Some critics would argue that more density means more dangerous, but Jacobs poin
 ## Review
 
 *Great Thinkers* is nice because each great thinker is given their own story in separate chapters. This allows you to pick and choose, or jump around to what most interests you. I only scratched the surface in selecting three thinkers to focus on!
-
-## Who it’s for
 
 The 32-year-old college librarian, The 41-year-old life and habit coach, and anyone who’s ever wanted to travel back in time.

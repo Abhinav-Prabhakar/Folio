@@ -20,7 +20,7 @@ Let’s discuss these in detail!
 
 ## Lesson 1
 
-### Being disciplined when it comes to the four fundamentals will help you achieve success.
+### Being disciplined when it comes to the four fundamentals will help you achieve success
 
 There are four fundamentals to consider when it comes to mastering your routine: sleep, nutrition, movement, and mindfulness.
 
@@ -34,7 +34,7 @@ There are four fundamentals to consider when it comes to mastering your routine:
 
 ## Lesson 2
 
-### Work on your individual fundamentals and find your why.
+### Work on your individual fundamentals and find your why
 
 Our unique traits define what it is that we can bring to the world. Focus on creating competencies based on what you like to do, what you are good at, and what you can get paid for. Find the common point where these aspects overlap.
 
@@ -54,7 +54,7 @@ Doing so will make you perceive the world differently, and give you a deeper sen
 
 ## Lesson 3
 
-### Develop a growth mindset and stay consistent in your actions.
+### Develop a growth mindset and stay consistent in your actions
 
 No one feels motivated all the time, and that’s alright. If you were to work only when you feel inspired, that’ll get you nowhere. The secret to success is showing up every day. Having the same work ethic and quality of your deliverables, and maintaining that over a sustained period of time.
 
@@ -67,7 +67,5 @@ Then, talk back with a growth mindset voice. For example, when you encounter a n
 ## Review
 
 *The Self-Discipline Blueprint* delivers straight-to-the-point, useful practices that can turn anyone’s life around for the better. Reading this book will teach you to commit to doing the work every day thanks to a few simple rules. Highly recommended!
-
-## Who it’s for
 
 The 25-year-old who wants to establish a healthier, more productive routine, the 30-year-old entrepreneur who wants to make the most out of their day, and anyone who finds it hard to set and achieve both personal and professional goals.

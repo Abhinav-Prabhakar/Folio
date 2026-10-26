@@ -20,7 +20,7 @@ Ready to build that self-control? Here we go!
 
 ## Lesson 1
 
-### Your willpower works like a muscle – if you exercise it too much, it gets worn out.
+### Your willpower works like a muscle – if you exercise it too much, it gets worn out
 
 My friend Colin told me that this is one of the most important lessons about willpower, so it gets the spotlight here, after falling a little behind when I did The Willpower Instinct.
 
@@ -40,7 +40,7 @@ The fact that willpower and decision-making are intertwined can often be seen wh
 
 ## Lesson 2
 
-### The more willpower you develop, the faster you’ll build it, so train it by using it.
+### The more willpower you develop, the faster you’ll build it, so train it by using it
 
 So what can you do to not pull a Lewinsky when you make the office?
 
@@ -60,7 +60,7 @@ That’s great, because it means sticking to a budget that you give yourself mig
 
 ## Lesson 3
 
-### Set compatible and clear goals, but leave some flexibility for willpower fatigue.
+### Set compatible and clear goals, but leave some flexibility for willpower fatigue
 
 How do you start making self-control a regularly exercised habit?
 
@@ -91,7 +91,5 @@ This covers the basics of what willpower is, how it works and of course what you
 The summary is structured well and reads like a breeze, with plenty of willpower tips you can apply today, plus one from me!
 
 If you’re looking for an actionable guide to implement all of this, see my post about willpower here.
-
-## Who it’s for
 
 The 23 year old, who struggles with weight loss, and hasn’t gotten the reward-first model to work for herself yet, the 38 year old decision maker, who’s faced with tough calls to make every day, and anyone who ever planned too many things for the day.

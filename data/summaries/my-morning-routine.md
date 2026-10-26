@@ -22,7 +22,7 @@ Let’s dive right in and see what we can learn from this exciting book!
 
 ## Lesson 1
 
-### If you want to be happy and productive throughout the day, include exercise and mediation in your morning routine.
+### If you want to be happy and productive throughout the day, include exercise and mediation in your morning routine
 
 Of the many similarities among the 64 case studies in the book, the authors found that most of the people they surveyed exercised or meditated right after waking up.
 
@@ -40,7 +40,7 @@ To start this practice, simply focus on being present in whatever you’re doing
 
 ## Lesson 2
 
-### Preparation before you go to sleep is vital to being efficient in the hours right after you wake up.
+### Preparation before you go to sleep is vital to being efficient in the hours right after you wake up
 
 You could really do any number of activities to have a successful morning. Whether it’s reading, journaling, or whatever else you can think of, just do what’s best for you! It’s important that you’re prepared though, and that starts in the evening.
 
@@ -56,7 +56,7 @@ For me, I love planning, journaling, reading, and meditating each evening to get
 
 ## Lesson 3
 
-### When you get enough sleep you may be able to say goodbye to alarms forever, among other benefits.
+### When you get enough sleep you may be able to say goodbye to alarms forever, among other benefits
 
 The founder of the Huffington Post, Arianna Huffington, knows the importance of a good night’s sleep a little too well. Her exhaustion once got so bad that she passed out at work, falling face-first into her desk and breaking her cheekbone!
 
@@ -73,7 +73,5 @@ After his poor sleep habits contributed to a major depressive episode, he stoppe
 ## Review
 
 I couldn’t help but relate to that meme where Leonardo Dicaprio is pointing at the TV while reading this. It’s like the book has an all-star cast whose books I’ve read! The extensive research really makes *My Morning Routine* stand above other books on this subject!
-
-## Who it’s for
 
 The 51-year-old business owner that feels stressed out at the beginning of every workday, the 32-year-old new parents who are struggling to get into a good routine, and anyone who feels like they don’t get enough sleep.

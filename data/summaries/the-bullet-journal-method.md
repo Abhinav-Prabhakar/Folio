@@ -1,6 +1,6 @@
 # The Bullet Journal Method
 
-> The Bullet Journal Method introduces a unique system for organizing you can use t o be more productive, improve your mindfulness, prioritize tasks, schedule appointments, solidify ideas, as well as set goals, make plans for them, and track their progress.
+> The Bullet Journal Method introduces a unique system for organizing you can use to be more productive, improve your mindfulness, prioritize tasks, schedule appointments, solidify ideas, as well as set goals, make plans for them, and track their progress.
 
 ## Overview
 
@@ -16,11 +16,9 @@ Here’s the book summarized in just 3 lessons:
 
 Let’s dive right into these ideas!
 
-### The Bullet Journal Method Summary
-
 ## Lesson 1
 
-### To start, narrow down your ideas and grab your notebook.
+### To start, narrow down your ideas and grab your notebook
 
 It’s important to organize your thoughts before you begin writing. Your bullet journal, affectionately known as a “BuJo”, shouldn’t be full of random ideas you never revisit. It should be a tool to help you focus on the most important things in your life.
 
@@ -38,7 +36,7 @@ Lastly, the future log is where you place the ideas that you won’t get to this
 
 ## Lesson 2
 
-### Fill the pages of your bullet journal with the most important things by using rapid logging.
+### Fill the pages of your bullet journal with the most important things by using rapid logging
 
 Whatever collection you are writing in, the content should fall into one of three sections: tasks, events, and notes. Each of these has its own signifier. Your tasks, or your to-do items, should be denoted with a solid bullet. Once it’s completed, cross it over with an “x.” To reschedule tasks in the month, convert the bullet into a right-facing arrow. To move them into the future log, use a left-facing arrow. You can show urgency by adding an asterisk.
 
@@ -54,7 +52,7 @@ Use your future log as a place to queue your ideas and scan it over each month t
 
 ## Lesson 3
 
-### Migrating tasks will help you get the big picture and change for the better.
+### Migrating tasks will help you get the big picture and change for the better
 
 One of the best benefits of bullet journaling is that it allows us to reflect on the big picture, thanks to the monthly migration. This is where you sift through and evaluate everything you logged in a month.
 
@@ -69,7 +67,5 @@ When you discover what brings you meaning in life, you can throw out what doesn�
 ## Review
 
 I’m happy to finally have learned about *The Bullet Journal* in detail. I’ve always loved lists and planning to begin with, but I have a feeling this technique will bring some great changes to my productivity system!
-
-## Who it’s for
 
 The 43-year-old who aspires to great things but can’t seem to get concrete plans, the 58-year-old that’s constantly writing lists but can’t complete them, and anyone who is curious to learn one of the best productivity systems out there.

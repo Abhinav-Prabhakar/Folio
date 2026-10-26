@@ -20,7 +20,7 @@ Feeling smart? Our philosophical plane ‘descartes’ now! (pun intended)
 
 ## Lesson 1
 
-### Don’t trust your senses without questioning them.
+### Don’t trust your senses without questioning them
 
 The first thing Descartes argues is that you can’t build your understanding and view of the world on lies. Therefore, anything that can be doubted in even the slightest way must be abandoned in favor of the truth.
 
@@ -32,7 +32,7 @@ Fake pics and videos circulate the internet and thousands of U.F.O. sightings ha
 
 ## Lesson 2
 
-### The ability to think is the best proof of existence.
+### The ability to think is the best proof of existence
 
 This is where Descartes most famous line “I think, therefore I am” comes in. Given that all things our senses tell us can be doubted, what’s even left?
 
@@ -42,7 +42,7 @@ Whatever our brain perceives, true or not, and can make judgments about, is furt
 
 ## Lesson 3
 
-### Everything in the world can be put into one of three categories of truth.
+### Everything in the world can be put into one of three categories of truth
 
 Okay, so your brain is reliable, but your senses aren’t. That leaves us with **three different levels of truth** then:
 
@@ -63,7 +63,5 @@ The next time you doubt something, try to think which category it goes into!
 For books like these I’m glad to have a set of blinks, Wikipedia articles, etc. to consult – simply because the original texts are super complicated. I’d still love to get a modern translation of *Meditations On First Philosophy* though, there’s a ton of things to learn from and make you a better thinker in philosophical works like this one.
 
 Little quirk: When Descartes was close to despair from all his thinking, he’d resort to the recently invented calculator (adding machine, created by Blaise Pascal in 1642), for he could always find consolation in the truth of math.
-
-## Who it’s for
 
 The 16 year old who struggles with math in school, the 47 year old atheist, who thinks life isn’t worth working hard, because we’ll all die anyway, and anyone who loves adding numbers with a calculator.

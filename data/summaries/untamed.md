@@ -20,11 +20,9 @@ Here are my three favorite lessons from the book:
 
 Want to find out more about the hidden meaning of these lessons? Stay with me as I’ll go through each and every one of them!
 
-### Untamed Summary
-
 ## Lesson 1
 
-### Your true nature will show eventually, so don’t force yourself into hiding it.
+### Your true nature will show eventually, so don’t force yourself into hiding it
 
 There are times in life when we feel as if we’re stuck in a place where we don’t belong, no matter how hard we try to fit in. **Sometimes these situations force us to learn important lessons about ourselves, such as who we are, what our boundaries are, or what we want out of our life.**
 
@@ -36,7 +34,7 @@ After careful introspection, she realized that divorcing her husband was the bes
 
 ## Lesson 2
 
-### Being a good role model for your children sometimes means doing what’s best for you.
+### Being a good role model for your children sometimes means doing what’s best for you
 
 Being a perfect parent is an impossible feat, yet every loving mother or father tries to achieve it. Frankly, many of them get pretty close, but mistakes do happen.
 
@@ -52,7 +50,7 @@ Her decision not only made her proud of herself but also strengthened her image 
 
 ## Lesson 3
 
-### When it’s meant to be, it will be, so stop fighting your true self.
+### When it’s meant to be, it will be, so stop fighting your true self
 
 Just like Doyle, you too have a destiny of your own. Whether you’re directing your efforts in the right direction, or not, chances are you know deep down what it is that makes your mind, body, and soul happy.
 
@@ -62,7 +60,7 @@ When everything kicked in, her life looked pretty stable and happy. In fact, she
 
 After careful consideration, she decided that it was time to let everyone know that she will be getting a divorce. She assured her children that their family would still be a loving place for them. And so she let her followers know what was going on in her life.
 
-**Without further hiding or excuses, everyone was on the same page― Doyle was now dating a woman.** Instead of hurting her career, the news made her book release as successful as ever. Moreover, her love life took off as well.
+**Without further hiding or excuses, everyone was on the same page ― Doyle was now dating a woman.** Instead of hurting her career, the news made her book release as successful as ever. Moreover, her love life took off as well.
 
 All the arrows were finally pointing in the right direction, and everything felt well in her heart. This powerful story now serves as an inspiration for people all over the world willing to turn their lives around for the better by following their intuition and dreams.
 
@@ -71,7 +69,5 @@ All the arrows were finally pointing in the right direction, and everything felt
 *Untamed* will help any struggling, broken soul find the courage to break out of their misery and make their ambitions come true. Use Glennon’s hard-earned lessons as a wake-up call if you live under unrealistic expectations, unfit societal standards, or a life that you don’t want to claim as your own.
 
 Reading her memoir will lift your spirit and teach you what a powerful mother and woman can do once she sets goals and boundaries and starts to respect herself truly.
-
-## Who it’s for
 
 The 30-year-old woman who feels miserable in her marriage and wants to find a way out, the 28-year-old single mother who is looking to become a better role model for her children, or the 35-year-old activist who is researching real-life stories about sexism, social injustice, or feminism.

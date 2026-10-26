@@ -16,7 +16,7 @@ Alright, let’s take’em for a spin!
 
 ## Lesson 1
 
-### Have a mission.
+### Have a mission
 
 The summary talks about objectives, missions, goals and a marketing strategy. Out of all of these, **the mission seems to be the one you mustn’t screw up.**
 
@@ -34,7 +34,7 @@ When you hit a roadblock, and you don’t have a mission, you will quit. So make
 
 ## Lesson 2
 
-### Build a base of champions.
+### Build a base of champions
 
 This part I really like. The book puts your customers into different groups, or rather stages of the customer’s journey.
 
@@ -48,7 +48,7 @@ That’s why **your best new customers are your old customers**. Once you have a
 
 ## Lesson 3
 
-### Be online.
+### Be online
 
 I’m not sure if this statement was directly quoted from the book, but I’m glad it popped up in the summary either way: **If you’re not online, you don’t exist**.
 
@@ -75,7 +75,5 @@ It’s just too much information, too many terms thrown around – **which is pr
 Nevertheless, the summary covers all the basics you need to know, if your small organization is still fairly new and doesn’t know too much about marketing.
 
 I loved the idea of building a base of champions and the different stages of the customer journey and will remember it for my own marketing.
-
-## Who it’s for
 
 The 41 year old manager, who wants to be up to date with the marketing of his small business, the 28 year old, promising startup manager, who has a lot of growth and now knows she’s got to focus on customer retention, and anyone who hasn’t got much of an idea what marketing is all about.

@@ -18,7 +18,7 @@ Here are my three favorite lessons from the book:
 
 ## Lesson 1
 
-### Unsafe people can be categorized into three groups, and you can recognize them by looking at certain features.
+### Unsafe people can be categorized into three groups, and you can recognize them by looking at certain features
 
 It’s easier to spot unsafe people if you have in mind certain features to look after when you’re networking. **Make sure to remember them when the situation asks for it so that you don’t end up sitting at the wrong table.**
 
@@ -30,7 +30,7 @@ The third type are the *irresponsible* friends. You can’t count on these peopl
 
 ## Lesson 2
 
-### Past trauma can negatively impact your personality today and make you an unsafe person.
+### Past trauma can negatively impact your personality today and make you an unsafe person
 
 Often we recognize unsafe people and feel if our connection with them is toxic. Then, we choose to become distant or end the relationship overall. However, what if we are the ones that are unsafe or toxic? How can one tell if they are incapable of true connection?
 
@@ -42,7 +42,7 @@ A sense of entitlement is also destructive. **When we feel as if we don’t need
 
 ## Lesson 3
 
-### Our relationships define our health levels.
+### Our relationships define our health levels
 
 Our social circle plays an enormous role not just in our spiritual health but also in our physical health. A great example in this regard would be the curious case of Italian immigrant families that settled in Pennsylvania in the twentieth century. What is curious is that they all lived an unusually long life.
 
@@ -55,7 +55,5 @@ To attract these people, it’s important to first draw a balance between what y
 ## Review
 
 *Safe People* delves into the subject of meaningful relationships and how to achieve them by firstly recognizing what to avoid. This subject is vital in today’s world, as people network more than ever before, both online and offline, and are exposed to all kinds of fellow human beings. Reading this book will help you spot unsafe people and avoid creating toxic relationships with them.
-
-## Who it’s for
 
 The person looking to create meaningful, long-lasting relationships and doesn’t know where to start, a Christian seeking for ways to recognize potential friends and trustworthy people, or someone who just got out of a toxic relationship and wants to avoid getting in another one in the future.

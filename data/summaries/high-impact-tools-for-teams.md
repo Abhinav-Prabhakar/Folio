@@ -18,7 +18,7 @@ Now that we’ve taken a glimpse of these valuable lessons, we’ll go into deta
 
 ## Lesson 1
 
-### Most meetings are unproductive, but learning what makes them this way can help you prevent it from happening.
+### Most meetings are unproductive, but learning what makes them this way can help you prevent it from happening
 
 Most people hate meetings, and for a reason. An appointment is usually just a time when team members gather around to discuss a given topic but end up circling it and talking nonsense. According to research conducted by Atlassian, approximately half of the meetings are unproductive and considered a waste of time.
 
@@ -30,7 +30,7 @@ Simply put, no one knows what the other person should be doing, let alone themse
 
 ## Lesson 2
 
-### Use the Team Alignment Map to run smoother projects and achieve goals faster.
+### Use the Team Alignment Map to run smoother projects and achieve goals faster
 
 Now that I’ve introduced the TAM, it’s time to break it down into simple words and see how you can start using it right away to manage a team of people better! First, the TAM helps people plan and assess. It consists of a four-column chart and a header with a Mission and a Period. You may add the meeting agenda in the Mission row, while in the Period tab, it is where the meeting’s time frame is written.
 
@@ -43,7 +43,7 @@ The header makes the structure of the meeting clear from the start and lets memb
 
 ## Lesson 3
 
-### Be prepared with an agenda before every meeting to reduce unproductive time.
+### Be prepared with an agenda before every meeting to reduce unproductive time
 
 It’s no secret that any plan can help you reduce uncertainty, so preparing an agenda will surely benefit your meeting. But unfortunately, most meetings are a waste of time due to poor planning and a structured agenda. As such, it’s best to clear out from the start how much time you want to spend on a specific topic.
 
@@ -54,7 +54,5 @@ A good agenda consists of approximately 10 minutes of intro on the subject. Thir
 ## Review
 
 *High-Impact Tools for Teams* offers valuable advice on running more effective meetings and increasing productivity at the workplace. The book can help any manager or team leader revitalize their team and offer a better direction. Motivating team members with exciting tasks to meet end goals by touching on SMART goals. The Team Alignment Map, and many other project management tips. The author also offers a hands-on guide to transforming one’s workplace essentially.
-
-## Who it’s for
 
 The 30-year-old team leader wants to learn how to run more effective meetings—the 50-year-old CEO who wants to motivate their organization and approach a more efficient management style. Lastly, the 35-year-old manager who wants to do well in their new project is looking for advice in this direction.

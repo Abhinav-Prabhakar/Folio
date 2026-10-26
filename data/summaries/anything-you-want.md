@@ -4,7 +4,7 @@
 
 ## Overview
 
-On Tim Ferriss’s homepage there’s a testimonial from The New York Times calling him *“A cross between Jack Welch* *and a Buddhist monk.”*
+On Tim Ferriss’s homepage there’s a testimonial from The New York Times calling him *“A cross between Jack Welch and a Buddhist monk.”*
 
 If that’s true, then Derek Sivers is a cross between yet another Buddhist monk and Tim Ferriss, with the same creative approach to life and experimental entrepreneur mindset, but another two levels quieter.
 
@@ -20,7 +20,7 @@ Ready to rock’n’roll? Here we go!
 
 ## Lesson 1
 
-### Improve your ideas until you can’t not turn one into a business.
+### Improve your ideas until you can’t not turn one into a business
 
 Derek never intended to build a million dollar business. In fact he’d had it before, after starting a bunch of businesses that failed. But he **never stopped improving his ideas** and practicing his creative muscles. The only way to hit an idea that will not only take you, but a lot of other people by storm, is to keep improving them.
 
@@ -30,7 +30,7 @@ When lots of people want to get in on your idea early on, that’s a good sign y
 
 ## Lesson 2
 
-### You don’t need funding, start without it.
+### You don’t need funding, start without it
 
 It’s hard to imagine that there was a time before venture capital and angel investing. Nowadays every 8th-grader with a half-assed idea for the next bubble gum wants a million dollars before even setting up shop. But money isn’t what’ll help your idea grow.
 
@@ -42,7 +42,7 @@ For example, while I don’t have the money to buy 365 books a year, nor the tim
 
 ## Lesson 3
 
-### Do delegate, but don’t overdo it.
+### Do delegate, but don’t overdo it
 
 I’m so guilty of this one. Especially when you’re running solo and starting a microbusiness, it’s super hard to give up control. You think you’re the only one capable of doing things the right way, but you have so much to do that it’s almost impossible to keep up with everything.
 
@@ -59,7 +59,5 @@ A solid middle ground is to entrust processes you can afford to let go with peop
 I’m really grateful I got even more insights from Derek thanks to Blinkist, the man is an endless well of wisdom, some of my favorites are how to start a movement, uncommon sense and his podcasts with Tim Ferriss. Given that *Anything You Want* is fairly short (88) pages, I’m sure it’s one of the next ones I can fit into my tight schedule once I downloaded it for my Kindle.
 
 I 100% recommend following everything Derek does, which of course includes his blog and this book.
-
-## Who it’s for
 
 The 17 year old with big eyes from reading startup world news, the 47 year old with a passion for coding helpful apps, but who feels overwhelmed by all the marketing and business advice out there, and anyone who wants to start a business as an introvert.

@@ -20,7 +20,7 @@ Now that we’ve come up with the lessons, let’s uncover them and explore the 
 
 ## Lesson 1
 
-### People generally believe bullshit for three reasons.
+### People generally believe bullshit for three reasons
 
 Typically, it’s convenient to assume that the person in front of you is telling the truth and that their story cannot possibly be made up. What’s also convenient is to rely on already existing information in your brain to make decisions instead of exploring other points of view. Unfortunately, for your own benefit, you’ll have to rethink this mindset.
 
@@ -36,7 +36,7 @@ Another type of situation where we fall for bullshit is when we hear a piece of 
 
 ## Lesson 2
 
-### You are more susceptible to bullshit when you fail to acknowledge that your intuition isn’t always right.
+### You are more susceptible to bullshit when you fail to acknowledge that your intuition isn’t always right
 
 Generally, you have a much bigger chance of falling for someone’s bullshit when you don’t actively try to protect yourself from it. When you let your guard down is when you’ll believe every stupid thing you’re being told, and that’s not a good place to end up in.
 
@@ -50,7 +50,7 @@ A healthy dose of intuition, combined with a willingness to fact-check and resea
 
 ## Lesson 3
 
-### When we’re not expected to share an opinion, we’re less likely to bullshit.
+### When we’re not expected to share an opinion, we’re less likely to bullshit
 
 Harry Frankfurt, a well-renowned psychologist, suggested that people bullshit when they’re required to give their opinions on a given subject, no matter how prepared they are on it.
 
@@ -67,7 +67,5 @@ However, that’s not the case with people who truly know what they’re talking
 ## Review
 
 *The Life-Changing Science of Detecting Bullshit* will teach you an essential life skill: discernment. By learning the characteristics of a bullshit story and how to rely more on facts and less on intuition, anyone reading this book can improve their bullshit detecting skills. If you want to learn how to make smarter decisions in the future and read people better, I suggest you give this book a read.
-
-## Who it’s for
 
 The 30-year-old person who fell for a scheme and wants to learn how to avoid it in the future, the 27-year-old person who keeps failing in their relationships and wants to make better decisions when it comes to choosing their partner, or the 40-year-old person who’s looking to advance in their career by learning how to read people better and tell the bullshit from the truth in their business.

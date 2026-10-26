@@ -12,7 +12,7 @@ We assume that some concepts or products become more popular than others out of 
 
 But what if there was somebody who tried to find out what separates contagious ideas from the ones that never make themselves known?
 
-Jonah Berger has been doing exactly this for over 15 years now. Much like the book *Hooked*, Berger digs deep into the psychology behind consumer choices. His conclusions about why some ideas spread like a virus are the core of *Contagious* *: Why Things Catch On*.
+Jonah Berger has been doing exactly this for over 15 years now. Much like the book *Hooked*, Berger digs deep into the psychology behind consumer choices. His conclusions about why some ideas spread like a virus are the core of *Contagious: Why Things Catch On*.
 
 Here are 3 of the most important lessons the book teaches about how products, ideas, and stories get shared:
 
@@ -24,7 +24,7 @@ Ready to seriously upgrade your marketing knowledge base? Let’s go!
 
 ## Lesson 1
 
-### Word of mouth is better advertising than online marketing.
+### Word of mouth is better advertising than online marketing
 
 If you are trying to market a product, grow a personal brand, or organize your community around a common cause, you probably think that social media is your best bet. Everyone seems so excited about using Facebook or Instagram ads for spreading their ideas.
 
@@ -42,7 +42,7 @@ This is the second component that makes the word-of-mouth marketing so powerful�
 
 ## Lesson 2
 
-### Use common triggers to prompt people to think about your product.
+### Use common triggers to prompt people to think about your product
 
 Remember Rebecca Black’s viral video “Friday,” where a group of teenagers jump in the car and go to a party to delight in the freedom of the upcoming weekend? It wasn’t the best video – but it became a hit anyway.
 
@@ -58,7 +58,7 @@ This association mechanism allows ideas to be recalled repeatedly by many people
 
 ## Lesson 3
 
-### The mind is trained to learn through stories.
+### The mind is trained to learn through stories
 
 Being human means that you are fond of stories. This is probably nothing new to you. But why do we get so hung up on narratives?
 

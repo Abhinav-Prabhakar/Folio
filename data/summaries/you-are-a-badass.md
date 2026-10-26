@@ -22,7 +22,7 @@ Ready to discover your inner badass and put him or her in charge? Let’s go!
 
 ## Lesson 1
 
-### Draw a line in the sand. Now.
+### Draw a line in the sand. Now
 
 Do you know how you remember some people for one, distinct thing they taught you? With one girl from high school, the only thing I ever really learned from her came in the form of a status update she posted on Facebook:
 
@@ -38,7 +38,7 @@ But none of that matters if you’re happy spending time chasing what others don
 
 ## Lesson 2
 
-### Know what you want, but be flexible about the how.
+### Know what you want, but be flexible about the how
 
 Sticking with the example of becoming a writer, here’s how most people go about that particular dream:
 
@@ -57,7 +57,7 @@ Over time, with more and more hours of writing practice put in, you’ll get int
 
 ## Lesson 3
 
-### When your environment doesn’t support you, change your environment.
+### When your environment doesn’t support you, change your environment
 
 Having the thick skin to deal with the ridicule of friends or shooting down their tempting attempts to distract you is one thing. Making a conscious decision to actually get rid of some of the weights that are dragging you down is another. That’s tough.
 
@@ -72,7 +72,5 @@ I’m not saying these decisions are easy, but I have a hunch Jen is onto someth
 ## Review
 
 I get why *You Are A Badass* is such a massive hit. It’s 90% motivation with 10% tactics and calls to action, thrown in at the very end. You’ll get really revved up and ready to go – and then you’re let off your leash. What a wonderful way of setting other people up for success. Thumbs up from me, Mrs. Sincero!
-
-## Who it’s for
 
 The 33 year old long-time dream procrastinator, the 41 year old notorious planner, whose grand schemes never seem to materialize, and anyone who knows they have some hard decisions to make to build an environment that supports their dreams.

@@ -22,7 +22,7 @@ Are you looking forward to finally learning everything school should have taught
 
 ## Lesson 1
 
-### Getting into the right Cashflow Quadrant will make you far more money than any career goal ever will.
+### Getting into the right Cashflow Quadrant will make you far more money than any career goal ever will
 
 You just can’t summarize a Kiyosaki book without reviewing the Cashflow Quadrant. But why is it so powerful? Because it provides a simple explanation of the difference between poor and rich mentalities.
 
@@ -47,7 +47,7 @@ And if you’ve already been in your career for a while, you can still change in
 
 ## Lesson 2
 
-### If you want to financially cripple your children, give them money.
+### If you want to financially cripple your children, give them money
 
 Does it ever seem unfair that the rich kids always get everything they want? Whether it’s a new car, a nice phone, or any other fancy toy, their parents always seem to be willing to fulfill their desires.
 
@@ -61,7 +61,7 @@ Combating this plague isn’t difficult, however. **All you need to do is teach 
 
 ## Lesson 3
 
-### Poor people look for financial advice, while the rich focus on getting a financial education and teach their kids to do the same.
+### Poor people look for financial advice, while the rich focus on getting a financial education and teach their kids to do the same
 
 One of the biggest reasons you’re probably struggling with money is that your whole life you’ve been having people tell you what to do with it. This is known as financial advice, when you should have been seeking financial education.
 
@@ -80,7 +80,5 @@ Assets, for example, are anything that brings money in, like investments. Liabil
 ## Review
 
 I really enjoyed this book. Just the phrase *Why A Students Work For C Students* has always been a fascinating idea to me because I was a C student! This book is important for anyone of any GPA to help them recognize the importance of being wise with your financial education instead of just trusting what school teaches you.
-
-## Who it’s for
 
 The 16-year-old who is in a financial literacy class in which the teacher doesn’t know or care about what they’re teaching, the 35-year-old who wonders why they are perpetually poor, and anyone who’d like to break free of the rat race and finally get ahead financially.

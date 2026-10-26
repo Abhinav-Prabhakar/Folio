@@ -18,7 +18,7 @@ If these lessons don’t make much sense now, stick with me. I’ll explore each
 
 ## Lesson 1
 
-### Practicing mindfulness can enhance your spirituality.
+### Practicing mindfulness can enhance your spirituality
 
 Being a spiritual person doesn’t necessarily imply that you’re religious. And to become spiritual is to allow your mind, body, and soul to sync and live in harmony with the world. Practicing mindfulness is like giving yourself a break from your own emotions and assumptions, from the constant mind chatter, and it helps alleviate negative feelings and insecurities. So, where to start? One good way to practice mindfulness is through meditation.
 
@@ -28,7 +28,7 @@ It’s particularly important to avoid letting your thoughts run wild, so contai
 
 ## Lesson 2
 
-### Spiritual development starts with physical, mental, social, and ethical maturity.
+### Spiritual development starts with physical, mental, social, and ethical maturity
 
 The nature of life implies that growth happens gradually. As humans, we begin at an initial stage. Then we reach maturity and slowly degrade afterwards, to eventually reach our final stage. One curious thing about life is that every little thing in the universe goes through these stages, although not all of them have the same pace. Now, our development as spiritual beings must happen gradually as well. That’s just the natural order of things.
 
@@ -38,7 +38,7 @@ Only then can you immerse yourself into your upgraded version. It’s the one th
 
 ## Lesson 3
 
-### Accept pain and uncomfortable situations as a natural part of life.
+### Accept pain and uncomfortable situations as a natural part of life
 
 No matter your financial, social, marital, or any other type of status you may have, one thing is for sure: you’re human, you’re imperfect, and you’ll have to deal with negative events in your life. After all, it’s only natural! Life isn’t all about happy moments and good times, so when challenges occur, there’s a few correct ways to deal with them, and none imply complaining.
 
@@ -49,7 +49,5 @@ One good way to accept your present is meditation. While it helps you to calm do
 ## Review
 
 *Waking Up* is a go-to guide for everyone looking to start their spiritual development journey and become more grounded and connected with their mind, body and spirit. While this book covers subjects like spirituality, meditation, acceptance, and religion, it doesn’t try to coerce its readers into accepting certain philosophies as universal truths about life. Frankly, this is a must read for everyone who wants to take their mind to another level and live life more meaningfully, while working on their well-being.
-
-## Who it’s for
 
 The 30-year-old person who feels stuck in the mundane and wants to learn how to live more meaningfully, the 45-year-old person who feels like they’ve accomplished their life goals and wants to elevate their spiritual side, or the 37-year-old who wants to explore the religious and spiritual side of things from a neutral perspective.

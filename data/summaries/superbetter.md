@@ -22,7 +22,7 @@ Ready to become Super Mario (or Princess Peach)? Let’s a go *does Super Mario 
 
 ## Lesson 1
 
-### Gamifying your life works because of post-traumatic and post-ecstatic growth.
+### Gamifying your life works because of post-traumatic and post-ecstatic growth
 
 SuperBetter was the result of Jane fighting a severe concussion that would not heal. Since she didn’t just want to get better, but be even better than before, she came up with the name SuperBetter – simple, right?
 
@@ -40,7 +40,7 @@ SuperBetter can help you achieve both kinds of growth, and the best part is you 
 
 ## Lesson 2
 
-### You can use video games to reduce physical pain.
+### You can use video games to reduce physical pain
 
 Think video games are all about fun?
 
@@ -61,7 +61,7 @@ In this way we give our attention to a positive activity, which also makes us fe
 
 ## Lesson 3
 
-### Whether games have a positive or negative impact on your life is up to why you play in the first place.
+### Whether games have a positive or negative impact on your life is up to why you play in the first place
 
 Of course we all know that one weirdo, who spends all his time in his basement, playing video games, and has zero friends.
 
@@ -87,7 +87,5 @@ After I listened to the talk in 2012, I downloaded the app and played for a whil
 I’d love to pick a game of *SuperBetter* back up again, I’ll have to talk to my girlfriend about playing together. Jane is wonderful, and her research will open your eyes about games and show you a way you’ve never looked at them before.
 
 I haven’t read the entire book yet, but had to snatch up the summary as soon as I saw it in the “Recently blinked” section. It’s quite long and details all 7 steps of designing a game of SuperBetter for yourself, so go for it. Throw in her other book and 2 TED talks, and you have a solid gamifying strategy!
-
-## Who it’s for
 
 The 18 year old, who had to suffer a traumatic experience early in her life, the 35 year old, who plays a lot of video games, but feels guilty about it being “a waste of time”, and anyone who loves Tetris.

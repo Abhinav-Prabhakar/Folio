@@ -20,7 +20,7 @@ I don’t know what you dream of, but whatever it is, after this you will know w
 
 ## Lesson 1
 
-### Dreams always aim to fulfill our deepest desires, but they often hide which desire it is.
+### Dreams always aim to fulfill our deepest desires, but they often hide which desire it is
 
 To be honest I can rarely remember my dreams. When I do, I’m almost disappointed when the dream is about something really obvious, like me suddenly becoming super rich or successful. These kinds of wishes aren’t special. Most people have them. There isn’t much to learn.
 
@@ -32,7 +32,7 @@ Her only way to see him again would have been if Charles had died – so that’
 
 ## Lesson 2
 
-### The content of your dreams originates from three different sources.
+### The content of your dreams originates from three different sources
 
 We often dream about what happened on the same day or the one before, but real-life events are just one of three sources of dream content:
 
@@ -44,7 +44,7 @@ There are lots of places to find “the stuff that dreams are made of.” Now yo
 
 ## Lesson 3
 
-### Your mind structures your dreams by condensing, displacing and coherently arranging their contents.
+### Your mind structures your dreams by condensing, displacing and coherently arranging their contents
 
 Maybe you’ve heard the expression of “weaving dreams.” Given the three types of “wool” used to create them and how your mind puts them together, that’s actually not too far off. Your dreams get their structure in three ways:
 
@@ -59,7 +59,5 @@ I guess I can only dream about that.
 ## Review
 
 This is one of the rare cases where I really think reading a summary of the book first helps you understand it faster and better. *The Interpretation of Dreams* is a massive, highly complex, scientific, verbose book. Feel free to browse around the internet a bit more and read other summaries before taking the leap to the actual book.
-
-## Who it’s for
 
 The 16 year old who can’t make sense of her nightmares about school, the 39 year old bachelor who’s sick of being alone and stuck in figuring out why he still is and anyone who often wakes up in the middle of the night.

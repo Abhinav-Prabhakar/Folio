@@ -20,11 +20,11 @@ Get ready to overcome your fears of talking to people and let’s get started!
 
 ## Lesson 1
 
-### Follow these basic guidelines to help you initiate conversations.
+### Follow these basic guidelines to help you initiate conversations
 
 First things first, you’re in control of your small talk skills and only you can improve them. It’s natural to be afraid of talking to people, initiating a conversation with strangers is the second biggest social fear in the Western world! So you know it’s up to you, but there are a few things you can do to prepare and make it easier.
 
-Let’s start with letting go of the fear of rejection. **Think of it this way: if someone came up to you and struck up a conversation, wouldn’t you appreciate their efforts?** I know I would, even if it was a little awkward at first.
+Let’s start with letting go of the fear of rejection. **Think of it this way: i f someone came up to you and struck up a conversation, wouldn’t you appreciate their efforts?** I know I would, even if it was a little awkward at first.
 
 Starting a conversation may be the hardest part, but not being awkward might be the second most difficult. To mitigate this, make eye contact and a smile. Introduce yourself first and offer your hand for a handshake. Ask for their name and remember it. If you’re afraid, try practicing. It may seem weird, but it will help a lot.
 
@@ -32,7 +32,7 @@ Also, not talking to someone may make you seem pompous or arrogant. In the autho
 
 ## Lesson 2
 
-### Knowing what questions to ask ahead of time goes a long way to keep any discussion going.
+### Knowing what questions to ask ahead of time goes a long way to keep any discussion going
 
 I used to have a hard time talking to people. After many failed attempts at small talk, I learned to have a list of questions ready to help me get to know someone. Since then, I always have a great time talking with just about anyone I meet.
 
@@ -44,11 +44,11 @@ However, be careful to avoid certain conversation topics. If you engage in discu
 
 ## Lesson 3
 
-### Learn to listen, people want you to understand and connect with them when they’re speaking.
+### Learn to listen, people want you to understand and connect with them when they’re speaking
 
 Now that you have the skills to strike up and continue conversations, it’s time to learn how to make them more meaningful. And the secret to that is listening. Think back to a time when someone didn’t listen to you and you know just how important this is.
 
-The first step seems small but is powerful. **It’s about making sure that whoever you are talking with*feels*like you are listening to them.** Pay attention to your body language. Don’t hunch your shoulders, cross your arms, or fidget. Instead, maintain eye contact, nod, smile, and even lean in a little.
+The first step seems small but is powerful. **It’s about making sure that whoever you are talking with *feels* like you are listening to them.** Pay attention to your body language. Don’t hunch your shoulders, cross your arms, or fidget. Instead, maintain eye contact, nod, smile, and even lean in a little.
 
 Take the experience of a young boy named Nicholas. Excitedly he told his father about a great day of painting, scoring a touchdown, and eating pizza. His dad, instead of listening, was reading the newspaper. When Nicholas got frustrated with his father for not listening, his father just repeated word for word what Nicholas had said. What the boy really wanted was a real connection.
 
@@ -57,7 +57,5 @@ Instead of being a Nicholas’s father, practice verbal cues to help people feel
 ## Review
 
 *The Fine Art Of Small Talk* is really inspiring for anyone who feels like they just can’t talk to people. The ideas seem so simple, but applying them will have a profound effect on your conversation skills. I was particularly excited about the idea that nobody is permanently shy or introverted, and that everyone can become great at small talk!
-
-## Who it’s for
 
 The 30-year-old engineer who wants to jump out of their comfort zone and get to know more people, the 40-year-old parent of teenagers who doesn’t feel like they know how to connect with their kids, and anyone who wants more confidence in social situations.

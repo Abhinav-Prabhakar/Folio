@@ -20,11 +20,9 @@ Here are 3 lessons from the book to help you find inner peace:
 
 Let’s discover what it takes to let go of “no-thing” — the things that aren’t things at all!
 
-### Letting Go of Nothing Summary
-
 ## Lesson 1
 
-### Letting go is hard because we view it as another thing to do instead of stopping the doing altogether.
+### Letting go is hard because we view it as another thing to do instead of stopping the doing altogether
 
 Last month, a business partner told me I’d only receive half of my affiliate commissions. “Terms are changing.” At first, I felt cheated. Angry. Ready to explode. After I focused on something else for a bit, however, I calmed down. Our partnership still made money, so why ruin a good thing? I told them to send the money, and that was that.
 
@@ -56,7 +54,7 @@ Whatever pain you are facing, first let it in, then let it be — and thus you�
 
 ## Lesson 3
 
-### Every emotion comes with a story, and to deal with it, we must let go of both.
+### Every emotion comes with a story, and to deal with it, we must let go of both
 
 All emotions come with a story, Russell says. “Try to feel angry, sad, jealous, embarrassed, excited, awed, or any other emotion without thinking about the past or future — that is, without telling yourself a story. You can’t. Without the story it doesn’t exist.”
 
@@ -74,7 +72,5 @@ Wherever there’s an emotion, there’s also a story. Let in both, then let the
 ## Review
 
 *Letting Go of Nothing* is a short, simple, and unpretentious guide to becoming more present and at peace. Beyond only a handful of exercises, there’s some light theoretical context and lots of examples. If you enjoyed Eckhart Tolle’s *The Power of Now*, you’ll love this one!
-
-## Who it’s for
 
 The 15-year-old who gets bullied in school because of her weight, the 38-year-old stressed out startup founder, and anyone who frequently holds grudges in their relationships.

@@ -20,7 +20,7 @@ Are you ready to learn how to make a real difference in people’s lives? Let’
 
 ## Lesson 1
 
-### Affirmation is far more than just a simple pat on the back or compliment.
+### Affirmation is far more than just a simple pat on the back or compliment
 
 Imagine you’re a young football player and you’ve just lost the most important game of the season. You feel devastated after all your hard work didn’t pay off the way you expected.
 
@@ -34,7 +34,7 @@ To truly “fortify” others, you must focus on their strengths and values. A w
 
 ## Lesson 2
 
-### Criticizing others in public has long-lasting negative effects.
+### Criticizing others in public has long-lasting negative effects
 
 As a child, the author’s wife Anne took an art class in her preschool playgroup. Not wanting to follow the rules, she randomly threw paint at her canvas. The teacher wasn’t impressed, and in front of the whole class rebuked Anne for her “mess.” The humiliation has stuck with her since the experience.
 
@@ -46,7 +46,7 @@ The lesson here is that if you want to help someone and need to give feedback, d
 
 ## Lesson 3
 
-### Focus on affirmation, not numbers, in your performance reviews to help your employees the most.
+### Focus on affirmation, not numbers, in your performance reviews to help your employees the most
 
 Do you remember your last performance review? I know when I was still working for someone else I dreaded them. It felt like a formality and that nothing much ever came of it.
 
@@ -61,7 +61,5 @@ An affirmation-based approach is more effective at accurately gauging employee�
 ## Review
 
 I really liked *Extraordinary Influence* and I believe you will too, no matter what you do for a living. I’m excited at the idea that the workplace is improving from performance reviews to actually caring about people. These ideas are also helpful to parents raising children, and I’m excited to implement them as a parent myself!
-
-## Who it’s for
 
 The 42-year-old business coach who wants to make a real difference for his clients, the 54-year-old CEO that would like to improve the leadership in her company, and anyone who leads a team of any kind.

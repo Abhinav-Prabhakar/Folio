@@ -20,7 +20,7 @@ Forget the dusty crystal ball in your attic, this book will give you a much clea
 
 ## Lesson 1
 
-### Initially AI was limited by hardware, now it’s mostly a matter of feeding computers enough data.
+### Initially AI was limited by hardware, now it’s mostly a matter of feeding computers enough data
 
 After Alan Turing’s “Turing Machine” was invented as the first device to systematically follow and execute instructions in an automated way (watch *The Imitation Game* for more details, superb movie), the first real “digital” computer was completed in 1946.
 
@@ -36,7 +36,7 @@ Bostrom and other experts expect computers to be as smart as humans by 2075. Giv
 
 ## Lesson 2
 
-### Superintelligence could either imitate or simulate humans, building on biology or technology.
+### Superintelligence could either imitate or simulate humans, building on biology or technology
 
 What we’re currently doing with AI is mostly **teaching computers to imitate human thinking**. Computers use logic to navigate a wealth of information, calculate probabilities and then take shortcuts humans can’t come up with to imitate their behavior – just faster.
 
@@ -46,7 +46,7 @@ However, this would require us to take actual human brains, get the data out of 
 
 ## Lesson 3
 
-### If some secret government program comes up with superintelligence first, we’re probably screwed – we all have to work together.
+### If some secret government program comes up with superintelligence first, we’re probably screwed – we all have to work together
 
 Just like there are two ways to technologically make superintelligence a reality, there are also two socially different ways it can be developed.
 
@@ -61,7 +61,5 @@ Such a team effort would make sure all steps taken are the safest ones, because 
 ## Review
 
 A lot of books about these topics paint a bright future of infinite life, zero work and perfect health. But we have to get there first. And there’s a very real chance that if we do it the wrong way, we’ll get none of that, and instead be at the mercy of something we built, but have no control over. I like the fantasies, but I try to stay in the present too. Out of all the books on AI, *Superintelligence* is the one you should read first.
-
-## Who it’s for
 
 The 17 year old computer geek, who loves watching sci-fi movies, the 35 year old government employee who smells something funny is up in the office down the corridor, and anyone who’s worried about a Matrix-like future.

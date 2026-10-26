@@ -18,11 +18,9 @@ Let’s see how much of that we can extract in 3 lessons:
 
 Who you want to seduce and for what reason is not something anyone can determine for you. The only thing this book can help you with is determining how to do it. Let’s go!
 
-### The Art Of Seduction Summary
-
 ## Lesson 1
 
-### The number one way to be seductive is to be unpredictable.
+### The number one way to be seductive is to be unpredictable
 
 Humans are pattern-seeking machines. Analyzing everything is one of our biggest strengths, which is also why it’s the skill we most love to exercise. However, that also means as soon as we figure something out, it’s boring. In movies as in life, flat, one-dimensional characters don’t interest us. They can’t hold our attention for long.
 
@@ -34,7 +32,7 @@ Above all, don’t be an easy target. Play hard-to-get not because it works, but
 
 ## Lesson 2
 
-### There are nine types of seducers and they all have different dominant strategies.
+### There are nine types of seducers and they all have different dominant strategies
 
 While always being good for a surprise is a necessary condition for all successful seductions, people tend to still choose certain strategies over others. We don’t just like finding patterns, we embody them. Greene says there are nine types of seducers:
 
@@ -52,7 +50,7 @@ Which one of these are you? Which one *could you be?* And who have you fallen fo
 
 ## Lesson 3
 
-### Try to spot anti-seductive behaviors in others and yourself and get rid of them.
+### Try to spot anti-seductive behaviors in others and yourself and get rid of them
 
 First impressions aren’t always accurate, but that doesn’t mean people will give you a second chance to rectify them. And some behaviors are just wholly unattractive. Here are nine of them:
 
@@ -71,7 +69,5 @@ While it’s easy to spot these tendencies in others, it’s harder to see them 
 ## Review
 
 When I look at books like *The Art Of Seduction* now, I don’t see a manual for manipulating people, written by an evil schemer. I see an interesting study of human behavior, a wealth of information that’s only as good or bad as the person who wields it. In this case, it’s a plethora of archetypes, patterns you can recognize in yourself, other people, and everyday life. If you use them, use them well and for good causes, there is nothing wrong with *The Art Of Seduction*.
-
-## Who it’s for
 
 The 16 year old, infatuated teenager, who’s sick of being bossed around at school, the 54 year old door-to-door salesman, and anyone who usually doesn’t get what they want.

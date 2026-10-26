@@ -20,7 +20,7 @@ Cancer sucks. But this book can make it suck less by informing you about it! Let
 
 ## Lesson 1
 
-### Our understanding of cancer has exploded in the last few centuries.
+### Our understanding of cancer has exploded in the last few centuries
 
 Around 160 CE, Greco-Roman physician Galen developed the first known theory about cancer. He believed that tumors resulted from entrapment of black bile—this theory held until the sixteenth century when people started to perform autopsies.
 
@@ -36,7 +36,7 @@ Another reason it is so dangerous is that, unlike a normal cell that ages and se
 
 ## Lesson 2
 
-### Your risk for cancer depends on infections, chemicals, hormones, heredity, and radiation.
+### Your risk for cancer depends on infections, chemicals, hormones, heredity, and radiation
 
 **We know that cancer happens in our own cells, but we also know that external sources can cause it.** Percival Pott first discovered this when investigating a cluster of scrotal cancer among young boys. They were all chimney sweepers, and the soot accumulating on their scrotum caused the cancer.
 
@@ -50,7 +50,7 @@ Other causes are radiation, hormones, and genes. Radiation causes cancer by dama
 
 ## Lesson 3
 
-### We currently treat cancer with surgery, chemotherapy, and even radiation sometimes.
+### We currently treat cancer with surgery, chemotherapy, and even radiation sometimes
 
 Surgery can be a good option for treating cancer, but it has its limitations. For one, it isn’t possible to surgically remove cancers of blood like leukemia, and removing tumors doesn’t do much good if the cells have already spread to different parts of the body.
 
@@ -65,7 +65,5 @@ Radiation treatment has been shown to decrease the chance of a relapse greatly. 
 ## Review
 
 My Dad had it. Every one of my grandparents did too. But luckily, I haven’t had cancer so far. This sickness is crazy, awful, and fascinating all at the same time, just like everything I learned in *The Emperor Of All Maladies*. I think this is a must-read for everybody in this age where almost everyone will be affected by cancer at some point.
-
-## Who it’s for
 
 The 19-year-old that had a family member diagnosed with cancer recently, the 48-year-old who wonders how they can decrease their risk of terminal illness, and anyone who wants to learn the basics of cancer’s causes, treatments, and history.

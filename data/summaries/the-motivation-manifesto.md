@@ -20,7 +20,7 @@ Now, let’s take a moment to explore each lesson in detail. Let’s start with 
 
 ## Lesson 1
 
-### Fear can kill your dreams, while ambition can fuel them.
+### Fear can kill your dreams, while ambition can fuel them
 
 When it comes to life, we have choices to make every day. Whether they’re small, like what to eat and where to go, or big, like moving to a new place or taking a new job, they’re there, and they require action. However, many of us let fear take over and make those decisions for us. We become worried about what people will think, about failure, or many other factors.
 
@@ -32,7 +32,7 @@ Ambition drives our imagination to wander and create new, exciting scenarios and
 
 ## Lesson 2
 
-### Learn to enjoy the present moment from your inner child.
+### Learn to enjoy the present moment from your inner child
 
 As we grow older, we learn more and more about the world, leaving behind old practices and upgrading our mindset. However, there are certain things in life that we should unlearn, or never let go of in the first place. **What I mean by that is, you should reconnect with your inner child and remember how it feels to live in the moment.**
 
@@ -44,7 +44,7 @@ Moreover, don’t let negative thoughts ruin your days. For example, if you feel
 
 ## Lesson 3
 
-### Aim for a glorious, extraordinary life, and don’t settle for less.
+### Aim for a glorious, extraordinary life, and don’t settle for less
 
 Whatever your definition of success and fulfillment looks like, it’s time for you to pursue it and do everything in your power to achieve it. Whether you’re dreaming about becoming a world-renowned artist, traveling to every country on earth, or building your own house and starting a family, go for it. Life is too short to fear living it.
 
@@ -55,7 +55,5 @@ Moreover, when you choose to follow it, you’ll start becoming more fulfilled a
 ## Review
 
 *The Motivation Manifesto* is a book for all those who want to get disciplined and find their higher purpose in life. This book will teach you how to turn your life from average to inspirational and help those around you along the way. The advice received from the authors, such as enjoying the present, setting a goal, conquering our fears, and many others, will transform everyone’s life once implemented.
-
-## Who it’s for
 
 The 30-year-old start-up founder looking to lift their morale and find a way to stay motivated, the 27-year-old single mom who wants more out of her life and is trying to set the bar higher, or the 40-year-old life coach looking to learn more about what makes people motivated.

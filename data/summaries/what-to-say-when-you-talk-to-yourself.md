@@ -18,7 +18,7 @@ In the next lines, we’ll explore these lessons in detail and teach you how to 
 
 ## Lesson 1
 
-### Everything we are comes from our thoughts.
+### Everything we are comes from our thoughts
 
 Your inner dialogue is private—no one else can hear it except you! So if you’re ever worried about what someone else might think of how you speak to yourself, remember that they don’t know! Just like most people don’t know what kind of inner dialogues other people are having with themselves all day long either!
 
@@ -30,7 +30,7 @@ When you talk to yourself about what needs to be done, what needs to be fixed or
 
 ## Lesson 2
 
-### Everything we want is achievable through mind reprogramming.
+### Everything we want is achievable through mind reprogramming
 
 When you want to achieve your goals, it’s crucial to think positively and take the initiative in an actionable manner. Thoughts are the driving force behind our actions.
 
@@ -52,7 +52,7 @@ The single best method of applying the reprogramming framework to your mind is t
 
 ## Lesson 3
 
-### Understand self-talk before you attempt to change it.
+### Understand self-talk before you attempt to change it
 
 Reprogramming starts with replacing old and negative thoughts with refreshing perspectives that will serve you well in life. To replace such pessimistic thoughts, you must first identify them and then find a better option to fill your mind with.
 
@@ -76,7 +76,5 @@ Inner dialogue is not only important, but it also affects our lives in ways we m
 The author explains that we should be talking to ourselves like a friend would talk to a friend—with kindness, understanding, and encouragement.
 
 The book was written in 1986 but it’s still relevant today, as it’s full of timeless truths about how we communicate with ourselves and how that affects our lives in both good ways and bad ways!
-
-## Who it’s for
 
 The 35-year-old person who is struggling with anxiety and overthinking, the 28-year-old person who wants to build their self-confidence, or the 45-year-old person going through a mid-life crisis and wants to deepen their connection with themselves.

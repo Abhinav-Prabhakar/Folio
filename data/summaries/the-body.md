@@ -18,7 +18,7 @@ How do our insides work? Let’s find out!
 
 ## Lesson 1
 
-### Trillions of tiny microbes share your body with you wouldn’t be able to live without them.
+### Trillions of tiny microbes share your body with you wouldn’t be able to live without them
 
 Most of us probably don’t like to think about the trillions of microbes living inside and on the outside of us. But really, we should be grateful for them. After all, we not only need them to function but to exist.
 
@@ -32,7 +32,7 @@ Because of this, we are essentially in a crisis in modern medicine where antibio
 
 ## Lesson 2
 
-### Your brain is a mysterious and sometimes misunderstood organ that has a miraculous design.
+### Your brain is a mysterious and sometimes misunderstood organ that has a miraculous design
 
 The whole body is really brilliant in its design, but one particularly remarkable component is your brain. It’s also a strange and isolated organ that is sealed off from the outside world. Around 75 percent of it is water, making it a soft, spongy ball that somehow makes us who we are.
 
@@ -46,7 +46,7 @@ Our expressions, which come from the brain, are amazingly broad. Each of us has 
 
 ## Lesson 3
 
-### We are now more threatened by chronic diseases than infectious ones, but our death will inevitably come either way.
+### We are now more threatened by chronic diseases than infectious ones, but our death will inevitably come either way
 
 In the year 2011, we crossed a threshold where there were more deaths from non-communicable diseases like heart disease than communicable ones like viruses. **This shows us two things: we have come really far with medical science and fighting infectious disease, but we are also letting lifestyles play a bigger role in our deaths.**
 
@@ -61,7 +61,5 @@ Today, only one in ten thousand of us gets to the age of a hundred. Around 60 mi
 ## Review
 
 This is one of those book summaries where I feel like I was only able to scratch the surface! *The Body* is jam-packed with fascinating facts and mysteries about our bodies. It’s also very well-written and witty, making it an easy and enjoyable read for anyone and everyone. It will leave you both fascinated and in awe of the body you probably don’t think much about.
-
-## Who it’s for
 
 The 59-year-old who loves science, the 39-year-old doctor, and anybody that wants to know how their body works.

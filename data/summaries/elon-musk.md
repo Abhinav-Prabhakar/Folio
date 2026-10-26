@@ -18,11 +18,9 @@ Here are 3 lessons from that book. Learn from Elon Musk’s life so you can impr
 
 I hope your brain software is switched to learning, because it’s about to get an upgrade!
 
-### Elon Musk Summary (Ashlee Vance)
-
 ## Lesson 1
 
-### Spend most of your time figuring out what questions to ask, rather than just answering them.
+### Spend most of your time figuring out what questions to ask, rather than just answering them
 
 Elon Musk didn’t have a particularly easy childhood. His relationship with his parents wasn’t easy to begin with and when they separated, this didn’t get any better. Musk decided to live with his dad, but to add pain to injury, he was also bullied in school.
 
@@ -38,7 +36,7 @@ This kind of thinking led Musk to ponder topics like solar power, space explorat
 
 ## Lesson 2
 
-### Accomplish your goals with a success-through-determination approach.
+### Accomplish your goals with a success-through-determination approach
 
 I like the phrase “success-through-determination” because it’s ambiguous. Determination means to stick with things long enough until they work out. But it also means to determine what your next step should be and spend a good deal of time thinking about what you’ll do.
 
@@ -50,7 +48,7 @@ It was worth the shot. The two had 6 children together. **If what you’re tryin
 
 ## Lesson 3
 
-### If you can unite all of your work and projects under the roof of one giant goal, you’ll leave a lasting impact on the world.
+### If you can unite all of your work and projects under the roof of one giant goal, you’ll leave a lasting impact on the world
 
 Having a lot of goals in various fields of life is important. It’s the spice of life and it makes living fun. But if you think of the variety of your goals in levels of a pyramid, you can see how they influence your focus.
 
@@ -65,7 +63,5 @@ In Elon Musk’s case, Tesla produces batteries, which SolarCity can sell, and S
 ## Review
 
 *Elon Musk* is one of the most interesting characters of our time, so go learn something from him! I think besides the book, this article is a great place to start. Also, I compiled 30 of Musk’s best quotes for you here. Enjoy!
-
-## Who it’s for
 
 The 12 year old who struggles with being bullied in school, the 29 year old, who feels like she’s drifting around in life, and anyone who’s busier answering questions than asking them.

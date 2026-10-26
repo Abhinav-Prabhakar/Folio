@@ -20,7 +20,7 @@ Ready to become an essentialist? Here we go!
 
 ## Lesson 1
 
-### People expect life to be fair and balanced, but it’s not.
+### People expect life to be fair and balanced, but it’s not
 
 You might know that the 80/20 principle says that 80% of the results come from 20% of the work (if not, now you do:P).
 
@@ -44,7 +44,7 @@ Life works the same way, so stop blaming external factors like “unjust wealth 
 
 ## Lesson 2
 
-### The most important aspect any business can optimize is their product range.
+### The most important aspect any business can optimize is their product range
 
 I love the story of Steve Jobs explaining how focus means saying no.
 
@@ -62,7 +62,7 @@ So the best thing you can look at to start simplifying and simultaneously growin
 
 ## Lesson 3
 
-### You don’t need to have exact numbers to get the most out of the 80/20 principle.
+### You don’t need to have exact numbers to get the most out of the 80/20 principle
 
 Koch extends this principle throughout the book to help you use it in your own life as well, not just in business.
 
@@ -87,7 +87,5 @@ The summary had some really cool examples (like the one with the fish or the wor
 It inspires you to take a different mindset and wrap your head around the imbalances we see in our everyday lives, instead of fighting against them (which is something I struggle with myself, because I want things to be “even” all the time).
 
 I liked the summary on Blinkist, haven’t read the entire book yet, but am indeed curious about more examples, highly recommended!
-
-## Who it’s for
 
 The 43 year old product manager at a company with hundreds of products, the 72 year old, who thinks it’s time for a realignment of her life’s priorities, and anyone who has a tough time with not splitting things evenly.

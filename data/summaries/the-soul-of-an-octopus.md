@@ -20,7 +20,7 @@ Let’s dive deep and discover why Octopuses aren’t the scary monsters we migh
 
 ## Lesson 1
 
-### These creatures are more similar to us than we might think.
+### These creatures are more similar to us than we might think
 
 Despite their sometimes frightening appearance octopuses aren’t anything to be afraid of. Part of our fear of them has to do with cultural conditioning. Many films and stories have featured octopuses or tentacled creatures and made them seem like scary deep-sea monsters. But if you can get past the bad rap, you’ll find they are incredibly intriguing!
 
@@ -34,7 +34,7 @@ Octopuses have been known to escape from their tanks to explore. A researcher at
 
 ## Lesson 2
 
-### If you were an octopus you could change color to let others know what mood you’re in and taste with your suckers.
+### If you were an octopus you could change color to let others know what mood you’re in and taste with your suckers
 
 Remember mood rings? Those silly rings that would supposedly change color to match what mood you were in? Octopuses are basically swimming mood rings. Not only does their skin change to blend in with their environment, it also changes to reflect their mood.
 
@@ -46,7 +46,7 @@ But octopuses use their sense of taste for more than just eating. When working a
 
 ## Lesson 3
 
-### Introversion and extroversion are just some of the many personality traits that these creatures can have.
+### Introversion and extroversion are just some of the many personality traits that these creatures can have
 
 Just like humans, octopuses can be introverted, extroverted, or anything in between. The author came across many personality types as she worked in the aquarium. **One octopus, named Athena, quickly approached her and clung to her as they met. Another, Octavia, was more nervous and it took a few visits before she warmed up to her.**
 
@@ -57,7 +57,5 @@ The author also says they are like humans in how they age and become less active
 ## Review
 
 Although it’s a lot different than our usual books, *The Soul Of An Octopus* is a really interesting book that I thoroughly enjoyed! Who knew that these misunderstood creatures could be so fascinating? It almost makes me want to get an octopus for a pet but I’ve heard they get bored and depressed in captivity and I wouldn’t want to do that to one of these amazing invertebrates!
-
-## Who it’s for
 
 The 28-year-old that’s always loved animals and is curious to learn about one of the most curious ones, the 48-year-old biology teacher who’s looking for some interesting facts to share with their class, and anyone that wants to discover why octopuses are so amazing!

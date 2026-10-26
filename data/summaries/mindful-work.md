@@ -24,7 +24,7 @@ Let’s get right to these lessons!
 
 ## Lesson 1
 
-### Science proves that mindfulness changes your brain for the better.
+### Science proves that mindfulness changes your brain for the better
 
 For a long time, it’s been difficult for just about everybody in the Western world to accept that mindfulness is more than spirituality. Anyone that talked about the benefits could easily be shrugged off because there was no proof. Until now.
 
@@ -42,7 +42,7 @@ And as if all that wasn’t enough to convince you, meditation also decreases ac
 
 ## Lesson 2
 
-### Meditation will improve your concentration.
+### Meditation will improve your concentration
 
 If there’s one thing I hated about working in an office it was how many distractions I had to deal with. And even now that I’m self-employed I still don’t like having to worry about how I’m going to focus!
 
@@ -56,7 +56,7 @@ When things like this happen it’s best to begin observing your thoughts from a
 
 ## Lesson 3
 
-### Practicing mindfulness will naturally give you all the qualities of a great leader.
+### Practicing mindfulness will naturally give you all the qualities of a great leader
 
 Think of the best manager or coach you know. What are their characteristics? They’re kind, listen well, and are someone you can look up to, right? The good news for you is that if you want to be like this too, all you need to do is meditate.
 
@@ -75,7 +75,5 @@ Eventually, everyone grows together and becomes better, all because of the simpl
 ## Review
 
 I’ve summarized a lot of books about mindfulness recently so I was a little bit apprehensive about doing another one. However, I really like the unique take that *Mindful Work* has on the subject, especially the emphasis on practicing meditation for the sake of it and not just for the benefits. If you are the kind of person who stresses out just thinking of work, this book is going to change your life.
-
-## Who it’s for
 
 The 32-year-old whose boss is being insensitive to everything going on in her life right now, the 49-year-old manager that wonders why his employees are struggling so much with the heavy workload he places on them, and anyone who wants less stress and more focus at work.

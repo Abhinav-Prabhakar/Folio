@@ -20,7 +20,7 @@ Let’s educate ourselves on these topics by exploring each lesson in detail bel
 
 ## Lesson 1
 
-### Information technology is changing the way we socialize and will contribute to innovation in communication.
+### Information technology is changing the way we socialize and will contribute to innovation in communication
 
 This revolution will have a profound effect on all aspects of our lives and will eventually lead us into an age of abundance. The new technologies that are emerging as part of this revolution are already beginning to transform our economy and society in many ways.
 
@@ -32,7 +32,7 @@ The result? People are less and less dependent on the authorities of central gov
 
 ## Lesson 2
 
-### Technology allows us to depend less and less on governments in our everyday affairs.
+### Technology allows us to depend less and less on governments in our everyday affairs
 
 In the digital age, states can no longer exert violence upon their citizens and hope that they obey their rules. The nation-state emerged way back in history as a social contract between representatives and citizens.
 
@@ -46,7 +46,7 @@ We have to reconsider how we organize ourselves to be safer in this new reality.
 
 ## Lesson 3
 
-### Humanity will move toward a new form of organization, one that is governed by morality and no violence.
+### Humanity will move toward a new form of organization, one that is governed by morality and no violence
 
 As the world becomes increasingly more globalized and interconnected and our dependability on technology increases, we can notice a drop in religious behaviors and our trust in the media or the nation-state. Still, it’s important to remember that people crave a sense of belonging.
 
@@ -65,7 +65,5 @@ As history is being written right before our eyes, it’s essential to take part
 It shows us how the world will look once the nation-state loses its power and authority. We can already see that happening as people no longer trust banks, corporations, or news outlets.
 
 The book is shaping a future in which we are in charge of our own decisions. It is truly a remarkable read for anyone who wants to take a glimpse into their future lives.
-
-## Who it’s for
 
 The 30-year-old activist who is looking for a lecture to support their views, the 22-year-old crypto enthusiast, or the 40-year-old politician who wants to understand the wind of change.

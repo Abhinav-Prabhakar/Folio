@@ -24,7 +24,7 @@ Knowing the dip before you find yourself in it will help you get through. Learn 
 
 ## Lesson 1
 
-### Whatever goal you want to achieve, you’ll have to survive a dip in order to reach mastery.
+### Whatever goal you want to achieve, you’ll have to survive a dip in order to reach mastery
 
 Whatever endeavor you undertake, small and big struggles are waiting for you hidden behind the initial excitement. Unfortunately, facing them is the only way to realize yourself.
 
@@ -38,7 +38,7 @@ While in school we had to be quite good at many things, in the post-school world
 
 ## Lesson 2
 
-### Being the best is so much better than just being good.
+### Being the best is so much better than just being good
 
 According to the International Ice Cream Association, vanilla is the most popular ice cream flavor and chocolate is the second. Well, vanilla accounts for almost 30% of all ice cream sales in the U.S. while chocolate only for about 10%.
 
@@ -52,7 +52,7 @@ But having many more customers than their competitors isn’t the only advantage
 
 ## Lesson 3
 
-### Identifying the right moment to give up is crucial for your success in life.
+### Identifying the right moment to give up is crucial for your success in life
 
 Failing is not a choice but the only option you have left once you’ve used up all your resources. Instead, smart quitting is not failing, it’s a way of avoiding failure. Smart quitting is a conscious decision based on what it takes to invest further to emerge from the dip – a choice among more options available to you.
 
@@ -69,7 +69,5 @@ Good quitters state in advance when to quit by setting goals and deadlines. This
 ## Review
 
 We can’t do everything, can we? Achievement comes from quitting something to free up time and energy for what we consider more effective. In *The Dip*, Seth Godin helps us to see the difference between giving up because it’s easier and giving up because it’s wiser.
-
-## Who it’s for
 
 The 23-year-old who is thinking of dropping out of college, the 35-year-old who wants to start his own business, and anyone who’s about to undertake a new challenge.

@@ -20,11 +20,11 @@ Here are 3 of the most exciting lessons I got from the book:
 2. Identify people’s problems and pain points as the villain to keep them interested.
 3. Help customers see the transformation they will get after they purchase your product by giving them a vision.
 
-It’s storytime! Or should I say Story *Brand* time? Let’s begin!
+It’s storytime! Or should I say Story*Brand* time? Let’s begin!
 
 ## Lesson 1
 
-### Help your customers fulfill only one of their desires and make them the hero of your story.
+### Help your customers fulfill only one of their desires and make them the hero of your story
 
 We remember best the stories that have a hero. You can’t really tell a good tale without one. The same is true for your brand’s story. You just need to make sure that your hero is your customer.
 
@@ -42,7 +42,7 @@ Eventually, the luxury hotel we mentioned earlier figured out that the one thing
 
 ## Lesson 2
 
-### To keep people interested, set their problems and pain points as the villain.
+### To keep people interested, set their problems and pain points as the villain
 
 If you’re like me and enjoy solving problems, you’ll be happy to learn that one of the points in the StoryBrand framework is problem-solving. It doesn’t matter if it’s a simple process that needs fixing or something more extravagant, your customers need their problems solved.
 
@@ -60,7 +60,7 @@ A house painter, for example, could stand out by identifying the feelings of emb
 
 ## Lesson 3
 
-### Give customers a vision of the transformation they will accomplish by purchasing your product.
+### Give customers a vision of the transformation they will accomplish by purchasing your product
 
 Stories get exciting when a problem comes up that threatens the chances of a happy ending. Nobody wants their own story to have a grim ending. That’s why it’s best to identify the “happily ever after” that they can get once your product helps them vanquish their villains.
 
@@ -79,7 +79,5 @@ Finally, people want to have a sense of self-acceptance. One example of this was
 ## Review
 
 *Building A StoryBrand* is a super interesting book and concept. It’s been hard for me to figure out how to describe what I do until I discovered it. Now, I’m excited for when people ask me what I do and confident that visitors to my website will connect with my own brand’s story!
-
-## Who it’s for
 
 The 33-year-old blogger who isn’t sure how to describe what their blog does, the 58-year-old marketing executive that wants to help people connect with their brand better, and anyone that wants to have confidence when someone asks what they do.

@@ -18,7 +18,7 @@ When it comes to making life simpler, there’s nothing to wait for. Let’s get
 
 ## Lesson 1
 
-### Increase your effectiveness with boundary rules, prioritizing rules and stopping rules.
+### Increase your effectiveness with boundary rules, prioritizing rules and stopping rules
 
 There is a Frank Zappa song called “Don’t Eat The Yellow Snow,” which has been ripped off and piggybacked on a lot, especially in comedy. A patch of yellow snow is likely the result of someone taking a pee, so you’d best avoid it, no matter how thirsty you are.
 
@@ -32,7 +32,7 @@ What all of these have in common is that they help you decide *what* to do, thus
 
 ## Lesson 2
 
-### Your efficiency depends on how well you use how-to, coordination and timing rules.
+### Your efficiency depends on how well you use how-to, coordination and timing rules
 
 Once you’ve become effective and are spending your time on the right things, it’s all about maximizing efficiency – doing things the best way possible. This is where another three types of rules come in.
 
@@ -44,7 +44,7 @@ Okay, now that’s great, you know what types of simple rules there are. But how
 
 ## Lesson 3
 
-### You can reach any goal faster if you can find a simple rule for it. Do it in these three steps.
+### You can reach any goal faster if you can find a simple rule for it. Do it in these three steps
 
 As long as you’re aware of your goal, there’s a decent chance you can back it up with a simple rule to help you get there faster. Let’s say you want to lose 20 pounds. Take these three steps to find a simple rule for it:
 
@@ -57,7 +57,5 @@ As you can see, if you know the two or three critical places you mess up in when
 ## Review
 
 The world has gotten more complex, but that doesn’t mean life has to as well. How complicated or simple our lives are is mostly up to us. *Simple Rules* offers a refreshing take here. I like that it leaves lots of room for creative flexibility, which really removes overwhelm. Good read!
-
-## Who it’s for
 
 The 20 year old accountant with a low-movement desk job, who’s desperate to lose weight, the 44 year old improv comedian, who’s looking to improve his performance and anyone who doesn’t get up at the same time each day (yet).

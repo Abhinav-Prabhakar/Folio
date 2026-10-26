@@ -20,7 +20,7 @@ Are you as pumped up as I am to try this out? Let’s jump in and find out how i
 
 ## Lesson 1
 
-### Productivity improves when you take another day off.
+### Productivity improves when you take another day off
 
 One day Barnes boarded an airplane heading to London from New Zealand where he lived. He had no idea the impact the copy of *The Economist* that he was about to read would have on him and many others.
 
@@ -36,7 +36,7 @@ Trials in his own company showed promising results. When his staff got the extra
 
 ## Lesson 2
 
-### If you communicate throughout the process of implementing this method then it will go much better.
+### If you communicate throughout the process of implementing this method then it will go much better
 
 So now you’re probably already convinced that this is a good idea, but don’t go rushing into it. Establishing the four-day week in your company is tricky. You’ve got to do it right if you want it to have the positive effects you seek.
 
@@ -57,7 +57,7 @@ Most importantly is to avoid making decisions in a top-down manner. Everyone has
 
 ## Lesson 3
 
-### Remember that productivity is the main purpose of the 4 Day Week, not just having another day off.
+### Remember that productivity is the main purpose of the 4 Day Week, not just having another day off
 
 Barnes gives speeches around the world about the many improvements that his system brings. But he constantly reminds people that at the end of the day, he’s a businessman above all.
 
@@ -72,7 +72,5 @@ This is the lens through which every employee who gets to participate in a four-
 ## Review
 
 Finally, someone who is talking some sense when it comes to the way we do work! I’ve always been a big fan of the revolution to improve our productivity by fixing the problems with our schedules, and this book gives some solid advice on how to make it happen. I hope to see systems like *The 4 Day Week* becoming standard practice all across the world!
-
-## Who it’s for
 
 The 55-year-old CEO who is wondering how to increase productivity and take better care of her workers, the 28-year-old who wants to find ways to take better care of the environment, and anyone that hopes for more enthusiasm and well-being while on the job.

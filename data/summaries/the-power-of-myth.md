@@ -20,7 +20,7 @@ Once upon a time, there was a book summary of The Power of Myth… let’s dive 
 
 ## Lesson 1
 
-### Myths give people a common identity, unite people within communities, and identify the beginnings of cultures.
+### Myths give people a common identity, unite people within communities, and identify the beginnings of cultures
 
 Myths play an essential part in defining and preserving a community’s identity. A lot of myths do this by explaining how the beginning of life or a culture began. This helps form a group identity and makes it different from other groups.
 
@@ -32,7 +32,7 @@ Myths can also change and adapt over time. For instance, when the Spanish brough
 
 ## Lesson 2
 
-### The legends that society passes down serve as a framework for how to think and act throughout all of life’s major steps.
+### The legends that society passes down serve as a framework for how to think and act throughout all of life’s major steps
 
 Another benefit of myths is that they give us a framework for life. They help us comprehend or handle significant life stages like birth, adulthood, and death. Myths can help us take the step from one stage to the next, even when the transition is confusing or scary.
 
@@ -44,7 +44,7 @@ In modern day, we don’t lean on ritual as much. But we still do have things li
 
 ## Lesson 3
 
-### You can make better sense of life, appreciate it more, and prepare for death all thanks to the power of myth.
+### You can make better sense of life, appreciate it more, and prepare for death all thanks to the power of myth
 
 You’ve probably felt afraid to die at one point or another in your life. Myths can help comfort our fears of this and grapple with our own mortality. Many myths link life and death closely. Have you ever heard a story about someone with a terminal illness who decides to live the last of their life to the fullest? It is facing death that helps them embrace the life they have left.
 
@@ -57,7 +57,5 @@ This is the reason ancient peoples left gifts on the graves of their deceased lo
 ## Review
 
 *The Power Of Myth* is full of interesting ideas, showing why humans do what they do, and how society works. If you can tell great stories, you can accomplish a whole lot — and this book is a fantastic instruction manual for learning how to do so!
-
-## Who it’s for
 
 The 57-year-old humanities professor, the 22-year-old writer that’s curious about how stories come to be and how they might use that in their work, and anyone who’s ever wondered about the origins and intricacies of all the interesting beliefs in society.

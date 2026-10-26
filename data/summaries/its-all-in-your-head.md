@@ -22,7 +22,7 @@ Are you ready for some motivation? Let’s go!
 
 ## Lesson 1
 
-### You’ll reach your dreams if you have unwavering self-confidence in your vision.
+### You’ll reach your dreams if you have unwavering self-confidence in your vision
 
 Russ didn’t have any proof that he was going to become great. But he stayed confident in himself anyway, even through times when he was working on his music in his parents’ basement and nobody was listening.
 
@@ -38,7 +38,7 @@ To accomplish something big, you’ve got to envision what it will feel like. If
 
 ## Lesson 2
 
-### Success comes to those that consistently work on what they love.
+### Success comes to those that consistently work on what they love
 
 If you had all that belief in yourself that you were already making millions, do you think an empty audience might make you second guess yourself? Many people might, but that’s not what Russ did.
 
@@ -54,7 +54,7 @@ Taking the leap of faith might not be easy, but it will definitely be worth it. 
 
 ## Lesson 3
 
-### You can accomplish even your biggest aspirations by believing and working hard.
+### You can accomplish even your biggest aspirations by believing and working hard
 
 You might watch professional sports and think they make it look easy. But what you don’t see is the hours of early mornings, frustrating practice sessions, and missed shots. Belief is important, but to grow and become great you have to put in the work.
 
@@ -71,7 +71,5 @@ You too can make your dreams happen. It might take time, hard work, and belief i
 ## Review
 
 I’m a sucker for inspiring stories, so naturally, I really liked *It’s All In Your Head*. It’s funny how most people are a little apprehensive of feel-good tales about how hard work triumphs, but Russ made it big and shows that it really works! I really do believe a lot of what holds us back from reaching our dreams is in our head, and I’m grateful for books like this one to remind me of that.
-
-## Who it’s for
 
 The 56-year-old who knows there is an artist inside of them but is afraid to take a chance on it, the 31-year-old that’s considering following their passions to create a career they love, and anyone that wants some motivation to work hard in pursuit of their dreams.

@@ -20,7 +20,7 @@ Grab a notebook and get ready to have your parenting skills reach another level!
 
 ## Lesson 1
 
-### Knowing how to form a secure attachment with your children is necessary if you want them to become well-adjusted adults.
+### Knowing how to form a secure attachment with your children is necessary if you want them to become well-adjusted adults
 
 After birth, babies are biologically programmed to attach to at least one person that will respond to their needs. This attachment is secure, and according to attachment theory, it is likely the most important factor in whether or not the child will live a healthy physical and emotional life.
 
@@ -34,7 +34,7 @@ Not having secure attachments can even make it difficult for the child to have f
 
 ## Lesson 2
 
-### If you struggle to know whether to comfort your child or encourage them to be more independent, use The Circle of Security.
+### If you struggle to know whether to comfort your child or encourage them to be more independent, use The Circle of Security
 
 It’s hard to know when to comfort your child or encourage their independence. For this reason, the authors created the Circle of Security.
 
@@ -48,7 +48,7 @@ When the child is at the bottom of the circle, on the way back to your “safe h
 
 ## Lesson 3
 
-### You aren’t a perfect parent, but you can use that as an advantage when raising your kids.
+### You aren’t a perfect parent, but you can use that as an advantage when raising your kids
 
 Sometimes as a parent, you need to remind yourself that nobody is perfect. We all get stressed out, tired, or busy and sometimes miss our child’s cues. When we miss our child’s cues, the author calls this “rupturing the circle.”
 
@@ -61,7 +61,5 @@ Kids need to know that it’s okay to have emotions. But most of all, don’t pa
 ## Review
 
 I love *Raising A Secure Child*, and I really think you will too! Not only did it help me find ways to be a better parent, but it also helped me reconcile some of the belief systems. I highly recommend this book and being more intentional with raising kids, too!
-
-## Who it’s for
 
 The 35-year-old mother has a hard time connecting with her toddler when they cry. The 47-year-old father, who isn’t sure how to bond with them. It can be anyone who wants to raise healthy and well-adjusted children.

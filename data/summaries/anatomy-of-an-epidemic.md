@@ -20,7 +20,7 @@ Are you as curious as I am about the treatment of psychological ills? Let’s be
 
 ## Lesson 1
 
-### The development of the first drugs for treating mental illness is questionable and they didn’t have adequate testing before their use.
+### The development of the first drugs for treating mental illness is questionable and they didn’t have adequate testing before their use
 
 One of eight Americans, including kids, currently takes some sort of psychiatric medication. With use so widespread, surely these medications have been thoroughly tested and developed for each illness they treat, right?
 
@@ -32,7 +32,7 @@ The first psychoactive drug on the market, Thorazine, was tested on less than 15
 
 ## Lesson 2
 
-### Medication might seem like it helps but it can leave you worse off in the long-run.
+### Medication might seem like it helps but it can leave you worse off in the long-run
 
 One big problem that happens with limited drug testing is that there needs to be enough time for side effects to emerge. And when it comes to side effects, these drugs have many. Science has shown that long-term use of psychiatric medications can cause significant lasting changes to the brain.
 
@@ -48,7 +48,7 @@ All of this is to say that we need to consider the repercussions of the drugs we
 
 ## Lesson 3
 
-### The fall and rise of psychiatry might make you wonder at the legitimacy of this practice.
+### The fall and rise of psychiatry might make you wonder at the legitimacy of this practice
 
 Another interesting part of the story about the rise of psychiatric drugs is the involvement of the psychiatry profession. Before the drugs, psychiatrists actually were focused solely on Freudian analysis rather than brain chemistry.
 
@@ -61,7 +61,5 @@ With this new rebranding, they were able to make a lot more money. It’s no sec
 ## Review
 
 I found the concepts in *Anatomy Of An Epidemic* surprising, but I’m not sure I agree with all of them. As someone who is on antidepressants, I can say for certain that they do work and have made my life better. Thinking of the side effects that this book talks about, though, does make me wonder whether staying on them is a good idea or not.
-
-## Who it’s for
 
 The 33-year-old who has depression and knows that it runs in their family, the 51-year-old law-maker who wants to help improve mental health and do it right, and anyone with concerns about the current state of psychiatry.

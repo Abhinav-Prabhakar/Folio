@@ -20,7 +20,7 @@ Ready to be an ethical investor? Let’s go for it!
 
 ## Lesson 1
 
-### If your work challenges your morals, it’s not worth it.
+### If your work challenges your morals, it’s not worth it
 
 Investment banks are known for their ruthless salesmanship and dubious strategies to make money. They’re playing with other peoples’ money and assume zero risk in case of losing it, so they know they can be aggressive.
 
@@ -48,7 +48,7 @@ Over time, this not only helps you in business, it also changes you personally. 
 
 ## Lesson 3
 
-### A true value investor loves a good financial crisis, because there’s always money to be made.
+### A true value investor loves a good financial crisis, because there’s always money to be made
 
 Value investing is, financially speaking, about buying great, valuable businesses at a discount and then keeping them forever and watching them grow. That means to a value investor, financial crises are awesome!
 
@@ -63,7 +63,5 @@ Don’t panic when everyone else does. Stay calm and there’s money waiting to 
 ## Review
 
 Any example of someone in finance with a strong set of morals, ethics and honest values, is a good example. We need more of them. Seriously. If you’ve tried a lot of investment tactics or are working in finance, I highly recommend you read *The Education Of A Value Investor*.
-
-## Who it’s for
 
 The 25 year old, freshly minted finance graduate, about to start his first job at a big investment bank, the 53 year old who’s been burnt after putting his money into a hedge fund, and anyone who wants to invest the honest way.

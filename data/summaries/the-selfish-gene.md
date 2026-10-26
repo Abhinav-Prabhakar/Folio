@@ -18,11 +18,9 @@ Here are 3 lessons from *The Selfish Gene* that’ll show you we might not be th
 
 Are you ready for a trip down Darwin lane? Let’s stroll along the path of evolution!
 
-### The Selfish Gene Summary
-
 ## Lesson 1
 
-### Even though mutually altruistic behavior is atypical, it can sometimes benefit the genes of two different organisms.
+### Even though mutually altruistic behavior is atypical, it can sometimes benefit the genes of two different organisms
 
 Because genes are selfish, a lot of the relationships among organisms in nature end up being so-called *zero-sum games*: there’s always one clear winner and one clear loser. When a hawk chases a dove, either the dove ends up getting eaten or the hawk starves.
 
@@ -34,7 +32,7 @@ Sometimes this kind of thinking pays off in nature too. For example, ants “mil
 
 ## Lesson 2
 
-### We’ve spliced off the element of culture and given it its own evolutionary cycle.
+### We’ve spliced off the element of culture and given it its own evolutionary cycle
 
 Humans are special. We’ve evolved far beyond the instinctive survival-thinking our genes originally drove us towards. For example, something as complex and various as human culture (which includes things like language, religion, fashion, art, customs, diet, etc.) can’t possibly be the result of genes striving for survival.
 
@@ -46,7 +44,7 @@ This explains how ideas like celibacy, the practice of abstaining from marriage 
 
 ## Lesson 3
 
-### Humanity can overcome the downsides of selfish genes thanks to simulation and foresight.
+### Humanity can overcome the downsides of selfish genes thanks to simulation and foresight
 
 While mutual altruism can sometimes have short-term benefits for the lifespan of individual organisms, it’s usually still based on selfish intentions. In a few cases though, an even better solution would be to abandon our immediate survival interests altogether and cooperate for the long term.
 
@@ -57,7 +55,5 @@ Genes aren’t conscious, they can’t foresee and simulate the future like we c
 ## Review
 
 This summary could’ve been three times as long. There is a ton of great information in *The Selfish Gene*. Even if you’ve slept all the way through biology class in high school, this book can catch you up on at least 70% of what’s important within a few hours. Highly recommended!
-
-## Who it’s for
 
 The 17 year old farmer daughter, who’s in touch with animals a lot, the 53 year old, very engaged and devoted member of a club, organization, church or movement, and anyone who wonders how genes are passed on.

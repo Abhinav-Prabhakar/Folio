@@ -20,7 +20,7 @@ This one is definitely going to change your life. I know because it changed mine
 
 ## Lesson 1
 
-### The greatest thing you can do to attract success is to have a habitually positive mental attitude.
+### The greatest thing you can do to attract success is to have a habitually positive mental attitude
 
 The #1 determining factor of success is a positive mental attitude, or PMA, Hill suggests.
 
@@ -36,7 +36,7 @@ It took a year, but Henry Ford’s PMA and determination eventually brought the 
 
 ## Lesson 2
 
-### Change your perspective to see the opportunities that always come from difficult situations.
+### Change your perspective to see the opportunities that always come from difficult situations
 
 If you break it down, success is just simply solving problems. Just look at the smartest people throughout history. All of their great achievements began with them looking for innovative solutions to a problem.
 
@@ -52,7 +52,7 @@ Bigelow promised Ward a job after they got out, and when he died, Ward took over
 
 ## Lesson 3
 
-### You are more likely to achieve your goals if you use autosuggestion to connect them with your subconscious.
+### You are more likely to achieve your goals if you use autosuggestion to connect them with your subconscious
 
 It might seem like the only way we can get anything done is with conscious action, but that’s not true. Our subconscious is a powerful motivator of our desires, dreams, and behavior.
 
@@ -67,7 +67,5 @@ Try this with your efforts to improve your attitude even. If you tell yourself t
 ## Review
 
 I’ve always loved this book since I first picked it up as a teenager. I highly recommend *Success Through A Positive Mental Attitude* to everyone. At first, it seems crazy that your outlook can have such a big impact on your success, but I’m proof that it’s 100% true!
-
-## Who it’s for
 
 The 16-year-old who is figuring out who they are and knows they want to be a good person, the 37-year-old who struggles to stay positive but knows it will help them, and anybody who wants to learn the power that your mind has to make you successful.

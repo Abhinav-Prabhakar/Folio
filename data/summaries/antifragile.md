@@ -20,7 +20,7 @@ Ready to stop cringing at uncertainty? Let’s do this!
 
 ## Lesson 1
 
-### Fragile items break under stress, antifragile items get better from it.
+### Fragile items break under stress, antifragile items get better from it
 
 We all know the label on boxes with glass inside them that reads “Fragile – handle with care”, and we’ve all seen more than one scene in a movie where someone throws a package like that, resulting in a glass shattering noise.
 
@@ -46,7 +46,7 @@ So for every time the beast is hurt, it actually gets stronger. That’s an exam
 
 ## Lesson 2
 
-### An antifragile system usually consists of many fragile parts.
+### An antifragile system usually consists of many fragile parts
 
 There are quite a few more good examples of antifragile systems, one being the evolutionary process.
 
@@ -66,7 +66,7 @@ So for an antifragile system to work, its individual parts must be fragile, beca
 
 ## Lesson 3
 
-### Antifragile systems work, because they build extra capacity when put under stress.
+### Antifragile systems work, because they build extra capacity when put under stress
 
 But how exactly does that happen? Why does antifragility work?
 
@@ -93,7 +93,5 @@ I just merely scratched the surface with my three lessons here, but thought it�
 The man is an infinite well of wise quotes and profound insights, but they’re not for the light-headed. What I liked about the summary on Blinkist is that it broke down the book’s most important ideas for the average Joe, like me, so I could first get a feel of what the book’s actually about, before diving deeper.
 
 The book has many more examples and insights, but is no light read, so if you haven’t fully grasped the ideas behind antifragility yet, check out Blinkist’s summary and use it to build the confidence to make Antifragile your bedtime read – you’ll learn a lot!
-
-## Who it’s for
 
 The 17 year old who’s unsure about going to college, but is told by his parents that it’s “the safe way to go”, the 35 year old politician, who’s in charge of creating an economic spending program, and anyone who’s ever broken a glass.

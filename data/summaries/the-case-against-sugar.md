@@ -20,7 +20,7 @@ Among them, here are my three favorite ones:
 
 ## Lesson 1
 
-### Calories that originate from sugar are detrimental to your health.
+### Calories that originate from sugar are detrimental to your health
 
 A common misconception is that calories are all the same, no matter their origin. And that it is how much we consume that matters most. Once these assumptions became widely spread, the sugar industry profited from them, advertising that three tablespoons of sugar have fewer calories than an apple.
 
@@ -32,7 +32,7 @@ Therefore, eating meals that are high in carbs will spike up your blood glucose 
 
 ## Lesson 2
 
-### Sugar is linked to a series of illnesses, especially diabetes.
+### Sugar is linked to a series of illnesses, especially diabetes
 
 Many studies point out the risks associated with eating sugar by highlighting the link between its consumption and Western diseases, including cancer. So it’s no secret that this substance is not suitable for you, but it wasn’t always like that.
 
@@ -48,7 +48,7 @@ In 2014, this small community had the highest rate of diabetes in the world — 
 
 ## Lesson 3
 
-### Don’t believe everything you hear about sugar — the industry worked hard to keep a clean image of it.
+### Don’t believe everything you hear about sugar — the industry worked hard to keep a clean image of it
 
 Sugar is commonly linked to diabetes, weight gain, and a series of Western diseases. But it wasn’t always like that. At first, sugar was advertised as being healthy, refreshing, and full of benefits. In fact, the Sugar Institute, created in 1928, was even part of a campaign that promoted it as healthy food!
 
@@ -61,7 +61,5 @@ As time passed by, the detrimental effects of sugar started to become popularize
 ## Review
 
 *The Case Against Sugar* is a valuable read for all of us who care about our health, as it emphasizes some of the most critical aspects regarding sugar consumption. The author educates the readers on the diseases related to sugar ingestion and how to avoid the marketing traps that the industry sets for the consumers. This popular substance is a common ingredient in our foods, so knowing its effects on our body and how to avoid it should be a universal concern.
-
-## Who it’s for
 
 The food-conscious person who wants to adopt a healthier diet, the nutritionist that wants to learn more about the implications of sugar and its history to educate audiences, or someone who wants to lose a few pounds by cutting off unhealthy foods.

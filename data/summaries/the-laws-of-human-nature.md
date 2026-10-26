@@ -16,11 +16,9 @@ For now, here are 3 lessons from Greene’s latest work about the nature of huma
 
 Let’s learn from one of the world’s most dedicated writers how to get along with others and yourself.
 
-### The Laws of Human Nature Summary
-
 ## Lesson 1
 
-### Self-sabotage is the most common way we ruin our lives. To prevent it, have a positive attitude.
+### Self-sabotage is the most common way we ruin our lives. To prevent it, have a positive attitude
 
 Historically acclaimed playwright Anton Chekhov had every reason not to become the legend he is today. His father beat him and forced Anton to skip school to work for him. Ultimately, his bad business dealings even forced the family to flee from their hometown. Worse still, they left Anton behind at the ripe age of…sixteen.
 
@@ -32,7 +30,7 @@ In *The Big Leap*, Gay Hendricks talks about self-inflicted upper limits, ceilin
 
 ## Lesson 2
 
-### We all have both feminine and masculine traits and we should embrace them both.
+### We all have both feminine and masculine traits and we should embrace them both
 
 In what Greene calls *The Law of Gender Repression*, he tells the story of Caterina Sforza, a powerful Italian noblewoman from the 15th century. Thanks to the wealth of her family, she was able to explore all her passions. These included fashion and arts, but also physical combat. Refusing to succumb to gender stereotypes made her one of the most fascinating public figures of her time.
 
@@ -44,7 +42,7 @@ Women, on the other hand, tend to be more pattern-focused. They like to collect,
 
 ## Lesson 3
 
-### Generational values shape our lives without us realizing how big their impact is.
+### Generational values shape our lives without us realizing how big their impact is
 
 Arab 14th-century scholar Ibn Khaldun was one of the world’s first sociologists. He was one of the earliest people to speak of things like “a generation,” “tribalism,” and “group dynamics.” Even back then, he developed a rather coherent theory of generational cycles.
 
@@ -62,7 +60,5 @@ What generation are you a part of? How does it shape your life? They’re questi
 ## Review
 
 Robert Greene does not deliver half-baked work. *The Laws of Human Nature* is no exception. It’s a long book, packed with 18 laws to help you dissect human behavior and use patterns to your advantage. You don’t have to read it in one go, think of it like a compendium. As a reference book to go back to time and again, I highly recommend it.
-
-## Who it’s for
 
 The 18 year old fashion sales trainee, who must persuade for a living, the 34 year old independent artist, who struggles with gender stereotypes, and anyone who thinks authors don’t make sacrifices.

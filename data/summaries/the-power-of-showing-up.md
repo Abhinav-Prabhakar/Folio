@@ -18,7 +18,7 @@ Do you want to be a better parent? Let’s get right to these lessons to find ou
 
 ## Lesson 1
 
-### If you want to be close to your kids, give them physical and emotional safety.
+### If you want to be close to your kids, give them physical and emotional safety
 
 I love rollerblading and have done it since I was a kid. Once, I took a turn too hard and scraped my entire knee up pretty bad. Luckily, I’ve since forgotten the pain of this and other injuries I had as a child.
 
@@ -34,7 +34,7 @@ Inevitably you’re going to lose your temper at some point though. To mitigate 
 
 ## Lesson 2
 
-### To help your children know themselves and meet their needs, you need to pay attention to their desires instead of making them follow yours.
+### To help your children know themselves and meet their needs, you need to pay attention to their desires instead of making them follow yours
 
 If you have a best friend that you can talk to about anything, then you know how useful they can be for when times are tough. That’s because they understand you deeply and accept you regardless of what happens or what you think and feel.
 
@@ -52,7 +52,7 @@ Let your kids express themselves freely, too. Plan a regular time to spend just 
 
 ## Lesson 3
 
-### Soothe your kids when they’re upset instead of getting angry if you want them to have emotional intelligence.
+### Soothe your kids when they’re upset instead of getting angry if you want them to have emotional intelligence
 
 If you are a parent you know how difficult temper tantrums are to deal with. Even if you don’t have kids but have seen one happening you can get an idea of how frustrating they are.
 
@@ -76,7 +76,5 @@ Whenever they show you they’re upset, respond with care and affection and list
 ## Review
 
 I can’t help but enjoy everything that these authors write. Their parenting advice is simple, actionable, and revolutionary. I’ve tried many of the ideas they teach in *The Power Of Showing Up* already and can attest to their power in helping kids learn to deal with complex emotions!
-
-## Who it’s for
 
 The 35-year-old dad who is too busy to spend quality time with his kids, the 57-year-old elementary school teacher that wants to give better support to their students, and anyone that’s interested in helping children be happier and healthier.

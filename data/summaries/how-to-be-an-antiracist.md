@@ -24,7 +24,7 @@ Are you ready to become an antiracist? Let’s dive into these important lessons
 
 ## Lesson 1
 
-### Equality is not dependent on the behavior of certain groups of people.
+### Equality is not dependent on the behavior of certain groups of people
 
 We sometimes don’t notice aspects of racism in our society. One example was in a claim made by politician Eleanor Holmes in 1985.
 
@@ -42,7 +42,7 @@ They noticed that with a rise in crime came an increase in unemployment among yo
 
 ## Lesson 2
 
-### You are a racist if you think there are significant biological differences between races.
+### You are a racist if you think there are significant biological differences between races
 
 As a Black child, the author remembers noticing the other kids in his class at school. The look of one Black girl made him consider how similar he and she were. But when he thought about the white kids, all he could see were deep differences.
 
@@ -60,7 +60,7 @@ You can inherit ethnicity, on the other hand, which is only a matter of which pa
 
 ## Lesson 3
 
-### Racism is a cancer that makes our society and it’s organizations and habits sick, but there is hope for us to beat it.
+### Racism is a cancer that makes our society and it’s organizations and habits sick, but there is hope for us to beat it
 
 In 2018, at just 35-years-old, Kendi got the devastating news that he had colon cancer. It got worse when doctors told him that it was in stage four and had spread throughout his body.
 
@@ -79,7 +79,5 @@ There is hope, however. The author beat his cancer. He believes that with work, 
 ## Review
 
 *How To Be An Antiracist* blew me away. It’s hard to find the words to describe how important this issue is, especially when I feel like because I’m white it’s not my turn to speak but rather to listen to those who have been oppressed for so long. Racism is wrong and awful and makes absolutely no sense to me, but just hating it doesn’t do any good. We all need to become Antiracists.
-
-## Who it’s for
 
 The 61-year-old who still thinks it’s okay to use racial slurs and tell inappropriate racial jokes, the 28-year-old who is tired of racism in society and wants to see how they can help, and everyone in the world.

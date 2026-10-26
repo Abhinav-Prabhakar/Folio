@@ -18,7 +18,7 @@ That’s why we should probably take a look at them in detail.
 
 ## Lesson 1
 
-### Our desire for happiness has evolved – it wasn’t always there.
+### Our desire for happiness has evolved – it wasn’t always there
 
 Think about the last decision you made. Maybe it was to click on the “Read More” button of this summary. **Why did you do it?**
 
@@ -42,7 +42,7 @@ However, thinking that **the drive behind all of our decisions is yet another re
 
 ## Lesson 2
 
-### Beyond a certain threshold, more money makes you less happy.
+### Beyond a certain threshold, more money makes you less happy
 
 Surprise surprise, **money doesn’t make us happy**. While this is old news, there are some interesting facts around it in this summary.
 
@@ -62,7 +62,7 @@ Each additional dollar becomes a little dopamine hit, and **you’ll get addicte
 
 ## Lesson 3
 
-### Countries should increase taxes to make people happier.
+### Countries should increase taxes to make people happier
 
 Following from lesson 2, a simple way for Western countries to increase their populations happiness would be to **raise taxes progressively.**
 
@@ -82,7 +82,5 @@ At first glance this summary seemed to hold not many new insights, especially wh
 If you’re new to all this happiness research, I think this summary and book could be the perfect starter.
 
 After *Happiness: Lessons From A New Science* you can dive deeper into happiness research by learning about specific topics and tools, which will help you get there. Further recommended books: Learned Optimism, Mindset, and Better Than Before.
-
-## Who it’s for
 
 The 22 year old with a Master’s degree, who’s rushing to become a banker at Goldman Sachs, the 42 year old father with a 6-figure income, who’s depressed because his neighbor just got a pool, and every politician in the world.

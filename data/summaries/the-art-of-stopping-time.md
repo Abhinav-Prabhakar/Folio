@@ -24,7 +24,7 @@ Ready to discover the power you have to stop time? Let’s go!
 
 ## Lesson 1
 
-### What you get out of every hour of the day depends on what you’re doing, how much energy you have, and whether you’re present or not.
+### What you get out of every hour of the day depends on what you’re doing, how much energy you have, and whether you’re present or not
 
 Say you had a time machine that only had the power to stop time. It would be pretty amazing to have infinite hours to work, rest, play, or do whatever else you wanted, right?
 
@@ -46,7 +46,7 @@ Finally, we have mindfulness. When you’re in the present, it’s a lot easier 
 
 ## Lesson 2
 
-### You only have a limited amount of resources you can use to make your time garden flourish.
+### You only have a limited amount of resources you can use to make your time garden flourish
 
 Imagine your life is like a garden full of plants. You want to nourish each plant so it can do well and produce fruit. But you only have so much space and water.
 
@@ -62,7 +62,7 @@ Say you have an old friend come back into your life but you don’t have much in
 
 ## Lesson 3
 
-### Mindfulness is the key to slowing down time.
+### Mindfulness is the key to slowing down time
 
 Do you ever finish eating and wonder why your food seemed to be gone so fast? And don’t you hate how you don’t get to savor your food when that happens?
 
@@ -81,7 +81,5 @@ Try this with everything you do and you’ll start to find that everything will 
 ## Review
 
 I’ve summarized so many books about time management and mindfulness that they all seem to blend together. But The *Art Of Stopping Time* merged the two in ways I hadn’t anticipated, and I was pleasantly surprised. These principles might not be new, but they are important and that’s why they get repeated.
-
-## Who it’s for
 
 The 48-year-old who has just discovered mindfulness and wants to learn ways to apply it, the 31-year-old that recently got a promotion at work and is busier than ever, and anyone who has ever wished that time would just slow down.

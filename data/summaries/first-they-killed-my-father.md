@@ -20,7 +20,7 @@ Let’s get right into these lessons so we can understand the awfulness that som
 
 ## Lesson 1
 
-### Life was good for Loung Ung and her family until the Khmer Rouge won the Cambodian civil war.
+### Life was good for Loung Ung and her family until the Khmer Rouge won the Cambodian civil war
 
 When Ung was five-years-old, her life as she knew it changed forever. Up until that point, she had enjoyed a comfortable middle-class life, as her father was a high ranking military official. They had a modern apartment in the city’s capital of Phnom Penh and even attended school, though most of the city’s inhabitants were not so fortunate.
 
@@ -32,7 +32,7 @@ The regime also set out to persecute anyone who was not ethnically Cambodian. Th
 
 ## Lesson 2
 
-### Tragedy after tragedy struck Cambodian society and the Ung family after the Khmer Rouge took over.
+### Tragedy after tragedy struck Cambodian society and the Ung family after the Khmer Rouge took over
 
 Unfortunately, this was only the beginning of their nightmare. The Khmer Rouge forced those who fled the cities to work in rural cities, where their masters took advantage of them. From dawn until dusk, they were forced to do back-breaking work digging, building, and planting.
 
@@ -44,7 +44,7 @@ Soon she began losing members of her family. First her sister, who was taken to 
 
 ## Lesson 3
 
-### Loung Ung’s future is in her hands now because of her generous brother and brave mother.
+### Loung Ung’s future is in her hands now because of her generous brother and brave mother
 
 After the truth of their identity got out, Ung’s mother had to make a terrible decision. Knowing that the regime would soon find and execute the rest of the family, she told Ung and her siblings to flee to different cities. From there they were to say they were orphans, so they couldn’t be traced back.
 
@@ -57,7 +57,5 @@ He felt that because of her young age, she still had a chance at an education an
 ## Review
 
 Oh my gosh, this whole story of *First They Killed My Father* is just awful. These are the parts of history that they didn’t teach me about in school. Part of me wishes they had and another part of me wishes they hadn’t. The big question that I wonder now is how can we prevent terrible things like this from happening?
-
-## Who it’s for
 
 The 56-year-old who has seen *The Killing Fields* and wants to learn more about it, the 33-year-old that is interested in history, and anyone who deals with first world problems that has no idea the horrors that some people experience.

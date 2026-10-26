@@ -20,7 +20,7 @@ Ready to discover what this powerful book has to teach you? Let’s jump right i
 
 ## Lesson 1
 
-### The 20% gap between being satisfied and feeling full could be the difference between losing weight and gaining it.
+### The 20% gap between being satisfied and feeling full could be the difference between losing weight and gaining it
 
 In just the last few decades, the world has seen a radical shift in the notion of what is important. Countries that were formerly poor and now have an emerging middle class are now dealing with expectations from citizens that now want more in life than just food and shelter. This change has meant people now want liberal values such as freedom, fairness, transparency, and property.
 
@@ -32,7 +32,7 @@ We saw this discontent on an even greater scale during the Arab Spring uprisings
 
 ## Lesson 2
 
-### Political power is being shared now more than ever before.
+### Political power is being shared now more than ever before
 
 We can see just how much democracy has spread in the last 50 years when looking at the statistics. In 1947, there were just 67 sovereign states in the world. Today, just the UN has 193 members. In the ‘70s, there were twice as many autocracies as there were democracies. Now, that ratio has been reversed and is four to one.
 
@@ -46,7 +46,7 @@ This increased transparency has meant people are less trusting of politicians, a
 
 ## Lesson 3
 
-### The distribution of power has its benefits and challenges, but we can ride the storms with the right tools.
+### The distribution of power has its benefits and challenges, but we can ride the storms with the right tools
 
 There are both positive and negative side effects of this increased distribution of power. On the positive side, societies are freer. There is more market competition. Voters have more power to express discontent, and ideas can move more freely.
 
@@ -63,7 +63,5 @@ Furthermore, when people shift to more low-effort contributions, like just pushi
 ## Review
 
 *The End of Power* is a cool book and idea! It was really nice to see a different perspective on the typical media narrative that the world is on fire and everything is awful. We really are becoming a more global world and improving many things left and right, which is amazing!
-
-## Who it’s for
 
 The 75-year-old who can’t wrap their head around why the world has changed so much, the 41-year-old social justice warrior who needs some encouragement, and anyone that wants a more accurate picture of the worldwide political atmosphere.

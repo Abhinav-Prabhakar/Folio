@@ -20,7 +20,7 @@ Are you ready to uncover some of the hidden causes of human behavior, good and b
 
 ## Lesson 1
 
-### The amygdala and prefrontal cortex are always battling each other.
+### The amygdala and prefrontal cortex are always battling each other
 
 When it comes to aggressive behavior, two main parts of the brain take part. The first is the amygdala, which is in the cerebral cortex and is the reason for fear and aggression. It identifies threats in a matter of milliseconds and is often inaccurate. The part of the brain that calms feelings of aggression and helps you think rationally is the frontal cortex. It takes a little longer to react, but helps relax what is often an overreaction from our amygdala.
 
@@ -32,7 +32,7 @@ Some scientists think that the reason that some people are racists or violent is
 
 ## Lesson 2
 
-### We may not realize it, but sensory cues around us make us behave in certain ways.
+### We may not realize it, but sensory cues around us make us behave in certain ways
 
 Our five senses constantly send information in the form of sensory cues to our brain. Visual cues, like the faces of strangers, alter our perception and our behavior toward them. The human brain is very attuned to skin color. **An example of this is when images of people’s faces are shown to white people, the amygdala is much more likely to activate if the person shown is of a different race.**
 
@@ -44,7 +44,7 @@ Our immediate social environment also plays a role in our behavior. An example o
 
 ## Lesson 3
 
-### Society and culture influence behavior as well.
+### Society and culture influence behavior as well
 
 It is true that biology and brain chemistry determines a lot of what we do. But there is no denying that some behaviors are socially conditioned. Take Honduras, where murders are 450 times more common than Singapore. Growing up in either of these countries will inevitably impact the way you behave.
 
@@ -57,7 +57,5 @@ This also affects morals. A collectivist culture often holds the greater good ab
 ## Review
 
 *Behave* is fascinating, informative, and eye-opening. It takes on an impressively broad look at how so many different factors, some often overlooked, influence our everyday behavior. Sapolsky goes all-in by looking at every side of the story, from the tiny connections in our brain, to the influence of genetics and evolution that go back for centuries. To me it really feels like this book is the most comprehensive answer you’ll ever get to the question of why we do what we do.
-
-## Who it’s for
 
 The 19-year-old who is considering studying psychology, the 32-year-old teacher who wants to understand why her students behave the way they do, and anyone who is interested in understanding their own mind a little better.

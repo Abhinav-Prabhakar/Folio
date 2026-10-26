@@ -20,7 +20,7 @@ Are you ready for some of the weirdest questions and most interesting science yo
 
 ## Lesson 1
 
-### If the Sun suddenly stopped pumping its light and energy to us, it wouldn’t be all bad, maybe.
+### If the Sun suddenly stopped pumping its light and energy to us, it wouldn’t be all bad, maybe
 
 What are the consequences on Earth if the Sun goes dark without warning? Interestingly, there are actually a few benefits in this situation.
 
@@ -34,7 +34,7 @@ All this sounds like fun and games until you realize that without a Sun everybod
 
 ## Lesson 2
 
-### You probably don’t want to do what would be necessary to eliminate the common cold.
+### You probably don’t want to do what would be necessary to eliminate the common cold
 
 Do you remember the last time a cold kept you home from work or school? Although a day off is nice, having a sore throat and fever is no picnic. Wouldn’t you do whatever was necessary to eliminate the chances of ever getting a cold again? Well, the science doesn’t really check out on this being a good idea.
 
@@ -48,7 +48,7 @@ And practicality takes the cake for why this is a bad idea. Evenly dividing the 
 
 ## Lesson 3
 
-### f you believe in having a random soulmate, chances are you’ll never find love because almost nobody will.
+### f you believe in having a random soulmate, chances are you’ll never find love because almost nobody will
 
 Do you believe that you have a soulmate out there just waiting for you to find them and fall in love? You’re going to want to think again about that idea after learning about the math behind it.
 
@@ -61,7 +61,5 @@ Let’s then say that this was true and society had to change to accommodate the
 ## Review
 
 I got *What If?* as a present a few years ago and it’s been one of my favorite books since. If you’ve got an inquiring mind like I do, you’ll love these scenarios and the science that Munroe uses to answer them. This book is funny, educational, and comes highly recommended!
-
-## Who it’s for
 
 The 34-year-old programmer who likes to ponder hypothetical questions, the 22-year-old college student who thinks that science is boring, and anyone who is curious about how the world works.

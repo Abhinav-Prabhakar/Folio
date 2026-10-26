@@ -24,7 +24,7 @@ Would you like to take a peek into the mind that made A Beautiful Mind? Today’
 
 ## Lesson 1
 
-### A rule of business is that whoever’s the most curious, wins.
+### A rule of business is that whoever’s the most curious, wins
 
 Most people will tell you that business is hard. That it’s competitive. That you have to get your elbows out, toughen up, and try to overtake whoever’s in front of you.
 
@@ -36,7 +36,7 @@ The same holds true for your customers. Who would you rather buy a car from? The
 
 ## Lesson 2
 
-### Everyone loves being asked and answering questions, including your loved ones.
+### Everyone loves being asked and answering questions, including your loved ones
 
 I recently thought about how much I know about my parents’ childhoods. As it turns out, it’s not too much. Sure, I know where they went to school and a couple big milestones, but teenage life is long – there’s so much I still have to ask them!
 
@@ -50,7 +50,7 @@ As in business, so in life: curiosity connects.
 
 ## Lesson 3
 
-### When it’s time to stop asking and start doing, keep a seal on your curiosity.
+### When it’s time to stop asking and start doing, keep a seal on your curiosity
 
 Being curious is a great mode to be in 90% of the time. But sometimes, it’s time to flip the switch and become anti-curious for a while. For example, after Brian Grazer had the idea for the TV show 24 from one of his many curiosity conversations (weekly meetings with professionals from all kinds of fields), he had to switch and commit to now bringing the show to life.
 
@@ -63,7 +63,5 @@ People throw a lot of ideas at me. Features for Four Minute Books, products to c
 ## Review
 
 *A Curious Mind* is a wonderful angle at business and life, if you ask me. It’s predicated on fun, being open-minded and preserving your sense of childhood curiosity. Seems to me like a much more sustainable approach than “work is hard, life is hard, you gotta be tough.” Never stop answering questions. Great book!
-
-## Who it’s for
 
 The 16 year old who has his own Youtube show, but sometimes runs out of new ideas, the 47 year old wife, who feels like her marriage is stuck in a rut, and anyone who loves watching great movies.

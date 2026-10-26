@@ -20,7 +20,7 @@ Ready to take a close look in the mirror? Let’s do it!
 
 ## Lesson 1
 
-### Polyamory means being in love with more than one person.
+### Polyamory means being in love with more than one person
 
 You’ve probably heard of something like an “open relationship” in which both partners are allowed to have sex with other people. However, did you know that there’s also research about being actually in love with multiple people?
 
@@ -32,7 +32,7 @@ According to the movement’s followers, *if* a relationship becomes sexual, the
 
 ## Lesson 2
 
-### Most relationship problems come from your own family and childhood.
+### Most relationship problems come from your own family and childhood
 
 In Attached, Dr. Amir Levine and Rachel Heller describe different attachment styles, reaching from avoidant over secure to anxious. Strauss paints a similar picture.
 
@@ -48,7 +48,7 @@ However, if you’re looking for true love, there’s ultimately only one way to
 
 ## Lesson 3
 
-### Only once you build a healthy relationship with yourself, you can do so with someone else.
+### Only once you build a healthy relationship with yourself, you can do so with someone else
 
 The key to a love addict or love avoider to become secure lies in **building a healthy relationship – with him- or herself**.
 
@@ -72,7 +72,5 @@ Neil seems so much more mature now. I really like that. He’s got a wife. A kid
 Not (just) because of all the sex, parties and models he’s dated, but also because he’s seen rehab clinics, therapists and been through more struggle than most people will ever deal with.
 
 “Don’t live the same year 75 times and call it a life.” is one of my favorite quotes by Robin Sharma. If anyone doesn’t have to worry about that, it’s Neil Strauss and that alone makes reading *The Truth* more than worthwhile.
-
-## Who it’s for
 
 The 29 year old who’s afraid of missing out on an adventurous sex life if he gets married to his high school sweetheart now, the 52 year old divorced single mum, who’s worried that she might end up alone, and anyone who’s had a traumatic childhood.

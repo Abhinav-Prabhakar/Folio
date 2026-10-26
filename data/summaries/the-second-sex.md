@@ -18,7 +18,7 @@ For now, here are three of my favorite lessons from the book:
 
 ## Lesson 1
 
-### “The Other” is a term that emphasizes the differences between men and women in a negative way.
+### “The Other” is a term that emphasizes the differences between men and women in a negative way
 
 Throughout time, many things have always differentiated men and women. It ranges from natural inclinations, biological and psychological traits, and many other aspects that make each gender unique. However, humanity evolved in a way that emphasized men as the prevalent gender, the workforce, and the absolute power. And they left women in the shadows.
 
@@ -28,7 +28,7 @@ All research leads to one common factor: women are complimentary to men. They’
 
 ## Lesson 2
 
-### The transition from a matriarchal society to a patriarchal one happened slowly, and became almost irreversible.
+### The transition from a matriarchal society to a patriarchal one happened slowly, and became almost irreversible
 
 If you go back in time, you’ll see how women often ruled early societies. Or that females had a special place in the world as they were life-givers and thus, almost sacred. As society evolved and expanded, the sense of property started to play a major role in the lives of people.
 
@@ -40,7 +40,7 @@ Needless to say, societies slowly shifted their focus on men, leaving women behi
 
 ## Lesson 3
 
-### Religion and myths about women have increasingly perpetuated the concept of The Other.
+### Religion and myths about women have increasingly perpetuated the concept of The Other
 
 If you look back in history, you’ll notice how religion often played an important role in the lives of people. From day-to-day customs to ideologies and ideas about life, religion shaped plenty of opinions. In regards to women, it was a game changer. Just think of the original story of Adam and Eve.
 
@@ -59,7 +59,5 @@ Starting from religious assumptions to opinion-based science, societal myths, an
 Not only did it prevent them from participating in the social, cultural, and professional environments as men do, but it also affected their confidence and created a huge delay in their evolution.
 
 The author dares to wonder what would’ve happened to the world if women weren’t just “The Other’’ of everything, but equal to men, a question that sparked controversy at the time of the publication.
-
-## Who it’s for
 
 The 35-year-old feminist, the 23-year-old equal rights activist who wants to learn more about the evolution of women in the world, or the 40-year-old sociologist who likes a good lecture about the evolution of societies.

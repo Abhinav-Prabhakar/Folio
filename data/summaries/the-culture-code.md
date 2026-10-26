@@ -18,11 +18,9 @@ From his research, he sees 3 skills at the heart of great teamwork:
 
 We’re all part of countless groups, so let’s crack *The Culture Code* and make sure we do our best in each of them!
 
-### The Culture Code Summary
-
 ## Lesson 1
 
-### Form a safe environment so everyone will let their guard down and cooperate.
+### Form a safe environment so everyone will let their guard down and cooperate
 
 Remote work is on the rise. Already half of all Americans do at least part of their work from home. And while that wouldn’t be possible without modern technology, it’s still remarkable how many people jump on the opportunity if it presents itself. According to Daniel Coyle, it’s simple: our homes are the safest places we know.
 
@@ -34,7 +32,7 @@ Instead, when it’s your turn, share one of your flaws.
 
 ## Lesson 2
 
-### Share your own shortcomings to show people it’s okay to make mistakes.
+### Share your own shortcomings to show people it’s okay to make mistakes
 
 Another researcher, Jeff Polzer, who researches organizational behavior at Harvard, found that when we share our own flaws with others, something amazing happens. **He calls it a vulnerability loop, in which other people detect when we signal vulnerability, thus signal vulnerability too, and thus both parties become closer and trust each other more.**
 
@@ -46,7 +44,7 @@ Speaking of which…
 
 ## Lesson 3
 
-### Build a sense of purpose through a shared goal and a simple way towards it.
+### Build a sense of purpose through a shared goal and a simple way towards it
 
 The last component Coyle ascribes to well-functioning groups is purpose. Put simply, purpose is a set of reasons for doing what you do.
 
@@ -59,7 +57,5 @@ A useful tool to accomplish this is a short, catchy, maybe even cheesy slogan. T
 ## Review
 
 *The Culture Code* brings some fresh perspective to a topic that’s often overcomplicated: how humans can function in groups. You don’t need tons of exercises, motivators, or annual team-building events. Coyle explains why our most basic psychological needs are all we need to address. And he does so with colorful examples from all walks of life. Good one!
-
-## Who it’s for
 
 The 16 year old athlete, who’s got trouble fitting in with his soccer team, the 22 year old student, whose grades depend a lot on her performance in group assignments, and anyone who’s leading a group of people at work.

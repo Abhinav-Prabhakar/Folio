@@ -56,6 +56,4 @@ Dale Carnegie’s people skills were poured into famous writings and then transf
 
 For this reason, *The Sales Advantage* is not just a book about closing sales and pitching your product effectively, but also a lesson about the human nature, words that work, effective communication tactics, and many more valuable life skills that’ll help you outside the retail industry.
 
-## Who it’s for
-
 The 30-year-old salesman who wants to upgrade their pitch, the 40-year-old entrepreneur who wants to improve their people skills, or the 24-year-old driven young adult who is looking to build wealth with their entrepreneurial and sales skills and wants to build on their foundation more.

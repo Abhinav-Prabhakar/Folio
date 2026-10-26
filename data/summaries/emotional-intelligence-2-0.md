@@ -22,7 +22,7 @@ Bothered by anger? Struggling to connect with people? Want more friends? This bo
 
 ## Lesson 1
 
-### Become emotionally intelligent by developing self-awareness, self-management, emotional understanding, and connection skills.
+### Become emotionally intelligent by developing self-awareness, self-management, emotional understanding, and connection skills
 
 If you want to improve your EQ, you need to know there are four basic components. First is self-awareness. This is the ability to understand both your feelings and behaviors. When you are self-aware, you know why you feel a certain way. This means you don’t have to become overwhelmed with your emotions.
 
@@ -36,7 +36,7 @@ For example, if you recognize your co-worker reacts badly to criticism, you can 
 
 ## Lesson 2
 
-### Balance your logical and emotional sides to become excellent at managing yourself.
+### Balance your logical and emotional sides to become excellent at managing yourself
 
 A big part of self-management is learning to balance your logical and emotional sides. One way you can do this is by making an emotion vs. reason list.
 
@@ -50,7 +50,7 @@ Another way to improve your self-management is to let family and friends know wh
 
 ## Lesson 3
 
-### Great communication means saying the same thing with your body that you are with your mouth.
+### Great communication means saying the same thing with your body that you are with your mouth
 
 The author teaches that a core part of EQ is the ability to build maintain strong relationships. One way you can do this is by checking your body language to make sure you aren’t sending mixed signals. Not just your voice but your body and your behavior convey a lot about how you feel, so make sure you’re sending the right signals.
 
@@ -63,7 +63,5 @@ This can be difficult because it’s easy to take feedback as criticism and igno
 ## Review
 
 *Emotional Intelligence 2.0* is a great book! I’ve been hearing this phrase thrown around all over the place these days and was excited to learn what it meant. I think this is something that all leaders, workers, and people in general need to know if they want to have a good career and life!
-
-## Who it’s for
 
 The 33-year-old that has a hard time connecting with other people and wants to fix it, the 59-year-old manager who wants to learn how to work better with their team members, and anyone that wants to know how to manage their emotions and relationships better.

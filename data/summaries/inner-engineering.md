@@ -20,7 +20,7 @@ Now let’s take a closer look at what Sadhguru has to teach us!
 
 ## Lesson 1
 
-### Happiness is realized within, rather than achieved on the outside.
+### Happiness is realized within, rather than achieved on the outside
 
 It is a common practice to try to enhance our happiness or life satisfaction by changing our circumstances. Most people consider it so normal that they struggle to understand at first, what could possibly be wrong with this approach.
 
@@ -28,17 +28,17 @@ If you don’t like your job, change it. Tired of being single? Get on Tinder. I
 
 This is the kind of advice most of us hear all our lives. As a result, we came to believe that we can attain happiness only after we succeed at work, find the perfect partner or look like the model from a magazine cover.
 
-Sadhguru explains that this approach is plain insanity. **He argues thatthe fixation on the outside world is precisely what prevents us from experiencing fulfillment.** Simultaneously, he shows that all perceptions of the external objects and events are actually happening *within* us. And within is precisely where we should begin our search for happiness.
+Sadhguru explains that this approach is plain insanity. **He argues that the fixation on the outside world is precisely what prevents us from experiencing fulfillment.** Simultaneously, he shows that all perceptions of the external objects and events are actually happening *within* us. And within is precisely where we should begin our search for happiness.
 
 Yogic wisdom, he says, can help you generate the exact internal states that you are looking for – regardless of what goes on on the outside. But to master that, you need to get acquainted with some important concepts first.
 
 ## Lesson 2
 
-### Freedom goes hand in hand with responsibility.
+### Freedom goes hand in hand with responsibility
 
 A big chunk of your inner work is connected to assuming personal responsibility for your life experience. But prepare to have your concept of responsibility challenged! Sadhguru’s teachings in this respect may surprise you.
 
-**His notion thatwith more responsibility comes more freedomis something most of us are not used to.** Usually, when we think of a responsible person, we imagine someone who *sacrifices* some of their freedom for the sake of their family, professional career or some other commitment. According to Sadhguru, this is a misguided understanding of responsibility.
+**His notion that with more responsibility comes more freedom is something most of us are not used to.** Usually, when we think of a responsible person, we imagine someone who *sacrifices* some of their freedom for the sake of their family, professional career or some other commitment. According to Sadhguru, this is a misguided understanding of responsibility.
 
 Consider the word itself. *Response-ability* means being capable of responding to life circumstances in a conscious way instead of reacting based on unconscious impulses. This means that, as you increase your self-awareness, your ability to respond increases as well. You realize that there are always choices available and you are *free* to pick the best one of them.
 
@@ -48,11 +48,11 @@ Now that sounds a bit more like freedom, doesn’t it?
 
 ## Lesson 3
 
-### Too much thinking will stand in your way to happiness.
+### Too much thinking will stand in your way to happiness
 
 *Homo sapiens* usually take pride in their intellect. After all, it is largely thanks to our ability to think logically, analyze and synthesize that we managed to build the global civilization in its current shape.
 
-**However,the human mind also has serious limitations that can stand in the way of experiencing life at its fullest.** To illustrate how people often become blinded by and lost in their thinking, Sadhguru recounts an ancient Greek anecdote:
+**However, the human mind also has serious limitations that can stand in the way of experiencing life at its fullest.** To illustrate how people often become blinded by and lost in their thinking, Sadhguru recounts an ancient Greek anecdote:
 
 One day, Aristotle strolled along the beach, lost in thoughts about the nature of life and the Universe. Suddenly, he stumbled upon a man digging a hole in the sand with a small spoon. Feeling curious, he asked what he was doing.
 
@@ -67,7 +67,5 @@ For that, you don’t need intellect all that much. Instead, you should focus on
 ## Review
 
 *Inner Engineering* is a helpful book, regardless of whether you have just started your spiritual search or have some experience in that realm already. Sadhguru introduces inner-growth concepts in a straightforward and refreshing way. He also deconstructs the most popular self-help notions, like “be in the moment” or “think positive,” and points to how such superficial slogans can also put us at a disadvantage.
-
-## Who it’s for
 
 The 27-year-old yoga enthusiast who wants to get to know the ancient tradition beyond just *asanas*, the 35-year-old stay-at-home mom who wants to find more joy in her mundane, everyday activities, and anyone who is passionate about intentional personal growth.

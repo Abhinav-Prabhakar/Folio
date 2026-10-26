@@ -22,7 +22,7 @@ Are you ready for an interesting read that’s going to make you think? Let’s 
 
 ## Lesson 1
 
-### You should take advantage of all your freedoms, even those you don’t realize you have.
+### You should take advantage of all your freedoms, even those you don’t realize you have
 
 As kids, we don’t realize that we learn world views and moral codes that are not our own. But as we grow older, we realize that those who make the rules aren’t perfect, and the things people teach us aren’t indisputable truths.
 
@@ -38,7 +38,7 @@ Lastly, we have the adventurer. She sees that values are subjective, but sees it
 
 ## Lesson 2
 
-### You can never have an entirely neutral perspective, it’s impossible.
+### You can never have an entirely neutral perspective, it’s impossible
 
 Have you ever heard someone say they are giving an “unbiased opinion”? Did you know that this doesn’t actually exist? In philosophy, this is known as “disinterested contemplation.” In theory, you could separate your interests perfectly in your mind, thus being able to form a completely objective opinion on things. Unfortunately, it doesn’t work.
 
@@ -50,7 +50,7 @@ This may not be too big of a deal when it comes to something like criticizing ar
 
 ## Lesson 3
 
-### Real people are more important than abstract ideals, but good luck trying to tell our government that.
+### Real people are more important than abstract ideals, but good luck trying to tell our government that
 
 One of the strategies oppressors use to justify their actions is that they appeal to its usefulness. They may argue that it’s a necessity of achieving a higher value.
 
@@ -63,7 +63,5 @@ For example, when Soviet leaders said their repression and genocide was in the n
 ## Review
 
 What an eye-opening book! *The Ethics Of Ambiguity* had me a little lost at times but after doing a little deep thinking it made more sense. It helps to understand that this was written right after World War II, but that doesn’t make it any less applicable to our day!
-
-## Who it’s for
 
 The 31-year-old activist that’s looking for motivation to make the world a better place, the 48-year-old that loves philosophy, and every politician who thinks that the “economy” is more important than the starving and suffering people all across the world.

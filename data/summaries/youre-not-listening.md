@@ -18,7 +18,7 @@ Are ya ready kids?? I can’t heeeeear you! Just kidding, let’s dive right in!
 
 ## Lesson 1
 
-### Really hearing what others are saying is a rare and valuable skill that will set you apart from the rest of the world.
+### Really hearing what others are saying is a rare and valuable skill that will set you apart from the rest of the world
 
 A while ago I asked a question on Facebook every day. At first, it was an experiment to see how I could better connect with people. I realized that many of these online acquaintances were my real friends and family that I rarely see in person. I wanted to get to know them better rather instead of just posting what I’d had for lunch like everyone else.
 
@@ -32,7 +32,7 @@ That’s why the skill of listening will really set you apart because it will sh
 
 ## Lesson 2
 
-### If you want better communication skills, you need to learn to be curious about people.
+### If you want better communication skills, you need to learn to be curious about people
 
 I love asking people questions about themselves. Everybody’s got a story and each is so unique and interesting. I’ve got my regular list that I ask people that makes it easier. But people really love when I ask follow-up questions that show that I’m listening.
 
@@ -46,7 +46,7 @@ Barry McManus is a CIA interrogator who got a Pakistani nuclear scientist to con
 
 ## Lesson 3
 
-### Learn how to ask the right questions to become a good listener.
+### Learn how to ask the right questions to become a good listener
 
 Boston College’s Charles Derber is a sociologist that says there are two kinds of responses in conversation:
 
@@ -66,7 +66,5 @@ Most people know how to solve their problems, they just need someone to listen t
 ## Review
 
 I always love a good book about communication skills and *You’re Not Listening* didn’t disappoint. It’s not fun to realize that I fall for some of the traps that this book talks about, but I’m glad that I now know how to improve! If you’re looking for ways to connect with people better, you’re really going to love this one!
-
-## Who it’s for
 
 The 35-year-old husband who needs to get better at understanding what his wife truly wants and needs, the 59-year-old manager who wonders why their employees aren’t following company policies, and anyone that wants to improve their conversation skills.

@@ -22,7 +22,7 @@ Would you like to be mentored by Nelson Mandela? Well, this is as close as it ge
 
 ## Lesson 1
 
-### Education holds the key to freedom.
+### Education holds the key to freedom
 
 As I was reading through these blinks, the theme of violence vs. non-violence kept coming up. It probably feels natural to focus on the violent protests and Nelson Mandela’s attitude towards violence as a justified means in desperate times, but if you look beyond those, you’ll see that Nelson Mandela was as committed to education as very few people are.
 
@@ -36,7 +36,7 @@ That is, until he got expelled for supporting a major student boycott two years 
 
 ## Lesson 2
 
-### The only way to be remembered is to learn to challenge authority.
+### The only way to be remembered is to learn to challenge authority
 
 Having learned and developed strong opinions about social injustice as a little child already, while attending tribe meetings with his father, it wasn’t long before Nelson started challenging authority.
 
@@ -52,7 +52,7 @@ By the way, Nelson Mandela’s real, African tribe name was Rolihlahla – which
 
 ## Lesson 3
 
-### The most important time to practice is right after your biggest loss.
+### The most important time to practice is right after your biggest loss
 
 In 1964, after being convicted of high treason for conspiring to violently overthrow the government, Nelson Mandela was sentenced to life in prison. A “lucky” outcome, considering high treason was usually punished with the death sentence at the time.
 
@@ -67,7 +67,5 @@ Over time, the prisoners managed to get their hands on books and magazines too. 
 ## Review
 
 Biographies can be hard to learn from. It’s easy to get sucked into the story but difficult to zoom out and see the high-level lessons. Usually, the book won’t list them. I’m still happy how this one came out, and I hope *Long Walk To Freedom* will make you want to learn more about Nelson Mandela too. There’s even a movie, which looks interesting.
-
-## Who it’s for
 
 The 19-year-old, who stopped reading books after school, because she thinks education sucks, the 22-year-old Master degree graduate, who swam with the current so much he now doesn’t know what to do, and anyone who just had a big setback while working to achieve their dreams.

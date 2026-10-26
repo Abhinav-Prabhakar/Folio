@@ -20,7 +20,7 @@ All you need is love, right? Let’s take a closer look at this phenomenon!
 
 ## Lesson 1
 
-### Serotonin, oxytocin, and opiates are naturally occurring chemicals in the brain that are responsible for feelings of love and attachment.
+### Serotonin, oxytocin, and opiates are naturally occurring chemicals in the brain that are responsible for feelings of love and attachment
 
 We all like to believe that it’s fate, cupid, or some other mysterious force that brings us and our companions together. But taking a closer look, we can explain this phenomenon in scientific terms with what are known as neurotransmitters. Our sense of attachment depends on three specific ones called serotonin, oxytocin, and opiates.
 
@@ -32,7 +32,7 @@ And finally let’s take a look at opiates. When you touch a hot stove, these ar
 
 ## Lesson 2
 
-### The difficulties you may have with emotions come from your upbringing and you can fix this by optimizing your brain through therapy.
+### The difficulties you may have with emotions come from your upbringing and you can fix this by optimizing your brain through therapy
 
 In the brain, our memory connects together to form attractors, which indicate how we should classify the information we receive. Our experiences build these vital components, which directly affect our memories. When we’re born, our minds are clean slates without any attractors. We must have our parents to teach us, but when they lack emotional development, it can affect our capabilities to feel also.
 
@@ -44,7 +44,7 @@ Your attractors form by learning, so they can be broken and re-shaped by modifyi
 
 ## Lesson 3
 
-### Be careful to know the difference between being in love and loving someone, it can save your relationships and make them far better.
+### Be careful to know the difference between being in love and loving someone, it can save your relationships and make them far better
 
 It’s pretty obvious when you’re in love. I remember when I was at this stage with my now wife, it seemed like there was nothing else in the world but her. My grades began to suffer, and I didn’t realize it but I was ignoring almost everyone else in my life. But I didn’t care because I was in love and everything was wonderful.
 
@@ -55,7 +55,5 @@ The key to healthy long-term relationships is the level of emotional connection 
 ## Review
 
 If you love psychology, you’re going to love *A General Theory of Love*! The ideas and principles this teaches about what makes us love and experience other emotions are incredibly intriguing. This book gave me some amazing new insights about why my family and I feel and do certain things, and I’m certain it will do the same for you.
-
-## Who it’s for
 
 The 19-year-old couple who think that they love with each other but might actually be more infatuated with the idea of being in love, the 45-year-old with an interest in neuroscience, and anyone who wants to know what love really is.

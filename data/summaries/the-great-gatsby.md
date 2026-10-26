@@ -16,11 +16,9 @@ Here are 3 lessons from the 3 main characters of the book, Nick, Daisy, and Gats
 
 Let’s explore the plot of one of the greatest novels of all time and learn some life lessons along the way!
 
-### The Great Gatsby Summary
-
 ## Lesson 1
 
-### We are all morally conflicted, and it’s okay to be honest about those conflicts.
+### We are all morally conflicted, and it’s okay to be honest about those conflicts
 
 Throughout the book, Nick seems like an objective, reserved, down-to-earth observer and, for the most part, he is. However, he, too, has his struggles.
 
@@ -32,7 +30,7 @@ None of us are saints. We will all face ethical conundrums at one point or anoth
 
 ## Lesson 2
 
-### Money can solve many problems — but not the most important ones in life.
+### Money can solve many problems — but not the most important ones in life
 
 As he spends time with the people around him, Nick discovers their secrets. One is that Tom Buchanan, Daisy’s husband, has a mistress named Myrtle, whom he even rents an apartment for in the city. Tom also has anger and drinking issues.
 
@@ -46,7 +44,7 @@ Some people go to great lengths to get rich but then find they still feel empty 
 
 ## Lesson 3
 
-### Being yourself won’t get you everything you want, but it will allow you to be at peace.
+### Being yourself won’t get you everything you want, but it will allow you to be at peace
 
 After Daisy chooses Tom over Gatsby, Daisy drives Gatsby’s car and accidentally hits and kills Myrtle. Gatsby covers for Daisy, and even when Nick tells him to give up the ruse and flee, he won’t change his mind.
 

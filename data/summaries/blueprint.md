@@ -20,7 +20,7 @@ Ready to see our species in a new and exciting light? Let’s begin!
 
 ## Lesson 1
 
-### Our species does so well because love and monogamy are part of our social blueprint.
+### Our species does so well because love and monogamy are part of our social blueprint
 
 In Mozambique, Africa, the Tsonga people don’t kiss. They think it’s strange that two people would share saliva and germs. An oddity like this raises the question, what characteristics *are* common in sexual relationships for every culture? The answer is love.
 
@@ -34,7 +34,7 @@ Monogamy is also common today, although this advancement is only recent in homo 
 
 ## Lesson 2
 
-### Friendships come in different shapes and sizes, but they make it easier for us to get through hard times.
+### Friendships come in different shapes and sizes, but they make it easier for us to get through hard times
 
 At the end of 2015, a 15-year-old by the name of Zavien Dobson was murdered while sitting on his porch. But his heroic actions to jump in the way of gunfire from a nearby car saved the lives of his friends. When the author learned of this, he wondered why we love our friends so deeply.
 
@@ -52,7 +52,7 @@ In other words, your chances of survival went up if you had good friends, and th
 
 ## Lesson 3
 
-### Mankind has flourished on Earth even amid its challenges because of our ability to evolve and create cultures.
+### Mankind has flourished on Earth even amid its challenges because of our ability to evolve and create cultures
 
 Our species has made homes in all sorts of areas of the world. Whether it’s the freezing arctic or the arid outback, people are just about everywhere. How did we get so good at surviving? Our capacity to develop culture, which we can thank our evolution for.
 
@@ -67,7 +67,5 @@ Although this is fascinating, it doesn’t identify the reason why civilization 
 ## Review
 
 *Blueprint* is such a fascinating book! I usually think of human behavior in terms of psychology, but this brings the important sociological aspect of our actions to light. It’s nice that amid all the turmoil in the world we have books like this to remind us that, for the most part, humans want to be good.
-
-## Who it’s for
 
 The 22-year-old who is taking a sociology class in college, the 45-year-old that loves to discover interesting new facts about psychology, and anyone that wants some hope for mankind amid all the chaos they see around them.

@@ -20,7 +20,7 @@ Throw out that calculator because after this book you won’t need it anymore! L
 
 ## Lesson 1
 
-### Learn the skills of focused thinking, diffuse thinking, and rest to enhance your ability to understand complex concepts.
+### Learn the skills of focused thinking, diffuse thinking, and rest to enhance your ability to understand complex concepts
 
 Would you consider yourself a big picture person or are you more detail-oriented? My wife and I have this conversation all the time. She’s better at seeing the forest through the trees, while I usually am too concerned about the details to notice much else.
 
@@ -34,7 +34,7 @@ All this talk of thinking might be making you tired, and that’s a good thing! 
 
 ## Lesson 2
 
-### Outcome-based work isn’t as powerful as focusing on and enjoying the process of learning.
+### Outcome-based work isn’t as powerful as focusing on and enjoying the process of learning
 
 A couple of years ago I ran my first marathon. I began training for it months before race day and it was still excruciating. Can you imagine how difficult and painful it would be if I *hadn’t* prepared well in advance?
 
@@ -46,7 +46,7 @@ Unfortunately, many of us find it too easy to procrastinate even starting our ma
 
 ## Lesson 3
 
-### Although you might hate them, tests are important learning experiences.
+### Although you might hate them, tests are important learning experiences
 
 I recently became licensed as a Professional Engineer. As part of the process, I had to take a brutal 8-hour, 80-question exam. It was so tough that it took me two tries to finally pass it!
 
@@ -61,7 +61,5 @@ While rising cortisol levels sound like a bad thing, learning to cope with it im
 ## Review
 
 I could talk about how much I like *A Mind for Numbers* and this subject all day! Not only do I love the idea that anyone can learn math and science, but I especially enjoy figuring out how humans absorb information and how we can do it more efficiently. This is a great book no matter how much you love or hate arithmetic!
-
-## Who it’s for
 
 The 14-year-old student who is trying hard but still failing their algebra class and wants to improve, the 34-year-old parents of children who are learning addition and subtraction in elementary school, and anyone who is interested in improving their math and science skills.

@@ -20,7 +20,7 @@ Whether you’ve been writing, singing, wake-boarding or making music, it’s ti
 
 ## Lesson 1
 
-### Practice in public.
+### Practice in public
 
 All artists initially see their art as something sacred. It’s natural to idolize the process and as a consequence, we want it to have nothing to do with money – at first. But the more you practice and enjoy the time you spend creating, the more attractive the thought of making a living from your art becomes.
 
@@ -34,7 +34,7 @@ Make yourself comfortable on platform where people can follow you and then conti
 
 ## Lesson 2
 
-### Sell without selling out.
+### Sell without selling out
 
 Most art nowadays hands itself to doing freelance work in it. A writer might take a copywriting gig, a musician might play on a birthday party and athletes can work for local sports teams on the side. There are two common pitfalls new artists fall for when taking their first steps in the paid realm:
 
@@ -51,7 +51,7 @@ Keep your art in your hand and your money in your pocket. You’ll never regret 
 
 ## Lesson 3
 
-### Revel in the New Renaissance.
+### Revel in the New Renaissance
 
 All in all, it’s a great time to be an artist. Creators have never had more options to thrive. For example I offer Patreon as an option for fans to contribute however much they want to my work in case they don’t want to buy any of my products, but still show their support. Then, there are affiliate links who generate commissions at no cost to the user, services, one-off products and little side gigs I take up here and there.
 
@@ -64,7 +64,5 @@ Let your artistic intuition take you wherever it leads – and bring your fans w
 ## Review
 
 *Real Artists Don’t Starve* is more of a psychological kick in the pants rather than an actionable how-to book. Deep down many artists still hang on to this notion that art doesn’t warrant payment. Which is nuts. But sometimes, a book like this is a great way to tackle such a limiting belief. If you struggle with impostor syndrome or are just getting started in your creative pursuits, this is a good read.
-
-## Who it’s for
 
 The 16 year old, who likes pottery, but her friends think it’s a weird hobby, the 47 year old partner at a big law firm, who’s always wanted to write a book, and anyone who’s been struggling to make money as a freelancing creative.

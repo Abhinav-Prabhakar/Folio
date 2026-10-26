@@ -22,7 +22,7 @@ Let’s see how you can make your own luck!
 
 ## Lesson 1
 
-### When you’re innovating, persistence is often the most crucial factor in long-term success.
+### When you’re innovating, persistence is often the most crucial factor in long-term success
 
 Luck manifests itself to people who trust their ideas and are persistent.
 
@@ -38,7 +38,7 @@ He kept practicing his own way, getting better and better while other people mad
 
 ## Lesson 2
 
-### Skate to where the puck will be – in order to take opportunities, you need to go where they are.
+### Skate to where the puck will be – in order to take opportunities, you need to go where they are
 
 When asked how he could score so many goals, ice hockey champion and all-time legend Wayne Gretzky always gave the same answer: *“I skate to where the puck will be.”*
 
@@ -52,7 +52,7 @@ We can also learn from young and broke Aristotle Onassis, who couldn’t afford 
 
 ## Lesson 3
 
-### Extend your own power by connecting to that of other people.
+### Extend your own power by connecting to that of other people
 
 To create chance, connections are essential. When you know your luck depends on someone doing something for you, you can ask for their help. What’s more, getting in touch with as many people you will also generate opportunities that you won’t even think of.
 
@@ -69,7 +69,5 @@ Talk to the person next to you on the plane, start meeting people from new netwo
 ## Review
 
 *How Luck Happens* is a must-read for anyone who has felt unlucky in his or her life. Especially if you’re convinced you’ve had fewer opportunities than you deserved. It’s also a great read for those who are tired of trying and want to give up. This book will give you hope and lots of suggestions to create all the conditions needed for luck to manifest itself.
-
-## Who it’s for
 
 The 18-year-old who thinks it’s not worth to try to follow his passion, the 30-year-old who is overworking and neglecting connections, and anyone who’s unsatisfied, buthas never really dared to try a new path.

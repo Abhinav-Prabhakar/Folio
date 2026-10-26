@@ -18,8 +18,6 @@ Here are 3 great lessons about attachment and what it indicates to help you impr
 
 Ready for a relationship? Or already attached? Either way, here we go!
 
-### Attached Summary
-
 ## Lesson 1
 
 ### Attachment is a prerequisite for a healthy and happy life, so everyone needs it (yes, you too!)
@@ -40,7 +38,7 @@ Yes. Yes it is. But this will make it easier.
 
 ## Lesson 2
 
-### Which one are you? The 3 different attachment styles explained.
+### Which one are you? The 3 different attachment styles explained
 
 Rachel Heller and Amir Levine have identified 3 different types of attachment styles, some of which go together better than others. They are:
 
@@ -66,7 +64,7 @@ I bet you’re dying to find out which type you are. You probably already have a
 
 ## Lesson 3
 
-### The best way to guarantee you’ll end up happy in a relationship is to communicate effectively.
+### The best way to guarantee you’ll end up happy in a relationship is to communicate effectively
 
 Wait, so if you’re not the secure attachment type, does that mean you’re doomed? Of course not.
 
@@ -87,7 +85,5 @@ I remember finding out about this book from Tai Lopez a little over a year ago. 
 The cool thing about this book is that even though it’s scientifically grounded, most of it is common sense, when you think about it. Whether you’re in a relationship and want to improve it, or haven’t found the right one yet, this will help you know yourself better, so you’ll know what to do next.
 
 Take the quiz to find out your own attachment style (and your partner’s) and if you like the ideas from the summary, go for the book 🙂
-
-## Who it’s for
 
 The 24 year old, who’s about to marry his high school sweetheart, and starts having second thoughts about whether it’s a relationship for a lifetime, the 37 year old successful single business woman, and anyone who’s had trouble bringing up their problems before.

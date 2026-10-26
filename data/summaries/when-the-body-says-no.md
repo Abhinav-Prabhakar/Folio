@@ -22,7 +22,7 @@ Let’s get right into it and learn how our bodies work under pressure!
 
 ## Lesson 1
 
-### Stress happens when your body perceives a threat, and it affects every system in your body.
+### Stress happens when your body perceives a threat, and it affects every system in your body
 
 Many of us experience stress for a myriad of reasons. We all have the same basic processing system, but what makes a stressor for someone is very individual. For instance, losing a job can be an extremely stressful situation for a person living paycheck-to-paycheck, but for a person with a large amount of savings, maybe it’s not so much. However, at the end of the day, most types of stress are the result of a perceived threat to our survival in some way or another.
 
@@ -34,7 +34,7 @@ One study examining the effects of chronic stress on immune cells called natural
 
 ## Lesson 2
 
-### When you get overwhelmed, your body begins to attack itself.
+### When you get overwhelmed, your body begins to attack itself
 
 Our immune system needs to be kept at a specific balance, and it’s easy for things to go wrong if things are off. Stress can cause your immune system to start harming the tissues it is supposed to defend. This can actually lead to the diagnosis of autoimmune diseases in some cases. Autoimmune diseases happen when the immune system mistakenly attacks the body and damages connective tissue, joints, and organs.
 
@@ -44,7 +44,7 @@ In a study, scientists look at healthy relatives of women who had rheumatoid art
 
 ## Lesson 3
 
-### You can beat stress with negative thinking.
+### You can beat stress with negative thinking
 
 After learning how harmful stress is you may be wondering what you can do about it. Mate teaches we can overcome stress through negative thinking. When he was a palliative caregiver, the author came across many people who didn’t understand why it was they who got cancer. One person wondered why this could happen when he’d always been so positive and not given into pessimistic thoughts.
 
@@ -57,7 +57,5 @@ A study found that melanoma patients who tended to suppress emotions had a highe
 ## Review
 
 I’ve always thought that physiology was fascinating and would have gone into the medical field had it not been for my inability to handle blood in any amount. That’s why I loved *When The Body Says No*, because it’s all the science without the gore! Jokes aside, this is a great book that gives some really useful information about stress, and I think you’ll enjoy it.
-
-## Who it’s for
 
 The 56-year-old who has too many chronic health conditions and doesn’t know what’s going on, the 28-year-old that’s curious about the connection between the mind and the body, and anyone who wants to know more about why stress happens and how to stop it.

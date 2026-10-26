@@ -20,7 +20,7 @@ Ready to take your hacker mentality to the next level? Here we code!
 
 ## Lesson 1
 
-### Nerds are neither interested in fashion, nor morals, because both are seasonal.
+### Nerds are neither interested in fashion, nor morals, because both are seasonal
 
 I never thought to connect these two, so this is interesting.
 
@@ -36,7 +36,7 @@ This is because nerds, according to Graham, are smart people, who don’t bother
 
 ## Lesson 2
 
-### Hackers are much more similar to painters, rather than mathematicians.
+### Hackers are much more similar to painters, rather than mathematicians
 
 Most people imagine hackers as very calculated people, meticulous planners, who are very analytical. At least for *good* hackers, the opposite is true.
 
@@ -71,7 +71,5 @@ A great chair has to be primarily one thing: comfortable. You could build a chai
 ## Review
 
 I imagine reading *Hackers And Painters* when it came out 12 years ago must’ve felt like a revelation. Of course programmer has become a much more conventional career by now, but I think learning to adopt the mentality of what makes a *good* programmer is just as valuable today. It’s timeless. And if you’re a non-coder, this will help you understand programmers and hackers a lot better!
-
-## Who it’s for
 
 The 15 year old computer nerd who’s bullied in school for wearing plain clothes and being socially awkward, the 33 year old who leads a team of programmers at his company, and anyone who thinks hacking is primarily about crime.

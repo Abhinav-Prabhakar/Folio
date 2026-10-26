@@ -20,7 +20,7 @@ Let’s dive right into the risks of giving up freedom!
 
 ## Lesson 1
 
-### Personal freedoms are put at risk by socialism, not enabled by it.
+### Personal freedoms are put at risk by socialism, not enabled by it
 
 The idea behind socialism is that if everybody pools their money and resources and lets a government distribute it then everyone will be better off. It’s proponents taut that it enables freedom and equality. Unfortunately, history proves that these utopian ideas are just too idealistic.
 
@@ -38,7 +38,7 @@ In other words, socialism means the less-intelligent government takes over secto
 
 ## Lesson 2
 
-### In totalitarian socialist systems, corrupt people always end up in control.
+### In totalitarian socialist systems, corrupt people always end up in control
 
 When the author wrote this book in 1944, he argued that awful people would end up in power in a socialist government. Today, we see that even in more democratic systems, awful people still end up in power.
 
@@ -54,7 +54,7 @@ Enforcing an equal distribution of wealth causes such leaders to make decisions 
 
 ## Lesson 3
 
-### The more free a country was in the aftermath of World War II, the more it thrived.
+### The more free a country was in the aftermath of World War II, the more it thrived
 
 These days we have a pretty good idea how much the actual toll of WWII took on the world. Even back in the author’s time, it was clear that it would take a lot of work to rebuild the state of European nations. And it was clear that focusing on individualist ideals rather than collectivist ones was going to be important.
 
@@ -69,7 +69,5 @@ Looking back now, we see that the UK didn’t choose to become socialist. And ju
 ## Review
 
 At first, the ideas in *The Road To Serfdom* felt too complex for me, but toward the end, I realized just how important these ideas are. Although this book is old it brings up a lot of powerful points about the amount of control a government should have. While I think that some political control in the economy might be a good idea, this book taught me that totalitarianism is always going to be an awful thing.
-
-## Who it’s for
 
 The 21-year-old political science major who wants to learn about what people thought of government after World War II, the 58-year-old who loves being politically involved and could use some help to see the dangers of the socialist ways that some of our systems are heading, and anyone that wants to see why they should protect freedom.

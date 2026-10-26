@@ -18,11 +18,9 @@ Here are the 3 that will get you the furthest:
 
 Ready to absorb Mr. Hills mental fertilizer? Here we grow!
 
-### Think And Grow Rich Summary
-
 ## Lesson 1
 
-### Use autosuggestion to build an unshakable belief in yourself.
+### Use autosuggestion to build an unshakable belief in yourself
 
 Autosuggestion is a psychological technique developed in the early 20th century.
 
@@ -40,7 +38,7 @@ But what else can you use this belief that could move mountains for?
 
 ## Lesson 2
 
-### Be stubborn and always stick to your decisions.
+### Be stubborn and always stick to your decisions
 
 Maybe you could use it to become a little hardheaded. In fact, you should.
 
@@ -60,7 +58,7 @@ So be careful who you share your goals with, make it a set of trusted advisors, 
 
 ## Lesson 3
 
-### Join a Mastermind group to accelerate your learning.
+### Join a Mastermind group to accelerate your learning
 
 Yes, this is where this concept comes from and yes, it’s that old.
 
@@ -89,7 +87,5 @@ That’s true, but always keep in mind when the book was published. Imagine bein
 I find it astonishing that you could read this book or the set of blinks for it and know everything you ever need to become successful, as long as you instantly start to execute the ideas in it.
 
 Hats off Mr. Hill, you’ve done a great job at watering all the human plants you found in your lifetime and those of generations to come. *Think And Grow Rich* is a no-brainer, read the summary and insta-order the book – you can thank me later 🙂
-
-## Who it’s for
 
 The 16 year old, who doesn’t get a lot of positive affirmation at home and wants to develop confidence herself, the 47 year old entrepreneur, who runs a successful business, but can’t find himself sticking to decisions, and anyone who’s never been part of a Mastermind session.

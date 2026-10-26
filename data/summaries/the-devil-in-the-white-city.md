@@ -20,7 +20,7 @@ Want to know the fascinating history of Chicago? Let’s go!
 
 ## Lesson 1
 
-### At the end of the 1800s Chicago was full of vice and violence.
+### At the end of the 1800s Chicago was full of vice and violence
 
 As the turn of the century approached, Chicago was a place full of violence and crime. Death was a common occurrence. On average, two people died by trains every day. People also often died in fires because the wooden shanty homes went in flames all too easily, trapping people inside.
 
@@ -32,7 +32,7 @@ Though it was full of unrest, Chicago was also going through much-needed social 
 
 ## Lesson 2
 
-### Burnham had to face many obstacles, but miraculously pulled everything together in time to hold the fair.
+### Burnham had to face many obstacles, but miraculously pulled everything together in time to hold the fair
 
 At the turn of the century, the US lagged behind Europe in terms of cultural charm. In 1889, France hosted the Exposition Universelle, which was a huge and glamorous world’s fair.
 
@@ -46,7 +46,7 @@ They also chose the perfect man to head the job-architect Daniel Burnham. He was
 
 ## Lesson 3
 
-### Although the fair went well, putting such a big event in violent Chicago created the world’s first known serial killer.
+### Although the fair went well, putting such a big event in violent Chicago created the world’s first known serial killer
 
 The fair was a huge hit, going for six months and bringing in millions. It showcased impressive inventions such as the first zipper, the first all-electric kitchen including a dishwasher, caramel popcorn, and the first Ferris Wheel. Inventors Thomas Edison and Nikola Tesla were honored at the fair, and Americans said the first Pledge of Allegiance.
 
@@ -61,7 +61,5 @@ Authorities believed Holmes had murdered somewhere from 20 to 200 people. In 189
 ## Review
 
 What a wild story, I had no idea any of this happened! Chicago seems like an interesting place but I’ve never been. Although maybe after discovering *The Devil In The White City* I might go there someday.
-
-## Who it’s for
 
 The 41-year-old mom who likes true crime stories, the 74-year-old history buff, and anyone that’s curious to know where the idea of the serial killer began.

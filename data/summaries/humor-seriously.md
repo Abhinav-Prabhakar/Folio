@@ -20,11 +20,11 @@ Think you already know these lessons? Think again, because there’s more to the
 
 ## Lesson 1
 
-### Become the most fun-to-be-around version of yourself by choosing which type of humor describes you the best.
+### Become the most fun-to-be-around version of yourself by choosing which type of humor describes you the best
 
 People are funny in their own unique ways. Some like to use dark humor, some like fine sarcasm, and some just love some good old-fashioned jokes. The thing is, all of these people are funny but different. Sticking to the type of humor that suits you best will make you feel comfortable and seem more authentic.
 
-**Essentially, there are four types of humor:*the stand-ups, the magnets, the sweethearts, and the snipers*.** The first type of people are usually into dark humor and they like expressive forms of entertainment, such as roasts, for example. Then, there are *magnets*. These people are into positive and happy jokes.
+**Essentially, there are four types of humor: *the stand-ups, the magnets, the sweethearts, and the snipers*.** The first type of people are usually into dark humor and they like expressive forms of entertainment, such as roasts, for example. Then, there are *magnets*. These people are into positive and happy jokes.
 
 Magnets are naturally funny and they’re fun to be around. Usually, they’re the ones to make the crowds laugh and spread positivity. The *sweethearts*, on the other side, are more on the innocent side. They like to joke around only when the situation permits. They want people to feel good and they would never make an offensive joke.
 
@@ -32,7 +32,7 @@ Lastly, there’s the sniper. This person is sarcastic and aggressive with their
 
 ## Lesson 2
 
-### People relate most to the truth, so stick to it when making jokes.
+### People relate most to the truth, so stick to it when making jokes
 
 According to the authors, the best type of humor is based on truth. Figuring out how to juggle with it and make fun of the things that happen around you is a sure way to entertain people. Oftentimes, the small, day-to-day things that happen to us can turn out to be a great subject to joke about.
 
@@ -44,7 +44,7 @@ Lastly, try to highlight the humor in something that happened in your life or is
 
 ## Lesson 3
 
-### Your humor toolkit should include exaggeration, analogies, and the rule of three.
+### Your humor toolkit should include exaggeration, analogies, and the rule of three
 
 Humor is not that simple, after all. You can’t just tell a joke and expect people to laugh and form a bond with you. The best thing you can do to make sure you get it right is to use a few simple tips and tricks from the authors. The first one is exaggeration. When you tell a story, try to escalate it and surprise the other person.
 
@@ -57,7 +57,5 @@ But how does this rule really work? Well, since our brain is used to patterns, i
 ## Review
 
 Ever thought about how to become funnier, or how to make people listen to your stories with a greater interest? If the answer is yes, then *Humor, Seriously* is the book for you. Not only it teaches its readers practical tips-and-tricks on how to widen the attention span of people and become more authentic and funny, but it also talks about how humor really works from the roots. Anyone reading this book will understand how to use humor in their favor and create more meaningful relationships by becoming a funny, relatable teller.
-
-## Who it’s for
 
 The 20-year-old introvert who wants to form meaningful friendships and become the entertainer of their group, the 30-year-old team leader who wants to create a more informal working environment for their colleagues, or the 25-year-old who wants to become a comedian and is looking for information in this field.

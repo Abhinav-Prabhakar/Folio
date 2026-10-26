@@ -18,7 +18,7 @@ Do you want to learn how to become happier? There is a scientific way behind thi
 
 ## Lesson 1
 
-### Genes play a huge role in our optimism levels, but our thoughts can make or break our happiness.
+### Genes play a huge role in our optimism levels, but our thoughts can make or break our happiness
 
 Our genetic makeup creates a baseline for happiness. Additionally, our DNA determines whether we’re more likely to be more optimistic or pessimistic, for example, and whether we’re more likely to be extroverted or introverted.
 
@@ -32,7 +32,7 @@ The good news is that once you understand how your brain works, you can learn ho
 
 ## Lesson 2
 
-### Certain practices can make you happier—and science proves it.
+### Certain practices can make you happier—and science proves it
 
 Happiness is a subjective experience that can be influenced by external factors, such as the events of your life. Researchers believe that happiness is an internal process, which means it starts with you.
 
@@ -48,7 +48,7 @@ You need to find a balance in your life where you still practice what you love, 
 
 ## Lesson 3
 
-### There is a scientific way to become happier, and it includes a series of activities to pursue.
+### There is a scientific way to become happier, and it includes a series of activities to pursue
 
 Many people think that happiness is a state of mind that can be achieved through positive thinking, but research has shown that it’s more complicated than that.
 
@@ -70,7 +70,5 @@ The next time you feel down, try one of these strategies, and see if you can’t
 Lyubomirsky’s book presents a step-by-step method for increasing one’s level of happiness, including techniques such as gratitude journaling, savoring small pleasures and positive activities and cultivating optimism.
 
 This book provides an excellent overview of happiness research and how it can be used to improve your life. I highly recommend this lecture.
-
-## Who it’s for
 
 The 37-year-old person who feels burnt out and wants to regain joy in their life, the 45-year-old person who is going through a tough period and wants to find their light again, or the 67-year-old retired person who doesn’t know how to relax and feel happy after years of hard work in life.

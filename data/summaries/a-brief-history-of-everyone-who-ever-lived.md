@@ -20,7 +20,7 @@ Are you ready to get a better understanding of what’s in your genes? Let’s g
 
 ## Lesson 1
 
-### Human culture and the environment can affect our genes as they did so for our ancient ancestors.
+### Human culture and the environment can affect our genes as they did so for our ancient ancestors
 
 Did you know changes in human culture can be found in our genes? Take milk, for example. While some people enjoy it on a daily basis, most adults are actually lactose intolerant. Have you ever wondered why?
 
@@ -34,7 +34,7 @@ Dark skin was an adaptation to the sunny weather. We can see that the people who
 
 ## Lesson 2
 
-### Royalty is in the family tree of everyone on earth.
+### Royalty is in the family tree of everyone on earth
 
 If you’re like me, you may have seen your family tree trace back to someone royal, like Charlamagne. Pretty impressive, right? Sorry to burst your bubble, but everyone’s lineage traces back to royalty. And here’s why.
 
@@ -48,7 +48,7 @@ Similarly, Genghis Khan is a common ancestor on all Asian family trees, and Nefe
 
 ## Lesson 3
 
-### We understand a lot more about the human genome after deciphering it in the year 2000.
+### We understand a lot more about the human genome after deciphering it in the year 2000
 
 It was relatively recently, the year 2000, that we were finally able to decipher the human genome. It took eight years to read the 3 billion letters of the human genetic code, and was truly a groundbreaking feat.
 
@@ -61,7 +61,5 @@ Another fascinating discovery was just how complex interactions between our gene
 ## Review
 
 I really liked *A Brief History Of Everyone Who Ever Lived*, and it reminds me a lot of *Sapiens* and *A Crack In Creation*, both of which I read recently. The principles of genetics are always fascinating to me because of how much they tell us about life. This book taught me some interesting principles we can learn from DNA, and I’m sure you will enjoy it.
-
-## Who it’s for
 
 The 57-year-old with a fascination with history and biology, the 22-year-old college student who is thinking about majoring in a field related to genetics, and anyone with an interest in evolution, genes, and DNA.

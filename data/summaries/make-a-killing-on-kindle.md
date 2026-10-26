@@ -20,7 +20,7 @@ Ever wanted to self-publish a book on Amazon? This is your checklist for making 
 
 ## Lesson 1
 
-### Social media and author platforms suck for beginning authors to sell their books.
+### Social media and author platforms suck for beginning authors to sell their books
 
 There’s a million websites out there, claiming to teach you how to make a living selling Kindle books. But because there’s a plethora of self-publishing authors right now (since it’s so easy), marketing your book has replaced actually writing it as the toughest part of making this business work.
 
@@ -39,7 +39,7 @@ But what should you do instead?
 
 ## Lesson 2
 
-### If you screw up your book’s title or cover, it doesn’t matter if the content’s great.
+### If you screw up your book’s title or cover, it doesn’t matter if the content’s great
 
 Well..how about focusing on the very basics first and starting with *not* screwing up your book’s title or cover image (which is something most people get wrong, including myself).
 
@@ -58,7 +58,7 @@ Speaking of eyes, the next thing you see after the title is the cover. **Don’t
 
 ## Lesson 3
 
-### Get a handful of reviews right when you launch it, so Amazon starts to pick it up and promote it for you.
+### Get a handful of reviews right when you launch it, so Amazon starts to pick it up and promote it for you
 
 With a good title and solid cover to make sure people who see the book actually buy it, what remains is to get Amazon to show it to more people.
 
@@ -71,7 +71,5 @@ What you can do is when your book launches, ask friends and family to write 4-5 
 ## Review
 
 *Make A Killing On Kindle* has been updated and revised in a new, 2018 edition. That’s good, because in internet years, something that was published originally in 2012 is already considered old and quite possibly outdated. The principles, however, are still sound regardless. They’re mostly about what makes a book a good book in general, with focus on how specifically this translates to a book on Amazon. Don’t throw a lot of money down the toilet – this book really tells you all you need to get going and publish your first 2-3 books, then you can learn more.
-
-## Who it’s for
 
 The 14 year old top-of-her-English-class student, who loves to write short stories in her spare time, the 39 year old author, who’s sick of getting turned down by publishers and wants to choose himself, and anyone who’s looking for a side hustle to supplement or replace their normal job’s income.

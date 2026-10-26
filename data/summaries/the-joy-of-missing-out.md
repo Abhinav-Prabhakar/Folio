@@ -20,7 +20,7 @@ These lessons look a little stuffy, right? Let’s take them one by one and see 
 
 ## Lesson 1
 
-### Figure out what is most important to you from top to bottom and use your time accordingly.
+### Figure out what is most important to you from top to bottom and use your time accordingly
 
 Let’s start with a universal truth you should always keep in mind from now on: our lives aren’t perfectly balanced. So you shouldn’t try to achieve perfect equilibrium in all areas of interest. Why? Because you cannot dedicate the same time and effort to all of the things going on in your life.
 
@@ -32,7 +32,7 @@ Also, you’d most likely end up not finishing anything at all. That can impact 
 
 ## Lesson 2
 
-### Start living better by developing good, healthy habits.
+### Start living better by developing good, healthy habits
 
 While prioritizing will now seem more relevant to you and you may already have some ideas in mind about how to put your life into a certain order, there’s more to achieving productivity and wellness. The next thing you’ll have to do is develop the right habits.
 
@@ -44,7 +44,7 @@ This remarkable organ already consumes 20% of all our daily calories! Overloadin
 
 ## Lesson 3
 
-### Learn to press pause from time to time and enjoy the little things in your unstructured time.
+### Learn to press pause from time to time and enjoy the little things in your unstructured time
 
 Contrary to common belief, productivity also implies some time off. If you get too caught up in your work and leave no room for whitespace, you’ll become more likely to experience burnout and even deliver lower-quality work. To avoid these issues, find some time to relax and relieve stress throughout your day.
 
@@ -57,7 +57,5 @@ When you decide to take your break, make sure to disconnect completely from your
 ## Review
 
 *The Joy of Missing Out* is a practical guide for all of us who spend too much time being busy, yet see little results compared to the work we do. This book will help anyone who doesn’t know how to set boundaries between their professional and personal life. It offers many easy-to-implement tips that everyone can try right away and see incredible results in the long run in all areas of their life.
-
-## Who it’s for
 
 The 30-year-old who does it all and has no time for himself, the 35-year-old entrepreneur who can’t find the balance between his professional and personal life, or the 24-year-old graduate who just got a job and is looking to improve their time management.

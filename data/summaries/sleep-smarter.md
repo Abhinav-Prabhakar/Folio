@@ -22,7 +22,7 @@ Are you ready to discover the keys to better Zs? Let’s go!
 
 ## Lesson 1
 
-### Light is both the best friend and worst enemy of good sleep.
+### Light is both the best friend and worst enemy of good sleep
 
 When it comes to getting a good night’s sleep, light plays a vital role. To understand the relationship between light and sleep, we need to understand melatonin. It’s the hormone primarily responsible for regulating our circadian rhythm, or the internal clock that helps us know when to sleep. How much melatonin our bodies release depends a lot on the light around us. Less light signals melatonin release, making us sleepy come sundown.
 
@@ -34,7 +34,7 @@ Lastly, avoid those little glowing screens at night. The blue light in electroni
 
 ## Lesson 2
 
-### Get your timing right to make your sleep hours effective.
+### Get your timing right to make your sleep hours effective
 
 If you want to get better rest throughout the week, start respecting your internal clock and keep your bedtime within the same 30 minutes every night. Many of us live in the cycle of not getting much sleep during the week and then catching up and sleeping in over the weekend. This pattern is terrible for our circadian rhythm. Think about it, our bodies won’t know the difference between a work night or the weekend. Going to sleep and waking up at drastically different times all week messes up your natural rhythm.
 
@@ -44,7 +44,7 @@ We have been evolutionarily conditioned to react to light patterns and sleep dur
 
 ## Lesson 3
 
-### The best Zs happen when we turn our bedroom into a sanctuary for sleep.
+### The best Zs happen when we turn our bedroom into a sanctuary for sleep
 
 Lastly, if you’re *really* going to prioritize sleep in your life, ensure your bedroom is a sleep haven. Naturally, our surroundings are a huge influence on the quality of our sleep. A sleep sanctuary should have clean and fresh air and help you feel relaxed. Having house plants in your bedroom helps you achieve this. Studies have shown that seeing and smelling greenery induces both feelings of happiness and calmness.
 
@@ -55,7 +55,5 @@ The final key to building your sleep sanctuary, though, is keeping your work out
 ## Review
 
 *Sleep Smarter* is definitely a book that I would highly recommend! I knew a few of the tips for better sleep already, but some of these were new and exciting. I’m going to buy myself some plants for my bedroom now!
-
-## Who it’s for
 
 The 45-year-old productivity junkie who thinks that it’s not worth their time to get better sleep, the 32-year-old insomniac who is at their wit’s end with terrible sleep, and anyone who wakes up feeling exhausted.

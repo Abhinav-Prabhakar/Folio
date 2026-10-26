@@ -18,11 +18,9 @@ Here are 3 lessons to help you achieve millionaire status:
 
 Would you like to set up your finances so that they run towards your goals on auto-pilot? Then let’s dig into what makes an automatic millionaire!
 
-### The Automatic Millionaire Summary
-
 ## Lesson 1
 
-### The Latte Factor is all you need to get rich over time.
+### The Latte Factor is all you need to get rich over time
 
 As the saying goes, there are a million ways to make a million dollars. And while some might suggest focusing on only a few things, like earning more, killing debt, and investing as much as you can, others make good use of frugality.
 
@@ -36,7 +34,7 @@ As a result, they accumulated about $2 million worth of assets by their early 50
 
 ## Lesson 2
 
-### The first person who deserves your money is yourself.
+### The first person who deserves your money is yourself
 
 One way the McIntyres achieved so much with so little is the idea that no one deserved to get a chunk of their income more than themselves. What does that mean? Well, we all have unavoidable expenses. Bills we must pay. Taxes. And so on. But if we give all these other people and businesses our money first, there’s usually not much left!
 
@@ -48,7 +46,7 @@ Even if these aren’t available, try to set up a system that automatically take
 
 ## Lesson 3
 
-### Use automated payments for disciplined investing without willpower.
+### Use automated payments for disciplined investing without willpower
 
 The good thing about each dollar that never shows up in your regular checking account is that you will neither miss it nor spend it. But why stop there? **Don’t just auto-direct how much you want to save, but send it straight to the right places**. For example, here’s how you could allocate 10% of your income each month:
 
@@ -67,7 +65,5 @@ If you can do it with your money it just might make you rich.
 I used to be frustrated with all this vastly differing advice on personal finance. Now I’m not. I realize there are many ways to manage your money. Which one you choose should not just be based on what your goals are, but also on which method of attaining them makes you feel most comfortable. Some folks are natural savers, others are better at earning more.
 
 If you’ve always been frugal or don’t mind making little sacrifices, *The Automatic Millionaire* could be a great system for you.
-
-## Who it’s for
 
 The 15 year old with a paper route, who can get an incredibly early start to investing, the 33 year old teacher, who wonders if saving is even worth it, and anyone who wants to become a millionaire but can’t take the stress of entrepreneurship.

@@ -63,6 +63,4 @@ Lastly, imaginary values are ordinary things that may look important, but aren�
 
 *Love People, Use Things* teaches its readers about the importance of valuing immaterial things such as living in the moment, loving those around us, engaging in spiritual endeavors, rather than focusing on materialistic things. By talking about consumerism, the philosophy behind impulsive buying, and how faking a perfect life affects us, the book touches on common subjects that speak to all of us. Therefore, when we learn how to let go of all the things that hold us back from living a simple, yet meaningful life, we’ll become free and fulfilled with ourselves, which is the core message of this book.
 
-## Who it’s for
-
 The 45-year-old who has it all, yet feels unfulfilled on a personal level, the 30-year-old person who just quit their job and embarked on a spiritual journey, or the 27-year-old who wants to live a more minimalist life due to financial and spiritual reasons.

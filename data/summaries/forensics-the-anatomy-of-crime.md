@@ -22,7 +22,7 @@ If you’re aspiring to decipher clues in your life like Sherlock, then this is 
 
 ## Lesson 1
 
-### Working from the outside to the inside is a guiding principle of forensics.
+### Working from the outside to the inside is a guiding principle of forensics
 
 Let’s say you light a firecracker on New Year’s Eve, a big one that explodes into lots of pieces with a loud bang. The next day, you have to clean up, and because just collecting dirt and throwing it away isn’t much fun, you decide to try and piece it back together for fun.
 
@@ -36,7 +36,7 @@ Looking at everything that’s on the outside and then slowly working towards th
 
 ## Lesson 2
 
-### The fingerprint system came from Japanese pottery makers.
+### The fingerprint system came from Japanese pottery makers
 
 Alexander Fleming leaving his Petri dish unprotected for two weeks led to the invention of penicillin. Archimedes had his Eureka! moment in the bathtub and found out how to measure the volume of objects. Many of science’s greatest discoveries were originally made by chance, and the now-standard forensic tool of fingerprint identification is no exception.
 
@@ -48,7 +48,7 @@ It took some doing, but after an Argentinian prison started adding fingerprints 
 
 ## Lesson 3
 
-### Thanks to the power of computers, the rate of crimes we solve will keep going up.
+### Thanks to the power of computers, the rate of crimes we solve will keep going up
 
 The power of computers and the internet permeates everything by now, and of course crime investigation benefits from this as well. Some of the hardest cases to crack are missing children, where only one in six is found thanks to someone identifying a photograph. This is because children’s faces aren’t fully formed, which makes them hard to distinguish. If you’ve ever mistaken a young girl for a boy or vice versa, you know what I’m talking about.
 
@@ -61,7 +61,5 @@ Let’s hope that through the aid of computers, the rate of crimes solved will k
 ## Review
 
 If you like crime novels, thriller movies, or just want to get better at figuring out what’s going around you, then *Forensics: The Anatomy Of Crime* is for you. A great related read is *What Every Body Is Saying*. Two thumbs up for this one!
-
-## Who it’s for
 
 The 16 year old, who loves detective stories, the 45 year old stay-at-home mom, who binge reads crime novels in her spare time, and anyone who works in jurisdiction or some type of law-related function.

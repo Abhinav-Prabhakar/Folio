@@ -20,7 +20,7 @@ Lead acid or Lithium ion, it doesn’t matter, by the end of this article, you�
 
 ## Lesson 1
 
-### The pursuit of happiness is our biggest roadblock on the way towards it.
+### The pursuit of happiness is our biggest roadblock on the way towards it
 
 There are many books, movies, and entire cultures built around the pursuit of happiness. It’s what fuels the American Dream (and life in most other Western countries), and while there’s a lot of debate around what it should look like, hardly anyone questions the premise itself:
 
@@ -38,7 +38,7 @@ She might get the extra money, but that not only won’t make her happier, she�
 
 ## Lesson 2
 
-### Hide your phone somewhere out of sight when talking to someone.
+### Hide your phone somewhere out of sight when talking to someone
 
 Have you ever seen two people in a restaurant, sitting opposite each other, each staring at their own smartphone? It’s a nightmare. The only thing that’s worse is when just one person stares at their phone, and leaves the other one hanging.
 
@@ -52,14 +52,14 @@ My phone is dead silent, and I usually put it face down on the table when I’m 
 
 ## Lesson 3
 
-### Make an effort to take 10,000 steps every day, starting today.
+### Make an effort to take 10,000 steps every day, starting today
 
 Here’s a crazy fact: **You sit more than you sleep**. On average, people sit for 9.3 hours a day, while sleeping only for 7.7. According to Tom Rath, this is what happens when you sit for extended periods of time:
 
 - The nerves in your legs stop working and shut down.
 - Your calorie burning rate drops to one calorie per minute.
 - The number of enzymes, which break down fat in your body, drops by 90%.
-- Your good cholesterol (HDL, **H** igh- **D** ensity **L** ipoprotein) drops by 10% every hour.
+- Your good cholesterol (HDL, **H**igh-**D**ensity **L**ipoprotein) drops by 10% every hour.
 
 Here’s how to avoid all of this: **take 10,000 steps every day.**
 
@@ -74,7 +74,5 @@ You can do this!
 ## Review
 
 I love that Tom doesn’t compartmentalize life into certain buckets, because fixing just one thing about yourself is never the solution. The only thing I can critique about *Are You Fully Charged* is promoting a fairly specific diet instead of telling you to find out what works for you. Other than that, everything he does is very focused on giving you principles, which you can then decide how to turn into action for yourself. Consider me a fan!
-
-## Who it’s for
 
 The 32 year old consultant on his race towards his next pay raise, the 54 year old mum, who’s fascinated with her discovery of Instagram and can’t put her phone down, and anyone who spends most of their weekend walking from the couch to the fridge and back.

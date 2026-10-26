@@ -52,7 +52,7 @@ Don’t let the world suspend your momentum. Value every second, because you don
 
 ## Lesson 3
 
-### Write down “So that…” statements to stay motivated.
+### Write down “So that…” statements to stay motivated
 
 We’re talking a lot about “Why?” here at Four Minute Books. It’s one of the most important words ever, I think, and the first thing I ask in almost any situation. But even if you lay out your why very clearly before taking on a new goal, it often fades over time and you slowly lose the connection to why you’re doing things, especially when it comes to small, boring tasks that just have to get done.
 
@@ -63,7 +63,5 @@ You can **write down a handful of these and put them up in places you see every 
 ## Review
 
 *Your Best Just Got Better* is a really cool “look and pick” book, giving you many options for techniques to try. Which ones you end up implementing into your life is up to you. Take a look at them all, integrate what works, make up your own system and leave the rest. Very helpful!
-
-## Who it’s for
 
 The 20 year old student, who’s started a really cool side project, but knows she’s not taking it seriously enough for it to work out, the 42 year old with a great job, but a weird feeling before going to bed, that he’s not 100% happy, and anyone who’s not really sure why they’re checking off their daily to-dos.

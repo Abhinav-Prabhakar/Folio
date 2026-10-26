@@ -18,11 +18,9 @@ Here are 3 lessons to show you why mental health is down across the globe — an
 
 Let’s dig in!
 
-### The Anxious Generation Summary
-
 ## Lesson 1
 
-### Our children’s mental health is endangered by 4 foundational harms.
+### Our children’s mental health is endangered by 4 foundational harms
 
 Let’s say your child signed up to be one of the first humans to live on Mars. As you learn about the space company, you realize they only want test subjects and don’t care about safety at all. Would you let them take your child? Of course not!
 
@@ -46,7 +44,7 @@ How can we address these harms and create healthier, more grounded lives? Haidt 
 
 ## Lesson 2
 
-### If we enact 4 foundational reforms, we can significantly improve the mental health of our young.
+### If we enact 4 foundational reforms, we can significantly improve the mental health of our young
 
 In the book’s 2nd half, Haidt discusses what governments, schools, and parents can do to provide healthy childhoods. He calls out 4 “foundational reforms” to combat the 4 foundational harms:
 
@@ -61,7 +59,7 @@ Laws and education must change, but those are slow to evolve. Thankfully, we lar
 
 ## Lesson 3
 
-### Use 6 spiritual practices to restore and strengthen both your and your kids’ mental health.
+### Use 6 spiritual practices to restore and strengthen both your and your kids’ mental health
 
 Haidt also offers 6 spiritual practices we can use — even as adults — to lift ourselves out of the smartphone-swamp. “When people see morally beautiful actions, they feel elevated on a vertical dimension that can be labeled divinity,” he writes.
 
@@ -79,7 +77,5 @@ Here are 6 practices that lead to more such “beautiful actions:”
 ## Review
 
 *The Anxious Generation* is a must-read for any current or future parent. Haidt roots his analysis in strong data and makes a compelling case. Pro tip: Follow this one up with his classic *The Happiness Hypothesis* for a roadmap to true happiness after your (and your children’s) mental health is fully on track!
-
-## Who it’s for
 
 The 28-year-old school teacher who already feels disillusioned with her line of work just a few years into the job, the 35-year-old new dad who is overwhelmed by the world his son will grow up in, and anyone who knows they spend too much time on their phone.

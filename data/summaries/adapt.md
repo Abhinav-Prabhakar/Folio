@@ -18,7 +18,7 @@ But what do these lessons really mean?
 
 ## Lesson 1
 
-### Expectation beats disappointment when forecasts go wrong.
+### Expectation beats disappointment when forecasts go wrong
 
 A study conducted by economist Paul Ormerod states that the extinction rate of companies and species are quite similar over a time frame of 500 million years. Who could’ve predicted that?
 
@@ -30,7 +30,7 @@ Harford suggests that we should consider failure a natural part of any process o
 
 ## Lesson 2
 
-### Bureaucracy and authority hold back innovation processes.
+### Bureaucracy and authority hold back innovation processes
 
 Most of the time, organizations and leaders feel like they have more control over a problem than they actually do. This feeling of false know-how combined with formal authority often empowers them. Therefore, they make utopic decisions under the impression of total control.
 
@@ -42,13 +42,13 @@ Another example is the Gulf War in Iraq. A general on the battlefield suggested 
 
 ## Lesson 3
 
-### Gifting prizes or awards can boost innovation and critical thinking.
+### Gifting prizes or awards can boost innovation and critical thinking
 
 Innovation relies heavily on creativity and critical thinking. Therefore, we have to find ways to harness the creative process, brainstorming, and reasoning skills. We’ve seen how organizations often fail to do so due to high levels of centralization and bureaucracy. Now, let’s see how to achieve the opposite!
 
 Hartford suggests that if you want to enhance innovation, there are two ways to do this. The first one is *patenting.* By giving monopoly over an idea to the one that came up with it, you encourage that person and the people around them to be more innovative. Why? Because through a patent they can benefit personally from it.
 
-Another way to stimulate innovation is by *awarding* *goal-oriented prizes*. Not only will they be a source of praise for the researchers and their results, but they will also enhance competition and the discovery of new findings. Usually, the most effective innovation boosters are money prizes, research-specific awards, or titles.
+Another way to stimulate innovation is by *awarding goal-oriented prizes*. Not only will they be a source of praise for the researchers and their results, but they will also enhance competition and the discovery of new findings. Usually, the most effective innovation boosters are money prizes, research-specific awards, or titles.
 
 **Creativity lays the foundation for development. The world we currently live in is the result of many creative processes and innovations.** Therefore, we have to harness, nurture and protect all processes that have the potential to become discoveries, as they are the engine that drives our world towards better things.
 
@@ -61,7 +61,5 @@ Tim Harford introduces the reader to a series of surprising concepts, focusing s
 He addresses some key matters humanity is finding hard to overcome, such as climate change, poverty, financial crisis, or innovative processes.
 
 This book reveals essential lessons, suitable for any type of reader, as he confronts universal problems that we struggle with every day. The paper is a guide for thriving in our ever-changing world.
-
-## Who it’s for
 
 The 30-year old who wants to explore universal reads and learn about earthly concerns, the philosophy or psychology student who wants to gain a deeper understanding of their topics of interest, or anyone who wants to learn how to overcome failure.

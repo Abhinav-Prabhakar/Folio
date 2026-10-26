@@ -36,7 +36,7 @@ Since all of them experience exactly the same weather conditions, the explanatio
 
 ## Lesson 2
 
-### Trees hugely depend on community life for growth and survival.
+### Trees hugely depend on community life for growth and survival
 
 Although it may seem like it, trees aren’t loners. Actually, just the opposite is true – most of them evolved to be committed, team players. They each care a whole lot about their fellows in the forest.
 
@@ -52,7 +52,7 @@ How awesome is that?
 
 ## Lesson 3
 
-### Trees can teach us a lot about cooperation and solidarity.
+### Trees can teach us a lot about cooperation and solidarity
 
 At this point you may be wondering: but why would a tree do that? Why would it share its own food with the neighbor, risking that there may not be enough left for itself? Are trees altruists that care for the well-being of others more than for their own?
 
@@ -69,7 +69,5 @@ Maybe by observing the hidden life of the trees, we can get inspired to bring mo
 ## Review
 
 *The Hidden Life of Trees* really changed my perception – not only of trees but of the natural world as a whole. We often assume that if an organism can’t talk and walk, it’s as if it wasn’t living at all. This book will show you that trees are a form of life just as valid as the human one – and therefore, deserving of respect.
-
-## Who it’s for
 
 The 30-year-old hiking enthusiast who wants to find a deeper sense of connection with Nature, the 50-year-old local state officer who cares about establishing sustainable policies in their region, and anyone interested in environmental protection.

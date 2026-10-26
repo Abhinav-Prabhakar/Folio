@@ -18,7 +18,7 @@ Ready to investigate and uncover your inner, ingrained language learner? Let’s
 
 ## Lesson 1
 
-### The poverty of stimulus explains why children can use grammar without ever studying it.
+### The poverty of stimulus explains why children can use grammar without ever studying it
 
 When you’re studying computer science and programming languages on a deeper level, for example in college, you’re bound to run into a guy named Noam Chomsky. He’s one of the world’s leading linguists, sometimes even called “the father of modern linguistics” and has written over 100 books, many of them about this topic.
 
@@ -32,7 +32,7 @@ Yet they still apply the right rules at the right time. For example, even deaf c
 
 ## Lesson 2
 
-### All languages are based on the same two core principles.
+### All languages are based on the same two core principles
 
 How come we can talk so effortlessly to one another? What is it about language that makes it so easy to communicate with it? According to Steven Pinker, there are two forces at play here:
 
@@ -47,7 +47,7 @@ This is a good thing, because it keeps us from trying to decipher what the word 
 
 ## Lesson 3
 
-### Don’t stress about grammar. Its importance is relative.
+### Don’t stress about grammar. Its importance is relative
 
 So yes, grammar is a crucial part of language, and it pays to know it well. However, while you’d be punished horribly in school in the 1920s for bad grammar, today it’s not such a big deal, mainly because grammar rules are only one type of rules that determine how well you use language.
 
@@ -62,7 +62,5 @@ You can be very much descriptively correct with your grammar, while being wrong 
 ## Review
 
 Some of the arguments *The Language Instinct* makes are very controversial, which is what makes it such a good book, but also one you have to think a lot about. I’m a big fan of learning more about the most basic principles that guide our everyday life. Language is one of them for sure, so thumbs up for this one.
-
-## Who it’s for
 
 The 13 year old, who really hates her Spanish class, the 34 year old young professional, who avoids writing reports, because he’s ashamed of his bad grammar, and anyone who wants to learn a new language long after they’ve finished school.

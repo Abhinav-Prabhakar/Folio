@@ -20,7 +20,7 @@ Let’s jump right in and see how much we can learn!
 
 ## Lesson 1
 
-### Dealing with your traumas is harder if you try to be too optimistic about them.
+### Dealing with your traumas is harder if you try to be too optimistic about them
 
 People who experience pain will often do things that numb it rather than face it. Some people might choose drugs, alcohol, or casual sex. Other people try to cover up the pain by being overly positive, so they can convince themselves they are okay.
 
@@ -34,7 +34,7 @@ In avoiding forgiving her husband, she wasn’t allowing herself to move on. Onl
 
 ## Lesson 2
 
-### Collect, connect, and correct the dots of your past if you want to receive the healing power of forgiveness.
+### Collect, connect, and correct the dots of your past if you want to receive the healing power of forgiveness
 
 To start your learning process, forgive, and let go; first, you need to do what the author’s therapist called *collecting the dots*. This means looking back at the things in your past that shape your views now.
 
@@ -52,7 +52,7 @@ After this, she would ask what a healthy version of herself would be empowered t
 
 ## Lesson 3
 
-### Forgiveness doesn’t happen in one moment. It takes time.
+### Forgiveness doesn’t happen in one moment. It takes time
 
 Have you ever heard anyone say that forgiveness isn’t a destination but a process? TerKeurst believes this. Often we will be doing pretty well, but when we’re triggered, pain can come flooding back to the surface.
 
@@ -69,7 +69,5 @@ She reassures us that all of this is just part of the forgiveness process. There
 ## Review
 
 Whoa, I’m blown away by *Forgiving What You Can’t Forget*. It’s an amazing book that goes far beyond your typical advice about trauma and forgiveness. I’m excited to start using these principles, and I feel confident that they’ll work for me and for you too!
-
-## Who it’s for
 
 The 31-year-old with mental health issues who can’t seem to let go of her past, the 69-year-old that’s going through a divorce, struggles with the pain, and anyone who wants to find healing in forgiveness.

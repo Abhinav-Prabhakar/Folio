@@ -26,7 +26,7 @@ Ready to learn more about launching a social business? Let’s see how you can w
 
 ## Lesson 1
 
-### Face the fears that prevent you from experimenting with involvement in big projects.
+### Face the fears that prevent you from experimenting with involvement in big projects
 
 Many people would like to start their own business but most of them give up without even trying because it seems too risky.
 
@@ -46,9 +46,9 @@ As Franklin D. Roosevelt said:
 
 ## Lesson 2
 
-### Do one thing the best you can and be creative and flexible to accomplish much with little money.
+### Do one thing the best you can and be creative and flexible to accomplish much with little money
 
-**When you start a business, simplicity is crucialand should be applied to every aspect of your work.**
+**When you start a business, simplicity is crucial and should be applied to every aspect of your work.**
 
 First, choose the one thing you want to do and do it the best you can. This will allow you to work efficiently and save money, but it might also help you to find investors. In fact, they are more likely to understand and appreciate a simple business model than a complicated one.
 
@@ -66,7 +66,7 @@ The fewer resources you have, the more resourceful you need to be!
 
 ## Lesson 3
 
-### Marketing a product means telling a story that will turn your customers into fans.
+### Marketing a product means telling a story that will turn your customers into fans
 
 When the company still had a few retailers, celebrities like Scarlett Johnson began wearing TOMS, helping them spread. Once, the author ran into an unknown woman wearing a pair of them who told him enthusiastically about the whole project.
 
@@ -87,7 +87,5 @@ As the author says:
 ## Review
 
 *Start Something That Matters* proposes social business as an alternative to charity – sometimes even more efficient – for fighting the world’s problems. Also, most of the author’s suggestions can be read as universal principles and can enhance your results – and well being – in any area of life.
-
-## Who it’s for
 
 The 25-year-old who has never considered starting a business on his own, the 35-year-old employee tired of his job but afraid of changing, and anyone who has a dream but doesn’t even try to realize it.

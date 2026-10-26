@@ -16,7 +16,7 @@ Without further ado, let’s talk about the three most important lessons from th
 
 ## Lesson 1
 
-### Recurrent buyers are responsible for the majority of your profits, so taking in their feedback is a must.
+### Recurrent buyers are responsible for the majority of your profits, so taking in their feedback is a must
 
 Attracting new customers is a difficult road to take, but there are better options out there once you have a stable customer base: retaining them. The book suggests that by keeping even a small percentage of your customers loyal to you, profits can grow as much as 85% – now that’s a great business strategy!
 
@@ -28,7 +28,7 @@ What’s also particularly important is to embrace negative feedback, instead of
 
 ## Lesson 2
 
-### Use the H.O.U.R.S. method to address complaints and negative feedback.
+### Use the H.O.U.R.S. method to address complaints and negative feedback
 
 Now that we’ve understood the importance of accepting negative feedback and treating it as valuable input for your company, let’s go through some of the ways you can use it to address these complaints and concerns.
 
@@ -44,7 +44,7 @@ Compile these solutions into a fully integrated method by discussing with your t
 
 ## Lesson 3
 
-### If you want to win the hearts of your customers again, use the F.E.A.R. method.
+### If you want to win the hearts of your customers again, use the F.E.A.R. method
 
 Customers want to know that you’re willing to make sacrifices for their sake. By taking on the responsibility of improving their satisfaction, you’ll be showing them that they’re worth your time, which can make all the difference between a world-class experience and just another day at the office.
 
@@ -65,7 +65,5 @@ Lastly, it’s best to keep an open eye on all reviews and be present when it co
 The methods outlined in this book can help shape your thinking when it comes to dealing with customer feedback, both online and offline.
 
 Bookmark this summary and remember our three simple steps before you give up too quickly. You might just find that *Hug Your Haters* is the nudge you need to begin improving your customer service.
-
-## Who it’s for
 
 The 30-year-old small business owner who wants to improve customer retention, the 40-year-old hospitality manager who wants to enhance their customer service in the company, or the 23-year-old person who’s working in

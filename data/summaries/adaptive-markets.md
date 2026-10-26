@@ -18,7 +18,7 @@ After this one you’ll be all ready to invest your money and make great returns
 
 ## Lesson 1
 
-### The Efficient Market Hypothesis says that a company’s stock price is an indication of its health.
+### The Efficient Market Hypothesis says that a company’s stock price is an indication of its health
 
 You’re probably wondering how the markets work in the first place, right? One key element is the Efficient Market Hypothesis, which is the prevailing theory explaining the mechanisms of the market.
 
@@ -34,7 +34,7 @@ Just like natural selection, competition and innovation make for an ever-changin
 
 ## Lesson 2
 
-### Survival of the richest is the force by which businesses make improvements that help make the world a better place.
+### Survival of the richest is the force by which businesses make improvements that help make the world a better place
 
 You know about natural selection and the phrase “survival of the fittest” that describes it. This theory says that only species with the best traits for survival will continue on. These characteristics also begin to show up more often.
 
@@ -46,7 +46,7 @@ Although firms still operate with a lot of secrecy, we still see this same patte
 
 ## Lesson 3
 
-### If you want to invest in the stock market but feel lost, just use these theories to guide you.
+### If you want to invest in the stock market but feel lost, just use these theories to guide you
 
 Because we know that the Efficient Market Hypothesis works well, we can conclude that stock prices reflect a company’s true value. Another word for this is equilibrium. While prices move up and down occasionally, overall the market wants to be at this state of stability. It’s this fact that lets us trust in long-term investments as a way to make good money from the stock market.
 
@@ -59,7 +59,5 @@ If you watch wisely and get good advice from advisers, you can know when to get 
 ## Review
 
 *Adaptive Markets* is an excellent book. I love the analogy that the market is more like a living organism than a physics or math equation. If you know about compound interest and want to take advantage of it but feel lost about how to do so, you should read this book.
-
-## Who it’s for
 
 The 22-year-old economics student who wants a better understanding about the flow of the system, the 54-year-old with a lot of money in stocks that isn’t sure how to proceed with them, and anyone who wants to learn the science of money.

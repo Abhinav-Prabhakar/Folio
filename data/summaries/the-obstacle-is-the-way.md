@@ -16,11 +16,9 @@ Here are 3 great lessons that will help you follow in Seneca’s footsteps:
 
 Ready for some resilience? Let’s go!
 
-### The Obstacle Is The Way Summary
-
 ## Lesson 1
 
-### Imagine you’re advising yourself as a friend to keep an objective perspective.
+### Imagine you’re advising yourself as a friend to keep an objective perspective
 
 Have you ever wondered why the solutions to our friends’ problems are sometimes so obvious to us, yet they can’t see them? “Dude, if you can’t pass that test, just take a crash course like you did with your driver’s license, remember?”
 
@@ -52,7 +50,7 @@ All obstacles have weaknesses – you just have to look for them!
 
 ## Lesson 3
 
-### Your will is best used to accept the things you cannot change and change the things you can.
+### Your will is best used to accept the things you cannot change and change the things you can
 
 Once you have the right perspective and know which actions you should take, getting past your obstacle is a matter of will. Your will enables you to stay persistent and not give up before you eventually find the solution and can move past your problem.
 
@@ -69,7 +67,5 @@ Whatever you can’t change is not yours to complain about.
 Maybe it’s because this sort of philosophy speaks more to introverts, like me, but I love *Stoicism*. It provides such a great balance to the YOLO-ish, hedonic society we live in today, which is all about clicks, bite-sized videos that barely cover our 8-second attention span, and finding the next purchase to satisfy our consumption cravings for a week at best.
 
 Ryan’s take on this ancient philosophy is refreshing, because in *The Obstacle Is The Way*, he draws on a wide range of individuals, mixing the history with the present and evergreen advice with contemporary tips. Many of the examples have made it into the summary on Blinkist as well, so if you’re unfamiliar with Stoicism, I recommend you use that as a starting point and take it from there. Some other good introductory reads on the topic are *Lives of the Stoics* (also by Ryan Holiday), and *How to Be a Stoic*.
-
-## Who it’s for
 
 The 25 year old, who grabs more than he can handle (aka me) and could use some patience, the 49 year old, self-employed creative, who spends a lot of time worrying about how her next project will be received, and anyone who’s never heard of Seneca

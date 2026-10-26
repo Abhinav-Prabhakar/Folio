@@ -38,7 +38,7 @@ So you have a crazy idea, and the will to take action, but what now?
 
 ## Lesson 2
 
-### If your quest seems too big, just adjust your life to make it fit.
+### If your quest seems too big, just adjust your life to make it fit
 
 Yeah, I know, you can’t become a race car driver tomorrow, but there is always something you can do.
 
@@ -62,7 +62,7 @@ Where there’s a will, there’s a way.
 
 ## Lesson 3
 
-### Your quest is a reward in itself, which will give your life a purpose.
+### Your quest is a reward in itself, which will give your life a purpose
 
 Now I know what your next objection will be: If I have to play it small, will that really fulfill me?
 
@@ -97,7 +97,5 @@ I’m kicking myself for still not reading the full book, the preview and summar
 When reflecting I realized that Four Minute Books is my quest for 2016 and boy, am I having fun.
 
 I’m grateful for this reminder, and if you haven’t found your own quest yet, I highly recommend you start taking a serious look at Chris’s stuff 🙂
-
-## Who it’s for
 
 The 14 year old teen, who knows her calling in life already, but is not sure on whether to pursue it, the 32 year old, who’s settled well into his job, and wants to give his life a sense of adventure, and anyone who thinks their goal is too big.

@@ -56,6 +56,4 @@ How to Talk to Anyone, Anytime, Anywhere talks about the importance of getting y
 
 The book presents tactics that can help you tap into your highest charisma, enhance communication overall, address extroverts and introverts altogether, and start a conversation from scratch. This book is inspired by Dale Carnegie’s long life learnings, yet has a strong touch of Larry King’s wisdom and personal fingerprint.
 
-## Who it’s for
-
 The 30-year-old introvert who wants to start communicating more effectively, the 35-year-old team leader who is looking to improve their communication and express their ideas more clearly, or the 25-year-old who wants to become a public speaker and is looking to improve their social skills.

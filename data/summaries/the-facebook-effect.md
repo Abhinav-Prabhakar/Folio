@@ -20,7 +20,7 @@ Are you ready to witness the full power of the Facebook effect? Here we go!
 
 ## Lesson 1
 
-### Facebook came to the exact right place at the exact right time.
+### Facebook came to the exact right place at the exact right time
 
 The difference between a million-dollar company and a billion-dollar company is often as little as a few months time or a few thousand miles of distance.
 
@@ -36,7 +36,7 @@ Also, being at Harvard he had access to some of the world’s brightest minds, w
 
 ## Lesson 2
 
-### If you’re into politics, then Facebook is a great place to hang out at and make yourself heard.
+### If you’re into politics, then Facebook is a great place to hang out at and make yourself heard
 
 You can easily tell that Facebook is really politics-content-driven by opening your newsfeed any time between August and November every four years (like this year) – all you’ll see are posts about presidential candidates (and with Trump it’s particularly bad this year).
 
@@ -48,7 +48,7 @@ And looking back at Hillary vs. Trump, it’s been clear ever since Obama won �
 
 ## Lesson 3
 
-### Our views on privacy are changing thanks to Facebook, and they have to.
+### Our views on privacy are changing thanks to Facebook, and they have to
 
 Let’s say you’re suddenly in charge of hiring an intern. After a few days, you have a stack of resumés on your desk. What’s the first thing you do (after looking at the picture, if there is one, of course)?
 
@@ -65,7 +65,5 @@ Zuckerberg’s big bet on this is that **we will change what is considered norma
 ## Review
 
 I think learning about the history of Facebook has long gone past just being interested in startups. It’s crucial for anyone to understand who’s on the platform – and that’s almost everyone. *The Facebook Effect* is a good account of it and the implications it has for society (and a nice counter-balance to the movie *The Social Network*, which has often been criticized for being too harsh, but good nonetheless).
-
-## Who it’s for
 
 The 20 year old college sophomore, who’s tinkering with apps in his spare time, the 34 year old junior high teacher, who’s looking for a way to teach her children about the web, and anyone who’s shared something political on Facebook before.

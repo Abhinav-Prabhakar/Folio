@@ -22,7 +22,7 @@ Now, let’s take each lesson one by one and analyze them in detail. Ready? Here
 
 ## Lesson 1
 
-### Humans have a tendency to discredit everything that doesn’t support their opinion and take credit only for success.
+### Humans have a tendency to discredit everything that doesn’t support their opinion and take credit only for success
 
 In general, people tend to look for ways to support their beliefs or values, even though they may be wrong or inaccurate. We are naturally inclined to look for information. This is to back up our beliefs. This is what the confirmation bias stated.
 
@@ -34,7 +34,7 @@ Although these biases are impossible to overcome fully, acknowledging them and d
 
 ## Lesson 2
 
-### People are naturally inclined to prefer the status quo, but that can be harmful to the future.
+### People are naturally inclined to prefer the status quo, but that can be harmful to the future
 
 As humans, we have a tendency to react negatively to change and maintain the status quo. This happens because we are program to preserve energy. The losses from potential change count more than the success from potential gains.
 
@@ -46,7 +46,7 @@ This bias has a huge impact on our decision-making process. You can fall prey to
 
 ## Lesson 3
 
-### Applying the Pareto principle will help you make smarter decisions in your life.
+### Applying the Pareto principle will help you make smarter decisions in your life
 
 Italian economist Vilfredo Pareto came up with a brilliant discovery: a minority of the things we do count for the majority of the results. More specifically, 80% of an outcome comes from 20% of the cause. This principle serves as a benchmark for governments analyzing wealth or population distribution. This can be applicable to businesses analyzing their revenue sources, and even individuals in their daily activities.
 
@@ -59,7 +59,5 @@ When you learn to use this principle as a guideline for your actions, you will n
 ## Review
 
 This book is a hands-on guide to making smarter decisions. It can improve your way of thinking, and achieve overall enhanced results in your undertakings. Patrik Edblad offers practical advice on how to get rid of flawed thinking traits. As well as cognitive biases through simple, easy-to-implement tactics. Following the guidelines from *The Decision Making Blueprint* and sticking to them rigorously will have a positive long-lasting effect on your life and on how you form relationships with those around you.
-
-## Who it’s for
 
 The 30-year-old wanted to improve their professional and personal life, the 22-year-old wants to start making better decisions after finishing college, and the 45-year-old employee feels stuck at their job and wants to turn their life around.

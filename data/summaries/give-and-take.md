@@ -20,7 +20,7 @@ If you want to (like me) build an empire on making honey, not hand grenades, the
 
 ## Lesson 1
 
-### You adapt your giving style to specific people and situations. It’s fluid.
+### You adapt your giving style to specific people and situations. It’s fluid
 
 Sometimes you give, sometimes you take, sometimes you negotiate. While we all have a predominant style that marks us as a giver, taker or matcher, **we adapt our behavior to certain situations and depending on who we’re with.**
 
@@ -32,7 +32,7 @@ Our giving style isn’t set in stone. It’s fluid. We shape and change it cons
 
 ## Lesson 2
 
-### Practice powerless communication to get support when you need it.
+### Practice powerless communication to get support when you need it
 
 There’s a scene in the funny, romantic comedy Ghost of Girlfriend’s past, where Matthew McConaughey’s mentor tells him that “the power of the relationship lies with whoever cares less.” As the film will go on to show, that’s a very sad statement to live by, and according to Adam Grant, it’s also not true.
 
@@ -46,7 +46,7 @@ There’s no force, no game, no sweet talk in powerless communication. It’s ju
 
 ## Lesson 3
 
-### You can’t burn out as a giver, as long as you see the impact you create.
+### You can’t burn out as a giver, as long as you see the impact you create
 
 If you keep on giving, you will win. Maybe not today, maybe not tomorrow, but some day, you will. However, sometimes even the most generous giver can get burned out and exhausted.
 
@@ -59,7 +59,5 @@ Burnout is for the purposeless. Find a way to see the impact you have as often a
 ## Review
 
 I don’t know if you believe in karma, but I do. There’s something about coincidence that makes me think there’s *gotta* be some kind of cosmic scoreboard – and I’ve never regretted giving too much. I don’t know what success will look like for me. But I sure know that *Give And Take* made me want to keep on giving. I hope it’ll do the same for you.
-
-## Who it’s for
 
 The 19 year old Instagram & fitness blogger, who’s tired after not seeing results 6 months in, the 39 year old executive, who just received stock options from his company and considers selling them all, and anyone who sometimes feels burnt out from being taken advantage of.

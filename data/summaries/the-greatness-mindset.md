@@ -22,7 +22,7 @@ Let’s get into the mindset of greatness!
 
 ## Lesson 1
 
-### Consider 3 factors to come up with your Meaningful Mission Manifesto.
+### Consider 3 factors to come up with your Meaningful Mission Manifesto
 
 What finally got Lewis off his sister’s couch was a Toastmasters event. He wanted to get better at public speaking. While Lewis was stuffing his pockets with free snacks to save money, he met his future mentor Frank Agin.
 
@@ -40,7 +40,7 @@ Think about your Meaningful Mission. Then, write it down. It doesn’t have to b
 
 ## Lesson 2
 
-### Take small actions daily to keep the 3 big fears at bay.
+### Take small actions daily to keep the 3 big fears at bay
 
 Lewis struggles with dyslexia. He was sexually abused as a child. And in sports and business, Lewis has fallen on his face countless times — both literally and figuratively. The point? We’re all afraid. We all make mistakes, and we all doubt our abilities. But only when we let that doubt keep us from taking action will we have any regrets.
 
@@ -56,7 +56,7 @@ Start small and stay consistent, and self-doubt will get out of your way!
 
 ## Lesson 3
 
-### To develop a Greatness-Mindset-in-Motion, stay aware of your thoughts, feelings, and behaviors.
+### To develop a Greatness-Mindset-in-Motion, stay aware of your thoughts, feelings, and behaviors
 
 Nothing great happens overnight. Therefore, even if you have your long-term vision locked in, you’ll still need to show up and move towards that vision every day. One of Lewis’ top tools for doing so? The “Mindset-in-Motion Cycle.” “Mindset by itself is neutral,” Lewis writes. “It can be positive or negative. It can be messy or it can be clean.”
 
@@ -75,7 +75,5 @@ How do you do this? Awareness, Howes says. “As you learn to navigate these 3 c
 ## Review
 
 *The Greatness Mindset* is an uplifting read. It also offers an interesting set of tools and exercises. It’s not the world’s most groundbreaking self-help book, but in sharing what he’s learned from his own journey and his guests, Howes has built a collection of ideas worth browsing. Even if you only implement 1 or 2 of them, it’ll be well worth your time!
-
-## Who it’s for
 
 The 19-year-old college athlete who is slowly realizing she’ll never turn pro, the 35-year-old creator who doesn’t know if he has the strength to start over after shutting down his business, and anyone who feels their mind is heavier than it should be on most days.

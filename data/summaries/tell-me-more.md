@@ -20,7 +20,7 @@ Get ready for your relationships to have a complete makeover for the better! Let
 
 ## Lesson 1
 
-### Always put listening before volunteering advice when somebody you love is going through something tough.
+### Always put listening before volunteering advice when somebody you love is going through something tough
 
 Have you ever put together a puzzle? It’s hard knowing where everything goes until you get to the end. That is, unless you can’t find the last piece! Then it gets frustrating really quickly. In a similar way, it’s hard to see the people we care about suffer when we know what “missing piece” will fix their problems.
 
@@ -34,7 +34,7 @@ Usually when something goes wrong, people know what they need to do. It’s not 
 
 ## Lesson 2
 
-### Respect people’s wishes when they say “no,” it just may save your relationship.
+### Respect people’s wishes when they say “no,” it just may save your relationship
 
 Do you remember the last time you told someone that you wouldn’t do something they wanted you to do? Saying no is easy when we’re children. But as we grow, somewhere along the way we learn to associate it with being selfish, mean, or lazy. That’s really disappointing, because for healthy relationships, saying no is vital.
 
@@ -48,7 +48,7 @@ Although hurt, Kelly didn’t push her husband further. That’s because she now
 
 ## Lesson 3
 
-### Having a great life doesn’t mean perfection, “good enough” is all it takes.
+### Having a great life doesn’t mean perfection, “good enough” is all it takes
 
 Growing up a perfectionist, I always had a hard time ever believing I was good enough. That was the case until recently, when I began focusing on my strengths. Learning about what I’m good at and working on that makes me realize that I’m not so bad after all.
 
@@ -63,7 +63,5 @@ After all that time Kelly finally got to ask her Dad how he knew all those years
 ## Review
 
 *Tell Me More* is a great book because it’s so down to earth about life. I enjoyed the examples from Corrigan’s life, but it felt like it was hard to really grasp them through the Blinkist summary. One thing’s for sure, knowing these phrases and using them regularly will make your life easier and better.
-
-## Who it’s for
 
 The 45-year-old parent whose children are just hitting puberty that feels at the end of her rope, the 26-year-old couple with a newborn baby who has no idea what they’re doing, and anyone who is philosophically minded.

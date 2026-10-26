@@ -22,7 +22,7 @@ I hope you’re ready to go “Ahh!” and “Oh, wow!” because that’s exact
 
 ## Lesson 1
 
-### How smart you are isn’t determined by how big your brain is. Not entirely, anyways.
+### How smart you are isn’t determined by how big your brain is. Not entirely, anyways
 
 When I ask you to name a smart animal, chances are you’ll mention one of these three: a chimp, a dolphin, or an elephant. These are the classics. You probably wouldn’t come up with a bird. Yet, just by looking at birds’ brain structure, it can be seen that they must be quite smart.
 
@@ -40,7 +40,7 @@ As in so many aspects of life, it’s not all about the size of things 😉
 
 ## Lesson 2
 
-### Only humans are better at using tools than birds, chimps don’t stand a chance.
+### Only humans are better at using tools than birds, chimps don’t stand a chance
 
 You probably know that chimps can use tools in clever ways, like inserting sticks into holes in trees to pull out delicious ants. What you probably *didn’t* know is that birds are even better at this – only humans surpass them when it comes to employing tools.
 
@@ -52,7 +52,7 @@ What completely blew me away however, was this video of a bird solving a complex
 
 ## Lesson 3
 
-### Good birds copy, great birds steal – some birds have a great sense of art.
+### Good birds copy, great birds steal – some birds have a great sense of art
 
 Granted, the satin bowerbird is a rarity in terms of his behavior, even among birds, but it sure seems like he’s familiar with Picasso’s work. This type of bird builds a bower – a love nest – so to speak, to attract females. Apart from building walls made of twigs, which he sticks into the ground, he decorates his cosy home with flowers and colorful objects.
 
@@ -67,7 +67,5 @@ Speaking of Picasso, a 1995 study found that after some generic training, birds 
 ## Review
 
 If you’re as fascinated by the majesty, beauty and capability of birds as me, then you’ll love *The Genius Of Birds*. But I think what most intrigues me about birds is the idea that maybe, one day, humans will be able to fly like them. Whether we make that dream come true or not, there sure are quite a few things we can learn from birds if we only give them more credit. That’s what this book is for.
-
-## Who it’s for
 
 The 15 year old farmer’s daughter, who always takes care of the chickens at home, the 33 year old urbanite, who hates inner city doves, and anyone who thinks birds are hilarious.

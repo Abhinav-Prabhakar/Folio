@@ -22,7 +22,7 @@ Ready to climb the mountain of business and stay on top? Let’s get to work!
 
 ## Lesson 1
 
-### Pass the three stages that come before predictable success.
+### Pass the three stages that come before predictable success
 
 First, Les McKeown describes three stages that come before predictable success is achieved:
 
@@ -43,7 +43,7 @@ Beware though, that means the *whitewater* stage isn’t far. It’s when demand
 
 ## Lesson 2
 
-### Never stop simplifying how you make decisions in your company.
+### Never stop simplifying how you make decisions in your company
 
 The way to deal with whitewater and actually get past it is to **make decision-making simpler**. This is something you should continuously do as you grow, as it might prevent you from entering whitewater in the first place.
 
@@ -57,7 +57,7 @@ Basically, **allow people at every level to make decisions**. Equip them with th
 
 ## Lesson 3
 
-### Install two particular systems to keep your success predictable.
+### Install two particular systems to keep your success predictable
 
 Done it? Maneuvered the whitewater stage and came out on top? Awesome!
 
@@ -77,7 +77,5 @@ As I said in the intro, the cool part about *Predictable Success* is that it add
 While reading it felt like the author drew different paths on a monopoly board: your business could either go to hell or become really successful. Describing what the various stops along the way feel like helps you pinpoint where you are and take the right next step.
 
 A refreshing perspective, thumbs up!
-
-## Who it’s for
 
 The 28 year old with 2 startups under his belt that can’t help but attempt a third one, the 47 year old, whose business is thriving, but doesn’t want to give up any of her control, and anyone who usually procrastinates on making decisions.

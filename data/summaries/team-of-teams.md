@@ -22,7 +22,7 @@ Ready to see the power of teams working together? Let’s go!
 
 ## Lesson 1
 
-### Working in teams is the solution you need to solve problems in our complex world.
+### Working in teams is the solution you need to solve problems in our complex world
 
 Do you remember in school when your teacher would divide the class into groups to perform certain tasks? This is because a group has the ability to solve problems that a person on their own isn’t able to. This concept applies to companies as well.
 
@@ -36,7 +36,7 @@ After the Portland plane crash, United Airlines realized a plane’s technology 
 
 ## Lesson 2
 
-### If you have a larger company and want the power of teamwork, build a team of teams.
+### If you have a larger company and want the power of teamwork, build a team of teams
 
 You might be wondering how you can feasibly run an organization with teams when you have a company of thousands. It’s simple: build of team of teams
 
@@ -52,7 +52,7 @@ Another piece of advice to help support relationships between teams is to make s
 
 ## Lesson 3
 
-### Give your team of teams the power to make decisions on their own and have managers take care of culture rather than daily operations.
+### Give your team of teams the power to make decisions on their own and have managers take care of culture rather than daily operations
 
 Often decisions in organizations are made by just one person. But the problem is, in today’s world where things change at such a fast pace, it’s essential that teams are able to make decisions on their own.
 
@@ -67,7 +67,5 @@ Before employing empowered execution, make sure the team has sufficient informat
 ## Review
 
 What an interesting concept and book! I think *Team Of Teams* is going to be best for managers of large companies because that’s what it focuses on most. But the idea it teaches of using the power of teams to solve complex problems in our day is something that anybody can apply and see great results from!
-
-## Who it’s for
 
 The 32-year-old entrepreneur who wants to build a large business, the 48-year-old manager that would like to get better at finding solutions to their company’s problems, and any business owner that wants to make their employees as effective as possible.

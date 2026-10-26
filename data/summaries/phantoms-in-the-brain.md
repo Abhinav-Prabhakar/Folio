@@ -22,7 +22,7 @@ Are you ready for some crazy neurology lessons? Let’s begin!
 
 ## Lesson 1
 
-### Things get strange when the subconscious mechanisms that affect your perception of reality are broken.
+### Things get strange when the subconscious mechanisms that affect your perception of reality are broken
 
 Imagine your sister just returned home from the hospital. You’re excited to see how she’s doing. But when you visit her, you discover something strange. Her hair and makeup are only done on one side. The other is a ratty mess.
 
@@ -38,7 +38,7 @@ Because some other processes still work, however, it’s more likely that the br
 
 ## Lesson 2
 
-### Neurological problems can cause delusions sometimes.
+### Neurological problems can cause delusions sometimes
 
 Denial is a purely psychological issue, right? There’s no damage to the brain there, it’s just all in people’s thinking patterns, right? Actually, for some extreme cases, damage to the brain is the main reason for denial, not a psychological disorder.
 
@@ -52,7 +52,7 @@ While some disorders like this one may have some grounding in psychology, the tr
 
 ## Lesson 3
 
-### Complicated networks in your brain contribute to actions as simple as laughter.
+### Complicated networks in your brain contribute to actions as simple as laughter
 
 Funerals don’t usually involve much laughter. If you saw an adult child of the deceased rolling on the floor, for instance, you’d probably think they were insane, right?
 
@@ -73,7 +73,5 @@ So for Willy, his brain may have just gone a little overboard trying to help him
 ## Review
 
 Whoa, what a crazy, interesting book! *Phantoms In The Brain* taught me a ton about the mind and helped me see its interconnectedness with everything we do. I especially loved learning from the experiences of the people the book talked about!
-
-## Who it’s for
 
 The 36-year-old mom who loves interesting stories, the 49-year-old that loves to learn and is looking for an introduction to the science of the mind, and anyone that wants to know how that organ in between their ears works.

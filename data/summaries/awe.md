@@ -22,7 +22,7 @@ Let’s learn how we can find awe and make even mundane days special!
 
 ## Lesson 1
 
-### There are 8 kinds of awe, and though we experience them differently, we all feel awe in some form.
+### There are 8 kinds of awe, and though we experience them differently, we all feel awe in some form
 
 In his quest to understand awe, Dr. Keltner ran studies, conducted interviews, and visited prisons inmates. The result? A taxonomy of eight sources of awe:
 
@@ -43,7 +43,7 @@ Have you noticed something? All 8 wonders of life are, by and large, free.
 
 ## Lesson 2
 
-### Awe has nothing to do with money, status, and success. It is free for anyone to experience.
+### Awe has nothing to do with money, status, and success. It is free for anyone to experience
 
 Awe is bigger than materialism, status games, and career success. It is free in most forms. Anyone can experience it, and more wealth barely helps.
 
@@ -57,7 +57,7 @@ When looking for awe, start where you are. Leave your house. Explore the nature 
 
 ## Lesson 3
 
-### The most important form of awe is moral beauty, because nothing inspires us like the goodness of other people.
+### The most important form of awe is moral beauty, because nothing inspires us like the goodness of other people
 
 “Around the world, we are most likely to feel awe when moved by moral beauty,” Dr. Keltner explains. In one study, participants who watched videos of other people being generous were more likely to donate money to a good cause.
 
@@ -71,8 +71,6 @@ Unlike spending time in nature, going to an event, or playing some music, you ca
 
 ## Review
 
-What an *Awe* -inspiring book! Bad puns aside, this is a fascinating investigation into an emotion we all cherish yet know next to nothing about. Plenty of inspiring stories in here, and lots of good ideas to get you stared on bringing a sense of wonder back to your life. Thumbs up!
-
-## Who it’s for
+What an *Awe*-inspiring book! Bad puns aside, this is a fascinating investigation into an emotion we all cherish yet know next to nothing about. Plenty of inspiring stories in here, and lots of good ideas to get you stared on bringing a sense of wonder back to your life. Thumbs up!
 
 The 34-year-old hardworking consultant who feels uninspired because she is working all the time, the 60-year-old retiree who wonders what they might live for over the next 30 years, and anyone who hasn’t watched a good sunset in a while.

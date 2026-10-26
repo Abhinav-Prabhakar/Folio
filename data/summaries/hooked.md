@@ -18,7 +18,7 @@ Let’s take a look at those findings!
 
 ## Lesson 1
 
-### The most successful products in the world make us form habits around them.
+### The most successful products in the world make us form habits around them
 
 What makes the iPhone the most profitable product in the history of the world? How come 1 out of every 7 humans on this planet is on Facebook? What makes these products so much more successful than others?
 
@@ -34,7 +34,7 @@ Think about these points for some of the things you’re using on a daily basis,
 
 ## Lesson 2
 
-### Variable rewards are a key component of habit-forming products.
+### Variable rewards are a key component of habit-forming products
 
 I’m not going to reveal Nir’s entire 4-step model here, but I do want to highlight one point that stood out for me. Your product will in some way reward the user, for example a Dropbox user is less worried about losing her data.
 
@@ -48,7 +48,7 @@ So to create a product that people love, make sure they get a lot of different r
 
 ## Lesson 3
 
-### Ask yourself these 2 questions to know whether your product should be a habit-forming one.
+### Ask yourself these 2 questions to know whether your product should be a habit-forming one
 
 Eyal also addresses the moral issues that come with his model. Getting people hooked on a product already sounds kinda illegal, so in order to prevent people from becoming high-level product “drug dealers”, he suggests only creating a habit-forming product when 2 conditions are met.
 
@@ -70,7 +70,5 @@ It’s rare to read something twice and think it’s even better the second time
 It was even more interesting to me than *Built To Last*, maybe because as a solo entrepreneur I think more about products and less about companies, but it might just be due to the mix of self-improvement and business.
 
 Entrepreneur or not, this summary is highly recommended, because it helps you learn about the way you use products and spot these habit-forming ones. Meanwhile, I’m *Hooked* on this book 😉
-
-## Who it’s for
 
 The 17 year old hobby entrepreneur, who’s building apps, side projects, and other things to sell in his spare time, the 39 year old Mum, who wonders when she started enjoying Facebook so much, and anyone who owns a smartphone.

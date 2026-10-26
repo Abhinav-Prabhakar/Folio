@@ -20,7 +20,7 @@ Time to dig deeper into these lessons and see what they can teach us about life 
 
 ## Lesson 1
 
-### Humans make biased decisions most of the time.
+### Humans make biased decisions most of the time
 
 In the book, Daniel Kahneman provides many examples of how heuristics can lead to irrational behavior or bias, which are things we all experience from time to time but may not realize at first glance.
 
@@ -34,7 +34,7 @@ Given these circumstances, their decisions must be fast and assure survival, whi
 
 ## Lesson 2
 
-### A good partnership takes mutual fueling, a common purpose, and a drive to succeed.
+### A good partnership takes mutual fueling, a common purpose, and a drive to succeed
 
 Amos and Kahneman were the writers of the masterpiece that laid the foundation of modern psychology. Their work influenced areas like economics, finance, sports, behavioral psychology, and many more.
 
@@ -46,7 +46,7 @@ Therefore, they managed to uncover groundbreaking discoveries about the human mi
 
 ## Lesson 3
 
-### Some of the biases discovered by the two psychologists changed industries forever.
+### Some of the biases discovered by the two psychologists changed industries forever
 
 Kahneman and Amos worked together to discover how heuristics and biases affect the decision-making process in the human mind. What they came across changed the world for many reasons.
 
@@ -70,7 +70,5 @@ This way, you can be aware of them to make more intentional choices about how yo
 Many people have heard of behavioral psychology, but not many know where it came from or how it all began. *The Undoing Project* gives us a detailed history lesson on how these two men met at university in Israel, their work together to develop heuristics and biases, and details about their friendship and collaboration
 
 There are many lessons from this story that can be applied to our everyday lives today: how we make decisions and what drives those decisions; how important it is for us as individuals to understand ourselves better so we can understand others better; how difficult life can be for those who suffer from mental illness, and many more.
-
-## Who it’s for
 
 The 30-year-old person who is passionate about psychology and human behavior, the 27-year-old consumer behavior specialist who wants to deepen their knowledge, or the 40-year-old lecturer who enjoys a good read outside their usual curricula.

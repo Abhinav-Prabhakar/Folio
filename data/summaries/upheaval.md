@@ -20,7 +20,7 @@ Are you excited to discover some important world history and current events? Let
 
 ## Lesson 1
 
-### Both national and personal problems require examination of 12 factors to find a solution.
+### Both national and personal problems require examination of 12 factors to find a solution
 
 Those who have reached adulthood have experienced some sort of crisis. Maybe it was an identity crisis of adolescence. Or maybe it was at another time of transition such as mid-life or retirement. They can be sudden or gradual, but whatever it is, it’s probably a sign that the way you are approaching life isn’t working quite right for you and it’s time for a change.
 
@@ -45,7 +45,7 @@ Let’s look at history now to see how some of these may apply.
 
 ## Lesson 2
 
-### We can look at Japan and Germany for ways to find solutions to tough problems.
+### We can look at Japan and Germany for ways to find solutions to tough problems
 
 Traditionally, Japan held isolationist views. So naturally, in the 1850s when the US came demanding access to ports for trading in the Pacific on their shores, they weren’t happy. Many didn’t want the deal because there was no benefit to Japan, but others thought it was foolhardy to believe they could continue to be isolated.
 
@@ -59,7 +59,7 @@ Then came selective change for West Germany. They made their own currency and jo
 
 ## Lesson 3
 
-### The world is facing a variety of threats that can only be solved by working together.
+### The world is facing a variety of threats that can only be solved by working together
 
 In the book, Diamond gives five other examples of countries that overcame crises in the modern era. It’s impressive to see how nations overcome dire circumstances and become prosperous through selective change.
 
@@ -72,7 +72,5 @@ Many of these problems can be at least partially fixed by reducing our consumpti
 ## Review
 
 *Upheaval* is definitely for those who are interested in politics and history. There are good lessons to take out of it, but your average person might find it to be a bit of a slow read. One great thing that I think it contains is the 12 factors to look at when you have an issue, because these are definitely applicable to everyday life.
-
-## Who it’s for
 
 The 62-year-old history buff, the 19-year-old political science major, and anyone that is curious to know more about global affairs.

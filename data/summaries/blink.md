@@ -18,7 +18,7 @@ Ready to school your snap judgment system? Here we go!
 
 ## Lesson 1
 
-### Your unconscious is the world’s fastest filter of information.
+### Your unconscious is the world’s fastest filter of information
 
 There’s a rule, which says you should only make decisions when you have at least 40% of the relevant information, but never wait until you have more than 70%.
 
@@ -36,7 +36,7 @@ However, even your unconscious gets it wrong sometimes.
 
 ## Lesson 2
 
-### Stress can temporarily lead your gut down the wrong path.
+### Stress can temporarily lead your gut down the wrong path
 
 For example in a high-stress environment, your ability to read other people’s facial expressions rapidly declines.
 
@@ -44,13 +44,13 @@ When your boss completely loses it, gets a big, fat, red head, and screams at yo
 
 Similarly, a police officer will sometimes shoot an unarmed man, just because he holds a black leather wallet. This inability to read nonverbal cues is very common among autistic people. They can’t instinctively judge a person’s intentions and emotional state based on gestures, facial expressions, and behavior. That is why they have to rely on what information is communicated.
 
-When you find yourself in a stressful situation, this can put you into a mental state where you’ll face similar challenges. **You develop asort of tunnel vision, focusing on only the most imminent, threatening piece of information**. This will lead your gut to make the wrong call often times, so it should be prevented whenever possible.
+When you find yourself in a stressful situation, this can put you into a mental state where you’ll face similar challenges. **You develop a sort of tunnel vision, focusing on only the most imminent, threatening piece of information**. This will lead your gut to make the wrong call often times, so it should be prevented whenever possible.
 
 If in a stressful situation, you should try to reduce the stress as quickly as possible. Take a walk to cool off, hide and breathe for a few minutes, or continue the conversation at a later point, to make sure your tunnel vision doesn’t go into overdrive.
 
 ## Lesson 3
 
-### Use screens to filter irrelevant information in scenarios where your gut tends to be wrong.
+### Use screens to filter irrelevant information in scenarios where your gut tends to be wrong
 
 Apart from stressful situations, sometimes associations are forged so deeply in our brain that it’s hard to turn them off. Even though we might know they’re wrong.
 
@@ -67,7 +67,5 @@ So if music agents just scout talent based on audio samples, they’ll probably 
 Another fascinating book by Malcolm Gladwell. Packed with examples, *Blink* makes a good case for why we should probably listen to our gut more often than we allow ourselves to.
 
 The summary provides a good recollection of the ark of the book, but of course skips plenty of the examples. It’s still a great introductory read to the topic. You can confidently check it out before committing to reading the entire book.
-
-## Who it’s for
 
 The 16 year old, who tends to overanalyze situations at school and in her personal life, the 42 year old talent scout, who’s trying to find the best artists, singers or soccer players, and anyone who was ever surprised by how prejudiced they were.

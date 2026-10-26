@@ -20,7 +20,7 @@ If these lessons don’t make much sense right now, stick with me as I’ll expl
 
 ## Lesson 1
 
-### To become successful, you must first become self-aware.
+### To become successful, you must first become self-aware
 
 Knowing where you stand in life is the first step towards a successful path. Many of us are sensitive strivers without even realizing it. If you identify yourself as someone who is highly emotional and easily affected by your environment, you’re a sensitive striver. While it doesn’t interfere with your career, being a sensitive person can bring you a lot of stress and anxiety.
 
@@ -30,7 +30,7 @@ A sensitive striver is not someone who’s necessarily a perfectionist, an intro
 
 ## Lesson 2
 
-### The Honor Roll Hangover is the biggest obstacle you’ll face in the process of becoming your best self.
+### The Honor Roll Hangover is the biggest obstacle you’ll face in the process of becoming your best self
 
 If you identify yourself as an overachiever, looking for validation from sources like a promotion, someone’s approval, and you work harder every day just to feel good about your productivity levels, I’ve got some news – you’ll have to go through the worst hangover of your life! The author calls it the Honor Roll Hangover, and it’s a form of achievement addiction that you just can’t get rid of.
 
@@ -42,7 +42,7 @@ If a goal is bringing you more distress than benefits, ditch it. Moreover, learn
 
 ## Lesson 3
 
-### Stop being an overthinker and sabotaging yourself.
+### Stop being an overthinker and sabotaging yourself
 
 Overthinking can be challenging to overcome. After all, it’s a battle that your mind has to fight against itself. We all have a near-constant stream of thoughts and a never-ending mind chatter. Overthinking can affect your ability to make decisions, assess situations objectively, and the overall quality of your life. **An overthinker analyzes a situation over and over again in their head, usually just to come to a conclusion far from the truth**.
 
@@ -55,7 +55,5 @@ Perhaps you can’t accept a compliment, saying that everyone could’ve done it
 ## Review
 
 *Trust Yourself* offers practical advice on overcoming negative thoughts, identifying important character traits, and using our skills to our advantage. Reading this book will lead to powerful introspection. You’ll realize what keeps you from achieving your full potential and act on it. A great read to get past your insecurities, self-doubt, and finally, be on your way to success.
-
-## Who it’s for
 
 The 30-year-old employee who feels like they’re too sensitive at work and seen as being weak, the 25-year-old who has a hard time advancing in their career and trusting themselves, or the 27-year-old overachiever who takes everything as a competition and is close to facing burnout.

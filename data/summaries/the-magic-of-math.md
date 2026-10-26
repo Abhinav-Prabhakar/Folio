@@ -22,7 +22,7 @@ Ready to become a mathemagician? Let’s crunch the numbers!
 
 ## Lesson 1
 
-### Try to spot numerical patterns to make your life easier and train your brain.
+### Try to spot numerical patterns to make your life easier and train your brain
 
 When Arthur was little he loved playing around with numbers. One day, when he tried to see which of the pairs of numbers that, when added together, equal 20, would give him the biggest number when multiplied, he noticed something.
 
@@ -56,7 +56,7 @@ So 13 * 13 = 16 * 10 + 3² = 160 + 9 = 169. Neat, huh? Even better, this works f
 
 ## Lesson 2
 
-### You can use mathemagics to impress your friends and practice mental math.
+### You can use mathemagics to impress your friends and practice mental math
 
 This might only work among your slightly nerdier friends, but it’s also a great way to practice mental math. Have someone go through these five steps:
 
@@ -85,7 +85,7 @@ Boom! Pretty cool trick, huh? Sure, it’s nothing more than a fun gimmick, but 
 
 ## Lesson 3
 
-### Unlike any other science, theories in math can be proven with absolute certainty.
+### Unlike any other science, theories in math can be proven with absolute certainty
 
 The reason math fascinates so many scientists is that **it’s the only science where you can prove theories to be 100% true**. Doing so by setting up a series of equations is called a *proof*.
 
@@ -102,7 +102,5 @@ Coming up with a proof is hard, but it saves years of effort by allowing scienti
 ## Review
 
 I wish they’d used *The Magic of Math* in school, instead of all the boring textbooks that made kids run in fear as soon as the words algebra, Pythagoras or calculus fell. I highly recommend you take a look at this book and oh, watch Arthur’s TED talk, it’s hilarious!
-
-## Who it’s for
 
 The 13 year old, who thinks math sucks, the 29 year old young professional, who’s not as fast in mental math as she needs to be for her job, and anyone who likes magic.

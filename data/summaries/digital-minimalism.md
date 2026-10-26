@@ -16,11 +16,9 @@ Here are my 3 favorite lessons about having a better relationship with technolog
 
 Can we liberate ourselves from the shackles of email, social networks, smartphones, and screens? Let’s dive in and find out!
 
-### Digital Minimalism Summary
-
 ## Lesson 1
 
-### Follow the principles of New Economics, the Law of Diminishing Returns, and Amish wisdom.
+### Follow the principles of New Economics, the Law of Diminishing Returns, and Amish wisdom
 
 Henry David Thoreau promoted the first principle in his book, Walden. **It’s based on the idea of New Economics, which examines additional, non-monetary costs when you are calculating the value of something.**
 
@@ -36,7 +34,7 @@ We can look to the Amish for another principle to help us have healthier relatio
 
 ## Lesson 2
 
-### One aim of digital minimalism is to make room for more high-quality time while limiting low-quality activities.
+### One aim of digital minimalism is to make room for more high-quality time while limiting low-quality activities
 
 Aristotle pointed out that, to live the good life, one must have the downtime needed for deep contemplation – for no other reason than to enjoy the thinking process itself. Actions that provide a source of inward joy are vital to a satisfying life.
 
@@ -50,7 +48,7 @@ If it weren’t for making decisions like giving up Facebook, I wouldn’t have 
 
 ## Lesson 3
 
-### Solitude is one way to get the feeling of meaning that is missing from most digital-based habits.
+### Solitude is one way to get the feeling of meaning that is missing from most digital-based habits
 
 As with any habit that you are working to improve, the best plan isn’t necessarily going cold turkey to eliminate the bad behavior. This can easily backfire and result in a relapse of old behavior patterns. The problem with many quick fixes is that they don’t set you up for sustainable change over the long term.
 
@@ -65,7 +63,5 @@ The good news is that solitude is easy to find if you want it. We can choose it 
 ## Review
 
 You could easily devour *Digital Minimalism* in a couple of sittings – and you probably should. I found the book very revealing – it was like looking in a mirror at times. Yes, I pick up my smartphone constantly, I’m always checking for new text messages and emails. It’s a bit like junk food, we know it’s unhealthy, but it’s become a habit. This book has a lot of good ways to break free.
-
-## Who it’s for
 
 The 24-year-old grad student who’s hopelessly addicted to *Fortnite*, the 55-year-old multimedia specialist who spends multiple hours trolling for “likes” on Facebook, and anyone interested in socializing with real-life people.

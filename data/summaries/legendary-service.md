@@ -22,7 +22,7 @@ Now, we’ll take every lesson and explore it in detail. Let’s start with the 
 
 ## Lesson 1
 
-### The happiness level of both employees and customers will dictate the success of a company.
+### The happiness level of both employees and customers will dictate the success of a company
 
 As cliché as it sounds, change comes from within. Legendary service must start from inside the company. Therefore, as a business owner, it is crucial to not just encourage your employees to be nice to your customers. You must also train them to develop a sense of responsibility for them and always meet their needs.
 
@@ -34,7 +34,7 @@ By doing this, you will take care of your customers indirectly. In time, you wil
 
 ## Lesson 2
 
-### Put yourself in your clients’ shoes and work hard to meet their needs.
+### Put yourself in your clients’ shoes and work hard to meet their needs
 
 When was the last time you experienced outstanding customer service? In general, you’ll have to think twice before remembering this type of situation. That is because most companies deliver mediocre services and spend few resources on improving their customers’ experiences with their brand.
 
@@ -48,7 +48,7 @@ Then, she would anticipate that the woman might need shoes to match that dress. 
 
 ## Lesson 3
 
-### Responsiveness and attentiveness are key when it comes to your customers.
+### Responsiveness and attentiveness are key when it comes to your customers
 
 The best way to ensure stellar customer service is to listen and act on the information received. When you center your business around your clients, the first thing you want to do is make them talk and share their opinions about your service. Receiving both negative and positive feedback is a crucial step in this process.
 
@@ -61,7 +61,5 @@ Then, ask yourself how you can fulfill their expressed needs. This is quite impo
 ## Review
 
 *Legendary Service* focuses on key business aspects that every manager and company executive should learn about and implement right away. The book explores how great customer service can set the foundation for a company’s success and how to achieve it. Its readers will learn not only how outstanding service for clients can help a business of any size stand out, but also how to provide a top-tier customer experience by following a few practical steps.
-
-## Who it’s for
 
 The 35-year-old business owner who wants to upscale their company, the 40-year-old manager working in hospitality who wants to improve their customer service or the 24-year-old student who wants to learn more about good business practices.

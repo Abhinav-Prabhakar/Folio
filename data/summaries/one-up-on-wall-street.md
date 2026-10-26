@@ -18,11 +18,9 @@ Here are 3 lessons from investing legend Peter Lynch to help you do that job as 
 
 Let’s take these lessons one by one to become better investors!
 
-### One Up on Wall Street Summary
-
 ## Lesson 1
 
-### Be aware of the 6 categories of stocks to know which one is best for you.
+### Be aware of the 6 categories of stocks to know which one is best for you
 
 According to Peter Lynch, there are a few categories of stocks you should know before deciding where to put your money:
 
@@ -49,7 +47,7 @@ Finally, *asset plays* are based on the idea that the company owns something val
 
 ## Lesson 2
 
-### A tenbagger stock has 13 traits that make it easy to recognize.
+### A tenbagger stock has 13 traits that make it easy to recognize
 
 What’s a tenbagger? Lynch uses this term to describe a stock that has gone up ten times its value since the time of purchase. Fortunately, there are some characteristics that make it easier for investors to spot these stocks.
 
@@ -81,7 +79,7 @@ And what are some traits of stocks you should avoid at all costs? Let’s cover 
 
 ## Lesson 3
 
-### Learn to spot non-valuable investments by looking at 5 key indicators.
+### Learn to spot non-valuable investments by looking at 5 key indicators
 
 Just as you can spot good investment opportunities, you can learn to avoid the bad ones. The first thing you should look for is the industry. If it’s in a hot industry, avoid it, as the stock could be overpriced. The same applies if the stock is advertised everywhere as “The next Google/Amazon/Facebook.”
 
@@ -102,7 +100,5 @@ Apply Peter Lynch’s frameworks to your investing, and your portfolio is sure t
 ## Review
 
 **One Up on Wall Street** will radically improve your finances if you turn its knowledge into practice. This time-proven book can help anyone spot valuable investment opportunities. Peter Lynch is not only one of the best investors of the 20th century but also an excellent writer. You could do worse than get an education from him in just a few hours.
-
-## Who it’s for
 
 The 25-year-old investor who wants to invest and earn passive income, the 30-year-old looking to start a retirement fund early on, and anyone who’s curious about stocks and wants to indulge their passion.

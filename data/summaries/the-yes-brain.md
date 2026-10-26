@@ -26,7 +26,7 @@ Let’s discover how to make parenting less scary with concrete strategies for h
 
 ## Lesson 1
 
-### Help little kids develop self-control even when they’re young.
+### Help little kids develop self-control even when they’re young
 
 Sometimes young children are demanding little barbarians. Worse, it seems that we’re just stuck with them like that until some distant time when they magically decide to start behaving in a civilized manner. While the path to becoming self-disciplined is indeed a long one, it can be traveled in baby steps – beginning right now.
 
@@ -38,7 +38,7 @@ Even if the child doesn’t prevent herself from blowing up or melting down, a k
 
 ## Lesson 2
 
-### Adopting another’s perspective changes everything.
+### Adopting another’s perspective changes everything
 
 Another path to developing insight involves simply imagining that you are someone else, like a neutral bystander. When we see things only from our own eyes, it’s too easy to neglect the interests and needs of others. But, by trying on the observer standpoint, we can begin to see that a situation may not involve clear-cut “right” and “wrong” after all.
 
@@ -50,7 +50,7 @@ This doesn’t have to be a harsh lesson, though! Plenty of time to socialize an
 
 ## Lesson 3
 
-### It’s normal for your kids to be selfish, but you can help them outgrow it.
+### It’s normal for your kids to be selfish, but you can help them outgrow it
 
 It’s common to think of very young humans as incapable of perspective-taking. Yet, research suggests that the human capacity for empathy begins to emerge quite early, sometimes even before the age of 1 year.
 
@@ -63,7 +63,5 @@ Teaching kids to speak “from the I” can help them also. And, as always, pare
 ## Review
 
 I’m not entirely convinced that reading *The Yes Brain* will enable you to completely transform your child. But there’s nothing to lose by trying the simple techniques offered in this book. Siegel and Bryson’s 4s’s — making kids feel “Safe, Seen, Soothed, and Secure” — are a good starting point for parenting kids, whatever their innate personality starting point.
-
-## Who it’s for
 
 The 40-year old mom of a middle schooler who doesn’t like his bad attitude, the 30-year old father of a 4-year-old girl who is shy and fearful, and anyone who works with children.

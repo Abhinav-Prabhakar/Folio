@@ -20,7 +20,7 @@ Ground control to Major Tom. Are you ready for liftoff? Let’s rocket into thes
 
 ## Lesson 1
 
-### You’ve got to learn the importance of preparation if you want to go to outer space and if you want to live a successful life.
+### You’ve got to learn the importance of preparation if you want to go to outer space and if you want to live a successful life
 
 > “Be prepared.”
 
@@ -38,7 +38,7 @@ In Hadfield’s experience, the training gave him a sort of mental discipline in
 
 ## Lesson 2
 
-### Taking criticism well is a requirement to become a space explorer, and learning this skill will help you too.
+### Taking criticism well is a requirement to become a space explorer, and learning this skill will help you too
 
 When I was younger I had leaders who taught me that successful people not only welcome correction, they seek it. This seems like a difficult thing to do, but it’s got a lot of benefits.
 
@@ -54,7 +54,7 @@ You don’t have to be on a team going to space to use this principle though. It
 
 ## Lesson 3
 
-### Getting back from outer space is hard for astronauts, but the journey changes their perspective.
+### Getting back from outer space is hard for astronauts, but the journey changes their perspective
 
 If you think the trip to space is hard, wait until you hear about the way back. The Russian Soyuz spacecraft is the only way to and from the International Space Station. And the hour-long landings are notably turbulent.
 
@@ -71,7 +71,5 @@ He is energized by being on the ground after a mission. The refreshing new view 
 ## Review
 
 What an awesome and exciting book! *An Astronaut’s Guide To Life On Earth* is just my kind of book because I love space and I also love analogies about how to live a better life. However, this book is an excellent read regardless of what you think of astronaut life.
-
-## Who it’s for
 
 The 22-year-old who is considering being an astronaut but wants to figure out the pros and cons of it, the 55-year-old who is curious about what it’s like to go to outer space and return, and anyone with a curious mind that also wants to live a good life.

@@ -20,7 +20,7 @@ Are you ready for these lessons to inspire you to get off your butt and make you
 
 ## Lesson 1
 
-### Breaking promises to yourself damages your self-esteem, so practice keeping them.
+### Breaking promises to yourself damages your self-esteem, so practice keeping them
 
 Imagine you have a friend named Sarah. Every time you have plans to do something with Sarah, she cancels on you last second. And instead of having understandable reasons as to why she cancels, she has poor excuses like she had to watch another episode of a Netflix show. She says she’s going to start budgeting and saving her money, but the next day you watch her pay $200 on a new pair of shoes she doesn’t need.
 
@@ -32,7 +32,7 @@ Hollis encourages you to try to make a habit of keeping promises to yourself. In
 
 ## Lesson 2
 
-### Embrace the chaos of home and family life.
+### Embrace the chaos of home and family life
 
 Mothers today think that chaos is a sign of their failure. But in reality, whether you’re a mom with a job or even just a stay-at-home parent, chaos is just part of the job. Many of us feel despair when things go wrong.
 
@@ -44,7 +44,7 @@ Her second tip is to learn to accept help. She tells the story of a guy who was 
 
 ## Lesson 3
 
-### For consistent motivation to reach your dreams, constantly visualize how it will feel to achieve them.
+### For consistent motivation to reach your dreams, constantly visualize how it will feel to achieve them
 
 If you want to achieve something, visualizing it is a great way to stay on track.
 
@@ -59,7 +59,5 @@ Next time you set a goal, try to make it a realistic and tangible as you can. Wr
 ## Review
 
 Wow, *Girl, Wash Your Face* is amazing! This book has me pumped up to go make my dreams happen, and I know it will do the same for you!
-
-## Who it’s for
 
 The 33-year-old mother of three who feels overwhelmed and dissatisfied with her life, the 46-year-old female CEO who feels down about a lifetime of regrets, and anyone who wants inspiration to chase their dreams.

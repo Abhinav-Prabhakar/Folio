@@ -8,7 +8,7 @@ If you’re like most people, you admire the person who leaves the office last. 
 
 But what if I told you that you could accomplish more than your average workaholic, and do so in less time? It might sound crazy, but it’s true. We accomplish the most when we take time out of our day to rest.
 
-Alex Soojung-Kim Pang is a Silicon Valley strategist and the founder of The Restful Company. He helps people cultivate a more healthy work-life balance and reach their full potential. Pang encourages individuals to make time for play and creativity. In *Rest: Why You Get More Done When You Work Less* *,* he combines neuroscience with examples from influential leaders to prove why time away from work, or “deliberate rest,” is so critical to success.
+Alex Soojung-Kim Pang is a Silicon Valley strategist and the founder of The Restful Company. He helps people cultivate a more healthy work-life balance and reach their full potential. Pang encourages individuals to make time for play and creativity. In *Rest: Why You Get More Done When You Work Less,* he combines neuroscience with examples from influential leaders to prove why time away from work, or “deliberate rest,” is so critical to success.
 
 We don’t have to conform to a workaholic lifestyle. Working too much only leads to burnout. *Rest* shows how you will get more done when you make sure to give yourself enough time to slow down and enjoy yourself.
 
@@ -22,7 +22,7 @@ Get your pillow and mattress ready, because after learning these principles, you
 
 ## Lesson 1
 
-### Forget working all day long, work hard for four hours to get the most done.
+### Forget working all day long, work hard for four hours to get the most done
 
 You know what they say: If it sounds too good to be true, it probably is. Not in this case. While it feels like the longer you work, the more you get done, this is only what society has primed us to believe. Like the concept of retiring, the 9-to-5 has been the norm for decades, but science says it’s outdated. When you work long hours, your productivity plummets.
 
@@ -34,7 +34,7 @@ But what if you don’t have control over when you clock in and out? Make sure y
 
 ## Lesson 2
 
-### Taking a break in the middle of a problem allows you to find more creative solutions.
+### Taking a break in the middle of a problem allows you to find more creative solutions
 
 To get the most out of rest, we also need to find the best time to take a break. Were you ever in the middle of a difficult problem, had to step away, and when you came back the solution seemed obvious? I know I have.
 
@@ -42,11 +42,11 @@ Sometimes, we need to give our brains some downtime at the right moment to find 
 
 In one study, researchers asked a group of students to come up with the most uses of a piece of paper as possible. One group worked on the problem for the allotted time uninterrupted, while the other was asked to stop and do something else for a while before coming back to the original task. The group who was interrupted proved to be far more creative with the paper than the other. This shows how useful it is to stop and take a break before returning to a problem.
 
-**Whenwe stop working, our brain can still process our task.** Our mind subconsciously examines problems and comes up with new ideas, even if we don’t realize it. So the next time you need to take a break, don’t feel bad about doing it in the middle of a challenge.
+**When we stop working, our brain can still process our task.** Our mind subconsciously examines problems and comes up with new ideas, even if we don’t realize it. So the next time you need to take a break, don’t feel bad about doing it in the middle of a challenge.
 
 ## Lesson 3
 
-### Deep play can bring us relief in challenging situations.
+### Deep play can bring us relief in challenging situations
 
 Pang stresses the importance of practicing “deep play” by taking frequent, dedicated breaks. **Deep play is any enjoyable activity that immerses the mind and connects us to our past.**
 
@@ -59,7 +59,5 @@ We can practice deep play in plenty of other hobbies, such as rock climbing, med
 ## Review
 
 *Rest* is an original review of the benefits of taking a time-out from the daily grind. Pang goes against traditional thought patterns about work ethic to help us understand what will really help us accomplish higher quality work in less time. I’m excited to try out these principles to increase my productivity!
-
-## Who it’s for
 
 The 45-year-old office worker who is burnt out, a 35-year-old father who struggles to take time for his family, and anyone who wants to become more efficient at their job.

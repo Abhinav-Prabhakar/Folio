@@ -6,7 +6,7 @@
 
 What do chess and AI have in common? What basic principles are behind the Google Assistant algorithm? Should we still try to outcompete computers in thinking, or merely accept our inferiority to the processing power of machines?
 
-Gary Kasparov tries to answer these and many other important questions about the human mind, thinking, AI, and how they will all evolve and interact in the future. In *Deep Thinking* *: Where Machine Intelligence Ends and Human Creativity Begins*, he combines his decades-long experience of playing chess and becoming a Grandmaster with a birds-eye view of the development of artificial intelligence.
+Gary Kasparov tries to answer these and many other important questions about the human mind, thinking, AI, and how they will all evolve and interact in the future. In *Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*, he combines his decades-long experience of playing chess and becoming a Grandmaster with a birds-eye view of the development of artificial intelligence.
 
 As a result, he comes up with recommendations for all of us on how to approach the machine-human relationship in the near future. And his prognoses don’t sound all that pessimistic, either. There will still be room for people in the world when AI leads the way in processing information. That’s because being human is about so much more than just making sense of vast amounts of data.
 
@@ -20,7 +20,7 @@ Here are 3 lessons from this book about the human mind, AI, and the intersection
 
 ## Lesson 1
 
-### We shouldn’t be worried about computers “taking away” our jobs.
+### We shouldn’t be worried about computers “taking away” our jobs
 
 In the casual conversations about AI and the overall tech development, one point comes up quite often. What good does technological advancement bring us if computers “steal” human labor?
 
@@ -36,7 +36,7 @@ Kasparov says that today, we shouldn’t fear the computers taking over our jobs
 
 ## Lesson 2
 
-### The element that separates human intelligence from artificial is emotion.
+### The element that separates human intelligence from artificial is emotion
 
 For centuries, playing chess was a human-only activity. A complex game like this required a high level of intellect that no other animal possessed. But the skill needed to play chess is not just about processing information and having a good strategy.
 
@@ -52,7 +52,7 @@ This example from chess clearly shows where human and artificial intelligence di
 
 ## Lesson 3
 
-### Artificial intelligence still hasn’t reached its tipping point.
+### Artificial intelligence still hasn’t reached its tipping point
 
 According to Moore’s law, the processing power of the best computers is doubling every year. Even without being in the tech industry, anyone can observe how fast AI and machine-learning technologies are developing and changing our lives.
 
@@ -67,7 +67,5 @@ Garry Kasparov claims that once this is possible, artificial intelligence will t
 ## Review
 
 *Deep Thinking* is an ideal read for those who like to think about thinking. However, I see Kasparov’s ideas more as starting points for discussion rather than definitive answers. If you are looking for a more research-based, but still digestible book on the future of the human relationship with technology, check out *Homo Deus*.
-
-## Who it’s for
 
 The 18-year-old preparing to study computer engineering in college, the 60-year-old chess enthusiast who wants to understand how exactly computers beat humans, and anyone excited about AI and the future of technology.

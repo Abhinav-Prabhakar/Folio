@@ -18,7 +18,7 @@ Are you sick and tired of believing you can’t become who you want because you 
 
 ## Lesson 1
 
-### Professionals practice with purpose, which is a 4-part approach.
+### Professionals practice with purpose, which is a 4-part approach
 
 Way back in the 1970s, Anders Ericsson did a study with one of his undergraduate students, named Steve. The goal was to see if Steve could significantly improve his ability to remember a sequence of numbers. When they began working together, Steve could remember the average length most people have no trouble with – seven digits in a row. Steve hadn’t had any memory training before and he wasn’t particularly good with numbers either.
 
@@ -35,7 +35,7 @@ These four things combined create a training environment Ericsson calls **purpos
 
 ## Lesson 2
 
-### Purposeful practice becomes deliberate when it’s guided and within a well-developed field.
+### Purposeful practice becomes deliberate when it’s guided and within a well-developed field
 
 Going from an average to a world-class performer is like climbing a ladder with an infinite number of rungs. The difference between good and great is in how fast you can get to the next rung, including how many you can skip altogether.
 
@@ -50,7 +50,7 @@ Leveraging the guidance of someone with access to a big share of the resources a
 
 ## Lesson 3
 
-### Even the world’s greatest talents are really the result of years of deliberate practice.
+### Even the world’s greatest talents are really the result of years of deliberate practice
 
 But what about child prodigies Nik? When did *they* practice?
 
@@ -65,7 +65,5 @@ So get off the complain train and start calling potential mentors!
 ## Review
 
 Given Anders Ericsson’s background and his pioneer status when it comes to human performance, it’d be foolish to skip *Peak* for other books about the subject. *Peak: Secrets from the New Science of Expertise* should be your number one, go-to book about deliberate practice. If you’re interested in learning about this topic, make it your first stop, not your last.
-
-## Who it’s for
 
 The 13 year old, who’s really tired of piano practice, but has a chance of being great if she continues, the 29 year old writer, who’s seen some success, but feels like he’s now hitting a wall and might need a mentor, and anyone who thinks they’re “just not talented enough.”

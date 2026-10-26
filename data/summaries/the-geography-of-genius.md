@@ -20,7 +20,7 @@ Would you like to take a stroll through history, following the footsteps of geni
 
 ## Lesson 1
 
-### Ancient Athens is the grandmother of genius.
+### Ancient Athens is the grandmother of genius
 
 It’s always sad to see when what was once of true greatness has fallen and is nothing but a mere remnant of its glorious past. Athens sure is one of those places. Greece has been in horrendous debt for years now, unemployment is sky high and they just can’t get a foot in the door anywhere.
 
@@ -37,7 +37,7 @@ Not solely, but largely responsible for creation and innovation, these four thin
 
 ## Lesson 2
 
-### Because the church “invented” purgatory, it could finance a lot of innovation in Renaissance Florence.
+### Because the church “invented” purgatory, it could finance a lot of innovation in Renaissance Florence
 
 For example, hardly any city produced more iconic art than Florence during the Renaissance. Michelangelo, Donatello, Da Vinci, these grandmasters of innovation and art all called it their home. **Patronage played a big role here**, with rich entrepreneur families, like the Medici, financing and commissioning lots of paintings, sculptures and architectural ventures.
 
@@ -49,7 +49,7 @@ Competition and collaboration were also prevalent among Florentine inventors and
 
 ## Lesson 3
 
-### Two things that make San Francisco a modern hub of innovation are weak ties and successful failures.
+### Two things that make San Francisco a modern hub of innovation are weak ties and successful failures
 
 When did Silicon Valley even become the symbol of innovation and technological advance it is today? It all started in the 1930s. Fred Terman, the dean of Stanford’s Engineering School at the time, decided to boldly invest into a company two of his former students formed: Hewlett-Packard.
 
@@ -67,7 +67,5 @@ So where will the next big center of genius be? I have no idea. But it’ll prob
 ## Review
 
 I really enjoyed these blinks. I never thought of connecting a topic like innovation to geography, so this got all kinds of gears going in my brain. Plus, it gave me lots of ideas for my “places to visit” list. Definitely recommend *The Geography Of Genius* 🙂
-
-## Who it’s for
 
 The 21 year old Athenian, who loves her city but is sad about the current state of it, the 32 year old Italian, who can’t help but shake his head at the actual political situation in his country, and anyone who wants to move to Silicon Valley.

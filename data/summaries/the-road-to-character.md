@@ -20,7 +20,7 @@ Are you ready to start living a more meaningful, joyful life? Let’s begin lear
 
 ## Lesson 1
 
-### Nowadays, we let the “me” extrovert in our personalities dominate too much, but it wasn’t always this way.
+### Nowadays, we let the “me” extrovert in our personalities dominate too much, but it wasn’t always this way
 
 According to Brooks, each of us is filled with two competing personality types, called Adams. Adam I is the part of us that focuses on the external. He is most comfortable in our success-driven society because he wants a career, wealth, and social status.
 
@@ -32,7 +32,7 @@ In the ‘60’s, people sought to leave behind self-restraint. Marginalized gro
 
 ## Lesson 2
 
-### Modern society has nearly lost the moral values that bring us real joy and satisfaction.
+### Modern society has nearly lost the moral values that bring us real joy and satisfaction
 
 Instead of using principles such as integrity, commitment, and kindness to lead our actions, nowadays, we increasingly follow our desires wherever they lead us. For example, the world now emphasizes that whatever we set our mind to, we can accomplish.
 
@@ -44,7 +44,7 @@ Rather than investing time in making sure kids are well-rounded, parents push ki
 
 ## Lesson 3
 
-### To find the real road to character, admit you have flaws and toss away your pride.
+### To find the real road to character, admit you have flaws and toss away your pride
 
 The more concerned we become with the self, the more we lose sight of our deeper morals. So what can you do about it? Be more honest about your flaws. Being open and realistic about weaknesses will help you get over your self-centeredness and make it easier to embrace moral and social values like love and compassion for others.
 
@@ -55,7 +55,5 @@ Throwing away pride is also essential to becoming humble and building good chara
 ## Review
 
 I think this cultural criticism holds a lot of value for everyone. Sure, it might come off a bit extreme by saying that the world today is all bad and that people of the past were all good, but I think it’s a great wake up call for all of us caught up in the “Big Me.” *The Road to Character* will teach you the true merits in consciously building character and cultivating strong values in your life.
-
-## Who it’s for
 
 The 49-year-old who has achieved his goals but still feels something is missing, the 22-year-old who is fed up with narcissistic posts on social media, anyone who wants to learn more about how they can live a more balanced, selfless life.

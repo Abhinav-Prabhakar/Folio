@@ -18,7 +18,7 @@ Are you ready to improve your life in lasting ways by learning to meditate? Let�
 
 ## Lesson 1
 
-### Meditation helps to improve concentration and mental performance while multitasking exhausts your brain.
+### Meditation helps to improve concentration and mental performance while multitasking exhausts your brain
 
 Multitasking is something we are constantly doing in the world today. Many people even take pride in juggling responsibilities each moment and try to get better at it.
 
@@ -26,11 +26,11 @@ In 2009, a scientist at Stanford ran a study on multitasking. He found that, con
 
 Do you want a great replacement for all that multitasking? The effects of meditation are even better for those who tend to multitask frequently. In a 2016 experiment, psychologists had one group meditate for 10 minutes, and another browse the internet for 10 minutes before they both took a concentration test. During the exam, meditators performed better, and the improvement was most significant for those who regularly multitasked.
 
-**As for long-term effects of meditation, a 2013studyfound students who learned and practiced meditation for two weeks before a graduate school entrance exam improved their scores by up to 30 percent.** They also experienced reduced distraction after meditating. Next time you are tempted to multitask to get more done, try meditation instead, you’ll probably get more done, and your brain won’t feel so exhausted.
+**As for long-term effects of meditation, a 2013 study found students who learned and practiced meditation for two weeks before a graduate school entrance exam improved their scores by up to 30 percent.** They also experienced reduced distraction after meditating. Next time you are tempted to multitask to get more done, try meditation instead, you’ll probably get more done, and your brain won’t feel so exhausted.
 
 ## Lesson 2
 
-### “Default mode” isn’t good for your brain, and meditation will help you turn it off.
+### “Default mode” isn’t good for your brain, and meditation will help you turn it off
 
 When we’re lying on the couch after a long day at work to rest, we’d like to think we’re giving our mind a break. But in reality, we’re not.
 
@@ -40,7 +40,7 @@ When we’re doing nothing, parts of our brain are highly active. Though your br
 
 ## Lesson 3
 
-### More meditation means more benefits for you.
+### More meditation means more benefits for you
 
 Okay so maybe you don’t have time to sit in on a mountain top for weeks at a time in solace. But that’s okay because meditation can be different for everyone, as there are many different kinds and varying lengths. Even a small amount will be beneficial. **Among all of the positive effects found in the studies on meditation, none of them have long-lasting benefits without continued practice.** So consistency is key. But evidence shows more you practice, the more you’ll get out of it because meditation changes the way the brain works.
 
@@ -51,7 +51,5 @@ The science is already in: meditation can and will improve your life. All you ha
 ## Review
 
 *Altered Traits* brings a flood of legitimacy to an ancient practice that many regard as the next fad in self-improvement. The authors have studied for decades, and they bring us up-to-date studies and insights on meditation and how it can change us. I found it as fascinating as it was convincing and would definitely recommend it to any newbie who is skeptical about meditation.
-
-## Who it’s for
 
 The 23-year-old college student who wants to improve her focus and prepare for job interviews, your 35-year-old skeptic friend who thinks meditation is for hippies, and anyone interested in learning about what science says about meditation.

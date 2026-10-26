@@ -20,7 +20,7 @@ Among them, here are my three favorite ones:
 
 ## Lesson 1
 
-### Identifying and healing childhood trauma play an important role in our healing process.
+### Identifying and healing childhood trauma play an important role in our healing process
 
 Childhood is the part of our lives when we form our predominant traits, beliefs, and personality. These early years can define our entire journey. What we hear, see, and learn during this time is crucial. Even though many of the things we remember are just fuzzy memories.
 
@@ -32,7 +32,7 @@ This can negatively affect the quality of our life and make us lose touch with o
 
 ## Lesson 2
 
-### Disarming our survival systems is necessary for a complete healing.
+### Disarming our survival systems is necessary for a complete healing
 
 When there’s an imminent threat or danger, our body immediately reacts to it by spiking up its adrenaline levels to help us boost our power levels and overcome the situation. This is also known as the flight, fight or freeze response.
 
@@ -46,7 +46,7 @@ You can try to incorporate various breathing exercises as a warm-up before your 
 
 ## Lesson 3
 
-### Healthy boundaries can help build better relationships with yourself and those around you.
+### Healthy boundaries can help build better relationships with yourself and those around you
 
 Oftentimes we perceive boundaries as something negative and rigid, and we avoid saying no out of fear that the interlocutor will form a poor impression of us. However, knowing your limits and respectfully communicating them is a sign of emotional intelligence.
 
@@ -59,7 +59,5 @@ Secondly, impose resource boundaries. Talk openly about your time and money avai
 ## Review
 
 LaPera takes the readers on a healing journey that starts from within. *How to Do the Work* builds on the idea of a human being as a whole and teaches its readers how to take care of each element that makes up their persona. Dealing with childhood trauma, adopting a healthier routine, and accepting one’s authentic self at all stages of their life are just some of the concepts presented in this book that will change your view on self-healing.
-
-## Who it’s for
 
 The person who wants to embrace change and improve their spirituality, the 45-year-old who feels as if they are going through a midlife crisis, or anyone who’s feeling burnt out and is looking for healing.

@@ -20,7 +20,7 @@ Are you ready to add the lessons of history to your skill set for maneuvering th
 
 ## Lesson 1
 
-### Equality comes at the cost of freedom, because humans are unequal by nature.
+### Equality comes at the cost of freedom, because humans are unequal by nature
 
 Competition is something that’s hardwired into our genes. Hunting, fighting, even killing was once the key to our survival, so it made sense for our genes to program us for it. Social cooperation only developed because it at some point became an even bigger advantage for surviving, and to this day, humans tend to only cooperate because it gives them a competitive edge, whether that’s in units of families, communities, companies or nations.
 
@@ -32,7 +32,7 @@ The more complex communities get, the more specialization they require, so **the
 
 ## Lesson 2
 
-### Human evolution has been social, not biological, until this point.
+### Human evolution has been social, not biological, until this point
 
 Can you imagine living in the Middle Ages? You probably only have a very vague idea of what that’d be like, right? However, Will Durant says human nature hasn’t changed all that much. Come to think of it, most of our evolution has been social, not biological.
 
@@ -46,7 +46,7 @@ However, we’re on the verge of upgrading our biology for the first time ever, 
 
 ## Lesson 3
 
-### War is the natural state of the world, so it’s unlikely we’ll ever see world peace.
+### War is the natural state of the world, so it’s unlikely we’ll ever see world peace
 
 Since competition is such an integral part of humans, it naturally follows that war is also a common state of mankind. This is something that’s not obvious, and you might not want to hear it, but it’s true. Throughout history, earth has been free of war of any kind less than 10% of the time.
 
@@ -57,7 +57,5 @@ The only reason states unite is to fight off even bigger threats, which rarely h
 ## Review
 
 Every time I find a great book about history, biology, or any other school subject, that perfectly explains many things that should be part of general education, I get a little mad. Why didn’t we learn *this* in school? Better late than never though. *The Lessons of History* is an absolute must-read.
-
-## Who it’s for
 
 The 16 year old student, who’s bored out of her mind in history class, the 42 year old sci-fi nerd, who loves movies like Terminator and I Robot, and anyone who dreams of world peace.

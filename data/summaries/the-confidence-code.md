@@ -20,11 +20,11 @@ Are you ready for a boost to your self-esteem? Let’s dive right in!
 
 ## Lesson 1
 
-### The bridge between our thoughts and actions is confidence.
+### The bridge between our thoughts and actions is confidence
 
 Do you ever look back at your life and wish you would have done something or said something when you had the opportunity? Many of us do. This is a sign that something was within our power, but we lacked the confidence to actually go for it.
 
-When we lack confidence, we decide to stay inactive. Women seem to be especially prone to this kind of inaction. **Because you aren’t totally confident that your efforts will be successful, you are scared to even*try*.**
+When we lack confidence, we decide to stay inactive. Women seem to be especially prone to this kind of inaction. **Because you aren’t totally confident that your efforts will be successful, you are scared to even *try*.**
 
 One example of how women fall prey to this mindset more than men is an experiment done by professor Zach Estes. It involved solving complicated puzzles, and at first, it seemed men performed better than women on the test. But when he looked further, he discovered that women often left many questions unanswered.
 
@@ -32,7 +32,7 @@ So Estes asked them to do the test again, but this time, answer every single que
 
 ## Lesson 2
 
-### The difference between women and men as well as gender stereotypes play into why women often hold back in the workplace.
+### The difference between women and men as well as gender stereotypes play into why women often hold back in the workplace
 
 We can all agree men and women should be treated equally. But it’s hard to argue that there aren’t innate differences between the two genders. Both have different levels of hormones as well as a slightly different brain structure.
 
@@ -44,7 +44,7 @@ However, it’s important to understand that women can act on their softer side 
 
 ## Lesson 3
 
-### Even though there is a genetic component, we can learn to be confident.
+### Even though there is a genetic component, we can learn to be confident
 
 With the advancements in genetic research today, we know that character traits such as aggression and confidence are written in our genes. Scientists have found that our genes determine up to 50 percent of our confidence. So if half of our confidence comes from genes, what about the other half?
 
@@ -61,7 +61,5 @@ We know that not being as confident causes us to be inactive. This is mainly for
 ## Review
 
 *The Confidence Code* is a great book that should be read by women everywhere. Whether you lack confidence or not, you will learn something. The more we can encourage young girls and women to be more confident and try for their dreams, the better the world will be.
-
-## Who it’s for
 
 The 37-year-old mom who wants to start a business but is afraid, the 53-year-old businesswoman who worries about standing up for herself in meetings, and every woman young or old.

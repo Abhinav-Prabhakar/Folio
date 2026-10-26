@@ -18,7 +18,7 @@ Here we go!
 
 ## Lesson 1
 
-### Mainstream feminists and progressives often overlook the disadvantaged when fighting for policies.
+### Mainstream feminists and progressives often overlook the disadvantaged when fighting for policies
 
 Kendall learned a lot about feminism from her grandmother, who didn’t consider herself a feminist. Why? Because as a woman of color, she felt that feminism really was only looking out for white women.
 
@@ -34,7 +34,7 @@ The wealth gap puts women at a much higher risk of eviction or homelessness. Thi
 
 ## Lesson 2
 
-### White women are reassured by the criminal justice system, while people of color can’t count on it.
+### White women are reassured by the criminal justice system, while people of color can’t count on it
 
 If I asked you how we can address sexual or gendered violence, what would you say? White women usually would count on law enforcement to address these issues. They would assume that the perpetrator would be taken away by police and be punished, while the victim receives justice. This is known as *carceral feminism.*
 
@@ -52,7 +52,7 @@ This all goes to show carceral feminism isn’t protecting everyone equally.
 
 ## Lesson 3
 
-### It isn’t enough just to be an ally to marginalized women, you should be an accomplice.
+### It isn’t enough just to be an ally to marginalized women, you should be an accomplice
 
 It’s understandable that the people that face issues like this would be angry. Imagine how you would feel if your water was dangerous to drink or the police killed your child. This anger can be used for good, but the problem is that it gets bad press, particularly if Black women are angry.
 
@@ -67,7 +67,5 @@ What we really need to do is reevaluate and change feminism. So much of it is in
 ## Review
 
 *Hood Feminism* takes an important dive into a side of equality that most people don’t think about. We need to tackle these issues if we want a chance at solving them, and I’m glad this book brought these up. Hopefully, by looking at some of the pitfalls of progressive ideas, we can actually start to help those who suffer the most.
-
-## Who it’s for
 
 The 24-year-old who considers herself a feminist but doesn’t realize there are aspects of it she may be missing, the 53-year-old woman of color who wants others like her to not have to suffer so much, and anyone that wants to see a new but critical side of equality.

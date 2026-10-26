@@ -18,7 +18,7 @@ Let’s look at how you can merge Eastern spirituality with Western drive, shall
 
 ## Lesson 1
 
-### Accept your struggles, because the people who make your life difficult are here for a reason too.
+### Accept your struggles, because the people who make your life difficult are here for a reason too
 
 Imagine you move to a new place. Apartments are expensive, so you decide to get a roommate to share rent with. For the first week, things go great. But then you start to discover little annoyances here and there and after two months, you’re really upset by some of your roommate’s behaviors.
 
@@ -32,7 +32,7 @@ Accepting where you are and not forcing your view of the world on others is what
 
 ## Lesson 2
 
-### Manifest your desires with intense, positive thoughts.
+### Manifest your desires with intense, positive thoughts
 
 However, that doesn’t mean you should just let yourself get steamrolled whenever there’s a dispute. It just means you have to look for a different way of making your dreams come true. Instead of arguing where the world throws negativity at you and trying to flip it, why not direct your positive intentions forward in those areas of life that really matter?
 
@@ -46,7 +46,7 @@ The universe has a funny way of working out, but in essence, **you’ll most oft
 
 ## Lesson 3
 
-### Let your life’s purpose find you, instead of desperately struggling to find it.
+### Let your life’s purpose find you, instead of desperately struggling to find it
 
 This is one of the lessons that couldn’t be closer to my heart at the time I’m writing it. Just two days ago, I had a huge mental shift. For weeks I’ve been working on and preparing the launch of a product based on the content I’ve created all year long. But something didn’t feel right. And then I realized: I want to be a full-time writer, **but not at all cost**.
 
@@ -61,7 +61,5 @@ And then let the rest fall into place. Once you start waking up excited every da
 ## Review
 
 These laws aren’t complicated. But they don’t exactly feel simple either. I think that’s because they pull from two opposing sides. And while that makes them not quite easy to fully embrace, it’s also what makes them so very powerful. If you’re hungry, if you want to achieve big things, but feel your impatience is sometimes hurting you in the process, *The Seven Spiritual Laws Of Success* is for you.
-
-## Who it’s for
 
 The 21 year old college student, who’s unhappy with her roommates, the 53 year old bus driver, who spends most of his day complaining about his passengers, and anyone who’s really frustrated that they haven’t found their purpose in life yet.

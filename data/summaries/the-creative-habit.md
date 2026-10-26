@@ -18,7 +18,7 @@ Want to build a creative habit that’ll last you a lifetime? Let’s get to wor
 
 ## Lesson 1
 
-### Have a daily starting ritual to get your creative process going.
+### Have a daily starting ritual to get your creative process going
 
 You can’t be creative on command. No one can. Not even the world’s most genius writers, musicians and painters. So how do they keep churning out hit after hit? Simple: they show up to work, every day. And then they accept that creativity itself ebbs and flows.
 
@@ -30,7 +30,7 @@ One thing you can do that’ll tremendously help in building such a habit is to 
 
 ## Lesson 2
 
-### Use a project box to organize, prepare and recalibrate yourself at work.
+### Use a project box to organize, prepare and recalibrate yourself at work
 
 Every time you start a new, creative project, you can take a simple cardboard box, write the name of the project on it, and then put all of your resources and materials into the box. Whatever you need to complete the project goes in there.
 
@@ -46,7 +46,7 @@ It doesn’t even have to be a box. You can use drawers, a folder, or even organ
 
 ## Lesson 3
 
-### Make it easy to pick up work again by leaving right in the middle of something.
+### Make it easy to pick up work again by leaving right in the middle of something
 
 This trick comes from one of the most famous authors of all time: Ernest Hemingway. Combined with your starting ritual, it’ll really help get your hands, feet, or whatever you use to create your work, moving.
 
@@ -61,7 +61,5 @@ This way, when you begin again one day later, you’ll remember what you wanted 
 ## Review
 
 I’m not a dancer. I don’t know much about ballet. But that doesn’t mean I can’t learn from someone who’s spent their entire life doing it. Whatever the occasion may be, if you have a chance to learn from someone who’s been in an industry for over 50 years, you should take it. Doing great work for so long comes with many life lessons that extend way beyond what’s important in any given field. When mentors talk, listen. No matter what you want to be mentored in. Thumbs up for *The Creative Habit*.
-
-## Who it’s for
 
 The 13 year old ballet dancer, who’s not sure if she should go for the big leagues or give up when school gets serious, the 47 year old father, who secretly kicks himself for being on the softball team, but not making time for his novel ideas, and anyone who feels blocked every time they sit down to do something creative.

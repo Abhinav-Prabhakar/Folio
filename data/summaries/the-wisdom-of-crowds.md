@@ -18,7 +18,7 @@ Ready to get smarter? Let’s go!
 
 ## Lesson 1
 
-### Big crowds reach smarter decisions than individuals.
+### Big crowds reach smarter decisions than individuals
 
 When Francis Galton visited a livestock fair in 1906, he surely wasn’t expecting this. Over 800 contestants entered a contest where they had to guess the weight of an ox.
 
@@ -34,7 +34,7 @@ A modern example would be Wikipedia. While no single person could have provided 
 
 ## Lesson 2
 
-### Herd behavior can weaken the power of crowd decisions.
+### Herd behavior can weaken the power of crowd decisions
 
 Sometimes groups reach wrong decisions, despite being big and diverse. One of the reasons can be herd behavior.
 
@@ -65,7 +65,7 @@ Even if we are smarter in groups, we should still always think independently and
 
 ## Lesson 3
 
-### You should think more like a pedestrian.
+### You should think more like a pedestrian
 
 Why do groups work in the first place? Because **they automatically coordinate themselves, as long as everyone’s looking out for other people.**
 
@@ -86,7 +86,5 @@ So think a bit more like a pedestrian, and everyone will win!
 I loved the introductory example of *The Wisdom Of Crowds*, I did not expect this idea to be “so old”. Again, the non-internet examples were a lot of fun and made me think about coming up with more modern examples on my own.
 
 I’d definitely consider getting the book, I expect it to have lots more examples. Highly recommended read for anyone who’s trying to build a company.
-
-## Who it’s for
 
 The 14 year old, who’s curious about math and a bit of a hobby scientist, the 32 year old who’s in the early stages of his small business with few team members, and anyone who doesn’t really pay attention when walking around on the street.

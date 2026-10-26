@@ -18,11 +18,9 @@ Here are 3 lessons from the book to help you communicate better than you ever ha
 
 Let’s see what it takes to become a supercommunicator!
 
-### Supercommunicators Summary
-
 ## Lesson 1
 
-### The root of all great communication is alignment with other human beings.
+### The root of all great communication is alignment with other human beings
 
 When he was 18, Alex Hormozi worked for a fur coat dealer. One day, a lady made a scene about a button coming off. Instead of defending his product, John, the store owner, got worked up on the lady’s behalf. “Mrs. Johnson! This is outrageous! Who sold this coat to you? We’ll fire them *immediately*!”
 
@@ -34,7 +32,7 @@ Aligning with others is about more than just mimicking them. “To become a supe
 
 ## Lesson 2
 
-### Most of our conversations fall into 1 of 3 important-to-recognize categories.
+### Most of our conversations fall into 1 of 3 important-to-recognize categories
 
 To align with people, you must quickly identify what *kind* of conversation is taking place. That requires a framework to place conversations in, and said framework marks the core of Duhigg’s book. These 3 conversations are our most common:
 
@@ -52,7 +50,7 @@ Many conversations go through all 3 of these stages. So let’s see how we can b
 
 ## Lesson 3
 
-### Use 4 rules to turn any discussion into “a learning conversation” and thus find alignment with others.
+### Use 4 rules to turn any discussion into “a learning conversation” and thus find alignment with others
 
 The most important takeaway from Duhigg’s book might be this: **When you try to turn *every* conversation into a *learning* conversation, you’ll quickly get better at identifying types of discussions — and thus also at matching and connecting with other people**.
 
@@ -71,12 +69,10 @@ Let’s say she tells you she is stressed by her non-work life as a single-paren
 
 Finally, test the water on social identities. “Are you proud to be a successful single-mom?” If her frustration seems to go back to that identity, perhaps reminding her that she is also a valued member of your company is a good place to start!
 
-There’s no one right way to use these rules, but if you keep practicing them, you’ll quickly become a better, perhaps even a *super* communicator!
+There’s no one right way to use these rules, but if you keep practicing them, you’ll quickly become a better, perhaps even a *super*communicator!
 
 ## Review
 
 Whether it’s *The Power of Habit*, *Smarter Faster Better*, or his research as a journalist, Charles Duhigg does not half-ass things — and *Supercommunicators* is no exception. It’s an excellent, well-compiled book full of interesting stories and practical tips. Yo’ull definitely find a few insights here that’ll help you communicate better!
-
-## Who it’s for
 
 The 13-year-old pubescent boy, who suddenly seems to fall out with his parents a lot, the 32-year-old university teacher who’s struggling to connect with her students, and anyone who regularly runs meetings at work.

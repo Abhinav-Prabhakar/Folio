@@ -23,11 +23,9 @@ Today, I want to share with you why we need them, which one I think is most impo
 
 Are you ready for some ancient, Toltec wisdom in your life? Let’s make history practical!
 
-### The Four Agreements Summary
-
 ## Lesson 1
 
-### Our environment domesticates us from childhood and it leads us to live an unreflected life.
+### Our environment domesticates us from childhood and it leads us to live an unreflected life
 
 There are a lot of elements of our lives we don’t choose or have control over. Don Miguel Ruiz calls the sum of these “domestication.” It’s a process that starts the day we’re born. You don’t pick your first language, you don’t choose your first school and you can’t control what attitudes your parents instill in you.
 
@@ -39,7 +37,7 @@ How do you break out of this cycle? With a new set of agreements!
 
 ## Lesson 2
 
-### Nothing people say or do to you is personal, but you need to know who you are to be okay with that.
+### Nothing people say or do to you is personal, but you need to know who you are to be okay with that
 
 One of those new internal rules you should try to adopt is to never take anything personally. It’s the second of the four agreements and I believe it’s the most powerful. I recently explained it to a friend over dinner.
 
@@ -51,7 +49,7 @@ According to Ruiz, the only way to really make this a habit is to become very, v
 
 ## Lesson 3
 
-### You can use three ways to break old agreements, free yourself and come up with your own.
+### You can use three ways to break old agreements, free yourself and come up with your own
 
 Can you see how powerful such a new agreement might be when you really embrace it? There are lots of them, waiting to be learned. But to pull off this kind of massive change, you first need to free yourself from the shackles of your old, domesticated system. Don Miguel Ruiz suggests three ways you can do this:
 
@@ -64,7 +62,5 @@ These all take time, repeated practice and finding out how you can make them wor
 ## Review
 
 I liked *The Four Agreements* because it draws on a stack of knowledge we don’t bump into too often: Toltec culture. These principles aren’t revolutionary, but solid ground to build on. Heads up: There’s a follow up to this book too, called *The Fifth Agreement*, which acts as both an updated and expanded version of this book.
-
-## Who it’s for
 
 The 18 year old dancer, who really struggles with her mom’s negative comments, the 33 year old actor, who constantly has to deal with personal feedback and anyone who has a hard time saying sorry.

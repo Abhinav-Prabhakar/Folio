@@ -22,7 +22,7 @@ Are you excited to discover how to change your career direction for the better? 
 
 ## Lesson 1
 
-### Make yourself aware of your financial situation and your strengths to prepare for your career pivot.
+### Make yourself aware of your financial situation and your strengths to prepare for your career pivot
 
 I remember clearly the fear and panic I had as I finally admitted that I wasn’t happy with Civil Engineering and needed to change.
 
@@ -36,7 +36,7 @@ Next, you’ll need to look at your finances to make sure you can still make end
 
 ## Lesson 2
 
-### Don’t wait for opportunities, actively seek them or get out there and create them.
+### Don’t wait for opportunities, actively seek them or get out there and create them
 
 Habit one of *The 7 Habits of Highly Successful People* is to be proactive. This means you’re always taking personal responsibility for your situation and seeking to improve it instead of blaming others or remaining idle.
 
@@ -52,7 +52,7 @@ This led me to discover Medium.com and begin writing there. 200 articles later I
 
 ## Lesson 3
 
-### Use small experiments to test out your potential new career so that you can manage the risk.
+### Use small experiments to test out your potential new career so that you can manage the risk
 
 After getting to know your strengths, finances, and opportunities, you may already have found your new career panning out nicely. You won’t want to miss this last step, however, because it’s a vital component to make sure your efforts are successful.
 
@@ -71,7 +71,5 @@ Then, when my company let me go unexpectedly, I was in the perfect position to b
 ## Review
 
 *Pivot* is my kind of book! With the major career transition I’ve been through recently I loved these tips and I only wish I had the book sooner. If the idea of being in your current line of work for the rest of your life makes you sick, then this is the book for you!
-
-## Who it’s for
 
 The 23-year-old who just graduated from college and wants to make sure they make the best career decisions, the 47-year-old that’s sick of their job but too afraid to make the leap into a better field, and anyone who’s looking to change careers.

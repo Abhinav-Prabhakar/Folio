@@ -22,7 +22,7 @@ Statistics are not dull at all, and this is what you’re going to learn in the 
 
 ## Lesson 1
 
-### Statistics can only offer so much information when humans are involved in the collection of data.
+### Statistics can only offer so much information when humans are involved in the collection of data
 
 Data is only one part of the story. Statisticians use numbers and patterns to create their studies, but part of their job is to understand what they’re measuring first. If their data comes from a study where people were surveyed, the final product may not be quite an objective truth.
 
@@ -36,7 +36,7 @@ For example, if you’re chasing a murderer as a policeman, you’re likely goin
 
 ## Lesson 2
 
-### The media often inflates data so as to increase their click-through rate.
+### The media often inflates data so as to increase their click-through rate
 
 Data is often displayed in a way that is meant to be eye-catching and exciting but could be misleading. For example, consider the recent study on the effects of coffee consumption on heart disease. The results were presented as follows:
 
@@ -50,7 +50,7 @@ The media tends to take this type of information and present it in a way that ma
 
 ## Lesson 3
 
-### Just because two things are correlated, it doesn’t mean that they caused a certain outcome.
+### Just because two things are correlated, it doesn’t mean that they caused a certain outcome
 
 Correlation is often seen as caused by people, but that’s simply a misconception most of the time. Unfortunately, the media and those who love good gossip like to twist such manipulable information to an explosive outcome.
 
@@ -58,7 +58,7 @@ For example, when we hear that a new study has found that people who drink coffe
 
 Of course, this isn’t necessarily true: perhaps those who drink coffee are simply more likely to have chosen careers where productivity is valued and rewarded, or that’s where the study was conducted.
 
-The same thing can happen with health statistics. **Numbers don’t lie, butpeople can.** For example, one study found that women who ate meat were less likely to get cancer than women who didn’t eat meat—but this doesn’t mean that eating meat will prevent cancer.
+The same thing can happen with health statistics. **Numbers don’t lie, but people can.** For example, one study found that women who ate meat were less likely to get cancer than women who didn’t eat meat—but this doesn’t mean that eating meat will prevent cancer.
 
 It could just mean that women who don’t eat meat are also less likely to get cancer for other reasons (maybe they exercise more or smoke less). People and certain studies fail to include essential factors in their research a lot of times, which leads to misinterpretations.
 
@@ -67,7 +67,5 @@ It could just mean that women who don’t eat meat are also less likely to get c
 If you’re like me, you might be a little intimidated by the idea of statistics. I mean, who wants to spend their free time studying data sets when they could be watching Netflix? Well, *The Art of Statistics* might change your perception!
 
 The book is packed with fun examples that illustrate how statistics are used every day—and it even explains how to do the math yourself if you want to get into the nitty-gritty of it all. I recommend it to anyone who loves a good read on weekends.
-
-## Who it’s for
 
 The 23-year-old statistics student who is passionate about this subject, the 34-year-old marketing director who wants to learn more about data’s impact on the world, or the 29-year-old concerned citizen who wants to learn how to filter out fake data from relevant studies.

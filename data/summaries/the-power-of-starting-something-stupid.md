@@ -22,7 +22,7 @@ Ready to start something stupid? Here we go!
 
 ## Lesson 1
 
-### If you have an idea people think is stupid, only trust your instincts.
+### If you have an idea people think is stupid, only trust your instincts
 
 You’ve been there before. I know you have. You came up with something you thought was a BRILLIANT idea, like using iPads in restaurants to replace waiters.
 
@@ -36,7 +36,7 @@ Stupid? Yes. But in 2012, I ordered at a restaurant at the Toronto airport with 
 
 ## Lesson 2
 
-### Give yourself the freedom to fail by breaking your idea down into small projects.
+### Give yourself the freedom to fail by breaking your idea down into small projects
 
 Now your idea can be as stupid as you want, but that doesn’t mean you get to be stupid about how you execute it. If your goal is to run a successful blog, it’s super easy to postpone even starting, because there are so many things to do.
 
@@ -52,11 +52,11 @@ As long as I continue doing that, I’ll be there faster than I think.
 
 ## Lesson 3
 
-### Work with what you’ve got, instead of making excuses.
+### Work with what you’ve got, instead of making excuses
 
 Yes, you don’t have the money to buy a fancy ice cream machine. Sure, you’ve never run an ice cream parlor before. Okay, none of your friends have one either, I get it. But getting fixated on what you *don’t* have won’t move you one inch closer to your goal. Not one bit.
 
-**Sowork with what you’ve got**. Start selling ice cream out of your kitchen window. Make it with a shitty ice cream maker you bought on Amazon for $20. And just learn as you go.
+**So work with what you’ve got**. Start selling ice cream out of your kitchen window. Make it with a shitty ice cream maker you bought on Amazon for $20. And just learn as you go.
 
 Leverage the things other people have done. No movie theater makes its own movies, farmers don’t lay their own eggs and Google really just points you to other websites. If you want to start a daily vlog, use the camera that’s on your laptop. Get a free Wordpress domain if you can’t afford one.
 
@@ -69,7 +69,5 @@ Four Minute Books is an entirely stupid idea. I mean, I read book summaries and 
 But it’s *my* idea. I like it. And you like it too, otherwise you wouldn’t be here. So maybe it’s not as stupid as people sometimes tell me it is. I feel good doing it, so I’ll keep going. If anything, the summary of this book made me feel even better about it, and I’m very comfortable recommending it.
 
 Finally someone who tells us to take a stand for what we believe in, instead of fixating on tactics and strategy to “do stuff that works.” The truth is everything works if you do it long enough. This book will give you the courage to start. That’s… *The Power Of Starting Something Stupid*.
-
-## Who it’s for
 
 The 31 year old young professional, who just can’t seem to find the time to start composing that song he started years ago, the 49 year old stay-at-home-wife who wants to start a fashion business but feels like lack of money, experience and advice are holding her back, and anyone who’s ever been told their ideas were stupid.

@@ -16,11 +16,9 @@ Here are 3 lessons from it to help you worry and regret less:
 
 Ready for a trip to this beautiful place called the present? Let’s go!
 
-### The Power of Now Summary
-
 ## Lesson 1
 
-### All life is is a series of present moments.
+### All life is is a series of present moments
 
 If I asked 100 people to name the two most common bad feelings they can think of, 99 of them would probably respond with regret and anxiety.
 
@@ -38,7 +36,7 @@ But if you just start solving the first tiny problem and come up with an outline
 
 ## Lesson 2
 
-### Any pain you feel results from resisting the things you can’t change.
+### Any pain you feel results from resisting the things you can’t change
 
 I’m a big fan of stoicism. Part of their philosophy includes the idea that the only pain you really suffer is the one you create yourself.
 
@@ -50,7 +48,7 @@ When you’re angry, that anger usually makes you think and act less rational, w
 
 ## Lesson 3
 
-### You can free yourself from pain by constantly observing your mind and not judging your thoughts.
+### You can free yourself from pain by constantly observing your mind and not judging your thoughts
 
 How then, can you get rid of pain? Tolle recommends 2 things:
 
@@ -66,7 +64,5 @@ These two tools will help you separate your body from your always-on, thought-dr
 ## Review
 
 Enlightened spiritual teacher or insane quack? Opinions on *The Power of Now* couldn’t fall farther apart. But that’s not what we care about at Four Minute Books. We care about learning from the best in the world. And when a book sells 3 million copies, that sure is something to pay attention to. I didn’t use to be into meditation, but now I am, and this book has helped me a lot on my mindfulness journey. I’m sure it can do the same for you if you give it an honest try!
-
-## Who it’s for
 
 The 29 year old, who’s worried, because she hasn’t figured out her life yet, the 85 year old who regrets the many stupid things he did during his youth and at war, and anyone who spends more time complaining than actually working on improving things.

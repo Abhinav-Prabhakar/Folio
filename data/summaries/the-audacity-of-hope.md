@@ -20,7 +20,7 @@ Ready for a glimpse into the mind of the skinny kid with a funny name, who’s c
 
 ## Lesson 1
 
-### Freedom and community are the two central beliefs of the American people.
+### Freedom and community are the two central beliefs of the American people
 
 The groundwork for Obama’s political work is based on a solid understanding of what the core beliefs of all Americans are. In the book, he describes how the founding fathers set the tone with the two documents, which describe the American ideal: the Constitution and the Declaration of Independence.
 
@@ -35,7 +35,7 @@ However, the founding fathers knew that ensuring this freedom by sustaining a de
 
 ## Lesson 2
 
-### Politicians are forced to hang around rich people all the time, which makes it hard for them to do their job.
+### Politicians are forced to hang around rich people all the time, which makes it hard for them to do their job
 
 It’s any politician’s job to ensure this freedom. But doing that job can be really hard, Obama says, because politicians are constantly influenced by a lot of outside forces, **three in particular being money, the media and large, special interest groups and organizations**.
 
@@ -51,7 +51,7 @@ Obama proposed public campaign founding and free media air time for presidential
 
 ## Lesson 3
 
-### The battles we fight on a global scale today are battles of ideas and therefore can’t be won with weapons.
+### The battles we fight on a global scale today are battles of ideas and therefore can’t be won with weapons
 
 The reason the influences politicians face are so problematic is that we now need them to be unbiased and freely speak their mind more than ever before.
 
@@ -66,7 +66,5 @@ This is not only the only sustainable work to resolve international conflicts, i
 ## Review
 
 Sure, not all of the ideas in Obama’s book stand on solid ground, but name one person whose ideas are all great. I still think Obama’s one of the most human presidents the US has ever had. I try to look at the person, not the political agenda, and I’ve never seen anyone in office more sincere than Barack Obama. If you want to learn more about one of America’s greatest presidents, *The Audacity Of Hope* is the place to start.
-
-## Who it’s for
 
 The 20 year old politics major, who aspires to run for office one day, the 35 year old entrepreneur, who wants to adapt his company to the political situation in the best way possible, and anyone who thinks Barack Obama has been a great US president.

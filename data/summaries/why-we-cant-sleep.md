@@ -20,13 +20,13 @@ Let’s see why this perplexing situation is happening and what we can do about 
 
 ## Lesson 1
 
-### Generation X girls were brought up to believe they could have everything, and this is simply not true.
+### Generation X girls were brought up to believe they could have everything, and this is simply not true
 
 In the age of feminists, women were really excited about the progress they were making. And society was making great progress, so women were justified in being excited about everything that was available to women now.
 
 As a result, girls raised in this time were told they could “have it all.” This meant they no longer had to be a secretary, they could be the boss. They could achieve whatever they wanted professionally and even have a great social circle and family life.
 
-These promises came with immense pressure. **Now that girls thought they *could* do everything, they were made to feel like they *had* todoeverything.** They had all of these new freedoms, and if they didn’t achieve their dreams, it came down to their own failures.
+These promises came with immense pressure. **Now that girls thought they *could* do everything, they were made to feel like they *had* to do everything.** They had all of these new freedoms, and if they didn’t achieve their dreams, it came down to their own failures.
 
 But the problem was that they were things out of their control that made it hard to achieve these ambitions. One of these was successive recessions as they reached adulthood which caused job insecurity and surmounting debt. Another thing holding them back was the atmosphere in their workplace didn’t change with the new gender norms.
 
@@ -34,7 +34,7 @@ These challenges were out of their control, but yet they feel like it’s their 
 
 ## Lesson 2
 
-### Women in this age group have to deal with age and gender discrimination in the workplace all while managing a family.
+### Women in this age group have to deal with age and gender discrimination in the workplace all while managing a family
 
 Generation X women were taught that they could and should aspire to be the CEO if that was their dream. But because gender discrimination is still rampant in the workplace, many of these women are disappointed to find themselves stuck in low-earning jobs by middle age.
 
@@ -48,7 +48,7 @@ All of their duties are placed on top of needing to work more and more as things
 
 ## Lesson 3
 
-### You can start to feel better in your crisis by coming to terms with what life is really like, and the lies you were told.
+### You can start to feel better in your crisis by coming to terms with what life is really like, and the lies you were told
 
 So what can we do about it? Calhoun’s answer is that women start coming to terms with reality. We are constantly shown perfect images on social media of people living lives more glamorous, rich, or exciting than ours. But the truth is, most women of this generation probably feel a lot like you do.
 
@@ -63,7 +63,5 @@ Lastly, it’s important to make sure you get the support you need. You can find
 ## Review
 
 This is just crazy and so saddening that women of this generation are dealing with so much. Originally I thought *Why We Can’t Sleep* would be about why everybody can’t sleep, but I now know why some have it much harder than the rest. I hope that we can all have more compassion and help lift all women around us, Gen Xers or otherwise!
-
-## Who it’s for
 
 The 45-year-old husband of a woman who is having a hard time coping with everything they’ve got going on, the 35-year-old economist who is curious to understand how hard stock market crashes are on people, and any woman who was born between 1965 and 1980 who wants to know that everything is going to be okay.

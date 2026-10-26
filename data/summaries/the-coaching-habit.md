@@ -20,7 +20,7 @@ Let’s discover how to empower people by making simple changes to how we ask qu
 
 ## Lesson 1
 
-### You can beat the overwhelm that comes from being the bottleneck by learning to practice the coaching habit.
+### You can beat the overwhelm that comes from being the bottleneck by learning to practice the coaching habit
 
 If you’re a manager or leader of any kind, you probably feel buried beneath all of your responsibilities. You feel like you’re running around between meetings and employees. Checking emails between responsibilities is a must, just to stay afloat. All of your employees come to you whenever the team needs to make a decision. You continue the easy route of making choices yourself, rather than empowering your employees.
 
@@ -32,7 +32,7 @@ When you lead as a coach every day, your employees grow more self-sufficient. Ov
 
 ## Lesson 2
 
-### To move individuals on your team forward, learn how to ask the right questions.
+### To move individuals on your team forward, learn how to ask the right questions
 
 You may already be trying to teach in your office, and that’s good. Unfortunately, you likely fall prey to some of the easy traps that keep you talking and your employees needs unheard. Developing a coaching habit is as simple as using the following questions when with your employees:
 
@@ -56,7 +56,7 @@ Remember that regardless of the question, the key to effective coaching is in li
 
 ## Lesson 3
 
-### Asking good questions in the right way is vital for motivating your team.
+### Asking good questions in the right way is vital for motivating your team
 
 So now that you know what to ask, the next step is to learn how to ask it so your employees respond positively. Doing this the wrong way can leave individuals feeling interrogated or uncomfortable.
 
@@ -71,7 +71,5 @@ Most importantly, practice good listening skills. Silence may be uncomfortable t
 ## Review
 
 I really enjoyed *The Coaching Habit*! The advice is more for a manager rather than someone who is looking to become a coach themselves, but will still help anyone who wants to coach. I believe that any coach or leader can implement the tips this book gives and see results the same day!
-
-## Who it’s for
 
 The 30-year-old employee at a new startup who wants to improve, the 52-year-old executive who can’t figure out how to get his employees to the next level of performance, and anyone who leads a team or wants to coach.

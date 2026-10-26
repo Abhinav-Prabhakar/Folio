@@ -20,7 +20,7 @@ Ready to look for answers to some serious existential questions? Then let’s jo
 
 ## Lesson 1
 
-### Faith can extend far beyond religion.
+### Faith can extend far beyond religion
 
 Upon hearing the word “faith,” most of us immediately think about religion. Atheists may say that they don’t embrace any faith, just because they don’t believe in God.
 
@@ -36,7 +36,7 @@ But such seeking doesn’t come without moments of doubt.
 
 ## Lesson 2
 
-### Doubt can be seen as an opportunity, rather than a threat to your faith.
+### Doubt can be seen as an opportunity, rather than a threat to your faith
 
 Carter doesn’t shy away from talking about the moments when he felt doubtful about his faith and God. Instead of being embarrassed, he frames it as a natural element occurring throughout a sincere religious search. Moreover, he shows that doubt can also be used as an opportunity to enhance one’s faith.
 
@@ -48,15 +48,15 @@ His search eventually led him to study the ideas of theologians, such as Reinhol
 
 Carter’s story of religious doubt, search and enlargement of his faith seems to be a great illustration of Jesus’ famous words:
 
-> *“* *Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”*
+> *“Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”*
 
 ## Lesson 3
 
-### If you look closely, science and religion are two complementary ways of exploration.
+### If you look closely, science and religion are two complementary ways of exploration
 
 Before he became president, Jimmy Carter worked as a nuclear scientist for the US government. His technical education combined with devout religious faith gave him a distinct voice to speak about the relationship between religion and science.
 
-In *Faith*, his stance is that the two are complementary to one another. **One doesn’t have to choose between having faith in either religion*or* science *.*** Each serves a purpose in describing the human experience. They just cover different areas of it.
+In *Faith*, his stance is that the two are complementary to one another. **One doesn’t have to choose between having faith in either religion *or* science*.*** Each serves a purpose in describing the human experience. They just cover different areas of it.
 
 Carter explains that the purpose of science is to investigate the phenomena that can be grasped and understood. Its mission is to make the universe more knowable and to use this knowledge to improve upon our collective experience.
 
@@ -69,7 +69,5 @@ The same rules that prevent us from killing, stealing, lying and other hurtful b
 ## Review
 
 *Faith* is a personal account of a long life of serving society through diligent execution of Christian values. The numerous examples from Carter’s own life and the US society clearly show how faith, in all its facets, can be a helpful drive in human life. My most important takeaway is that faith is not a primarily institutional matter. Instead, it’s an individual quality that you can cultivate with passion and intention. Just like Jimmy Carter did.
-
-## Who it’s for
 
 The 40-year-old atheist who recognizes the need to explore the spiritual aspect of his life, the 30-year-old human rights activist who likes to ponder on the philosophical aspect of her actions, and any religious believer who wants to explore the role of faith in their life.

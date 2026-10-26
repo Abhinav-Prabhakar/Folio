@@ -20,7 +20,7 @@ Let’s dive right in and see if this book might change your mind!
 
 ## Lesson 1
 
-### Mazatec Indian tribes of Mexico introduced mushrooms containing psilocybin to Western travelers.
+### Mazatec Indian tribes of Mexico introduced mushrooms containing psilocybin to Western travelers
 
 When we think about the term psychedelic drugs, often what comes to mind is illegal substances, synthesized in some remote lab. We might also think of shady deals conducted in some dark alleyway by street thugs in hoodies. It’s easy to forget that the true origins of these drugs is in nature and that they are organic.
 
@@ -32,7 +32,7 @@ It wasn’t until later that decade when chemists began to artificially synthesi
 
 ## Lesson 2
 
-### We actually are seeing things we normally can’t see during a hallucinatory experience.
+### We actually are seeing things we normally can’t see during a hallucinatory experience
 
 Have you ever heard somebody describe their hallucinatory, psychedelic trip experience? You might hear them talk about seeing changing colors, melting objects and otherworldly lights. Does this mean we can see things that we normally can’t, or are we just hallucinating?
 
@@ -40,11 +40,11 @@ In 2014 there was a study on psychedelic drugs conducted at the Imperial College
 
 The test showed that under psilocybin the brain gets rewired dramatically. Areas that normally function independently from one another begin to communicate. Each specialized section becomes less contained and the brain becomes more integrated as a unit. Many neuroscientists believe this interconnectedness produces a profound and visual drug trip experience that can be magical and mind-blowing.
 
-**So if you can imagineareas of the brain that are normally dedicated to emotion, visual and memory all suddenly interacting together, this is what prompts a whole new way of seeing things in a vivid way.** When the event is positive it can lead to new insights, ideas and can be transformative.
+**So if you can imagine areas of the brain that are normally dedicated to emotion, visual and memory all suddenly interacting together, this is what prompts a whole new way of seeing things in a vivid way.** When the event is positive it can lead to new insights, ideas and can be transformative.
 
 ## Lesson 3
 
-### By creating a new sense of connection, psychedelics can help alleviate depression.
+### By creating a new sense of connection, psychedelics can help alleviate depression
 
 Psychedelics are becoming increasingly more acceptable and mainstream. As recent as 2017 the US Food and Drug Administration (FDA) called for a study that would demonstrate the effectiveness that psychedelics have on treating those with depression.
 
@@ -59,7 +59,5 @@ People with depression can look at something of beauty in nature and fail to fee
 ## Review
 
 *How To Change Your Mind* is a fascinating read that Michael Pollan serves up in his usual well-researched and digestible style. Whatever your stance is on alternative medicine and psychedelic drugs, this book will have you rethinking some of those notions. I give it two thumbs up!
-
-## Who it’s for
 
 The 30-year-old mindfulness and spiritual coach, the 42-year-old journalist who eats up all of Pollan’s written works, and anybody over age 65 who longs again for those trippy, hippy, psychedelic years.

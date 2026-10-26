@@ -22,7 +22,7 @@ I hope you’ve stretched your leg, because we’re about to kick procrastinatio
 
 ## Lesson 1
 
-### We’re not innately lazy. Procrastination is trained into us as kids.
+### We’re not innately lazy. Procrastination is trained into us as kids
 
 “Hasn’t anyone ever taught this kid some discipline?” is probably in the top 10 sentences uttered by grandparents on a regular basis. Often shaped by wars and economic depression, older people often had no choice but to grow up fast and tighten their belts – habits they tend to keep.
 
@@ -45,7 +45,7 @@ If work isn’t fun and only being the best at work is worth something then that
 
 ## Lesson 2
 
-### Try to unschedule your life and build your work around your fun, not the other way around.
+### Try to unschedule your life and build your work around your fun, not the other way around
 
 And that’s exactly the typical scenario you’re left with if you have to give a presentation to your boss. Creating the slides doesn’t sound like fun (because people tell you it’s not supposed to be) and boy, you better ace it, or you might not have to come back tomorrow.
 
@@ -61,7 +61,7 @@ This technique has two major advantages: you show yourself that the focus is on 
 
 ## Lesson 3
 
-### Note down your distractions to block them and evaluate their importance later.
+### Note down your distractions to block them and evaluate their importance later
 
 If you’ve read Getting Things Done, then this will sound very familiar. Fiore says that we let little interruptions take over our attention and day because we deal with them instantly.
 
@@ -76,7 +76,5 @@ You’ll often see things aren’t nearly as urgent or important and save yourse
 ## Review
 
 *The Now Habit* doesn’t seem like it at first, but I think it’s secretly one of the pioneer productivity books. Old is gold and you can save yourself a lot of re-hashed reading by preferring this book over many other, newer productivity books.
-
-## Who it’s for
 
 The 15 year old high schooler, who still has a chance at preserving her motivation and desire to learn, the 43 year old project manager, who can only accomplish big things by thinking in small parts, and anyone who doesn’t keep a proper grocery shopping list.

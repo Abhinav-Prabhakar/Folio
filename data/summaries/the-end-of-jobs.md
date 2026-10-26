@@ -42,6 +42,4 @@ I really liked these blinks. They confirm what James Altucher talks about in Cho
 
 *The End of Jobs* reminded me that I have time and I don’t need to have a successful business tomorrow, but that I should continue to explore my passions and follow these little side projects that I like so much.
 
-## Who it’s for
-
 The 35-45 year old executive manager in a big corporation, the 20 year old college student, and the stay-at-home mom (or dad).

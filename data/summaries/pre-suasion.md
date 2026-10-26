@@ -18,7 +18,7 @@ Ready to learn the art of pre-suasion? Let’s give this a go!
 
 ## Lesson 1
 
-### Leading questions try to get you to respond with certain answers and influence your later decisions.
+### Leading questions try to get you to respond with certain answers and influence your later decisions
 
 Last semester I took a statistics class, for which I had to create a survey about energy drinks. One of the first things we learned was that we must not ask leading questions. **Leading questions are questions which steer the respondent to answer in a certain way.**
 
@@ -30,7 +30,7 @@ What kind of answer you get highly depends on how you ask the question.
 
 ## Lesson 2
 
-### Whatever grabs our attention, we think is relevant.
+### Whatever grabs our attention, we think is relevant
 
 Have you been thinking about terrorism for the last minute or so? That’s because I planted something very attention-grabbing in your head. And the longer you think about it, the more relevant it’ll become in your mind.
 
@@ -42,7 +42,7 @@ So the next time someone tries to sell you an alarm system by citing all kinds o
 
 ## Lesson 3
 
-### Our word choices matter a lot more than we think, because words get us to do things.
+### Our word choices matter a lot more than we think, because words get us to do things
 
 I think you should watch *Entourage*. It’s a hilariously funny TV show, has great guest stars, awesome actors, and a superb soundtrack, especially for people who like hip-hop.
 
@@ -57,7 +57,5 @@ What you say matters. It changes what you do. More than you think.
 ## Review
 
 You have to be bold to come back after 30 years and say: “Look, I wrote another book!” Especially when your first one was so successful. I have nothing but respect for that. And I think Robert Cialdini actually pulled it off. *Pre-Suasion* is getting great reviews, the blinks make a lot of sense to me and this adds a fresh and new perspective to a topic that’s been talked so much about. Bravo!
-
-## Who it’s for
 
 The 16 year old, who can’t seem to get her shopping habit under control, the 26 year old marketer, who can’t figure out how to sell more wine than his competitor, and anyone who wants to watch Entourage now.

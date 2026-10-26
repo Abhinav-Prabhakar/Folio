@@ -20,7 +20,7 @@ Doth mother know thou art wearing her drapes? Just kidding! Let’s see how to a
 
 ## Lesson 1
 
-### Share stories where the person telling it is the protagonist and make sure you include a transformation.
+### Share stories where the person telling it is the protagonist and make sure you include a transformation
 
 The author is good at helping all kinds of people share their experiences. It doesn’t matter if they are a CEO or grandparent, everybody wants to improve their communication skills and engage with their people and he can help them do it.
 
@@ -38,7 +38,7 @@ This is because there is an inherent grittiness and vulnerability of sharing som
 
 ## Lesson 2
 
-### You don’t need to be theatrical when storytelling.
+### You don’t need to be theatrical when storytelling
 
 When sharing a story, one important way to determine its shareability is the dinner test. Simply ask yourself “Would I recount this to a friend at dinner?” If not, then don’t share it!
 
@@ -58,7 +58,7 @@ It’s good that they feel that you’re speaking naturally, as if it’s not pr
 
 ## Lesson 3
 
-### Just five-seconds of the experience is the center of every great story.
+### Just five-seconds of the experience is the center of every great story
 
 One of the author’s greatest secrets is to focus on the climax of the story. In his experience, this usually involves a simple, five-second moment in which a person’s life changes forever.
 
@@ -79,7 +79,5 @@ And it’s what other people remember most every time he shares it.
 ## Review
 
 I really enjoyed this book. After reading a lot of books about the power of storytelling, I’m pretty used to the typical advice, but *Storyworthy* gives a ton of great new ideas. Anyone can benefit from them too because no matter your career or lifestyle this is an important aspect of life!
-
-## Who it’s for
 
 The 32-year-old blogger who has a difficult time hooking their readers at the beginning of their posts, the 58-year-old keynote speaker, and anyone that wants to improve their persuasion skills.

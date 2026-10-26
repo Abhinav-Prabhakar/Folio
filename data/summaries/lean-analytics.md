@@ -18,7 +18,7 @@ Ready? Aim…fire!
 
 ## Lesson 1
 
-### You want to be data-informed, not data-driven – you’re the one who calls the shots.
+### You want to be data-informed, not data-driven – you’re the one who calls the shots
 
 Unless you’ve taken a lot of statistics classes in school or college, you might not even have come across data as a tool that much until this point. Sure, it’s part of predicting election outcomes based on political polls in the paper and you know that Facebook and Google are “after your data” but when it comes to business, what is it for?
 
@@ -36,7 +36,7 @@ Experts often talk about “data-driven strategies,” but you don’t really wa
 
 ## Lesson 2
 
-### For your startup to be successful it has to move through five distinct stages.
+### For your startup to be successful it has to move through five distinct stages
 
 Describing the life cycle of companies in stages of mental models has become a popular approach and can help you understand how a business must transform over its lifetime. For example, People Over Profit discusses four stages of honesty and deceit that can corrupt a business, while Predictable Success describes a five-stage sink-or-swim model to tell failed companies from prosperous ones.
 
@@ -54,7 +54,7 @@ Because Quora offers answers on almost any topic and is free, people keep coming
 
 ## Lesson 3
 
-### Find the one metric that matters most, depending on what stage you’re in, to not get lost.
+### Find the one metric that matters most, depending on what stage you’re in, to not get lost
 
 This felt like a smack on the head. I’ve long been a fan of focusing on only one goal, but I never thought about changing that one goal over time, even before a set milestone is accomplished.
 
@@ -71,7 +71,5 @@ For example, with a brand new blog where you’re trying to figure out what to t
 Here I sat, thinking I knew a lot about the lean methodology already, just to be taken to school, such a surprise hit! *Lean Analytics* is especially valuable if you’re doing something online (and what isn’t online these days), like a blog, work on social media or an e-commerce store, but a good approach for brick and mortar businesses too.
 
 Highly recommended read!
-
-## Who it’s for
 
 The 15 year old aspiring blogger, the 28 year old duo of co-founders, ready to launch an app startup, and anyone who thinks they think too much about what other people think.

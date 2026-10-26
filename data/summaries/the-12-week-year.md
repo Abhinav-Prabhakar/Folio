@@ -20,11 +20,9 @@ Here are the 3 most helpful lessons I got from the book:
 
 Grab a pen and calendar; let’s get ready to become more efficient at planning and reaching our goals!
 
-### The 12 Week Year Summary
-
 ## Lesson 1
 
-### The 12-week year approach shatters the shackles of yearly goal-setting.
+### The 12-week year approach shatters the shackles of yearly goal-setting
 
 How are your New Year’s resolutions going right now? I’ve asked this question to people multiple times throughout the years, and it usually falls flat. People struggle with planning annually, but we all do it year after year, only to fail every time. This happens because when we think to achieve something so far in advance, we grow complacent in the middle, thinking we have plenty of time to finish.
 
@@ -36,7 +34,7 @@ With a 12-week pattern, you can get that motivation to sprint to the finish four
 
 ## Lesson 2
 
-### Rigorous review of how you’ve done each week is essential to accurately knowing where you’re at with your goals.
+### Rigorous review of how you’ve done each week is essential to accurately knowing where you’re at with your goals
 
 Major businesses track their progression with numbers. Following this same pattern yourself or for your company can give you a massive advantage in making your vision reality. But what do you track and how?
 
@@ -46,7 +44,7 @@ Lag indicators are important, but remember that you have less control over some 
 
 ## Lesson 3
 
-### To achieve what you set out to accomplish each every 12 weeks you must carefully manage your time.
+### To achieve what you set out to accomplish each every 12 weeks you must carefully manage your time
 
 The advantage of the 12-week idea is that it’s a lot easier to stay motivated for 12 weeks than 12 months. The hard part, then, is managing your time wisely each week and day to make your goals happen. You can’t reach your potential by deferring the important but not urgent tasks on your list.
 
@@ -59,7 +57,5 @@ Unfortunately, according to a Basex study, interruptions *and* recovering from t
 ## Review
 
 **The 12 Week Year** is a brilliant idea. After over a decade of setting goals on an annual basis, I can clearly see how ineffective it is in comparison. I’m really excited to put these principles into practice, and my first 12-week year starts now! This is going to be a game-changer for so many people that struggle to follow through with their goals!
-
-## Who it’s for
 
 The 53-year-old consultant who wants to find a more efficient way to do their work, the 35-year-old with a great business idea who has a hard time making it happen, and anyone that wants to get better at reaching their goals.

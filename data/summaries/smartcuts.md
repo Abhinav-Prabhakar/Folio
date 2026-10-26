@@ -20,7 +20,7 @@ Ready to cut the learning curve? Let’s hack the career ladder!
 
 ## Lesson 1
 
-### Find a mentor, but make sure it’s a friend.
+### Find a mentor, but make sure it’s a friend
 
 If you haven’t stumbled across him on Youtube yet, I’d be surprised – Tai Lopez, probably the loudest voice telling you to get a mentor on the internet. This book agrees, making an often-cited argument: all professional athletes have coaches, all professional musicians have teachers, and all professional businessmen (and women) should have a mentor.
 
@@ -34,7 +34,7 @@ For example, when a London hospital team reached out to Ferrari’s Formula One 
 
 ## Lesson 2
 
-### Try to have good timing with your efforts, so you can build on the momentum from landing a hit.
+### Try to have good timing with your efforts, so you can build on the momentum from landing a hit
 
 The best way to grow any successful venture is to double down on what’s already working. But what if you haven’t found anything that works yet?
 
@@ -48,7 +48,7 @@ Now she had a stepping stone to work from, which she instantly used to make more
 
 ## Lesson 3
 
-### Shoot for 10x improvements instead of incremental updates to the status quo.
+### Shoot for 10x improvements instead of incremental updates to the status quo
 
 Astro Teller works at Google X. He’s in charge of their Moonshots program. Why Moonshots? Because every project they tackle fells like trying to put a man on the moon in the 1960s. It’s a long shot, but if it works, it’ll be phenomenal.
 
@@ -61,7 +61,5 @@ Jim Collins described this in *Great By Choice* – big risks come with big rewa
 ## Review
 
 *Smartcuts* sounds like a book full of quick hacks. But it’s actually a book full of solid strategies. I like that. It’s a book that will surprise you. This draws on lessons I’ve seen in many other business books, but combines them in a new and useful way, and it’s a book that’s both useful to the individual as well as to companies.
-
-## Who it’s for
 
 The 21 year old with a slightly older, successful friend, who’s brain she can pick at any time, the 27 year old gamer, who completely ignores Pokémon Go, and anyone who’s never attempted a 10x improvement.

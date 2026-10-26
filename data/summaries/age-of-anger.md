@@ -20,7 +20,7 @@ Are you looking forward to getting a better understanding of the workings of the
 
 ## Lesson 1
 
-### We can trace increased feelings of anger among societies back to the beginning of the Enlightenment.
+### We can trace increased feelings of anger among societies back to the beginning of the Enlightenment
 
 The Enlightenment of the eighteenth century was an extremely influential part of what made Western society what it is today. The Enlightenment refers to the ideas European philosophers had that highly valued science, art, and reason. They also pushed for people to be freed from the shackles of oppressive religion at the time.
 
@@ -32,7 +32,7 @@ So, they put their faith in strong, populist leaders, hoping to be saved from th
 
 ## Lesson 2
 
-### A more globalized world has only escalated people’s discontent with the way things are.
+### A more globalized world has only escalated people’s discontent with the way things are
 
 Globalism has meant a lot of things, and one of them has been the fading of borders. Communities aren’t held so tightly together, contributing to an increased feeling of “every man for himself. With central churches in society fading and the worldwide internet, many now find themselves lost in a vast ocean of consumerism.
 
@@ -44,7 +44,7 @@ This anger is seen all around the world at an alarming rate, and it should be un
 
 ## Lesson 3
 
-### The West can help improve the situation but first needs to face the facts and correct the error of its ways.
+### The West can help improve the situation but first needs to face the facts and correct the error of its ways
 
 It all seems pretty frightening and hopeless. But Mishra has ways that we can help the situation. This starts with the West. One thing they can do is to come to terms with the fact liberal capitalism has failed.
 
@@ -59,7 +59,5 @@ Obviously, this errored way of thinking only serves to make discontent worse in 
 ## Review
 
 *Age Of Anger* is a very relevant commentary on what is happening in the world around us now. It is fascinating to see how a shift in thinking centuries ago had such great ramifications in the future. While interesting to read, it also begged the question, what are we supposed to do about it really? Would it really be better to regress back to pre-enlightenment thinking?
-
-## Who it’s for
 
 The 54-year-old who is afraid of the future of the world, the 22-year-old who is in a philosophy class in college, and anyone who’d like to understand the bigger picture of what’s going on in the world today.

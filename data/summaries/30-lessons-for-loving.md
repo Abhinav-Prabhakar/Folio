@@ -20,7 +20,7 @@ Ready to finally find and keep that one true love you’ve been waiting for? Let
 
 ## Lesson 1
 
-### Your heart and mind will tell you when you’ve found a companion who you can make a life with.
+### Your heart and mind will tell you when you’ve found a companion who you can make a life with
 
 Do you believe in love at first sight? Or have you ever had this spark of excitement when meeting someone because you think they might be “the one?”
 
@@ -34,7 +34,7 @@ If you’ve got nagging thoughts that something is wrong, confront them head-on.
 
 ## Lesson 2
 
-### Timing your conversations right and remembering that your partner isn’t a mind reader will help you communicate better.
+### Timing your conversations right and remembering that your partner isn’t a mind reader will help you communicate better
 
 Couples fight. My wife and I do it, and you probably do too. I used to wonder how to decrease it, but then I realized two important lessons:
 
@@ -51,7 +51,7 @@ When you feel your significant other is thinking a certain way, don’t guess, a
 
 ## Lesson 3
 
-### If you want to stay together happily for many years, you need to continue doing small acts to show your love.
+### If you want to stay together happily for many years, you need to continue doing small acts to show your love
 
 It’s hard to know how to keep the love you feel when you first meet alive for years to come. But remember that actions speak louder than words. This is especially true in relationships.
 

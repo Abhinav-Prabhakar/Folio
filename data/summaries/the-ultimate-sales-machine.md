@@ -22,7 +22,7 @@ Time to learn how to sell!
 
 ## Lesson 1
 
-### Offer trainings on a regular basis for your sales staff.
+### Offer trainings on a regular basis for your sales staff
 
 Train your sales staff, and train them often.
 
@@ -49,7 +49,7 @@ This not only gives your sales staff less excuses to underperform, it also makes
 
 ## Lesson 2
 
-### Don’t just sell your product, sell the whole store.
+### Don’t just sell your product, sell the whole store
 
 No, I don’t mean you should sell your business to the next investor.
 
@@ -73,7 +73,7 @@ So stop selling gardening equipment, and start selling people the brand that wil
 
 ## Lesson 3
 
-### Pitch the people who make decisions in big companies.
+### Pitch the people who make decisions in big companies
 
 Remember the whole 80/20 thing? It’s just as true for sales as it is for anything else. Don’t focus your energy and attention on everyone.
 
@@ -106,7 +106,5 @@ This metaphor probably extends to life itself and all areas of it.
 That’s what makes this book helpful whether you run sales teams or not. Of course big companies can get more out of it than the solo entrepreneur, but I love how the book holds a bigger message inside.
 
 If you just want to learn how to sell more, get the blinks. If you’re in for a great story and lesson about life, get the book.
-
-## Who it’s for
 
 The 50 year old executive who manages a sales team that could use a little boost in their spirit, the 27 year old solo entrepreneur, who is still working out her angle on business, and anyone who ever put the audience to sleep during a presentation.

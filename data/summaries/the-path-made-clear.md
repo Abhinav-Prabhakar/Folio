@@ -20,7 +20,7 @@ Are you ready to find your path and start living your best life? Let’s learn!
 
 ## Lesson 1
 
-### If you really pay attention to yourself and your feelings, you can discover your purpose.
+### If you really pay attention to yourself and your feelings, you can discover your purpose
 
 Oprah teaches that we all have a calling while we’re here on earth. In order to find what it is, we need to recognize what makes us who we are. She calls these the seeds of our identity. For example, someone who is born with a love and gift for music probably has been watering this seed by learning to play an instrument from a young age. One day, they can bloom into a musician or a music teacher.
 
@@ -34,7 +34,7 @@ Eventually, she was let go and hired as a co-host on a talk-show. This was consi
 
 ## Lesson 2
 
-### Being afraid is an intrinsic part of discovering your dreams.
+### Being afraid is an intrinsic part of discovering your dreams
 
 They say nothing worth having is easy, right? This is true to so many things, and it’s true for finding your dreams. Sometimes it’s downright scary to go for your dreams, but Oprah teaches that fear is a natural part of growing as a human being.
 
@@ -46,7 +46,7 @@ She likens it to Newton’s law of motion. Every action has an equal and opposit
 
 ## Lesson 3
 
-### Success is best measured by whether or not you are true to yourself.
+### Success is best measured by whether or not you are true to yourself
 
 When she’s talking about finding success, Oprah doesn’t mean financial. She wants to redefine this term in a way that doesn’t mean material wealth.
 
@@ -61,7 +61,5 @@ Instead of a huge house or being on the best-seller list, success should be abou
 ## Review
 
 Anyone seeking direction in their life can benefit from this *The Path Made Clear*. Those who are fans of Oprah will particularly enjoy it. It feels a little more like snippets of advice picked up from wise people she’s interviewed rather than a continuous line of thought, but that’s not to say there weren’t valuable pieces of advice inside. I found it to be worth reading and insightful.
-
-## Who it’s for
 
 The 29-year-old who feels like she’s feeling a directionless life, the 41-year-old who is wanting to spend more time in self-reflection to improve himself, anyone who wants to live a fuller and more purposeful life.

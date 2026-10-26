@@ -18,11 +18,9 @@ Here are 3 lessons that will help you be a courageous, exemplary leader:
 
 Let’s take some of Brené’s hard-won insights from decades of work to help you *Dare To Lead*!
 
-### Dare To Lead Summary
-
 ## Lesson 1
 
-### You can never be courageous without being vulnerable.
+### You can never be courageous without being vulnerable
 
 Brené has spoken with thousands of leaders through her work as a researcher. Even the toughest among them eventually admitted that, indeed, acts of courage were always accompanied by the feeling of vulnerability. I can prove this to you.
 
@@ -34,7 +32,7 @@ It’s actually a sign of strength.
 
 ## Lesson 2
 
-### Focus on two core values to endure any adversity.
+### Focus on two core values to endure any adversity
 
 One factor Brené determined as incredibly beneficial to good leadership is having clarity about your values. Values are the human ideals we consider as most important in our lives. Some examples of values are courage, freedom, justice, kindness, discipline, family, and honesty.
 
@@ -46,7 +44,7 @@ Picking two values is a lot harder, but it’ll pay off! I think mine would be h
 
 ## Lesson 3
 
-### To create trust in all your relationships, remember the acronym BRAVING.
+### To create trust in all your relationships, remember the acronym BRAVING
 
 We all consider ourselves trustworthy people, yet we only confide in a small, carefully crafted selection of others. I guess the numbers don’t add up. It’s like we can’t all be above average drivers. *Someone* has to lower the standard. I think when it comes to trust, that someone is all of us.
 
@@ -69,7 +67,5 @@ Hopefully, they will give you the courage you need to… *Dare To Lead*.
 Brené has written multiple books about the fundamental aspects of being human, like *I Thought It Was Just Me*, *The Gifts Of Imperfection*, *Daring Greatly*, and *Rising Strong*. While she has an academic background, I wouldn’t get hung up on the science aspect of any of them. What they’re really about is finding power from within. To summon the strength to do the right thing, no matter how difficult it might be.
 
 That’s the real reason why I always find comfort in her work. It makes me calm, composed, and gives me the power I need to move on. I have a feeling that, for you too, *Dare To Lead* will do the same.
-
-## Who it’s for
 
 The 16 year old soccer player, who just joined a new team and wants to make an impression, the 34 year old consultant in a tough-guy work environment, who’s afraid of opening up, and anyone who has a tough time naming their top three values.

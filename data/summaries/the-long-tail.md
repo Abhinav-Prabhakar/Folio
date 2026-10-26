@@ -22,7 +22,7 @@ If you don’t think that the niche has become the norm yet, you’re in for a r
 
 ## Lesson 1
 
-### Online, a huge number of mildly popular products can outsell a small number of evergreen hits.
+### Online, a huge number of mildly popular products can outsell a small number of evergreen hits
 
 You’ve probably at some point seen the popular “hockey stick curve” in some form or the other. A very fat, short head, which carries most of the revenue of a business in just a few products, for example, followed by a loooong, flat tail of mildly selling niche products.
 
@@ -36,7 +36,7 @@ If the average product price is the same (as is for most music streaming, for ex
 
 ## Lesson 2
 
-### Since everyone can now produce their own content, the tail keeps getting longer.
+### Since everyone can now produce their own content, the tail keeps getting longer
 
 The moment you leave the store with a new laptop in your hands, you are a creator. You then own a music production studio, a typewriter, a professional video editing system and a megaphone to speak to the world, all in one.
 
@@ -48,7 +48,7 @@ Because producing content has become so cheap, the barrier for people to do it i
 
 ## Lesson 3
 
-### Aggregators make accessing niche products easier, which increases profits and makes the tail fatter.
+### Aggregators make accessing niche products easier, which increases profits and makes the tail fatter
 
 Okay, so there *is* a long tail of niche products, but in order for those to be profitable, the tail has to also be fat, i.e. all of these products have to sell. To sell something, it first has to be accessible to those, who’d like to buy it. And this is where what Chris Anderson calls *aggregators* come in.
 
@@ -66,7 +66,5 @@ So get out your laptop, start creating, and get your work into an aggregator, so
 ## Review
 
 Since *The Long Tail* is already ten years old, this has become a “duuuh, obvious” idea – but only in hindsight. It’s one that you need to keep reminding yourself off, and that, if you haven’t heard of, will make you feel optimistic, hopeful, and inspired to start creating. Must-read for anyone interested in business.
-
-## Who it’s for
 
 The 15 year old teenage girl, who’s bored in her spare time, the 49 year old product manager, who’s company is economically limited by its physical products, and anyone who thinks they have to land a hit to make it as a musician.

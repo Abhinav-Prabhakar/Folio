@@ -20,11 +20,9 @@ Here are my three favorite lessons from the book:
 
 Let’s take a look at these two mindsets and see how you can go from one to the other!
 
-### Mindset Summary
-
 ## Lesson 1
 
-### The corporate world turns most of us into fixed-mindset drones.
+### The corporate world turns most of us into fixed-mindset drones
 
 Big corporations like McKinsey or Goldman Sachs hire the best graduates and then expect them to perform perfectly and instantly. Instead of being trained on the job, employees are thrown into cold water and monitored closely for errors. Whoever doesn’t do a great job right away gets fired. This breeds a fixed mindset.
 
@@ -36,7 +34,7 @@ As a result, **most employees spend their time trying not to look stupid** inste
 
 ## Lesson 2
 
-### The growth mindset mostly stems from a strong, genuine desire to learn.
+### The growth mindset mostly stems from a strong, genuine desire to learn
 
 If you give kids hard math problems, they love working on them and **want more of the same kind**. This is the growth mindset in a nutshell. The kids’ desire to face more and tougher challenges doesn’t necessarily come from wanting better grades. Instead, it comes from **the satisfaction they get from pushing themselves** as much as they can. They adopt the mantra “*Practice makes perfect*.”
 
@@ -56,7 +54,7 @@ Trying to **avoid difficult situations** is characteristic of a fixed mindset. H
 
 ## Lesson 3
 
-### We are all born with a growth mindset – and we can relearn it anytime.
+### We are all born with a growth mindset – and we can relearn it anytime
 
 Surprisingly, **we are all born with a growth mindset**. Babies know no limits, they want to learn anything and everything. However, between the ages of 1 to 3 a mindset can already be determined. Babies with a growth mindset tend to try and help other crying babies, while it disturbs and annoys fixed mindset babies.
 
@@ -69,7 +67,5 @@ This way, you’ll spend more time working towards your goals and dreams – and
 ## Review
 
 *Mindset* reminded me a lot of the book *Learned Optimism*, where the difference between success and failure lies in the perspective you choose to take. This book does a great job at explaining where the two mindsets come from, what consequences they have, and how to adopt a growth mindset yourself.
-
-## Who it’s for
 
 The 37-year-old actor, who thinks it’s too late to change careers, the 16-year-old, cocky high school student, who never studies because good grades fall into his lap, and anyone who believes talent is all you need and if you don’t have it, you’re screwed.

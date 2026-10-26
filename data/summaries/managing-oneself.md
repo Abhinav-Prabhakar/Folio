@@ -58,6 +58,4 @@ However, if you want to fit this concept into your life will make you gain a hig
 
 Managing Oneself presents a way out of your head and into the objective reality, where you have strengths and weaknesses, relationships to maintain, working environments to face, and altogether a persona to work on. This book can help you tap into your highest potential and work with what you’ve got by helping you discover your inner talents and build skills that match them. Reading this book will help you thrive in your personal and professional life.
 
-## Who it’s for
-
 The 30-year-old person who is working on their self-development journey, the 36-year-old person who feels more self-aware in their life and wants to start building it according to their needs and wants, or the 24-year-old who is struggling to find what they’re good at.
