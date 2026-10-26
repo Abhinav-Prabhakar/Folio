@@ -93,6 +93,29 @@ async function record(page, name, action, { fps = 25, width = 960, hold = 900 } 
 (async () => {
   const browser = await puppeteer.launch({ executablePath: CHROME, headless: true, args: ['--hide-scrollbars', '--enable-gpu-rasterization', '--ignore-gpu-blocklist', '--force-color-profile=srgb'] });
 
+  if (on('memory')) {
+    const page = await fresh(browser, 1440, 900, 2);
+    const today = await page.evaluate(() => Math.floor(Date.UTC(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()) / 864e5));
+    await page.evaluate(t => {
+      const read = { orwell: '2026-01-01', hobbit: '2026-01-02' };
+      const st = [1.5, 4, 8, 20, 45], due = [1, 3, 6, 12, 30];
+      const cards = {};
+      for (const book of ['orwell', 'hobbit']) for (let i = 0; i < 5; i++)
+        cards[book + '-' + i] = { s: st[i], d: 4 + (i % 3), last: t - 2, due: t + due[i], reps: 2 + i, lapses: i === 0 ? 1 : 0 };
+      localStorage.setItem('folio:read', JSON.stringify(read));
+      localStorage.setItem('folio:cards', JSON.stringify(cards));
+      localStorage.setItem('folio:mem', JSON.stringify({ confidence: true }));
+    }, today);
+    await page.reload({ waitUntil: 'networkidle0' });
+    await page.evaluate(() => document.fonts.ready); await sleep(1800);
+    const qi = await quizIndex(page); await goto(page, qi);
+    await page.evaluate(() => document.getElementById('openBtn').click()); await ready(page); await sleep(600);
+    await page.evaluate(() => document.getElementById('rMem').click());
+    await page.waitForFunction(() => !document.getElementById('memSheet').hidden, { timeout: 5000 }); await sleep(400);
+    await page.screenshot({ path: OUT + 'memory' + SUF + '.png' });
+    await page.close(); console.log('memory still done');
+  }
+
   if (on('stills')) {
     const page = await fresh(browser, 1440, 900, 2);
     await goto(page, 2); await page.screenshot({ path: OUT + 'shelf' + SUF + '.png' });
@@ -162,6 +185,23 @@ async function record(page, name, action, { fps = 25, width = 960, hold = 900 } 
       await drag(page, { x: c.x - 220, y: c.y }, { x: c.x + 200, y: c.y }); await sleep(1300);
       await hideCur(page);
     }, { fps: 20, width: 800, hold: 300 });
+    await page.close();
+  }
+  if (G('libraryopen')) {
+    const page = await fresh(browser, 1280, 800, 1); await cursor(page);
+    await record(page, 'library-open', async () => {
+      await tap(page, await $c(page, '#libBtn')); await sleep(1200);
+      await page.keyboard.type('atomic habits', { delay: 45 });
+      await page.waitForFunction(() => document.querySelector('#libCount').textContent.startsWith('1 '), { timeout: 5000 });
+      await sleep(500);
+      const c = await page.evaluate(() => {
+        const t = [...document.querySelectorAll('.tile')].find(x => !x.hidden);
+        const r = t.querySelector('.tc').getBoundingClientRect();
+        return { x: r.left + r.width / 2, y: r.top + r.height / 2 };
+      });
+      await tap(page, c); await hideCur(page);
+      await ready(page);
+    }, { fps: 20, width: 820, hold: 1600 });
     await page.close();
   }
   if (G('open')) {

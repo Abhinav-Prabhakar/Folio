@@ -5,10 +5,12 @@
   "scripts": {
     "serve": "cd ../.. && python3 -m http.server 8791",
     "icons": "node icons.js",
-    "stills": "node capture.js stills hero mobile && THEME=dark node capture.js stills hero mobile && python3 phones.py && python3 optimize.py",
-    "gifs": "node capture.js gifs && THEME=dark node capture.js swipe open read quiz",
+    "stills": "node capture.js stills memory hero mobile && THEME=dark node capture.js stills memory hero mobile && python3 phones.py && python3 optimize.py",
+    "gifs": "node capture.js gifs libraryopen && THEME=dark node capture.js swipe open read quiz libraryopen",
     "library": "node library.js",
     "check": "node check.js",
+    "memory": "node capture.js memory && THEME=dark node capture.js memory",
+    "libraryopen": "node capture.js libraryopen && THEME=dark node capture.js libraryopen",
     "all": "npm run icons && npm run stills && npm run gifs && npm run library"
   },
   "dependencies": { "puppeteer-core": "23.11.1" }

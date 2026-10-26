@@ -77,7 +77,7 @@ No frameworks, no build, no tracking. One `index.html`, the fonts, and a folder 
     </td>
     <td width="50%" valign="top">
       <b>4 · Recall</b><br>
-      <sub>The quiz book asks three questions per book. Answer, and the right one is circled in ink.</sub><br><br>
+      <sub>The quiz book asks five questions per book. Answer, and the right one is circled in ink.</sub><br><br>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="docs/media/quiz-dark.gif">
         <img src="docs/media/quiz.gif" alt="Answering a quiz question; the right answer is circled" width="100%">
@@ -145,8 +145,15 @@ Summaries are plain Markdown inside `index.html`, so they're easy to edit. See [
 - **Spaced repetition (FSRS).** Every question from every book you've finished becomes a card, scheduled with the [FSRS-5](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm) algorithm. Recall shows today's due reviews, weakest memories first, plus a few new questions from your latest reads. A question comes back just before you'd forget it.
 - **No score.** A wrong pick is struck through, the right answer gets an ink circle drawn around it, and you see when that question will come back.
 - **You set the pace.** The sliders button in Recall opens *Memory*: how much to remember (80–97%), new questions a day, and the most reviews a day. You can also turn on *Rate how sure I was* (Hard / Good / Easy). Under *Advanced* sit the longest gap between reviews, the 19 FSRS parameters (paste your own from the optimizer) and a reset.
-- **Where questions come from.** The eight Folio originals have theirs built in; library books get theirs from question files written by an agent ([prompt](docs/QUIZ-AGENT-PROMPT.md)).
+- **Where questions come from.** The eight Folio originals have theirs built in; every library book has five generated from its summary by an agent ([prompt](docs/QUIZ-AGENT-PROMPT.md)).
 - **Short explanations.** Where a question comes with one, a single line under the circled answer says where in the summary it came from.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/media/memory-dark.jpg">
+  <img src="docs/media/memory.jpg" alt="The Memory sheet: cards by memory strength, target retention, new questions a day, reviews a day, confidence rating and advanced FSRS parameters" width="100%">
+</picture>
 
 <br>
 
@@ -223,6 +230,13 @@ The library button in the header (or <kbd>/</kbd>) opens **every book Folio know
 - **Filter** by any of 44 categories, or show just the Folio originals.
 - **Sort** alphabetically, by newest, or quick reads first.
 - **Open any book.** It flies from its tile into the same reader as the daily shelf, and the summary loads on demand.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/media/library-open-dark.gif">
+  <img src="docs/media/library-open.gif" alt="Opening a library book: searching for Atomic Habits and watching its cover fly into the reader" width="100%">
+</picture>
 
 <br>
 
