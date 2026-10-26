@@ -9,6 +9,7 @@ const puppeteer = require('puppeteer-core');
 const BASE = process.env.FOLIO_URL || 'http://localhost:8791/index.html';
 const ORIGIN = new URL(BASE).origin;
 const CHROME = process.env.CHROME || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+const THEME = process.env.THEME || 'light';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const results = [];
 const check = (name, ok, detail = '') => {
@@ -32,6 +33,11 @@ const seed = async (page, values) => page.evaluate(v => {
   localStorage.clear();
   for (const [k, x] of Object.entries(v)) localStorage.setItem(k, x);
 }, values);
+const newPage = async ctx => {
+  const page = await ctx.newPage();
+  await page.emulateMediaFeatures([{ name: 'prefers-color-scheme', value: THEME }]);
+  return page;
+};
 const setRead = async (page, read) => page.evaluate(r => localStorage.setItem('folio:read', JSON.stringify(r)), read);
 const load = async (page, iso, values, clear = true) => {
   await page.goto(ORIGIN + '/README.md', { waitUntil: 'domcontentloaded' });   // same origin, no app
@@ -67,7 +73,7 @@ let browser;
     const read = {}, seen = new Set();
     for (let d = 0; d < 12; d++) {
       const { iso, key } = dateAt(d);
-      const page = await ctx.newPage();
+      const page = await newPage(ctx);
       await page.setViewport({ width: 1280, height: 900 });
       if (d === 0) {
         await load(page, iso, { 'folio:read': '{}', 'folio:perday': '6' });
@@ -96,7 +102,7 @@ let browser;
   const READ_DATE = dateAt(59);   // 2026-03-01 at local noon
   {
     const ctx = await browser.createBrowserContext();
-    const page = await ctx.newPage();
+    const page = await newPage(ctx);
     await page.setViewport({ width: 1280, height: 900 });
     await load(page, READ_DATE.iso, {
       'folio:read': '{}',
@@ -154,7 +160,7 @@ let browser;
   const QUIZ_DATE = dateAt(60);   // 2026-03-02
   {
     const ctx = await browser.createBrowserContext();
-    const page = await ctx.newPage();
+    const page = await newPage(ctx);
     await page.setViewport({ width: 1280, height: 900 });
     await load(page, QUIZ_DATE.iso, {
       'folio:read': JSON.stringify({ orwell: '2026-01-01' }),
