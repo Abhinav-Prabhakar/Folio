@@ -1,0 +1,56 @@
+{
+  "book": "all-about-love",
+  "title": "All About Love",
+  "questions": [
+    {
+      "q": "How does hooks say we should understand 'love'?",
+      "a": [
+        "As a verb or action",
+        "As a feeling",
+        "As a contract",
+        "As a belief"
+      ],
+      "why": "Lesson 1 says love is an action word."
+    },
+    {
+      "q": "What is the most common association with love, per lesson 1?",
+      "a": [
+        "Affection",
+        "Duty",
+        "Sacrifice",
+        "Passion"
+      ],
+      "why": "The summary says people associate love with affection."
+    },
+    {
+      "q": "Why do some people excuse bad behavior, according to lesson 1?",
+      "a": [
+        "They emphasize the feeling of love and overlook mistreatment",
+        "They fear being alone",
+        "They confuse love with respect",
+        "They follow tradition"
+      ],
+      "why": "The lesson says some use feeling-based definitions to excuse mistreatment."
+    },
+    {
+      "q": "What makes love hard, according to lesson 2?",
+      "a": [
+        "A culture of materialism and dishonesty",
+        "Too many options",
+        "Lack of time",
+        "Distance"
+      ],
+      "why": "Lesson 2 blames societal pressures to lie and value stuff."
+    },
+    {
+      "q": "Where can people find connection if their immediate family is broken?",
+      "a": [
+        "Extended family, friends and community",
+        "Therapy only",
+        "Work colleagues",
+        "Online forums"
+      ],
+      "why": "Lesson 3 recommends a wider network."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "alibabas-world",
+  "title": "Alibaba’s World",
+  "questions": [
+    {
+      "q": "What was unusual about Jack Ma's background in tech?",
+      "a": [
+        "He never wrote code and didn't own a computer until age 33",
+        "He studied computer science abroad",
+        "He sold software first",
+        "He was a chip designer"
+      ],
+      "why": "Lesson 1 says this about Ma."
+    },
+    {
+      "q": "What did Ma choose to see instead of his lack of knowledge?",
+      "a": [
+        "A potential market of one billion customers",
+        "A chance to copy Google",
+        "A path to a quick sale",
+        "A government contract"
+      ],
+      "why": "Lesson 1 says he saw a big potential market."
+    },
+    {
+      "q": "What time horizon did Ma set for Alibaba?",
+      "a": [
+        "At least 80 years, later 102",
+        "10 years",
+        "30 years",
+        "A century exactly"
+      ],
+      "why": "Lesson 2 says he wanted it around for 80 years, later raised to 102."
+    },
+    {
+      "q": "What does lesson 2 call a common launch mistake?",
+      "a": [
+        "Setting the wrong time horizon",
+        "Hiring too fast",
+        "Spending too much on ads",
+        "Choosing a bad name"
+      ],
+      "why": "The lesson says one of the most common mistakes is the wrong time horizon."
+    },
+    {
+      "q": "How did Ma find profit, per lesson 3?",
+      "a": [
+        "By finding a key customer insight and building around it",
+        "By taking investors early",
+        "By buying a competitor",
+        "By cutting prices"
+      ],
+      "why": "Lesson 3 says he found a key insight after other approaches failed."
+    }
+  ]
+}

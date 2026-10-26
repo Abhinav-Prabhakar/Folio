@@ -1,0 +1,56 @@
+{
+  "book": "alexander-hamilton",
+  "title": "Alexander Hamilton",
+  "questions": [
+    {
+      "q": "Where was Hamilton born?",
+      "a": [
+        "The Caribbean island of Nevis",
+        "Boston",
+        "London",
+        "Virginia"
+      ],
+      "why": "Lesson 1 says he was born on Nevis."
+    },
+    {
+      "q": "What helped Hamilton escape poverty?",
+      "a": [
+        "His wit and gift for writing",
+        "A family inheritance",
+        "Military rank",
+        "A marriage into wealth"
+      ],
+      "why": "Lesson 1 credits his intellect and writing."
+    },
+    {
+      "q": "What did Hamilton help write to defend the Constitution?",
+      "a": [
+        "The Federalist Papers",
+        "The Bill of Rights",
+        "The Declaration of Independence",
+        "The Articles of Confederation"
+      ],
+      "why": "Lesson 2 says he drafted the Federalist Papers with Madison and Jay."
+    },
+    {
+      "q": "What did Hamilton believe about government, unlike Jefferson and Madison?",
+      "a": [
+        "That it should be strong and central",
+        "That states should hold power",
+        "That it should be small",
+        "That it should be a monarchy"
+      ],
+      "why": "Lesson 3 says he favored a stronger government."
+    },
+    {
+      "q": "What damaged Hamilton's reputation, per lesson 3?",
+      "a": [
+        "A public affair",
+        "A financial scandal",
+        "A military defeat",
+        "A stolen election"
+      ],
+      "why": "Lesson 3 describes an affair revealed by a journalist."
+    }
+  ]
+}

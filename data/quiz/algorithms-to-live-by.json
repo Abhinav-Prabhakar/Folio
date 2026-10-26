@@ -1,0 +1,56 @@
+{
+  "book": "algorithms-to-live-by",
+  "title": "Algorithms To Live By",
+  "questions": [
+    {
+      "q": "What is an algorithm, according to the overview?",
+      "a": [
+        "A series of steps to solve a specific problem",
+        "A computer program only",
+        "A machine-learning model",
+        "A mathematical proof"
+      ],
+      "why": "The overview compares it to a recipe."
+    },
+    {
+      "q": "Which sort works by dividing into piles and sorting the piles?",
+      "a": [
+        "Merge sort",
+        "Bubble sort",
+        "Insertion sort",
+        "Quick sort"
+      ],
+      "why": "Lesson 1 describes merge sort this way."
+    },
+    {
+      "q": "How does Earliest Due Date work?",
+      "a": [
+        "Start with the task due next",
+        "Do the shortest task first",
+        "Skip the longest task",
+        "Do the most important first"
+      ],
+      "why": "Lesson 2 says sort tasks by deadline."
+    },
+    {
+      "q": "What does Shortest Processing Time suggest with many small tasks?",
+      "a": [
+        "Knock out the shortest ones first",
+        "Do the oldest first",
+        "Do the hardest first",
+        "Batch them by type"
+      ],
+      "why": "Lesson 2 describes it that way."
+    },
+    {
+      "q": "What does the prisoner's dilemma illustrate?",
+      "a": [
+        "Game theory about decisions based on others' choices",
+        "How to sort lists",
+        "How to schedule tasks",
+        "How prisoners are released"
+      ],
+      "why": "Lesson 3 uses it as a classic game theory example."
+    }
+  ]
+}

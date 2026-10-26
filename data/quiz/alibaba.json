@@ -1,0 +1,56 @@
+{
+  "book": "alibaba",
+  "title": "Alibaba",
+  "questions": [
+    {
+      "q": "What was Jack Ma's first career?",
+      "a": [
+        "English teacher",
+        "Software engineer",
+        "Salesman",
+        "Banker"
+      ],
+      "why": "Lesson 1 says he began as an English teacher."
+    },
+    {
+      "q": "Who wrote Alibaba: The House That Jack Ma Built?",
+      "a": [
+        "Duncan Clark",
+        "Jack Ma",
+        "Kai-Fu Lee",
+        "Brad Stone"
+      ],
+      "why": "The overview names Duncan Clark."
+    },
+    {
+      "q": "What is Alibaba's priority order, per lesson 2?",
+      "a": [
+        "Customers, employees, then shareholders",
+        "Shareholders, employees, then customers",
+        "Employees, customers, then shareholders",
+        "Customers, shareholders, then employees"
+      ],
+      "why": "Lesson 2 quotes the mantra."
+    },
+    {
+      "q": "What does Ma call his customers?",
+      "a": [
+        "Shrimps",
+        "Partners",
+        "Guests",
+        "Fish"
+      ],
+      "why": "Lesson 2 says customers are his 'shrimps', the little players."
+    },
+    {
+      "q": "Which rival did Alibaba have to beat in China?",
+      "a": [
+        "eBay",
+        "Amazon",
+        "Google",
+        "Yahoo"
+      ],
+      "why": "Lesson 3 describes the competition with eBay."
+    }
+  ]
+}

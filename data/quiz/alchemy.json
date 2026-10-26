@@ -1,0 +1,56 @@
+{
+  "book": "alchemy",
+  "title": "Alchemy",
+  "questions": [
+    {
+      "q": "What assumption about people does lesson 1 challenge?",
+      "a": [
+        "That they act in predictable, rational ways",
+        "That they follow trends",
+        "That they dislike advertising",
+        "That they are loyal to brands"
+      ],
+      "why": "Lesson 1 says people most often act irrationally."
+    },
+    {
+      "q": "What dental product example shows irrational preference?",
+      "a": [
+        "Toothpaste with colored stripes",
+        "Electric toothbrushes",
+        "Mouthwash flavors",
+        "Flavored floss"
+      ],
+      "why": "Lesson 1 says people prefer toothpaste with colored stripes."
+    },
+    {
+      "q": "What small change doubled sales conversions in lesson 2?",
+      "a": [
+        "Four added words in a telemarketing script",
+        "A discount offer",
+        "A new logo",
+        "A faster website"
+      ],
+      "why": "Lesson 2 gives that example."
+    },
+    {
+      "q": "What does lesson 3 say about the 'average customer'?",
+      "a": [
+        "It doesn't exist, so cater to outliers",
+        "It is the best target",
+        "It is easy to define",
+        "It changes yearly"
+      ],
+      "why": "Lesson 3 says planning for the typical buyer is obsolete."
+    },
+    {
+      "q": "What did Lieutenant Gilbert Daniels discover about hand sizes?",
+      "a": [
+        "No hand was exactly the average",
+        "Most hands were the same size",
+        "Pilots had larger hands",
+        "Averages were reliable"
+      ],
+      "why": "Lesson 3 says his measurements showed the average man doesn't exist."
+    }
+  ]
+}

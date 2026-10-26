@@ -1,0 +1,56 @@
+{
+  "book": "alexander-the-great",
+  "title": "Alexander The Great",
+  "questions": [
+    {
+      "q": "What is lesson 1's advice about energy and resources?",
+      "a": [
+        "Bundle them toward one specific thing",
+        "Spread them evenly",
+        "Save them for emergencies",
+        "Share them with allies"
+      ],
+      "why": "Lesson 1 says to direct resources toward a specific milestone."
+    },
+    {
+      "q": "Which city was a key Persian naval base that Alexander targeted?",
+      "a": [
+        "Miletus",
+        "Athens",
+        "Sparta",
+        "Babylon"
+      ],
+      "why": "Lesson 1 mentions Miletus in 334 BC."
+    },
+    {
+      "q": "What does lesson 2 say Alexander often did in war?",
+      "a": [
+        "Went against conventional wisdom",
+        "Followed his enemies' lead",
+        "Waited out sieges",
+        "Avoided direct fights"
+      ],
+      "why": "Lesson 2 advises doing what people wouldn't expect."
+    },
+    {
+      "q": "Who was one of Alexander's greatest adversaries?",
+      "a": [
+        "King Darius III",
+        "Julius Caesar",
+        "Hannibal",
+        "Pyrrhus"
+      ],
+      "why": "Lesson 2 names Darius III."
+    },
+    {
+      "q": "How old was Alexander when he died?",
+      "a": [
+        "32",
+        "50",
+        "25",
+        "45"
+      ],
+      "why": "Lesson 3 says he died at 32."
+    }
+  ]
+}

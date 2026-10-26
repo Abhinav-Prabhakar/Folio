@@ -1,0 +1,56 @@
+{
+  "book": "all-in",
+  "title": "All In",
+  "questions": [
+    {
+      "q": "What was Billie Jean King's sport?",
+      "a": [
+        "Tennis",
+        "Golf",
+        "Swimming",
+        "Basketball"
+      ],
+      "why": "The overview says she was a top tennis player."
+    },
+    {
+      "q": "What set Billie Jean apart, beyond talent?",
+      "a": [
+        "Determination and a sense of fairness",
+        "Wealthy sponsors",
+        "Early fame",
+        "Elite coaching from childhood"
+      ],
+      "why": "Lesson 1 says her determination and fairness mattered most."
+    },
+    {
+      "q": "Who encouraged her early on, per lesson 2?",
+      "a": [
+        "Her parents and tennis teacher",
+        "A famous champion",
+        "A sponsor",
+        "A club president"
+      ],
+      "why": "Lesson 2 names her parents and teacher."
+    },
+    {
+      "q": "Whom did she marry in 1964?",
+      "a": [
+        "Larry King",
+        "Arthur Ashe",
+        "Bobby Riggs",
+        "Jack Kramer"
+      ],
+      "why": "Lesson 3 says she was married to Larry King since 1964."
+    },
+    {
+      "q": "What did she keep fighting for despite personal troubles?",
+      "a": [
+        "Gender equality in sports",
+        "Prize money for herself",
+        "An end to tournaments",
+        "Court reforms"
+      ],
+      "why": "Lesson 3 says personal issues never stopped her equality fight."
+    }
+  ]
+}

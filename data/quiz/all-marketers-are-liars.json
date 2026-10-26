@@ -1,0 +1,56 @@
+{
+  "book": "all-marketers-are-liars",
+  "title": "All Marketers Are Liars",
+  "questions": [
+    {
+      "q": "What does lesson 1 say successful marketers do?",
+      "a": [
+        "Tell stories people want to believe",
+        "List product facts",
+        "Offer the lowest price",
+        "Copy competitors"
+      ],
+      "why": "Lesson 1 states this."
+    },
+    {
+      "q": "What does George Riedel's story say about wine glasses?",
+      "a": [
+        "The glass is the interpreter of the wine's story",
+        "Glass shape doesn't matter",
+        "Cheaper glass tastes best",
+        "Crystal is overrated"
+      ],
+      "why": "Lesson 1 says each wine has a story that the glass translates."
+    },
+    {
+      "q": "Why do we believe stories, according to lesson 2?",
+      "a": [
+        "Our brains compare only what's new, not all features",
+        "We trust brands blindly",
+        "We dislike details",
+        "We follow the crowd"
+      ],
+      "why": "Lesson 2 uses the frog and iPhone examples."
+    },
+    {
+      "q": "What is the difference between a fib and fraud, per lesson 3?",
+      "a": [
+        "A fib improves the experience; fraud hurts authenticity",
+        "A fib is illegal; fraud isn't",
+        "They're the same",
+        "A fib is about price; fraud about quality"
+      ],
+      "why": "Lesson 3 draws this distinction."
+    },
+    {
+      "q": "What example shows an overpriced product's perceived value?",
+      "a": [
+        "Nike shoes that cost little to make but sell for much more",
+        "Apple earbuds",
+        "Designer coffee",
+        "Luxury watches"
+      ],
+      "why": "Lesson 2 uses Nike shoes."
+    }
+  ]
+}

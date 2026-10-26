@@ -1,0 +1,56 @@
+{
+  "book": "alone-together",
+  "title": "Alone Together",
+  "questions": [
+    {
+      "q": "Which toy does lesson 1 use to introduce robot companions?",
+      "a": [
+        "Tamagotchi",
+        "Furby",
+        "Teddy Ruxpin",
+        "Lego"
+      ],
+      "why": "Lesson 1 begins with Tamagotchi."
+    },
+    {
+      "q": "Why do some people like robots like AIBO?",
+      "a": [
+        "They can turn them off whenever they want",
+        "They are inexpensive",
+        "They never need charging",
+        "They talk to people"
+      ],
+      "why": "Lesson 1 mentions a girl who loves it because she can turn it off."
+    },
+    {
+      "q": "What is the downside of constant availability via smartphones?",
+      "a": [
+        "It brings more stress",
+        "It is expensive",
+        "It lowers battery life",
+        "It reduces memory"
+      ],
+      "why": "Lesson 2 says constant connection can be stressful."
+    },
+    {
+      "q": "What is a 'media fast'?",
+      "a": [
+        "Abstaining from media like fasting from food",
+        "Watching only short videos",
+        "Using only news apps",
+        "Reading one article a day"
+      ],
+      "why": "Lesson 3 compares it to fasting."
+    },
+    {
+      "q": "What does lesson 3 recommend to relieve overwhelm?",
+      "a": [
+        "Reconnect with people in person",
+        "Buy new gadgets",
+        "Join more social networks",
+        "Work remotely"
+      ],
+      "why": "Lesson 3 says to reconnect in person."
+    }
+  ]
+}
