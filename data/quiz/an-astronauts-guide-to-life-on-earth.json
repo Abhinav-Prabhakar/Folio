@@ -1,0 +1,56 @@
+{
+  "book": "an-astronauts-guide-to-life-on-earth",
+  "title": "An Astronaut’s Guide To Life On Earth",
+  "questions": [
+    {
+      "q": "Who wrote An Astronaut's Guide to Life on Earth?",
+      "a": [
+        "Chris Hadfield",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Scott Kelly"
+      ],
+      "why": "The overview names Chris Hadfield."
+    },
+    {
+      "q": "What motto does lesson 1 use to emphasize preparation?",
+      "a": [
+        "Be prepared",
+        "Always ready",
+        "Plan twice",
+        "Trust the process"
+      ],
+      "why": "It's the Boy Scouts motto cited in lesson 1."
+    },
+    {
+      "q": "How do astronauts get criticism, per lesson 2?",
+      "a": [
+        "Many people observe simulations and flag errors",
+        "Annual reviews",
+        "Self-assessment forms",
+        "Team votes"
+      ],
+      "why": "Lesson 2 describes dozens of observers."
+    },
+    {
+      "q": "Why does lesson 2 say successful people seek correction?",
+      "a": [
+        "It helps them fix mistakes and improve",
+        "It shows humility",
+        "It pleases managers",
+        "It builds teams"
+      ],
+      "why": "Lesson 2 says successful people welcome and seek correction."
+    },
+    {
+      "q": "What happened to muscles in zero gravity, per lesson 3?",
+      "a": [
+        "They deteriorate",
+        "They grow",
+        "They stay the same",
+        "They stiffen"
+      ],
+      "why": "Lesson 3 notes muscle deterioration."
+    }
+  ]
+}

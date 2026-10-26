@@ -1,0 +1,56 @@
+{
+  "book": "an-ugly-truth",
+  "title": "An Ugly Truth",
+  "questions": [
+    {
+      "q": "Who wrote An Ugly Truth, per the summary?",
+      "a": [
+        "Sheera Frenkel",
+        "Mark Zuckerberg",
+        "Chris Hughes",
+        "Sandy Parakilas"
+      ],
+      "why": "The overview names Sheera Frenkel."
+    },
+    {
+      "q": "What was Facebook's algorithm tilted toward, per lesson 1?",
+      "a": [
+        "News with high engagement",
+        "News from major outlets",
+        "Local news",
+        "Ad-free content"
+      ],
+      "why": "Lesson 1 says it favored news with high engagement."
+    },
+    {
+      "q": "What did Clive Humby call data?",
+      "a": [
+        "The new oil",
+        "The new gold",
+        "The new currency",
+        "The new law"
+      ],
+      "why": "Lesson 2 quotes him calling data the new oil."
+    },
+    {
+      "q": "How does Facebook make money from data, per lesson 2?",
+      "a": [
+        "Targeting ads to each type of customer",
+        "Selling user accounts",
+        "Charging subscription fees",
+        "Licensing its software"
+      ],
+      "why": "Lesson 2 says it targets ads specifically."
+    },
+    {
+      "q": "Why does Chris Hughes criticize Facebook in lesson 3?",
+      "a": [
+        "It grew too big too fast by crushing competition",
+        "It spent too much on research",
+        "It ignored mobile",
+        "It hired poorly"
+      ],
+      "why": "Lesson 3 says Hughes wrote the company crushed competition."
+    }
+  ]
+}

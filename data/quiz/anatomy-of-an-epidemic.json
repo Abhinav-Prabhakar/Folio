@@ -1,0 +1,56 @@
+{
+  "book": "anatomy-of-an-epidemic",
+  "title": "Anatomy Of An Epidemic",
+  "questions": [
+    {
+      "q": "What fraction of Americans take psychiatric medication, per lesson 1?",
+      "a": [
+        "One in eight",
+        "One in two",
+        "One in twenty",
+        "One in four"
+      ],
+      "why": "Lesson 1 says one of eight Americans takes some."
+    },
+    {
+      "q": "What was unusual about how the first psychiatric drugs were found?",
+      "a": [
+        "They weren't originally made to treat mental illness",
+        "They came from plant remedies",
+        "They were created for animals",
+        "They were found in ancient texts"
+      ],
+      "why": "Lesson 1 says they were not intended for mental illness."
+    },
+    {
+      "q": "What drugs are most commonly prescribed for depression?",
+      "a": [
+        "SSRIs",
+        "Opioids",
+        "Benzodiazepines",
+        "Stimulants"
+      ],
+      "why": "Lesson 2 names SSRIs."
+    },
+    {
+      "q": "What is a side effect pattern described in lesson 2?",
+      "a": [
+        "More drugs are used to treat side effects",
+        "Side effects vanish quickly",
+        "Doctors reduce dosages",
+        "Patients stop right away"
+      ],
+      "why": "Lesson 2 says doctors treat symptoms with more drugs."
+    },
+    {
+      "q": "What did psychiatry do in order to restore legitimacy?",
+      "a": [
+        "Launched a campaign and released the DSM-III",
+        "Merged with neurology",
+        "Banned talk therapy",
+        "Opened hospitals"
+      ],
+      "why": "Lesson 3 describes the rebranding with the DSM-III."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "amusing-ourselves-to-death",
+  "title": "Amusing Ourselves To Death",
+  "questions": [
+    {
+      "q": "Which two novels does the overview contrast?",
+      "a": [
+        "1984 and Brave New World",
+        "Fahrenheit 451 and 1984",
+        "Animal Farm and Brave New World",
+        "The Giver and Fahrenheit 451"
+      ],
+      "why": "The overview names Orwell and Huxley."
+    },
+    {
+      "q": "How did people consume media in the 19th century, per lesson 1?",
+      "a": [
+        "They were well-read and read widely",
+        "They mostly listened to radio",
+        "They watched traditional theater",
+        "They rarely read"
+      ],
+      "why": "Lesson 1 calls it the age of reading."
+    },
+    {
+      "q": "What popular pamphlet is cited as an example?",
+      "a": [
+        "Common Sense by Thomas Paine",
+        "The Federalist Papers",
+        "Uncle Tom's Cabin",
+        "The Communist Manifesto"
+      ],
+      "why": "Lesson 1 mentions Common Sense."
+    },
+    {
+      "q": "What did the telegraph and camera have in common, per lesson 2?",
+      "a": [
+        "They conveyed information without context",
+        "They were slow",
+        "They were costly",
+        "They were reserved for the rich"
+      ],
+      "why": "Lesson 2 says both lack context."
+    },
+    {
+      "q": "Why must everything on TV be entertaining, per lesson 3?",
+      "a": [
+        "The medium dictates the message",
+        "Viewers dislike news",
+        "Advertisers demand it",
+        "TV is regulated"
+      ],
+      "why": "Lesson 3 says on TV the medium shapes content to entertain."
+    }
+  ]
+}

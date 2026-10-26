@@ -1,0 +1,56 @@
+{
+  "book": "amazon",
+  "title": "Amazon",
+  "questions": [
+    {
+      "q": "What is the center of everything Amazon does, per lesson 1?",
+      "a": [
+        "The customer",
+        "Shareholders",
+        "Technology",
+        "Employees"
+      ],
+      "why": "Lesson 1 says to put customers at the center."
+    },
+    {
+      "q": "How do Amazon teams begin new products?",
+      "a": [
+        "With a mock press release showing the idea",
+        "With a market survey",
+        "With a prototype",
+        "With a budget plan"
+      ],
+      "why": "Lesson 1 mentions product ideas shown as mock press releases."
+    },
+    {
+      "q": "What is the main idea behind Prime, per lesson 2?",
+      "a": [
+        "Help customers save effort, time and energy",
+        "Maximize shipping profits",
+        "Compete with warehouse clubs",
+        "Collect customer data"
+      ],
+      "why": "Lesson 2 says saving effort matters more than saving money."
+    },
+    {
+      "q": "Does the Prime fee cover all the extras?",
+      "a": [
+        "No, it doesn't even cover shipping costs",
+        "Yes, with a slight profit",
+        "Only for some members",
+        "Yes, exactly"
+      ],
+      "why": "Lesson 2 says the fee can't make Amazon break even on shipping."
+    },
+    {
+      "q": "What technology is Amazon developing for stores, per lesson 3?",
+      "a": [
+        "Shopping without a cashier",
+        "Robot greeters",
+        "Drone-only delivery",
+        "Virtual fitting rooms"
+      ],
+      "why": "Lesson 3 mentions walking out of a store without dealing with a cashier."
+    }
+  ]
+}

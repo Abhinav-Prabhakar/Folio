@@ -1,0 +1,56 @@
+{
+  "book": "animal-vegetable-miracle",
+  "title": "Animal, Vegetable, Miracle",
+  "questions": [
+    {
+      "q": "Who wrote Animal, Vegetable, Miracle?",
+      "a": [
+        "Barbara Kingsolver",
+        "Michael Pollan",
+        "Eric Schlosser",
+        "Alice Waters"
+      ],
+      "why": "Lesson 2 names Kingsolver."
+    },
+    {
+      "q": "What problem does lesson 1 identify?",
+      "a": [
+        "The food industry disconnects us from real food",
+        "A lack of grocery stores",
+        "Overpriced organic food",
+        "A shortage of farms"
+      ],
+      "why": "Lesson 1 says we've forgotten what real food is."
+    },
+    {
+      "q": "Which crop can be ready to harvest by April if started early?",
+      "a": [
+        "Potatoes",
+        "Tomatoes",
+        "Corn",
+        "Squash"
+      ],
+      "why": "Lesson 2 says early potatoes can be harvested in April."
+    },
+    {
+      "q": "How can city dwellers still grow vegetables?",
+      "a": [
+        "Use a balcony",
+        "Rent a field",
+        "Join a farm only",
+        "Buy seeds only"
+      ],
+      "why": "Lesson 2 mentions balcony planting."
+    },
+    {
+      "q": "What does lesson 3 say harvesting an animal should involve?",
+      "a": [
+        "Respect, planning and a good life for the animal",
+        "Speed above all",
+        "Commercial processing",
+        "Avoiding the subject"
+      ],
+      "why": "Lesson 3 says it implies respect and planning."
+    }
+  ]
+}

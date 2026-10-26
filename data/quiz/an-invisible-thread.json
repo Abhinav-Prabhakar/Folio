@@ -1,0 +1,56 @@
+{
+  "book": "an-invisible-thread",
+  "title": "An Invisible Thread",
+  "questions": [
+    {
+      "q": "How did Laura Schroff first meet Maurice?",
+      "a": [
+        "She passed him on the street and eventually bought him lunch",
+        "He was a neighbor's child",
+        "She met him at work",
+        "He asked her for a job"
+      ],
+      "why": "The overview says she passed a boy and was drawn back to see him."
+    },
+    {
+      "q": "What was Laura's career when she met Maurice?",
+      "a": [
+        "Advertising executive",
+        "Teacher",
+        "Nurse",
+        "Lawyer"
+      ],
+      "why": "The overview says she was a successful advertising executive."
+    },
+    {
+      "q": "What was Maurice's home life like, per lesson 1?",
+      "a": [
+        "Extreme poverty, with a mother addicted to drugs",
+        "A comfortable but strict home",
+        "A loving but poor family",
+        "A foster home"
+      ],
+      "why": "Lesson 1 describes his mother's addiction and hardship."
+    },
+    {
+      "q": "How did Laura provide food when she wasn't with him?",
+      "a": [
+        "She left lunch with her doorman in paper bags",
+        "She mailed grocery cards",
+        "She sent meals to his school",
+        "She called a restaurant"
+      ],
+      "why": "Lesson 2 says she left lunch with her doorman."
+    },
+    {
+      "q": "What did Maurice go on to do with Laura's encouragement?",
+      "a": [
+        "Get his GED and go on to a better life",
+        "Join the military",
+        "Start a business",
+        "Attend law school"
+      ],
+      "why": "Lesson 3 says he got his GED."
+    }
+  ]
+}

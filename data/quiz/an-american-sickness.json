@@ -1,0 +1,56 @@
+{
+  "book": "an-american-sickness",
+  "title": "An American Sickness",
+  "questions": [
+    {
+      "q": "Who started hospitals in the US around 1900?",
+      "a": [
+        "Religious groups as charities",
+        "Insurance companies",
+        "The government",
+        "Medical schools"
+      ],
+      "why": "Lesson 1 says religious groups started them."
+    },
+    {
+      "q": "What did hospitals do in the 1970s?",
+      "a": [
+        "Hired business consultants",
+        "Cut insurance coverage",
+        "Merged into chains",
+        "Opened outpatient clinics"
+      ],
+      "why": "Lesson 1 mentions hiring business consultants."
+    },
+    {
+      "q": "How does the UK price for an ulcer drug compare with the US?",
+      "a": [
+        "About $12 versus $700 or more",
+        "About $100 versus $200",
+        "About the same price",
+        "About $50 versus $60"
+      ],
+      "why": "Lesson 2 gives this comparison."
+    },
+    {
+      "q": "What share of American debt is from overdue medical bills?",
+      "a": [
+        "52 percent",
+        "15 percent",
+        "30 percent",
+        "75 percent"
+      ],
+      "why": "Lesson 3 cites 2014 research."
+    },
+    {
+      "q": "What does the terminology shift from 'patients' reflect?",
+      "a": [
+        "Healthcare treated like big business",
+        "Better patient care",
+        "More patient choice",
+        "Reduced paperwork"
+      ],
+      "why": "Lesson 3 notes professionals now say 'consumers'."
+    }
+  ]
+}

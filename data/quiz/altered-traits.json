@@ -1,0 +1,56 @@
+{
+  "book": "altered-traits",
+  "title": "Altered Traits",
+  "questions": [
+    {
+      "q": "What does the Stanford study in lesson 1 conclude about multitasking?",
+      "a": [
+        "The brain is incapable of true multitasking",
+        "Multitasking boosts productivity",
+        "Only some people multitask well",
+        "Multitasking improves memory"
+      ],
+      "why": "Lesson 1 says the brain switches between tasks rather than doing them at once."
+    },
+    {
+      "q": "What does lesson 1 recommend instead of multitasking?",
+      "a": [
+        "Meditation",
+        "Longer work hours",
+        "Taking more breaks",
+        "Using task apps"
+      ],
+      "why": "The lesson says meditation is a great replacement."
+    },
+    {
+      "q": "What is 'default mode' in lesson 2?",
+      "a": [
+        "The mind wandering when you're doing nothing",
+        "A deep sleep state",
+        "A focused work state",
+        "A trance during meditation"
+      ],
+      "why": "Lesson 2 says the idle mind wanders and links to unhappiness."
+    },
+    {
+      "q": "How much of the body's energy does the brain use, per lesson 2?",
+      "a": [
+        "About 20 percent",
+        "About 5 percent",
+        "About 50 percent",
+        "About 2 percent"
+      ],
+      "why": "Lesson 2 says the brain takes up 20 percent of your energy."
+    },
+    {
+      "q": "What happens to stress hormones after thousands of hours of meditation?",
+      "a": [
+        "Less cortisol is released",
+        "More cortisol is released",
+        "Cortisol stays the same",
+        "Adrenaline rises"
+      ],
+      "why": "Lesson 3 says your body releases cortisol less."
+    }
+  ]
+}

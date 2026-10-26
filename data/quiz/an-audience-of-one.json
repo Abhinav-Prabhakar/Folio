@@ -1,0 +1,56 @@
+{
+  "book": "an-audience-of-one",
+  "title": "An Audience Of One",
+  "questions": [
+    {
+      "q": "Who should beginner creators create for first, per lesson 1?",
+      "a": [
+        "Themselves, as an audience of one",
+        "A defined niche audience",
+        "Their friends and family",
+        "Paying customers"
+      ],
+      "why": "Lesson 1 says to start by creating for yourself."
+    },
+    {
+      "q": "What is one reason creating for yourself helps?",
+      "a": [
+        "It builds internal motivation instead of reliance on accolades",
+        "It guarantees sales",
+        "It is faster",
+        "It requires less skill"
+      ],
+      "why": "Lesson 1 says it cultivates internal motivation."
+    },
+    {
+      "q": "What does lesson 2 say you need besides work?",
+      "a": [
+        "Time away from your craft to build a relationship with yourself",
+        "More hours of practice",
+        "A mentor",
+        "A strict schedule"
+      ],
+      "why": "Lesson 2 says time away is needed."
+    },
+    {
+      "q": "What is a prerequisite to finding your unique voice?",
+      "a": [
+        "Trusting yourself",
+        "Copying others",
+        "Gaining followers",
+        "Winning awards"
+      ],
+      "why": "Lesson 2 says trust is a prerequisite."
+    },
+    {
+      "q": "What myth does lesson 3 want you to abandon?",
+      "a": [
+        "The lone creator",
+        "The starving artist",
+        "The overnight success",
+        "The perfect product"
+      ],
+      "why": "Lesson 3 says no artist exists in a void."
+    }
+  ]
+}
