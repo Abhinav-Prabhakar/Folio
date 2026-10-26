@@ -1,0 +1,56 @@
+{
+  "book": "food-fix",
+  "title": "Food Fix",
+  "questions": [
+    {
+      "q": "According to Hyman, what sits at the root of today's health, inequality and environmental crises?",
+      "a": [
+        "The industrialized food system",
+        "The rapid rise of social media",
+        "The growing cost of medical care",
+        "Unchecked population growth"
+      ],
+      "why": "The first lesson traces the world's biggest problems, from disease to poverty, back to the food we eat."
+    },
+    {
+      "q": "What does the summary say happens to carbon when soil is over-farmed?",
+      "a": [
+        "More CO2 is released than by all fossil fuel companies combined",
+        "Soil absorbs more CO2 than the world's forests do",
+        "CO2 output stays roughly the same as before",
+        "CO2 is turned into nitrogen fertilizer"
+      ],
+      "why": "The second lesson calls soil the biggest CO2 absorber and warns that over-farming releases more than fossil fuel firms do."
+    },
+    {
+      "q": "How many harvests does the summary say may be left if farming keeps degrading soil?",
+      "a": [
+        "About 60",
+        "About 10",
+        "About 200",
+        "About 500"
+      ],
+      "why": "The second lesson cites an estimate that only around 60 harvests remain at current rates of soil damage."
+    },
+    {
+      "q": "Which farming practice does the summary recommend to stop destroying soil?",
+      "a": [
+        "No-till planting instead of plowing",
+        "Deep plowing before every season",
+        "Heavier use of nitrogen fertilizer",
+        "Growing one crop on large fields"
+      ],
+      "why": "The third lesson lists no-till methods, crop rotation and mixed planting as parts of regenerative agriculture."
+    },
+    {
+      "q": "Which seafood does the summary suggest choosing?",
+      "a": [
+        "Wild-caught salmon and anchovies",
+        "Farmed tuna and halibut",
+        "Wild-caught tuna and halibut",
+        "Farmed shrimp and tilapia"
+      ],
+      "why": "The third lesson advises wild-caught salmon and anchovies over tuna and halibut, and less meat overall."
+    }
+  ]
+}

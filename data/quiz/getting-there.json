@@ -1,0 +1,31 @@
+{
+  "book": "getting-there",
+  "title": "Getting There",
+  "questions": [
+    {
+      "q": "What twist does the summary offer on Jim Rohn's five-people idea?",
+      "a": ["The five authors you read the most", "The five friends you spend the most time with", "The five mentors you have met in person", "The five books you finish in a year"],
+      "why": "The overview twists Jim Rohn's advice: you become like the five authors you read most."
+    },
+    {
+      "q": "What did Craig Newmark do when shyness held him back?",
+      "a": ["He used the internet to connect people through a growing email list", "He hired a publicist to raise his profile", "He joined a speaking club to practice conversation", "He asked a friend to front his new website"],
+      "why": "Lesson 1 follows Craig Newmark from a small email list to the founding of Craigslist."
+    },
+    {
+      "q": "How did Wendy Kopp finally get funding for Teach for America?",
+      "a": ["She recruited thousands of supporters until the press took notice", "She won a grant by rewriting her original proposal", "She persuaded the skeptical CEO with a second presentation", "She raised the money from her Princeton classmates"],
+      "why": "Lesson 2 describes Kopp recruiting over 2,500 people until news coverage brought the money."
+    },
+    {
+      "q": "What did Sara Blakely do after failing her law school entrance test twice?",
+      "a": ["She took a sales job and later started Spanx", "She retook the test a third time and passed", "She went to work for a law firm as an assistant", "She began selling pantyhose for an established brand"],
+      "why": "Lesson 3 explains that Blakely failed the admissions test twice before finding sales."
+    },
+    {
+      "q": "What did Blakely's door-to-door sales work teach her?",
+      "a": ["It hardened her against rejection, which helped her launch Spanx", "It taught her how to manufacture hosiery cheaply", "It gave her the idea for a mail-order catalog", "It connected her with investors for a new brand"],
+      "why": "Lesson 3 credits her sales experience with the resilience she needed to build Spanx."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-importance-of-being-little",
+  "title": "The Importance Of Being Little",
+  "questions": [
+    {
+      "q": "According to the summary, why does direct instruction fail to teach young children?",
+      "a": [
+        "It treats children as passive objects to be told what to know",
+        "It gives children too much freedom to choose their activities",
+        "It relies on play instead of structured lessons",
+        "It asks children to learn skills before they know any facts"
+      ],
+      "why": "Lesson 1 says direct instruction is passive, assumes students are objects, and so does not work."
+    },
+    {
+      "q": "Why did preschools shift toward lecturing instead of play, according to lesson 1?",
+      "a": [
+        "Parents' high expectations and safety worries shaped the system",
+        "Studies proved that lectures helped children remember more",
+        "Teachers were trained to avoid unstructured classroom time",
+        "Children asked for quieter lessons where they could sit still"
+      ],
+      "why": "Lesson 1 says anxious parents pushed schools to look safer and more academic, which meant more lecturing."
+    },
+    {
+      "q": "What does the summary say play does for a child's development?",
+      "a": [
+        "It builds memory and other essential cognitive functions",
+        "It burns off energy so children can sit still afterward",
+        "It teaches children to compete for a teacher's attention",
+        "It removes the need for a trusting bond with adults"
+      ],
+      "why": "Lesson 2 says play has a vital role, including building memory and other cognitive abilities."
+    },
+    {
+      "q": "How does the summary suggest a teacher respond when a child asks a question?",
+      "a": [
+        "Let the class work together to find the answer",
+        "Answer it quickly so the lesson stays on schedule",
+        "Write it down for the children to research at home",
+        "Explain that the class will cover it in a later year"
+      ],
+      "why": "Lesson 2 describes letting kids lead a group search for a solution, including one they raised themselves."
+    },
+    {
+      "q": "What change does the summary recommend for school curriculums?",
+      "a": [
+        "Replace useless facts with skills like problem-solving",
+        "Add more tests to measure what children have learned",
+        "Start formal lectures at an earlier age",
+        "Shorten the school day so children can rest more"
+      ],
+      "why": "Lesson 3 says the curriculum should drop useless facts and teach skills children can use in school and life."
+    }
+  ]
+}

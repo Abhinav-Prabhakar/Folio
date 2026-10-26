@@ -1,0 +1,31 @@
+{
+  "book": "mindset",
+  "title": "Mindset",
+  "questions": [
+    {
+      "q": "What do people with a growth mindset believe about their abilities?",
+      "a": ["They can grow them through hard work and practice", "They are set at birth and rarely change", "They depend mostly on natural talent", "They improve only with the right teacher"],
+      "why": "The overview contrasts this with the fixed mindset, which treats talent as everything."
+    },
+    {
+      "q": "What does the summary say corporate culture pushes employees to do?",
+      "a": ["Focus on looking talented rather than performing well", "Take more risks to impress their managers", "Ask for training whenever they struggle", "Compete openly over who learns fastest"],
+      "why": "Lesson 1 says workers spend their time trying not to look stupid instead of working productively."
+    },
+    {
+      "q": "How do children with a growth mindset react to hard math problems?",
+      "a": ["They want more problems of the same kind", "They avoid them until they feel ready", "They ask for easier work instead", "They worry about their grades"],
+      "why": "Lesson 2 says the children enjoy the satisfaction of pushing themselves, not just better grades."
+    },
+    {
+      "q": "How did Lou Gerstner's approach at IBM differ from Lee Iacocca's at Chrysler?",
+      "a": ["He leveled hierarchies and learned from past failures", "He took all the credit for the turnaround", "He surrounded himself with loyal admirers", "He fired designers who challenged his image"],
+      "why": "Lesson 2 sets Gerstner's teamwork and learning against Iacocca's need for approval."
+    },
+    {
+      "q": "What does the summary suggest saying to yourself after spilling coffee?",
+      "a": ["That it was a one-time accident you can clean up", "That you are a clumsy person by nature", "That the cup was badly designed", "That you should stop drinking coffee"],
+      "why": "Lesson 3 says to treat the failure as external and temporary rather than part of your identity."
+    }
+  ]
+}

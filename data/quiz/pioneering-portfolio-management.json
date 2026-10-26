@@ -1,0 +1,56 @@
+{
+  "book": "pioneering-portfolio-management",
+  "title": "Pioneering Portfolio Management",
+  "questions": [
+    {
+      "q": "What is an endowment, according to the summary?",
+      "a": [
+        "A donation an institution keeps rather than sells",
+        "A loan that must be repaid with interest",
+        "A fund that has to be spent within a year",
+        "A fee charged for managing institutional money"
+      ],
+      "why": "Lesson 1 defines an endowment as a donation the organization must keep under its ownership for as long as it operates."
+    },
+    {
+      "q": "Why do some institutions hesitate to accept endowments?",
+      "a": [
+        "Donors may attach conditions on how the money is used",
+        "Endowments tend to lower an institution's credit rating",
+        "Endowments have to be paid back once profits arrive",
+        "Endowments are taxed more heavily than normal income"
+      ],
+      "why": "Lesson 1 says donors may demand certain research, spending choices or decisions that executives dislike."
+    },
+    {
+      "q": "What are the three core aspects of investment analysis?",
+      "a": [
+        "Asset allocation, market timing and security selection",
+        "Risk tolerance, liquidity and tax planning",
+        "Diversification, rebalancing and cost control",
+        "Research, valuation and portfolio review"
+      ],
+      "why": "Lesson 2 lists asset allocation, market timing and security selection as the starting points of analysis."
+    },
+    {
+      "q": "Which of those aspects matters most for predicting returns?",
+      "a": [
+        "Asset allocation",
+        "Market timing",
+        "Security selection",
+        "Portfolio rebalancing"
+      ],
+      "why": "Lesson 2 says asset allocation is the most important factor when forecasting returns."
+    },
+    {
+      "q": "Why should no single asset class exceed roughly 25 to 30 percent of a portfolio?",
+      "a": [
+        "A crash could leave too much of your net worth stuck",
+        "Smaller holdings always produce higher average returns",
+        "Regulators cap how much one class may be held",
+        "Fees rise sharply once a holding passes that size"
+      ],
+      "why": "Lesson 3 warns that concentrating more than that leaves too much of your net value blocked in a crash."
+    }
+  ]
+}

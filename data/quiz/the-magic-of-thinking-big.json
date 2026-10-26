@@ -1,0 +1,56 @@
+{
+  "book": "the-magic-of-thinking-big",
+  "title": "The Magic of Thinking Big",
+  "questions": [
+    {
+      "q": "When was The Magic of Thinking Big first published?",
+      "a": [
+        "1959",
+        "1945",
+        "1972",
+        "1980"
+      ],
+      "why": "The overview notes the book was written in 1959."
+    },
+    {
+      "q": "What is the author's birth year?",
+      "a": [
+        "1927",
+        "1910",
+        "1935",
+        "1942"
+      ],
+      "why": "David Joseph Schwartz was born in 1927."
+    },
+    {
+      "q": "What mindset does Schwartz recommend for achieving goals?",
+      "a": [
+        "Feeling fully capable",
+        "Being skeptical",
+        "Relying on luck",
+        "Avoiding risk"
+      ],
+      "why": "He urges creating a mindset of 100% capability."
+    },
+    {
+      "q": "Why does the book lack modern scientific citations?",
+      "a": [
+        "It predates recent studies",
+        "It avoids science",
+        "It is fictional",
+        "It is a memoir"
+      ],
+      "why": "It was written before many modern studies."
+    },
+    {
+      "q": "What common question does the author say readers often ask?",
+      "a": [
+        "Where do I begin?",
+        "What is success?",
+        "How to invest?",
+        "Who am I?"
+      ],
+      "why": "He notes readers wonder where to start."
+    }
+  ]
+}

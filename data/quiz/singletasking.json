@@ -1,0 +1,56 @@
+{
+  "book": "singletasking",
+  "title": "Singletasking",
+  "questions": [
+    {
+      "q": "What does the summary compare talking on a phone while driving to?",
+      "a": [
+        "Driving while drunk",
+        "Driving while very tired",
+        "Driving in heavy rain",
+        "Driving above the speed limit"
+      ],
+      "why": "Lesson 1 says phone use behind the wheel is as bad as drunk driving."
+    },
+    {
+      "q": "How much does distracted driving cost the US each year, per the summary?",
+      "a": [
+        "$175 billion",
+        "$175 million",
+        "$17.5 billion",
+        "$1.75 trillion"
+      ],
+      "why": "Lesson 1 cites $175 billion in economic and societal costs."
+    },
+    {
+      "q": "What is cluster tasking?",
+      "a": [
+        "Batching similar tasks into one block",
+        "Doing small tasks between meetings",
+        "Switching tasks every fifteen minutes",
+        "Delegating similar tasks to others"
+      ],
+      "why": "Lesson 2 suggests grouping similar work so you repeat the same kind of thinking."
+    },
+    {
+      "q": "Why does the summary recommend leaving buffers in your schedule?",
+      "a": [
+        "They absorb surprises so you do not fall behind",
+        "They leave room for extra meetings",
+        "They make the working day feel longer",
+        "They let you multitask without losing focus"
+      ],
+      "why": "Lesson 2 borrows the medical practice of keeping two empty slots for emergencies."
+    },
+    {
+      "q": "What did the Harvard study find about happiness?",
+      "a": [
+        "People are happier when immersed in the present task",
+        "People are happier when juggling several tasks",
+        "Happiness depends mostly on income",
+        "Happiness falls when attention is focused"
+      ],
+      "why": "Lesson 3 says people are happiest when living in the moment."
+    }
+  ]
+}

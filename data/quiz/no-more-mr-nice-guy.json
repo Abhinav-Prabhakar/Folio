@@ -1,0 +1,56 @@
+{
+  "book": "no-more-mr-nice-guy",
+  "title": "No More Mr. Nice Guy",
+  "questions": [
+    {
+      "q": "What does a Nice Guy typically do in a conflict?",
+      "a": [
+        "He avoids it and agrees just to keep the peace",
+        "He argues until the other person gives in",
+        "He asks a friend to speak for him",
+        "He demands an apology before continuing"
+      ],
+      "why": "The overview says Nice Guys inhibit their personality and avoid conflict at all costs."
+    },
+    {
+      "q": "Why is overpleasing others harmful, according to the summary?",
+      "a": [
+        "It erodes boundaries and breeds frustration",
+        "It makes you too popular at work",
+        "It costs too much time and money",
+        "It makes others jealous of you"
+      ],
+      "why": "Lesson 2 says blurry boundaries let people use you and lose respect, which builds frustration."
+    },
+    {
+      "q": "What should you do when someone's opinion differs from yours?",
+      "a": [
+        "Say so and stand behind your own view",
+        "Agree quickly to end the tension",
+        "Stay quiet and revisit it later",
+        "Let them decide for both of you"
+      ],
+      "why": "Lesson 1 says to analyze a different view, but be vocal when you disagree rather than being walked over."
+    },
+    {
+      "q": "What are the three wrong assumptions behind Nice Guy behavior?",
+      "a": [
+        "Being nice earns love, reciprocity and a problem-free life",
+        "Conflict builds respect, honesty and closeness",
+        "Boundaries attract love, trust and stability",
+        "Speaking up creates safety, clarity and peace"
+      ],
+      "why": "Lesson 3 lists the beliefs that niceness earns love, that needs will be returned and that avoiding upset solves life."
+    },
+    {
+      "q": "What does the summary say about a relationship that ends when you reclaim respect?",
+      "a": [
+        "You have lost only someone who drained you",
+        "You have lost your best chance at love",
+        "You should have compromised more first",
+        "You will struggle to trust anyone again"
+      ],
+      "why": "Lesson 2 says if the relationship ends as you claim respect, you have lost nothing but an energy drainer."
+    }
+  ]
+}

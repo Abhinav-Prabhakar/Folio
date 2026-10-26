@@ -1,0 +1,31 @@
+{
+  "book": "the-desire-map",
+  "title": "The Desire Map",
+  "questions": [
+    {
+      "q": "According to the summary, what does desire do for you?",
+      "a": ["It pushes you to find creative ways to get what you want", "It makes you compare yourself with other people", "It replaces the need for any planning or effort", "It fades once you reach your first big goal"],
+      "why": "Lesson 1 says wanting something forces you to work out how to get it, which sparks creativity."
+    },
+    {
+      "q": "What does the author mean when she says feelings are as true as facts?",
+      "a": ["A feeling is real for the person who has it, even if others disagree", "Feelings and facts can both be proven by evidence", "Facts matter less than feelings in every decision", "Feelings are only valid when other people share them"],
+      "why": "Lesson 2 argues that saying Fred is annoying really means he makes you feel annoyed, which is true for you."
+    },
+    {
+      "q": "What are core desired feelings?",
+      "a": ["The main feelings you most want to experience in your life", "The emotions you try to hide from friends and coworkers", "The feelings that disappear soonest after a success", "The moods other people expect you to display"],
+      "why": "Lesson 2 calls them the feelings you crave and the guiding stars for big life decisions."
+    },
+    {
+      "q": "Why does the author say a goal you dread is not worth achieving?",
+      "a": ["If every step feels like a burden, the goal is wrong for you", "If a goal takes longer than a year, it loses its value", "If you cannot measure it in numbers, it is not real", "If others doubt you, the goal is probably impossible"],
+      "why": "Lesson 3 says the journey should excite you; complaining at every step is a sign to re-examine the goal."
+    },
+    {
+      "q": "What sort of goal did Danielle find drained her energy?",
+      "a": ["Hard targets such as a set income or a fixed finish date", "Open-ended goals with no deadline at all", "Goals chosen purely from her feelings", "Goals that focused on enjoying the process"],
+      "why": "Lesson 3 describes how targets like earning 100,000 dollars or publishing by a date left her stressed."
+    }
+  ]
+}

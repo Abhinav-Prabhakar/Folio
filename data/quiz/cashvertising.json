@@ -1,0 +1,31 @@
+{
+  "book": "cashvertising",
+  "title": "Cashvertising",
+  "questions": [
+    {
+      "q": "What are the Life-Force 8 in the summary?",
+      "a": ["Eight core desires that advertising should appeal to", "Eight steps for writing a perfect headline", "Eight kinds of advertising media to choose from", "Eight rules for pricing a new product"],
+      "why": "Lesson 1 lists the eight inborn desires, from survival to approval, that motivate far more purchases than anything else."
+    },
+    {
+      "q": "What sequence does the summary say turns a desire into a sale?",
+      "a": ["Tension, then desire, then action", "Attention, then price, then purchase", "Desire, then doubt, then review", "Benefit, then proof, then urgency"],
+      "why": "Lesson 1 describes how unmet needs create tension, which sparks desire and pushes the reader to act."
+    },
+    {
+      "q": "What is the first step in crafting a persuasive headline?",
+      "a": ["Lead with the biggest benefit", "Name the target audience", "Add strong action words", "Keep it as short as possible"],
+      "why": "Lesson 2 says the most persuasive part, the greatest perk, should come first so readers keep going."
+    },
+    {
+      "q": "About what share of people who see an ad read only the headline?",
+      "a": ["60%", "20%", "90%", "40%"],
+      "why": "Lesson 2 cites the estimate that most readers stop at the headline, which is why it has to grab attention."
+    },
+    {
+      "q": "What does the summary claim about long copy?",
+      "a": ["It draws interested buyers in better than short copy", "It scares most casual readers away", "It works only for inexpensive products", "It suits print better than online ads"],
+      "why": "Lesson 3 argues that buyers hungry for details will keep reading, so longer copy can build more desire."
+    }
+  ]
+}

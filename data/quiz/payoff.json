@@ -1,0 +1,56 @@
+{
+  "book": "payoff",
+  "title": "Payoff",
+  "questions": [
+    {
+      "q": "What does Ariely call the number one factor in motivation?",
+      "a": [
+        "A sense of meaning",
+        "A high salary",
+        "Public status",
+        "Frequent recognition"
+      ],
+      "why": "Lesson 1 calls meaning the number one factor, more important than money or status."
+    },
+    {
+      "q": "What did the origami experiment show?",
+      "a": [
+        "People valued their own work more after putting in effort",
+        "Clear instructions produced more valuable origami",
+        "Groups produced better origami than individuals",
+        "People preferred origami made by experts"
+      ],
+      "why": "Lesson 2 describes the origami study, where the poorly guided group valued their own work more."
+    },
+    {
+      "q": "What happened to Intel workers after receiving a cash bonus?",
+      "a": [
+        "Productivity fell below normal once the money was paid",
+        "They kept improving for weeks afterward",
+        "They asked for even larger bonuses",
+        "They shared the money with colleagues"
+      ],
+      "why": "Lesson 3 describes Intel workers whose productivity dropped below normal after a cash bonus."
+    },
+    {
+      "q": "Which group performed best in Ariely's follow-up comparison?",
+      "a": [
+        "The group that received a compliment",
+        "The group that received a cash bonus",
+        "The group that received free pizza",
+        "The group that received extra time off"
+      ],
+      "why": "Lesson 3 says the compliment group outperformed the pizza group throughout the week."
+    },
+    {
+      "q": "What does Ariely mean by effort engenders meaning?",
+      "a": [
+        "The more work you put in, the more meaningful it seems",
+        "Effort should be minimized to stay motivated",
+        "Meaningful work always requires less effort",
+        "Only paid effort feels worthwhile"
+      ],
+      "why": "Lesson 2 says effort creates meaning, partly because of the sunk cost fallacy."
+    }
+  ]
+}

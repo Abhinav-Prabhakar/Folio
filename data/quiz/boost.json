@@ -1,0 +1,56 @@
+{
+  "book": "boost",
+  "title": "Boost!",
+  "questions": [
+    {
+      "q": "Why are specific goals more effective than telling yourself to do your best?",
+      "a": [
+        "They give you a concrete standard to measure progress against",
+        "They make the task feel less intimidating to start",
+        "They remove the need for short-term goals",
+        "They rely on external rewards rather than willpower"
+      ],
+      "why": "The summary says vague goals offer nothing concrete to track your growth against."
+    },
+    {
+      "q": "What specific goal helped Bar-Eli pass his 3,000-meter run?",
+      "a": [
+        "Keeping up with the runners at the front of the pack",
+        "Finishing the run in under ten minutes",
+        "Beating his own previous best time",
+        "Training every morning before breakfast"
+      ],
+      "why": "With a clear target, he achieved something he had not managed before."
+    },
+    {
+      "q": "What did Dick Fosbury do differently from other high jumpers?",
+      "a": [
+        "He jumped backward over the bar instead of leaping frontward",
+        "He used a longer run-up than anyone else",
+        "He jumped from a standing position",
+        "He trained with a heavier bar"
+      ],
+      "why": "His unorthodox flop won him a gold medal and became the standard technique."
+    },
+    {
+      "q": "What four steps does the summary give for turning an idea into an innovation?",
+      "a": [
+        "Realize the problem, find an unexpected solution, practice it, share it",
+        "Research the market, raise money, build a team, launch",
+        "Copy a rival, cut the price, advertise widely, expand",
+        "Set a goal, visualize success, measure results, repeat"
+      ],
+      "why": "Fosbury followed this pattern from his struggle with the straddle roll to Olympic gold."
+    },
+    {
+      "q": "What should visualization focus on, according to the summary?",
+      "a": [
+        "The sensory details of the process, not just the outcome",
+        "The applause and rewards that follow success",
+        "The mistakes you want to avoid making",
+        "The speed at which you complete each step"
+      ],
+      "why": "Pete Maravich focused on technique rather than watching the ball go in."
+    }
+  ]
+}

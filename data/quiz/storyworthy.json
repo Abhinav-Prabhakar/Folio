@@ -1,0 +1,56 @@
+{
+  "book": "storyworthy",
+  "title": "Storyworthy",
+  "questions": [
+    {
+      "q": "What two elements does Dicks say a good story must have?",
+      "a": [
+        "A transformation and the teller as the protagonist",
+        "A surprising twist and a memorable villain",
+        "A clear moral and a happy ending",
+        "A timeline and several named characters"
+      ],
+      "why": "Lesson 1 says stories need some kind of change and should be told by the person who lived them."
+    },
+    {
+      "q": "What is the dinner test for a story?",
+      "a": [
+        "Ask whether you would tell it to a friend over dinner",
+        "Try it on family before an audience",
+        "Keep it shorter than a dinner conversation",
+        "Ask a friend to rate it while you eat"
+      ],
+      "why": "Lesson 2 says if you would not recount the story at dinner, you should not share it."
+    },
+    {
+      "q": "What should you avoid doing when telling a story, according to lesson 2?",
+      "a": [
+        "Acting out the drama with gestures and flowery language",
+        "Making eye contact with your listeners",
+        "Pausing before an important moment",
+        "Drawing on details from your own life"
+      ],
+      "why": "Lesson 2 warns that theatrical gestures and poetic ornamentation distract from the message."
+    },
+    {
+      "q": "Why do audiences respond better when the storyteller is the protagonist?",
+      "a": [
+        "Personal vulnerability makes the story land with them",
+        "It keeps the story factually accurate",
+        "It spares listeners from judging other people",
+        "It makes the story shorter to tell"
+      ],
+      "why": "Lesson 1 says sharing something personal takes courage and leaves a real mark on the audience."
+    },
+    {
+      "q": "In the author's car crash story, which moment was the real five-second turning point?",
+      "a": [
+        "His friends arriving to support him before surgery",
+        "The dashboard crushing his legs",
+        "His body flying through the windshield",
+        "His parents arriving at the hospital"
+      ],
+      "why": "Lesson 3 says the crash itself was not the moment; the change came when friends showed up before surgery."
+    }
+  ]
+}

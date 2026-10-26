@@ -1,0 +1,56 @@
+{
+  "book": "creative-schools",
+  "title": "Creative Schools",
+  "questions": [
+    {
+      "q": "Why were mass schools introduced, according to Robinson?",
+      "a": [
+        "To produce standardized workers for factory jobs",
+        "To teach children art and music",
+        "To raise the general level of public health",
+        "To prepare every student for university"
+      ],
+      "why": "Lesson 1 ties mass education to the industrial revolution, which needed standardized knowledge and obedience."
+    },
+    {
+      "q": "What does the gardener metaphor mean for teaching?",
+      "a": [
+        "You cannot force growth but can feed a natural desire to learn",
+        "You must prune away every bad habit as early as possible",
+        "You should plant the same crop in every child",
+        "You have to water on a strict fixed schedule"
+      ],
+      "why": "Lesson 2 says a gardener cannot make plants grow, but can nurture the curiosity already inside them."
+    },
+    {
+      "q": "How does Robinson suggest teachers spark curiosity?",
+      "a": [
+        "By connecting lessons to students' own interests",
+        "By testing students more frequently",
+        "By lecturing for longer periods",
+        "By keeping lessons strictly academic"
+      ],
+      "why": "The summary gives examples like linking math to baseball, history to the local city and music to students' own genres."
+    },
+    {
+      "q": "Which three competencies does Robinson say children need most?",
+      "a": [
+        "Curiosity, creativity and criticism",
+        "Reading, writing and arithmetic",
+        "Discipline, obedience and memory",
+        "Confidence, competition and leadership"
+      ],
+      "why": "Lesson 3 argues that facts and hard skills fade in value, while these three attitudes remain timeless."
+    },
+    {
+      "q": "What does criticism mean in this context?",
+      "a": [
+        "Questioning answers and telling fact from opinion",
+        "Pointing out other people's mistakes",
+        "Rejecting every idea you hear",
+        "Judging art and literature formally"
+      ],
+      "why": "The summary defines criticism as the courage to question even your own answers and separate signal from noise."
+    }
+  ]
+}

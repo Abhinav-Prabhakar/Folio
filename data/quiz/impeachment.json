@@ -1,0 +1,56 @@
+{
+  "book": "impeachment",
+  "title": "Impeachment",
+  "questions": [
+    {
+      "q": "Why did the framers make the impeachment wording vague?",
+      "a": [
+        "So future Congresses could remove leaders in changing times",
+        "So presidents could interpret the rules for themselves",
+        "So state governments could decide each case",
+        "So the Supreme Court could settle every dispute"
+      ],
+      "why": "Lesson 1 says the wording had to be precise yet adaptable, which is why high crimes and misdemeanors fits."
+    },
+    {
+      "q": "What does the phrase high crimes and misdemeanors allow?",
+      "a": [
+        "Removing a president for malice without a specific crime",
+        "Removing a president for unpopular policies alone",
+        "Removing a president only after a criminal conviction",
+        "Removing a president by a simple majority vote"
+      ],
+      "why": "Lesson 1 notes a president need not commit a crime, but must show malicious intentions."
+    },
+    {
+      "q": "Why was Andrew Johnson targeted for impeachment?",
+      "a": [
+        "He was viewed as irritating and racist, not criminal",
+        "He was caught ordering a break-in at headquarters",
+        "He refused to leave office after losing an election",
+        "He sold government secrets to a foreign power"
+      ],
+      "why": "Lesson 2 says the House pursued him over character and politics, and the Senate acquitted him."
+    },
+    {
+      "q": "What happened before Richard Nixon could be impeached?",
+      "a": [
+        "He resigned from office",
+        "The Senate acquitted him",
+        "The House dropped the charges",
+        "He pardoned his advisers"
+      ],
+      "why": "Lesson 2 says Nixon resigned preemptively once his Watergate crimes became clear."
+    },
+    {
+      "q": "What did the seven senators who broke with their party in Johnson's trial do?",
+      "a": [
+        "They put the constitution ahead of party loyalty",
+        "They traded their votes for future appointments",
+        "They demanded Johnson resign before voting",
+        "They delayed the trial until the next election"
+      ],
+      "why": "Lesson 3 says they crossed party lines to protect checks and balances, and none were reelected."
+    }
+  ]
+}

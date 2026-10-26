@@ -1,0 +1,56 @@
+{
+  "book": "duct-tape-marketing",
+  "title": "Duct Tape Marketing",
+  "questions": [
+    {
+      "q": "Why does Jantsch say a mission matters more than goals or strategy?",
+      "a": [
+        "It sustains you through the moments you feel like quitting",
+        "It is what convinces investors to fund your business",
+        "It is what makes your advertising easier to remember",
+        "It is what allows you to charge higher prices"
+      ],
+      "why": "Lesson 1 says a mission carries you past roadblocks, while ambitions like market leadership will not."
+    },
+    {
+      "q": "What makes a customer a champion?",
+      "a": [
+        "They love your product and tell all their friends about it",
+        "They buy from you once and never return",
+        "They compare your prices with competitors before buying",
+        "They sign up for your newsletter but never purchase"
+      ],
+      "why": "Lesson 2 defines champions as repeat customers who love your products so much that they keep recommending you to friends."
+    },
+    {
+      "q": "According to the summary, who are a business's best new customers?",
+      "a": [
+        "Its existing customers, treated exceptionally well",
+        "Its largest competitors' unhappy customers",
+        "Its newest prospects from paid advertising",
+        "Its suppliers and local business partners"
+      ],
+      "why": "Lesson 2 argues that your best new customers are your old ones, because good service turns clients into champions."
+    },
+    {
+      "q": "What does the book mean by saying that if you are not online, you do not exist?",
+      "a": [
+        "Small businesses must pick an online channel and start creating",
+        "Every business must sell physical products through a website",
+        "Only social media advertising can reach new customers today",
+        "A business without a blog cannot build customer trust"
+      ],
+      "why": "Lesson 3 says offline marketing still works in some industries, but you must choose one online channel and begin."
+    },
+    {
+      "q": "What should a company's mission be like?",
+      "a": [
+        "Idealistic in tone and aimed at a broader good",
+        "Specific about revenue targets and market share",
+        "Focused on beating the nearest competitor",
+        "Simple enough to fit on a business card"
+      ],
+      "why": "Lesson 1 says a mission should lean toward idealism and serve others, like treating customers' homes as your own."
+    }
+  ]
+}

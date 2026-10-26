@@ -1,0 +1,56 @@
+{
+  "book": "multipliers",
+  "title": "Multipliers",
+  "questions": [
+    {
+      "q": "Which Multiplier type improves decisions by opening the floor to debate and weighing every option?",
+      "a": [
+        "The Debate Maker",
+        "The Liberator",
+        "The Investor",
+        "The Talent Magnet"
+      ],
+      "why": "Lesson 1 lists the Debate Maker among the five Multiplier types, creating an open environment where all options are considered."
+    },
+    {
+      "q": "What do Diminishers do to the people on their team?",
+      "a": [
+        "They drain enthusiasm and leave people feeling inferior",
+        "They magnify strengths and share credit generously",
+        "They stretch people with ambitious challenges",
+        "They hand over ownership and hold people accountable"
+      ],
+      "why": "Lesson 1 describes Diminishers as draining enthusiasm and skills while employees feel inferior and unfulfilled."
+    },
+    {
+      "q": "What does the summary advise when a Diminisher criticizes you?",
+      "a": [
+        "Pause, cool off, then return with a new solution",
+        "Confront them publicly and demand an apology",
+        "Lay low and wait for them to leave the company",
+        "Quit quickly and look for a better boss"
+      ],
+      "why": "Lesson 2 recommends taking time to calm down instead of reacting fast, citing a leader at Apple who regrouped after criticism."
+    },
+    {
+      "q": "How can an employee turn the tables on a difficult boss?",
+      "a": [
+        "By acting as a Multiplier toward that boss",
+        "By copying the boss's controlling habits",
+        "By escalating every conflict to HR",
+        "By withholding information until asked"
+      ],
+      "why": "Lesson 2 says an employee can become a Multiplier toward their manager, directing the boss's attention to their expertise."
+    },
+    {
+      "q": "What first step does the summary suggest for a leader with Diminisher tendencies?",
+      "a": [
+        "Choose one strength to improve and test their assumptions",
+        "Try to become excellent at every part of the job",
+        "Wait for the team to point out the weaknesses",
+        "Replace the weakest members of the team"
+      ],
+      "why": "Lesson 3 suggests picking a single strength to work on, then testing your assumptions against the five Multiplier types."
+    }
+  ]
+}

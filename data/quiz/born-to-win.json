@@ -1,0 +1,56 @@
+{
+  "book": "born-to-win",
+  "title": "Born To Win",
+  "questions": [
+    {
+      "q": "What do the authors say separates a star athlete from the rest of the team?",
+      "a": [
+        "Desire",
+        "Natural talent",
+        "Luck",
+        "Coaching"
+      ],
+      "why": "Everyone has potential, but winners are the ones who truly want to win."
+    },
+    {
+      "q": "Which two qualities does desire produce?",
+      "a": [
+        "Commitment and perseverance",
+        "Confidence and patience",
+        "Curiosity and discipline",
+        "Optimism and generosity"
+      ],
+      "why": "Commitment keeps you focused while perseverance carries you through hard times."
+    },
+    {
+      "q": "What example does the summary give of a well-defined goal?",
+      "a": [
+        "Increasing your paycheck by 20 percent",
+        "Earning more money this year",
+        "Getting a promotion at work",
+        "Starting your own business someday"
+      ],
+      "why": "A specific target is easier to plan for than a vague wish for more money."
+    },
+    {
+      "q": "What signs indicate a good mentor?",
+      "a": [
+        "Selfless, trustworthy, honest, and glad to see others succeed",
+        "Wealthy, famous, well connected, and busy",
+        "Older, strict, highly educated, and reserved",
+        "Optimistic, talkative, friendly, and easy to please"
+      ],
+      "why": "The summary also suggests looking at the health of a person's relationships."
+    },
+    {
+      "q": "What three parts of yourself does the summary say you must nurture?",
+      "a": [
+        "Mind, body and spirit",
+        "Career, family and friendships",
+        "Skills, habits and reputation",
+        "Confidence, focus and patience"
+      ],
+      "why": "Neglecting any one of them limits what you can accomplish."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "doesnt-hurt-to-ask",
+  "title": "Doesn’t Hurt To Ask",
+  "questions": [
+    {
+      "q": "Why does Gowdy say questions are such an effective tool for persuasion?",
+      "a": ["They keep the focus on the other person and reduce defensiveness", "They let you present facts faster than speeches", "They make your opponent feel intellectually inferior", "They allow you to avoid stating your own opinion"],
+      "why": "Lesson 1 explains that good questions turn the exchange into a conversation instead of a confrontation."
+    },
+    {
+      "q": "Which kinds of words does the summary warn against using in an argument?",
+      "a": ["Sweeping ones like everyone, never, and always", "Technical terms your audience may not know", "Emotional words that reveal how you feel", "Questions that begin with why"],
+      "why": "Lesson 2 says broad generalisations invite easy rebuttals, so your language should be precise."
+    },
+    {
+      "q": "What does repetition achieve in a persuasive argument?",
+      "a": ["It makes the audience feel the point's importance", "It gives you time to think of new points", "It wears the other person down emotionally", "It makes your argument sound more objective"],
+      "why": "Lesson 2 notes that the more a point is repeated, the more weight the audience gives it."
+    },
+    {
+      "q": "What is repackaging an opponent's argument?",
+      "a": ["Restating it so that it sounds absurd", "Summarising it more fairly than they did", "Combining it with your own strongest point", "Repeating it back to them word for word"],
+      "why": "Lesson 2 describes repackaging as rewording a claim until it appears ridiculous, as with the abuse example."
+    },
+    {
+      "q": "Why does playing the victim work as a last-resort tactic?",
+      "a": ["People are naturally more sympathetic to victims", "It makes your opponent lose their temper", "It shifts the argument onto safer ground", "It forces the other side to apologise"],
+      "why": "Lesson 3 admits the tactic lacks dignity but works because audiences feel more empathy for victims."
+    }
+  ]
+}

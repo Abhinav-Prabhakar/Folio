@@ -1,0 +1,31 @@
+{
+  "book": "boys-sex",
+  "title": "Boys & Sex",
+  "questions": [
+    {
+      "q": "What does Orenstein mean by emodiversity, which she says young men are pressured to suppress?",
+      "a": ["The ability to feel and express a wide range of emotions", "The skill of hiding vulnerability in front of peers", "A measure of how many partners someone has had", "The tendency to discuss sex only with close friends"],
+      "why": "Lesson 1 defines emodiversity as feeling and expressing many emotions, and says suppressing them limits it and harms mental health."
+    },
+    {
+      "q": "What surprised Orenstein about the boys' description of an ideal woman?",
+      "a": ["They named traits like ambition and intelligence", "They refused to answer the question at all", "They described only physical appearance", "They said the ideal woman was a close friend"],
+      "why": "Lesson 1 notes that Orenstein expected stereotypes such as blonde hair, but many boys listed positive qualities like being ambitious and intelligent."
+    },
+    {
+      "q": "According to the summary, what does hookup culture teach young men about sex?",
+      "a": ["That sex should stay separate from emotional intimacy", "That consent is always discussed before anything happens", "That relationships matter more than casual encounters", "That drinking improves communication with partners"],
+      "why": "Lesson 2 says transactional hookups push boys to keep sex and intimacy apart, which encourages them to see women as sexual objects."
+    },
+    {
+      "q": "What did the survey of college-aged boys reveal about consent conversations?",
+      "a": ["Only 13 percent had discussed intent in their last hookup", "Most boys refused to answer questions about consent", "Half of the boys had never heard the word consent", "Nearly all had asked a partner for verbal consent"],
+      "why": "Lesson 2 reports that just 13 percent of 1,000 surveyed boys had talked about intent during their most recent hookup."
+    },
+    {
+      "q": "What does the summary advise parents to do instead of having a single talk about sex?",
+      "a": ["Keep having honest, open conversations over time", "Leave the subject to teachers and counselors", "Wait until their son brings the topic up himself", "Focus the discussion on physical mechanics only"],
+      "why": "Lesson 3 says parents should have regular, honest discussions covering consent, respect, gender and emotional needs, not just one awkward talk."
+    }
+  ]
+}

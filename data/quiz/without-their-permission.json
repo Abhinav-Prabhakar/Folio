@@ -1,0 +1,56 @@
+{
+  "book": "without-their-permission",
+  "title": "Without Their Permission",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Without Their Permission?",
+      "a": [
+        "For the longest time I hated Reddit.",
+        "Ben Franklin started learning early.",
+        "A great quote to make a great point.",
+        "Have you ever pruned a tree or bush?"
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Without Their Permission explore?",
+      "a": [
+        "Your startup must solve a real problem – but it doesn’t have to be a well-known one",
+        "Being an African American doesn’t necessarily help you connect with native Africans",
+        "If you rely on common sense, you’re not accounting for the cognitive biases at play",
+        "If you want to build a successful email campaign, try the five-email-sequence first"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Without Their Permission teach?",
+      "a": [
+        "The internet can amplify anything over night, so be careful what you put out",
+        "Bernie Sanders posed a threat that everyone on Clinton’s team underestimated",
+        "Self-doubt and negative talk that emerge from your racial identity must stop",
+        "Neither needy nor avoidant: Find the middle ground of love by being generous"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Without Their Permission?",
+      "a": [
+        "This is the first thing any startup book teaches you, so I’m not gonna go too deep into…",
+        "In the last three decades, the tech industry has shot to the head of the global economy.",
+        "If I asked you to think of the typical software engineer, what would say they look like?",
+        "Naval Ravikant is a successful entrepreneur from India who grew up in the United States."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Without Their Permission?",
+      "a": [
+        "Without Their Permission is Reddit co-founder Alexis Ohanian’s plea to you to start…",
+        "Sugar is commonly linked to diabetes, weight gain, and a series of Western diseases.",
+        "Think about your thoughts to realize that you can choose which ones you’ll entertain",
+        "In today’s world, ads are as poisonous as the products they market so intensely for."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

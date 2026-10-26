@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-an-antiracist",
+  "title": "How To Be An Antiracist",
+  "questions": [
+    {
+      "q": "What is assimilationist racism, as Kendi describes it?",
+      "a": [
+        "Believing a group must change its culture to deserve equality",
+        "Believing one race is genetically superior to another",
+        "Refusing to discuss race in public life",
+        "Treating everyone the same regardless of history"
+      ],
+      "why": "Lesson one defines it as the idea that Black people must adopt majority behavior before they can be treated equally."
+    },
+    {
+      "q": "How did antiracists in the 1980s try to reduce violent crime?",
+      "a": [
+        "By removing policies that kept young Black people unemployed",
+        "By demanding longer prison sentences",
+        "By increasing police patrols in neighborhoods",
+        "By funding more community sports programs"
+      ],
+      "why": "Lesson one says they linked rising crime to Black youth unemployment and attacked the racist policies behind it."
+    },
+    {
+      "q": "What does Kendi say about biological differences between races?",
+      "a": [
+        "There are no meaningful genetic differences between races",
+        "Some races are naturally better at physical tasks",
+        "Race can be inherited but ethnicity cannot",
+        "Differences appear only in a few isolated traits"
+      ],
+      "why": "Lesson two says humans are 99.9 percent genetically the same, and race is not something you inherit."
+    },
+    {
+      "q": "Why does Kendi compare racism to his stage-four cancer?",
+      "a": [
+        "Both have spread throughout the whole body or society",
+        "Both can be cured with a single treatment",
+        "Both are caused by poor personal choices",
+        "Both affect only a small part of the whole"
+      ],
+      "why": "Lesson three says racism, like cancer, is present in every part of society rather than in one isolated place."
+    },
+    {
+      "q": "What key difference does Kendi see between cancer patients and racists?",
+      "a": [
+        "Patients accept their illness while racists deny theirs",
+        "Patients get support while racists are always punished",
+        "Patients can recover while racists never can",
+        "Patients seek help while racists usually hide at home"
+      ],
+      "why": "The summary says cancer patients acknowledge the disease and fight it, whereas racists often remain in denial."
+    }
+  ]
+}

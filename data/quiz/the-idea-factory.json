@@ -1,0 +1,56 @@
+{
+  "book": "the-idea-factory",
+  "title": "The Idea Factory",
+  "questions": [
+    {
+      "q": "Before the 1920s, how did people typically make a phone call?",
+      "a": [
+        "They agreed on a time and shouted into the phone until someone answered",
+        "They used a telegraph operator to connect them",
+        "They had to visit a central exchange in person",
+        "They sent a written message to the recipient first"
+      ],
+      "why": "The overview section explains that phones did not make noises until the 1920s, so callers had to coordinate a time and shout."
+    },
+    {
+      "q": "Who is credited with inventing the urinal according to the text?",
+      "a": [
+        "Andrew Rankin",
+        "Willis Carrier",
+        "Tim Berners-Lee",
+        "Alexander Graham Bell"
+      ],
+      "why": "The lesson on forgotten inventors lists Andrew Rankin as the inventor of the urinal."
+    },
+    {
+      "q": "How many Nobel Prize winners came from Bell Labs alumni?",
+      "a": [
+        "13",
+        "7",
+        "21",
+        "5"
+      ],
+      "why": "The Bell Labs lesson states that among their alumni are 13 Nobel Prize winners and five Turing Award winners."
+    },
+    {
+      "q": "What company did AT&T evolve from?",
+      "a": [
+        "The Bell Telephone Company",
+        "The Western Union Company",
+        "The American Radio Company",
+        "The General Telephone Company"
+      ],
+      "why": "The monopoly lesson explains that AT&T evolved from the Bell Telephone Company, which held Bell's original patent."
+    },
+    {
+      "q": "Who wrote the 2012 book The Idea Factory?",
+      "a": [
+        "Jon Gertner",
+        "Peter Thiel",
+        "Tim Berners-Lee",
+        "Alexander Graham Bell"
+      ],
+      "why": "The overview identifies Jon Gertner as the author of the 2012 book about Bell Labs."
+    }
+  ]
+}

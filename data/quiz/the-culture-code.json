@@ -1,0 +1,56 @@
+{
+  "book": "the-culture-code",
+  "title": "The Culture Code",
+  "questions": [
+    {
+      "q": "Who studies vulnerability loops in organizations?",
+      "a": [
+        "Jeff Polzer",
+        "Daniel Coyle",
+        "Brené Brown",
+        "Mark Wahlberg"
+      ],
+      "why": "Polzer researches vulnerability loops at Harvard."
+    },
+    {
+      "q": "What is a key benefit of sharing personal flaws?",
+      "a": [
+        "Builds trust",
+        "Increases competition",
+        "Reduces creativity",
+        "Creates hierarchy"
+      ],
+      "why": "Sharing flaws creates a vulnerability loop that builds trust."
+    },
+    {
+      "q": "Which environment is described as the safest for creativity?",
+      "a": [
+        "Home",
+        "Office",
+        "Remote coworking",
+        "Public library"
+      ],
+      "why": "Coyle notes that homes are the safest places for creative work."
+    },
+    {
+      "q": "What does Coyle say is essential for well‑functioning groups?",
+      "a": [
+        "Purpose",
+        "Profit",
+        "Individual talent",
+        "Strict hierarchy"
+      ],
+      "why": "Purpose is identified as a core component of successful groups."
+    },
+    {
+      "q": "Which movie is used to discuss talent in the book?",
+      "a": [
+        "The Gambler",
+        "The Matrix",
+        "The Social Network",
+        "The Pursuit of Happyness"
+      ],
+      "why": "The book references The Gambler to discuss talent."
+    }
+  ]
+}

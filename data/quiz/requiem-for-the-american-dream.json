@@ -1,0 +1,56 @@
+{
+  "book": "requiem-for-the-american-dream",
+  "title": "Requiem For The American Dream",
+  "questions": [
+    {
+      "q": "According to the summary, what has driven the widening gap between the wealthy and everyone else in the US?",
+      "a": [
+        "Deliberate policy choices made by rich people and corporations",
+        "Random economic cycles that no one could control",
+        "A steady decline in the number of available jobs",
+        "Cultural differences between generations of workers"
+      ],
+      "why": "The opening argument says income inequality is not an accident but the result of intentional policies that concentrate power and money."
+    },
+    {
+      "q": "What does the summary say over-privatization does to governments?",
+      "a": [
+        "It makes them rely on the financial industry for much of their revenue",
+        "It makes them more efficient at serving ordinary citizens",
+        "It removes private influence from public services entirely",
+        "It gives working-class families more bargaining power"
+      ],
+      "why": "Lesson 1 explains that as services are privatized, governments depend on finance for revenue while finance depends on government for stability."
+    },
+    {
+      "q": "What happened to the middle class as government spending on families fell?",
+      "a": [
+        "It shrank while corporations outsourced jobs to cheaper countries",
+        "It grew steadily as taxes on the wealthy were raised",
+        "It stayed the same but worked fewer hours each week",
+        "It moved into better-paid manufacturing jobs at home"
+      ],
+      "why": "Lesson 2 ties the shrinking middle class to lower spending on families and to companies moving work to low-income countries."
+    },
+    {
+      "q": "Why does the summary say Congress ignores most Americans who want universal health care?",
+      "a": [
+        "It answers to lobbyists from powerful insurance companies",
+        "It is legally required to follow corporate shareholders",
+        "Most voters have stopped supporting the idea",
+        "The courts have blocked every health care vote"
+      ],
+      "why": "Lesson 3 uses universal health care as an example of Congress serving lobbyists rather than the majority of citizens."
+    },
+    {
+      "q": "How do corporations keep their influence over government, according to the summary?",
+      "a": [
+        "Through campaign contributions and lawsuits against critics",
+        "By refusing to pay any taxes at all",
+        "By running their own candidates in elections",
+        "By withdrawing from global markets entirely"
+      ],
+      "why": "Lesson 3 describes lobbying through campaign money and legal action against anyone who challenges corporate interests."
+    }
+  ]
+}

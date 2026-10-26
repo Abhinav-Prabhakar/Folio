@@ -1,0 +1,31 @@
+{
+  "book": "discourses",
+  "title": "Discourses",
+  "questions": [
+    {
+      "q": "What does Epictetus say life's hardships are for?",
+      "a": ["They push us to grow into stronger people", "They reveal which friends are loyal", "They balance out the good times", "They test whether we deserve success"],
+      "why": "Lesson 1 argues that without obstacles, like Hercules without labours, we would never strive to improve."
+    },
+    {
+      "q": "What point does Epictetus make with the example of grapes and figs?",
+      "a": ["Greatness develops slowly and cannot be rushed", "Some people ripen faster than others", "Hard work always produces a harvest", "Patience matters more than talent"],
+      "why": "Lesson 2 says a fruit must blossom, bear fruit, and ripen, so no great thing happens overnight."
+    },
+    {
+      "q": "According to the Stoic principle in the summary, what should you focus your energy on?",
+      "a": ["How you respond to what happens", "Preventing bad events from occurring", "Changing the minds of other people", "Avoiding situations you cannot predict"],
+      "why": "Lesson 3 says external events are outside our control, but our reaction to them is where responsibility lies."
+    },
+    {
+      "q": "Where does the summary say good and evil actually exist?",
+      "a": ["In our mind and our will", "In the events that happen to us", "In the opinions of society", "In the hands of fate"],
+      "why": "Lesson 3 concludes that good and evil exist only in our mind and will, not in outside circumstances."
+    },
+    {
+      "q": "What goes wrong when you confuse what you can and cannot control?",
+      "a": ["You waste effort on things outside your power", "You become overly confident in your choices", "You stop caring about other people", "You lose interest in long-term goals"],
+      "why": "Lesson 3 warns that mixing up the two makes you react to what you cannot change and neglect what matters."
+    }
+  ]
+}

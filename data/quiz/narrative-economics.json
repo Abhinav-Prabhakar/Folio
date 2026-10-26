@@ -1,0 +1,56 @@
+{
+  "book": "narrative-economics",
+  "title": "Narrative Economics",
+  "questions": [
+    {
+      "q": "What excites most Bitcoin investors, according to the summary?",
+      "a": [
+        "The story of a revolutionary, government-free future",
+        "The complex mathematics behind the ledger",
+        "The promise of steady, low-risk returns",
+        "The backing of major central banks"
+      ],
+      "why": "Lesson 1 says futuristic narratives and Bitcoin's mysterious origins attracted investors more than the math."
+    },
+    {
+      "q": "What did Shiller compare economic narratives to?",
+      "a": [
+        "Contagious epidemics that spread, peak and fade",
+        "Lotteries that reward a lucky few",
+        "Machines that run without human input",
+        "Laws that apply evenly to every market"
+      ],
+      "why": "Lesson 2 draws a parallel between narrative contagion and the spread curves of diseases like Ebola."
+    },
+    {
+      "q": "What pattern did news mentions of Bitcoin follow?",
+      "a": [
+        "Sharp peaks and declines, like an epidemic curve",
+        "A slow, steady rise with no setbacks",
+        "A flat line after the first year",
+        "A decline that never recovered"
+      ],
+      "why": "Lesson 2 notes a sharp rise in 2014, another peak in 2018 and a fall, resembling an epidemic graph."
+    },
+    {
+      "q": "Why did Roosevelt's fireside chats matter economically?",
+      "a": [
+        "They calmed fear and markets stabilized after each talk",
+        "They announced new taxes on the wealthy",
+        "They replaced Congress as a lawmaking body",
+        "They convinced banks to stop lending"
+      ],
+      "why": "Lesson 3 says Roosevelt understood that lost confidence was hurting the economy and asked people to spend."
+    },
+    {
+      "q": "How can policymakers use narratives, according to the summary?",
+      "a": [
+        "By shaping people's behavior in times of stress",
+        "By hiding bad news from the public",
+        "By banning stories that spread panic",
+        "By letting markets correct themselves"
+      ],
+      "why": "Lesson 3 argues that understanding narratives lets policy-makers shape behavior during stressful periods."
+    }
+  ]
+}

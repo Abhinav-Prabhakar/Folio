@@ -1,0 +1,56 @@
+{
+  "book": "how-to-change",
+  "title": "How To Change",
+  "questions": [
+    {
+      "q": "Why can a fresh start help you change?",
+      "a": [
+        "It creates distance from past failures and a new perspective",
+        "It guarantees you will not relapse",
+        "It gives you more free time than usual",
+        "It makes other people expect more of you"
+      ],
+      "why": "Lesson one says a fresh start separates old unmet goals from new ones, giving you a different outlook."
+    },
+    {
+      "q": "What is temptation bundling?",
+      "a": [
+        "Pairing a hard task with something you enjoy",
+        "Removing all temptations from your home",
+        "Rewarding yourself only after a month",
+        "Doing two difficult tasks at once"
+      ],
+      "why": "Lesson two describes linking a pleasant activity, like a favorite show, to a challenging one such as exercise."
+    },
+    {
+      "q": "What is gamification?",
+      "a": [
+        "Adding scores, badges or rewards to everyday tasks",
+        "Turning your goals into a competitive sport",
+        "Playing games instead of working",
+        "Letting an app set all your deadlines"
+      ],
+      "why": "Lesson two says game elements like points and badges make real-world tasks more fun and motivating."
+    },
+    {
+      "q": "What is a commitment device?",
+      "a": [
+        "A system that restricts your choices to prevent temptation",
+        "A contract that pays you for finishing early",
+        "A friend who checks on your progress",
+        "A calendar that blocks out free time"
+      ],
+      "why": "Lesson two defines it as a self-imposed limit, such as blocking distracting apps during work hours."
+    },
+    {
+      "q": "What did the Air Force Academy study show about peers?",
+      "a": [
+        "Cadets with stronger peers earned higher grades",
+        "Cadets who studied alone outperformed others",
+        "Peer groups had no effect on academic results",
+        "Cadets with more friends dropped out more often"
+      ],
+      "why": "Lesson three says a hundred-point rise in a squadron's average verbal SAT score came with a 0.4 higher GPA."
+    }
+  ]
+}

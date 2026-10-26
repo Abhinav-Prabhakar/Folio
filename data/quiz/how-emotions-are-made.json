@@ -1,0 +1,56 @@
+{
+  "book": "how-emotions-are-made",
+  "title": "How Emotions Are Made",
+  "questions": [
+    {
+      "q": "What is the classical view of emotions that Barrett challenges?",
+      "a": [
+        "Emotions are irrational reflexes, each tied to one brain region",
+        "Emotions are learned habits shaped by family life",
+        "Emotions are conscious choices made after careful thought",
+        "Emotions are physical sensations with no mental component"
+      ],
+      "why": "Lesson 1 describes the classical view as treating emotions as inherited reflexes with a distinct brain area each."
+    },
+    {
+      "q": "Why does Barrett reject the idea that each emotion has a distinct brain region?",
+      "a": [
+        "The same brain areas are active during non-emotional thoughts too",
+        "Emotions happen too quickly for brain scans to capture",
+        "Only people with brain damage show clear emotional patterns",
+        "Different cultures use entirely different brain regions"
+      ],
+      "why": "Lesson 1 says her scans showed the so-called emotion region also lighting up during ordinary perception and thought."
+    },
+    {
+      "q": "What is the theory of constructed emotion?",
+      "a": [
+        "The brain builds emotions from sensory input and past predictions",
+        "The brain releases a fixed set of emotions at birth",
+        "Emotions are copied from the expressions of caregivers",
+        "Emotions are produced by a single emotional center"
+      ],
+      "why": "Lesson 2 says emotions are created on the spot by combining sensations with the brain's predictions from experience."
+    },
+    {
+      "q": "Which example does the summary use to show culture shaping emotion concepts?",
+      "a": [
+        "Tahitian has no word for sadness",
+        "Japanese has many words for embarrassment",
+        "German has a single word for joy",
+        "English lacks a word for contentment"
+      ],
+      "why": "Lesson 3 says Tahitian uses a phrase about flu fatigue instead of a distinct word for sadness."
+    },
+    {
+      "q": "What does the summary say about universal facial expressions of emotion?",
+      "a": [
+        "They are a myth, since expressions vary by culture and situation",
+        "They prove that emotions are inborn and fixed",
+        "They are the same in every culture except for anger",
+        "They were only discovered in the last decade"
+      ],
+      "why": "The overview and Lesson 1 say there is no universal facial expression for each emotion, such as smiling for joy."
+    }
+  ]
+}

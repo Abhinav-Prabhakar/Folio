@@ -1,0 +1,56 @@
+{
+  "book": "the-daily-laws",
+  "title": "The Daily Laws",
+  "questions": [
+    {
+      "q": "What does Greene say mastery requires?",
+      "a": [
+        "Continuous maintenance",
+        "One-time achievement",
+        "Natural talent",
+        "Formal education"
+      ],
+      "why": "He states mastery must be maintained, not attained."
+    },
+    {
+      "q": "How many ways does Greene suggest to handle power games?",
+      "a": [
+        "Three",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "why": "He lists three options: embrace, ignore, accept."
+    },
+    {
+      "q": "What term describes reactive overload?",
+      "a": [
+        "Tactical hell",
+        "Strategic bliss",
+        "Creative flow",
+        "Passive calm"
+      ],
+      "why": "Greene calls reactive overload 'tactical hell'."
+    },
+    {
+      "q": "What does Greene advise to escape tactical hell?",
+      "a": [
+        "Zoom out for a long‑term view",
+        "Work faster",
+        "Ignore deadlines",
+        "Delegate tasks"
+      ],
+      "why": "He recommends taking an elevated, big‑picture perspective."
+    },
+    {
+      "q": "Which book launched Greene's writing career?",
+      "a": [
+        "The 48 Laws of Power",
+        "The Daily Laws",
+        "Mastery",
+        "The Art of Seduction"
+      ],
+      "why": "His breakthrough was publishing The 48 Laws of Power."
+    }
+  ]
+}

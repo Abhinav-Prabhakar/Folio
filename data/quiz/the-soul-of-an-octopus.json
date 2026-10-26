@@ -1,0 +1,56 @@
+{
+  "book": "the-soul-of-an-octopus",
+  "title": "The Soul Of An Octopus",
+  "questions": [
+    {
+      "q": "What unique sensory ability do octopus suckers have?",
+      "a": [
+        "They can taste objects they touch",
+        "They can see in low light",
+        "They can emit electric fields",
+        "They can detect magnetic fields"
+      ],
+      "why": "Researchers found octopuses taste with their suckers."
+    },
+    {
+      "q": "How does an excited octopus typically change its skin color?",
+      "a": [
+        "Turns red",
+        "Turns blue",
+        "Turns green",
+        "Turns black"
+      ],
+      "why": "The text says excitement makes them turn red."
+    },
+    {
+      "q": "Which personality trait was observed in the octopus named Athena?",
+      "a": [
+        "Extroverted, quickly approached humans",
+        "Introverted, avoided contact",
+        "Aggressive, attacked visitors",
+        "Indifferent, ignored observers"
+      ],
+      "why": "Athena quickly approached and clung to the author."
+    },
+    {
+      "q": "What analogy is used to describe an octopus's mood‑color changes?",
+      "a": [
+        "A swimming mood ring",
+        "A chameleon's camouflage",
+        "A traffic light system",
+        "A weather vane"
+      ],
+      "why": "The book compares octopuses to swimming mood rings."
+    },
+    {
+      "q": "What playful behavior did researchers notice involving octopus funnels?",
+      "a": [
+        "Squirted water at empty pill bottles",
+        "Built nests from sand",
+        "Danced in circles",
+        "Played hide and seek"
+      ],
+      "why": "Octopuses squirted water with their funnels at the bottles."
+    }
+  ]
+}

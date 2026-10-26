@@ -1,0 +1,31 @@
+{
+  "book": "digital-renaissance",
+  "title": "Digital Renaissance",
+  "questions": [
+    {
+      "q": "What does Waldfogel call the pre-internet system where industry insiders picked and funded artists?",
+      "a": ["The adult supervision model", "The gatekeeper economy", "The star factory system", "The patronage model"],
+      "why": "Lesson 1 describes talent scouts and their employers investing heavily in chosen artists, which he calls adult supervision."
+    },
+    {
+      "q": "What does the saying that nobody knows anything about art actually mean?",
+      "a": ["Taste is subjective and hard to predict, even for experts", "Critics understand art better than audiences do", "Only trained artists can judge quality", "Nobody can agree on what counts as art"],
+      "why": "Lesson 1 says even seasoned professionals misjudge hits, as with the costly flop Solo: A Star Wars Story."
+    },
+    {
+      "q": "What happened to creative industry jobs and output after digitization?",
+      "a": ["Jobs and revenue fell while available art soared", "Both jobs and the amount of art declined sharply", "Jobs grew steadily along with artistic output", "Revenue rose but the number of new works dropped"],
+      "why": "Lesson 2 notes movie jobs and earnings dropped, yet the art reaching consumers increased enormously."
+    },
+    {
+      "q": "What was copyright protection originally meant to do?",
+      "a": ["Let creators recoup costs and profit from their work", "Keep all art under the control of publishers", "Prevent artists from selling abroad", "Guarantee every creator a steady income"],
+      "why": "Lesson 3 says copyright existed so artists could earn from their work and keep making more."
+    },
+    {
+      "q": "Why does the summary argue that stricter copyright enforcement is pointless now?",
+      "a": ["Artists keep creating despite widespread file sharing", "Piracy has been almost completely eliminated", "Consumers refuse to pay for any digital art", "Governments have already repealed copyright laws"],
+      "why": "Lesson 3 observes that artistic production continues at full steam even though copyright is widely ignored."
+    }
+  ]
+}

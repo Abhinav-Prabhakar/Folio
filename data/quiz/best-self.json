@@ -1,0 +1,56 @@
+{
+  "book": "best-self",
+  "title": "Best Self",
+  "questions": [
+    {
+      "q": "What first step does the book suggest for identifying your best self?",
+      "a": [
+        "Write down your positive traits on a piece of paper",
+        "List your biggest fears on paper",
+        "Memorize inspirational quotes daily",
+        "Create a vision board of future goals"
+      ],
+      "why": "The summary says to write all positive traits on paper to recognize your best self."
+    },
+    {
+      "q": "Why does the summary say most people didn't learn to reach their full potential early?",
+      "a": [
+        "Schools offered no curriculum on finding and connecting with your full potential",
+        "Parents discouraged any ambition from a young age",
+        "Media promoted instant success over effort",
+        "Society valued conformity over individuality"
+      ],
+      "why": "It notes there was no curriculum in school for discovering and using full potential."
+    },
+    {
+      "q": "What three-part statement does the book recommend completing to confront a fear?",
+      "a": [
+        "My fear is…; It’s keeping me from…; My plan to stop it becoming reality is…",
+        "I feel…; I will…; I succeed…",
+        "Fear is bad; I avoid it; I ignore it",
+        "I think…; I doubt…; I hope…"
+      ],
+      "why": "The summary lists those three statements to write on paper for each fear."
+    },
+    {
+      "q": "How does the book advise you to uncover the underlying theme of your fears?",
+      "a": [
+        "Journal answers to “What fears do I have…?” and examine them closely",
+        "Talk to a therapist about your worries",
+        "Take a personality test to identify fears",
+        "Meditate without focusing on any issue"
+      ],
+      "why": "It suggests journaling the question about fears and digging deep to find a theme."
+    },
+    {
+      "q": "Which self‑care practice is highlighted as a simple way to reduce stress?",
+      "a": [
+        "Mindful breathing",
+        "Watching TV to distract yourself",
+        "Skipping meals to save time",
+        "Ignoring emotions until they pass"
+      ],
+      "why": "The summary mentions mindful breathing as a quick method to calm and gain perspective."
+    }
+  ]
+}

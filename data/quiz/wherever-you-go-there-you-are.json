@@ -1,0 +1,56 @@
+{
+  "book": "wherever-you-go-there-you-are",
+  "title": "Wherever You Go, There You Are",
+  "questions": [
+    {
+      "q": "What term does Jon Kabat-Zinn use for focusing on one activity at a time?",
+      "a": [
+        "voluntary simplicity",
+        "mindful multitasking",
+        "digital detox",
+        "active meditation"
+      ],
+      "why": "He calls it practicing voluntary simplicity, meaning engage with one activity or thought at a time."
+    },
+    {
+      "q": "According to the book, what is the primary benefit of choosing patience over anger?",
+      "a": [
+        "Better health, environment, and sanity",
+        "Increased productivity only",
+        "Higher social status",
+        "More financial gain"
+      ],
+      "why": "Patience is described as better for health, environment, and sanity."
+    },
+    {
+      "q": "What simple practice does the author recommend for automatic behaviors?",
+      "a": [
+        "Focus on your senses and body while doing them",
+        "Do them faster to finish quickly",
+        "Avoid them altogether",
+        "Replace them with technology"
+      ],
+      "why": "The smallest step suggested is to focus on senses and body during auto‑pilot actions."
+    },
+    {
+      "q": "How does the author define mindfulness in relation to science?",
+      "a": [
+        "Connecting mindfulness with scientific research",
+        "Rejecting scientific methods",
+        "Replacing science with meditation",
+        "Using science to prove mindfulness false"
+      ],
+      "why": "Kabat‑Zinn's mission is to connect mindfulness with science."
+    },
+    {
+      "q": "What does the author suggest you do when a phone notification interrupts a game with your child?",
+      "a": [
+        "Apologize and set the phone aside",
+        "Answer immediately",
+        "Ignore the child",
+        "Turn off the game"
+      ],
+      "why": "The example advises saying sorry and putting the phone away rather than scrambling for it."
+    }
+  ]
+}

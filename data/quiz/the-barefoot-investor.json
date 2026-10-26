@@ -1,0 +1,56 @@
+{
+  "book": "the-barefoot-investor",
+  "title": "The Barefoot Investor",
+  "questions": [
+    {
+      "q": "What are the three buckets of the serviette strategy?",
+      "a": [
+        "Blow, Mojo and Grow",
+        "Spend, Save and Share",
+        "Daily, Splurge and Smile",
+        "Needs, Wants and Wishes"
+      ],
+      "why": "Lesson 1 names the three tiers for everyday spending, long-term savings and wealth investments."
+    },
+    {
+      "q": "What percentage of income goes into the Daily account?",
+      "a": [
+        "60 percent, for rent, food and other essentials",
+        "50 percent, for bills and the mortgage",
+        "70 percent, for all living costs",
+        "40 percent, for essentials and fun"
+      ],
+      "why": "Lesson 1 allocates 60 percent to daily living and splits the rest between Splurge, Smile and debt."
+    },
+    {
+      "q": "Why does Scott say to cut up your credit cards first?",
+      "a": [
+        "It stops you adding more debt while you pay off what you owe",
+        "It improves your credit score immediately",
+        "It forces the bank to lower your interest",
+        "It makes budgeting apps unnecessary"
+      ],
+      "why": "Lesson 2 says destroying the cards removes the chance of piling on new debt during repayment."
+    },
+    {
+      "q": "What should the Mojo account hold?",
+      "a": [
+        "Three months of expenses for a bigger financial rough patch",
+        "One year of income for retirement",
+        "Money set aside for holidays",
+        "A deposit for a first home"
+      ],
+      "why": "Lesson 1 describes Mojo as long-term savings that should ideally cover three months of expenses."
+    },
+    {
+      "q": "What does Scott recommend as a first investment?",
+      "a": [
+        "Index funds that track a broad basket of stocks",
+        "Individual shares chosen after research",
+        "Property bought with borrowed money",
+        "Savings accounts with fixed terms"
+      ],
+      "why": "Lesson 3 recommends index funds as a simple source of long-term, automated growth."
+    }
+  ]
+}

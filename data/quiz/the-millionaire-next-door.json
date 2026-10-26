@@ -1,0 +1,56 @@
+{
+  "book": "the-millionaire-next-door",
+  "title": "The Millionaire Next Door",
+  "questions": [
+    {
+      "q": "What rule does Stanley emphasize for becoming a millionaire?",
+      "a": [
+        "Save more than you spend",
+        "Earn over $1M/year",
+        "Invest in stocks",
+        "Buy luxury items"
+      ],
+      "why": "He stresses saving beyond needs."
+    },
+    {
+      "q": "What formula calculates expected wealth?",
+      "a": [
+        "Age × income ÷ 10",
+        "Income × age × 10",
+        "Income ÷ age × 10",
+        "Age ÷ income × 10"
+      ],
+      "why": "The book gives age × income ÷ 10."
+    },
+    {
+      "q": "What is 'economic outpatient care'?",
+      "a": [
+        "Parents giving money to children",
+        "Medical insurance for the wealthy",
+        "Tax avoidance schemes",
+        "Investment counseling"
+      ],
+      "why": "It refers to parents giving money."
+    },
+    {
+      "q": "Why can top earners still be poor?",
+      "a": [
+        "Taxes cut half their income",
+        "They spend on luxuries",
+        "They invest poorly",
+        "They have high debt"
+      ],
+      "why": "Taxes eat about 50%."
+    },
+    {
+      "q": "Which example shows a young person's expected wealth?",
+      "a": [
+        "$80,000 at 30 gives $240,000",
+        "$50,000 at 25 gives $125,000",
+        "$100,000 at 35 gives $350,000",
+        "$60,000 at 28 gives $180,000"
+      ],
+      "why": "The book uses $80k at 30."
+    }
+  ]
+}

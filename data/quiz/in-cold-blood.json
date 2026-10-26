@@ -1,0 +1,56 @@
+{
+  "book": "in-cold-blood",
+  "title": "In Cold Blood",
+  "questions": [
+    {
+      "q": "What first made neighbors suspicious that something was wrong at the Clutter home?",
+      "a": [
+        "The family missed church and food sat untouched",
+        "A window had been smashed from the outside",
+        "The front door was standing wide open",
+        "The family car was missing from the drive"
+      ],
+      "why": "Lesson 1 says they noticed the absent family, untouched food and a spilled purse."
+    },
+    {
+      "q": "Who gave police their first real lead in the case?",
+      "a": [
+        "Floyd Wells, a prisoner who had shared a cell with Hickock",
+        "A shopkeeper who recognized Perry Smith's face",
+        "Susan Kidwell, who found Nancy's body",
+        "A neighbor who saw two men leave the house"
+      ],
+      "why": "Lesson 2 says Wells heard the news on the radio and recognized the Clutter name."
+    },
+    {
+      "q": "What mistake led police to Hickock and Smith after the murders?",
+      "a": [
+        "Hickock tried to pass a blank check and his plate was noted",
+        "Smith confessed to a stranger in a Las Vegas bar",
+        "They returned to the Clutter house for the safe",
+        "They sold stolen items in Holcomb the next day"
+      ],
+      "why": "Lesson 2 says a suspicious shopkeeper took down the license plate as they drove off."
+    },
+    {
+      "q": "Why did the plan turn violent inside the Clutter house?",
+      "a": [
+        "There was no safe and very little money to take",
+        "Mr. Clutter set off a silent alarm",
+        "The family recognized Perry from prison",
+        "A neighbor arrived and interrupted the robbery"
+      ],
+      "why": "Lesson 3 says the promised safe did not exist, and Dick came unhinged when he learned there was little cash."
+    },
+    {
+      "q": "What did the killers actually leave with?",
+      "a": [
+        "A few dollars and a couple of small items",
+        "A large sum taken from a hidden safe",
+        "Jewelry and silver from the bedrooms",
+        "Cash from a safe they forced open"
+      ],
+      "why": "Lesson 3 closes with them riding off with only a few dollars and small items."
+    }
+  ]
+}

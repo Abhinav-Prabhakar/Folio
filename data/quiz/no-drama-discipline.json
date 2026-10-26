@@ -1,0 +1,56 @@
+{
+  "book": "no-drama-discipline",
+  "title": "No-Drama Discipline",
+  "questions": [
+    {
+      "q": "What is the connect and redirect approach?",
+      "a": [
+        "Connect with the child first, then correct the behavior",
+        "Redirect the child before discussing any feelings",
+        "Punish first and explain the reason later",
+        "Ignore the behavior and distract the child"
+      ],
+      "why": "Lesson 1 describes connect and redirect as taking time to connect, then steering the child toward better behavior."
+    },
+    {
+      "q": "What does the summary call the brain region that handles empathy?",
+      "a": [
+        "The upstairs brain",
+        "The downstairs brain",
+        "The left hemisphere",
+        "The survival brain"
+      ],
+      "why": "Lesson 1 says the upstairs brain handles empathy and emotion, while the downstairs brain manages basic needs."
+    },
+    {
+      "q": "Why should parents avoid time-outs and spanking, per the summary?",
+      "a": [
+        "They breed resentment and fear",
+        "They take too much time to carry out",
+        "They teach children to negotiate",
+        "They work only on older children"
+      ],
+      "why": "Lesson 1 says these punishments create resentment and fear, which helps neither parent nor child."
+    },
+    {
+      "q": "What should a parent do when a toddler melts down in a store?",
+      "a": [
+        "Acknowledge the feelings and connect before redirecting",
+        "Give in quickly to stop the screaming",
+        "Leave the store without a word",
+        "Explain the rules in a long lecture"
+      ],
+      "why": "Lesson 2 says not to dismiss feelings; comfort and acknowledgment help engage the upstairs brain."
+    },
+    {
+      "q": "Why should parents search for the why behind misbehavior?",
+      "a": [
+        "Understanding the reason makes redirection easier",
+        "It proves the child is lying",
+        "It shifts blame onto the child",
+        "It delays any consequence indefinitely"
+      ],
+      "why": "Lesson 3 says children need to feel understood, and the reason makes redirection much easier."
+    }
+  ]
+}

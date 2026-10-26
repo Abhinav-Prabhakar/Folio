@@ -1,0 +1,56 @@
+{
+  "book": "the-magic-of-math",
+  "title": "The Magic Of Math",
+  "questions": [
+    {
+      "q": "What pattern does Arthur notice when adding pairs that equal 20?",
+      "a": [
+        "Multiplication gives the largest product",
+        "Addition gives the largest sum",
+        "Subtraction gives the smallest difference",
+        "Division gives the largest quotient"
+      ],
+      "why": "The product 1010 is largest."
+    },
+    {
+      "q": "Which step is NOT part of the mental math trick?",
+      "a": [
+        "Add the larger number",
+        "Subtract the smaller number",
+        "Multiply by 10",
+        "Divide by 2"
+      ],
+      "why": "The trick does not include dividing by 2."
+    },
+    {
+      "q": "What does the author claim about proving theories in math?",
+      "a": [
+        "They can be proven 100% true",
+        "They are always false",
+        "They are guesses",
+        "They are subjective"
+      ],
+      "why": "Math theories can be proven 100% true."
+    },
+    {
+      "q": "Which example shows a property of even numbers?",
+      "a": [
+        "Sum of two evens is even",
+        "Sum of two odds is odd",
+        "Product of two evens is odd",
+        "Product of two odds is even"
+      ],
+      "why": "Adding two evens always gives an even."
+    },
+    {
+      "q": "What is the first step in the mental math trick?",
+      "a": [
+        "Think of two numbers 1-10",
+        "Add them together",
+        "Multiply by 10",
+        "Subtract the smaller"
+      ],
+      "why": "First step is to think of two numbers 1-10."
+    }
+  ]
+}

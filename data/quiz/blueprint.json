@@ -1,0 +1,56 @@
+{
+  "book": "blueprint",
+  "title": "Blueprint",
+  "questions": [
+    {
+      "q": "What does the Tsonga people's attitude toward kissing show?",
+      "a": [
+        "A practice can vary by culture while love remains universal",
+        "Kissing is a universal sign of romantic love",
+        "Love is a Western idea rather than a human one",
+        "Monogamy exists in every known society"
+      ],
+      "why": "The Tsonga find kissing strange, yet love still appears across cultures."
+    },
+    {
+      "q": "Why was monogamy advantageous for society, according to the summary?",
+      "a": [
+        "It gave each man a spouse and reduced the risk of men left alone",
+        "It increased genetic diversity within small groups",
+        "It strengthened alliances between neighboring tribes",
+        "It allowed women to inherit property and status"
+      ],
+      "why": "Men without partners were more likely to turn to theft, violence and rape."
+    },
+    {
+      "q": "How does the meaning of friendship differ between the US and Saudi Arabia?",
+      "a": [
+        "Americans emphasize sharing feelings; Saudis treat physical contact as a sign",
+        "Americans value practical help; Saudis value formal titles",
+        "Americans prefer group activities; Saudis prefer solitude",
+        "Americans expect written commitments; Saudis rely on gifts"
+      ],
+      "why": "Holding hands, normal between Saudi friends, looked strange to Americans."
+    },
+    {
+      "q": "Why did friendship evolve, according to the summary?",
+      "a": [
+        "Trusted groups helped each other survive without expecting a reward",
+        "It allowed early humans to compete for scarce mates",
+        "It developed only after the invention of agriculture",
+        "It helped people pass on their genes more quickly"
+      ],
+      "why": "Early humans faced illness, hunger and weather better when they could rely on others."
+    },
+    {
+      "q": "How does culture help humans survive in harsh environments?",
+      "a": [
+        "It passes useful information and habits to the next generation",
+        "It eliminates the need for genetic adaptation",
+        "It prevents people from migrating to new regions",
+        "It makes every society behave in the same way"
+      ],
+      "why": "Long lives and imitation let people inherit survival knowledge from their elders."
+    }
+  ]
+}

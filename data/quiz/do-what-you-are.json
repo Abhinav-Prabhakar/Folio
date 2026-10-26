@@ -1,0 +1,31 @@
+{
+  "book": "do-what-you-are",
+  "title": "Do What You Are",
+  "questions": [
+    {
+      "q": "How many personality types does the MBTI method described in the summary produce?",
+      "a": ["Sixteen", "Eight", "Twelve", "Twenty-four"],
+      "why": "Lesson 1 says the four personality areas combine into sixteen distinct types."
+    },
+    {
+      "q": "How does the summary describe the difference between judging and perceiving types?",
+      "a": ["Judgers like order while perceivers prefer flexibility", "Judgers trust feelings while perceivers trust logic", "Judgers enjoy company while perceivers prefer solitude", "Judgers focus on the future while perceivers focus on now"],
+      "why": "Lesson 1 pairs judging with organisation and perceiving with a preference for flexibility."
+    },
+    {
+      "q": "What should you examine to spot careers that might suit you?",
+      "a": ["Where your identity meets your interests", "Which jobs pay the most in your area", "Which industries are growing fastest", "What your family expects you to do"],
+      "why": "Lesson 2 says the crossover of who you are and what interests you reveals possible career paths."
+    },
+    {
+      "q": "How does the summary suggest finishing your job hunt?",
+      "a": ["Interview people already doing the work", "Send applications to as many firms as possible", "Take a second personality test online", "Volunteer in a related field for a month"],
+      "why": "Lesson 2 recommends talking to people in the role to hear what they like and dislike about it."
+    },
+    {
+      "q": "What does the summary say about changing career direction?",
+      "a": ["It can happen at any age", "It is easiest before you turn thirty", "It should wait until retirement", "It only works with a new qualification"],
+      "why": "Lesson 3 argues that as different parts of your personality develop, a new path can make sense at any age."
+    }
+  ]
+}

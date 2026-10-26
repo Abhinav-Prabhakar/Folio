@@ -1,0 +1,31 @@
+{
+  "book": "bounce",
+  "title": "Bounce",
+  "questions": [
+    {
+      "q": "What surprised researchers who tested the English national table tennis team's reactions?",
+      "a": ["The best player had the slowest reaction times", "Every player reacted at exactly the same speed", "The weakest player had the fastest reflexes", "Reaction speed did not change with practice"],
+      "why": "Lesson 1 describes Desmond Douglas, the best player, testing with the slowest reactions because his trained brain reads match situations quickly."
+    },
+    {
+      "q": "According to the summary, which two changes does intensive practice create in the brain?",
+      "a": ["Faster situation reading and more subconscious control", "A larger prefrontal cortex and quicker reflexes", "Better memory and stronger willpower", "Slower decisions and more conscious caution"],
+      "why": "Lesson 1 says practice lets the brain assess complex game situations quickly and shifts execution to subconscious areas, freeing the prefrontal cortex."
+    },
+    {
+      "q": "What does the summary mean by motivation by association?",
+      "a": ["A resemblance to a successful person pushes you to work harder", "Training alongside experts automatically transfers their skill", "Watching a sport regularly improves your own performance", "Success spreads when people share the same coach"],
+      "why": "Lesson 2 explains that finding even a slight similarity between yourself and someone successful can multiply your effort."
+    },
+    {
+      "q": "What does the four-minute mile story illustrate in the summary?",
+      "a": ["One relatable record breaker can unlock belief in many others", "Human bodies have a fixed limit on running speed", "Records improve only through new running shoes", "British runners are naturally faster than others"],
+      "why": "Lesson 2 shows that after Roger Bannister broke the barrier, many runners with a link to Britain quickly followed."
+    },
+    {
+      "q": "What technique does the summary suggest for avoiding a choke under pressure?",
+      "a": ["Telling yourself the event is not a big deal", "Rehearsing every movement consciously", "Focusing harder on what the crowd expects", "Slowing your breathing before you begin"],
+      "why": "Lesson 3 recommends reminding yourself the event does not really matter, which lets the subconscious apply your trained skills."
+    }
+  ]
+}

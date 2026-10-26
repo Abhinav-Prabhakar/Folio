@@ -1,0 +1,56 @@
+{
+  "book": "talk-like-ted",
+  "title": "Talk Like Ted",
+  "questions": [
+    {
+      "q": "What does ethos refer to among Aristotle's modes of persuasion?",
+      "a": [
+        "The speaker's credibility and authority on the topic",
+        "The emotional connection with the audience",
+        "The data and evidence behind the argument",
+        "The overall structure of the presentation"
+      ],
+      "why": "Lesson 1 traces ethos to the speaker's standing and the trust their expertise earns."
+    },
+    {
+      "q": "What mix does Gallo call the perfect talk?",
+      "a": [
+        "65% pathos, 25% logos and 10% ethos",
+        "65% logos, 25% pathos and 10% ethos",
+        "Equal parts pathos, logos and ethos",
+        "50% pathos, 40% ethos and 10% logos"
+      ],
+      "why": "Lesson 1 says emotion should dominate, with data second and credibility a small slice."
+    },
+    {
+      "q": "Whose talk featured a swim in open water and a child he feared was drowning?",
+      "a": [
+        "Scott Dinsmore",
+        "Bill Gates",
+        "Joe Smith",
+        "Carmine Gallo"
+      ],
+      "why": "Lesson 2 uses Dinsmore's swim, where he feared a child was drowning, as an extreme moment."
+    },
+    {
+      "q": "How did Joe Smith make his paper towel statistic memorable?",
+      "a": [
+        "He showed that one fewer towel a day would save half a billion pounds a year",
+        "He handed out samples of recycled paper towels",
+        "He compared paper towels with reusable cloths",
+        "He folded a sheet of paper enough times to reach the moon"
+      ],
+      "why": "Lesson 2 says a familiar habit scaled up to a huge number makes the point stick."
+    },
+    {
+      "q": "Why does Gallo recommend covering only three topics?",
+      "a": [
+        "People remember information in about three chunks",
+        "Audiences lose interest after ten minutes",
+        "Three topics fill exactly eighteen minutes",
+        "Speakers can only prepare three stories well"
+      ],
+      "why": "Lesson 3 says research now puts our working memory at roughly three chunks, not seven."
+    }
+  ]
+}

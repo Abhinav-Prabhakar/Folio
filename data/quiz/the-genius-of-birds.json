@@ -1,0 +1,56 @@
+{
+  "book": "the-genius-of-birds",
+  "title": "The Genius Of Birds",
+  "questions": [
+    {
+      "q": "Which bird species is noted for making its own tools like hook‑shaped sticks?",
+      "a": [
+        "New Caledonian crow",
+        "Owl",
+        "Satin bowerbird",
+        "Common pigeon"
+      ],
+      "why": "The text says New Caledonian crow can trim branches and create hook‑shaped tools."
+    },
+    {
+      "q": "What factor is more important than brain size for measuring intelligence, according to the book?",
+      "a": [
+        "Brain weight relative to body size",
+        "Absolute brain mass",
+        "Number of neurons",
+        "Length of lifespan"
+      ],
+      "why": "The passage stresses relative brain weight compared to body mass."
+    },
+    {
+      "q": "How do satin bowerbirds attract mates?",
+      "a": [
+        "By building decorated bowers with colorful objects",
+        "By singing complex songs",
+        "By performing aerial acrobatics",
+        "By offering food gifts"
+      ],
+      "why": "The text describes bowerbirds building and decorating bowers to lure females."
+    },
+    {
+      "q": "What humorous behavior did the author observe in doves at a café?",
+      "a": [
+        "Sliding down a wet plastic canopy",
+        "Stealing pastries",
+        "Mimicking human speech",
+        "Building nests on tables"
+      ],
+      "why": "The author saw two doves trying to sit on a wet canopy and sliding down."
+    },
+    {
+      "q": "Which bird is compared to \"rats of the air\" in urban settings?",
+      "a": [
+        "Dove",
+        "Sparrow",
+        "Crow",
+        "Pigeon"
+      ],
+      "why": "The overview mentions some city doves behaving like rats of the air."
+    }
+  ]
+}

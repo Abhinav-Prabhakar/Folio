@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-right",
+  "title": "How to Be Right",
+  "questions": [
+    {
+      "q": "What does O'Brien say the media did during the Brexit campaign?",
+      "a": [
+        "It gave far more coverage to the leave side",
+        "It gave equal time to both campaigns",
+        "It refused to cover the referendum",
+        "It backed remaining in the EU"
+      ],
+      "why": "Lesson one says leavers received more airtime and column space, which pushed undecided readers toward their view."
+    },
+    {
+      "q": "What effect did media focus on Muslim extremists have, according to O'Brien?",
+      "a": [
+        "It tarred a whole group and boosted support for Brexit",
+        "It reduced public concern about immigration",
+        "It improved reporting standards at newspapers",
+        "It led to a ban on extremist groups"
+      ],
+      "why": "Lesson one says most immigrants were harmless, but coverage of extremists made an entire group suffer and increased Brexit votes."
+    },
+    {
+      "q": "What does O'Brien say political correctness does to public debate?",
+      "a": [
+        "It makes people afraid to speak their minds",
+        "It makes debates more polite and useful",
+        "It protects minority groups from harm",
+        "It encourages more honest journalism"
+      ],
+      "why": "Lesson two argues that constant offense-taking divides people and makes them scared to say what they think."
+    },
+    {
+      "q": "What does the book advise readers to do in a world of disinformation?",
+      "a": [
+        "Check sources and stick to verified facts",
+        "Trust established newspapers without question",
+        "Avoid reading any political coverage",
+        "Follow the most popular voices online"
+      ],
+      "why": "The review says the book helps readers choose reliable sources and avoid falling for mass trends."
+    },
+    {
+      "q": "What is the core problem with social media opinions, according to O'Brien?",
+      "a": [
+        "People share claims without the expertise to judge them",
+        "People post too rarely to influence anyone",
+        "Platforms remove too many honest opinions",
+        "Only journalists are allowed to publish news"
+      ],
+      "why": "Lesson three says everyone can now broadcast views whether or not they understand the topic, spreading misinformation."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "change-your-questions-change-your-life",
+  "title": "Change Your Questions, Change Your Life",
+  "questions": [
+    {
+      "q": "What separates learner questions from judger questions?",
+      "a": ["Learner questions open possibility; judger questions assign blame", "Learner questions are longer; judger questions are brief", "Learner questions seek facts; judger questions seek feelings", "Learner questions suit others; judger questions suit yourself"],
+      "why": "Lesson 1 contrasts questions that create solutions and win-win relations with ones that leave you stuck in judgment."
+    },
+    {
+      "q": "What is a switching question meant to do?",
+      "a": ["Move you from judgment into a learning mindset", "Prove that the other person is wrong", "End a difficult conversation politely", "Help you avoid uncomfortable feelings"],
+      "why": "Lesson 2 describes switching questions as a life preserver that flips you out of the judger pit."
+    },
+    {
+      "q": "What does the ABCC Choice Process ask you to do first?",
+      "a": ["Ask yourself whether you are judging", "Take a deep breath", "Choose a learner question", "Write down your options"],
+      "why": "The overview outlines the process: notice judgment, pause and get curious, then pick a learner question."
+    },
+    {
+      "q": "What signals that you have slipped into judger mode?",
+      "a": ["Feelings of anger and frustration", "A sudden burst of curiosity", "An urge to ask more questions", "A calm and steady mood"],
+      "why": "Lesson 2 says anger and frustration alert your inner observer that it is time to switch questions."
+    },
+    {
+      "q": "Which of these is one of the twelve learner questions?",
+      "a": ["What assumptions am I making?", "Why am I such a failure?", "Who is to blame here?", "Why bother trying at all?"],
+      "why": "Lesson 3 lists that question among twelve prompts meant to open up possibility and creative thinking."
+    }
+  ]
+}

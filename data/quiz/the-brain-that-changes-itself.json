@@ -1,0 +1,56 @@
+{
+  "book": "the-brain-that-changes-itself",
+  "title": "The Brain That Changes Itself",
+  "questions": [
+    {
+      "q": "What phrase summarizes neuroplasticity?",
+      "a": [
+        "Neurons that fire together wire together",
+        "Brains are fixed",
+        "Memory is static",
+        "Thoughts cannot change"
+      ],
+      "why": "The phrase captures synaptic strengthening."
+    },
+    {
+      "q": "Which tool helped treat phantom limb pain?",
+      "a": [
+        "Mirror box",
+        "Physical therapy",
+        "Medication",
+        "Surgery"
+      ],
+      "why": "The mirror box uses visual feedback."
+    },
+    {
+      "q": "What part of the brain is involved in sexual preferences?",
+      "a": [
+        "Hypothalamus",
+        "Amygdala",
+        "Prefrontal cortex",
+        "Hippocampus"
+      ],
+      "why": "The hypothalamus controls instinctive behaviors."
+    },
+    {
+      "q": "How can imagination affect the brain?",
+      "a": [
+        "It can create physical changes",
+        "It has no effect",
+        "It only affects mood",
+        "It causes injury"
+      ],
+      "why": "Imagining activates neural pathways."
+    },
+    {
+      "q": "What does the book say about learning new skills in old age?",
+      "a": [
+        "Brains can still adapt and heal",
+        "Old brains cannot change",
+        "Learning is impossible after 60",
+        "Skills are fixed at birth"
+      ],
+      "why": "Neuroplasticity allows adaptation at any age."
+    }
+  ]
+}

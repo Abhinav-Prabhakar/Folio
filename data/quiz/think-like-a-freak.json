@@ -1,0 +1,56 @@
+{
+  "book": "think-like-a-freak",
+  "title": "Think Like A Freak",
+  "questions": [
+    {
+      "q": "What does Robert Cialdini's energy‑saving survey reveal about people's stated motivations?",
+      "a": [
+        "Protecting the environment ranks first",
+        "Saving money ranks first",
+        "Following others ranks first",
+        "Seeking personal fame ranks first"
+      ],
+      "why": "Survey results list environment, society, money, then peer influence."
+    },
+    {
+      "q": "According to the authors, why might breaking conventions make you unpopular?",
+      "a": [
+        "Because you challenge widely held beliefs",
+        "Because you ignore social norms",
+        "Because you seek attention",
+        "Because you avoid conflict"
+      ],
+      "why": "The text says being right often requires breaking conventions, upsetting others."
+    },
+    {
+      "q": "What lesson do the Steves claim about conventional wisdom and happiness?",
+      "a": [
+        "Letting it go often leads to greater happiness",
+        "Following it guarantees contentment",
+        "It has no impact on happiness",
+        "It always improves decision quality"
+      ],
+      "why": "They argue abandoning conventional wisdom usually makes you happier."
+    },
+    {
+      "q": "In the soccer analogy, what choice illustrates preferring a sure win over a flashy loss?",
+      "a": [
+        "Scoring a simple penalty to win",
+        "Attempting a fancy shot and missing",
+        "Choosing not to play at all",
+        "Letting the opponent score"
+      ],
+      "why": "The example contrasts a plain winning kick with a cool miss."
+    },
+    {
+      "q": "What overall skill does 'thinking like a freak' aim to develop?",
+      "a": [
+        "Seeing the world as it truly is",
+        "Accepting popular opinions",
+        "Avoiding risk altogether",
+        "Prioritizing others' approval"
+      ],
+      "why": "The book defines it as seeing reality clearly, not as most perceive it."
+    }
+  ]
+}

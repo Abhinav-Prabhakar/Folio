@@ -1,0 +1,56 @@
+{
+  "book": "the-worldly-philosophers",
+  "title": "The Worldly Philosophers",
+  "questions": [
+    {
+      "q": "What common goal unites all economists in the book?",
+      "a": [
+        "Finding the best societal organization",
+        "Predicting stock prices",
+        "Eliminating government",
+        "Proving Marxism"
+      ],
+      "why": "All economists seek the best way to organize society."
+    },
+    {
+      "q": "Which economic branch studies whole economies rather than individual markets?",
+      "a": [
+        "Macroeconomics",
+        "Microeconomics",
+        "Behavioral economics",
+        "International economics"
+      ],
+      "why": "Macroeconomics aggregates individual markets into a single economy."
+    },
+    {
+      "q": "According to the text, what happens when states heavily interfere in economies?",
+      "a": [
+        "Economic decline",
+        "Rapid growth",
+        "Stable markets",
+        "Increased innovation"
+      ],
+      "why": "The book argues states interfering leads to poorer outcomes."
+    },
+    {
+      "q": "What concept did Adam Smith introduce that describes self‑regulating markets?",
+      "a": [
+        "Invisible Hand",
+        "Supply Shock",
+        "Market Equilibrium",
+        "Price Ceiling"
+      ],
+      "why": "Smith popularized the Invisible Hand mechanism."
+    },
+    {
+      "q": "Which historical example is used to illustrate state‑driven economic failure?",
+      "a": [
+        "Soviet 5‑year plans",
+        "British industrial revolution",
+        "Japanese post‑war boom",
+        "American tech boom"
+      ],
+      "why": "The Soviet Union's 5‑year plans are cited as a failure."
+    }
+  ]
+}

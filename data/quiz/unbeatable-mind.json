@@ -1,0 +1,56 @@
+{
+  "book": "unbeatable-mind",
+  "title": "Unbeatable Mind",
+  "questions": [
+    {
+      "q": "What does the 20X factor theory claim you can achieve?",
+      "a": [
+        "Twenty times more than you think",
+        "Double your current output",
+        "Half your current stress",
+        "Only minor improvements"
+      ],
+      "why": "It states you are capable of achieving twenty times more."
+    },
+    {
+      "q": "Approximately how many thoughts does a person have each day according to Queen's University?",
+      "a": [
+        "6,200",
+        "1,200",
+        "10,000",
+        "3,500"
+      ],
+      "why": "The text cites about 6,200 daily thoughts."
+    },
+    {
+      "q": "What is the first step to gaining total control over your thoughts?",
+      "a": [
+        "Notice when thoughts turn negative",
+        "Meditate for ten minutes",
+        "Write a daily journal",
+        "Avoid all social media"
+      ],
+      "why": "You should tame thoughts when you notice them losing control."
+    },
+    {
+      "q": "Which emotion does the book say is natural but must be overcome for confidence?",
+      "a": [
+        "Fear",
+        "Joy",
+        "Surprise",
+        "Disgust"
+      ],
+      "why": "Fear is described as a natural emotion that can hinder confidence."
+    },
+    {
+      "q": "What technique does the book suggest to stop mind chatter when visualizing goals?",
+      "a": [
+        "Use a power statement",
+        "Listen to loud music",
+        "Take a nap",
+        "Eat a snack"
+      ],
+      "why": "A power statement is recommended to redirect negative thoughts."
+    }
+  ]
+}

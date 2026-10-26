@@ -1,0 +1,31 @@
+{
+  "book": "the-design-of-everyday-things",
+  "title": "The Design Of Everyday Things",
+  "questions": [
+    {
+      "q": "According to the summary, why are TV remotes so confusing to use?",
+      "a": ["They pack in buttons to work with as many devices as possible", "They are designed for engineers rather than families", "They change their layout with every new model", "They rely on touch screens that respond poorly"],
+      "why": "Lesson 1 says makers cram remotes with options so they can connect to BluRay players, consoles and sound systems."
+    },
+    {
+      "q": "Why do IKEA's different-sized nuts and bolts make assembly easier?",
+      "a": ["Each bolt fits only one matching hole, so mistakes are hard", "The parts are labeled with numbers in the manual", "Every bolt can go anywhere, which speeds things up", "The pieces click together without any tools"],
+      "why": "Lesson 2 describes this as a physical constraint: one correct place for each part guides the builder."
+    },
+    {
+      "q": "What example of a cultural constraint does the summary give?",
+      "a": ["Screws tighten when turned right and loosen when turned left", "Only one size of bolt fits each hole in a dresser", "Programs remind you to save before closing a file", "A dishwasher offers a single wash cycle"],
+      "why": "Lesson 2 gives the near-universal screw direction as a cultural constraint we rarely notice."
+    },
+    {
+      "q": "What is the first step in the human-centred design process described?",
+      "a": ["Watch real people use the product and record their problems", "Build a prototype and test it in a lab", "Brainstorm fixes before studying any users", "Ask customers which features they want most"],
+      "why": "Lesson 3 says you cannot judge a product without watching people use it, so observation comes first."
+    },
+    {
+      "q": "According to the summary, what goes wrong when technology advances faster than design?",
+      "a": ["Products grow too complicated for consumers to use easily", "Companies run out of ideas for new features", "Users stop buying new devices altogether", "Designers lose interest in solving human problems"],
+      "why": "Lesson 1 warns that when a design becomes too complicated, it becomes useless to the consumer."
+    }
+  ]
+}

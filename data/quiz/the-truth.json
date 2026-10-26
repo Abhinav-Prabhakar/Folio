@@ -1,0 +1,56 @@
+{
+  "book": "the-truth",
+  "title": "The Truth",
+  "questions": [
+    {
+      "q": "What event led Neil Strauss to start rehab for sex addiction?",
+      "a": [
+        "Cheating on his girlfriend with her best friend",
+        "Publishing The Game",
+        "Meeting a therapist",
+        "Starting a polyamorous relationship"
+      ],
+      "why": "He cheated on his girlfriend, prompting rehab."
+    },
+    {
+      "q": "Polyamory originally arose as a protest against what societal norm?",
+      "a": [
+        "Monogamy and strict marriage",
+        "Open relationships",
+        "Therapy",
+        "Rehab"
+      ],
+      "why": "It protested monogamy and strict marriage."
+    },
+    {
+      "q": "According to Strauss, what childhood factor often creates love addicts?",
+      "a": [
+        "Emotionally distant parents",
+        "Early marriage",
+        "High academic pressure",
+        "Strict religious upbringing"
+      ],
+      "why": "Emotionally distant parents lead to love addiction."
+    },
+    {
+      "q": "What two steps does Strauss suggest for building a healthy self-relationship?",
+      "a": [
+        "Empty out, then fill up",
+        "Seek therapy, then date",
+        "Read books, then meditate",
+        "Write journals, then exercise"
+      ],
+      "why": "He proposes empty out then fill up."
+    },
+    {
+      "q": "Why does therapy aim to help both love addicts and avoiders?",
+      "a": [
+        "To build a healthy relationship with themselves",
+        "To find new partners",
+        "To quit sex",
+        "To improve communication skills"
+      ],
+      "why": "Therapy builds a healthy self-relationship."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "liespotting",
+  "title": "Liespotting",
+  "questions": [
+    {
+      "q": "What did Darwin's travels suggest about facial expressions?",
+      "a": [
+        "Basic emotions look the same across different cultures",
+        "Each culture teaches its own set of expressions",
+        "Only trained observers can read emotions accurately",
+        "Facial cues are useless for spotting deception"
+      ],
+      "why": "The first lesson says Darwin found people from various cultures could correctly read the feelings in the photographs he showed."
+    },
+    {
+      "q": "According to the summary, how often is the average adult lied to?",
+      "a": [
+        "Between 10 and 200 times a day",
+        "About once or twice a week",
+        "Roughly five times a month",
+        "Almost never by people they know"
+      ],
+      "why": "The second lesson cites studies putting daily deception at 10 to 200 instances, many of them harmless white lies."
+    },
+    {
+      "q": "Why is lying more common in the modern world?",
+      "a": [
+        "Technology lets us communicate without meeting anyone's eyes",
+        "People are naturally less honest than in past centuries",
+        "Laws against deception are rarely enforced today",
+        "Schools no longer teach children to tell the truth"
+      ],
+      "why": "The summary says phone and video communication removes eye contact and physical contact, opening more room for dishonesty."
+    },
+    {
+      "q": "What does Meyer recommend instead of cornering someone you suspect of lying?",
+      "a": [
+        "Connecting with them so they feel safe telling the truth",
+        "Pressing them until they finally confess",
+        "Threatening to expose the lie in public",
+        "Ending the relationship without discussion"
+      ],
+      "why": "She writes that cornering an opponent makes lying likely, while a real connection makes truth far more likely."
+    },
+    {
+      "q": "Why do people tell white lies, according to the summary?",
+      "a": [
+        "To keep relationships smooth and fit social norms",
+        "To extract money from strangers",
+        "To test whether others are paying attention",
+        "To avoid all forms of responsibility"
+      ],
+      "why": "The second lesson says white lies are told in good faith and help us maintain relationships and fit into society."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "enlightenment-now",
+  "title": "Enlightenment Now",
+  "questions": [
+    {
+      "q": "What share of the world lived in extreme poverty about 200 years ago?",
+      "a": [
+        "More than 90 percent",
+        "About 75 percent",
+        "Roughly half",
+        "Less than 10 percent"
+      ],
+      "why": "Lesson 1 contrasts over 90 percent then with under 10 percent today."
+    },
+    {
+      "q": "What does the Kuznets curve say happens to inequality as income grows?",
+      "a": [
+        "It rises at first, peaks, then falls again",
+        "It falls steadily from the very start",
+        "It stays flat no matter how income grows",
+        "It rises continuously without ever reversing"
+      ],
+      "why": "Lesson 1 describes inequality rising only initially, then declining."
+    },
+    {
+      "q": "What did the Universal Declaration of Human Rights establish?",
+      "a": [
+        "Certain non-negotiable rights for every person",
+        "A global trade agreement among nations",
+        "A shared budget for member countries",
+        "A permanent ban on war between states"
+      ],
+      "why": "Lesson 2 calls it a humanist document granting every person non-negotiable rights."
+    },
+    {
+      "q": "Why does the summary call Americans' fear of terrorism disproportionate?",
+      "a": [
+        "Bee stings and lightning kill more Americans than attacks",
+        "Terror attacks have risen every year since 2001",
+        "The media refuses to report on terrorist attacks",
+        "Governments hide the true number of attacks"
+      ],
+      "why": "Lesson 3 notes you are likelier to die from a bee sting or lightning."
+    },
+    {
+      "q": "How does Pinker say we should face climate change and AI?",
+      "a": [
+        "With reason and optimism, not conspiracy and fear",
+        "By trusting headlines to set the agenda",
+        "By waiting for technology to fix everything",
+        "By avoiding discussion of uncertain risks"
+      ],
+      "why": "Lesson 3 argues these threats need proportion and rational thinking."
+    }
+  ]
+}

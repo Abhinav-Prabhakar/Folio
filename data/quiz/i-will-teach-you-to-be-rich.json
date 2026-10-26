@@ -1,0 +1,56 @@
+{
+  "book": "i-will-teach-you-to-be-rich",
+  "title": "I Will Teach You To Be Rich",
+  "questions": [
+    {
+      "q": "What does Sethi say is the first step toward getting rich?",
+      "a": [
+        "Accepting that you alone are responsible for your finances",
+        "Finding an employer with a generous retirement plan",
+        "Cutting every unnecessary expense from your budget",
+        "Waiting for the stock market to become less volatile"
+      ],
+      "why": "The first lesson says excuses always stay excuses; taking responsibility is the start of getting rich."
+    },
+    {
+      "q": "How does the book divide a paycheck under its Conscious Spending Plan?",
+      "a": [
+        "60% fixed costs, 10% investing, 10% savings, 20% fun",
+        "50% fixed costs, 20% investing, 20% savings, 10% fun",
+        "70% fixed costs, 10% investing, 10% savings, 10% fun",
+        "40% fixed costs, 20% investing, 30% savings, 10% fun"
+      ],
+      "why": "The example automates 60% for fixed costs, 10% for investing, 10% for savings and leaves 20% guilt-free."
+    },
+    {
+      "q": "Why does the summary recommend automating your savings and payments?",
+      "a": [
+        "It removes the need to rely on willpower every month",
+        "It guarantees your investments will never lose value",
+        "It earns you a higher interest rate than manual saving",
+        "It lets you skip tracking where your money goes"
+      ],
+      "why": "Automation works like any good habit: taking willpower out of the equation makes it easier to get right."
+    },
+    {
+      "q": "What does the comparison of starting at 25 versus 35 show?",
+      "a": [
+        "Starting a decade earlier outweighs investing a larger total",
+        "Investing a larger total always produces a bigger final fund",
+        "Older investors earn higher returns on the same amount",
+        "You should stop contributing once you turn 35"
+      ],
+      "why": "The earlier starter invests $55,000 and ends with $615,000, while the later one invests $130,000 and ends with $431,000."
+    },
+    {
+      "q": "What does the book suggest doing with a 401(k)?",
+      "a": [
+        "Contribute enough to capture your employer's full match",
+        "Withdraw from it early to clear credit card debt",
+        "Use it to buy individual stocks you research yourself",
+        "Keep it in cash until you are close to retirement"
+      ],
+      "why": "The summary advises maxing out your 401(k) so you get the most from your employer's matching contribution."
+    }
+  ]
+}

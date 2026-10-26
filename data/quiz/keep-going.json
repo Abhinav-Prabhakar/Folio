@@ -1,0 +1,56 @@
+{
+  "book": "keep-going",
+  "title": "Keep Going",
+  "questions": [
+    {
+      "q": "What did Goethe do before writing?",
+      "a": [
+        "He smelled rotten apples to get into the mood",
+        "He walked for exactly one hour every morning",
+        "He read aloud from old letters and diaries",
+        "He sharpened a dozen pencils at his desk"
+      ],
+      "why": "Lesson 1 uses this example to show that creative rituals can be personal and odd."
+    },
+    {
+      "q": "According to the summary, what does a daily schedule do for creative work?",
+      "a": [
+        "It reserves time for work and keeps work out of free time",
+        "It guarantees a steady and predictable income",
+        "It removes the need for inspiration or ideas",
+        "It makes every creative project shorter"
+      ],
+      "why": "Lesson 1 says scheduling sets a time frame and protects your free time."
+    },
+    {
+      "q": "What is a Bliss Station?",
+      "a": [
+        "A personal work space or time reserved for undisturbed creativity",
+        "A retreat you must rent for at least a month",
+        "A notebook for capturing dreams and ideas",
+        "A group that meets to critique your work"
+      ],
+      "why": "Lesson 2 describes it as a space or time where nothing can interrupt you."
+    },
+    {
+      "q": "What does the summary suggest doing to make your Bliss Station distraction-free?",
+      "a": [
+        "Put your phone on airplane mode",
+        "Play music with lyrics at high volume",
+        "Invite coworkers to work beside you",
+        "Keep notifications on for urgent news"
+      ],
+      "why": "Lesson 2 compares airplane mode to a flight with no outside input."
+    },
+    {
+      "q": "What advice does the summary give about monetizing creative work?",
+      "a": [
+        "Stay authentic rather than chase trends for money",
+        "Accept every paid project you are offered",
+        "Copy whatever format is selling best right now",
+        "Keep your art completely separate from any audience"
+      ],
+      "why": "Lesson 3 says passion-driven work brings more joy, and gifting your work can help."
+    }
+  ]
+}

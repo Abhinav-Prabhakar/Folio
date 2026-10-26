@@ -1,0 +1,56 @@
+{
+  "book": "black-box-thinking",
+  "title": "Black Box Thinking",
+  "questions": [
+    {
+      "q": "What does the summary say people dislike even more than making a mistake?",
+      "a": [
+        "Admitting that they made it",
+        "Repeating the same mistake",
+        "Hiding it from other people",
+        "Being blamed for it publicly"
+      ],
+      "why": "The first lesson argues that admitting errors is the hardest and most necessary step."
+    },
+    {
+      "q": "Why did it take so long to test the DNA evidence in Juan Rivera's case?",
+      "a": [
+        "Prosecutors could not face admitting a grave mistake",
+        "The evidence had been destroyed years earlier",
+        "The testing technology did not yet exist",
+        "Rivera refused to cooperate with testing"
+      ],
+      "why": "The summary says admitting the error would have cost the prosecutors their jobs and confidence."
+    },
+    {
+      "q": "What does treating your ideas as hypotheses encourage you to do?",
+      "a": [
+        "Look for evidence that contradicts them",
+        "Defend them more confidently in debate",
+        "Simplify them until they are easy to explain",
+        "Act on them before doubts set in"
+      ],
+      "why": "The summary contrasts this with seeking only confirmation of what you already believe."
+    },
+    {
+      "q": "What does the bloodletting example warn against?",
+      "a": [
+        "Assuming a common practice must be right without testing it",
+        "Trusting modern medicine over traditional remedies",
+        "Ignoring a patient's symptoms during treatment",
+        "Adopting new technology too quickly"
+      ],
+      "why": "Doctors never tested bloodletting because it seemed obviously cleansing, and it killed people."
+    },
+    {
+      "q": "Why do some students party before an exam, according to the summary?",
+      "a": [
+        "They sabotage themselves so failure can be blamed on partying",
+        "They are confident they will pass without studying",
+        "They focus better under last-minute pressure",
+        "They want to calm their nerves before the test"
+      ],
+      "why": "The summary calls this a loser's attitude: it protects them from falling short of expectations."
+    }
+  ]
+}

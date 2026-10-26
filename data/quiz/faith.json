@@ -1,0 +1,56 @@
+{
+  "book": "faith",
+  "title": "Faith",
+  "questions": [
+    {
+      "q": "What is Jimmy Carter's central claim about faith in lesson 1?",
+      "a": [
+        "It reaches far beyond religion into nearly every part of life",
+        "It only matters to people who belong to an organized church",
+        "It should be based on a fixed set of unexamined dogmas",
+        "It is a private feeling that has little effect on society"
+      ],
+      "why": "Lesson 1 argues that almost everyone trusts in something, religious or not."
+    },
+    {
+      "q": "How does Carter suggest a believer should treat moments of doubt?",
+      "a": [
+        "As a natural opening to search harder and deepen belief",
+        "As a warning sign that faith was never genuine",
+        "As something to hide from one's religious community",
+        "As a problem solved by avoiding difficult questions"
+      ],
+      "why": "Lesson 2 frames doubt as part of a sincere search rather than a threat."
+    },
+    {
+      "q": "What did Carter do after his father died at 59?",
+      "a": [
+        "He looked for answers more eagerly than he had before",
+        "He stopped attending church for several years",
+        "He abandoned his study of theology altogether",
+        "He wrote a book arguing that God does not exist"
+      ],
+      "why": "Lesson 2 says the loss pushed him to search for answers instead of erasing his faith."
+    },
+    {
+      "q": "According to Carter, how do science and religion relate?",
+      "a": [
+        "They complement each other by covering different parts of experience",
+        "They are rival explanations and one must eventually win",
+        "They are both useful only in their earliest forms",
+        "They should be kept completely separate in public life"
+      ],
+      "why": "Lesson 3 says each describes a different area of the human experience."
+    },
+    {
+      "q": "Rather than a fixed set of dogmas, what does Carter say religion should be?",
+      "a": [
+        "A constant search for higher truth",
+        "A weekly routine of ritual and attendance",
+        "A set of rules passed down by a supreme authority",
+        "A personal code built without any community"
+      ],
+      "why": "Lesson 1 describes religious belief as an ongoing pursuit of higher truth."
+    }
+  ]
+}

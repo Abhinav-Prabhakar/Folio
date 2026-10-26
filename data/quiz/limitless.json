@@ -1,0 +1,56 @@
+{
+  "book": "limitless",
+  "title": "Limitless",
+  "questions": [
+    {
+      "q": "What limiting belief held Jim Kwik back as a learner?",
+      "a": [
+        "That he always had to work harder to learn",
+        "That intelligence could never be measured",
+        "That reading was a waste of time",
+        "That teachers could not be trusted"
+      ],
+      "why": "The overview says his assumption that he had to work hard kept him back until he realized he needed to work smarter."
+    },
+    {
+      "q": "What kind of music does Kwik recommend for studying?",
+      "a": [
+        "Baroque music between 50 and 80 beats per minute",
+        "Electronic music with a fast, steady beat",
+        "Silence with occasional white noise",
+        "Classical symphonies at any tempo"
+      ],
+      "why": "The first lesson says the author suggests Baroque music that runs between 50 and 80 beats per minute."
+    },
+    {
+      "q": "How does Kwik suggest using smell to remember better?",
+      "a": [
+        "Use the same essential oil while studying and at the exam",
+        "Burn a different candle for each subject",
+        "Avoid scents entirely so they cannot distract you",
+        "Spray perfume on your notes before reading"
+      ],
+      "why": "He suggests using one scent during study sessions, then repeating it in the exam room."
+    },
+    {
+      "q": "What is the loci technique?",
+      "a": [
+        "Attaching what you memorize to objects in a familiar place",
+        "Repeating a list aloud until it sticks",
+        "Drawing a diagram of every idea you read",
+        "Linking words into a made-up story"
+      ],
+      "why": "You pick a place you know well, attach each part of the material to an object there, then mentally walk through the room."
+    },
+    {
+      "q": "What does Kwik say subvocalizing does to your reading?",
+      "a": [
+        "It limits your speed to how fast you can speak",
+        "It improves comprehension of difficult texts",
+        "It helps you remember names and dates",
+        "It should be practiced for ten minutes daily"
+      ],
+      "why": "The third lesson says pronouncing each word in your head caps your reading and learning at speaking speed."
+    }
+  ]
+}

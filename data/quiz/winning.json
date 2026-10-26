@@ -1,0 +1,56 @@
+{
+  "book": "winning",
+  "title": "Winning",
+  "questions": [
+    {
+      "q": "What was Jack Welch's primary mission for GE?",
+      "a": [
+        "Be number one or two in each market",
+        "Maximize shareholder dividends",
+        "Expand globally at all costs",
+        "Reduce employee count"
+      ],
+      "why": "He set the goal to be top two in every market."
+    },
+    {
+      "q": "How does Welch view annual budgeting?",
+      "a": [
+        "It can hinder growth",
+        "It ensures stability",
+        "It motivates teams",
+        "It simplifies planning"
+      ],
+      "why": "He argues fixed budgets can stop growth."
+    },
+    {
+      "q": "What budgeting alternative does Welch propose?",
+      "a": [
+        "Flexible budgeting",
+        "Zero-based budgeting",
+        "Fixed quarterly caps",
+        "Annual cutbacks"
+      ],
+      "why": "He suggests adjusting budgets as you go."
+    },
+    {
+      "q": "What career advice does Welch give about job changes?",
+      "a": [
+        "Switch jobs often to find passion",
+        "Stay at one company forever",
+        "Only change after promotion",
+        "Never leave a stable role"
+      ],
+      "why": "He encourages trying different jobs to discover love."
+    },
+    {
+      "q": "What was the size of Welch's severance payment?",
+      "a": [
+        "$417 million",
+        "$100 million",
+        "$250 million",
+        "$50 million"
+      ],
+      "why": "He received the largest severance of $417 million."
+    }
+  ]
+}

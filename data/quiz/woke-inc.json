@@ -1,0 +1,56 @@
+{
+  "book": "woke-inc",
+  "title": "Woke, Inc.",
+  "questions": [
+    {
+      "q": "What original meaning did the phrase \"stay woke\" have?",
+      "a": [
+        "Alert to racism",
+        "Support environmental causes",
+        "Promote economic growth",
+        "Encourage political activism"
+      ],
+      "why": "The text says it was used by black people to stay alert to racism."
+    },
+    {
+      "q": "How do corporations mainly benefit from donating to social causes?",
+      "a": [
+        "Gain public goodwill",
+        "Solve societal problems",
+        "Reduce taxes",
+        "Increase employee satisfaction"
+      ],
+      "why": "They profit more from public opinion than the cause itself."
+    },
+    {
+      "q": "Which company held classes on \"how to be less white\"?",
+      "a": [
+        "Coca‑Cola",
+        "Airbnb",
+        "Apple",
+        "Google"
+      ],
+      "why": "The text cites Coca‑Cola as offering such classes."
+    },
+    {
+      "q": "What did Airbnb do with user data when asked by the Chinese government?",
+      "a": [
+        "Handed it over",
+        "Deleted it",
+        "Sold it to competitors",
+        "Ignored the request"
+      ],
+      "why": "Airbnb gave the data to the Communist Party for profit."
+    },
+    {
+      "q": "According to the book, what new external factor do corporations now prioritize besides shareholders?",
+      "a": [
+        "Stakeholders like government and society",
+        "Only customer reviews",
+        "Employee hobbies",
+        "Supply chain speed"
+      ],
+      "why": "Stakeholders are now among the most important external influences."
+    }
+  ]
+}

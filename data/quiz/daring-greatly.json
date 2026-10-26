@@ -1,0 +1,56 @@
+{
+  "book": "daring-greatly",
+  "title": "Daring Greatly",
+  "questions": [
+    {
+      "q": "How does Brené Brown describe vulnerability itself?",
+      "a": [
+        "Neither good nor bad; it is simply part of being human",
+        "A weakness that strong people learn to eliminate",
+        "A purely negative feeling that should be avoided",
+        "A skill that only trained leaders can develop"
+      ],
+      "why": "Lesson 1 says vulnerability is not a black-and-white subject and is not inherently good or bad."
+    },
+    {
+      "q": "Why does the summary call vulnerability the root of positive emotions too?",
+      "a": [
+        "Loving someone means giving them the power to hurt you",
+        "Positive feelings only appear when you hide your true self",
+        "People who avoid risk feel more joy than others",
+        "Strong emotions can be felt without any connection"
+      ],
+      "why": "Lesson 1 uses romantic love to show that openness brings both possible pain and deep joy."
+    },
+    {
+      "q": "How can you take power away from shame, according to lesson 2?",
+      "a": [
+        "Name what shames you and say it out loud",
+        "Keep it private until the feeling fades",
+        "Distract yourself with work and achievements",
+        "Compare your failure with worse failures"
+      ],
+      "why": "Lesson 2 says pinpointing shame and expressing it reduces the hold it has over you."
+    },
+    {
+      "q": "How do children acquire qualities, according to the summary?",
+      "a": [
+        "By inheriting the qualities their parents actually live out",
+        "By being told which values are important",
+        "By attending schools with strict rules",
+        "By copying whatever their friends do"
+      ],
+      "why": "Lesson 3 says children can only become who you are, so example matters more than talk."
+    },
+    {
+      "q": "What does the summary say a family home should be?",
+      "a": [
+        "A shame-free zone where children feel worthy and loved",
+        "A place where mistakes are punished quickly",
+        "A space focused mainly on academic achievement",
+        "A private area where emotions stay unspoken"
+      ],
+      "why": "Lesson 3 says making home shame-free helps children grow up feeling worthy and able to be themselves."
+    }
+  ]
+}

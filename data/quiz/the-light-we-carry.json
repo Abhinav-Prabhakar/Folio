@@ -1,0 +1,56 @@
+{
+  "book": "the-light-we-carry",
+  "title": "The Light We Carry",
+  "questions": [
+    {
+      "q": "What type of fear does Michelle Obama describe as rational and protective?",
+      "a": [
+        "Protective fear",
+        "Restrictive fear",
+        "Paralyzing fear",
+        "Invisible fear"
+      ],
+      "why": "She defines protective fear as rational and keeping you safe."
+    },
+    {
+      "q": "Which tool did Obama's father eventually use to stay mobile?",
+      "a": [
+        "Motorized cart",
+        "Forearm crutches",
+        "Walking cane",
+        "Wheelchair"
+      ],
+      "why": "He progressed from cane to crutches to a motorized cart."
+    },
+    {
+      "q": "What three-step method does Obama recommend for acute fear?",
+      "a": [
+        "Breathe, reflect, plan",
+        "Analyze, act, adapt",
+        "Pause, protest, proceed",
+        "Ignore, endure, ignore"
+      ],
+      "why": "She outlines breathing, reflecting, then planning."
+    },
+    {
+      "q": "How did Obama feel when Barack announced his presidential run?",
+      "a": [
+        "Apprehensive about losing their Chicago life",
+        "Excited to start a new adventure",
+        "Indifferent to political change",
+        "Confident it would improve their family"
+      ],
+      "why": "She was uneasy about upending their stable life."
+    },
+    {
+      "q": "What common misconception about fear does Obama highlight?",
+      "a": [
+        "It often works quietly, not as panic",
+        "It is always loud and obvious",
+        "It only appears in big decisions",
+        "It never affects daily tasks"
+      ],
+      "why": "She notes fear usually sabotages us subtly."
+    }
+  ]
+}

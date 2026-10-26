@@ -1,0 +1,56 @@
+{
+  "book": "titan",
+  "title": "Titan",
+  "questions": [
+    {
+      "q": "What early advantage helped Rockefeller lower oil transport costs?",
+      "a": [
+        "A rebate deal with Lake Shore Railroad",
+        "A government subsidy",
+        "Owning his own railcars",
+        "Importing cheap oil"
+      ],
+      "why": "The Lake Shore deal gave him a $1.65 per barrel rate."
+    },
+    {
+      "q": "When was Standard Oil declared an illegal monopoly?",
+      "a": [
+        "May 15, 1911",
+        "July 4, 1905",
+        "December 31, 1920",
+        "January 1, 1899"
+      ],
+      "why": "The Supreme Court ruled the monopoly illegal on that date."
+    },
+    {
+      "q": "How did Rockefeller respond to the breakup of his company?",
+      "a": [
+        "He increased his philanthropy",
+        "He retired from public life",
+        "He started a new oil firm",
+        "He moved abroad"
+      ],
+      "why": "He used the time and wealth to expand charitable work."
+    },
+    {
+      "q": "What childhood circumstance contributed to Rockefeller's early entrepreneurship?",
+      "a": [
+        "His father's frequent absences",
+        "A family farm inheritance",
+        "Early schooling in finance",
+        "Living in a wealthy suburb"
+      ],
+      "why": "Father's absences gave John opportunities to pursue business."
+    },
+    {
+      "q": "What was the primary purpose of the Rockefeller Foundation?",
+      "a": [
+        "Create a large charitable trust",
+        "Regulate oil prices",
+        "Promote Baptist education",
+        "Fund railroad expansion"
+      ],
+      "why": "He founded it to build a charitable trust bigger than any before."
+    }
+  ]
+}

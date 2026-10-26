@@ -1,0 +1,56 @@
+{
+  "book": "leonardo-da-vinci",
+  "title": "Leonardo Da Vinci",
+  "questions": [
+    {
+      "q": "How did Leonardo change the standing of artists, according to the summary?",
+      "a": [
+        "His fame and royal commissions made painters respected as thinkers",
+        "He made artwork cheap enough for ordinary people to buy",
+        "He ended the system of commissioned portraits and statues",
+        "He separated painting from science for the first time"
+      ],
+      "why": "The first lesson says that only when Leonardo became famous and was hired by kings were artists respected for their creativity."
+    },
+    {
+      "q": "What did Leonardo begin at age fourteen?",
+      "a": [
+        "An apprenticeship with an artist and engineer",
+        "A university course in anatomy and medicine",
+        "A monastery school devoted to religious painting",
+        "A workshop run by a wealthy merchant family"
+      ],
+      "why": "At fourteen he started an apprenticeship under Andrea del Verrocchio, who worked as both an artist and an engineer."
+    },
+    {
+      "q": "What does the summary mean by calling Leonardo an expert generalist?",
+      "a": [
+        "He linked many fields, using art to study anatomy and engineering",
+        "He mastered one subject before briefly trying another",
+        "He avoided finishing projects so he could keep exploring",
+        "He relied on assistants to handle the technical work"
+      ],
+      "why": "The second lesson describes how he changed thinking across painting, anatomy, medicine and engineering, and infused random interests into his work."
+    },
+    {
+      "q": "What happened to Leonardo's notebooks after his death?",
+      "a": [
+        "They sat unread for centuries and slowed medical progress",
+        "They were printed at once and inspired working surgeons",
+        "They were destroyed by the patrons who commissioned him",
+        "They were translated and taught in universities across Europe"
+      ],
+      "why": "The summary says the notes gathered dust for hundreds of years, and the mechanics of fluids in the heart were understood only 450 years later."
+    },
+    {
+      "q": "What does the author suggest you do with your biggest ideas?",
+      "a": [
+        "Write them down for posterity and leave a way to find them",
+        "Keep them private until every detail is fully worked out",
+        "Publish them early so rivals cannot claim them first",
+        "Share them only with a small circle of trusted peers"
+      ],
+      "why": "The third lesson suggests writing your most important ideas down for future readers, so they can outlive you."
+    }
+  ]
+}

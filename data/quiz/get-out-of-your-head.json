@@ -1,0 +1,56 @@
+{
+  "book": "get-out-of-your-head",
+  "title": "Get Out Of Your Head",
+  "questions": [
+    {
+      "q": "What started Allen's long spiral of anxious thinking?",
+      "a": [
+        "A man threatened her after a talk, then a power outage",
+        "A divorce and a sudden move to another city",
+        "Losing her job at a Baptist church",
+        "A serious illness in her immediate family"
+      ],
+      "why": "The first lesson says the threat and the strange outage made her anxious for the next 18 months."
+    },
+    {
+      "q": "What finally helped Allen begin to recover?",
+      "a": [
+        "Thinking about her thoughts from an outside view",
+        "Avoiding church for several months",
+        "Asking a doctor for medication",
+        "Writing a book about demons"
+      ],
+      "why": "The first lesson says she began to think about her thinking and saw she could choose which thoughts to keep."
+    },
+    {
+      "q": "What does the summary say meditation does for you?",
+      "a": [
+        "It rewires your thinking patterns to be healthier",
+        "It removes your need for sleep",
+        "It erases painful memories",
+        "It builds willpower permanently"
+      ],
+      "why": "The second lesson cites science showing that solitude and meditation can change the brain for the better."
+    },
+    {
+      "q": "What does Allen suggest replacing the why at the end of a thought with?",
+      "a": [
+        "An action statement beginning with so I will",
+        "A question about what caused the feeling",
+        "A promise to try harder next time",
+        "A reminder to stay calm and breathe"
+      ],
+      "why": "The second lesson says this phrase moves you from a reactive mindset to a proactive one."
+    },
+    {
+      "q": "What does the summary say about asking others for help?",
+      "a": [
+        "It is strength, not weakness, and connection defeats toxic thoughts",
+        "It should only be a last resort after self-help",
+        "It works mainly for outgoing people",
+        "It can make negative thinking worse"
+      ],
+      "why": "The third lesson says being known and loved by good people is what keeps toxic thinking at bay."
+    }
+  ]
+}

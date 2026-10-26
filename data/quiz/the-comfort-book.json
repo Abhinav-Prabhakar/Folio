@@ -1,0 +1,56 @@
+{
+  "book": "the-comfort-book",
+  "title": "The Comfort",
+  "questions": [
+    {
+      "q": "What are some less obvious ways depression can manifest according to the text?",
+      "a": [
+        "Loss of interest, insomnia, or numbness",
+        "Sudden anger, excessive laughter, or paranoia",
+        "Physical pain, memory loss, or hallucinations",
+        "Overeating, daydreaming, or restlessness"
+      ],
+      "why": "The overview lists these as ways depression may come dressed up, unlike obvious clues like tears."
+    },
+    {
+      "q": "What does the text suggest you do when your brain is flooded with negativity?",
+      "a": [
+        "Zoom out and take charge of your thoughts",
+        "Write down every negative thought in a journal",
+        "Immediately seek professional medical help",
+        "Ignore the thoughts until they pass on their own"
+      ],
+      "why": "The faulty thinking lesson says to zoom out and take charge when thoughts become inaccurate."
+    },
+    {
+      "q": "According to the text, what kind of stories can help inspire someone in depression?",
+      "a": [
+        "Stories from people who went through similar or different traumatic events",
+        "Only stories from celebrities who overcame depression",
+        "Fictional stories about characters facing adversity",
+        "Stories from people who never experienced any negative events"
+      ],
+      "why": "The lesson on other people's stories says to look for inspiring journeys from similar or different cases."
+    },
+    {
+      "q": "According to the text, what is one benefit of setting boundaries by saying no?",
+      "a": [
+        "It makes room for other activities you can respond to with yes",
+        "It eliminates all feelings of guilt toward others",
+        "It guarantees that people will never ask again",
+        "It replaces the need for any form of self-care"
+      ],
+      "why": "The say no lesson explains that boundaries make room for other activities you can say yes to."
+    },
+    {
+      "q": "What does the text say about the accuracy of your thoughts during depression?",
+      "a": [
+        "They can become inaccurate and not all should be trusted",
+        "They are always accurate but feel overwhelming",
+        "They become completely silent and unresponsive",
+        "They only affect your physical health, not your emotions"
+      ],
+      "why": "The faulty thinking lesson states that when the brain is flooded with negativity, thoughts can become inaccurate."
+    }
+  ]
+}

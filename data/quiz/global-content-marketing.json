@@ -1,0 +1,31 @@
+{
+  "book": "global-content-marketing",
+  "title": "Global Content Marketing",
+  "questions": [
+    {
+      "q": "What are the four Ps of the marketing framework in the summary?",
+      "a": ["Planning, producing, promoting and perfecting", "Product, price, place and promotion", "Purpose, people, process and performance", "Plan, publish, promote and profit"],
+      "why": "Lesson 1 walks through planning, producing, promoting and perfecting content."
+    },
+    {
+      "q": "What should you establish before producing content?",
+      "a": ["Your target audience and what they need", "Your total advertising budget", "Your competitors' publishing schedule", "Your company's mission statement"],
+      "why": "Lesson 1 says market research comes first so you know who you are making content for."
+    },
+    {
+      "q": "How does the summary suggest perfecting your content?",
+      "a": ["Test different approaches and measure the results", "Rewrite it until no editor finds a flaw", "Wait a year before updating anything", "Copy the style of the market leader"],
+      "why": "Lesson 1 recommends trying different materials and using performance metrics to see what works."
+    },
+    {
+      "q": "Why is a clearly defined team structure important in content marketing?",
+      "a": ["Clear roles reduce conflict and strengthen communication", "It lets leaders avoid making decisions", "It allows the team to skip brainstorming", "It guarantees campaigns stay under budget"],
+      "why": "Lesson 2 says clearly laid out roles make disputes less likely and improve internal bonds."
+    },
+    {
+      "q": "Why does personalized content engage customers so well?",
+      "a": ["It speaks to their specific needs and profile", "It is cheaper to produce than generic content", "It appears at the top of search results", "It avoids the need for market research"],
+      "why": "Lesson 3 says targeted content feels like it speaks directly to each customer."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "nudge",
+  "title": "Nudge",
+  "questions": [
+    {
+      "q": "What is a nudge, per Thaler and Sunstein?",
+      "a": [
+        "A subtle change that guides a choice without forcing it",
+        "A rule that removes a choice entirely",
+        "A financial penalty for bad decisions",
+        "A strong warning about risks"
+      ],
+      "why": "Lesson 1 defines a nudge as a small environmental change that makes a good choice easier without forcing it."
+    },
+    {
+      "q": "What makes a default so powerful?",
+      "a": [
+        "You have to actively opt out for it not to work",
+        "It hides all other options from view",
+        "It comes with a cash reward",
+        "It is enforced by law"
+      ],
+      "why": "Lesson 2 says defaults keep you on the preset standard unless you actively object."
+    },
+    {
+      "q": "Which example does the summary give of a helpful default?",
+      "a": [
+        "Automatic enrollment in a retirement plan",
+        "Automatic renewal of gym memberships",
+        "Candy placed by the checkout",
+        "A cashier asking about fries"
+      ],
+      "why": "Lesson 2 cites automatic retirement-plan enrollment as a default that helps people save."
+    },
+    {
+      "q": "How can cafeterias nudge people toward fruit?",
+      "a": [
+        "By placing fruit where it is easy to grab",
+        "By raising the price of fruit",
+        "By hiding fruit behind the counter",
+        "By posting calorie warnings"
+      ],
+      "why": "Lesson 1 says putting fruit by the register instead of candy would make people eat more of it."
+    },
+    {
+      "q": "What happened when companies had to report carbon emissions?",
+      "a": [
+        "Emissions dropped because rivals competed to look green",
+        "Emissions rose as reporting costs grew",
+        "Nothing changed until laws limited emissions",
+        "Companies stopped reporting entirely"
+      ],
+      "why": "Lesson 3 says mandatory reporting lowered emissions, as firms competed to appear eco-friendly."
+    }
+  ]
+}

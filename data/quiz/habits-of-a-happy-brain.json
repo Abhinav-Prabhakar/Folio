@@ -1,0 +1,31 @@
+{
+  "book": "habits-of-a-happy-brain",
+  "title": "Habits Of A Happy Brain",
+  "questions": [
+    {
+      "q": "What purpose do unhappy chemicals serve?",
+      "a": ["They warn us of threats and push us to act", "They erase memories of past pain", "They balance out the happy chemicals exactly", "They make social bonding possible"],
+      "why": "Lesson 1 says unhappy chemicals protect us by warning of potential threats."
+    },
+    {
+      "q": "Why does the modern brain trigger cortisol so often?",
+      "a": ["The neocortex sees danger everywhere, though real threats are rare", "People today sleep less than their ancestors", "Cortisol is released whenever we feel happy", "Modern diets contain more stress hormones"],
+      "why": "Lesson 1 says the rational neocortex spots risk around every corner, keeping us in alarm mode."
+    },
+    {
+      "q": "What is habituation?",
+      "a": ["Getting used to things so they no longer bring the same joy", "The habit of chasing new rewards daily", "A chemical that blocks dopamine release", "The brain's tendency to avoid all change"],
+      "why": "Lesson 2 says experiences make us happiest when new, then fade as we adapt."
+    },
+    {
+      "q": "Why does the author say permanent happiness is a myth?",
+      "a": ["Every pleasant experience fades as the brain adapts", "Happiness depends mostly on income and status", "Only some people are born with happy brains", "The brain can only release so much dopamine"],
+      "why": "Lesson 2 says even a lottery win would not end the happiness journey because of habituation."
+    },
+    {
+      "q": "What does the author call the only real mistake in life?",
+      "a": ["Refusing to make a choice at all", "Choosing the wrong option", "Changing your mind too often", "Letting your emotions guide you"],
+      "why": "Lesson 3 says not choosing is the one decision that truly makes you unhappy."
+    }
+  ]
+}

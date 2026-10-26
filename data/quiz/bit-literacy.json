@@ -1,0 +1,56 @@
+{
+  "book": "bit-literacy",
+  "title": "Bit Literacy",
+  "questions": [
+    {
+      "q": "How does the summary say you should treat your email inbox?",
+      "a": [
+        "As a processing plant where each message is routed by content",
+        "As a destination to check only once a week",
+        "As an archive for every message you receive",
+        "As a to-do list that stays unread until finished"
+      ],
+      "why": "The inbox is an intermediary, not a place where messages should pile up."
+    },
+    {
+      "q": "What should you do with an email task that takes two minutes or less?",
+      "a": [
+        "Do it immediately",
+        "Add it to your to-do list",
+        "Schedule it for the weekend",
+        "Forward it to a colleague"
+      ],
+      "why": "The summary says quick tasks should be handled right away, with the rest added to your list."
+    },
+    {
+      "q": "What question should you ask about every piece of media you consume?",
+      "a": [
+        "Is it worth my time, and what will I do with it?",
+        "Is it popular with other readers?",
+        "Is it free to access?",
+        "Is it newly published?"
+      ],
+      "why": "The summary says information is only as good as what you use it for."
+    },
+    {
+      "q": "What does the author recommend for a media diet?",
+      "a": [
+        "Keep a handful of regular sources that give you what you need",
+        "Follow as many sources as possible to stay informed",
+        "Read only books and avoid all video",
+        "Rotate sources weekly to avoid blind spots"
+      ],
+      "why": "The author cut out news, TV, podcasts and newsletters after finding they added no value."
+    },
+    {
+      "q": "What does frontloading mean in your communication?",
+      "a": [
+        "Putting the most important information first, with enough context",
+        "Sending fewer messages and shorter replies",
+        "Answering every message within minutes",
+        "Using bullet points instead of paragraphs"
+      ],
+      "why": "Frontloading means getting to the point, backing it up, and ending."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "see-you-on-the-internet",
+  "title": "See You On The Internet",
+  "questions": [
+    {
+      "q": "What should a business do first when choosing where to be on social media?",
+      "a": [
+        "Find out where its target customers already spend time online",
+        "Sign up for every major platform at once",
+        "Copy the posting habits of the biggest brands",
+        "Start with paid ads before posting anything"
+      ],
+      "why": "Lesson 1 says each platform has its own rules, so test where your customers already are."
+    },
+    {
+      "q": "What mix of posts does the summary recommend for social media?",
+      "a": [
+        "Eighty percent social content and twenty percent promotion",
+        "Fifty percent social content and fifty percent promotion",
+        "Twenty percent social content and eighty percent promotion",
+        "Ninety percent promotion with occasional personal posts"
+      ],
+      "why": "Lesson 1 recommends an 80/20 split between social content and promotional posts."
+    },
+    {
+      "q": "What makes an email list worth the effort, according to the summary?",
+      "a": [
+        "Valuable content that also serves the company's goals",
+        "Daily discounts sent to the largest possible list",
+        "A purchased list of contacts in your industry",
+        "Fully automated emails that never change"
+      ],
+      "why": "Lesson 2 says email must balance serving the audience with meeting company goals."
+    },
+    {
+      "q": "How does the summary suggest judging whether online efforts are working?",
+      "a": [
+        "Set business goals and review the numbers every week",
+        "Count how many posts went out this month",
+        "Compare follower totals with rival companies",
+        "Ask the team whether the work feels busy"
+      ],
+      "why": "Lesson 3 recommends weekly review of metrics tied to clear business goals."
+    },
+    {
+      "q": "What should you do if one social platform is a struggle?",
+      "a": [
+        "Move to another platform instead of forcing it",
+        "Post more often until the audience appears",
+        "Pay for followers to build quick momentum",
+        "Hire a team to run every platform at once"
+      ],
+      "why": "Lesson 1 says to focus on one or two platforms and move on if one does not work."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "show-your-work",
+  "title": "Show Your Work!",
+  "questions": [
+    {
+      "q": "What does the summary say about the lone genius myth?",
+      "a": [
+        "No great work was made without help from others",
+        "Geniuses do their best work in isolation",
+        "Only trained artists can make masterpieces",
+        "Competition matters more than collaboration"
+      ],
+      "why": "Lesson 1 says every masterpiece depends on curators, friends and sources of inspiration."
+    },
+    {
+      "q": "Why does the author recommend documenting unfinished work?",
+      "a": [
+        "It invites feedback and builds an audience",
+        "It stops others from stealing your ideas",
+        "It proves you are always busy",
+        "It shortens the creative process"
+      ],
+      "why": "Lesson 1 says sharing the process brings useful feedback and an audience."
+    },
+    {
+      "q": "Why does the author prefer a website over social media?",
+      "a": [
+        "A domain you own is a safer long-term home",
+        "Websites always rank higher in search",
+        "Social media cannot reach new people",
+        "Websites cost nothing to run forever"
+      ],
+      "why": "Lesson 2 warns platforms fade, while an owned website lasts."
+    },
+    {
+      "q": "What should you collect from visitors, per the summary?",
+      "a": [
+        "Email addresses to share updates",
+        "Phone numbers for sales calls",
+        "Mailing addresses for gifts",
+        "Passwords for a members area"
+      ],
+      "why": "Lesson 2 recommends collecting emails and posting regularly."
+    },
+    {
+      "q": "How does a consistent theme help your platform?",
+      "a": [
+        "It attracts a niche audience that helps each other",
+        "It keeps the audience from growing too fast",
+        "It lets you post much less often",
+        "It hides your work from competitors"
+      ],
+      "why": "Lesson 3 says a clear theme draws like-minded people who refer each other."
+    }
+  ]
+}

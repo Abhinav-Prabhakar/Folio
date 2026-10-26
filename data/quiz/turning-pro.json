@@ -1,0 +1,56 @@
+{
+  "book": "turning-pro",
+  "title": "Turning Pro",
+  "questions": [
+    {
+      "q": "According to Pressfield, what color represents fear for amateurs?",
+      "a": [
+        "Primary color",
+        "Secondary color",
+        "Neutral tone",
+        "Bright hue"
+      ],
+      "why": "He says fear is the primary color of the amateur's interior world."
+    },
+    {
+      "q": "What does Pressfield call the false careers amateurs pursue?",
+      "a": [
+        "Shadow careers",
+        "Side hustles",
+        "Temporary jobs",
+        "Minor projects"
+      ],
+      "why": "He refers to them as 'shadow careers.'"
+    },
+    {
+      "q": "What is a major pitfall when seeking guidance, per Pressfield?",
+      "a": [
+        "Worshipping mentors and losing personal power",
+        "Following only one source of advice",
+        "Avoiding all advice",
+        "Only listening to peers"
+      ],
+      "why": "He warns that worshipping teachers takes away our power."
+    },
+    {
+      "q": "At what age did Pressfield publish his first book?",
+      "a": [
+        "52",
+        "45",
+        "30",
+        "60"
+      ],
+      "why": "He published his first book at 52 after writing since his twenties."
+    },
+    {
+      "q": "What does Pressfield say defines a professional's work ethic?",
+      "a": [
+        "Doing work for its own sake as practice",
+        "Chasing fame and money",
+        "Avoiding failure at all costs",
+        "Seeking constant approval"
+      ],
+      "why": "He states a pro works for the practice itself."
+    }
+  ]
+}

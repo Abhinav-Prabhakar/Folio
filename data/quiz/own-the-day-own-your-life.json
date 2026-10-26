@@ -1,0 +1,56 @@
+{
+  "book": "own-the-day-own-your-life",
+  "title": "Own The Day, Own Your Life",
+  "questions": [
+    {
+      "q": "Why does Marcus recommend water before coffee?",
+      "a": [
+        "You wake dehydrated after hours without drinking",
+        "Coffee absorbs water from your cells",
+        "Water speeds up caffeine absorption",
+        "It prevents you from eating breakfast"
+      ],
+      "why": "Lesson 1 notes we lose about a pound of water overnight, so we wake up dehydrated."
+    },
+    {
+      "q": "What does the 2008 study say beats coffee and extra sleep for afternoon productivity?",
+      "a": [
+        "A nap",
+        "A short walk",
+        "A cold shower",
+        "A protein snack"
+      ],
+      "why": "Lesson 2 cites a 2008 British study in which naps beat caffeine and extra sleep."
+    },
+    {
+      "q": "What is Marcus's total health optimization about?",
+      "a": [
+        "Training for overall health rather than one body part",
+        "Building muscle as fast as possible",
+        "Following one exercise program for life",
+        "Focusing on appearance above all else"
+      ],
+      "why": "Lesson 3 describes total health optimization as training for overall health, not one body part."
+    },
+    {
+      "q": "What does Marcus say about his car accident?",
+      "a": [
+        "It happened for him, not to him",
+        "It ruined his career permanently",
+        "It made him quit his company",
+        "It taught him to avoid driving"
+      ],
+      "why": "The overview recounts Marcus saying the accident happened for him, not to him."
+    },
+    {
+      "q": "What does the summary warn about bodybuilders who focus on one muscle group?",
+      "a": [
+        "They sacrifice other areas and pay for it later",
+        "They gain strength more evenly",
+        "They avoid injury through specialization",
+        "They inspire better overall habits"
+      ],
+      "why": "Lesson 3 warns that focusing on one muscle group sacrifices other areas and shows up later."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-social-contract",
+  "title": "The Social Contract",
+  "questions": [
+    {
+      "q": "Who should exercise authority as an expression of the general will?",
+      "a": [
+        "Sovereign",
+        "Monarchs",
+        "Representatives",
+        "Citizens"
+      ],
+      "why": "Rousseau says sovereigns should reflect the people."
+    },
+    {
+      "q": "What is a hallmark of a legitimate state?",
+      "a": [
+        "Laws benefit everyone",
+        "Laws favor elites",
+        "No laws",
+        "Strict monarchy"
+      ],
+      "why": "Legitimate states serve all citizens."
+    },
+    {
+      "q": "Which relationship is described as competitive between sovereign and government?",
+      "a": [
+        "Competitive",
+        "Collaborative",
+        "Neutral",
+        "Symbiotic"
+      ],
+      "why": "Rousseau notes a competitive dynamic."
+    },
+    {
+      "q": "What did Rousseau criticize about 18th‑century Europe?",
+      "a": [
+        "Lack of birth choice",
+        "Lack of technology",
+        "Lack of education",
+        "Lack of trade"
+      ],
+      "why": "He criticized people not choosing where to be born."
+    },
+    {
+      "q": "What mechanism allows people to express the general will?",
+      "a": [
+        "Popular assemblies",
+        "Monarchs",
+        "Military coups",
+        "Foreign advisors"
+      ],
+      "why": "Assemblies are a way to voice the will."
+    }
+  ]
+}

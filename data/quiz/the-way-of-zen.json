@@ -1,0 +1,56 @@
+{
+  "book": "the-way-of-zen",
+  "title": "The Way Of Zen",
+  "questions": [
+    {
+      "q": "According to Zen, why is chasing happiness considered foolish?",
+      "a": [
+        "It assumes good can exist without bad",
+        "It leads to materialism",
+        "It requires meditation",
+        "It ignores spiritual duties"
+      ],
+      "why": "The text says pursuing happiness is foolish because it stems from the false idea of having only good without any bad."
+    },
+    {
+      "q": "What does Zen encourage about personal effort?",
+      "a": [
+        "Letting yourself be aimless",
+        "Striving for perfection",
+        "Setting strict goals",
+        "Constant self-improvement"
+      ],
+      "why": "Zen teaches we needn't try to become anything specific and encourages doing nothing, being aimless."
+    },
+    {
+      "q": "How does Zen view the natural state of emotions?",
+      "a": [
+        "They are natural and should be accepted",
+        "They must be suppressed",
+        "They need to be transformed",
+        "They are irrelevant"
+      ],
+      "why": "The passage says whatever you feel after an event is natural and should be seen that way."
+    },
+    {
+      "q": "What is the Zen stance on setting goals during meditation?",
+      "a": [
+        "Goal‑setting muddies the already pure mind",
+        "It enhances focus",
+        "It is essential for progress",
+        "It aligns with Taoist practice"
+      ],
+      "why": "Zen believes the mind is already pure; setting goals adds unnecessary mud."
+    },
+    {
+      "q": "Which Western philosopher is noted for teaching Zen tenets?",
+      "a": [
+        "Alan Watts",
+        "Carl Jung",
+        "Jean-Paul Sartre",
+        "Friedrich Nietzsche"
+      ],
+      "why": "The overview mentions Alan Watts teaches the philosophy for Western audiences."
+    }
+  ]
+}

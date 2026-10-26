@@ -1,0 +1,56 @@
+{
+  "book": "smarter-faster-better",
+  "title": "Smarter Faster Better",
+  "questions": [
+    {
+      "q": "Why do people fail at big goals, per the summary?",
+      "a": [
+        "Working toward them daily for years is hard",
+        "They choose goals that are too small",
+        "They set too many short deadlines",
+        "They lack the natural talent required"
+      ],
+      "why": "Lesson 1 says setting a goal is fun, but showing up every day is not."
+    },
+    {
+      "q": "What helps keep motivation up on a long project?",
+      "a": [
+        "Reminding yourself what you are working toward",
+        "Rewarding yourself only at the very end",
+        "Keeping the goal private from others",
+        "Changing the goal whenever it stalls"
+      ],
+      "why": "Lesson 1 suggests visible reminders of the goal's purpose."
+    },
+    {
+      "q": "What does SMART stand for?",
+      "a": [
+        "Specific, measurable, attainable, realistic, time-bound",
+        "Simple, meaningful, actionable, relevant, timed",
+        "Specific, measurable, ambitious, relevant, tracked",
+        "Simple, measurable, agreed, realistic, tested"
+      ],
+      "why": "Lesson 2 lists the five SMART criteria in full."
+    },
+    {
+      "q": "How does the summary suggest making a book goal measurable?",
+      "a": [
+        "Set a daily page or chapter target",
+        "Count the hours spent at the desk",
+        "Ask a friend to check progress",
+        "Write until inspiration runs out"
+      ],
+      "why": "Lesson 2 turns a book goal into a daily two-page draft target."
+    },
+    {
+      "q": "How should you handle predictable distractions?",
+      "a": [
+        "Plan for them before they happen",
+        "Ignore them and catch up later",
+        "Work longer hours to compensate",
+        "Drop the schedule and improvise"
+      ],
+      "why": "Lesson 3 says anticipation is the best defence against distraction."
+    }
+  ]
+}

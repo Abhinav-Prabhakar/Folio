@@ -1,0 +1,31 @@
+{
+  "book": "guns-germs-and-steel",
+  "title": "Guns, Germs, and Steel",
+  "questions": [
+    {
+      "q": "Where did specialized agriculture first appear, according to Diamond?",
+      "a": ["Mesopotamia, followed by China and Mesoamerica", "Egypt, followed by Europe and India", "Africa, followed by Australia and Asia", "China, followed by Mesopotamia and Peru"],
+      "why": "Lesson 1 says the first traces of specialized farming were found in Mesopotamia."
+    },
+    {
+      "q": "What did living alongside animals bring to early farming societies?",
+      "a": ["More germs and disease, but eventually stronger immunity", "A larger supply of meat and no illness", "New tools and faster travel routes", "A belief that animals were sacred"],
+      "why": "Lesson 1 says animal proximity brought disease, and survivors passed immunity to their children."
+    },
+    {
+      "q": "How did language develop in the summary's account?",
+      "a": ["Communities needed records as they collaborated on farming", "People invented it to write down religious laws", "Traders created it to keep prices secret", "Rulers imposed it to control distant provinces"],
+      "why": "Lesson 2 says agriculture created a need for record keeping, which shaped language."
+    },
+    {
+      "q": "Which direction did information mostly spread in history?",
+      "a": ["From east to west, rarely the other way", "From west to east, rarely the other way", "From north to south along river valleys", "From coastal cities inland to farms"],
+      "why": "Lesson 2 says ideas historically diffused from east to west rather than the reverse."
+    },
+    {
+      "q": "What does Diamond say explains differences between societies?",
+      "a": ["Environmental conditions, not biological differences", "Differences in intelligence between populations", "The influence of religion on science", "The size of a society's army and navy"],
+      "why": "Lesson 3 rejects racial explanations and points to resources, geography and environment."
+    }
+  ]
+}

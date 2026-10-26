@@ -1,0 +1,56 @@
+{
+  "book": "the-god-equation",
+  "title": "The God Equation",
+  "questions": [
+    {
+      "q": "Which force did Newton discover?",
+      "a": [
+        "Gravity",
+        "Electromagnetism",
+        "Strong force",
+        "Weak force"
+      ],
+      "why": "Newton discovered gravity"
+    },
+    {
+      "q": "What did Faraday show about electricity and magnetism?",
+      "a": [
+        "They are interconnected",
+        "They are separate",
+        "They are unrelated",
+        "They are identical"
+      ],
+      "why": "Faraday linked electricity and magnetism"
+    },
+    {
+      "q": "How many fundamental forces govern the universe?",
+      "a": [
+        "Four",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "why": "The book lists four core forces"
+    },
+    {
+      "q": "What did Einstein believe about black holes?",
+      "a": [
+        "They destroy everything that enters",
+        "They are harmless",
+        "They are friendly",
+        "They are invisible"
+      ],
+      "why": "Einstein said black holes destroy everything"
+    },
+    {
+      "q": "What did Hawking propose about black holes?",
+      "a": [
+        "They emit radiation",
+        "They absorb everything",
+        "They are static",
+        "They are empty"
+      ],
+      "why": "Hawking radiation theory"
+    }
+  ]
+}

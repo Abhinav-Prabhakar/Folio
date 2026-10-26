@@ -1,0 +1,56 @@
+{
+  "book": "how-to-live",
+  "title": "How to Live",
+  "questions": [
+    {
+      "q": "How does Sivers structure his book about how to live?",
+      "a": [
+        "He gives 27 conflicting philosophies, each argued as correct",
+        "He interviews 27 people about their daily routines",
+        "He summarizes 27 religions in historical order",
+        "He offers one method with 27 practical steps"
+      ],
+      "why": "The overview says each chapter claims to have the perfect answer, and the reader must decide which fits right now."
+    },
+    {
+      "q": "Why does Sivers present contradictory advice?",
+      "a": [
+        "To show that no single philosophy fits every season",
+        "To prove that most self-help advice is wrong",
+        "To make the book longer and more thorough",
+        "To confuse readers into buying another book"
+      ],
+      "why": "Lesson one says the contradictions reveal that life is gray, with no one right answer that lasts forever."
+    },
+    {
+      "q": "Which everyday question does Sivers use to illustrate life's grayness?",
+      "a": [
+        "What do I feel like eating today?",
+        "What should I do with my career?",
+        "Who do I want to become this year?",
+        "How much money do I really need?"
+      ],
+      "why": "Lesson one says your answer changes from morning to night, showing how preferences shift and contradict themselves."
+    },
+    {
+      "q": "What three life themes does the summary group Sivers's chapters into?",
+      "a": [
+        "Focus, freedom and curiosity",
+        "Love, work and legacy",
+        "Health, wealth and wisdom",
+        "Faith, family and service"
+      ],
+      "why": "Lesson two maps the chapters onto small and focused, open and independent, and big and immersed approaches."
+    },
+    {
+      "q": "What does Sivers say about switching life themes?",
+      "a": [
+        "It is normal and necessary, but you should notice it",
+        "It is a sign that something has gone wrong",
+        "It should happen only once in a lifetime",
+        "It is possible only when you are young"
+      ],
+      "why": "Lesson three says life themes change with the season, and awareness lets you make those shifts deliberately."
+    }
+  ]
+}

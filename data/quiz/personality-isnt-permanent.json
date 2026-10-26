@@ -1,0 +1,56 @@
+{
+  "book": "personality-isnt-permanent",
+  "title": "Personality Isn’t Permanent",
+  "questions": [
+    {
+      "q": "Why does the summary say personality tests can be harmful?",
+      "a": [
+        "They convince you that your personality cannot change",
+        "They cost too much for most people to afford",
+        "They reveal truths people would rather not hear",
+        "They reward test takers for answering dishonestly"
+      ],
+      "why": "The overview says such tests block a growth mindset by making you think this is who you always will be."
+    },
+    {
+      "q": "Which idea does Hardy list as one of the five destructive myths?",
+      "a": [
+        "Your personality is inborn and fixed for life",
+        "Your goals shape the person you become",
+        "Your identity can be revised on purpose",
+        "Your habits influence how you behave"
+      ],
+      "why": "Lesson 1 lists the belief that personality is ingrained and unchangeable among the myths he sets out to debunk."
+    },
+    {
+      "q": "What does Andre Norman's story illustrate?",
+      "a": [
+        "That changing your goals can change your personality",
+        "That prison makes people more determined to succeed",
+        "That childhood experiences fix who you become",
+        "That success depends mostly on meeting the right people"
+      ],
+      "why": "Lesson 2 says Andre questioned his old goals, upgraded them, and in doing so changed his personality."
+    },
+    {
+      "q": "Which three sources does Hardy suggest for finding goals that reshape identity?",
+      "a": [
+        "Exposure, desire and confidence",
+        "Wealth, status and influence",
+        "Discipline, habit and willpower",
+        "Feedback, mentors and education"
+      ],
+      "why": "Lesson 2 names exposure, desire and confidence as the places to look for the aims that drive change."
+    },
+    {
+      "q": "What question pushed Nate to rethink his future?",
+      "a": [
+        "What will life be like at seventy if nothing changes?",
+        "What would his parents want him to do differently?",
+        "How much weight could he lose in a single year?",
+        "Which career would pay enough to fix his health?"
+      ],
+      "why": "Lesson 3 describes Nate picturing himself at seventy and asking whether he wanted to keep his current reality."
+    }
+  ]
+}

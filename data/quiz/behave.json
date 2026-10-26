@@ -1,0 +1,56 @@
+{
+  "book": "behave",
+  "title": "Behave",
+  "questions": [
+    {
+      "q": "What job does the amygdala perform in the brain, according to the summary?",
+      "a": [
+        "It spots threats within milliseconds, though often inaccurately",
+        "It calms aggression and enables rational thought",
+        "It stores long-term memories and language",
+        "It coordinates movement and balance"
+      ],
+      "why": "The summary pairs the fast, fearful amygdala with the slower, rational frontal cortex."
+    },
+    {
+      "q": "What happened to Phineas Gage after an iron rod destroyed his frontal cortex?",
+      "a": [
+        "His personality changed and he suffered violent mood swings",
+        "He lost the ability to speak or understand words",
+        "He forgot his family and his past entirely",
+        "He became unusually calm and agreeable"
+      ],
+      "why": "Without his frontal cortex restraining the amygdala, Gage could not control his aggression."
+    },
+    {
+      "q": "What does the summary say happens when white people briefly view faces of another race?",
+      "a": [
+        "The amygdala fires first, then the frontal cortex calms it",
+        "The frontal cortex fires first, then the amygdala reacts",
+        "Both brain regions remain inactive during the viewing",
+        "The amygdala stays active for several minutes afterward"
+      ],
+      "why": "The fear response lasts a split second before the frontal cortex quells it in non-racists."
+    },
+    {
+      "q": "How does the presence of women change male behavior, according to the summary?",
+      "a": [
+        "Men take more risks and buy more expensive things",
+        "Men speak more quietly and avoid eye contact",
+        "Men become more generous and share credit",
+        "Men focus more carefully on the task at hand"
+      ],
+      "why": "The summary attributes this to mating signals in the male brain."
+    },
+    {
+      "q": "How do individualists and collectivists differ when recalling a complex scene?",
+      "a": [
+        "Individualists recall the person; collectivists recall the setting",
+        "Individualists recall the setting; collectivists recall the person",
+        "Both groups recall the same mix of person and setting",
+        "Both groups recall only the faces in the scene"
+      ],
+      "why": "The summary says culture shapes which details of a scene people notice and remember."
+    }
+  ]
+}

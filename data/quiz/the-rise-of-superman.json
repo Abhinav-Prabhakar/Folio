@@ -1,0 +1,56 @@
+{
+  "book": "the-rise-of-superman",
+  "title": "The Rise Of Superman",
+  "questions": [
+    {
+      "q": "Which hormone is NOT released during flow?",
+      "a": [
+        "Serotonin",
+        "Dopamine",
+        "Norepinephrine",
+        "Endorphin"
+      ],
+      "why": "The book lists dopamine, norepinephrine, and five others, but not serotonin."
+    },
+    {
+      "q": "What brain region shuts down briefly in flow?",
+      "a": [
+        "Prefrontal cortex",
+        "Hippocampus",
+        "Amygdala",
+        "Occipital lobe"
+      ],
+      "why": "The text explains transient hypofrontality involves the prefrontal cortex."
+    },
+    {
+      "q": "Which effect describes how one achievement changes perception?",
+      "a": [
+        "Roger Bannister effect",
+        "Pygmalion effect",
+        "Placebo effect",
+        "Halo effect"
+      ],
+      "why": "The book refers to the Roger Bannister effect for changing what seems possible."
+    },
+    {
+      "q": "What is the main benefit of flow mentioned?",
+      "a": [
+        "Increases performance and focus",
+        "Reduces heart rate",
+        "Causes fatigue",
+        "Limits creativity"
+      ],
+      "why": "Flow is described as a high that supercharges performance and focus."
+    },
+    {
+      "q": "Which hormone helps filter important information in flow?",
+      "a": [
+        "Dopamine",
+        "Norepinephrine",
+        "Adrenaline",
+        "Cortisol"
+      ],
+      "why": "Dopamine is said to filter noise and sharpen focus during flow."
+    }
+  ]
+}

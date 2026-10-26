@@ -1,0 +1,56 @@
+{
+  "book": "the-little-book-of-hygge",
+  "title": "The Little Book Of Hygge",
+  "questions": [
+    {
+      "q": "What was Denmark's ranking in the world happiness report from 2013 to 2016?",
+      "a": [
+        "Number one",
+        "Number two",
+        "Number three",
+        "Number five"
+      ],
+      "why": "The overview states Denmark averaged a number one ranking from 2013 to 2016."
+    },
+    {
+      "q": "What does the earliest written root of hygge mean?",
+      "a": [
+        "Wellbeing",
+        "Comfort",
+        "Mood",
+        "Coziness"
+      ],
+      "why": "The etymology lesson says the earliest root is an old Norwegian word meaning wellbeing."
+    },
+    {
+      "q": "Which of the following is listed as promoting hygge at home?",
+      "a": [
+        "A fireplace or stove",
+        "Bright overhead fluorescent lighting",
+        "Minimalist white walls with no decoration",
+        "Large flat-screen televisions"
+      ],
+      "why": "The atmosphere lesson lists a fireplace or stove among items that promote hygge."
+    },
+    {
+      "q": "According to the book, what does hygge ultimately represent?",
+      "a": [
+        "Learning to be content in the moment",
+        "Owning the most comfortable furniture",
+        "Spending money on luxury experiences",
+        "Maintaining a perfectly organized home"
+      ],
+      "why": "The all-encompassing lesson concludes hygge is about learning to be content in the moment."
+    },
+    {
+      "q": "Which German word is mentioned as a related concept to hygge?",
+      "a": [
+        "Gemütlichkeit",
+        "Gezelligheid",
+        "Wohlbefinden",
+        "Gemütlichkeit is Dutch"
+      ],
+      "why": "The etymology lesson lists the German Gemütlichkeit as a related concept."
+    }
+  ]
+}

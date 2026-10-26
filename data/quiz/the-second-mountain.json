@@ -1,0 +1,56 @@
+{
+  "book": "the-second-mountain",
+  "title": "The Second Mountain",
+  "questions": [
+    {
+      "q": "What advice does Strange's mentor give in the movie?",
+      "a": [
+        "It's not about you",
+        "Save the world",
+        "Heal your hands",
+        "Be selfish"
+      ],
+      "why": "The quote in the text is \"It's not about you.\""
+    },
+    {
+      "q": "According to the book, what societal trend causes loneliness?",
+      "a": [
+        "Individualism",
+        "Teamwork",
+        "Community service",
+        "Globalization"
+      ],
+      "why": "The text links widespread individualism to loneliness."
+    },
+    {
+      "q": "What is the main focus when climbing the second mountain?",
+      "a": [
+        "Serving others",
+        "Achieving fame",
+        "Collecting wealth",
+        "Personal glory"
+      ],
+      "why": "The text states serving people is the greatest focus."
+    },
+    {
+      "q": "What emotional state is described as more constant than happiness?",
+      "a": [
+        "Joy",
+        "Anger",
+        "Fear",
+        "Sadness"
+      ],
+      "why": "The book contrasts joy as a more profound sense of well‑being."
+    },
+    {
+      "q": "What is essential for sustaining effort on the second mountain?",
+      "a": [
+        "Commitment",
+        "Patience",
+        "Luck",
+        "Talent"
+      ],
+      "why": "The text highlights commitment as vital gear for the journey."
+    }
+  ]
+}

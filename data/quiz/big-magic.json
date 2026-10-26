@@ -1,0 +1,56 @@
+{
+  "book": "big-magic",
+  "title": "Big Magic",
+  "questions": [
+    {
+      "q": "How does Gilbert suggest you handle fear while following your passion?",
+      "a": [
+        "Let it ride alongside curiosity without steering you",
+        "Eliminate it completely",
+        "Ignore it entirely",
+        "Let it dictate your choices"
+      ],
+      "why": "She says put fears in the backseat and let curiosity take the wheel."
+    },
+    {
+      "q": "According to the summary, what purpose does fear serve?",
+      "a": [
+        "It reminds you of what matters to you",
+        "It blocks creativity",
+        "It signals inevitable failure",
+        "It predicts success"
+      ],
+      "why": "She says fears give feedback about important things."
+    },
+    {
+      "q": "What first step does Gilbert recommend before starting a creative project?",
+      "a": [
+        "Give yourself permission to begin even if it’s imperfect",
+        "Wait for the perfect idea",
+        "Hire a professional coach",
+        "Study the market for years"
+      ],
+      "why": "She went ahead and gave herself permission despite doubts."
+    },
+    {
+      "q": "Why keep a regular job while pursuing art, per the book?",
+      "a": [
+        "It provides financial safety that lets you create without stress",
+        "It supplies material for art",
+        "It builds a fanbase automatically",
+        "It replaces the need to create"
+      ],
+      "why": "She argues a day job pays bills and frees creative work from financial pressure."
+    },
+    {
+      "q": "What problem does the cliché 'artist’s life' create, according to the summary?",
+      "a": [
+        "Financial pressure that drains creative energy",
+        "It increases fame instantly",
+        "It guarantees success",
+        "It improves skill instantly"
+      ],
+      "why": "He says it often chokes creativity due to stress of paying bills with art."
+    }
+  ]
+}

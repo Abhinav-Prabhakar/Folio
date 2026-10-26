@@ -1,0 +1,56 @@
+{
+  "book": "the-gift-of-fear",
+  "title": "The Gift Of Fear",
+  "questions": [
+    {
+      "q": "What verbal cue signals a criminal's \"forced teaming\" tactic?",
+      "a": [
+        "Using the word \"we\" to describe a situation",
+        "Saying \"please\" repeatedly",
+        "Mentioning a shared hobby",
+        "Talking about family"
+      ],
+      "why": "The text says forced teaming is easy to spot when they use \"we\"."
+    },
+    {
+      "q": "Which body‑language sign is identified as an indicator of anger?",
+      "a": [
+        "Jutting chin",
+        "Crossed arms",
+        "Avoiding eye contact",
+        "Smiling broadly"
+      ],
+      "why": "The book lists a jutting chin as a sign of anger."
+    },
+    {
+      "q": "What saved Officer Cantrell's partner David from a robbery?",
+      "a": [
+        "He ignored a warning dream and got shot",
+        "He followed Cantrell's advice",
+        "He called for backup",
+        "He used a hidden weapon"
+      ],
+      "why": "The summary notes David ignored Cantrell's warning, confronted robbers alone, and was shot."
+    },
+    {
+      "q": "What does the author suggest empathy helps you do?",
+      "a": [
+        "Put yourself in another's perspective",
+        "Detect hidden weapons",
+        "Read legal documents",
+        "Increase physical strength"
+      ],
+      "why": "The empathy definition given is the ability to put yourself in another's perspective."
+    },
+    {
+      "q": "How many letters did John Searing send before appearing on The Tonight Show?",
+      "a": [
+        "Over 800",
+        "Exactly 100",
+        "Around 250",
+        "Fewer than 50"
+      ],
+      "why": "The text states Searing persisted and sent over 800 letters."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "what-they-dont-teach-you-at-harvard-business-school",
+  "title": "What They Don’t Teach You At Harvard Business School",
+  "questions": [
+    {
+      "q": "What is key to succeeding in a startup according to the book?",
+      "a": [
+        "Understanding people's motivations",
+        "Focusing on numbers",
+        "Hiring many staff",
+        "Ignoring feedback"
+      ],
+      "why": "Identify what drives people."
+    },
+    {
+      "q": "What should you do when you feel uneasy before closing a deal?",
+      "a": [
+        "Trust the discomfort and rethink",
+        "Ignore it",
+        "Push forward",
+        "Call a lawyer"
+      ],
+      "why": "Use discomfort as a signal."
+    },
+    {
+      "q": "Why is playtime important for executives?",
+      "a": [
+        "It restores energy and focus",
+        "It wastes time",
+        "It reduces productivity",
+        "It is irrelevant"
+      ],
+      "why": "Playtime helps recharge."
+    },
+    {
+      "q": "What does the author suggest about listening to colleagues?",
+      "a": [
+        "Pay close attention to their motivations",
+        "Talk over them",
+        "Ignore their concerns",
+        "Ask for promotions"
+      ],
+      "why": "Listening reveals motivations."
+    },
+    {
+      "q": "What is a common mistake new business owners make?",
+      "a": [
+        "Obsessing over numbers",
+        "Focusing on people",
+        "Hiring too few",
+        "Skipping meetings"
+      ],
+      "why": "They get consumed by numbers."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "identity",
+  "title": "Identity",
+  "questions": [
+    {
+      "q": "Which ancient Greek idea describes the human craving for dignity and recognition?",
+      "a": [
+        "Thymos, the part of the soul seeking worth",
+        "Logos, the rational ordering of the world",
+        "Eros, the drive toward beauty and union",
+        "Pathos, the emotion that overwhelms reason"
+      ],
+      "why": "Lesson 1 explains that Socrates called this longing for positive judgment thymos."
+    },
+    {
+      "q": "Why did gay couples keep fighting for marriage after civil unions gave them equal legal rights?",
+      "a": [
+        "They wanted the same dignity and status as heterosexual marriage",
+        "Civil unions did not grant them any economic advantages",
+        "They wanted the government to recognize religious ceremonies",
+        "Civil unions were only available in a few states at the time"
+      ],
+      "why": "The summary frames the fight as a demand for recognition, not just for legal benefits."
+    },
+    {
+      "q": "What does Fukuyama say identity politics has done to the political left?",
+      "a": [
+        "Splintered it into groups too small to pursue broad equality",
+        "United its factions behind a shared economic program",
+        "Turned it into the main defender of national identity",
+        "Helped it win back working-class voters across the West"
+      ],
+      "why": "Lesson 2 says the left is split into competing groups, which stops it addressing the broader causes of inequality."
+    },
+    {
+      "q": "What kind of identity does Fukuyama think can reduce polarization?",
+      "a": [
+        "A more inclusive national identity built on shared values",
+        "A stricter identity based on race, gender or religion",
+        "A purely economic identity that ignores culture",
+        "A global identity that replaces national citizenship"
+      ],
+      "why": "Lesson 3 argues for shared belief in a country's morals, political system and commitment to human rights."
+    },
+    {
+      "q": "Which recommendation for strengthening national identity does the summary mention?",
+      "a": [
+        "Requiring a year or two of national service",
+        "Limiting immigration to a small annual quota",
+        "Making religious instruction mandatory in schools",
+        "Abolishing all forms of patriotic education"
+      ],
+      "why": "The summary lists national service, secular schools, immigrant integration and welcoming newcomers as ways to build unity."
+    }
+  ]
+}

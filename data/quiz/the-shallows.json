@@ -1,0 +1,56 @@
+{
+  "book": "the-shallows",
+  "title": "The Shallows",
+  "questions": [
+    {
+      "q": "What does the book say happens to concentration when using the internet?",
+      "a": [
+        "It diminishes after a few minutes",
+        "It improves with practice",
+        "It stays unchanged",
+        "It becomes deeper"
+      ],
+      "why": "The text states focus drops after two minutes of online use."
+    },
+    {
+      "q": "Which brain feature makes it vulnerable to internet shortcuts?",
+      "a": [
+        "Plasticity",
+        "Hard wiring",
+        "Fixed structure",
+        "Limited capacity"
+      ],
+      "why": "The brain's plasticity lets it adopt superficial learning."
+    },
+    {
+      "q": "What does the author claim about information overload?",
+      "a": [
+        "We get more data in a week than ancestors in a lifetime",
+        "It is harmless",
+        "It is less than before",
+        "It is manageable"
+      ],
+      "why": "Studies show weekly data exceeds ancestral lifetime data."
+    },
+    {
+      "q": "What is suggested as a remedy for internet burnout?",
+      "a": [
+        "Unstructured time in nature",
+        "More screen time",
+        "Structured work hours",
+        "Meditation only"
+      ],
+      "why": "The book recommends spending time in nature to recover."
+    },
+    {
+      "q": "Why does the internet keep us hooked according to the text?",
+      "a": [
+        "It offers tailored, interactive stimuli",
+        "It is boring",
+        "It is expensive",
+        "It is regulated"
+      ],
+      "why": "The internet is designed to match needs and provide instant clicks."
+    }
+  ]
+}

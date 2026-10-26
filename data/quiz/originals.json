@@ -1,0 +1,56 @@
+{
+  "book": "originals",
+  "title": "Originals",
+  "questions": [
+    {
+      "q": "What does Grant say separates successful creatives from others?",
+      "a": [
+        "They ship more ideas, not necessarily better ones",
+        "They keep work secret until it is perfect",
+        "They wait for one great burst of inspiration",
+        "They imitate whatever already sells well"
+      ],
+      "why": "Lesson 1 says successful creatives do not have better ideas, they simply ship more of them."
+    },
+    {
+      "q": "Why does the summary mention Picasso's output?",
+      "a": [
+        "Volume, not just talent, produced his famous works",
+        "He painted only a handful of pieces",
+        "He destroyed nearly all his early work",
+        "He copied the style of his rivals"
+      ],
+      "why": "Lesson 1 notes Picasso produced 1,800 paintings plus thousands of other works before becoming famous."
+    },
+    {
+      "q": "What is the Zeigarnik effect?",
+      "a": [
+        "Unfinished tasks stay in the mind and can spark ideas",
+        "Finished work is remembered longer than unfinished work",
+        "Deadlines improve the quality of creative work",
+        "Group work produces more original ideas"
+      ],
+      "why": "Lesson 2 explains the Zeigarnik effect: unfinished tasks linger in the mind until completed."
+    },
+    {
+      "q": "How did Martin Luther King Jr.'s famous line emerge?",
+      "a": [
+        "He improvised it after someone in the crowd urged him",
+        "It was written days in advance",
+        "His advisers inserted it into the script",
+        "He borrowed it from an earlier speech"
+      ],
+      "why": "Lesson 2 recounts King abandoning his script after someone urged him to tell them about the dream."
+    },
+    {
+      "q": "How can you make a novel idea feel less threatening?",
+      "a": [
+        "Repeat it and tie it to familiar references",
+        "Present it once and never mention it again",
+        "Keep the details vague and abstract",
+        "Announce it only after it succeeds"
+      ],
+      "why": "Lesson 3 recommends repetition and linking new ideas to familiar concepts like Shakespeare."
+    }
+  ]
+}

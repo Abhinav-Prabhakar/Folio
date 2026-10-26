@@ -1,0 +1,56 @@
+{
+  "book": "farmageddon",
+  "title": "Farmageddon",
+  "questions": [
+    {
+      "q": "Why does China's growing appetite for meat matter to the whole world?",
+      "a": [
+        "Its huge population means its farming trends spread globally",
+        "It exports most of its meat to poorer countries",
+        "It has banned traditional farming methods outright",
+        "It produces more meat than every other nation combined"
+      ],
+      "why": "Lesson 1 says changes in China reach the rest of the planet because of its size."
+    },
+    {
+      "q": "What does the summary call the easiest step anyone can take right now?",
+      "a": [
+        "Waste less of the food already being bought",
+        "Switch entirely to a plant-based diet",
+        "Buy only imported meat products",
+        "Avoid eating at restaurants"
+      ],
+      "why": "Lesson 2 says cutting food waste would free enough resources to feed the world."
+    },
+    {
+      "q": "Which two labels does the summary recommend looking for on meat?",
+      "a": [
+        "Grass-fed and pasture-raised",
+        "Farm-fresh and all-natural",
+        "Lean and low-fat",
+        "Premium and family-owned"
+      ],
+      "why": "Lesson 3 says these labels show the animals ate grass, while the others are meaningless."
+    },
+    {
+      "q": "Why is traditional farming described as more sustainable?",
+      "a": [
+        "Cows eat grass people cannot, and the soil stays fertile naturally",
+        "It relies on fewer workers and much larger fields",
+        "It ships food across the world more efficiently",
+        "It uses more grain but produces tastier meat"
+      ],
+      "why": "Lesson 2 explains that natural cycles replenish the land instead of depleting it."
+    },
+    {
+      "q": "How does the summary say consumers can change the food industry?",
+      "a": [
+        "By spending money and voicing complaints according to their values",
+        "By waiting for governments to pass stricter farming laws",
+        "By refusing to buy any food that carries a label",
+        "By eating less often and skipping breakfast"
+      ],
+      "why": "Lesson 3 argues the industry supplies what buyers demand, so each purchase counts."
+    }
+  ]
+}

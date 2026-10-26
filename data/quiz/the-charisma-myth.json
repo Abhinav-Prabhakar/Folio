@@ -1,0 +1,56 @@
+{
+  "book": "the-charisma-myth",
+  "title": "The Charisma Myth",
+  "questions": [
+    {
+      "q": "Which three elements does the author say form charisma?",
+      "a": [
+        "Presence, power, warmth",
+        "Confidence, humor, intelligence",
+        "Style, fame, wealth",
+        "Charm, looks, eloquence"
+      ],
+      "why": "The book lists presence, power, and warmth as key factors for charisma."
+    },
+    {
+      "q": "What style of charisma focuses on fully attending to the other person?",
+      "a": [
+        "Focus charisma, exemplified by Bill Clinton",
+        "Visionary charisma, exemplified by Steve Jobs",
+        "Kindness charisma, exemplified by Mother Teresa",
+        "Authority charisma, exemplified by Winston Churchill"
+      ],
+      "why": "Focus charisma is described as being fully present on the other person, with Bill Clinton as an example."
+    },
+    {
+      "q": "According to the text, what internal obstacle can damage charisma?",
+      "a": [
+        "Self‑doubt",
+        "Excessive confidence",
+        "Physical fatigue",
+        "Lack of knowledge"
+      ],
+      "why": "Self‑doubt is listed among mental states that destroy charisma."
+    },
+    {
+      "q": "What tool does the author suggest to reduce internal drama?",
+      "a": [
+        "Dedramatize and see situations as less serious",
+        "Ignore all negative thoughts",
+        "Force constant positivity",
+        "Avoid social interactions"
+      ],
+      "why": "The first tool mentioned is to dedramatize and realize situations aren't as serious."
+    },
+    {
+      "q": "Why is warmth important when combined with power?",
+      "a": [
+        "It shows how power will be used, making the person likable",
+        "It hides the power's true intent",
+        "It makes power irrelevant",
+        "It replaces the need for presence"
+      ],
+      "why": "Warmth signals how power will be applied, increasing likability."
+    }
+  ]
+}

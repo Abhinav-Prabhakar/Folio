@@ -1,0 +1,56 @@
+{
+  "book": "excellent-advice-for-living",
+  "title": "Excellent Advice for Living",
+  "questions": [
+    {
+      "q": "What does Kelly say about the right time to start something?",
+      "a": [
+        "About 99 percent of the time it is right now",
+        "Wait until you have saved enough money",
+        "Start only when you feel fully ready",
+        "The best moment was years ago"
+      ],
+      "why": "Lesson 1 lists this among his ideas about timing."
+    },
+    {
+      "q": "What does Kelly suggest doing when you feel like quitting?",
+      "a": [
+        "Do five more",
+        "Take a long break",
+        "Change your goal entirely",
+        "Ask a mentor to decide"
+      ],
+      "why": "Lesson 1 says five more will either keep you going or end on a high note."
+    },
+    {
+      "q": "How does Kelly distinguish riches from wealth?",
+      "a": [
+        "The rich have money; the wealthy have time",
+        "The rich have time; the wealthy have money",
+        "Both are measured by yearly income",
+        "Neither can be built slowly"
+      ],
+      "why": "Lesson 2 quotes his line about money, time and wealth."
+    },
+    {
+      "q": "What does Kelly say about comparison?",
+      "a": [
+        "It kills happiness, so compare with yesterday's you",
+        "It motivates people to work harder",
+        "It should be limited to close friends",
+        "It fades naturally with age"
+      ],
+      "why": "Lesson 3 calls comparison the greatest killer of happiness."
+    },
+    {
+      "q": "What does Kelly recommend giving away?",
+      "a": [
+        "About ten percent of income for outsized happiness",
+        "Only what you expect to get back",
+        "Time instead of money whenever possible",
+        "Gifts given anonymously to avoid attention"
+      ],
+      "why": "Lesson 3 says a small loss in purchasing power buys far more happiness."
+    }
+  ]
+}

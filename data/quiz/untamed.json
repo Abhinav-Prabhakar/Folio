@@ -1,0 +1,51 @@
+{
+  "book": "untamed",
+  "title": "Untamed",
+  "questions": [
+    {
+      "q": "What prompted Doyle to change her life direction?",
+      "a": [
+        "Following her intuition",
+        "Winning a lottery",
+        "Moving abroad",
+        "Changing jobs"
+      ]
+    },
+    {
+      "q": "What lesson does Doyle learn when she feels she doesn't belong?",
+      "a": [
+        "She discovers her boundaries",
+        "She quits school",
+        "She changes career",
+        "She travels abroad"
+      ]
+    },
+    {
+      "q": "Why does Doyle consider divorce despite fearing impact on her children?",
+      "a": [
+        "Staying unhappy would harm them too",
+        "She wants more money",
+        "She dislikes parenting",
+        "She seeks fame"
+      ]
+    },
+    {
+      "q": "What does the author say about pretending to be a perfect parent?",
+      "a": [
+        "It isn't sustainable",
+        "It guarantees success",
+        "It pleases everyone",
+        "It eliminates stress"
+      ]
+    },
+    {
+      "q": "What belief does the text convey about destiny?",
+      "a": [
+        "Your true self will guide you",
+        "Destiny is fixed at birth",
+        "You must fight your nature",
+        "Success is random"
+      ]
+    }
+  ]
+}

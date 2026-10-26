@@ -1,0 +1,56 @@
+{
+  "book": "what-happened-to-you",
+  "title": "What Happened To You",
+  "questions": [
+    {
+      "q": "What did Oprah's early loneliness reveal about her brain development?",
+      "a": [
+        "It altered her neural codebook",
+        "It had no lasting effect",
+        "It improved her memory",
+        "It made her more creative"
+      ],
+      "why": "Early loneliness logged in her brain's codebook."
+    },
+    {
+      "q": "Which strategy helps counteract trauma‑induced people‑pleasing?",
+      "a": [
+        "Positive regulation strategies",
+        "Ignoring body signals",
+        "Working 100‑hour weeks",
+        "Eating comfort food"
+      ],
+      "why": "Positive regulation keeps the brain balanced."
+    },
+    {
+      "q": "What percentage of U.S. children have experienced serious trauma?",
+      "a": [
+        "Nearly 50%",
+        "10%",
+        "30%",
+        "5%"
+      ],
+      "why": "The text states almost half of all children."
+    },
+    {
+      "q": "How does trauma affect adult stress responses?",
+      "a": [
+        "It sensitizes them",
+        "It reduces stress",
+        "It has no effect",
+        "It eliminates anxiety"
+      ],
+      "why": "Trauma sensitizes stress responses."
+    },
+    {
+      "q": "What does the book suggest about learning to regulate oneself?",
+      "a": [
+        "Use CRNs to stay balanced",
+        "Ignore signals",
+        "Rely on others",
+        "Avoid food comfort"
+      ],
+      "why": "CRNs help maintain balance."
+    }
+  ]
+}

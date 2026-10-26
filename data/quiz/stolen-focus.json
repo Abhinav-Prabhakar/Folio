@@ -1,0 +1,56 @@
+{
+  "book": "stolen-focus",
+  "title": "Stolen Focus",
+  "questions": [
+    {
+      "q": "What did Sune Lehmann's study of attention find?",
+      "a": [
+        "Cultural trends have been getting shorter for about two centuries",
+        "Attention spans only began shrinking with the smartphone",
+        "Book reading has fallen steadily since the 1950s",
+        "People now recall fewer facts than they did a decade ago"
+      ],
+      "why": "Lesson 1 says the rise and fall of popular books over 200 years shows trend cycles shortening before the internet."
+    },
+    {
+      "q": "How long did the average trending topic last on Twitter after the 2013 to 2016 decline?",
+      "a": [
+        "Just over 11 hours, down from over 17",
+        "Just over 7 hours, down from over 11",
+        "Just over 17 hours, down from over 24",
+        "Just over 20 hours, down from over 30"
+      ],
+      "why": "Lesson 1 says the average duration of a trending topic fell by more than 30%, from over 17 hours to just over 11."
+    },
+    {
+      "q": "Why does the summary call free social media expensive?",
+      "a": [
+        "Users pay for it with their time and attention",
+        "It quietly charges a monthly subscription fee",
+        "It sells users' private messages to advertisers",
+        "It requires expensive devices to access"
+      ],
+      "why": "Lesson 2 says the real price of free platforms is the time and attention they capture."
+    },
+    {
+      "q": "What did a 2020 Wall Street Journal report reveal about Facebook?",
+      "a": [
+        "It knew its algorithms exploited people's attraction to divisiveness",
+        "It had decided to ban political advertising entirely",
+        "It was losing money on its main news feed",
+        "It planned to start charging users for verification"
+      ],
+      "why": "Lesson 2 quotes an internal presentation admitting the algorithms exploit the brain's pull toward divisiveness."
+    },
+    {
+      "q": "Which mental state does the summary recommend practicing instead of multitasking?",
+      "a": [
+        "Flow, losing yourself in a task and losing track of time",
+        "Deep work, blocking out every distraction for four hours",
+        "Mindfulness, watching your thoughts without judging them",
+        "Batching, grouping similar tasks into a single block"
+      ],
+      "why": "Lesson 3 recommends single-tasking and describes flow as the state where time disappears."
+    }
+  ]
+}

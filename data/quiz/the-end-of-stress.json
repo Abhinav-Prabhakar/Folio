@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-stress",
+  "title": "The End Of Stress",
+  "questions": [
+    {
+      "q": "What are the three choices Goewey says you always have when facing a stressful situation?",
+      "a": [
+        "Change it, leave it, or accept it",
+        "Ignore it, fight it, or surrender to it",
+        "Analyze it, plan it, or act on it",
+        "Deny it, delay it, or delegate it"
+      ],
+      "why": "From the lesson on changing, leaving, or accepting stressful situations."
+    },
+    {
+      "q": "What example does the text give for a stressful situation?",
+      "a": [
+        "Losing your job because an executive committed tax fraud",
+        "Getting fired for consistently poor performance",
+        "Being passed over for a promotion you expected",
+        "Having your company go bankrupt overnight"
+      ],
+      "why": "From the lesson on changing, leaving, or accepting, using the job loss example."
+    },
+    {
+      "q": "What two exercises does Goewey suggest for developing a peaceful mindset?",
+      "a": [
+        "Start your day with peace and quiet, and take a 30-second time-out a couple times a day",
+        "Meditate for an hour each morning and journal at night",
+        "Practice deep breathing before bed and walk outside daily",
+        "Write down three gratitudes and do a body scan each evening"
+      ],
+      "why": "From the lesson on practicing a peaceful mindset every day."
+    },
+    {
+      "q": "What did Henry Beecher do during World War II when he ran out of morphine?",
+      "a": [
+        "He infused soldiers with saline solution while telling them they were getting morphine",
+        "He gave them a lower dose of a different painkiller",
+        "He used a combination of herbal remedies instead",
+        "He told them to focus on positive memories to cope"
+      ],
+      "why": "From the lesson on the placebo effect, describing Beecher's WWII experience."
+    },
+    {
+      "q": "What percentage of soldiers reported immense pain relief from the saline solution?",
+      "a": [
+        "40%",
+        "25%",
+        "60%",
+        "75%"
+      ],
+      "why": "From the lesson on the placebo effect, citing the 40% figure."
+    }
+  ]
+}

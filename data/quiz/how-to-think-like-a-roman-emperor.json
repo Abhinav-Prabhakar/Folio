@@ -1,0 +1,56 @@
+{
+  "book": "how-to-think-like-a-roman-emperor",
+  "title": "How to Think Like a Roman Emperor",
+  "questions": [
+    {
+      "q": "What does living virtuously mean for the Stoics?",
+      "a": [
+        "Being in harmony with nature",
+        "Achieving wealth and status",
+        "Avoiding all strong emotion",
+        "Following the emperor's laws"
+      ],
+      "why": "Lesson 1 says virtue means accepting your condition and living in agreement with nature."
+    },
+    {
+      "q": "Which four virtues does the summary call the Stoic core?",
+      "a": [
+        "Wisdom, morality, courage and moderation",
+        "Loyalty, honor, duty and piety",
+        "Patience, humility, charity and hope",
+        "Honesty, bravery, discipline and kindness"
+      ],
+      "why": "Lesson 2 lists wisdom, morality, courage and moderation as the four cardinal virtues."
+    },
+    {
+      "q": "How does the summary say the virtues are mastered?",
+      "a": [
+        "Through repeated practice",
+        "By studying philosophy",
+        "Through natural talent",
+        "By avoiding hardship"
+      ],
+      "why": "Lesson 2 says practice is repeated action, and results come from acting on the principles."
+    },
+    {
+      "q": "What should you do about things you cannot control?",
+      "a": [
+        "Stop worrying and accept them",
+        "Work harder until they change",
+        "Discuss them with friends daily",
+        "Pretend they do not exist"
+      ],
+      "why": "Lesson 3 says it is pointless to worry about what you cannot change, so accept it."
+    },
+    {
+      "q": "How did Marcus Aurelius approach death?",
+      "a": [
+        "He acknowledged it and made the most of his days",
+        "He sought a way to become immortal",
+        "He refused to think about it at all",
+        "He feared it and withdrew from ruling"
+      ],
+      "why": "Lesson 3 says he accepted death as inevitable instead of dwelling on it."
+    }
+  ]
+}

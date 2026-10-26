@@ -1,0 +1,56 @@
+{
+  "book": "the-worry-free-mind",
+  "title": "The Worry-Free Mind",
+  "questions": [
+    {
+      "q": "What brainwave is associated with deep sleep?",
+      "a": [
+        "Delta",
+        "Beta",
+        "Gamma",
+        "Alpha"
+      ],
+      "why": "The text lists delta as the slowest wave occurring in deep sleep."
+    },
+    {
+      "q": "Why does walking help reduce worry, according to the book?",
+      "a": [
+        "It engages both brain hemispheres, restoring rational thought",
+        "It burns calories that lower stress hormones",
+        "It distracts you with scenery",
+        "It increases heart rate to release endorphins"
+      ],
+      "why": "Walking is described as a bilateral activity that reactivates rational side."
+    },
+    {
+      "q": "What triggers the brain's natural worry response?",
+      "a": [
+        "Ancient survival threats like predators",
+        "Modern financial news",
+        "Social media notifications",
+        "Urban traffic noise"
+      ],
+      "why": "The overview links worry to ancestral survival threats."
+    },
+    {
+      "q": "Which step involves identifying the physical sensation of worry?",
+      "a": [
+        "Asking where you feel the discomfort",
+        "Listing all possible future scenarios",
+        "Counting breaths for relaxation",
+        "Writing a to‑do list"
+      ],
+      "why": "The second neuro‑repatterning step asks about physical discomfort location."
+    },
+    {
+      "q": "What does higher blood flow to the right brain indicate?",
+      "a": [
+        "Reduced rational processing during stress",
+        "Enhanced logical reasoning",
+        "Improved memory consolidation",
+        "Increased creative thinking"
+      ],
+      "why": "The text says worried people show more right‑side flow, away from rational left side."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-double-helix",
+  "title": "The Double Helix",
+  "questions": [
+    {
+      "q": "What technique allowed scientists to visualize DNA in the 1950s?",
+      "a": [
+        "X‑ray crystallography",
+        "Electron microscopy",
+        "Nuclear magnetic resonance",
+        "Mass spectrometry"
+      ],
+      "why": "The text notes X‑ray crystallography was the only way to see DNA then."
+    },
+    {
+      "q": "Which scientist's manuscript revealed a critical error in a competing DNA model?",
+      "a": [
+        "Linus Pauling",
+        "Maurice Wilkins",
+        "Rosalind Franklin",
+        "James Watson"
+      ],
+      "why": "Watson and Crick saw Pauling's manuscript and noted his mistake."
+    },
+    {
+      "q": "Who assisted Maurice Wilkins with X‑ray work and had a strained relationship with him?",
+      "a": [
+        "Rosalind Franklin",
+        "James Watson",
+        "Francis Crick",
+        "Sir Lawrence Bragg"
+      ],
+      "why": "Franklin was Wilkins's assistant and their relationship was strained."
+    },
+    {
+      "q": "What award did Watson and Crick eventually receive for their DNA discovery?",
+      "a": [
+        "Nobel Prize in Physiology or Medicine",
+        "Fields Medal",
+        "Turing Award",
+        "Pulitzer Prize"
+      ],
+      "why": "Their breakthroughs in genetics won them a Nobel Prize."
+    },
+    {
+      "q": "Which professor sent Watson to use X‑ray crystallography for virus research?",
+      "a": [
+        "Salvador Luria",
+        "Erwin Schrödinger",
+        "Max Perutz",
+        "John Kendrew"
+      ],
+      "why": "Prof. Salvador Luria sent Watson to use the technique."
+    }
+  ]
+}

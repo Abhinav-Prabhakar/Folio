@@ -1,0 +1,56 @@
+{
+  "book": "ego-is-the-enemy",
+  "title": "Ego Is The Enemy",
+  "questions": [
+    {
+      "q": "What does Holiday mean by staying an eternal student?",
+      "a": [
+        "Keep learning and remain humble for your whole life",
+        "Stay in formal education as long as possible",
+        "Read only books written by ancient philosophers",
+        "Teach others instead of pursuing your own goals"
+      ],
+      "why": "Lesson 1 says thinking of yourself as an eternal student keeps you humble and committed to learning as long as you live."
+    },
+    {
+      "q": "Why does Holiday urge you to delegate?",
+      "a": [
+        "It builds trust and respect for other people's work",
+        "It frees you to take on even more tasks yourself",
+        "It proves that you are the most capable person",
+        "It reduces the number of meetings you attend"
+      ],
+      "why": "Lesson 2 says delegating forces you to respect others' work and trust them, which speeds up a business."
+    },
+    {
+      "q": "What happened to DeLorean when its CEO checked every detail?",
+      "a": [
+        "It went bankrupt after seven years and under 10,000 cars",
+        "It became the largest carmaker in America",
+        "It was bought by a rival within a decade",
+        "It thrived because quality stayed flawless"
+      ],
+      "why": "Lesson 2 says the CEO's need to check every detail drove DeLorean to bankruptcy after seven years, with fewer than 10,000 cars sold."
+    },
+    {
+      "q": "How should you treat surprisingly good or bad results?",
+      "a": [
+        "As inflection points for honest reflection and improvement",
+        "As proof that your talents are either great or lacking",
+        "As accidents that say nothing about your work",
+        "As reasons to celebrate or blame others"
+      ],
+      "why": "Lesson 3 says to use both highs and lows as inflection points: congratulate yourself or take responsibility, then reflect and keep improving."
+    },
+    {
+      "q": "What does the ego do with results, according to Holiday?",
+      "a": [
+        "It blames others for losses and claims all credit for wins",
+        "It ignores both success and failure equally",
+        "It attributes everything to luck and circumstance",
+        "It turns every result into a reason to slow down"
+      ],
+      "why": "Lesson 3 says the ego tells you a bad result is not your fault and a great one deserves all the credit."
+    }
+  ]
+}

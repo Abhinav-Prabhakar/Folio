@@ -1,0 +1,56 @@
+{
+  "book": "becoming-the-boss",
+  "title": "Becoming The Boss",
+  "questions": [
+    {
+      "q": "According to the summary, what comes first for anyone who wants to lead others well?",
+      "a": [
+        "Becoming good at leading yourself",
+        "Mastering every technical skill in the field",
+        "Building a wide network of mentors",
+        "Learning to make quick decisions"
+      ],
+      "why": "The first lesson says strong leaders organize their own lives and improvement as carefully as a team's."
+    },
+    {
+      "q": "What question does the summary suggest asking yourself when fear holds you back?",
+      "a": [
+        "Do I want what is ahead more than I fear it?",
+        "Have other people succeeded at this before?",
+        "Would failing here be visible to others?",
+        "Do I have enough experience to begin?"
+      ],
+      "why": "If the answer is yes, the advice is to push through the fear and go for it."
+    },
+    {
+      "q": "What did University of Texas research find about the way leaders speak?",
+      "a": [
+        "They use the word I less often than non-leaders",
+        "They speak for longer stretches than non-leaders",
+        "They ask more questions than non-leaders",
+        "They avoid praise more often than non-leaders"
+      ],
+      "why": "The summary cites this research to support the idea that leadership is not about you."
+    },
+    {
+      "q": "What does the summary say damages morale more than any other managerial mistake?",
+      "a": [
+        "Not communicating often or openly enough",
+        "Giving feedback that is too direct",
+        "Changing deadlines at short notice",
+        "Promoting the wrong team members"
+      ],
+      "why": "A survey cited in the summary found under-communication to be the worst offender."
+    },
+    {
+      "q": "Why does the summary advise never gossiping about colleagues?",
+      "a": [
+        "It makes people assume you will talk about them too",
+        "It takes time away from planning and strategy",
+        "It makes you appear less authoritative to staff",
+        "It encourages employees to compete with each other"
+      ],
+      "why": "The author says hearing someone gossip immediately costs them trust."
+    }
+  ]
+}

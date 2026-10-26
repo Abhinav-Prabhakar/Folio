@@ -1,0 +1,56 @@
+{
+  "book": "the-advice-trap",
+  "title": "The Advice Trap",
+  "questions": [
+    {
+      "q": "What are the three personas of the Advice Monster?",
+      "a": [
+        "Tell-It, Save-It and Control-It",
+        "Fix-It, Know-It and Win-It",
+        "Talk-It, Solve-It and Lead-It",
+        "Teach-It, Guard-It and Own-It"
+      ],
+      "why": "Lesson 1 names the costumes the monster wears when you rush to advise."
+    },
+    {
+      "q": "Which persona does the summary call the loudest and most frequent?",
+      "a": [
+        "Tell-It",
+        "Save-It",
+        "Control-It",
+        "Solve-It"
+      ],
+      "why": "Lesson 1 says Tell-It convinces you that having an answer is your job."
+    },
+    {
+      "q": "What does priming involve?",
+      "a": [
+        "Setting yourself up with cues before you speak",
+        "Writing down advice before a meeting",
+        "Asking permission before giving feedback",
+        "Rehearsing your answer in advance"
+      ],
+      "why": "Lesson 2 compares it to athletes using music to get into the zone."
+    },
+    {
+      "q": "Why does the summary stress repetitions over total hours?",
+      "a": [
+        "How often you practice matters more than time logged",
+        "Long sessions beat short frequent ones",
+        "Ten thousand hours is the only real target",
+        "Variety keeps practice interesting and effective"
+      ],
+      "why": "Lesson 2 says mastery comes from repeated small pieces, not raw hours."
+    },
+    {
+      "q": "Which three skills make your conversations more generous?",
+      "a": [
+        "Silence, transparency and appreciation",
+        "Humility, humor and honesty",
+        "Listening, nodding and summarizing",
+        "Praise, feedback and follow-up"
+      ],
+      "why": "Lesson 3 also suggests pausing at least eight seconds before speaking."
+    }
+  ]
+}

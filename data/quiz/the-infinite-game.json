@@ -1,0 +1,56 @@
+{
+  "book": "the-infinite-game",
+  "title": "The Infinite Game",
+  "questions": [
+    {
+      "q": "What distinguishes an infinite game from a finite game?",
+      "a": [
+        "It has no defined end, and players aim to keep playing",
+        "It has fixed rules that never change",
+        "It always produces a clear winner and loser",
+        "It can only be played by large companies"
+      ],
+      "why": "Lesson 1 says infinite games have no beginning or end and the goal is to stay in the game."
+    },
+    {
+      "q": "What happens when an infinite game is played with a finite mindset?",
+      "a": [
+        "Problems arise, as with FIFA's short-term World Cup decision",
+        "The game becomes fairer for new players",
+        "The rules eventually stop changing altogether",
+        "Everyone involved benefits over the long run"
+      ],
+      "why": "Lesson 1 says trouble comes from finite thinking, and cites FIFA's Qatar choice and the fan backlash."
+    },
+    {
+      "q": "Which trait must a Just Cause have, according to the summary?",
+      "a": [
+        "It must benefit someone other than the business itself",
+        "It must be achievable within a few years",
+        "It must appeal mainly to the company's investors",
+        "It must focus on beating a named competitor"
+      ],
+      "why": "Lesson 2 lists being service-oriented, with someone besides the business as the main beneficiary."
+    },
+    {
+      "q": "What does it mean for a Just Cause to be 'for' something rather than 'against' something?",
+      "a": [
+        "It fights for a positive outcome, not just an enemy",
+        "It names a rival that must be defeated",
+        "It avoids taking any public position",
+        "It changes with each new market trend"
+      ],
+      "why": "Lesson 2 contrasts fighting for every human's right to eat with fighting against famine."
+    },
+    {
+      "q": "What is a Worthy Rival, per the summary?",
+      "a": [
+        "A competitor whose strengths you can learn from",
+        "A rival you must drive out of the market",
+        "A partner who shares your profits",
+        "A mentor who has already retired"
+      ],
+      "why": "Lesson 3 describes a Worthy Rival as someone whose skills you can study and improve from."
+    }
+  ]
+}

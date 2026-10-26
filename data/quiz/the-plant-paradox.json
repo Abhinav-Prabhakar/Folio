@@ -1,0 +1,56 @@
+{
+  "book": "the-plant-paradox",
+  "title": "The Plant Paradox",
+  "questions": [
+    {
+      "q": "Which protein in plants can cause brain fog by binding to sugar molecules in the brain?",
+      "a": [
+        "Lectin",
+        "Myosin",
+        "Collagen",
+        "Keratin"
+      ],
+      "why": "Lectin binds sugars in the brain causing fog."
+    },
+    {
+      "q": "What effect does wheat lectin have on the intestinal tract?",
+      "a": [
+        "Increases permeability",
+        "Reduces acidity",
+        "Blocks enzymes",
+        "Strengthens walls"
+      ],
+      "why": "Lectin increases gut permeability letting microbes escape."
+    },
+    {
+      "q": "Which foods does Gundry recommend cutting out to avoid lectins?",
+      "a": [
+        "Legumes, potatoes, cucumbers, tomatoes",
+        "Fruits, nuts, dairy",
+        "Meat, fish, eggs",
+        "Whole grains, rice, corn"
+      ],
+      "why": "He advises avoiding legumes, potatoes, cucumbers, tomatoes, and wheat."
+    },
+    {
+      "q": "Why does the body attack microbes that escape the gut?",
+      "a": [
+        "They are seen as foreign invaders",
+        "They cause allergies",
+        "They produce toxins",
+        "They increase blood pressure"
+      ],
+      "why": "Escaped microbes trigger an immune response."
+    },
+    {
+      "q": "What is the main reason the author says what you don't eat matters more?",
+      "a": [
+        "Wrong foods trigger harmful reactions",
+        "Eating too much is harmful",
+        "Skipping meals is dangerous",
+        "Exercise is unnecessary"
+      ],
+      "why": "He claims wrong foods lead to harmful reactions."
+    }
+  ]
+}

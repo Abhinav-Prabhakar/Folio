@@ -1,0 +1,56 @@
+{
+  "book": "team-of-rivals",
+  "title": "Team Of Rivals",
+  "questions": [
+    {
+      "q": "What did Lincoln's father do when he found his son reading?",
+      "a": [
+        "He burned Lincoln's books",
+        "He sent him to school in town",
+        "He hired a tutor for him",
+        "He gave him a small library"
+      ],
+      "why": "Lesson 1 says his illiterate father thought reading was a distraction and destroyed the books."
+    },
+    {
+      "q": "Which rival defended escaped slaves and fought the Fugitive Slave Law?",
+      "a": [
+        "Salmon Chase",
+        "William Seward",
+        "Edward Bates",
+        "Montgomery Blair"
+      ],
+      "why": "Lesson 2 calls Chase the trailblazer of the anti-slavery cause for his legal work."
+    },
+    {
+      "q": "How did Lincoln win the nomination despite a brief political career?",
+      "a": [
+        "He stayed consistent on slavery and made friends rather than enemies",
+        "He outspent his rivals across the campaign",
+        "He won the backing of the sitting president",
+        "He promised cabinet posts to his rivals"
+      ],
+      "why": "Lesson 2 says his rivals grew overconfident and made enemies while Lincoln built goodwill."
+    },
+    {
+      "q": "How did Lincoln choose the members of his cabinet?",
+      "a": [
+        "He picked the most qualified people regardless of party",
+        "He rewarded his closest friends and allies",
+        "He balanced the group by region alone",
+        "He chose only people who agreed with him"
+      ],
+      "why": "Lesson 3 says he turned to his former rivals because ability mattered more than loyalty."
+    },
+    {
+      "q": "How did many Southerners react to Lincoln's assassination?",
+      "a": [
+        "They felt they had lost a valuable friend",
+        "They celebrated his death as a victory",
+        "They blamed the North for starting the war",
+        "They demanded a new election immediately"
+      ],
+      "why": "Lesson 3 quotes Montgomery Blair saying Southern sympathizers knew they had lost a friend."
+    }
+  ]
+}

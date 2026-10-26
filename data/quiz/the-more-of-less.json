@@ -1,0 +1,56 @@
+{
+  "book": "the-more-of-less",
+  "title": "The More Of Less",
+  "questions": [
+    {
+      "q": "How many possessions does an average household own?",
+      "a": [
+        "About 300,000",
+        "Around 1,000",
+        "Few hundred",
+        "Ten thousand"
+      ],
+      "why": "The text states the average is about 300,000."
+    },
+    {
+      "q": "What triggered Becker's minimalism epiphany?",
+      "a": [
+        "Friend's mention after garage clean",
+        "New phone purchase",
+        "Vacation",
+        "Job loss"
+      ],
+      "why": "A friend's comment after a garage clean sparked it."
+    },
+    {
+      "q": "Why do ads influence spending?",
+      "a": [
+        "They create perceived need",
+        "They reduce prices",
+        "They offer discounts",
+        "They are optional"
+      ],
+      "why": "Ads convince us we need more, affecting spending."
+    },
+    {
+      "q": "What lesson comes from selling items at a yard sale?",
+      "a": [
+        "Donating brings more fulfillment than profit",
+        "Profit is essential",
+        "Selling is best",
+        "Keep everything"
+      ],
+      "why": "The author learned donating gives greater fulfillment."
+    },
+    {
+      "q": "What is minimalism not about?",
+      "a": [
+        "Removing for fun",
+        "Creating space for loved things",
+        "Reducing clutter",
+        "Finding joy in possessions"
+      ],
+      "why": "It's about creating space for what matters, not just removal."
+    }
+  ]
+}

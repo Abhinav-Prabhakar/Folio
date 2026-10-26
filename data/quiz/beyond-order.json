@@ -1,0 +1,56 @@
+{
+  "book": "beyond-order",
+  "title": "Beyond Order",
+  "questions": [
+    {
+      "q": "What does Peterson say you should create before trying to become your ideal self?",
+      "a": [
+        "A clear vision of who you want to be",
+        "A detailed resume",
+        "A large bank account",
+        "A perfect schedule"
+      ],
+      "why": "He writes that with a vision and dedicated action you can shape yourself."
+    },
+    {
+      "q": "How does confronting fear help you according to the summary?",
+      "a": [
+        "It lets you master challenges and move toward your vision",
+        "It removes fear entirely",
+        "It makes life effortless",
+        "It guarantees success"
+      ],
+      "why": "He says staying focused on your vision lets you master fears over time."
+    },
+    {
+      "q": "What simple change did Peterson make to his office to add beauty?",
+      "a": [
+        "He painted the walls and hung bright art",
+        "He installed wood paneling",
+        "He moved to a new building",
+        "He bought new furniture"
+      ],
+      "why": "After his paneling plan was rejected, he compromised with paint and colorful art."
+    },
+    {
+      "q": "Why does the author argue beauty matters beyond keeping a tidy space?",
+      "a": [
+        "Because aesthetic experiences expand how we view the world",
+        "Because beauty replaces order",
+        "Because beauty is more important than health",
+        "Because beauty sells books"
+      ],
+      "why": "He notes that focusing only on order can cause us to miss the equally important role of beauty."
+    },
+    {
+      "q": "What attitude does Peterson recommend when suffering occurs?",
+      "a": [
+        "Be grateful for the perspective hardship provides",
+        "Ignore the pain completely",
+        "Focus only on positives",
+        "Seek immediate relief"
+      ],
+      "why": "He teaches to remember why we feel this way and be grateful for insight."
+    }
+  ]
+}

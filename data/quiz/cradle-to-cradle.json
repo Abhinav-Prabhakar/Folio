@@ -1,0 +1,56 @@
+{
+  "book": "cradle-to-cradle",
+  "title": "Cradle To Cradle",
+  "questions": [
+    {
+      "q": "What is the cradle-to-grave model?",
+      "a": [
+        "Resources become products that eventually end up as waste",
+        "Products are repaired and resold again and again",
+        "Materials return safely to nature after use",
+        "Factories share their waste with other industries"
+      ],
+      "why": "Lesson 1 describes the linear system where goods go from producer to buyer to the dump."
+    },
+    {
+      "q": "Why is recycling not a real solution, according to the authors?",
+      "a": [
+        "Material quality drops each time it is recycled",
+        "Recycling uses more energy than making new goods",
+        "Most people refuse to sort their waste",
+        "Recycled goods cannot be sold at a profit"
+      ],
+      "why": "Lesson 2 says mixed materials cannot be fully separated, so recycling is really downcycling."
+    },
+    {
+      "q": "Why is reducing consumption not enough?",
+      "a": [
+        "It only slows environmental damage rather than stopping it",
+        "It costs companies too much money",
+        "It requires technology that does not exist",
+        "It shifts the problem to another country"
+      ],
+      "why": "The summary says reduction does not halt damage to the environment, it merely delays it."
+    },
+    {
+      "q": "What does eco-effectiveness aim for?",
+      "a": [
+        "Designing products that return safely to nature or industry",
+        "Using less energy to make the same products",
+        "Recycling materials as many times as possible",
+        "Paying fines when pollution limits are exceeded"
+      ],
+      "why": "Lesson 3 proposes biological nutrients that feed the ecosystem and technical materials that cycle back into production."
+    },
+    {
+      "q": "Which three concerns make up the fractal triangle?",
+      "a": [
+        "Equity, economy and ecology",
+        "Profit, growth and competition",
+        "Land, water and air",
+        "Design, production and disposal"
+      ],
+      "why": "The summary says business owners must balance fairness to people, profit and environmental impact."
+    }
+  ]
+}

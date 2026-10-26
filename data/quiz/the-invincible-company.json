@@ -1,0 +1,56 @@
+{
+  "book": "the-invincible-company",
+  "title": "The Invincible Company",
+  "questions": [
+    {
+      "q": "What are the two core portfolios a successful company should possess?",
+      "a": [
+        "Explore portfolio and exploit portfolio",
+        "Growth portfolio and stability portfolio",
+        "Innovation portfolio and operations portfolio",
+        "Short-term portfolio and long-term portfolio"
+      ],
+      "why": "From the lesson on two core portfolios."
+    },
+    {
+      "q": "What does the explore portfolio primarily focus on?",
+      "a": [
+        "Innovation, R&D, and future benefits relative to risk",
+        "Strengthening core operational aspects of the business",
+        "Reducing costs and improving current efficiency",
+        "Expanding into new geographic markets quickly"
+      ],
+      "why": "From the lesson on two core portfolios describing the explore side."
+    },
+    {
+      "q": "What two stages help reduce uncertainty in explore projects?",
+      "a": [
+        "The design loop and the testing loop",
+        "The planning phase and the execution phase",
+        "The ideation stage and the scaling stage",
+        "The research phase and the launch phase"
+      ],
+      "why": "From the explore portfolio surveillance lesson."
+    },
+    {
+      "q": "What are the three main points of analysis in the Business Model Canvas?",
+      "a": [
+        "Front end, back end, and cost and revenue considerations",
+        "Revenue, expenses, and profit margins",
+        "Customers, competitors, and suppliers",
+        "Products, processes, and people"
+      ],
+      "why": "From the Business Model Canvas lesson."
+    },
+    {
+      "q": "What does the front end of the Business Model Canvas refer to?",
+      "a": [
+        "The customer side, market, delivery channels, and external factors",
+        "The product, resources, technology, and stakeholders",
+        "The company's internal costs and revenue streams",
+        "The competitive landscape and industry regulations"
+      ],
+      "why": "From the Business Model Canvas lesson describing the front end."
+    }
+  ]
+}

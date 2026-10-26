@@ -1,0 +1,56 @@
+{
+  "book": "start-up-nation",
+  "title": "Start-Up Nation",
+  "questions": [
+    {
+      "q": "What distinction does the summary give Israel among the world’s nations?",
+      "a": [
+        "It has more startups per person than any other country",
+        "It has the largest population in the Middle East",
+        "It exports more oil than its neighbors",
+        "It spends the least on research and development"
+      ],
+      "why": "Lesson 1 says Israel has roughly one startup for every 2,000 citizens, the highest rate per capita."
+    },
+    {
+      "q": "What does the Hebrew term chutzpah describe in the summary?",
+      "a": [
+        "The confidence to stand up for your own ideas",
+        "The patience to wait for the right opportunity",
+        "The skill of negotiating a lower price",
+        "The habit of avoiding conflict with superiors"
+      ],
+      "why": "Lesson 2 uses the PayPal meeting, where Israelis criticized the CEO’s practices, to illustrate chutzpah."
+    },
+    {
+      "q": "Where does the summary trace Israelis’ habit of asking questions?",
+      "a": [
+        "A long tradition of rabbis debating the meaning of the Bible",
+        "The country’s compulsory military service",
+        "The influence of European business schools",
+        "A national law requiring open debate"
+      ],
+      "why": "Lesson 2 says centuries of open argument over scripture carried into the culture of entrepreneurship."
+    },
+    {
+      "q": "Why does the Israeli army keep few senior officers?",
+      "a": [
+        "To push lower-ranking soldiers to take initiative",
+        "To save money on military salaries",
+        "To make room for foreign advisors",
+        "To avoid public criticism of the army"
+      ],
+      "why": "Lesson 2 says the flat structure exists so soldiers at lower levels take responsibility for their work."
+    },
+    {
+      "q": "How did political isolation shape Israel’s economy?",
+      "a": [
+        "It pushed the country toward software and digital goods that cross borders",
+        "It forced the country to rely on oil exports",
+        "It made the country dependent on foreign factories",
+        "It slowed the growth of its technology sector"
+      ],
+      "why": "Lesson 3 says boycotts and travel limits pushed Israel into a knowledge economy early."
+    }
+  ]
+}

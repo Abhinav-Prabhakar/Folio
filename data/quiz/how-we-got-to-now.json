@@ -1,0 +1,56 @@
+{
+  "book": "how-we-got-to-now",
+  "title": "How We Got To Now",
+  "questions": [
+    {
+      "q": "Why was the mirror important to the Renaissance?",
+      "a": [
+        "It encouraged people to look inward",
+        "It made glassblowing much cheaper",
+        "It was used to build telescopes",
+        "It replaced painted portraits"
+      ],
+      "why": "Lesson 1 says the mirror did not cause the Renaissance but made self-reflection possible."
+    },
+    {
+      "q": "What did the light bulb replace as a light source?",
+      "a": [
+        "Candles made from whale oil",
+        "Gas lamps powered by coal",
+        "Oil lamps made from plants",
+        "Torches made of wood"
+      ],
+      "why": "Lesson 2 says candles were made from spermaceti taken from sperm whales."
+    },
+    {
+      "q": "How did flash photography lead to social change?",
+      "a": [
+        "Photos of poor conditions led to a new law",
+        "It helped sailors navigate at night",
+        "It made feature films possible",
+        "It replaced the light bulb entirely"
+      ],
+      "why": "Lesson 2 says Riis documented Five Points, and the images helped pass a law improving conditions."
+    },
+    {
+      "q": "Why is Edison not the sole inventor of the light bulb?",
+      "a": [
+        "About 20 people had similar prototypes",
+        "He stole the design from a rival",
+        "He only funded someone else's work",
+        "He never actually built one"
+      ],
+      "why": "Lesson 3 says roughly 20 people produced similar concepts at almost the same time."
+    },
+    {
+      "q": "How was Ada Lovelace's algorithm different from the light bulb?",
+      "a": [
+        "It came from one person's poetic view of math",
+        "It solved an urgent global problem",
+        "It was developed by a large team",
+        "It had immediate commercial demand"
+      ],
+      "why": "Lesson 3 says her work was not an urgent need but a personal blend of math and poetry."
+    }
+  ]
+}

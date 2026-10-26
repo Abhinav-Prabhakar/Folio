@@ -1,0 +1,56 @@
+{
+  "book": "the-sales-advantage",
+  "title": "The Sales Advantage",
+  "questions": [
+    {
+      "q": "What is the first step a salesman should take before calling a prospect?",
+      "a": [
+        "Learn the prospect's name and role",
+        "Explain product features",
+        "Ask for a meeting",
+        "Offer a discount"
+      ],
+      "why": "The text stresses pre‑approach: know name and occupation first."
+    },
+    {
+      "q": "Why should a salesman avoid talking about product features immediately?",
+      "a": [
+        "It risks cutting off the prospect early",
+        "It shows lack of knowledge",
+        "It makes the call longer",
+        "It is too technical"
+      ],
+      "why": "The book says to change the intro to avoid early cut‑offs."
+    },
+    {
+      "q": "Which tactic helps personalize a pitch according to the book?",
+      "a": [
+        "Refer to satisfied customers and stats",
+        "Use generic slogans",
+        "Show a demo",
+        "Ask for budget"
+      ],
+      "why": "The text recommends linking offering to other satisfied users and statistics."
+    },
+    {
+      "q": "What should a salesman do once a meeting is set?",
+      "a": [
+        "Arrive early and address pain points",
+        "Send a follow‑up email",
+        "Show a product demo",
+        "Ask for a referral"
+      ],
+      "why": "The book advises arriving early and tackling pain points first."
+    },
+    {
+      "q": "What is a key variable for closing a deal highlighted in the book?",
+      "a": [
+        "Customer retention",
+        "Product price",
+        "Marketing budget",
+        "Sales team size"
+      ],
+      "why": "The overview notes customer retention as a key point in sales."
+    }
+  ]
+}

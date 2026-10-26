@@ -1,0 +1,56 @@
+{
+  "book": "social",
+  "title": "Social",
+  "questions": [
+    {
+      "q": "What does the brain’s “default network” do when the mind is at rest?",
+      "a": [
+        "It dwells on social interactions and relationships",
+        "It replays memories of physical sensations",
+        "It rehearses plans for future work tasks",
+        "It scans the environment for possible dangers"
+      ],
+      "why": "The overview says the default network automatically turns to social interactions and our relationships with others."
+    },
+    {
+      "q": "In Lieberman’s virtual ball-tossing study, what did the brain scans of excluded participants resemble?",
+      "a": [
+        "Scans of people experiencing physical pain",
+        "Scans of people solving difficult puzzles",
+        "Scans of people who were deeply asleep",
+        "Scans of people watching a thrilling film"
+      ],
+      "why": "Lesson 1 says the scans of socially excluded players looked remarkably like scans of physical pain."
+    },
+    {
+      "q": "What does the summary call our ability to infer what others are thinking and feeling?",
+      "a": [
+        "Mentalizing",
+        "Mirroring",
+        "Projecting",
+        "Conditioning"
+      ],
+      "why": "Lesson 2 names this ability mentalizing and shows it even applies to moving shapes."
+    },
+    {
+      "q": "What did the summary compare to a salary rise from $20,000 to $75,000 a year?",
+      "a": [
+        "Volunteering once a week",
+        "Getting married",
+        "Receiving a yearly bonus",
+        "Working from home"
+      ],
+      "why": "Lesson 3 says weekly volunteers saw well-being gains as large as those from a big salary increase."
+    },
+    {
+      "q": "In the gold star study, what did the top salesmen do for a chance at social recognition?",
+      "a": [
+        "They closed sales early, losing money on average",
+        "They shared their award with the whole team",
+        "They asked for a cash bonus instead of the star",
+        "They worked longer hours for no extra pay"
+      ],
+      "why": "Lesson 3 describes salesmen closing deals prematurely to hit better figures, costing themselves money for a gold star."
+    }
+  ]
+}

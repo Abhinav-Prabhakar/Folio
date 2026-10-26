@@ -1,0 +1,56 @@
+{
+  "book": "the-warmth-of-other-suns",
+  "title": "The Warmth Of Other Suns",
+  "questions": [
+    {
+      "q": "What time span did the Great Migration occur?",
+      "a": [
+        "1915 to 1970",
+        "1865 to 1900",
+        "1920 to 1945",
+        "1950 to 1990"
+      ],
+      "why": "The overview states the migration happened between 1915 and 1970."
+    },
+    {
+      "q": "Why does Wilkerson say the Great Migration is often omitted from textbooks?",
+      "a": [
+        "It was not a single unified movement",
+        "It was too recent to study",
+        "It only involved a few people",
+        "It lacked economic impact"
+      ],
+      "why": "She notes the migration wasn't a single unified movement, so people didn't see it as a cohesive event."
+    },
+    {
+      "q": "What economic system kept many black sharecroppers indebted?",
+      "a": [
+        "Sharecropping",
+        "Tenant farming",
+        "Wage labor",
+        "Industrial factory work"
+      ],
+      "why": "The text explains sharecropping was common and kept blacks indebted to plantation owners."
+    },
+    {
+      "q": "Why did Ida Mae and George initially move to Milwaukee?",
+      "a": [
+        "To find a job during the Depression",
+        "To visit family",
+        "To attend school",
+        "To escape a flood"
+      ],
+      "why": "The narrative says they traveled to Milwaukee looking for work, but jobs were scarce because of the Depression."
+    },
+    {
+      "q": "What housing condition did migrants face in Chicago?",
+      "a": [
+        "Overcrowded, overpriced tiny apartments",
+        "Luxury condos with low rent",
+        "Spacious suburban homes",
+        "Rural farmhouses"
+      ],
+      "why": "White neighborhoods sealed off, forcing newcomers into overpriced, tiny apartments."
+    }
+  ]
+}

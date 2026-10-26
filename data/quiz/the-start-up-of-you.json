@@ -1,0 +1,56 @@
+{
+  "book": "the-start-up-of-you",
+  "title": "The Start-Up of You",
+  "questions": [
+    {
+      "q": "What is the main advantage of viewing your career as a start‑up?",
+      "a": [
+        "Adaptability",
+        "Fixed promotion path",
+        "Long-term stability",
+        "Strict hierarchy"
+      ],
+      "why": "Start‑ups require adaptability to survive."
+    },
+    {
+      "q": "The ABZ planning model suggests which of these is NOT a plan?",
+      "a": [
+        "Plan C",
+        "Plan A",
+        "Plan B",
+        "Plan Z"
+      ],
+      "why": "ABZ includes A, B, and Z, not C."
+    },
+    {
+      "q": "Which trio forms the basis of a competitive advantage in the book?",
+      "a": [
+        "Assets, passions, market realities",
+        "Skills, salary, location",
+        "Education, experience, networking",
+        "Hobbies, health, habits"
+      ],
+      "why": "Competitive edge comes from assets, passions, and market realities."
+    },
+    {
+      "q": "Why does the author recommend taking calculated risks?",
+      "a": [
+        "They give an edge over competitors",
+        "They guarantee success",
+        "They eliminate uncertainty",
+        "They reduce workload"
+      ],
+      "why": "Calculated risks give advantage over competition."
+    },
+    {
+      "q": "What does globalization do to the job market according to the text?",
+      "a": [
+        "Makes it more competitive",
+        "Creates more jobs",
+        "Reduces automation",
+        "Limits skill demand"
+      ],
+      "why": "Globalization increases competition for jobs."
+    }
+  ]
+}

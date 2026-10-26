@@ -1,0 +1,56 @@
+{
+  "book": "empire-of-illusion",
+  "title": "Empire Of Illusion",
+  "questions": [
+    {
+      "q": "What share of Americans are illiterate or barely literate?",
+      "a": [
+        "One-third",
+        "One-tenth",
+        "One-half",
+        "One-fifth"
+      ],
+      "why": "Lesson 1 calls illiteracy a growing epidemic and says one-third of the US population is completely or barely literate."
+    },
+    {
+      "q": "How long is the TV on daily in the average US household?",
+      "a": [
+        "About seven hours",
+        "About two hours",
+        "About four hours",
+        "About ten hours"
+      ],
+      "why": "Lesson 1 cites estimates that American households keep the television on roughly seven hours daily."
+    },
+    {
+      "q": "What does Hedges say television does to reality?",
+      "a": [
+        "It distorts it while offering easy, fake excitement",
+        "It reveals it more clearly than books can",
+        "It has no effect on how viewers see the world",
+        "It makes viewers more skeptical of advertising"
+      ],
+      "why": "Lesson 1 says TV is excellent at distorting reality, presenting predictable content and an illusion of excitement."
+    },
+    {
+      "q": "How does screen culture endanger democracy?",
+      "a": [
+        "It validates only those on screen and normalizes surveillance",
+        "It gives too much airtime to serious policy debates",
+        "It encourages citizens to read more newspapers",
+        "It makes politicians less concerned with image"
+      ],
+      "why": "Lesson 2 says TV validates those who appear on it and normalizes constant monitoring by government and corporations."
+    },
+    {
+      "q": "What happens when education abandons the humanities?",
+      "a": [
+        "Students lose the moral reasoning a society needs",
+        "Students become more skilled at technical jobs",
+        "Colleges produce more philosophers than managers",
+        "Debate and ethics become central to every course"
+      ],
+      "why": "Lesson 3 says without the humanities, students miss the ethical and philosophical thinking needed to keep a culture from decaying."
+    }
+  ]
+}

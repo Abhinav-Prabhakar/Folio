@@ -1,0 +1,56 @@
+{
+  "book": "forensics-the-anatomy-of-crime",
+  "title": "Forensics: The Anatomy Of Crime",
+  "questions": [
+    {
+      "q": "Why do forensic investigators work from the outside in rather than starting at the source?",
+      "a": [
+        "Starting at the source can bias you and make you miss evidence",
+        "Evidence at the edges is always easier to collect",
+        "Labs can only process samples taken from the outside",
+        "Courts require evidence to be gathered in a set order"
+      ],
+      "why": "The firecracker example shows that assuming the whole picture up front leads investigators to stop looking too early."
+    },
+    {
+      "q": "How were fingerprints first noticed as a useful way to identify people?",
+      "a": [
+        "A doctor saw potters' marks on ancient clay fragments",
+        "A prison guard compared the hands of inmates",
+        "A chemist studied ink stains left on letters",
+        "A photographer spotted marks on glass plates"
+      ],
+      "why": "The second lesson describes Henry Faulds noticing marks on pottery in Japan and dusting them with powder."
+    },
+    {
+      "q": "What did Henry Faulds do with his fingerprint idea?",
+      "a": [
+        "He passed it to Charles Darwin, who sent it to Francis Galton",
+        "He opened the first fingerprint bureau at Scotland Yard",
+        "He published a book arguing against the method",
+        "He sold his notes to an Argentinian prison"
+      ],
+      "why": "The summary traces the idea from Faulds to Darwin to Galton, before it reached India and Scotland Yard."
+    },
+    {
+      "q": "Why are missing children especially hard to identify from photographs?",
+      "a": [
+        "Their faces are not fully formed, so they are hard to tell apart",
+        "Photographs of children are usually too blurry",
+        "Children deliberately change how they look",
+        "Records are rarely kept for young children"
+      ],
+      "why": "The third lesson says only one in six missing children is found through photo identification for this reason."
+    },
+    {
+      "q": "What does facial reconstruction use to derive a victim's features?",
+      "a": [
+        "The 22 bones of the human skull",
+        "A database of family photographs",
+        "Dental records and hair samples",
+        "Witness descriptions of the victim"
+      ],
+      "why": "The third lesson explains that CT scans and X-rays of the skull's 22 bones let computers rebuild a face."
+    }
+  ]
+}

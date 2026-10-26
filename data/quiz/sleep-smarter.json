@@ -1,0 +1,56 @@
+{
+  "book": "sleep-smarter",
+  "title": "Sleep Smarter",
+  "questions": [
+    {
+      "q": "What does melatonin do?",
+      "a": [
+        "It regulates the body's internal clock and sleepiness",
+        "It wakes you up when morning light arrives",
+        "It controls your body temperature at night",
+        "It repairs muscles while you exercise"
+      ],
+      "why": "Lesson 1 calls melatonin the hormone behind the circadian rhythm."
+    },
+    {
+      "q": "What does light in the bedroom do to melatonin?",
+      "a": [
+        "It suppresses production by about half",
+        "It doubles production during the night",
+        "It has no effect after sunset",
+        "It shifts production to the morning"
+      ],
+      "why": "Lesson 1 says bedroom light can cut melatonin production by 50 percent."
+    },
+    {
+      "q": "What is the best sleep window, according to the summary?",
+      "a": [
+        "10 p.m. to 2 a.m.",
+        "8 p.m. to midnight",
+        "11 p.m. to 3 a.m.",
+        "Midnight to 4 a.m."
+      ],
+      "why": "Lesson 2 points to peak melatonin and growth hormone between 10 and 2."
+    },
+    {
+      "q": "What does the summary say about sleeping in on weekends?",
+      "a": [
+        "It disrupts your circadian rhythm",
+        "It repays all the sleep you lost",
+        "It improves focus on Monday",
+        "It has no effect on the body"
+      ],
+      "why": "Lesson 2 says the body cannot tell work nights from weekends."
+    },
+    {
+      "q": "What should you keep out of the bedroom?",
+      "a": [
+        "Work and electronics",
+        "House plants and fresh air",
+        "Blackout blinds and fans",
+        "Books and reading lamps"
+      ],
+      "why": "Lesson 3 says work devices raise cortisol and weaken sleep associations."
+    }
+  ]
+}

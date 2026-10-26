@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-rhetoric",
+  "title": "The Art of Rhetoric",
+  "questions": [
+    {
+      "q": "Which method of persuasion does the summary call the most persuasive?",
+      "a": [
+        "Logos, because it rests on truth and reason",
+        "Pathos, because it moves the audience emotionally",
+        "Ethos, because authority silences objections",
+        "Humor, because it puts the crowd at ease"
+      ],
+      "why": "Lesson 1 rates logos highest because it rests on facts instead of feelings."
+    },
+    {
+      "q": "Why is pathos described as sneaky?",
+      "a": [
+        "It manipulates feelings instead of convincing through facts",
+        "It relies on the speaker's reputation rather than evidence",
+        "It works only with young audiences",
+        "It requires long memorized passages"
+      ],
+      "why": "Lesson 1 calls pathos deceitful because it plays on emotions instead of proving a case."
+    },
+    {
+      "q": "Which three qualities help an audience trust a speaker?",
+      "a": [
+        "Intelligence, strong character and goodwill",
+        "Confidence, humor and a loud voice",
+        "Experience, wealth and famous connections",
+        "Sincerity, patience and good looks"
+      ],
+      "why": "Lesson 2 says intelligence, character and goodwill are what make an audience see you as trustworthy."
+    },
+    {
+      "q": "In the four-part speech structure, what comes right after the introduction?",
+      "a": [
+        "The narrative, which uses emotion to build your case",
+        "The arguments, which prove your points with facts",
+        "The conclusion, which summarizes your case",
+        "The speaker's credentials and qualifications"
+      ],
+      "why": "Lesson 3 puts the narrative second, where pathos awakens emotion before the arguments."
+    },
+    {
+      "q": "What should the conclusion of a speech do?",
+      "a": [
+        "Summarize the points and end with a punchline or emotional bang",
+        "Introduce a new argument for the audience to consider",
+        "Thank the organizers and list your sources",
+        "Repeat the introduction word for word"
+      ],
+      "why": "Lesson 3 says to close briefly by summarizing and finishing with a strong line."
+    }
+  ]
+}

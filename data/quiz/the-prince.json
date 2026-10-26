@@ -1,0 +1,56 @@
+{
+  "book": "the-prince",
+  "title": "The Prince",
+  "questions": [
+    {
+      "q": "What does Machiavelli say about hiring mercenaries for defending your own territory?",
+      "a": [
+        "They are unreliable because they fight only for money",
+        "They are the most disciplined troops available",
+        "They guarantee loyalty through high pay",
+        "They are ideal for long‑term governance"
+      ],
+      "why": "Mercenaries flee when hardships arise, as noted in the text."
+    },
+    {
+      "q": "According to the text, why are easy‑to‑conquer countries hard to rule?",
+      "a": [
+        "Because prior rulers eliminated rivals and built loyal institutions",
+        "Because they have strong armies already",
+        "Because they lack natural resources",
+        "Because they are culturally homogeneous"
+      ],
+      "why": "Persia's ruler‑servant system made it hard to govern after conquest."
+    },
+    {
+      "q": "What analogy does the author use to compare a country's army to a business?",
+      "a": [
+        "Both need their own dedicated personnel",
+        "Both rely on external contractors",
+        "Both thrive on short‑term hires",
+        "Both succeed by outsourcing core tasks"
+      ],
+      "why": "The text likens a nation's army to a business's employees."
+    },
+    {
+      "q": "What is the main risk of advisors who start scheming for power?",
+      "a": [
+        "Their interests may diverge from the leader's",
+        "They become more loyal than the leader",
+        "They improve overall decision‑making",
+        "They reduce operational costs"
+      ],
+      "why": "Advisors may pursue personal power if interests no longer align."
+    },
+    {
+      "q": "What lesson does the story of Alexander's successor in Persia illustrate?",
+      "a": [
+        "A stable ruler‑servant system can extend control for decades",
+        "Military conquest guarantees immediate stability",
+        "Foreign generals always lose power quickly",
+        "Economic wealth ensures political dominance"
+      ],
+      "why": "The Macedonian general held Persia for fifty years due to the system."
+    }
+  ]
+}

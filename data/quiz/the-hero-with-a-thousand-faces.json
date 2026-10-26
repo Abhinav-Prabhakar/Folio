@@ -1,0 +1,56 @@
+{
+  "book": "the-hero-with-a-thousand-faces",
+  "title": "The Hero With a Thousand Faces",
+  "questions": [
+    {
+      "q": "What are the three essential stages of the hero's journey?",
+      "a": [
+        "The call, the quest, and the return",
+        "The departure, the trial, and the reward",
+        "The beginning, the middle, and the end",
+        "The problem, the solution, and the lesson"
+      ],
+      "why": "The stages lesson lists the call, the quest, and the return as the three essential stages."
+    },
+    {
+      "q": "What does the text say happens if the hero ignores his call?",
+      "a": [
+        "He will feel unhappiness and misery",
+        "He will be punished by the gods",
+        "He will lose all his friends",
+        "He will become a villain in the story"
+      ],
+      "why": "The stages lesson states that not answering your call will haunt your mind and cause misery."
+    },
+    {
+      "q": "What does the text say about the hero's experience during the quest?",
+      "a": [
+        "He must proceed feeling blind with no map to guide him",
+        "He is given a detailed map by a mentor",
+        "He can always return home if things get too hard",
+        "He is guaranteed success if he is brave enough"
+      ],
+      "why": "The veil lesson says the hero must go through his quest feeling blind with no clue about what comes next."
+    },
+    {
+      "q": "According to the text, what helped the hero fulfill his mission?",
+      "a": [
+        "Consistency and determination, not extraordinary talent",
+        "A super power or outstanding circumstances",
+        "The help of a wise mentor throughout",
+        "A single moment of extraordinary courage"
+      ],
+      "why": "The hard work lesson states it was not extraordinary talent but going little by little with determination."
+    },
+    {
+      "q": "What term does Campbell use for the universal story pattern?",
+      "a": [
+        "The Monomyth",
+        "The Archetype",
+        "The Paradigm",
+        "The Blueprint"
+      ],
+      "why": "The overview states Campbell calls the universal arc of character development the Monomyth."
+    }
+  ]
+}

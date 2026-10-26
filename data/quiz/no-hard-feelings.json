@@ -1,0 +1,56 @@
+{
+  "book": "no-hard-feelings",
+  "title": "No Hard Feelings",
+  "questions": [
+    {
+      "q": "What do the authors say about emotions at work?",
+      "a": [
+        "They are always present and can be an asset",
+        "They should be hidden to stay professional",
+        "They only matter in your personal life",
+        "They disappear once you focus on tasks"
+      ],
+      "why": "The overview argues emotions cannot be switched off and actually help us connect and empathize."
+    },
+    {
+      "q": "What did Google's study find about the best teams?",
+      "a": [
+        "They had high psychological safety",
+        "They had the most experienced managers",
+        "They had the largest budgets",
+        "They had the fewest meetings"
+      ],
+      "why": "Lesson 3 says Google found psychological safety was the biggest factor in team performance."
+    },
+    {
+      "q": "What does the summary say about strong emotions and decisions?",
+      "a": [
+        "They can help us make better decisions",
+        "They always distort our judgment",
+        "They matter only for artists",
+        "They should be ignored at work"
+      ],
+      "why": "Lesson 2 says strong emotions, good or bad, can help investors make better decisions."
+    },
+    {
+      "q": "Which feelings does the summary call irrelevant and worth letting go?",
+      "a": [
+        "A migraine or boredom in a meeting",
+        "Regret about accepting a new task",
+        "Happiness about finishing a project",
+        "Excitement about a possible raise"
+      ],
+      "why": "Lesson 2 separates relevant emotions, which carry information, from irrelevant ones like a migraine or meeting boredom."
+    },
+    {
+      "q": "What does the summary say about skipping paid time off?",
+      "a": [
+        "It leads to burnout and lower motivation",
+        "It is expected of committed employees",
+        "It should be saved for emergencies",
+        "It makes teams more productive"
+      ],
+      "why": "Lesson 1 says Americans rarely take paid leave, which fuels demotivation and burnout."
+    }
+  ]
+}

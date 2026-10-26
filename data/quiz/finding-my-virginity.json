@@ -1,0 +1,56 @@
+{
+  "book": "finding-my-virginity",
+  "title": "Finding My Virginity",
+  "questions": [
+    {
+      "q": "Where does Branson look for new business opportunities?",
+      "a": [
+        "Industries where customers have long been badly treated",
+        "Markets where a rival has already built perfect service",
+        "Sectors that governments are about to regulate heavily",
+        "Niche areas that no large company has noticed yet"
+      ],
+      "why": "Lesson 1 says the worse and longer the bad experience, the bigger the opening."
+    },
+    {
+      "q": "What was Branson's approach when starting the Elders charity?",
+      "a": [
+        "Gather outstanding people first and define the focus later",
+        "Write a detailed strategy before recruiting anyone at all",
+        "Raise money first and let donors choose the causes",
+        "Wait for a single clear mission to emerge on its own"
+      ],
+      "why": "Lesson 2 says Virgin Unite had no theme until the team was already assembled."
+    },
+    {
+      "q": "Why did Branson partner with NTL despite its poor customer service?",
+      "a": [
+        "Its infrastructure could reach many homes quickly, and service could be fixed",
+        "It had the best reputation for support in the telecom industry",
+        "Regulators required Virgin to work with an established carrier",
+        "It was the only company willing to lend him the money"
+      ],
+      "why": "Lesson 3 says the deal gave Virgin fast access, and he replaced the call scripts."
+    },
+    {
+      "q": "Why did Branson launch Virgin Atlantic?",
+      "a": [
+        "British Airways offered poor food, entertainment and service",
+        "The British government asked him to rescue a failing airline",
+        "He had already built a large fleet for another business",
+        "Air travel was completely unregulated at the time"
+      ],
+      "why": "Lesson 1 presents the airline as a response to a miserable customer experience."
+    },
+    {
+      "q": "What question does Branson start every new venture with?",
+      "a": [
+        "How can I make this fun for everyone involved?",
+        "How much money can this generate in year one?",
+        "Which competitor can we buy out first?",
+        "What is the fastest way to scale this globally?"
+      ],
+      "why": "The overview says he approaches business from a position of play and enjoyment."
+    }
+  ]
+}

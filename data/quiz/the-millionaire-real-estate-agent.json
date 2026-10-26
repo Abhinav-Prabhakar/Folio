@@ -1,0 +1,56 @@
+{
+  "book": "the-millionaire-real-estate-agent",
+  "title": "The Millionaire Real Estate Agent",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Millionaire Real Estate Agent?",
+      "a": [
+        "If the name Gary Keller sounds familiar to you, it’s most likely because he’s also…",
+        "The English language and most other modern languages consist of two types of words.",
+        "Anyone who has experienced romantic love can tell you that falling in love is easy.",
+        "Seniors have so much wisdom to share with the world from their years of experience."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Millionaire Real Estate Agent explore?",
+      "a": [
+        "A successful real estate business is based on 3 L’s: leads, listings, and leverage",
+        "Your loving speech nurtures others when you are honest and compassionate with them",
+        "Be nice, apologize when you have to and deliver on what you promise to build trust",
+        "If you want to become a coach, you need to be ready to deal with imposter syndrome"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Millionaire Real Estate Agent teach?",
+      "a": [
+        "There’s no finish line in the race towards becoming a better human being",
+        "Be aware of the 6 categories of stocks to know which one is best for you",
+        "Humans are naturally inclined to favor their families over anything else",
+        "There are two competing forces in your brain, so learn to recognize them"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Millionaire Real Estate Agent?",
+      "a": [
+        "Gary Keller was an operator for many years.",
+        "People love to pass the blame on to others.",
+        "Every day, we engage in many conversations.",
+        "Have you ever heard the term platonic love?"
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Millionaire Real Estate Agent?",
+      "a": [
+        "The Millionaire Real Estate Agent is about how you can systematically build a thriving…",
+        "Did you ever get the feedback from your school teachers that you were bad at something?",
+        "A housing voucher system might let us give the basic human right of shelter to everyone",
+        "Through innovative thinking and hard work, Jack Ma beat all challenges to build Alibaba"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "fear",
+  "title": "Fear",
+  "questions": [
+    {
+      "q": "What did Trump's advisers try to get him to understand about South Korea?",
+      "a": [
+        "A good relationship with it mattered while North Korea tested weapons",
+        "It should pay the entire cost of the US military presence there",
+        "It was no longer a useful ally for American trade interests",
+        "It had secretly been selling missile technology to North Korea"
+      ],
+      "why": "Lesson 1 says at least three advisers made the case for maintaining the alliance."
+    },
+    {
+      "q": "How did Trump react to Gary Cohn's data supporting free trade?",
+      "a": [
+        "He refused to examine any of the evidence",
+        "He accepted it and dropped his tariff plans",
+        "He asked for a second report by outside economists",
+        "He used the data to renegotiate NAFTA quickly"
+      ],
+      "why": "Lesson 2 says Cohn had reams of data printed out, and Trump would not look at it."
+    },
+    {
+      "q": "What does Trump call his Twitter account?",
+      "a": [
+        "His megaphone for speaking to the public unfiltered",
+        "His window into what the media really thinks",
+        "His shield against unfair press coverage",
+        "His private diary for close advisers only"
+      ],
+      "why": "Lesson 3 says he uses the word megaphone to describe how he reaches people directly."
+    },
+    {
+      "q": "What did Trump's team conclude the most popular tweets had in common?",
+      "a": [
+        "They relied on shock",
+        "They included policy details",
+        "They were posted late at night",
+        "They avoided personal attacks"
+      ],
+      "why": "Lesson 3 says he had high-performing tweets analyzed and found shock was the key."
+    },
+    {
+      "q": "What did Trump tell a colleague real power comes from?",
+      "a": [
+        "Never backing down, staying strong and always pushing forward",
+        "Building consensus and admitting mistakes early",
+        "Delegating decisions to experienced advisers",
+        "Keeping a low profile until the results are clear"
+      ],
+      "why": "Lesson 2 calls this part of a philosophy of never apologizing or showing weakness."
+    }
+  ]
+}

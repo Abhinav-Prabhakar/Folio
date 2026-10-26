@@ -1,0 +1,56 @@
+{
+  "book": "our-wild-calling",
+  "title": "Our Wild Calling",
+  "questions": [
+    {
+      "q": "What does Louv suggest you do to reconnect with nature?",
+      "a": [
+        "Observe animals and let go of your worries",
+        "Travel to remote places far from cities",
+        "Read more about wildlife online",
+        "Adopt as many pets as possible"
+      ],
+      "why": "Lesson 1 suggests stepping into nature, setting worries aside and focusing on the animals you see."
+    },
+    {
+      "q": "What did Descartes believe about animals, according to the summary?",
+      "a": [
+        "They exist to serve humans as resources",
+        "They feel the same emotions as people",
+        "They are smarter than human beings",
+        "They should be worshipped as gods"
+      ],
+      "why": "Lesson 2 says Descartes described animals as resources that exist to serve humans."
+    },
+    {
+      "q": "How are dogs described as similar to humans?",
+      "a": [
+        "They are social and need a sense of belonging",
+        "They prefer to live entirely alone",
+        "They communicate only through sound",
+        "They share no emotions with humans"
+      ],
+      "why": "Lesson 2 notes that dogs, like people, are social and thrive in communities."
+    },
+    {
+      "q": "What does protecting the environment on a micro level mean?",
+      "a": [
+        "Small daily acts like clearing waste and recycling",
+        "International treaties and government laws",
+        "Large corporate sustainability programs",
+        "Moving to less polluted countries"
+      ],
+      "why": "Lesson 3 calls for small acts, such as clearing waste, rather than only grand gestures."
+    },
+    {
+      "q": "What does the concept of solophilia suggest?",
+      "a": [
+        "Caring for nature and animals ultimately helps us",
+        "Humans should dominate every other species",
+        "Nature recovers without any human help",
+        "Only scientists can protect the environment"
+      ],
+      "why": "Lesson 3 cites Glenn Albrecht's solophilia: helping nature and animals helps ourselves."
+    }
+  ]
+}

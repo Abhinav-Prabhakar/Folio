@@ -1,0 +1,56 @@
+{
+  "book": "the-language-instinct",
+  "title": "The Language Instinct",
+  "questions": [
+    {
+      "q": "What principle says word forms are unrelated to their meanings?",
+      "a": [
+        "Arbitrariness of the sign",
+        "Infinite use of finite media",
+        "Prescriptive grammar rule",
+        "Poverty of stimulus"
+      ],
+      "why": "Mentions arbitrariness as first core principle."
+    },
+    {
+      "q": "According to Pinker, why can children master grammar without formal study?",
+      "a": [
+        "Poverty of stimulus",
+        "Infinite use of finite media",
+        "Prescriptive rules",
+        "Arbitrariness of the sign"
+      ],
+      "why": "States poverty of stimulus explains grammar acquisition."
+    },
+    {
+      "q": "Which linguist is called the father of modern linguistics in the book?",
+      "a": [
+        "Noam Chomsky",
+        "Steven Pinker",
+        "John Searle",
+        "Noah Chomsky"
+      ],
+      "why": "References Chomsky as leading linguist."
+    },
+    {
+      "q": "What does Pinker contrast with prescriptive rules?",
+      "a": [
+        "Descriptive rules",
+        "Arbitrary signs",
+        "Finite media",
+        "Poverty of stimulus"
+      ],
+      "why": "Describes descriptive rules as describing actual speech."
+    },
+    {
+      "q": "How does Pinker describe language's efficiency?",
+      "a": [
+        "Infinite use of finite media",
+        "Arbitrariness of the sign",
+        "Poverty of stimulus",
+        "Prescriptive grammar"
+      ],
+      "why": "Lists infinite use of finite media as second core principle."
+    }
+  ]
+}

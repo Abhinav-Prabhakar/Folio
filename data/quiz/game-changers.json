@@ -1,0 +1,56 @@
+{
+  "book": "game-changers",
+  "title": "Game Changers",
+  "questions": [
+    {
+      "q": "What are the three Fs that Asprey says drive our prehistoric brain?",
+      "a": [
+        "Fear, feed and reproduction",
+        "Fight, flight and freeze",
+        "Focus, flow and fun",
+        "Food, fitness and family"
+      ],
+      "why": "The overview says the brain is wired to keep us alive and passing on our genes, not to make us happy."
+    },
+    {
+      "q": "What question does Asprey suggest asking to decide where to spend your energy?",
+      "a": [
+        "Who do I want to be in twenty years?",
+        "What would make me happiest today?",
+        "How can I finish this task fastest?",
+        "What would my boss expect from me?"
+      ],
+      "why": "The first lesson says to prune your to-do list against a picture of your life two decades ahead."
+    },
+    {
+      "q": "What happened to Arianna Huffington after working more than 120 hours a week?",
+      "a": [
+        "She collapsed and broke her cheekbone",
+        "She lost control of her company",
+        "She was treated for exhaustion twice",
+        "She quit and wrote a novel"
+      ],
+      "why": "The second lesson uses her collapse to show why sleep and recovery beat burnout."
+    },
+    {
+      "q": "What does Asprey mean by eating like your grandmother?",
+      "a": [
+        "Eat whole, unrefined foods with vegetables and protein",
+        "Cook large meals and freeze the leftovers",
+        "Follow the recipes handed down in your family",
+        "Eat only what you grow yourself"
+      ],
+      "why": "The second lesson points to the last generation without industrial food as a model for gut health."
+    },
+    {
+      "q": "What does the summary say about money and happiness?",
+      "a": [
+        "Past a point, more income does not add happiness",
+        "Money is the main source of joy for top performers",
+        "Wealth guarantees lasting happiness",
+        "Happiness falls steadily as income rises"
+      ],
+      "why": "The third lesson says the high performers Asprey interviewed treat money as a side effect, not a source of joy."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "everything-is-figureoutable",
+  "title": "Everything Is Figureoutable",
+  "questions": [
+    {
+      "q": "Where did Forleo first hear that everything is figureoutable?",
+      "a": [
+        "From her mother, who fixed things herself to save money",
+        "From a business mentor she hired",
+        "From a book she read in college",
+        "From a client who refused to give up"
+      ],
+      "why": "The overview credits her mother's habit of repairing things at home."
+    },
+    {
+      "q": "What does saying I can't usually hide, per the summary?",
+      "a": [
+        "I won't or I don't want to",
+        "I need more training first",
+        "I lack the necessary resources",
+        "I should wait for help"
+      ],
+      "why": "Lesson 2 says the phrase is really an excuse."
+    },
+    {
+      "q": "How did Forleo afford the retreat in South America?",
+      "a": [
+        "She took extra side jobs and arranged a payment plan",
+        "She borrowed the money from a friend",
+        "She won a contest for aspiring entrepreneurs",
+        "She postponed the trip until she saved up"
+      ],
+      "why": "Lesson 2 describes three side jobs and a special payment option."
+    },
+    {
+      "q": "When do clarity and motivation appear, according to the summary?",
+      "a": [
+        "After you start, not before",
+        "Before you take the first step",
+        "Only when conditions are perfect",
+        "They fade once you begin"
+      ],
+      "why": "Lesson 3 says a small step forward reveals the right path."
+    },
+    {
+      "q": "What does the missed flight story illustrate?",
+      "a": [
+        "Assuming a problem is solvable opens up solutions",
+        "Airlines rarely help late passengers",
+        "Packing light is always the cheapest option",
+        "Arriving early prevents most travel problems"
+      ],
+      "why": "Lesson 1 says the mantra helped her find carry-on bags in time."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "lean-analytics",
+  "title": "Lean Analytics",
+  "questions": [
+    {
+      "q": "What does it mean to be data-informed rather than data-driven?",
+      "a": [
+        "Use data as input while you keep making the decisions",
+        "Let the numbers decide every choice for you",
+        "Collect data but never act on any of it",
+        "Ignore data until your company is profitable"
+      ],
+      "why": "Lesson 1 compares data to a passenger, not the driver."
+    },
+    {
+      "q": "What is data's main value to an entrepreneur, according to the summary?",
+      "a": [
+        "It keeps you grounded and prevents self-delusion",
+        "It guarantees your product will sell",
+        "It replaces the need to talk to customers",
+        "It makes investors trust you more"
+      ],
+      "why": "Lesson 1 calls data the antidote to delusion."
+    },
+    {
+      "q": "What is the second stage in the summary's five-stage model?",
+      "a": [
+        "Stickiness",
+        "Empathy",
+        "Virality",
+        "Revenue"
+      ],
+      "why": "Lesson 2 orders the stages empathy, stickiness, virality, revenue and scale."
+    },
+    {
+      "q": "What happens during the virality stage?",
+      "a": [
+        "Features keep users returning and bring in their friends",
+        "The company enters new international markets",
+        "The team researches customer problems",
+        "The product starts charging customers money"
+      ],
+      "why": "Lesson 2 says virality makes the product better through sharing."
+    },
+    {
+      "q": "What is the One Metric That Matters?",
+      "a": [
+        "The single key metric you track for your current stage",
+        "The metric your investors ask about most often",
+        "The first metric you ever measured for the business",
+        "A fixed number you never change over time"
+      ],
+      "why": "Lesson 3 says shift the metric when you move to a new stage."
+    }
+  ]
+}

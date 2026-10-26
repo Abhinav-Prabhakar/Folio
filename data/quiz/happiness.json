@@ -1,0 +1,56 @@
+{
+  "book": "happiness",
+  "title": "Happiness",
+  "questions": [
+    {
+      "q": "How does the summary describe our capacity for happiness?",
+      "a": [
+        "An evolved trait that helped our ancestors survive",
+        "A learned habit shaped mainly by culture",
+        "A fixed personality feature we are born with",
+        "A modern invention created by consumerism"
+      ],
+      "why": "Lesson 1 says happiness developed recently in human history and works as an adaptive survival trait."
+    },
+    {
+      "q": "Which part of the brain lit up during happiness in the EEG scans?",
+      "a": [
+        "The left side of the prefrontal cortex",
+        "The right side of the prefrontal cortex",
+        "The amygdala deep in the center",
+        "The cerebellum at the back of the brain"
+      ],
+      "why": "Lesson 1 reports that activity in the left prefrontal cortex, a newer brain area, accompanied happy states."
+    },
+    {
+      "q": "Once basic needs are covered, what does the summary say more money tends to do?",
+      "a": [
+        "Reduce happiness by fueling comparison with others",
+        "Keep raising happiness at a steady rate",
+        "Leave happiness completely unchanged",
+        "Improve happiness mainly through better health"
+      ],
+      "why": "Lesson 2 says extra income beyond a threshold stops helping and can hurt because we compare ourselves with neighbors."
+    },
+    {
+      "q": "Why does the summary argue that progressive taxes could raise a country's happiness?",
+      "a": [
+        "They weaken status competition and the chase for raises",
+        "They give governments more money for public services",
+        "They encourage people to work longer hours",
+        "They make housing cheaper for lower earners"
+      ],
+      "why": "Lesson 3 says progressive taxation makes chasing the next raise less attractive and reduces comparison with others."
+    },
+    {
+      "q": "Which country does the summary name as measuring Gross National Happiness instead of GDP?",
+      "a": [
+        "Bhutan",
+        "Denmark",
+        "Costa Rica",
+        "New Zealand"
+      ],
+      "why": "Lesson 3 notes that Bhutan is the only country that uses Gross National Happiness as its main statistic."
+    }
+  ]
+}

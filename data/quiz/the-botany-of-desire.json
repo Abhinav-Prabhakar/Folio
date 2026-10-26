@@ -1,0 +1,56 @@
+{
+  "book": "the-botany-of-desire",
+  "title": "The Botany Of Desire",
+  "questions": [
+    {
+      "q": "What idea does Pollan propose about plants?",
+      "a": [
+        "They use humans to spread their seeds",
+        "They are passive and need pollinators",
+        "They compete with animals for food",
+        "They are indifferent to humans"
+      ],
+      "why": "Pollan argues plants manipulate us."
+    },
+    {
+      "q": "Who is credited with spreading apples across America?",
+      "a": [
+        "Johnny Appleseed",
+        "George Washington",
+        "Thomas Edison",
+        "Abraham Lincoln"
+      ],
+      "why": "Johnny Appleseed introduced apples."
+    },
+    {
+      "q": "What is the main mechanism by which cannabis affects humans?",
+      "a": [
+        "People observed others high near the plant",
+        "It contains a unique protein",
+        "It is a psychoactive drug",
+        "It is a natural pesticide"
+      ],
+      "why": "Observation of others led to use."
+    },
+    {
+      "q": "Which fruit is native to North America but not edible?",
+      "a": [
+        "Crabapple",
+        "Grape",
+        "Orange",
+        "Banana"
+      ],
+      "why": "Crabapple is native but barely edible."
+    },
+    {
+      "q": "What does Pollan suggest about the role of plants in human culture?",
+      "a": [
+        "They actively influence human behavior",
+        "They are passive objects",
+        "They are irrelevant to society",
+        "They are only food sources"
+      ],
+      "why": "Plants are portrayed as subjects."
+    }
+  ]
+}

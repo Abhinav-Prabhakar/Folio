@@ -1,0 +1,31 @@
+{
+  "book": "building-a-second-brain",
+  "title": "Building a Second Brain",
+  "questions": [
+    {
+      "q": "What four steps make up the CODE method?",
+      "a": ["Capture, Organize, Distill, Express", "Collect, Order, Delete, Export", "Capture, Outline, Develop, Edit", "Create, Observe, Decide, Execute"],
+      "why": "Lesson 1 defines CODE as capturing what resonates, organizing for action, distilling the essence and expressing your work."
+    },
+    {
+      "q": "What question does the summary suggest asking when organizing a note?",
+      "a": ["How will this help move a current project forward?", "How many words does this note contain?", "Who else might want to read this one day?", "Which app does this note belong in?"],
+      "why": "Lesson 1 says organizing means saving for actionability, so you sort notes by how they support projects you are working on now."
+    },
+    {
+      "q": "In the PARA method, which category holds ongoing responsibilities?",
+      "a": ["Areas", "Projects", "Resources", "Archives"],
+      "why": "Lesson 2 defines Areas as long-term responsibilities, while Projects are short-term efforts and Resources are future interests."
+    },
+    {
+      "q": "Where do notes go once a project is finished or abandoned?",
+      "a": ["Into the Archives", "Into the Resources folder", "Back into the Capture inbox", "Onto the Areas list"],
+      "why": "Lesson 2 says Archives are where inactive items from the other categories are moved once they are done or on hold."
+    },
+    {
+      "q": "Why does the summary say most note-taking systems fail?",
+      "a": ["They require rules that do not fit daily life", "They store too little information to be useful", "They cannot connect to the internet", "They are only designed for large teams"],
+      "why": "Lesson 2 says elaborate rules take time away from other priorities, so systems quickly become outdated and obsolete."
+    }
+  ]
+}

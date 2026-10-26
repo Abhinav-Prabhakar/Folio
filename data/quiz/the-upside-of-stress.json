@@ -1,0 +1,56 @@
+{
+  "book": "the-upside-of-stress",
+  "title": "The Upside Of Stress",
+  "questions": [
+    {
+      "q": "Which group had the lowest early death risk despite high stress?",
+      "a": [
+        "Those who believed stress was harmless",
+        "Those who believed stress harmed health",
+        "Those with low stress levels",
+        "Those with no stress perception"
+      ],
+      "why": "Study shows high stress but no belief in harm leads to lowest risk."
+    },
+    {
+      "q": "What mindset change helps transform stress into performance?",
+      "a": [
+        "Channeling stress into energy",
+        "Trying to calm down anxiety",
+        "Ignoring stress signals",
+        "Avoiding stressful tasks"
+      ],
+      "why": "Alison Brooks study found excitement boosts confidence."
+    },
+    {
+      "q": "What does the stress paradox claim about happiness?",
+      "a": [
+        "Stress is part of a happy life",
+        "Stress-free life equals happiness",
+        "Happiness eliminates stress",
+        "Stress always harms happiness"
+      ],
+      "why": "Paradox states stress and happiness coexist."
+    },
+    {
+      "q": "Which country had the lowest daily stress level in the Gallup poll?",
+      "a": [
+        "Mauritania",
+        "United States",
+        "India",
+        "Brazil"
+      ],
+      "why": "Gallup poll cites Mauritania at 5%."
+    },
+    {
+      "q": "According to the book, what is a key factor in stress's harmful effect?",
+      "a": [
+        "Belief that stress harms health",
+        "Actual stress level",
+        "Age of the individual",
+        "Gender differences"
+      ],
+      "why": "Only belief in harm makes stress harmful."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-thinking-clearly",
+  "title": "The Art of Thinking Clearly",
+  "questions": [
+    {
+      "q": "What did the noise experiment show about the useless panic button?",
+      "a": [
+        "People with a button endured more noise than those without one",
+        "People pressed the button constantly and gave up sooner",
+        "The button made the noise feel louder",
+        "Only people told about the button used it"
+      ],
+      "why": "Lesson 1 says the button did nothing, yet the group that had it withstood much more noise."
+    },
+    {
+      "q": "Why can bringing a more attractive friend to a club hurt your chances?",
+      "a": [
+        "The comparison makes you look less attractive than you are",
+        "Your friend receives all the attention you wanted",
+        "Strangers assume you are already taken",
+        "Groups are less likely to approach pairs"
+      ],
+      "why": "Lesson 2 uses this example to introduce the contrast effect, where we judge by comparison."
+    },
+    {
+      "q": "How does the contrast effect make discounts work?",
+      "a": [
+        "We compare the new price with the old one instead of judging real value",
+        "We assume a higher price always means better quality",
+        "We trust shops that offer frequent sales",
+        "We prefer products that are almost sold out"
+      ],
+      "why": "Lesson 2 explains that a $70 item seems better at $70 off $100 than one normally priced at $70."
+    },
+    {
+      "q": "What happened when the jelly display shrank from 24 kinds to six?",
+      "a": [
+        "Ten times more jelly was sold",
+        "Sales dropped because shoppers had fewer options",
+        "Shoppers spent longer deciding what to buy",
+        "The same amount was sold either way"
+      ],
+      "why": "Lesson 3 reports that the smaller display sold ten times as much as the larger one."
+    },
+    {
+      "q": "What is decision fatigue?",
+      "a": [
+        "Making choices drains your energy, making later decisions harder",
+        "The tendency to regret decisions soon after making them",
+        "The habit of copying what most people choose",
+        "The urge to delay decisions until the last moment"
+      ],
+      "why": "Lesson 3 says making decisions depletes energy, which then narrows how we judge later options."
+    }
+  ]
+}

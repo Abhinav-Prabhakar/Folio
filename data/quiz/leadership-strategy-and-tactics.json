@@ -1,0 +1,56 @@
+{
+  "book": "leadership-strategy-and-tactics",
+  "title": "Leadership Strategy And Tactics",
+  "questions": [
+    {
+      "q": "What did Willink do when his team was stuck on the oil rig?",
+      "a": [
+        "He stepped away to get a wider view of the situation",
+        "He ordered the whole team to retreat",
+        "He called headquarters for new orders",
+        "He split the team into two smaller groups"
+      ],
+      "why": "Lesson 1 says separating himself let him see the big picture."
+    },
+    {
+      "q": "Why does stepping back help you make better decisions?",
+      "a": [
+        "The pause releases emotions that cloud your judgment",
+        "It gives others time to finish their work",
+        "It shows your team that you are calm",
+        "It lets you avoid responsibility for the outcome"
+      ],
+      "why": "Lesson 1 says strong feelings get in the way of good decisions."
+    },
+    {
+      "q": "What does picking up brass represent in the summary?",
+      "a": [
+        "A leader doing menial work alongside the team",
+        "A punishment for soldiers who disobey orders",
+        "A ritual performed before every mission",
+        "A reward given to top performers"
+      ],
+      "why": "Lesson 2 says humility improves unity and trust."
+    },
+    {
+      "q": "How should a leader give praise?",
+      "a": [
+        "Be specific and connect it to the larger goal",
+        "Save it for the annual performance review",
+        "Keep it general so no one feels left out",
+        "Give it only in private conversations"
+      ],
+      "why": "Lesson 3 says specific praise naming the exact contribution works better."
+    },
+    {
+      "q": "What should a leader do first when someone disobeys?",
+      "a": [
+        "Ask how they could have explained the task better",
+        "Issue a formal warning immediately",
+        "Reassign the person to another team",
+        "Ignore it and move on to other work"
+      ],
+      "why": "Lesson 3 calls this practicing Extreme Ownership."
+    }
+  ]
+}

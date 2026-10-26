@@ -1,0 +1,56 @@
+{
+  "book": "never-split-the-difference",
+  "title": "Never Split The Difference",
+  "questions": [
+    {
+      "q": "What is mirroring in a negotiation?",
+      "a": [
+        "Repeating the other person's words as a question",
+        "Copying their posture and gestures",
+        "Repeating your own offer until accepted",
+        "Matching their tone and speaking speed"
+      ],
+      "why": "Lesson 1 defines mirroring as repeating what someone says, phrased as a question."
+    },
+    {
+      "q": "Why does mirroring help in a negotiation?",
+      "a": [
+        "It makes the other person feel similar and more trusting",
+        "It confuses them into lowering their price",
+        "It hides your real intentions from them",
+        "It speeds up the conversation"
+      ],
+      "why": "Lesson 1 says mirroring makes people feel you are alike, which builds trust and encourages them to talk."
+    },
+    {
+      "q": "What does labeling the other side's emotions do?",
+      "a": [
+        "It calms them and engages rational thinking",
+        "It proves that you agree with them",
+        "It forces them to make a quick offer",
+        "It shows you are not willing to listen"
+      ],
+      "why": "Lesson 2 says labeling feelings calms people and brain scans show it activates the rational part of the brain."
+    },
+    {
+      "q": "Why does the author say never to split the difference?",
+      "a": [
+        "Their stated demand may not be what they want",
+        "Compromise always costs you more money",
+        "The other side will respect you less",
+        "Deadlines make compromise impossible"
+      ],
+      "why": "Lesson 3 argues people hide thoughts, so giving them what they ask for may not solve the real problem."
+    },
+    {
+      "q": "What did the Haitian kidnapping case reveal about deadlines?",
+      "a": [
+        "They were flexible, tied to the kidnappers' weekend plans",
+        "They were fixed by the police and never moved",
+        "They were set by the family and could not change",
+        "They mattered less than the ransom amount"
+      ],
+      "why": "Lesson 3 says the author saw the kidnappers cared about partying, so their Friday deadlines were not serious."
+    }
+  ]
+}

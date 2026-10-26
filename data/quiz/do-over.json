@@ -1,0 +1,31 @@
+{
+  "book": "do-over",
+  "title": "Do Over",
+  "questions": [
+    {
+      "q": "What makes up your Career Savings Account, according to Acuff's formula?",
+      "a": ["Relationships, skills, and character multiplied by hustle", "Salary, title, and years of experience", "Education, connections, and luck", "Savings, investments, and side income"],
+      "why": "Lesson 1 presents the account as relationships plus skills plus character, all multiplied by hustle."
+    },
+    {
+      "q": "What does the summary say usually causes a career ceiling?",
+      "a": ["A gap in the skills you need to move up", "A manager who dislikes you", "Too few networking events", "A company that is shrinking"],
+      "why": "Lesson 2 says that when everything looks fine but nothing moves, you need an honest look at your skill gaps."
+    },
+    {
+      "q": "How does the summary suggest you break through a career ceiling?",
+      "a": ["Add skills that complement your existing ones", "Work longer hours than your colleagues", "Apply for jobs at other companies", "Ask for a raise and a new title"],
+      "why": "Lesson 2 recommends finding the skills that round out your strengths so you become ready for the next level."
+    },
+    {
+      "q": "Which three character traits does Acuff say matter most?",
+      "a": ["Generosity, empathy, and presence", "Ambition, patience, and resilience", "Honesty, humour, and humility", "Confidence, focus, and optimism"],
+      "why": "Lesson 3 lists generosity, empathy, and presence as the traits he saw matter most over sixteen years."
+    },
+    {
+      "q": "How does the summary suggest you can practise empathy?",
+      "a": ["Ask how you would feel in the other person's place", "Listen without ever interrupting them", "Share stories from your own life", "Avoid judging anyone's choices out loud"],
+      "why": "Lesson 3 says mentally stepping into another person's shoes helps you understand rather than judge them."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "radical-acceptance",
+  "title": "Radical Acceptance",
+  "questions": [
+    {
+      "q": "According to Brach, where does our feeling of inadequacy come from?",
+      "a": [
+        "Cultural messages teaching that we are not enough",
+        "A chemical imbalance present from birth",
+        "A lack of discipline in our daily routines",
+        "Comparisons we make only in adulthood"
+      ],
+      "why": "Lesson 1 traces the feeling to Western culture and stories that say we must redeem ourselves."
+    },
+    {
+      "q": "What happened to Mohini the tiger in the summary?",
+      "a": [
+        "She paced a small area inside a much larger enclosure",
+        "She refused to leave her original cage",
+        "She escaped and returned to the wild",
+        "She grew aggressive toward her keepers"
+      ],
+      "why": "Lesson 2 says her mind kept her in the old cage long after the zoo gave her space to roam."
+    },
+    {
+      "q": "What does self-judgment do, according to the summary?",
+      "a": [
+        "It covers up feelings like fear and vulnerability",
+        "It sharpens your ability to make decisions",
+        "It protects other people from your emotions",
+        "It replaces sadness with calm acceptance"
+      ],
+      "why": "Lesson 3 describes self-blame as a defence that hides jealousy, fear and vulnerability."
+    },
+    {
+      "q": "How does Brach suggest healing emotional pain?",
+      "a": [
+        "By fully feeling suffering with compassion",
+        "By distracting yourself with achievements",
+        "By reasoning your way out of the feeling",
+        "By waiting for the feeling to pass"
+      ],
+      "why": "Lesson 3 says healing begins when we experience suffering instead of judging or pushing it away."
+    },
+    {
+      "q": "How does Buddhism view human nature, in contrast with Western culture?",
+      "a": [
+        "People are naturally loving and wise, not flawed",
+        "People are born sinful and must earn grace",
+        "People are shaped entirely by their surroundings",
+        "People cannot change after early childhood"
+      ],
+      "why": "Lesson 1 says Buddhism sees humans as naturally loving and wise rather than sinful."
+    }
+  ]
+}

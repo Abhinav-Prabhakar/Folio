@@ -1,0 +1,56 @@
+{
+  "book": "rationality",
+  "title": "Rationality",
+  "questions": [
+    {
+      "q": "Why do institutions exist, according to Pinker?",
+      "a": [
+        "To help flawed people stay objective and live in peace",
+        "To reward the most intelligent members of society",
+        "To replace personal morality with strict laws",
+        "To protect the interests of the wealthy"
+      ],
+      "why": "Lesson 1 says institutions exist because humans are not naturally objective or considerate."
+    },
+    {
+      "q": "Why does the summary say we behave morally?",
+      "a": [
+        "Because it is rational and serves our well-being",
+        "Because we are naturally selfless from birth",
+        "Because institutions force us to comply",
+        "Because guilt is stronger than reason"
+      ],
+      "why": "Lesson 2 argues morality is the rational choice for social animals who benefit from society."
+    },
+    {
+      "q": "What makes self-constraint a rational strategy?",
+      "a": [
+        "Avoiding temptation works better than trusting willpower",
+        "It proves to others that you are disciplined",
+        "It removes the need for any planning",
+        "It increases your tolerance for bad habits"
+      ],
+      "why": "Lesson 3 says the safest way to resist a treat is not to put yourself near it."
+    },
+    {
+      "q": "Which example does the summary give of useful ignorance?",
+      "a": [
+        "Choosing not to learn whether you will develop an illness",
+        "Ignoring a doctor's advice about treatment",
+        "Refusing to read the news every morning",
+        "Skipping all annual lab tests for prevention"
+      ],
+      "why": "Lesson 3 discusses weighing whether knowing your genetic risk would only make life harder."
+    },
+    {
+      "q": "What does the summary say sets humans apart from other species?",
+      "a": [
+        "The ability to reason and overcome obstacles",
+        "The instinct to protect their young",
+        "The capacity to feel fear and pain",
+        "The need to live in social groups"
+      ],
+      "why": "The overview says rationality, or using reason to change circumstances, separates us from animals."
+    }
+  ]
+}

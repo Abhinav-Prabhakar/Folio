@@ -1,0 +1,56 @@
+{
+  "book": "talking-to-strangers",
+  "title": "Talking To Strangers",
+  "questions": [
+    {
+      "q": "What did the 2017 study comparing judges with a computer program find?",
+      "a": [
+        "Defendants the judges released were 25% more likely to reoffend",
+        "The computer released far more defendants overall",
+        "Judges and the program agreed in nearly every case",
+        "The program proved worse at predicting reoffending"
+      ],
+      "why": "Lesson 1 says the people judges granted bail reoffended more often than the program's choices would have."
+    },
+    {
+      "q": "What does Gladwell call our default when judging other people?",
+      "a": [
+        "We assume people are telling the truth",
+        "We assume people are hiding something",
+        "We look for signs of nervousness",
+        "We compare them with ourselves"
+      ],
+      "why": "Lesson 2 says we believe people by default and only shift when we get clear evidence of a lie."
+    },
+    {
+      "q": "How accurate were people at spotting liars in Tim Levine's experiments?",
+      "a": [
+        "About 54% of the time",
+        "About 80% of the time",
+        "About 30% of the time",
+        "About 95% of the time"
+      ],
+      "why": "Lesson 2 says accuracy hovered barely above a coin flip across repeated runs."
+    },
+    {
+      "q": "How many participants showed the typical wide-eyed, jaw-dropped look of surprise?",
+      "a": [
+        "Only about five percent",
+        "About half of them",
+        "Nearly all of them",
+        "About one in four"
+      ],
+      "why": "Lesson 3 says almost nobody matched the standard facial expression we expect for surprise."
+    },
+    {
+      "q": "Why did police suspect Amanda Knox after her roommate's murder?",
+      "a": [
+        "Her behavior did not look like the grief they expected",
+        "She had been seen near the crime scene that night",
+        "Her fingerprints were found on the weapon",
+        "She had argued with Kercher earlier that day"
+      ],
+      "why": "Lesson 3 says Knox showed affection to her boyfriend instead of mourning, which police read as guilt."
+    }
+  ]
+}

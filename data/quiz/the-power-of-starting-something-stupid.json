@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-starting-something-stupid",
+  "title": "The Power Of Starting Something Stupid",
+  "questions": [
+    {
+      "q": "What does Norton advise when friends call an idea stupid?",
+      "a": [
+        "Trust your gut instinct",
+        "Abandon the idea immediately",
+        "Seek a second opinion",
+        "Modify it to please others"
+      ],
+      "why": "He says hearing \"stupid\" should prompt you to listen to your instincts, as many great ideas were once dismissed."
+    },
+    {
+      "q": "How should you break down a big, \"stupid\" idea?",
+      "a": [
+        "Chunk it into smallest manageable projects",
+        "Write a detailed 100‑page plan",
+        "Hire a consultant first",
+        "Wait for perfect timing"
+      ],
+      "why": "He recommends chunking the idea into tiny projects to allow safe, small‑scale failure."
+    },
+    {
+      "q": "What does Norton suggest you do with limited resources?",
+      "a": [
+        "Use what you have and learn as you go",
+        "Wait until you can afford ideal tools",
+        "Borrow from competitors",
+        "Crowdfund before starting"
+      ],
+      "why": "He urges working with what you have, like selling ice cream from a kitchen window with a cheap maker."
+    },
+    {
+      "q": "Which example illustrates a \"stupid\" idea that succeeded?",
+      "a": [
+        "iPads replacing waiters in restaurants",
+        "Launching a generic blog",
+        "Opening a traditional bookstore",
+        "Creating a standard fitness app"
+      ],
+      "why": "The text uses iPads in restaurants as a brilliant yet initially dismissed concept."
+    },
+    {
+      "q": "What mindset does Norton promote regarding societal \"don'ts\"?",
+      "a": [
+        "Say yes and start anyway",
+        "Follow all conventional advice",
+        "Avoid risk at all costs",
+        "Only pursue proven markets"
+      ],
+      "why": "He encourages saying yes to ideas despite common discouragements."
+    }
+  ]
+}

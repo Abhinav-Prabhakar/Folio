@@ -1,0 +1,56 @@
+{
+  "book": "the-mind-illuminated",
+  "title": "The Mind Illuminated",
+  "questions": [
+    {
+      "q": "What simple daily duration does the book recommend for meditation?",
+      "a": [
+        "10-15 minutes",
+        "30-45 minutes",
+        "1 hour",
+        "2 hours"
+      ],
+      "why": "The text advises giving only 10-15 minutes a day to meditate."
+    },
+    {
+      "q": "Which posture is described as \"seiza\" in the book?",
+      "a": [
+        "Sitting in a chair with palms up",
+        "Cross‑legged on the floor",
+        "Lying on the back",
+        "Standing with arms raised"
+      ],
+      "why": "Seiza is defined as sitting in a chair with hands resting palms up."
+    },
+    {
+      "q": "How does the book differentiate attention from awareness?",
+      "a": [
+        "Attention focuses on one object; awareness monitors everything",
+        "Attention monitors everything; awareness focuses on one object",
+        "Both are identical",
+        "Attention is passive, awareness is active"
+      ],
+      "why": "Attention is the ability to focus on a particular thing, whereas awareness is being aware of what's going on around you."
+    },
+    {
+      "q": "What benefit of meditation is highlighted for memory?",
+      "a": [
+        "Improved focus and memory",
+        "Increased physical strength",
+        "Enhanced visual acuity",
+        "Faster speech"
+      ],
+      "why": "Meditation is said to have many benefits, including improved focus and memory."
+    },
+    {
+      "q": "What habit comparison is used to illustrate building a meditation routine?",
+      "a": [
+        "Brushing your teeth",
+        "Driving a car",
+        "Cooking dinner",
+        "Reading a book"
+      ],
+      "why": "Meditation habit is likened to brushing your teeth as a repeated daily task."
+    }
+  ]
+}

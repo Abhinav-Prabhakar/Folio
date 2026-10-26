@@ -1,0 +1,31 @@
+{
+  "book": "million-dollar-weekend",
+  "title": "Million Dollar Weekend",
+  "questions": [
+    {
+      "q": "What is the Dollar Challenge designed to help you get past?",
+      "a": ["The fear of starting a business", "The habit of overspending on ads", "The urge to copy competitors", "The difficulty of hiring staff"],
+      "why": "Lesson 1 says asking someone for a dollar forces you out of your comfort zone and makes you accountable."
+    },
+    {
+      "q": "What is the point of the Coffee Challenge?",
+      "a": ["To practice asking and hearing no without fear", "To learn how coffee shops set their prices", "To find a cheaper place to work each day", "To test whether discounts raise sales"],
+      "why": "Lesson 1 says most people will be rejected, and the lesson is that everything will be fine."
+    },
+    {
+      "q": "Which source does the summary call the best place to find a business idea?",
+      "a": ["A problem you run into yourself", "A bestseller you could complement", "A marketplace full of eager buyers", "A popular search suggestion"],
+      "why": "Lesson 2 lists four sources and calls solving your own problem the king of them."
+    },
+    {
+      "q": "What does the summary say customers actually care about?",
+      "a": ["Whether your idea solves a problem they have", "How original and clever your concept is", "How much funding you have raised so far", "Whether your brand looks professional"],
+      "why": "Lesson 2 says customers do not care about your ideas, only about whether you can solve their problems."
+    },
+    {
+      "q": "What counts as validating a business idea in the summary?",
+      "a": ["Getting three people to pay within 48 hours", "Getting a hundred people to join a waitlist", "Receiving positive feedback from friends", "Selling advertising on a simple landing page"],
+      "why": "Lesson 3 calls this the Golden Rule of Validation and says to move on if it fails."
+    }
+  ]
+}

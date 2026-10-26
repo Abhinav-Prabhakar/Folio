@@ -1,0 +1,56 @@
+{
+  "book": "genius-the-life-and-science-of-richard-feynman",
+  "title": "Genius: The Life And Science Of Richard Feynman",
+  "questions": [
+    {
+      "q": "How did Feynman's father help him grasp the size of a dinosaur?",
+      "a": [
+        "He compared it to the boy's bedroom window",
+        "He showed him photographs from a textbook",
+        "He took him to a natural history museum",
+        "He drew the skeleton on paper"
+      ],
+      "why": "The first lesson says Melville made numbers concrete by tying them to something Richard could picture."
+    },
+    {
+      "q": "Why did Melville teach his son bird names in other languages?",
+      "a": [
+        "To show that naming a bird is not the same as understanding it",
+        "To prepare him for a career abroad",
+        "To make him memorize more vocabulary",
+        "To test whether he could spell them"
+      ],
+      "why": "The first lesson says real knowledge came from watching what a bird does, not from its label."
+    },
+    {
+      "q": "How did Feynman solve the problem of the hat falling into the river?",
+      "a": [
+        "He imagined himself as the hat",
+        "He wrote out the velocity formulas",
+        "He estimated from the water speed",
+        "He recalled a similar textbook problem"
+      ],
+      "why": "The second lesson says he saw instantly that the numbers were irrelevant and the answer was 45 minutes."
+    },
+    {
+      "q": "What does the summary claim about IQ and EQ?",
+      "a": [
+        "EQ matters as much as IQ, if not more",
+        "IQ predicts success far better than EQ",
+        "EQ can safely be ignored by scientists",
+        "The two have no connection to each other"
+      ],
+      "why": "The second lesson says Feynman's empathy, putting himself in the shoes of atoms, powered his problem-solving."
+    },
+    {
+      "q": "What lesson does the summary draw from Feynman's weak subjects?",
+      "a": [
+        "Know your weaknesses and invest in your strengths",
+        "Never admit to anyone what you are bad at",
+        "Force yourself to master every subject equally",
+        "Choose a career that avoids all writing"
+      ],
+      "why": "The third lesson says fighting uphill battles wastes time you could spend expanding what you are great at."
+    }
+  ]
+}

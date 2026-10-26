@@ -1,0 +1,56 @@
+{
+  "book": "better-than-before",
+  "title": "Better Than Before",
+  "questions": [
+    {
+      "q": "What are the four habit‑tendency types identified in the book?",
+      "a": [
+        "Upholders, Questioners, Obligers, Rebels",
+        "Leaders, Thinkers, Doers, Followers",
+        "Introverts, Extroverts, Ambiverts, Sensors",
+        "Optimists, Pessimists, Realists, Dreamers"
+      ],
+      "why": "The overview explains the habit tendency framework with those four types."
+    },
+    {
+      "q": "Which type responds well to inner expectations but not to outer ones?",
+      "a": [
+        "Questioners",
+        "Upholders",
+        "Obligers",
+        "Rebels"
+      ],
+      "why": "Questioners are described as responding to inner expectations but resisting outer ones."
+    },
+    {
+      "q": "What strategy does the book suggest to make a good habit easier to start?",
+      "a": [
+        "Place the needed item in a visible spot, like shoes in the hallway",
+        "Set a strict deadline for the habit",
+        "Hire a personal trainer for accountability",
+        "Eliminate all other activities for the day"
+      ],
+      "why": "The summary advises making good habits easy, e.g., leaving running shoes in the hallway."
+    },
+    {
+      "q": "How does “temptation bundling” work according to the summary?",
+      "a": [
+        "Pair an enjoyable activity with a habit you want to do",
+        "Reward yourself after completing the habit",
+        "Avoid the habit entirely until you feel ready",
+        "Replace the habit with a similar one"
+      ],
+      "why": "Temptation bundling pairs joys (audiobooks) with struggles (gym) to boost habit adherence."
+    },
+    {
+      "q": "What major life change does research cited in the book say can help create new habits?",
+      "a": [
+        "A recent move, such as changing residence or family status",
+        "Getting a new job",
+        "Starting a new hobby",
+        "Changing diet"
+      ],
+      "why": "Wendy Wood’s study found that participants who moved were more successful at improving diet."
+    }
+  ]
+}

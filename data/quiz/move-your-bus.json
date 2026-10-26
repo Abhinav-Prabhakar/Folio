@@ -1,0 +1,31 @@
+{
+  "book": "move-your-bus",
+  "title": "Move Your Bus",
+  "questions": [
+    {
+      "q": "What does the bus metaphor show about organizations?",
+      "a": ["Everyone must contribute for the group to move", "Only managers determine how fast it goes", "The strongest people should pull the rest", "Competition between teams drives progress"],
+      "why": "Lesson 1 compares organizations to the Flintstones' foot-powered bus, which moves only if everyone runs."
+    },
+    {
+      "q": "What does the summary say must accompany high expectations?",
+      "a": ["Clear communication and accountability", "Generous bonuses and promotions", "Frequent performance reviews", "Freedom to choose your own goals"],
+      "why": "Lesson 1 says people need to know exactly what is expected and be held to it."
+    },
+    {
+      "q": "Which group does the summary describe as only running when someone is watching?",
+      "a": ["The riders", "The walkers", "The joggers", "The runners"],
+      "why": "Lesson 2 says riders hide in the crowd and perform only when observed."
+    },
+    {
+      "q": "How does the summary describe the walkers?",
+      "a": ["Steady but slow and wary of change", "Fast and full of creative ideas", "Consistent with occasional bursts of speed", "Eager to lead the whole group"],
+      "why": "Lesson 2 says walkers are steady, rather slow, dislike change and can hold the bus back."
+    },
+    {
+      "q": "What does the summary say about feeling entitled to a reward?",
+      "a": ["You should let it go and become more deserving", "It is the fastest route to a promotion", "It proves that you value your own work", "It is necessary for a meritocracy to function"],
+      "why": "Lesson 3 says nobody owes you recognition, and patience plus real effort is the way forward."
+    }
+  ]
+}

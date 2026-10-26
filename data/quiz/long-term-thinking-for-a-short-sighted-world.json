@@ -1,0 +1,56 @@
+{
+  "book": "long-term-thinking-for-a-short-sighted-world",
+  "title": "Long-Term Thinking For A Short-Sighted World",
+  "questions": [
+    {
+      "q": "What does the Mayan calendar example illustrate?",
+      "a": [
+        "The Mayans thought on a far longer timescale than we do",
+        "The world narrowly avoided ending in 2012",
+        "Ancient calendars were less accurate than modern ones",
+        "Every calendar eventually resets after 5,129 years"
+      ],
+      "why": "The overview uses the calendar rollover to contrast Mayan long-term thinking with our own short-term habits."
+    },
+    {
+      "q": "How does living by the clock affect our thinking?",
+      "a": [
+        "It strengthens our tendency toward short-term decisions",
+        "It makes us better at planning decades ahead",
+        "It removes our awareness that time is passing",
+        "It slows our reactions to sudden change"
+      ],
+      "why": "The first lesson says modern life in 5, 10 and 25 minute intervals trains us to expect immediate results."
+    },
+    {
+      "q": "What was the core problem with the rise of cars?",
+      "a": [
+        "Nobody considered their long-term environmental impact",
+        "They were too expensive for most families to buy",
+        "They replaced a public transport system that worked well",
+        "They caused the world's oil supply to run out quickly"
+      ],
+      "why": "The second lesson says cars were instantly popular, but their environmental impact was devastating because no one thought long term."
+    },
+    {
+      "q": "Why does the summary recommend spending money at local businesses?",
+      "a": [
+        "They reinvest more locally and have a long-term stake in the community",
+        "Local goods are always cheaper than imported products",
+        "Local shops create more jobs than large factories do",
+        "Local products are reliably of higher quality"
+      ],
+      "why": "The third lesson says local businesses cannot simply move away, so they have a lasting interest in the community's well-being."
+    },
+    {
+      "q": "How much of each dollar spent at a local business is reinvested locally?",
+      "a": [
+        "55 cents",
+        "15 cents",
+        "30 cents",
+        "75 cents"
+      ],
+      "why": "The summary contrasts local businesses, which reinvest 55 cents of every dollar, with big brands at only 15 cents."
+    }
+  ]
+}

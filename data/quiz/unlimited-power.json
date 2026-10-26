@@ -1,0 +1,56 @@
+{
+  "book": "unlimited-power",
+  "title": "Unlimited Power",
+  "questions": [
+    {
+      "q": "What method does Robbins suggest for improving performance by copying top achievers?",
+      "a": [
+        "Modeling behavior in five steps",
+        "Setting unrealistic goals",
+        "Meditating daily",
+        "Reading more books"
+      ],
+      "why": "He describes modeling top performers and emulating them."
+    },
+    {
+      "q": "How did Robbins impact US army shooting scores?",
+      "a": [
+        "From 70% to 100% passing",
+        "From 50% to 80% passing",
+        "From 90% to 95% passing",
+        "From 30% to 60% passing"
+      ],
+      "why": "He took top shooters, analyzed them, and taught others, raising pass rate to 100%."
+    },
+    {
+      "q": "According to the book, where should you look to boost memory recall?",
+      "a": [
+        "Up and to the right",
+        "Straight ahead",
+        "Downward",
+        "To the left"
+      ],
+      "why": "The classic thinking pose involves looking up and right to aid recall."
+    },
+    {
+      "q": "What is the key to showing love according to the partner communication lesson?",
+      "a": [
+        "Identify and use their preferred love language",
+        "Give expensive gifts always",
+        "Never say \"I love you\"",
+        "Only write notes"
+      ],
+      "why": "It stresses matching your partner's favorite communication style."
+    },
+    {
+      "q": "What risk does Robbins warn about when ignoring a partner's love style?",
+      "a": [
+        "Feeling unloved despite effort",
+        "Financial loss",
+        "Health issues",
+        "Career setbacks"
+      ],
+      "why": "Mismatch leads to partner feeling unloved even if love is present."
+    }
+  ]
+}

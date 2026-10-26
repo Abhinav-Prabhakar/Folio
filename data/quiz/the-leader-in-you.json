@@ -1,0 +1,56 @@
+{
+  "book": "the-leader-in-you",
+  "title": "The Leader in You",
+  "questions": [
+    {
+      "q": "According to the text, what is the best approach to developing a leadership style?",
+      "a": [
+        "Find a style that feels natural to you",
+        "Copy the style of a famous leader",
+        "Adopt a severe and rule-based approach",
+        "Match the style of your role model exactly"
+      ],
+      "why": "Lesson on authenticity states it is best to find a leadership style of your own."
+    },
+    {
+      "q": "What does the text say about financial incentives for motivating a team?",
+      "a": [
+        "They work but people need more once basic needs are met",
+        "They are the only effective method for motivation",
+        "They should be avoided to maintain team unity",
+        "They are less effective than setting a common goal"
+      ],
+      "why": "Lesson on common goals notes financial incentives work but people need more after basic needs."
+    },
+    {
+      "q": "What does the text identify as a distinctive characteristic of a leader?",
+      "a": [
+        "Empathy",
+        "Delegation",
+        "Severity",
+        "Outgoing personality"
+      ],
+      "why": "Lesson on listening identifies empathy as a distinctive characteristic of a leader."
+    },
+    {
+      "q": "According to the text, what should a leader do first to inspire their team?",
+      "a": [
+        "Establish the team's purpose and how to achieve it",
+        "Offer financial rewards to boost morale",
+        "Delegate tasks to build trust",
+        "Listen to every team member's opinion"
+      ],
+      "why": "Lesson on common goals says the first thing a leader should do is establish purpose."
+    },
+    {
+      "q": "What does the text recommend a leader do to become more open-minded?",
+      "a": [
+        "Proactively encourage the team to bring problems and suggestions",
+        "Wait for team members to approach them on their own",
+        "Make all decisions independently to show confidence",
+        "Only listen when a crisis occurs"
+      ],
+      "why": "Lesson on listening recommends proactively encouraging the team to bring problems."
+    }
+  ]
+}

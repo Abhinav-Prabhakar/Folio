@@ -1,0 +1,56 @@
+{
+  "book": "the-book-you-wish-your-parents-had-read",
+  "title": "The Book You Wish Your Parents Had Read",
+  "questions": [
+    {
+      "q": "What influences a parent's response to their child's behavior?",
+      "a": [
+        "The parent's own upbringing",
+        "The child's school report",
+        "The child's friends",
+        "The parent's job"
+      ],
+      "why": "The book links parenting style to the parent's past."
+    },
+    {
+      "q": "What is the benefit of validating a child's feelings?",
+      "a": [
+        "It promotes healthier development",
+        "It reduces discipline needs",
+        "It speeds academic progress",
+        "It eliminates tantrums"
+      ],
+      "why": "Validation is described as productive and healthy."
+    },
+    {
+      "q": "Which parenting technique helps build a strong bond?",
+      "a": [
+        "Engaged observation",
+        "Strict scheduling",
+        "Digital distraction",
+        "Punitive measures"
+      ],
+      "why": "Engaged observation is highlighted."
+    },
+    {
+      "q": "What problem can arise from parents being glued to phones?",
+      "a": [
+        "Attention‑seeking behaviors",
+        "Better communication",
+        "Increased empathy",
+        "Improved focus"
+      ],
+      "why": "Neglect leads to attention‑seeking behaviors."
+    },
+    {
+      "q": "Why does the book emphasize understanding yourself before parenting?",
+      "a": [
+        "You model behavior for your child",
+        "You can avoid legal issues",
+        "You can control the child's future",
+        "You can earn more money"
+      ],
+      "why": "Self‑understanding shapes parenting style."
+    }
+  ]
+}

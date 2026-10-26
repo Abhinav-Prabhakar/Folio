@@ -1,0 +1,56 @@
+{
+  "book": "how-i-built-this",
+  "title": "How I Built This",
+  "questions": [
+    {
+      "q": "What question does the summary suggest asking to judge whether an opportunity is good enough?",
+      "a": [
+        "Would I give up everything I am working on now for it?",
+        "Could I start it without leaving my current job?",
+        "Will it attract investors within the first year?",
+        "Does anyone else in my field think it will work?"
+      ],
+      "why": "Lesson 1 says an opportunity is worth pursuing if you believe it justifies abandoning your current work."
+    },
+    {
+      "q": "Why did Daymond John work as a waiter while starting FUBU?",
+      "a": [
+        "The income kept him afloat until he got funding",
+        "He wanted to learn how restaurants manage staff",
+        "He was saving money to attend business school",
+        "The restaurant let him sell clothes to customers"
+      ],
+      "why": "Lesson 1 describes the waiter job as a parachute that supported him until FUBU raised millions."
+    },
+    {
+      "q": "How did 5-hour Energy stand out in a market dominated by Big Soda?",
+      "a": [
+        "It sold small two-ounce bottles instead of standard sizes",
+        "It charged far less than every competing drink",
+        "It advertised only in gyms and health stores",
+        "It offered a wider range of flavors than rivals"
+      ],
+      "why": "Lesson 2 says Bhargava chose two-ounce bottles rather than the standard sizes everyone else used."
+    },
+    {
+      "q": "What does the Zuckerberg quote in the summary say influences people most?",
+      "a": [
+        "A recommendation from a trusted friend",
+        "A memorable television advertisement",
+        "A low price compared with competitors",
+        "A famous person endorsing the product"
+      ],
+      "why": "Lesson 2 cites Zuckerberg saying nothing influences people more than a trusted friend's recommendation."
+    },
+    {
+      "q": "What did Johnson & Johnson do when Tylenol bottles were tampered with?",
+      "a": [
+        "It recalled every bottle in the United States",
+        "It lowered the price to regain customer trust",
+        "It blamed the tampering on a former employee",
+        "It stopped selling Tylenol permanently"
+      ],
+      "why": "Lesson 3 says the company recalled all US bottles despite discouragement from the FBI and FDA."
+    }
+  ]
+}

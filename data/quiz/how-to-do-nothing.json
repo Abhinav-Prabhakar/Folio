@@ -1,0 +1,56 @@
+{
+  "book": "how-to-do-nothing",
+  "title": "How To Do Nothing",
+  "questions": [
+    {
+      "q": "Why does doing nothing feel like a waste of time today?",
+      "a": [
+        "The line between work and leisure has blurred",
+        "People have more free time than ever",
+        "Rest has become too expensive to afford",
+        "Modern jobs require less mental effort"
+      ],
+      "why": "Lesson one says job insecurity and the information age condition people to believe they should never stop working."
+    },
+    {
+      "q": "What is attention-holding architecture, as Odell describes it?",
+      "a": [
+        "Art or spaces that direct attention to the present",
+        "Buildings designed to hold large crowds",
+        "Apps built to keep users scrolling",
+        "Museums that display famous paintings"
+      ],
+      "why": "Lesson two defines it as anything that encourages being present, such as a performance built around watching a sunset."
+    },
+    {
+      "q": "What does Scott Polach's Applause Encouraged ask people to do?",
+      "a": [
+        "Sit quietly and simply notice the sunset",
+        "Applaud loudly as the sun goes down",
+        "Photograph the sunset from every angle",
+        "Discuss the artwork with a guide"
+      ],
+      "why": "The summary describes guests sitting in folding chairs, watching the sunset without pictures, then clapping."
+    },
+    {
+      "q": "How does the author handle rude drivers?",
+      "a": [
+        "She assumes they may be having a hard day",
+        "She honks until they move aside",
+        "She speeds up to pass them",
+        "She reports them to the police"
+      ],
+      "why": "Lesson three says she lets it go because she cannot know what the other person is going through."
+    },
+    {
+      "q": "What choice does the book draw from David Foster's speech about frustration?",
+      "a": [
+        "See others as obstacles or as people with their own burdens",
+        "Respond with anger or with complete silence",
+        "Avoid crowds or learn to enjoy them",
+        "Work harder or accept a smaller life"
+      ],
+      "why": "Lesson three says you can focus on your own hunger and pain, or pause to remember that others have complicated lives too."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "common-sense",
+  "title": "Common Sense",
+  "questions": [
+    {
+      "q": "Why does Paine argue that people need society and laws?",
+      "a": [
+        "We depend on others and sometimes make selfish, harmful choices",
+        "Without laws, people would naturally cooperate",
+        "Society exists mainly to protect private property",
+        "Kings are needed to settle disputes fairly"
+      ],
+      "why": "Lesson 1 says nobody thrives alone, and because people can be selfish, we need rules to keep them from hurting each other."
+    },
+    {
+      "q": "Which example does the summary use to show how interdependent people are?",
+      "a": [
+        "Many people are involved in making and delivering a lightbulb",
+        "A farmer plowing a field without any help",
+        "A surgeon operating alone in a hospital",
+        "A family deciding where to eat dinner"
+      ],
+      "why": "The summary points to the electric company, manufacturer and retailer behind a single lightbulb."
+    },
+    {
+      "q": "Why does Paine prefer elected representatives to a monarchy?",
+      "a": [
+        "Representatives can be replaced and must answer to the people",
+        "Elected leaders are better educated than kings",
+        "Monarchs cannot pass laws quickly enough",
+        "Elections make government cheaper to run"
+      ],
+      "why": "Lesson 2 argues that elected officials who enact the people's wishes serve society better than a ruler by birthright."
+    },
+    {
+      "q": "Why does Paine say frequent elections matter?",
+      "a": [
+        "They keep officials focused on current issues and accountable",
+        "They give more people a chance to hold office",
+        "They prevent any one party from forming",
+        "They make political campaigns less expensive"
+      ],
+      "why": "The summary says repeated polling forces leaders to review and stay current on the most important issues."
+    },
+    {
+      "q": "Why did America need to separate from Britain, according to the summary?",
+      "a": [
+        "It had come of age and Britain ruled it as a tyranny",
+        "Britain had stopped trading with the colonies",
+        "America wanted to install its own monarchy",
+        "The colonies disagreed about who should lead them"
+      ],
+      "why": "Lesson 3 compares America to a teenager leaving home and cites unfair taxes and the lack of representation in Parliament."
+    }
+  ]
+}

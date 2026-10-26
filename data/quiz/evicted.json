@@ -1,0 +1,56 @@
+{
+  "book": "evicted",
+  "title": "Evicted",
+  "questions": [
+    {
+      "q": "How much of their income do many low-income renters spend on housing?",
+      "a": [
+        "Half, and one in four pays seventy percent or more",
+        "A third, with very few paying more",
+        "A fifth, and one in ten pays half",
+        "A tenth, and almost none pays more"
+      ],
+      "why": "Lesson 1 cites census figures and the thirty percent standard."
+    },
+    {
+      "q": "Why have evictions become common in the United States?",
+      "a": [
+        "Rents rose while incomes fell and jobs moved away",
+        "Landlords stopped maintaining their buildings",
+        "Courts began processing cases much faster",
+        "Tenants simply stopped paying by choice"
+      ],
+      "why": "Lesson 1 blames rising rent, falling pay and lost manufacturing jobs."
+    },
+    {
+      "q": "What did Desmond find about mothers who are evicted?",
+      "a": [
+        "About half show symptoms of depression",
+        "Most quickly find better housing",
+        "Very few lose their jobs",
+        "Most move in with relatives"
+      ],
+      "why": "Lesson 2 says half of evicted moms experience depression symptoms."
+    },
+    {
+      "q": "How does eviction affect a person's employment?",
+      "a": [
+        "It makes losing a job about fifteen percent more likely",
+        "It has no measurable effect on work",
+        "It usually leads to a promotion",
+        "It only affects part-time workers"
+      ],
+      "why": "Lesson 2 links eviction stress to worse job performance."
+    },
+    {
+      "q": "What housing policy does the summary propose?",
+      "a": [
+        "Vouchers that cap housing costs at thirty percent of income",
+        "Rent freezes for every renter nationwide",
+        "Government-built housing for all citizens",
+        "Tax credits for landlords who keep rents low"
+      ],
+      "why": "Lesson 3 describes a voucher system tied to the thirty percent rule."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "ignore-everybody",
+  "title": "Ignore Everybody",
+  "questions": [
+    {
+      "q": "Why does MacLeod say helpful feedback can be a bad sign for your art?",
+      "a": [
+        "If friends can explain it easily, it probably is not original",
+        "Friends are usually too jealous to judge creative work",
+        "Feedback only matters after a work becomes popular",
+        "Most people lack the vocabulary to discuss art"
+      ],
+      "why": "Lesson 1 argues the more original an idea is, the less useful advice people can give about it."
+    },
+    {
+      "q": "What does the summary say about starting a blog to earn money from every post?",
+      "a": [
+        "You are better off not starting it at all",
+        "You should publish more often to build traffic",
+        "You need a paid newsletter from day one",
+        "You should pitch sponsors before writing anything"
+      ],
+      "why": "Lesson 2 warns that money-driven work stops being art, so get a job to cover the bills instead."
+    },
+    {
+      "q": "How does the book suggest artists cover their living costs?",
+      "a": [
+        "Keep a separate job that pays the rent and bills",
+        "Take commissions that match their personal style",
+        "Crowdfund each new project before starting it",
+        "Teach classes while building a portfolio"
+      ],
+      "why": "Lesson 2 says a day job detaches art from money and buys the freedom to make something original."
+    },
+    {
+      "q": "Why does MacLeod think the dream of being discovered is flawed?",
+      "a": [
+        "Artists can now publish and find an audience themselves",
+        "Agents rarely sign anyone without a formal degree",
+        "Discovery only happens to artists in big cities",
+        "Audiences prefer work that comes through galleries"
+      ],
+      "why": "Lesson 3 points to platforms like Medium, YouTube and Instagram and says forget the middlemen."
+    },
+    {
+      "q": "Where did MacLeod first draw his cartoons?",
+      "a": [
+        "On the backs of business cards",
+        "In the margins of office reports",
+        "On napkins at a burger joint",
+        "On posters outside his studio"
+      ],
+      "why": "The overview explains he drew on business cards so he could create art anywhere."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "on-the-shortness-of-life",
+  "title": "On the Shortness of Life",
+  "questions": [
+    {
+      "q": "According to Seneca, what makes a long life seem short?",
+      "a": [
+        "Chasing leisure, luxury and legacy",
+        "Working too many hours each week",
+        "Failing to plan for retirement",
+        "Spending too little time with family"
+      ],
+      "why": "Lesson 1 names leisure, luxury and legacy as the pursuits that make life seem shorter than it is."
+    },
+    {
+      "q": "What question does the summary suggest asking to judge an activity's worth?",
+      "a": [
+        "What would this amount to if I did it for 24 hours straight",
+        "Would this impress the people whose opinions I admire",
+        "Will this still matter a hundred years from now",
+        "How much money could this activity earn me"
+      ],
+      "why": "Lesson 1 suggests asking what an activity would amount to if you did it for 24 hours straight."
+    },
+    {
+      "q": "What does Seneca's ship metaphor illustrate?",
+      "a": [
+        "A long voyage is about direction, not just time at sea",
+        "Safety lies in staying in the harbor",
+        "Good weather matters more than the route",
+        "Retirement is the safest port after a career"
+      ],
+      "why": "Lesson 2 uses the ship metaphor to argue that a long life is about direction, not just time spent."
+    },
+    {
+      "q": "According to Seneca, what can no one take from you?",
+      "a": [
+        "The ability to contemplate life and appreciate its beauty",
+        "The wealth you have earned through hard work",
+        "The legacy you leave behind after death",
+        "The years you have already spent wisely"
+      ],
+      "why": "Lesson 3 says no one can take your ability to contemplate life or to appreciate its beauty."
+    },
+    {
+      "q": "What does Seneca say about being busy?",
+      "a": [
+        "You can stay busy your whole life without doing anything meaningful",
+        "Busyness is the surest sign of a productive life",
+        "Only busy people can truly appreciate leisure",
+        "Busy people make the best use of their time"
+      ],
+      "why": "Lesson 2 warns that constant busyness is not the same as living a life of real value."
+    }
+  ]
+}

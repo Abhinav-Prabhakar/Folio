@@ -1,0 +1,56 @@
+{
+  "book": "trillion-dollar-coach",
+  "title": "Trillion Dollar Coach",
+  "questions": [
+    {
+      "q": "Which study links emotional openness to better team performance?",
+      "a": [
+        "Barsade & O'Neill study",
+        "Ferriss & Mager study",
+        "Logan & Godin study",
+        "Harari & Campbell study"
+      ],
+      "why": "Barsade and O'Neill found emotional openness improves performance."
+    },
+    {
+      "q": "What action did Bill Campbell suggest for Deb Biondolillo?",
+      "a": [
+        "Sit at the front of meetings",
+        "Leave meetings early",
+        "Take a day off",
+        "Move to a different department"
+      ],
+      "why": "Campbell told her to sit closer to the table."
+    },
+    {
+      "q": "Which company's first Macintosh ad was influenced by a former coach?",
+      "a": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "IBM"
+      ],
+      "why": "Apple's 1984 Macintosh ad involved Bill Campbell."
+    },
+    {
+      "q": "What emotion did Campbell display in formal settings?",
+      "a": [
+        "Profanity and bear hugs",
+        "Strict silence",
+        "Formal speeches",
+        "Professional detachment"
+      ],
+      "why": "Campbell was known for profanity and bear hugs."
+    },
+    {
+      "q": "What does Campbell define trust as?",
+      "a": [
+        "Positive expectations of risk",
+        "Fear of failure",
+        "Strict compliance",
+        "Unconditional loyalty"
+      ],
+      "why": "Campbell defines trust as enthusiasm for taking a risk based on positive expectations."
+    }
+  ]
+}

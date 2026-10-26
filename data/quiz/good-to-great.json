@@ -1,0 +1,31 @@
+{
+  "book": "good-to-great",
+  "title": "Good To Great",
+  "questions": [
+    {
+      "q": "What three questions help you find your Hedgehog concept?",
+      "a": ["What you can be best at, what you love and what drives economics", "What you sell, who buys it and what it costs", "What rivals do, what customers want and what is new", "What you own, what you owe and what you earn"],
+      "why": "Lesson 1 says the concept sits where best-in-world skill, passion and the key economic indicator meet."
+    },
+    {
+      "q": "What does the hedgehog represent in Collins's analogy?",
+      "a": ["One simple strategy applied consistently", "Speed and agility against larger rivals", "Many small bets spread across markets", "Careful imitation of the market leader"],
+      "why": "Lesson 1 says the hedgehog always uses the same simple defense and comes out on top."
+    },
+    {
+      "q": "When should a company adopt a new technology, according to the summary?",
+      "a": ["Only when it speeds progress toward the core goal", "As soon as a competitor adopts it", "Whenever it is cheap enough to test", "Before the market has fully matured"],
+      "why": "Lesson 2 says to jump on new tools only once they clearly help your Hedgehog concept."
+    },
+    {
+      "q": "What did Walgreens do differently with e-commerce?",
+      "a": ["It moved carefully and used online tools to support stores", "It ignored the internet until rivals disappeared", "It rebuilt itself as an online-only pharmacy", "It sold its stores to fund a website"],
+      "why": "Lesson 2 says Walgreens mapped out an online strategy that boosted its pharmacy business."
+    },
+    {
+      "q": "What does realistic optimism mean in this summary?",
+      "a": ["Face hard facts without losing faith you can solve them", "Expect the best and ignore bad news", "Prepare for the worst and avoid risk", "Stay positive by avoiding hard conversations"],
+      "why": "Lesson 3 says great companies neither bury their heads nor give in to despair."
+    }
+  ]
+}

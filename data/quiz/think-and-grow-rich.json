@@ -1,0 +1,56 @@
+{
+  "book": "think-and-grow-rich",
+  "title": "Think And Grow Rich",
+  "questions": [
+    {
+      "q": "What technique does Hill say turns goals into self‑fulfilling prophecies?",
+      "a": [
+        "Autosuggestion",
+        "Visualization",
+        "Affirmation",
+        "Meditation"
+      ],
+      "why": "Hill describes autosuggestion as the method that imprints goals in the subconscious."
+    },
+    {
+      "q": "According to Hill, what is the most common cause of long‑term failure?",
+      "a": [
+        "Lack of determination",
+        "Fear of risk",
+        "Insufficient capital",
+        "Poor networking"
+      ],
+      "why": "Hill quotes lack of determination as the top reason people fail over time."
+    },
+    {
+      "q": "Which historic figure exemplifies sticking to a decision despite criticism?",
+      "a": [
+        "Henry Ford with the Model T",
+        "Thomas Edison with the light bulb",
+        "Walt Disney with Disneyland",
+        "Steve Jobs with the iPhone"
+      ],
+      "why": "Hill cites Ford's commitment to the Model T as an example of stubbornness."
+    },
+    {
+      "q": "How does Hill define a Mastermind group?",
+      "a": [
+        "Coordination of knowledge and effort of two or more people toward a definite purpose",
+        "A gathering of investors sharing stock tips",
+        "A mentorship program for entrepreneurs",
+        "A social club for business networking"
+      ],
+      "why": "Hill's original definition emphasizes coordinated effort toward a purpose."
+    },
+    {
+      "q": "What does Hill claim is a prerequisite, not a result, of success?",
+      "a": [
+        "Unshakable belief in oneself",
+        "Extensive education",
+        "Large inheritance",
+        "Extensive networking"
+      ],
+      "why": "Hill states that belief is a necessary prerequisite before achieving success."
+    }
+  ]
+}

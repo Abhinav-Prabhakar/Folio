@@ -1,0 +1,56 @@
+{
+  "book": "on-liberty",
+  "title": "On Liberty",
+  "questions": [
+    {
+      "q": "According to Mill, why isn't democracy by itself enough to protect personal freedom?",
+      "a": [
+        "Because the majority can impose its views on individuals",
+        "Because elected officials ignore the law once in office",
+        "Because voters lack the education to choose wisely",
+        "Because constitutions concentrate power in one leader"
+      ],
+      "why": "Lesson 1 argues that majority rule can still threaten the individual through what Mill calls social tyranny."
+    },
+    {
+      "q": "What does Mill call the majority forcing its opinions and beliefs onto people who disagree?",
+      "a": [
+        "Social tyranny",
+        "Legal tyranny",
+        "Economic coercion",
+        "Moral licensing"
+      ],
+      "why": "Lesson 1 names social tyranny as the majority imposing its opinions, views and beliefs on dissenters."
+    },
+    {
+      "q": "Which action would Mill say justifies limiting someone's freedom?",
+      "a": [
+        "Pulling a person away from an oncoming train",
+        "Stopping someone from voicing an unpopular opinion",
+        "Requiring everyone to follow the majority religion",
+        "Forcing someone to adopt the majority's customs"
+      ],
+      "why": "Lesson 2 says interference is justified to prevent harm, such as pulling someone away from a nearby train."
+    },
+    {
+      "q": "Why does Mill argue that false opinions are valuable?",
+      "a": [
+        "They force society to re-examine why its common beliefs are right",
+        "They make it easier for everyone to agree on the truth",
+        "They protect the majority from criticism",
+        "They keep people from changing their customs"
+      ],
+      "why": "Lesson 3 explains that wrong opinions force society to re-examine whether its common beliefs are actually correct."
+    },
+    {
+      "q": "What are the three scenarios in which Mill says interference can prevent harm?",
+      "a": [
+        "Harm by default, omission and accident",
+        "Harm by speech, trade and religion",
+        "Harm by nature, poverty and disease",
+        "Harm by majority, minority and state"
+      ],
+      "why": "Lesson 2 separates justified interference into harm that comes by default, by omission and by accident."
+    }
+  ]
+}

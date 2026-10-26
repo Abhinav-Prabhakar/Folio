@@ -1,0 +1,56 @@
+{
+  "book": "entreleadership",
+  "title": "EntreLeadership",
+  "questions": [
+    {
+      "q": "According to Ramsey, where does a company's culture come from?",
+      "a": [
+        "The qualities of its leader",
+        "The size of its marketing budget",
+        "The loyalty of its oldest customers",
+        "The structure of its pay grades"
+      ],
+      "why": "Lesson 1 says a company's culture is born of its leader's qualities."
+    },
+    {
+      "q": "How did Ramsey's first Life After Debt class turn out?",
+      "a": [
+        "Only six people showed up",
+        "It sold out within a week",
+        "It was cancelled for lack of advertising",
+        "It drew hundreds of attendees"
+      ],
+      "why": "Lesson 2 describes a meager six people attending the free first session."
+    },
+    {
+      "q": "Why did Ramsey rename the class Financial Peace University?",
+      "a": [
+        "He realized people wanted financial security, not debt help",
+        "He wanted to charge a much higher price",
+        "A competitor had claimed the old name",
+        "The radio station asked him to rebrand"
+      ],
+      "why": "Lesson 2 says his class was not solving the problem his audience cared about."
+    },
+    {
+      "q": "What happens when a leader pays employees generously, per the summary?",
+      "a": [
+        "They work harder and stay loyal",
+        "They expect fewer responsibilities",
+        "They become slower to innovate",
+        "They ask for more time off"
+      ],
+      "why": "Lesson 3 says good compensation breeds hard work and loyalty."
+    },
+    {
+      "q": "What happened to the company that limited pay while earning over 50 million dollars?",
+      "a": [
+        "Employees left for better pay and it shut down",
+        "It doubled revenue within a year",
+        "It was bought by a larger competitor",
+        "It replaced staff with contractors"
+      ],
+      "why": "Lesson 3 says enough people quit that the business had to close."
+    }
+  ]
+}

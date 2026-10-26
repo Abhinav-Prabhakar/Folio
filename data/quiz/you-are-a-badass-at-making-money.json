@@ -1,0 +1,56 @@
+{
+  "book": "you-are-a-badass-at-making-money",
+  "title": "You Are A Badass At Making Money",
+  "questions": [
+    {
+      "q": "What belief about money does the book say is a harmful myth?",
+      "a": [
+        "Money makes people greedy",
+        "Money is always scarce",
+        "Money is easy to earn",
+        "Money is only for the rich"
+      ],
+      "why": "It calls the greed myth a societal belief."
+    },
+    {
+      "q": "How does the author suggest you should treat money to improve wealth?",
+      "a": [
+        "View it positively and as a tool",
+        "Fear it and avoid it",
+        "Ignore it completely",
+        "Treat it as a burden"
+      ],
+      "why": "Positive attitude toward money is recommended."
+    },
+    {
+      "q": "What did Jim Carrey write to manifest his earnings?",
+      "a": [
+        "A $10 million check dated three years ahead",
+        "A letter to studios",
+        "A contract with a manager",
+        "A budget plan for movies"
+      ],
+      "why": "He wrote a $10 million check for future acting services."
+    },
+    {
+      "q": "What personal goal does the narrator aim to achieve after the book?",
+      "a": [
+        "Save $100,000 by next fall",
+        "Buy a new car",
+        "Quit their job",
+        "Travel the world"
+      ],
+      "why": "The narrator mentions a $100k savings goal."
+    },
+    {
+      "q": "What does the book compare negative talk about money to?",
+      "a": [
+        "A bad friend who talks you down",
+        "A broken bank",
+        "A stormy sea",
+        "A locked door"
+      ],
+      "why": "Negative talk about money is likened to a bad friend."
+    }
+  ]
+}

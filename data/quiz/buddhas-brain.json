@@ -1,0 +1,31 @@
+{
+  "book": "buddhas-brain",
+  "title": "Buddha’s Brain",
+  "questions": [
+    {
+      "q": "What is the difference between the first dart and the second dart in the summary?",
+      "a": ["The first is unavoidable pain; the second is added suffering", "The first is emotional pain; the second is physical", "The first comes from others; the second comes from within", "The first fades quickly; the second is always permanent"],
+      "why": "Lesson 1 says pain strikes like a first dart, while the second dart is the suffering we add through our reactions, which we control."
+    },
+    {
+      "q": "What does the summary say true composure actually involves?",
+      "a": ["Feeling an emotion fully without forming a lasting reaction", "Hiding your feelings so others cannot see them", "Ignoring strong emotions until they disappear", "Acting out every feeling as soon as it appears"],
+      "why": "Lesson 2 describes composure as a circuit breaker that lets a feeling sink in without turning into a demand for more or avoidance."
+    },
+    {
+      "q": "How does the summary suggest practicing composure?",
+      "a": ["Stay with a strong feeling for 20 to 30 seconds", "Distract yourself for ten minutes after a shock", "Write down every emotion at the end of the day", "Avoid situations that trigger strong feelings"],
+      "why": "Lesson 2 recommends noticing when you feel especially good or bad and simply staying with the feeling for 20 to 30 seconds."
+    },
+    {
+      "q": "How does the summary link possessions to suffering?",
+      "a": ["Calling things mine ties their loss to your fate", "Owning more items makes daily life more efficient", "Material goods distract you from your real goals", "Buying things creates lasting happiness over time"],
+      "why": "Lesson 3 says every time you say I or my about something, its end becomes your loss, so having less can reduce suffering."
+    },
+    {
+      "q": "What benefit does the summary see in decluttering your belongings?",
+      "a": ["Fewer possessions mean fewer claims of mine", "It increases the number of things you can enjoy", "It proves that comfort comes from ownership", "It removes the need to experience any pain"],
+      "why": "Lesson 3 suggests uncluttering could leave you with 30 percent less, and therefore fewer I's and my's to reinforce your sense of self."
+    }
+  ]
+}

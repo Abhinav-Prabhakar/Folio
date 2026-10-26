@@ -1,0 +1,56 @@
+{
+  "book": "bittersweet",
+  "title": "Bittersweet",
+  "questions": [
+    {
+      "q": "What does the story of Kafka and the crying girl illustrate?",
+      "a": [
+        "Love and loss are inseparable, and love returns in new forms",
+        "Grief fades fastest when it is ignored",
+        "Children understand loss better than adults do",
+        "Stories can replace the things we have lost"
+      ],
+      "why": "The note hidden in the doll says that everything you love will be lost, but love returns differently."
+    },
+    {
+      "q": "What happens if you try to avoid only the painful half of your emotions?",
+      "a": [
+        "You end up suppressing your feelings altogether",
+        "You strengthen the positive feelings instead",
+        "You become more resilient over time",
+        "You feel the negative ones less intensely"
+      ],
+      "why": "The summary says feelings live on spectrums, so rejecting one side means rejecting both."
+    },
+    {
+      "q": "What does the cellist who played in besieged Sarajevo demonstrate?",
+      "a": [
+        "Beauty and suffering can be impossible to separate",
+        "Music can restore order in a broken city",
+        "Artists should stay neutral during a war",
+        "Grief is best expressed through classical music"
+      ],
+      "why": "Cain uses the scene to show that joy and pain often arrive together."
+    },
+    {
+      "q": "Where does Cain trace America's habit of forced positivity?",
+      "a": [
+        "To Calvinist settlers who believed everything was preordained",
+        "To the self-help industry of the 1980s",
+        "To frontier communities that needed optimism",
+        "To the rise of social media influencers"
+      ],
+      "why": "With little control over their fate, settlers were encouraged to act like winners."
+    },
+    {
+      "q": "Why does a heightened awareness of mortality make older people happier?",
+      "a": [
+        "They appreciate good moments more and forgive more easily",
+        "They have fewer daily responsibilities to worry about",
+        "They gradually forget the losses they have suffered",
+        "They spend more time surrounded by family"
+      ],
+      "why": "The summary says older people are slow to anger and quick to feel grateful."
+    }
+  ]
+}

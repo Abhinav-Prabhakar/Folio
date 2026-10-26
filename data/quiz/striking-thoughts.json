@@ -1,0 +1,56 @@
+{
+  "book": "striking-thoughts",
+  "title": "Striking Thoughts",
+  "questions": [
+    {
+      "q": "What did Bruce Lee refuse to do with his own martial art, Jeet Kune Do?",
+      "a": [
+        "Formalize it, so each student could interpret it their own way",
+        "Teach it to students outside Chinese communities",
+        "Combine it with the Wing Chun forms he had learned",
+        "Write it down in a published training manual"
+      ],
+      "why": "Lesson 1 says Lee kept Jeet Kune Do unformalized so every student would find their own understanding."
+    },
+    {
+      "q": "What does the instruction to 'empty your cup' mean?",
+      "a": [
+        "Approach new situations without preconceived opinions",
+        "Fill your mind with as much knowledge as possible",
+        "Learn from one teacher rather than from many",
+        "Practice a skill until it becomes automatic"
+      ],
+      "why": "Lesson 2 says a mind already full of opinions has no room left for new insight, so keep a beginner's mind."
+    },
+    {
+      "q": "Which story does Lee use to explain emptying your cup?",
+      "a": [
+        "A Zen teacher pouring tea until the visitor's cup overflows",
+        "A boat drifting quietly in Hong Kong harbor",
+        "A student who refuses to spar with his teacher",
+        "A master who splits a stone by striking water"
+      ],
+      "why": "Lesson 2 retells the tea story, where the teacher keeps pouring to show the visitor's mind is already full."
+    },
+    {
+      "q": "Why does lesson 3 hold up water as a model for how to live?",
+      "a": [
+        "It adapts to any container while still reaching its goal",
+        "It always takes the shortest and most direct route",
+        "It stays perfectly calm whatever it meets",
+        "It wears down every obstacle slowly over time"
+      ],
+      "why": "Lesson 3 says water takes whatever path is open and so arrives exactly where it is meant to be."
+    },
+    {
+      "q": "Where did Lee's insight about being like water come from?",
+      "a": [
+        "Punching the water while lying in a drifting boat as a teenager",
+        "Watching a river flood near his first martial arts school",
+        "A lesson from his teacher Ip Man over a cup of tea",
+        "A scene he performed in one of his Hong Kong films"
+      ],
+      "why": "The overview describes Lee striking the harbor water during a week off and seeing that it simply moved aside."
+    }
+  ]
+}

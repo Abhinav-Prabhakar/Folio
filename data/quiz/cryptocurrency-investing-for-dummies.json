@@ -1,0 +1,56 @@
+{
+  "book": "cryptocurrency-investing-for-dummies",
+  "title": "Cryptocurrency Investing For Dummies",
+  "questions": [
+    {
+      "q": "How should an investor handle the extreme volatility of crypto prices?",
+      "a": [
+        "Filter out emotion and focus on the long term",
+        "Sell immediately whenever the price dips",
+        "Check prices many times each day and react fast",
+        "Buy more whenever the market sentiment turns negative"
+      ],
+      "why": "Lesson 1 advises removing the emotional factor and judging projects over the long run."
+    },
+    {
+      "q": "How large an emergency fund does the summary recommend before investing?",
+      "a": [
+        "Three to six months of expenses",
+        "One to two months of expenses",
+        "Six to twelve months of expenses",
+        "Twelve to eighteen months of expenses"
+      ],
+      "why": "Lesson 1 suggests covering three to six months of expenses, then investing only what you can afford to lose."
+    },
+    {
+      "q": "Which qualities suggest a cryptocurrency is worth investing in?",
+      "a": [
+        "A strong team, real utility and a limited supply",
+        "A funny name, a large following and daily price swings",
+        "A recent launch, low price and heavy advertising",
+        "A single founder, unlimited supply and no clear use"
+      ],
+      "why": "Lesson 1 lists good management, a utility factor and finite supply as signs of a valuable coin."
+    },
+    {
+      "q": "What do smart contracts do, according to lesson 2?",
+      "a": [
+        "They automatically carry out the terms both parties agreed to",
+        "They replace the blockchain with a central bank database",
+        "They set the market price of a coin each morning",
+        "They allow one party to change the agreement at any time"
+      ],
+      "why": "Lesson 2 says smart contracts automate execution of an agreement's terms and conditions."
+    },
+    {
+      "q": "What does the author mean by diversification in lesson 3?",
+      "a": [
+        "Holding assets outside crypto too, such as stocks and real estate",
+        "Spreading money across as many new coins as possible",
+        "Keeping all funds in a single well-reviewed online wallet",
+        "Moving between coins whenever one starts to fall"
+      ],
+      "why": "Lesson 3 says diversification includes non-crypto assets like stocks, ETFs, bonds and property."
+    }
+  ]
+}

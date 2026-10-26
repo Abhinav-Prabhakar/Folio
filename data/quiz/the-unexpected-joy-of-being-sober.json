@@ -1,0 +1,56 @@
+{
+  "book": "the-unexpected-joy-of-being-sober",
+  "title": "The Unexpected Joy Of Being Sober",
+  "questions": [
+    {
+      "q": "According to a 2009 British report, which drug scored highest on health danger scale?",
+      "a": [
+        "Alcohol (72)",
+        "Heroin (55)",
+        "Crack (54)",
+        "Cocaine (50)"
+      ],
+      "why": "Report ranked alcohol at 72, higher than heroin and crack."
+    },
+    {
+      "q": "What does Professor David Nutt say should be the primary target to reduce societal drug harm?",
+      "a": [
+        "Alcohol",
+        "Heroin",
+        "Methamphetamine",
+        "Cannabis"
+      ],
+      "why": "Nutt quoted that alcohol is the drug to target."
+    },
+    {
+      "q": "How does the book compare building sobriety to physical training?",
+      "a": [
+        "Like strengthening a muscle gradually",
+        "Like running a marathon instantly",
+        "Like lifting the heaviest weight first",
+        "Like sprinting without warm‑up"
+      ],
+      "why": "It likens sobriety to building a muscle, start small and work up."
+    },
+    {
+      "q": "What physiological effect of drinking reduces its long‑term appeal, according to the book?",
+      "a": [
+        "Dulls dopamine response over time",
+        "Increases heart rate permanently",
+        "Causes permanent liver scarring",
+        "Eliminates sleep cycles"
+      ],
+      "why": "Drinking dulls dopamine release, making it less rewarding."
+    },
+    {
+      "q": "Which health benefit is NOT mentioned as a result of quitting alcohol?",
+      "a": [
+        "Improved vision",
+        "No hangovers",
+        "Reduced facial bloating",
+        "Clearer memory"
+      ],
+      "why": "Vision improvement isn't listed; other three are mentioned."
+    }
+  ]
+}

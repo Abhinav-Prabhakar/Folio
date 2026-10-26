@@ -1,0 +1,56 @@
+{
+  "book": "how-luck-happens",
+  "title": "How Luck Happens",
+  "questions": [
+    {
+      "q": "What three ingredients does the summary say combine to create luck?",
+      "a": [
+        "Talent, chance and hard work",
+        "Wealth, education and social class",
+        "Optimism, patience and good timing",
+        "Skill, luck and family connections"
+      ],
+      "why": "The overview compares luck to three cherries lining up: talent, chance and hard work."
+    },
+    {
+      "q": "What happened to John Grisham before his first legal thriller was published?",
+      "a": [
+        "Twenty-eight publishers rejected it",
+        "He rewrote it for more than a decade",
+        "He published it himself at his own expense",
+        "An agent discovered it at a writing contest"
+      ],
+      "why": "Lesson 1 says Grisham submitted the manuscript to 28 publishers before a small house accepted it."
+    },
+    {
+      "q": "What did Dick Fosbury's story illustrate about luck?",
+      "a": [
+        "Persistence with a new idea can outlast ridicule",
+        "Natural athletic talent matters more than technique",
+        "Coaches usually recognize innovation immediately",
+        "Success depends on competing in the right country"
+      ],
+      "why": "Lesson 1 says Fosbury kept practicing his backward jump despite mockery and eventually won Olympic gold."
+    },
+    {
+      "q": "What does the hockey advice to skate where the puck will be mean for luck?",
+      "a": [
+        "Put yourself in places where opportunities gather",
+        "Wait for a clear opportunity before making a move",
+        "Practice your skills until you are the very best",
+        "Follow the career path that others recommend"
+      ],
+      "why": "Lesson 2 says you must step outside your comfort zone and go where opportunities are likely to appear."
+    },
+    {
+      "q": "Which connections does the summary say are often most valuable for creating luck?",
+      "a": [
+        "Weak ties with people you see only occasionally",
+        "Close family members who know you well",
+        "Former employers and direct supervisors",
+        "Friends who share your profession and interests"
+      ],
+      "why": "Lesson 3 says weak connections matter most because they link you to different circles of people."
+    }
+  ]
+}

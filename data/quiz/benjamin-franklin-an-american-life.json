@@ -1,0 +1,56 @@
+{
+  "book": "benjamin-franklin-an-american-life",
+  "title": "Benjamin Franklin: An American Life",
+  "questions": [
+    {
+      "q": "What daily habit did Franklin create to keep learning part of every weekday?",
+      "a": [
+        "An hour each weekday spent reading, writing and reflecting",
+        "Two hours each morning memorizing passages",
+        "A weekly debate with other printers",
+        "Daily letters to a mentor in London"
+      ],
+      "why": "The summary calls this his five-hour rule: one hour on each of five activities per week."
+    },
+    {
+      "q": "Why did Franklin stay at his printing job with Samuel Keimer?",
+      "a": [
+        "Their long philosophical talks sharpened his debating and speaking",
+        "The position paid far better than other shops",
+        "His family expected him to remain there",
+        "It gave him control of a Boston newspaper"
+      ],
+      "why": "He had joined to improve his writing but stayed for the conversations."
+    },
+    {
+      "q": "How did seventeen-year-old Franklin get his early essays published?",
+      "a": [
+        "He invented a female alter ego named Silence Dogood",
+        "He signed them with his brother's name",
+        "He paid the newspaper to print them anonymously",
+        "He submitted them as letters from a Boston merchant"
+      ],
+      "why": "The summary says no one would have taken a teenage boy seriously, so he created a persona."
+    },
+    {
+      "q": "What lesson does the summary draw about learning from Franklin's example?",
+      "a": [
+        "If you truly want to learn, you will find a way",
+        "Formal schooling is the only reliable path",
+        "You should wait for a publisher before writing",
+        "Natural talent matters more than daily effort"
+      ],
+      "why": "The summary insists that lack of a publisher, agent or school is no longer a valid excuse."
+    },
+    {
+      "q": "What did Franklin petition for in 1790, the year he died?",
+      "a": [
+        "That American liberty be upheld without distinction of color",
+        "That the colonies adopt his model of government",
+        "That a national university be founded",
+        "That printing apprenticeships be shortened"
+      ],
+      "why": "The summary notes he wanted slavery abolished, which happened seventy-five years later."
+    }
+  ]
+}

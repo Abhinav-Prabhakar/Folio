@@ -1,0 +1,31 @@
+{
+  "book": "chasing-excellence",
+  "title": "Chasing Excellence",
+  "questions": [
+    {
+      "q": "What does the summary say separates champions from the pack?",
+      "a": ["Mental toughness", "Natural talent", "Better equipment", "Coaching connections"],
+      "why": "The overview calls mental strength the difference, letting athletes push limits and recover from failure."
+    },
+    {
+      "q": "What outpaces motivation in the long run, according to the summary?",
+      "a": ["Consistent hard work", "Raw natural talent", "Competitive pressure", "Constant positive feedback"],
+      "why": "Lesson 1 says motivation gets you out of bed, but consistency and habit carry you through the day."
+    },
+    {
+      "q": "How long does Bergeron allow his athletes to dwell on a mistake?",
+      "a": ["Five minutes", "One hour", "Until the next game", "A full day"],
+      "why": "Lesson 2 says the coach tells athletes never to spend more than five minutes on an upsetting error."
+    },
+    {
+      "q": "What mindset helps athletes move past mistakes?",
+      "a": ["Focus only on what they can control", "Replay the error until it is fixed", "Ignore the outcome of every game", "Blame factors outside themselves"],
+      "why": "Lesson 2 roots the approach in stoicism: narrow down what is in your power and release the rest."
+    },
+    {
+      "q": "How does the summary describe being humble and confident?",
+      "a": ["They can and should coexist", "They contradict each other", "Confidence must always come first", "Humility is only for beginners"],
+      "why": "Lesson 3 says a healthy mindset holds both, staying open to feedback while knowing your own worth."
+    }
+  ]
+}

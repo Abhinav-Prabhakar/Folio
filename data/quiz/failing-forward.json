@@ -1,0 +1,56 @@
+{
+  "book": "failing-forward",
+  "title": "Failing Forward",
+  "questions": [
+    {
+      "q": "According to lesson 1, what should you do when a failure clearly was not your fault?",
+      "a": [
+        "Take responsibility for getting back to success anyway",
+        "Wait until whoever caused it offers to compensate you",
+        "Refuse to move on until the damage is officially acknowledged",
+        "Treat the setback as proof that effort does not pay off"
+      ],
+      "why": "Lesson 1 says the failure may not be yours, but how quickly you recover is up to you."
+    },
+    {
+      "q": "In the ceramics class story, which group ended up making the better pottery?",
+      "a": [
+        "The group graded on how many pieces it produced",
+        "The group allowed to make only one perfect piece",
+        "The group that studied theory before touching clay",
+        "The group that worked without any grading at all"
+      ],
+      "why": "Lesson 2 says the quantity group produced better work because each piece carried less pressure."
+    },
+    {
+      "q": "Why did making many pieces help the ceramics students improve?",
+      "a": [
+        "Each failure taught them something they applied to the next piece",
+        "They had more time to copy the teacher's best example",
+        "They could pick the easiest clay to work with",
+        "They compared their work with the other group's"
+      ],
+      "why": "Lesson 2 explains that repeated attempts let them learn from every mistake and improve."
+    },
+    {
+      "q": "What three things does Maxwell suggest working on to make the most of opportunities?",
+      "a": [
+        "Clear goals, social skills and a positive mindset",
+        "Savings, credentials and a wide professional network",
+        "Luck, timing and a willingness to take big risks",
+        "Discipline, focus and an absence of distractions"
+      ],
+      "why": "Lesson 3 lists clear goals, social skills and a positive mindset as the starting points."
+    },
+    {
+      "q": "What did Greg Horn do after a flood destroyed his store?",
+      "a": [
+        "He rebuilt it within weeks while still supporting his staff",
+        "He sold the ruined business and left the industry",
+        "He sued the city for failing to prevent the flooding",
+        "He reopened only after years of waiting for insurance"
+      ],
+      "why": "Lesson 1 describes him scraping together the repair money and reopening in 21 days."
+    }
+  ]
+}

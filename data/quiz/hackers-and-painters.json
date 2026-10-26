@@ -1,0 +1,31 @@
+{
+  "book": "hackers-and-painters",
+  "title": "Hackers and Painters",
+  "questions": [
+    {
+      "q": "Why does Graham say nerds ignore fashion and morals?",
+      "a": ["Both shift with time and place, so they do not conform", "Both are unimportant to a successful career", "Both require money nerds would rather save", "Both are decided by people nerds dislike"],
+      "why": "Lesson 1 says both swing like the weather, so nerds hold on to their own values instead."
+    },
+    {
+      "q": "How are good hackers more like painters than mathematicians?",
+      "a": ["They create their own concepts rather than follow formulas", "They work slowly and polish every detail", "They prefer to work alone in silence", "They copy established works to learn"],
+      "why": "Lesson 2 says coders must invent their own concepts, just as painters create original work."
+    },
+    {
+      "q": "What did Graham find better than writing code on paper first?",
+      "a": ["Coding on the machine and fixing problems as they came", "Planning every function before typing", "Working with a partner who reviews each line", "Studying mathematics before learning to program"],
+      "why": "Lesson 2 says his painter's approach of fixing problems while coding worked better."
+    },
+    {
+      "q": "Why does Graham say you should ship a rough prototype?",
+      "a": ["Feedback on something real helps you improve fastest", "Investors only fund products that look unfinished", "A rough product cannot be copied by rivals", "Polish can be added without user input"],
+      "why": "Lesson 3 says the fastest way to improve is to put your work in front of others."
+    },
+    {
+      "q": "What does the chair analogy illustrate about software?",
+      "a": ["Core function matters more than early polish", "Design should always come before function", "Cheap products rarely succeed long-term", "Comfort is impossible to measure objectively"],
+      "why": "Lesson 3 says an ugly but comfortable chair sells, and software works the same way."
+    }
+  ]
+}

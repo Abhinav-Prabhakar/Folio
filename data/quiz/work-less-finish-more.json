@@ -1,0 +1,56 @@
+{
+  "book": "work-less-finish-more",
+  "title": "Work Less Finish More",
+  "questions": [
+    {
+      "q": "Which principle states 80% of results come from 20% of effort?",
+      "a": [
+        "Pareto principle",
+        "Motivation principle",
+        "Willpower principle",
+        "Time management principle"
+      ],
+      "why": "Pareto principle explains the 80/20 rule."
+    },
+    {
+      "q": "What does the book say about motivation?",
+      "a": [
+        "It is a result, not a cause",
+        "It is the main driver",
+        "It is irrelevant",
+        "It is always present"
+      ],
+      "why": "Motivation follows hard work, not initiates it."
+    },
+    {
+      "q": "What is a key tip for tidying to boost productivity?",
+      "a": [
+        "Remove items that add no value",
+        "Buy more gadgets",
+        "Increase email checks",
+        "Add more clutter"
+      ],
+      "why": "Eliminate non‑valuable items to simplify life."
+    },
+    {
+      "q": "Why should you say no to meaningless activities?",
+      "a": [
+        "To focus on what matters",
+        "To work more hours",
+        "To impress others",
+        "To avoid deadlines"
+      ],
+      "why": "Saying no keeps focus on important tasks."
+    },
+    {
+      "q": "What does the book recommend about email checking?",
+      "a": [
+        "Limit to twice a day",
+        "Check every 5 minutes",
+        "Ignore all emails",
+        "Reply immediately"
+      ],
+      "why": "Limiting email checks reduces distraction."
+    }
+  ]
+}

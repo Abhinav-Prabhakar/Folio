@@ -1,0 +1,56 @@
+{
+  "book": "managing-oneself",
+  "title": "Managing Oneself",
+  "questions": [
+    {
+      "q": "What method does Drucker recommend for discovering your strengths?",
+      "a": [
+        "Record your expected outcome for key decisions and compare it a year later",
+        "Ask colleagues to rank you on a list of common skills",
+        "Take a personality test and follow its career suggestions",
+        "Reflect on the tasks you enjoyed most as a child"
+      ],
+      "why": "Lesson 1 describes feedback analysis: note what you expect, then compare it with what actually happened."
+    },
+    {
+      "q": "What does the summary advise if a job conflicts with your core values?",
+      "a": [
+        "Avoid it, because the mismatch will hurt your performance and judgment",
+        "Accept it and try to change your values over time",
+        "Stay only if the salary is unusually high",
+        "Keep your beliefs private and focus on the work"
+      ],
+      "why": "Lesson 1 warns against working for a mission that contradicts your beliefs, since it affects performance and your moral compass."
+    },
+    {
+      "q": "What should you communicate to others to improve how you work together?",
+      "a": [
+        "Your expectations, values, boundaries and preferred work style",
+        "Only the tasks you are willing to accept from them",
+        "Your career ambitions and salary expectations",
+        "Feedback about their weaknesses and mistakes"
+      ],
+      "why": "Lesson 2 says stating your expectations, values, boundaries and style strengthens communication."
+    },
+    {
+      "q": "What risk does the summary associate with focusing only on one career?",
+      "a": [
+        "Burnout or a midlife crisis when the work stops feeling meaningful",
+        "Losing technical skills as the industry changes",
+        "Earning less than people with several careers",
+        "Being passed over for leadership positions"
+      ],
+      "why": "Lesson 3 describes people who reach the top, feel their work is meaningless and end up burnt out."
+    },
+    {
+      "q": "Which approach to a second career does the summary mention?",
+      "a": [
+        "Building it alongside your existing job when time allows",
+        "Quitting your first career before planning the second",
+        "Waiting until retirement to start any new work",
+        "Choosing a second career identical to the first"
+      ],
+      "why": "Lesson 3 lists starting it, developing it alongside the current job, or starting a nonprofit or community role."
+    }
+  ]
+}

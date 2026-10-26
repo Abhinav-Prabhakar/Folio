@@ -1,0 +1,56 @@
+{
+  "book": "the-yes-brain",
+  "title": "The Yes Brain",
+  "questions": [
+    {
+      "q": "What color zone represents a child feeling angry or anxious?",
+      "a": [
+        "Red zone",
+        "Green zone",
+        "Blue zone",
+        "Yellow zone"
+      ],
+      "why": "The text defines red zone for anger and anxiety."
+    },
+    {
+      "q": "Who suggest the zones system for discussing emotions with children?",
+      "a": [
+        "Sigel and Bryson",
+        "Dweck and Goleman",
+        "Piaget and Vygotsky",
+        "Bandura and Erikson"
+      ],
+      "why": "The passage credits Sigel and Bryson with the zones system."
+    },
+    {
+      "q": "According to the book, what attitude helps people cope with life's challenges?",
+      "a": [
+        "A yes attitude",
+        "A defensive stance",
+        "A pessimistic outlook",
+        "A passive approach"
+      ],
+      "why": "The overview emphasizes a \"yes\" attitude over defensiveness."
+    },
+    {
+      "q": "When children imagine a neutral bystander, what skill are they developing?",
+      "a": [
+        "Perspective‑taking",
+        "Memory recall",
+        "Physical coordination",
+        "Mathematical reasoning"
+      ],
+      "why": "Adopting another's perspective is described as perspective‑taking."
+    },
+    {
+      "q": "What is the preferred response to a selfish child, per the authors?",
+      "a": [
+        "Create empathy opportunities",
+        "Apply strict punishment",
+        "Ignore the behavior",
+        "Reward the selfish act"
+      ],
+      "why": "The text advises using empathy exercises instead of punishment."
+    }
+  ]
+}

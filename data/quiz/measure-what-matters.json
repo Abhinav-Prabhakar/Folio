@@ -1,0 +1,56 @@
+{
+  "book": "measure-what-matters",
+  "title": "Measure What Matters",
+  "questions": [
+    {
+      "q": "What are the two parts of an OKR?",
+      "a": [
+        "A longer-term objective and concrete key results",
+        "A yearly budget and a quarterly sales target",
+        "A mission statement and a list of competitors",
+        "A personal goal and a team reward"
+      ],
+      "why": "Lesson 1 describes objectives as the vision you aim for and key results as the concrete steps to get there."
+    },
+    {
+      "q": "How should you handle progress on your key results?",
+      "a": [
+        "Record it frequently and review how it serves the objective",
+        "Track it once a year when setting new objectives",
+        "Only measure it after the objective is achieved",
+        "Delegate all tracking to someone outside the team"
+      ],
+      "why": "Lesson 1 recommends frequent progress records plus occasional reviews of how they advance the objective."
+    },
+    {
+      "q": "Which four choices does an OKR review offer?",
+      "a": [
+        "Continue, update, start or stop",
+        "Expand, shrink, pause or sell",
+        "Plan, do, check or act",
+        "Lead, follow, delegate or quit"
+      ],
+      "why": "Lesson 2 lists continue, update, start and stop as the ways to modify OKRs after a review."
+    },
+    {
+      "q": "How do committed objectives differ from stretch objectives?",
+      "a": [
+        "Committed ones must be fully met, while stretch ones are ambitious and may fail",
+        "Committed ones are optional, while stretch ones are mandatory",
+        "Committed ones apply to individuals, while stretch ones apply only to leaders",
+        "Committed ones last a year, while stretch ones last a week"
+      ],
+      "why": "Lesson 3 says committed objectives need 100% completion, whereas Google’s stretch goals may fall short."
+    },
+    {
+      "q": "What does the moon landing illustrate about goal setting?",
+      "a": [
+        "Stretch goals can motivate people to achieve more than they thought possible",
+        "Only governments can attempt genuinely ambitious projects",
+        "Goals should stay modest so that failure is avoided",
+        "Big goals work only when resources are unlimited"
+      ],
+      "why": "Lesson 3 uses NASA’s moonshot to show that aiming high boosts motivation, engagement and productivity."
+    }
+  ]
+}

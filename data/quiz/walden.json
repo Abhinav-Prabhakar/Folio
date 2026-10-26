@@ -1,0 +1,56 @@
+{
+  "book": "walden",
+  "title": "Walden",
+  "questions": [
+    {
+      "q": "When did Thoreau begin his two‑year retreat at Walden Pond?",
+      "a": [
+        "September 1845",
+        "January 1846",
+        "June 1844",
+        "December 1847"
+      ],
+      "why": "The text states the retreat started in September 1845."
+    },
+    {
+      "q": "Which four basics of life did Thoreau focus on during his stay?",
+      "a": [
+        "Food, shelter, clothing, firewood",
+        "Travel, entertainment, education, health",
+        "Money, fame, love, power",
+        "Technology, communication, transportation, finance"
+      ],
+      "why": "The text lists food, shelter, clothing, and keeping the fireplace alit."
+    },
+    {
+      "q": "What seasonal challenge made Thoreau's tasks harder but more rewarding?",
+      "a": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Autumn"
+      ],
+      "why": "Winter is described as the most challenging season that increased reward."
+    },
+    {
+      "q": "What does Thoreau claim is more valuable than love, money, or fame?",
+      "a": [
+        "Truth",
+        "Power",
+        "Wealth",
+        "Popularity"
+      ],
+      "why": "He is quoted saying \"Rather than love, than money, than fame, give me truth.\""
+    },
+    {
+      "q": "Who allowed Thoreau to build his cabin on the land?",
+      "a": [
+        "Ralph Waldo Emerson",
+        "Henry David Thoreau",
+        "Nathaniel Hawthorne",
+        "Mark Twain"
+      ],
+      "why": "Emerson permitted Thoreau to live on his woodland for the retreat."
+    }
+  ]
+}

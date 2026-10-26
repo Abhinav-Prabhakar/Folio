@@ -1,0 +1,56 @@
+{
+  "book": "the-black-swan",
+  "title": "The Black Swan",
+  "questions": [
+    {
+      "q": "What event first changed the belief that all swans were white?",
+      "a": [
+        "Discovery of black swans in Australia",
+        "A Dutch explorer's report",
+        "A scientific study",
+        "A myth in Europe"
+      ],
+      "why": "Dutch explorers saw black swans in 1697."
+    },
+    {
+      "q": "What fallacy involves treating real-world risk like a game?",
+      "a": [
+        "Ludic fallacy",
+        "Confirmation bias",
+        "Availability heuristic",
+        "Anchoring"
+      ],
+      "why": "Taleb calls it the ludic fallacy."
+    },
+    {
+      "q": "Why do people often mispredict future events using past data?",
+      "a": [
+        "They assume the future will repeat the past",
+        "They ignore statistical models",
+        "They overestimate randomness",
+        "They lack data"
+      ],
+      "why": "Using past as explanation leads to wrong predictions."
+    },
+    {
+      "q": "Which example illustrates the ludic fallacy in insurance decisions?",
+      "a": [
+        "Adding disease probabilities to decide coverage",
+        "Using weather charts",
+        "Reading news headlines",
+        "Consulting experts"
+      ],
+      "why": "Adding probabilities for diseases is a ludic fallacy."
+    },
+    {
+      "q": "What is a key characteristic of a Black Swan event?",
+      "a": [
+        "Unpredictable due to narrow outlook",
+        "Common and expected",
+        "Random and frequent",
+        "Statistically likely"
+      ],
+      "why": "It is unpredictable because our outlook is too narrow."
+    }
+  ]
+}

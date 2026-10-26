@@ -1,0 +1,56 @@
+{
+  "book": "how-will-you-measure-your-life",
+  "title": "How Will You Measure Your Life",
+  "questions": [
+    {
+      "q": "Why do we neglect our closest relationships?",
+      "a": [
+        "Work rewards you now and loved ones rarely ask",
+        "Relationships cost more money than work does",
+        "Family members prefer to be left alone",
+        "Work is simply more enjoyable than family"
+      ],
+      "why": "Lesson 1 says work pays off right away while strong relationships ask little of us."
+    },
+    {
+      "q": "What question does the summary recommend asking about a relationship?",
+      "a": [
+        "What job does this person need me to do?",
+        "What have I done for this person lately?",
+        "How can I change this person's behavior?",
+        "Why does this person demand so much?"
+      ],
+      "why": "Lesson 2 calls this the single best question for improving any relationship."
+    },
+    {
+      "q": "What does treating family life like a job accomplish?",
+      "a": [
+        "It builds intuition and empathy for their needs",
+        "It turns relationships into obligations",
+        "It makes you treat family like coworkers",
+        "It encourages you to work longer hours"
+      ],
+      "why": "Lesson 2 says the question flips your perspective and helps you sense what others need."
+    },
+    {
+      "q": "What is marginal thinking?",
+      "a": [
+        "Seeing only the edges of a situation",
+        "Planning every decision in advance",
+        "Ignoring small costs completely",
+        "Weighing all costs equally"
+      ],
+      "why": "Lesson 3 defines it as focusing on the edges rather than the full picture."
+    },
+    {
+      "q": "What happened to Blockbuster in the summary's example?",
+      "a": [
+        "It went bankrupt after ignoring a new service",
+        "It bought Netflix and grew rapidly",
+        "It was saved by a government bailout",
+        "It switched from rentals to making films"
+      ],
+      "why": "Lesson 3 says Blockbuster avoided the marginal cost of change and went bankrupt in 2010."
+    }
+  ]
+}

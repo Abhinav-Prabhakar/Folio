@@ -1,0 +1,56 @@
+{
+  "book": "how-to-create-a-mind",
+  "title": "How To Create A Mind",
+  "questions": [
+    {
+      "q": "How does the brain store information, according to Kurzweil?",
+      "a": [
+        "In ordered sequences that one cue can trigger",
+        "In isolated files sorted by importance",
+        "In random clusters that fade over time",
+        "In a single unified memory bank"
+      ],
+      "why": "Lesson one says memories are catalogued step by step, so a small hint can bring back the whole pattern."
+    },
+    {
+      "q": "Why is reciting the alphabet backwards harder than forwards?",
+      "a": [
+        "Memories are stored in order, so starting midway is harder",
+        "The letters sound different in reverse order",
+        "People practice the forward version more often",
+        "Reverse speech uses a different brain area"
+      ],
+      "why": "Lesson one uses the alphabet and piano pieces to show that sequences are easier to recall from the beginning."
+    },
+    {
+      "q": "What does a pattern recognizer consist of?",
+      "a": [
+        "About one hundred neurons working together",
+        "About one thousand connected synapses",
+        "A single cortical column",
+        "Millions of scattered neurons"
+      ],
+      "why": "Lesson two says each recognizer has roughly 100 neurons, and the neocortex contains around 300 million of them."
+    },
+    {
+      "q": "Where does the brain create emotions such as anger and desire?",
+      "a": [
+        "In the neocortex, through spindle cells",
+        "In the amygdala, through fear circuits",
+        "In the hippocampus, through memory cells",
+        "In the cerebellum, through motor pathways"
+      ],
+      "why": "Lesson two says spindle cells in the neocortex produce strong feelings and connect distant brain regions."
+    },
+    {
+      "q": "What makes Siri seem more human than simple voice recognition?",
+      "a": [
+        "It uses keywords and context rather than exact phrases",
+        "It stores every sentence a user has said",
+        "It imitates the user's accent and tone",
+        "It asks a person to type each request"
+      ],
+      "why": "Lesson three says Siri looks for keywords and context, so it can understand a request however it is phrased."
+    }
+  ]
+}

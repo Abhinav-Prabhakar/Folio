@@ -1,0 +1,56 @@
+{
+  "book": "the-kindness-method",
+  "title": "The Kindness Method",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Kindness Method?",
+      "a": [
+        "Have you ever wanted to make a change that just wouldn’t stick?",
+        "One thing that nips extreme ideologies in the bud is reasoning.",
+        "Finding success is like trying to enter an exclusive nightclub.",
+        "A lot of parents view their kids as an extension of themselves."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Kindness Method explore?",
+      "a": [
+        "If you want to create lasting change, make sure you have self-compassion and have a…",
+        "Technology has turned us into performance addicts, looking for the next dopamine hit",
+        "Forget making innovative new products, adjust your services to meet customer’s needs",
+        "The Paris climate agreement goals are hopelessly optimistic and too little, too late"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Kindness Method teach?",
+      "a": [
+        "Start improving by examining what has worked in the past and what hasn’t",
+        "Religion is just a way of viewing the world, which means we all have one",
+        "The American Dream was built on the backs of blacks and is a white dream",
+        "Recovery is possible, but won’t be as clear of a path as you might think"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Kindness Method?",
+      "a": [
+        "Izadi tried countless diet fads and weight loss programs and was a pro at losing weight.",
+        "Being able to cooperate with other people is all but essential to our success as humans.",
+        "It’s easy to see the usefulness of checklists in the medical field, or even engineering.",
+        "Imagine yourself at a long, rectangular conference table waiting for a meeting to begin."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these claims appears in The Kindness Method?",
+      "a": [
+        "Shahroo believes that achieving real change requires less “finding yourself” and more…",
+        "Over the years we’ve come a long way in acceptance when it comes to love and marriage.",
+        "Frankly, delayed gratification is overrated and comfortable retirement is an illusion.",
+        "It’s easy to get carried away with personality types like these, but that’s dangerous."
+      ],
+      "why": "This statement appears in the book's summary."
+    }
+  ]
+}

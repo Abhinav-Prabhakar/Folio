@@ -1,0 +1,56 @@
+{
+  "book": "napoleons-buttons",
+  "title": "Napoleon’s Buttons",
+  "questions": [
+    {
+      "q": "How did tin buttons contribute to Napoleon's Russian defeat?",
+      "a": [
+        "Tin crumbles in extreme cold, ruining the soldiers' clothing",
+        "Tin attracted enemy fire and revealed positions",
+        "Tin was too heavy for soldiers to march in",
+        "Tin melted in rain and stained their uniforms"
+      ],
+      "why": "Lesson 1 says the French wore tin, which degrades in low temperatures, leaving soldiers with the tin disease."
+    },
+    {
+      "q": "How did Manhattan change hands, according to the summary?",
+      "a": [
+        "It was traded for Run, an island rich in nutmeg",
+        "It was captured in a naval battle with Spain",
+        "It was bought from France for a small sum",
+        "It was granted as a wedding dowry"
+      ],
+      "why": "Lesson 1 says New Amsterdam was given to the English in exchange for Run, where nutmeg was plentiful."
+    },
+    {
+      "q": "How did William Perkin's purple dye come about?",
+      "a": [
+        "He was trying to create a cure for malaria",
+        "He was testing a new soap formula",
+        "He was dyeing cloth for Queen Victoria",
+        "He was refining a medicine for fever"
+      ],
+      "why": "Lesson 2 says Perkin discovered the synthetic dye while attempting to make a malaria cure."
+    },
+    {
+      "q": "How did penicillin come to be discovered?",
+      "a": [
+        "A failed experiment led to the discovery",
+        "A doctor searched for it deliberately for years",
+        "A patient's blood sample revealed it",
+        "A dye manufacturer stumbled on it"
+      ],
+      "why": "Lesson 2 presents Fleming's penicillin as a failed experiment that accidentally produced a vital medicine."
+    },
+    {
+      "q": "What does the summary say about science and religion?",
+      "a": [
+        "Religion long led, but science is proving powerful too",
+        "Science and religion have always stayed separate",
+        "Religion explains chemistry better than science",
+        "Science has replaced religion in most societies"
+      ],
+      "why": "Lesson 3 says religion has traditionally driven the world, while science is quickly showing its own power."
+    }
+  ]
+}

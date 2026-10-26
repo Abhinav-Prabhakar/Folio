@@ -1,0 +1,56 @@
+{
+  "book": "the-self-made-billionaire-effect",
+  "title": "The Self-Made Billionaire Effect",
+  "questions": [
+    {
+      "q": "Which habit distinguishes billionaires from regular entrepreneurs?",
+      "a": [
+        "Juggling multiple ideas",
+        "Focusing on one task",
+        "Avoiding risk",
+        "Limiting projects"
+      ],
+      "why": "Billionaires multitask by juggling many ideas."
+    },
+    {
+      "q": "What does the book say about the amount of risk billionaires take?",
+      "a": [
+        "Same as entrepreneurs",
+        "Much higher",
+        "Much lower",
+        "Only low risk"
+      ],
+      "why": "They take roughly the same amount of risk."
+    },
+    {
+      "q": "Why are billionaires called producers?",
+      "a": [
+        "They create many ventures",
+        "They only produce goods",
+        "They produce content",
+        "They produce money"
+      ],
+      "why": "They build multiple companies, acting as producers."
+    },
+    {
+      "q": "What is essential for a producer to succeed according to the book?",
+      "a": [
+        "Partnering with performers",
+        "Working alone",
+        "Avoiding partners",
+        "Hiring managers"
+      ],
+      "why": "Producers must partner with performers."
+    },
+    {
+      "q": "Which example illustrates a billionaire's multitasking?",
+      "a": [
+        "Bill Gates building Microsoft, photo company, and investment firm",
+        "Steve Jobs alone",
+        "Wozniak alone",
+        "Gates only building Microsoft"
+      ],
+      "why": "Gates built Microsoft plus two other companies."
+    }
+  ]
+}

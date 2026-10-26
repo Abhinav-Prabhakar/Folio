@@ -1,0 +1,56 @@
+{
+  "book": "plato-at-the-googleplex",
+  "title": "Plato At The Googleplex",
+  "questions": [
+    {
+      "q": "What does the summary call both Google's greatest strength and weakness?",
+      "a": [
+        "It crowdsources its answers",
+        "It updates its results too slowly",
+        "It charges for the best information",
+        "It relies on a single expert per topic"
+      ],
+      "why": "Lesson 1 says Google's crowdsourced answers are its biggest advantage and also its biggest flaw."
+    },
+    {
+      "q": "Why might a crowd give worse advice than one trained expert?",
+      "a": [
+        "Popular answers may not suit every person's situation",
+        "Crowds are usually less educated than experts",
+        "Experts are required by law to be accurate",
+        "Crowds take much longer to reach a conclusion"
+      ],
+      "why": "Lesson 1 says top answers may have worked for many people without necessarily working for all people."
+    },
+    {
+      "q": "What does Plato say about schooling for children?",
+      "a": [
+        "It cannot be identical for every child",
+        "It should begin with philosophy and logic",
+        "It must be led by certified experts only",
+        "It should stop once basic literacy is reached"
+      ],
+      "why": "Lesson 2 quotes Plato's line that since every child differs, education cannot be the same for all."
+    },
+    {
+      "q": "Once a foundation is laid, what should education do?",
+      "a": [
+        "Adapt to each person's talents and needs",
+        "Focus on preparing students for one career",
+        "Standardize lessons across every school",
+        "Emphasize memorization over exploration"
+      ],
+      "why": "Lesson 2 argues that after the groundwork, teaching has to fit individual talents, skills and needs."
+    },
+    {
+      "q": "How does Plato define love in the summary?",
+      "a": [
+        "As the base of all relationships, at varying intimacy",
+        "As romance kept separate from friendship",
+        "As a feeling reserved for couples",
+        "As an emotion that excludes rational thought"
+      ],
+      "why": "Lesson 3 says Plato saw love as all-encompassing and present in every human relationship."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "great-by-choice",
+  "title": "Great By Choice",
+  "questions": [
+    {
+      "q": "What rule did Amundsen's team follow to reach the South Pole?",
+      "a": ["Walk 20 miles every day, whatever the weather", "Travel as far as possible on good days", "Rest whenever conditions turned bad", "Follow a route mapped by earlier explorers"],
+      "why": "Lesson 1 describes the 20 Mile March: a fixed daily distance regardless of conditions."
+    },
+    {
+      "q": "Why did the daily 20-mile rule work so well?",
+      "a": ["It conserved energy and produced steady progress", "It let the team arrive weeks ahead of schedule", "It required fewer supplies than planned", "It kept the men warm during storms"],
+      "why": "Lesson 1 says holding back on good days and pushing on bad ones conserved resources."
+    },
+    {
+      "q": "What does fire-bullets-then-cannonballs mean?",
+      "a": ["Test ideas cheaply before committing big resources", "Attack competitors before they can respond", "Hire fast, then cut staff once demand is clear", "Launch widely, then fix problems as they appear"],
+      "why": "Lesson 2 says Apple tested the iPod and iTunes on a small scale before going wide."
+    },
+    {
+      "q": "How did Apple apply this to the iPod?",
+      "a": ["It first tested a Mac-only iPod and iTunes, then expanded", "It released the iPod and iTunes worldwide on day one", "It bought an existing music company outright", "It licensed the design to other electronics firms"],
+      "why": "Lesson 2 describes the Mac-only iPod and iTunes as low-risk tests before the wider release."
+    },
+    {
+      "q": "What is return on luck?",
+      "a": ["Getting more from chance opportunities by working hard", "The profit earned from a lucky investment", "The share of success that comes from talent", "The odds of a startup surviving its first year"],
+      "why": "Lesson 3 says working hard creates so many opportunities that luck can eventually help."
+    }
+  ]
+}

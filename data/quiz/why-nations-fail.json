@@ -1,0 +1,56 @@
+{
+  "book": "why-nations-fail",
+  "title": "Why Nations Fail",
+  "questions": [
+    {
+      "q": "Which type of institutions help a country grow economically?",
+      "a": [
+        "Inclusive",
+        "Extractive",
+        "Monopolistic",
+        "Oligarchic"
+      ],
+      "why": "Inclusive institutions encourage growth."
+    },
+    {
+      "q": "What event in the 14th century shifted Europe from extractive to more inclusive systems?",
+      "a": [
+        "Black Death",
+        "Renaissance",
+        "Industrial Revolution",
+        "French Revolution"
+      ],
+      "why": "Black Death reduced population, altering power."
+    },
+    {
+      "q": "Which country is cited as having a rapidly growing economy?",
+      "a": [
+        "Botswana",
+        "Congo",
+        "Sierra Leone",
+        "Zimbabwe"
+      ],
+      "why": "Botswana has one of the fastest growing economies."
+    },
+    {
+      "q": "What does the book say about neighboring countries with different living standards?",
+      "a": [
+        "Institutions differ",
+        "Location matters",
+        "Culture is key",
+        "Knowledge is sole factor"
+      ],
+      "why": "Institutions explain differences, not location."
+    },
+    {
+      "q": "Which U.S. region is mentioned as moving toward inclusivity?",
+      "a": [
+        "US South",
+        "New England",
+        "Midwest",
+        "Pacific Northwest"
+      ],
+      "why": "US South's institutions are becoming more inclusive."
+    }
+  ]
+}

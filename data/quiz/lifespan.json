@@ -1,0 +1,56 @@
+{
+  "book": "lifespan",
+  "title": "Lifespan",
+  "questions": [
+    {
+      "q": "How does the summary frame aging?",
+      "a": [
+        "As a loss of information in DNA that can be treated like a disease",
+        "As a fixed schedule written permanently into our genes",
+        "As mainly a mental attitude toward the passing years",
+        "As an unavoidable result of poor childhood nutrition"
+      ],
+      "why": "The book treats aging as a disease, and the first lesson explains it as information being lost from our DNA."
+    },
+    {
+      "q": "What do the Blue Zones have in common?",
+      "a": [
+        "Plant-based diets, fasting and a beneficial stress state",
+        "High protein intake and daily intense exercise",
+        "Constant grazing to avoid ever feeling hungry",
+        "Heavy reliance on modern medicine and supplements"
+      ],
+      "why": "The second lesson lists a plant-based diet low in animal protein, a fasting period and a desirable state of stress."
+    },
+    {
+      "q": "What are senescent cells, as the summary describes them?",
+      "a": [
+        "Cells that stopped replicating but linger and speed aging",
+        "Cells that divide much faster than healthy ones",
+        "Cells that repair damaged DNA in other tissues",
+        "Cells that carry oxygen through the bloodstream"
+      ],
+      "why": "The third lesson calls them zombie cells: they forgot how to replicate, are not dead, and affect the healthy cells around them."
+    },
+    {
+      "q": "What are senolytics?",
+      "a": [
+        "Nutrients that help the body get rid of zombie cells",
+        "Drugs that lengthen the protective caps on DNA",
+        "Exercises that deliberately stress the body",
+        "Genes that permanently block cell division"
+      ],
+      "why": "The summary names senolytics as nutrients found in kale, red onion and capers that help clear senescent cells."
+    },
+    {
+      "q": "What is the Yamanaka method?",
+      "a": [
+        "Reprogramming cells from a seed that has stayed intact",
+        "Freezing healthy cells for use later in life",
+        "Editing genes to remove inherited mutations",
+        "Transplanting organs from younger donors"
+      ],
+      "why": "The third lesson calls it reprogramming cells from the seed that has remained unchanged since conception."
+    }
+  ]
+}

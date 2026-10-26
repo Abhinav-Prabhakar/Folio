@@ -1,0 +1,56 @@
+{
+  "book": "i-thought-it-was-just-me",
+  "title": "I Thought It Was Just Me",
+  "questions": [
+    {
+      "q": "How does Brene Brown define shame?",
+      "a": [
+        "The belief you are not good enough to belong",
+        "A temporary feeling of embarrassment",
+        "A fear of being physically alone",
+        "A reaction to unfair criticism"
+      ],
+      "why": "Lesson 1 defines shame as the belief that a shortcoming will keep you from acceptance."
+    },
+    {
+      "q": "What is a productive first step to understand shame?",
+      "a": [
+        "Recall past moments and define it yourself",
+        "Read every book written about it",
+        "Ask others to describe your flaws",
+        "Avoid situations that trigger it"
+      ],
+      "why": "Lesson 1 suggests thinking back to times you felt shame and using them to define the feeling."
+    },
+    {
+      "q": "What is critical awareness?",
+      "a": [
+        "Seeing why things happen as they happen",
+        "Criticizing yourself harshly",
+        "Ignoring your emotions",
+        "Analyzing other people's motives"
+      ],
+      "why": "Lesson 2 describes critical awareness as observing yourself and the context in the moment."
+    },
+    {
+      "q": "What does critical awareness let you do?",
+      "a": [
+        "Pause and see the bigger picture in time",
+        "Prove that you were right",
+        "Avoid all difficult conversations",
+        "Suppress the feeling permanently"
+      ],
+      "why": "Lesson 2 says the pause lets you consider context and address shame directly."
+    },
+    {
+      "q": "What does the summary say about anger?",
+      "a": [
+        "It is a tempting but wrong outlet for shame",
+        "It is the healthiest response to shame",
+        "It always signals someone else's fault",
+        "It should never be felt at all"
+      ],
+      "why": "Lesson 3 says anger feels relieving in the moment but leaves you feeling worse."
+    }
+  ]
+}

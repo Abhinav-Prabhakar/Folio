@@ -1,0 +1,56 @@
+{
+  "book": "the-purpose-driven-life",
+  "title": "The Purpose Driven Life",
+  "questions": [
+    {
+      "q": "What is the primary reason God created humans according to Warren?",
+      "a": [
+        "To serve Him",
+        "To achieve personal happiness",
+        "To dominate nature",
+        "To accumulate wealth"
+      ],
+      "why": "Warren states God created us to serve Him."
+    },
+    {
+      "q": "Which purpose involves sharing faith without traveling abroad?",
+      "a": [
+        "Representing Christ locally",
+        "Building a global mission",
+        "Writing theological texts",
+        "Funding churches"
+      ],
+      "why": "He says you can spread faith where you are."
+    },
+    {
+      "q": "What characteristic of Jesus is highlighted as a model for believers?",
+      "a": [
+        "Selfless service",
+        "Political power",
+        "Wealth accumulation",
+        "Strict legalism"
+      ],
+      "why": "Jesus is described as selfless and caring."
+    },
+    {
+      "q": "How does Warren describe God's act of creating humanity?",
+      "a": [
+        "An intentional act of joy",
+        "A random accident",
+        "A necessary duty",
+        "A hidden agenda"
+      ],
+      "why": "He says God chose to create out of joy."
+    },
+    {
+      "q": "Which biblical passage is cited to support persuading others?",
+      "a": [
+        "2 Corinthians 5:20‑21",
+        "John 3:16",
+        "Psalm 23",
+        "Genesis 1:1"
+      ],
+      "why": "The text references 2 Corinthians 5:20‑21."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "keto-answers",
+  "title": "Keto Answers",
+  "questions": [
+    {
+      "q": "What is the basic composition of a ketogenic diet?",
+      "a": [
+        "High fat and low carbohydrate",
+        "High protein and low fat",
+        "Low fat and high carbohydrate",
+        "Equal parts fat, protein and carbs"
+      ],
+      "why": "Lesson 1 defines keto as a high-fat, low-carb way of eating."
+    },
+    {
+      "q": "What are ketones?",
+      "a": [
+        "Molecules that cells can use as an alternative fuel",
+        "Hormones that store sugar in the liver",
+        "Enzymes that break down dietary protein",
+        "Fibers that slow down digestion"
+      ],
+      "why": "Lesson 1 says burning fat produces ketones for cells to use as fuel."
+    },
+    {
+      "q": "Why can keto reduce hunger, according to the summary?",
+      "a": [
+        "Fewer carbs means less insulin and fewer glucose swings",
+        "It removes all fat stored in the body",
+        "It speeds up the digestive tract considerably",
+        "It replaces meals with nutritional supplements"
+      ],
+      "why": "Lesson 1 links lower insulin to steadier glucose and less hunger."
+    },
+    {
+      "q": "What is the key to sticking to keto?",
+      "a": [
+        "Planning meals ahead so you do not eat too many carbs",
+        "Skipping breakfast every single day",
+        "Eating only at restaurants you trust",
+        "Counting calories without watching carbs"
+      ],
+      "why": "Lesson 2 says preparation and keeping tempting carbs out of the house matter most."
+    },
+    {
+      "q": "What does cyclical keto involve?",
+      "a": [
+        "Five days of strict keto, then two days with more carbs",
+        "Alternating one week on keto with one week off",
+        "Fasting every other day with no carbs at all",
+        "Eating carbs only on weekends and fasting weekdays"
+      ],
+      "why": "Lesson 3 describes the 70/20/10 split for five days and carbs on two."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "what-i-know-for-sure",
+  "title": "What I Know For Sure",
+  "questions": [
+    {
+      "q": "Which of these statements is made in What I Know For Sure?",
+      "a": [
+        "Everybody knows Oprah Winfrey.",
+        "Corruption is also everywhere.",
+        "Mahatma Gandhi held no office.",
+        "Lewis struggles with dyslexia."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does What I Know For Sure explore?",
+      "a": [
+        "From bad experiences, you can learn to take responsibility for your own happiness",
+        "Autonomy, investment and a mission are what keeps employees engaged and motivated",
+        "By creating a new sense of connection, psychedelics can help alleviate depression",
+        "Build your online marketing campaign around the value ladder and the sales funnel"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does What I Know For Sure teach?",
+      "a": [
+        "Use inspiration from books and people to strengthen your motivation for achieving…",
+        "Your plan to be discovered is flawed. Stop waiting and discover yourself – online!",
+        "Both mental and physical clutter are a drag, so clean up your house AND your brain",
+        "It wasn’t until 2013 that Deutsche’s shady business finally began to come to light"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in What I Know For Sure?",
+      "a": [
+        "The biggest problems you may face are a chance to build your courage, discipline, and…",
+        "Studies show a whopping 26% of 50-64 year-olds have not saved anything for retirement.",
+        "The people of Argentina know that their government’s financial experiments don’t work.",
+        "It’s hard to imagine that there was a time before venture capital and angel investing."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of What I Know For Sure?",
+      "a": [
+        "What I Know For Sure encourages you to create the life you want by pursuing excellence…",
+        "Have you ever heard somebody describe their hallucinatory, psychedelic trip experience?",
+        "If you have a hard time figuring a product out, it’s not your fault; it’s the designers",
+        "If you take a look back in history, the world was much different than we know it today."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

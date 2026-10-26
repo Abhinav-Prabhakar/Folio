@@ -1,0 +1,56 @@
+{
+  "book": "shattered",
+  "title": "Shattered",
+  "questions": [
+    {
+      "q": "What first brought Clinton's personal email account to public attention?",
+      "a": [
+        "A congressional committee found she used it for official business",
+        "A rival campaign leaked her private messages",
+        "A watchdog group sued for access to her server",
+        "A staffer admitted deleting classified files"
+      ],
+      "why": "Lesson 1 says a committee investigating Benghazi discovered the personal account."
+    },
+    {
+      "q": "What did FBI director James Comey say about the email case?",
+      "a": [
+        "Her aides were careless, but no charges would be filed",
+        "She had obstructed the investigation",
+        "Classified files were never found on the server",
+        "The case would go before a grand jury"
+      ],
+      "why": "Lesson 1 quotes Comey calling the aides careless while declining to charge anyone."
+    },
+    {
+      "q": "Why did later email leaks keep hurting the campaign?",
+      "a": [
+        "The public linked any email story to the scandal",
+        "They proved the private server was secure",
+        "They showed the FBI had cleared her early",
+        "They came from Clinton's own server"
+      ],
+      "why": "Lesson 1 says leaked DNC and campaign emails were read as more of the same scandal."
+    },
+    {
+      "q": "How did the Clinton team misjudge Bernie Sanders?",
+      "a": [
+        "They underestimated how much his anti-establishment message resonated",
+        "They expected him to switch parties",
+        "They assumed his supporters would back her",
+        "They thought he lacked money to compete"
+      ],
+      "why": "Lesson 2 says the campaign never grasped the anti-establishment mood Sanders tapped."
+    },
+    {
+      "q": "What internal problem does the summary describe in the campaign?",
+      "a": [
+        "Staff hoarded information to protect their own power",
+        "Staff agreed too quickly on every decision",
+        "Staff refused to meet with the candidate",
+        "Staff shared every plan in open meetings"
+      ],
+      "why": "Lesson 3 describes leaders keeping intelligence to themselves to hold power."
+    }
+  ]
+}

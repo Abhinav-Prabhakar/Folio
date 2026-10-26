@@ -1,0 +1,56 @@
+{
+  "book": "the-immortal-life-of-henrietta-lacks",
+  "title": "The Immortal Life of Henrietta Lacks",
+  "questions": [
+    {
+      "q": "What type of cancer was Henrietta Lacks diagnosed with?",
+      "a": [
+        "Cervical cancer",
+        "Breast cancer",
+        "Lung cancer",
+        "Leukemia"
+      ],
+      "why": "The text states her biopsy revealed stage I cervical cancer."
+    },
+    {
+      "q": "Which laboratory tool originated from Henrietta's cells?",
+      "a": [
+        "HeLa cells",
+        "HeLa virus",
+        "HeLa serum",
+        "HeLa tissue"
+      ],
+      "why": "Her cells became the widely used HeLa cell line."
+    },
+    {
+      "q": "How did Henrietta's family first learn about her contribution to medicine?",
+      "a": [
+        "From doctors treating her daughter",
+        "From a newspaper article",
+        "From a TV documentary",
+        "From a university lecture"
+      ],
+      "why": "The daughter was told by the doctors who cared for her."
+    },
+    {
+      "q": "What treatment did Henrietta receive that caused severe burns?",
+      "a": [
+        "Radium exposure",
+        "Chemotherapy",
+        "Radiation therapy",
+        "Surgical removal"
+      ],
+      "why": "She endured hours of radium exposure that burned her."
+    },
+    {
+      "q": "Which later case highlighted similar ethical issues as Henrietta's cell use?",
+      "a": [
+        "A leukemia patient whose cells were sold without consent",
+        "A heart transplant donor without family permission",
+        "A DNA database used without notice",
+        "A vaccine trial without disclosure"
+      ],
+      "why": "The text mentions a leukemia patient whose cells were marketed without his knowledge."
+    }
+  ]
+}

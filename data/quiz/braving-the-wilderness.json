@@ -1,0 +1,31 @@
+{
+  "book": "braving-the-wilderness",
+  "title": "Braving The Wilderness",
+  "questions": [
+    {
+      "q": "What does the summary say true belonging is mostly about?",
+      "a": ["Learning to belong to yourself first", "Being accepted by the largest possible group", "Avoiding any situation where you stand alone", "Changing your opinions to match your friends"],
+      "why": "The overview says Brown sees belonging as something we mostly owe ourselves, even when nobody is standing behind us."
+    },
+    {
+      "q": "What did Brown start doing to stop depending on other people's opinions?",
+      "a": ["Writing herself permission slips to be herself", "Cutting off contact with her old friends", "Copying the dress code of her colleagues", "Asking her partner to make her decisions"],
+      "why": "Lesson 1 describes permission slips such as allowing herself to be goofy and enjoy life, which made her less reliant on approval."
+    },
+    {
+      "q": "Which trait is part of the seven that build trust, according to the summary?",
+      "a": ["Owning your mistakes openly", "Never admitting when you are wrong", "Keeping every thought to yourself", "Avoiding promises to other people"],
+      "why": "Lesson 2 lists reliability, owning mistakes, respecting boundaries, protecting secrets, integrity, not judging and generosity."
+    },
+    {
+      "q": "What does the summary recommend doing with anger?",
+      "a": ["Acknowledge it and turn it into positive change", "Suppress it until the feeling fades away", "Let it harden into lasting resentment", "Express it only toward people you trust"],
+      "why": "Lesson 3 says to acknowledge anger but use it to become better rather than bitter, before it turns into resentment."
+    },
+    {
+      "q": "What did Antoine Leiris do after losing his wife in the Paris attacks?",
+      "a": ["He wrote a letter refusing to hate the terrorists", "He withdrew from public life permanently", "He campaigned to ban social media platforms", "He demanded revenge against the attackers"],
+      "why": "Lesson 3 describes his open letter, You Will Not Have My Hate, pledging that he and his son would keep moving forward."
+    }
+  ]
+}

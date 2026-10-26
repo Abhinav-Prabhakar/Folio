@@ -1,0 +1,31 @@
+{
+  "book": "ghettoside",
+  "title": "Ghettoside",
+  "questions": [
+    {
+      "q": "According to Leovy, why did violence become an accepted way to settle disputes?",
+      "a": ["No proper state legal system was ever established there", "Residents rejected every form of organized justice", "Courts were too expensive for most families to use", "Local leaders preferred to settle matters privately"],
+      "why": "Lesson 1 traces it to a history of discrimination and the absence of a trusted legal system."
+    },
+    {
+      "q": "Why is being called a snitch so dangerous in the neighborhoods Leovy describes?",
+      "a": ["A street justice system has replaced official law there", "Residents fear their reports will be ignored by police", "Witnesses are usually offered money for testimony", "Police rarely ask residents for any information"],
+      "why": "Lesson 1 says being a snitch is treated as a death sentence under the law of the street."
+    },
+    {
+      "q": "What is wrong with the LAPD's focus on prevention?",
+      "a": ["It punishes small crimes while murders go unsolved", "It spends too much money on detective units", "It ignores petty crime in wealthy districts", "It relies too heavily on community tips"],
+      "why": "Lesson 2 says prevention drains resources from detectives while punishing people for trivialities."
+    },
+    {
+      "q": "How do mass arrests for minor offenses affect victims' families?",
+      "a": ["They deepen disrespect for a force that ignores violence", "They make families more willing to cooperate", "They reduce the number of murders in the short term", "They free up detectives to focus on bigger cases"],
+      "why": "Lesson 2 says families resent punishment for small things when real violence goes unaddressed."
+    },
+    {
+      "q": "What does Leovy say would restore faith in the legal system?",
+      "a": ["Solving murders equally, whatever the victim's race", "Hiring more officers to patrol the streets", "Investing in youth programs and job training", "Publishing clearer statistics on local crime"],
+      "why": "Lesson 3 argues that solving more murder cases would signal that all citizens matter equally."
+    }
+  ]
+}

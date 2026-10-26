@@ -1,0 +1,56 @@
+{
+  "book": "how-democracies-die",
+  "title": "How Democracies Die",
+  "questions": [
+    {
+      "q": "How do democracies usually break down in the modern world, according to the authors?",
+      "a": [
+        "Through a slow weakening of institutions and norms",
+        "Through a sudden military coup followed by martial law",
+        "Through a single fraudulent election and mass protests",
+        "Through a foreign invasion that removes the government"
+      ],
+      "why": "The overview says democracy today ends gradually, as institutions erode and political norms shift."
+    },
+    {
+      "q": "What role do political parties play as gatekeepers of democracy?",
+      "a": [
+        "They decide which candidates enter mainstream politics",
+        "They write the constitution and interpret its rules",
+        "They oversee elections and count the votes",
+        "They control the courts and appoint judges"
+      ],
+      "why": "Lesson 1 says parties control access to mainstream politics by choosing which candidates to accept."
+    },
+    {
+      "q": "How did Hugo Chavez dismantle Venezuela's democratic system?",
+      "a": [
+        "He packed the supreme court, silenced media and jailed rivals",
+        "He canceled all elections and declared himself president for life",
+        "He dissolved the army and replaced it with foreign troops",
+        "He banned all political parties except his own"
+      ],
+      "why": "Lesson 1 lists court packing, silencing independent media and exiling or imprisoning opponents."
+    },
+    {
+      "q": "Which two advantages let Trump bypass the Republican Party's gatekeepers?",
+      "a": [
+        "Fame and money",
+        "Military support and party loyalty",
+        "Legal expertise and experience in office",
+        "Media ownership and union backing"
+      ],
+      "why": "Lesson 2 says his fame and wealth meant he did not need the party establishment's approval."
+    },
+    {
+      "q": "What do the authors recommend for resisting authoritarianism?",
+      "a": [
+        "Fight extremism within democratic limits and seek compromise",
+        "Use the same dirty tricks that extremists use",
+        "Boycott elections until the political system improves",
+        "Rely on the courts rather than political organizing"
+      ],
+      "why": "Lesson 3 warns against fighting fire with fire and urges cooperation and compromise within democratic bounds."
+    }
+  ]
+}

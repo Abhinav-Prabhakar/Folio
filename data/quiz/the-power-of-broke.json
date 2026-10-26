@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-broke",
+  "title": "The Power Of Broke",
+  "questions": [
+    {
+      "q": "What was Daymond John's first product sold on a $40 budget?",
+      "a": [
+        "Hats",
+        "T‑shirts",
+        "Shoes",
+        "Bags"
+      ],
+      "why": "He sold hats made from cotton and cloth."
+    },
+    {
+      "q": "Which principle does the book say is triggered by being broke?",
+      "a": [
+        "Necessity is the mother of invention",
+        "Risk aversion",
+        "Overconfidence",
+        "Patience"
+      ],
+      "why": "Being broke forces creative resource use."
+    },
+    {
+      "q": "How many stages of business growth does the book outline?",
+      "a": [
+        "Four",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "why": "The book lists four stages."
+    },
+    {
+      "q": "Which platform does the book cite as a free way to blog?",
+      "a": [
+        "Medium",
+        "WordPress",
+        "Blogger",
+        "LinkedIn"
+      ],
+      "why": "Medium is mentioned as a free blogging platform."
+    },
+    {
+      "q": "What does the author claim about the cost of running a business today?",
+      "a": [
+        "It's getting cheaper",
+        "It's getting more expensive",
+        "It's unchanged",
+        "It's unpredictable"
+      ],
+      "why": "The book says running a business is cheaper now."
+    }
+  ]
+}

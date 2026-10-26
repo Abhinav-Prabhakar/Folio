@@ -1,0 +1,56 @@
+{
+  "book": "the-confidence-code",
+  "title": "The Confidence Code",
+  "questions": [
+    {
+      "q": "What percentage of Fortune 500 CEOs are women?",
+      "a": [
+        "4%",
+        "25%",
+        "10%",
+        "50%"
+      ],
+      "why": "The overview cites 4% female CEOs."
+    },
+    {
+      "q": "What did Zach Estes' experiment involve?",
+      "a": [
+        "Women solving puzzles less often than men",
+        "Men solving puzzles faster than women",
+        "Both genders solving identical puzzles",
+        "Participants rating confidence levels"
+      ],
+      "why": "The text references a puzzle experiment showing gender difference."
+    },
+    {
+      "q": "According to the book, what trait makes men more likely to become CEOs?",
+      "a": [
+        "Aggressive confidence display",
+        "Collaborative humility",
+        "Higher education levels",
+        "Longer work hours"
+      ],
+      "why": "Men are described as more aggressive in showing confidence."
+    },
+    {
+      "q": "How much of confidence is said to be genetically determined?",
+      "a": [
+        "Up to 50%",
+        "10%",
+        "75%",
+        "90%"
+      ],
+      "why": "Research claims genetics account for about half of confidence."
+    },
+    {
+      "q": "What can alter gene expression related to confidence?",
+      "a": [
+        "Personal experiences",
+        "Dietary supplements",
+        "Exercise alone",
+        "Sleep patterns"
+      ],
+      "why": "The book notes experiences can physically change gene shape."
+    }
+  ]
+}

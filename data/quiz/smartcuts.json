@@ -1,0 +1,56 @@
+{
+  "book": "smartcuts",
+  "title": "Smartcuts",
+  "questions": [
+    {
+      "q": "What kind of mentorship does the summary recommend?",
+      "a": [
+        "An informal friendship, not a paid program",
+        "A formal contract with clear goals",
+        "A paid coach with a fixed schedule",
+        "A distant expert you rarely meet"
+      ],
+      "why": "Lesson 1 says informal mentors are more invested in your success."
+    },
+    {
+      "q": "Why does informal mentorship work better?",
+      "a": [
+        "Mentors invest more when they feel personally connected",
+        "Friends are always cheaper than coaches",
+        "Formal mentors usually lack experience",
+        "Friends are more willing to criticise you"
+      ],
+      "why": "Lesson 1 says personal connection makes mentors stick with you through hard times."
+    },
+    {
+      "q": "What did Michelle Phan do after her Lady Gaga makeup video took off?",
+      "a": [
+        "She made more videos recreating popular looks",
+        "She stopped posting to protect her lead",
+        "She switched to fashion modelling",
+        "She sold her channel to a network"
+      ],
+      "why": "Lesson 2 says she doubled down with Catwoman, Disney and Burton looks."
+    },
+    {
+      "q": "What does the summary mean by good timing?",
+      "a": [
+        "Hitting the right nerve at the right moment",
+        "Posting on a fixed weekly schedule",
+        "Waiting until conditions are perfect",
+        "Copying whatever is trending that day"
+      ],
+      "why": "Lesson 2 says you cannot predict a hit, but you can time your efforts."
+    },
+    {
+      "q": "Why aim for a 10x improvement instead of 10%?",
+      "a": [
+        "It forces you to rethink everything from scratch",
+        "It is cheaper and faster to test",
+        "It keeps risk low and steady",
+        "It needs less imagination from teams"
+      ],
+      "why": "Lesson 3 says moonshots break limited thinking and demand fresh approaches."
+    }
+  ]
+}

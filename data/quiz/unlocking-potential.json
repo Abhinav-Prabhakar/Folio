@@ -1,0 +1,52 @@
+{
+  "book": "unlocking-potential",
+  "title": "Unlocking Potential",
+  "questions": [
+    {
+      "q": "What first step does the author say is essential for coaching?",
+      "a": [
+        "Build trust",
+        "Set goals",
+        "Give feedback",
+        "Assign tasks"
+      ],
+      "why": "First lesson stresses building trust before unlocking potential."
+    },
+    {
+      "q": "According to the text, how does honest communication affect a team?",
+      "a": [
+        "Fosters healthy communication",
+        "Creates competition",
+        "Reduces productivity",
+        "Increases turnover"
+      ]
+    },
+    {
+      "q": "Which question does the author suggest to gauge daily skill growth?",
+      "a": [
+        "Do you seek to grow your skills each day?",
+        "What is your biggest weakness?",
+        "How many hours did you work?",
+        "Do you feel motivated today?"
+      ]
+    },
+    {
+      "q": "What role does asking questions play in coaching, per the author?",
+      "a": [
+        "It is the hallmark of coaching",
+        "It replaces feedback",
+        "It limits autonomy",
+        "It ensures compliance"
+      ]
+    },
+    {
+      "q": "How does the author recommend people help themselves most effectively?",
+      "a": [
+        "Give themselves feedback",
+        "Seek external advice",
+        "Avoid reflection",
+        "Follow strict plans"
+      ]
+    }
+  ]
+}

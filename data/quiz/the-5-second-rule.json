@@ -1,0 +1,56 @@
+{
+  "book": "the-5-second-rule",
+  "title": "The 5 Second Rule",
+  "questions": [
+    {
+      "q": "What does the 5 Second Rule tell you to do?",
+      "a": [
+        "Move physically within five seconds of an impulse to act",
+        "Wait five seconds before answering a hard question",
+        "Count to five whenever anxiety rises",
+        "Plan for five seconds before every task"
+      ],
+      "why": "The overview says the brain kills an idea unless you act within five seconds."
+    },
+    {
+      "q": "What are the three reasons the right moment never arrives?",
+      "a": [
+        "Change is new, uncertain and scary",
+        "Change is costly, slow and lonely",
+        "Change is risky, public and permanent",
+        "Change is painful, rare and unpredictable"
+      ],
+      "why": "Lesson 2 lists novelty, uncertainty and fear as the constants behind every change."
+    },
+    {
+      "q": "How does the summary describe courage?",
+      "a": [
+        "It compounds through small acts repeated over time",
+        "It is a fixed trait some people are born with",
+        "It appears suddenly in moments of crisis",
+        "It fades unless you attempt bigger risks"
+      ],
+      "why": "Lesson 1 compares courage to compound interest, built by many small choices."
+    },
+    {
+      "q": "What did Antonio Damasio's research suggest about decisions?",
+      "a": [
+        "Most of them are driven by feelings rather than facts",
+        "Most of them follow careful logical deliberation",
+        "Feelings have almost no influence on behavior",
+        "People act first and feel nothing afterwards"
+      ],
+      "why": "Lesson 3 cites the finding that about 95 percent of decisions come from feeling."
+    },
+    {
+      "q": "What does psychological intervention mean in the summary?",
+      "a": [
+        "Changing your behavior first so your feelings follow",
+        "Talking through your feelings before acting",
+        "Rewriting negative thoughts before sleep",
+        "Avoiding situations that trigger strong emotion"
+      ],
+      "why": "Lesson 3 quotes Seneca's idea that doing good leads to feeling good."
+    }
+  ]
+}

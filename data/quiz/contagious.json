@@ -1,0 +1,56 @@
+{
+  "book": "contagious",
+  "title": "Contagious",
+  "questions": [
+    {
+      "q": "What does Berger say is the most powerful marketing tool?",
+      "a": [
+        "Person-to-person word of mouth",
+        "Paid social media advertising",
+        "Television and billboard campaigns",
+        "Search engine optimization"
+      ],
+      "why": "Lesson 1 argues that sharing between people, not formal online marketing, is what makes ideas and products spread."
+    },
+    {
+      "q": "What share of word-of-mouth sharing happens online, according to the summary?",
+      "a": [
+        "About 7 percent",
+        "About 25 percent",
+        "About 50 percent",
+        "About 75 percent"
+      ],
+      "why": "The summary says only 7 percent of sharing happens online, while 93 percent comes from face-to-face interaction."
+    },
+    {
+      "q": "Why is a friend's recommendation so effective?",
+      "a": [
+        "We trust peers more, and their advice is well targeted",
+        "Friends are paid to promote the products they mention",
+        "Friends simply repeat the ads they saw online",
+        "Friends recommend everything they happen to try"
+      ],
+      "why": "Lesson 1 says we trust our peers more than advertisers, and a friend usually recommends something that fits our needs."
+    },
+    {
+      "q": "What made the song Friday and the Geico camel spread so widely?",
+      "a": [
+        "A weekly cue that brought them to mind on certain days",
+        "Expensive advertising bought on television",
+        "A catchy tune performed by professional singers",
+        "Endorsements from famous athletes"
+      ],
+      "why": "Lesson 2 shows both spread far more on Fridays and Wednesdays because the day itself triggered people to remember them."
+    },
+    {
+      "q": "Why do stories make ideas stick, according to the summary?",
+      "a": [
+        "They carry a message we absorb without noticing",
+        "They present facts in a clear, ordered list",
+        "They are shorter than most other content",
+        "They avoid emotional details entirely"
+      ],
+      "why": "Lesson 3 says stories smuggle a moral beneath the events, so we take it in while focused on the plot."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "meditations-on-first-philosophy",
+  "title": "Meditations On First Philosophy",
+  "questions": [
+    {
+      "q": "What does Descartes do with any belief that can be doubted even slightly?",
+      "a": [
+        "He abandons it and builds only on certainty",
+        "He keeps it until a better belief appears",
+        "He tests it by asking other philosophers",
+        "He treats it as true if it seems practical"
+      ],
+      "why": "Lesson 1 says you cannot build understanding on lies, so anything doubtful must be set aside."
+    },
+    {
+      "q": "Why does Descartes distrust the senses?",
+      "a": [
+        "Dreams and illusions can feel completely real",
+        "Other people often describe things inaccurately",
+        "Scientific instruments are more reliable than eyes",
+        "The senses only work properly in daylight"
+      ],
+      "why": "Lesson 1 uses the vividness of dreams and fake images to show that what we perceive may not be real."
+    },
+    {
+      "q": "What is the one thing Descartes finds he cannot doubt?",
+      "a": [
+        "That he exists because he is thinking",
+        "That the physical world around him is real",
+        "That a benevolent God would not deceive him",
+        "That mathematics describes the universe perfectly"
+      ],
+      "why": "Lesson 2 says even if the senses deceive us, the act of thinking proves that the thinker exists."
+    },
+    {
+      "q": "Which level of truth does Descartes consider the most reliable?",
+      "a": [
+        "Truths explained using only the mind, such as mathematics",
+        "Truths based on direct observation with the senses",
+        "Truths that combine imagination with sensory experience",
+        "Truths accepted on the authority of respected teachers"
+      ],
+      "why": "Lesson 3 says mind-only truths are the most sound because thinking is our most reliable faculty."
+    },
+    {
+      "q": "What are third-level truths like dragons and fairies, according to Descartes?",
+      "a": [
+        "Combinations of mind and senses that have little reality",
+        "Direct perceptions that are as reliable as math",
+        "Purely mental constructs with no sensory element",
+        "Religious truths that reason cannot examine"
+      ],
+      "why": "Lesson 3 places mixtures of mind and senses, such as mythical creatures, in the least reliable category."
+    }
+  ]
+}

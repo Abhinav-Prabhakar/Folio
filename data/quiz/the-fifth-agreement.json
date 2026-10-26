@@ -1,0 +1,56 @@
+{
+  "book": "the-fifth-agreement",
+  "title": "The Fifth Agreement",
+  "questions": [
+    {
+      "q": "Who co-wrote The Fifth Agreement with Don Miguel Ruiz?",
+      "a": [
+        "His son, Don Jose Ruiz",
+        "His brother, Don Luis Ruiz",
+        "His editor, Don Carlos Ruiz",
+        "His student, Don Pedro Ruiz"
+      ],
+      "why": "The overview says Ruiz wrote the sequel with his son, Don Jose Ruiz, in 2009."
+    },
+    {
+      "q": "What is the fifth agreement the book adds to the original four?",
+      "a": [
+        "Be skeptical, but learn to listen",
+        "Always keep your word, whatever it costs",
+        "Take every comment personally and respond",
+        "Make assumptions only when they help you"
+      ],
+      "why": "The overview lists the new principle as being skeptical while still learning to listen."
+    },
+    {
+      "q": "According to lesson 1, what happens as children are introduced to symbology?",
+      "a": [
+        "They absorb culturally biased values and norms",
+        "They lose the ability to use language",
+        "They stop copying their parents entirely",
+        "They naturally reject every social rule"
+      ],
+      "why": "Lesson 1 says symbols carry cultural values and norms, so growing up conditions us."
+    },
+    {
+      "q": "Why does lesson 2 conclude that everything we know is only relatively true?",
+      "a": [
+        "Knowledge needs shared symbols that people must agree on",
+        "Facts change completely from one day to the next",
+        "Only scientists are able to describe reality",
+        "Language slowly destroys the things it names"
+      ],
+      "why": "Lesson 2 argues symbols require agreement between people, so knowledge is relative."
+    },
+    {
+      "q": "In lesson 3, how should you handle someone insulting or labeling you?",
+      "a": [
+        "Treat their words as their truth, not yours",
+        "Repeat the insult back to them immediately",
+        "Accept it as an objective fact about you",
+        "Stop speaking to that person for good"
+      ],
+      "why": "Lesson 3 advises seeing others' words as symbols and relative truths you can decline."
+    }
+  ]
+}

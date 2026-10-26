@@ -1,0 +1,56 @@
+{
+  "book": "quiet",
+  "title": "Quiet",
+  "questions": [
+    {
+      "q": "Why do introverts tend to dislike small talk, according to the summary?",
+      "a": [
+        "They process stimuli more thoroughly and prefer deeper subjects",
+        "They are less curious about other people's lives",
+        "They find it harder to remember names and faces",
+        "They were taught to avoid talking to strangers"
+      ],
+      "why": "Lesson 1 says introverts take in information deeply, so they are engaged by profound conversation."
+    },
+    {
+      "q": "What does the summary say Western culture often confuses?",
+      "a": [
+        "Confidence with competence",
+        "Kindness with weakness",
+        "Silence with sadness",
+        "Ambition with intelligence"
+      ],
+      "why": "Lesson 2 says we tend to see the most confident person as the most competent one."
+    },
+    {
+      "q": "Which achievement does the summary offer as an example of solitary work?",
+      "a": [
+        "Einstein developing the theory of relativity",
+        "Steve Jobs pitching a new phone",
+        "Oprah hosting a daily talk show",
+        "Ford building a moving assembly line"
+      ],
+      "why": "Lesson 3 notes that Einstein worked out relativity alone, as did the writer of Harry Potter."
+    },
+    {
+      "q": "How does the summary describe most office environments for introverts?",
+      "a": [
+        "Full of interruptions and information overload",
+        "Quiet and suited to deep concentration",
+        "Built around private rooms and closed doors",
+        "Designed mainly for people working remotely"
+      ],
+      "why": "Lesson 3 says open offices, meetings and brainstorming leave introverts stressed and overloaded."
+    },
+    {
+      "q": "What does the summary say Harvard tries to do with its graduates?",
+      "a": [
+        "Groom them into extroverts through group work and seminars",
+        "Train them to work alone for long stretches",
+        "Discourage them from joining campus clubs",
+        "Select only students who prefer silence"
+      ],
+      "why": "Lesson 2 says Harvard pushes students through group work, seminars and social events."
+    }
+  ]
+}

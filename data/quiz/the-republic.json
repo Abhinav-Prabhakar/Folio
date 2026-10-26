@@ -1,0 +1,56 @@
+{
+  "book": "the-republic",
+  "title": "The Republic",
+  "questions": [
+    {
+      "q": "What definition of justice does Socrates propose?",
+      "a": [
+        "Minding one's own business",
+        "Helping the wealthy",
+        "Obeying the ruler",
+        "Seeking personal glory"
+      ],
+      "why": "Socrates defines justice as minding one's own business."
+    },
+    {
+      "q": "According to Plato, how many parts compose the soul?",
+      "a": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "why": "He outlines a tripartite theory of the soul."
+    },
+    {
+      "q": "Which part of the soul is associated with city rulers?",
+      "a": [
+        "Reason",
+        "Appetite",
+        "Spirit",
+        "Emotion"
+      ],
+      "why": "Reason is the golden part governing just laws."
+    },
+    {
+      "q": "What is the purpose of a 'noble lie' in Plato's city?",
+      "a": [
+        "Maintain social harmony",
+        "Deceive enemies",
+        "Increase taxes",
+        "Promote war"
+      ],
+      "why": "A noble lie is used to keep harmony."
+    },
+    {
+      "q": "In the Allegory of the Cave, what does the cave represent?",
+      "a": [
+        "Ignorance",
+        "Freedom",
+        "Wealth",
+        "Power"
+      ],
+      "why": "The cave symbolizes people's ignorance."
+    }
+  ]
+}

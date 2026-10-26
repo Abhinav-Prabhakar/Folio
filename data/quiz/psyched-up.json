@@ -1,0 +1,56 @@
+{
+  "book": "psyched-up",
+  "title": "Psyched Up",
+  "questions": [
+    {
+      "q": "What does reappraisal involve before a big performance?",
+      "a": [
+        "Relabeling nervous energy as excitement",
+        "Forcing yourself to feel completely calm",
+        "Ignoring the physical signs of stress",
+        "Rehearsing your material one final time"
+      ],
+      "why": "Lesson 1 says you cannot stop the stress hormones, but you can turn anxiety into excitement by reappraising it."
+    },
+    {
+      "q": "Why is shifting from nerves to excitement easier than shifting to calm?",
+      "a": [
+        "Worry and excitement sit closer together emotionally",
+        "Excitement requires no physical arousal at all",
+        "Calm can only be reached through long practice",
+        "Nervousness disappears once the event begins"
+      ],
+      "why": "Lesson 1 says anxious and calm are very different states, while worried and excited are close enough to swap easily."
+    },
+    {
+      "q": "How does the centering technique work?",
+      "a": [
+        "Breathe deeply, release tension and gather energy at the belly",
+        "Tense every muscle, then stand up and shake it off",
+        "Picture the audience succeeding alongside you",
+        "Repeat a single word until your mind goes blank"
+      ],
+      "why": "Lesson 1 describes centering as deep breathing, releasing muscle tension and visualizing energy at the belly button."
+    },
+    {
+      "q": "What did the golf club study suggest?",
+      "a": [
+        "Belief in a club's history improved players' scores",
+        "Expensive clubs always outperform cheaper ones",
+        "Golfers play worse when they feel observed",
+        "Practice matters far more than any equipment"
+      ],
+      "why": "Lesson 2 says golfers told the clubs belonged to pros performed better, because the belief alone helped them."
+    },
+    {
+      "q": "What did T-Mobile's ads attacking bigger rivals achieve?",
+      "a": [
+        "They won customers by casting the firm as the underdog",
+        "They forced rivals to lower their prices",
+        "They made the brand seem more premium",
+        "They ended the company's financial losses at once"
+      ],
+      "why": "Lesson 3 says the campaign increased competition and led people to root for the underdog, helping save the company."
+    }
+  ]
+}

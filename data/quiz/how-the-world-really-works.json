@@ -1,0 +1,56 @@
+{
+  "book": "how-the-world-really-works",
+  "title": "How the World Really Works",
+  "questions": [
+    {
+      "q": "What share of global energy comes from fossil fuels, according to Smil?",
+      "a": [
+        "Roughly 75 to 80 percent",
+        "Roughly 40 to 45 percent",
+        "Roughly 55 to 60 percent",
+        "Roughly 90 to 95 percent"
+      ],
+      "why": "Lesson one puts fossil fuels at 75 to 80 percent of energy use, with renewables near 16 percent and nuclear at 4."
+    },
+    {
+      "q": "Which energy source does Smil call reliable and low-emission but badly regarded?",
+      "a": [
+        "Nuclear power",
+        "Solar power",
+        "Wind power",
+        "Natural gas"
+      ],
+      "why": "The summary says nuclear is reliable and sparing to the planet, yet a few disasters gave it a poor reputation."
+    },
+    {
+      "q": "Which four materials does Smil say the modern world is built on?",
+      "a": [
+        "Concrete, steel, plastic and ammonia",
+        "Wood, glass, aluminum and copper",
+        "Concrete, iron, rubber and salt",
+        "Steel, cement, silicon and oil"
+      ],
+      "why": "Lesson two lists concrete, steel, plastic and ammonia, noting that making all four depends heavily on fossil fuels."
+    },
+    {
+      "q": "Why won't solar panels and wind turbines make the world fully green right away?",
+      "a": [
+        "They are built from materials whose production uses fossil fuels",
+        "They produce no usable electricity at scale",
+        "They cost more than fossil fuels to install",
+        "They cannot be recycled at all today"
+      ],
+      "why": "The summary points out that even renewable hardware relies on concrete, steel, plastic and ammonia, all fossil-fuel intensive."
+    },
+    {
+      "q": "What does Smil recommend practicing to better understand reality?",
+      "a": [
+        "Thinking in orders of magnitude and powers of ten",
+        "Memorizing the latest economic statistics",
+        "Reading only peer-reviewed research",
+        "Learning to code and analyze data"
+      ],
+      "why": "Lesson three says most people cannot grasp a million versus a billion, and suggests using powers of ten and prefixes."
+    }
+  ]
+}

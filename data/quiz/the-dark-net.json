@@ -1,0 +1,56 @@
+{
+  "book": "the-dark-net",
+  "title": "The Dark Net",
+  "questions": [
+    {
+      "q": "Which extremist group's website is the most visited in the UK according to Alexa?",
+      "a": [
+        "British National Party",
+        "Labour Party",
+        "Conservative Party",
+        "Green Party"
+      ],
+      "why": "Alexa lists the British National Party as the top UK extremist site."
+    },
+    {
+      "q": "What was the main flaw of David Chaum's DigiCash?",
+      "a": [
+        "Numbers were easy to copy",
+        "High transaction fees",
+        "Slow processing",
+        "Limited adoption"
+      ],
+      "why": "Chaum noted the number strings were too easy to copy, reducing value."
+    },
+    {
+      "q": "Which online community helped a 30‑year‑old named Gerard feel saved?",
+      "a": [
+        "A self‑harm forum",
+        "A gaming chat",
+        "A cooking group",
+        "A travel forum"
+      ],
+      "why": "Gerard said self‑harm forums saved his life."
+    },
+    {
+      "q": "What type of content thrives on the Dark Net?",
+      "a": [
+        "Cryptocurrency and radicalism",
+        "Educational videos",
+        "Weather reports",
+        "Sports betting"
+      ],
+      "why": "The Dark Net hosts crypto, radicalism, and other illicit content."
+    },
+    {
+      "q": "Which platform is NOT mentioned as a discreet place for extremists?",
+      "a": [
+        "YouTube",
+        "Twitter",
+        "Instagram",
+        "Facebook"
+      ],
+      "why": "The text cites Twitter, Facebook, and YouTube, not Instagram."
+    }
+  ]
+}

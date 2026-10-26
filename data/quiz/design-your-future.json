@@ -1,0 +1,56 @@
+{
+  "book": "design-your-future",
+  "title": "Design Your Future",
+  "questions": [
+    {
+      "q": "What three steps does Quartuccio recommend for escaping a life that feels stuck?",
+      "a": [
+        "Awakening, disrupting and designing",
+        "Planning, saving and retiring",
+        "Learning, networking and negotiating",
+        "Accepting, enduring and adapting"
+      ],
+      "why": "Lesson 1 lays out the three stages, starting with waking up to your current patterns."
+    },
+    {
+      "q": "What does the awakening stage involve?",
+      "a": [
+        "Using mindfulness to notice the habits that keep you stuck",
+        "Quitting your job before making any plans",
+        "Asking friends to choose a new career for you",
+        "Setting a strict deadline for your next promotion"
+      ],
+      "why": "Lesson 1 says you observe your actions and focus on what makes you unhappy."
+    },
+    {
+      "q": "Why does visualizing your future self help motivate change?",
+      "a": [
+        "We picture our future selves almost like strangers, so seeing a bad outcome shocks us",
+        "The brain treats future plans as already achieved",
+        "Visualization removes all risk from a career change",
+        "It replaces the need for any daily habits"
+      ],
+      "why": "Lesson 2 cites brain scans showing future selves feel distant, which makes a vivid picture powerful."
+    },
+    {
+      "q": "How does a daily scorecard help you pursue a goal?",
+      "a": [
+        "Seeing accumulated successful days builds confidence and softens single slip-ups",
+        "It punishes every missed day with a financial penalty",
+        "It compares your progress with that of your friends",
+        "It replaces the need to set any long-term goals"
+      ],
+      "why": "Lesson 3 says a streak of completed days makes one failure look small."
+    },
+    {
+      "q": "What evening rituals does the summary suggest for setting up a good day?",
+      "a": [
+        "Limiting devices, meditating and planning the next day",
+        "Reviewing email until you feel sleepy",
+        "Working late to finish every unfinished task",
+        "Watching television to switch off completely"
+      ],
+      "why": "Lesson 3 recommends these habits to make evenings effective rather than draining."
+    }
+  ]
+}

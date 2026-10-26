@@ -1,0 +1,56 @@
+{
+  "book": "the-richest-man-in-babylon",
+  "title": "The Richest Man In Babylon",
+  "questions": [
+    {
+      "q": "What two habits mainly build wealth according to the book?",
+      "a": [
+        "Living below means and investing wisely",
+        "Living lavishly and borrowing heavily",
+        "Spending freely and saving nothing",
+        "Borrowing and spending extravagantly"
+      ],
+      "why": "The text states wealth comes from living below means and investing wisely."
+    },
+    {
+      "q": "Which example illustrates creating luck through hard work?",
+      "a": [
+        "Jerry Weintraub calling Elvis's manager daily",
+        "A lottery winner",
+        "A sudden inheritance",
+        "A spontaneous road trip"
+      ],
+      "why": "The book cites Jerry Weintraub's daily calls to Elvis as a luck‑making example."
+    },
+    {
+      "q": "What is the main reason debt hinders wealth building?",
+      "a": [
+        "It forces monthly payments that cut savings",
+        "It increases income",
+        "It boosts credit score",
+        "It creates investment opportunities"
+      ],
+      "why": "Debt requires payments that reduce the money available to save and invest."
+    },
+    {
+      "q": "Which principle is NOT mentioned in the book's wealth lessons?",
+      "a": [
+        "Living slightly below your means",
+        "Investing wisely",
+        "Lending money instead of borrowing",
+        "Spending all income on luxuries"
+      ],
+      "why": "The book lists saving, investing, and lending, not spending all income."
+    },
+    {
+      "q": "What does the author suggest about 'luck' in wealth creation?",
+      "a": [
+        "It can be manufactured through opportunity",
+        "It is purely random",
+        "It is irrelevant to success",
+        "It depends on genetics"
+      ],
+      "why": "The text says luck can be manufactured by creating opportunities."
+    }
+  ]
+}

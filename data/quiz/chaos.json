@@ -1,0 +1,31 @@
+{
+  "book": "chaos",
+  "title": "Chaos",
+  "questions": [
+    {
+      "q": "What did Edward Lorenz notice while modeling the weather?",
+      "a": ["Tiny rounding changes drastically altered the forecast", "Weather could be predicted months in advance", "Small inputs never affect large systems", "Butterflies avoid regions with storms"],
+      "why": "Lesson 1 says dropping even a third decimal point made his whole weather study turn out completely differently."
+    },
+    {
+      "q": "What does the butterfly effect describe?",
+      "a": ["A tiny change can dramatically alter a whole system", "Order always emerges from apparent disorder", "Chaos disappears once enough data is gathered", "Large causes always produce large effects"],
+      "why": "Lesson 1 uses the butterfly in Beijing and the storm in New York to show how small acts reshape outcomes."
+    },
+    {
+      "q": "According to the summary, what is chaos?",
+      "a": ["A basic feature of how the universe works", "A mathematical error in early models", "A problem better computers will solve", "A theory modern science has rejected"],
+      "why": "Lesson 2 argues chaos is a law of nature, as real as the predictable laws we usually study."
+    },
+    {
+      "q": "What happened when scientists added factors like limited food to population models?",
+      "a": ["The populations behaved completely differently", "The models became perfectly predictable", "The populations grew without any limit", "The extra factors changed nothing"],
+      "why": "Lesson 2 says adding even one overlooked factor produced chaos instead of the expected pattern."
+    },
+    {
+      "q": "What did the Dynamic System Collective do?",
+      "a": ["Used computers to alter starting conditions and watch results", "Built the first satellites for weather forecasting", "Set out to prove chaos theory was false", "Founded the modern field of economics"],
+      "why": "Lesson 3 describes the group changing small factors at the start of a system and observing how its course shifted."
+    }
+  ]
+}

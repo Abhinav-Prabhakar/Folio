@@ -1,0 +1,56 @@
+{
+  "book": "team-of-teams",
+  "title": "Team Of Teams",
+  "questions": [
+    {
+      "q": "What caused the 1978 Portland plane crash, according to the summary?",
+      "a": [
+        "The captain ignored his crew's warnings until the plane ran out of fuel",
+        "A mechanical failure destroyed the landing gear",
+        "The crew disagreed about which runway to use",
+        "Air traffic control gave the wrong instructions"
+      ],
+      "why": "Lesson 1 says the captain delayed preparations while his crew warned him about fuel."
+    },
+    {
+      "q": "What did United Airlines introduce after that crash?",
+      "a": [
+        "Crew Resource Management, with teams handling emergencies together",
+        "A rule requiring two captains on every flight",
+        "Stricter limits on pilots' working hours",
+        "New simulators built for solo pilot training"
+      ],
+      "why": "Lesson 1 says the program replaced one-person command with teamwork, later proven on the Hudson landing."
+    },
+    {
+      "q": "At what size does the summary suggest splitting a company into multiple teams?",
+      "a": [
+        "More than 150 people",
+        "More than 50 people",
+        "More than 500 people",
+        "More than 1,000 people"
+      ],
+      "why": "Lesson 2 says teams become ineffective when too large, so bigger firms should form many teams."
+    },
+    {
+      "q": "Why must the teams in a team of teams share information openly?",
+      "a": [
+        "Otherwise teams choose what suits themselves but not the whole",
+        "Otherwise teams compete for the same resources",
+        "Otherwise leaders lose track of individual performance",
+        "Otherwise customers hear conflicting messages"
+      ],
+      "why": "Lesson 2 says without shared context, a team's good local choice can harm the organization."
+    },
+    {
+      "q": "What is empowered execution?",
+      "a": [
+        "Letting teams act on their own when a situation needs a quick response",
+        "Requiring every decision to be signed off by a manager",
+        "Giving teams the right to set their own budgets",
+        "Rotating leaders between teams every quarter"
+      ],
+      "why": "Lesson 3 says McChrystal cut the approval protocol so informed teams could move fast."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "stumbling-on-happiness",
+  "title": "Stumbling On Happiness",
+  "questions": [
+    {
+      "q": "Why do you never notice the blank area your blind spot creates?",
+      "a": [
+        "Your brain invents the missing information for you",
+        "Your eyes blink often enough to hide the gap",
+        "Your retina has a second layer of cells there",
+        "Your brain receives the image twice, once per eye"
+      ],
+      "why": "Lesson 1 says the brain guesses what belongs in the blank and adds it to the picture."
+    },
+    {
+      "q": "How does the brain usually store a good evening that ended badly?",
+      "a": [
+        "It exaggerates the bad ending and recalls the night as bad",
+        "It balances the good and bad parts evenly",
+        "It slowly deletes the bad ending over time",
+        "It keeps only the single best moment of the evening"
+      ],
+      "why": "Lesson 1 uses the party example to show memory weighting the ending more heavily than the rest."
+    },
+    {
+      "q": "How does Gilbert say you should judge whether a purchase is worth it?",
+      "a": [
+        "By the value you get for the money compared with other uses",
+        "By comparing the price with what you used to pay",
+        "By comparing the price with what other shops charge",
+        "By comparing the quality with the brand's reputation"
+      ],
+      "why": "Lesson 2 says to think about what else the money could buy instead of comparing prices."
+    },
+    {
+      "q": "In the marriage thought experiment, which outcome do people regret more?",
+      "a": [
+        "Not marrying the person who later becomes a billionaire",
+        "Marrying the person who later becomes a pyromaniac",
+        "Both outcomes equally, since neither can be undone",
+        "Neither, because regret fades quickly either way"
+      ],
+      "why": "Lesson 3 says people kick themselves over the life they never had, not the bad one they lived."
+    },
+    {
+      "q": "Why can the brain cope with a bad experience better than a missed one?",
+      "a": [
+        "It can find positives in what happened but not in what never did",
+        "It forgets painful events faster than neutral ones",
+        "It compares real events against imagined ones",
+        "It treats inaction as the safer default choice"
+      ],
+      "why": "Lesson 3 says it is hard to imagine anything good about an experience you never had."
+    }
+  ]
+}

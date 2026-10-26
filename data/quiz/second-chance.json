@@ -1,0 +1,56 @@
+{
+  "book": "second-chance",
+  "title": "Second Chance",
+  "questions": [
+    {
+      "q": "What shift does the summary say we are living through right now?",
+      "a": [
+        "From the Industrial Age to the Information Age",
+        "From capitalism back to a barter economy",
+        "From farming to hunting and gathering",
+        "From democracy to corporate rule"
+      ],
+      "why": "The overview calls this the greatest evolutionary event in history, replacing the old school-college-job blueprint."
+    },
+    {
+      "q": "What does the summary say schools teach you about money?",
+      "a": [
+        "They train you to handle it poorly and stay an employee",
+        "They give you a thorough financial education",
+        "They encourage students to start businesses",
+        "They teach investing better than parents do"
+      ],
+      "why": "Lesson 1 says schools push an employee mindset and never teach the basics of finance."
+    },
+    {
+      "q": "What are the four asset categories listed in the summary?",
+      "a": [
+        "Businesses, real estate, paper assets, commodities",
+        "Stocks, bonds, savings, pensions",
+        "Wages, bonuses, tips, commissions",
+        "Property, cars, jewelry, art"
+      ],
+      "why": "Lesson 2 names businesses, real estate, paper assets and commodities, with examples for each."
+    },
+    {
+      "q": "What does the summary advise doing before picking an asset class?",
+      "a": [
+        "Take stock of your income, expenses, assets and liabilities",
+        "Pay off every debt you owe first",
+        "Wait until you are earning a large salary",
+        "Ask a bank to manage your money for you"
+      ],
+      "why": "Lesson 2 says to review your finances with an income statement and balance sheet before starting to learn."
+    },
+    {
+      "q": "When does the summary say taking on debt makes sense?",
+      "a": [
+        "When you use it to buy assets that earn more than the interest",
+        "When the interest rate is fixed rather than variable",
+        "When you use it to buy a new car or television",
+        "When it helps you pay for a university degree"
+      ],
+      "why": "Lesson 3 says debt is fine as long as the asset it buys produces more income than you owe."
+    }
+  ]
+}

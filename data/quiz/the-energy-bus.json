@@ -1,0 +1,56 @@
+{
+  "book": "the-energy-bus",
+  "title": "The Energy Bus",
+  "questions": [
+    {
+      "q": "What formula does Joy use to help passengers regain control?",
+      "a": [
+        "E + P = O",
+        "E = MC^2",
+        "F = ma",
+        "V = IR"
+      ],
+      "why": "Joy introduces the E + P = O formula early in the bus lessons."
+    },
+    {
+      "q": "Who is described as the Chief Energy Officer of his own bus?",
+      "a": [
+        "George",
+        "Jon",
+        "Joy",
+        "The driver"
+      ],
+      "why": "Joy tells George he is the CEO/Chief Energy Officer of his bus."
+    },
+    {
+      "q": "Which rule states that enthusiasm attracts others to your bus?",
+      "a": [
+        "Rule seven",
+        "Rule one",
+        "Rule three",
+        "Rule ten"
+      ],
+      "why": "The seventh rule explains enthusiasm draws people onto the bus."
+    },
+    {
+      "q": "What does Joy advise George to do to fulfill people's need for appreciation?",
+      "a": [
+        "Love them and recognize achievements",
+        "Give them money",
+        "Ignore their input",
+        "Critique their work"
+      ],
+      "why": "Joy's three actions focus on loving, listening, and appreciating others."
+    },
+    {
+      "q": "What event prompts George to start riding the bus?",
+      "a": [
+        "His car breaks down on a Monday",
+        "He gets a promotion",
+        "He wins a lottery",
+        "He moves to a new city"
+      ],
+      "why": "George's car breaks down, forcing him onto the bus for two weeks."
+    }
+  ]
+}

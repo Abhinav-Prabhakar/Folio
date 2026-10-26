@@ -1,0 +1,56 @@
+{
+  "book": "extreme-ownership",
+  "title": "Extreme Ownership",
+  "questions": [
+    {
+      "q": "What did Willink do after the friendly-fire death in Ramadi?",
+      "a": [
+        "Took full accountability as the ranking officer",
+        "Blamed the other unit involved",
+        "Requested a transfer to another unit",
+        "Waited for an official inquiry to finish"
+      ],
+      "why": "Lesson 1 says his accountability ended up saving his job."
+    },
+    {
+      "q": "What does prioritize and execute mean under pressure?",
+      "a": [
+        "Pick the top priority and handle one thing at a time",
+        "Act on every problem simultaneously",
+        "Delegate all decisions to the team",
+        "Pause until the situation calms down"
+      ],
+      "why": "Lesson 2 describes slowing down and taking priorities in order."
+    },
+    {
+      "q": "What is the SEAL mantra for staying calm?",
+      "a": [
+        "Relax, look around, make a call",
+        "Stop, drop and roll",
+        "Plan, brief, execute",
+        "Breathe, focus, repeat"
+      ],
+      "why": "Lesson 2 quotes the mantra behind prioritize and execute."
+    },
+    {
+      "q": "How had Babin prepared for the hostage rescue?",
+      "a": [
+        "He had already planned for risks before they were confirmed",
+        "He cancelled until backup could arrive",
+        "He waited for better intelligence reports",
+        "He sent a smaller team in first"
+      ],
+      "why": "Lesson 3 says his planning covered the dangers in advance."
+    },
+    {
+      "q": "Why does a leader's accountability spread to the team?",
+      "a": [
+        "Members copy the leader's attitude toward mistakes",
+        "It protects the leader from criticism",
+        "It speeds up promotion decisions",
+        "It reduces the need for training"
+      ],
+      "why": "Lesson 1 says the leader's attitude passes down to the team."
+    }
+  ]
+}

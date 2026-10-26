@@ -1,0 +1,56 @@
+{
+  "book": "unlearn",
+  "title": "Unlearn",
+  "questions": [
+    {
+      "q": "Which villain says \"Victory has defeated you\" in the Dark Knight Rises?",
+      "a": [
+        "Bane",
+        "Joker",
+        "Two‑Face",
+        "Penguin"
+      ],
+      "why": "The quote is spoken by Bane during the fight."
+    },
+    {
+      "q": "What major change did Serena Williams make after her 2012 loss?",
+      "a": [
+        "Got a new coach and new techniques",
+        "Retired from tennis",
+        "Switched to doubles only",
+        "Changed her diet completely"
+      ],
+      "why": "She hired a new coach and altered her techniques."
+    },
+    {
+      "q": "What does the book say about our brain's default thinking?",
+      "a": [
+        "It reverts to past patterns",
+        "It instantly adapts to new trends",
+        "It forgets old habits quickly",
+        "It ignores past experiences"
+      ],
+      "why": "Neural pathways default to past thinking patterns."
+    },
+    {
+      "q": "What is the first step in the app that helps turn a couch potato into a marathon runner?",
+      "a": [
+        "A 10‑minute walk",
+        "A 5‑kilometer run",
+        "A sprint interval",
+        "A yoga session"
+      ],
+      "why": "The program starts with an easy 10‑minute walk."
+    },
+    {
+      "q": "What does the Cycle of Unlearning suggest after questioning your mindset?",
+      "a": [
+        "Challenge assumptions about capabilities",
+        "Celebrate past successes",
+        "Ignore feedback",
+        "Maintain the same routine"
+      ],
+      "why": "Next phase is to challenge assumptions about what you can accomplish."
+    }
+  ]
+}

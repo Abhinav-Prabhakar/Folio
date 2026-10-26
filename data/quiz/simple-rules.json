@@ -1,0 +1,56 @@
+{
+  "book": "simple-rules",
+  "title": "Simple Rules",
+  "questions": [
+    {
+      "q": "What do boundary rules help you do?",
+      "a": [
+        "Make a quick yes-or-no decision",
+        "Rank several options in order",
+        "Decide when to stop a task",
+        "Coordinate work with other people"
+      ],
+      "why": "Lesson 1 says boundary rules turn a choice into a binary decision."
+    },
+    {
+      "q": "Which rule type sets a fixed point for ending something?",
+      "a": [
+        "A stopping rule",
+        "A boundary rule",
+        "A prioritizing rule",
+        "A coordination rule"
+      ],
+      "why": "Lesson 1 presents a daily candy limit as a stopping rule."
+    },
+    {
+      "q": "Which of these is a how-to rule from the summary?",
+      "a": [
+        "Keep paragraphs to three sentences when writing",
+        "Never eat snow that looks yellow",
+        "Hold the door for other people",
+        "Save ten percent of your income"
+      ],
+      "why": "Lesson 2 offers the three-sentence paragraph limit as a how-to rule."
+    },
+    {
+      "q": "What do timing rules settle?",
+      "a": [
+        "When in your routine an action happens",
+        "Whether an action happens at all",
+        "Who is responsible for a task",
+        "How many options you should weigh"
+      ],
+      "why": "Lesson 2 uses brushing your teeth before or after breakfast as an example."
+    },
+    {
+      "q": "What is the first step in creating a simple rule?",
+      "a": [
+        "Identify the critical action for your goal",
+        "List every possible obstacle in advance",
+        "Ask friends which rules they follow",
+        "Set a firm deadline for the goal"
+      ],
+      "why": "Lesson 3 starts with the critical action, then the bottleneck, then the rule."
+    }
+  ]
+}

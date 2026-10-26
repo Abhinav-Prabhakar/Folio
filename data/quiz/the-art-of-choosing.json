@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-choosing",
+  "title": "The Art Of Choosing",
+  "questions": [
+    {
+      "q": "What did the famous jam study find about shoppers facing fewer varieties?",
+      "a": [
+        "They were far more likely to buy when only six were shown",
+        "They spent longer deliberating over the larger display",
+        "They preferred the larger display but bought the same amount",
+        "They rated the jams as tastier when more were offered"
+      ],
+      "why": "The overview describes Iyengar's jam study, where the smaller selection led to six times more purchases."
+    },
+    {
+      "q": "According to the summary, what determines how much freedom of choice a person needs?",
+      "a": [
+        "It varies by person and is strongly shaped by culture",
+        "It is highest in collectivist Eastern cultures",
+        "It stays the same for everyone once adulthood is reached",
+        "It depends mainly on income and education level"
+      ],
+      "why": "Lesson 1 says the need for choice is highly individual, with culture named as one major factor."
+    },
+    {
+      "q": "In the Space Quest study, what happened to American children who chose their own game settings?",
+      "a": [
+        "They improved by 18 percent, while those denied a choice did not improve",
+        "They improved by 11 percent, less than children given the settings",
+        "They performed the same whether or not they chose",
+        "They did worse because choosing distracted them from the game"
+      ],
+      "why": "Lesson 1 reports that the American kids gained 18 percent when they chose and not at all when they could not."
+    },
+    {
+      "q": "What did the Whitehall studies suggest best explained the health gap between pay grades?",
+      "a": [
+        "More freedom to structure your own work, not simply more money",
+        "Better access to private healthcare and insurance",
+        "Lower stress from having fewer responsibilities",
+        "Healthier diets and more exercise among senior staff"
+      ],
+      "why": "Lesson 2 concludes that health was a matter of choice and control over work rather than money."
+    },
+    {
+      "q": "Which parents felt best in the study about ending a terminally ill child's treatment?",
+      "a": [
+        "Those who were well informed but did not have to decide themselves",
+        "Those who made the decision alone without any information",
+        "Those who were kept uninformed while the doctors stopped treatment",
+        "Those who shared the decision equally with the medical staff"
+      ],
+      "why": "Lesson 3 says the informed group that did not choose felt best, while the uninformed and choosing groups felt equally bad."
+    }
+  ]
+}

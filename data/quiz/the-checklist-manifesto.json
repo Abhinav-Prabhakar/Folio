@@ -1,0 +1,56 @@
+{
+  "book": "the-checklist-manifesto",
+  "title": "The Checklist Manifesto",
+  "questions": [
+    {
+      "q": "What caused the surgeons to miss the larger wound in the San Francisco case?",
+      "a": [
+        "They forgot to double‑check",
+        "They were rushed",
+        "They misread the chart",
+        "They were tired"
+      ],
+      "why": "They failed to double‑check the injury type."
+    },
+    {
+      "q": "Which program helped Atul Gawande's team use a checklist?",
+      "a": [
+        "Safe Surgery Saves Lives",
+        "Operation Checklist",
+        "Surgical Safety Program",
+        "Medical Checklists Initiative"
+      ],
+      "why": "The Safe Surgery Saves Lives program introduced the checklist."
+    },
+    {
+      "q": "What is the main goal when creating a checklist?",
+      "a": [
+        "Include only essential items",
+        "Write a detailed guide",
+        "Add every possible step",
+        "Make it long and thorough"
+      ],
+      "why": "Checklists should be concise and focus on vital tasks."
+    },
+    {
+      "q": "Which professional uses checklists to serve consistent meals?",
+      "a": [
+        "Chef Jody Adams",
+        "Chef Gordon Ramsay",
+        "Chef Wolfgang Puck",
+        "Chef Anthony Bourdain"
+      ],
+      "why": "Chef Jody Adams uses checklists at Rialto Restaurant."
+    },
+    {
+      "q": "Why do complex systems increase the risk of mistakes?",
+      "a": [
+        "They make consistent decisions harder",
+        "They reduce training needs",
+        "They simplify procedures",
+        "They eliminate errors"
+      ],
+      "why": "Added complexity makes it harder to make correct decisions."
+    }
+  ]
+}

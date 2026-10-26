@@ -1,0 +1,56 @@
+{
+  "book": "solve-for-happy",
+  "title": "Solve For Happy",
+  "questions": [
+    {
+      "q": "In Mo Gawdat’s happiness formula, what is subtracted from the events of your life?",
+      "a": [
+        "Your expectation of how life should be",
+        "The opinions of the people around you",
+        "The amount of money you earn",
+        "Your memories of past successes"
+      ],
+      "why": "The overview states the formula as happiness being the events of life minus your expectations of how life should be."
+    },
+    {
+      "q": "What does the summary say the voice inside your head actually is?",
+      "a": [
+        "An internal version of the speech you use with other people",
+        "A direct message from your true self",
+        "A separate personality living in your mind",
+        "A sign that you are mentally unwell"
+      ],
+      "why": "Lesson 1 draws on Vygotsky to argue inner speech is external speech turned inward, not the real you."
+    },
+    {
+      "q": "What is the real you, once you strip away possessions, friends, body and identity?",
+      "a": [
+        "The invisible observer of the world",
+        "The sum of your strongest memories",
+        "The voice that criticizes you most",
+        "The role you play at work"
+      ],
+      "why": "Lesson 1 says only the invisible observer remains, and no one can take that away."
+    },
+    {
+      "q": "Why does the brain use filters, according to the summary?",
+      "a": [
+        "Taking in all sensory information would be too much to handle",
+        "Filters make sure you notice every detail around you",
+        "Filters are a modern flaw with no useful purpose",
+        "Filters keep you focused only on threats"
+      ],
+      "why": "Lesson 2 explains that filters select sensory input because processing everything at once would overwhelm the brain."
+    },
+    {
+      "q": "What did Matt Killingsworth’s happiness study find?",
+      "a": [
+        "The more people focus on the present moment, the happier they are",
+        "People who plan for the future are the most content",
+        "Happiness depends mainly on income and status",
+        "Mind-wandering makes people calmer and less anxious"
+      ],
+      "why": "Lesson 3 reports that present-moment focus predicted happiness regardless of whether life was going well."
+    }
+  ]
+}

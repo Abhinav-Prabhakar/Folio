@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-possibility",
+  "title": "The Art of Possibility",
+  "questions": [
+    {
+      "q": "What is the World of Measurement?",
+      "a": [
+        "A mindset where survival feels hard and resources seem limited",
+        "A society that judges people by their income and status",
+        "A scientific approach to solving everyday problems",
+        "A habit of planning every hour of the day"
+      ],
+      "why": "Lesson 1 describes the World of Measurement as a place of survival and scarcity, opposed to possibility."
+    },
+    {
+      "q": "What does the summary say blocks us from living in possibility?",
+      "a": [
+        "Our own assumptions, which shape how we see reality",
+        "A lack of money and useful connections",
+        "Other people's unwillingness to help",
+        "Not having enough information about the world"
+      ],
+      "why": "Lesson 1 says our assumptions filter reality and that getting past them opens the door to possibility."
+    },
+    {
+      "q": "According to the summary, where does happiness come from?",
+      "a": [
+        "Helping others rather than being successful",
+        "Achieving goals and earning recognition",
+        "Having more freedom than other people",
+        "Removing all failure from your life"
+      ],
+      "why": "Lesson 2 states that happiness arises from helping others, not from success."
+    },
+    {
+      "q": "In the rainy holiday example, what two options does the summary describe?",
+      "a": [
+        "Mourn the trip you imagined or enjoy the trip as it actually is",
+        "Demand a refund or stay in the hotel room",
+        "Change destinations or cut the trip short",
+        "Pretend the weather is fine or complain to your partner"
+      ],
+      "why": "Lesson 3 uses the rained-out holiday to show the choice between resenting reality and making the best of it."
+    },
+    {
+      "q": "What does the summary recommend doing with difficult feelings?",
+      "a": [
+        "Face them and feel them fully rather than trying to escape",
+        "Distract yourself until they pass on their own",
+        "Explain them away with positive thinking",
+        "Save them for a therapy session later"
+      ],
+      "why": "Lesson 3 advises facing uncomfortable feelings completely instead of hiding from the storm."
+    }
+  ]
+}

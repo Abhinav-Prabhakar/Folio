@@ -1,0 +1,56 @@
+{
+  "book": "the-business-romantic",
+  "title": "The Business Romantic",
+  "questions": [
+    {
+      "q": "What is the primary benefit of gift‑giving in the office?",
+      "a": [
+        "Boosts motivation",
+        "Reduces workload",
+        "Increases sales",
+        "Cuts costs"
+      ],
+      "why": "Gift‑giving boosts employee motivation."
+    },
+    {
+      "q": "Which author's book supports benevolence at work?",
+      "a": [
+        "Adam Grant",
+        "Tim Leberecht",
+        "Dave Asprey",
+        "Ryder Carroll"
+      ],
+      "why": "Adam Grant's Give and Take supports benevolence."
+    },
+    {
+      "q": "Why do customers enjoy a challenging product experience?",
+      "a": [
+        "It feels rewarding",
+        "It's cheaper",
+        "It's easier",
+        "It's faster"
+      ],
+      "why": "Challenges create a rewarding experience."
+    },
+    {
+      "q": "What mindset shift does the book suggest for business success?",
+      "a": [
+        "Focus on connection",
+        "Focus on metrics",
+        "Focus on profit",
+        "Focus on speed"
+      ],
+      "why": "Success comes from focusing on connection."
+    },
+    {
+      "q": "Which element is NOT part of the romantic business approach?",
+      "a": [
+        "Candle‑lit dinners",
+        "Human connection",
+        "Customer empathy",
+        "Office metrics"
+      ],
+      "why": "Candle‑lit dinners are not emphasized."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-code-breaker",
+  "title": "The Code Breaker",
+  "questions": [
+    {
+      "q": "What natural role does CRISPR serve in bacteria?",
+      "a": [
+        "Defense against viruses",
+        "Energy production",
+        "Cell division",
+        "Protein synthesis"
+      ],
+      "why": "CRISPR is a bacterial defense mechanism against viruses."
+    },
+    {
+      "q": "Which disease has CRISPR been used to treat, according to the book?",
+      "a": [
+        "Congenital blindness",
+        "Common cold",
+        "Diabetes",
+        "Alzheimer's"
+      ],
+      "why": "CRISPR has been applied to treat congenital blindness."
+    },
+    {
+      "q": "Why is large‑scale use of CRISPR on human embryos currently limited?",
+      "a": [
+        "Risk of unintended DNA changes",
+        "Lack of funding",
+        "Ethical approval granted",
+        "Insufficient technology"
+      ],
+      "why": "Unintended DNA changes could cause birth defects."
+    },
+    {
+      "q": "What ethical concern does the book raise about CRISPR?",
+      "a": [
+        "Designing children to parental preferences",
+        "Improving crop yields",
+        "Treating infections",
+        "Reducing aging"
+      ],
+      "why": "Some view CRISPR as a tool to shape children per parents' wishes."
+    },
+    {
+      "q": "What future threat does biohacking pose, according to the author?",
+      "a": [
+        "Security and privacy risks",
+        "Environmental pollution",
+        "Economic inflation",
+        "Political instability"
+      ],
+      "why": "Biohacking could become a major threat to security and privacy."
+    }
+  ]
+}

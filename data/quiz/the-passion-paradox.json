@@ -1,0 +1,56 @@
+{
+  "book": "the-passion-paradox",
+  "title": "The Passion Paradox",
+  "questions": [
+    {
+      "q": "What risk is associated with turning passion into a job?",
+      "a": [
+        "Neglecting family and wellbeing",
+        "Increasing income",
+        "Improving work-life balance",
+        "Enhancing creativity"
+      ],
+      "why": "The text warns that passion jobs can lead to neglecting family and wellbeing."
+    },
+    {
+      "q": "Which neurotransmitter is linked to passion and addiction?",
+      "a": [
+        "Dopamine",
+        "Serotonin",
+        "Adrenaline",
+        "Endorphin"
+      ],
+      "why": "The passage states passion triggers dopamine production."
+    },
+    {
+      "q": "What does the author suggest to keep passion healthy?",
+      "a": [
+        "Enjoy the pursuit, not rewards",
+        "Seek external validation",
+        "Work long hours",
+        "Avoid learning new skills"
+      ],
+      "why": "He advises enjoying the pursuit itself to maintain a healthy passion."
+    },
+    {
+      "q": "Who is mentioned as an example of passion causing family strain?",
+      "a": [
+        "Mahatma Gandhi",
+        "Steve Jobs",
+        "Albert Einstein",
+        "Marie Curie"
+      ],
+      "why": "Gandhi is cited as having a troubled relationship with his son due to passion."
+    },
+    {
+      "q": "What term describes a passion that is pursued for its own sake?",
+      "a": [
+        "Harmonious passion",
+        "Addictive passion",
+        "Work passion",
+        "Career passion"
+      ],
+      "why": "The text defines harmonious passion as pursuing for its own sake."
+    }
+  ]
+}

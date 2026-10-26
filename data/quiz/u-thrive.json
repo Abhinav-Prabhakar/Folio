@@ -1,0 +1,56 @@
+{
+  "book": "u-thrive",
+  "title": "U Thrive",
+  "questions": [
+    {
+      "q": "What skill should students showcase to build a professional network?",
+      "a": [
+        "Reliability",
+        "Cooking",
+        "Driving",
+        "Sleeping"
+      ],
+      "why": "The book advises highlighting reliability and skills."
+    },
+    {
+      "q": "Why is an open mindset important in college, according to the book?",
+      "a": [
+        "Promotes growth",
+        "Reduces stress",
+        "Increases grades",
+        "Avoids jobs"
+      ],
+      "why": "It says openness helps personal growth and creativity."
+    },
+    {
+      "q": "What does the author suggest to achieve excellence?",
+      "a": [
+        "Set goals and stick to them",
+        "Take many classes",
+        "Avoid failure",
+        "Work alone"
+      ],
+      "why": "The text recommends goal setting for excellence."
+    },
+    {
+      "q": "Which demographic does the book target?",
+      "a": [
+        "Future college applicants",
+        "High school seniors",
+        "Middle schoolers",
+        "Retirees"
+      ],
+      "why": "The overview states it is for college applicants."
+    },
+    {
+      "q": "What does the author claim about geniuses?",
+      "a": [
+        "They often lack social skills",
+        "They always succeed",
+        "They are always happy",
+        "They never need help"
+      ],
+      "why": "The book notes many geniuses lack social and adaptive skills."
+    }
+  ]
+}

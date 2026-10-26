@@ -1,0 +1,56 @@
+{
+  "book": "how-we-learn",
+  "title": "How We Learn",
+  "questions": [
+    {
+      "q": "Where are new conscious memories stored?",
+      "a": [
+        "The hippocampus",
+        "The neocortex",
+        "The cerebellum",
+        "The amygdala"
+      ],
+      "why": "Lesson 1 says deliberate new memories, like a neighbor's name, form in the hippocampus."
+    },
+    {
+      "q": "Why are some old memories so vivid?",
+      "a": [
+        "Their parts are stored in many regions",
+        "They are repeated every day",
+        "They were learned under stress",
+        "They sit in a single synapse"
+      ],
+      "why": "Lesson 1 says memories spread across sensory areas create more synapses and stronger recall."
+    },
+    {
+      "q": "What is the spacing effect?",
+      "a": [
+        "Spreading study sessions over time helps memory",
+        "Repeating a name quickly helps you remember it",
+        "Studying in one long block is best",
+        "Sleeping after studying erases details"
+      ],
+      "why": "Lesson 2 says returning to material after a gap thickens synapses and aids long-term recall."
+    },
+    {
+      "q": "How should you prepare for an exam?",
+      "a": [
+        "Study in shorter sessions, not one long cram",
+        "Cram for eight hours the night before",
+        "Read the material once without breaks",
+        "Focus only on the hardest chapter"
+      ],
+      "why": "Lesson 2 recommends four two-hour sessions over one eight-hour cram."
+    },
+    {
+      "q": "What does the Zeigarnik effect do?",
+      "a": [
+        "Keeps an unfinished task in mind and sparks ideas",
+        "Erases memories that are not repeated",
+        "Makes completed tasks easier to forget",
+        "Prevents you from starting new projects"
+      ],
+      "why": "Lesson 3 says an open loop nags at you and lets your subconscious keep working on the task."
+    }
+  ]
+}

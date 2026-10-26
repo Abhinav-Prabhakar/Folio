@@ -1,0 +1,56 @@
+{
+  "book": "the-seven-spiritual-laws-of-success",
+  "title": "The Seven Spiritual Laws Of Success",
+  "questions": [
+    {
+      "q": "What is the first lesson about handling difficult people?",
+      "a": [
+        "Accept the struggle and find the lesson",
+        "Ignore them",
+        "Confront them aggressively",
+        "Avoid them"
+      ],
+      "why": "Accepting the situation teaches a lesson."
+    },
+    {
+      "q": "Which technique does the book suggest for manifesting desires?",
+      "a": [
+        "Positive, intense thoughts",
+        "Negative thoughts",
+        "Avoid thinking",
+        "Random actions"
+      ],
+      "why": "Direct positive intentions to achieve goals."
+    },
+    {
+      "q": "What does the author say about finding life's purpose?",
+      "a": [
+        "Let it find you, don't chase it",
+        "Chase it relentlessly",
+        "Ignore it",
+        "Force it"
+      ],
+      "why": "Let your purpose find you instead of struggling."
+    },
+    {
+      "q": "Which philosophy blend does the book combine?",
+      "a": [
+        "Eastern and Western",
+        "Only Eastern",
+        "Only Western",
+        "None"
+      ],
+      "why": "Combines Eastern and Western philosophy."
+    },
+    {
+      "q": "What is the main benefit of positive thinking according to the book?",
+      "a": [
+        "Creates self‑fulfilling prophecy",
+        "Creates doubt",
+        "Creates fear",
+        "Creates confusion"
+      ],
+      "why": "Positive thinking leads to self‑fulfilling prophecy."
+    }
+  ]
+}

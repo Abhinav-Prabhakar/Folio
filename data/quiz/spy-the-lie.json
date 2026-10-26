@@ -1,0 +1,56 @@
+{
+  "book": "spy-the-lie",
+  "title": "Spy the Lie",
+  "questions": [
+    {
+      "q": "Why is lie detection so hard, according to the summary?",
+      "a": [
+        "Communication is complex and our biases distort our judgment",
+        "Most people lie less often than scientists expect",
+        "Body language is the only reliable source of clues",
+        "Trained professionals are the only ones who can spot lies"
+      ],
+      "why": "Lesson 1 points to the difficulty of tracking verbal and nonverbal cues at once, plus the power of bias."
+    },
+    {
+      "q": "What is a “convincing statement” in the summary?",
+      "a": [
+        "A claim about one’s own honesty meant to reinforce your trust",
+        "A direct yes or no answer to a direct question",
+        "A detailed account of events with exact times",
+        "An admission made after a long silence"
+      ],
+      "why": "Lesson 2 says liars use lines like “it’s not in my nature” to shore up your faith in them."
+    },
+    {
+      "q": "Why might a liar repeat your question back to you?",
+      "a": [
+        "To buy time to think of an answer",
+        "To show that they were listening closely",
+        "To correct a mistake in how you phrased it",
+        "To signal that they are about to confess"
+      ],
+      "why": "Lesson 2 explains that repeating a question stalls for time and fills an awkward silence."
+    },
+    {
+      "q": "When do suspicious cues become meaningful?",
+      "a": [
+        "When several of them appear together in a cluster",
+        "When a single cue appears exactly once",
+        "When the person avoids eye contact for a moment",
+        "When the interview lasts more than an hour"
+      ],
+      "why": "Lesson 2 stresses that individual cues mean little; clusters of verbal and visual cues suggest deception."
+    },
+    {
+      "q": "Why should you avoid asking the same question over and over?",
+      "a": [
+        "It lets the person rehearse the lie until it sounds convincing",
+        "It makes the interview take far too long",
+        "It gives the person time to calm down",
+        "It is considered rude in professional settings"
+      ],
+      "why": "Lesson 3 warns that repetition helps a liar practice and strengthens their story."
+    }
+  ]
+}

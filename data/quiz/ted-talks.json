@@ -1,0 +1,56 @@
+{
+  "book": "ted-talks",
+  "title": "TED Talks",
+  "questions": [
+    {
+      "q": "According to the summary, what is the first step in explaining a complex idea to an audience?",
+      "a": [
+        "Find a starting point you share with the audience",
+        "Make them curious with a striking fact or image",
+        "Explain each concept one at a time, in order",
+        "Use metaphors to tie new ideas to familiar ones"
+      ],
+      "why": "Lesson 2 lists five steps, beginning with finding common ground with your audience."
+    },
+    {
+      "q": "Why does showing vulnerability help a speaker persuade an audience?",
+      "a": [
+        "It disarms listeners and makes them more open to your ideas",
+        "It proves the speaker has rehearsed the material thoroughly",
+        "It keeps the audience from noticing any small mistakes",
+        "It shows the speaker knows more than the people listening"
+      ],
+      "why": "Lesson 1 says opening up gains trust, because people rarely let strangers protect their worldview."
+    },
+    {
+      "q": "What does eye contact do for a speaker, according to the summary?",
+      "a": [
+        "It earns trust, since listeners read truth and confidence in the eyes",
+        "It signals that the speaker is finishing the talk soon",
+        "It makes the room quieter so the speech can be heard",
+        "It helps the speaker remember the order of the slides"
+      ],
+      "why": "Lesson 1 notes that audiences can tell truth from lies and confidence from nerves by looking at your eyes."
+    },
+    {
+      "q": "What does the summary recommend wearing for a public talk?",
+      "a": [
+        "Something comfortable that still reflects who you are",
+        "All black, so the stage lighting flatters your face",
+        "The most formal outfit worn by anyone on the bill",
+        "Bright colors, so the audience remembers you later"
+      ],
+      "why": "Lesson 3 reduces the dress code to one line: wear what makes you feel comfortable."
+    },
+    {
+      "q": "If your talk will be recorded, which outfit does the summary advise avoiding?",
+      "a": [
+        "All black or all white",
+        "Dark blue or dark grey",
+        "Bright red or bright green",
+        "Stripes or small checks"
+      ],
+      "why": "Lesson 3 warns that all black makes you look like a floating head and all white like a light bulb."
+    }
+  ]
+}

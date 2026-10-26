@@ -1,0 +1,56 @@
+{
+  "book": "how-to-read-literature-like-a-professor",
+  "title": "How To Read Literature Like A Professor",
+  "questions": [
+    {
+      "q": "Which three things does the summary say hide a book's deeper message?",
+      "a": [
+        "Memory, symbols and patterns",
+        "Plot, setting and dialogue",
+        "Genre, length and title",
+        "Rhyme, rhythm and meter"
+      ],
+      "why": "Lesson 1 says readers should watch for memory, symbols and recurring patterns."
+    },
+    {
+      "q": "What are the five parts of the quest structure?",
+      "a": [
+        "Quester, destination, reason, challenges and revelation",
+        "Hero, villain, helper, treasure and return",
+        "Beginning, conflict, climax, twist and ending",
+        "Departure, initiation, return, reward and marriage"
+      ],
+      "why": "Lesson 2 lists a quester, a destination, a stated reason, obstacles and an unexpected revelation."
+    },
+    {
+      "q": "In the Alchemist example, what does Santiago discover at the end?",
+      "a": [
+        "The treasure was right where he started",
+        "The pyramids contained no treasure at all",
+        "He must remain in Egypt forever",
+        "His dream was only a warning"
+      ],
+      "why": "Lesson 2 says the unexpected revelation shows the treasure had been in front of him all along."
+    },
+    {
+      "q": "What does intertextuality mean?",
+      "a": [
+        "All texts depend on one another",
+        "Every book must be translated",
+        "Authors should avoid quoting others",
+        "Stories lose meaning when repeated"
+      ],
+      "why": "Lesson 3 defines intertextuality as the way every text draws on earlier texts."
+    },
+    {
+      "q": "What does a storm on the horizon usually symbolize?",
+      "a": [
+        "Trouble lying ahead",
+        "A fresh beginning",
+        "Forgiveness and peace",
+        "A change of season"
+      ],
+      "why": "Lesson 3 gives the storm as a recurring symbol for trouble, whether real or a plot twist."
+    }
+  ]
+}

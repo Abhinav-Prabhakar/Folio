@@ -1,0 +1,56 @@
+{
+  "book": "the-psychology-of-selling",
+  "title": "The Psychology Of Selling",
+  "questions": [
+    {
+      "q": "Who is credited with teaching that sales can be learned?",
+      "a": [
+        "Brian Tracy",
+        "Chris Bailey",
+        "Tim Ferriss",
+        "Jack Welch"
+      ],
+      "why": "Brian Tracy argues anyone can learn selling."
+    },
+    {
+      "q": "What tool helps salespeople tap their subconscious according to the book?",
+      "a": [
+        "To-do list",
+        "Phone call",
+        "Email",
+        "Presentation"
+      ],
+      "why": "A to-do list is described as a subconscious tool."
+    },
+    {
+      "q": "What habit does the book suggest for continuous learning?",
+      "a": [
+        "Learn one thing daily",
+        "Read a book monthly",
+        "Attend a seminar yearly",
+        "Watch a video weekly"
+      ],
+      "why": "It recommends learning one new thing a day."
+    },
+    {
+      "q": "Why should salespeople ask customers questions?",
+      "a": [
+        "Adjust pitch to needs",
+        "Show product features",
+        "Avoid objections",
+        "Close quickly"
+      ],
+      "why": "Questions help tailor the pitch to customer needs."
+    },
+    {
+      "q": "Which mindset does Brian Tracy promote for sales success?",
+      "a": [
+        "Learnable skill",
+        "Innate talent",
+        "Hard luck",
+        "Luck"
+      ],
+      "why": "The book states sales skills can be learned, not innate."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-bulletproof-diet",
+  "title": "The Bulletproof Diet",
+  "questions": [
+    {
+      "q": "What ingredient is NOT part of the basic Bulletproof coffee recipe?",
+      "a": [
+        "MCT oil",
+        "Grass‑fed butter",
+        "Coffee",
+        "Olive oil"
+      ],
+      "why": "Olive oil is not listed in the recipe."
+    },
+    {
+      "q": "Why does Dave Asprey recommend starting with 1 teaspoon of MCT oil?",
+      "a": [
+        "It's strong",
+        "It's cheap",
+        "It's flavored",
+        "It's thick"
+      ],
+      "why": "He says 1 teaspoon is strong enough to start."
+    },
+    {
+      "q": "Which fat type is highlighted as essential for brain function?",
+      "a": [
+        "Omega‑3 fatty acids",
+        "Saturated fats",
+        "Trans fats",
+        "Polyunsaturated fats"
+      ],
+      "why": "Omega‑3s are essential for cognitive functions."
+    },
+    {
+      "q": "What benefit does eating grass‑fed meat provide according to the book?",
+      "a": [
+        "Higher quality protein and fats",
+        "Lower cost",
+        "Faster digestion",
+        "More calories"
+      ],
+      "why": "Grass‑fed meat supplies high‑quality protein and fats."
+    },
+    {
+      "q": "How much of myelin's dry mass is made up of fats?",
+      "a": [
+        "70%-85%",
+        "50%-60%",
+        "30%-40%",
+        "10%-20%"
+      ],
+      "why": "Fats form about 70%-85% of myelin's dry mass."
+    }
+  ]
+}

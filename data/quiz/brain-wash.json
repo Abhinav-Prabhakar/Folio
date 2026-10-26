@@ -1,0 +1,31 @@
+{
+  "book": "brain-wash",
+  "title": "Brain Wash",
+  "questions": [
+    {
+      "q": "Why does the summary say modern comforts leave so many people unhappy?",
+      "a": ["Ancient survival rewards are exploited by business", "People have lost the ability to feel pleasure", "Technology has removed all sources of stress", "Modern diets contain too few calories"],
+      "why": "Lesson 1 explains that our brains still reward energy-rich food and social approval, and companies profit by targeting those impulses."
+    },
+    {
+      "q": "How does the summary describe social media's effect on the brain?",
+      "a": ["It works like fast food that weakens real connection", "It builds deep bonds between distant friends", "It has no measurable impact on happiness", "It strengthens the brain's ability to focus"],
+      "why": "Lesson 1 calls social media fast food for the brain: it keeps us clicking while damaging our capacity for deep relationships."
+    },
+    {
+      "q": "What does the summary say exercise does for the mind?",
+      "a": ["It stimulates the prefrontal cortex and sharpens thinking", "It calms the prefrontal cortex to reduce anxiety", "It mainly improves physical appearance, not cognition", "It only helps children perform well on tests"],
+      "why": "Lesson 2 says 30 minutes of daily exercise stimulates the prefrontal cortex, the area handling planning and problem-solving."
+    },
+    {
+      "q": "What is the first step of the Brain Wash ten-day program?",
+      "a": ["Starting a digital detox and removing time-wasting apps", "Beginning a fast to reset the digestive system", "Journaling about the previous year's mistakes", "Calling a friend to repair a relationship"],
+      "why": "Lesson 3 lists a digital detox, cutting non-essential technology and deleting apps that waste time, as the opening step."
+    },
+    {
+      "q": "How does the summary describe the final stage of the ten-day program?",
+      "a": ["Reviewing the eight days and planning to keep the changes", "Restarting the entire program from the beginning", "Returning to normal routines once the detox ends", "Choosing one habit to abandon permanently"],
+      "why": "Lesson 3 says the ninth step evaluates how the previous eight days went, then you make a plan so the changes stick."
+    }
+  ]
+}

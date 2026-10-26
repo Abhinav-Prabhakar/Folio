@@ -1,0 +1,56 @@
+{
+  "book": "the-upside-of-irrationality",
+  "title": "The Upside Of Irrationality",
+  "questions": [
+    {
+      "q": "Why did women initially avoid bragging about using Pillsbury cake mix?",
+      "a": [
+        "Because baking felt too easy and unearned",
+        "Because it was too expensive",
+        "Because it required special skills",
+        "Because it was unhealthy"
+      ],
+      "why": "Women saw the mix as cheating, so they didn't share it."
+    },
+    {
+      "q": "What does Ariely call the tendency to repeat past reactions in similar situations?",
+      "a": [
+        "Self‑herding",
+        "Confirmation bias",
+        "Loss aversion",
+        "Anchoring"
+      ],
+      "why": "He defines self‑herding as looking to past self behavior."
+    },
+    {
+      "q": "According to the book, why do checklists fail in online dating?",
+      "a": [
+        "They ignore emotional chemistry",
+        "They are too time‑consuming",
+        "They focus on appearance only",
+        "They rely on algorithms"
+      ],
+      "why": "Ariely argues partners are evaluated beyond checklist criteria."
+    },
+    {
+      "q": "What percentage of 18‑29 year olds reported being single in 2014?",
+      "a": [
+        "64%",
+        "45%",
+        "78%",
+        "52%"
+      ],
+      "why": "The text states 64% of that age group were single."
+    },
+    {
+      "q": "What advantage can irrationality provide, according to Ariely?",
+      "a": [
+        "Boosting charitable giving",
+        "Improving math skills",
+        "Reducing stress",
+        "Increasing memory"
+      ],
+      "why": "He notes irrationality can help in charity and dating."
+    }
+  ]
+}

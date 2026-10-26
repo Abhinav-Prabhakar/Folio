@@ -1,0 +1,31 @@
+{
+  "book": "braiding-sweetgrass",
+  "title": "Braiding Sweetgrass",
+  "questions": [
+    {
+      "q": "What does the summary mean by the world's gift economy?",
+      "a": ["Nature offers things without demanding a return", "People trade goods only when they need something", "Governments distribute natural resources equally", "Businesses donate profits to environmental groups"],
+      "why": "Lesson 1 describes the gift economy as things the world offers freely, and contrasts it with how most people treat nature."
+    },
+    {
+      "q": "How did Kimmerer respond to the wild strawberries she found near her school?",
+      "a": ["She returned to tend the patch and prepare new plots", "She picked all of them before others could", "She reported the field to the local council", "She fenced the area off from other foragers"],
+      "why": "Lesson 1 says Potawatomi tradition calls for reciprocating nature's gifts, so she would return at season's end to care for the strawberry patch."
+    },
+    {
+      "q": "What does the Honorable Harvest teach, according to the summary?",
+      "a": ["Take only what you need and let nature regenerate", "Harvest everything quickly before winter arrives", "Leave all wild plants untouched by human hands", "Share the harvest only with members of your tribe"],
+      "why": "Lesson 2 says many tribes practise taking only what they need and leaving nature to renew itself and give back."
+    },
+    {
+      "q": "Which three stages does the summary describe in a Potawatomi woman's life?",
+      "a": ["Daughter, Mother and Teacher", "Student, Worker and Elder", "Child, Healer and Chief", "Daughter, Sister and Grandmother"],
+      "why": "Lesson 2 outlines the Way of the Daughter, the Way of the Mother and the Way of the Teacher, each tied to learning, passing knowledge on and giving back."
+    },
+    {
+      "q": "What is the Thanksgiving Address mentioned in the summary?",
+      "a": ["A school pledge thanking the Earth for its gifts", "A festival held after the yearly harvest", "A prayer said only by tribal elders", "A list of rules for sustainable farming"],
+      "why": "Lesson 3 says Native American schools use a Thanksgiving Address to thank Mother Earth for water, food and shelter each day."
+    }
+  ]
+}

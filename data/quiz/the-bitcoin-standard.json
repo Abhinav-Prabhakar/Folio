@@ -1,0 +1,56 @@
+{
+  "book": "the-bitcoin-standard",
+  "title": "The Bitcoin Standard",
+  "questions": [
+    {
+      "q": "What quality makes gold almost impossible to create or destroy?",
+      "a": [
+        "It is nearly impossible to mine or forge",
+        "It is abundant and easy to produce",
+        "It is highly volatile",
+        "It is easily melted"
+      ],
+      "why": "Gold's scarcity and mining difficulty make it hard to produce."
+    },
+    {
+      "q": "Why did European powers abandon the gold standard after WWI?",
+      "a": [
+        "They needed to print more money",
+        "They wanted to control inflation",
+        "They lacked gold reserves",
+        "They preferred fiat currency"
+      ],
+      "why": "Deficits forced them to switch to fiat money."
+    },
+    {
+      "q": "What is the main cause of Bitcoin's price volatility according to the text?",
+      "a": [
+        "Demand variability",
+        "Supply limits",
+        "Regulatory changes",
+        "Mining difficulty"
+      ],
+      "why": "Volatility is mainly due to fluctuating demand."
+    },
+    {
+      "q": "Which lesson warns that Bitcoin's market growth should reduce price swings?",
+      "a": [
+        "The market will stabilize as it grows",
+        "Volatility will increase",
+        "Bitcoin will become fiat",
+        "Demand will stay constant"
+      ],
+      "why": "Author believes growth will even out fluctuations."
+    },
+    {
+      "q": "What is one obstacle mentioned for Bitcoin's full potential?",
+      "a": [
+        "Price volatility",
+        "Lack of security",
+        "Limited supply",
+        "High transaction fees"
+      ],
+      "why": "Price volatility is highlighted as a challenge."
+    }
+  ]
+}

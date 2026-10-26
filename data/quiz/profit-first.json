@@ -1,0 +1,56 @@
+{
+  "book": "profit-first",
+  "title": "Profit First",
+  "questions": [
+    {
+      "q": "What is wrong with the usual sales-minus-expenses formula?",
+      "a": [
+        "Profit comes last, so it gets ignored",
+        "It requires far too many bank accounts",
+        "It assumes customers will pay on time",
+        "It ignores the cost of taxes entirely"
+      ],
+      "why": "Lesson 1 says putting profit last means you never account for it, and the formula is backward."
+    },
+    {
+      "q": "What does Parkinson's Law say?",
+      "a": [
+        "Work expands to fill the time available",
+        "Money tends to grow when left alone",
+        "First impressions dominate later decisions",
+        "Small expenses add up faster than big ones"
+      ],
+      "why": "Lesson 1 uses it to explain why available money gets spent: the time, or money, you have sets the amount used."
+    },
+    {
+      "q": "How many separate accounts does Michalowicz recommend?",
+      "a": [
+        "Five",
+        "Three",
+        "Seven",
+        "Ten"
+      ],
+      "why": "Lesson 2 lists five accounts: income, profit, owner's salary, taxes and operating expenses."
+    },
+    {
+      "q": "What should you do with the profit and tax accounts?",
+      "a": [
+        "Keep them out of sight, ideally at other banks",
+        "Check their balances every morning",
+        "Use them as a backup for urgent bills",
+        "Combine them to reduce account fees"
+      ],
+      "why": "Lesson 2 says hiding those accounts, at separate banks, helps you resist the temptation to break your rules."
+    },
+    {
+      "q": "What did UPS save by teaching drivers to avoid left turns?",
+      "a": [
+        "About six million dollars a year",
+        "About six hundred thousand dollars a year",
+        "About sixty thousand dollars a year",
+        "About sixteen million dollars a year"
+      ],
+      "why": "Lesson 3 says the small routing change began saving UPS $6 million annually."
+    }
+  ]
+}

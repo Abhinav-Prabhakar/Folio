@@ -1,0 +1,56 @@
+{
+  "book": "in-defense-of-food",
+  "title": "In Defense Of Food",
+  "questions": [
+    {
+      "q": "Why did the 1977 dietary report avoid telling Americans to eat less meat?",
+      "a": [
+        "The committee chair owned cattle farms",
+        "Scientists had proven saturated fat was harmless",
+        "Meat producers threatened a lawsuit",
+        "The report focused only on sugar and salt"
+      ],
+      "why": "Lesson 1 says George McGovern's cattle interests led to the vaguer wording about animal fat."
+    },
+    {
+      "q": "What is the lipid hypothesis?",
+      "a": [
+        "Fat and cholesterol in meat and dairy cause heart disease",
+        "Low-fat dairy protects against type 2 diabetes",
+        "Animal protein is the main source of vitamins",
+        "Calories matter more than the nutrients in food"
+      ],
+      "why": "Lesson 1 describes it as the idea that fat and cholesterol cause heart disease, resting on two shaky studies."
+    },
+    {
+      "q": "What happened as Americans followed nutrition science more closely?",
+      "a": [
+        "Obesity rose and diet-related disease did not improve",
+        "Heart attack admissions fell sharply across the country",
+        "Life expectancy dropped below that of the 1950s",
+        "Food labels became shorter and easier to read"
+      ],
+      "why": "Lesson 2 says three in four Americans are overweight and better medicine, not better eating, cut heart deaths."
+    },
+    {
+      "q": "What shopping rule does Pollan offer about ingredients?",
+      "a": [
+        "Skip products with more than five ingredients",
+        "Buy only items marked as heart healthy",
+        "Choose foods with added vitamins and fiber",
+        "Prefer packages that list calories per serving"
+      ],
+      "why": "Lesson 3 says a long ingredient list means a test result, not food, and names yogurt as the simple ideal."
+    },
+    {
+      "q": "What does the grandma test mean?",
+      "a": [
+        "Do not eat anything your grandmother would not recognize",
+        "Cook the same meals your family ate growing up",
+        "Buy food only from local farmers markets",
+        "Trust old recipes over modern cookbooks"
+      ],
+      "why": "Lesson 3 says if your grandmother would not eat it or call it food, leave it on the shelf."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "first-they-killed-my-father",
+  "title": "First They Killed My Father",
+  "questions": [
+    {
+      "q": "What was Loung Ung's life like before the Khmer Rouge took power?",
+      "a": [
+        "She had a comfortable city life because her father was a military official",
+        "She lived in a rural village and worked in the fields each day",
+        "She had already fled Cambodia and grown up as a refugee",
+        "She lived in an orphanage after her parents were killed"
+      ],
+      "why": "Lesson 1 describes a middle-class apartment in Phnom Penh and schooling for the children."
+    },
+    {
+      "q": "Why did the family have to hide who they were?",
+      "a": [
+        "Her father's status and her mother's Chinese heritage made them targets",
+        "They had openly supported the previous government in public",
+        "They refused to hand over their property to the new regime",
+        "They were suspected of spying for a foreign country"
+      ],
+      "why": "Lesson 1 says both the father's position and the mother's mixed background endangered them."
+    },
+    {
+      "q": "What happened to the city workers sent to rural labor camps?",
+      "a": [
+        "Two-thirds died of starvation or illness within five months",
+        "Most were released once they learned farming skills",
+        "They were given extra rations to keep them working",
+        "They were moved into new homes and paid in rice"
+      ],
+      "why": "Lesson 2 says educated city people were treated as the lowest class and starved."
+    },
+    {
+      "q": "How did Loung's brother help the family survive?",
+      "a": [
+        "He worked at the village chief's house and smuggled scraps home",
+        "He traded the family's jewelry for a supply of rice",
+        "He joined the Khmer Rouge and shared his rations",
+        "He led the family into the jungle to live off the land"
+      ],
+      "why": "Lesson 2 says he endured beatings so he could bring leftover food to his siblings."
+    },
+    {
+      "q": "Why did Loung's mother send her children away?",
+      "a": [
+        "So they could pose as orphans and escape being traced and killed",
+        "So they could find work and send money back to her",
+        "So they could join relatives who had already left Cambodia",
+        "So they could receive an education in another city"
+      ],
+      "why": "Lesson 3 says she knew the regime would soon execute the rest of the family."
+    }
+  ]
+}

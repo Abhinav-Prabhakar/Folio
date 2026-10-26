@@ -1,0 +1,56 @@
+{
+  "book": "loving-what-is",
+  "title": "Loving What Is",
+  "questions": [
+    {
+      "q": "According to Byron Katie, what actually causes a person’s stress?",
+      "a": [
+        "Their interpretation of events, not the events themselves",
+        "Other people’s behavior and unavoidable external events",
+        "A chemical imbalance that requires professional treatment",
+        "The lack of a clear plan for controlling the future"
+      ],
+      "why": "Lesson 1 says stress comes from how we process events; change the interpretation and the stress changes."
+    },
+    {
+      "q": "What is the first of the four questions in “The Work”?",
+      "a": [
+        "Is this thought true?",
+        "How should I fix this problem?",
+        "What would a friend tell me to do?",
+        "Why does this always happen to me?"
+      ],
+      "why": "Lesson 1 lists the questions in order, beginning with whether the stressful thought is true."
+    },
+    {
+      "q": "What does a “turnaround” involve?",
+      "a": [
+        "Flipping a thought into several versions and noticing how each feels",
+        "Replacing every negative thought with an equally positive one",
+        "Repeating a thought until your feelings about it disappear",
+        "Asking someone else to judge whether the thought is fair"
+      ],
+      "why": "Lesson 2 describes turning the original thought around in various ways and observing your reaction to each."
+    },
+    {
+      "q": "What does the summary say about complaining about things you cannot control?",
+      "a": [
+        "It changes nothing and has no value, so it is wasted energy",
+        "It relieves tension and helps you move on faster",
+        "It shows others that you care about doing things well",
+        "It is useful when the person responsible can hear you"
+      ],
+      "why": "Lesson 3 says complaining has a value of zero and you cannot change reality by being frustrated about it."
+    },
+    {
+      "q": "What should you do about realities that are outside your control?",
+      "a": [
+        "Find your place within them and do what you can",
+        "Keep resisting them until they finally change",
+        "Ignore them completely and focus only on your goals",
+        "Wait for better circumstances before taking any action"
+      ],
+      "why": "Lesson 3 advises accepting what you cannot control and acting where you can, which is what brings happiness."
+    }
+  ]
+}

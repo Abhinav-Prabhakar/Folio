@@ -1,0 +1,56 @@
+{
+  "book": "people-over-profit",
+  "title": "People Over Profit",
+  "questions": [
+    {
+      "q": "According to Dale Partridge, how do companies become dishonest?",
+      "a": [
+        "Gradually, as growth pushes them off their early values",
+        "Immediately, because they are rotten from the start",
+        "Suddenly, when a new owner takes over the business",
+        "Naturally, because every founder eventually cuts corners"
+      ],
+      "why": "Lesson 1 argues dishonesty is not built in at the start but grows slowly, and only when companies are pushed into it."
+    },
+    {
+      "q": "Which part of McDonald's original promise slipped first as the chain grew?",
+      "a": [
+        "Quality",
+        "Cleanliness",
+        "Service speed",
+        "Affordability"
+      ],
+      "why": "Lesson 1 says quality was the first factor to fall off the company's roadmap as it had to serve more burgers faster."
+    },
+    {
+      "q": "Why does the summary call trying to avoid transparency a fool's game?",
+      "a": [
+        "Because the truth tends to surface no matter what",
+        "Because customers rarely check a company's claims",
+        "Because secrecy costs more than honest marketing",
+        "Because regulators punish hidden mistakes harshly"
+      ],
+      "why": "Lesson 2 argues that even the biggest cover-up loses, since people can now check almost any claim within seconds."
+    },
+    {
+      "q": "Which company does the summary hold up as an example of openness?",
+      "a": [
+        "Buffer",
+        "Coca-Cola",
+        "McDonald's",
+        "Goldman Sachs"
+      ],
+      "why": "Lesson 2 names Buffer as a great example of a company that shares its numbers with the world."
+    },
+    {
+      "q": "What does the summary say consumers do with every dollar they spend?",
+      "a": [
+        "Vote for the kind of business world they want",
+        "Support whichever brand advertises the most",
+        "Reward the companies with the lowest prices",
+        "Signal their income level to businesses"
+      ],
+      "why": "Lesson 3 says we vote with every dollar, so half the responsibility for honest business rests with consumers."
+    }
+  ]
+}

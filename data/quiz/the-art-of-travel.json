@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-travel",
+  "title": "The Art Of Travel",
+  "questions": [
+    {
+      "q": "Why does the summary say travel cannot solve your problems?",
+      "a": [
+        "You take yourself with you, so inner troubles remain",
+        "New places bring unfamiliar problems of their own",
+        "Trips end too quickly to change anything",
+        "Tourists rarely meet local people"
+      ],
+      "why": "Lesson 1 says travel makes a poor escape, since the problems you carry are internal."
+    },
+    {
+      "q": "What happened to the fictional Jean des Esseintes?",
+      "a": [
+        "He soaked up so much Britishness that he never boarded the train",
+        "He moved to London and abandoned his books",
+        "He wrote a guidebook about England",
+        "He returned home disappointed by the food"
+      ],
+      "why": "Lesson 1 describes him visiting an English pub and feeling too worn out to make the trip."
+    },
+    {
+      "q": "What is fact fatigue?",
+      "a": [
+        "Tiring of long lists of sights and information until you zone out",
+        "Forgetting facts soon after learning them",
+        "Refusing to read anything before a trip",
+        "The stress of planning a tight itinerary"
+      ],
+      "why": "Lesson 2 describes arriving armed with lists of sights, then zoning out from too much information."
+    },
+    {
+      "q": "What does De Botton recommend instead of photographs and postcards?",
+      "a": [
+        "Drawing scenes and writing long letters",
+        "Buying local artworks and souvenirs",
+        "Recording short videos to share later",
+        "Keeping a list of every place you visit"
+      ],
+      "why": "Lesson 3 suggests drawing and long letters, following the practice of John Ruskin."
+    },
+    {
+      "q": "Why does drawing help you appreciate a place?",
+      "a": [
+        "It makes you process the scene longer, creating a vivid memory",
+        "It proves to others that you really visited",
+        "It is faster than taking a photo",
+        "It captures colors that cameras miss"
+      ],
+      "why": "Lesson 3 says drawing gives you more time to process a scene with your senses and mind."
+    }
+  ]
+}

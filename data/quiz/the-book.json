@@ -1,0 +1,56 @@
+{
+  "book": "the-book",
+  "title": "The",
+  "questions": [
+    {
+      "q": "Which taboo does Alan Watts set out to explore?",
+      "a": [
+        "Who we truly are",
+        "How societies pick their leaders",
+        "Why religions disagree about God",
+        "What happens to the body at death"
+      ],
+      "why": "The overview quotes the subtitle, on the taboo against knowing who you are."
+    },
+    {
+      "q": "What false belief does Watts say most people hold about themselves?",
+      "a": [
+        "That they are separate from the rest of the world",
+        "That they are powerless to change anything",
+        "That they are more capable than other people",
+        "That they are defined by the work they do"
+      ],
+      "why": "Lesson 1 challenges the feeling of being a separate center of action facing an alien world."
+    },
+    {
+      "q": "Why does Watts compare cause and effect to watching a cat through a hole in a fence?",
+      "a": [
+        "We mistake parts of one whole for separate events",
+        "We only notice what we are already looking for",
+        "We trust our senses more than our reason",
+        "We assume that animals think like people"
+      ],
+      "why": "Lesson 2 shows how a head, body and tail seen in sequence look like cause and effect."
+    },
+    {
+      "q": "What does the German word Hintergedanken refer to in the summary?",
+      "a": [
+        "Assumptions so deep we never question them",
+        "Thoughts we deliberately keep hidden",
+        "Memories that shape our childhood",
+        "Ideas we borrow from other cultures"
+      ],
+      "why": "Lesson 2 translates it as thoughts behind the thoughts, the beliefs we take for granted."
+    },
+    {
+      "q": "How does Watts suggest we view death?",
+      "a": [
+        "As an opportunity and a gateway to growth",
+        "As a punishment for past actions",
+        "As an end that makes life meaningless",
+        "As something to ignore until it arrives"
+      ],
+      "why": "Lesson 3 says other traditions treat death as a passage, and that remembering it can deepen purpose."
+    }
+  ]
+}

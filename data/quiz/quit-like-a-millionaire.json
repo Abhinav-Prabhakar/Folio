@@ -1,0 +1,56 @@
+{
+  "book": "quit-like-a-millionaire",
+  "title": "Quit Like A Millionaire",
+  "questions": [
+    {
+      "q": "Why did Kristy Shen choose engineering over creative writing?",
+      "a": [
+        "The math showed engineering would pay far more",
+        "Her parents insisted on the decision",
+        "She had already failed a writing course",
+        "It required no extra years of study"
+      ],
+      "why": "Lesson 1 describes her comparing costs and salaries, then following the math."
+    },
+    {
+      "q": "What does the summary call the worst kind of debt?",
+      "a": [
+        "Consumer debt, because it carries the highest interest",
+        "A mortgage, because it lasts for decades",
+        "Student debt, because it grows over time",
+        "Business debt, because it is unpredictable"
+      ],
+      "why": "Lesson 2 calls consumer debt worst because of its high interest rates."
+    },
+    {
+      "q": "Why does Shen prefer spending on experiences rather than things?",
+      "a": [
+        "The pleasure from experiences fades more slowly",
+        "Experiences are always cheaper than products",
+        "Experiences can be resold later at a profit",
+        "Products require too much storage at home"
+      ],
+      "why": "Lesson 2 says the joy of a purchase fades fast, while memories and skills keep giving."
+    },
+    {
+      "q": "Why might renting beat buying a home, according to the summary?",
+      "a": [
+        "Fees, taxes and upkeep can erase most of the gain",
+        "Rent is always lower than a mortgage payment",
+        "Homes rarely rise in value over time",
+        "Landlords must cover every repair cost"
+      ],
+      "why": "Lesson 3 says buying and selling costs, taxes and maintenance leave only a small profit."
+    },
+    {
+      "q": "What does Shen say early retirement really depends on?",
+      "a": [
+        "Keeping as much of what you earn as you can",
+        "Earning a six-figure salary every year",
+        "Picking individual stocks skilfully",
+        "Buying property before age thirty"
+      ],
+      "why": "Lesson 3 stresses that the amount you keep, not the amount you earn, drives early retirement."
+    }
+  ]
+}

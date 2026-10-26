@@ -1,0 +1,31 @@
+{
+  "book": "do-nothing",
+  "title": "Do Nothing",
+  "questions": [
+    {
+      "q": "What historical change does the summary blame for our culture of overwork?",
+      "a": ["The shift from task pay to hourly pay", "The decline of agricultural labour", "The rise of remote working", "The introduction of the five-day week"],
+      "why": "Lesson 1 traces today's long hours to the Industrial Revolution, when workers began being paid by the hour."
+    },
+    {
+      "q": "What does the summary mean by polluted time?",
+      "a": ["Time off still filled with thoughts about work", "Hours lost to endless social media scrolling", "Time spent commuting to and from work", "Days when your schedule is double-booked"],
+      "why": "Lesson 2 describes polluted time as rest that is spoiled by mulling over emails and work problems."
+    },
+    {
+      "q": "Why does the summary say hearing an actual human voice matters?",
+      "a": ["It creates a connection that text messages cannot", "It conveys information more accurately", "It saves time compared with writing", "It is the only way to resolve conflicts"],
+      "why": "Lesson 2 explains that a real voice humanises the speaker and builds a stronger bond than messaging."
+    },
+    {
+      "q": "What health effects of isolation does the summary mention?",
+      "a": ["A higher risk of heart attacks and cancer", "Mostly minor issues like poor sleep", "A stronger immune system over time", "Improved focus but lower empathy"],
+      "why": "Lesson 2 says loneliness is emotionally painful and is linked to heart disease, cancer, and a shorter life."
+    },
+    {
+      "q": "What first step does the summary recommend for improving your perception of time?",
+      "a": ["Keep a log of how you spend your time", "Cut your to-do list in half", "Set a strict limit on screen time", "Schedule every hour of the day"],
+      "why": "Lesson 3 suggests tracking everything, even mindless phone use, to see clearly where your time actually goes."
+    }
+  ]
+}

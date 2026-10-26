@@ -1,0 +1,56 @@
+{
+  "book": "permanent-record",
+  "title": "Permanent Record",
+  "questions": [
+    {
+      "q": "What was STELLARWIND, as described in the summary?",
+      "a": [
+        "A US mass surveillance program created after 9/11",
+        "A Russian operation for monitoring dissidents",
+        "A global treaty meant to protect private data",
+        "A fund set up to reward government whistleblowers"
+      ],
+      "why": "Lesson 1 says the US created STELLARWIND after 9/11, ostensibly for security but in practice to spy on citizens."
+    },
+    {
+      "q": "What did Snowden do right after 9/11 to serve his country?",
+      "a": [
+        "He joined the army but was sidelined by a broken ankle",
+        "He applied directly for a job at the NSA",
+        "He began studying law to defend civil liberties",
+        "He started a company building encryption tools"
+      ],
+      "why": "Lesson 2 says he enlisted after 9/11, then left after a broken ankle and a few months of service."
+    },
+    {
+      "q": "How was the leaked material eventually made public?",
+      "a": [
+        "Through The Guardian, working with a filmmaker and a lawyer",
+        "Through a live interview Snowden gave on his own",
+        "Through documents mailed to members of Congress",
+        "Through a Russian outlet he approached first"
+      ],
+      "why": "Lesson 2 says he worked with a filmmaker and a civil rights lawyer before giving the files to The Guardian."
+    },
+    {
+      "q": "Where was Snowden stopped while traveling toward Ecuador?",
+      "a": [
+        "Moscow, where he waited 40 nights at the airport",
+        "Berlin, where he waited for asylum papers",
+        "Hong Kong, where he hid in a hotel",
+        "Havana, where he was held for questioning"
+      ],
+      "why": "Lesson 2 says he was stopped in Moscow and spent 40 nights in the airport before Russia granted him asylum."
+    },
+    {
+      "q": "What does Snowden say he would need in order to return home?",
+      "a": [
+        "A guarantee of a fair trial without the harshest penalties",
+        "A formal apology issued by the NSA",
+        "A presidential pardon granted in advance",
+        "A government job working on cyber defense"
+      ],
+      "why": "Lesson 3 says he would come back if assured a fair trial and no death penalty or life without parole."
+    }
+  ]
+}

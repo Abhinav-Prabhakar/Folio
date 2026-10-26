@@ -1,0 +1,56 @@
+{
+  "book": "peak-performance",
+  "title": "Peak Performance",
+  "questions": [
+    {
+      "q": "What does the summary say performance-enhancing drugs ultimately lead to?",
+      "a": [
+        "Burnout rather than lasting high performance",
+        "Steady gains that compound over many years",
+        "Sharper focus with almost no side effects",
+        "Faster recovery between training sessions"
+      ],
+      "why": "Lesson 1 says using such drugs may signal commitment to success, but it ultimately leads to burnout."
+    },
+    {
+      "q": "How did runner Deena Kastor treat sleep in her training routine?",
+      "a": [
+        "As a core part of it, sleeping 10 to 12 hours",
+        "As a luxury she saved for the weeks before races",
+        "As something she cut back during hard training",
+        "As a replacement for her most demanding workouts"
+      ],
+      "why": "Lesson 2 describes Kastor sleeping 10 to 12 hours a night as an unexpected part of her rigorous routine."
+    },
+    {
+      "q": "In the violinists study, what set apart the players who became international soloists?",
+      "a": [
+        "They practiced toward one focused goal at a time",
+        "They practiced far more hours than the others did",
+        "They began playing at a much younger age",
+        "They spread their practice across many goals"
+      ],
+      "why": "Lesson 3 notes that all the violinists practiced 50 hours a week, but the soloists pursued a single focused goal."
+    },
+    {
+      "q": "What happened to both authors after their early standout achievements?",
+      "a": [
+        "They experienced severe burnout soon afterward",
+        "They moved into completely different careers",
+        "They kept accelerating without any setbacks",
+        "They avoided burnout by cutting their hours"
+      ],
+      "why": "The overview says both authors burned out severely not long after their remarkable feats."
+    },
+    {
+      "q": "Why does the summary say rest matters as much as stress for growth?",
+      "a": [
+        "Muscles rebuild and gain strength during recovery",
+        "Rest removes the need for hard training sessions",
+        "Recovery shortens the time needed to learn skills",
+        "Rest keeps the mind from overthinking big goals"
+      ],
+      "why": "Lesson 2 explains that hard training breaks muscles down and that strength comes when they rebuild during rest."
+    }
+  ]
+}

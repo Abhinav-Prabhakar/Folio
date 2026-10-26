@@ -1,0 +1,56 @@
+{
+  "book": "when-bad-things-happen-to-good-people",
+  "title": "When Bad Things Happen To Good People",
+  "questions": [
+    {
+      "q": "What personal tragedy did Rabbi Kushner experience?",
+      "a": [
+        "His son died of a disease",
+        "He lost his home in a fire",
+        "He was diagnosed with cancer",
+        "His wife left him"
+      ],
+      "why": "He recounts his son Aaron died at 14 from an incurable disease."
+    },
+    {
+      "q": "Why does Kushner say God cannot always prevent suffering?",
+      "a": [
+        "God cannot bend natural laws",
+        "God is indifferent",
+        "God lacks power",
+        "God chooses not to intervene"
+      ],
+      "why": "He explains God cannot step in to bend nature's laws to protect individuals."
+    },
+    {
+      "q": "What common phrase does the author say can hurt people in pain?",
+      "a": [
+        "Everything happens for a reason",
+        "You'll get over it soon",
+        "Just stay positive",
+        "It's all in your head"
+      ],
+      "why": "He notes bystanders often say \"everything happens for a reason,\" which can be painful."
+    },
+    {
+      "q": "According to Kushner, what should people focus on when someone suffers?",
+      "a": [
+        "Providing support",
+        "Finding a cause",
+        "Offering advice",
+        "Encouraging denial"
+      ],
+      "why": "He argues the meaning of pain comes from how we respond, emphasizing support."
+    },
+    {
+      "q": "What does the book claim about the link between deservingness and outcomes?",
+      "a": [
+        "There is no reliable link",
+        "Deserving people always succeed",
+        "Bad outcomes punish the guilty",
+        "Karma guarantees fairness"
+      ],
+      "why": "He states accepting that outcomes aren't tied to deservingness is realistic."
+    }
+  ]
+}

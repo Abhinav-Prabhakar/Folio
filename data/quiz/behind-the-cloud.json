@@ -1,0 +1,56 @@
+{
+  "book": "behind-the-cloud",
+  "title": "Behind The Cloud",
+  "questions": [
+    {
+      "q": "Who did Salesforce invite to its offline City Tours?",
+      "a": [
+        "The end users of the product, such as sales agents",
+        "The executives who controlled budgets",
+        "Technology journalists and analysts",
+        "Outside software developers only"
+      ],
+      "why": "Salesforce marketed to the people who would actually use the product, not just the buyers."
+    },
+    {
+      "q": "What did Salesforce find was a powerful marketing channel despite being an online business?",
+      "a": [
+        "Offline events built around real customers",
+        "Printed newspaper advertisements",
+        "Cold calls to corporate executives",
+        "Television commercials during prime time"
+      ],
+      "why": "The summary says the City Tours turned roughly 80 percent of prospects into customers."
+    },
+    {
+      "q": "What does multitenancy mean in the summary's apartment-building comparison?",
+      "a": [
+        "Customers share Salesforce's servers but keep their own data",
+        "Each customer gets a separate physical server",
+        "All customers share one database with no separation",
+        "The software is installed on each customer's own machines"
+      ],
+      "why": "The model let Salesforce update every user at once and improved the experience for all."
+    },
+    {
+      "q": "Which customer-friendly moves does the summary mention alongside multitenancy?",
+      "a": [
+        "Public bug reports and open access to the code",
+        "Free lifetime subscriptions for early users",
+        "A money-back guarantee on every plan",
+        "Round-the-clock phone support for all customers"
+      ],
+      "why": "Salesforce accepted short-term risk to give customers more transparency and control."
+    },
+    {
+      "q": "How did Salesforce adapt its approach in Japan?",
+      "a": [
+        "It marketed less aggressively and eased in with familiar Western names",
+        "It copied its American campaign almost exactly",
+        "It hired only English-speaking sales staff",
+        "It avoided working with large local companies"
+      ],
+      "why": "The summary says Japanese customers were modest and reserved, so a slower approach worked better."
+    }
+  ]
+}

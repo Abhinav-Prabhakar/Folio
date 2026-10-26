@@ -1,0 +1,56 @@
+{
+  "book": "shoe-dog",
+  "title": "Shoe Dog",
+  "questions": [
+    {
+      "q": "What launched Phil Knight's shoe business?",
+      "a": [
+        "A cold call that won him US distribution rights",
+        "A loan from a college running coach",
+        "A retail store he opened with friends",
+        "A shoe design he built in his garage"
+      ],
+      "why": "Lesson 1 says Knight cold-called Onitsuka and left with rights for the western US."
+    },
+    {
+      "q": "How did Knight choose the name Blue Ribbon?",
+      "a": [
+        "He blurted it out when asked for a company name",
+        "He named it after his college track team",
+        "He took it from his first shoe model",
+        "His partner suggested it over dinner"
+      ],
+      "why": "Lesson 1 says he improvised the name when Onitsuka asked."
+    },
+    {
+      "q": "What did Bill Bowerman offer Knight?",
+      "a": [
+        "To become his partner and take charge of design",
+        "To lend him money for a factory",
+        "To coach him for the Olympics",
+        "To sell shoes on the East Coast"
+      ],
+      "why": "Lesson 2 says Bowerman offered to partner and handle product design."
+    },
+    {
+      "q": "How did Bowerman work on improving shoes?",
+      "a": [
+        "He took them apart and rebuilt them with new materials",
+        "He tested them only on Olympic athletes",
+        "He ordered lighter soles from Germany",
+        "He copied the designs of rival brands"
+      ],
+      "why": "Lesson 3 describes Bowerman tearing shoes apart and rebuilding them."
+    },
+    {
+      "q": "What management style does the summary praise?",
+      "a": [
+        "Tell people the result you want and let them find the how",
+        "Give detailed instructions for every single task",
+        "Promote managers only from outside the firm",
+        "Keep all decisions inside a small circle"
+      ],
+      "why": "Lesson 3 credits Knight's hands-off style with letting strong people do their thing."
+    }
+  ]
+}

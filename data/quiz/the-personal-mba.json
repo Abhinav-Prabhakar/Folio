@@ -1,0 +1,56 @@
+{
+  "book": "the-personal-mba",
+  "title": "The Personal MBA",
+  "questions": [
+    {
+      "q": "What company did Josh Kaufman work for before writing the book?",
+      "a": [
+        "Procter & Gamble",
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "why": "Kaufman was employed at Procter & Gamble."
+    },
+    {
+      "q": "Which film scene illustrates a simple sales trick mentioned in the book?",
+      "a": [
+        "The Wolf of Wall Street",
+        "The Big Short",
+        "Moneyball",
+        "The Social Network"
+      ],
+      "why": "The book references a scene from The Wolf of Wall Street."
+    },
+    {
+      "q": "What does the author say is more important than the message itself in marketing?",
+      "a": [
+        "Context",
+        "Content",
+        "Timing",
+        "Tone"
+      ],
+      "why": "The book stresses that context is god."
+    },
+    {
+      "q": "What is the first step in making negotiations easier according to Kaufman?",
+      "a": [
+        "Do the hard work up front",
+        "Negotiate in person",
+        "Ask for a raise",
+        "Use a lawyer"
+      ],
+      "why": "Kaufman advises doing the hard work up front."
+    },
+    {
+      "q": "Which type of person should you target for a sale of a pen in the desert example?",
+      "a": [
+        "A thirsty hiker",
+        "A car collector",
+        "A banker",
+        "A chef"
+      ],
+      "why": "The example uses a thirsty hiker as the customer."
+    }
+  ]
+}

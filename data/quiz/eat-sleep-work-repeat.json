@@ -1,0 +1,56 @@
+{
+  "book": "eat-sleep-work-repeat",
+  "title": "Eat Sleep Work Repeat",
+  "questions": [
+    {
+      "q": "What did the study of investment bankers working 15-hour days find?",
+      "a": [
+        "Sleeplessness, weight shifts, hair loss and panic attacks",
+        "Higher salaries but lower job satisfaction",
+        "Fewer sick days because of their youth",
+        "Better focus from working long uninterrupted hours"
+      ],
+      "why": "Lesson 1 lists sleep problems, shifting weight, hair loss and panic attacks among the effects on junior bankers, plus disease after four years."
+    },
+    {
+      "q": "How much more productive does the summary say happy workers are?",
+      "a": [
+        "22 percent more productive",
+        "10 percent more productive",
+        "50 percent more productive",
+        "83 percent more productive"
+      ],
+      "why": "Lesson 1 cites data showing a 22 percent productivity edge for employees who are happy at work."
+    },
+    {
+      "q": "What does the research say about eating lunch alone?",
+      "a": [
+        "It breeds unhappiness nearly as bad as mental illness",
+        "It helps people recharge faster than eating with colleagues",
+        "It has no measurable effect on mood or productivity",
+        "It improves concentration for the rest of the day"
+      ],
+      "why": "Lesson 2 says eating lunch alone produces unhappiness close to that of a mental illness."
+    },
+    {
+      "q": "What is monk mode?",
+      "a": [
+        "Scheduled blocks when nobody can contact you in any form",
+        "A silent meditation retreat taken during work hours",
+        "A rule against checking email before lunch",
+        "A day each week spent working from home"
+      ],
+      "why": "Lesson 3 describes monk mode as agreed periods, like airplane mode but intentional, when coworkers cannot reach you at all."
+    },
+    {
+      "q": "Which working pattern did research find more productive?",
+      "a": [
+        "Taking Sunday off and working 48 hours a week",
+        "Working 56 hours a week with no day off",
+        "Working 40 hours a week with no breaks",
+        "Working six shorter days instead of five long ones"
+      ],
+      "why": "Lesson 3 cites research that people who take Sunday off and work 48 hours get more done than those working 56 without a day off."
+    }
+  ]
+}

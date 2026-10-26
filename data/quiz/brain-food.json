@@ -1,0 +1,31 @@
+{
+  "book": "brain-food",
+  "title": "Brain Food",
+  "questions": [
+    {
+      "q": "What does the summary say is responsible for most cases of Alzheimer's and dementia?",
+      "a": ["Food and lifestyle choices rather than inherited genes", "A single gene passed down through families", "Head injuries suffered in early childhood", "A lack of mental stimulation in old age"],
+      "why": "Lesson 1 says fewer than 1 percent of cases come from heredity, while diet and lifestyle play a much larger role."
+    },
+    {
+      "q": "How does the summary describe the brain's relationship with water?",
+      "a": ["The brain is mostly water, which crosses the blood-brain barrier", "The brain repels water to protect its cells", "Water reaches the brain only through food", "The brain produces all the water it needs"],
+      "why": "Lesson 2 says the brain is about 80 percent water and that water passes the blood-brain barrier to aid energy production and flush toxins."
+    },
+    {
+      "q": "Which fats does the summary say you should eat for brain health?",
+      "a": ["Monounsaturated and polyunsaturated fats", "Saturated fats from butter and red meat", "Trans fats found in baked goods", "Only fats produced inside the brain"],
+      "why": "Lesson 2 says the brain makes its own saturated fat, so you should favor monounsaturated fats from nuts and olive oil plus omega-rich polyunsaturated fats."
+    },
+    {
+      "q": "What does the summary warn about eating 25 grams of saturated fat a day?",
+      "a": ["It multiplies the risk of developing dementia", "It improves memory but harms digestion", "It has no measurable effect on the brain", "It reduces the body's need for water"],
+      "why": "Lesson 2 states that this amount of saturated fat increases the chance of dementia roughly fourfold by inflaming the body and cutting oxygen supply."
+    },
+    {
+      "q": "What does the summary recommend as the best source of glucose for the brain?",
+      "a": ["Complex carbohydrates such as sweet potatoes and lentils", "Refined sugar from sodas and candy bars", "Artificial sweeteners added to coffee", "Fruit juice concentrate taken daily"],
+      "why": "Lesson 3 says to avoid refined sugar, which causes energy crashes, and choose complex carbs like whole grains, berries and sweet potatoes."
+    }
+  ]
+}

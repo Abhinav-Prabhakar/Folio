@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-equation",
+  "title": "The Happiness Equation",
+  "questions": [
+    {
+      "q": "Who put in place the world's first proper pension program in Germany?",
+      "a": [
+        "Otto von Bismarck",
+        "Kaiser Wilhelm II",
+        "Friedrich List",
+        "Prince Eulenburg"
+      ],
+      "why": "The retirement lesson names Bismarck as the Chancellor who created it."
+    },
+    {
+      "q": "In what year was Germany's first proper pension program introduced?",
+      "a": [
+        "1889",
+        "1871",
+        "1905",
+        "1850"
+      ],
+      "why": "The text states the Germans invented retirement in 1889."
+    },
+    {
+      "q": "What is the core question of the Saturday Morning Test?",
+      "a": [
+        "What would you do on a Saturday morning with no obligations?",
+        "What would you do on a Monday morning with no obligations?",
+        "What would you do on a Sunday evening with no obligations?",
+        "What would you do on a Friday night with no obligations?"
+      ],
+      "why": "The Saturday Morning Test lesson poses this exact question."
+    },
+    {
+      "q": "According to the text, what is the real challenge regarding advice?",
+      "a": [
+        "Not listening and trusting your own judgement",
+        "Finding the single best expert to follow",
+        "Collecting advice from as many sources as possible",
+        "Ignoring all external input completely"
+      ],
+      "why": "The advice lesson states the challenge is not to listen and trust your own judgement."
+    },
+    {
+      "q": "How does the author describe the sunrise moment shared with his father?",
+      "a": [
+        "An abundance of tiny sparks of happiness",
+        "A sign that he should change careers",
+        "A reminder to travel more often",
+        "A moment of deep existential sadness"
+      ],
+      "why": "The overview describes the sunrise as an abundance of tiny sparks of happiness."
+    }
+  ]
+}

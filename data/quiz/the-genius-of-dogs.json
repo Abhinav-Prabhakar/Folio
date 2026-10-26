@@ -1,0 +1,56 @@
+{
+  "book": "the-genius-of-dogs",
+  "title": "The Genius of Dogs",
+  "questions": [
+    {
+      "q": "How many U.S. households own at least one dog?",
+      "a": [
+        "63 million",
+        "50 million",
+        "70 million",
+        "80 million"
+      ],
+      "why": "The text states 63 million households."
+    },
+    {
+      "q": "What ability do dogs share with infants?",
+      "a": [
+        "Observe and learn",
+        "Run fast",
+        "Speak words",
+        "Fly"
+      ],
+      "why": "Both observe and learn from humans."
+    },
+    {
+      "q": "Which statement about dogs and language is true?",
+      "a": [
+        "They understand symbols, not words",
+        "They speak in human language",
+        "They read books",
+        "They write notes"
+      ],
+      "why": "Dogs understand symbols, not words."
+    },
+    {
+      "q": "What does behaviorism focus on in training dogs?",
+      "a": [
+        "Rewarding right behavior",
+        "Punishing wrong behavior",
+        "Ignoring behavior",
+        "Teaching tricks"
+      ],
+      "why": "Behaviorism rewards correct behavior."
+    },
+    {
+      "q": "Which limitation of dogs is mentioned?",
+      "a": [
+        "They cannot understand words",
+        "They cannot see colors",
+        "They cannot hear",
+        "They cannot taste"
+      ],
+      "why": "The text notes dogs don't understand words."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "making-ideas-happen",
+  "title": "Making Ideas Happen",
+  "questions": [
+    {
+      "q": "What are the three categories into which Belsky sorts project tasks?",
+      "a": [
+        "Action steps, references and backburner items",
+        "Urgent tasks, important tasks and optional tasks",
+        "Creative work, admin work and client work",
+        "Daily tasks, weekly tasks and monthly tasks"
+      ],
+      "why": "Lesson 1 divides every project into action steps, reference material and nice-to-have backburner items."
+    },
+    {
+      "q": "How does the summary describe a “dreamer”?",
+      "a": [
+        "Someone full of ideas who struggles to see one through",
+        "Someone who finishes projects but resists new ideas",
+        "Someone who balances ideas and execution perfectly",
+        "Someone who avoids creative work and focuses on numbers"
+      ],
+      "why": "Lesson 2 defines dreamers as idea-rich but weak on follow-through, unlike doers and incrementalists."
+    },
+    {
+      "q": "Why is it useful to know whether you are a dreamer, doer or incrementalist?",
+      "a": [
+        "You can partner with people whose strengths complement yours",
+        "You can avoid ever working with people of the same type",
+        "You can choose a career that requires no collaboration",
+        "You can eliminate the weaknesses of your own type"
+      ],
+      "why": "Lesson 2 says knowing your type lets you find partners who fill the gaps, so you go further together."
+    },
+    {
+      "q": "What is the Energy Line?",
+      "a": [
+        "Projects ranked by the energy you should invest in them from now on",
+        "A list of tasks sorted by how much energy they have already cost",
+        "A schedule that places your hardest work early in the day",
+        "A measure of how energized you feel after each project"
+      ],
+      "why": "Lesson 3 defines it as projects sorted by future energy and value, setting aside sunk costs."
+    },
+    {
+      "q": "What mistake does the summary say people make when choosing which project to work on?",
+      "a": [
+        "They judge by effort already spent rather than future value",
+        "They always pick the newest project on their desk",
+        "They ask clients to decide the priority for them",
+        "They refuse to work on more than one project at a time"
+      ],
+      "why": "Lesson 3 warns against deciding based on past investment instead of the project’s strategic and economic value."
+    }
+  ]
+}

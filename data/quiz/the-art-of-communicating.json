@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-communicating",
+  "title": "The Art Of Communicating",
+  "questions": [
+    {
+      "q": "According to the summary, what are the two main kinds of speech?",
+      "a": [
+        "Nourishing speech and toxic speech",
+        "Honest speech and polite speech",
+        "Mindful speech and habitual speech",
+        "Loving speech and neutral speech"
+      ],
+      "why": "Lesson 1 divides communication into nourishing speech, which understands and stays positive, and toxic speech."
+    },
+    {
+      "q": "What did the Buddha do when two people asked him the same question about death?",
+      "a": [
+        "He gave different answers suited to each person's understanding",
+        "He refused to answer until they had studied more",
+        "He gave exactly the same answer to both of them",
+        "He told them to ask someone else instead"
+      ],
+      "why": "Lesson 3 uses the story to show that loving speech must fit the person hearing it."
+    },
+    {
+      "q": "What does mindfulness let you do when someone speaks to you harshly?",
+      "a": [
+        "See their words as a sign of their own suffering and take them less personally",
+        "Reply with equally sharp words so they understand your limits",
+        "Ignore the person completely until they apologize",
+        "Report the conversation to someone in authority"
+      ],
+      "why": "Lesson 1 says mindfulness helps you judge less and recognize toxic speech as a result of inner suffering."
+    },
+    {
+      "q": "What simple practice does the summary recommend for communicating with yourself?",
+      "a": [
+        "Sitting down and concentrating on your breathing",
+        "Writing a daily list of your goals and worries",
+        "Talking aloud to yourself in the mirror each morning",
+        "Reviewing your conversations before falling asleep"
+      ],
+      "why": "Lesson 2 suggests taking a minute to sit and focus on breathing, which brings you into the present."
+    },
+    {
+      "q": "What is the first rule of loving speech, according to Hanh?",
+      "a": [
+        "Always tell the truth, but speak it gently",
+        "Say only what will make the other person happy",
+        "Wait until you are calm before saying anything",
+        "Match the other person's tone and vocabulary"
+      ],
+      "why": "Lesson 3 says loving speech begins with truthfulness, delivered with gentleness so it builds trust."
+    }
+  ]
+}

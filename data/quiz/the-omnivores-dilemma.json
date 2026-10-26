@@ -1,0 +1,56 @@
+{
+  "book": "the-omnivores-dilemma",
+  "title": "The Omnivore’s Dilemma",
+  "questions": [
+    {
+      "q": "What crop's overuse is highlighted as a root problem?",
+      "a": [
+        "Corn",
+        "Wheat",
+        "Rice",
+        "Soy"
+      ],
+      "why": "The book identifies corn as the root of the problem."
+    },
+    {
+      "q": "How many times has corn yield per acre increased since 1920?",
+      "a": [
+        "9x",
+        "5x",
+        "10x",
+        "3x"
+      ],
+      "why": "Yield rose from 20 to 180 bushels, a 9‑fold increase."
+    },
+    {
+      "q": "Why has the organic label become less strict?",
+      "a": [
+        "Processed food lobby influence",
+        "Consumer demand",
+        "Government regulation",
+        "Technological advances"
+      ],
+      "why": "The text says the processed food lobby lowered organic standards."
+    },
+    {
+      "q": "What is one benefit of buying locally mentioned?",
+      "a": [
+        "Reduces travel fuel",
+        "Increases cost",
+        "Decreases quality",
+        "Limits variety"
+      ],
+      "why": "Local buying cuts travel distance and fuel use."
+    },
+    {
+      "q": "Which benefit does the book NOT list for local food?",
+      "a": [
+        "Higher prices",
+        "Supports small farms",
+        "Improved freshness",
+        "Lower environmental impact"
+      ],
+      "why": "Higher prices are not presented as a benefit."
+    }
+  ]
+}

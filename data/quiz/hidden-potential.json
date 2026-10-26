@@ -1,0 +1,56 @@
+{
+  "book": "hidden-potential",
+  "title": "Hidden Potential",
+  "questions": [
+    {
+      "q": "How does Grant distinguish character from personality?",
+      "a": [
+        "Character is choosing values over instinct; personality is instinct",
+        "Character is fixed at birth; personality develops through practice",
+        "Character is how others see you; personality is how you see yourself",
+        "Character is learned in childhood; personality changes with age"
+      ],
+      "why": "Lesson 1 defines personality as our basic instincts and character as our capacity to put values ahead of them."
+    },
+    {
+      "q": "What does Grant mean by starting before you feel ready?",
+      "a": [
+        "Comfort grows through practice rather than before it",
+        "You should wait until your skills are fully developed",
+        "You should begin with the easiest part of a project",
+        "Confidence must be built before any public attempt"
+      ],
+      "why": "Lesson 1 says you do not need to feel comfortable first, because comfort grows as you practice your skills."
+    },
+    {
+      "q": "Why does Grant recommend setting a minimum mistake target?",
+      "a": [
+        "Making failure part of the plan makes it hurt less",
+        "It guarantees that you will avoid serious errors",
+        "It shows others that you are working hard",
+        "It helps you finish tasks more quickly"
+      ],
+      "why": "Lesson 1 suggests a weekly or daily mistake target so that failing feels planned and less painful."
+    },
+    {
+      "q": "What does brainwriting involve?",
+      "a": [
+        "Collecting ideas individually before the group judges them",
+        "Writing ideas on a board while others talk aloud",
+        "Letting the most senior person draft the solution",
+        "Holding a long meeting until everyone agrees"
+      ],
+      "why": "Lesson 3 says people should gather ideas separately first, then use meeting time to select and refine them."
+    },
+    {
+      "q": "How does the summary describe the roundabout path to progress?",
+      "a": [
+        "It can feel circular but is really a slow upward spiral",
+        "It avoids setbacks by following a strict straight line",
+        "It requires abandoning your main goal for a side project",
+        "It works best only for people in the second half of life"
+      ],
+      "why": "Lesson 2 says progress may look like wandering in circles, yet it is often a gradual climb upward."
+    }
+  ]
+}

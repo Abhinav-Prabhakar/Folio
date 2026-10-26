@@ -1,0 +1,56 @@
+{
+  "book": "principles",
+  "title": "Principles",
+  "questions": [
+    {
+      "q": "What did Dalio's failed bet on a Mexican default teach him?",
+      "a": [
+        "To reason rationally rather than emotionally",
+        "To avoid making public predictions",
+        "To trust his instincts about markets",
+        "To keep his opinions away from employees"
+      ],
+      "why": "Lesson 1 calls it his biggest failure and says it taught him to always think rationally, not emotionally."
+    },
+    {
+      "q": "Why did Dalio lose everything even though his prediction was right?",
+      "a": [
+        "Stocks and businesses soared instead of crashing",
+        "The Mexican government refused to pay him",
+        "His investors withdrew their money early",
+        "Regulators froze his fund during the crisis"
+      ],
+      "why": "Lesson 1 says Mexico did default, but the expected crisis never came and markets rose against his bets."
+    },
+    {
+      "q": "What is radical truthfulness meant to ensure inside a company?",
+      "a": [
+        "Mistakes get raised, discussed and learned from",
+        "Every decision is made by a majority vote",
+        "Employees avoid saying anything hurtful",
+        "Managers keep sensitive data confidential"
+      ],
+      "why": "Lesson 2 says honesty keeps errors from being swept away, so people can discuss and learn from them."
+    },
+    {
+      "q": "What is an idea meritocracy?",
+      "a": [
+        "A place where the best ideas win",
+        "A company run by its longest-serving staff",
+        "A system where everyone gets an equal vote",
+        "A workplace where consensus is always required"
+      ],
+      "why": "Lesson 3 defines an idea meritocracy as an environment where the strongest ideas rise to the top."
+    },
+    {
+      "q": "How does Bridgewater judge which opinions to act on?",
+      "a": [
+        "It scores people's believability on each issue",
+        "It holds a simple vote among all employees",
+        "It leaves the final call to Dalio alone",
+        "It follows whoever argues most forcefully"
+      ],
+      "why": "Lesson 3 says the firm tracks people's views over time and weights decisions by credibility, not majority vote."
+    }
+  ]
+}

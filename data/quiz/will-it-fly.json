@@ -1,0 +1,56 @@
+{
+  "book": "will-it-fly",
+  "title": "Will It Fly",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Will It Fly?",
+      "a": [
+        "Pat Flynn is a rock star.",
+        "You have the right habit.",
+        "You’ve been there before.",
+        "Let’s start from the top."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Will It Fly explore?",
+      "a": [
+        "Interview your future self to match your lifestyle with your business",
+        "Make sure what you’re wearing is comfortable and reflects who you are",
+        "Take your time with your biggest goals. They both need and deserve it",
+        "Instead of thinking outside the box, think inside the right-sized box"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Will It Fly teach?",
+      "a": [
+        "Match your idea with your target customers by creating a Customer P.L.A.N",
+        "Exercising will help you reap the most benefits from the plant-based diet",
+        "Adopt the approach used in software development: prototype, test, iterate",
+        "Doing nothing and doing everything are both signs of learned helplessness"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Will It Fly?",
+      "a": [
+        "It’s so easy to screw this up.",
+        "Everybody’s heard about atoms.",
+        "Introducing: the gift economy.",
+        "Everybody’s good at something."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Will It Fly?",
+      "a": [
+        "Will It Fly is a step-by-step guide to testing your business idea, making sure your new…",
+        "To give the best advice to others, you need to get your own work and life in order first",
+        "Film school at UT Austin was the place where Matthew’s success and fame began taking off",
+        "We could go on for days about the corrupt and over-controlling Chinese political system."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

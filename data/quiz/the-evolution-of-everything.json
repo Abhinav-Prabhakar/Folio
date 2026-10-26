@@ -1,0 +1,56 @@
+{
+  "book": "the-evolution-of-everything",
+  "title": "The Evolution Of Everything",
+  "questions": [
+    {
+      "q": "What does creationism imply about planning?",
+      "a": [
+        "It implies an active design",
+        "It implies random change",
+        "It implies gradual unfolding",
+        "It implies no change"
+      ],
+      "why": "Creationism suggests a calculated plan."
+    },
+    {
+      "q": "Which ancient culture used gold bars for trade?",
+      "a": [
+        "Ancient Egypt",
+        "Ancient Greece",
+        "Ancient China",
+        "Ancient India"
+      ],
+      "why": "Gold bars were traded in ancient Egypt."
+    },
+    {
+      "q": "What core idea did Darwin introduce?",
+      "a": [
+        "Survival of the fittest",
+        "Creation by gods",
+        "Random mutation",
+        "Spontaneous generation"
+      ],
+      "why": "Darwin's theory centers on survival of the fittest."
+    },
+    {
+      "q": "Which 19th‑century country had banks printing their own currency?",
+      "a": [
+        "Sweden",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "why": "Sweden's banks printed competing currencies."
+    },
+    {
+      "q": "Which term describes gradual change without a plan?",
+      "a": [
+        "Evolution",
+        "Creation",
+        "Design",
+        "Engineering"
+      ],
+      "why": "Evolution means unfolding without a specific plan."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "oxygen",
+  "title": "Oxygen",
+  "questions": [
+    {
+      "q": "How did rising oxygen levels contribute to multicellular life?",
+      "a": [
+        "Single cells clustered together to escape oxygen",
+        "Oxygen directly created the first living cells",
+        "It cooled the planet so plants could grow",
+        "It removed all competing organisms"
+      ],
+      "why": "Lesson 1 says single cells huddled together to escape oxygen and eventually formed the first multicellular life."
+    },
+    {
+      "q": "Why could giant insects and scorpions exist 300 million years ago?",
+      "a": [
+        "Atmospheric oxygen was about 35 percent",
+        "Gravity was much weaker at the time",
+        "Predators were almost entirely absent",
+        "The climate stayed permanently cold"
+      ],
+      "why": "Lesson 2 says atmospheric oxygen was about 35 percent 300 million years ago, allowing giant animals."
+    },
+    {
+      "q": "Why can't ancient giant dragonflies fly in today's air?",
+      "a": [
+        "Today's 21 percent oxygen gives too little lift",
+        "Their wings were too fragile to survive",
+        "Modern predators catch them quickly",
+        "Their bodies became too heavy for air"
+      ],
+      "why": "Lesson 2 explains that giant dragonflies could not generate enough lift in today's 21 percent oxygen."
+    },
+    {
+      "q": "How does breathing relate to aging, per the summary?",
+      "a": [
+        "It produces toxic byproducts that build up over time",
+        "It slowly wears out the lungs and nothing else",
+        "It has no measurable effect on lifespan",
+        "It speeds aging only in high-metabolism animals"
+      ],
+      "why": "Lesson 3 says breathing produces toxic byproducts that accumulate and determine how fast we age."
+    },
+    {
+      "q": "What does the horse and squirrel comparison show?",
+      "a": [
+        "Animals can use similar lifetime oxygen at very different rates",
+        "Larger animals always live longer than small ones",
+        "Metabolic rate does not vary between species",
+        "Oxygen intake is fixed for every species"
+      ],
+      "why": "Lesson 3 compares a horse and a squirrel that consume similar lifetime oxygen at different rates."
+    }
+  ]
+}

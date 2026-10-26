@@ -1,0 +1,56 @@
+{
+  "book": "getting-comfy",
+  "title": "Getting COMFY",
+  "questions": [
+    {
+      "q": "What does the COMFY acronym stand for?",
+      "a": [
+        "Calmness, openness, movement, fun and your passions",
+        "Calm, optimism, mindfulness, fitness and yearning",
+        "Clarity, order, movement, focus and yielding",
+        "Comfort, openness, meals, fitness and youth"
+      ],
+      "why": "The overview lists the five morning ingredients Gross builds his routine around."
+    },
+    {
+      "q": "How does Gross suggest you begin the day?",
+      "a": [
+        "With a calming activity such as meditation and breathing",
+        "By checking email before you get out of bed",
+        "By exercising before doing anything else",
+        "By writing a long to-do list for the day"
+      ],
+      "why": "The first lesson says jumping straight from a buzzing alarm into work is a recipe for anxiety."
+    },
+    {
+      "q": "What does the openness step involve?",
+      "a": [
+        "Connecting with others and journaling about your thoughts",
+        "Sharing every private detail publicly",
+        "Accepting every invitation that comes your way",
+        "Saying yes to as many commitments as possible"
+      ],
+      "why": "The first lesson suggests texting an old friend, thanking someone or being vulnerable in a journal."
+    },
+    {
+      "q": "Why does Gross include something funny in the morning?",
+      "a": [
+        "Laughter reduces worry and keeps you in the present",
+        "It improves your performance during workouts",
+        "It makes you answer emails faster",
+        "It can replace meditation entirely"
+      ],
+      "why": "The second lesson recommends building a Positive News Network or sharing jokes with a funny buddy."
+    },
+    {
+      "q": "What does feeling young and thinking old mean?",
+      "a": [
+        "Recall childhood joys while dropping immature mindsets",
+        "Exercise like a child and plan like an elder",
+        "Keep childish habits and avoid responsibility",
+        "Act younger than your age at work"
+      ],
+      "why": "The third lesson says this helps you break social pressure and pursue what actually makes you tick."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "how-to-think-more-effectively",
+  "title": "How to Think More Effectively",
+  "questions": [
+    {
+      "q": "How much time should thinking and strategizing take?",
+      "a": [
+        "About 15 to 20 percent",
+        "About 5 percent",
+        "About half of your time",
+        "About 80 percent"
+      ],
+      "why": "Lesson 1 says planning deserves roughly 15 to 20 percent of your time."
+    },
+    {
+      "q": "What does the summary say envy can reveal?",
+      "a": [
+        "What you lack and want to achieve",
+        "Which people you should avoid",
+        "How much you have already grown",
+        "Why others dislike you"
+      ],
+      "why": "Lesson 2 says envy points to something missing from your life that you want."
+    },
+    {
+      "q": "How can thinking about death help you think more effectively?",
+      "a": [
+        "It reminds you what is important",
+        "It makes you fear failure",
+        "It proves life is meaningless",
+        "It pushes you to work constantly"
+      ],
+      "why": "Lesson 2 says mortality can clarify priorities and help you release trivial concerns."
+    },
+    {
+      "q": "Why should you question your own conclusions?",
+      "a": [
+        "Your thinking is faulty and can be wrong",
+        "Others are usually better informed",
+        "Skepticism makes you seem smart",
+        "It prevents you from ever deciding"
+      ],
+      "why": "Lesson 3 says accepting that your thinking is imperfect helps you weigh other perspectives."
+    },
+    {
+      "q": "What should you do after accepting a point of view?",
+      "a": [
+        "Be firm but keep some skepticism",
+        "Revisit it every hour",
+        "Defend it against all objections",
+        "Avoid discussing it with others"
+      ],
+      "why": "Lesson 3 advises being firm and concise while remembering you could still be partly wrong."
+    }
+  ]
+}

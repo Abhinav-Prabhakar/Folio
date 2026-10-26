@@ -1,0 +1,56 @@
+{
+  "book": "facebook-ads-manual",
+  "title": "Facebook Ads Manual",
+  "questions": [
+    {
+      "q": "What does the GRAB model stand for?",
+      "a": [
+        "Goal, results, audience, budget, brand",
+        "Growth, reach, ads, budget, branding",
+        "Goal, reach, analysis, bids, buyers",
+        "Group, results, audience, bids, brand"
+      ],
+      "why": "Lesson 1 walks through goal, results, audience, budget and brand."
+    },
+    {
+      "q": "Why does Mars insist on a specific goal before anything else?",
+      "a": [
+        "Without a finish line you cannot tell if it worked",
+        "Facebook only allows one goal per account",
+        "A goal automatically sets your budget",
+        "Specific goals lower the price of ads"
+      ],
+      "why": "Lesson 1 compares it to running a marathon without a finish line."
+    },
+    {
+      "q": "How does the 20/30/50 rule split a campaign budget?",
+      "a": [
+        "Twenty on all ads, thirty on the best, fifty on the best plus refined targeting",
+        "Fifty on all ads, thirty on the best, twenty on targeting",
+        "Twenty on targeting, thirty on creative, fifty on placement",
+        "Equal thirds across testing, scaling and retargeting"
+      ],
+      "why": "Lesson 2 describes testing broadly, then narrowing as data arrives."
+    },
+    {
+      "q": "Why keep the target audience under 300,000 people?",
+      "a": [
+        "A smaller sample makes it easier to see what works",
+        "Facebook charges more for large audiences",
+        "Large audiences cannot be saved",
+        "Small audiences always convert at a fixed rate"
+      ],
+      "why": "Lesson 3 ties a narrow audience to measurable results."
+    },
+    {
+      "q": "What is the difference between efficient and effective ad spending?",
+      "a": [
+        "Efficient spends correctly; effective spends on the right things",
+        "Efficient spends more; effective spends less",
+        "Efficient targets everyone; effective targets no one",
+        "Efficient is short-term; effective is long-term"
+      ],
+      "why": "Lesson 2 says effectiveness means picking the right things first."
+    }
+  ]
+}

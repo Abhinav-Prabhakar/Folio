@@ -1,0 +1,56 @@
+{
+  "book": "comfortably-unaware",
+  "title": "Comfortably Unaware",
+  "questions": [
+    {
+      "q": "How much of human-caused greenhouse gas emissions comes from raising livestock?",
+      "a": [
+        "About 20 percent",
+        "About 5 percent",
+        "About 35 percent",
+        "About 50 percent"
+      ],
+      "why": "The overview and Lesson 3 put livestock at roughly 20 percent, compared with 13 percent for all transportation."
+    },
+    {
+      "q": "Why does animal farming require so much land?",
+      "a": [
+        "Farmers also need vast areas to grow feed for the animals",
+        "Animals must be kept far away from cities",
+        "Each animal needs its own enclosed pasture",
+        "Land is left empty to recover between herds"
+      ],
+      "why": "Lesson 1 explains that land is needed for the livestock and for the crops that feed them, which drives rainforest clearing."
+    },
+    {
+      "q": "What does the summary say would happen if grain fed to livestock went to people instead?",
+      "a": [
+        "World hunger could be overcome quickly",
+        "Meat would become cheaper in rich countries",
+        "Farmers would need more water than before",
+        "Crop yields would fall in the short term"
+      ],
+      "why": "Oppenlander argues that redirecting livestock grain to humans could feed everyone and end world hunger in no time."
+    },
+    {
+      "q": "Why is methane from livestock especially troubling?",
+      "a": [
+        "It traps roughly 30 times more heat than carbon dioxide",
+        "It stays in the atmosphere for many centuries",
+        "It blocks sunlight from reaching crops",
+        "It dissolves easily into drinking water"
+      ],
+      "why": "Lesson 3 notes that methane is about 30 times more potent as a heat-trapping gas than carbon dioxide."
+    },
+    {
+      "q": "What makes livestock waste especially dangerous?",
+      "a": [
+        "It carries hormones, antibiotics and pesticides into water",
+        "It is too dry to break down naturally",
+        "It is stored safely in sealed tanks",
+        "It only affects the soil near the farm"
+      ],
+      "why": "The summary says the waste is full of drugs and chemicals that reach water systems and re-enter the food chain."
+    }
+  ]
+}

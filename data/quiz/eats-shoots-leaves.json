@@ -1,0 +1,56 @@
+{
+  "book": "eats-shoots-leaves",
+  "title": "Eats, Shoots & Leaves",
+  "questions": [
+    {
+      "q": "How many correct uses of the apostrophe does Truss list?",
+      "a": [
+        "Eight",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "why": "Lesson 1 says there are essentially only eight correct ways to use the apostrophe, from possessives to omitted letters."
+    },
+    {
+      "q": "How many comma rules does the author highlight?",
+      "a": [
+        "Seven",
+        "Four",
+        "Eight",
+        "Ten"
+      ],
+      "why": "Lesson 2 lists seven rules for using commas, from enumerating lists to bracketing weak interruptions."
+    },
+    {
+      "q": "What does Truss compare a language to?",
+      "a": [
+        "A living organism that grows and changes",
+        "A machine that needs careful maintenance",
+        "A building constructed from firm rules",
+        "A game with fixed and unbreakable rules"
+      ],
+      "why": "Lesson 1 opens by describing language as a living organism that develops, twists and changes over time."
+    },
+    {
+      "q": "What does she recommend instead of piling on exclamation marks?",
+      "a": [
+        "Use periods and plain words to carry the feeling",
+        "Use capitals to emphasize the important words",
+        "Add quotation marks around emotional phrases",
+        "Write longer sentences to explain the emotion"
+      ],
+      "why": "Lesson 3 says to embrace the period and use words to convey sentiment rather than relying on punctuation."
+    },
+    {
+      "q": "What does Truss say makes a text easier to digest?",
+      "a": [
+        "Cutting it into bite-size chunks and avoiding long sentences",
+        "Adding commas wherever a pause feels natural",
+        "Using more question marks to engage the reader",
+        "Keeping every paragraph to a single idea"
+      ],
+      "why": "Lesson 3 recommends cutting text into bite-size chunks so the audience can digest it more easily."
+    }
+  ]
+}

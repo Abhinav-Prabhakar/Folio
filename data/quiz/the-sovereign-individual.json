@@ -1,0 +1,56 @@
+{
+  "book": "the-sovereign-individual",
+  "title": "The Sovereign Individual",
+  "questions": [
+    {
+      "q": "Which revolution first enabled larger human groups by increasing food production?",
+      "a": [
+        "Agricultural",
+        "Industrial",
+        "Digital",
+        "Neolithic"
+      ],
+      "why": "Agricultural Revolution raised food output, allowing larger communities."
+    },
+    {
+      "q": "What does the author predict will happen to state violence in the digital age?",
+      "a": [
+        "It will decline",
+        "It will increase",
+        "It will stay the same",
+        "It will be replaced by corporate violence"
+      ],
+      "why": "States can no longer use violence to enforce obedience."
+    },
+    {
+      "q": "Which benefit of IT is highlighted as impossible to overlook?",
+      "a": [
+        "Instant global communication",
+        "Massive job automation",
+        "Universal health records",
+        "Climate change mitigation"
+      ],
+      "why": "IT enables instant communication worldwide."
+    },
+    {
+      "q": "What new form of organization does the book foresee replacing nation-states?",
+      "a": [
+        "Morality-based groups",
+        "Corporate conglomerates",
+        "Religious sects",
+        "Technocratic councils"
+      ],
+      "why": "Future organization governed by morality, not violence."
+    },
+    {
+      "q": "According to the text, why are people moving away from religious behaviors?",
+      "a": [
+        "Globalization and tech reduce trust in media",
+        "Increased scientific literacy",
+        "Economic inequality",
+        "Political polarization"
+      ],
+      "why": "Globalization and tech reduce religious behaviors and trust."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-drama-of-the-gifted-child",
+  "title": "The Drama Of The Gifted Child",
+  "questions": [
+    {
+      "q": "What can cause gifted children to later feel depressed?",
+      "a": [
+        "High self‑expectations from demanding parents",
+        "Low academic pressure",
+        "Unrelated childhood hobbies",
+        "Random life events"
+      ],
+      "why": "The text links high self‑expectations to later depression."
+    },
+    {
+      "q": "How can childhood trauma affect future generations?",
+      "a": [
+        "It can be passed down if not addressed",
+        "It disappears after adulthood",
+        "It only affects the child",
+        "It improves resilience"
+      ],
+      "why": "The book states trauma can be transmitted when left unresolved."
+    },
+    {
+      "q": "Why might parents who had repressed childhoods harm their children?",
+      "a": [
+        "They unknowingly impose new stresses",
+        "They give too much freedom",
+        "They ignore emotional needs",
+        "They over‑protect"
+      ],
+      "why": "The text explains that trying to give more can create hidden stress."
+    },
+    {
+      "q": "What is suggested as a first step to break the cycle of emotional suppression?",
+      "a": [
+        "Confront the past directly",
+        "Avoid therapy",
+        "Ignore feelings",
+        "Seek external validation"
+      ],
+      "why": "The book recommends facing the past head‑on."
+    },
+    {
+      "q": "What benefit does confronting a suppressed past bring?",
+      "a": [
+        "Enables a fulfilling life",
+        "Causes more anxiety",
+        "Reduces creativity",
+        "Increases work pressure"
+      ],
+      "why": "The text claims confronting leads to a more fulfilling life."
+    }
+  ]
+}

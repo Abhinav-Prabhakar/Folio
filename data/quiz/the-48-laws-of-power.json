@@ -1,0 +1,56 @@
+{
+  "book": "the-48-laws-of-power",
+  "title": "The 48 Laws Of Power",
+  "questions": [
+    {
+      "q": "According to the summary, what should you do after helping a superior solve a problem?",
+      "a": [
+        "Give the credit away so you gain responsibility in return",
+        "Claim the credit so your skills are finally noticed",
+        "Share it equally in front of the rest of the team",
+        "Downplay the problem so nobody thinks less of her"
+      ],
+      "why": "Lesson 1 says superiors must not look powerless; credit given away comes back as responsibility."
+    },
+    {
+      "q": "Why did Nicolas Fouquet end up in prison?",
+      "a": [
+        "The king accused him of stealing, since no subject could be that wealthy",
+        "He refused to finance the king's next war",
+        "He named his discoveries after a rival noble",
+        "He lost the king's money in a failed venture"
+      ],
+      "why": "Lesson 1: Fouquet's lavish party made the king feel powerless, so he was accused of theft."
+    },
+    {
+      "q": "How did Galileo secure years of funding for his research?",
+      "a": [
+        "He named Jupiter's moons after his patron and his brothers",
+        "He dedicated his telescope to the French king",
+        "He let the Grand Duke claim the discovery",
+        "He taught the Duke's sons mathematics for free"
+      ],
+      "why": "Lesson 1: Cosimo II rewarded Galileo with a court post after the moons were named for his family."
+    },
+    {
+      "q": "According to the summary, why does unpredictable behavior help against competitors?",
+      "a": [
+        "It disrupts their analysis while you prepare your next move",
+        "It makes your skills appear greater than they are",
+        "It pushes rivals to copy your established pattern",
+        "It signals that you have nothing left to lose"
+      ],
+      "why": "Lesson 2: deliberate errors throw rivals off their analysis, like a bluff at a poker table."
+    },
+    {
+      "q": "What does the story of Chuko Liang and King Menghuo illustrate?",
+      "a": [
+        "Generosity and repeated release can win voluntary surrender",
+        "Overwhelming force is the fastest route to loyalty",
+        "Hostages should be held until a treaty is signed",
+        "Public humiliation makes rivals abandon a campaign"
+      ],
+      "why": "Lesson 3: Liang fed and freed Menghuo seven times until he yielded on his own."
+    }
+  ]
+}

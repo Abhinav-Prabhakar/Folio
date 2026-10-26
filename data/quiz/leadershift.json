@@ -1,0 +1,56 @@
+{
+  "book": "leadershift",
+  "title": "Leadershift",
+  "questions": [
+    {
+      "q": "What shift does the summary recommend for ambitious leaders?",
+      "a": [
+        "Build ladders for others instead of only climbing your own",
+        "Avoid mentoring anyone until you retire",
+        "Compete with your team for promotions",
+        "Change jobs every few years to stay fresh"
+      ],
+      "why": "Lesson 1 says exceptional leaders mentor rather than just advance themselves."
+    },
+    {
+      "q": "What should you look for in people you mentor?",
+      "a": [
+        "Hunger to learn and real potential to lead",
+        "Loyalty to your ideas and long tenure",
+        "High test scores and quiet manners",
+        "Personal friendship and shared hobbies"
+      ],
+      "why": "Lesson 1 says to choose people who say they will find a way."
+    },
+    {
+      "q": "What did Pat Summitt do at halftime that impressed Maxwell?",
+      "a": [
+        "She let the team discuss first, then listened to their report",
+        "She gave a long motivational speech to the players",
+        "She replaced several of the starting players",
+        "She left the room to review game footage alone"
+      ],
+      "why": "Lesson 2 says she connected with players instead of directing them."
+    },
+    {
+      "q": "What does Maxwell write on his notepad during meetings?",
+      "a": [
+        "A large letter L to remind himself to listen",
+        "Three goals for the conversation",
+        "The names of everyone present",
+        "A question mark beside each decision"
+      ],
+      "why": "Lesson 2 says the letter helps him listen more than he speaks."
+    },
+    {
+      "q": "Where does real influence come from, according to the summary?",
+      "a": [
+        "Trust built by keeping promises, not from a title",
+        "The size of the budget you control",
+        "The seniority of your office location",
+        "The number of people who report to you"
+      ],
+      "why": "Lesson 3 says Claude's integrity mattered more than Maxwell's position."
+    }
+  ]
+}

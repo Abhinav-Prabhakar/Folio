@@ -1,0 +1,56 @@
+{
+  "book": "siddhartha",
+  "title": "Siddhartha",
+  "questions": [
+    {
+      "q": "What does Siddhartha conclude about the material and spiritual worlds?",
+      "a": [
+        "Neither one is complete without the other",
+        "The spiritual world should replace the material one",
+        "The material world is the only true reality",
+        "Both worlds should be avoided entirely"
+      ],
+      "why": "Lesson 1 says he rejects both extremes and looks for balance."
+    },
+    {
+      "q": "What happens when Siddhartha lives only as an ascetic?",
+      "a": [
+        "He finds the path incomplete without the physical world",
+        "He reaches enlightenment straight away",
+        "He becomes wealthy and content",
+        "He forgets his friend Govinda"
+      ],
+      "why": "Lesson 1 says asceticism alone left him unfulfilled."
+    },
+    {
+      "q": "What does the fisherman represent in the summary?",
+      "a": [
+        "The enlightenment and freedom Siddhartha seeks",
+        "The dangers of a selfish life",
+        "The wisdom of city merchants",
+        "The strict rules of the Buddha"
+      ],
+      "why": "Lesson 2 calls the fisherman the symbol of Siddhartha's goal."
+    },
+    {
+      "q": "What does the river symbolize?",
+      "a": [
+        "The interconnection of all things",
+        "The power of unfulfilled desire",
+        "The passage from youth to age",
+        "The emptiness of the natural world"
+      ],
+      "why": "Lesson 3 uses the river to show everything flowing together."
+    },
+    {
+      "q": "What causes suffering, according to Siddhartha and Govinda?",
+      "a": [
+        "Desire and attachment to things we lack",
+        "Too much contact with other people",
+        "A lack of money and comfortable shelter",
+        "Disobeying religious teachers"
+      ],
+      "why": "The overview says desire for what we lack creates suffering."
+    }
+  ]
+}

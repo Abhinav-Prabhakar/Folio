@@ -1,0 +1,56 @@
+{
+  "book": "excellent-sheep",
+  "title": "Excellent Sheep",
+  "questions": [
+    {
+      "q": "Where do many elite graduates end up, and why?",
+      "a": [
+        "Finance or consulting, because they feel lost",
+        "Nonprofits, because they want meaning",
+        "Academia, because they love research",
+        "Startups, because they crave risk"
+      ],
+      "why": "Lesson 1 says nearly half of Harvard graduates enter those fields."
+    },
+    {
+      "q": "What is duck syndrome?",
+      "a": [
+        "Looking calm on the surface while struggling underneath",
+        "Refusing to ask professors for help",
+        "Choosing the easiest major available",
+        "Pretending to enjoy campus social life"
+      ],
+      "why": "Lesson 1 describes students cruising above water and paddling below."
+    },
+    {
+      "q": "Why do elite colleges end up run like businesses?",
+      "a": [
+        "Research brings in the funding they need to grow",
+        "They admit every applicant who can pay",
+        "They reward professors for great teaching",
+        "They refuse to raise tuition each year"
+      ],
+      "why": "Lesson 2 says budgets go to research that generates more revenue."
+    },
+    {
+      "q": "What did the rising average GPA at Harvard suggest?",
+      "a": [
+        "Grades were inflated and added pressure to perform",
+        "Students had become far more talented",
+        "Exams had grown much harder",
+        "Professors graded more strictly"
+      ],
+      "why": "Lesson 2 questions a 3.43 average on a 4.0 scale."
+    },
+    {
+      "q": "What was college originally meant to provide?",
+      "a": [
+        "Time to think critically and discover what you want",
+        "Job training for a specific career",
+        "A network of wealthy alumni",
+        "Credentials for elite employers"
+      ],
+      "why": "Lesson 3 says college should be a break for self-discovery."
+    }
+  ]
+}

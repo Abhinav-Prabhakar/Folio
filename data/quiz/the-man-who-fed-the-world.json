@@ -1,0 +1,56 @@
+{
+  "book": "the-man-who-fed-the-world",
+  "title": "The Man Who Fed The World",
+  "questions": [
+    {
+      "q": "What was Dr. Borlaug's main goal between 1930 and 1970?",
+      "a": [
+        "Ending world hunger",
+        "Increasing crop variety",
+        "Improving irrigation",
+        "Developing new pesticides"
+      ],
+      "why": "He focused on ending world hunger."
+    },
+    {
+      "q": "Why did Borlaug insist on quick deployment of new seeds?",
+      "a": [
+        "Hunger waits for perfection",
+        "Scientists need time",
+        "Seeds were cheap",
+        "Farmers demanded speed"
+      ],
+      "why": "He believed hunger does not wait."
+    },
+    {
+      "q": "Which method did Borlaug use to convince governments?",
+      "a": [
+        "Showing experimental results",
+        "Issuing policy papers",
+        "Holding conferences",
+        "Writing books"
+      ],
+      "why": "He demonstrated results to persuade."
+    },
+    {
+      "q": "What did Borlaug encourage farmers to do personally?",
+      "a": [
+        "Work on their own farms",
+        "Read agricultural texts",
+        "Attend seminars",
+        "Use chemical fertilizers"
+      ],
+      "why": "He urged hands‑on farming."
+    },
+    {
+      "q": "What is the core lesson from Borlaug's approach to science?",
+      "a": [
+        "Act before perfection",
+        "Theoretical research first",
+        "Slow incremental change",
+        "Public outreach"
+      ],
+      "why": "He pushed action over theory."
+    }
+  ]
+}

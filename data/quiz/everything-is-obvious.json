@@ -1,0 +1,56 @@
+{
+  "book": "everything-is-obvious",
+  "title": "Everything Is Obvious",
+  "questions": [
+    {
+      "q": "Why is common sense unreliable when making predictions?",
+      "a": [
+        "It ignores the cognitive biases that shape decisions",
+        "It relies on far too much data",
+        "It changes with every generation",
+        "It only applies to small groups"
+      ],
+      "why": "Lesson 1 says biases make common sense unstable."
+    },
+    {
+      "q": "What explains Austria's high organ donor rate?",
+      "a": [
+        "Donation is the default and people must opt out",
+        "Austrians are naturally more generous",
+        "Doctors ask every citizen in person",
+        "The law requires everyone to donate"
+      ],
+      "why": "Lesson 1 contrasts opt-out defaults with Germany's opt-in system."
+    },
+    {
+      "q": "What does Zara's measure and react approach avoid?",
+      "a": [
+        "Predicting demand in advance",
+        "Listening to customers",
+        "Testing small samples of new items",
+        "Following emerging fashion trends"
+      ],
+      "why": "Lesson 2 says Zara reacts to what shoppers already wear."
+    },
+    {
+      "q": "What is local knowledge, as the summary uses the term?",
+      "a": [
+        "Insight from people closest to the work",
+        "Data purchased from Google or Facebook",
+        "Advice from outside consultants",
+        "National sales statistics"
+      ],
+      "why": "Lesson 2 says to ask the people who already do the work."
+    },
+    {
+      "q": "What does Watts mean by uncommon sense?",
+      "a": [
+        "Decisions grounded in the scientific method",
+        "Instincts sharpened by years of experience",
+        "The consensus of a large group",
+        "Rules handed down by experts"
+      ],
+      "why": "Lesson 3 says uncommon sense tests hypotheses with data."
+    }
+  ]
+}

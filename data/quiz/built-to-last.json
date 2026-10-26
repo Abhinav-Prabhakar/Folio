@@ -1,0 +1,31 @@
+{
+  "book": "built-to-last",
+  "title": "Built To Last",
+  "questions": [
+    {
+      "q": "What does the summary say you need in order to start a great company?",
+      "a": ["Not even one good idea", "One brilliant original idea", "A large amount of startup capital", "A detailed ten-year plan"],
+      "why": "Lesson 1 argues that visionary firms succeed through constant idea generation, so a single great idea is not required."
+    },
+    {
+      "q": "What two parts make up a company's core ideology?",
+      "a": ["A higher purpose and a set of core values", "A mission statement and a memorable logo", "A strong leader and loyal employees", "A product roadmap and a budget"],
+      "why": "Lesson 2 defines core ideology as a purpose larger than profit combined with values that hold steady over time."
+    },
+    {
+      "q": "Why do visionary companies keep producing great ideas?",
+      "a": ["They generate so many ideas in the first place", "They hire consultants to supply ideas", "They buy ideas from smaller rivals", "They wait for one perfect idea to arrive"],
+      "why": "Lesson 1 says these companies focus on the process of generating ideas in volume, which makes standout ideas likely."
+    },
+    {
+      "q": "What usually happens to new hires who do not share a visionary company's ideology?",
+      "a": ["They leave very quickly", "They are promoted into management", "They receive extra training", "They stay on at lower pay"],
+      "why": "Lesson 3 says the fit is all or nothing, so employees either thrive in the culture or depart soon after joining."
+    },
+    {
+      "q": "How does the summary illustrate Walt Disney enforcing company values?",
+      "a": ["Swearing on the job could get you fired", "Employees had to wear formal suits", "Staff were expected to work weekends", "Managers had to rotate departments"],
+      "why": "Lesson 3 recalls that Disney fired anyone heard using a four-letter word other than love, with no exceptions."
+    }
+  ]
+}

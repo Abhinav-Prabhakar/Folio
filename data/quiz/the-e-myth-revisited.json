@@ -1,0 +1,56 @@
+{
+  "book": "the-e-myth-revisited",
+  "title": "The E-Myth Revisited",
+  "questions": [
+    {
+      "q": "What does Gerber call the belief that technical skill equals business skill?",
+      "a": [
+        "The entrepreneurial myth",
+        "The founder's trap",
+        "The expertise fallacy",
+        "The owner's illusion"
+      ],
+      "why": "From the lesson on technical skills, Gerber names the entrepreneurial myth as the false belief that technical expertise equals business ability."
+    },
+    {
+      "q": "According to the book, what proportion of small businesses never pass the 5-year mark?",
+      "a": [
+        "4 out of 5",
+        "3 out of 5",
+        "2 out of 5",
+        "5 out of 6"
+      ],
+      "why": "From the lesson on technical skills, the book states 4 out of 5 small businesses never make it past the 5-year mark."
+    },
+    {
+      "q": "What does Gerber suggest you imagine when planning your business from day one?",
+      "a": [
+        "That you are building your first franchise store",
+        "That you are hiring a professional manager",
+        "That you are opening a second location",
+        "That you are competing against a national chain"
+      ],
+      "why": "From the lesson on thinking like a franchise, Gerber advises imagining you are building your first franchise store to drive systematization."
+    },
+    {
+      "q": "Which of the following is an example of a hard system in Gerber's framework?",
+      "a": [
+        "A coffee machine",
+        "A free cookie policy",
+        "A training manual",
+        "Employee work attitude"
+      ],
+      "why": "From the lesson on system of systems, hard systems are defined as inanimate objects, with a coffee machine given as the example."
+    },
+    {
+      "q": "What is the core principle behind building a system of systems?",
+      "a": [
+        "Your business should not depend on individual people's skills",
+        "Your business should rely on one key employee",
+        "Your business should avoid all documentation",
+        "Your business should grow by adding more locations"
+      ],
+      "why": "From the lesson on system of systems, the goal is a business that does not rely on people's skills but on interconnected systems."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "prisoners-of-geography",
+  "title": "Prisoners Of Geography",
+  "questions": [
+    {
+      "q": "Why is Russia vulnerable to invasion from the west?",
+      "a": [
+        "A flat plain runs from Europe to Moscow",
+        "Its rivers freeze and block its defenses",
+        "Its borders follow high mountain ranges",
+        "Its population is spread too thinly"
+      ],
+      "why": "Lesson 1 describes the North European Plain as flat ground that an army could cross straight to Moscow."
+    },
+    {
+      "q": "What strategy has Russia used to protect itself?",
+      "a": [
+        "Keeping control of Poland and the Baltic states",
+        "Building walls along its European border",
+        "Moving its capital further to the east",
+        "Forming alliances only with southern states"
+      ],
+      "why": "Lesson 1 says Russia holds this territory to absorb the vulnerable land and defend more easily."
+    },
+    {
+      "q": "Why is the United States so hard for an army to invade?",
+      "a": [
+        "Oceans border it and its neighbors are friendly and huge",
+        "Its mountains split the country into narrow passes",
+        "Its climate makes most of the year impossible to cross",
+        "Its allies guard every approach by sea"
+      ],
+      "why": "Lesson 2 says the oceans and the size of friendly neighbors make invasion logistics nearly impossible."
+    },
+    {
+      "q": "What extra factor does the summary add to America's natural defenses?",
+      "a": [
+        "Widespread ownership of guns by civilians",
+        "A very large standing army",
+        "A network of coastal fortresses",
+        "Strict control of its borders"
+      ],
+      "why": "Lesson 2 says easy access to guns means invaders would face armed civilians in nearly every city."
+    },
+    {
+      "q": "Why does the summary say Southern Europe has struggled economically?",
+      "a": [
+        "It has far less arable land than the north",
+        "It was slower to industrialize by choice",
+        "Its workers lack education and skills",
+        "Its governments taxed trade too heavily"
+      ],
+      "why": "Lesson 3 says the south has less fertile soil, so it developed fewer major cities of commerce."
+    }
+  ]
+}

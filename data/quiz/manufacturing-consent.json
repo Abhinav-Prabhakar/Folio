@@ -1,0 +1,56 @@
+{
+  "book": "manufacturing-consent",
+  "title": "Manufacturing Consent",
+  "questions": [
+    {
+      "q": "What is Chomsky’s central claim about the mass media?",
+      "a": [
+        "It favors the wealthy and powerful because wealth and power are unevenly divided",
+        "It deliberately promotes socialist ideas to weaken large corporations",
+        "It is mostly independent and reports without regard to ownership",
+        "It focuses on entertainment because audiences reject serious news"
+      ],
+      "why": "The overview says an unequal division of wealth and power produces news coverage that favors the upper class."
+    },
+    {
+      "q": "Why do advertiser interests shape what news stations cover?",
+      "a": [
+        "Stations depend on advertising money and avoid upsetting sponsors",
+        "Advertisers are legally required to approve every story",
+        "Journalists prefer stories that sell products they personally use",
+        "Sponsors provide the reporters who write the coverage"
+      ],
+      "why": "Lesson 2 explains that stations need sponsorship, so coverage stays biased toward the advertisers’ interests."
+    },
+    {
+      "q": "What happened to the TV network that aired a documentary about corporate malpractice abroad?",
+      "a": [
+        "It lost the advertising funding that had supported it",
+        "It was praised for its independence and gained viewers",
+        "It was bought by the companies it had criticized",
+        "It received a government award for honest reporting"
+      ],
+      "why": "Lesson 2 recounts that the documentary made big business look bad and the funder withdrew support."
+    },
+    {
+      "q": "What does the summary say about the “experts” quoted in the news?",
+      "a": [
+        "They are often paid by the powerful and predict no better than anyone else",
+        "They are selected for their independence from corporate interests",
+        "They are usually academic researchers with no outside funding",
+        "They are more accurate than ordinary people at forecasting events"
+      ],
+      "why": "Lesson 3 says experts are paid by the rich and are about as good at predicting as the rest of us."
+    },
+    {
+      "q": "How does the summary reinterpret the media’s coverage of Watergate?",
+      "a": [
+        "It served another elite faction rather than genuinely challenging power",
+        "It proved that reporters can override their owners’ interests",
+        "It was ignored by the public until years after the scandal",
+        "It focused on the little guys rather than on powerful figures"
+      ],
+      "why": "Lesson 1 argues the coverage was a tool of the Democrats, who wanted to repair their image."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "think-again",
+  "title": "Think Again",
+  "questions": [
+    {
+      "q": "What market share did Blackberry hold in 2009?",
+      "a": [
+        "~50%",
+        "~25%",
+        "~10%",
+        "~5%"
+      ],
+      "why": "Blackberry controlled about half of the smartphone market in 2009."
+    },
+    {
+      "q": "Why did Mike Lazaridis resist changing his view on phones?",
+      "a": [
+        "He thought customers only needed basics",
+        "He feared competition",
+        "He lacked data",
+        "He was loyal to Blackberry"
+      ],
+      "why": "Lazaridis believed customers wanted only basic phone functions."
+    },
+    {
+      "q": "Which study links low logical reasoning scores to overconfidence?",
+      "a": [
+        "Study on logical reasoning and humor",
+        "Study on emotional intelligence",
+        "Study on smartphone usage",
+        "Study on marketing"
+      ],
+      "why": "Studies found low logical reasoning and humor scores correlate with inflated self‑perception."
+    },
+    {
+      "q": "How did Daryl Davis persuade former KKK members?",
+      "a": [
+        "Showed arbitrary nature of beliefs",
+        "Used legal threats",
+        "Gave financial incentives",
+        "Organized protests"
+      ],
+      "why": "He showed how their beliefs were arbitrary and family‑driven."
+    },
+    {
+      "q": "What technique did Dr. Gagneur use with the anti‑vaxxer?",
+      "a": [
+        "Motivational interviewing",
+        "Direct persuasion",
+        "Legal action",
+        "Social media campaign"
+      ],
+      "why": "He used motivational interviewing to help her find her own reasons."
+    }
+  ]
+}

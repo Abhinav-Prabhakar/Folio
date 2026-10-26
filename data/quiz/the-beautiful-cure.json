@@ -1,0 +1,56 @@
+{
+  "book": "the-beautiful-cure",
+  "title": "The Beautiful Cure",
+  "questions": [
+    {
+      "q": "What did Edward Jenner use to create the first vaccine?",
+      "a": [
+        "Cowpox pus, after noticing milkmaids seemed immune to smallpox",
+        "Weakened smallpox virus grown in a laboratory",
+        "Blood serum taken from recovered patients",
+        "A mixture of herbs used by local farmers"
+      ],
+      "why": "Lesson 1 says Jenner injected cowpox material in 1796 after observing the milkmaids' immunity."
+    },
+    {
+      "q": "What is the adaptive immune response?",
+      "a": [
+        "Cells that meet a threat duplicate into cells that remember it",
+        "Receptors that block every foreign substance at once",
+        "The swelling that follows an injury",
+        "The body's first reaction to a paper cut"
+      ],
+      "why": "Lesson 1 says T and B cells multiply after contact so they can recognize the same threat later."
+    },
+    {
+      "q": "What do cytokines do?",
+      "a": [
+        "Act as molecular messengers that coordinate the immune response",
+        "Carry oxygen to cells throughout the body",
+        "Break down food in the digestive tract",
+        "Form the physical barrier of the skin"
+      ],
+      "why": "Lesson 2 describes cytokines as proteins that tell cells when to start or stop an immune response."
+    },
+    {
+      "q": "What happens when cytokines are overproduced?",
+      "a": [
+        "Autoimmune disease can develop, such as rheumatoid arthritis",
+        "The immune system shuts down completely",
+        "Allergies disappear over time",
+        "Wounds heal more slowly"
+      ],
+      "why": "Lesson 2 links an excess of cytokines such as TNF to autoimmune conditions like rheumatoid arthritis."
+    },
+    {
+      "q": "What does immune checkpoint therapy involve?",
+      "a": [
+        "Blocking a receptor so T cells keep attacking cancer instead of switching off",
+        "Injecting cytokines directly into a tumour",
+        "Removing the tumour surgically before treatment",
+        "Strengthening the innate immune system with vaccines"
+      ],
+      "why": "Lesson 3 explains that blocking the receptor lets immune cells continue destroying the tumour."
+    }
+  ]
+}

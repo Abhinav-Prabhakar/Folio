@@ -1,0 +1,56 @@
+{
+  "book": "the-law-says-what",
+  "title": "The Law Says What",
+  "questions": [
+    {
+      "q": "When are police legally required to protect an individual?",
+      "a": [
+        "Only with a special relationship",
+        "Always as a duty",
+        "Only during emergencies",
+        "Never under any circumstance"
+      ],
+      "why": "States police duty to protect applies only with special relationship."
+    },
+    {
+      "q": "Under what condition can lethal force be justified as self‑defense?",
+      "a": [
+        "Imminent danger",
+        "Probable threat",
+        "General fear",
+        "Retaliation"
+      ],
+      "why": "Mentions imminent danger as required bracket for self‑defense shooting."
+    },
+    {
+      "q": "Why are booby traps prohibited for self‑defense?",
+      "a": [
+        "They may harm emergency responders",
+        "They are ineffective",
+        "They are too costly",
+        "They are illegal everywhere"
+      ],
+      "why": "Notes law prevents harming firefighters, police, etc."
+    },
+    {
+      "q": "What role do laws play in social structures according to the overview?",
+      "a": [
+        "Provide accountability and norms",
+        "Create absolute truth",
+        "Eliminate grey areas",
+        "Replace common sense"
+      ],
+      "why": "Describes laws as building accountability and norms."
+    },
+    {
+      "q": "What does the book say about the interpretation of laws?",
+      "a": [
+        "They have grey areas",
+        "They are black‑and‑white",
+        "They are always clear",
+        "They never change"
+      ],
+      "why": "Mentions laws have grey areas susceptible to interpretation."
+    }
+  ]
+}

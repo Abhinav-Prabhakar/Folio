@@ -1,0 +1,56 @@
+{
+  "book": "wa-the-art-of-balance",
+  "title": "Wa — The Art of Balance",
+  "questions": [
+    {
+      "q": "What does Kaki Okumura suggest about health compared to a career?",
+      "a": [
+        "Treat health with the same intention as a career",
+        "Treat health less important than a career",
+        "Treat health only after a career",
+        "Treat health as a hobby"
+      ],
+      "why": "She says we should afford health the same intention as careers."
+    },
+    {
+      "q": "Why does Kaki recommend cooking two meals at home?",
+      "a": [
+        "To avoid overeating and save money",
+        "To impress guests",
+        "To experiment with recipes",
+        "To reduce cooking time"
+      ],
+      "why": "She cooks enough for two meals to pace and save."
+    },
+    {
+      "q": "What did Kaki notice about US and Japanese drink sizes?",
+      "a": [
+        "US drinks are larger than Japanese ones",
+        "Japanese drinks are larger than US ones",
+        "Both are the same",
+        "US drinks are smaller"
+      ],
+      "why": "She noted a medium US drink is 21 oz vs 20 oz in Japan."
+    },
+    {
+      "q": "Which exercise principle does Kaki endorse?",
+      "a": [
+        "Embed what fits into daily routine",
+        "Do intense workouts weekly",
+        "Skip exercise if busy",
+        "Exercise only in gym"
+      ],
+      "why": "She says impactful exercise fits into routine."
+    },
+    {
+      "q": "How does Kaki link rest to surroundings?",
+      "a": [
+        "Rest involves caring for your environment",
+        "Rest is only about sleep",
+        "Rest is unrelated to surroundings",
+        "Rest means staying indoors"
+      ],
+      "why": "She says rest is about being in a safe place and caring for surroundings."
+    }
+  ]
+}

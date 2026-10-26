@@ -1,0 +1,56 @@
+{
+  "book": "radical-candor",
+  "title": "Radical Candor",
+  "questions": [
+    {
+      "q": "What two qualities does radical candor combine?",
+      "a": [
+        "Direct honesty with genuine care for the person",
+        "Public praise with private criticism",
+        "Clear targets with generous bonuses",
+        "Frequent meetings with detailed reports"
+      ],
+      "why": "Lesson 1 defines it as being thoroughly open while caring about the people you challenge."
+    },
+    {
+      "q": "How did Scott's boss deliver criticism after her presentation?",
+      "a": [
+        "She wrapped the feedback inside a compliment",
+        "She sent a written note the next day",
+        "She raised it in front of the whole team",
+        "She assigned her extra training sessions"
+      ],
+      "why": "Lesson 1 describes the boss telling her to say um less, then adding that she was too smart for it."
+    },
+    {
+      "q": "What does the summary say Steve Jobs did as a collaborative leader?",
+      "a": [
+        "He asked employees to speak up when they disagreed",
+        "He made every decision without consultation",
+        "He avoided giving feedback to his team",
+        "He rotated staff between departments"
+      ],
+      "why": "Lesson 2 says Jobs wanted people to challenge him so he would not make mistakes."
+    },
+    {
+      "q": "What did Russ Laraway learn about his employee Sarah?",
+      "a": [
+        "She dreamed of owning a farm",
+        "She planned to leave the company",
+        "She wanted a bigger sales budget",
+        "She hoped to relocate abroad"
+      ],
+      "why": "Lesson 3 says Sarah eventually revealed her wish to own a farm, which changed how he supported her."
+    },
+    {
+      "q": "Which conversations does the summary recommend for learning motivations?",
+      "a": [
+        "The life story, the dream job and the 18-month plan",
+        "The annual review, the salary talk and the exit interview",
+        "The team survey, the peer review and the weekly standup",
+        "The performance warning, the bonus talk and the promotion plan"
+      ],
+      "why": "Lesson 3 lists those three talks as ways to uncover what really drives your employees."
+    }
+  ]
+}

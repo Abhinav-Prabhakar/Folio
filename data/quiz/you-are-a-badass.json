@@ -1,0 +1,56 @@
+{
+  "book": "you-are-a-badass",
+  "title": "You Are A Badass",
+  "questions": [
+    {
+      "q": "Which of these statements is made in You Are A Badass?",
+      "a": [
+        "One thing I like about aging is that with each year, I care less about what people think.",
+        "Why do some nations prosper while others struggle and are plagued with poverty and greed?",
+        "Although I didn’t know it growing up, I have a lot of what I now know is white privilege.",
+        "Last month, a business partner told me I’d only receive half of my affiliate commissions."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does You Are A Badass explore?",
+      "a": [
+        "Draw a line in the sand. Now",
+        "Revel in the New Renaissance",
+        "Treat sugar like it’s a drug",
+        "Only hold values you control"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does You Are A Badass teach?",
+      "a": [
+        "Know what you want, but be flexible about the how",
+        "Stop being an overthinker and sabotaging yourself",
+        "Boost your productivity with “monk mode” sessions",
+        "Rejection always has a number. No “No” is forever"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in You Are A Badass?",
+      "a": [
+        "Do you know how you remember some people for one, distinct thing they taught you?",
+        "As World War II was coming to an end, Nazi Germany began to fall from both sides.",
+        "Everything we do revolves around or is a result of our relationships with people.",
+        "Our ego has the tendency to blow everything out of proportion, both good and bad."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of You Are A Badass?",
+      "a": [
+        "You Are A Badass helps you become self-aware, figure out what you want in life and then…",
+        "Your sex life will be worse if you don’t pay careful attention to what media you consume",
+        "You are a racist if you think there are significant biological differences between races",
+        "The imbalance regarding race exclusion became a propeller for authoritarian inclinations"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

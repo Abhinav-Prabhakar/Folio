@@ -1,0 +1,56 @@
+{
+  "book": "find-your-why",
+  "title": "Find Your Why",
+  "questions": [
+    {
+      "q": "What exercise does the book recommend for finding your WHY?",
+      "a": [
+        "Recounting 10 to 12 past events that had a big impact on you",
+        "Listing the skills you could sell to the highest bidder",
+        "Asking colleagues to rate your strongest personality traits",
+        "Writing a five-year plan with measurable career targets"
+      ],
+      "why": "Lesson 1 says old stories, told to someone who asks good questions, reveal your purpose."
+    },
+    {
+      "q": "What are your HOWs in this framework?",
+      "a": [
+        "The attitudes and behaviors that let you do your best work",
+        "The goals you must reach before your purpose can count",
+        "The people who will fund your first business venture",
+        "The reasons your previous jobs failed to satisfy you"
+      ],
+      "why": "Lesson 2 defines HOWs as the habits and viewpoints that shape how you work."
+    },
+    {
+      "q": "How does the summary suggest identifying your HOWs?",
+      "a": [
+        "By reviewing past routines and the skills you have built",
+        "By copying the working style of someone you admire",
+        "By taking a standardized personality test online",
+        "By asking your manager to define them for you"
+      ],
+      "why": "Lesson 2 says past behavior is the best guide to how you should work."
+    },
+    {
+      "q": "What is one benefit of telling people your WHY often?",
+      "a": [
+        "It keeps forcing you to sharpen how you state it",
+        "It guarantees investors will support your next idea",
+        "It stops other people from questioning your choices",
+        "It lets you avoid explaining what you actually do"
+      ],
+      "why": "Lesson 3 lists constant refinement of your mission statement among the reasons to share it."
+    },
+    {
+      "q": "What did the steel company owner's example show about purpose?",
+      "a": [
+        "The product matters less than the larger impact behind it",
+        "Only exciting industries can give people a sense of mission",
+        "Businesses must choose between profit and meaningful work",
+        "Old industries are usually the easiest to feel passionate about"
+      ],
+      "why": "Lesson 1 says his WHY was a cleaner environment, not the steel itself."
+    }
+  ]
+}

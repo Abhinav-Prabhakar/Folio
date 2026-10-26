@@ -1,0 +1,56 @@
+{
+  "book": "delivering-happiness",
+  "title": "Delivering Happiness",
+  "questions": [
+    {
+      "q": "What did Hsieh learn from hiring too many people too quickly?",
+      "a": [
+        "Company culture is the strongest predictor of success",
+        "Fast hiring is the only way to keep up with growth",
+        "Skills matter far more than personality fit",
+        "New employees should be left to define their own roles"
+      ],
+      "why": "Lesson 1 says the experience taught him to hire slowly and protect the culture."
+    },
+    {
+      "q": "Why does the summary rank company culture above customer service?",
+      "a": [
+        "People who dislike their workplace cannot serve customers well",
+        "Customer service can always be handled by outside firms",
+        "Culture directly lowers the cost of shipping shoes",
+        "Customers never notice how employees are treated"
+      ],
+      "why": "Lesson 1 argues that great service naturally follows from a healthy work environment."
+    },
+    {
+      "q": "What one thing did Zappos decide to be the best in the world at?",
+      "a": [
+        "Customer service",
+        "Low prices",
+        "Widest selection",
+        "Fastest website"
+      ],
+      "why": "Lesson 2 says Zappos chose customer service rather than price, selection or rarity."
+    },
+    {
+      "q": "What does \"never outsource the one thing you are great at\" mean in practice?",
+      "a": [
+        "You can hand off supporting tasks but not your signature strength",
+        "You should perform every task in the company yourself",
+        "You should outsource whatever takes the most time",
+        "You should copy whatever your competitor outsources"
+      ],
+      "why": "Lesson 2's pizza example says you may let others make it, but you deliver it."
+    },
+    {
+      "q": "How did Zappos attract attention without a marketing budget?",
+      "a": [
+        "It poured profits into service until customers and the press spread the word",
+        "It paid journalists to write about its unusual office culture",
+        "It ran cheap television ads late at night",
+        "It offered discounts only to first-time buyers"
+      ],
+      "why": "Lesson 3 says free shipping, surprise upgrades and great phone service generated buzz for free."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "brainstorm",
+  "title": "Brainstorm",
+  "questions": [
+    {
+      "q": "Why does the summary say teenagers often push their parents away?",
+      "a": ["They are building emotional distance to leave home", "They have stopped loving their parents entirely", "Their memory of family life is fading", "They are imitating their friends' families"],
+      "why": "Lesson 1 explains that lashing out is the brain's way of detaching emotionally so the move to adulthood is easier."
+    },
+    {
+      "q": "How does the summary explain teenagers' risky, boundary-pushing behavior?",
+      "a": ["Dopamine and peer pressure push them to leave the family nest", "Their brains lack the ability to feel any fear", "They are copying behaviors seen in early childhood", "Their prefrontal cortex is already fully mature"],
+      "why": "Lesson 1 links recklessness to elevated dopamine and peer pressure, plus an evolutionary push to move away and grow."
+    },
+    {
+      "q": "What is pruning, as described in the summary?",
+      "a": ["The brain removing connections it no longer needs", "The brain adding extra neurons during childhood", "The process of strengthening used neural pathways", "The slowdown of messages between neurons"],
+      "why": "Lesson 2 says the brain prunes unused connections based on experience, keeping pathways that are actually exercised."
+    },
+    {
+      "q": "What does myelination do for a teenager's developing brain?",
+      "a": ["It strengthens connections so messages travel faster", "It removes skills the teenager no longer practices", "It delays brain development until adulthood", "It creates brand-new neurons every night"],
+      "why": "Lesson 2 describes myelination as strengthening childhood connections, speeding messages between neurons and improving a skill."
+    },
+    {
+      "q": "What does the summary mean by a reflective conversation with a teenager?",
+      "a": ["An open talk about feelings, dreams and relationships", "A review of the day's school and sports results", "A lecture about the risks of bad behavior", "A discussion limited to household rules"],
+      "why": "Lesson 3 says reflective conversation is talking without a filter about emotions and aspirations, which builds empathy and confidence."
+    }
+  ]
+}

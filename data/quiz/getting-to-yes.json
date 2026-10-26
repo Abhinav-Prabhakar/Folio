@@ -1,0 +1,31 @@
+{
+  "book": "getting-to-yes",
+  "title": "Getting to Yes",
+  "questions": [
+    {
+      "q": "Why do rational arguments fail once emotions take over a negotiation?",
+      "a": ["The emotional side must be addressed before facts can land", "People forget the facts when they feel under pressure", "Rational points take too long to explain clearly", "Facts usually favor whichever side prepared more"],
+      "why": "Lesson 1 says every negotiation has a factual and an emotional side that cannot be separated."
+    },
+    {
+      "q": "What should you do before agreeing to a solution?",
+      "a": ["Talk through every option, including extreme ones", "Decide on your preferred outcome in advance", "Let the more experienced side propose terms", "Narrow the discussion to two realistic choices"],
+      "why": "Lesson 2 recommends listing all potential solutions first, then choosing what meets both sides' needs."
+    },
+    {
+      "q": "Why does fixating on one solution hurt a negotiation?",
+      "a": ["It ignores what the other person actually needs", "It makes the conversation take much longer", "It gives the other side too much information", "It hides your real priorities from them"],
+      "why": "Lesson 2 says starting from a fixed solution only looks at one side of the problem."
+    },
+    {
+      "q": "What should you learn about before a negotiation?",
+      "a": ["The other person's values, goals and interests", "The market rate for the goods involved", "The other side's weaknesses and past failures", "The exact wording of the contract"],
+      "why": "Lesson 3 says preparation means understanding the people and context, including their values and goals."
+    },
+    {
+      "q": "What does the summary say happens if you enter a negotiation unprepared?",
+      "a": ["You waste time arguing over emotions and assumptions", "You are forced to accept the first offer made", "You lose the chance to brainstorm any options", "You appear far less confident than the other side"],
+      "why": "Lesson 3 warns that without preparation you will argue over unforeseen emotions and prejudices."
+    }
+  ]
+}

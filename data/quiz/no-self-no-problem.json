@@ -1,0 +1,56 @@
+{
+  "book": "no-self-no-problem",
+  "title": "No Self No Problem",
+  "questions": [
+    {
+      "q": "Which side of the brain creates the sense of I?",
+      "a": [
+        "The left side, which handles language and story",
+        "The right side, which handles movement",
+        "Both sides equally, through memory",
+        "The brain stem, which controls breathing"
+      ],
+      "why": "Lesson 1 says the left brain is the storyteller that uses language to tell you who you are."
+    },
+    {
+      "q": "Why does the summary call the self an illusion?",
+      "a": [
+        "It is a story language tells about many parts",
+        "It is a memory planted in childhood",
+        "It exists only during deep sleep",
+        "It is created by other people's opinions"
+      ],
+      "why": "Lesson 1 says the brain fools us into thinking we are something language can define, though we are many parts."
+    },
+    {
+      "q": "How does the summary explain suffering?",
+      "a": [
+        "We suffer when the brain recognizes an unpleasant pattern",
+        "We suffer because our needs are never met",
+        "We suffer when we ignore our emotions",
+        "We suffer because language is imprecise"
+      ],
+      "why": "Lesson 2 says suffering arises when the brain matches what we see to a pattern it finds unpleasant."
+    },
+    {
+      "q": "What activity helps activate the right brain?",
+      "a": [
+        "Movement such as yoga or exercise",
+        "Reading and writing in detail",
+        "Solving math problems quickly",
+        "Making lists of goals"
+      ],
+      "why": "Lesson 3 says movement-based activities like yoga, exercise or meditation engage the nonverbal right side."
+    },
+    {
+      "q": "What comes with a more aware right brain, according to the summary?",
+      "a": [
+        "Intuition and better decisions",
+        "Sharper language skills",
+        "Stronger memory for facts",
+        "Greater logical precision"
+      ],
+      "why": "Lesson 3 says awareness of the right side brings intuition, and scientists find it helps decisions."
+    }
+  ]
+}

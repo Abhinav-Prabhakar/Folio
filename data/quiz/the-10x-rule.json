@@ -1,0 +1,56 @@
+{
+  "book": "the-10x-rule",
+  "title": "The 10X Rule",
+  "questions": [
+    {
+      "q": "Why is aiming for average risky, according to the summary?",
+      "a": [
+        "One setback can drop you below it quickly",
+        "Average workers rarely keep steady jobs",
+        "Average goals demand far too much effort",
+        "Average results attract unwanted attention"
+      ],
+      "why": "Lesson 1 warns that a single loan, repair bill or crisis can push you from average into poverty."
+    },
+    {
+      "q": "What mistake does the summary say we make about an average life?",
+      "a": [
+        "We treat it as a safe bet when it is not",
+        "We overestimate how many people live it",
+        "We confuse it with complete failure",
+        "We expect it to arrive later than it does"
+      ],
+      "why": "Lesson 1 argues that average is sold to us as security, though the middle class keeps shrinking."
+    },
+    {
+      "q": "What are the two parts of the 10X Rule?",
+      "a": [
+        "Ten times the effort and ten times the goal",
+        "Ten times the capital and ten times the staff",
+        "Ten times the speed and ten times the output",
+        "Ten times the risk and ten times the reward"
+      ],
+      "why": "Lesson 2 pairs a realistic effort buffer with targets set far beyond the original result."
+    },
+    {
+      "q": "If you think ten phone calls will land a sale, what does the rule tell you to do?",
+      "a": [
+        "Schedule a hundred of them",
+        "Make ten and then stop",
+        "Hire someone else to call",
+        "Wait for warmer leads first"
+      ],
+      "why": "Lesson 2 uses this example to show how planning for ten times the effort builds patience."
+    },
+    {
+      "q": "What does massive action look like?",
+      "a": [
+        "Going all out until the job is finished",
+        "Working steadily through your task list",
+        "Stepping back to rest and recover",
+        "Doing only what others ask of you"
+      ],
+      "why": "Lesson 3 describes it as the fourth degree of action, and points to children as its natural masters."
+    }
+  ]
+}

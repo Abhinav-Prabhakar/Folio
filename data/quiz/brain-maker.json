@@ -1,0 +1,31 @@
+{
+  "book": "brain-maker",
+  "title": "Brain Maker",
+  "questions": [
+    {
+      "q": "According to the summary, which gut bacteria are linked to weight gain when they dominate?",
+      "a": ["Firmicutes, which extract energy from food", "Bacteroidetes, which break down fiber", "Probiotics found in fermented foods", "Microbes that live only on the skin"],
+      "why": "Lesson 1 says firmicutes consume calories and extract energy, and having more of them is likely to cause weight gain."
+    },
+    {
+      "q": "Why can an imbalanced microbiome damage the brain without you noticing?",
+      "a": ["The brain has no pain receptors to signal inflammation", "The brain is sealed off from the gut entirely", "Microbes only act while you are asleep", "Damage appears only after antibiotics are taken"],
+      "why": "Lesson 1 explains that the brain lacks pain receptors, so inflammation can cause harm such as Alzheimer's or Parkinson's silently."
+    },
+    {
+      "q": "What does the summary say about fructose in the Western diet?",
+      "a": ["It is hard to metabolize, so fruit is the better source", "It is harmless in any quantity because it is natural", "It is found only in processed foods and sodas", "It strengthens the gut when eaten with fiber"],
+      "why": "Lesson 2 says fructose is difficult for the body to process and that too much is a problem, so fruit should be the main source."
+    },
+    {
+      "q": "What concern does the summary raise about antibiotics?",
+      "a": ["Overuse breeds resistant bacteria and disrupts the gut", "They are ineffective against all known infections", "They are only prescribed to animals, not people", "They destroy viruses but leave bacteria intact"],
+      "why": "Lesson 3 says antibiotics are prescribed for viruses they cannot treat, and widespread use creates resistant bacteria while damaging gut microbes."
+    },
+    {
+      "q": "Which habit does the summary mention as a way to boost health alongside probiotics?",
+      "a": ["Fasting, which slows aging and improves insulin sensitivity", "Skipping breakfast to lower blood sugar", "Drinking fruit juice with every meal", "Taking a daily course of antibiotics"],
+      "why": "Lesson 3 recommends fermented foods for beneficial bacteria and notes that fasting is known to slow aging and increase insulin sensitivity."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "resisting-happiness",
+  "title": "Resisting Happiness",
+  "questions": [
+    {
+      "q": "According to the summary, which habit can quietly block you from happiness?",
+      "a": [
+        "Placing too much emphasis on money",
+        "Spending too little time at work",
+        "Reading too many books",
+        "Having too much time to yourself"
+      ],
+      "why": "Lesson 1 says money is necessary, but making it the focus keeps you from the fulfillment that comes from helping others."
+    },
+    {
+      "q": "In the story about Joe, why does volunteering leave him happier than being paid?",
+      "a": [
+        "Helping without expecting a reward brings more fulfillment",
+        "Paid work always takes more time than volunteering",
+        "Volunteering teaches practical skills much faster",
+        "Neighbors rarely pay what a job is really worth"
+      ],
+      "why": "Lesson 1 contrasts Joe's empty feeling after paid work with the satisfaction of working hard for the school for free."
+    },
+    {
+      "q": "What does the author say about spending time alone?",
+      "a": [
+        "It nurtures the one relationship you can never leave",
+        "It is a sign that something is wrong with you",
+        "It should be avoided in favor of social plans",
+        "It only helps people who already live by themselves"
+      ],
+      "why": "Lesson 2 argues that solitude builds your relationship with yourself and is the only time you can really get to know who you are."
+    },
+    {
+      "q": "What did the author discover after spending a whole day by himself?",
+      "a": [
+        "It became one of his most memorable and enjoyable days",
+        "He felt lonely and regretted leaving his phone",
+        "He realized he needed to socialize far more",
+        "He decided to repeat it only once a year"
+      ],
+      "why": "Lesson 2 recounts a day alone with good food, a drive into the mountains and a favorite movie as a highlight of his life."
+    },
+    {
+      "q": "What kind of friends does the summary say you should look for?",
+      "a": [
+        "High-quality people who push you to be your best",
+        "Friends who share your current habits and comfort",
+        "People who rarely challenge your decisions",
+        "A large group you can call on for anything"
+      ],
+      "why": "Lesson 3 warns against mediocre company and urges you to find people who will push you toward your full potential."
+    }
+  ]
+}

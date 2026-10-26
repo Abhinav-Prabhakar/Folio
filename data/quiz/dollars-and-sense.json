@@ -1,0 +1,31 @@
+{
+  "book": "dollars-and-sense",
+  "title": "Dollars And Sense",
+  "questions": [
+    {
+      "q": "What is opportunity cost, as the summary describes it?",
+      "a": ["What else you could have bought with the same money", "The interest you pay on a credit card", "The discount you lose by not comparing prices", "The fee a broker charges for a purchase"],
+      "why": "Lesson 1 says we rarely ask what else that money could buy, which is the cost economists call opportunity cost."
+    },
+    {
+      "q": "How do companies make spending feel less painful, according to the summary?",
+      "a": ["They separate payment from consumption and add rewards", "They lower prices only for loyal customers", "They hide the full price until checkout", "They offer free returns on every purchase"],
+      "why": "Lesson 1 explains that retailers stretch the gap between paying and consuming and hand out points or miles."
+    },
+    {
+      "q": "What is a Ulysses Contract?",
+      "a": ["A setup that makes giving in to temptation impossible", "A promise to repay a loan by a fixed date", "An agreement between two people to share costs", "A savings account with a high interest rate"],
+      "why": "Lesson 2 compares it to Ulysses tying himself to the mast, a system that removes the option of giving in."
+    },
+    {
+      "q": "Which budgeting approach do the authors recommend?",
+      "a": ["A simple limit on discretionary spending", "A detailed spreadsheet for every category", "Tracking each purchase in a mobile app", "Reviewing your spending once a year"],
+      "why": "Lesson 3 says complicated budgets get abandoned, so set a prudent allowance for non-essentials and stick to it."
+    },
+    {
+      "q": "What exercise does the summary suggest for connecting with your future self?",
+      "a": ["Picture your retired self thanking you", "Write a budget for your retirement years", "Calculate your likely pension income", "Ask older relatives about their regrets"],
+      "why": "Lesson 2 says imagining your future self enjoying retirement makes long-term saving feel more real."
+    }
+  ]
+}

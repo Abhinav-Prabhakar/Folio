@@ -1,0 +1,56 @@
+{
+  "book": "what-is-life",
+  "title": "What Is Life?",
+  "questions": [
+    {
+      "q": "Which of these statements is made in What Is Life??",
+      "a": [
+        "Life is a miraculous thing.",
+        "What happens after you die?",
+        "Ari Meisel has done it all.",
+        "Do you remember Tamagotchi?"
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does What Is Life? explore?",
+      "a": [
+        "Atoms define our world, and they function in a remarkable way",
+        "For peace and clarity of mind, let yourself have more silence",
+        "Your brain is lazy and causes you to make intellectual errors",
+        "Even if it takes a while: always be authentic in your content"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does What Is Life? teach?",
+      "a": [
+        "Our evolution in time is based on quantum jumps that mutate the body in a positive way",
+        "Before you start, ask yourself questions to find out who you are and what inspires you",
+        "Animal production requires big areas of land, which usually take away from rainforests",
+        "Pick a few people in the audience to make eye contact with and show your vulnerability"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in What Is Life??",
+      "a": [
+        "Everybody’s heard about atoms.",
+        "Everybody’s good at something.",
+        "What are gut-supporting foods?",
+        "John “Jack” Bogle is a genius."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of What Is Life??",
+      "a": [
+        "What Is Life? compresses a series of lectures given by the notorious physicist Erwin…",
+        "Stoicism is a popular philosophical concept that was born in Ancient Rome and Greece.",
+        "Gary has seven principles he thinks should mark the base of any social media presence",
+        "If I asked you to describe Brad Pitt’s appearance in one word, how would you respond?"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

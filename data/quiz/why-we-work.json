@@ -1,0 +1,56 @@
+{
+  "book": "why-we-work",
+  "title": "Why We Work",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Why We Work?",
+      "a": [
+        "Why We Work is a little book meant to accompany one of Barry Schwartz’s TED talks, and it…",
+        "When Steve Jobs started Apple, how many lines of computers did he and Steve Wozniak build?",
+        "Being producers, billionaires must, however, partner with performers, in order to succeed.",
+        "We’ve seen many social, political, and legal advancements for women in the last few years."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Why We Work explore?",
+      "a": [
+        "Ask yourself if you perceive your work as a job, career, or a calling",
+        "Building financial strength comes from trying, failing, and exploring",
+        "A tribe is the social structure that humans evolved to operate within",
+        "Three hormones are responsible for the majority of your love feelings"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Why We Work teach?",
+      "a": [
+        "Autonomy, investment and a mission are what keeps employees engaged and motivated",
+        "Deregulating can shake a democracy, and over-privatization can weaken governments",
+        "Life in the Annawadi slums is dangerous, and they live without basic human rights",
+        "Search for the “why” and be sure to stay positive while refraining from lecturing"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Why We Work?",
+      "a": [
+        "You’ve surely thought differently of your work at different times.",
+        "How wary do we need to be of runaway artificial intelligence (AI)?",
+        "Comparison is the mother of doubt, and it makes us feel miserable.",
+        "In the 2016 movie Doctor Strange, the main character is a surgeon."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Why We Work?",
+      "a": [
+        "Why We Work looks at the purpose of work in our lives by examining how different people…",
+        "Don’t start any business you haven’t validated by getting 3 paying customers in 48 hours",
+        "Use 5 conversation personas to become a better listener—and thus also better at speaking",
+        "“Changing the world” is a tall order, and most people wouldn’t even know where to begin."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

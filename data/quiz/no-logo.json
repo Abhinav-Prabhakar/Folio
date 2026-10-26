@@ -1,0 +1,56 @@
+{
+  "book": "no-logo",
+  "title": "No Logo",
+  "questions": [
+    {
+      "q": "What makes a brand successful, according to Klein?",
+      "a": [
+        "Being seen as cool rather than making the best product",
+        "Offering the lowest price in its category",
+        "Manufacturing everything in its home country",
+        "Avoiding advertising and relying on quality"
+      ],
+      "why": "Lesson 1 says the most successful brands sell an image and values, not necessarily the highest-quality product."
+    },
+    {
+      "q": "Where do multinationals build factories to cut labor costs?",
+      "a": [
+        "In export processing zones with few labor laws",
+        "In Western cities with strong unions",
+        "In countries with high minimum wages",
+        "In their own headquarters countries"
+      ],
+      "why": "Lesson 2 says export processing zones suspend taxes and lack minimum wage or labor protections."
+    },
+    {
+      "q": "What is a McJob, as described in the summary?",
+      "a": [
+        "Part-time, minimum-wage service work",
+        "A management role in a fast-food chain",
+        "A unionized factory position",
+        "A temporary job for students only"
+      ],
+      "why": "Lesson 2 says manufacturing jobs were replaced by part-time, minimum-wage service work known as McJobs."
+    },
+    {
+      "q": "How can activists damage a brand, according to the summary?",
+      "a": [
+        "By tying criticisms to the brand's name and image",
+        "By buying up all of its shares",
+        "By suing it in international courts",
+        "By ignoring it until it changes"
+      ],
+      "why": "Lesson 3 says campaigns gain power when connected to a specific brand, letting consumers boycott it."
+    },
+    {
+      "q": "What is culture jamming?",
+      "a": [
+        "Altering ads to show a different point of view",
+        "Creating a new brand to compete with a giant",
+        "Hosting concerts to promote a company",
+        "Writing letters to company executives"
+      ],
+      "why": "Lesson 3 defines culture jamming as using a brand's own ads against it, changing a slogan or image."
+    }
+  ]
+}

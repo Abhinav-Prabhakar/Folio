@@ -1,0 +1,56 @@
+{
+  "book": "the-habit-blueprint",
+  "title": "The Habit Blueprint",
+  "questions": [
+    {
+      "q": "What percentage of daily actions occur on autopilot, according to Duke research?",
+      "a": [
+        "About 40%",
+        "10%",
+        "75%",
+        "90%"
+      ],
+      "why": "The book cites roughly 40% of actions as automatic."
+    },
+    {
+      "q": "What is the first step to reduce willpower strain when forming a habit?",
+      "a": [
+        "Make the initial step laughably small",
+        "Set a massive goal immediately",
+        "Eliminate all distractions",
+        "Reward yourself heavily"
+      ],
+      "why": "The text advises a tiny first step to conserve willpower."
+    },
+    {
+      "q": "How did Patrik Edblad initially increase his wealth?",
+      "a": [
+        "Turned $2,000 into $35,000 playing poker",
+        "Started a tech startup",
+        "Invested in real estate",
+        "Won a lottery"
+      ],
+      "why": "His poker success is described as $2,000 to $35,000."
+    },
+    {
+      "q": "What bias can be flipped to help maintain a habit chain?",
+      "a": [
+        "The sunk cost fallacy",
+        "Confirmation bias",
+        "Availability heuristic",
+        "Bandwagon effect"
+      ],
+      "why": "The sunk cost fallacy is presented as an advantage for habit continuity."
+    },
+    {
+      "q": "Why does the author suggest not jumping from couch potato to marathon runner?",
+      "a": [
+        "Willpower fluctuates, making huge jumps unsustainable",
+        "Marathons are too dangerous",
+        "Running equipment is expensive",
+        "People dislike sudden change"
+      ],
+      "why": "Large, rapid changes overwhelm fluctuating willpower."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "my-age-of-anxiety",
+  "title": "My Age Of Anxiety",
+  "questions": [
+    {
+      "q": "How does the summary describe life with clinical anxiety?",
+      "a": [
+        "A constant, draining battle that limits ordinary activities",
+        "A brief reaction that fades after a stressful event",
+        "A problem that only appears during major life crises",
+        "A habit that gradually disappears with age"
+      ],
+      "why": "Lesson 1 compares the daily struggle to managing diabetes and describes limits like avoiding public places."
+    },
+    {
+      "q": "Why do ordinary fears of snakes or heights still exist, according to the summary?",
+      "a": [
+        "They helped our ancestors survive and still protect us",
+        "They are learned from anxious parents in childhood",
+        "They come from watching frightening films as children",
+        "They are early signs of clinical anxiety disorder"
+      ],
+      "why": "Lesson 2 traces common fears to evolution: avoiding cliffs and snakes helped ancestors live longer."
+    },
+    {
+      "q": "What did research on rhesus monkeys suggest about anxiety?",
+      "a": [
+        "Separation from a parent can raise anxiety later in life",
+        "Anxiety is passed down only through genes",
+        "Monkeys raised alone grow into calmer adults",
+        "Parenting style has no measurable effect on anxiety"
+      ],
+      "why": "Lesson 2 cites young monkeys separated from their mothers who showed more anxiety, social problems and aggression later."
+    },
+    {
+      "q": "What does exposure therapy ask patients to do?",
+      "a": [
+        "Face what they fear in order to get past it",
+        "Avoid the feared situation until panic fades",
+        "Discuss childhood memories without facing the fear",
+        "Take medication before every stressful event"
+      ],
+      "why": "Lesson 3 describes exposure therapy, the most widely used form of CBT, as confronting the feared thing directly."
+    },
+    {
+      "q": "Why can medication help someone with clinical anxiety?",
+      "a": [
+        "It can address the brain's difficulty producing serotonin",
+        "It permanently rewires the brain's fear circuits",
+        "It removes any need for talking therapy",
+        "It works identically for every anxious person"
+      ],
+      "why": "Lesson 3 explains that anxious brains often struggle to produce serotonin, and drugs can help correct this."
+    }
+  ]
+}

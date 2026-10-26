@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-work",
+  "title": "The Art Of Work",
+  "questions": [
+    {
+      "q": "What exercise does the summary recommend for finding your calling?",
+      "a": [
+        "List the major events in your life and look for moments of fulfilment",
+        "Write down your five greatest skills and rank them",
+        "Ask friends what job they think suits you",
+        "Track how you spend every hour for a month"
+      ],
+      "why": "Lesson 1 suggests listing major life events, then asking when you felt happiest and most fulfilled."
+    },
+    {
+      "q": "What questions does the summary suggest asking as you review your list of life events?",
+      "a": [
+        "When was I happiest, most fulfilled and most accomplished",
+        "Which events earned me the most money and status",
+        "Which events would other people find most impressive",
+        "Which events took the longest to recover from"
+      ],
+      "why": "Lesson 1 says your calling hides in the moments when you felt happy, fulfilled and accomplished."
+    },
+    {
+      "q": "Why does the summary reject the idea of being self-made?",
+      "a": [
+        "Even the greatest people relied on teachers, mentors and coaches",
+        "Success depends mostly on luck and timing",
+        "Millionaires usually inherit their money",
+        "Everyone needs a formal university degree"
+      ],
+      "why": "Lesson 2 cites Buffett, Jordan and Bezos to show that no one succeeds without help."
+    },
+    {
+      "q": "What is a portfolio life?",
+      "a": [
+        "Basing your identity on several things, not just your work",
+        "Holding several jobs at once to earn more income",
+        "Investing in a mix of stocks and bonds",
+        "Planning your career in five-year stages"
+      ],
+      "why": "Lesson 3 defines a portfolio life as building identity from a wide range of things."
+    },
+    {
+      "q": "Which four areas does Jeff say a portfolio life includes?",
+      "a": [
+        "Work, home, play and purpose",
+        "Work, health, wealth and community",
+        "Career, family, faith and service",
+        "Work, rest, learning and giving"
+      ],
+      "why": "Lesson 3 lists work alongside home, play and purpose as the parts of a full life."
+    }
+  ]
+}

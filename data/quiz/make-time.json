@@ -1,0 +1,56 @@
+{
+  "book": "make-time",
+  "title": "Make Time",
+  "questions": [
+    {
+      "q": "What is a “highlight” in the Make Time method?",
+      "a": [
+        "One important, meaningful or joyful activity given real time each day",
+        "The single most urgent email waiting in your inbox",
+        "A reward you earn only after finishing every task",
+        "The longest uninterrupted block of work in your calendar"
+      ],
+      "why": "Lesson 1 defines the highlight as a daily activity worth 60 to 90 minutes that matters to you."
+    },
+    {
+      "q": "Which two forces does the book blame for stealing our time?",
+      "a": [
+        "The Busy Bandwagon of work and the Infinity Pools of entertainment",
+        "Social obligations and the pressure to exercise daily",
+        "Poor planning and an inability to say no to family",
+        "Financial stress and the need to work a second job"
+      ],
+      "why": "Lesson 2 names the Busy Bandwagon of work and Infinity Pools of entertainment as the two big time wasters."
+    },
+    {
+      "q": "What do the authors say is needed beyond willpower to stay focused?",
+      "a": [
+        "Redesigning your environment to reduce distractions",
+        "Setting stricter deadlines for every task",
+        "Working longer hours until the habit forms",
+        "Removing all technology from your home"
+      ],
+      "why": "Lesson 2 argues that willpower is not enough and that you must change your surroundings."
+    },
+    {
+      "q": "Why does the summary recommend adding caveman-style activities to your day?",
+      "a": [
+        "Our bodies are out of sync with modern sedentary life",
+        "They burn more calories than any gym workout",
+        "They help you disconnect from friends and family",
+        "They replace the need for a consistent sleep schedule"
+      ],
+      "why": "Lesson 3 explains that human bodies evolved long before farming and sedentary living, so small primal habits restore energy."
+    },
+    {
+      "q": "Which change does the summary suggest for handling the news?",
+      "a": [
+        "Check it once a week instead of several times a day",
+        "Read only the headlines and never the articles",
+        "Turn on notifications so you never miss an update",
+        "Cancel every news subscription permanently"
+      ],
+      "why": "Lesson 2 lists checking the news weekly rather than many times a day as a way to cut distraction."
+    }
+  ]
+}

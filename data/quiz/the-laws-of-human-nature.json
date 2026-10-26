@@ -1,0 +1,56 @@
+{
+  "book": "the-laws-of-human-nature",
+  "title": "The Laws Of Human Nature",
+  "questions": [
+    {
+      "q": "Which historical figure is used to illustrate self‑sabotage?",
+      "a": [
+        "Anton Chekhov",
+        "Caterina Sforza",
+        "Ibn Khaldun",
+        "Jim Collins"
+      ],
+      "why": "Chekhov's early hardships are discussed as a self‑sabotage example."
+    },
+    {
+      "q": "What trait does Caterina Sforza exemplify?",
+      "a": [
+        "Gender repression",
+        "Empathy",
+        "Patience",
+        "Altruism"
+      ],
+      "why": "She defied gender stereotypes, showing gender repression."
+    },
+    {
+      "q": "Which generation type is described as bringing organization?",
+      "a": [
+        "Orderlies",
+        "Revolutionaries",
+        "Pragmatists",
+        "Innovators"
+      ],
+      "why": "Orderlies are the ones who bring structure to new systems."
+    },
+    {
+      "q": "What does Greene say about the length of his books?",
+      "a": [
+        "They take years to write",
+        "They are published annually",
+        "They are short essays",
+        "They are daily updates"
+      ],
+      "why": "He notes his books are multi‑year projects, e.g., six years for this one."
+    },
+    {
+      "q": "Which pattern is NOT mentioned as a common self‑sabotage?",
+      "a": [
+        "Alcoholism",
+        "Aggression",
+        "Empathy",
+        "Neglect"
+      ],
+      "why": "Empathy is presented as a positive trait, not sabotage."
+    }
+  ]
+}

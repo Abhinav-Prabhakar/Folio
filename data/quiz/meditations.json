@@ -1,0 +1,56 @@
+{
+  "book": "meditations",
+  "title": "Meditations",
+  "questions": [
+    {
+      "q": "What did “logos” mean to the Stoics?",
+      "a": [
+        "The rational life force that gives order and purpose to everything",
+        "A method of logical argument used in Roman courts",
+        "The emperor’s written law that citizens had to obey",
+        "A state of calm achieved by avoiding all public duties"
+      ],
+      "why": "Lesson 1 says logos is the essence of life and the master plan behind everything that happens."
+    },
+    {
+      "q": "Why does Marcus Aurelius consider complaining pointless?",
+      "a": [
+        "Everything is as it should be, and life is too short to waste",
+        "Complaining only works when speaking to someone in authority",
+        "Other people enjoy listening to complaints and feel closer",
+        "It relieves frustration faster than taking action does"
+      ],
+      "why": "Lesson 2 argues that if everything is right as it is, complaining wastes limited time and spreads unhappiness."
+    },
+    {
+      "q": "What did Marcus believe about harm that comes from an external source?",
+      "a": [
+        "It is beyond your control and cannot truly harm you unless you allow it",
+        "It always leaves lasting damage that philosophy cannot address",
+        "It should be met with anger so others know your boundaries",
+        "It proves that the gods have abandoned the person involved"
+      ],
+      "why": "Lesson 3 says external harm is outside your control; suffering begins only when you blame yourself or complain."
+    },
+    {
+      "q": "How did Marcus Aurelius handle the deaths of his children and wife?",
+      "a": [
+        "He trusted that they happened for a reason and stayed calm",
+        "He withdrew from his duties as emperor for years",
+        "He rejected Stoic philosophy and sought pleasure instead",
+        "He blamed his advisors for failing to protect them"
+      ],
+      "why": "Lesson 3 says he accepted these losses as part of logos’s plan and remained calm in the worst times."
+    },
+    {
+      "q": "What was the original purpose of the writings collected in Meditations?",
+      "a": [
+        "They were private journals not intended for publication",
+        "They were official decrees addressed to the Roman Senate",
+        "They were lectures prepared for students of philosophy",
+        "They were letters written to a friend in Greece"
+      ],
+      "why": "The overview says Marcus probably never meant these twelve books to be published; they were printed later."
+    }
+  ]
+}

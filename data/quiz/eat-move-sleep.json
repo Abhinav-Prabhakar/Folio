@@ -1,0 +1,56 @@
+{
+  "book": "eat-move-sleep",
+  "title": "Eat, Move, Sleep",
+  "questions": [
+    {
+      "q": "Why does the book say exercise cannot undo long sitting?",
+      "a": [
+        "Six hours of sitting harms health even if you work out after",
+        "Exercise burns too few calories to matter for health",
+        "Working out increases appetite and leads to weight gain",
+        "Sitting stretches muscles in ways exercise cannot fix"
+      ],
+      "why": "Lesson 1 says that if you sit six hours a day, even two hours of exercise afterward will not reverse the damage."
+    },
+    {
+      "q": "How long should you avoid sitting at a stretch?",
+      "a": [
+        "No longer than an hour",
+        "No longer than two hours",
+        "No longer than three hours",
+        "No longer than thirty minutes"
+      ],
+      "why": "Lesson 1 gives one simple rule: do not sit for longer than an hour."
+    },
+    {
+      "q": "What three traits make added sugar behave like a drug?",
+      "a": [
+        "It releases dopamine, increases cravings and builds tolerance",
+        "It raises energy, lowers appetite and improves sleep",
+        "It causes headaches, nausea and rapid weight loss",
+        "It is addictive only when eaten with other sweets"
+      ],
+      "why": "Lesson 2 says sugar gives a dopamine high, makes you want more and builds tolerance, so it should be treated like an illegal drug."
+    },
+    {
+      "q": "Why does hitting snooze leave you groggy?",
+      "a": [
+        "The alarm wakes you as you sink back into deep sleep",
+        "The extra sleep confuses your body's internal clock",
+        "You lose the habit of waking at a fixed time",
+        "The room is too bright by the time you wake again"
+      ],
+      "why": "Lesson 3 explains that a second alarm catches you just as you re-enter deep sleep, which makes you tired rather than rested."
+    },
+    {
+      "q": "How much refined sugar does the summary say the average person eats in a year?",
+      "a": [
+        "Their own body weight",
+        "Half their body weight",
+        "Twice their body weight",
+        "About ten kilograms"
+      ],
+      "why": "Lesson 2 says the amount matches your body weight in refined white sugar, pictured as a statue of yourself eaten daily."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "how-to",
+  "title": "How To",
+  "questions": [
+    {
+      "q": "What is the main challenge in keeping a lava moat glowing?",
+      "a": [
+        "Replacing the heat that the air constantly draws away",
+        "Finding enough rocks to fill the trench",
+        "Keeping the smoke from entering the house",
+        "Stopping the lava from melting the driveway"
+      ],
+      "why": "Lesson one says air cools the lava, so insulated coils must pump back the roughly 100 kilowatts it loses."
+    },
+    {
+      "q": "About how much does the electricity for a one-meter lava moat cost per day?",
+      "a": [
+        "$60,000 a day",
+        "$600 a day",
+        "$6,000 a day",
+        "$600,000 a day"
+      ],
+      "why": "Using ten cents per kilowatt hour, Munroe estimates sixty thousand dollars daily for a moat one meter wide and deep."
+    },
+    {
+      "q": "At a constant 1g acceleration, how long would the trip to the moon take?",
+      "a": [
+        "About four hours",
+        "About twelve hours",
+        "About three days",
+        "About ten minutes"
+      ],
+      "why": "Lesson two says accelerating at 1g, the same pull we feel from gravity, gets you to the moon in around four hours."
+    },
+    {
+      "q": "What does strontium-90 in someone's teeth suggest, according to Munroe?",
+      "a": [
+        "They were a young child during above-ground nuclear tests",
+        "They grew up drinking leaded gasoline fumes",
+        "They were vaccinated against smallpox as a child",
+        "They spent their childhood near a coal plant"
+      ],
+      "why": "Lesson three says strontium-90 entered children's teeth during nuclear testing from 1945 to 1962, marking many Baby Boomers."
+    },
+    {
+      "q": "What larger point does the book make about absurd scientific thinking?",
+      "a": [
+        "Weird ideas and abstract thinking can lead to real innovation",
+        "Only practical problems deserve serious research",
+        "Science is too dangerous for everyday use",
+        "Common sense beats careful calculation"
+      ],
+      "why": "The overview argues that strange ideas gave us the airplane, computer, internet and smartphone, so abstract thinking has value."
+    }
+  ]
+}

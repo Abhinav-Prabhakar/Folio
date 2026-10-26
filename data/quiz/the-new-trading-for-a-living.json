@@ -1,0 +1,56 @@
+{
+  "book": "the-new-trading-for-a-living",
+  "title": "The New Trading For A Living",
+  "questions": [
+    {
+      "q": "What rule limits risk to 2% of total capital per trade?",
+      "a": [
+        "The 2% rule",
+        "The 6% rule",
+        "The 10% rule",
+        "The stop‑loss rule"
+      ],
+      "why": "Elder's 2% rule caps risk at 2% of capital."
+    },
+    {
+      "q": "Why can commissions erode profits for new traders?",
+      "a": [
+        "They are a fixed cost per trade",
+        "They increase trade volume",
+        "They boost leverage",
+        "They guarantee slippage"
+      ],
+      "why": "A $10 commission per trade reduces returns when capital is small."
+    },
+    {
+      "q": "What does Elder advise about emotions in trading?",
+      "a": [
+        "Leave them at home",
+        "Use them to guide entries",
+        "Let them dictate position size",
+        "Trade only when excited"
+      ],
+      "why": "He compares emotional trading to gambling."
+    },
+    {
+      "q": "How does the 6% rule differ from the 2% rule?",
+      "a": [
+        "It limits loss on a losing streak",
+        "It caps profit targets",
+        "It sets a maximum position size",
+        "It defines margin use"
+      ],
+      "why": "The 6% rule helps avoid large cumulative losses."
+    },
+    {
+      "q": "What early career experience shaped Elder's trading approach?",
+      "a": [
+        "Psychiatry work in New York",
+        "Ship's doctor duties in Africa",
+        "Medical school in Estonia",
+        "Teaching at Columbia"
+      ],
+      "why": "His psychiatry background influenced his psychological focus."
+    }
+  ]
+}

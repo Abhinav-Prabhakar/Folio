@@ -1,0 +1,56 @@
+{
+  "book": "emotional-agility",
+  "title": "Emotional Agility",
+  "questions": [
+    {
+      "q": "What does showing up to your emotions mean?",
+      "a": [
+        "Facing uncomfortable feelings instead of forcing a smile",
+        "Sharing every emotion with the people around you",
+        "Acting on whatever you feel in the moment",
+        "Replacing negative feelings with positive ones"
+      ],
+      "why": "Lesson 1 says forced optimism cannot last, and even negative emotions can help if you face them directly."
+    },
+    {
+      "q": "What did the Mills study find about genuine smiles?",
+      "a": [
+        "Genuine smilers had better relationships and more satisfaction",
+        "Genuine smilers earned more money over their careers",
+        "Faked smiles predicted stronger emotional control",
+        "Smiling had no measurable effect on later life"
+      ],
+      "why": "Lesson 1 says women whose smiles were genuine later reported better relationships, more emotional control and greater life satisfaction."
+    },
+    {
+      "q": "Why does David suggest stepping out of your feelings?",
+      "a": [
+        "Distance lets you observe emotions and choose your response",
+        "Distance makes difficult feelings disappear completely",
+        "Stepping out prevents you from feeling anything at all",
+        "Stepping out lets you avoid conversations about emotions"
+      ],
+      "why": "Lesson 2 says noticing emotions without judging them creates space, so you can act in a more considered way."
+    },
+    {
+      "q": "What distinguishes want-to goals from have-to goals?",
+      "a": [
+        "Want-to goals come from your values, not outside pressure",
+        "Want-to goals are easier to achieve than have-to goals",
+        "Have-to goals always produce better long-term results",
+        "Have-to goals are set only by doctors and employers"
+      ],
+      "why": "Lesson 3 says have-to goals are imposed by others, while want-to goals come from reflection on your own values."
+    },
+    {
+      "q": "Which exercise helps clarify your want-to goals?",
+      "a": [
+        "Writing a letter to your future self",
+        "Listing every goal your family expects of you",
+        "Comparing your salary with your peers'",
+        "Repeating your goals aloud each morning"
+      ],
+      "why": "Lesson 3 suggests a letter to your future self, describing the person you hope to become in five, ten or fifteen years."
+    }
+  ]
+}

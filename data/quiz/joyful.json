@@ -1,0 +1,56 @@
+{
+  "book": "joyful",
+  "title": "Joyful",
+  "questions": [
+    {
+      "q": "What effect do bright colors and rounder shapes have in a room?",
+      "a": [
+        "They make the space feel more open and airy",
+        "They make the room feel warmer but smaller",
+        "They create a formal and enclosed atmosphere",
+        "They reduce the amount of natural light"
+      ],
+      "why": "Lesson 1 says bright shades and rounded forms promote openness and airflow."
+    },
+    {
+      "q": "What does minimalism mean in the summary?",
+      "a": [
+        "Being content with less rather than buying cheap furniture",
+        "Owning only white or neutral-colored objects",
+        "Spending as little money as you possibly can",
+        "Keeping every room completely empty"
+      ],
+      "why": "Lesson 1 says minimalism is about avoiding consumerism, not being cheap."
+    },
+    {
+      "q": "In feng shui, what is chi?",
+      "a": [
+        "The energy that flows through objects",
+        "The balance between light and dark",
+        "The spirit of a building's first owner",
+        "The arrangement of furniture by size"
+      ],
+      "why": "Lesson 2 defines chi as the energy flowing through objects, which design should preserve."
+    },
+    {
+      "q": "What feng shui principle does the summary mention for large objects and beds?",
+      "a": [
+        "Place them in the center so movement can flow",
+        "Push them against the longest wall",
+        "Keep them out of direct sunlight",
+        "Place them facing the main doorway"
+      ],
+      "why": "Lesson 2 describes centering tall objects and beds to let movement flow naturally."
+    },
+    {
+      "q": "Why does the summary mention the boss in rainbow socks?",
+      "a": [
+        "Small surprising details like color can ease tension",
+        "Bright clothing signals authority in meetings",
+        "Socks are a common feng shui remedy",
+        "Humor should stay outside formal settings"
+      ],
+      "why": "Lesson 3 uses the example to show how quirky details shift a room's mood."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "brotopia",
+  "title": "Brotopia",
+  "questions": [
+    {
+      "q": "Why did programming shift from being seen as women's work to a male-dominated field?",
+      "a": ["A biased study linked good coders to antisocial traits", "Women stopped being interested in computers", "New laws barred women from technical jobs", "Early computers were too heavy for women to lift"],
+      "why": "Lesson 1 says a 1960s study with few women in its sample identified antisocial traits in good programmers, and men were more often judged to have them."
+    },
+    {
+      "q": "Which contribution of early women programmers does the summary mention?",
+      "a": ["They programmed the US Army's first computer", "They designed the first commercial smartphone", "They founded the largest venture capital firms", "They wrote the first internet browser"],
+      "why": "Lesson 1 notes that women programmed the Army's first computer in WWII and that the Hidden Figures mathematicians made John Glenn's orbit possible."
+    },
+    {
+      "q": "What did the quality control study find about women's coding work?",
+      "a": ["Checkers rated it higher when gender was unknown", "It failed review more often than men's work", "It was never reviewed by other programmers", "It received identical ratings regardless of gender"],
+      "why": "Lesson 2 says when the assurance checker did not know the coder's gender, women's work was approved more often than men's."
+    },
+    {
+      "q": "What disadvantage does the summary describe for startups with only male leaders?",
+      "a": ["They are more likely to attract venture funding", "They are barred from hiring female engineers", "They must pay higher taxes than mixed teams", "They cannot sell products to women"],
+      "why": "Lesson 2 notes that all-male leadership teams are more likely to receive venture capital than teams that include a woman at the top."
+    },
+    {
+      "q": "How does the summary make the business case for gender-balanced leadership?",
+      "a": ["Firms with 40 to 60 percent women leaders earn better returns", "Balanced teams spend less on recruiting and training", "Women leaders are more willing to work longer hours", "Balanced teams avoid the need for customer research"],
+      "why": "Lesson 3 cites research linking 40 to 60 percent female leadership with stronger financial returns, creativity and risk management."
+    }
+  ]
+}

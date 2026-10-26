@@ -1,0 +1,56 @@
+{
+  "book": "ikigai",
+  "title": "Ikigai",
+  "questions": [
+    {
+      "q": "What does the word ikigai roughly translate to?",
+      "a": [
+        "A purpose that gives you a reason to rise",
+        "A season for rest and reflection",
+        "A craft passed down through families",
+        "A ritual for honoring ancestors"
+      ],
+      "why": "Lesson 1 explains that iki means life and gai means value, giving a reason to live."
+    },
+    {
+      "q": "Which four questions does the summary suggest for finding your ikigai?",
+      "a": [
+        "Strengths, the world's needs, passions and earning a living",
+        "Wealth, status, family duty and community service",
+        "Talent, luck, discipline and long-term planning",
+        "Health, friendship, travel and spiritual practice"
+      ],
+      "why": "Lesson 1 lists your strengths, what the world needs, your passions and what you can earn a living doing."
+    },
+    {
+      "q": "Why does the summary suggest you should never retire?",
+      "a": [
+        "Retirement is linked to a higher risk of health problems",
+        "Retired people tend to spend too much money",
+        "Retirement removes the structure your day needs",
+        "Retired people lose contact with their families"
+      ],
+      "why": "Lesson 1 says retirement is associated with more health problems, while purpose keeps people active."
+    },
+    {
+      "q": "What advice from Okinawan centenarians does the summary highlight?",
+      "a": [
+        "Worry less and enjoy what you already have",
+        "Save aggressively for unexpected medical costs",
+        "Exercise intensely for at least an hour daily",
+        "Live alone so you can follow your own routine"
+      ],
+      "why": "Lesson 2 says centenarians worry as little as possible and focus on enjoying life."
+    },
+    {
+      "q": "What kind of movement do Okinawans favor for long life?",
+      "a": [
+        "Small, simple activity spread through the day",
+        "Short bursts of high-intensity training",
+        "Long runs three times a week",
+        "Daily weightlifting at a gym"
+      ],
+      "why": "Lesson 3 says intensity can hurt consistency, so they choose easy movement like walking or radio exercises."
+    }
+  ]
+}

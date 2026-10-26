@@ -1,0 +1,56 @@
+{
+  "book": "how-to-talk-to-anyone-anytime-anywhere",
+  "title": "How to Talk to Anyone, Anytime, Anywhere",
+  "questions": [
+    {
+      "q": "What formula for achievement does the summary give?",
+      "a": [
+        "Skill multiplied by effort",
+        "Talent plus luck",
+        "Practice minus natural talent",
+        "Passion plus connections"
+      ],
+      "why": "Lesson 1 says talent and effort turn a gift into a skill, and skill plus effort into achievement."
+    },
+    {
+      "q": "How does the summary describe talent without hard work?",
+      "a": [
+        "It means little in the long run",
+        "It guarantees early success",
+        "It is more valuable than effort",
+        "It cannot be improved at all"
+      ],
+      "why": "Lesson 1 argues that without consistent work, natural ability counts for very little."
+    },
+    {
+      "q": "Why is listening essential to communication?",
+      "a": [
+        "It is how we learn something new",
+        "It lets you plan your reply",
+        "It makes you seem agreeable",
+        "It shortens conversations"
+      ],
+      "why": "Lesson 2 says talking teaches us nothing, while listening is how we learn."
+    },
+    {
+      "q": "What kind of questions should a good listener ask?",
+      "a": [
+        "Open-ended rather than yes or no",
+        "Yes or no rather than open-ended",
+        "Only factual questions",
+        "Questions with obvious answers"
+      ],
+      "why": "Lesson 2 recommends open questions that invite the other person to say more."
+    },
+    {
+      "q": "What does the summary say makes work stand out?",
+      "a": [
+        "Enthusiasm",
+        "Talent",
+        "Experience",
+        "Ambition"
+      ],
+      "why": "Lesson 3 calls enthusiasm the driving emotion behind passion and long hours."
+    }
+  ]
+}

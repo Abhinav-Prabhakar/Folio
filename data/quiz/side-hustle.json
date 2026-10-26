@@ -1,0 +1,56 @@
+{
+  "book": "side-hustle",
+  "title": "Side Hustle",
+  "questions": [
+    {
+      "q": "What three tests must a side hustle idea pass?",
+      "a": [
+        "It must be feasible, profitable and persuasive",
+        "It must be cheap, fast and popular",
+        "It must be novel, risky and scalable",
+        "It must be fun, social and legal"
+      ],
+      "why": "Lesson 1 names feasibility, profitability and persuasiveness."
+    },
+    {
+      "q": "What does feasible mean in the summary's test?",
+      "a": [
+        "You can run it in an hour a day and see results soon",
+        "It needs no money at all to start",
+        "It can replace your full-time job",
+        "It has no competitors in the market"
+      ],
+      "why": "Lesson 1 asks whether you can do it in an hour a day and get results within a week."
+    },
+    {
+      "q": "Which three parts make up an offer?",
+      "a": [
+        "A promise, a pitch and a price",
+        "A logo, a slogan and a website",
+        "A product, a discount and a guarantee",
+        "A target, a budget and a deadline"
+      ],
+      "why": "Lesson 2 builds the offer from price, pitch and promise."
+    },
+    {
+      "q": "What should the promise do, according to the summary?",
+      "a": [
+        "State a bold benefit people can see right away",
+        "Explain every feature in fine detail",
+        "List your qualifications and experience",
+        "Describe the history of the company"
+      ],
+      "why": "Lesson 2 says the promise should be bold and immediately beneficial."
+    },
+    {
+      "q": "Which four items belong on the launch shopping list?",
+      "a": [
+        "Website, one social profile, scheduling tool and payment system",
+        "Website, ad budget, office space and a lawyer",
+        "Logo, business cards, accountant and bank loan",
+        "Email list, blog, podcast and online course"
+      ],
+      "why": "Lesson 3 lists the website, one profile, a scheduler and a payment tool."
+    }
+  ]
+}

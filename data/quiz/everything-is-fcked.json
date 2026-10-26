@@ -1,0 +1,56 @@
+{
+  "book": "everything-is-fcked",
+  "title": "Everything Is F*cked",
+  "questions": [
+    {
+      "q": "What did Elliot's case show after his tumor was removed?",
+      "a": [
+        "Without feelings he could not make good decisions",
+        "He became more efficient at choosing",
+        "He lost the ability to speak clearly",
+        "He relied on logic and thrived at work"
+      ],
+      "why": "Lesson 1 says he stopped caring and made poor choices."
+    },
+    {
+      "q": "How should the Thinking Brain and Feeling Brain work together?",
+      "a": [
+        "Better decisions come from appealing to both",
+        "Logic alone produces the best choices",
+        "Emotion alone should guide every action",
+        "The two can never cooperate"
+      ],
+      "why": "Lesson 1 says you need to appeal to both to decide well."
+    },
+    {
+      "q": "What does Nietzsche's Amor Fati mean?",
+      "a": [
+        "Loving your fate and accepting life's hard truths",
+        "Pursuing happiness above everything else",
+        "Rejecting all moral principles",
+        "Escaping suffering through distraction"
+      ],
+      "why": "Lesson 2 translates it as love of one's fate."
+    },
+    {
+      "q": "What did Kant recommend instead of transactional kindness?",
+      "a": [
+        "Being kind because it is right, not for gain",
+        "Being kind only to those who can repay you",
+        "Avoiding kindness to stay impartial",
+        "Trading favors to build relationships"
+      ],
+      "why": "Lesson 2 says Kant wanted people to act from principle, not reward."
+    },
+    {
+      "q": "Why does chasing happiness through products backfire?",
+      "a": [
+        "It creates addictions that reduce freedom and raise anxiety",
+        "It costs more than most people can afford",
+        "It makes companies less competitive",
+        "It slows technological progress"
+      ],
+      "why": "Lesson 3 ties compulsive buying to less self-control and more anxiety."
+    }
+  ]
+}

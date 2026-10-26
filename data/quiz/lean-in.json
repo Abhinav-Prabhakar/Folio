@@ -1,0 +1,56 @@
+{
+  "book": "lean-in",
+  "title": "Lean In",
+  "questions": [
+    {
+      "q": "What image does the summary use for a modern career?",
+      "a": [
+        "A jungle gym with many routes to the top",
+        "A ladder with fixed and evenly spaced rungs",
+        "A maze that has only one exit",
+        "A staircase that only goes upward"
+      ],
+      "why": "Lesson 1 says careers no longer follow a single ladder."
+    },
+    {
+      "q": "What goal horizon does the summary suggest pairing with a long-term dream?",
+      "a": [
+        "Eighteen-month goals",
+        "Five-year goals",
+        "Weekly goals",
+        "Ten-year goals"
+      ],
+      "why": "Lesson 1 says short-term goals give direction without too much pressure."
+    },
+    {
+      "q": "What is the tightrope women walk at work, according to the summary?",
+      "a": [
+        "Balancing ambition with being seen as likable",
+        "Choosing between salary and job title",
+        "Balancing business travel with family time",
+        "Weighing loyalty against honesty"
+      ],
+      "why": "Lesson 2 says too much ambition reads as rude, too little makes you easy to dismiss."
+    },
+    {
+      "q": "What communication tactic does the summary suggest for women?",
+      "a": [
+        "Argue for a group and cite facts instead of saying I want",
+        "Speak more loudly than your colleagues do",
+        "Avoid giving any clear opinion in meetings",
+        "Use humor to deflect every request"
+      ],
+      "why": "Lesson 2 says generalizing and quoting statistics makes points land better."
+    },
+    {
+      "q": "What does leaning in mean in the summary?",
+      "a": [
+        "Pursue promotions and opportunities before motherhood arrives",
+        "Working longer hours than the rest of your team",
+        "Asking for a smaller workload to reduce stress",
+        "Leaving a job early to care for your family"
+      ],
+      "why": "Lesson 3 warns against holding back early for children you do not have yet."
+    }
+  ]
+}

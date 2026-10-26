@@ -1,0 +1,56 @@
+{
+  "book": "how-to-talk-to-anyone",
+  "title": "How To Talk To Anyone",
+  "questions": [
+    {
+      "q": "What does Lowndes suggest at an event to skip an awkward start?",
+      "a": [
+        "Ask the host to introduce you",
+        "Walk up and offer a compliment",
+        "Wait for the other person to speak",
+        "Hand out your business card"
+      ],
+      "why": "Lesson 1 recommends having the host introduce you so you both share a connection."
+    },
+    {
+      "q": "What is the briefcase technique?",
+      "a": [
+        "Showing preparation with information you found",
+        "Carrying notes into every conversation",
+        "Bringing a small gift for the host",
+        "Practicing your introduction in advance"
+      ],
+      "why": "Lesson 1 describes using research about someone to show preparation, especially online."
+    },
+    {
+      "q": "What does mimicry involve?",
+      "a": [
+        "Matching their movements and vocabulary",
+        "Repeating their opinions back to them",
+        "Copying their accent on purpose",
+        "Mirroring their clothes and style"
+      ],
+      "why": "Lesson 2 says matching gestures and using similar words makes people feel comfortable."
+    },
+    {
+      "q": "How can you show someone you are on the same page?",
+      "a": [
+        "Refer to the two of you as we and us",
+        "Interject only with short affirmations",
+        "Change the subject to shared news",
+        "Agree with everything they say"
+      ],
+      "why": "Lesson 2 suggests using we and us language to create an in-group feeling."
+    },
+    {
+      "q": "How should praise change as you get to know someone?",
+      "a": [
+        "It should become more specific and frequent",
+        "It should become rarer and more formal",
+        "It should focus mainly on appearance",
+        "It should be given only in private"
+      ],
+      "why": "Lesson 3 says the closer you are to someone, the more detailed your praise can be."
+    }
+  ]
+}

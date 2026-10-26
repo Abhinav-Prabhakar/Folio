@@ -1,0 +1,56 @@
+{
+  "book": "the-four-agreements",
+  "title": "The Four Agreements",
+  "questions": [
+    {
+      "q": "What does Ruiz call the process that starts at birth and shapes our attitudes?",
+      "a": [
+        "domestication",
+        "conditioning",
+        "socialization",
+        "habituation"
+      ],
+      "why": "The text defines it as domestication."
+    },
+    {
+      "q": "Which agreement says you should never take anything personally?",
+      "a": [
+        "Second Agreement",
+        "First Agreement",
+        "Third Agreement",
+        "Fourth Agreement"
+      ],
+      "why": "The second agreement is about not taking things personally."
+    },
+    {
+      "q": "What is one method Ruiz suggests to break old agreements?",
+      "a": [
+        "Notice fear‑based beliefs",
+        "Practice gratitude",
+        "Meditate daily",
+        "Read spiritual texts"
+      ],
+      "why": "He recommends noticing fear‑based beliefs."
+    },
+    {
+      "q": "According to the book, what does a child learn from parents and teachers?",
+      "a": [
+        "Rules and attitudes",
+        "Free will",
+        "Independent thought",
+        "Creative play"
+      ],
+      "why": "Children absorb rules and attitudes from parents and teachers."
+    },
+    {
+      "q": "Which of these is NOT mentioned as a source of domestication?",
+      "a": [
+        "Religion",
+        "Peers",
+        "Technology",
+        "Parents"
+      ],
+      "why": "Technology is not listed among the sources."
+    }
+  ]
+}

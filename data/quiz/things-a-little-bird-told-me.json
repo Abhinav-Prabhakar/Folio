@@ -1,0 +1,56 @@
+{
+  "book": "things-a-little-bird-told-me",
+  "title": "Things A Little Bird Told Me",
+  "questions": [
+    {
+      "q": "What does Biz Stone say limits do for creativity?",
+      "a": [
+        "Force you to find workarounds",
+        "Eliminate creative thought",
+        "Make tasks easier",
+        "Reduce motivation"
+      ],
+      "why": "The book states limits automatically force you to be creative."
+    },
+    {
+      "q": "How many years did Biz Stone spend in cycles of failure before Twitter?",
+      "a": [
+        "Ten years",
+        "Five years",
+        "Two years",
+        "Twenty years"
+      ],
+      "why": "He mentions ten years of trying before founding Twitter."
+    },
+    {
+      "q": "What was the initial source for Biz's first Twitter logo sketch?",
+      "a": [
+        "An online image",
+        "A hand‑drawn bird",
+        "A photograph of a sparrow",
+        "A doodle from a notebook"
+      ],
+      "why": "He sketched a bird based on an image he found online."
+    },
+    {
+      "q": "What does Biz believe about ideas after they are released?",
+      "a": [
+        "They should stay open to change",
+        "They are final and perfect",
+        "They must not be altered",
+        "They lose value quickly"
+      ],
+      "why": "He says ideas rarely enter the world fully formed and stay open to changes."
+    },
+    {
+      "q": "According to the book, what fuels motivation when facing frustration?",
+      "a": [
+        "Frustration itself",
+        "Financial reward",
+        "External praise",
+        "Relaxation"
+      ],
+      "why": "Frustration is described as a great source of motivation."
+    }
+  ]
+}

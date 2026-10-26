@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-trap",
+  "title": "The Happiness Trap",
+  "questions": [
+    {
+      "q": "What therapy does the book promote for handling emotions?",
+      "a": [
+        "Acceptance and Commitment Therapy",
+        "Cognitive Behavioral Therapy",
+        "Psychoanalysis",
+        "Dialectical Behavior Therapy"
+      ],
+      "why": "The text repeatedly references ACT as the recommended approach."
+    },
+    {
+      "q": "According to the book, what is a common mistake people make with negative emotions?",
+      "a": [
+        "Fighting against them",
+        "Accepting them fully",
+        "Ignoring them completely",
+        "Sharing them publicly"
+      ],
+      "why": "It states people worsen emotions by trying to make them go away."
+    },
+    {
+      "q": "What does ACT suggest about pursuing happiness directly?",
+      "a": [
+        "Enjoy small pleasures without chasing them",
+        "Set specific happiness goals",
+        "Meditate for hours daily",
+        "Avoid all pleasant feelings"
+      ],
+      "why": "ACT advises thoughtfully enjoying pleasures rather than actively chasing happiness."
+    },
+    {
+      "q": "What does the book say you can reliably control?",
+      "a": [
+        "Your actions each day",
+        "Your emotional intensity",
+        "Your future feelings",
+        "Your brain chemistry"
+      ],
+      "why": "It notes you can choose how to act, even if you can't control emotions."
+    },
+    {
+      "q": "What final exercise does the book include for readers?",
+      "a": [
+        "Identifying personal values",
+        "Learning advanced yoga poses",
+        "Tracking daily mood scores",
+        "Designing a perfect day"
+      ],
+      "why": "The wrap‑up mentions exercises for determining what you really value."
+    }
+  ]
+}

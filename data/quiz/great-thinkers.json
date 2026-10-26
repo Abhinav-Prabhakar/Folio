@@ -1,0 +1,31 @@
+{
+  "book": "great-thinkers",
+  "title": "Great Thinkers",
+  "questions": [
+    {
+      "q": "According to the stoics, what two outlooks cause anxiety?",
+      "a": ["Fearing what might happen or hoping too hard for something", "Working too much or resting too little", "Comparing yourself to others or hiding your talents", "Avoiding decisions or rushing into them"],
+      "why": "Lesson 1 says anxiety comes from great fears about the future or very high hopes."
+    },
+    {
+      "q": "How might a stoic recommend facing a fear?",
+      "a": ["Experience the worst case so it loses its power", "Distract yourself until the feeling passes", "Talk it over with a trusted friend", "Replace it with a more hopeful thought"],
+      "why": "Lesson 1 suggests embracing fears head-on, even briefly tasting the worst scenario."
+    },
+    {
+      "q": "What did Lao Tzu's reaction to the vinegar show?",
+      "a": ["He found life sweet when accepted as it is", "He thought life was sour and unfair", "He believed suffering was the only truth", "He refused to taste what others offered"],
+      "why": "Lesson 2 uses the vinegar ceremony to contrast Lao Tzu's sweet view with the others."
+    },
+    {
+      "q": "What does Lao Tzu compare life to?",
+      "a": ["A body of water, calm beneath a chaotic surface", "A road that must be walked quickly", "A garden that needs constant pruning", "A mountain that rewards hard climbing"],
+      "why": "Lesson 2 says life is turbulent on the surface but peaceful and harmonious underneath."
+    },
+    {
+      "q": "What did Jane Jacobs think made a city healthy?",
+      "a": ["Dense, mixed streets where people watch out for each other", "Tall towers with private, separated communities", "Wide highways connecting suburbs to downtown", "Large parks with few shops or homes nearby"],
+      "why": "Lesson 3 says Jacobs wanted cities to work like vibrant, mixed ecosystems."
+    }
+  ]
+}

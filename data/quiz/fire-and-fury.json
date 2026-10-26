@@ -1,0 +1,56 @@
+{
+  "book": "fire-and-fury",
+  "title": "Fire And Fury",
+  "questions": [
+    {
+      "q": "What does Wolff suggest about Trump's 2016 campaign?",
+      "a": [
+        "It was never really meant to win, and the victory shocked everyone",
+        "It was carefully planned for years by a small inner circle",
+        "It expected to win but was unprepared for the transition",
+        "It relied almost entirely on traditional television advertising"
+      ],
+      "why": "Lesson 1 says staff were already planning their next moves when Trump won."
+    },
+    {
+      "q": "Why did the administration issue so many executive orders?",
+      "a": [
+        "Staff did not know normal policymaking, so Bannon pushed the orders",
+        "Congress had passed a law requiring a fixed number each month",
+        "Trump preferred orders because they could never be reversed",
+        "Advisers believed orders were the best way to win over Congress"
+      ],
+      "why": "Lesson 2 says Bannon used orders to create shock and awe around his agenda."
+    },
+    {
+      "q": "Which two camps competed to influence Trump's decisions?",
+      "a": [
+        "The Jarvanka group and the Bannonites",
+        "The moderates and the isolationists",
+        "The generals and the economists",
+        "The campaign veterans and the newcomers"
+      ],
+      "why": "Lesson 3 says the persuasion war split between Ivanka and Jared's camp and Bannon's."
+    },
+    {
+      "q": "Why were advisers able to steer Trump so easily?",
+      "a": [
+        "He tended to side with whoever spoke to him last",
+        "He trusted only written reports from senior staff",
+        "He delegated every decision to a formal cabinet vote",
+        "He followed a strict ideological checklist"
+      ],
+      "why": "Lesson 3 says his biases let people close to him push the right buttons."
+    },
+    {
+      "q": "How many executive orders did Bannon originally want in the first 100 days?",
+      "a": [
+        "Two hundred, mostly to provoke an uproar",
+        "Fifty-five, matching the final first-year total",
+        "Twelve, one for each policy area",
+        "Five a month over the full four years"
+      ],
+      "why": "Lesson 2 says the plan called for 200, though only 55 arrived in 2017."
+    }
+  ]
+}

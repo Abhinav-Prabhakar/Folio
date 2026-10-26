@@ -1,0 +1,56 @@
+{
+  "book": "the-execution-factor",
+  "title": "The Execution Factor",
+  "questions": [
+    {
+      "q": "At what age did Kim Perell become unemployed in 2001?",
+      "a": [
+        "23",
+        "30",
+        "35",
+        "40"
+      ],
+      "why": "She was 23 when she was broke and unemployed."
+    },
+    {
+      "q": "What strategy does Perell suggest for testing a big vision?",
+      "a": [
+        "Start small, like a blog",
+        "Buy a company",
+        "Hire a team",
+        "Write a book"
+      ],
+      "why": "She advises testing a vision on a smaller scale first."
+    },
+    {
+      "q": "Which famous entrepreneur is used as an example of resilience?",
+      "a": [
+        "Elon Musk",
+        "Jeff Bezos",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "why": "Perell cites Elon Musk's setbacks as a resilience example."
+    },
+    {
+      "q": "What is the main benefit of taking small actions toward a vision?",
+      "a": [
+        "Progress toward the goal",
+        "Avoiding failure",
+        "Instant success",
+        "Long‑term planning"
+      ],
+      "why": "Small steps move you closer to your vision."
+    },
+    {
+      "q": "Which term describes the ability to adapt to setbacks?",
+      "a": [
+        "Resiliency",
+        "Motivation",
+        "Confidence",
+        "Patience"
+      ],
+      "why": "The book defines resiliency as adapting to challenges."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-greatest-salesman-in-the-world",
+  "title": "The Greatest Salesman In The World",
+  "questions": [
+    {
+      "q": "What does Mandino mean by \"love everything and everyone\"?",
+      "a": [
+        "Approach all with kindness and understanding",
+        "Feel romantic attraction to each person",
+        "Ignore all emotions in sales",
+        "Focus only on profit"
+      ],
+      "why": "Mandino's advice is about unconditional kindness, not romance."
+    },
+    {
+      "q": "How many times does Mandino repeat \"I will act now\" in the later scrolls?",
+      "a": [
+        "18 times",
+        "5 times",
+        "12 times",
+        "24 times"
+      ],
+      "why": "The text notes the phrase appears 18 times."
+    },
+    {
+      "q": "What does Mandino suggest when persistence becomes exhausting?",
+      "a": [
+        "Take breaks to recharge",
+        "Push harder without pause",
+        "Quit and start anew",
+        "Switch to a different product"
+      ],
+      "why": "He emphasizes breaks as part of persistent action."
+    },
+    {
+      "q": "According to the book, what two components are essential for success?",
+      "a": [
+        "Self‑awareness and emotional control",
+        "Charisma and networking",
+        "Technical skill and luck",
+        "Speed and aggression"
+      ],
+      "why": "The text lists self‑awareness and emotional control as key."
+    },
+    {
+      "q": "What happens when a salesman lets anger affect a client?",
+      "a": [
+        "The sale is lost and relationships fail",
+        "The client buys more out of guilt",
+        "The salesman gains respect",
+        "The client forgets the encounter"
+      ],
+      "why": "Anger leads to lost sales and broken relationships."
+    }
+  ]
+}

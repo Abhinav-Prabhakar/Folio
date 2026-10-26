@@ -1,0 +1,56 @@
+{
+  "book": "chasing-the-scream",
+  "title": "Chasing The Scream",
+  "questions": [
+    {
+      "q": "According to the summary, what did the first US drug prohibitions really aim to do?",
+      "a": [
+        "Suppress minorities and ease anxiety about a fast-changing society",
+        "Protect children from addiction and overdose at home",
+        "Reduce crime by locking up dealers and users",
+        "Follow a public health plan drafted by doctors"
+      ],
+      "why": "The summary says the 1914 crackdown came amid anxiety about industrialization and was pushed as a way to suppress minorities."
+    },
+    {
+      "q": "What did criminalizing drugs actually produce, according to the author?",
+      "a": [
+        "A profitable illegal trade run by violent criminal networks",
+        "A steady fall in the number of people using drugs",
+        "Cheaper and safer drugs sold in pharmacies",
+        "Better treatment options paid for by the state"
+      ],
+      "why": "Lesson 2 argues that banning a product does not remove demand, so criminal networks took over distribution and grew rich."
+    },
+    {
+      "q": "Why does Hari argue drug possession should be decriminalized?",
+      "a": [
+        "So users can admit their habit and get help without fear of arrest",
+        "So the government can collect taxes on legal sales",
+        "Because drugs are harmless when used in moderation",
+        "Because police have no interest in enforcing the laws"
+      ],
+      "why": "The summary says ending the fear of arrest would let addicts be honest and receive the support they need."
+    },
+    {
+      "q": "What makes someone more likely to become addicted, according to the summary?",
+      "a": [
+        "Childhood trauma, loneliness and a lack of human connection",
+        "A genetic weakness passed down through the family",
+        "Using a drug regularly after surgery or illness",
+        "Living in a country with strict drug laws"
+      ],
+      "why": "Hari argues addiction depends on the substance and a susceptible person, and that susceptibility often comes from trauma or isolation."
+    },
+    {
+      "q": "Why did violence increase around drug dealing, according to the summary?",
+      "a": [
+        "Dealers could not call police, so they used fear to protect their trade",
+        "Addicts became more aggressive as prices rose",
+        "Police encouraged rival gangs to fight each other",
+        "The drugs themselves made users violent"
+      ],
+      "why": "Lesson 2 explains that gangs outside the law need a violent reputation to deter robbers, and new dealers replace the ones removed."
+    }
+  ]
+}

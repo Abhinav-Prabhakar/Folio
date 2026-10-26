@@ -1,0 +1,56 @@
+{
+  "book": "elite-minds",
+  "title": "Elite Minds",
+  "questions": [
+    {
+      "q": "What does Beecham mean by a mistaken identity?",
+      "a": [
+        "Living below your potential without knowing your true self",
+        "Pretending to be someone else to impress others",
+        "Believing you are better than your teammates",
+        "Adopting a persona that helps you win competitions"
+      ],
+      "why": "Lesson 1 says settling for less than your best self amounts to a mistaken identity."
+    },
+    {
+      "q": "How many bad days a month do top athletes have?",
+      "a": [
+        "Three to six",
+        "One or two",
+        "Ten to twelve",
+        "Nearly every day"
+      ],
+      "why": "Lesson 2 cites studies showing elite athletes log three to six rough days monthly."
+    },
+    {
+      "q": "What does Beecham advise about perfectionism?",
+      "a": [
+        "Accept failure and hard days as part of the process",
+        "Train harder until bad days disappear entirely",
+        "Compare yourself only with the best performers",
+        "Avoid goals that carry any risk of failure"
+      ],
+      "why": "Lesson 2 says rough days belong to the process and perfectionism only makes people miserable."
+    },
+    {
+      "q": "What did Aristotle say courage leads to?",
+      "a": [
+        "Eudaimonia, a state of fulfillment and happiness",
+        "Wealth and recognition from your community",
+        "Freedom from all fear and uncertainty",
+        "Wisdom that comes only with old age"
+      ],
+      "why": "Lesson 3 says Aristotle treated courage as the key virtue and tied it to eudaimonia, a state of fulfillment."
+    },
+    {
+      "q": "How does Beecham suggest you overcome fear?",
+      "a": [
+        "Seek motivation, get excited and act despite the fear",
+        "Wait until the fear fades before taking action",
+        "Avoid situations where failure is possible",
+        "Reason your way through every worst-case scenario"
+      ],
+      "why": "Lesson 3 recommends finding extrinsic motivation, getting excited about the journey and going after what scares you anyway."
+    }
+  ]
+}

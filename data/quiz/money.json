@@ -1,0 +1,31 @@
+{
+  "book": "money",
+  "title": "Money",
+  "questions": [
+    {
+      "q": "What does the VVKIK system begin with, according to the summary?",
+      "a": ["Vision and values", "Income and savings", "Goals and habits", "Budget and tracking"],
+      "why": "Lesson 1 says vision and values come first and act as mileposts for the rest of the system."
+    },
+    {
+      "q": "What are income-generating tasks in the VVKIK system?",
+      "a": ["To-dos that bring the greatest return on your time", "Chores you hand off to someone else", "Weekly targets for your savings account", "Skills you must learn before investing"],
+      "why": "Lesson 1 says these tasks create the most wealth for the least time, so they deserve focus."
+    },
+    {
+      "q": "How does the summary say to calculate your income-generating value?",
+      "a": ["Divide what you earn each week by the hours you work", "Subtract your expenses from your monthly salary", "Multiply your hourly wage by your years of experience", "Add up the value of everything you own"],
+      "why": "Lesson 2 gives the example of $1,000 a week over 55 hours, an hourly value of $18."
+    },
+    {
+      "q": "What does the summary advise doing with work that pays less than your income-generating value?",
+      "a": ["Cut it out or pay someone else to do it", "Do it first thing in the morning", "Charge more for that same work", "Save it for the weekend"],
+      "why": "Lesson 2 says to drop low-value tasks or delegate them so your hourly value can rise."
+    },
+    {
+      "q": "Why does the summary prefer a penny doubled daily for a month over a million dollars?",
+      "a": ["Compounding turns it into more than four million", "It is safer than taking a lump sum", "It teaches you to spend less each day", "It grows at a steady linear rate"],
+      "why": "Lesson 3 uses the thought experiment to show how quickly compounding outruns a large one-off sum."
+    }
+  ]
+}

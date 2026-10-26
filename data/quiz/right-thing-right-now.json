@@ -1,0 +1,56 @@
+{
+  "book": "right-thing-right-now",
+  "title": "Right Thing, Right Now",
+  "questions": [
+    {
+      "q": "How does the summary define justice?",
+      "a": [
+        "Something you practice daily, not something you have",
+        "A set of laws that governments enforce",
+        "A talent only a few people are born with",
+        "A reward you earn after doing good deeds"
+      ],
+      "why": "The overview insists justice is a verb rather than a noun, a habit to improve no matter where you start."
+    },
+    {
+      "q": "What three arenas does Holiday use to organize the practice of justice?",
+      "a": [
+        "The Me, the We, and the All",
+        "The self, the family, and the state",
+        "The past, the present, and the future",
+        "The mind, the body, and the spirit"
+      ],
+      "why": "The overview introduces justice as something practiced toward yourself, toward other people, and toward the whole world."
+    },
+    {
+      "q": "What does the summary say about choosing your own moral code?",
+      "a": [
+        "It may feel limiting at first but ultimately frees you",
+        "It should simply match whatever is legal",
+        "It should be kept private from everyone else",
+        "It is unnecessary if you follow the law"
+      ],
+      "why": "Lesson 1 says a personal code can feel restrictive at first yet gives meaning and freedom in the long run."
+    },
+    {
+      "q": "Why does the summary say justice matters more than the other virtues?",
+      "a": [
+        "A person with other virtues can use them to cause harm",
+        "It is the easiest virtue to practice every day",
+        "It is the only virtue other people can see",
+        "It requires no courage or discipline at all"
+      ],
+      "why": "Lesson 2 argues that courage, discipline or wisdom without justice can be turned toward evil and personal gain."
+    },
+    {
+      "q": "What does Gandhi's example teach about justice?",
+      "a": [
+        "Justice should extend to every person and living thing",
+        "Justice requires holding political office",
+        "Justice is won through armies and money",
+        "Justice is only possible for perfect people"
+      ],
+      "why": "Lesson 3 says Gandhi's turning point was realizing that every person, animal and plant is equal."
+    }
+  ]
+}

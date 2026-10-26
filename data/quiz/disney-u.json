@@ -1,0 +1,31 @@
+{
+  "book": "disney-u",
+  "title": "Disney U",
+  "questions": [
+    {
+      "q": "Beyond money, what does the summary say makes employees most loyal and motivated?",
+      "a": ["A shared purpose and set of values", "Flexible hours and longer holidays", "Regular promotions and job titles", "Friendly competition between teams"],
+      "why": "Lesson 1 says a common purpose makes staff feel part of something bigger than their material needs."
+    },
+    {
+      "q": "What is the purpose of management's open-door policy at Disney?",
+      "a": ["Encouraging staff to raise problems openly", "Letting guests complain to executives", "Allowing anyone to tour the offices", "Inviting outsiders to join meetings"],
+      "why": "Lesson 1 explains that transparency and an open door help employees speak up about challenges."
+    },
+    {
+      "q": "Which side of a business does the summary describe as the art rather than the science?",
+      "a": ["Running staff and building culture", "Maintaining parks and attractions", "Designing products and services", "Managing budgets and processes"],
+      "why": "Lesson 2 separates the scientific side of assets and processes from the artistic side of people and culture."
+    },
+    {
+      "q": "Why does the summary say Nokia lost its leading position?",
+      "a": ["Management ignored past mistakes and future trends", "It spent too much on training its staff", "It focused too heavily on customer feedback", "It expanded into too many new markets"],
+      "why": "Lesson 3 uses Nokia as a warning about leaders who fail to learn from the past and anticipate change."
+    },
+    {
+      "q": "Where does the summary suggest executives should look for fresh perspectives?",
+      "a": ["Staff, newcomers, and stakeholders", "Competitors and industry analysts", "Customers and social media only", "Consultants and board members only"],
+      "why": "Lesson 3 recommends gathering opinions from employees, new hires, and stakeholders, then sorting through them."
+    }
+  ]
+}

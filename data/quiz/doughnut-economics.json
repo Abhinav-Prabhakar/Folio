@@ -1,0 +1,31 @@
+{
+  "book": "doughnut-economics",
+  "title": "Doughnut Economics",
+  "questions": [
+    {
+      "q": "Which four factors does Raworth say the standard economic diagram leaves out?",
+      "a": ["Ecology, parenting, unpaid work, and inequality", "Inflation, taxation, trade, and debt", "Savings, investment, wages, and profit", "Competition, innovation, marketing, and demand"],
+      "why": "Lesson 1 lists the ecological context, parenting, unpaid work, and inequality as the model's blind spots."
+    },
+    {
+      "q": "What does the doughnut hole represent in Raworth's model?",
+      "a": ["The social foundation of basic human needs", "The ecological ceiling of planetary limits", "The total wealth of a country", "The space where growth is fastest"],
+      "why": "Lesson 2 places twelve basic needs such as water, food, and education inside the doughnut hole."
+    },
+    {
+      "q": "What happens when economies overshoot the planetary boundaries?",
+      "a": ["The planet can no longer sustain us", "Growth slows but recovers quickly", "Inequality automatically shrinks", "Resources become cheaper to extract"],
+      "why": "Lesson 2 warns that crossing boundaries like climate change and ocean acidification damages the planet's ability to support us."
+    },
+    {
+      "q": "Where does the summary say economies should ideally sit?",
+      "a": ["In the dough between the two boundaries", "Inside the doughnut hole", "Beyond the ecological ceiling", "Outside the doughnut entirely"],
+      "why": "Lesson 2 calls the safe and just space the dough itself, between social foundation and ecological ceiling."
+    },
+    {
+      "q": "What is the first step toward making the economy truly circular?",
+      "a": ["Maximising how reusable goods and services are", "Raising taxes on large corporations", "Replacing GDP with a happiness index", "Banning all single-use packaging at once"],
+      "why": "Lesson 3 says reusability is the practical starting point, with examples like composting and bottle recycling."
+    }
+  ]
+}

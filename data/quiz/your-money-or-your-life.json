@@ -1,0 +1,56 @@
+{
+  "book": "your-money-or-your-life",
+  "title": "Your Money or Your Life",
+  "questions": [
+    {
+      "q": "What is the first step toward financial independence according to the book?",
+      "a": [
+        "Calculate net worth, expenses, and earnings",
+        "Cut all discretionary spending",
+        "Invest in high‑risk stocks",
+        "Seek a financial advisor"
+      ],
+      "why": "It says the first step is to calculate net worth, expenses, and earnings."
+    },
+    {
+      "q": "How does the book suggest you evaluate the value of your work time?",
+      "a": [
+        "Compare life‑energy spent to satisfaction received",
+        "Track hours worked versus pay rate",
+        "Measure how many tasks you complete",
+        "Count the number of promotions"
+      ],
+      "why": "It mentions building a system to assess life‑energy spent versus satisfaction."
+    },
+    {
+      "q": "Which assets does the book recommend for beginners to invest in?",
+      "a": [
+        "Safe securities like bonds and low‑risk stocks",
+        "Cryptocurrencies and speculative startups",
+        "Collectible art and rare coins",
+        "Foreign real estate"
+      ],
+      "why": "It advises opting for the safest securities for new investors."
+    },
+    {
+      "q": "What sources does the book suggest using to track past income?",
+      "a": [
+        "Resumes, paychecks, and Social Security records",
+        "Bank statements only",
+        "Credit card bills",
+        "Tax returns alone"
+      ],
+      "why": "It lists resumes, paychecks, and Social Security info for income tracking."
+    },
+    {
+      "q": "According to the text, why do many people fail to achieve financial goals?",
+      "a": [
+        "They blame a wicked financial system",
+        "They lack a college degree",
+        "They avoid budgeting altogether",
+        "They spend too much on luxury goods"
+      ],
+      "why": "The book notes people claim the financial system is wicked as a reason for failure."
+    }
+  ]
+}

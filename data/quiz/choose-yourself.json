@@ -1,0 +1,56 @@
+{
+  "book": "choose-yourself",
+  "title": "Choose Yourself",
+  "questions": [
+    {
+      "q": "Why does Altucher say the traditional American dream no longer works?",
+      "a": [
+        "Work is outsourced or automated, so a degree no longer guarantees a job",
+        "Housing has become too expensive for most young families",
+        "Young people no longer want to own homes or cars",
+        "The government stopped supporting small businesses"
+      ],
+      "why": "Lesson 1 argues that almost everything can now be outsourced or done by technology, leaving many graduates unemployed."
+    },
+    {
+      "q": "What event does the summary credit with bursting the American dream bubble?",
+      "a": [
+        "The 2008 financial crisis",
+        "The end of the Second World War",
+        "The rise of the internet in the 1990s",
+        "The publication of the book in 2013"
+      ],
+      "why": "The summary says the dream burst in 2008, when the financial crisis led companies to cut costs by cutting people."
+    },
+    {
+      "q": "According to the summary, what keeps most people from controlling their own dreams?",
+      "a": [
+        "Fear of what family, friends and customers will think",
+        "A lack of savings and starting capital",
+        "Not knowing which product to build first",
+        "Too many job offers from employers"
+      ],
+      "why": "Lesson 2 says avoiding rejection is a powerful motivator, and that fear hands control of your choices to others."
+    },
+    {
+      "q": "Which four areas does Altucher's daily practice cover?",
+      "a": [
+        "Mental, physical, emotional and spiritual health",
+        "Career, money, family and community",
+        "Sleep, diet, exercise and work",
+        "Reading, writing, saving and giving"
+      ],
+      "why": "Lesson 3 lists mental, physical, emotional and spiritual health as the four areas to improve a little each day."
+    },
+    {
+      "q": "What daily habit does the author recommend for building ideas?",
+      "a": [
+        "Writing down ten ideas, whether good or bad",
+        "Reading one chapter of a business book",
+        "Pitching one new client before noon",
+        "Reviewing yesterday's mistakes in a journal"
+      ],
+      "why": "The summary says Altucher writes ten ideas a day, no matter their quality, as part of his daily practice."
+    }
+  ]
+}

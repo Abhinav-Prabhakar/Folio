@@ -1,0 +1,56 @@
+{
+  "book": "when",
+  "title": "When",
+  "questions": [
+    {
+      "q": "Which of these statements is made in When?",
+      "a": [
+        "I have a tendency to bump into people I know in uncanny places.",
+        "You probably spend a good amount of your day talking to others.",
+        "Maybe you’ve heard the phrase “survival of the fittest” before.",
+        "Compared to our ancestors, we’re living in a world of opulence."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does When explore?",
+      "a": [
+        "There’s an emotional pattern each of us follows on any given day",
+        "You’re better off exercising weak courage than no courage at all",
+        "Your psychological disorders come from a misguided sense of self",
+        "Good communication is about the “how” much more than the “what.”"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does When teach?",
+      "a": [
+        "Figure out your chronotype to produce your best work",
+        "You can never be courageous without being vulnerable",
+        "Take control of your life with the E + P = O formula",
+        "Quit work at the same time each day, and stick to it"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in When?",
+      "a": [
+        "If I asked you to divide your day into three parts, you’d most likely first think of…",
+        "It is fairly easy to observe the human impact threatening Earth’s biodiversity today.",
+        "If you feel constantly unmotivated, tired, or afraid of the future, you’re not alone.",
+        "In 1989, Michael Brown was diagnosed with an acute health condition: Horton Syndrome."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of When?",
+      "a": [
+        "When: The Scientific Secrets of Perfect Timing breaks down the science of time so you can…",
+        "Always do what’s best for the customer, even if it scares you and might hurt your business",
+        "The practice of directly connecting one big network to another at a hub is called peering.",
+        "We need to accept that we’re going to fail if we want to be successful at anything in life"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

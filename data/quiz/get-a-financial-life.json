@@ -1,0 +1,56 @@
+{
+  "book": "get-a-financial-life",
+  "title": "Get A Financial Life",
+  "questions": [
+    {
+      "q": "What is the first step toward paying for your dreams, according to Kobliner?",
+      "a": [
+        "Work out what they cost and review your spending",
+        "Take out a loan for the full amount",
+        "Wait until your income rises",
+        "Ask family for a down payment"
+      ],
+      "why": "The first lesson says to price the dream, then plan how your finances can get you there."
+    },
+    {
+      "q": "For a $20,000 car, how much down payment does the summary mention?",
+      "a": [
+        "About $4,000",
+        "About $2,000",
+        "About $10,000",
+        "About $500"
+      ],
+      "why": "The first lesson uses a 20% down payment to show how a big goal becomes a concrete plan."
+    },
+    {
+      "q": "What does the $3,500 credit card example show about minimum payments?",
+      "a": [
+        "They can keep you paying for decades",
+        "They clear the balance within five years",
+        "They usually keep interest under 5%",
+        "They save money compared with paying early"
+      ],
+      "why": "The second lesson says minimum payments at 17% interest could last until age 65."
+    },
+    {
+      "q": "What should you do if you are already stuck in credit card debt?",
+      "a": [
+        "Ask lenders for a lower rate and see a non-profit counselor",
+        "Open more cards and spread the balance",
+        "Stop paying until the lender negotiates",
+        "Borrow from retirement savings first"
+      ],
+      "why": "The second lesson suggests negotiating with lenders and using savings, since card interest beats investment returns."
+    },
+    {
+      "q": "Why is it worth comparing several insurance quotes?",
+      "a": [
+        "The same policy can cost wildly different amounts",
+        "Insurers are required by law to match prices",
+        "Cheaper policies always cover much less",
+        "Employers negotiate the best available rates"
+      ],
+      "why": "The third lesson cites one young man who could pay anywhere from $808 to $3,441 for identical car cover."
+    }
+  ]
+}

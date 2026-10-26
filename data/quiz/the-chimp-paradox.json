@@ -1,0 +1,56 @@
+{
+  "book": "the-chimp-paradox",
+  "title": "The Chimp Paradox",
+  "questions": [
+    {
+      "q": "What field did Steve Peters study before returning to university for a medical degree?",
+      "a": [
+        "Mathematics",
+        "Physics",
+        "Engineering",
+        "Chemistry"
+      ],
+      "why": "The overview states Peters first studied and taught mathematics before returning for a medical degree."
+    },
+    {
+      "q": "How does the book describe the limbic system?",
+      "a": [
+        "As the inner chimp that decides using emotions",
+        "As the rational part that processes facts",
+        "As the memory center that stores experiences",
+        "As the creative center that generates ideas"
+      ],
+      "why": "The lesson on two competing forces describes the limbic system as the inner chimp that decides using emotions."
+    },
+    {
+      "q": "In the four communication scenarios, which one is described as ideal?",
+      "a": [
+        "Both people operating in human mode",
+        "One person in human mode, the other in chimp mode",
+        "Both people behaving like monkeys",
+        "One person in chimp mode, the other in human mode"
+      ],
+      "why": "The four communication modes lesson states the first scenario, where both are in human mode, is ideal."
+    },
+    {
+      "q": "What does the book say the chimp's sneakiest trick is?",
+      "a": [
+        "Getting you to chase an illusionary perfect state of happiness",
+        "Making you avoid all challenges and responsibilities",
+        "Forcing you to compete with others constantly",
+        "Convincing you that you are never good enough"
+      ],
+      "why": "The lesson on the chimp wanting more describes this as getting you to chase an illusionary perfect state."
+    },
+    {
+      "q": "What happens when the human and chimp parts of the brain clash?",
+      "a": [
+        "It leads to problems when the wrong one ends up in charge",
+        "The human always wins through logical reasoning",
+        "The chimp shuts down the prefrontal cortex entirely",
+        "Both parts merge into a single decision-making unit"
+      ],
+      "why": "The two competing forces lesson states problems arise when the two clash or the wrong one ends up in charge."
+    }
+  ]
+}

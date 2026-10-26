@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-living",
+  "title": "The Art of Living",
+  "questions": [
+    {
+      "q": "According to the summary, what are the four continuous processes of the mind?",
+      "a": [
+        "Consciousness, perception, sensation and reaction",
+        "Attention, memory, judgment and imagination",
+        "Breathing, sensing, thinking and sleeping",
+        "Desire, aversion, habit and identity"
+      ],
+      "why": "Lesson 1 lists these four as the mind's continuous activity, alongside the body's constant flux."
+    },
+    {
+      "q": "What does perception do in that sequence?",
+      "a": [
+        "It decides whether what we encountered is positive or negative for us",
+        "It simply registers that something is happening",
+        "It produces a physical sensation of comfort or discomfort",
+        "It chooses to avoid what is unpleasant"
+      ],
+      "why": "Lesson 1 assigns perception the job of judging whether something is positive or negative for us."
+    },
+    {
+      "q": "What is Sila?",
+      "a": [
+        "A way of living based on morality that avoids harming others",
+        "A breathing exercise used to quiet the mind",
+        "A set of rituals performed at a temple",
+        "A form of fasting practiced by monks"
+      ],
+      "why": "Lesson 2 defines Sila as morality, a way of living that avoids harm and keeps peace with others."
+    },
+    {
+      "q": "What advice does the summary give about work and Sila?",
+      "a": [
+        "Earn a living from something that does not spread harm or hate",
+        "Avoid all paid work and rely on charity",
+        "Choose the highest-paying job regardless of its effects",
+        "Keep your moral rules separate from your job"
+      ],
+      "why": "Lesson 2 says to seek work that does not perpetuate harm, naming gambling and drug sales as examples."
+    },
+    {
+      "q": "What happens when you first try to meditate, according to the summary?",
+      "a": [
+        "The inner chatter is hard to quiet, so you return your focus to breathing",
+        "The mind goes blank almost immediately",
+        "You fall into a deep, dreamless sleep",
+        "You begin to see vivid images of the past"
+      ],
+      "why": "Lesson 3 says the mind wanders at first and that you should gently return to your breathing."
+    }
+  ]
+}

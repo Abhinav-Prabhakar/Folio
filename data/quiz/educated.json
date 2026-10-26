@@ -1,0 +1,56 @@
+{
+  "book": "educated",
+  "title": "Educated",
+  "questions": [
+    {
+      "q": "Why did Tara's father refuse to send his children to public school?",
+      "a": [
+        "He believed public schools brainwashed children",
+        "He could not afford the school fees",
+        "He wanted them to work in the family business",
+        "He thought the schools were too far from home"
+      ],
+      "why": "Lesson 1 says her father believed public schools brainwashed children, so the children were nominally homeschooled instead."
+    },
+    {
+      "q": "What first inspired Tara to study for college?",
+      "a": [
+        "Her brother Tyler's example of studying and getting in",
+        "A teacher who noticed her talent and offered help",
+        "A book about Cambridge that she found in town",
+        "Her mother's encouragement to leave the farm"
+      ],
+      "why": "Lesson 1 says her older brother Tyler studied and got into college, and his example planted the seeds for Tara."
+    },
+    {
+      "q": "What surprised Tara about her first visit to a doctor?",
+      "a": [
+        "It was not the horrible place she had been taught",
+        "The doctor refused to treat her without insurance",
+        "The visit was far more painful than expected",
+        "The medicine made her sick for several days"
+      ],
+      "why": "Lesson 2 says she went to a doctor for the first time at college and was surprised it was not a horrible place."
+    },
+    {
+      "q": "How did Tara's father try to pull her back at Harvard?",
+      "a": [
+        "He demanded she accept a blessing or be seen as a threat",
+        "He offered to pay her tuition if she returned home",
+        "He wrote to the university asking them to expel her",
+        "He threatened to cut off contact with her siblings"
+      ],
+      "why": "Lesson 3 says her father insisted she accept a blessing to cast out Satan, or she would be treated as a threat to the family."
+    },
+    {
+      "q": "Where did Tara eventually earn her doctorate?",
+      "a": [
+        "Cambridge University",
+        "Brigham Young University",
+        "Harvard University",
+        "Oxford University"
+      ],
+      "why": "The overview and Lesson 3 explain that Tara earned a doctorate from Cambridge University."
+    }
+  ]
+}

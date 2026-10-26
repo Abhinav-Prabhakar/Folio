@@ -1,0 +1,31 @@
+{
+  "book": "capitalism",
+  "title": "Capitalism",
+  "questions": [
+    {
+      "q": "What does the summary call the core of capitalism?",
+      "a": ["Using money or capital to make more money", "Saving as much income as possible", "Sharing profits equally among workers", "Letting governments direct investment"],
+      "why": "Lesson 1 says capitalists put capital to work to earn a return, with profit being what is left after costs."
+    },
+    {
+      "q": "How can a home serve as capital for an individual?",
+      "a": ["Sell it for its equity or rent it for income", "Live in it without paying any rent", "Borrow against it to fund vacations", "Pass it down as a tax-free inheritance"],
+      "why": "Lesson 1 gives the home as an example of an asset that can be sold for equity or rented for monthly revenue."
+    },
+    {
+      "q": "Why did capitalism's roots take hold in medieval Europe?",
+      "a": ["Power was split among many competing states", "A single emperor controlled all trade", "The church banned lending and markets", "Guilds owned most of the farmland"],
+      "why": "Lesson 2 points to a fragmented political system with multiple jurisdictions, unlike Rome or China's dynasties."
+    },
+    {
+      "q": "What did low interest rates after 2008 lead to in developing nations?",
+      "a": ["More borrowing, setting up a future crash", "Rapid repayment of their debts", "An end to trade with the West", "Nationalization of their banks"],
+      "why": "Lesson 3 says cheap credit eased pressure in the West but encouraged developing countries to borrow heavily."
+    },
+    {
+      "q": "Why is it hard to fix the crises built into capitalism?",
+      "a": ["Big corporations resist rules that limit short-term profit", "Economists still disagree on what caused 2008", "Banks have already moved to stricter countries", "Voters reject every kind of regulation"],
+      "why": "Lesson 3 notes that powerful corporations favor short-term gains and push back against tougher oversight."
+    }
+  ]
+}

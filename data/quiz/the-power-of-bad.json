@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-bad",
+  "title": "The Power Of Bad",
+  "questions": [
+    {
+      "q": "What ratio of good to bad days did Baumeister find in his tracking?",
+      "a": [
+        "2 to 1",
+        "1 to 1",
+        "3 to 1",
+        "4 to 1"
+      ],
+      "why": "He recorded two good days for every bad day."
+    },
+    {
+      "q": "What visual metaphor illustrates how a single negative event can outweigh many positives?",
+      "a": [
+        "One jelly bean dropping from a full jar",
+        "A single raindrop in a flood",
+        "A lone tree in a forest",
+        "A single star in the sky"
+      ],
+      "why": "The video shows a full jar losing a bean and being swapped for the empty one."
+    },
+    {
+      "q": "According to Jim Rohn, you are the average of how many people you spend most time with?",
+      "a": [
+        "Five",
+        "Three",
+        "Ten",
+        "Seven"
+      ],
+      "why": "Rohn's quote mentions five people."
+    },
+    {
+      "q": "What does the book suggest about sandwiching criticism between compliments?",
+      "a": [
+        "It is ineffective",
+        "It works well",
+        "It confuses people",
+        "It boosts morale"
+      ],
+      "why": "The text says this method doesn't work."
+    },
+    {
+      "q": "What strategy is recommended for dealing with a consistently negative coworker?",
+      "a": [
+        "Let them work from home",
+        "Ignore them completely",
+        "Confront them publicly",
+        "Promote them"
+      ],
+      "why": "Eliza Byington's story notes improvement when the bad apple worked remotely."
+    }
+  ]
+}

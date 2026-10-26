@@ -1,0 +1,56 @@
+{
+  "book": "deep-thinking",
+  "title": "Deep Thinking",
+  "questions": [
+    {
+      "q": "Why does Kasparov say we should not fear computers taking our jobs?",
+      "a": [
+        "History shows technology has improved life while human input stayed valuable",
+        "Machines will never be able to process large amounts of data",
+        "Governments will always ban computers from most workplaces",
+        "New technology has never changed the kind of work people do"
+      ],
+      "why": "Lesson 1 points to the steam engine, electricity and computers as past examples of adaptation."
+    },
+    {
+      "q": "What does Kasparov see as the core difference between human and artificial intelligence?",
+      "a": [
+        "Humans experience emotions, while computers do not",
+        "Humans can calculate faster than any machine",
+        "Computers rely on intuition rather than data",
+        "Humans are unable to make strategic decisions"
+      ],
+      "why": "Lesson 2 says emotion and psychological endurance are what separate people from machines."
+    },
+    {
+      "q": "Why do even top chess players make many tactical mistakes?",
+      "a": [
+        "Psychological pressure from their opponent affects their play",
+        "They have not memorized enough opening strategies",
+        "They are usually tired from long tournaments",
+        "They deliberately play weaker moves to confuse computers"
+      ],
+      "why": "Lesson 2 attributes the errors to the emotional and psychological side of competition."
+    },
+    {
+      "q": "What can computers still not do, according to lesson 3?",
+      "a": [
+        "Invent entirely new questions beyond their original programming",
+        "Process more data than a human brain can handle",
+        "Play chess better than a grandmaster",
+        "Follow instructions written by their designers"
+      ],
+      "why": "Lesson 3 says AI only asks questions based on the data humans initially built in."
+    },
+    {
+      "q": "What does Kasparov say we should focus on instead of fearing job loss?",
+      "a": [
+        "Adapting society to the new reality",
+        "Slowing down all research into artificial intelligence",
+        "Teaching machines to experience emotions",
+        "Keeping computers out of creative industries"
+      ],
+      "why": "Lesson 1 ends by recommending adaptation rather than fear of automation."
+    }
+  ]
+}

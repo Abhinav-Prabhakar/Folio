@@ -1,0 +1,56 @@
+{
+  "book": "the-sports-gene",
+  "title": "The Sports Gene",
+  "questions": [
+    {
+      "q": "What proportion of height variation is attributed to genetics?",
+      "a": [
+        "About 80%",
+        "Around 50%",
+        "Nearly 100%",
+        "Less than 30%"
+      ],
+      "why": "The text says 80% of height variation is due to genes."
+    },
+    {
+      "q": "Which body trait gives short basketball players an advantage?",
+      "a": [
+        "Stronger Achilles tendons",
+        "Longer legs",
+        "Higher lung capacity",
+        "Greater body mass"
+      ],
+      "why": "Short players may have stronger Achilles tendons that help them jump higher."
+    },
+    {
+      "q": "What genetic factor influences a person's likelihood to go to the gym?",
+      "a": [
+        "Overall genetic makeup",
+        "Eye color",
+        "Hair texture",
+        "Blood type"
+      ],
+      "why": "The passage notes genes largely determine differences in exercise habits."
+    },
+    {
+      "q": "Why do Kenyan and Ethiopian runners have an edge in long‑distance events?",
+      "a": [
+        "Smaller bodies that dissipate heat efficiently",
+        "Higher muscle mass",
+        "Longer arms for better stride",
+        "More fast‑twitched fibers"
+      ],
+      "why": "Hot climates led to smaller bodies that disperse heat better, aiding running."
+    },
+    {
+      "q": "What physiological adaptation results from living at high altitude in East Africa?",
+      "a": [
+        "Larger lungs and more red blood cells",
+        "Shorter limbs",
+        "Thicker skin",
+        "Higher body fat"
+      ],
+      "why": "High altitude leads to larger lungs and higher red blood cell counts."
+    }
+  ]
+}

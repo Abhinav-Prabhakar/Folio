@@ -1,0 +1,56 @@
+{
+  "book": "reality-is-broken",
+  "title": "Reality Is Broken",
+  "questions": [
+    {
+      "q": "Why are video games so popular, according to the summary?",
+      "a": [
+        "They create social bonds and a sense of accomplishment",
+        "They offer a permanent escape from reality",
+        "They require no skill or effort to enjoy",
+        "They cost less than every other hobby"
+      ],
+      "why": "Lesson 1 says games meet our need to connect and to feel excited and accomplished."
+    },
+    {
+      "q": "What does the summary say games give players that daily life often lacks?",
+      "a": [
+        "Clear rewards and a sense of hope",
+        "A break from all social contact",
+        "A guarantee of financial success",
+        "Relief from any physical effort"
+      ],
+      "why": "Lesson 1 says missions and rewards add excitement and optimism that reality rarely provides."
+    },
+    {
+      "q": "What did Jane use to make housework more engaging?",
+      "a": [
+        "A game called Chore Wars",
+        "A timer and a reward chart",
+        "A shared cleaning schedule",
+        "A weekly family contest"
+      ],
+      "why": "Lesson 2 describes Chore Wars, where points for chores made cleaning competitive."
+    },
+    {
+      "q": "What skill does the summary call the most prominent among long-time gamers?",
+      "a": [
+        "Collaboration",
+        "Hand-eye coordination",
+        "Memorization",
+        "Patience"
+      ],
+      "why": "Lesson 3 says many games require teams to communicate, set rules and coordinate."
+    },
+    {
+      "q": "What does the 10,000 hour rule suggest about gamers?",
+      "a": [
+        "They likely build valuable skills through long practice",
+        "They waste time that could go to school",
+        "They peak in skill before adulthood",
+        "They need fewer hours to master a game"
+      ],
+      "why": "Lesson 3 links the average 10,000 hours of play to world-class practice and transferable skills."
+    }
+  ]
+}

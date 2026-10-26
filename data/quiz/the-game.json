@@ -1,0 +1,56 @@
+{
+  "book": "the-game",
+  "title": "The Game",
+  "questions": [
+    {
+      "q": "What can social dynamics be used for according to the book?",
+      "a": [
+        "Manipulated for advantage",
+        "Ignored in interactions",
+        "Kept secret",
+        "Avoided in meetings"
+      ],
+      "why": "Social dynamics can be manipulated."
+    },
+    {
+      "q": "What is pickup primarily about?",
+      "a": [
+        "Men, not women",
+        "Women, not men",
+        "Both equally",
+        "Neither"
+      ],
+      "why": "Pickup focuses on men."
+    },
+    {
+      "q": "Why do routines fail to help find love?",
+      "a": [
+        "They feel fake and are spotted",
+        "They are too simple",
+        "They are too expensive",
+        "They are too new"
+      ],
+      "why": "Routines are perceived as phony."
+    },
+    {
+      "q": "What did Neil learn from failing pickup lines with Lisa?",
+      "a": [
+        "He needed to be authentic",
+        "He should use more lies",
+        "He should avoid women",
+        "He should quit dating"
+      ],
+      "why": "Authenticity was required."
+    },
+    {
+      "q": "Which statement reflects pickup's effect on social capacity?",
+      "a": [
+        "It lessened social capacity",
+        "It increased social capacity",
+        "It had no effect",
+        "It doubled friendships"
+      ],
+      "why": "Pickup reduced social capacity."
+    }
+  ]
+}

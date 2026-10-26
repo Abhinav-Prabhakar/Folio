@@ -1,0 +1,56 @@
+{
+  "book": "option-b",
+  "title": "Option B",
+  "questions": [
+    {
+      "q": "What are the three Ps of trauma described in the summary?",
+      "a": [
+        "Personalization, pervasiveness and permanence",
+        "Panic, paralysis and passivity",
+        "Pain, protest and progress",
+        "Pressure, pessimism and pride"
+      ],
+      "why": "Lesson 1 introduces Martin Seligman's three-P model: personalization, pervasiveness and permanence."
+    },
+    {
+      "q": "What does personalization mean in this context?",
+      "a": [
+        "Blaming yourself for something you could not control",
+        "Believing the sadness will never end",
+        "Letting grief spread into every area of life",
+        "Hiding your feelings from friends"
+      ],
+      "why": "Lesson 1 describes personalization as blaming yourself for an event you could not control."
+    },
+    {
+      "q": "What is grounded hope?",
+      "a": [
+        "Keeping hope alive while taking practical next steps",
+        "Waiting for a rescue that may never come",
+        "Believing everything will return to normal",
+        "Avoiding the company of others while grieving"
+      ],
+      "why": "Lesson 2 defines grounded hope as keeping hope alive while taking practical steps forward."
+    },
+    {
+      "q": "What does the Andean rugby team example illustrate?",
+      "a": [
+        "Resilience can come from a group, not only from within",
+        "Survival depends mainly on physical strength",
+        "Hope fades quickly in extreme conditions",
+        "Strangers rarely cooperate under stress"
+      ],
+      "why": "Lesson 2 uses the Andes crash survivors to show resilience within and between people."
+    },
+    {
+      "q": "What kind of help should you offer a grieving friend?",
+      "a": [
+        "Specific offers, like getting groceries",
+        "A general offer to help if needed",
+        "Space and silence until they reach out",
+        "Advice on how to move on quickly"
+      ],
+      "why": "Lesson 3 says specific offers such as groceries signal genuine help better than a vague offer."
+    }
+  ]
+}

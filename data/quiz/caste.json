@@ -1,0 +1,31 @@
+{
+  "book": "caste",
+  "title": "Caste",
+  "questions": [
+    {
+      "q": "Which four pillars open the summary's list of caste's foundations?",
+      "a": ["Divine will, heritability, endogamy, and purity", "Hierarchy, dehumanization, terror, and superiority", "Wealth, education, land, and title", "Religion, language, region, and ancestry"],
+      "why": "Lesson 1 covers divine will, being born into a caste, marriage within it and fears about purity."
+    },
+    {
+      "q": "What does heritability mean as a pillar of caste?",
+      "a": ["You are born into your parents' caste", "You can earn a higher caste through work", "You choose your caste when you marry", "Your caste depends on where you live"],
+      "why": "Lesson 1 defines heritability simply: a person inherits the caste of their parents at birth."
+    },
+    {
+      "q": "What role does terror play in upholding a caste system?",
+      "a": ["It enforces control through whippings, burnings, and hangings", "It keeps members loyal through shared rituals", "It shields lower castes from outside threats", "It offers lower castes a route upward"],
+      "why": "Lesson 2 lists terror as enforcement and cruelty as control, citing violence on plantations and after slavery."
+    },
+    {
+      "q": "What does the purity versus pollution pillar justify?",
+      "a": ["Keeping bloodlines separate from other groups", "Sharing water and pools equally", "Allowing marriage across castes", "Giving lower castes better housing"],
+      "why": "Lesson 1 cites bans on Jewish people touching Aryan water and on African-Americans using swimming pools."
+    },
+    {
+      "q": "What does the summary suggest as a first step toward dismantling caste?",
+      "a": ["Make people aware that it exists", "Remove every Confederate statue at once", "Pass a single federal law", "Wait for attitudes to shift on their own"],
+      "why": "Lesson 3 says awareness comes first, followed by supporting those trying to break free of a lower caste."
+    }
+  ]
+}

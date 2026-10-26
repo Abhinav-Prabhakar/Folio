@@ -1,0 +1,56 @@
+{
+  "book": "remote",
+  "title": "Remote",
+  "questions": [
+    {
+      "q": "What does remote work give employees, according to the summary?",
+      "a": [
+        "Freedom to handle life without asking permission",
+        "Higher salaries than office jobs",
+        "Guaranteed promotions over time",
+        "Fewer responsibilities at home"
+      ],
+      "why": "Lesson 1 says remote workers can handle school runs and appointments without seeking approval."
+    },
+    {
+      "q": "Why does the summary say offices reduce productivity?",
+      "a": [
+        "Meetings, interruptions and waiting eat up the day",
+        "Employees take longer lunch breaks there",
+        "Office internet connections are usually slower",
+        "Managers watch workers far too closely"
+      ],
+      "why": "Lesson 2 says people are surrounded by distractions and often wait on others to proceed."
+    },
+    {
+      "q": "What can managers judge more clearly when work goes remote?",
+      "a": [
+        "The quality of the work itself",
+        "How many hours people sit at desks",
+        "How friendly employees are to colleagues",
+        "Whether people arrive on time"
+      ],
+      "why": "Lesson 2 says remote work pushes aside distorting factors and lets output speak for itself."
+    },
+    {
+      "q": "How does Basecamp help remote staff connect?",
+      "a": [
+        "A virtual room for lunch and coffee chats",
+        "Weekly mandatory video meetings",
+        "A shared vacation calendar",
+        "A rotating office schedule"
+      ],
+      "why": "Lesson 3 describes a virtual meeting room where employees can share breaks together."
+    },
+    {
+      "q": "What does Basecamp do twice a year for its team?",
+      "a": [
+        "Bring everyone together for an in-person retreat",
+        "Rotate employees between regional offices",
+        "Close the company for a long holiday",
+        "Publish a report on everyone's salary"
+      ],
+      "why": "Lesson 3 says two annual retreats let the whole company meet face to face."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "factfulness",
+  "title": "Factfulness",
+  "questions": [
+    {
+      "q": "What is the gap instinct?",
+      "a": [
+        "The urge to divide things into two opposing camps",
+        "The tendency to exaggerate current trends",
+        "The habit of trusting a single source",
+        "The fear of unfamiliar situations"
+      ],
+      "why": "Lesson 1 defines it as seeing things in black and white."
+    },
+    {
+      "q": "What does child mortality suggest about developing countries today?",
+      "a": [
+        "Only about thirteen would still qualify as developing",
+        "Most countries remain far below the threshold",
+        "The label applies to roughly half the world",
+        "The data is too unreliable to draw conclusions"
+      ],
+      "why": "Lesson 1 says just thirteen countries fit that label using child mortality."
+    },
+    {
+      "q": "Why will population growth likely level off?",
+      "a": [
+        "As countries escape poverty, people have fewer children",
+        "Governments are limiting births by law",
+        "Disease will reduce the population sharply",
+        "People are moving to cities in large numbers"
+      ],
+      "why": "Lesson 2 links smaller families to rising prosperity."
+    },
+    {
+      "q": "Which three biases distort our sense of population growth?",
+      "a": [
+        "Straight-line, fear and size",
+        "Gap, blame and urgency",
+        "Negativity, destiny and single cause",
+        "Confirmation, anchoring and priming"
+      ],
+      "why": "Lesson 2 names the straight-line, fear and size instincts."
+    },
+    {
+      "q": "What does Rosling recommend for seeing the world accurately?",
+      "a": [
+        "Seek multiple perspectives, including through travel",
+        "Rely on one trusted news source",
+        "Follow expert opinion polls closely",
+        "Avoid media coverage altogether"
+      ],
+      "why": "Lesson 3 says multiple viewpoints keep us out of black-and-white thinking."
+    }
+  ]
+}

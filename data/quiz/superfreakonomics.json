@@ -1,0 +1,56 @@
+{
+  "book": "superfreakonomics",
+  "title": "Superfreakonomics",
+  "questions": [
+    {
+      "q": "What does the law of unintended consequences describe?",
+      "a": [
+        "Behaviors that appear after an incentive in ways nobody planned",
+        "Rewards that work exactly as their designers intended",
+        "The habit of ignoring data that contradicts your view",
+        "The hidden costs of running a large organization"
+      ],
+      "why": "Lesson 1 says incentives always carry side effects that were never part of the plan."
+    },
+    {
+      "q": "How did many Germans respond to less frequent trash pickup and volume-based fees?",
+      "a": [
+        "They dumped rubbish in the woods and flushed food down toilets",
+        "They recycled far more carefully than before",
+        "They bought smaller bins and started composting",
+        "They complained but changed little about their habits"
+      ],
+      "why": "Lesson 1 says the waste incentives backfired and people found creative ways around the new system."
+    },
+    {
+      "q": "What does omitted variable bias mean?",
+      "a": [
+        "A key factor has been left out of the analysis",
+        "The sample is too small to be reliable",
+        "The data covers too short a period of time",
+        "A correlation has been mistaken for a cause"
+      ],
+      "why": "Lesson 2 describes it as leaving a crucial factor out of your analysis entirely."
+    },
+    {
+      "q": "What actually explained the link between chocolate consumption and Nobel laureates?",
+      "a": [
+        "Wealthier, better-educated countries also buy more luxury foods",
+        "Chocolate directly improves brain performance",
+        "Nobel winners tend to live in colder climates",
+        "The data came from far too few countries"
+      ],
+      "why": "Lesson 2 uses the chocolate example to show a hidden factor driving both numbers."
+    },
+    {
+      "q": "Why does the book say you should always collect more data?",
+      "a": [
+        "The most revealing findings only surface in large amounts of it",
+        "More data automatically proves a causal relationship",
+        "Large datasets remove the need for careful analysis",
+        "Surveys are only useful when they reach everyone"
+      ],
+      "why": "Lesson 3 says rare and missing data points only appear once you have gathered a great deal."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-sleep-solution",
+  "title": "The Sleep Solution",
+  "questions": [
+    {
+      "q": "What system becomes 60% more active during sleep to clear brain waste?",
+      "a": [
+        "Glymphatic system",
+        "Lymphatic system",
+        "Circulatory system",
+        "Endocrine system"
+      ],
+      "why": "The glymphatic system is noted as 60% more active during sleep."
+    },
+    {
+      "q": "Which toxin linked to Alzheimer's is cleared more efficiently when sleeping?",
+      "a": [
+        "Amyloid‑beta",
+        "Tau protein",
+        "Alpha‑synuclein",
+        "Prion protein"
+      ],
+      "why": "Amyloid‑beta is the toxin removed by the glymphatic system during sleep."
+    },
+    {
+      "q": "What hormone is produced when eyes detect darkness, promoting sleep?",
+      "a": [
+        "Melatonin",
+        "Cortisol",
+        "Adrenaline",
+        "Serotonin"
+      ],
+      "why": "Darkness triggers melatonin production, making you sleepy."
+    },
+    {
+      "q": "How is insomnia primarily characterized in the book?",
+      "a": [
+        "Frustration over poor sleep quality",
+        "Inability to fall asleep at all",
+        "Excessive daytime sleepiness",
+        "Total lack of REM sleep"
+      ],
+      "why": "Insomnia is described as frustration about unsatisfactory sleep, not total inability."
+    },
+    {
+      "q": "What is the first step in improving sleep hygiene according to the author?",
+      "a": [
+        "Preparing the sleep environment",
+        "Taking a warm bath",
+        "Drinking herbal tea",
+        "Doing light exercise"
+      ],
+      "why": "Preparation of the environment is identified as the first step for sleep hygiene."
+    }
+  ]
+}

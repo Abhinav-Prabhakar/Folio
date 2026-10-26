@@ -1,0 +1,56 @@
+{
+  "book": "iwoz",
+  "title": "iWoz",
+  "questions": [
+    {
+      "q": "What did Woz's father do that helped shape his passion for electronics?",
+      "a": [
+        "He brought Steve to work and explained physics in kid-friendly ways",
+        "He bought Steve his first factory-built personal computer",
+        "He enrolled Steve in a private school for young engineers",
+        "He hired tutors to teach Steve programming after class"
+      ],
+      "why": "Lesson 1 says his father took him to work and explained physics with simple diagrams and stories."
+    },
+    {
+      "q": "When Woz found his college computer course taught only FORTRAN, what did he do?",
+      "a": [
+        "He taught himself six other programming languages",
+        "He switched his major to mathematics instead",
+        "He asked the department to add several new courses",
+        "He dropped out to work at a computer company"
+      ],
+      "why": "Lesson 2 says FORTRAN was not enough, so he learned and experimented with six more languages."
+    },
+    {
+      "q": "What was the Cream Soda Computer?",
+      "a": [
+        "A working computer Woz built himself from a circuit board",
+        "A software program he sold to his university",
+        "A video game he designed for a science fair",
+        "A kit he assembled together with his father"
+      ],
+      "why": "Lesson 2 says it was really just a circuit board, but still an actual, usable computer he built."
+    },
+    {
+      "q": "Which values does the summary say Woz adopted in childhood?",
+      "a": [
+        "Fairness, honesty, kindness and a good sense of humor",
+        "Ambition, competition, discipline and thrift",
+        "Loyalty, patience, piety and modesty",
+        "Curiosity, independence, courage and thrift"
+      ],
+      "why": "Lesson 1 lists these as the values that shaped his later way in life."
+    },
+    {
+      "q": "How did Woz treat his early Apple shares?",
+      "a": [
+        "He sold them to early employees for five dollars each",
+        "He held every share until the company went public",
+        "He traded them for a management position at Apple",
+        "He donated all of them to his former university"
+      ],
+      "why": "Lesson 3 says he gave ten million dollars of shares to early employees for five dollars apiece."
+    }
+  ]
+}

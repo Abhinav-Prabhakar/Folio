@@ -1,0 +1,31 @@
+{
+  "book": "mind-over-clutter",
+  "title": "Mind Over Clutter",
+  "questions": [
+    {
+      "q": "What does research link living in a cluttered home to?",
+      "a": ["Higher levels of the stress hormone cortisol", "Lower sensitivity to everyday noise", "Faster recovery from a lack of sleep", "Stronger immune system responses"],
+      "why": "Lesson 1 says cortisol is higher in cluttered homes, raising the risk of anxiety and depression."
+    },
+    {
+      "q": "What small daily habit does the summary suggest to begin decluttering?",
+      "a": ["Making your bed each morning", "Clearing one cupboard shelf", "Throwing out one item per hour", "Cleaning the kitchen before bed"],
+      "why": "Lesson 1 recommends one little win, starting with making the bed each day."
+    },
+    {
+      "q": "Which items does the summary say you should keep when sorting a room?",
+      "a": ["Only things you use about once a month or more", "Anything that still works properly", "Everything with sentimental value", "Items you might need some day"],
+      "why": "Lesson 2 says to keep only what you use at most once a month and to throw things away ruthlessly."
+    },
+    {
+      "q": "Why does the summary call the bedroom one of the most important rooms to declutter?",
+      "a": ["Clutter there makes it hard to sleep well", "Guests see it more often than other rooms", "It usually holds the most valuable items", "It is the easiest room to clean quickly"],
+      "why": "Lesson 2 says a cluttered bedroom distracts you at bedtime and should become a sleep sanctuary."
+    },
+    {
+      "q": "What is the problem with many common cleaning products, according to the summary?",
+      "a": ["They release harmful gases called VOCs", "They leave a sticky film on surfaces", "They cost far more than natural options", "They stop working after a few months"],
+      "why": "Lesson 3 says volatile organic compounds pollute indoor air and can harm children."
+    }
+  ]
+}

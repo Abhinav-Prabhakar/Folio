@@ -1,0 +1,56 @@
+{
+  "book": "the-alchemist",
+  "title": "The Alchemist",
+  "questions": [
+    {
+      "q": "What is a Personal Legend in the story?",
+      "a": [
+        "The unique dream or calling you are meant to pursue",
+        "A treasure map passed down through families",
+        "A prophecy given by the gypsy woman",
+        "The trade you inherit from your parents"
+      ],
+      "why": "Lesson 1 says Melchizedek uses the phrase for the boy's calling."
+    },
+    {
+      "q": "Why does the crystal merchant remain where he is?",
+      "a": [
+        "He knows his dream but is too afraid to pursue it",
+        "He has already achieved his Personal Legend",
+        "He doubts the boy's omens",
+        "He cannot afford the journey to Egypt"
+      ],
+      "why": "Lesson 2 contrasts his fear with the boy's decision to keep going."
+    },
+    {
+      "q": "What happens once you commit to your dream, per the summary?",
+      "a": [
+        "The universe helps, though difficulties still come",
+        "Obstacles vanish and the path turns easy",
+        "You no longer need teachers or mentors",
+        "Your fear disappears completely and permanently"
+      ],
+      "why": "Lesson 1 says the universe conspires, but not without problems."
+    },
+    {
+      "q": "Where is Santiago's treasure finally found?",
+      "a": [
+        "Back in Spain, under the tree from his first dream",
+        "Beneath the pyramids in Egypt",
+        "In the oasis of Al-Fayoum",
+        "In the crystal merchant's shop"
+      ],
+      "why": "Lesson 3 says a robber's dream reveals the true location."
+    },
+    {
+      "q": "What is the summary's message about falling?",
+      "a": [
+        "Getting up more often than you fall means you never fail",
+        "A single fall can undo years of progress",
+        "You should avoid any risk that could make you fall",
+        "Only talented people recover from failure quickly"
+      ],
+      "why": "Lesson 3 quotes the idea of falling seven times and rising eight."
+    }
+  ]
+}

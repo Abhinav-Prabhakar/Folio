@@ -1,0 +1,56 @@
+{
+  "book": "the-lessons-of-history",
+  "title": "The Lessons of History",
+  "questions": [
+    {
+      "q": "According to the text, why do humans tend to cooperate?",
+      "a": [
+        "Because it gives them a competitive edge",
+        "Because they are naturally altruistic",
+        "Because governments require it of them",
+        "Because it is a biological instinct"
+      ],
+      "why": "Lesson on equality explains humans cooperate because it gives a competitive edge."
+    },
+    {
+      "q": "What does Will Durant say about human nature over time?",
+      "a": [
+        "It hasn't changed all that much",
+        "It has evolved significantly in the last 5,000 years",
+        "It is primarily driven by biological changes",
+        "It differs greatly between ancient and modern people"
+      ],
+      "why": "Lesson on social evolution quotes Will Durant saying human nature hasn't changed much."
+    },
+    {
+      "q": "According to the text, how often has Earth been free of war?",
+      "a": [
+        "Less than 10% of the time",
+        "Less than 25% of the time",
+        "Less than 50% of the time",
+        "Less than 5% of the time"
+      ],
+      "why": "Lesson on war states Earth has been free of war less than 10% of the time."
+    },
+    {
+      "q": "What has changed tremendously in the past 5,000 years according to the text?",
+      "a": [
+        "Economics, politics, technology, and morals",
+        "Basic human desires like eating and sleeping",
+        "The fundamental structure of human genes",
+        "The biological capacity for cooperation"
+      ],
+      "why": "Lesson on social evolution lists economics, politics, technology, and morals as what changed."
+    },
+    {
+      "q": "What does the text say about trying to bend humans into averages?",
+      "a": [
+        "It is useless because we thrive when embracing uniqueness",
+        "It is effective if done gradually over time",
+        "It works best when combined with financial incentives",
+        "It is necessary to maintain social cooperation"
+      ],
+      "why": "Lesson on equality states trying to bend humans into averages is useless."
+    }
+  ]
+}

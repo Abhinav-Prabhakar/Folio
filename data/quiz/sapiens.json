@@ -1,0 +1,56 @@
+{
+  "book": "sapiens",
+  "title": "Sapiens",
+  "questions": [
+    {
+      "q": "What did the Cognitive Revolution give early humans?",
+      "a": [
+        "Better brains that allowed language and cooperation",
+        "Larger bodies and much stronger muscles",
+        "The ability to farm immediately",
+        "A written alphabet and a system of money"
+      ],
+      "why": "Lesson 1 says the revolution around 70,000 years ago brought mental development that let humans communicate and work together."
+    },
+    {
+      "q": "Why was language so important for our species?",
+      "a": [
+        "It let people share information and cooperate flexibly",
+        "It made hunting tools unnecessary",
+        "It ended all conflict between groups",
+        "It allowed people to live alone safely"
+      ],
+      "why": "Lesson 1 says language spread ideas, helping people share lessons about food and predators and cooperate as a society."
+    },
+    {
+      "q": "What did the Agricultural Revolution lead to?",
+      "a": [
+        "A rapid explosion in population",
+        "The end of trade networks",
+        "A long decline in food production",
+        "The disappearance of language"
+      ],
+      "why": "Lesson 1 says farming was more efficient than hunting and gathering and let the population grow dramatically."
+    },
+    {
+      "q": "Why did money and writing become necessary?",
+      "a": [
+        "Barter became inefficient as societies grew",
+        "Farmers refused to trade with craftsmen",
+        "Governments banned all bartering",
+        "People forgot how to make tools"
+      ],
+      "why": "Lesson 2 shows barter failing once a farmer might lack a pig or a knife, and how records and currency solved that."
+    },
+    {
+      "q": "What does the summary say about child mortality today?",
+      "a": [
+        "Only about one in 1,000 children dies in childhood",
+        "Two or three children die in even rich families",
+        "It has stayed the same for centuries",
+        "It is higher now than in the past"
+      ],
+      "why": "Lesson 3 contrasts the past, when even wealthy families lost children, with today's rate of about one in 1,000."
+    }
+  ]
+}

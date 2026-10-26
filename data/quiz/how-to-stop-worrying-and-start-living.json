@@ -1,0 +1,56 @@
+{
+  "book": "how-to-stop-worrying-and-start-living",
+  "title": "How To Stop Worrying And Start Living",
+  "questions": [
+    {
+      "q": "What three steps does Carnegie recommend for clearing confusion?",
+      "a": [
+        "Get the facts, analyze them, then decide",
+        "Rest, exercise, then revisit the problem",
+        "Talk it out, forget it, then move on",
+        "Write a list, delegate it, then review it"
+      ],
+      "why": "Lesson 1 lays out gathering facts, analyzing options and committing to a decision."
+    },
+    {
+      "q": "In the Galen Litchfield story, which option did he choose?",
+      "a": [
+        "Act as if nothing had happened",
+        "Flee the country immediately",
+        "Explain himself to the admiral",
+        "Hide the valuable items"
+      ],
+      "why": "Lesson 1 says Litchfield decided to carry on normally, and the feared punishment never came."
+    },
+    {
+      "q": "What is a stop-loss in the summary's advice?",
+      "a": [
+        "A preset limit that caps how much you will lose",
+        "A list of every possible thing that could go wrong",
+        "A rule for avoiding all financial risk",
+        "A timer for making decisions quickly"
+      ],
+      "why": "Lesson 2 borrows the trading term to mean setting a firm boundary on worry and grief."
+    },
+    {
+      "q": "What does the summary suggest doing with criticism?",
+      "a": [
+        "See it as proof you are on track",
+        "Argue back until the critic concedes",
+        "Ignore all feedback completely",
+        "Collect it and review it once a year"
+      ],
+      "why": "Lesson 3 says most critics are envious, so criticism can indicate you are doing something right."
+    },
+    {
+      "q": "Why does the summary say people criticize others?",
+      "a": [
+        "They feel threatened by your success",
+        "They want to help improve your work",
+        "They are paid to evaluate performance",
+        "They enjoy debating small topics"
+      ],
+      "why": "Lesson 3 says people offer opinions to feel better about themselves when they envy you."
+    }
+  ]
+}

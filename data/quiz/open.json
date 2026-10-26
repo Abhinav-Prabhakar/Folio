@@ -1,0 +1,56 @@
+{
+  "book": "open",
+  "title": "Open",
+  "questions": [
+    {
+      "q": "Why did Agassi resent tennis as a child?",
+      "a": [
+        "His father pushed him relentlessly from a young age",
+        "He was injured and could not play for years",
+        "His coaches ignored his early talent",
+        "He preferred team sports to individual ones"
+      ],
+      "why": "Lesson 1 describes Agassi hitting thousands of balls daily while his father yelled instructions."
+    },
+    {
+      "q": "What did Agassi's father hope his son would win?",
+      "a": [
+        "An Olympic medal",
+        "A Wimbledon trophy",
+        "A college scholarship",
+        "A national junior title"
+      ],
+      "why": "Lesson 1 says his father's own Olympic failure made him determined that his son would win a medal."
+    },
+    {
+      "q": "What did Ivan Lendl say about young Agassi?",
+      "a": [
+        "That he was a haircut and forehand",
+        "That he would break every record",
+        "That he lacked any real talent",
+        "That he was the next Bjorn Borg"
+      ],
+      "why": "Lesson 2 quotes Ivan Lendl dismissing the young Agassi as a haircut and forehand."
+    },
+    {
+      "q": "What helped Agassi find purpose after hitting rock bottom?",
+      "a": [
+        "Founding a school for at-risk children",
+        "Winning his first Grand Slam title",
+        "Buying a house in Las Vegas",
+        "Retiring from professional tennis"
+      ],
+      "why": "Lesson 3 says building a school for at-risk children helped free him from self-loathing."
+    },
+    {
+      "q": "What does Agassi say about transformation at the end of his career?",
+      "a": [
+        "You are never a finished product and always in progress",
+        "Success ends once you retire from competition",
+        "Fame is the only real reward for an athlete",
+        "He had finally become a finished champion"
+      ],
+      "why": "Lesson 3 reports Agassi saying you can never be a finished product and everyone is in progress."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-a-positive-leader",
+  "title": "How To Be A Positive Leader",
+  "questions": [
+    {
+      "q": "What is a high-quality connection, as the book defines it?",
+      "a": [
+        "An exchange that leaves both people more energized",
+        "A meeting that finishes with a clear action list",
+        "A friendship that lasts for many years",
+        "A conversation where one person mentors the other"
+      ],
+      "why": "Lesson one describes these exchanges as ones where both people walk away feeling more energized."
+    },
+    {
+      "q": "What simple habit does the book recommend for better connections?",
+      "a": [
+        "Put away distractions and give the other person your full attention",
+        "Ask more questions than the other person does",
+        "Share your own stories to build rapport",
+        "Keep meetings short and focused on tasks"
+      ],
+      "why": "Lesson one suggests silencing your phone, closing your laptop and truly listening when someone talks to you."
+    },
+    {
+      "q": "What happened when university fundraisers spoke with a former scholarship recipient?",
+      "a": [
+        "Their motivation and donations rose significantly",
+        "They asked for a higher salary",
+        "They began to doubt the cause",
+        "They spent more time on paperwork"
+      ],
+      "why": "Lesson two cites a Michigan call center where meeting a student helped by their work boosted effort and results."
+    },
+    {
+      "q": "Whom does the book say you should connect with to find meaning in your work?",
+      "a": [
+        "The person who ultimately benefits from what you make",
+        "The manager who reviews your performance",
+        "The investor who funds your company",
+        "The colleague who shares your workload"
+      ],
+      "why": "Lesson two says to find the end user, not just the buyer, and introduce your coworkers to them too."
+    },
+    {
+      "q": "What question does the book suggest asking to test an ethical decision?",
+      "a": [
+        "Would I accept it appearing on tomorrow's front page?",
+        "Would my closest friend approve of this?",
+        "Would this decision increase company profits?",
+        "Would anyone ever find out about this?"
+      ],
+      "why": "Lesson three recommends imagining the consequences published in a major newspaper as a test of integrity."
+    }
+  ]
+}

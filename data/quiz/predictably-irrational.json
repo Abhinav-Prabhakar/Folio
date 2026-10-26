@@ -1,0 +1,56 @@
+{
+  "book": "predictably-irrational",
+  "title": "Predictably Irrational",
+  "questions": [
+    {
+      "q": "How do people usually judge what something is worth?",
+      "a": [
+        "By comparing it with whatever is nearby",
+        "By calculating its cost of production",
+        "By recalling what they paid last time",
+        "By asking an expert for a valuation"
+      ],
+      "why": "Lesson 1 says we are wired to compare, and we do it with whatever happens to be in front of us."
+    },
+    {
+      "q": "Why does adding a slightly worse option help sell your product?",
+      "a": [
+        "It gives buyers an easy comparison in your favor",
+        "It makes your price look negotiable",
+        "It signals that the product is in demand",
+        "It distracts buyers from checking reviews"
+      ],
+      "why": "Lesson 1 says offering a nearby but weaker alternative leads people to pick you more often."
+    },
+    {
+      "q": "In the chocolate study, what happened when the cheaper item became free?",
+      "a": [
+        "Most people chose the free kiss over the discounted truffle",
+        "Most people still chose the higher quality truffle",
+        "People split evenly between the two chocolates",
+        "Most people bought both chocolates together"
+      ],
+      "why": "Lesson 2 says cutting the kiss to zero made 90 percent choose it, though the price gap was unchanged."
+    },
+    {
+      "q": "Why is free such a powerful price, according to the summary?",
+      "a": [
+        "It removes any possible loss from the decision",
+        "It makes the product seem higher quality",
+        "It encourages people to buy in larger amounts",
+        "It makes buyers feel they owe a favor"
+      ],
+      "why": "Lesson 2 explains that free means the downside is zero, and we strongly avoid losses."
+    },
+    {
+      "q": "What is the endowment effect?",
+      "a": [
+        "We value things more once we own them",
+        "We prefer free items over cheap ones",
+        "We copy the choices of people around us",
+        "We overpay when we are in a hurry"
+      ],
+      "why": "Lesson 3 defines it as valuing what we own more highly, illustrated by the Duke basketball ticket lottery."
+    }
+  ]
+}

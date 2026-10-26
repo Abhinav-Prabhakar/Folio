@@ -1,0 +1,56 @@
+{
+  "book": "the-selfish-gene",
+  "title": "The Selfish Gene",
+  "questions": [
+    {
+      "q": "What is the basic unit of evolution according to Dawkins?",
+      "a": [
+        "Genes",
+        "Organisms",
+        "Species",
+        "Molecules"
+      ],
+      "why": "The book states genes are the basic unit of evolution."
+    },
+    {
+      "q": "Which game type describes a hawk chasing a dove?",
+      "a": [
+        "Zero-sum game",
+        "Non-zero-sum game",
+        "Cooperative game",
+        "Competitive game"
+      ],
+      "why": "A hawk vs. dove results in one winner and one loser, a zero-sum game."
+    },
+    {
+      "q": "What cultural element is compared to a gene in the text?",
+      "a": [
+        "Meme",
+        "Language",
+        "Religion",
+        "Art"
+      ],
+      "why": "The text says a meme is the basic element of culture, like a gene."
+    },
+    {
+      "q": "What strategy could increase survival for both hawks and doves?",
+      "a": [
+        "Conspiracy of doves",
+        "Mutual hunting",
+        "Resource sharing",
+        "Predator avoidance"
+      ],
+      "why": "The text mentions a conspiracy of doves could benefit both species."
+    },
+    {
+      "q": "Why does the author say culture is a separate evolutionary cycle?",
+      "a": [
+        "It evolved beyond instinctive survival thoughts",
+        "It is identical to genetic evolution",
+        "It is unrelated to biology",
+        "It is a random process"
+      ],
+      "why": "The text states culture evolved beyond instinctive survival driven by genes."
+    }
+  ]
+}

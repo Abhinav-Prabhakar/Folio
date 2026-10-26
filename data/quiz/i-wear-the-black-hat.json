@@ -1,0 +1,56 @@
+{
+  "book": "i-wear-the-black-hat",
+  "title": "I Wear The Black Hat",
+  "questions": [
+    {
+      "q": "What is the veil of ignorance exercise?",
+      "a": [
+        "Designing a society without knowing your place in it",
+        "Judging a villain without knowing the facts",
+        "Hiding your identity while arguing online",
+        "Imagining life without any moral rules"
+      ],
+      "why": "Lesson 1 says you create a society, then enter it with no control over your position."
+    },
+    {
+      "q": "What does the exercise reveal about morality?",
+      "a": [
+        "Moral labels are shaped by your environment",
+        "Most people prefer an unfair society",
+        "Moral rules are the same everywhere",
+        "Rules are impossible to create"
+      ],
+      "why": "Lesson 1 says we would design a fair society, showing how arbitrary our labels can be."
+    },
+    {
+      "q": "Why do people dislike Kim Dotcom?",
+      "a": [
+        "He changed how people consume media",
+        "He was convicted of supporting terrorism",
+        "He stole money from his investors",
+        "He refused to use the internet"
+      ],
+      "why": "Lesson 2 says he forced media companies to rethink their business and they resented it."
+    },
+    {
+      "q": "Why is Hitler often seen as more evil than Stalin?",
+      "a": [
+        "Familiar details make his crimes feel worse",
+        "He killed far more people than Stalin",
+        "Stalin's crimes were never documented",
+        "Hitler was never held responsible"
+      ],
+      "why": "Lesson 3 says familiarity makes Hitler relatable, so his crimes feel worse despite Stalin's higher toll."
+    },
+    {
+      "q": "What does the summary conclude about judging villains?",
+      "a": [
+        "Feelings do not always match the facts",
+        "Facts always determine our feelings",
+        "The worst villain is always the most familiar",
+        "History judges everyone accurately"
+      ],
+      "why": "Lesson 3 says how we feel about evildoers can diverge from what the facts show."
+    }
+  ]
+}

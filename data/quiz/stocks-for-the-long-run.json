@@ -1,0 +1,56 @@
+{
+  "book": "stocks-for-the-long-run",
+  "title": "Stocks for the Long Run",
+  "questions": [
+    {
+      "q": "According to Siegel, why can stocks be less risky than bonds over long periods?",
+      "a": [
+        "They deliver higher returns after inflation while bonds may lag behind it",
+        "They fluctuate less from one year to the next than bonds do",
+        "They are guaranteed by the companies that issue them",
+        "They pay a fixed rate that automatically rises with inflation"
+      ],
+      "why": "Lesson 1 says bonds are calmer but earn less over time and sometimes fail to keep up with inflation."
+    },
+    {
+      "q": "In the 1946 to 2001 comparison, how did bonds perform after inflation?",
+      "a": [
+        "They lost roughly 2.8% a year",
+        "They gained roughly 2.8% a year",
+        "They matched inflation almost exactly",
+        "They beat stocks in most of those years"
+      ],
+      "why": "Lesson 1 gives bonds an annual real return of about minus 2.8% over that period, against 6.8% for stocks."
+    },
+    {
+      "q": "What does the noisy market hypothesis say about stock prices?",
+      "a": [
+        "Trading for unrelated reasons pushes prices away from real value",
+        "Markets always price every stock at its true worth",
+        "Prices move only when a company reports new earnings",
+        "Investors behave rationally once they have full information"
+      ],
+      "why": "Lesson 2 says tax harvesting, rebalancing and profit taking can move prices away from intrinsic value."
+    },
+    {
+      "q": "What is the main advantage of an ETF according to the summary?",
+      "a": [
+        "It spreads your money across many companies and rides out pullbacks",
+        "It guarantees a fixed dividend every year",
+        "It lets you buy shares below their fair price",
+        "It is reserved for large institutional investors"
+      ],
+      "why": "Lesson 3 says an index ETF gives you a slice of every company in the index and withstands market pullbacks."
+    },
+    {
+      "q": "What characterizes a value stock in lesson 3?",
+      "a": [
+        "It trades under its fair price and comes from an overlooked company",
+        "It is expected to grow exponentially and usually trades at a premium",
+        "It tracks a market index and mirrors its performance",
+        "It pays the highest dividend of any stock in its sector"
+      ],
+      "why": "Lesson 3 contrasts value stocks with overvalued growth stocks and stresses a price below fair value."
+    }
+  ]
+}

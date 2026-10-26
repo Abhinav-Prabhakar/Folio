@@ -1,0 +1,56 @@
+{
+  "book": "the-wisdom-of-the-bullfrog",
+  "title": "The Wisdom of the Bullfrog",
+  "questions": [
+    {
+      "q": "What did the professors claim would help the US win in Afghanistan?",
+      "a": [
+        "Build roads to connect villages",
+        "Deploy more troops",
+        "Use drones",
+        "Increase funding"
+      ],
+      "why": "They said building roads would rally locals against Taliban."
+    },
+    {
+      "q": "What does McRaven say about building trust?",
+      "a": [
+        "It must be slow and steady",
+        "It can be done instantly",
+        "It's unnecessary",
+        "It's only for leaders"
+      ],
+      "why": "McRaven stresses trust takes time, not a quick button."
+    },
+    {
+      "q": "What does \"Sua Sponte\" mean in the context of the book?",
+      "a": [
+        "Acting of one's own accord",
+        "Following orders",
+        "Waiting for permission",
+        "Staying silent"
+      ],
+      "why": "The book explains the motto as acting without permission."
+    },
+    {
+      "q": "Which historical figure proved air power was vital?",
+      "a": [
+        "General Billy Mitchell",
+        "Admiral McRaven",
+        "Ralph Puckett",
+        "Leon Panetta"
+      ],
+      "why": "Mitchell advocated air power and was later vindicated."
+    },
+    {
+      "q": "What lesson does the author draw from the green‑felt table?",
+      "a": [
+        "Strategic decisions need careful review",
+        "Tables are unimportant",
+        "Green felt is symbolic",
+        "Decisions should be quick"
+      ],
+      "why": "The book mentions strategic decisions made at green‑felt tables."
+    }
+  ]
+}

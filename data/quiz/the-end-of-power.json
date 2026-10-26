@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-power",
+  "title": "The End Of Power",
+  "questions": [
+    {
+      "q": "What ratio of democracies to autocracies exists today?",
+      "a": [
+        "4 to 1",
+        "1 to 4",
+        "2 to 1",
+        "1 to 2"
+      ],
+      "why": "Today democracies outnumber autocracies four to one."
+    },
+    {
+      "q": "Which event illustrates power shifting from elites to ordinary people?",
+      "a": [
+        "Arab Spring",
+        "Fall of Berlin Wall",
+        "World War II",
+        "Cold War"
+      ],
+      "why": "Arab Spring shows power shift."
+    },
+    {
+      "q": "What is a benefit of increased power distribution?",
+      "a": [
+        "More market competition",
+        "Less freedom",
+        "Higher corruption",
+        "Weaker governance"
+      ],
+      "why": "More competition is a positive effect."
+    },
+    {
+      "q": "Which agreement requires governments to cooperate on climate?",
+      "a": [
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Nuclear Non‑proliferation Treaty"
+      ],
+      "why": "Paris Agreement is about reducing greenhouse gases."
+    },
+    {
+      "q": "How many sovereign states existed in 1947?",
+      "a": [
+        "67",
+        "193",
+        "100",
+        "50"
+      ],
+      "why": "There were 67 sovereign states in 1947."
+    }
+  ]
+}

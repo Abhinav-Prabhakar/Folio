@@ -1,0 +1,56 @@
+{
+  "book": "daily-rituals",
+  "title": "Daily Rituals",
+  "questions": [
+    {
+      "q": "What common habit do many productive artists and thinkers share?",
+      "a": [
+        "Working at a set time of day that suits them",
+        "Working only when inspiration suddenly strikes",
+        "Avoiding any fixed routine or workspace",
+        "Switching between day and night schedules constantly"
+      ],
+      "why": "Lesson 1 says successful people pick their best hours and concentrate work there."
+    },
+    {
+      "q": "Why can a warm drink in a favorite spot help before work?",
+      "a": [
+        "The brain links the ritual with getting into a working mood",
+        "Caffeine removes the need for sleep entirely",
+        "It raises intelligence for the rest of the day",
+        "It replaces the need for a consistent schedule"
+      ],
+      "why": "Lesson 1 says such rituals act like a pre-work warm-up that signals the brain to focus."
+    },
+    {
+      "q": "What did some authors do to find inspiration, according to lesson 2?",
+      "a": [
+        "Take long walks in nature, then hurry home to create",
+        "Wait at their desks until ideas arrive on their own",
+        "Copy the routines of whichever writer sold most",
+        "Only write during the hours they felt happiest"
+      ],
+      "why": "Lesson 2 describes writers walking until inspiration struck, then rushing home to work."
+    },
+    {
+      "q": "What does the summary say about copying a famous artist's creative process?",
+      "a": [
+        "There is no single right way, so find what works for you",
+        "Following their exact routine guarantees similar results",
+        "Only routines involving coffee have proven effective",
+        "Every writer should work in the morning like Mozart"
+      ],
+      "why": "Lesson 2 stresses that no method is universally right and that your muse may differ."
+    },
+    {
+      "q": "How can a partner or friend support creative work?",
+      "a": [
+        "By handling daily chores so more time goes to the craft",
+        "By criticizing drafts before anyone else can read them",
+        "By choosing which projects the artist should abandon",
+        "By keeping the artist away from social contact"
+      ],
+      "why": "Lesson 3 says loved ones ease the burden of mundane tasks and support mental well-being."
+    }
+  ]
+}

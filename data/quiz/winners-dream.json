@@ -1,0 +1,56 @@
+{
+  "book": "winners-dream",
+  "title": "Winners Dream",
+  "questions": [
+    {
+      "q": "What does McDermott say people quit rather than companies?",
+      "a": [
+        "Managers",
+        "Colleagues",
+        "Benefits",
+        "Locations"
+      ],
+      "why": "He states people quit managers, not companies."
+    },
+    {
+      "q": "According to the book, what is more enjoyable than reaching a goal?",
+      "a": [
+        "The journey",
+        "The reward",
+        "The title",
+        "The fame"
+      ],
+      "why": "He compares the process to the finish line."
+    },
+    {
+      "q": "What quality helps candidates stand out for a job?",
+      "a": [
+        "Passion and preparation",
+        "High GPA",
+        "Networking contacts",
+        "Technical certifications"
+      ],
+      "why": "Passion and preparation are highlighted as key."
+    },
+    {
+      "q": "What early career experience does McDermott describe?",
+      "a": [
+        "First job at Xerox",
+        "Internship at Google",
+        "Graduate research at MIT",
+        "Sales role at IBM"
+      ],
+      "why": "He recounts his first job interview with Xerox."
+    },
+    {
+      "q": "What does McDermott suggest leaders should learn about employees?",
+      "a": [
+        "Their lives and what matters",
+        "Their salary expectations",
+        "Their political views",
+        "Their favorite sports"
+      ],
+      "why": "He advises asking about home life and dreams."
+    }
+  ]
+}

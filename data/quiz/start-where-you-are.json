@@ -1,0 +1,56 @@
+{
+  "book": "start-where-you-are",
+  "title": "Start Where You Are",
+  "questions": [
+    {
+      "q": "What does Pema Chödrön say our experience of life depends on?",
+      "a": [
+        "Whether we choose to see each moment with joy or as a burden",
+        "How much we achieve compared with other people",
+        "The amount of time we spend planning ahead",
+        "Whether our childhood was happy or difficult"
+      ],
+      "why": "Lesson 1 says life is a string of small moments, and our experience hinges on how we choose to see them."
+    },
+    {
+      "q": "Why does the summary describe emptiness as a good thing?",
+      "a": [
+        "It releases us from labels and judgments that disturb our peace",
+        "It allows us to forget our responsibilities",
+        "It makes us more productive at work",
+        "It removes the need for other people"
+      ],
+      "why": "Lesson 2 says emptiness frees you from labels and judgments that cloud your vision."
+    },
+    {
+      "q": "What does the Zen story of the empty boat teach about anger?",
+      "a": [
+        "We invent reasons to be angry that do not exist in reality",
+        "Anger is always a reasonable response to being wronged",
+        "We should confront the people who upset us directly",
+        "Boats are a common source of frustration in daily life"
+      ],
+      "why": "Lesson 2 says the man shouted at an empty boat, just as we get angry at reasons we made up ourselves."
+    },
+    {
+      "q": "How did the two dying friends in the summary differ?",
+      "a": [
+        "One fought the void in despair while the other welcomed it in peace",
+        "One had family nearby while the other died alone",
+        "One was young and the other was elderly",
+        "One believed in rebirth while the other did not"
+      ],
+      "why": "Lesson 2 contrasts resisting emptiness with accepting it, which changes how each person meets death."
+    },
+    {
+      "q": "What benefit comes from letting go of the story you tell about yourself?",
+      "a": [
+        "You stop worrying about looking foolish when you fall short",
+        "You become more certain about who you really are",
+        "You gain a clearer plan for the future",
+        "You no longer need to meditate each day"
+      ],
+      "why": "Lesson 3 says dropping fixed beliefs about yourself removes the fear of embarrassment."
+    }
+  ]
+}

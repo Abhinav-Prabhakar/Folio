@@ -1,0 +1,56 @@
+{
+  "book": "loserthink",
+  "title": "Loserthink",
+  "questions": [
+    {
+      "q": "How does the summary suggest you use your ego?",
+      "a": [
+        "As a tool to upgrade your behavior and confidence",
+        "As a reason to ignore other people's advice",
+        "As proof that you are better than others",
+        "As a shield against ever taking a risk"
+      ],
+      "why": "The first lesson says you can use your ego to boost yourself through posture, body language and a confident tone."
+    },
+    {
+      "q": "Why is the past not a reliable guide to the future?",
+      "a": [
+        "Past events need not repeat, and our memories are subjective",
+        "The future changes faster than the past ever did",
+        "People forget most of what happened to them",
+        "History always follows predictable cycles"
+      ],
+      "why": "The second lesson says we assume patterns predict what comes next, though our memory is subjective and the brain favors safety."
+    },
+    {
+      "q": "What happens when you break a big project into micro-steps?",
+      "a": [
+        "You become more willing to start and more likely to finish",
+        "The project ends up taking much longer overall",
+        "You lose sight of the final goal",
+        "You need fewer deadlines to stay motivated"
+      ],
+      "why": "The summary says our readiness to start small, achievable projects is much greater than when facing a huge objective."
+    },
+    {
+      "q": "What is confirmation bias, as the summary describes it?",
+      "a": [
+        "Seeking information that supports what you already believe",
+        "Judging people mainly by their physical appearance",
+        "Drawing broad conclusions from very little evidence",
+        "Assuming the worst about strangers you meet"
+      ],
+      "why": "The third lesson defines confirmation bias as looking for and interpreting information to confirm your current beliefs."
+    },
+    {
+      "q": "What should you do when you have an assumption about someone?",
+      "a": [
+        "Ask them for clarification and look beyond appearance",
+        "Keep the assumption private and watch them closely",
+        "Avoid them until you find hard proof",
+        "Test the assumption with other people first"
+      ],
+      "why": "The third lesson advises asking the person for clarification and remaining open rather than judgmental."
+    }
+  ]
+}

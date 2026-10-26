@@ -1,0 +1,56 @@
+{
+  "book": "the-little-book-of-common-sense-investing",
+  "title": "The Little Book of Common Sense Investing",
+  "questions": [
+    {
+      "q": "What did Jack Bogle invent that simplifies investing?",
+      "a": [
+        "Index fund",
+        "Mutual fund",
+        "ETF",
+        "Bond fund"
+      ],
+      "why": "Bogle invented the index fund"
+    },
+    {
+      "q": "How many of the 355 mutual funds from 1970 remain today?",
+      "a": [
+        "34",
+        "100",
+        "200",
+        "50"
+      ],
+      "why": "The text states only 34 are left"
+    },
+    {
+      "q": "What is the main drawback of actively managed funds?",
+      "a": [
+        "High fees and poor performance",
+        "Low fees and high returns",
+        "Easy to predict returns",
+        "Guaranteed profits"
+      ],
+      "why": "Actively managed funds have high fees and uncertain returns"
+    },
+    {
+      "q": "Which fund has the lowest annual expense ratio mentioned?",
+      "a": [
+        "Fidelity Spartan Index fund",
+        "J.P. Morgan index fund",
+        "Vanguard Total Stock Market",
+        "Schwab U.S. Broad Market"
+      ],
+      "why": "The text cites Fidelity Spartan at 0.007%"
+    },
+    {
+      "q": "What does the book say about the long-term effect of fees on index funds?",
+      "a": [
+        "They accumulate and reduce returns",
+        "They boost returns",
+        "They have no effect",
+        "They eliminate risk"
+      ],
+      "why": "High fees erode long-term gains"
+    }
+  ]
+}

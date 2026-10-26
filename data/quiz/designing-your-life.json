@@ -1,0 +1,56 @@
+{
+  "book": "designing-your-life",
+  "title": "Designing Your Life",
+  "questions": [
+    {
+      "q": "What are the four fundamentals of life used to assess where you are?",
+      "a": [
+        "Health, work, play and love",
+        "Money, status, family and travel",
+        "Health, wealth, faith and friendship",
+        "Work, rest, learning and service"
+      ],
+      "why": "Lesson 1 lists health, work, play and love as the areas to balance."
+    },
+    {
+      "q": "What is the Good Time Journal for?",
+      "a": [
+        "Recording activities and how they make you feel, to find flow",
+        "Scheduling meetings so you never waste an hour",
+        "Tracking how much money you spend on leisure",
+        "Listing famous people whose careers you admire"
+      ],
+      "why": "Lesson 2 says the journal captures what energizes you and where you lose track of time."
+    },
+    {
+      "q": "What does flow feel like, according to the summary?",
+      "a": [
+        "Being so absorbed in an activity that time disappears",
+        "Feeling calm because nothing important is happening",
+        "Working quickly to clear a long list of tasks",
+        "Resting after a period of intense effort"
+      ],
+      "why": "Lesson 2 describes flow as being entranced by what you are doing."
+    },
+    {
+      "q": "Why does the book recommend keeping several possible paths open?",
+      "a": [
+        "Many different routes can lead to a fulfilling life",
+        "Only one path can ever produce real happiness",
+        "Having options lets you avoid committing to anything",
+        "A single plan always works out exactly as written"
+      ],
+      "why": "Lesson 3 says there is no single true path and options are worth exploring."
+    },
+    {
+      "q": "What happened to the young man who took three internships one after another?",
+      "a": [
+        "He enjoyed advising friends so much that he became a career counselor",
+        "He was hired full-time by the first company he tried",
+        "He decided that all three fields were wrong for him",
+        "He abandoned his career plans to travel instead"
+      ],
+      "why": "Lesson 3 uses his story to show how exploring several paths can reveal an unexpected direction."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "brainfluence",
+  "title": "Brainfluence",
+  "questions": [
+    {
+      "q": "Why does the summary say pictures of babies make advertisements more effective?",
+      "a": ["Infant faces trigger emotion almost instantly", "Babies are cheaper to photograph than adults", "Viewers feel guilty and keep looking away", "Baby images contain less text to read"],
+      "why": "Lesson 1 says the brain's emotional area responds within a few hundred milliseconds, an attention to infants that is hard-wired for survival."
+    },
+    {
+      "q": "Where should a baby in an ad be looking, according to the summary?",
+      "a": ["At the product or headline you want noticed", "Directly at the viewer at all times", "Away from the camera into empty space", "At another baby in the same picture"],
+      "why": "Lesson 1 cites James Breeze's finding that viewers follow the gaze of the person in an image, so the baby should look at the product."
+    },
+    {
+      "q": "What does the summary say about speaking into someone's right ear?",
+      "a": ["People tend to trust what they hear on that side", "It makes your voice sound louder to them", "It prevents them from remembering the request", "It works only in noisy nightclub settings"],
+      "why": "Lesson 2 cites Italian research showing that requests are more likely to succeed when delivered on the listener's right side."
+    },
+    {
+      "q": "What did Al Roth's ultimatum game research show about casual conversation?",
+      "a": ["Small talk sharply increased fair offers and reduced rejections", "Talking before the game made offers more selfish", "Conversation had no effect on the final outcome", "Participants who talked refused to split the money"],
+      "why": "Lesson 2 reports that letting participants talk produced 83 percent more fair offers and only 5 percent rejections."
+    },
+    {
+      "q": "Why does surprise capture attention so effectively, according to the summary?",
+      "a": ["It interrupts the brain's prediction of what comes next", "It overloads the senses so people stop thinking", "It makes familiar phrases easier to remember", "It triggers the same response as a baby's face"],
+      "why": "Lesson 3 says the hippocampus predicts events from cues, so something unexpected like a random word forces a reaction."
+    }
+  ]
+}

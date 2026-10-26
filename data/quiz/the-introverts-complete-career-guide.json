@@ -1,0 +1,56 @@
+{
+  "book": "the-introverts-complete-career-guide",
+  "title": "The Introvert’s Complete Career Guide",
+  "questions": [
+    {
+      "q": "How long do recruiters spend on a resume?",
+      "a": [
+        "Six seconds",
+        "One minute",
+        "Ten seconds",
+        "Five minutes"
+      ],
+      "why": "Recruiters look at a resume for about six seconds."
+    },
+    {
+      "q": "What technique helps interviewees avoid forgetting key points?",
+      "a": [
+        "SMART technique",
+        "STAR technique",
+        "PEEL technique",
+        "SOAR technique"
+      ],
+      "why": "The SMART technique is mentioned."
+    },
+    {
+      "q": "What percentage of new employees fail within 18 months?",
+      "a": [
+        "46 percent",
+        "30 percent",
+        "50 percent",
+        "20 percent"
+      ],
+      "why": "The text states 46 percent."
+    },
+    {
+      "q": "Which skill is an introvert's natural advantage?",
+      "a": [
+        "Observational skills",
+        "Public speaking",
+        "Networking",
+        "Leadership"
+      ],
+      "why": "Introverts excel at observation."
+    },
+    {
+      "q": "What should an introvert do to showcase skills on a resume?",
+      "a": [
+        "Highlight achievements",
+        "Use buzzwords",
+        "Add hobbies",
+        "Include references"
+      ],
+      "why": "Show achievements helps overcome modesty."
+    }
+  ]
+}

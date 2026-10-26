@@ -1,0 +1,56 @@
+{
+  "book": "the-box",
+  "title": "The Box",
+  "questions": [
+    {
+      "q": "Who invented the concept of container shipping?",
+      "a": [
+        "Malcolm McLean",
+        "John D. Rockefeller",
+        "Henry Ford",
+        "Thomas Edison"
+      ],
+      "why": "McLean, a trucking mogul, created it."
+    },
+    {
+      "q": "What problem did Vietnam's logistics face in 1965?",
+      "a": [
+        "Only one deepwater port and limited transport",
+        "A surplus of shipping lanes",
+        "Excessive trucking routes",
+        "Abundant rail networks"
+      ],
+      "why": "Vietnam had limited ports and rail."
+    },
+    {
+      "q": "Which company built the first container ship in 1973?",
+      "a": [
+        "Maersk",
+        "MSC",
+        "CMA CGM",
+        "Hapag-Lloyd"
+      ],
+      "why": "Maersk built the first container ship."
+    },
+    {
+      "q": "What economic effect did containerization have on insurance?",
+      "a": [
+        "Reduced insurance rates",
+        "Increased insurance premiums",
+        "No change",
+        "Eliminated insurance"
+      ],
+      "why": "Containers lowered insurance costs."
+    },
+    {
+      "q": "What was a major barrier to shipping before containers?",
+      "a": [
+        "Strict regulations and fixed rates",
+        "Unlimited routes",
+        "Free trade agreements",
+        "Advanced technology"
+      ],
+      "why": "Regulations and fixed rates hindered competition."
+    }
+  ]
+}

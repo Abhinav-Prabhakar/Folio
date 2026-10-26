@@ -1,0 +1,56 @@
+{
+  "book": "everyday-zen",
+  "title": "Everyday Zen",
+  "questions": [
+    {
+      "q": "What does loving your fate mean in Zen practice?",
+      "a": [
+        "Accepting your life as it is instead of waiting for later",
+        "Resisting hardship to build stronger character",
+        "Changing your circumstances before choosing happiness",
+        "Postponing joy until your goals are met"
+      ],
+      "why": "Lesson 1 says happiness comes from loving the life you already have."
+    },
+    {
+      "q": "Why does the summary suggest turning problems into decisions?",
+      "a": [
+        "You must choose anyway, so resistance only adds pressure",
+        "Decisions become easier when you avoid them",
+        "Problems disappear once you stop naming them",
+        "Other people should make big choices for you"
+      ],
+      "why": "Lesson 2 says decision-making is simply the nature of life."
+    },
+    {
+      "q": "What does impermanence represent in Zen, according to the summary?",
+      "a": [
+        "A kind of perfection that makes room for renewal",
+        "A flaw to overcome through discipline",
+        "A reason to fear the future",
+        "A cycle only plants and animals follow"
+      ],
+      "why": "Lesson 3 calls impermanence synonymous with perfection."
+    },
+    {
+      "q": "Which philosophy does the summary compare Zen groundedness to?",
+      "a": [
+        "Stoic acceptance of the present moment",
+        "Buddhist withdrawal from society",
+        "Western goal setting and ambition",
+        "Scientific rationalism and logic"
+      ],
+      "why": "Lesson 1 notes Zen is similar to Stoic philosophy."
+    },
+    {
+      "q": "How does the summary describe the role of death?",
+      "a": [
+        "It clears space so that life can restart",
+        "It should be ignored while you are young",
+        "It makes every effort meaningless",
+        "It only matters to elderly people"
+      ],
+      "why": "Lesson 3 says destruction allows life to recharge and restart."
+    }
+  ]
+}

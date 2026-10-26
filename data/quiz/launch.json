@@ -1,0 +1,56 @@
+{
+  "book": "launch",
+  "title": "Launch",
+  "questions": [
+    {
+      "q": "Why does the summary say an email list is so valuable?",
+      "a": [
+        "You own the contact information and can reach people directly",
+        "Email is the only free marketing channel available",
+        "Subscribers always buy on the very first message",
+        "Email lists grow quickly without any effort"
+      ],
+      "why": "Lesson 1 says platforms can close your account, but your list stays yours."
+    },
+    {
+      "q": "What is a squeeze page?",
+      "a": [
+        "A page with two choices: join the list for a gift or leave",
+        "A long sales page filled with customer testimonials",
+        "A blog archive listing all your older posts",
+        "A checkout page offering several products at once"
+      ],
+      "why": "Lesson 1 describes the simple opt-in page that starts a list."
+    },
+    {
+      "q": "What does the summary recommend for a pre-launch?",
+      "a": [
+        "Three valuable pieces of content spaced two to three days apart",
+        "Daily discount codes for an entire week",
+        "One long email sent on launch day",
+        "A silent countdown with no content at all"
+      ],
+      "why": "Lesson 2 says this builds anticipation the way a movie trailer does."
+    },
+    {
+      "q": "What is a seed launch?",
+      "a": [
+        "Selling an idea to a small list before building the product",
+        "Launching to thousands of strangers all at once",
+        "Testing a finished product after a year of development",
+        "Giving a product away free to collect reviews"
+      ],
+      "why": "Lesson 3 says you build only after enough people pay for the idea."
+    },
+    {
+      "q": "How large a list does the summary suggest for a seed launch?",
+      "a": [
+        "Fewer than 100 people",
+        "About 1,000 people",
+        "At least 10,000 people",
+        "Exactly 500 people"
+      ],
+      "why": "Lesson 3 says to approach people one-on-one and build a very small list first."
+    }
+  ]
+}

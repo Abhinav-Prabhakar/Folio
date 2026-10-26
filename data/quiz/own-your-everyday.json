@@ -1,0 +1,56 @@
+{
+  "book": "own-your-everyday",
+  "title": "Own Your Everyday",
+  "questions": [
+    {
+      "q": "What did Dooley's acne teach her?",
+      "a": [
+        "Hiding flaws makes the underlying problem worse",
+        "Makeup is the best way to build confidence",
+        "Skin problems are purely genetic",
+        "Success depends on looking perfect"
+      ],
+      "why": "Lesson 1 says covering her acne with makeup made it worse, just as hiding flaws deepens insecurity."
+    },
+    {
+      "q": "What is comparison-induced pressure?",
+      "a": [
+        "Stress from measuring yourself against others online",
+        "Pressure from bosses to outperform colleagues",
+        "The urge to compete in organized sports",
+        "A fear of speaking in public"
+      ],
+      "why": "Lesson 2 names comparison-induced pressure as the stress of measuring yourself against others."
+    },
+    {
+      "q": "How does Dooley suggest beating comparison?",
+      "a": [
+        "Recenter on your own purpose and notice your progress",
+        "Delete all social media permanently",
+        "Avoid the gym until you feel confident",
+        "Compete harder to prove yourself"
+      ],
+      "why": "Lesson 2 advises recentering on your purpose, such as getting fit rather than racing others."
+    },
+    {
+      "q": "What does the 10-10-10 rule ask you to consider?",
+      "a": [
+        "Consequences in 10 minutes, 10 weeks and 10 years",
+        "Ten goals, ten habits and ten rewards",
+        "Ten minutes of work every ten hours",
+        "Ten opinions gathered over ten days"
+      ],
+      "why": "Lesson 3 cites Suzy Welch's 10-10-10 rule for weighing consequences over three time spans."
+    },
+    {
+      "q": "What does Dooley recommend for a 30-day challenge?",
+      "a": [
+        "Avoid self-criticism and speak to yourself kindly",
+        "Exercise for thirty minutes every day",
+        "Post one honest photo each day",
+        "Write down ten compliments from others"
+      ],
+      "why": "Lesson 1 suggests a 30-day challenge of not criticizing yourself and treating yourself like a friend."
+    }
+  ]
+}

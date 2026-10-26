@@ -1,0 +1,56 @@
+{
+  "book": "on-writing-well",
+  "title": "On Writing Well",
+  "questions": [
+    {
+      "q": "According to Zinsser, what is the key to clear writing?",
+      "a": [
+        "Ruthlessly cut unnecessary words and phrases",
+        "Use as many fancy words as possible",
+        "Write long sentences to show depth",
+        "Cover several ideas in each paragraph"
+      ],
+      "why": "Lesson 1 says complex writing is bad writing and urges you to delete anything that does not serve the message."
+    },
+    {
+      "q": "Why does the summary advise spending extra time on beginnings?",
+      "a": [
+        "Readers who dislike the intro will not keep reading",
+        "Editors judge submissions mostly by the opening line",
+        "Beginnings are easier to write than endings",
+        "A strong opening removes the need for a conclusion"
+      ],
+      "why": "Lesson 2 warns that a terrible introduction stops readers no matter how good the rest is."
+    },
+    {
+      "q": "What does the summary compare a paragraph ending to?",
+      "a": [
+        "The cliffhanger at the end of a TV episode",
+        "The closing credits of a film",
+        "The headline of a news article",
+        "The summary at the end of a report"
+      ],
+      "why": "Lesson 2 compares a strong paragraph ending to the hook at the end of a TV episode."
+    },
+    {
+      "q": "What should a conclusion avoid doing, according to the summary?",
+      "a": [
+        "Summarizing the whole piece in detail",
+        "Recapping the benefits in a line or two",
+        "Reminding readers what they gained",
+        "Ending on a quick, clean note"
+      ],
+      "why": "Lesson 2 advises a brief review and recap of benefits rather than a long summary."
+    },
+    {
+      "q": "How does the summary say you can inspire readers?",
+      "a": [
+        "Write about subjects that genuinely interest you",
+        "Follow the prompts you were given in school",
+        "Write for the widest possible audience",
+        "Stick to topics that are proven to sell"
+      ],
+      "why": "Lesson 3 says passion for your subject shines through and makes readers connect with your work."
+    }
+  ]
+}

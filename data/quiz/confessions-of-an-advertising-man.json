@@ -1,0 +1,56 @@
+{
+  "book": "confessions-of-an-advertising-man",
+  "title": "Confessions Of An Advertising Man",
+  "questions": [
+    {
+      "q": "What rule does Ogilvy set for choosing clients?",
+      "a": [
+        "Only promote products you genuinely believe in",
+        "Only work with the largest brands in each category",
+        "Only accept clients who approve every idea",
+        "Only take accounts that pay their fees in advance"
+      ],
+      "why": "Lesson 1 says you must stand fully behind the product so you can write honest ads your own family could read."
+    },
+    {
+      "q": "What is the purpose of an advertisement, according to Ogilvy?",
+      "a": [
+        "To sell the product, not to entertain",
+        "To win awards for creative excellence",
+        "To build a lasting artistic reputation",
+        "To keep the agency's name in the press"
+      ],
+      "why": "Lesson 2 insists that laughter, inspiration and shock are side effects of good marketing, never its goal."
+    },
+    {
+      "q": "What does the summary say an ad should do if a moisturizer makes women over 35 look younger?",
+      "a": [
+        "Say exactly that, in plain and simple language",
+        "Use a clever pun that people will remember",
+        "Tell a story about beauty that avoids claims",
+        "Show a mysterious image with no explanation"
+      ],
+      "why": "Ogilvy's advice in Lesson 2 is to skip cleverness and state the benefit simply and directly."
+    },
+    {
+      "q": "Which three tools does Ogilvy use to grab and hold attention?",
+      "a": [
+        "Facts, intriguing images and research findings",
+        "Humor, celebrity endorsements and loud music",
+        "Slogans, coupons and free product samples",
+        "Fear, guilt and constant repetition"
+      ],
+      "why": "Lesson 3 outlines his three-pronged approach: give facts, use mysterious images and apply marketing research."
+    },
+    {
+      "q": "Why did Ogilvy's safety campaign for KLM work so well?",
+      "a": [
+        "No other airline was talking about safety at the time",
+        "It used a famous pilot as its spokesman",
+        "It offered the lowest fares in Europe",
+        "It ran only during the holiday season"
+      ],
+      "why": "The summary says safety was a given, but because competitors never mentioned it, KLM's campaign stood out."
+    }
+  ]
+}

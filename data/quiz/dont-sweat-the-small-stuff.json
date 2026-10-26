@@ -1,0 +1,31 @@
+{
+  "book": "dont-sweat-the-small-stuff",
+  "title": "Don’t Sweat The Small Stuff",
+  "questions": [
+    {
+      "q": "What does Carlson want you to remember about your life?",
+      "a": ["It is not an emergency", "It is a race against others", "It is a test you must pass", "It is a series of deadlines"],
+      "why": "Lesson 1 says we rush around as if driving an ambulance, when life is actually not an emergency."
+    },
+    {
+      "q": "What unusual exercise does the summary suggest for slowing down?",
+      "a": ["Make yourself bored on purpose", "Write down every task you finish", "Wake up an hour earlier each day", "Spend a day without speaking"],
+      "why": "Lesson 1 recommends forcing yourself to do nothing for an hour or two to rediscover peace."
+    },
+    {
+      "q": "When does the summary say you should give other people a break?",
+      "a": ["Especially when they seem to least deserve it", "Only after they apologise for their behaviour", "Whenever it costs you nothing", "When they have helped you before"],
+      "why": "Lesson 2 argues that people need kindness most when they are difficult, which makes both of you happier."
+    },
+    {
+      "q": "How should you decide when to relax, according to the summary?",
+      "a": ["Take a break whenever you actually need one", "Wait for the weekend or a holiday", "Save it up for a long annual vacation", "Only relax once your work is finished"],
+      "why": "Lesson 3 says relaxation should not be postponed to weekends and can happen even on busy days."
+    },
+    {
+      "q": "What thought experiment does the summary offer for dealing with frustrating people?",
+      "a": ["Imagine what their day might be like", "Picture how you would respond to them", "Recall a time you were equally slow", "Consider whether they are paid enough"],
+      "why": "Lesson 2 suggests putting yourself in the postal clerk's shoes to see life through their eyes."
+    }
+  ]
+}

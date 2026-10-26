@@ -1,0 +1,56 @@
+{
+  "book": "the-obstacle-is-the-way",
+  "title": "The Obstacle Is The Way",
+  "questions": [
+    {
+      "q": "What Stoic practice helps you handle things you cannot change?",
+      "a": [
+        "Accepting external events",
+        "Ignoring obstacles",
+        "Rationalizing failures",
+        "Seeking approval"
+      ],
+      "why": "Stoicism teaches acceptance of uncontrollable factors."
+    },
+    {
+      "q": "Which historical figure used a horse's weakness to overcome an obstacle?",
+      "a": [
+        "Alexander the Great",
+        "Julius Caesar",
+        "Cleopatra",
+        "Leonidas"
+      ],
+      "why": "Alexander exploited Bucephalus's fatigue."
+    },
+    {
+      "q": "What mental shift allows you to see solutions to others' problems?",
+      "a": [
+        "Objective perspective",
+        "Emotional reaction",
+        "Defensive reasoning",
+        "Selective attention"
+      ],
+      "why": "Viewing problems objectively reveals clear actions."
+    },
+    {
+      "q": "According to Holiday, what fuels persistence after gaining perspective?",
+      "a": [
+        "Willpower",
+        "Luck",
+        "Talent",
+        "Resources"
+      ],
+      "why": "Will enables continued effort toward a solution."
+    },
+    {
+      "q": "What does the book suggest about the size of an obstacle?",
+      "a": [
+        "Larger obstacles have exploitable weak spots",
+        "Bigger obstacles are unsolvable",
+        "Size correlates with risk only",
+        "Size determines effort needed"
+      ],
+      "why": "Big obstacles often contain a vulnerable point to use."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "hooked",
+  "title": "Hooked",
+  "questions": [
+    {
+      "q": "Why does Eyal say habit-forming products become so successful?",
+      "a": [
+        "They become part of daily life and are hard to replace",
+        "They are always cheaper than competing products",
+        "They rely on aggressive advertising campaigns",
+        "They offer more features than any rival product"
+      ],
+      "why": "Lesson 1 says such products turn into routines, creating loyal customers and a strong edge over competitors."
+    },
+    {
+      "q": "Why can makers of habit-forming products raise prices without losing much business?",
+      "a": [
+        "Their customers are less sensitive to price changes",
+        "Their products cost very little to manufacture",
+        "Their competitors are legally barred from undercutting them",
+        "Their customers rarely compare prices before buying"
+      ],
+      "why": "Lesson 1 says loyalty and the difficulty of replacing a habit make customers less responsive to price."
+    },
+    {
+      "q": "What kind of rewards keep users coming back to a product?",
+      "a": [
+        "Variable rewards that change over time",
+        "A single large reward given at sign-up",
+        "Predictable rewards offered on a fixed schedule",
+        "Rewards that require paying an extra fee"
+      ],
+      "why": "Lesson 2 says rewards must vary to stay effective, citing mice that kept seeking a changing reward."
+    },
+    {
+      "q": "What does the Facebook news feed illustrate about habit-forming products?",
+      "a": [
+        "Uncertain rewards keep people scrolling in hope of something great",
+        "Social pressure makes people check the app every hour",
+        "A clean design matters more than the content itself",
+        "Notifications are the only reason users return"
+      ],
+      "why": "Lesson 2 says the feed works because you never know when a rewarding post will appear."
+    },
+    {
+      "q": "Which two questions does Eyal suggest asking before making a product habit-forming?",
+      "a": [
+        "Does it improve users' lives, and would I use it?",
+        "Will it grow fast, and can it attract investors?",
+        "Is it unique, and can competitors copy it?",
+        "Does it save time, and will it retain users?"
+      ],
+      "why": "Lesson 3 says a product should be habit-forming only if it makes life better and you would use it yourself."
+    }
+  ]
+}

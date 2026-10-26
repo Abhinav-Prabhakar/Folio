@@ -1,0 +1,56 @@
+{
+  "book": "the-adhd-advantage",
+  "title": "The ADHD Advantage",
+  "questions": [
+    {
+      "q": "Roughly how many people diagnosed with ADHD may not have it?",
+      "a": [
+        "About one in six",
+        "About one in twenty",
+        "About one in three",
+        "About one in fifty"
+      ],
+      "why": "Lesson 1 says up to 1.1 million of 6.4 million diagnoses may be wrong."
+    },
+    {
+      "q": "Why is ADHD so often misdiagnosed, according to the summary?",
+      "a": [
+        "The criteria are outdated and observers make the call",
+        "Testing equipment is too costly for most clinics",
+        "Symptoms only appear in adulthood",
+        "Parents exaggerate their children's behavior"
+      ],
+      "why": "Lesson 1 notes a short checklist, observed children and few specialists."
+    },
+    {
+      "q": "What does the summary say about ADHD medication?",
+      "a": [
+        "It is overprescribed and can bring serious side effects",
+        "It is the safest option for most children",
+        "It works best when started in adulthood",
+        "It has no effect on growth or appetite"
+      ],
+      "why": "Lesson 2 warns about addiction and effects on growth and weight."
+    },
+    {
+      "q": "How can exercise help children with ADHD?",
+      "a": [
+        "It sharpens focus and plays to their strengths in team sports",
+        "It tires them out so they sit still in class",
+        "It removes the need for structure at home",
+        "It mainly helps them sleep through the night"
+      ],
+      "why": "Lesson 3 says activity before class aids focus and suits their shifting attention."
+    },
+    {
+      "q": "What advantage does the summary link to ADHD?",
+      "a": [
+        "Lateral thinking that produces creative connections",
+        "A stronger memory for details and routines",
+        "Greater patience with repetitive tasks",
+        "A natural ability to follow strict schedules"
+      ],
+      "why": "Lesson 3 points to inventive solutions and unusual combinations as strengths."
+    }
+  ]
+}

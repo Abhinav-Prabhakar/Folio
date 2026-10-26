@@ -1,0 +1,31 @@
+{
+  "book": "cant-hurt-me",
+  "title": "Can’t Hurt Me",
+  "questions": [
+    {
+      "q": "What does Goggins mean by the 40% rule?",
+      "a": ["We quit at 40% of our capacity and have more to give", "We should train only 40% of the time", "Forty percent of success comes from talent", "We should rest after 40 minutes of work"],
+      "why": "Lesson 3 says people surrender after using only 40% of their maximum power, leaving most of their ability untapped."
+    },
+    {
+      "q": "What did Goggins do after seeing a documentary about the Navy SEALs?",
+      "a": ["Lost 109 pounds in three months to qualify", "Joined the Air Force instead", "Started a fitness YouTube channel", "Began training for a marathon"],
+      "why": "Lesson 1 describes him shedding 109 pounds in three months, well past the weight limit for SEAL training."
+    },
+    {
+      "q": "How does Goggins suggest you handle a bad hand in life?",
+      "a": ["Look for the advantages the difficulty gives you", "Focus on what you would change about it", "Wait until conditions improve before acting", "Talk it through with a professional"],
+      "why": "Lesson 1 says hardships build strength, like lifting weights, so you should mine them for what they give you."
+    },
+    {
+      "q": "What does Goggins call the part of the mind that sets limits and fears risk?",
+      "a": ["The governor", "The compass", "The anchor", "The critic"],
+      "why": "Lesson 2 describes the governor as the mental mechanism that knows your limits and feeds on insecurity."
+    },
+    {
+      "q": "When does Goggins say victory is often decided?",
+      "a": ["When you give your best while feeling your worst", "When you are rested and fully prepared", "When your opponent is caught unprepared", "When you have a clear written plan"],
+      "why": "Lesson 2 quotes Goggins saying victory comes down to bringing your very best when you feel your worst."
+    }
+  ]
+}

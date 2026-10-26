@@ -1,0 +1,56 @@
+{
+  "book": "finite-and-infinite-games",
+  "title": "Finite and Infinite Games",
+  "questions": [
+    {
+      "q": "What separates a finite game from an infinite one?",
+      "a": [
+        "A finite game has fixed players and rules and ends with a winner",
+        "A finite game has no audience, while an infinite game has one",
+        "A finite game changes its rules, while an infinite game keeps them",
+        "A finite game is played for fun, while an infinite game is played for money"
+      ],
+      "why": "Lesson 1 says finite games end in a winner, while infinite games aim to keep going."
+    },
+    {
+      "q": "Why is a career closer to an infinite game than a job is?",
+      "a": [
+        "It has no fixed rules or final winner, and the work can outlast you",
+        "It always involves competing directly against other people",
+        "It ends at a clear moment when a title has been earned",
+        "It requires an audience to approve every major decision"
+      ],
+      "why": "Lesson 1 contrasts a job's titles and money with a career's open-ended play."
+    },
+    {
+      "q": "What does Carse say about being forced to play a game?",
+      "a": [
+        "No one can force you, so you can quit a game at any time",
+        "Audiences can pressure players into finishing what they start",
+        "Only children are free to leave a game once it begins",
+        "Rules make quitting impossible until a winner is declared"
+      ],
+      "why": "Lesson 2 says feeling trapped is something we convince ourselves of."
+    },
+    {
+      "q": "Which activity does the summary call the ultimate infinite game?",
+      "a": [
+        "Storytelling, because anyone can take it up and change it",
+        "Politics, because it never produces a final winner",
+        "Sports, because records can always be broken later",
+        "Money, because wealth can keep growing without limit"
+      ],
+      "why": "Lesson 3 says a story has a life of its own and cannot be stopped."
+    },
+    {
+      "q": "Which examples does the summary give of people quitting a finite game?",
+      "a": [
+        "Minimalists, nomadic freelancers and singles in communes",
+        "Retired athletes, former politicians and wealthy investors",
+        "Students, apprentices and new employees",
+        "Artists, musicians and full-time writers"
+      ],
+      "why": "Lesson 2 lists them as people who stepped away from status-driven scripts."
+    }
+  ]
+}

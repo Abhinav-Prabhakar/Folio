@@ -1,0 +1,56 @@
+{
+  "book": "bold",
+  "title": "Bold",
+  "questions": [
+    {
+      "q": "What does Moore's law describe, according to the summary?",
+      "a": [
+        "Computing power doubling roughly every twelve months",
+        "The cost of software falling every two years",
+        "Internet speeds tripling with each new generation",
+        "The number of technology users doubling annually"
+      ],
+      "why": "Moore noticed that twice as many transistors could fit on a chip of the same size."
+    },
+    {
+      "q": "What point does the smartphone comparison with a 1970 supercomputer make?",
+      "a": [
+        "Powerful technology is now cheap and widely available",
+        "Phones have replaced every other kind of computer",
+        "Supercomputers remain necessary for innovation",
+        "Technology has stopped becoming more affordable"
+      ],
+      "why": "The phone is far cheaper and far more powerful, showing how far exponential growth has come."
+    },
+    {
+      "q": "Which two technologies does the summary identify as huge opportunities?",
+      "a": [
+        "Artificial intelligence and sensors",
+        "Robotics and drones",
+        "Biotechnology and 3D printing",
+        "Solar power and batteries"
+      ],
+      "why": "The summary says these areas can scale exponentially and will have enormous impact."
+    },
+    {
+      "q": "What are the three features of a skunk works operation?",
+      "a": [
+        "One clear goal, no bureaucracy, and an isolated team",
+        "A large budget, many managers, and public fanfare",
+        "A flexible goal, strict oversight, and open offices",
+        "A secret goal, outside investors, and remote workers"
+      ],
+      "why": "The original Skunk Works built a jet fighter in 143 days with these conditions."
+    },
+    {
+      "q": "Why does the summary recommend creating a skunk works for your idea?",
+      "a": [
+        "To learn quickly whether it works instead of dabbling for years",
+        "To attract investors before building a prototype",
+        "To avoid sharing credit with your employer",
+        "To qualify for government research funding"
+      ],
+      "why": "A focused burst of work reveals whether an idea holds up in the real world."
+    }
+  ]
+}

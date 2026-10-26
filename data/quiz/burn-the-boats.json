@@ -1,0 +1,31 @@
+{
+  "book": "burn-the-boats",
+  "title": "Burn the Boats",
+  "questions": [
+    {
+      "q": "What does burning the boats mean in Higgins's metaphor?",
+      "a": ["Removing retreat so you must commit to Plan A", "Preparing a fallback before you begin", "Quitting a stable job to travel the world", "Cutting ties with people who doubt you"],
+      "why": "The overview explains that a general destroyed his own boats to eliminate retreat, leaving only one option."
+    },
+    {
+      "q": "According to Higgins, what does merely considering a Plan B do?",
+      "a": ["It lowers the odds that Plan A will succeed", "It makes Plan A easier to achieve", "It keeps your options open and safe", "It sharpens your decision-making"],
+      "why": "The overview quotes Higgins saying that contemplating a backup sets off a loop that makes the main plan less likely."
+    },
+    {
+      "q": "What bold move did Higgins make at sixteen?",
+      "a": ["He left high school and entered college two years early", "He started his first investment firm", "He became New York's youngest press secretary", "He joined the Miami Dolphins front office"],
+      "why": "Lesson 1 describes him dropping out, passing the GED and starting college early to earn more money sooner."
+    },
+    {
+      "q": "What does Higgins suggest you do with anxiety before a big moment?",
+      "a": ["Accept it and work with it instead of denying it", "Suppress it and focus only on the task", "Wait for it to pass before taking action", "Avoid the situation until you feel calm"],
+      "why": "Lesson 2 says denying anxiety backfires; Higgins turned his own nerves into excitement through positive self-talk."
+    },
+    {
+      "q": "Which principle does Higgins offer for taking on new adventures?",
+      "a": ["Big leaps over incremental gains", "Slow and steady improvement", "Always keep a fallback option", "Learn mainly from your failures"],
+      "why": "Lesson 3 lists big leaps over incremental gains, urging readers to think bigger rather than settle for small steps."
+    }
+  ]
+}

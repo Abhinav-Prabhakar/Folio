@@ -1,0 +1,56 @@
+{
+  "book": "super-brain",
+  "title": "Super Brain",
+  "questions": [
+    {
+      "q": "What does the summary say about the claim that we use only 10% of our brain?",
+      "a": [
+        "It is false and has no scientific backing",
+        "It is true, but only for young children",
+        "It applies only during deep sleep",
+        "It has been confirmed by recent brain scans"
+      ],
+      "why": "The overview calls the 10% idea a myth, while noting that we still fail to use our brain fully."
+    },
+    {
+      "q": "How do Tibetan monks demonstrate control over their bodies?",
+      "a": [
+        "They raise their body temperature through intense meditation",
+        "They slow their heart rate almost to a stop",
+        "They go for weeks with barely any sleep",
+        "They heal broken bones without medical treatment"
+      ],
+      "why": "Lesson 1 says monks can warm themselves in freezing conditions by controlling the messages their brain sends."
+    },
+    {
+      "q": "How is the same feedback-loop idea applied to stroke survivors?",
+      "a": [
+        "Repeated messages and focused tasks help damaged pathways repair",
+        "Drugs are used to rebuild the severed nerve pathways",
+        "Patients rest completely until the brain rewires itself",
+        "Surgeons reroute healthy tissue to replace the damage"
+      ],
+      "why": "Lesson 1 describes therapists training the brain with repetition while patients focus hard on simple tasks."
+    },
+    {
+      "q": "What did the face-recognition study suggest about intuition?",
+      "a": [
+        "People recognized faces better after a split-second look",
+        "People recognized faces better after long study",
+        "People could not recognize faces without analysis",
+        "People remembered faces better when described in words"
+      ],
+      "why": "Lesson 2 says participants did better at spotting the target face when they saw the pictures only briefly."
+    },
+    {
+      "q": "What did the 50-year study of 10,000 graduates find about volunteering?",
+      "a": [
+        "Those who volunteered lived longer than those who did not",
+        "Volunteers reported more stress but better moods",
+        "Volunteering had no measurable effect on lifespan",
+        "Volunteers were less likely to marry"
+      ],
+      "why": "Lesson 3 says the graduates who did volunteer work outlived those who skipped it."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-joy-of-missing-out",
+  "title": "The Joy of Missing Out",
+  "questions": [
+    {
+      "q": "What does the author claim about being busy versus being productive?",
+      "a": [
+        "Busy does not equal productive",
+        "Busy always means productive",
+        "Productivity requires constant busyness",
+        "Being busy guarantees success"
+      ],
+      "why": "The overview states that being busy does not equal being productive."
+    },
+    {
+      "q": "Why should we avoid trying to balance every life area perfectly?",
+      "a": [
+        "Time is limited, so priorities must shift",
+        "Balance is easy to achieve",
+        "All areas need equal effort",
+        "Balance prevents growth"
+      ],
+      "why": "The text says life isn't perfectly balanced and you cannot give equal time to everything."
+    },
+    {
+      "q": "What habit does the author suggest for better nutrition?",
+      "a": [
+        "Add a piece of fruit to breakfast",
+        "Skip meals entirely",
+        "Eat only once a day",
+        "Drink only water"
+      ],
+      "why": "The habit example mentions including a piece of fruit in daily breakfast for healthier eating."
+    },
+    {
+      "q": "How does the author define the purpose of taking breaks?",
+      "a": [
+        "To recharge the brain and prevent burnout",
+        "To waste time",
+        "To avoid work completely",
+        "To finish tasks faster"
+      ],
+      "why": "The break section explains pauses help the brain recharge and avoid burnout."
+    },
+    {
+      "q": "What metaphor illustrates prioritizing tasks?",
+      "a": [
+        "Juggling three balls, two are more important",
+        "Running a marathon alone",
+        "Climbing a ladder step by step",
+        "Building a house brick by brick"
+      ],
+      "why": "The text uses the three‑ball juggling metaphor to show two tasks are more important at any moment."
+    }
+  ]
+}

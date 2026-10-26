@@ -1,0 +1,31 @@
+{
+  "book": "green-illusions",
+  "title": "Green Illusions",
+  "questions": [
+    {
+      "q": "What is Zehner's main criticism of wind power?",
+      "a": ["Making and moving turbines takes lots of conventional energy", "Wind is not actually a renewable resource", "Turbines produce too little electricity to matter", "Turbines are banned in most countries"],
+      "why": "Lesson 1 says turbine production and transport use so much energy that the carbon footprint can match fossil fuels."
+    },
+    {
+      "q": "Why does hydrogen not solve the transportation problem?",
+      "a": ["Making hydrogen fuel needs more energy than the cell provides", "Hydrogen cars emit more CO2 than gasoline cars", "Fuel cells are too small to power a car", "Hydrogen cannot be stored in a vehicle"],
+      "why": "Lesson 1 says refrigeration and high pressure make hydrogen production extremely energy-hungry."
+    },
+    {
+      "q": "What does the Jevons Paradox describe?",
+      "a": ["Efficiency gains can raise total energy use, not lower it", "Economic growth always reduces energy demand", "Energy prices fall when supply increases", "New technology replaces old technology completely"],
+      "why": "Lesson 2 says more efficient engines made coal cheaper and more popular, so use rose."
+    },
+    {
+      "q": "Why does the author say energy reduction ideas get ignored?",
+      "a": ["They cannot be sold, so they do not fit a productivist economy", "They are too expensive for governments to enforce", "People do not understand how they work", "They have been proven ineffective in practice"],
+      "why": "Lesson 2 says an economy focused on producing and selling things cannot commercialize using less."
+    },
+    {
+      "q": "Which measure does the summary credit with holding California's energy use flat?",
+      "a": ["Cost penalties on products that require heavy energy use", "A tax on household income and savings", "Subsidies for new wind and solar farms", "A ban on building new factories"],
+      "why": "Lesson 3 says California's penalties on energy-heavy products kept per-capita use stable."
+    }
+  ]
+}

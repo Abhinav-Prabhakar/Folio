@@ -1,0 +1,56 @@
+{
+  "book": "extraordinary-influence",
+  "title": "Extraordinary Influence",
+  "questions": [
+    {
+      "q": "What is affirmation, as Irwin describes it?",
+      "a": [
+        "Strengthening people by focusing on their strengths and values",
+        "Rewarding results with bonuses and awards",
+        "Correcting mistakes quickly and privately",
+        "Setting clear targets for every employee"
+      ],
+      "why": "Lesson 1 says affirmation means speaking in a way that fortifies others."
+    },
+    {
+      "q": "What did the 2005 study find about affirmation?",
+      "a": [
+        "It lowers stress and improves problem solving",
+        "It raises confidence without changing performance",
+        "It has little effect on adults",
+        "It only works in sports settings"
+      ],
+      "why": "Lesson 1 cites the study's effect on stress and performance."
+    },
+    {
+      "q": "Why is public criticism harmful, according to the summary?",
+      "a": [
+        "It damages the brain's social reward connection and self-belief",
+        "It motivates others to avoid mistakes",
+        "It strengthens group cohesion over time",
+        "It is remembered only briefly"
+      ],
+      "why": "Lesson 2 links peer rejection to lasting damage."
+    },
+    {
+      "q": "How should a leader handle praise and criticism?",
+      "a": [
+        "Give praise publicly and feedback privately",
+        "Give both publicly for transparency",
+        "Give both privately to avoid tension",
+        "Avoid giving either to stay neutral"
+      ],
+      "why": "Lesson 2 says share praise in public and correct in private."
+    },
+    {
+      "q": "What is wrong with number-based performance reviews?",
+      "a": [
+        "They miss unmeasurable contributions and how work is done",
+        "They take too long to prepare each year",
+        "They favor junior employees over seniors",
+        "They reward teamwork too heavily"
+      ],
+      "why": "Lesson 3 says reviews should focus on how a person works."
+    }
+  ]
+}

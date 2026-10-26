@@ -1,0 +1,31 @@
+{
+  "book": "built-to-move",
+  "title": "Built to Move",
+  "questions": [
+    {
+      "q": "What does the Sit-and-Rise test measure?",
+      "a": ["Getting down to the floor and back up without support", "Holding your breath while standing still", "Balancing on one leg with your eyes closed", "Reaching your toes with straight legs"],
+      "why": "Lesson 1 describes lowering yourself into a cross-legged seat and rising again without using hands or knees."
+    },
+    {
+      "q": "What daily step count do the Starretts suggest working toward?",
+      "a": ["At least 8,000", "At least 2,000", "At least 15,000", "At least 25,000"],
+      "why": "Lesson 2 sets 8,000 to 10,000 steps as a solid, sustainable target for modern bodies."
+    },
+    {
+      "q": "How long should you track your steps before setting a target?",
+      "a": ["Three days in a row", "One full week", "One full month", "A single workday"],
+      "why": "Lesson 2 recommends counting from morning to night for three consecutive days to find your average."
+    },
+    {
+      "q": "What Sit-and-Rise score does the summary call ideal?",
+      "a": ["10", "5", "7", "3"],
+      "why": "Lesson 1 starts you at 10 and deducts points for struggles or support, with a perfect 10 as the goal."
+    },
+    {
+      "q": "What health benefit does the summary connect to regular squatting?",
+      "a": ["Up to 90% lower rates of hip arthritis", "Stronger neck and shoulder muscles", "Faster calorie burn than running", "Deeper and longer sleep"],
+      "why": "Lesson 3 cites a study linking the squat, common in Asian cultures, to far lower rates of hip arthritis."
+    }
+  ]
+}

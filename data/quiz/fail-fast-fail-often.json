@@ -1,0 +1,56 @@
+{
+  "book": "fail-fast-fail-often",
+  "title": "Fail Fast Fail Often",
+  "questions": [
+    {
+      "q": "What does the summary say lies behind feeling stuck in a rut?",
+      "a": [
+        "An underlying fear of failure",
+        "A lack of clear goals",
+        "Too many competing options",
+        "A shortage of mentors"
+      ],
+      "why": "Lesson 1 says the rut usually hides a fear of failing."
+    },
+    {
+      "q": "How does the summary describe success?",
+      "a": [
+        "It comes from seizing opportunities more than perfect planning",
+        "It follows a rigid multi-year plan",
+        "It depends mostly on luck",
+        "It requires removing every risk"
+      ],
+      "why": "Lesson 1 says a winning mentality matters more than rigorous planning."
+    },
+    {
+      "q": "How does failure help you, according to the summary?",
+      "a": [
+        "Analyzing mistakes builds skills for later attempts",
+        "It proves your goal was unrealistic",
+        "It teaches you to avoid new challenges",
+        "It lowers other people's expectations"
+      ],
+      "why": "Lesson 2 says reviewing each failure improves your soft skills."
+    },
+    {
+      "q": "What makes a goal more achievable?",
+      "a": [
+        "Binding it to a deadline and splitting it into steps",
+        "Keeping it private until it is done",
+        "Setting the bar as high as possible",
+        "Reviewing it only once a year"
+      ],
+      "why": "Lesson 3 recommends small objectives and a firm deadline."
+    },
+    {
+      "q": "What does productive failing require?",
+      "a": [
+        "Analyzing where your plan fell short",
+        "Failing as often as you possibly can",
+        "Ignoring the outcome entirely",
+        "Changing goals after each setback"
+      ],
+      "why": "Lesson 3 says failing only teaches when you study the gaps."
+    }
+  ]
+}

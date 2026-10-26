@@ -1,0 +1,56 @@
+{
+  "book": "same-as-ever",
+  "title": "Same as Ever",
+  "questions": [
+    {
+      "q": "What does the summary say you should base your decisions on?",
+      "a": [
+        "Human behavior, which stays stable over time",
+        "Forecasts about specific future events",
+        "Economic statistics from the last decade",
+        "Trends that appear in the news each day"
+      ],
+      "why": "Lesson 1 argues the world is unpredictable but people keep responding to fear, greed and opportunity in the same ways."
+    },
+    {
+      "q": "What point does Buffett's Snickers story make?",
+      "a": [
+        "Some things change while others never do",
+        "Candy bars are a risky investment",
+        "Advertising drives all consumer habits",
+        "Recessions destroy brand loyalty"
+      ],
+      "why": "The overview uses the same best-selling candy bar across decades to show that some things stay constant."
+    },
+    {
+      "q": "According to the summary, what moves markets more than statistics?",
+      "a": [
+        "Stories that people find compelling",
+        "Interest rate announcements",
+        "Quarterly earnings reports",
+        "Government regulations"
+      ],
+      "why": "Lesson 2 says a good narrative beats the best data, and humans prefer tales over tells."
+    },
+    {
+      "q": "What does the summary say about learning from other people's experience?",
+      "a": [
+        "Some lessons only sink in once you live them yourself",
+        "Reading about mistakes is enough to avoid them",
+        "Advice from friends replaces firsthand experience",
+        "Every generation learns from the one before it"
+      ],
+      "why": "Lesson 3 says certain things cannot be understood until you feel them, no matter how much you read or hear."
+    },
+    {
+      "q": "Which experiences does Housel say have to be firsthand?",
+      "a": [
+        "Big success and losing a large part of your money",
+        "Buying your first home and changing jobs",
+        "Raising children and traveling abroad",
+        "Starting a business and hiring staff"
+      ],
+      "why": "Lesson 3 names outsized success and a loss of 30 percent or more as things you must experience to understand."
+    }
+  ]
+}

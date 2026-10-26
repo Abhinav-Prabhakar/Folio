@@ -1,0 +1,56 @@
+{
+  "book": "the-age-of-cryptocurrency",
+  "title": "The Age Of Cryptocurrency",
+  "questions": [
+    {
+      "q": "Why does the summary treat Bitcoin as real money?",
+      "a": [
+        "People trust it and accept it for goods and services",
+        "Governments guarantee its value",
+        "It is backed by gold reserves",
+        "Banks issue it in limited amounts"
+      ],
+      "why": "Lesson 1 says it works for the same reason cash does: shared trust."
+    },
+    {
+      "q": "What is the blockchain?",
+      "a": [
+        "A public record of every Bitcoin transaction",
+        "A private database owned by miners",
+        "A central bank ledger of reserves",
+        "A program that solves mining equations"
+      ],
+      "why": "Lesson 2 describes it as an open ledger of all coins and transfers."
+    },
+    {
+      "q": "How are new Bitcoins created?",
+      "a": [
+        "Computers solve complex math problems to earn them",
+        "Central banks issue them on a schedule",
+        "Users vote on how many to release",
+        "Miners buy them from existing holders"
+      ],
+      "why": "Lesson 2 says only 21 million will ever exist, with the last mined around 2040."
+    },
+    {
+      "q": "What is one benefit of Bitcoin over credit cards?",
+      "a": [
+        "It removes middlemen and lowers transaction costs",
+        "It guarantees a stable and rising price",
+        "It lets banks verify every payment",
+        "It offers refunds when purchases fail"
+      ],
+      "why": "Lesson 3 says Bitcoin cuts out the companies that take a cut of each payment."
+    },
+    {
+      "q": "What drawback does the summary link to Bitcoin's anonymity?",
+      "a": [
+        "Criminals can move money that law enforcement cannot trace",
+        "Governments can freeze any wallet at will",
+        "Users must reveal their identities to trade",
+        "Transfers take longer than bank payments"
+      ],
+      "why": "Lesson 3 mentions Silk Road and the difficulty of investigating anonymous users."
+    }
+  ]
+}

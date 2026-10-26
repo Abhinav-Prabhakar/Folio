@@ -1,0 +1,56 @@
+{
+  "book": "permission-marketing",
+  "title": "Permission Marketing",
+  "questions": [
+    {
+      "q": "Why does the summary say interruption marketing no longer works?",
+      "a": [
+        "People's attention is too overloaded to notice ads",
+        "Advertisers can no longer afford television spots",
+        "Consumers now trust large brands more than before",
+        "Regulators have restricted how often ads may run"
+      ],
+      "why": "Lesson 1 says we see so many ads that our brains simply refuse to pay attention to any of them."
+    },
+    {
+      "q": "What are the three steps of permission marketing?",
+      "a": [
+        "Make an offer, build a relationship, then ask for a sale",
+        "Buy attention, repeat the message, then close quickly",
+        "Collect data, segment the list, then sell the data",
+        "Run an ad, measure the clicks, then raise the budget"
+      ],
+      "why": "Lesson 2 lays out the sequence: invite people with a unique offer, talk with them regularly, then ask for a sale."
+    },
+    {
+      "q": "Why is permission marketing described as far more effective?",
+      "a": [
+        "The people it reaches have opted in and are likelier to buy",
+        "It reaches a much larger audience than television did",
+        "It costs more per person, which signals quality",
+        "It removes the need to make any initial contact"
+      ],
+      "why": "Lesson 2 says the audience is far more likely to buy because they expressed interest voluntarily."
+    },
+    {
+      "q": "According to the summary, what always comes along with permission?",
+      "a": [
+        "A mission to keep the promise you made",
+        "A contract that locks in the relationship",
+        "A fee paid for each new subscriber",
+        "An exclusive claim on the customer's attention"
+      ],
+      "why": "Lesson 3 says that with permission comes a mission, so a promised coupon or ebook has to be delivered."
+    },
+    {
+      "q": "What promise does the Four Minute Books homepage make to subscribers?",
+      "a": [
+        "Seven new book summaries every Saturday",
+        "One new book summary every weekday",
+        "Five summaries delivered every Sunday",
+        "A monthly review of the best new books"
+      ],
+      "why": "Lesson 3 quotes the homepage promise of seven new summaries each Saturday, and says it is kept."
+    }
+  ]
+}

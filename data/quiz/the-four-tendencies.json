@@ -1,0 +1,56 @@
+{
+  "book": "the-four-tendencies",
+  "title": "The Four Tendencies",
+  "questions": [
+    {
+      "q": "Which tendency is described as the largest group in Gretchen Rubin's quiz?",
+      "a": [
+        "Obligers",
+        "Upholders",
+        "Questioners",
+        "Rebels"
+      ],
+      "why": "The text says the largest group are Obligers."
+    },
+    {
+      "q": "What is the main risk of treating the tendency framework as fixed?",
+      "a": [
+        "It becomes an excuse and limits change",
+        "It improves productivity",
+        "It guarantees success",
+        "It simplifies decision‑making"
+      ],
+      "why": "The warning is that stone‑walling the type can become an excuse."
+    },
+    {
+      "q": "Which tendency struggles most with putting others before themselves?",
+      "a": [
+        "Obligers",
+        "Upholders",
+        "Questioners",
+        "Rebels"
+      ],
+      "why": "Obligers are noted for always putting everyone else first."
+    },
+    {
+      "q": "What does the author say about the success of different tendencies?",
+      "a": [
+        "No type is inherently more successful",
+        "Upholders are the most successful",
+        "Rebels earn the most money",
+        "Questioners are happiest"
+      ],
+      "why": "Gretchen states no type is more successful or happier than another."
+    },
+    {
+      "q": "What early experience does the book use to illustrate growing expectations?",
+      "a": [
+        "Parents praising basic actions like eating",
+        "First day at school",
+        "First job interview",
+        "Winning a sports award"
+      ],
+      "why": "The text mentions parents celebrating eating, clapping for pooping, etc."
+    }
+  ]
+}

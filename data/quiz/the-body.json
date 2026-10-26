@@ -1,0 +1,56 @@
+{
+  "book": "the-body",
+  "title": "The Body",
+  "questions": [
+    {
+      "q": "How many neurons compose the human brain?",
+      "a": [
+        "86 billion",
+        "50 billion",
+        "100 billion",
+        "30 billion"
+      ],
+      "why": "The book states the brain has 86 billion neurons."
+    },
+    {
+      "q": "What percentage of the brain is water?",
+      "a": [
+        "75%",
+        "50%",
+        "90%",
+        "30%"
+      ],
+      "why": "The text notes 75% of the brain is water."
+    },
+    {
+      "q": "How many viruses are known to make humans sick?",
+      "a": [
+        "263",
+        "500",
+        "1000",
+        "2000"
+      ],
+      "why": "Only 263 of the hundreds of thousands of viruses cause disease."
+    },
+    {
+      "q": "What threshold did 2011 mark regarding disease deaths?",
+      "a": [
+        "More deaths from heart disease than viruses",
+        "More deaths from viruses than heart disease",
+        "Deaths from cancer surpassed all others",
+        "Deaths from infectious diseases doubled"
+      ],
+      "why": "In 2011, deaths from non‑communicable diseases exceeded those from communicable ones."
+    },
+    {
+      "q": "What role do gut microbes play in digestion?",
+      "a": [
+        "Produce most digestive enzymes",
+        "Digest food alone",
+        "Regulate sleep",
+        "Control heart rate"
+      ],
+      "why": "The book says microbes make the vast majority of digestive enzymes."
+    }
+  ]
+}

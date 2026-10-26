@@ -1,0 +1,56 @@
+{
+  "book": "rookie-smarts",
+  "title": "Rookie Smarts",
+  "questions": [
+    {
+      "q": "Why does the summary say rookies have an advantage at work?",
+      "a": [
+        "Knowledge changes fast and rookies are not set in their ways",
+        "Rookies have more experience than older workers",
+        "Rookies demand lower salaries than anyone else",
+        "Rookies already know the company's best practices"
+      ],
+      "why": "The overview says rapid change rewards learners who are not bound by the status quo."
+    },
+    {
+      "q": "What did Buckminster Fuller show about human knowledge?",
+      "a": [
+        "The time it takes to double keeps shrinking rapidly",
+        "Knowledge now doubles every hundred years",
+        "Knowledge has stopped growing since the internet",
+        "Most knowledge is lost within a century"
+      ],
+      "why": "Lesson 1 traces doubling times from 1,500 years down to about 12 months today."
+    },
+    {
+      "q": "What is opinion stasis in the summary?",
+      "a": [
+        "Being so settled in your views that change becomes hard",
+        "The habit of asking too many questions at work",
+        "A fear of speaking in front of a team",
+        "Refusing to learn from younger colleagues"
+      ],
+      "why": "Lesson 2 describes experienced people who struggle to change their ways and surround themselves with people who agree."
+    },
+    {
+      "q": "How do rookies sometimes outsmart experienced coworkers?",
+      "a": [
+        "By asking questions and seeking help from experts",
+        "By hiding their lack of knowledge from others",
+        "By working longer hours than everyone else",
+        "By copying whatever the team already does"
+      ],
+      "why": "Lesson 2 says rookies reach out to experts far more often, and that asking for help builds real expertise."
+    },
+    {
+      "q": "How can an experienced person regain rookie smarts?",
+      "a": [
+        "By putting themselves into learning mode again",
+        "By avoiding unfamiliar tasks at work",
+        "By mentoring younger employees only",
+        "By waiting for the company to retrain them"
+      ],
+      "why": "Lesson 3 says rookie smarts are a mindset anyone can cultivate by volunteering, swapping jobs or reading something new."
+    }
+  ]
+}

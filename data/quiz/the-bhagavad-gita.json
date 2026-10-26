@@ -1,0 +1,56 @@
+{
+  "book": "the-bhagavad-gita",
+  "title": "The Bhagavad Gita",
+  "questions": [
+    {
+      "q": "According to the summary, what does dharma mean for an individual?",
+      "a": [
+        "Their calling and the way their life should naturally unfold",
+        "The wealth a person accumulates over a lifetime",
+        "The ritual duties assigned by birth and social class",
+        "The emotional attachments that bind us to other people"
+      ],
+      "why": "Lesson 1 defines dharma as the nature of reality and, for a person, their call and the way their life is meant to occur."
+    },
+    {
+      "q": "What does the summary say happens when you follow someone else's dharma instead of your own?",
+      "a": [
+        "It brings pain and regret",
+        "It brings peace but little joy",
+        "It speeds up your self-discovery",
+        "It has no effect on your happiness"
+      ],
+      "why": "Lesson 1 warns that ignoring your own path hurts your soul, and that living someone else's path causes pain and regret."
+    },
+    {
+      "q": "How does the summary recommend approaching the goals you are working toward?",
+      "a": [
+        "Find meaning in the journey instead of fixating on the final prize",
+        "Set the biggest possible goal and ignore daily tasks",
+        "Wait for the perfect moment before starting anything",
+        "Judge each day only by how close you are to the end"
+      ],
+      "why": "Lesson 2 argues that constant anticipation makes life harder to enjoy, and that wisdom lies in finding happiness right now."
+    },
+    {
+      "q": "What does meditation train you to do, according to the summary?",
+      "a": [
+        "Control your mind and focus attention on what matters most",
+        "Suppress every emotion and desire permanently",
+        "Escape the present moment and live in your imagination",
+        "Memorize religious texts more quickly and accurately"
+      ],
+      "why": "Lesson 3 describes meditation as stopping negative thoughts and training your attention on what matters, which helps you stay focused on your dharma."
+    },
+    {
+      "q": "What does the summary call the purpose of the human journey?",
+      "a": [
+        "Discovering who you are and fulfilling your calling",
+        "Accumulating enough wealth to end daily struggle",
+        "Renouncing the world so you can avoid suffering",
+        "Meeting other people's expectations as fully as possible"
+      ],
+      "why": "The overview says our purpose is to discover who we are and kill our demons while fulfilling our calling."
+    }
+  ]
+}

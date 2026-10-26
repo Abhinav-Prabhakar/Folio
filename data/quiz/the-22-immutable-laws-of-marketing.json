@@ -1,0 +1,56 @@
+{
+  "book": "the-22-immutable-laws-of-marketing",
+  "title": "The 22 Immutable Laws Of Marketing",
+  "questions": [
+    {
+      "q": "What does the Law of Leadership say?",
+      "a": [
+        "Being first in a market makes leadership likely",
+        "The cheapest product usually wins the market",
+        "The best product always becomes the leader",
+        "Advertising matters more than timing"
+      ],
+      "why": "Lesson 1 describes the first mover advantage, which gives a product time ahead of rivals."
+    },
+    {
+      "q": "What should you do if a rival reached the market before you?",
+      "a": [
+        "Become the first brand in customers’ minds",
+        "Copy the leader’s product exactly",
+        "Undercut the leader on price",
+        "Wait for the leader to make a mistake"
+      ],
+      "why": "Lesson 1 explains the Law of the Mind, where the name people think of first tends to lead."
+    },
+    {
+      "q": "How did Walmart avoid competing head-on with existing retailers?",
+      "a": [
+        "It created the discount retail category",
+        "It opened stores only in small towns",
+        "It sold goods at a loss for years",
+        "It copied its rivals’ store formats"
+      ],
+      "why": "Lesson 2 says Sam Walton did not invent retailing but invented the discount retail chain."
+    },
+    {
+      "q": "What does the Law of Sacrifice say about offering many products?",
+      "a": [
+        "The more you offer, the less focus each one gets",
+        "The more you offer, the more customers return",
+        "Each extra product lowers your costs",
+        "Wide ranges protect you from rivals"
+      ],
+      "why": "Lesson 3 argues that specialists win, because focus is traded away with every extra product."
+    },
+    {
+      "q": "What does the Pepsi example teach about choosing an audience?",
+      "a": [
+        "Trying to appeal to everyone rarely works",
+        "Young buyers are always the most profitable",
+        "Older customers resist trying new brands",
+        "Rival brands should be imitated closely"
+      ],
+      "why": "Lesson 3 notes Pepsi did well with young people but could not win over committed Coke drinkers."
+    }
+  ]
+}

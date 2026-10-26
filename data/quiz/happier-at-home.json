@@ -1,0 +1,56 @@
+{
+  "book": "happier-at-home",
+  "title": "Happier At Home",
+  "questions": [
+    {
+      "q": "What two questions does the summary suggest asking about each possession at home?",
+      "a": [
+        "When did I last use this, and how much do I like it?",
+        "How much did this cost, and could I resell it?",
+        "Would a guest notice this, and does it match the room?",
+        "Who gave me this, and am I obliged to keep it?"
+      ],
+      "why": "Lesson 1 recommends picking up every item and asking when you last used it and how much you like it."
+    },
+    {
+      "q": "Besides filling the house, what does the summary say clutter does?",
+      "a": [
+        "It fills your mind and distracts you from what matters",
+        "It makes family members argue more often",
+        "It drains your energy through extra cleaning",
+        "It lowers the value of the home over time"
+      ],
+      "why": "Lesson 1 explains that a cluttered space also clutters the mind, leaving less room for important things."
+    },
+    {
+      "q": "How does Rubin recommend reacting when her daughter spills nail polish on the carpet?",
+      "a": [
+        "Calmly have the child look up how to remove the stain",
+        "Clean it up herself without saying anything",
+        "Send the child to her room for the evening",
+        "Replace the carpet and split the cost"
+      ],
+      "why": "Lesson 2 describes underreacting: she stayed calm, and her daughter found a cleaning method and learned a skill."
+    },
+    {
+      "q": "Where should you display the possessions you value most?",
+      "a": [
+        "Where you can see them every day",
+        "Stored safely out of direct sunlight",
+        "In a locked drawer for protection",
+        "Grouped together in the least used room"
+      ],
+      "why": "Lesson 1 advises keeping the possessions you care about most in plain sight, such as family photos on a main wall."
+    },
+    {
+      "q": "What does the summary say can start a friendship with a neighbor?",
+      "a": [
+        "Small gestures like sharing muffins or borrowing sugar",
+        "Inviting the whole street to a large party",
+        "Joining a formal neighborhood committee",
+        "Exchanging phone numbers during a meeting"
+      ],
+      "why": "Lesson 3 says great friendships often begin with simple exchanges such as baked goods or a borrowed cup of sugar."
+    }
+  ]
+}

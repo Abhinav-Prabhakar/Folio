@@ -1,0 +1,56 @@
+{
+  "book": "invent-wander",
+  "title": "Invent and Wander",
+  "questions": [
+    {
+      "q": "What is the Day 1 mentality?",
+      "a": [
+        "Keeping a newcomer's enthusiasm and creativity alive",
+        "Planning every project for a single day of work",
+        "Treating each quarter as a fresh financial year",
+        "Launching a product before it is fully ready"
+      ],
+      "why": "Lesson 1 says Bezos wants every day to feel like a first day, full of ideas and energy."
+    },
+    {
+      "q": "Why does Bezos favor a broad, cross-disciplinary education?",
+      "a": [
+        "It helps you spot patterns across different fields",
+        "It looks impressive on a resume for investors",
+        "It lets you avoid hiring specialists at all",
+        "It guarantees a higher starting salary"
+      ],
+      "why": "Lesson 1 says wide knowledge lets you recognize patterns and solve problems in several areas."
+    },
+    {
+      "q": "Where does Amazon direct its efforts, according to the summary?",
+      "a": [
+        "At customers rather than at competitors",
+        "At beating rivals to every new market",
+        "At raising prices to fund expansion",
+        "At lobbying for friendlier regulations"
+      ],
+      "why": "Lesson 2 says Amazon puts its resources toward clients, unlike firms that study competitors."
+    },
+    {
+      "q": "What does Bezos mean by productive failure?",
+      "a": [
+        "Learn from mistakes and improve the next attempt",
+        "Fail fast enough that losses stay small",
+        "Avoid risk by copying what already works",
+        "Reward teams whose projects fall short"
+      ],
+      "why": "Lesson 3 says you cannot prevent failure, but you can study flaws and do better next time."
+    },
+    {
+      "q": "How far ahead does Bezos like to make decisions?",
+      "a": [
+        "About three years",
+        "About six months",
+        "About ten years",
+        "About five years"
+      ],
+      "why": "Lesson 3 says he plans roughly three years ahead, which let him prepare before rivals noticed."
+    }
+  ]
+}

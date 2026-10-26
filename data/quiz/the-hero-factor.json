@@ -1,0 +1,56 @@
+{
+  "book": "the-hero-factor",
+  "title": "The Hero Factor",
+  "questions": [
+    {
+      "q": "What is a hallmark of heroic leadership?",
+      "a": [
+        "Caring for people and profits equally",
+        "Only caring for profits",
+        "Only caring for people",
+        "Ignoring both"
+      ],
+      "why": "Authors state caring for both is key."
+    },
+    {
+      "q": "What example illustrates poor leadership?",
+      "a": [
+        "Starbucks manager calling police on waiting customers",
+        "CEO giving bonuses",
+        "Team meeting",
+        "Community outreach"
+      ],
+      "why": "The Starbucks incident shows poor values."
+    },
+    {
+      "q": "What lesson does the Sully story teach?",
+      "a": [
+        "Focus on relationships over benefits",
+        "Prioritize profit",
+        "Ignore safety",
+        "Avoid teamwork"
+      ],
+      "why": "The narrative emphasizes relationship focus."
+    },
+    {
+      "q": "What is required for solid income streams?",
+      "a": [
+        "Operational excellence",
+        "Random spending",
+        "Cutting costs",
+        "Ignoring competition"
+      ],
+      "why": "Authors mention operational excellence for revenue."
+    },
+    {
+      "q": "What does \"Do as I say, not as I do\" imply?",
+      "a": [
+        "Set an example",
+        "Give orders",
+        "Ignore values",
+        "Demand compliance"
+      ],
+      "why": "They argue leaders should model behavior."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "thoughts-without-a-thinker",
+  "title": "Thoughts Without A Thinker",
+  "questions": [
+    {
+      "q": "According to Epstein, what underlies many psychological disorders?",
+      "a": [
+        "A misguided sense of self",
+        "Lack of intelligence",
+        "Poor diet",
+        "Genetic defects"
+      ],
+      "why": "The book links distorted self‑concept to trauma."
+    },
+    {
+      "q": "Which tradition does Buddhism offer to alleviate the self‑problem?",
+      "a": [
+        "Meditation and mindfulness",
+        "Physical exercise",
+        "Dietary restrictions",
+        "Dream analysis"
+      ],
+      "why": "Buddhist meditation is presented as the solution."
+    },
+    {
+      "q": "What skill did John Cage develop from Buddhist practice?",
+      "a": [
+        "Bare attention to accept sounds",
+        "Rapid improvisation",
+        "Complex harmonic theory",
+        "Silent performance"
+      ],
+      "why": "Cage applied bare attention to use previously disliked noises."
+    },
+    {
+      "q": "What does mindfulness help individuals do with their emotions?",
+      "a": [
+        "Accept both good and bad feelings",
+        "Suppress all feelings",
+        "Amplify negative thoughts",
+        "Ignore bodily sensations"
+      ],
+      "why": "The text says mindfulness leads to peace with all emotions."
+    },
+    {
+      "q": "Which ancient teacher is mentioned as an early source on the self?",
+      "a": [
+        "The Buddha",
+        "Socrates",
+        "Confucius",
+        "Aristotle"
+      ],
+      "why": "Epstein notes Buddhist teachings predate Freud on self."
+    }
+  ]
+}

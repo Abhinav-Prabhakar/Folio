@@ -1,0 +1,56 @@
+{
+  "book": "the-100-startup",
+  "title": "The $100 Startup",
+  "questions": [
+    {
+      "q": "Which three things must come together to turn a passion into income?",
+      "a": [
+        "Passion, skills and customers",
+        "Passion, savings and luck",
+        "Skills, marketing and investors",
+        "Customers, advertising and scale"
+      ],
+      "why": "Lesson 1 says passion is only one third, alongside the skills you have and the people who pay."
+    },
+    {
+      "q": "What does the pizza example show about turning a passion into a business?",
+      "a": [
+        "Making pizza for paying guests turns a taste into a service",
+        "Food businesses are the cheapest and easiest to launch",
+        "Friends will always support a new venture generously",
+        "Enthusiasm alone is enough if you charge a low price"
+      ],
+      "why": "Lesson 1 contrasts enjoying pizza with making it for others who cannot do it themselves."
+    },
+    {
+      "q": "How does the summary suggest you treat costs in a microbusiness?",
+      "a": [
+        "As a way to prioritize what actually drives sales",
+        "As a problem best solved with outside funding",
+        "As the main measure of how well you are doing",
+        "As something to cut by hiring cheaper freelancers"
+      ],
+      "why": "Lesson 2 says limited money forces you to invest only where it directly drives revenue."
+    },
+    {
+      "q": "Which questions should a one-page business plan answer?",
+      "a": [
+        "What you sell, to whom, why they buy and how you are paid",
+        "Who your rivals are, your budget, your staff and your logo",
+        "Your mission, vision, values and long-term goals",
+        "How much you will earn, save, invest and donate"
+      ],
+      "why": "Lesson 3 reduces planning to those four practical questions and leaves the rest for later."
+    },
+    {
+      "q": "What does the author say to do with unsolicited business advice?",
+      "a": [
+        "Ignore it and trust your own judgment",
+        "Weigh it carefully with your family",
+        "Test it before deciding anything",
+        "Ask a mentor to evaluate it"
+      ],
+      "why": "Lesson 3 warns that everyone becomes an expert once you start, and tells you to do you."
+    }
+  ]
+}

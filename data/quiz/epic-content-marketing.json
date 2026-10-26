@@ -1,0 +1,56 @@
+{
+  "book": "epic-content-marketing",
+  "title": "Epic Content Marketing",
+  "questions": [
+    {
+      "q": "Why does the summary say interruptive ads like TV spots and direct mail fail?",
+      "a": [
+        "People care about themselves, not your product details",
+        "They cost more than any content ever could",
+        "They reach audiences that are too narrow",
+        "They are banned in most large markets"
+      ],
+      "why": "Lesson 1 says customers care about themselves and how you improve their lives."
+    },
+    {
+      "q": "What does Deere and Company's Furrow publication do?",
+      "a": [
+        "Solves customer problems while promoting its products",
+        "Mails discount catalogs to loyal farmers",
+        "Runs television spots during weather reports",
+        "Sponsors a racing team to build awareness"
+      ],
+      "why": "Lesson 1 describes articles that help customers and promote the brand."
+    },
+    {
+      "q": "What is a customer persona supposed to describe?",
+      "a": [
+        "The traits and needs of your ideal customer",
+        "The prices your competitors charge",
+        "The keywords with the highest search volume",
+        "The posting schedule for each platform"
+      ],
+      "why": "Lesson 2 says personas identify who your customer is and what they need."
+    },
+    {
+      "q": "Under the 4-1-1 technique, how should six shares be divided?",
+      "a": [
+        "Four influencer pieces, one of yours, one marketing item",
+        "Four marketing items, one influencer piece, one of yours",
+        "Three of yours, two influencer pieces, one marketing item",
+        "Two influencer pieces, two marketing items, two of yours"
+      ],
+      "why": "Lesson 3 credits Andrew Davis with the 4-1-1 split for social sharing."
+    },
+    {
+      "q": "Why can a niche site beat a huge platform for content marketing?",
+      "a": [
+        "It has a smaller audience but easier access to interested people",
+        "It ranks automatically on the first page of search",
+        "It requires no publishing plan or schedule",
+        "It charges less for advertising space"
+      ],
+      "why": "Lesson 3 says niche sites are easier for the right people to find."
+    }
+  ]
+}

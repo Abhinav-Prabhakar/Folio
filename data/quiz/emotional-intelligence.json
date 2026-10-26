@@ -1,0 +1,56 @@
+{
+  "book": "emotional-intelligence",
+  "title": "Emotional Intelligence",
+  "questions": [
+    {
+      "q": "Which two abilities does emotional intelligence rest on?",
+      "a": [
+        "Emotional self-awareness and self-regulation",
+        "Verbal fluency and mathematical reasoning",
+        "Optimism and physical resilience",
+        "Empathy and public speaking skill"
+      ],
+      "why": "Lesson 1 says the two parts of emotional intelligence are emotional self-awareness and emotional self-regulation."
+    },
+    {
+      "q": "What does emotional self-awareness involve?",
+      "a": [
+        "Recognizing and labeling what you are feeling",
+        "Hiding your feelings from other people",
+        "Feeling emotions more intensely than others",
+        "Explaining your feelings to anyone who asks"
+      ],
+      "why": "Lesson 1 defines self-awareness as being able to recognize and name your feelings, as children learn to do with anger."
+    },
+    {
+      "q": "What did Goleman find about students with more empathy?",
+      "a": [
+        "They earned better grades than equally smart peers",
+        "They preferred socializing to studying",
+        "They were less likely to finish their degrees",
+        "They scored lower on standard intelligence tests"
+      ],
+      "why": "Lesson 2 says students with higher empathy get better grades even when their peers are just as smart."
+    },
+    {
+      "q": "How does mirroring someone's body language help you?",
+      "a": [
+        "It builds rapport and makes you more empathic",
+        "It tricks them into agreeing with your opinions",
+        "It helps you hide your true emotional state",
+        "It makes you appear more dominant in a group"
+      ],
+      "why": "Lesson 3 says mirroring sends trust cues, shows you how the other person feels and builds empathy."
+    },
+    {
+      "q": "How does an optimist explain a failure?",
+      "a": [
+        "As temporary, external and something they can change",
+        "As permanent, personal and impossible to avoid",
+        "As proof that the task was never worth doing",
+        "As a result of other people's bad decisions"
+      ],
+      "why": "Lesson 3 says optimists see bad events as temporary, external and specific, and believe they can improve next time."
+    }
+  ]
+}

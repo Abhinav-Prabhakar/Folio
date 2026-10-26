@@ -1,0 +1,31 @@
+{
+  "book": "difficult-conversations",
+  "title": "Difficult Conversations",
+  "questions": [
+    {
+      "q": "Which three conversations does the summary say are happening at once in every hard exchange?",
+      "a": ["What happened, feelings, and identity", "Facts, solutions, and apologies", "Past, present, and future", "Blame, compromise, and trust"],
+      "why": "Lesson 1 breaks every difficult conversation into the What Happened, Feelings, and Identity conversations."
+    },
+    {
+      "q": "In the What Happened conversation, what should replace assigning blame?",
+      "a": ["Looking at how everyone contributed to the problem", "Agreeing on who was mostly at fault", "Setting aside the facts until later", "Letting the other person speak first"],
+      "why": "Lesson 2 recommends dropping the blame game and examining how each side played a part."
+    },
+    {
+      "q": "What does the summary mean by your emotional footprint?",
+      "a": ["The past experiences that shape how you react", "The feelings you leave others with after a talk", "The emotions you hide during a conflict", "The tone of voice you use when upset"],
+      "why": "Lesson 2 describes the emotional footprint as the reason behind your reactions, rooted in past experience."
+    },
+    {
+      "q": "What advice does the summary give for handling the Identity conversation?",
+      "a": ["Remember that your identity has many components", "Avoid discussing anything personal at work", "Decide firmly whether you are kind or mean", "Let the other person define who you are"],
+      "why": "Lesson 2 warns against absolute labels for yourself and suggests seeing identity as made of many parts."
+    },
+    {
+      "q": "How should a third story be told when opening a tricky conversation?",
+      "a": ["As an impartial observer of both sides", "From your own point of view, clearly stated", "Through a friend who speaks for you", "As a list of complaints and fixes"],
+      "why": "Lesson 3 says the third story belongs to neither side and is told like a neutral observer's account."
+    }
+  ]
+}

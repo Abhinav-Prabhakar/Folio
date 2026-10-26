@@ -1,0 +1,56 @@
+{
+  "book": "the-hot-zone",
+  "title": "The Hot Zone",
+  "questions": [
+    {
+      "q": "When was Ebola first discovered?",
+      "a": [
+        "1976",
+        "1980",
+        "1990",
+        "2000"
+      ],
+      "why": "The text states Ebola was first discovered in 1976."
+    },
+    {
+      "q": "Which cave is suspected as a source of Ebola?",
+      "a": [
+        "Kitum Cave",
+        "Lagos Cave",
+        "Nairobi Cave",
+        "Mombasa Cave"
+      ],
+      "why": "The book links Kitum Cave in Kenya to early Ebola cases."
+    },
+    {
+      "q": "What is a major symptom of Ebola that affects the brain?",
+      "a": [
+        "Brain liquefaction",
+        "Heart failure",
+        "Liver failure",
+        "Kidney failure"
+      ],
+      "why": "Ebola liquefies brain tissue, altering behavior and functions."
+    },
+    {
+      "q": "Which factor helped scientists suspect the cave as a source?",
+      "a": [
+        "Bat droppings",
+        "Water contamination",
+        "Human traffic",
+        "Rock formations"
+      ],
+      "why": "The cave's bat droppings are believed to carry the virus."
+    },
+    {
+      "q": "What recent evidence suggests Ebola can spread through air?",
+      "a": [
+        "Airborne transmission forms",
+        "Waterborne spread",
+        "Vector-borne spread",
+        "Zoonotic spread"
+      ],
+      "why": "The text mentions some Ebola forms may spread via airborne transmission."
+    }
+  ]
+}

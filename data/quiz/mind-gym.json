@@ -1,0 +1,31 @@
+{
+  "book": "mind-gym",
+  "title": "Mind Gym",
+  "questions": [
+    {
+      "q": "Which trait does the summary say allows you to compete even when you fear your rivals?",
+      "a": ["Courage", "Composure", "Consistency", "Competitiveness"],
+      "why": "Lesson 1 describes courage as the thing that enables you to be competitive in the first place."
+    },
+    {
+      "q": "Why does the summary say running at 90% effort can make you faster?",
+      "a": ["The opposing muscles fight you less at that pace", "Your body burns more fat at lower speeds", "You avoid the temptation to sprint too early", "Your stride becomes longer and more relaxed"],
+      "why": "Lesson 2 explains that at full effort the agonist and antagonist muscles struggle hardest against each other."
+    },
+    {
+      "q": "What role does an antagonist muscle play while you run?",
+      "a": ["It pulls back and slows your movement", "It pushes you forward with extra force", "It stores energy for the final sprint", "It relaxes so the joint can straighten"],
+      "why": "Lesson 2 says agonists push you forward while antagonists pull back and slow you down."
+    },
+    {
+      "q": "What three pillars does the summary say a good life should be built on?",
+      "a": ["Love, learning and labor", "Health, wealth and wisdom", "Focus, effort and reward", "Purpose, passion and praise"],
+      "why": "Lesson 3 suggests judging yourself by whether your life is filled with love, learning and labor."
+    },
+    {
+      "q": "Which of the three pillars does the summary say you have the most control over?",
+      "a": ["How much labor you put in", "How much natural talent you have", "How much luck comes your way", "How much time you are given"],
+      "why": "Lesson 3 says you cannot get more talent, luck or time, but you can always work more."
+    }
+  ]
+}

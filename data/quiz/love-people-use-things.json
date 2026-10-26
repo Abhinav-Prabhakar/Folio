@@ -1,0 +1,56 @@
+{
+  "book": "love-people-use-things",
+  "title": "Love People, Use Things",
+  "questions": [
+    {
+      "q": "What does consumerism promise but fail to deliver?",
+      "a": [
+        "Lasting fulfillment from buying more things",
+        "Closer relationships with family and friends",
+        "A simpler and freer way of living",
+        "More control over your own time"
+      ],
+      "why": "The first lesson says acquiring more only leads to wanting more, and the promised happy life never arrives."
+    },
+    {
+      "q": "What does minimalism involve beyond decluttering your home?",
+      "a": [
+        "Decluttering your mind and releasing toxic commitments",
+        "Buying only expensive, durable items",
+        "Living with almost no possessions at all",
+        "Avoiding social obligations whenever possible"
+      ],
+      "why": "The second lesson says true minimalism also means letting go of bad relationships, toxic friendships and the lies we tell ourselves."
+    },
+    {
+      "q": "Which of these is a foundational value, as the summary defines it?",
+      "a": [
+        "Health and marriage",
+        "Hobbies and interests",
+        "Independence and kindness",
+        "A favorite television series"
+      ],
+      "why": "Foundational values are the basic things that set the foundation for your life, such as health and marriage."
+    },
+    {
+      "q": "What does the summary call ordinary things that only look important?",
+      "a": [
+        "Imaginary values",
+        "Surface values",
+        "Structural values",
+        "Foundational values"
+      ],
+      "why": "The third lesson describes imaginary values as things like a favorite Netflix show, which seem important but are not."
+    },
+    {
+      "q": "What should you do before making an impulsive purchase?",
+      "a": [
+        "Check whether the item aligns with your core values",
+        "Wait a month and see whether you still want it",
+        "Compare prices at several different stores",
+        "Ask a friend for their honest opinion"
+      ],
+      "why": "The summary says to think through the four value categories before buying and drop the item if it only serves a surface or imaginary value."
+    }
+  ]
+}

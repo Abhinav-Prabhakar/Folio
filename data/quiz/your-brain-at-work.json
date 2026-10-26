@@ -1,0 +1,56 @@
+{
+  "book": "your-brain-at-work",
+  "title": "Your Brain At Work",
+  "questions": [
+    {
+      "q": "What happens to physical force when thinking hard?",
+      "a": [
+        "It drops 50%",
+        "It increases 50%",
+        "It stays the same",
+        "It doubles"
+      ],
+      "why": "The text cites a 1898 study showing 50% loss."
+    },
+    {
+      "q": "Why should you avoid multitasking?",
+      "a": [
+        "It reduces focus",
+        "It improves focus",
+        "It saves time",
+        "It increases energy"
+      ],
+      "why": "The text says multitasking worsens performance."
+    },
+    {
+      "q": "What hormones rise when you feel status?",
+      "a": [
+        "Dopamine and serotonin",
+        "Cortisol and adrenaline",
+        "Insulin and glucagon",
+        "Melatonin and cortisol"
+      ],
+      "why": "The text lists dopamine and serotonin."
+    },
+    {
+      "q": "What is the best way to give feedback?",
+      "a": [
+        "Help others find solutions",
+        "Give direct orders",
+        "Criticize openly",
+        "Ignore the problem"
+      ],
+      "why": "The text says guiding to insight works better."
+    },
+    {
+      "q": "What is the effect of thinking on the brain?",
+      "a": [
+        "It needs a break",
+        "It stays active",
+        "It becomes stronger",
+        "It becomes faster"
+      ],
+      "why": "The text says thinking is exhausting and needs a break."
+    }
+  ]
+}

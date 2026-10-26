@@ -1,0 +1,56 @@
+{
+  "book": "the-comfort-crisis",
+  "title": "The Comfort Crisis",
+  "questions": [
+    {
+      "q": "What does the author claim modern comfort prevents?",
+      "a": [
+        "Growth through hardship",
+        "Increased leisure time",
+        "Higher productivity",
+        "More social interaction"
+      ],
+      "why": "He argues that constant ease blocks personal growth."
+    },
+    {
+      "q": "How does solitude in nature affect loneliness, according to the book?",
+      "a": [
+        "It reduces feelings of loneliness",
+        "It makes loneliness worse",
+        "It has no effect",
+        "It only helps introverts"
+      ],
+      "why": "The text says being alone outdoors combats loneliness."
+    },
+    {
+      "q": "What historical behavior does the author compare modern humans to?",
+      "a": [
+        "Ancestors constantly hunting for food",
+        "People living in permanent cities",
+        "Industrial workers in factories",
+        "Medieval scholars in monasteries"
+      ],
+      "why": "He notes ancestors fought for food and shelter."
+    },
+    {
+      "q": "What impact does having food always ready have on the brain?",
+      "a": [
+        "Diminishes dopamine release",
+        "Boosts serotonin levels",
+        "Increases cortisol",
+        "Enhances memory"
+      ],
+      "why": "He states ready food keeps dopamine low."
+    },
+    {
+      "q": "Which parenting style is linked to reduced exposure to small challenges?",
+      "a": [
+        "Helicopter parenting",
+        "Authoritarian parenting",
+        "Permissive parenting",
+        "Free-range parenting"
+      ],
+      "why": "The book mentions helicopter parenting shelters children."
+    }
+  ]
+}

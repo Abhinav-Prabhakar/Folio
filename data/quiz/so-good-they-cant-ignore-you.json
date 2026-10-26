@@ -1,0 +1,56 @@
+{
+  "book": "so-good-they-cant-ignore-you",
+  "title": "So Good They Can’t Ignore You",
+  "questions": [
+    {
+      "q": "According to Cal Newport, what does whether you love your work mostly depend on?",
+      "a": [
+        "Your expertise and experience",
+        "Your innate talent and personality",
+        "How much your employer pays you",
+        "Whether you found your one true passion"
+      ],
+      "why": "Lesson 1 argues that loving your job is mostly a product of expertise and experience, not of discovering a pre-existing passion."
+    },
+    {
+      "q": "Self-determination theory says intrinsic motivation comes from which three things?",
+      "a": [
+        "Autonomy, competence and relatedness",
+        "Salary, status and job security",
+        "Passion, talent and luck",
+        "Freedom, competition and recognition"
+      ],
+      "why": "Lesson 1 lists autonomy, competence and relatedness as the three sources of intrinsic motivation."
+    },
+    {
+      "q": "Instead of asking what you want, what question does the summary say you should ask about your job?",
+      "a": [
+        "What value can I bring to my job?",
+        "How quickly can I get promoted here?",
+        "What would my ideal career look like?",
+        "Am I following my true calling?"
+      ],
+      "why": "Lesson 2 blames job unhappiness on asking what you want rather than what value you can bring to your work."
+    },
+    {
+      "q": "What kind of practice does the summary recommend for building autonomy and competence?",
+      "a": [
+        "Deliberate practice that keeps you in a state of flow",
+        "Repetitive practice that keeps you comfortably busy",
+        "Practice only in areas you already excel at",
+        "Practice that avoids any risk of frustration"
+      ],
+      "why": "Lesson 2 describes deliberate practice as work hard enough to stretch you but not so hard that frustration takes over."
+    },
+    {
+      "q": "Why does the summary suggest turning down a raise or promotion?",
+      "a": [
+        "To keep the control over your time and work that you earned",
+        "To signal to your boss that you are underpaid",
+        "To free up money for the company’s other employees",
+        "To avoid the extra stress that more money brings"
+      ],
+      "why": "Lesson 3 warns that rewards like raises are used to take back control, so refusing them protects your hard-won autonomy."
+    }
+  ]
+}

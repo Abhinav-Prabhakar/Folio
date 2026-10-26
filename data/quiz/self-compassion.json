@@ -1,0 +1,56 @@
+{
+  "book": "self-compassion",
+  "title": "Self-Compassion",
+  "questions": [
+    {
+      "q": "What does the summary name as a common root of harsh self-criticism?",
+      "a": [
+        "Having a parent who was very critical in childhood",
+        "Being praised constantly as a young child",
+        "Growing up with too many siblings",
+        "Starting a demanding career as an adult"
+      ],
+      "why": "Lesson 1 links self-criticism to critical parenting in childhood."
+    },
+    {
+      "q": "Why might a child start criticizing themselves before a parent can?",
+      "a": [
+        "To avoid hearing the criticism from the parent",
+        "To earn rewards for good behavior",
+        "To compete with brothers and sisters",
+        "To copy what teachers do at school"
+      ],
+      "why": "Lesson 1 says children criticize themselves to preempt a parent's criticism."
+    },
+    {
+      "q": "What exercise does the summary offer for beginning self-compassion?",
+      "a": [
+        "Treat yourself as you would a friend who is hurting",
+        "List the achievements you are proudest of",
+        "Compare your progress with people you admire",
+        "Repeat compliments about yourself each morning"
+      ],
+      "why": "Lesson 2 suggests imagining what you would do for a friend facing the same struggle."
+    },
+    {
+      "q": "What does the story of a friend falling on ice illustrate?",
+      "a": [
+        "We comfort a friend but scold ourselves for the same slip",
+        "We hide our pain from the people closest to us",
+        "We judge strangers more kindly than friends",
+        "We recover faster when nobody is watching"
+      ],
+      "why": "Lesson 2 contrasts our harsh self-talk with the care we give a friend."
+    },
+    {
+      "q": "Which two practices does the summary say make you good at self-care?",
+      "a": [
+        "Mindfulness and putting distance between you and your pain",
+        "Willpower and repeating positive affirmations",
+        "Planning and strict time management",
+        "Exercise and a strong social network"
+      ],
+      "why": "Lesson 3 combines mindfulness with psychological distance from pain."
+    }
+  ]
+}

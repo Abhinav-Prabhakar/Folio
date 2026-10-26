@@ -1,0 +1,56 @@
+{
+  "book": "cribsheet",
+  "title": "Cribsheet",
+  "questions": [
+    {
+      "q": "What does Oster recommend instead of one-size-fits-all parenting advice?",
+      "a": [
+        "A personal framework built from costs and benefits",
+        "Following the most popular parenting book",
+        "Trusting your pediatrician without question",
+        "Copying what worked for your own parents"
+      ],
+      "why": "Lesson 1 says there is no single right answer, so parents should weigh the costs and benefits of their own situation."
+    },
+    {
+      "q": "In the nanny versus daycare example, what does the summary say?",
+      "a": [
+        "The better choice depends on your income and priorities",
+        "Daycare is always the healthier option",
+        "A nanny is always worth the extra cost",
+        "Neither option affects a child's development"
+      ],
+      "why": "The summary lists money, personalized care and social contact as inputs whose weight varies by family."
+    },
+    {
+      "q": "What is opportunity cost?",
+      "a": [
+        "What you give up by choosing one option over another",
+        "The total price of the option you choose",
+        "The tax you pay on childcare",
+        "The value of your child's future education"
+      ],
+      "why": "Lesson 2 uses the choice between working and staying home to show that the cost is the alternative you forgo."
+    },
+    {
+      "q": "Why might the breastfeeding IQ studies be misleading?",
+      "a": [
+        "Educated, wealthier mothers are more likely to breastfeed",
+        "Breastfed children are rarely tested for IQ",
+        "The studies included too few children to matter",
+        "Formula companies funded most of the research"
+      ],
+      "why": "Lesson 3 calls socioeconomic background a confounding variable, and the IQ gap shrinks once it is controlled."
+    },
+    {
+      "q": "Which studies does Oster consider the most reliable?",
+      "a": [
+        "Large randomized controlled trials",
+        "Small observational studies",
+        "Personal stories from other parents",
+        "Studies that compare different countries"
+      ],
+      "why": "The summary says randomization and large samples best control for confounding variables."
+    }
+  ]
+}

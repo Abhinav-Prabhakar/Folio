@@ -1,0 +1,56 @@
+{
+  "book": "raise-your-game",
+  "title": "Raise Your Game",
+  "questions": [
+    {
+      "q": "What does Stein call the most important first step toward success?",
+      "a": [
+        "Knowing yourself through honest introspection",
+        "Surrounding yourself with expert mentors",
+        "Studying the habits of champions",
+        "Setting a strict daily schedule"
+      ],
+      "why": "Lesson 1 says self-awareness gives you a starting point, much like a map needs your location."
+    },
+    {
+      "q": "What does comparison ultimately produce, according to the summary?",
+      "a": [
+        "Self-doubt and wasted time",
+        "Sharper goals and faster progress",
+        "A stronger sense of gratitude",
+        "Better relationships with peers"
+      ],
+      "why": "Lesson 2 calls comparison the mother of doubt and says it drains time and energy."
+    },
+    {
+      "q": "Why is comparing yourself with others useless, according to the summary?",
+      "a": [
+        "It never turns you into the person you admire",
+        "Other people always hide their struggles",
+        "Comparison only works among close friends",
+        "Everyone improves at exactly the same rate"
+      ],
+      "why": "Lesson 2 says comparison cannot make you the subject of your envy, so it adds no benefit."
+    },
+    {
+      "q": "How does the summary suggest approaching a large goal?",
+      "a": [
+        "Start small and build up through gradual steps",
+        "Wait for the perfect moment to begin",
+        "Work in long bursts without any breaks",
+        "Focus only on the final result"
+      ],
+      "why": "Lesson 3 recommends small, repeatable steps instead of facing the whole mountain at once."
+    },
+    {
+      "q": "Which example shows how to make a big task feel manageable?",
+      "a": [
+        "Doing ten abs ten times rather than one hundred at once",
+        "Running a marathon without any training",
+        "Lifting the heaviest weight on day one",
+        "Skipping the first week of a new routine"
+      ],
+      "why": "Lesson 3 uses that exercise example to show how smaller units make a goal less daunting."
+    }
+  ]
+}

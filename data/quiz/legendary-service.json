@@ -1,0 +1,56 @@
+{
+  "book": "legendary-service",
+  "title": "Legendary Service",
+  "questions": [
+    {
+      "q": "According to the summary, where does legendary customer service begin?",
+      "a": [
+        "With taking outstanding care of employees",
+        "With offering the lowest prices on the market",
+        "With heavy spending on advertising and promotions",
+        "With hiring managers from competing companies"
+      ],
+      "why": "The first lesson says legendary service starts inside the company: care for your staff and they will care for your clients."
+    },
+    {
+      "q": "What happens when customers feel genuinely valued?",
+      "a": [
+        "They stay loyal and recommend the brand to others",
+        "They expect a discount on every later purchase",
+        "They stop comparing the brand with competitors",
+        "They overlook any bad experience that follows"
+      ],
+      "why": "The summary says valued clients become loyal and promote the brand to friends and family, helping the business flourish."
+    },
+    {
+      "q": "In the clothing store example, how does the model employee behave?",
+      "a": [
+        "Asks about the occasion and offers matching shoes",
+        "Waits at the register until the customer asks for help",
+        "Points the customer toward the cheapest dress in stock",
+        "Calls the manager to handle the fitting room"
+      ],
+      "why": "The employee greets the woman, asks what the occasion is, explores options and anticipates that she may need shoes."
+    },
+    {
+      "q": "Why does the summary recommend actively collecting customer feedback?",
+      "a": [
+        "Knowing what customers expect makes it easier to keep them loyal",
+        "It supplies material for the company's advertising campaigns",
+        "It shows which employees should be let go",
+        "It removes the need to train staff in listening"
+      ],
+      "why": "The third lesson says you must learn what customers expect, including negative feedback, so you can meet those expectations."
+    },
+    {
+      "q": "What does the summary say about a single bad customer experience?",
+      "a": [
+        "It can wipe out the customer's memory of all the good ones",
+        "It matters far less than the price the customer paid",
+        "It disappears as soon as the company apologizes",
+        "It only affects customers who complain in public"
+      ],
+      "why": "The summary warns that a single poor experience can erase a customer's memory of every good one."
+    }
+  ]
+}

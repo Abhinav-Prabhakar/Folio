@@ -1,0 +1,56 @@
+{
+  "book": "what-i-learned-losing-a-million-dollars",
+  "title": "What I Learned Losing a Million Dollars",
+  "questions": [
+    {
+      "q": "What daily loss did Jim Paul face for months during his soybean oil trade?",
+      "a": [
+        "$20,000",
+        "$5,000",
+        "$50,000",
+        "$100,000"
+      ],
+      "why": "The text says he was losing $20,000 a day for months."
+    },
+    {
+      "q": "Which logical fallacy causes people to expect a heads after five tails in a coin toss?",
+      "a": [
+        "Gambler's fallacy",
+        "Confirmation bias",
+        "Availability heuristic",
+        "Anchoring effect"
+      ],
+      "why": "The coin example illustrates the gambler's fallacy."
+    },
+    {
+      "q": "What behavior does the author warn traders against when crowds influence decisions?",
+      "a": [
+        "Herd mentality",
+        "Overconfidence",
+        "Loss aversion",
+        "Recency bias"
+      ],
+      "why": "The crowd behavior section describes herd mentality as dangerous."
+    },
+    {
+      "q": "Which firm is cited as succeeding due to meticulous planning of best‑ and worst‑case scenarios?",
+      "a": [
+        "Morgan Stanley",
+        "Goldman Sachs",
+        "Lehman Brothers",
+        "Barclays"
+      ],
+      "why": "Morgan Stanley's planning is highlighted as a key to success."
+    },
+    {
+      "q": "According to the book, what does outlining a strategy help prevent?",
+      "a": [
+        "Emotional decision‑making",
+        "Tax penalties",
+        "Regulatory fines",
+        "Market volatility"
+      ],
+      "why": "Planning makes it less likely you'll let emotion control decisions."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-cult-of-we",
+  "title": "The Cult of We",
+  "questions": [
+    {
+      "q": "What skill allowed Adam Neumann to attract co‑founder Miguel McKelvey?",
+      "a": [
+        "Persuasive pitching",
+        "Technical expertise",
+        "Financial backing",
+        "Legal knowledge"
+      ],
+      "why": "Neumann's ability to sell his vision convinced Miguel to join."
+    },
+    {
+      "q": "Why did WeWork's rapid expansion become problematic?",
+      "a": [
+        "Growth outpaced established procedures",
+        "Market demand was low",
+        "Leadership was too cautious",
+        "Funding was abundant"
+      ],
+      "why": "The book says expansion was beyond their powers before solid processes existed."
+    },
+    {
+      "q": "What was a key financial issue for WeWork before the IPO?",
+      "a": [
+        "Losing about $1 million daily",
+        "Excessive profit margins",
+        "Insufficient office space",
+        "High tax rates"
+      ],
+      "why": "WeWork lost roughly one million dollars per day as noted."
+    },
+    {
+      "q": "How did SoftBank's funding cut affect WeWork's strategy?",
+      "a": [
+        "Forced an IPO filing",
+        "Led to new product launches",
+        "Prompted a merger",
+        "Resulted in a dividend payout"
+      ],
+      "why": "When SoftBank stopped funding, the company filed an IPO prospectus."
+    },
+    {
+      "q": "What lesson does the book highlight about emotions versus rationality in business?",
+      "a": [
+        "Rational planning should dominate emotions",
+        "Emotions drive innovation",
+        "Feelings outweigh data",
+        "Intuition replaces analysis"
+      ],
+      "why": "The text stresses that reason must dominate over emotions."
+    }
+  ]
+}

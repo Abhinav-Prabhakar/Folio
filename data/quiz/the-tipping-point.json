@@ -1,0 +1,56 @@
+{
+  "book": "the-tipping-point",
+  "title": "The Tipping Point",
+  "questions": [
+    {
+      "q": "What term describes the moment an idea becomes a must‑have?",
+      "a": [
+        "Tipping point",
+        "Critical mass",
+        "Breakout threshold",
+        "Momentum surge"
+      ],
+      "why": "He defines the tipping point as that critical moment."
+    },
+    {
+      "q": "Which group has the largest social networks that bridge different circles?",
+      "a": [
+        "Connectors",
+        "Mavens",
+        "Salesmen",
+        "Influencers"
+      ],
+      "why": "Connectors are described as having massive networks."
+    },
+    {
+      "q": "What 1960s program first tested the stickiness factor?",
+      "a": [
+        "Sesame Street",
+        "Mister Rogers",
+        "The Flintstones",
+        "Captain Kangaroo"
+      ],
+      "why": "Sesame Street's testing is cited for stickiness."
+    },
+    {
+      "q": "According to Gladwell, roughly what percent of carriers cause most idea spread?",
+      "a": [
+        "20%",
+        "50%",
+        "10%",
+        "30%"
+      ],
+      "why": "He references Pareto's Law: 20% cause 80%."
+    },
+    {
+      "q": "What does the stickiness factor measure?",
+      "a": [
+        "Memorability that drives action",
+        "Popularity among peers",
+        "Speed of viral spread",
+        "Number of endorsements"
+      ],
+      "why": "Stickiness asks if an idea is memorable enough to prompt action."
+    }
+  ]
+}

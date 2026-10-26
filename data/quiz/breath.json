@@ -1,0 +1,31 @@
+{
+  "book": "breath",
+  "title": "Breath",
+  "questions": [
+    {
+      "q": "What does nose breathing do that mouth breathing does not, according to the summary?",
+      "a": ["It filters and warms air and helps regulate blood pressure", "It delivers more oxygen with every single breath", "It removes carbon dioxide more quickly", "It increases the size of the nasal passages"],
+      "why": "Lesson 1 says the nose filters, heats and moistens air and releases chemicals that regulate heartbeat and lower blood pressure."
+    },
+    {
+      "q": "What happened to Nestor after surgery temporarily blocked his nose?",
+      "a": ["His blood pressure rose by 13 points", "His pulse slowed and he felt calmer", "He developed a stronger sense of smell", "He began sleeping much more deeply"],
+      "why": "Lesson 1 reports that weeks of mouth breathing raised his blood pressure 13 points, quickened his pulse and left him feeling awful."
+    },
+    {
+      "q": "Which breathing pace does the summary say science favors?",
+      "a": ["Roughly 5.5 seconds breathing in, then 5.5 out", "A rapid cycle of two seconds in and out", "Very deep breaths held for a full minute", "Long exhales of 20 seconds or more"],
+      "why": "Lesson 2 says shallow breaths of about 5.5 seconds each way are best for maintaining carbon dioxide levels."
+    },
+    {
+      "q": "Why is carbon dioxide more than just a waste product?",
+      "a": ["It helps oxygen leave blood cells and widens vessels", "It carries oxygen directly into the lungs", "It signals the brain to breathe faster", "It blocks the nose from filtering air"],
+      "why": "Lesson 2 explains that carbon dioxide helps oxygen separate from red blood cells and signals blood vessels to dilate."
+    },
+    {
+      "q": "What are prana and ch'i in the traditions the summary describes?",
+      "a": ["An energy said to flow through all living things", "Two types of breathing exercises for athletes", "Ancient names for oxygen and carbon dioxide", "Techniques for holding your breath underwater"],
+      "why": "Lesson 3 says both cultures describe an energy concentrated in living things, maintained through practices like yoga and acupuncture."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "reinvent-yourself",
+  "title": "Reinvent Yourself",
+  "questions": [
+    {
+      "q": "What does Altucher suggest looking for as a starting passion?",
+      "a": [
+        "Something you loved doing as a child",
+        "The highest-paying skill you can learn",
+        "A field with the most job openings",
+        "Whatever your parents recommend"
+      ],
+      "why": "Lesson 1 says childhood interests, even impractical ones, provide a starting point."
+    },
+    {
+      "q": "What can daily practice do with your pain, according to the summary?",
+      "a": [
+        "Turn it into work that helps you and others",
+        "Remove it completely over time",
+        "Hide it from the people around you",
+        "Make success harder to notice"
+      ],
+      "why": "Lesson 2 says channeling pain into your passion lets it help both you and other people."
+    },
+    {
+      "q": "How did Eminem's difficult upbringing serve his career?",
+      "a": [
+        "It became the raw material for his songs",
+        "It gave him access to better schools",
+        "It taught him to avoid public attention",
+        "It shielded him from criticism"
+      ],
+      "why": "Lesson 2 describes poverty and bullying becoming fuel for the music that built his career."
+    },
+    {
+      "q": "What question does Altucher suggest for checking a decision?",
+      "a": [
+        "Did I choose this out of fear or for growth?",
+        "Will this choice make me look successful?",
+        "Would my family approve of this step?",
+        "Is this the safest option available?"
+      ],
+      "why": "Lesson 3 says aligning choices with your values starts with spotting fear-based decisions."
+    },
+    {
+      "q": "Why do family businesses often fail after a few generations, according to Altucher?",
+      "a": [
+        "Each generation's values drift from the original",
+        "They refuse to hire anyone outside the family",
+        "They expand faster than demand allows",
+        "They neglect to advertise their products"
+      ],
+      "why": "Lesson 3 blames a mismatch of values between founders and the successors who inherit the firm."
+    }
+  ]
+}

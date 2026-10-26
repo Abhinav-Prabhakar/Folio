@@ -1,0 +1,56 @@
+{
+  "book": "quiet-power",
+  "title": "Quiet Power",
+  "questions": [
+    {
+      "q": "How does the summary describe the inner life of introverts?",
+      "a": [
+        "Rich, and recharged by quiet, safe surroundings",
+        "Empty, and in need of constant stimulation",
+        "Anxious, and best ignored altogether",
+        "Shallow, and focused on social approval"
+      ],
+      "why": "Lesson 1 says introverts have a rich inner life and recharge in quiet, safe environments."
+    },
+    {
+      "q": "What does the summary say about an introvert's nervous system?",
+      "a": [
+        "It is more sensitive to sounds, sights and tastes",
+        "It reacts more slowly to any stimulation",
+        "It works exactly like an extrovert's system",
+        "It needs more sleep than the average person"
+      ],
+      "why": "Lesson 1 cites studies showing introverts are more sensitive to what goes on around them."
+    },
+    {
+      "q": "What is the goal of the Think/Pair/Share technique?",
+      "a": [
+        "Students think alone, discuss in pairs, then share as a class",
+        "Students compete to answer first in front of the class",
+        "Every student must speak once during the lesson",
+        "Teachers grade students on how often they raise a hand"
+      ],
+      "why": "Lesson 2 describes time to think alone, then paired discussion, then a whole-class sharing."
+    },
+    {
+      "q": "What does the summary recommend before attending a crowded event?",
+      "a": [
+        "Arrive with one or two trusted friends",
+        "Prepare a list of topics to discuss",
+        "Practice small talk with strangers",
+        "Leave as soon as you feel tired"
+      ],
+      "why": "Lesson 3 says going with a friend is far less distressing than showing up alone."
+    },
+    {
+      "q": "How can an introverted athlete prepare for a team game?",
+      "a": [
+        "Visualize success quietly before playing",
+        "Rely on team chants to build energy",
+        "Avoid team sports whenever possible",
+        "Wait for the coach to assign a role"
+      ],
+      "why": "Lesson 3 suggests using an introvert's focus and imagination to picture success beforehand."
+    }
+  ]
+}

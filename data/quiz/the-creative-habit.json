@@ -1,0 +1,56 @@
+{
+  "book": "the-creative-habit",
+  "title": "The Creative Habit",
+  "questions": [
+    {
+      "q": "What is the first lesson Tharp recommends for creativity?",
+      "a": [
+        "Design a starting ritual",
+        "Use a project box",
+        "Leave work unfinished",
+        "Set deadlines"
+      ],
+      "why": "Lesson 1 is a starting ritual."
+    },
+    {
+      "q": "What purpose does a project box serve?",
+      "a": [
+        "Shows commitment",
+        "Keeps tools organized",
+        "Tracks progress",
+        "All of the above"
+      ],
+      "why": "Box shows commitment, organization, progress."
+    },
+    {
+      "q": "Which author inspired leaving work mid‑task?",
+      "a": [
+        "Ernest Hemingway",
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "why": "Hemingway used this technique."
+    },
+    {
+      "q": "Why is a daily ritual important for creatives?",
+      "a": [
+        "Makes work habitual",
+        "Increases motivation",
+        "Reduces fatigue",
+        "Improves skill"
+      ],
+      "why": "Routine turns work into habit."
+    },
+    {
+      "q": "What does Tharp say about creativity and time?",
+      "a": [
+        "It ebbs and flows",
+        "It never stops",
+        "It is random",
+        "It is predictable"
+      ],
+      "why": "Creativity ebbs and flows."
+    }
+  ]
+}

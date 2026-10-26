@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-learning",
+  "title": "The Art Of Learning",
+  "questions": [
+    {
+      "q": "Why does the summary call losing a necessary step toward winning?",
+      "a": [
+        "Competing against stronger players always means losing, and that is how you improve",
+        "Losses teach you that a particular goal was never realistic",
+        "Losing makes opponents underestimate you later on",
+        "Coaches only notice players after they have lost"
+      ],
+      "why": "Lesson 1 argues improvement requires facing stronger opponents, which guarantees losing."
+    },
+    {
+      "q": "What does the summary recommend after a loss that matters to you?",
+      "a": [
+        "Accept disappointment, feel proud of showing up, and set short-term improvements",
+        "Take a long break from the activity to clear your head",
+        "Switch to a different activity where winning is easier",
+        "Analyze only the final mistake and ignore the rest"
+      ],
+      "why": "Lesson 1 lists these three responses and says to turn failure into new short-term goals."
+    },
+    {
+      "q": "What characterizes the hard zone?",
+      "a": [
+        "Anger takes over and you cannot perform at your usual level",
+        "Total concentration that shuts out every distraction",
+        "A relaxed state in which disruptions become useful",
+        "The point where physical fatigue forces you to stop"
+      ],
+      "why": "Lesson 2 describes the hard zone as the state where anger takes over and performance drops."
+    },
+    {
+      "q": "How did Josh turn a distracting song into an advantage?",
+      "a": [
+        "He practiced with music and later used songs deliberately to enter flow",
+        "He stopped listening to music for a month before matches",
+        "He asked tournaments to ban background music",
+        "He learned to ignore sound by wearing earplugs"
+      ],
+      "why": "Lesson 2 describes him aligning his thoughts with the rhythm and then triggering the state on purpose."
+    },
+    {
+      "q": "What does the summary say high-intensity interval training does for you?",
+      "a": [
+        "It lowers your recovery heart rate and also helps you recharge mentally",
+        "It builds muscle faster than any other kind of training",
+        "It replaces the need for sleep after intense mental work",
+        "It works only for runners and other endurance athletes"
+      ],
+      "why": "Lesson 3 says HIIT quickens recovery and that the skill translates from physical to mental."
+    }
+  ]
+}

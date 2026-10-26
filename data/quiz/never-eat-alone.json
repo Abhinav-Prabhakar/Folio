@@ -1,0 +1,56 @@
+{
+  "book": "never-eat-alone",
+  "title": "Never Eat Alone",
+  "questions": [
+    {
+      "q": "How does the summary say relationships differ from cake?",
+      "a": [
+        "They grow stronger the more you use them",
+        "They shrink each time you share them",
+        "They spoil if kept too long",
+        "They need the same recipe every time"
+      ],
+      "why": "Lesson 1 compares relationships to muscles: the more you exercise them, the stronger they become."
+    },
+    {
+      "q": "What question does a good networker ask instead of how others can help?",
+      "a": [
+        "How can I help others?",
+        "Who can I meet next?",
+        "What can I get in return?",
+        "Why should I bother?"
+      ],
+      "why": "Lesson 1 ends by advising networkers to ask how they can help others rather than how others can help them."
+    },
+    {
+      "q": "Why is it important to build your network before you need it?",
+      "a": [
+        "Trust built early makes help available later",
+        "Contacts expire after a few years",
+        "Employers only hire people they know",
+        "Networking events are cheaper in advance"
+      ],
+      "why": "Lesson 2 says a foundation of trust means you can count on help when a problem eventually arrives."
+    },
+    {
+      "q": "What did Bill Clinton do as a young man to build relationships?",
+      "a": [
+        "He wrote down the names of everyone he met each day",
+        "He hosted a weekly dinner for strangers",
+        "He sent birthday cards to every voter",
+        "He kept a list of favors he was owed"
+      ],
+      "why": "Lesson 2 says Clinton, at 22, wrote down everyone he had met that day so he would remember them."
+    },
+    {
+      "q": "What does Keith mean by relationship glue?",
+      "a": [
+        "Shared experiences that turn acquaintances into friends",
+        "A script for making small talk at events",
+        "A system for tracking thousands of contacts",
+        "Gifts sent on birthdays and holidays"
+      ],
+      "why": "Lesson 3 describes relationship glue as things like a hard climb or a long midnight talk that create real friendship."
+    }
+  ]
+}

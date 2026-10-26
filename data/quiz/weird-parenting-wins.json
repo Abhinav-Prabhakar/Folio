@@ -1,0 +1,56 @@
+{
+  "book": "weird-parenting-wins",
+  "title": "Weird Parenting Wins",
+  "questions": [
+    {
+      "q": "What is the author's advice for stopping a child's whining?",
+      "a": [
+        "Use imagination to distract them",
+        "Tell them to stop whining",
+        "Ignore them",
+        "Give them a toy"
+      ],
+      "why": "She suggests using imagination to create a distraction."
+    },
+    {
+      "q": "How does the author help a child calm a scary imaginary monster?",
+      "a": [
+        "Create a sign that bars monsters",
+        "Tell the child it's real",
+        "Ignore the fear",
+        "Give the child a flashlight"
+      ],
+      "why": "She used a sign to bar lions, tigers, etc."
+    },
+    {
+      "q": "What technique does the author recommend to help a child express feelings?",
+      "a": [
+        "Role‑play with a friend",
+        "Ask direct questions",
+        "Let them write a letter",
+        "Ignore their emotions"
+      ],
+      "why": "She encourages role‑play to reveal feelings."
+    },
+    {
+      "q": "Why does the author mention her own fear of wild animals?",
+      "a": [
+        "To illustrate how parents can help children",
+        "To show she is a good parent",
+        "To warn about real animals",
+        "To explain her career"
+      ],
+      "why": "She uses it to show how a parent helped her."
+    },
+    {
+      "q": "What example does the author give for a child's aggressive behavior?",
+      "a": [
+        "Sasha was upset after preschool and used role play",
+        "Sasha fell asleep at school",
+        "Sasha won a game",
+        "Sasha cried at dinner"
+      ],
+      "why": "She describes Sasha's aggression and role‑play solution."
+    }
+  ]
+}

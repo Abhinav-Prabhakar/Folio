@@ -1,0 +1,56 @@
+{
+  "book": "nonviolent-communication",
+  "title": "Nonviolent Communication",
+  "questions": [
+    {
+      "q": "What is the first step toward reducing needless conflict, per Rosenberg?",
+      "a": [
+        "Separating observations from judgments",
+        "Avoiding all difficult conversations",
+        "Stating your demands more firmly",
+        "Agreeing with the other person"
+      ],
+      "why": "Lesson 1 says the foundational NVC habit is separating neutral observations from judgments."
+    },
+    {
+      "q": "What does a judgment usually make the other person do?",
+      "a": [
+        "Become defensive or shut down",
+        "Listen more carefully",
+        "Change their behavior quickly",
+        "Ask for clarification"
+      ],
+      "why": "Lesson 1 says people who feel judged go on the defensive or shut down, which blocks listening."
+    },
+    {
+      "q": "What does the summary say judgments about others express?",
+      "a": [
+        "Our own needs and values",
+        "An objective view of reality",
+        "The other person's true motives",
+        "A lack of empathy"
+      ],
+      "why": "Lesson 2 quotes Rosenberg saying analyses of others are expressions of our own needs and values."
+    },
+    {
+      "q": "How should you give a compliment in NVC?",
+      "a": [
+        "Explain how their action met one of your needs",
+        "Praise their personality and character",
+        "Compare them favorably to others",
+        "Keep it brief and general"
+      ],
+      "why": "Lesson 3 says positive judgments are still judgments, so describe how a specific action met a need."
+    },
+    {
+      "q": "How can NVC help with a past regret?",
+      "a": [
+        "By empathizing with the needs behind the choice",
+        "By refusing to think about the past",
+        "By blaming circumstances for the outcome",
+        "By promising never to decide again"
+      ],
+      "why": "Lesson 3 suggests empathizing with your past self and the needs she was trying to meet."
+    }
+  ]
+}

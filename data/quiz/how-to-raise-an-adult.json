@@ -1,0 +1,56 @@
+{
+  "book": "how-to-raise-an-adult",
+  "title": "How to Raise an Adult",
+  "questions": [
+    {
+      "q": "What does the summary mean by helicopter parenting?",
+      "a": [
+        "Always supervising and intervening in a child's life",
+        "Letting children make every decision on their own",
+        "Hiring tutors to manage a child's daily schedule",
+        "Rewarding good grades with money and gifts"
+      ],
+      "why": "Lesson 1 describes helicopter parents as always supervising and getting involved."
+    },
+    {
+      "q": "What does overprotection make children more likely to do later?",
+      "a": [
+        "Turn to substance abuse under pressure",
+        "Excel at solving problems independently",
+        "Seek out risky outdoor activities",
+        "Confide in their parents about stress"
+      ],
+      "why": "Lesson 2 says children raised this way feel overwhelmed and may use drugs or alcohol."
+    },
+    {
+      "q": "Which responsibilities does the summary recommend giving a child?",
+      "a": [
+        "Picking up after themselves and doing chores",
+        "Choosing the family's weekly budget",
+        "Managing their own medical appointments",
+        "Negotiating the rules of their school"
+      ],
+      "why": "Lesson 2 suggests holding kids accountable and having them handle tasks like taking out the trash."
+    },
+    {
+      "q": "Why is unstructured playtime valuable for a child?",
+      "a": [
+        "It lets them test ideas and develop mentally",
+        "It keeps them too busy to misbehave",
+        "It prepares them for competitive sports",
+        "It replaces the need for formal lessons"
+      ],
+      "why": "Lesson 3 says free play lets children explore, test hypotheses and develop mentally."
+    },
+    {
+      "q": "What balance should a child's schedule strike?",
+      "a": [
+        "Unstructured play plus time for skills",
+        "Mostly play with occasional family outings",
+        "Structured lessons with very little free time",
+        "Equal hours of screen time and reading"
+      ],
+      "why": "Lesson 3 recommends plenty of play but also planned time to learn, read and build skills."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "words-that-work",
+  "title": "Words That Work",
+  "questions": [
+    {
+      "q": "What does Frank Luntz emphasize about word choice?",
+      "a": [
+        "It activates the brain",
+        "It sounds sophisticated",
+        "It follows grammar rules",
+        "It matches trends"
+      ],
+      "why": "Effective words activate the human brain."
+    },
+    {
+      "q": "What two techniques add emotion to communication?",
+      "a": [
+        "Humanization and personalization",
+        "Automation and repetition",
+        "Formalism and jargon",
+        "Statistical evidence and data"
+      ],
+      "why": "The text lists humanization and personalization as emotional techniques."
+    },
+    {
+      "q": "Why must a communicator vary language for different audiences?",
+      "a": [
+        "Audiences react differently",
+        "All audiences prefer formal tone",
+        "It saves time",
+        "It follows legal standards"
+      ],
+      "why": "Different audiences need tailored language for effective impact."
+    },
+    {
+      "q": "What ancient figure is referenced regarding appealing to emotions?",
+      "a": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Homer"
+      ],
+      "why": "Aristotle advises targeting pathos, the emotional side."
+    },
+    {
+      "q": "According to the book, when can communication skills be most useful?",
+      "a": [
+        "In everyday situations like traffic stops",
+        "Only in political speeches",
+        "Only in corporate boardrooms",
+        "Only in academic lectures"
+      ],
+      "why": "The text says skills help in daily life situations such as police stops."
+    }
+  ]
+}

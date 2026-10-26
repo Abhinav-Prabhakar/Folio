@@ -1,0 +1,56 @@
+{
+  "book": "unshakeable",
+  "title": "Unshakeable",
+  "questions": [
+    {
+      "q": "What does Warren Buffett consider the most important investing rule?",
+      "a": [
+        "Never lose money",
+        "Buy the cheapest stocks",
+        "Trade daily",
+        "Follow market trends"
+      ],
+      "why": "Buffett's two rules focus on never losing money and remembering that."
+    },
+    {
+      "q": "If an investment drops 50%, what must happen to recover the loss?",
+      "a": [
+        "It must double in value",
+        "It must gain 10%",
+        "It must stay flat",
+        "It must lose less than 5%"
+      ],
+      "why": "A 50% loss requires a 100% gain to return to original amount."
+    },
+    {
+      "q": "What type of investment does Paul Tudor Jones prioritize?",
+      "a": [
+        "High-reward, low-risk asymmetric bets",
+        "Low-return bonds",
+        "Real estate only",
+        "Cryptocurrencies"
+      ],
+      "why": "Jones seeks asymmetric risk/reward with high reward for low risk."
+    },
+    {
+      "q": "Why do humans often sell stocks at market lows?",
+      "a": [
+        "Survival‑mode brain response to loss",
+        "Lack of internet access",
+        "Tax reasons",
+        "Regulatory mandates"
+      ],
+      "why": "The limbic brain triggers a fight‑or‑flight reaction to perceived loss."
+    },
+    {
+      "q": "What tool does the book recommend to limit emotional investing mistakes?",
+      "a": [
+        "A systematic investing checklist",
+        "Daily meditation",
+        "Hiring a personal trainer",
+        "Reading news headlines"
+      ],
+      "why": "A checklist helps keep gut reactions in check and avoid dumb decisions."
+    }
+  ]
+}

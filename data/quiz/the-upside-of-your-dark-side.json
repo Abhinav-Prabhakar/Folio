@@ -1,0 +1,56 @@
+{
+  "book": "the-upside-of-your-dark-side",
+  "title": "The Upside Of Your Dark Side",
+  "questions": [
+    {
+      "q": "What effect does happiness have on persuasive reasoning, according to the book?",
+      "a": [
+        "It reduces argument convincingness by about 25%",
+        "It makes arguments more logical",
+        "It has no impact on persuasion",
+        "It doubles persuasive power"
+      ],
+      "why": "Study showed unhappy people's arguments were 25% more convincing."
+    },
+    {
+      "q": "How does guilt influence future bad behavior, per the author's findings?",
+      "a": [
+        "It lowers the likelihood of reoffending",
+        "It increases chances of repeat offenses",
+        "It has no effect on behavior",
+        "It only affects feelings, not actions"
+      ],
+      "why": "Research linked higher guilt to less crime and lower recidivism."
+    },
+    {
+      "q": "What distinction does the book make between guilt and shame?",
+      "a": [
+        "Guilt drives repair, shame does not",
+        "Both lead to the same outcomes",
+        "Shame motivates change, guilt stalls",
+        "They are interchangeable emotions"
+      ],
+      "why": "Guilt prompts fixing mistakes; shame is described as useless."
+    },
+    {
+      "q": "Why is being fully mindful described as costly in the text?",
+      "a": [
+        "It slows conscious processing dramatically",
+        "It enhances speed of tasks",
+        "It eliminates unconscious learning",
+        "It has no downside"
+      ],
+      "why": "Mindfulness limits conscious bandwidth, slowing task execution."
+    },
+    {
+      "q": "What surprising benefit does the book claim about negative feelings?",
+      "a": [
+        "They can add value to life when embraced",
+        "They should always be suppressed",
+        "They have no purpose",
+        "They only cause harm"
+      ],
+      "why": "The premise is that bad feelings have positive side effects if embraced."
+    }
+  ]
+}

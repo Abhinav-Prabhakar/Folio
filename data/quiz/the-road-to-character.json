@@ -1,0 +1,56 @@
+{
+  "book": "the-road-to-character",
+  "title": "The Road to Character",
+  "questions": [
+    {
+      "q": "Which personality type seeks wealth and status?",
+      "a": [
+        "Adam I",
+        "Adam II",
+        "Both",
+        "Neither"
+      ],
+      "why": "Adam I is described as the external, success‑driven personality."
+    },
+    {
+      "q": "What moral value is said to be lost in modern society?",
+      "a": [
+        "Integrity",
+        "Intelligence",
+        "Inspiration",
+        "Innovation"
+      ],
+      "why": "The text notes a loss of integrity, commitment, and kindness."
+    },
+    {
+      "q": "What does Brooks suggest to develop character?",
+      "a": [
+        "Admit flaws and drop pride",
+        "Ignore weaknesses",
+        "Pursue fame",
+        "Avoid struggles"
+      ],
+      "why": "Brooks advises admitting flaws and abandoning pride to build character."
+    },
+    {
+      "q": "Which term describes society's focus on how actions are done?",
+      "a": [
+        "How over why",
+        "Why over how",
+        "Efficiency over ethics",
+        "Speed over depth"
+      ],
+      "why": "The book criticizes a focus on how actions are done rather than why."
+    },
+    {
+      "q": "What does the author call people who focus on external success?",
+      "a": [
+        "Perpetual stumblers",
+        "Adam I",
+        "Adam II",
+        "Narcissists"
+      ],
+      "why": "Brooks refers to people dominated by Adam I as perpetual stumblers."
+    }
+  ]
+}

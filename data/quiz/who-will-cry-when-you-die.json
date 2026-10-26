@@ -1,0 +1,56 @@
+{
+  "book": "who-will-cry-when-you-die",
+  "title": "Who Will Cry When You Die?",
+  "questions": [
+    {
+      "q": "What is a key benefit of being 100% honest for a week?",
+      "a": [
+        "Improved trust",
+        "More lies",
+        "Less honesty",
+        "More secrets"
+      ],
+      "why": "The text says honesty builds trust."
+    },
+    {
+      "q": "How does the author suggest finding joy in daily chores?",
+      "a": [
+        "Focus on enjoyable parts",
+        "Avoid chores",
+        "Complain more",
+        "Ignore them"
+      ],
+      "why": "He advises focusing on the good like a child."
+    },
+    {
+      "q": "What effect does complaining have on relationships?",
+      "a": [
+        "It drains energy",
+        "It strengthens bonds",
+        "It has no effect",
+        "It improves mood"
+      ],
+      "why": "The book says complaints are draining."
+    },
+    {
+      "q": "What does the author recommend instead of worrying about problems?",
+      "a": [
+        "Actively contribute",
+        "Stay idle",
+        "Complain more",
+        "Avoid action"
+      ],
+      "why": "He urges proactive contribution."
+    },
+    {
+      "q": "Why does the author emphasize honesty with others?",
+      "a": [
+        "It prevents disappointment",
+        "It encourages lying",
+        "It creates mistrust",
+        "It is irrelevant"
+      ],
+      "why": "Honesty stops disappointment and builds trust."
+    }
+  ]
+}

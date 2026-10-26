@@ -1,0 +1,56 @@
+{
+  "book": "the-coaching-habit",
+  "title": "The Coaching Habit",
+  "questions": [
+    {
+      "q": "What problem does the book say managers face when they make all decisions themselves?",
+      "a": [
+        "They become the bottleneck through which all projects must go",
+        "They lose their ability to think creatively",
+        "They develop burnout from physical exhaustion",
+        "They become disconnected from their employees"
+      ],
+      "why": "The bottleneck lesson describes managers as the bottleneck through which all projects and decisions must go."
+    },
+    {
+      "q": "Which two questions does the book recommend starting most coaching sessions with?",
+      "a": [
+        "What's on your mind? and And what else?",
+        "What's the real challenge here? and What do you want?",
+        "How can I help you? and What was most useful for you?",
+        "What do you want? and If you're saying yes, what are you saying no to?"
+      ],
+      "why": "The right questions lesson says to start with the first two questions when beginning most coaching sessions."
+    },
+    {
+      "q": "Why does the book advise asking what questions instead of why questions?",
+      "a": [
+        "Because why can make people feel they need to defend themselves",
+        "Because what questions are always easier to answer",
+        "Because why questions are considered rude in most workplaces",
+        "Because what questions produce longer, more detailed responses"
+      ],
+      "why": "The how to ask lesson explains that digging for reasons makes people feel they need to defend themselves."
+    },
+    {
+      "q": "What does the book recommend as the first step when asking coaching questions?",
+      "a": [
+        "Let employees relax by only asking one question at a time",
+        "Start with a theoretical question to warm them up",
+        "Ask multiple questions at once to save time",
+        "Begin by explaining why you are asking the question"
+      ],
+      "why": "The how to ask lesson states the first step is to let employees relax by only asking one question at a time."
+    },
+    {
+      "q": "According to the book, what is a common problem in workplaces and schools?",
+      "a": [
+        "They lack the coaches and leaders people need to succeed",
+        "They have too many coaches causing confusion",
+        "They focus exclusively on technical skills over character",
+        "They require employees to have formal coaching certifications"
+      ],
+      "why": "The overview states too many workplaces and schools are lacking the necessary coaches and leaders."
+    }
+  ]
+}

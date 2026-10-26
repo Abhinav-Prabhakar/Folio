@@ -1,0 +1,56 @@
+{
+  "book": "how-successful-people-think",
+  "title": "How Successful People Think",
+  "questions": [
+    {
+      "q": "What does Maxwell suggest reviewing before you start each day?",
+      "a": [
+        "Your calendar, to spot the biggest learning opportunities",
+        "Your inbox, to clear the most urgent messages",
+        "Your goals, to rank them by importance",
+        "Your bank balance, to plan your spending"
+      ],
+      "why": "Lesson one says to scan the day's appointments and prepare for the ones that offer the most to learn."
+    },
+    {
+      "q": "What is the simplest way to practice creative thinking, according to the book?",
+      "a": [
+        "Add one more option whenever you make a decision",
+        "Set aside an hour each day to brainstorm",
+        "Study the habits of creative geniuses",
+        "Keep a journal of your best ideas"
+      ],
+      "why": "Lesson two argues that even one extra choice is a creative act, like wondering about a different cereal."
+    },
+    {
+      "q": "Why did Alfred Nobel change his will after reading a newspaper?",
+      "a": [
+        "It printed his obituary and he disliked how he would be remembered",
+        "It revealed that his brother had stolen his fortune",
+        "It praised a rival inventor above him",
+        "It reported that his factory was closing"
+      ],
+      "why": "A reporter confused Nobel with his brother and described the dynamite inventor's death, prompting him to fund the prizes."
+    },
+    {
+      "q": "What does the summary writer caution about the book's eleven thinking styles?",
+      "a": [
+        "Use them as inspiration, not as a checklist",
+        "Practice all eleven every single morning",
+        "Ignore them and trust your instincts",
+        "Rank them before choosing a career"
+      ],
+      "why": "The review says the list should not be treated as a set of habits, but as a source of inspiration for thinking itself."
+    },
+    {
+      "q": "Which claim by Maxwell does the summary writer find hard to accept?",
+      "a": [
+        "That all successful people think the same way",
+        "That thinking can be practiced daily",
+        "That big-picture thinking reduces stress",
+        "That unselfish thinking improves sleep"
+      ],
+      "why": "The writer notes you can find successful people with opposite habits, so the idea that they all think alike is too simple."
+    }
+  ]
+}

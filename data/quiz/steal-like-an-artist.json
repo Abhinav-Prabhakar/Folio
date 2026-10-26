@@ -1,0 +1,56 @@
+{
+  "book": "steal-like-an-artist",
+  "title": "Steal Like An Artist",
+  "questions": [
+    {
+      "q": "According to Austin Kleon, where does your own style come from?",
+      "a": [
+        "The places where you fail to copy your idols exactly",
+        "The moment you invent something nobody has tried",
+        "The techniques you learn in formal art school",
+        "The praise you receive from critics and fans"
+      ],
+      "why": "Lesson 1 says the gaps left when imitation breaks down are where your unique way of working appears."
+    },
+    {
+      "q": "What kind of copying does the summary call the bad kind?",
+      "a": [
+        "Putting your name on someone else’s work",
+        "Following a tutorial step by step",
+        "Imitating an artist you admire",
+        "Rebuilding a project that already exists"
+      ],
+      "why": "Lesson 1 contrasts plagiarism, illustrated by the German minister’s thesis scandal, with imitation for learning."
+    },
+    {
+      "q": "Why can procrastination be productive for an artist?",
+      "a": [
+        "Insights surface when you let your mind wander during downtime",
+        "It keeps you from comparing yourself with others",
+        "It forces you to work faster when you return",
+        "It proves that you are not taking the work too seriously"
+      ],
+      "why": "Lesson 2 says flashes of insight arrive during downtime, so it should be part of the routine."
+    },
+    {
+      "q": "What does the summary advise about hobbies and side projects?",
+      "a": [
+        "Keep them, because diverse inputs make your output more creative",
+        "Drop them so you can focus entirely on your art",
+        "Replace them with more time at your desk",
+        "Only keep the ones that earn money"
+      ],
+      "why": "Lesson 2 says hobbies, chores and even idle video watching feed new ideas into your creative work."
+    },
+    {
+      "q": "What is the advantage of being anonymous as a beginner?",
+      "a": [
+        "You are free to experiment and fail without scrutiny",
+        "You can charge higher prices for your work",
+        "People assume you are more experienced than you are",
+        "You avoid the pressure of finding an audience later"
+      ],
+      "why": "Lesson 3 says obscurity lets you run weird experiments and make mistakes without anyone judging."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "this-is-your-mind-on-plants",
+  "title": "This Is Your Mind On Plants",
+  "questions": [
+    {
+      "q": "What receptor does caffeine block to increase alertness?",
+      "a": [
+        "Adenosine receptors",
+        "Dopamine receptors",
+        "Serotonin receptors",
+        "GABA receptors"
+      ],
+      "why": "The text says caffeine blocks adenosine receptors in the brain."
+    },
+    {
+      "q": "Which plant provides the alkaloid mescaline?",
+      "a": [
+        "Cacti",
+        "Coffee beans",
+        "Tea leaves",
+        "Poppy flowers"
+      ],
+      "why": "Mescaline is described as coming from cacti."
+    },
+    {
+      "q": "What is the main active ingredient in opium?",
+      "a": [
+        "Morphine",
+        "Caffeine",
+        "Mescaline",
+        "Nicotine"
+      ],
+      "why": "The passage states morphine is the active ingredient in opium."
+    },
+    {
+      "q": "How long can coffee stay in the body, potentially affecting sleep?",
+      "a": [
+        "12 hours",
+        "4 hours",
+        "24 hours",
+        "6 hours"
+      ],
+      "why": "The text notes coffee can stay in the body for 12 hours."
+    },
+    {
+      "q": "What effect does mescaline have on perception of time?",
+      "a": [
+        "It may feel slower",
+        "It speeds it up",
+        "It stops it completely",
+        "It has no effect"
+      ],
+      "why": "The passage mentions mescaline can alter perception of time, making it feel slower."
+    }
+  ]
+}

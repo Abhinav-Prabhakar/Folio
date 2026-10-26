@@ -1,0 +1,56 @@
+{
+  "book": "the-self-discipline-blueprint",
+  "title": "The Self-Discipline Blueprint",
+  "questions": [
+    {
+      "q": "What are the four fundamentals of routine mastery?",
+      "a": [
+        "Sleep, nutrition, movement, mindfulness",
+        "Exercise, diet, meditation, networking",
+        "Planning, execution, review, celebration",
+        "Goal‑setting, tracking, rewarding, reflecting"
+      ],
+      "why": "The text lists those four fundamentals."
+    },
+    {
+      "q": "How many hours of sleep are recommended each night?",
+      "a": [
+        "Eight hours",
+        "Six hours",
+        "Ten hours",
+        "Four hours"
+      ],
+      "why": "The book advises aiming for eight hours."
+    },
+    {
+      "q": "What accumulates when you consistently get less than eight hours of sleep?",
+      "a": [
+        "Sleep debt",
+        "Stress overload",
+        "Metabolic slowdown",
+        "Mood swings"
+      ],
+      "why": "The concept of sleep debt is explained."
+    },
+    {
+      "q": "Which mindset believes abilities can improve with effort?",
+      "a": [
+        "Growth mindset",
+        "Fixed mindset",
+        "Passive mindset",
+        "Defeatist mindset"
+      ],
+      "why": "Growth mindset is defined as belief in development."
+    },
+    {
+      "q": "What is a key habit for success besides motivation?",
+      "a": [
+        "Showing up daily",
+        "Waiting for inspiration",
+        "Avoiding failure",
+        "Seeking shortcuts"
+      ],
+      "why": "The text stresses showing up every day."
+    }
+  ]
+}

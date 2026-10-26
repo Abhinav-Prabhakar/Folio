@@ -1,0 +1,56 @@
+{
+  "book": "creativity-inc",
+  "title": "Creativity, Inc.",
+  "questions": [
+    {
+      "q": "What does Catmull say matters more than a great idea?",
+      "a": [
+        "A great team that communicates well",
+        "A large budget and famous actors",
+        "A strict deadline and clear rules",
+        "A single brilliant leader"
+      ],
+      "why": "Lesson 1 says a mediocre idea given to a brilliant team can become something better, while the reverse fails."
+    },
+    {
+      "q": "What happens at Pixar when a project fails?",
+      "a": [
+        "The whole team shares responsibility, not one person",
+        "The director is fired immediately",
+        "The failure is hidden from the staff",
+        "The project is handed over to outsiders"
+      ],
+      "why": "Lesson 2 says Pixar never points a finger at an individual, so blame is divided across the team."
+    },
+    {
+      "q": "Why does shared failure make employees more creative?",
+      "a": [
+        "They feel safe taking risks without taking all the blame",
+        "They compete harder for promotions",
+        "They avoid difficult projects entirely",
+        "They receive bigger bonuses for success"
+      ],
+      "why": "The summary says people take more risks when a screw-up will be shared rather than blamed on one person."
+    },
+    {
+      "q": "Why did Pixar replace its long rectangular meeting table?",
+      "a": [
+        "It made people stiff and less willing to speak",
+        "It was too small for the whole team",
+        "It blocked the projector screen",
+        "It had been damaged in a fire"
+      ],
+      "why": "Lesson 3 says the formal table with place cards made people tense, so a simple square table worked better."
+    },
+    {
+      "q": "What freedom does Pixar give its tools department?",
+      "a": [
+        "Two days a month to tinker with personal projects",
+        "A yearly budget for new equipment",
+        "Permission to work from home full time",
+        "A shared studio for group art"
+      ],
+      "why": "The summary mentions that the tools team gets two days a month for personal experiments, much like Google."
+    }
+  ]
+}

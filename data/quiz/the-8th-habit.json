@@ -1,0 +1,56 @@
+{
+  "book": "the-8th-habit",
+  "title": "The 8th Habit",
+  "questions": [
+    {
+      "q": "What does Covey call the greatest gift we are born with?",
+      "a": [
+        "The freedom to choose how we respond",
+        "The ability to learn new skills quickly",
+        "The capacity to remember the past",
+        "The talent for influencing other people"
+      ],
+      "why": "Lesson 1 says we cannot control events, only our reaction to them."
+    },
+    {
+      "q": "Which four kinds of intelligence does the summary list?",
+      "a": [
+        "Physical, mental, emotional and spiritual",
+        "Logical, creative, social and practical",
+        "Mental, emotional, financial and physical",
+        "Spiritual, artistic, verbal and spatial"
+      ],
+      "why": "Lesson 1 describes these as the powers behind finding your voice."
+    },
+    {
+      "q": "Which three behaviors does the summary say build trust?",
+      "a": [
+        "Keeping promises, being kind and apologizing sincerely",
+        "Working hard, staying quiet and taking blame",
+        "Being honest, dressing well and arriving early",
+        "Sharing credit, staying neutral and avoiding errors"
+      ],
+      "why": "Lesson 2 lists following through, friendliness and prompt apologies."
+    },
+    {
+      "q": "How does the summary suggest empowering employees?",
+      "a": [
+        "Give them control over decisions about their own work",
+        "Give them more tasks without more authority",
+        "Praise them publicly but keep decisions central",
+        "Rotate them through every department quickly"
+      ],
+      "why": "Lesson 3 uses a cleaning crew choosing its own tools and schedule."
+    },
+    {
+      "q": "What does the summary say about individual productivity in the Information Age?",
+      "a": [
+        "A top knowledge worker can be far more valuable than an average one",
+        "Physical strength still determines most workplace output",
+        "Individual differences in output are now marginal",
+        "Teamwork matters less as knowledge work grows"
+      ],
+      "why": "The overview contrasts the Industrial Age's marginal differences with today's knowledge work."
+    }
+  ]
+}

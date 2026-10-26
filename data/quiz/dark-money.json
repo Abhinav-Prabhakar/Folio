@@ -1,0 +1,56 @@
+{
+  "book": "dark-money",
+  "title": "Dark Money",
+  "questions": [
+    {
+      "q": "How did the Koch brothers influence politics while staying out of sight?",
+      "a": [
+        "They built a network of nonprofits that did not disclose their donors",
+        "They ran for office themselves under several different party labels",
+        "They bought newspapers and printed only their own opinions",
+        "They donated openly to every candidate in both major parties"
+      ],
+      "why": "Lesson 1 explains that nonprofits let donors and donation amounts stay anonymous."
+    },
+    {
+      "q": "What did the brothers conclude after one of them lost an election badly?",
+      "a": [
+        "Ideas, not individual politicians, hold the real power",
+        "They needed to spend even more on campaign advertising",
+        "Only wealthy candidates can win national elections",
+        "Political office is the best route to lasting influence"
+      ],
+      "why": "Lesson 1 says they realized a politician is just a voice while ideas control nations."
+    },
+    {
+      "q": "What is the \"Kochtopus\"?",
+      "a": [
+        "The sprawling network of political organizations the brothers controlled",
+        "A nickname for the family's oil and chemical business",
+        "A fundraising event held for wealthy Republican donors",
+        "A secretive newspaper owned by the Koch family"
+      ],
+      "why": "Lesson 1 uses the name for their network, which had spread into many parts of politics."
+    },
+    {
+      "q": "What does the Tea Party example suggest about political movements?",
+      "a": [
+        "Some can be engineered to look like they started with ordinary people",
+        "They always begin with small local meetings and grow naturally",
+        "They succeed only when the media ignores them entirely",
+        "They rarely have any connection to wealthy donors"
+      ],
+      "why": "Lesson 2 says the Koch network helped create uprisings that appeared authentic and grassroots."
+    },
+    {
+      "q": "What does the author fear America is becoming?",
+      "a": [
+        "An oligarchy ruled by its wealthiest citizens",
+        "A direct democracy run by popular vote",
+        "A monarchy controlled by a single family",
+        "A system where parties have no influence at all"
+      ],
+      "why": "Lesson 3 warns that money has overtaken politics to the point of rule by the rich."
+    }
+  ]
+}

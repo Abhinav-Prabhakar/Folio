@@ -1,0 +1,56 @@
+{
+  "book": "why-does-he-do-that",
+  "title": "Why Does He Do That?",
+  "questions": [
+    {
+      "q": "What factor does the book say does NOT turn a man into an abuser?",
+      "a": [
+        "Poor education",
+        "Childhood trauma",
+        "Broken homes",
+        "Emotional wounds"
+      ],
+      "why": "The text states education, not trauma, is key."
+    },
+    {
+      "q": "What early sign indicates a man may become abusive?",
+      "a": [
+        "Disrespectful talk about ex",
+        "Complimenting ex",
+        "Positive feedback",
+        "Supportive comments"
+      ],
+      "why": "The book lists disrespectful remarks as a warning."
+    },
+    {
+      "q": "According to the author, why do abusers resist lasting change?",
+      "a": [
+        "They fear losing power",
+        "They want to change",
+        "They are honest",
+        "They are supportive"
+      ],
+      "why": "The text says they fear losing power."
+    },
+    {
+      "q": "What role do role models play in forming abusive behavior?",
+      "a": [
+        "They teach abusive norms",
+        "They encourage kindness",
+        "They have no influence",
+        "They promote equality"
+      ],
+      "why": "The book says boys learn from adult models."
+    },
+    {
+      "q": "What is the main reason an abuser cannot change externally?",
+      "a": [
+        "Change must come from within",
+        "External help is enough",
+        "They always change",
+        "They never need help"
+      ],
+      "why": "The text states internal realization is required."
+    }
+  ]
+}

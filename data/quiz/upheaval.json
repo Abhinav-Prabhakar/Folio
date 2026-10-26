@@ -1,0 +1,56 @@
+{
+  "book": "upheaval",
+  "title": "Upheaval",
+  "questions": [
+    {
+      "q": "What concept explains solving crises in nations?",
+      "a": [
+        "Selective change",
+        "Total overhaul",
+        "Immediate action",
+        "Avoidance"
+      ],
+      "why": "The book defines selective change as identifying what needs to change."
+    },
+    {
+      "q": "Which era marked Japan's shift from isolation?",
+      "a": [
+        "Meiji era",
+        "Tokugawa era",
+        "Heian era",
+        "Sengoku era"
+      ],
+      "why": "The Meiji era began Japan's modernization after isolation."
+    },
+    {
+      "q": "How often are U.S. cities predicted to face a tech crisis?",
+      "a": [
+        "Every 12 years",
+        "Every 5 years",
+        "Every 20 years",
+        "Every 30 years"
+      ],
+      "why": "The text estimates a technology crisis every 12 years."
+    },
+    {
+      "q": "Which global threat is NOT listed in the book?",
+      "a": [
+        "Nuclear weapons",
+        "Climate change",
+        "Space debris",
+        "Unequal wealth"
+      ],
+      "why": "Space debris is not mentioned among the listed global threats."
+    },
+    {
+      "q": "What does the author suggest nations need more of?",
+      "a": [
+        "Collaboration",
+        "Isolation",
+        "Individualism",
+        "Competition"
+      ],
+      "why": "The book argues nations must work together to solve global crises."
+    }
+  ]
+}

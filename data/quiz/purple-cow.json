@@ -1,0 +1,56 @@
+{
+  "book": "purple-cow",
+  "title": "Purple Cow",
+  "questions": [
+    {
+      "q": "Why do consumers ignore most advertising today, according to the summary?",
+      "a": [
+        "They have grown blind to ads and tune them out",
+        "Ads have become too expensive to produce",
+        "New laws limit what advertisers may claim",
+        "Most products sell out before ads appear"
+      ],
+      "why": "Lesson 1 describes the era after advertising, when people skip ads and trust word of mouth."
+    },
+    {
+      "q": "What image does Godin use for a product that truly stands out?",
+      "a": [
+        "A purple cow among ordinary cows",
+        "A loud billboard beside a busy road",
+        "A bargain bin in a discount store",
+        "A race car built purely for speed"
+      ],
+      "why": "Lesson 2 says standing out in a noisy market is like being a purple cow in a herd of brown cows."
+    },
+    {
+      "q": "Which company does the summary call steady but boring?",
+      "a": [
+        "Ford, for barely changing over a decade",
+        "Porsche, for chasing risky new designs",
+        "Apple, for releasing a new phone each year",
+        "Nike, for spending heavily on athletes"
+      ],
+      "why": "Lesson 2 contrasts Ford, which played it safe and saw its stock barely move, with Porsche."
+    },
+    {
+      "q": "What risk did Porsche take with the 918 project?",
+      "a": [
+        "It built a costly hybrid car and limited production to 918 units",
+        "It cut prices sharply to attract first-time buyers",
+        "It copied a rival's design to save development time",
+        "It delayed launch until the technology was proven"
+      ],
+      "why": "Lesson 2 describes a hybrid supercar costing eight times normal models, capped at 918 cars."
+    },
+    {
+      "q": "Who should a new product target first, according to the summary?",
+      "a": [
+        "Innovators and early adopters",
+        "The cautious majority of buyers",
+        "Large retail chains and distributors",
+        "Government regulators and reviewers"
+      ],
+      "why": "Lesson 3 says the majority wants a proven product, so early adopters must spread the word first."
+    }
+  ]
+}

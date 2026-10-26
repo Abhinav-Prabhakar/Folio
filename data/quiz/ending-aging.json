@@ -1,0 +1,56 @@
+{
+  "book": "ending-aging",
+  "title": "Ending Aging",
+  "questions": [
+    {
+      "q": "What does de Grey say is the real cure for aging?",
+      "a": [
+        "Repairing damage that has already accumulated",
+        "Preventing damage through a strict lifestyle",
+        "Taking medication for each symptom as it appears",
+        "Slowing the aging process with calorie restriction"
+      ],
+      "why": "Lesson 1 says the solution is neither prevention nor medication but repairing the damage already done."
+    },
+    {
+      "q": "Why is repair better than merely slowing aging?",
+      "a": [
+        "It can be repeated and keep extending your lifespan",
+        "It works only once but permanently stops aging",
+        "It avoids the need for any future medical treatment",
+        "It restores the body to exactly its teenage state"
+      ],
+      "why": "Lesson 1 says repaired damage can be treated again for the rest of your life, potentially extending lifespan to twice the expected age."
+    },
+    {
+      "q": "What damage do mitochondrial free radicals cause?",
+      "a": [
+        "They mutate mitochondrial DNA and speed up aging",
+        "They block nutrients from reaching the cell nucleus",
+        "They destroy the protective membrane around cells",
+        "They prevent mitochondria from producing any energy"
+      ],
+      "why": "Lesson 2 explains that free radicals produced in mitochondria can mutate mitochondrial DNA, which accelerates aging."
+    },
+    {
+      "q": "What is allotopic expression?",
+      "a": [
+        "Hiding a backup of mitochondrial DNA in the nucleus",
+        "Removing damaged mitochondria from every cell",
+        "Injecting healthy mitochondria into the bloodstream",
+        "Slowing the production of free radicals with drugs"
+      ],
+      "why": "Lesson 2 describes allotopic expression as storing a healthy copy of mitochondrial DNA in the protected nucleus."
+    },
+    {
+      "q": "What mindset change does de Grey call for?",
+      "a": [
+        "Accepting risk and some deaths to speed up approvals",
+        "Waiting for perfect safety data before any human trials",
+        "Focusing funding on prevention rather than repair",
+        "Treating aging as a natural process beyond medicine"
+      ],
+      "why": "Lesson 3 says exaggerating every failed treatment creates delays, and accepting some risk could save more lives overall."
+    }
+  ]
+}

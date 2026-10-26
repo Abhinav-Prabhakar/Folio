@@ -1,0 +1,56 @@
+{
+  "book": "losing-my-virginity",
+  "title": "Losing My Virginity",
+  "questions": [
+    {
+      "q": "What does Branson's childhood bike trip illustrate?",
+      "a": [
+        "A taste for risk can be learned rather than inherited",
+        "Children should never be given directions",
+        "Physical challenges are the best business training",
+        "Parents should push children into entrepreneurship"
+      ],
+      "why": "The first lesson says his parents deliberately gave him challenges, and the broader point is that you need not be born an entrepreneur."
+    },
+    {
+      "q": "How did Virgin Atlantic get its start?",
+      "a": [
+        "He chartered a plane and sold seats to stranded travelers",
+        "He bought an existing airline with family money",
+        "He won an airline in a business bet",
+        "He began with cargo flights between the islands"
+      ],
+      "why": "When his flight was cancelled, Branson chartered a plane for 2,000 dollars and sold every seat for 39 dollars each."
+    },
+    {
+      "q": "What does the summary say about how Branson handles his ventures?",
+      "a": [
+        "He takes one adventure at a time and gives it everything",
+        "He runs many businesses simultaneously",
+        "He avoids new industries until an old one fails",
+        "He only invests in sectors he already understands"
+      ],
+      "why": "The second lesson says he watches for the next opportunity but seizes one at a time, building each business before starting another."
+    },
+    {
+      "q": "Why does Branson spot opportunities that others miss?",
+      "a": [
+        "He practices creativity long before he needs it",
+        "He takes bigger financial risks than anyone else",
+        "He hires more creative advisors than rivals",
+        "He studies his competitors in great detail"
+      ],
+      "why": "The third lesson says you cannot invent a solution on the spot unless you have practiced creativity well in advance."
+    },
+    {
+      "q": "Which daily habit does the summary recommend for building creativity?",
+      "a": [
+        "Writing down ten ideas every day",
+        "Reading one book every week",
+        "Drawing for twenty minutes each morning",
+        "Brainstorming with a group each week"
+      ],
+      "why": "It cites James Altucher's practice of writing ten ideas a day as a great way to exercise creative muscles."
+    }
+  ]
+}

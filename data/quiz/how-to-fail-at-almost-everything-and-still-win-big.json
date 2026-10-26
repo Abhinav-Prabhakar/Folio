@@ -1,0 +1,56 @@
+{
+  "book": "how-to-fail-at-almost-everything-and-still-win-big",
+  "title": "How To Fail At Almost Everything And Still Win Big",
+  "questions": [
+    {
+      "q": "Why does Adams prefer systems to goals?",
+      "a": [
+        "Systems make today count and leave room to adjust",
+        "Systems guarantee that you will get rich",
+        "Systems remove the need for any planning",
+        "Systems are easier to explain to other people"
+      ],
+      "why": "Lesson one says goals are distant and rigid, while systems let each day feel like a win and timing stop mattering."
+    },
+    {
+      "q": "What two flaws does Adams see in goals?",
+      "a": [
+        "They sit in the future and demand a specific outcome",
+        "They require too much money and free time",
+        "They are too easy and rarely motivating",
+        "They depend on luck and other people"
+      ],
+      "why": "Lesson one says a goal's distant deadline is depressing and its specificity breeds disappointment even with near misses."
+    },
+    {
+      "q": "How does Adams suggest finding skills you might have overlooked?",
+      "a": [
+        "Notice where you are comfortable taking risks",
+        "Ask friends to list your weaknesses",
+        "Take a personality test online",
+        "Follow the career with the highest salary"
+      ],
+      "why": "Lesson two says comfort with risk, such as enjoying public speaking, points to areas worth developing."
+    },
+    {
+      "q": "What is job sampling?",
+      "a": [
+        "Trying different jobs until one fits",
+        "Working several part-time jobs at once",
+        "Shadowing a manager for a week",
+        "Taking a test to match your skills"
+      ],
+      "why": "Lesson two describes it as experimenting with different kinds of work until something sticks."
+    },
+    {
+      "q": "What three angles does Adams use to manage energy?",
+      "a": [
+        "Activities, space and time",
+        "Sleep, diet and exercise",
+        "Goals, systems and habits",
+        "Money, status and freedom"
+      ],
+      "why": "Lesson three looks at what excites or drains you, where you work best, and when your internal clock peaks."
+    }
+  ]
+}

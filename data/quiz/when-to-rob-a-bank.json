@@ -1,0 +1,56 @@
+{
+  "book": "when-to-rob-a-bank",
+  "title": "When To Rob A Bank",
+  "questions": [
+    {
+      "q": "What is a hidden truth about price perception?",
+      "a": [
+        "We overreact to small price differences",
+        "We ignore price differences",
+        "We love $1 over $0.99",
+        "We prefer $0.99 over $1"
+      ],
+      "why": "The book notes we overreact to small price differences."
+    },
+    {
+      "q": "Why might walking 1.5 miles and drinking milk be worse for the environment?",
+      "a": [
+        "Milk production emits more CO2 than driving",
+        "Walking emits more CO2 than milk",
+        "Milk is always bad",
+        "Driving is always better"
+      ],
+      "why": "Milk production emits more CO2 than driving for short distances."
+    },
+    {
+      "q": "What does the book say about lying for self‑image?",
+      "a": [
+        "We lie to preserve self‑image",
+        "We never lie",
+        "We lie only to others",
+        "We lie only when honest"
+      ],
+      "why": "It says we lie to preserve self‑image."
+    },
+    {
+      "q": "Which brands are compared in German grocery stores?",
+      "a": [
+        "Dr. Oetker vs. Aldi/Lidl",
+        "McDonald's vs. Burger King",
+        "Nike vs. Adidas",
+        "Apple vs. Samsung"
+      ],
+      "why": "The book compares Dr. Oetker with Aldi and Lidl."
+    },
+    {
+      "q": "What is the main theme of the book?",
+      "a": [
+        "Common sense often fails in economics",
+        "Economics is always logical",
+        "Prices are always accurate",
+        "Economics is simple"
+      ],
+      "why": "The book shows common sense often fails in economics."
+    }
+  ]
+}

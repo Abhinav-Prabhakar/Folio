@@ -1,0 +1,56 @@
+{
+  "book": "rich-dad-poor-dad",
+  "title": "Rich Dad Poor Dad",
+  "questions": [
+    {
+      "q": "Which two emotions does the summary say dominate most people's money decisions?",
+      "a": [
+        "Fear and greed",
+        "Hope and pride",
+        "Shame and envy",
+        "Trust and generosity"
+      ],
+      "why": "The overview says fear keeps us from investing while greed pushes us to spend, and both keep us in the rat race."
+    },
+    {
+      "q": "What does the summary call anything that takes money out of your pocket each month?",
+      "a": [
+        "A liability",
+        "An asset",
+        "A royalty",
+        "An investment"
+      ],
+      "why": "The summary defines liabilities as things like car payments, mortgages and debt that drain money every month."
+    },
+    {
+      "q": "What does the summary advise doing with the extra money from a raise?",
+      "a": [
+        "Investing it in something that builds wealth",
+        "Spending it on an improved lifestyle",
+        "Saving it in a low-interest bank account",
+        "Using it to buy a bigger house"
+      ],
+      "why": "The overview warns that upgrading your lifestyle eats the raise, while investing it can build wealth."
+    },
+    {
+      "q": "What does paying yourself first mean in the summary?",
+      "a": [
+        "Investing your chosen portion before paying bills",
+        "Buying yourself a gift at the start of each month",
+        "Clearing every debt before you spend anything",
+        "Taking your salary before your employees do"
+      ],
+      "why": "The summary says to invest the money you want for stocks or financial education first, then pay bills, which creates useful pressure."
+    },
+    {
+      "q": "How does the summary distinguish your job from your business?",
+      "a": [
+        "Your job pays the bills while your business builds wealth",
+        "Your job should be quit as soon as possible",
+        "Your business should replace your job within a year",
+        "Your business should stay small and unprofitable"
+      ],
+      "why": "The summary advises keeping your job, minding your own business, and building assets on the side until they become your main income."
+    }
+  ]
+}

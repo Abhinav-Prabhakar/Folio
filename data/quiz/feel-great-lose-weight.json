@@ -1,0 +1,56 @@
+{
+  "book": "feel-great-lose-weight",
+  "title": "Feel Great Lose Weight",
+  "questions": [
+    {
+      "q": "What is the body's weight point, as described in lesson 1?",
+      "a": [
+        "The weight the brain defends by adjusting hunger and metabolism",
+        "The weight shown on the scale after a full night's sleep",
+        "The maximum weight a person can safely carry",
+        "The weight at which the body stops producing insulin"
+      ],
+      "why": "Lesson 1 says the brain holds an ideal weight and changes hunger and metabolism to protect it."
+    },
+    {
+      "q": "What did the study comparing meal timing find?",
+      "a": [
+        "People who ate most calories earlier in the day lost more weight",
+        "People who skipped breakfast lost the most weight overall",
+        "Meal timing made no difference compared with calorie counting",
+        "People who ate large dinners burned more fat overnight"
+      ],
+      "why": "Lesson 2 describes two groups and says the earlier eaters lost significantly more."
+    },
+    {
+      "q": "Why does constant snacking work against weight loss?",
+      "a": [
+        "It keeps insulin elevated, so the body stays in fat-storing mode",
+        "It raises leptin so the brain stops registering fullness",
+        "It lowers cortisol and slows the metabolism",
+        "It makes the weight point rise permanently"
+      ],
+      "why": "Lesson 2 recommends three meals a day and limited snacking for this reason."
+    },
+    {
+      "q": "How does poor sleep make losing weight harder?",
+      "a": [
+        "It disrupts hunger signals, raises cortisol and reduces fat burning",
+        "It increases muscle mass and therefore total body weight",
+        "It makes people less likely to eat processed food",
+        "It slows digestion so fewer calories are absorbed"
+      ],
+      "why": "Lesson 2 says short sleep increases cravings and stress hormones while lowering fat burn."
+    },
+    {
+      "q": "What is the Japanese practice of hara hachi bu?",
+      "a": [
+        "Eating until you are about 80 percent full",
+        "Eating only until you feel completely satisfied",
+        "Fasting for one full day each week",
+        "Eating slowly in complete silence"
+      ],
+      "why": "Lesson 3 presents it as a custom of stopping short of being stuffed."
+    }
+  ]
+}

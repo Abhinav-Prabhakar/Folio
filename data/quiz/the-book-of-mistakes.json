@@ -1,0 +1,56 @@
+{
+  "book": "the-book-of-mistakes",
+  "title": "The Book Of Mistakes",
+  "questions": [
+    {
+      "q": "What is the first step to achieving success according to the book?",
+      "a": [
+        "Define your values and work for yourself",
+        "Follow a mentor's path",
+        "Avoid all risks",
+        "Seek external validation"
+      ],
+      "why": "The book stresses defining values and self‑employment."
+    },
+    {
+      "q": "Why does the author warn against toxic friends?",
+      "a": [
+        "They can derail your dreams",
+        "They provide emotional support",
+        "They increase productivity",
+        "They offer financial advice"
+      ],
+      "why": "Toxic friends are said to spoil progress."
+    },
+    {
+      "q": "Which historical figure is used to illustrate learning from failure?",
+      "a": [
+        "Steve Jobs",
+        "Albert Einstein",
+        "Mahatma Gandhi",
+        "Winston Churchill"
+      ],
+      "why": "Steve Jobs' firing and comeback are highlighted."
+    },
+    {
+      "q": "What does the book say about standing out?",
+      "a": [
+        "It is acceptable if you have a unique vision",
+        "It guarantees success",
+        "It should be avoided",
+        "It is only for artists"
+      ],
+      "why": "Standing out with a different vision is encouraged."
+    },
+    {
+      "q": "What is the main lesson from the letter David receives?",
+      "a": [
+        "Avoid nine key mistakes",
+        "Find a mentor",
+        "Start a business",
+        "Travel abroad"
+      ],
+      "why": "The letter introduces the nine mistakes to avoid."
+    }
+  ]
+}

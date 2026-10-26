@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-no",
+  "title": "The Power Of No",
+  "questions": [
+    {
+      "q": "What does the author suggest to identify toxic people?",
+      "a": [
+        "Rate regulars",
+        "Count meetings",
+        "Avoid them",
+        "Hire a coach"
+      ],
+      "why": "Rate regulars to see who drains energy."
+    },
+    {
+      "q": "What is an \"assertive no\"?",
+      "a": [
+        "Declining unwanted tasks",
+        "Accepting all requests",
+        "Ignoring others",
+        "Giving praise"
+      ],
+      "why": "It's the no used to decline unwanted tasks."
+    },
+    {
+      "q": "Which lesson advises against chasing scarcity?",
+      "a": [
+        "Say no to scarcity",
+        "Stop saying no",
+        "Increase scarcity",
+        "Avoid abundance"
+      ],
+      "why": "The lesson is to say no to scarcity."
+    },
+    {
+      "q": "Who is cited as a good example of saying no?",
+      "a": [
+        "Steve Jobs",
+        "James Altucher",
+        "Charles Duhigg",
+        "Daniel Pink"
+      ],
+      "why": "Steve Jobs is mentioned as good at saying no."
+    },
+    {
+      "q": "What is the main benefit of saying no to unwanted work?",
+      "a": [
+        "Preserve relationships",
+        "Improve focus",
+        "Increase workload",
+        "Reduce income"
+      ],
+      "why": "It preserves relationships and focus."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "indistractable",
+  "title": "Indistractable",
+  "questions": [
+    {
+      "q": "What does Eyal say is the real source of distraction?",
+      "a": [
+        "Internal triggers such as anxiety or boredom",
+        "Notifications from phones and computers",
+        "A lack of discipline and willpower",
+        "Friends and coworkers interrupting you"
+      ],
+      "why": "Lesson 1 says gadgets are not the root cause; the triggers wired inside us make us seek distraction."
+    },
+    {
+      "q": "What does the summary suggest doing when you feel the urge to get distracted?",
+      "a": [
+        "Notice the emotion behind it and let it pass",
+        "Remove every device from the room",
+        "Switch to a different task for a while",
+        "Promise yourself a reward afterwards"
+      ],
+      "why": "Lesson 1 advises identifying the feeling and visualizing it being carried away like water or wind."
+    },
+    {
+      "q": "How does timeboxing work?",
+      "a": [
+        "You reserve fixed slots for specific tasks each week",
+        "You work until a task is finished, then rest",
+        "You track how long every task actually took",
+        "You set a timer and stop whenever it rings"
+      ],
+      "why": "Lesson 2 defines it as allocating a set time frame to a task, then protecting that time from distraction."
+    },
+    {
+      "q": "What does Eyal say belongs on your calendar alongside work?",
+      "a": [
+        "Quality time for yourself, family and friends",
+        "The most urgent work deadline",
+        "Exercise and meal preparation",
+        "Email and administrative tasks"
+      ],
+      "why": "Lesson 2 says to start by planning quality time for yourself and the people close to you."
+    },
+    {
+      "q": "What is an identity pact?",
+      "a": [
+        "Defining yourself as someone with the habits you want",
+        "Fining yourself each time you break a promise",
+        "Studying alongside a stranger online",
+        "Telling friends about a goal so they hold you to it"
+      ],
+      "why": "Lesson 3 suggests saying you are a vegetarian rather than that you cannot eat meat, to avoid temptation."
+    }
+  ]
+}

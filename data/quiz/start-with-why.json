@@ -1,0 +1,56 @@
+{
+  "book": "start-with-why",
+  "title": "Start With Why",
+  "questions": [
+    {
+      "q": "In what order do inspiring leaders communicate, according to Sinek?",
+      "a": [
+        "Why, then how, then what",
+        "What, then how, then why",
+        "How, then what, then why",
+        "Why, then what, then how"
+      ],
+      "why": "Lesson 1 describes leaders starting with purpose, then method, and revealing the product last."
+    },
+    {
+      "q": "Why does starting with why work better than explaining what you do?",
+      "a": [
+        "Emotions drive decisions more strongly than rational arguments",
+        "Customers always prefer the cheapest available option",
+        "Facts are impossible to remember over time",
+        "Companies cannot explain their products clearly"
+      ],
+      "why": "Lesson 1 says emotions trump reason, so a strong why makes people own the decision."
+    },
+    {
+      "q": "How does Apple illustrate the golden circle?",
+      "a": [
+        "It explains its purpose first and only later names its products",
+        "It lists technical specifications before its mission",
+        "It advertises mainly through limited-time discounts",
+        "It lets retailers explain its products to customers"
+      ],
+      "why": "Lesson 1 says Apple leads with its reason for existing and reveals computers and phones last."
+    },
+    {
+      "q": "Whom does Sinek advise hiring?",
+      "a": [
+        "People motivated by the same cause, even if they need time to learn",
+        "The most technically skilled candidates available",
+        "Graduates from the most prestigious schools",
+        "People who will accept the lowest salary"
+      ],
+      "why": "Lesson 2 says to hire for cause rather than craft, comparing a motivated learner with a fee-driven expert."
+    },
+    {
+      "q": "How many true fans does the summary say can sustain a business for a lifetime?",
+      "a": [
+        "One thousand",
+        "One hundred",
+        "Ten thousand",
+        "One million"
+      ],
+      "why": "Lesson 3 says a thousand true fans, who trust your why, are enough to keep a business going."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "irresistible",
+  "title": "Irresistible",
+  "questions": [
+    {
+      "q": "Why does scrolling social media keep us hooked?",
+      "a": [
+        "Each swipe brings less pleasure, so we seek more",
+        "The app rewards us with money and prizes",
+        "Our brains stop producing dopamine entirely",
+        "Notifications arrive at unpredictable times only"
+      ],
+      "why": "Lesson 1 says dopamine gives intense pleasure, but the payoff shrinks with repetition, driving the habit."
+    },
+    {
+      "q": "How does using your phone in bed affect sleep?",
+      "a": [
+        "The light tells your body it is time to be awake",
+        "It makes you fall asleep faster by relaxing you",
+        "It has no effect as long as you use dark mode",
+        "It improves sleep by blocking outside noise"
+      ],
+      "why": "Lesson 1 says phone light signals wakefulness and teaches your mind the bed is for being conscious."
+    },
+    {
+      "q": "How long does it take to regain deep focus after a distraction?",
+      "a": [
+        "About 25 minutes",
+        "About 5 minutes",
+        "About 15 minutes",
+        "About 40 minutes"
+      ],
+      "why": "Lesson 2 cites an estimate of 25 minutes to get back into deep work after an interruption."
+    },
+    {
+      "q": "What does the summary recommend doing with email notifications?",
+      "a": [
+        "Turn them off and check email at set times",
+        "Answer each one immediately to stay ahead",
+        "Keep only the alerts from your manager",
+        "Check email first thing every morning"
+      ],
+      "why": "Lesson 2 suggests silencing notifications and setting aside specific times to respond."
+    },
+    {
+      "q": "How does the summary suggest breaking a phone habit?",
+      "a": [
+        "Replace the routine part of the habit loop",
+        "Quit all devices for a full month",
+        "Delete every social media account",
+        "Set a strict daily screen time limit"
+      ],
+      "why": "Lesson 3 says swapping the routine, like picking up a book instead, works better than quitting cold turkey."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-pragmatists-guide-to-relationships",
+  "title": "The Pragmatist’s Guide To Relationships",
+  "questions": [
+    {
+      "q": "What does the book say about the impact of relationships on happiness?",
+      "a": [
+        "They have a greater impact than anything else",
+        "They are less important than career goals",
+        "They are irrelevant to overall well-being",
+        "They are only important in early life"
+      ],
+      "why": "The text states relationships have a far greater impact on happiness than anything else."
+    },
+    {
+      "q": "Which term describes sharing mental tasks with a partner?",
+      "a": [
+        "Cognitive integration",
+        "Cognitive separation",
+        "Cognitive siloing",
+        "Cognitive isolation"
+      ],
+      "why": "The book defines this as cognitive integration."
+    },
+    {
+      "q": "How many levels of cognitive integration are listed?",
+      "a": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "why": "The text lists three levels: Separate, Siloed, Integrated."
+    },
+    {
+      "q": "What is a relationship lure according to the Collins'?",
+      "a": [
+        "The value you offer a potential partner",
+        "A type of fishing rod",
+        "A legal contract",
+        "An emotional secret"
+      ],
+      "why": "The Collins' describe a lure as the value you offer a potential partner."
+    },
+    {
+      "q": "Which example illustrates the power of two horses?",
+      "a": [
+        "They can haul 24,000 pounds together",
+        "They can pull 8,000 pounds each",
+        "They can only pull 8,000 pounds together",
+        "They can pull 12,000 pounds together"
+      ],
+      "why": "The text compares two horses pulling 24,000 pounds versus one pulling 8,000 pounds."
+    }
+  ]
+}

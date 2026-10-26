@@ -1,0 +1,56 @@
+{
+  "book": "the-rebel-rules",
+  "title": "The Rebel Rules",
+  "questions": [
+    {
+      "q": "What does Chip Conley suggest leaders use to share their vision?",
+      "a": [
+        "Own vocabulary",
+        "Formal reports",
+        "Charts",
+        "Emails"
+      ],
+      "why": "He recommends creating a personal vocabulary for the vision."
+    },
+    {
+      "q": "Which customer service level is the minimum required?",
+      "a": [
+        "Expected",
+        "Desired",
+        "Unexpected",
+        "Optional"
+      ],
+      "why": "Expected is the minimum level of service."
+    },
+    {
+      "q": "What is a rule of thumb used for company decisions?",
+      "a": [
+        "Financial rule",
+        "Hiring rule",
+        "Marketing rule",
+        "Pricing rule"
+      ],
+      "why": "Chip uses a financial rule of thumb for decisions."
+    },
+    {
+      "q": "Who wrote the foreword for The Rebel Rules?",
+      "a": [
+        "Richard Branson",
+        "Chip Conley",
+        "Brian Tracy",
+        "Chris Bailey"
+      ],
+      "why": "Richard Branson wrote the foreword."
+    },
+    {
+      "q": "What is the benefit of giving employees a simple question?",
+      "a": [
+        "Improve service",
+        "Reduce costs",
+        "Increase sales",
+        "Speed up training"
+      ],
+      "why": "A simple question helps employees deliver better service."
+    }
+  ]
+}

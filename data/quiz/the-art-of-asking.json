@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-asking",
+  "title": "The Art Of Asking",
+  "questions": [
+    {
+      "q": "Why can accepting help be good for the giver?",
+      "a": [
+        "Helping others lets them process their own problems",
+        "It creates a debt they can call in later",
+        "It makes them look generous to others",
+        "It teaches them skills they lack"
+      ],
+      "why": "Lesson 1 describes Anthony, who found helping Palmer helped him too."
+    },
+    {
+      "q": "What separates an ask from begging?",
+      "a": [
+        "An ask leaves the other person free to say no",
+        "An ask always includes a gift in return",
+        "An ask is made only to close friends",
+        "An ask is repeated until it succeeds"
+      ],
+      "why": "Lesson 2 says a real ask is a two-way street with a viable no."
+    },
+    {
+      "q": "What did Palmer learn from offering flowers to her audience?",
+      "a": [
+        "A true gift must let the other person decline it",
+        "People value gifts more when they cost money",
+        "Audiences prefer gifts they can keep",
+        "Offering gifts creates loyal customers"
+      ],
+      "why": "Lesson 2 says some people refused, which made the exchange a real ask."
+    },
+    {
+      "q": "How did Palmer treat her email list?",
+      "a": [
+        "Like pen pals she could share everything with",
+        "Like a sales funnel to convert into buyers",
+        "Like a private archive of fan data",
+        "Like a mailing list to sell to partners"
+      ],
+      "why": "Lesson 3 says she was making friends, not collecting customers."
+    },
+    {
+      "q": "Why did she refuse to hand her list to her managers?",
+      "a": [
+        "She feared they would commercialize and spam it",
+        "She wanted to sell it to a higher bidder",
+        "She had promised it to her bandmates",
+        "She worried it was too small to matter"
+      ],
+      "why": "Lesson 3 says she would not sell out her friends for efficiency."
+    }
+  ]
+}

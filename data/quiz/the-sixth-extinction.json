@@ -1,0 +1,56 @@
+{
+  "book": "the-sixth-extinction",
+  "title": "The Sixth Extinction",
+  "questions": [
+    {
+      "q": "Which human activity most directly fragments animal habitats, raising extinction risk?",
+      "a": [
+        "Deforestation",
+        "Mining",
+        "Fishing",
+        "Urbanization"
+      ],
+      "why": "Deforestation cuts large woodlands, fragmenting habitats."
+    },
+    {
+      "q": "What trait of Homo sapiens contributes to ecological imbalance?",
+      "a": [
+        "Restlessness",
+        "Creativity",
+        "Cooperation",
+        "Risk-taking"
+      ],
+      "why": "Restlessness drives us to alter environments."
+    },
+    {
+      "q": "Which era intensified human impact on biodiversity?",
+      "a": [
+        "Industrial era",
+        "Agricultural era",
+        "Post‑WWII era",
+        "Digital era"
+      ],
+      "why": "Industrial era accelerated habitat loss and species decline."
+    },
+    {
+      "q": "What does Kolbert suggest to counteract the sixth extinction?",
+      "a": [
+        "Use human creativity for conservation",
+        "Reduce technology",
+        "Eliminate agriculture",
+        "Ignore climate change"
+      ],
+      "why": "She urges harnessing our traits to save species."
+    },
+    {
+      "q": "Which extinction event was caused by an asteroid?",
+      "a": [
+        "First mass extinction",
+        "Second mass extinction",
+        "Third mass extinction",
+        "Fourth mass extinction"
+      ],
+      "why": "The first mass extinction was asteroid‑induced."
+    }
+  ]
+}

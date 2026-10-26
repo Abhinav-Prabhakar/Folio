@@ -1,0 +1,56 @@
+{
+  "book": "under-pressure",
+  "title": "Under Pressure",
+  "questions": [
+    {
+      "q": "What type of stress does the book say can be beneficial?",
+      "a": [
+        "Useful stress from challenges",
+        "Constant anxiety",
+        "Social media pressure",
+        "Academic deadlines"
+      ],
+      "why": "It describes useful stress that builds resilience."
+    },
+    {
+      "q": "Who is the psychologist mentioned in the book?",
+      "a": [
+        "Dr. Lisa Damour",
+        "Dr. Alan Schlechter",
+        "Dr. John Smith",
+        "Dr. Jane Doe"
+      ],
+      "why": "The text references Dr. Lisa Damour."
+    },
+    {
+      "q": "What did Jamie fear in the story?",
+      "a": [
+        "Failing a chemistry test",
+        "Missing a party",
+        "Losing a friend",
+        "Getting a job"
+      ],
+      "why": "Jamie was afraid of failing a chemistry test."
+    },
+    {
+      "q": "Which group outperforms the other in school, per the book?",
+      "a": [
+        "Girls",
+        "Boys",
+        "Both equally",
+        "Neither"
+      ],
+      "why": "The book states girls outperform boys academically."
+    },
+    {
+      "q": "What is a hidden cost of girls' academic success?",
+      "a": [
+        "Higher stress levels",
+        "Lower grades",
+        "Fewer friends",
+        "Less confidence"
+      ],
+      "why": "It notes girls are more stressed about performance."
+    }
+  ]
+}

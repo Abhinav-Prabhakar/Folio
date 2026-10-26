@@ -1,0 +1,56 @@
+{
+  "book": "get-better-at-anything",
+  "title": "Get Better at Anything",
+  "questions": [
+    {
+      "q": "What three themes organize Young's principles for mastery?",
+      "a": [
+        "Seeing, doing and feedback",
+        "Reading, writing and arithmetic",
+        "Planning, practice and rest",
+        "Focus, speed and memory"
+      ],
+      "why": "The overview groups the maxims into learning from others, practicing well, and adjusting in the real world."
+    },
+    {
+      "q": "How does the summary describe a problem space?",
+      "a": [
+        "A maze where you know your position and the destination",
+        "A ladder of increasingly difficult tasks",
+        "A map that has no fixed endpoint",
+        "A puzzle with only one possible solution"
+      ],
+      "why": "The first lesson says the walls limit your moves and you must search for the path that reaches the exit."
+    },
+    {
+      "q": "What image did Andrew Wiles use for working on a hard proof?",
+      "a": [
+        "Stumbling around a dark mansion until you find the light switch",
+        "Climbing a mountain one camp at a time",
+        "Solving a crossword with a team of friends",
+        "Following a map someone else drew for you"
+      ],
+      "why": "The first lesson uses Wiles, who solved Fermat's Last Theorem, to show how solutions accumulate slowly."
+    },
+    {
+      "q": "Why does Young prefer variation over repetition in practice?",
+      "a": [
+        "It helps skills transfer to new situations",
+        "It makes every practice session shorter",
+        "It removes the need for feedback",
+        "It builds muscle memory much faster"
+      ],
+      "why": "The second lesson draws on 1940s jazz musicians who learned by playing with many different people."
+    },
+    {
+      "q": "What does renovating instead of rebuilding mean?",
+      "a": [
+        "Replacing old ideas and habits one at a time",
+        "Abandoning everything you know and starting over",
+        "Redecorating your workspace to focus better",
+        "Repeating the basics until they feel new"
+      ],
+      "why": "The third lesson's unlearning strategy keeps what works and swaps out single pieces until a new approach fits."
+    }
+  ]
+}

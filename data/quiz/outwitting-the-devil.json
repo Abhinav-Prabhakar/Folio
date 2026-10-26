@@ -1,0 +1,56 @@
+{
+  "book": "outwitting-the-devil",
+  "title": "Outwitting The Devil",
+  "questions": [
+    {
+      "q": "According to Hill, what are the two bases from which we build our lives?",
+      "a": [
+        "Faith and fear",
+        "Love and ambition",
+        "Reason and habit",
+        "Wealth and status"
+      ],
+      "why": "Lesson 1 says Hill saw faith and fear as the two foundations from which people operate."
+    },
+    {
+      "q": "What is a drifter in the book?",
+      "a": [
+        "Someone who does little thinking for themselves",
+        "Someone who changes jobs frequently",
+        "Someone who travels without a plan",
+        "Someone who rejects all advice"
+      ],
+      "why": "Lesson 2 quotes the devil's definition: those who think for themselves never drift."
+    },
+    {
+      "q": "What happens to drifting over time, according to Hill?",
+      "a": [
+        "It becomes permanent through a hypnotic rhythm",
+        "It corrects itself naturally with age",
+        "It is cured by working harder",
+        "It only affects people who are lazy"
+      ],
+      "why": "Lesson 2 says drifting turns into a hypnotic rhythm that keeps people busy with trivialities."
+    },
+    {
+      "q": "Which principle means choosing a grand goal and pursuing it relentlessly?",
+      "a": [
+        "Definiteness of purpose",
+        "Mastery over self",
+        "Learning from adversity",
+        "Controlling environmental influence"
+      ],
+      "why": "Lesson 3 lists definiteness of purpose first among the seven principles of freedom."
+    },
+    {
+      "q": "What does Hill say about failure?",
+      "a": [
+        "Failures only stop us if we let them",
+        "Failures should end a project immediately",
+        "Successful people avoid all setbacks",
+        "Adversity is a sign of the wrong purpose"
+      ],
+      "why": "Lesson 3 says failure is just failure; whether we learn from it or stop is our choice."
+    }
+  ]
+}

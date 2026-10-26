@@ -1,0 +1,56 @@
+{
+  "book": "stillness-is-the-key",
+  "title": "Stillness Is The Key",
+  "questions": [
+    {
+      "q": "What did John F. Kennedy do before deciding how to respond to Soviet missiles in Cuba?",
+      "a": [
+        "He paused to reflect, swimming and spending time in the Rose Garden",
+        "He gathered his advisors for an immediate vote on an attack",
+        "He ordered the missile sites destroyed without further delay",
+        "He flew to Moscow to negotiate with Soviet leaders in person"
+      ],
+      "why": "Lesson 1 describes Kennedy writing notes, swimming in the White House pool and sitting in the Rose Garden before choosing a response."
+    },
+    {
+      "q": "Which response did Kennedy ultimately choose in the Cuban Missile Crisis?",
+      "a": [
+        "A blockade that gave his opponent time to think as well",
+        "An immediate air strike on the missile sites",
+        "A trade of American missiles for Soviet ones",
+        "A complaint filed with the United Nations"
+      ],
+      "why": "Lesson 1 says Kennedy settled on a blockade of Cuba, which let Kruschev reflect before writing back."
+    },
+    {
+      "q": "According to lesson 2, what does letting silence into your life allow you to do?",
+      "a": [
+        "Notice things you would otherwise miss",
+        "Escape from other people completely",
+        "Think faster when under pressure",
+        "Avoid conversations you find difficult"
+      ],
+      "why": "Lesson 2 says quietness lets us pick up on ideas and feelings that noise would drown out."
+    },
+    {
+      "q": "What is unusual about John Cage's musical piece 4'33?",
+      "a": [
+        "It consists of pure silence lasting four minutes and 33 seconds",
+        "It is performed on four pianos at the same time",
+        "It repeats a single note 433 times without pause",
+        "It must always be played outdoors in bad weather"
+      ],
+      "why": "Lesson 2 describes Cage's best-known work as a piece made entirely of silence."
+    },
+    {
+      "q": "What did Anders Ericsson's study of violinists find about the best performers?",
+      "a": [
+        "They slept more and napped more than the others",
+        "They practiced far longer hours than the others",
+        "They began training later than the others",
+        "They played more concerts than the others"
+      ],
+      "why": "Lesson 3 notes that the strongest violinists got more sleep and napped more often than their peers."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "loonshots",
+  "title": "Loonshots",
+  "questions": [
+    {
+      "q": "What happened to Nokia when it grew conservative about new ideas?",
+      "a": [
+        "Sales and profits fell as it lost its innovative edge",
+        "It was acquired by a larger rival almost overnight",
+        "It shifted successfully from phones into software",
+        "It kept leading the smartphone market for years"
+      ],
+      "why": "The first lesson says Nokia stopped innovating as much and then saw its sales and profits decline."
+    },
+    {
+      "q": "Why is it a mistake to value only the innovators in a company?",
+      "a": [
+        "The people running today's business are equally important",
+        "Innovators rarely produce ideas that make money",
+        "Execution work can always be outsourced cheaply",
+        "Innovators need no resources to do their work"
+      ],
+      "why": "The second lesson calls the executors the breadwinners of today and says both groups are equally important."
+    },
+    {
+      "q": "What happened when Shen Kuo described planets orbiting the sun?",
+      "a": [
+        "Nobody listened or funded him and the idea faded",
+        "He was celebrated throughout China for the discovery",
+        "He published it and transformed Chinese astronomy",
+        "He abandoned astronomy to pursue a political career"
+      ],
+      "why": "The third lesson says no one wanted to hear or fund Shen Kuo, and the same idea was rediscovered half a century later."
+    },
+    {
+      "q": "How does the book describe the origin of loonshot ideas?",
+      "a": [
+        "They often begin as crazy ideas given room to flourish",
+        "They come from lone geniuses who need no help",
+        "They require huge budgets from the very first day",
+        "They emerge mainly during national emergencies"
+      ],
+      "why": "The overview says great ideas appear in unexpected moments and need space and support to become real products."
+    },
+    {
+      "q": "What mistake did the US make with radar before Pearl Harbor?",
+      "a": [
+        "It knew about the innovation but did not pursue it",
+        "It shared the technology openly with its enemies",
+        "It relied on radar and ignored its navy",
+        "It funded radar but trained no operators"
+      ],
+      "why": "The first lesson says America knew about Leo Young's radar but did not think it necessary at the time."
+    }
+  ]
+}

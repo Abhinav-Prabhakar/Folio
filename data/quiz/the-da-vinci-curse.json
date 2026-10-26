@@ -1,0 +1,56 @@
+{
+  "book": "the-da-vinci-curse",
+  "title": "The Da Vinci Curse",
+  "questions": [
+    {
+      "q": "What does the world primarily value in talent?",
+      "a": [
+        "Specialization",
+        "Versatility",
+        "Curiosity",
+        "Creativity"
+      ],
+      "why": "The world thrives on specialists."
+    },
+    {
+      "q": "What should a multipotentialite avoid?",
+      "a": [
+        "Competition and criticism",
+        "Networking",
+        "Marketing",
+        "Travel"
+      ],
+      "why": "They tend to avoid competition and criticism."
+    },
+    {
+      "q": "What activity did Leonardo Lospennato choose?",
+      "a": [
+        "Building electric guitars",
+        "Painting",
+        "Writing novels",
+        "Sculpting"
+      ],
+      "why": "He built electric guitars."
+    },
+    {
+      "q": "Why pick a complex activity?",
+      "a": [
+        "Uses many talents",
+        "Is easy",
+        "Requires little skill",
+        "Is popular"
+      ],
+      "why": "Complex tasks use many skills."
+    },
+    {
+      "q": "What is a key benefit of focusing on one complex task?",
+      "a": [
+        "Integrates multiple skills",
+        "Reduces stress",
+        "Increases fame",
+        "Simplifies life"
+      ],
+      "why": "It integrates many skills."
+    }
+  ]
+}

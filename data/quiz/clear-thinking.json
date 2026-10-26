@@ -1,0 +1,56 @@
+{
+  "book": "clear-thinking",
+  "title": "Clear Thinking",
+  "questions": [
+    {
+      "q": "Which four defaults does Parrish say get in the way of clear thinking?",
+      "a": [
+        "Emotion, ego, social pressure and inertia",
+        "Fear, anger, pride and fatigue",
+        "Bias, habit, stress and distraction",
+        "Doubt, denial, urgency and optimism"
+      ],
+      "why": "Lesson 1 names the emotion, ego, social and inertia defaults as the primary enemies of clear thinking."
+    },
+    {
+      "q": "What happens when several of these defaults fire at once?",
+      "a": [
+        "Thinking breaks down completely and bad decisions follow",
+        "They cancel each other out and restore calm",
+        "The strongest default takes over harmlessly",
+        "We notice the pattern and correct it quickly"
+      ],
+      "why": "The summary says that when the defaults act together, all hell breaks loose, as in the story of the angry CEO."
+    },
+    {
+      "q": "What does Parrish mean by self-accountability?",
+      "a": [
+        "Owning your mistakes and the bad luck that isn't your fault",
+        "Tracking how often your predictions turn out right",
+        "Accepting blame only when you clearly caused the problem",
+        "Letting others take responsibility for team failures"
+      ],
+      "why": "Lesson 2 says self-accountability means taking responsibility for your errors and for bad situations you did not cause."
+    },
+    {
+      "q": "What is the first step in Parrish's process for handling a mistake?",
+      "a": [
+        "Accept your share of responsibility for what happened",
+        "Explain why the mistake was unavoidable",
+        "Wait until the damage becomes completely clear",
+        "Ask someone else to fix the problem"
+      ],
+      "why": "The four-step process starts with accepting responsibility, even when your share of the cause is small or nonexistent."
+    },
+    {
+      "q": "What does Parrish call the bigger mistake people make after an error?",
+      "a": [
+        "Trying to hide it and dodge responsibility",
+        "Apologizing too quickly and too often",
+        "Changing the plan before it has been tested",
+        "Refusing to try anything risky again"
+      ],
+      "why": "The summary quotes Parrish saying the first mistake is expensive, but covering it up costs a fortune."
+    }
+  ]
+}

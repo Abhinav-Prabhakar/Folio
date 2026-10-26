@@ -1,0 +1,56 @@
+{
+  "book": "enchantment",
+  "title": "Enchantment",
+  "questions": [
+    {
+      "q": "How does May define enchantment?",
+      "a": [
+        "Noticing everyday magic and drawing strength from it",
+        "Escaping daily life through travel to remote places",
+        "Finding a spiritual practice that explains the world",
+        "Feeling awe only in the presence of grand landscapes"
+      ],
+      "why": "Lesson 1 quotes May's idea that enchantment means noticing everyday magic and drawing strength from it."
+    },
+    {
+      "q": "Which earth practices does May recommend?",
+      "a": [
+        "Walking barefoot and keeping a pebble in your pocket",
+        "Gardening every morning and composting at home",
+        "Hiking long distances and climbing mountains",
+        "Sleeping outdoors and eating only local food"
+      ],
+      "why": "Lesson 1 calls walking barefoot a moving meditation and says keeping a pebble in your pocket can calm an anxious mind."
+    },
+    {
+      "q": "Why does May see fire as a gift as well as a danger?",
+      "a": [
+        "Respected, it cooks food and gathers people together",
+        "It destroys old forests so new cities can be built",
+        "It burns away emotions that cause anxiety",
+        "It makes meteor showers visible from Earth"
+      ],
+      "why": "Lesson 2 says fire cleanses and renews, lets us cook, and draws people around campfires to tell stories and belong."
+    },
+    {
+      "q": "What does air symbolize for May?",
+      "a": [
+        "Constant change and the chance to try a new direction",
+        "The stillness that comes from meditation",
+        "The invisible force that holds the sky together",
+        "The danger of losing touch with reality"
+      ],
+      "why": "Lesson 2 links air to constant change and the freedom to choose a different path."
+    },
+    {
+      "q": "What was aether in early science?",
+      "a": [
+        "An invisible fifth element thought to hold everything together",
+        "A gas that scientists believed made up the atmosphere",
+        "A measure of how much light a star emits",
+        "A type of meteor shower seen only in spring"
+      ],
+      "why": "Lesson 3 says early scientists believed aether, or quintessence, was an invisible glue holding the sky, stars and sun together."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "don-quixote",
+  "title": "Don Quixote",
+  "questions": [
+    {
+      "q": "How does the summary characterise Sancho Panza's part in the story?",
+      "a": ["An opportunist who was also a good friend", "A coward who abandons the quest", "A rival knight travelling in disguise", "A wealthy noble with no interest in rewards"],
+      "why": "Lesson 3 says Sancho seized the chance for reward but stayed loyal, helping Quixote through every challenge."
+    },
+    {
+      "q": "What did Quixote believe the inn was on the night of his first challenge?",
+      "a": ["A castle where he could be knighted", "A prison holding his lady", "A church run by friars", "A fortress full of enemies"],
+      "why": "Lesson 2 says Quixote's delusion first showed when he took the inn for a castle and asked the innkeeper to knight him."
+    },
+    {
+      "q": "What did Quixote mistake the windmills for?",
+      "a": ["Giants he had to fight", "Castles full of nobles", "Armies of the wicked", "Dragons guarding treasure"],
+      "why": "Lesson 2 describes the famous episode where Quixote charges more than thirty windmills as if they were giants."
+    },
+    {
+      "q": "What does the summary say about the stories we tell ourselves?",
+      "a": ["They comfort us now but distort reality over time", "They are harmless unless we act on them", "They always reflect the world more clearly", "They help others understand us better"],
+      "why": "Lesson 1 argues Quixote's invented world felt good immediately but left him isolated and disappointed later."
+    },
+    {
+      "q": "What does the bond between Quixote and Sancho illustrate?",
+      "a": ["Everyone needs someone to share their troubles with", "Loyalty must be bought with a reward", "Friends should correct each other's delusions", "Adventure is better undertaken alone"],
+      "why": "Lesson 2 says the pair shows that every person needs a soul to share challenges with, like a knight needs a squire."
+    }
+  ]
+}

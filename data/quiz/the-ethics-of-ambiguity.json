@@ -1,0 +1,56 @@
+{
+  "book": "the-ethics-of-ambiguity",
+  "title": "The Ethics Of Ambiguity",
+  "questions": [
+    {
+      "q": "Who argues that people mature to different levels of freedom?",
+      "a": [
+        "de Beauvoir",
+        "Kant",
+        "Aristotle",
+        "Hume"
+      ],
+      "why": "de Beauvoir discusses maturity levels."
+    },
+    {
+      "q": "What term describes the illusion of an unbiased opinion?",
+      "a": [
+        "Disinterested contemplation",
+        "Objectivity",
+        "Neutrality",
+        "Impartiality"
+      ],
+      "why": "Disinterested contemplation is the philosophical term."
+    },
+    {
+      "q": "Which group uses national identity to justify oppression?",
+      "a": [
+        "Fascists",
+        "Capitalists",
+        "Socialists",
+        "Environmentalists"
+      ],
+      "why": "Fascists appeal to national identity."
+    },
+    {
+      "q": "What is a common consequence of ignoring real people in policy?",
+      "a": [
+        "People come last",
+        "Policies succeed",
+        "Public support increases",
+        "Economic growth"
+      ],
+      "why": "Abstract ideals often put people last."
+    },
+    {
+      "q": "What does the book suggest about making choices?",
+      "a": [
+        "We should use all freedoms",
+        "We should avoid choices",
+        "We should follow rules",
+        "We should ignore consequences"
+      ],
+      "why": "The book encourages using all available freedoms."
+    }
+  ]
+}

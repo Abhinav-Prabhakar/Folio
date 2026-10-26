@@ -1,0 +1,56 @@
+{
+  "book": "pre-suasion",
+  "title": "Pre-Suasion",
+  "questions": [
+    {
+      "q": "What is a leading question?",
+      "a": [
+        "One that steers the person toward a particular answer",
+        "One that offers only two possible options",
+        "One that asks for a strictly factual reply",
+        "One that repeats the question asked before"
+      ],
+      "why": "Lesson 1 defines leading questions as questions that nudge respondents to answer in a certain way."
+    },
+    {
+      "q": "In the 1993 student study, what did asking if people were unhappy produce?",
+      "a": [
+        "A far higher rate of reported unhappiness",
+        "More honest answers about everyday stress",
+        "A wider spread of answers than usual",
+        "Many students refusing to answer at all"
+      ],
+      "why": "Lesson 1 says students asked about unhappiness were 375 percent more likely to report being unhappy."
+    },
+    {
+      "q": "What does the summary say about whatever grabs our attention?",
+      "a": [
+        "We treat it as more relevant than it may be",
+        "We forget it faster than ordinary details",
+        "We trust it less than quiet information",
+        "We assume it came from a reliable source"
+      ],
+      "why": "Lesson 2 says the longer we focus on something attention-grabbing, the more important it seems."
+    },
+    {
+      "q": "What did the scrambled-sentence study find about aggressive words?",
+      "a": [
+        "People who saw them set much stronger electric shocks",
+        "People who saw them became more polite afterward",
+        "People who saw them remembered fewer words",
+        "People who saw them refused to continue the test"
+      ],
+      "why": "Lesson 3 says participants primed with words like rage and kill chose shock levels 50 percent higher than the control group."
+    },
+    {
+      "q": "What happened to participants who read a text full of words about old age?",
+      "a": [
+        "They walked more slowly afterward",
+        "They spoke more loudly than before",
+        "They forgot what they had read",
+        "They felt younger than their age"
+      ],
+      "why": "Lesson 3 describes a study in which priming with old-age words made participants physically walk slower."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-regret",
+  "title": "The Power of Regret",
+  "questions": [
+    {
+      "q": "What type of regret paralyzes people?",
+      "a": [
+        "Unproductive regret",
+        "Productive regret",
+        "Positive regret",
+        "Neutral regret"
+      ],
+      "why": "Unproductive regret paralyzes."
+    },
+    {
+      "q": "Which emotion is compared to a stock in the portfolio?",
+      "a": [
+        "Regret",
+        "Joy",
+        "Anger",
+        "Fear"
+      ],
+      "why": "Regret is likened to a stock."
+    },
+    {
+      "q": "What is one way to turn regret into something useful?",
+      "a": [
+        "Undo it",
+        "Ignore it",
+        "Blame others",
+        "Celebrate it"
+      ],
+      "why": "Undoing a regret can make it productive."
+    },
+    {
+      "q": "Who wrote The Power of Regret?",
+      "a": [
+        "Daniel Pink",
+        "Charles Duhigg",
+        "James Altucher",
+        "Steve Jobs"
+      ],
+      "why": "Daniel Pink is the author."
+    },
+    {
+      "q": "Which regret type is described as catalytic?",
+      "a": [
+        "Productive regret",
+        "Unproductive regret",
+        "Mixed regret",
+        "No regret"
+      ],
+      "why": "Productive regret catalyzes action."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "chaos-monkeys",
+  "title": "Chaos Monkeys",
+  "questions": [
+    {
+      "q": "Why do some startup employees enter fake marriages, according to the summary?",
+      "a": ["To get a visa that lets them stay and work in the US", "To qualify for a lower tax rate", "To gain access to company shares", "To avoid being drafted into service"],
+      "why": "Lesson 1 explains that a student-spouse visa was one way around the scarce H-1B work visa."
+    },
+    {
+      "q": "What share of H-1B applicants received a visa in 2013, according to the summary?",
+      "a": ["8%", "30%", "50%", "75%"],
+      "why": "Lesson 1 cites only 8% of roughly 200,000 applicants getting a visa to work in Silicon Valley that year."
+    },
+    {
+      "q": "What word does the summary use to describe founders who make it?",
+      "a": ["Obsessed", "Cautious", "Balanced", "Lucky"],
+      "why": "Lesson 2 says founders and those close to them describe the necessary state as obsessed, with nothing else mattering."
+    },
+    {
+      "q": "What did Antonio's year running AdGrok cost him?",
+      "a": ["Hobbies, friends, and much of his family life", "His stake in the company", "His reputation in Silicon Valley", "His ability to work in tech"],
+      "why": "Lesson 2 describes long nights, dozens of events, and family life conducted mostly over Skype."
+    },
+    {
+      "q": "Why does Facebook keep its security work out of public view?",
+      "a": ["Revealing how many scammers were on the site would scare users", "The team is not permitted to use computers", "The work has been almost fully automated", "Management is unaware the team exists"],
+      "why": "Lesson 3 says users would likely stay away if they knew how many scammers and offenders were on the platform."
+    }
+  ]
+}

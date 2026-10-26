@@ -1,0 +1,56 @@
+{
+  "book": "creative-confidence",
+  "title": "Creative Confidence",
+  "questions": [
+    {
+      "q": "What do the authors say about creativity?",
+      "a": [
+        "It applies far beyond art and can be retrained like a muscle",
+        "It is a rare gift that only artists possess",
+        "It fades permanently once you reach adulthood",
+        "It matters mainly in artistic careers"
+      ],
+      "why": "Lesson 1 argues everyone is born creative, that creativity is broader than art and can be rebuilt with practice."
+    },
+    {
+      "q": "What did the MRI technician do to help children?",
+      "a": [
+        "Turned the scanners into fun adventures like pirate ships",
+        "Built smaller machines for young patients",
+        "Played music during each scan",
+        "Let children operate the machine themselves"
+      ],
+      "why": "The summary uses the technician who redesigned the scanner's look so children would feel safer inside it."
+    },
+    {
+      "q": "What did the IBM survey of CEOs find?",
+      "a": [
+        "Creativity was rated the most important leadership quality",
+        "Most CEOs valued analytical skills above all",
+        "Few companies were hiring creative staff",
+        "Creativity ranked below financial discipline"
+      ],
+      "why": "Lesson 2 cites a survey in which over 1,500 CEOs named creativity the top leadership quality."
+    },
+    {
+      "q": "What did Paul McCartney's story illustrate?",
+      "a": [
+        "Creative people are often told to choose something practical",
+        "Fame comes only after years of failure",
+        "Music skills transfer easily to business",
+        "Schools should teach more art history"
+      ],
+      "why": "The summary notes McCartney was urged to give up music for something more practical, and that this pressure still exists."
+    },
+    {
+      "q": "What do the authors recommend for a satisfying career?",
+      "a": [
+        "Balancing passion with enough income to live well",
+        "Choosing the highest-paying job available",
+        "Following passion regardless of what it pays",
+        "Avoiding creative work until you are financially secure"
+      ],
+      "why": "Lesson 3 says pure passion rarely pays the bills and pure money makes you miserable, so balance is the answer."
+    }
+  ]
+}

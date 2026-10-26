@@ -1,0 +1,56 @@
+{
+  "book": "invisible-influence",
+  "title": "Invisible Influence",
+  "questions": [
+    {
+      "q": "What did the classroom study show about the woman who attended more sessions?",
+      "a": [
+        "Students preferred her without realizing they had seen her",
+        "Students rated her less attractive than the others",
+        "Students remembered her name better than the rest",
+        "Students assumed she was the course instructor"
+      ],
+      "why": "Lesson 1 says familiarity breeds preference even when people do not consciously recognize the person."
+    },
+    {
+      "q": "Why do we often adopt other people's opinions?",
+      "a": [
+        "It saves us the effort of figuring things out",
+        "It makes us seem more confident to strangers",
+        "We are naturally unable to form our own views",
+        "It helps us avoid conflict with authorities"
+      ],
+      "why": "Lesson 2 says taking on others' views saves time, and social pressure adds another push to conform."
+    },
+    {
+      "q": "In the line-matching study, what made participants give a wrong answer?",
+      "a": [
+        "Actors in the group had already answered incorrectly",
+        "The lines were genuinely difficult to compare",
+        "Participants were rushed by a strict time limit",
+        "The researchers gave unclear instructions"
+      ],
+      "why": "Lesson 2 says six of seven people were actors, and a third of real participants conformed."
+    },
+    {
+      "q": "How does the presence of others affect a difficult task?",
+      "a": [
+        "It makes it harder, because we focus on appearing smart",
+        "It makes it easier, because we feel energized",
+        "It has no measurable effect on performance",
+        "It helps most when the audience is large"
+      ],
+      "why": "Lesson 3 says spectators trigger fight, flee or fun responses that interfere with hard problems."
+    },
+    {
+      "q": "What does the summary suggest for using social influence to your advantage?",
+      "a": [
+        "Spend time with someone who is good at your goal",
+        "Work alone until you have mastered the skill",
+        "Compete against people who are weaker than you",
+        "Avoid groups that discuss their successes"
+      ],
+      "why": "Lesson 3 advises working near the hardest worker or running with an athletic sibling."
+    }
+  ]
+}

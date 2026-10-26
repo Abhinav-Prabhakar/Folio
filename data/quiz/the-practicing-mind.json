@@ -1,0 +1,56 @@
+{
+  "book": "the-practicing-mind",
+  "title": "The Practicing Mind",
+  "questions": [
+    {
+      "q": "What is the core idea of Present Moment Functioning (PMF)?",
+      "a": [
+        "Focus entirely on the current task",
+        "Set long‑term goals first",
+        "Multitask to increase efficiency",
+        "Rely on external motivation"
+      ],
+      "why": "PMF emphasizes staying in the present for high performance."
+    },
+    {
+      "q": "According to Sterner, what should you do with long‑term goals during a work session?",
+      "a": [
+        "Place them in a \"forgotten\" folder",
+        "Write them on a sticky note",
+        "Review them constantly",
+        "Share them with teammates"
+      ],
+      "why": "He advises to set them aside mentally while working."
+    },
+    {
+      "q": "What three‑step technique helps regain focus when distracted?",
+      "a": [
+        "Do, Observe, Correct",
+        "Plan, Execute, Review",
+        "Pause, Breathe, Continue",
+        "Start, Stop, Restart"
+      ],
+      "why": "He outlines the Do, Observe, Correct method."
+    },
+    {
+      "q": "Why does Sterner caution against using big goals as progress markers?",
+      "a": [
+        "They can distort perception of daily improvement",
+        "They motivate too much",
+        "They are too easy to achieve",
+        "They simplify tasks"
+      ],
+      "why": "Large goals may mislead about real progress."
+    },
+    {
+      "q": "What background gave Sterner insight into performance techniques?",
+      "a": [
+        "25 years as chief concert piano technician",
+        "Teaching elementary music",
+        "Running a tech startup",
+        "Studying cognitive psychology"
+      ],
+      "why": "His piano tech career informed his approach."
+    }
+  ]
+}

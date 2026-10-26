@@ -1,0 +1,56 @@
+{
+  "book": "the-antidote",
+  "title": "The Antidote",
+  "questions": [
+    {
+      "q": "What does the summary say about trying hard to feel happy?",
+      "a": [
+        "It can backfire and enlarge the negative thoughts",
+        "It reliably raises happiness over time",
+        "It works only for naturally optimistic people",
+        "It requires daily positive affirmations"
+      ],
+      "why": "Lesson 1 says scanning for bad thoughts tends to strengthen them."
+    },
+    {
+      "q": "What does the pink elephant effect demonstrate?",
+      "a": [
+        "Trying to suppress a thought makes it more present",
+        "Positive images can replace sad memories",
+        "Distraction is the best cure for grief",
+        "People forget instructions quickly"
+      ],
+      "why": "Lesson 1 uses it to explain why avoiding sadness often prolongs it."
+    },
+    {
+      "q": "Why does positive visualization often fail?",
+      "a": [
+        "It satisfies you early and drains your effort",
+        "It makes your goals seem unrealistic",
+        "It creates anxiety about the future",
+        "It only works for athletes"
+      ],
+      "why": "Lesson 2 says imagining success makes people relax before doing the work."
+    },
+    {
+      "q": "What is the benefit of imagining the worst case?",
+      "a": [
+        "It builds resilience and curbs hedonic adaptation",
+        "It prepares you to give up early",
+        "It lowers your expectations permanently",
+        "It replaces the need for planning"
+      ],
+      "why": "Lesson 2 says it keeps us from growing greedy and complacent."
+    },
+    {
+      "q": "What does Burkeman recommend instead of desperate goal-chasing?",
+      "a": [
+        "Approach goals with improvisational flexibility",
+        "Abandon all goals and drift",
+        "Commit harder to one identity-defining goal",
+        "Set goals only for your career"
+      ],
+      "why": "Lesson 3 says determination can make us more stupid, not more successful."
+    }
+  ]
+}

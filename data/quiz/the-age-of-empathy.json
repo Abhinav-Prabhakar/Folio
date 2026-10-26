@@ -1,0 +1,56 @@
+{
+  "book": "the-age-of-empathy",
+  "title": "The Age of Empathy",
+  "questions": [
+    {
+      "q": "What does the summary claim about war in human history?",
+      "a": [
+        "Long stretches of peace outweigh brief periods of war",
+        "War has been a constant feature of every era",
+        "War disappeared once farming began",
+        "Only modern societies fought organized wars"
+      ],
+      "why": "Lesson 1 challenges Churchill's claim that the human story is war."
+    },
+    {
+      "q": "What does research on the walls of Jericho suggest?",
+      "a": [
+        "They may have guarded against mudflows, not enemies",
+        "They were built to repel invading armies",
+        "They were never actually constructed",
+        "They were rebuilt after an earthquake"
+      ],
+      "why": "Lesson 1 says archaeology points to a defensive purpose against nature."
+    },
+    {
+      "q": "What is synchrony, as the summary describes it?",
+      "a": [
+        "An unconscious matching of behavior that builds bonds",
+        "A learned habit taught in early childhood",
+        "A conscious choice to cooperate with strangers",
+        "A reaction found only in human beings"
+      ],
+      "why": "Lesson 2 links it to contagious yawning and birds flying in formation."
+    },
+    {
+      "q": "What did the chimpanzee yawning experiment show?",
+      "a": [
+        "Yawning spreads contagiously among apes too",
+        "Apes only yawn when they are tired",
+        "Apes ignore videos of other apes",
+        "Yawning signals aggression in primates"
+      ],
+      "why": "Lesson 2 describes apes yawning after watching footage of yawning chimps."
+    },
+    {
+      "q": "What did Ulf Dimberg's study find?",
+      "a": [
+        "People automatically mimic the expressions they see",
+        "People can switch empathy off when asked",
+        "Facial expressions have no effect on mood",
+        "Only trained actors can read facial cues"
+      ],
+      "why": "Lesson 3 says participants smiled at happy faces and frowned at angry ones."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-life-changing-science-of-detecting-bullshit",
+  "title": "The Life-Changing Science of Detecting Bullshit",
+  "questions": [
+    {
+      "q": "What distinguishes bullshitting from lying according to the book?",
+      "a": [
+        "Disregarding obvious truth rather than deliberately deceiving",
+        "Lying involves emotional manipulation while bullshitting does not",
+        "Bullshitting requires prior knowledge of the truth",
+        "Lying is always more harmful than bullshitting"
+      ],
+      "why": "The overview defines bullshitting as disregarding the truth, not as a form of lying."
+    },
+    {
+      "q": "What is the first reason people fall for bullshit?",
+      "a": [
+        "It matches their existing beliefs and memories",
+        "They are under time pressure to respond",
+        "The speaker uses confident body language",
+        "They have no prior knowledge of the topic"
+      ],
+      "why": "The three-reasons lesson lists alignment with existing beliefs as the first cause."
+    },
+    {
+      "q": "What example does the book use to show how intuition can mislead?",
+      "a": [
+        "People who believed a Ponzi scheme would make them millionaires",
+        "A student who trusted a professor's unverified research",
+        "A doctor who ignored symptoms of a rare disease",
+        "A parent who dismissed a child's warning about danger"
+      ],
+      "why": "The intuition lesson cites Ponzi scheme believers whose gut told them they'd become millionaires."
+    },
+    {
+      "q": "According to Harry Frankfurt, when are people most likely to bullshit?",
+      "a": [
+        "When they are required to give an opinion on a subject",
+        "When they are in a familiar social setting",
+        "When they feel emotionally threatened",
+        "When they are speaking to experts in the field"
+      ],
+      "why": "The Frankfurt lesson states people bullshit when required to share an opinion."
+    },
+    {
+      "q": "What additional factor makes people bullshit even more?",
+      "a": [
+        "Talking to people less knowledgeable in the field",
+        "Being in a high-stakes professional environment",
+        "Feeling anxious about being judged",
+        "Having recently been contradicted publicly"
+      ],
+      "why": "The Frankfurt lesson notes we bullshit more when talking to less knowledgeable people."
+    }
+  ]
+}

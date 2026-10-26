@@ -1,0 +1,31 @@
+{
+  "book": "bounce-back",
+  "title": "Bounce Back",
+  "questions": [
+    {
+      "q": "How does the summary define resilience?",
+      "a": ["Staying flexible and adaptable under demanding situations", "Avoiding risk so that failure never happens", "Recovering only after a formal apology is made", "Working longer hours than your colleagues"],
+      "why": "The overview defines it as flexibility and adaptability, the ability to stay unbroken rather than let adversity define you."
+    },
+    {
+      "q": "Where does the summary say the fail-fast idea originally comes from?",
+      "a": ["Systems design that reports problems early", "Ancient Greek merchant rituals", "Japanese workplace traditions", "Sports coaching manuals"],
+      "why": "Lesson 2 explains that fail-fast began in systems design, where problems are reported promptly and operations pause so flaws can be fixed."
+    },
+    {
+      "q": "Why does the summary say experts often become reluctant to take risks?",
+      "a": ["Being skilled feels safe and new challenges threaten that", "Experts are usually too busy to experiment", "Expertise removes the ability to learn from mistakes", "Companies punish experts more harshly than beginners"],
+      "why": "Lesson 2 describes the trap of familiarity: once we are good at something, leaving that comfort zone means risking failure again."
+    },
+    {
+      "q": "What is an ikigai, as described in the summary?",
+      "a": ["A reason for being that gives your work meaning", "A technique for recovering from a failed project", "A system for reporting problems before they grow", "A Greek philosophy of accepting public shame"],
+      "why": "Lesson 3 says ikigai is a sense of purpose found where what you love, what you are good at, what the world needs and what pays overlap."
+    },
+    {
+      "q": "Which example does the summary use to show that failure is normal for successful people?",
+      "a": ["Michael Jordan missed thousands of shots in his career", "Thomas Edison failed to finish school", "JK Rowling wrote under a false name", "Roger Bannister lost his first major race"],
+      "why": "Lesson 1 notes that Jordan missed over 9,000 shots, including 26 potential game-winners, and still credits those misses for his success."
+    }
+  ]
+}

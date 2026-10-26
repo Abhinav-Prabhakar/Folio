@@ -1,0 +1,56 @@
+{
+  "book": "steve-jobs",
+  "title": "Steve Jobs",
+  "questions": [
+    {
+      "q": "Who coined the phrase “reality distortion field” for Steve Jobs?",
+      "a": [
+        "Bud Tribble, a member of the Macintosh team",
+        "Walter Isaacson, his biographer",
+        "Steve Wozniak, his Apple co-founder",
+        "A journalist at Time Magazine"
+      ],
+      "why": "Lesson 1 says Tribble borrowed the Star Trek term and applied it to Jobs’s ability to bend reality."
+    },
+    {
+      "q": "What did the reality distortion field allow Jobs to do?",
+      "a": [
+        "Convince people that impossible goals could be achieved",
+        "Predict which products would sell best",
+        "Avoid making decisions under pressure",
+        "Keep his team from disagreeing with him"
+      ],
+      "why": "Lesson 1 describes him bending reality to his will and pushing engineers to attempt what seemed impossible."
+    },
+    {
+      "q": "What does the summary call the major reason for the name Apple?",
+      "a": [
+        "Apple comes before Atari in the phonebook",
+        "Apples were the only fruit Jobs would eat",
+        "The logo was designed by a friend",
+        "The name was chosen by a focus group"
+      ],
+      "why": "Lesson 2 says the decisive business reason was appearing ahead of his former employer Atari in the listings."
+    },
+    {
+      "q": "What made Steve Jobs a billionaire, according to the summary?",
+      "a": [
+        "Pixar’s initial public offering",
+        "The launch of the iPhone",
+        "His salary as Apple’s chief executive",
+        "The sale of NeXT to Apple"
+      ],
+      "why": "Lesson 3 says Pixar’s IPO gave him a twentyfold return and stock worth $1.2 billion."
+    },
+    {
+      "q": "How did Jobs first acquire his stake in Pixar?",
+      "a": [
+        "He bought a majority share from George Lucas for $5 million",
+        "He founded the company with his own animation team",
+        "He received it as part of a deal with Disney",
+        "He purchased shares on the open market after Toy Story"
+      ],
+      "why": "Lesson 3 says he bought 80 percent from Lucas in 1986 and invested another $5 million."
+    }
+  ]
+}

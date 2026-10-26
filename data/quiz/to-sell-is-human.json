@@ -1,0 +1,56 @@
+{
+  "book": "to-sell-is-human",
+  "title": "To Sell Is Human",
+  "questions": [
+    {
+      "q": "Which company generated over $100 million without any sales staff in 2011?",
+      "a": [
+        "Atlassian",
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "why": "The example given is Atlassian's $100M revenue with no sales employees."
+    },
+    {
+      "q": "What modern perception replaces the old view of salespeople as sleazy?",
+      "a": [
+        "Honest is the new sleazy",
+        "Aggressive is the new honest",
+        "Pushy is the new honest",
+        "Transparent is the new aggressive"
+      ],
+      "why": "The text states \"Honest is the new sleazy\" due to internet information access."
+    },
+    {
+      "q": "Which improvisational technique helps keep customers optimistic?",
+      "a": [
+        "Yes, and…",
+        "No, but…",
+        "Yes, but…",
+        "No, and…"
+      ],
+      "why": "The book recommends always saying \"Yes, and…\" from improv theatre."
+    },
+    {
+      "q": "What does Daniel Pink argue about the line between sales and other departments?",
+      "a": [
+        "It is blurring quickly",
+        "It is widening",
+        "It is static",
+        "It is disappearing"
+      ],
+      "why": "The text notes the line between sales and other departments is blurring fast."
+    },
+    {
+      "q": "According to Pink, what skill is now required in almost every job?",
+      "a": [
+        "Non‑sales selling",
+        "Technical coding",
+        "Financial analysis",
+        "Legal compliance"
+      ],
+      "why": "The lesson states every job includes non‑sales selling, moving others."
+    }
+  ]
+}

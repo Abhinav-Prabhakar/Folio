@@ -1,0 +1,56 @@
+{
+  "book": "humor-seriously",
+  "title": "Humor, Seriously",
+  "questions": [
+    {
+      "q": "Which four humor types does the summary describe?",
+      "a": [
+        "Stand-ups, magnets, sweethearts and snipers",
+        "Clowns, critics, storytellers and mimics",
+        "Observers, teasers, jesters and roasters",
+        "Pranksters, comics, satirists and wits"
+      ],
+      "why": "Lesson 1 names the stand-ups, magnets, sweethearts and snipers."
+    },
+    {
+      "q": "What characterizes a magnet?",
+      "a": [
+        "Positive and naturally fun to be around",
+        "Dark and expressive like a roast",
+        "Sarcastic and aggressive with one-liners",
+        "Innocent and careful about timing"
+      ],
+      "why": "Lesson 1 says magnets spread positivity and are the ones who make crowds laugh."
+    },
+    {
+      "q": "What is the best basis for humor?",
+      "a": [
+        "The truth of everyday things that happen",
+        "Shocking stories about strangers",
+        "Clever wordplay without context",
+        "Exaggerated claims about coworkers"
+      ],
+      "why": "Lesson 2 says people relate most to the truth, so jokes should draw on real life."
+    },
+    {
+      "q": "What does the rule of three involve?",
+      "a": [
+        "Two expected items and a third surprise",
+        "Three jokes delivered quickly in a row",
+        "Three friends sharing a single story",
+        "Repeating the punchline three times"
+      ],
+      "why": "Lesson 3 says list two expected things and add a third unexpected element."
+    },
+    {
+      "q": "Why does exaggeration work in a story?",
+      "a": [
+        "It turns the story around unexpectedly",
+        "It makes the story longer and more detailed",
+        "It proves that the story is true",
+        "It hides the point of the joke"
+      ],
+      "why": "Lesson 3 says exaggeration works when it takes the listener by surprise."
+    }
+  ]
+}

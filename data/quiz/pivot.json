@@ -1,0 +1,56 @@
+{
+  "book": "pivot",
+  "title": "Pivot",
+  "questions": [
+    {
+      "q": "What two things should you examine first when preparing to pivot?",
+      "a": [
+        "Your strengths and your finances",
+        "Your age and your credentials",
+        "Your network and your salary",
+        "Your hobbies and your free time"
+      ],
+      "why": "Lesson 1 says to start by reviewing past evaluations and your money, so you know your base and can cover costs."
+    },
+    {
+      "q": "What does the author say you realize once you list your strengths?",
+      "a": [
+        "You are building on expertise, not starting over",
+        "You need a completely new qualification",
+        "You have been in the wrong field entirely",
+        "You should wait for the right moment to move"
+      ],
+      "why": "Lesson 1 says the exercise shows your experience is a solid foundation rather than something you are abandoning."
+    },
+    {
+      "q": "Which habit from The 7 Habits does Blake say a pivot requires?",
+      "a": [
+        "Being proactive",
+        "Beginning with the end in mind",
+        "Putting first things first",
+        "Seeking first to be understood"
+      ],
+      "why": "Lesson 2 cites proactivity, meaning you take responsibility and act instead of waiting or blaming others."
+    },
+    {
+      "q": "What did the author realize he could do while still at his old job?",
+      "a": [
+        "Earn the same money in a quarter of the time",
+        "Train for a new career during work hours",
+        "Sell his services to his own employer",
+        "Retire early on his existing savings"
+      ],
+      "why": "Lesson 2 says doing his day job independently would bring the same income and cut his workday by over 75 percent."
+    },
+    {
+      "q": "What is the purpose of small experiments during a pivot?",
+      "a": [
+        "To test the new career while still earning a living",
+        "To prove the old career was the wrong choice",
+        "To build a portfolio before applying for jobs",
+        "To convince employers that you are serious"
+      ],
+      "why": "Lesson 3 says small experiments let you manage risk by keeping your income and seeing how well you like the field."
+    }
+  ]
+}

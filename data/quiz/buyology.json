@@ -1,0 +1,31 @@
+{
+  "book": "buyology",
+  "title": "Buyology",
+  "questions": [
+    {
+      "q": "What do mirror neurons make us do when we see someone using a product in an ad?",
+      "a": ["Mimic the action and want the product", "Ignore the ad's central message", "Feel suspicious of the brand", "Remember the ad but not buy"],
+      "why": "Lesson 1 says our brains react to watching an action much as if we performed it, which nudges us to copy and buy."
+    },
+    {
+      "q": "How does dopamine affect our shopping?",
+      "a": ["It makes us spend more than we planned", "It makes us compare prices carefully", "It reduces our desire for status", "It helps us resist advertising"],
+      "why": "Lesson 1 describes dopamine as a pleasure hormone present while shopping that can push us to overspend."
+    },
+    {
+      "q": "Why do fear-based advertisements work, according to the summary?",
+      "a": ["We want relief, and the product is shown as safety", "We enjoy feeling frightened by media", "Fear makes us forget earlier purchases", "Fear lowers the price we are willing to pay"],
+      "why": "Lesson 2 explains that ads pair a fear with the product as the escape from it, offering security."
+    },
+    {
+      "q": "What did Lyndon B. Johnson's campaign ad use to win support?",
+      "a": ["A nuclear explosion playing on fear of war", "A happy family enjoying a picnic", "A famous actor endorsing him", "A catchy song that became a hit"],
+      "why": "Lesson 2 describes the daisy ad, where a child's idyllic scene is shattered by a nuclear blast."
+    },
+    {
+      "q": "In the summary's broader definition, what counts as subliminal messaging?",
+      "a": ["Anything that influences us without our noticing", "Only messages flashed for milliseconds", "Any advertisement shown late at night", "Testimonials from real customers"],
+      "why": "Lesson 3 says the tactic covers anything that gets us to buy without us realizing we are being influenced."
+    }
+  ]
+}

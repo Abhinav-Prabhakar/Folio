@@ -1,0 +1,56 @@
+{
+  "book": "nobody-wants-to-read-your-sht",
+  "title": "Nobody Wants to Read Your Sh*t",
+  "questions": [
+    {
+      "q": "What must every piece of writing have before you start, per Pressfield?",
+      "a": [
+        "A concept that gives a fresh angle",
+        "A long list of research sources",
+        "A strict word count target",
+        "A publisher's approval"
+      ],
+      "why": "Lesson 1 says to come up with a concept, a unique spin, before writing the first line."
+    },
+    {
+      "q": "What single question can replace the two that cause writer's block?",
+      "a": [
+        "What's the problem here?",
+        "Who will read this?",
+        "How long should this be?",
+        "What does the client want?"
+      ],
+      "why": "Lesson 2 says replacing the usual questions with what the problem is removes much resistance."
+    },
+    {
+      "q": "Why do underdog brands like 7Up and Avis succeed, per the summary?",
+      "a": [
+        "They turn their second-place status into an angle",
+        "They spend more on advertising than rivals",
+        "They copy the market leader closely",
+        "They lower prices below everyone else"
+      ],
+      "why": "Lesson 1 says number two players can turn silver into gold by embracing their underdog position."
+    },
+    {
+      "q": "What is the three-act structure?",
+      "a": [
+        "A beginning, a middle and an end",
+        "A hook, a list and a summary",
+        "An intro, a quote and a call to action",
+        "A problem, a solution and a bonus"
+      ],
+      "why": "Lesson 3 says all great storytellers use beginning, middle and end, however the parts are labeled."
+    },
+    {
+      "q": "What does the first act of a story need to do?",
+      "a": [
+        "Make the reader curious about what happens next",
+        "Introduce every character in detail",
+        "Resolve the main conflict",
+        "Summarize the ending"
+      ],
+      "why": "Lesson 3 says the first part kicks off the story and makes us curious about what will happen."
+    }
+  ]
+}

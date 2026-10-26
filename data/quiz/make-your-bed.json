@@ -1,0 +1,56 @@
+{
+  "book": "make-your-bed",
+  "title": "Make Your Bed",
+  "questions": [
+    {
+      "q": "Why does making your bed matter, according to McRaven?",
+      "a": [
+        "A small early win builds pride and gives hope after a hard day",
+        "It proves to others that you are naturally disciplined",
+        "It is the only task that reliably predicts career success",
+        "It saves time later because you never have to tidy the room"
+      ],
+      "why": "Lesson 1 says the small task creates a feeling of pride and a made bed makes tomorrow look better."
+    },
+    {
+      "q": "What did ringing the bell during SEAL training mean?",
+      "a": [
+        "You were quitting and would be released immediately",
+        "You had completed the day’s physical requirements",
+        "You were chosen to lead the next exercise",
+        "You had earned a rest break for the whole team"
+      ],
+      "why": "Lesson 2 explains that giving up was as easy as ringing the bell, which freed cadets on the spot."
+    },
+    {
+      "q": "What did McRaven’s team learn from constantly finishing last in swimming?",
+      "a": [
+        "The extra punishment made them stronger, and they won the final test",
+        "They needed to find a new coach before graduation",
+        "Swimming was the one skill they could never improve",
+        "Winning early mattered more than enduring hardship"
+      ],
+      "why": "Lesson 2 describes how the Circus strengthened the team until they came first in the graduation test."
+    },
+    {
+      "q": "What happened during Hell Week when the cadets sat covered in cold mud?",
+      "a": [
+        "One man began to sing, and the others joined him",
+        "They were given warm blankets and sent back to camp",
+        "Several cadets rang the bell and ended their training",
+        "Their instructors ordered them to keep silent all night"
+      ],
+      "why": "Lesson 3 recounts that one man started singing, others followed, and the mud felt less cold."
+    },
+    {
+      "q": "What does McRaven’s rubber boat metaphor say about success?",
+      "a": [
+        "You cannot paddle alone; you need good people with you",
+        "The strongest person should always steer the boat",
+        "A small boat is more reliable than a large one",
+        "Storms are the real test of any crew’s character"
+      ],
+      "why": "Lesson 3 uses the boat to show that reaching your destination takes a team, not individual effort alone."
+    }
+  ]
+}

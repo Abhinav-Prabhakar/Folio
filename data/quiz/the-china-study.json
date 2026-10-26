@@ -1,0 +1,56 @@
+{
+  "book": "the-china-study",
+  "title": "The China Study",
+  "questions": [
+    {
+      "q": "What does The China Study claim about plant proteins and cancer cells?",
+      "a": [
+        "Plant proteins reduce cancer cell attraction",
+        "Animal proteins increase cancer risk",
+        "Carbs cause cancer",
+        "Fats protect against cancer"
+      ],
+      "why": "Study says cells fed plant proteins are less likely to attract cancer cells."
+    },
+    {
+      "q": "According to the book, whose diet showed lower cancer rates in rural China?",
+      "a": [
+        "Low animal protein diet",
+        "High meat diet",
+        "High dairy diet",
+        "High sugar diet"
+      ],
+      "why": "Rural areas with low animal protein had fewer cancer cases."
+    },
+    {
+      "q": "What misconception about protein does the book challenge?",
+      "a": [
+        "We need more protein than we actually do",
+        "Protein is only in meat",
+        "Protein causes weight loss",
+        "Protein is harmful"
+      ],
+      "why": "It states we don't need as much protein as commonly believed."
+    },
+    {
+      "q": "Which diet is described as popular among fitness enthusiasts for its high protein?",
+      "a": [
+        "Paleo diet",
+        "Mediterranean diet",
+        "Keto diet",
+        "Vegan diet"
+      ],
+      "why": "Paleo is noted for high protein intake favored by fitness freaks."
+    },
+    {
+      "q": "What does the book suggest is a more reliable path to health than medical interventions?",
+      "a": [
+        "Personal nutrition choices",
+        "Surgery",
+        "Prescription drugs",
+        "Vaccinations"
+      ],
+      "why": "It argues health is a matter of nutrition, not medicine."
+    }
+  ]
+}

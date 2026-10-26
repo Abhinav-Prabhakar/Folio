@@ -1,0 +1,56 @@
+{
+  "book": "the-subtle-art-of-not-giving-a-fck",
+  "title": "The Subtle Art Of Not Giving A F*ck",
+  "questions": [
+    {
+      "q": "Which Stoic principle does Mark Manson emphasize?",
+      "a": [
+        "Control only what you can",
+        "Seek constant happiness",
+        "Pursue wealth",
+        "Avoid all emotions"
+      ],
+      "why": "Stoicism focuses on controlling what one can."
+    },
+    {
+      "q": "What does the author say about certainty?",
+      "a": [
+        "It hampers growth",
+        "It guarantees success",
+        "It is essential",
+        "It is irrelevant"
+      ],
+      "why": "Certainty hampers growth."
+    },
+    {
+      "q": "Why does the book advise against obsessing over legacy?",
+      "a": [
+        "It wastes present time",
+        "It ensures fame",
+        "It guarantees wealth",
+        "It creates anxiety"
+      ],
+      "why": "Obsessing on legacy wastes present time."
+    },
+    {
+      "q": "What mode of operation does the author describe as satisfying?",
+      "a": [
+        "Toiling",
+        "Grinning",
+        "Sitting",
+        "Running"
+      ],
+      "why": "The author finds toiling satisfying."
+    },
+    {
+      "q": "Which value category should one only hold if it is controllable?",
+      "a": [
+        "Values",
+        "Desires",
+        "Opinions",
+        "Dreams"
+      ],
+      "why": "Only hold values you can control."
+    }
+  ]
+}

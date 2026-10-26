@@ -1,0 +1,56 @@
+{
+  "book": "the-power-paradox",
+  "title": "The Power Paradox",
+  "questions": [
+    {
+      "q": "What does Keltner argue is the main source of authentic power?",
+      "a": [
+        "Helping others improve their lives",
+        "Claiming authority through force",
+        "Manipulating social networks",
+        "Displaying strategic violence"
+      ],
+      "why": "He says power is a reward from others for being helpful."
+    },
+    {
+      "q": "How do older siblings typically gain power over younger ones, according to the book?",
+      "a": [
+        "More education and experience",
+        "Physical strength",
+        "Wealth inheritance",
+        "Parental favoritism"
+      ],
+      "why": "Older siblings have more knowledge, leading to natural authority."
+    },
+    {
+      "q": "What tendency do upper‑class individuals show regarding their success, per Keltner?",
+      "a": [
+        "Attributing it to personal effort",
+        "Blaming systemic bias",
+        "Denial of any advantage",
+        "Emphasizing luck"
+      ],
+      "why": "They see themselves as more capable and credit hard work."
+    },
+    {
+      "q": "What negative health effect can prolonged powerlessness cause?",
+      "a": [
+        "Increased stress and poorer health",
+        "Higher intelligence",
+        "Greater creativity",
+        "Improved immunity"
+      ],
+      "why": "Powerlessness linked to social disadvantage harms health."
+    },
+    {
+      "q": "Which historical example does Keltner use to illustrate perceived forceful power?",
+      "a": [
+        "Spanish conquest of Native Americans",
+        "Industrial Revolution in Britain",
+        "French Revolution",
+        "Cold War nuclear arms race"
+      ],
+      "why": "He cites the Spanish taking Native lands as forceful power."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-sleep-revolution",
+  "title": "The Sleep Revolution",
+  "questions": [
+    {
+      "q": "What percentage of Americans sleep less than 7 hours nightly?",
+      "a": [
+        "30%",
+        "50%",
+        "10%",
+        "70%"
+      ],
+      "why": "The book states almost 30% of Americans get less than 7 hours."
+    },
+    {
+      "q": "Which study found early school start times affect sleep?",
+      "a": [
+        "Brown University 1998 study",
+        "Harvard 2005 study",
+        "MIT 2010 study",
+        "Yale 2000 study"
+      ],
+      "why": "A 1998 Brown University study on high school students was cited."
+    },
+    {
+      "q": "What two factors did a 2014 study link to happier couples?",
+      "a": [
+        "Sleeping together and body contact",
+        "Late bedtime and caffeine avoidance",
+        "Morning exercise and shared meals",
+        "Reading before bed and quiet rooms"
+      ],
+      "why": "The study showed couples happier when sleeping together and having body contact."
+    },
+    {
+      "q": "What app is recommended to reduce blue light at night?",
+      "a": [
+        "f.lux",
+        "Night Shift",
+        "Blue Light Block",
+        "Dark Mode"
+      ],
+      "why": "The text recommends installing f.lux to tint screens red at sunset."
+    },
+    {
+      "q": "According to the book, what happens when partners sleep more than an inch apart?",
+      "a": [
+        "Relationship happiness drops",
+        "Relationship happiness rises",
+        "No effect on happiness",
+        "Relationship happiness stays the same"
+      ],
+      "why": "85% of those sleeping less than an inch apart were happy; happiness decreased as distance increased."
+    }
+  ]
+}

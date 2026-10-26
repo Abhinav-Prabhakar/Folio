@@ -1,0 +1,56 @@
+{
+  "book": "how-to-take-smart-notes",
+  "title": "How to Take Smart Notes",
+  "questions": [
+    {
+      "q": "Which three types of notes does Ahrens recommend?",
+      "a": [
+        "Fleeting, literature and permanent",
+        "Daily, weekly and monthly",
+        "Mental, spoken and written",
+        "Draft, edit and final"
+      ],
+      "why": "Lesson 1 names fleeting notes, literature notes and permanent notes."
+    },
+    {
+      "q": "Where should fleeting notes be kept?",
+      "a": [
+        "In a notebook or on paper, not in the slip-box",
+        "In the main slip-box, sorted by topic",
+        "In a digital folder arranged by date",
+        "Directly inside the final manuscript"
+      ],
+      "why": "Lesson 1 says fleeting notes capture first ideas and stay outside the slip-box."
+    },
+    {
+      "q": "What is the second slip-box used for?",
+      "a": [
+        "Ideas and thoughts, the main and most valuable",
+        "Reference material and book quotes",
+        "Unfinished drafts and chapter outlines",
+        "Administrative tasks and deadlines"
+      ],
+      "why": "Lesson 2 says the second box holds ideas and is considered the main box."
+    },
+    {
+      "q": "What should you do with fleeting notes after making permanent ones?",
+      "a": [
+        "Throw them away",
+        "File them forever",
+        "Copy them into the second box",
+        "Publish them as they are"
+      ],
+      "why": "Lesson 1 advises storing permanent notes safely and discarding the fleeting ones."
+    },
+    {
+      "q": "How does the summary suggest tackling a large writing project?",
+      "a": [
+        "Break it into chunks and write a page a day",
+        "Wait for inspiration before starting",
+        "Write the whole draft in one sitting",
+        "Outsource the research entirely"
+      ],
+      "why": "Lesson 3 says splitting work into smaller pieces makes completion more likely."
+    }
+  ]
+}

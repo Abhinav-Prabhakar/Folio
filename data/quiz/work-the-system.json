@@ -1,0 +1,56 @@
+{
+  "book": "work-the-system",
+  "title": "Work The System",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Work The System?",
+      "a": [
+        "Sam Carpenter has been the CEO and president of Centratel, one of the US’s top providers…",
+        "Tim’s overweight friend who lost over 70 pounds tracking mainly calories was Chad Fowler.",
+        "Though it’s now a giant in the world of philosophy, stoicism came from humble beginnings.",
+        "In any system that involves humans, the biggest point of failure is always, well, humans."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Work The System explore?",
+      "a": [
+        "The world runs on systems, and they work in spite of humans, not because of us",
+        "You may not be aware of it, but you are probably over-protecting your children",
+        "Determine how much your dreams will cost then adjust your finances accordingly",
+        "The United States judicial system is unfair toward Women, Blacks, and children"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Work The System teach?",
+      "a": [
+        "Start focusing on the systems you can control, and stop complaining about the ones you…",
+        "You only need one question to figure out your priorities, both long-term and short-term",
+        "The five love languages are the different ways in which we express that we love someone",
+        "Set yourself up for success by taking the time each day to actively practice meditation"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Work The System?",
+      "a": [
+        "Do you sometimes feel like the captain of a tiny sailboat, constantly being thrown around…",
+        "Unlocking health benefits from breathing can be as easy as just breathing a little slower.",
+        "Children need to feel the warmth and empathy of friendship, even when they’re still young.",
+        "As a US SEAL cadet, McRaven had to make his bed to perfection first thing after waking up."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Work The System?",
+      "a": [
+        "Work The System will fundamentally change the way you view the world, by showing you the…",
+        "As a crypto investor, I’ve made a classic mistake: I got carried away in the bull market.",
+        "We get pleasure out of each of the little daily actions that seem so normal to all of us.",
+        "Your brain is a mysterious and sometimes misunderstood organ that has a miraculous design"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

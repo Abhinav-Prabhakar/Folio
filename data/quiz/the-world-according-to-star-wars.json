@@ -1,0 +1,56 @@
+{
+  "book": "the-world-according-to-star-wars",
+  "title": "The World According To Star Wars",
+  "questions": [
+    {
+      "q": "What did George Lucas initially want the alien and human roles to be?",
+      "a": [
+        "Aliens heroes, humans villains",
+        "Humans heroes, aliens villains",
+        "Both humans and aliens heroes",
+        "Both humans and aliens villains"
+      ],
+      "why": "He first imagined aliens as heroes and humans as villains."
+    },
+    {
+      "q": "How many drafts did Lucas write before finalizing the first film?",
+      "a": [
+        "Four drafts",
+        "One draft",
+        "Two drafts",
+        "Three drafts"
+      ],
+      "why": "He wrote four different drafts before being content."
+    },
+    {
+      "q": "Which two non‑creative factors does the author credit for Star Wars' mega‑success?",
+      "a": [
+        "Timing and luck",
+        "Budget and special effects",
+        "Marketing and star power",
+        "Script quality and direction"
+      ],
+      "why": "The text lists timing and luck as the key external factors."
+    },
+    {
+      "q": "What historical mood in the US helped Star Wars resonate in 1977?",
+      "a": [
+        "Grim post‑assassination atmosphere",
+        "Economic boom optimism",
+        "Cold war triumphalism",
+        "Civil rights victory celebrations"
+      ],
+      "why": "The US was in a grim mood after multiple assassinations."
+    },
+    {
+      "q": "What central right does the book say Star Wars explores?",
+      "a": [
+        "Freedom of choice",
+        "Right to privacy",
+        "Freedom of speech",
+        "Right to bear arms"
+      ],
+      "why": "It states Star Wars is about the freedom of choice."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "humans-are-underrated",
+  "title": "Humans Are Underrated",
+  "questions": [
+    {
+      "q": "What does Moore's Law say?",
+      "a": [
+        "Computing power doubles roughly every two years",
+        "Computers will surpass humans by 2030",
+        "Data storage halves in cost every decade",
+        "Social skills decline with each new device"
+      ],
+      "why": "The overview defines Moore's Law as computing power doubling about every two years."
+    },
+    {
+      "q": "In Ekman's facial expression test, how did the computer compare?",
+      "a": [
+        "It scored 85 percent versus 55 for humans",
+        "It matched human accuracy almost exactly",
+        "It scored lower than the human participants",
+        "It failed to recognize any expressions"
+      ],
+      "why": "The overview says the computer guessed emotions correctly 85 percent of the time; humans managed 55."
+    },
+    {
+      "q": "What happens to social skills after long hours of screen time?",
+      "a": [
+        "They decline but can be rebuilt",
+        "They improve through practice",
+        "They stay exactly the same",
+        "They only affect young children"
+      ],
+      "why": "The overview says screen time weakens social skills, but a screen-free camp study showed this reverses."
+    },
+    {
+      "q": "Why can a computer not replace a good doctor?",
+      "a": [
+        "It cannot truly empathize with a patient",
+        "It cannot diagnose an illness accurately",
+        "It cannot read the latest medical research",
+        "It cannot prescribe the right medicine"
+      ],
+      "why": "The overview says empathy only works when shown genuinely by a human being."
+    },
+    {
+      "q": "How do companies like Apple and Google encourage creativity?",
+      "a": [
+        "By maximizing random employee interactions",
+        "By banning remote work entirely",
+        "By rewarding individual competition",
+        "By measuring daily output closely"
+      ],
+      "why": "The overview says shared spaces and chance encounters help genius strike during casual conversation."
+    }
+  ]
+}

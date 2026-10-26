@@ -1,0 +1,56 @@
+{
+  "book": "the-4-day-week",
+  "title": "The 4 Day Week",
+  "questions": [
+    {
+      "q": "How long were office workers actually productive in an eight-hour day, according to the research?",
+      "a": [
+        "At most 2.5 hours",
+        "At most 4 hours",
+        "At most 5.5 hours",
+        "At most 6 hours"
+      ],
+      "why": "Lesson 1 calls the figure startling, and it prompted Barnes to rethink his own company’s week."
+    },
+    {
+      "q": "What does Barnes’s 100-80-100 principle mean?",
+      "a": [
+        "Full pay for 80 percent of the time at full productivity",
+        "Full pay for 100 percent of the time with no targets",
+        "Eighty percent pay for 100 percent of the time",
+        "Full pay for full time at 80 percent output"
+      ],
+      "why": "Lesson 1 sets out the deal: same compensation, four days worked, same output."
+    },
+    {
+      "q": "How much extra productivity per day did Barnes calculate a four-day week requires?",
+      "a": [
+        "An extra 40 minutes",
+        "An extra 20 minutes",
+        "An extra 90 minutes",
+        "An extra two hours"
+      ],
+      "why": "Lesson 1 does the maths: a little more output each day covers the lost fifth day."
+    },
+    {
+      "q": "What should leaders do to make a four-day week work?",
+      "a": [
+        "Explain the purpose and involve staff in decisions",
+        "Announce the plan and let managers handle details",
+        "Keep the reasons private until it succeeds",
+        "Offer bonuses to anyone who objects"
+      ],
+      "why": "Lesson 2 lists transparency, staff involvement, flexibility and shared decisions."
+    },
+    {
+      "q": "What does Barnes stress is the main purpose of the four-day week?",
+      "a": [
+        "Raising productivity, not just granting a day off",
+        "Cutting the company’s salary costs",
+        "Attracting younger job applicants",
+        "Reducing the number of office desks"
+      ],
+      "why": "Lesson 3 insists the point is a more productive business, with the extra rest as a means."
+    }
+  ]
+}

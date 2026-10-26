@@ -1,0 +1,56 @@
+{
+  "book": "the-house-of-rothschild",
+  "title": "The House Of Rothschild",
+  "questions": [
+    {
+      "q": "What does the name Rothschild literally translate to?",
+      "a": [
+        "Red shield",
+        "Golden lion",
+        "Silver coin",
+        "Blue river"
+      ],
+      "why": "The book notes the translation of Rothschild."
+    },
+    {
+      "q": "In which city did Mayer Amschel Rothschild begin his trade business?",
+      "a": [
+        "Frankfurt",
+        "London",
+        "Paris",
+        "Vienna"
+      ],
+      "why": "Mentions Mayer lived and traded in Frankfurt's ghetto."
+    },
+    {
+      "q": "How did the Rothschild brothers maintain transparency across their banks?",
+      "a": [
+        "Weekly reports to each other",
+        "Monthly public filings",
+        "Daily telegraph messages",
+        "Annual conferences"
+      ],
+      "why": "Describes weekly transaction updates among brothers."
+    },
+    {
+      "q": "Which historical event highlighted the 80/20 principle for the Rothschilds?",
+      "a": [
+        "The 1848 European revolutions",
+        "The French Revolution",
+        "World War I",
+        "The 1929 stock crash"
+      ],
+      "why": "Notes the impact of 1848 revolutions on their banking."
+    },
+    {
+      "q": "What advantage did the Rothschild network have over other banks in the early 1800s?",
+      "a": [
+        "Coordinated international branches in five cities",
+        "Exclusive royal patronage",
+        "Control of all gold mines",
+        "Monopoly on railway financing"
+      ],
+      "why": "Explains the five‑city network made them the largest bank."
+    }
+  ]
+}

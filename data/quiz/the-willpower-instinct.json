@@ -1,0 +1,55 @@
+{
+  "book": "the-willpower-instinct",
+  "title": "The Willpower Instinct",
+  "questions": [
+    {
+      "q": "What are the three categories of willpower McGonigal describes?",
+      "a": [
+        "I won't power, I will power, I want power",
+        "Fight-or-flight, pause-and-plan, rest",
+        "Resist, pursue, reward",
+        "Impulse, habit, desire"
+      ],
+      "why": "She lists the three powers as I won't, I will, I want."
+    },
+    {
+      "q": "Which type of willpower is used when refusing a cookie at a meeting?",
+      "a": [
+        "I won't power",
+        "I will power",
+        "I want power",
+        "Pause-and-plan response"
+      ],
+      "why": "Resisting temptation is described as I won't power."
+    },
+    {
+      "q": "What biological response boosts willpower during a challenge?",
+      "a": [
+        "Pause-and-plan response",
+        "Fight-or-flight response",
+        "Adrenaline surge",
+        "Stress overload"
+      ],
+      "why": "McGonigal calls the pause-and-plan response a willpower boost."
+    },
+    {
+      "q": "Why is rewarding yourself with a beer after a week of sobriety considered harmful?",
+      "a": [
+        "It reinforces the bad habit despite prior success",
+        "It breaks the streak and encourages relapse",
+        "It signals that good behavior excuses bad",
+        "All of the above"
+      ],
+      "why": "The text says rewarding with a beer after good behavior is the worst thing."
+    },
+    {
+      "q": "What question does McGonigal suggest to identify the habit harming you most?",
+      "a": [
+        "Which habit hurts health, happiness, and career the most?",
+        "What temptation do you face daily?",
+        "Which reward motivates you most?",
+        "How often do you use I will power?"
+      ]
+    }
+  ]
+}

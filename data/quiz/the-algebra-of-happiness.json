@@ -1,0 +1,56 @@
+{
+  "book": "the-algebra-of-happiness",
+  "title": "The Algebra of Happiness",
+  "questions": [
+    {
+      "q": "What does the X plus Y equation illustrate?",
+      "a": [
+        "Gains in one area of life cost time in another",
+        "Happiness can be calculated exactly",
+        "Money and success always rise together",
+        "Two people are needed to be happy"
+      ],
+      "why": "Lesson 1 uses the equation to explain tradeoffs between work and play."
+    },
+    {
+      "q": "What risk does the summary attach to working 80-hour weeks?",
+      "a": [
+        "Relationships suffer and you may end up alone",
+        "You earn less than those working 40 hours",
+        "Your health improves through discipline",
+        "You lose the chance of promotion"
+      ],
+      "why": "Lesson 1 warns that constant work leaves little time for the people who matter."
+    },
+    {
+      "q": "What should you do once you reach financial security?",
+      "a": [
+        "Shift focus to enjoying freedom and relationships",
+        "Keep working harder to grow your savings",
+        "Retire as early as physically possible",
+        "Compare your wealth with your peers"
+      ],
+      "why": "Lesson 2 says the point of money is the freedom to work less and give more."
+    },
+    {
+      "q": "Why did David Carey leave publishing at his peak?",
+      "a": [
+        "He wanted to help young people, not fire friends",
+        "He had lost interest in earning money",
+        "He was offered a better job elsewhere",
+        "He wanted more time to travel"
+      ],
+      "why": "Lesson 2 uses his choice as an example of stepping back to enjoy freedom."
+    },
+    {
+      "q": "What does the summary say keeps a relationship strong?",
+      "a": [
+        "Forgiveness, without keeping score of who did what",
+        "Regular grand gestures and expensive gifts",
+        "Agreeing on everything to avoid conflict",
+        "Splitting every responsibility exactly in half"
+      ],
+      "why": "Lesson 3 warns that competition and scorekeeping erode love."
+    }
+  ]
+}

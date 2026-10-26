@@ -1,0 +1,56 @@
+{
+  "book": "this-is-marketing",
+  "title": "This Is Marketing",
+  "questions": [
+    {
+      "q": "What era had only three major TV channels in the U.S.?",
+      "a": [
+        "1960s",
+        "1980s",
+        "2000s",
+        "2010s"
+      ],
+      "why": "In the 1960s only three major TV channels existed."
+    },
+    {
+      "q": "What is the first step in modern marketing according to Godin?",
+      "a": [
+        "Find a niche group",
+        "Run ads",
+        "Build a website",
+        "Offer discounts"
+      ],
+      "why": "He says find specific groups (tribes) first."
+    },
+    {
+      "q": "What does a tribe provide for a brand?",
+      "a": [
+        "Shared values and stories",
+        "Mass exposure",
+        "Low cost ads",
+        "Legal protection"
+      ],
+      "why": "A tribe shares values and stories that attract customers."
+    },
+    {
+      "q": "How can a company reach the general public after building a tribe?",
+      "a": [
+        "Use network effect",
+        "Launch TV ads",
+        "Offer free samples",
+        "Create viral videos"
+      ],
+      "why": "He suggests leveraging the tribe's networks."
+    },
+    {
+      "q": "Why is advertising considered dead in Godin's view?",
+      "a": [
+        "It focuses on quantity over quality",
+        "It ignores data",
+        "It is too expensive",
+        "It relies on old media"
+      ],
+      "why": "He argues advertising is about quantity, not meaningful connection."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "when-breath-becomes-air",
+  "title": "When Breath Becomes Air",
+  "questions": [
+    {
+      "q": "What did Kalanithi write to a friend about his diagnosis?",
+      "a": [
+        "He had outlived two Brontës, Keats, and Crane",
+        "He had outlived three poets",
+        "He had outlived no one",
+        "He had outlived four writers"
+      ],
+      "why": "Kalanithi said he had outlived two Brontës, Keats, and Stephen Crane."
+    },
+    {
+      "q": "Which two passions guided Kalanithi?",
+      "a": [
+        "Neuroscience and writing",
+        "Literature and surgery",
+        "Writing and cooking",
+        "Neuroscience and cooking"
+      ],
+      "why": "He was passionate about neuroscience and writing."
+    },
+    {
+      "q": "What did Kalanithi learn from cadavers?",
+      "a": [
+        "Their humanity",
+        "Their names",
+        "Their ages",
+        "Their diseases"
+      ],
+      "why": "He was moved by the humanity of cadavers."
+    },
+    {
+      "q": "What did his doctor advise after the cancer diagnosis?",
+      "a": [
+        "Do what really mattered",
+        "Continue surgery",
+        "Ignore the cancer",
+        "Treat only the pain"
+      ],
+      "why": "The doctor told him to do what really mattered."
+    },
+    {
+      "q": "What did Kalanithi struggle with as a doctor and patient?",
+      "a": [
+        "Being both doctor and patient",
+        "Choosing a specialty",
+        "Finding a job",
+        "Writing a book"
+      ],
+      "why": "He had a hard time being both doctor and patient."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "eat-to-beat-disease",
+  "title": "Eat To Beat Disease",
+  "questions": [
+    {
+      "q": "What is angiogenesis?",
+      "a": [
+        "The body's process of forming and maintaining blood vessels",
+        "The body's method of repairing damaged DNA strands",
+        "The growth of helpful bacteria in the digestive tract",
+        "The breakdown of nutrients before they enter the blood"
+      ],
+      "why": "Lesson 1 defines angiogenesis as the process by which the body forms and maintains blood vessels, which can starve tumors."
+    },
+    {
+      "q": "Which food contains genistein, a substance that blocks blood flow to tumors?",
+      "a": [
+        "Soybeans",
+        "Blueberries",
+        "Parmesan cheese",
+        "Sauerkraut"
+      ],
+      "why": "Lesson 1 says soybeans are high in genistein, which blocks blood flow to tumor cells; ten grams of soy a day is recommended."
+    },
+    {
+      "q": "How much broccoli a week is enough for its cancer-fighting benefits?",
+      "a": [
+        "One to two cups",
+        "Five to six cups",
+        "Ten grams",
+        "Three servings a day"
+      ],
+      "why": "Lesson 1 says a weekly serving of one to two cups brings broccoli's protective effects."
+    },
+    {
+      "q": "Which gut bacteria do cranberries and pomegranate juice encourage?",
+      "a": [
+        "Akkermansia muciniphila",
+        "Lactobacillus rhamnosus",
+        "Bifidobacterium longum",
+        "Streptococcus thermophilus"
+      ],
+      "why": "Lesson 2 says cranberries and pomegranate juice encourage Akkermansia muciniphila, which supports immunity and fights inflammation."
+    },
+    {
+      "q": "What happened to telomeres when people ate 10 grams of nuts daily?",
+      "a": [
+        "They lengthened by 8.5 units over a year",
+        "They shortened by 15.4 units over a year",
+        "They stayed exactly the same for a year",
+        "They lengthened by 66 units in a week"
+      ],
+      "why": "Lesson 3 reports that a year of eating ten grams of nuts a day increased telomere length by 8.5 units, while normal aging shortens them."
+    }
+  ]
+}

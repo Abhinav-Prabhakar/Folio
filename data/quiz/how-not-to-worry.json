@@ -1,0 +1,56 @@
+{
+  "book": "how-not-to-worry",
+  "title": "How Not To Worry",
+  "questions": [
+    {
+      "q": "What three labels does McGee use to sort the worries people have?",
+      "a": [
+        "Historical, hysterical and helpful",
+        "Real, imagined and inherited",
+        "Past, present and future",
+        "Useful, useless and urgent"
+      ],
+      "why": "The summary sorts every worry into one of three buckets, historical, hysterical or helpful, depending on its root cause."
+    },
+    {
+      "q": "How does the summary describe the relationship between worry and anxiety?",
+      "a": [
+        "Each one feeds the other in a repeating loop",
+        "Anxiety always comes first and worry follows",
+        "Worry stops anxiety once you name it",
+        "The two are unrelated but both harmful"
+      ],
+      "why": "Worry triggers the body's survival response, and the resulting anxiety creates more worry, forming a feedback loop."
+    },
+    {
+      "q": "What is the root of a historical worry, according to McGee?",
+      "a": [
+        "A bad memory or experience from your past",
+        "A rare disaster you read about online",
+        "A real deadline coming up at work",
+        "A fear passed down from your parents"
+      ],
+      "why": "Historical worries trace back to something that actually happened to you, such as being mugged on a dark street."
+    },
+    {
+      "q": "What does McGee suggest doing with a hysterical worry?",
+      "a": [
+        "Check the evidence and see how unlikely it is",
+        "Plan every detail of the worst case",
+        "Revisit the memory until it fades",
+        "Distract yourself whenever it appears"
+      ],
+      "why": "Hysterical worries are irrational, so the summary says to examine the evidence and then let them go."
+    },
+    {
+      "q": "On the author's zero-to-ten scale, what does a zero mean?",
+      "a": [
+        "You have no control over the outcome",
+        "You are certain the outcome is bad",
+        "You have already solved the problem",
+        "You should stop worrying at once"
+      ],
+      "why": "The scale measures how much influence you have; zero means none, while ten means you can shape the result."
+    }
+  ]
+}

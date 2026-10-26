@@ -1,0 +1,56 @@
+{
+  "book": "the-midnight-library",
+  "title": "The Midnight Library",
+  "questions": [
+    {
+      "q": "What event sends Nora into the Midnight Library?",
+      "a": [
+        "Suicide attempt",
+        "Car accident",
+        "Job loss",
+        "Health crisis"
+      ],
+      "why": "She overdoses on pills."
+    },
+    {
+      "q": "Which life does Nora finally reject as the one?",
+      "a": [
+        "Life with Ash in Cambridge",
+        "Rockstar career",
+        "Glaciologist role",
+        "Vineyard owner"
+      ],
+      "why": "She leaves the Cambridge life."
+    },
+    {
+      "q": "What does Nora learn about living a good life?",
+      "a": [
+        "You must live it, not understand it",
+        "You need to plan every detail",
+        "Only the perfect life matters",
+        "You must avoid problems"
+      ],
+      "why": "She says you just have to live it."
+    },
+    {
+      "q": "Which character asks for 100 more years in The Sandman?",
+      "a": [
+        "Robert \"Hob\" Gadling",
+        "Nora Seed",
+        "Ash",
+        "Dan"
+      ],
+      "why": "Hob seeks more years."
+    },
+    {
+      "q": "What is Nora's profession in the life she finds?",
+      "a": [
+        "Philosophy professor",
+        "Doctor",
+        "Teacher",
+        "Engineer"
+      ],
+      "why": "She is a philosophy professor."
+    }
+  ]
+}

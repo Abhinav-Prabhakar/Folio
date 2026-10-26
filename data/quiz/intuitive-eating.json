@@ -1,0 +1,56 @@
+{
+  "book": "intuitive-eating",
+  "title": "Intuitive Eating",
+  "questions": [
+    {
+      "q": "Why do restrictive diets usually fail?",
+      "a": [
+        "They fight your appetite and cannot be sustained",
+        "They cost more than most families can afford",
+        "They require too much exercise to be safe",
+        "They work only for people with medical advice"
+      ],
+      "why": "Lesson 1 says eating against your appetite is counterintuitive, so diets rarely last."
+    },
+    {
+      "q": "What happens to your body during a restrictive diet?",
+      "a": [
+        "It enters starvation mode and later overeats",
+        "It stops feeling hunger after the first week",
+        "It burns fat faster the longer you restrict",
+        "It becomes permanently unable to digest sugar"
+      ],
+      "why": "Lesson 2 says cutting calories triggers starvation, which leads to overeating when willpower runs out."
+    },
+    {
+      "q": "What does the summary suggest keeping a food journal for?",
+      "a": [
+        "To spot your hunger patterns and best meal times",
+        "To count every calorie you consume precisely",
+        "To prove to others that you are dieting",
+        "To compare your portions with a friend's"
+      ],
+      "why": "Lesson 2 recommends rating hunger from one to ten before and after meals to find patterns."
+    },
+    {
+      "q": "How should you think about food, according to the book?",
+      "a": [
+        "As fuel, not as something moral or forbidden",
+        "As a reward for exercise and discipline",
+        "As a treat to be earned through restraint",
+        "As medicine that must be measured carefully"
+      ],
+      "why": "Lesson 3 says splitting food into good and bad categories leads to bingeing."
+    },
+    {
+      "q": "What alternative does the summary suggest for cravings?",
+      "a": [
+        "Try fruit or a nutritious substitute instead",
+        "Ignore the craving until it disappears",
+        "Eat a larger portion of the same treat",
+        "Replace meals with a protein shake"
+      ],
+      "why": "Lesson 3 suggests swapping cravings for a side of fruit or a nourishing alternative."
+    }
+  ]
+}

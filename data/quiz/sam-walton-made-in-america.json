@@ -1,0 +1,56 @@
+{
+  "book": "sam-walton-made-in-america",
+  "title": "Sam Walton: Made In America",
+  "questions": [
+    {
+      "q": "What does the summary say Sam Walton was always willing to do?",
+      "a": [
+        "Copy and improve strategies he saw competitors use",
+        "Invent every practice his stores relied on",
+        "Avoid looking at what rivals were doing",
+        "Buy out competitors before starting himself"
+      ],
+      "why": "Lesson 1 says he experimented constantly, borrowing ideas that worked and then making them better or cheaper."
+    },
+    {
+      "q": "Why was Sam once arrested in Brazil?",
+      "a": [
+        "He was measuring aisle widths inside a store",
+        "He was photographing a rival's products",
+        "He was selling goods without a permit",
+        "He was arguing with a store manager"
+      ],
+      "why": "Lesson 1 recounts police finding him crawling on a shop floor with a tape measure."
+    },
+    {
+      "q": "What was Sam's single goal for all of his stores?",
+      "a": [
+        "Making every customer as happy as possible",
+        "Opening more stores than any rival",
+        "Keeping prices higher than local shops",
+        "Expanding into foreign markets quickly"
+      ],
+      "why": "Lesson 2 says everything he did came back to making each individual customer as happy as he could."
+    },
+    {
+      "q": "What does the summary say about Walmart's profit-sharing plan?",
+      "a": [
+        "It let employees own stock and earn cash bonuses",
+        "It was introduced when the company was founded",
+        "It applied only to store managers",
+        "It was abandoned after a few years"
+      ],
+      "why": "Lesson 3 says the plan, started in 1971, gave every employee a share of the company's success through stock and bonuses."
+    },
+    {
+      "q": "What did Walmart employees do when a customer could not find an item?",
+      "a": [
+        "They sent the customer to a local shop that had it",
+        "They convinced the customer to buy a substitute",
+        "They asked the customer to come back later",
+        "They refused to help the customer at all"
+      ],
+      "why": "Lesson 2 tells of a paint shop owner who thanked Walmart for sending customers his way."
+    }
+  ]
+}

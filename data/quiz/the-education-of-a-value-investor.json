@@ -1,0 +1,56 @@
+{
+  "book": "the-education-of-a-value-investor",
+  "title": "The Education Of A Value Investor",
+  "questions": [
+    {
+      "q": "What did Guy Spier pay $650,100 for?",
+      "a": [
+        "Lunch with Warren Buffett",
+        "A private jet",
+        "A charity gala ticket",
+        "A mansion"
+      ],
+      "why": "He paid that amount for a lunch with Buffett."
+    },
+    {
+      "q": "What moral dilemma did Spier face at his investment bank?",
+      "a": [
+        "Promoting misleadingly profitable deals",
+        "Choosing a new client",
+        "Deciding on a bonus structure",
+        "Voting on a merger"
+      ],
+      "why": "The bank made deals seem more profitable than they were."
+    },
+    {
+      "q": "What habit did Spier adopt to strengthen professional relationships?",
+      "a": [
+        "Sending thank‑you cards",
+        "Posting on social media",
+        "Hosting weekly parties",
+        "Buying expensive gifts"
+      ],
+      "why": "He wrote thank‑you cards to people who helped him."
+    },
+    {
+      "q": "Why do value investors view financial crises as opportunities?",
+      "a": [
+        "Great businesses become discounted",
+        "Interest rates rise sharply",
+        "Regulations loosen",
+        "Taxes increase"
+      ],
+      "why": "Crises create panic selling, putting valuable companies on sale."
+    },
+    {
+      "q": "What principle did Spier learn about investing time?",
+      "a": [
+        "Invest time in people as you invest money",
+        "Only focus on market data",
+        "Avoid networking events",
+        "Delegate all research"
+      ],
+      "why": "He learned a great investor also invests time in people."
+    }
+  ]
+}

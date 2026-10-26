@@ -1,0 +1,56 @@
+{
+  "book": "time-and-how-to-spend-it",
+  "title": "Time And How To Spend It",
+  "questions": [
+    {
+      "q": "What does research say brings more lasting happiness than material goods?",
+      "a": [
+        "Experiences",
+        "Money",
+        "Status symbols",
+        "Gadgets"
+      ],
+      "why": "The text notes happiness comes more from experiences than anything else."
+    },
+    {
+      "q": "Which activity was found to improve mood and lower cortisol more than treadmill walking?",
+      "a": [
+        "Walking in a forest",
+        "Running on a treadmill",
+        "Cycling indoors",
+        "Swimming laps"
+      ],
+      "why": "Forest bathing study showed walking in woods outperformed treadmill walking."
+    },
+    {
+      "q": "How many hours of free time does the average person have each day?",
+      "a": [
+        "Over five hours",
+        "Two hours",
+        "Eight hours",
+        "Ten hours"
+      ],
+      "why": "The overview states the average person has over five hours of free time daily."
+    },
+    {
+      "q": "What state describes being fully immersed and energized in an activity?",
+      "a": [
+        "Flow",
+        "Boredom",
+        "Anxiety",
+        "Distraction"
+      ],
+      "why": "The text defines flow as being in the zone, fully immersed and energized."
+    },
+    {
+      "q": "Which fear often makes people think they lack time for leisure?",
+      "a": [
+        "FOMO",
+        "Claustrophobia",
+        "Acrophobia",
+        "Atychiphobia"
+      ],
+      "why": "The text cites fear of missing out (FOMO) as a cause of perceived time scarcity."
+    }
+  ]
+}

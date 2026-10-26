@@ -1,0 +1,56 @@
+{
+  "book": "first-break-all-the-rules",
+  "title": "First Break All The Rules",
+  "questions": [
+    {
+      "q": "What does the book say is the foundation of lasting business success?",
+      "a": [
+        "Satisfied, engaged employees whose managers create the right culture",
+        "Aggressive cost cutting and frequent restructuring",
+        "A steady stream of new products and clever marketing",
+        "Strict procedures that keep every team member consistent"
+      ],
+      "why": "Lesson 1 says profits follow loyal customers, who follow engaged employees."
+    },
+    {
+      "q": "How should a manager handle standards and methods?",
+      "a": [
+        "Set baseline standards, then let the team choose how to reach outcomes",
+        "Define every step of the process and audit it regularly",
+        "Let each employee set their own targets without any baselines",
+        "Copy the methods of the industry leader exactly"
+      ],
+      "why": "Lesson 2 says processes matter less than outcomes once safety and accuracy are met."
+    },
+    {
+      "q": "Why does the book say to study top performers rather than mistakes?",
+      "a": [
+        "Studying mistakes leads to false conclusions and lower expectations",
+        "Top performers are easier to interview and observe",
+        "Mistakes are usually caused by factors outside work",
+        "Averages reveal more about a team than any individual does"
+      ],
+      "why": "Lesson 3 warns that only observing weak nurses could make patient bonds look harmful."
+    },
+    {
+      "q": "What does micromanaging usually produce?",
+      "a": [
+        "Resentment and less engagement from the team",
+        "Faster decisions and stronger trust in leadership",
+        "Clearer standards and better-trained employees",
+        "More consistent outcomes across every project"
+      ],
+      "why": "Lesson 2 says telling people exactly how to work makes them resentful."
+    },
+    {
+      "q": "What are engaged employees more likely to do?",
+      "a": [
+        "Treat customers well, stay longer and help save resources",
+        "Leave for competitors once their skills improve",
+        "Ignore company policy and set their own hours",
+        "Avoid responsibility for customer satisfaction"
+      ],
+      "why": "Lesson 1 lists these behaviors as the payoff of genuine engagement."
+    }
+  ]
+}

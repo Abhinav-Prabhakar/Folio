@@ -1,0 +1,31 @@
+{
+  "book": "million-dollar-consulting",
+  "title": "Million Dollar Consulting",
+  "questions": [
+    {
+      "q": "Which kind of expertise does the summary say is more valuable for a solo consultant?",
+      "a": ["Process expertise that works across industries", "Content expertise in one technical topic", "Credentials from a well-known firm", "A large network of former colleagues"],
+      "why": "Lesson 1 says process expertise goes beyond one niche and is therefore far more valuable."
+    },
+    {
+      "q": "How does the summary define what a consultant does?",
+      "a": ["Adds value a business cannot create on its own", "Manages staff the client would rather not hire", "Sells products the client cannot source cheaply", "Documents decisions the client has already made"],
+      "why": "Lesson 1 gives the basic definition: a consultant supplies value the business cannot produce itself."
+    },
+    {
+      "q": "Why does the summary advise against charging clients by the hour?",
+      "a": ["It rewards taking longer instead of getting results", "Clients refuse to pay for travel time", "It makes invoices harder to explain", "It caps what junior consultants can earn"],
+      "why": "Lesson 2 says hourly billing creates a bad incentive to stretch out the work."
+    },
+    {
+      "q": "How should a consultant justify a flat project fee?",
+      "a": ["By showing the business result it will produce", "By listing the hours the work will take", "By comparing it with competitors' rates", "By offering a discount for early payment"],
+      "why": "Lesson 2 says to demonstrate the end result, such as revenue growth or productivity, before charging."
+    },
+    {
+      "q": "Why does the summary recommend keeping the pipeline filled 12 months ahead?",
+      "a": ["Most companies cannot commit beyond one fiscal year", "Clients usually begin planning exactly one year out", "Twelve months is the standard length of a retainer", "Longer pipelines make marketing work unnecessary"],
+      "why": "Lesson 3 ties the 12-month window to companies not allowing multi-fiscal year agreements."
+    }
+  ]
+}

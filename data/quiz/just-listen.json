@@ -1,0 +1,56 @@
+{
+  "book": "just-listen",
+  "title": "Just Listen",
+  "questions": [
+    {
+      "q": "What happens when you listen to someone before offering solutions?",
+      "a": [
+        "They get space to sort through their feelings and calm down",
+        "They quickly forget what originally upset them",
+        "They expect you to solve the problem for them",
+        "They become more defensive about their position"
+      ],
+      "why": "Lesson 1 says listening first lets people think things through and dispute irrational feelings."
+    },
+    {
+      "q": "In the negotiation story, what did the officer do that worked?",
+      "a": [
+        "He named the man's feeling that this seemed the only way out",
+        "He listed every legal option available to the man",
+        "He promised the man would not face any charges",
+        "He called the man's family to come to the scene"
+      ],
+      "why": "Lesson 1 says the officer listened to the man's feelings until he calmed down."
+    },
+    {
+      "q": "Which three layers of thinking does the summary describe?",
+      "a": [
+        "Reptilian instinct, mammalian emotion and rational analysis",
+        "Conscious, subconscious and unconscious thought",
+        "Sensory, memory and imagination processes",
+        "Logical, creative and social intelligence"
+      ],
+      "why": "Lesson 2 outlines the instinctual, emotional and rational layers of the brain."
+    },
+    {
+      "q": "Why should you address someone's feelings before making your point?",
+      "a": [
+        "They can then listen using the rational part of their brain",
+        "They will owe you a favor afterward",
+        "It proves that you are the real expert",
+        "It shortens the conversation considerably"
+      ],
+      "why": "Lesson 2 says people who feel understood can then listen rationally."
+    },
+    {
+      "q": "What does the summary mean by baring your neck?",
+      "a": [
+        "Show vulnerability so others can connect and want to help",
+        "Admit fault even when you did nothing wrong",
+        "Raise your voice to show confidence and strength",
+        "Step back and let other people argue it out"
+      ],
+      "why": "Lesson 3 says vulnerability invites connection and makes people more willing to listen."
+    }
+  ]
+}

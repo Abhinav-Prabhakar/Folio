@@ -1,0 +1,56 @@
+{
+  "book": "everybody-lies",
+  "title": "Everybody Lies",
+  "questions": [
+    {
+      "q": "Why was the author's grandmother's advice about mutual friends wrong?",
+      "a": [
+        "She drew on too few people's experiences",
+        "She ignored her own long marriage",
+        "She relied on official census data",
+        "She had never used the internet"
+      ],
+      "why": "Lesson 1 says her conclusions came from too small a sample."
+    },
+    {
+      "q": "What did the 2014 Facebook study find about mutual friends?",
+      "a": [
+        "Couples with more mutual friends split up more often",
+        "Couples with more mutual friends stayed together longer",
+        "Mutual friends had no effect on relationships",
+        "Couples without mutual friends never married"
+      ],
+      "why": "Lesson 1 says a large sample reversed the grandmother's belief."
+    },
+    {
+      "q": "What is social desirability bias?",
+      "a": [
+        "The urge to look good when answering questions",
+        "The tendency to copy what others buy",
+        "The habit of accepting default settings",
+        "The fear of sharing data with companies"
+      ],
+      "why": "Lesson 2 says people lie on surveys to make a good impression."
+    },
+    {
+      "q": "What did the university's GPA poll reveal?",
+      "a": [
+        "Students understated poor grades compared with records",
+        "Students overstated their grades by a small margin",
+        "The poll matched the official records exactly",
+        "Most students refused to answer the question"
+      ],
+      "why": "Lesson 2 says 2 percent reported low grades, but 11 percent actually had them."
+    },
+    {
+      "q": "What does the summary suggest governments do with search data?",
+      "a": [
+        "Use regional patterns to fund prevention programs",
+        "Monitor every individual search in real time",
+        "Ban companies from collecting any data",
+        "Publish individual search histories online"
+      ],
+      "why": "Lesson 3 recommends using state-level patterns for prevention."
+    }
+  ]
+}

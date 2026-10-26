@@ -1,0 +1,56 @@
+{
+  "book": "make-your-mark",
+  "title": "Make Your Mark",
+  "questions": [
+    {
+      "q": "What does the author say success starts with?",
+      "a": [
+        "One product, developed as far as you possibly can",
+        "A large portfolio of ideas launched at once",
+        "A detailed business plan approved by investors",
+        "A strong personal brand built before selling anything"
+      ],
+      "why": "Lesson 1 insists that you need one idea executed fully, not many pursued at the same time."
+    },
+    {
+      "q": "What did Bonobos sell during its first year?",
+      "a": [
+        "A single pair of pants in several colors",
+        "A full range of suits and golf clothing",
+        "Only accessories such as belts and wallets",
+        "Custom-made shirts in a few sizes"
+      ],
+      "why": "Lesson 1 says Bonobos started with one well-fitting pair of pants and expanded only after reaching $2 million in sales."
+    },
+    {
+      "q": "What does “do things that don’t scale” mean in practice?",
+      "a": [
+        "Give early customers unusually personal attention and service",
+        "Avoid automation so the company stays small forever",
+        "Refuse to hire anyone until demand forces you to",
+        "Focus on one city and never expand beyond it"
+      ],
+      "why": "Lesson 2 gives the example of a founder’s personal video message to an early customer."
+    },
+    {
+      "q": "Why is radical transparency valuable for a company?",
+      "a": [
+        "It builds trust, which speeds up innovation and collaboration",
+        "It prevents employees from ever disagreeing with leaders",
+        "It guarantees that salaries and revenue will rise",
+        "It removes the need for managers or feedback"
+      ],
+      "why": "Lesson 3 says transparency creates massive trust, the deciding factor in how fast a company can innovate."
+    },
+    {
+      "q": "What happens when you spread yourself across many products at once?",
+      "a": [
+        "You end up with many nearly finished products that never ship",
+        "You learn faster because you compare ideas side by side",
+        "You reduce risk by diversifying your income early",
+        "You attract more customers than a focused competitor"
+      ],
+      "why": "Lesson 1 warns that dividing your effort produces a pile of almost-there products that consume time and money."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "life-after-google",
+  "title": "Life After Google",
+  "questions": [
+    {
+      "q": "How does Google earn almost all of its revenue?",
+      "a": [
+        "Through advertising",
+        "Through hardware sales",
+        "Through cloud subscriptions",
+        "Through software licensing"
+      ],
+      "why": "The first lesson says advertising accounts for about 95 percent of Google's revenue, so users pay with time and attention."
+    },
+    {
+      "q": "Why is privacy at odds with Google's business model?",
+      "a": [
+        "The model depends on collecting as much information as possible",
+        "Its founders promised to sell user data to advertisers",
+        "Its servers are unable to encrypt personal files",
+        "Its advertisers insist on reading private messages"
+      ],
+      "why": "The summary says Google wants access to all information to build its database, so any privacy runs contrary to its model."
+    },
+    {
+      "q": "What does the cryptocosm decentralize?",
+      "a": [
+        "Personal data, so that each person holds their own",
+        "Internet access, so no company can control it",
+        "Software development, so anyone can build tools",
+        "Currency, so governments cannot collect taxes"
+      ],
+      "why": "In the cryptocosm, personal data is removed from any central hub and every individual holds it instead."
+    },
+    {
+      "q": "How does blockchain keep bitcoin records secure?",
+      "a": [
+        "Each block logs transfers and links into a chronological chain",
+        "A central bank verifies every single transaction",
+        "Only miners are allowed to see the full ledger",
+        "Passwords are stored safely on one protected server"
+      ],
+      "why": "The second lesson describes blocks linked in order, each recording recent activity, making a bitcoin's path traceable and secure."
+    },
+    {
+      "q": "What flaw does the summary find in bitcoin as a new gold standard?",
+      "a": [
+        "Its fixed supply makes it too volatile as a token of exchange",
+        "Its supply grows too quickly to hold any value",
+        "It is controlled by one anonymous company",
+        "It requires more electricity than any other currency"
+      ],
+      "why": "The third lesson says bitcoin cannot react to demand because its supply is capped at 21 million, so its value swings wildly."
+    }
+  ]
+}

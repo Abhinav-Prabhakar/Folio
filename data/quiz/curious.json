@@ -1,0 +1,56 @@
+{
+  "book": "curious",
+  "title": "Curious",
+  "questions": [
+    {
+      "q": "What are the two basic types of curiosity described in lesson 1?",
+      "a": [
+        "Diversive and epistemic",
+        "Passive and aggressive",
+        "Emotional and logical",
+        "Natural and learned"
+      ],
+      "why": "Lesson 1 splits curiosity into diversive, which seeks novelty, and epistemic, which seeks deep understanding."
+    },
+    {
+      "q": "What characterizes diversive curiosity?",
+      "a": [
+        "A craving for novelty that can be superficial and impulsive",
+        "A patient effort to master one difficult subject",
+        "A refusal to learn anything outside your profession",
+        "A habit of questioning every belief you hold"
+      ],
+      "why": "Lesson 1 links diversive curiosity to clickbait and endless scrolling rather than deep study."
+    },
+    {
+      "q": "What did Darwin's eight-year study of a barnacle illustrate?",
+      "a": [
+        "The deep, sustained effort of epistemic curiosity",
+        "The shallow pull of diversive curiosity",
+        "The way curiosity fades with age",
+        "The value of avoiding difficult questions"
+      ],
+      "why": "Lesson 1 uses the barnacle as the example of focused, long-term epistemic curiosity."
+    },
+    {
+      "q": "How does the internet widen the gap between people, according to lesson 2?",
+      "a": [
+        "The curious learn online while the incurious drift toward entertainment",
+        "Wealthy families can afford faster internet connections",
+        "Younger users understand technology better than older users",
+        "Schools teach different subjects depending on their funding"
+      ],
+      "why": "Lesson 2 describes cognitive polarization between those who use the internet to learn and those who do not."
+    },
+    {
+      "q": "What habit does the summary say wise people share?",
+      "a": [
+        "They ask a lot of questions",
+        "They avoid unfamiliar topics",
+        "They trust their first instincts",
+        "They read only expert opinions"
+      ],
+      "why": "Lesson 3 says the wisest people stay curious by continually asking questions."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-wisdom-of-life",
+  "title": "The Wisdom Of Life",
+  "questions": [
+    {
+      "q": "According to Schopenhauer, what two pillars form personality?",
+      "a": [
+        "Body and mind",
+        "Wealth and fame",
+        "Education and talent",
+        "Religion and culture"
+      ],
+      "why": "He says personality rests on body and mind."
+    },
+    {
+      "q": "What does Schopenhauer say about a healthy body?",
+      "a": [
+        "It is necessary for a happy soul",
+        "It guarantees happiness",
+        "It is irrelevant to joy",
+        "It causes misery"
+      ],
+      "why": "He calls health a prerequisite for happiness."
+    },
+    {
+      "q": "Which philosopher influenced Schopenhauer's three categories of material needs?",
+      "a": [
+        "Epicurus",
+        "Plato",
+        "Aristotle",
+        "Socrates"
+      ],
+      "why": "The three needs model comes from Epicurus."
+    },
+    {
+      "q": "How does Schopenhauer define 'position'?",
+      "a": [
+        "What others think of you",
+        "Your personal wealth",
+        "Your inner peace",
+        "Your physical strength"
+      ],
+      "why": "Position is the cumulated result of others' opinions."
+    },
+    {
+      "q": "What is the difference between objective and subjective honor for Schopenhauer?",
+      "a": [
+        "Objective is others' view, subjective is self‑view",
+        "Objective is legal status, subjective is fame",
+        "Objective is wealth, subjective is talent",
+        "Objective is health, subjective is mood"
+      ],
+      "why": "He splits honor into others' opinion vs self‑opinion."
+    }
+  ]
+}

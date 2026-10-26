@@ -1,0 +1,56 @@
+{
+  "book": "deep-work",
+  "title": "Deep Work",
+  "questions": [
+    {
+      "q": "What are the four deep work strategies Newport describes?",
+      "a": [
+        "Monastic, bimodal, rhythmic and journalistic",
+        "Morning, evening, weekend and seasonal",
+        "Solo, paired, group and public",
+        "Planned, unplanned, timed and flexible"
+      ],
+      "why": "Lesson 1 names the four approaches, from total isolation to seizing odd free moments."
+    },
+    {
+      "q": "What defines the bimodal approach?",
+      "a": [
+        "A fixed multi-hour block for deep work, then everything else",
+        "Working in short bursts throughout the entire day",
+        "Never doing any deep work on weekends",
+        "Alternating between two different offices each week"
+      ],
+      "why": "Lesson 1 says bimodal sets aside a long block and leaves the rest of the day free."
+    },
+    {
+      "q": "What is productive meditation?",
+      "a": [
+        "Thinking through a hard problem during otherwise unproductive time",
+        "Sitting quietly and clearing the mind of all thoughts",
+        "Writing down every idea that arrives during a walk",
+        "Meditating before work to improve concentration"
+      ],
+      "why": "Lesson 2 suggests using commutes, showers and chores to work on a complex problem."
+    },
+    {
+      "q": "Why should you stop working at the same time every day?",
+      "a": [
+        "The brain needs free space to wind down and recover",
+        "Deep work only produces results in the morning",
+        "Clients stop sending emails after normal hours",
+        "It makes it easier to skip planning the next day"
+      ],
+      "why": "Lesson 3 says a fixed stopping time protects you from burning out."
+    },
+    {
+      "q": "What should be your first step when choosing a deep work strategy?",
+      "a": [
+        "Track how you currently spend your time",
+        "Buy a calendar and fill it with meetings",
+        "Ask a colleague which method they prefer",
+        "Eliminate all breaks from your schedule"
+      ],
+      "why": "Lesson 1 says monitoring your time reveals productive and unproductive patterns."
+    }
+  ]
+}

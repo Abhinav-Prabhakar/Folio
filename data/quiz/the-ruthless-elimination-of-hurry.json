@@ -1,0 +1,56 @@
+{
+  "book": "the-ruthless-elimination-of-hurry",
+  "title": "The Ruthless Elimination Of Hurry",
+  "questions": [
+    {
+      "q": "What daily practice does Comer say is needed for peace?",
+      "a": [
+        "Silence and solitude",
+        "Meditation",
+        "Exercise",
+        "Reading"
+      ],
+      "why": "He states peace comes from daily silence and solitude."
+    },
+    {
+      "q": "Which biblical figure is cited as modeling quiet time?",
+      "a": [
+        "Jesus",
+        "Moses",
+        "David",
+        "Paul"
+      ],
+      "why": "Jesus had reverence for quiet alone time."
+    },
+    {
+      "q": "What weekly habit does the book recommend even for non‑religious people?",
+      "a": [
+        "A day of rest",
+        "A daily jog",
+        "Weekly fasting",
+        "Monthly retreat"
+      ],
+      "why": "It suggests setting aside one day each week for rest."
+    },
+    {
+      "q": "How does the author view inefficiency?",
+      "a": [
+        "As a chance to be mindful",
+        "As a waste of time",
+        "As a sign of laziness",
+        "As a productivity killer"
+      ],
+      "why": "Inefficiency can help slow down and become more mindful."
+    },
+    {
+      "q": "What modern device contributes to loss of solitude, according to the text?",
+      "a": [
+        "Smartphone",
+        "Television",
+        "Radio",
+        "Laptop"
+      ],
+      "why": "Smartphones keep us connected to constant thoughts and opinions."
+    }
+  ]
+}

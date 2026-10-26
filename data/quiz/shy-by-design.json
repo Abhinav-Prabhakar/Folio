@@ -1,0 +1,56 @@
+{
+  "book": "shy-by-design",
+  "title": "Shy by Design",
+  "questions": [
+    {
+      "q": "What did Michael's speech therapist say was really holding him back?",
+      "a": [
+        "He was too busy planning what to say to listen",
+        "He spoke too quickly for people to follow",
+        "He lacked the vocabulary for small talk",
+        "He was afraid of speaking to groups"
+      ],
+      "why": "Lesson 1 says his therapist told him listening, not speaking, was the problem."
+    },
+    {
+      "q": "What does the smart parrot persona ask you to do?",
+      "a": [
+        "Repeat what you heard in your own words",
+        "Mimic the other person's accent and tone",
+        "Change the subject whenever it stalls",
+        "Talk more than the other person does"
+      ],
+      "why": "Lesson 1 describes repeating what you heard in your own words."
+    },
+    {
+      "q": "Which follow-up message does the summary suggest sending?",
+      "a": [
+        "Something that made you think of the person",
+        "A reminder that they owe you a reply",
+        "A request for a favour right away",
+        "A list of your available meeting times"
+      ],
+      "why": "Lesson 2 lists four follow-ups, including things that remind you of the person."
+    },
+    {
+      "q": "What is a Boldness list?",
+      "a": [
+        "A record of times you acted despite fear",
+        "A plan of goals for the coming year",
+        "Names of people whose courage you admire",
+        "Tasks you avoid because they scare you"
+      ],
+      "why": "Lesson 3 defines a Boldness list as past moments when you showed courage."
+    },
+    {
+      "q": "What are the three steps of the AAA framework?",
+      "a": [
+        "Acknowledge feelings, accept circumstances, ask what you need",
+        "Assess the risk, act quickly, adjust later",
+        "Ask questions, answer fully, agree often",
+        "Accept praise, avoid blame, advance slowly"
+      ],
+      "why": "Lesson 3 names the AAA steps: acknowledge, accept and ask."
+    }
+  ]
+}

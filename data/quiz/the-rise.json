@@ -1,0 +1,56 @@
+{
+  "book": "the-rise",
+  "title": "The Rise",
+  "questions": [
+    {
+      "q": "What daily question did Sara Blakely's father ask at dinner?",
+      "a": [
+        "What have you failed at today?",
+        "What did you achieve today?",
+        "What are you grateful for?",
+        "What will you do tomorrow?"
+      ],
+      "why": "The overview notes his nightly question about failure."
+    },
+    {
+      "q": "At what age did Blakely launch Spanx after selling office equipment?",
+      "a": [
+        "Just before 29",
+        "At 25",
+        "At 32",
+        "At 35"
+      ],
+      "why": "The text says just before the age of 29 she created Spanx."
+    },
+    {
+      "q": "Which fictional character's advice does the author warn against following?",
+      "a": [
+        "Homer Simpson",
+        "Yoda",
+        "Gandalf",
+        "Dumbledore"
+      ],
+      "why": "The book mentions Homer Simpson's bad advice about never trying."
+    },
+    {
+      "q": "What concept describes the space between current achievement and future potential?",
+      "a": [
+        "The Gap",
+        "The Archer's Paradox",
+        "The Plateau",
+        "The Horizon"
+      ],
+      "why": "The text defines The Gap as that space."
+    },
+    {
+      "q": "According to the Iowa writing program director, what predicts success more than talent?",
+      "a": [
+        "Consistent daily writing",
+        "Natural brilliance",
+        "High IQ",
+        "Formal education"
+      ],
+      "why": "The director notes daily writing beats natural talent."
+    }
+  ]
+}

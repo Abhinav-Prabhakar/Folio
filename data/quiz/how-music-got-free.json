@@ -1,0 +1,56 @@
+{
+  "book": "how-music-got-free",
+  "title": "How Music Got Free",
+  "questions": [
+    {
+      "q": "What made the mp3 format technologically appealing?",
+      "a": [
+        "It compressed audio to sound indistinguishable from a CD",
+        "It stored songs at a higher quality than any CD",
+        "It allowed music to play on more devices than mp2",
+        "It made albums cheaper to manufacture than before"
+      ],
+      "why": "Lesson 1 says German scientists worked for years to compress audio while keeping CD-quality sound."
+    },
+    {
+      "q": "Where was the mp3 format developed?",
+      "a": [
+        "At the Fraunhofer Institute in Germany",
+        "At a record label's research lab in Japan",
+        "At an American university funded by Phillips",
+        "At the MPEG headquarters in Switzerland"
+      ],
+      "why": "Lesson 1 says scientists at the German Fraunhofer Institute began developing the format in 1987."
+    },
+    {
+      "q": "What did Fraunhofer do in 1995 that helped spark music piracy?",
+      "a": [
+        "It gave away its mp3 conversion software for free",
+        "It sold mp3 players at a steep discount",
+        "It published instructions for copying CDs",
+        "It licensed the format only to small labels"
+      ],
+      "why": "Lesson 2 says Fraunhofer released WinPlay3 for free, which helped users rip and share songs."
+    },
+    {
+      "q": "Why did the mp3 win its format war against the CD?",
+      "a": [
+        "The internet let people rip and share files easily",
+        "Record labels refused to release music on CD",
+        "CD players became too expensive to manufacture",
+        "The MPEG organization banned the CD format"
+      ],
+      "why": "Lesson 2 says broadband and easy file sharing made mp3 the preferred format and made piracy commonplace."
+    },
+    {
+      "q": "What does the summary say is now threatening the mp3?",
+      "a": [
+        "Streaming services are replacing downloaded files",
+        "Vinyl records are outselling digital music",
+        "Governments are banning compressed audio formats",
+        "Artists are refusing to release music online"
+      ],
+      "why": "Lesson 3 says streaming has pushed the mp3 toward retirement as listeners stop buying and owning files."
+    }
+  ]
+}

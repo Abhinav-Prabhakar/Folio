@@ -1,0 +1,56 @@
+{
+  "book": "dreamland",
+  "title": "Dreamland",
+  "questions": [
+    {
+      "q": "What did Purdue claim about OxyContin to win FDA approval?",
+      "a": [
+        "That its time-release design would limit addiction by smoothing out highs and lows",
+        "That its formula was safer than morphine because it contained no opium",
+        "That it would replace surgery painkillers and end illegal drug use",
+        "That it worked faster than MS Contin while costing far less to make"
+      ],
+      "why": "Lesson 1 explains that Purdue sold the FDA on time-release technology supposedly restricting the highs and lows that drive addiction."
+    },
+    {
+      "q": "Why were Purdue's early addiction figures for OxyContin misleading?",
+      "a": [
+        "They came from controlled hospital tests, not from ordinary patients",
+        "They were based on a single clinic with only four patients",
+        "They counted only people who had also used heroin",
+        "They were collected by Purdue's own sales representatives"
+      ],
+      "why": "Lesson 1 says the low addiction rates came from testing in controlled hospital conditions, while the drug was marketed to doctors outside hospitals."
+    },
+    {
+      "q": "What did the short New England Journal of Medicine paragraph about painkillers actually report?",
+      "a": [
+        "Four addictions among about 12,000 patients in a hospital database",
+        "Four addictions among 120 patients in a single hospital ward",
+        "That OxyContin was safe for all chronic pain patients",
+        "That heroin users were switching to prescription pills in large numbers"
+      ],
+      "why": "Lesson 1 describes a doctor compiling a hospital database of roughly 12,000 patients and finding only four painkiller addictions."
+    },
+    {
+      "q": "How did daily overdose deaths in the US change between 1999 and 2012?",
+      "a": [
+        "They rose from about 10 a day to about 48",
+        "They fell from about 48 a day to about 10",
+        "They rose from about 48 a day to about 136",
+        "They stayed near 25 a day throughout"
+      ],
+      "why": "Lesson 2 notes that overdose deaths averaged about 10 a day in 1999 and about 48 a day by 2012."
+    },
+    {
+      "q": "What did Jo Anna Krohn do after her son died from an OxyContin-related injury?",
+      "a": [
+        "She founded SOLACE to support grieving parents",
+        "She sued Purdue and won a public settlement",
+        "She opened a clinic for people addicted to painkillers",
+        "She campaigned for stricter prescribing laws in her state"
+      ],
+      "why": "Lesson 3 describes Krohn starting SOLACE to help parents whose children died of opiates, and it grew to chapters in 16 counties."
+    }
+  ]
+}

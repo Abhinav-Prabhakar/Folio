@@ -1,0 +1,56 @@
+{
+  "book": "the-road-less-traveled",
+  "title": "The Road Less Traveled",
+  "questions": [
+    {
+      "q": "What effect predicts a work's longevity based on its age?",
+      "a": [
+        "Lindy effect",
+        "Butterfly effect",
+        "Placebo effect",
+        "Hawthorne effect"
+      ],
+      "why": "The overview mentions the Lindy effect as a test."
+    },
+    {
+      "q": "What does Peck suggest we should remain open to, rather than just honesty?",
+      "a": [
+        "Being wrong",
+        "Being popular",
+        "Being wealthy",
+        "Being praised"
+      ],
+      "why": "Peck emphasizes remaining open to being wrong."
+    },
+    {
+      "q": "How does Freud define cathexis?",
+      "a": [
+        "Emotional investment in a person or object",
+        "Physical attraction only",
+        "Rational analysis of love",
+        "Avoidance of attachment"
+      ],
+      "why": "The text defines cathexis as emotional energy investment."
+    },
+    {
+      "q": "What does Peck propose love should be considered?",
+      "a": [
+        "An action",
+        "A feeling",
+        "A transaction",
+        "A duty"
+      ],
+      "why": "He suggests love is an action, not a feeling."
+    },
+    {
+      "q": "How does Peck broaden the definition of religion?",
+      "a": [
+        "As a worldview",
+        "As a set of rituals",
+        "As a moral code",
+        "As a political ideology"
+      ],
+      "why": "He uses religion synonymously with worldview."
+    }
+  ]
+}

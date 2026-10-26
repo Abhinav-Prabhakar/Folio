@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-illness",
+  "title": "The End Of Illness",
+  "questions": [
+    {
+      "q": "Which vitamin deficiency caused soldiers to die in large numbers during war?",
+      "a": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin A"
+      ],
+      "why": "Scurvy was caused by lack of vitamin C."
+    },
+    {
+      "q": "What trend did vitamin D sales follow after studies showed deficiency?",
+      "a": [
+        "Skyrocket",
+        "Stabilize",
+        "Drop",
+        "Remain flat"
+      ],
+      "why": "Sales rose sharply after deficiency studies."
+    },
+    {
+      "q": "Why should we view health studies with skepticism?",
+      "a": [
+        "They are not perfect",
+        "They are always true",
+        "They are irrelevant",
+        "They are always biased"
+      ],
+      "why": "Studies are not absolute truths."
+    },
+    {
+      "q": "Which technology can predict seasonal illnesses?",
+      "a": [
+        "Google search data",
+        "Social media posts",
+        "Weather reports",
+        "Phone calls"
+      ],
+      "why": "Google can analyze search data to predict outbreaks."
+    },
+    {
+      "q": "How many vitamins are essential for human function?",
+      "a": [
+        "13",
+        "10",
+        "7",
+        "20"
+      ],
+      "why": "There are 13 essential vitamins."
+    }
+  ]
+}

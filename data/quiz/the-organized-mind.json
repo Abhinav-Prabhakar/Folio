@@ -1,0 +1,56 @@
+{
+  "book": "the-organized-mind",
+  "title": "The Organized Mind",
+  "questions": [
+    {
+      "q": "According to the book, how many items does an average supermarket stock?",
+      "a": [
+        "40,000",
+        "150",
+        "80%",
+        "200,000"
+      ],
+      "why": "The text states supermarkets stock 40,000 items."
+    },
+    {
+      "q": "What brain region is linked to storing object locations?",
+      "a": [
+        "Hippocampus",
+        "Prefrontal cortex",
+        "Amygdala",
+        "Thalamus"
+      ],
+      "why": "The hippocampus is mentioned as storing locations."
+    },
+    {
+      "q": "What principle does the author claim is fundamental to the organized mind?",
+      "a": [
+        "Shift organization burden to external world",
+        "Keep everything in mind",
+        "Use digital tools only",
+        "Avoid multitasking"
+      ],
+      "why": "The author says the principle is shifting organization to the external world."
+    },
+    {
+      "q": "Which sensory cue makes our ancestors' brains focus?",
+      "a": [
+        "Sudden changes or movement",
+        "Color contrast",
+        "Sound intensity",
+        "Temperature"
+      ],
+      "why": "The text notes that sudden changes or movement grab attention."
+    },
+    {
+      "q": "What method does the book suggest to avoid mental fatigue?",
+      "a": [
+        "Designate a place for each object",
+        "Use sticky notes",
+        "Read more often",
+        "Take frequent breaks"
+      ],
+      "why": "It recommends designating a place for every object to reduce fatigue."
+    }
+  ]
+}

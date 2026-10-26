@@ -1,0 +1,56 @@
+{
+  "book": "common-stocks-and-uncommon-profits",
+  "title": "Common Stocks and Uncommon Profits",
+  "questions": [
+    {
+      "q": "What is the scuttlebutt method Fisher recommends?",
+      "a": [
+        "Contacting stakeholders directly to learn about a company firsthand",
+        "Studying a company's published annual reports in detail",
+        "Following analysts' ratings on financial news sites",
+        "Testing a company's products as an ordinary customer"
+      ],
+      "why": "Lesson 1 describes scuttlebutt as reaching out to people connected to the company to form an accurate, personal view."
+    },
+    {
+      "q": "What should a long-term investor do when a stock's price falls?",
+      "a": [
+        "Buy, if the company's fundamentals are still sound",
+        "Sell quickly to avoid even bigger losses",
+        "Wait until the price returns to its old high",
+        "Move everything into bonds until the market settles"
+      ],
+      "why": "Lesson 2 says dips are usually temporary and that a sound company's falling price is the moment to buy."
+    },
+    {
+      "q": "How does the summary describe the stock market in the short term?",
+      "a": [
+        "Irrational and driven by short-term events",
+        "Efficient and always correctly priced",
+        "Predictable and easy to time",
+        "Calm and largely unaffected by news"
+      ],
+      "why": "The summary says the market acts irrationally on short-term news, which creates overvalued and undervalued stocks."
+    },
+    {
+      "q": "Which qualities does Fisher look for in a mature company?",
+      "a": [
+        "Strong margins, loyal customers and patents or scale",
+        "Fast growth, heavy borrowing and cheap labor",
+        "New leadership, low prices and high volume",
+        "Celebrity endorsements and constant rebranding"
+      ],
+      "why": "Lesson 3 lists high margins, employee satisfaction, customer retention, patents and distribution as signs of a strong future."
+    },
+    {
+      "q": "What mistake does the summary say average investors keep making?",
+      "a": [
+        "Panic selling when prices drop, then buying after they recover",
+        "Holding a stock through every market dip",
+        "Researching companies thoroughly before investing",
+        "Spreading their money across many industries"
+      ],
+      "why": "The summary describes investors who sell in fear, miss the recovery and then chase the stock out of fear of missing out."
+    }
+  ]
+}

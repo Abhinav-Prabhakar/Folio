@@ -1,0 +1,56 @@
+{
+  "book": "the-gifts-of-imperfection",
+  "title": "The Gifts Of Imperfection",
+  "questions": [
+    {
+      "q": "What does Brené Brown say about gut feelings and reasoning?",
+      "a": [
+        "They mix, not oppose",
+        "They are separate",
+        "They are irrelevant",
+        "They cancel each other"
+      ],
+      "why": "Brown argues gut and reasoning are a mix"
+    },
+    {
+      "q": "According to the book, what happens when you compare yourself to others?",
+      "a": [
+        "You become boring",
+        "You improve",
+        "You feel superior",
+        "You lose motivation"
+      ],
+      "why": "Comparison breeds conformity and boredom"
+    },
+    {
+      "q": "What is the opposite of play, per Brown?",
+      "a": [
+        "Depression",
+        "Productivity",
+        "Stress",
+        "Anxiety"
+      ],
+      "why": "She claims depression is the opposite of play"
+    },
+    {
+      "q": "What benefit does play bring to work, according to the book?",
+      "a": [
+        "It recharges empathy and creativity",
+        "It reduces output",
+        "It causes distraction",
+        "It increases errors"
+      ],
+      "why": "Play recharges empathy and creativity"
+    },
+    {
+      "q": "Why does Brown advise against mirroring competitors?",
+      "a": [
+        "It makes you less likely to win",
+        "It boosts innovation",
+        "It saves time",
+        "It increases profits"
+      ],
+      "why": "Mirroring leads to boredom and less chance of winning"
+    }
+  ]
+}

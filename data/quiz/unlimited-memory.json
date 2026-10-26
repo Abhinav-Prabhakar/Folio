@@ -1,0 +1,56 @@
+{
+  "book": "unlimited-memory",
+  "title": "Unlimited Memory",
+  "questions": [
+    {
+      "q": "What does the author say about multitasking and productivity?",
+      "a": [
+        "It slows you down by 50% and raises error chances by 50%",
+        "It speeds up work by 30%",
+        "It has no effect on productivity",
+        "It improves focus"
+      ],
+      "why": "The text cites studies showing multitasking slows you down by 50% and increases mistakes by 50%."
+    },
+    {
+      "q": "Which technique is suggested for remembering words?",
+      "a": [
+        "Associate words with familiar items",
+        "Write them down repeatedly",
+        "Use flashcards",
+        "Read aloud"
+      ],
+      "why": "The book recommends linking words to known items to boost retention."
+    },
+    {
+      "q": "How can numbers be transformed for better recall?",
+      "a": [
+        "Turn them into letters and sounds",
+        "Write them in Roman numerals",
+        "Use mnemonic devices",
+        "Draw pictures"
+      ],
+      "why": "The author explains converting numbers to letters and sounds helps remember dates."
+    },
+    {
+      "q": "What is the first lesson about task management?",
+      "a": [
+        "Focus on one task at a time",
+        "Do many tasks simultaneously",
+        "Plan weekly",
+        "Take breaks"
+      ],
+      "why": "The text advises stopping multitasking and tackling tasks one by one."
+    },
+    {
+      "q": "Which example illustrates number transformation?",
+      "a": [
+        "Number 9 looks like a p or b when flipped",
+        "Number 6 becomes a letter",
+        "Number 3 becomes a smiley",
+        "Number 0 becomes O"
+      ],
+      "why": "The book shows flipping 9 to resemble p or b as a memory trick."
+    }
+  ]
+}

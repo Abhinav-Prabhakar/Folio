@@ -1,0 +1,56 @@
+{
+  "book": "eating-animals",
+  "title": "Eating Animals",
+  "questions": [
+    {
+      "q": "How does Foer describe modern animal agriculture?",
+      "a": [
+        "As factories that produce meat as fast and cheaply as possible",
+        "As small farms that treat animals with care and respect",
+        "As a traditional practice that has barely changed",
+        "As a regulated industry focused on animal welfare"
+      ],
+      "why": "Lesson 1 says raising animals has become producing them in factories, where speed and low cost matter more than wellbeing."
+    },
+    {
+      "q": "What is the fecal soup used in poultry processing?",
+      "a": [
+        "A broth of dead chickens and waste that adds weight to meat",
+        "A cleaning solution used to kill bacteria on the factory floor",
+        "A feed mixture given to chickens to speed their growth",
+        "A natural fertilizer sprayed on fields near the farms"
+      ],
+      "why": "Lesson 2 describes chicken meat being immersed in a broth of dead chickens containing feces and pathogens to absorb extra weight."
+    },
+    {
+      "q": "What share of store chicken carried salmonella or campylobacter?",
+      "a": [
+        "83 percent",
+        "33 percent",
+        "18 percent",
+        "50 percent"
+      ],
+      "why": "Lesson 2 cites a consumer report finding that 83 percent of chicken meat in stores contained salmonella or campylobacter."
+    },
+    {
+      "q": "Why is routine antibiotic use on farms a health threat?",
+      "a": [
+        "It breeds resistant germs that can move from animals to people",
+        "It makes meat lose most of its protein and vitamins",
+        "It causes chickens to grow too slowly to be profitable",
+        "It makes animal waste more toxic than human sewage"
+      ],
+      "why": "Lesson 2 says overusing antibiotics, often preventively, creates resistant pathogens that can pass from animals to humans."
+    },
+    {
+      "q": "How do livestock emissions compare with the world's transport emissions?",
+      "a": [
+        "They are 40 percent higher, about 18 percent of the total",
+        "They are 40 percent lower, about 5 percent of the total",
+        "They are roughly equal at about 18 percent each",
+        "They are twice as high, about 40 percent of the total"
+      ],
+      "why": "Lesson 3 says animal agriculture produces 40 percent more greenhouse gases than transport, accounting for up to 18 percent of global emissions."
+    }
+  ]
+}

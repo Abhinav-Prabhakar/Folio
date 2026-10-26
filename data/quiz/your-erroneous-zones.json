@@ -1,0 +1,56 @@
+{
+  "book": "your-erroneous-zones",
+  "title": "Your Erroneous Zones",
+  "questions": [
+    {
+      "q": "What is the main advice for dealing with worry in the book?",
+      "a": [
+        "Act immediately to solve the problem",
+        "Avoid thinking about it",
+        "Ask others for help",
+        "Write it down"
+      ],
+      "why": "The text states taking action is the best cure to worry."
+    },
+    {
+      "q": "Why does the author say guilt is energy-draining?",
+      "a": [
+        "It focuses on past actions that cannot be changed",
+        "It makes you feel proud",
+        "It encourages new habits",
+        "It increases confidence"
+      ],
+      "why": "Guilt keeps you stuck in the past and prevents moving forward."
+    },
+    {
+      "q": "Which source does the book cite to support authenticity?",
+      "a": [
+        "Bible, researchers, psychologists, philosophers",
+        "Only psychologists",
+        "Only philosophers",
+        "Only the Bible"
+      ],
+      "why": "The overview lists these four sources supporting authenticity."
+    },
+    {
+      "q": "What should you do if you cannot change a guilty situation?",
+      "a": [
+        "Let it go",
+        "Keep blaming yourself",
+        "Seek revenge",
+        "Ignore it"
+      ],
+      "why": "The text advises to let go if nothing can be done in the present."
+    },
+    {
+      "q": "What is a key characteristic of the author's suggested self-belief system?",
+      "a": [
+        "It involves positive self-talk",
+        "It requires external validation",
+        "It focuses on past mistakes",
+        "It ignores current actions"
+      ],
+      "why": "Building a self-belief system starts with positive talking about oneself."
+    }
+  ]
+}

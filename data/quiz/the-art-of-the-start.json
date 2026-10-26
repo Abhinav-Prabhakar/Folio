@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-the-start",
+  "title": "The Art Of The Start",
+  "questions": [
+    {
+      "q": "What should an entrepreneur's first goal be?",
+      "a": [
+        "Creating meaning by improving customers' lives, not making money",
+        "Raising as much funding as possible before launch",
+        "Building a flashy brand that attracts attention",
+        "Hiring a large team as quickly as possible"
+      ],
+      "why": "Lesson 1 says a company succeeds by making the world better, with money as a result rather than the aim."
+    },
+    {
+      "q": "What does the summary say a money-first focus attracts?",
+      "a": [
+        "Greedy, dishonest people who make customers uncomfortable",
+        "Investors who demand quick returns",
+        "Employees who value stability over risk",
+        "Competitors who copy your product"
+      ],
+      "why": "Lesson 1 argues that greed as the main motive draws the wrong people and alienates customers."
+    },
+    {
+      "q": "What are the three parts of the MAT framework?",
+      "a": [
+        "Milestones, assumptions and tasks",
+        "Market, audience and timing",
+        "Mission, assets and team",
+        "Money, advertising and testing"
+      ],
+      "why": "Lesson 2 introduces MAT as milestones, assumptions and tasks for early direction."
+    },
+    {
+      "q": "What are assumptions in the MAT framework?",
+      "a": [
+        "Beliefs about your idea that may be wrong and lack supporting data",
+        "Guaranteed facts confirmed by market research",
+        "The tasks you complete every week",
+        "The funding you expect to raise"
+      ],
+      "why": "Lesson 2 says to list what you believe about your business that you have no data to support."
+    },
+    {
+      "q": "Why is a business plan valuable even if investors never read it?",
+      "a": [
+        "Writing it exposes gaps in your thinking and helps the team work together",
+        "It guarantees that your product will succeed",
+        "It replaces the need for a prototype",
+        "It legally protects your idea from rivals"
+      ],
+      "why": "Lesson 3 says the process of writing a plan reveals blind spots and improves teamwork."
+    }
+  ]
+}

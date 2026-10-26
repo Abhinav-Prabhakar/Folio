@@ -1,0 +1,56 @@
+{
+  "book": "einstein-his-life-and-universe",
+  "title": "Einstein: His Life and Universe",
+  "questions": [
+    {
+      "q": "Which childhood gift first sparked Einstein's sense of wonder?",
+      "a": [
+        "A compass from his father",
+        "A violin from his mother",
+        "A telescope from a family friend",
+        "A book of physics from a medical student"
+      ],
+      "why": "Lesson 1 describes his father giving him a compass when he was sick at four, which left him amazed and curious about science."
+    },
+    {
+      "q": "How did playing the violin help Einstein work?",
+      "a": [
+        "It helped him process physics problems creatively",
+        "It earned him money while he studied physics",
+        "It kept him calm before public lectures",
+        "It helped him remember equations for exams"
+      ],
+      "why": "Lesson 1 says music let his subconscious process ideas creatively, and he often played while thinking through physics problems."
+    },
+    {
+      "q": "What work earned Einstein the Nobel Prize?",
+      "a": [
+        "Explaining the photoelectric effect",
+        "Developing the theory of special relativity",
+        "Discovering the constant speed of light",
+        "Proving the existence of light waves"
+      ],
+      "why": "Lesson 2 stresses that the Nobel Prize had nothing to do with relativity; it was awarded for explaining the photoelectric effect."
+    },
+    {
+      "q": "What did Einstein conclude about the nature of light?",
+      "a": [
+        "It travels both as waves and as discrete particles",
+        "It travels only as waves, never as particles",
+        "It slows down whenever it passes through metal",
+        "It carries no energy until it strikes a surface"
+      ],
+      "why": "Lesson 2 explains that light had to exist as both waves and discrete particles, an idea central to quantum theory."
+    },
+    {
+      "q": "What did his family find by Einstein's deathbed?",
+      "a": [
+        "Twelve pages full of equations",
+        "An unfinished letter to a fellow physicist",
+        "A notebook of violin compositions",
+        "A signed manifesto against nuclear weapons"
+      ],
+      "why": "Lesson 3 says that in his final days he signed a manifesto and prepared a speech, and twelve pages of equations were found by his deathbed."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "deep-nutrition",
+  "title": "Deep Nutrition",
+  "questions": [
+    {
+      "q": "Why is health declining even as medical science improves?",
+      "a": [
+        "Modern diets rely on processed foods instead of traditional ones",
+        "People today exercise far less than any earlier generation",
+        "Vaccines and antibiotics have become less effective over time",
+        "Doctors no longer study nutrition during their training"
+      ],
+      "why": "Lesson 1 says processed food replaced natural food, bringing age-related disease earlier in life."
+    },
+    {
+      "q": "What went wrong when butter was replaced with margarine?",
+      "a": [
+        "Margarine brought trans fats linked to health problems",
+        "Margarine contained too many natural minerals",
+        "Butter was found to be completely free of nutrients",
+        "Margarine made food spoil much faster"
+      ],
+      "why": "Lesson 1 says the swap traded a natural fat for artificial trans fats."
+    },
+    {
+      "q": "How do vegetable oils damage the brain, according to lesson 2?",
+      "a": [
+        "Their trans fats disrupt antioxidant protection and allow oxidation",
+        "They remove all polyunsaturated fats from brain tissue",
+        "They block the brain from absorbing any water",
+        "They speed up the growth of new neural connections"
+      ],
+      "why": "Lesson 2 explains that oxidation then lets free radicals damage vulnerable brain molecules."
+    },
+    {
+      "q": "Why is sugar so easy to overconsume today?",
+      "a": [
+        "Our sweetness receptors evolved when sugar was very scarce",
+        "Our bodies produce no receptors for sweet tastes at all",
+        "Modern sugar contains fewer calories than older sugar",
+        "The brain stops responding to sweetness after childhood"
+      ],
+      "why": "Lesson 2 says modern overexposure overwhelms a system built for a low-sugar world."
+    },
+    {
+      "q": "What are the four pillars of a healthy traditional diet?",
+      "a": [
+        "Bone-in meat, organs, fermented or sprouted foods and fresh food",
+        "Lean poultry, dairy, whole grains and bottled supplements",
+        "Low calories, low fat, low sugar and frequent fasting",
+        "Raw vegetables, fruit, nuts and vegetable oils"
+      ],
+      "why": "Lesson 3 lists meat on the bone, organs, fermented or sprouted food and fresh plants."
+    }
+  ]
+}

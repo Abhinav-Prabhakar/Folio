@@ -1,0 +1,56 @@
+{
+  "book": "the-book-of-joy",
+  "title": "The Book Of Joy",
+  "questions": [
+    {
+      "q": "What event brought Desmond Tutu and the Dalai Lama together to discuss joy?",
+      "a": [
+        "Tutu's 80th birthday in Dharamsala",
+        "A UN summit on peace",
+        "A charity gala in Johannesburg",
+        "A conference on climate change"
+      ],
+      "why": "Tutu celebrated his 80th birthday in Dharamsala, where the Dalai Lama was based."
+    },
+    {
+      "q": "Which example does the book use to show suffering is unavoidable?",
+      "a": [
+        "Giving birth",
+        "Natural disasters",
+        "Economic recession",
+        "Political unrest"
+      ],
+      "why": "Birth is highlighted as a painful yet essential process."
+    },
+    {
+      "q": "According to the authors, what is the main difference between suffering and our reaction to it?",
+      "a": [
+        "We control our reaction, not the suffering",
+        "We control both suffering and reaction",
+        "Suffering is more powerful than reaction",
+        "Reaction is irrelevant to suffering"
+      ],
+      "why": "They emphasize mental immunity as control over reaction."
+    },
+    {
+      "q": "Which feelings are suggested to replace fear and frustration caused by suffering?",
+      "a": [
+        "Compassion and sadness",
+        "Anger and denial",
+        "Indifference and hope",
+        "Despair and acceptance"
+      ],
+      "why": "The book proposes channeling stress into compassion and sadness."
+    },
+    {
+      "q": "What does the Dalai Lama and Desmond Tutu agree about fear?",
+      "a": [
+        "It is a mental creation, not reality",
+        "It is a natural response to danger",
+        "It is the root of all suffering",
+        "It can be eliminated by meditation"
+      ],
+      "why": "They state fear is a mental creation."
+    }
+  ]
+}

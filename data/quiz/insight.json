@@ -1,0 +1,56 @@
+{
+  "book": "insight",
+  "title": "Insight",
+  "questions": [
+    {
+      "q": "What are the two parts of self-awareness?",
+      "a": [
+        "Knowing yourself and knowing how others see you",
+        "Knowing your feelings and controlling them",
+        "Knowing your values and pursuing your goals",
+        "Knowing your strengths and hiding your weaknesses"
+      ],
+      "why": "Lesson 1 separates internal self-awareness from external self-awareness."
+    },
+    {
+      "q": "Which seven areas does Eurich say you must understand to be fully self-aware?",
+      "a": [
+        "Values, passions, aspirations, fit, patterns, reactions and impact",
+        "Habits, goals, finances, health, family, work and rest",
+        "Strengths, weaknesses, fears, hopes, skills, roles and image",
+        "Beliefs, emotions, routines, relationships, purpose, focus and growth"
+      ],
+      "why": "Lesson 1 lists the seven insights, from values and passions to reactions and impact on others."
+    },
+    {
+      "q": "Why can too much self-analysis backfire?",
+      "a": [
+        "We accept easy explanations without questioning them",
+        "It takes time away from work and relationships",
+        "It makes us too dependent on other people",
+        "It forces us to relive painful memories"
+      ],
+      "why": "Lesson 2 says self-analyzers end up more anxious and rarely check whether their conclusions are true."
+    },
+    {
+      "q": "What question does Eurich recommend asking instead of why?",
+      "a": [
+        "What do I think, feel and do in this situation?",
+        "Who is to blame for how I ended up here?",
+        "When will I finally change this pattern?",
+        "Why do I keep making the same mistake?"
+      ],
+      "why": "Lesson 2 says asking what, or who, helps you name emotions and cope with them."
+    },
+    {
+      "q": "What is the first step in using feedback well?",
+      "a": [
+        "Make sure you understand what the person means",
+        "Decide immediately whether you agree",
+        "Ask several people for the same criticism",
+        "Wait a day before responding to it"
+      ],
+      "why": "Lesson 3 says receiving feedback starts with accurate understanding, asking for clarification if needed."
+    }
+  ]
+}

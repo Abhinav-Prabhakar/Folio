@@ -1,0 +1,56 @@
+{
+  "book": "living-in-your-top-1",
+  "title": "Living In Your Top 1%",
+  "questions": [
+    {
+      "q": "What does a fixed mindset lead people to do after failure?",
+      "a": [
+        "Give up because they believe their abilities cannot change",
+        "Work harder to prove other people wrong",
+        "Ask mentors for detailed feedback",
+        "Set smaller goals for the next attempt"
+      ],
+      "why": "The first lesson says people with a fixed outlook think they cannot change and so stop trying after a setback."
+    },
+    {
+      "q": "What did the Gallup research find about people who use their strengths daily?",
+      "a": [
+        "They were far more engaged and reported a better quality of life",
+        "They earned more money but felt less satisfied at work",
+        "They changed jobs more often than their peers",
+        "They preferred to work alone rather than in teams"
+      ],
+      "why": "The second lesson says daily strength use brought six times higher engagement and three times better quality of life."
+    },
+    {
+      "q": "How does the author suggest discovering your strengths?",
+      "a": [
+        "Take online quizzes and ask people who know you well",
+        "Copy the skills of the most successful people you know",
+        "Spend most of your time fixing your weakest areas",
+        "Keep a journal recording your daily mistakes"
+      ],
+      "why": "She recommends searching for strength quizzes and asking those closest to you what they think you are good at."
+    },
+    {
+      "q": "Why does the author say your first steps should be tiny?",
+      "a": [
+        "Small steps build consistency and prevent overwhelm",
+        "Small goals require much less planning",
+        "Small steps make a stronger impression on others",
+        "Small steps remove the need for deadlines"
+      ],
+      "why": "The third lesson says keeping initial steps almost ridiculously small makes consistency and confidence easier."
+    },
+    {
+      "q": "What does the jar exercise ask you to do?",
+      "a": [
+        "Donate a dollar each time you use negative language",
+        "Save a dollar for every goal you complete",
+        "Write a compliment and drop it in the jar",
+        "Draw one goal from the jar each morning"
+      ],
+      "why": "The first lesson suggests putting a dollar in a jar whenever you say I can't, then donating the money to charity."
+    }
+  ]
+}

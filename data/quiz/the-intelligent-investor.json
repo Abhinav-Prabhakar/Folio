@@ -1,0 +1,56 @@
+{
+  "book": "the-intelligent-investor",
+  "title": "The Intelligent Investor",
+  "questions": [
+    {
+      "q": "According to Graham, what are the three principles of intelligent investing?",
+      "a": [
+        "Analyze long-term, diversify, focus on safe steady returns",
+        "Buy low, sell high, hold for at least ten years",
+        "Follow market trends, minimize taxes, use leverage",
+        "Pick growth stocks, time the market, avoid dividends"
+      ],
+      "why": "From the lesson on three principles of intelligent investing."
+    },
+    {
+      "q": "What does Warren Buffett list as Rule No. 1 for investing?",
+      "a": [
+        "Never lose money",
+        "Always diversify your portfolio",
+        "Buy only what you understand",
+        "Invest for the long term only"
+      ],
+      "why": "From the lesson on three principles, citing Buffett's two rules."
+    },
+    {
+      "q": "How does Graham describe Mr. Market's behavior?",
+      "a": [
+        "Unpredictable, not very clever, prone to mood swings",
+        "Consistently rational and always fair",
+        "Driven by insider information and data",
+        "Steady, methodical, and always accurate"
+      ],
+      "why": "From the Mr. Market lesson describing his key traits."
+    },
+    {
+      "q": "What is Graham's formula investing more commonly called?",
+      "a": [
+        "Dollar cost averaging",
+        "Value investing",
+        "Index fund investing",
+        "Momentum trading"
+      ],
+      "why": "From the formula investing lesson naming the common term."
+    },
+    {
+      "q": "What does formula investing require an investor to do?",
+      "a": [
+        "Set a fixed budget and invest it regardless of price",
+        "Wait for the best price before making any purchase",
+        "Adjust the amount based on current market conditions",
+        "Only invest when stock prices drop below a threshold"
+      ],
+      "why": "From the formula investing lesson describing the method."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "thank-you-for-arguing",
+  "title": "Thank You For Arguing",
+  "questions": [
+    {
+      "q": "What should the goal of an argument be, according to the summary?",
+      "a": [
+        "Winning your audience over to a shared outcome",
+        "Proving that your opponent is factually wrong",
+        "Ending the conversation as quickly as possible",
+        "Getting the last word before you walk away"
+      ],
+      "why": "Lesson 1 says the aim is consensus, not victory, so the audience ends up wanting the same thing."
+    },
+    {
+      "q": "What separated couples who stayed married from those who broke up?",
+      "a": [
+        "They resolved disputes by reaching a shared outcome",
+        "They had far fewer disagreements overall",
+        "They avoided discussing money and family",
+        "They took turns letting each other win"
+      ],
+      "why": "Lesson 1 cites Gottman’s finding that both groups argued equally, but only one resolved things."
+    },
+    {
+      "q": "In Aristotle’s scheme, which tense matches an argument about blame?",
+      "a": [
+        "The past",
+        "The present",
+        "The future",
+        "The conditional"
+      ],
+      "why": "Lesson 2 pairs blame with the past, values with the present and choice with the future."
+    },
+    {
+      "q": "How could the wife keep the music dispute about choice rather than values?",
+      "a": [
+        "By asking whether they could turn it down or switch songs",
+        "By explaining why her taste in music is superior",
+        "By pointing out that he always plays it too loud",
+        "By refusing to discuss the music until later"
+      ],
+      "why": "Lesson 2 recommends focusing on the future with a question about what they might do instead."
+    },
+    {
+      "q": "What does the summary suggest doing when an opponent insults you?",
+      "a": [
+        "Embrace the label and give it a positive spin",
+        "Insult them back with a sharper word",
+        "Ignore them and repeat your main point",
+        "End the discussion and walk away"
+      ],
+      "why": "Lesson 3 shows how redefining a label, as politicians do, puts the opponent on the defensive."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "moneyland",
+  "title": "Moneyland",
+  "questions": [
+    {
+      "q": "Where does the summary say the wealthy prefer to keep their money?",
+      "a": ["In offshore accounts with discreet laws", "In local banks close to home", "Under their mattresses at home", "In government savings bonds"],
+      "why": "Lesson 1 says offshore accounts offer financial discretion and laws that favor the holder."
+    },
+    {
+      "q": "What made Nevis useful for hiding wealth, according to the summary?",
+      "a": ["Lawyers helped shape its rules after independence", "It remained under direct British control", "It offered the highest interest rates anywhere", "It required proof of where money came from"],
+      "why": "Lesson 1 says American lawyers worked with the island's leader after independence to tailor its laws."
+    },
+    {
+      "q": "What happened to Yuri Skuratov after he exposed the FIMACO money?",
+      "a": ["State television aired footage meant to discredit him", "He was elected to the Russian parliament", "He received an award for public service", "He fled to a Caribbean island"],
+      "why": "Lesson 1 says the broadcast of compromising footage confirmed his suspicions about the bank's dealings."
+    },
+    {
+      "q": "How did Alexander Litvinenko die, according to the summary?",
+      "a": ["He was poisoned with polonium", "He was killed by a car bomb", "He was shot outside his home", "He died in a suspicious plane crash"],
+      "why": "Lesson 2 says the former KGB agent died of polonium poisoning in 2006."
+    },
+    {
+      "q": "What does the summary say about trusts set up in Nevada?",
+      "a": ["They can last 365 years and avoid taxes", "They must be renewed every ten years", "They are limited to state residents", "They cannot hold property or assets"],
+      "why": "Lesson 3 says a Nevada trust can run for centuries and is extremely hard to access."
+    }
+  ]
+}

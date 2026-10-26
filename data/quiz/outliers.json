@@ -1,0 +1,56 @@
+{
+  "book": "outliers",
+  "title": "Outliers",
+  "questions": [
+    {
+      "q": "What does Gladwell argue happens after you pass a skill threshold?",
+      "a": [
+        "Extra ability stops giving you much advantage",
+        "Talent becomes the only thing that matters",
+        "Practice no longer has any value at all",
+        "Success becomes guaranteed from then on"
+      ],
+      "why": "Lesson 1 argues that past a certain skill threshold, additional ability adds little advantage."
+    },
+    {
+      "q": "Why are many elite Canadian hockey players born early in the year?",
+      "a": [
+        "The January cutoff makes them older and bigger",
+        "They are naturally stronger than later-born players",
+        "Coaches prefer players born in winter",
+        "Later-born children quit the sport early"
+      ],
+      "why": "Lesson 2 explains that the January cutoff means early-born players compete against younger peers."
+    },
+    {
+      "q": "What did Gladwell find about law students admitted under lower standards?",
+      "a": [
+        "Their career outcomes matched their peers after graduating",
+        "They dropped out at much higher rates",
+        "They never managed to pass the bar exam",
+        "They earned less for their entire careers"
+      ],
+      "why": "Lesson 1 says the performance gap for law students admitted under lower standards disappears after graduation."
+    },
+    {
+      "q": "How does rice farming help explain math performance, per the summary?",
+      "a": [
+        "It instilled precision, patience and discipline",
+        "It gave farmers more free time to study",
+        "It required less coordination than wheat",
+        "It encouraged people to avoid hard problems"
+      ],
+      "why": "Lesson 3 links rice farming to patience, precision and discipline that carry over to math."
+    },
+    {
+      "q": "What does the basketball height example show?",
+      "a": [
+        "Being taller than a threshold does not keep adding advantage",
+        "Tall players always dominate the sport",
+        "Height is irrelevant to basketball success",
+        "Only genetics determine athletic careers"
+      ],
+      "why": "Lesson 1 uses NBA height to show that extra size past a threshold does not help much."
+    }
+  ]
+}

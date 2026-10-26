@@ -1,0 +1,31 @@
+{
+  "book": "boundaries",
+  "title": "Boundaries",
+  "questions": [
+    {
+      "q": "According to the summary, what makes personal boundaries harder to enforce than physical ones?",
+      "a": ["Other people cannot see where they are", "They only apply inside the home", "They disappear once you reach work", "They must be approved by a therapist"],
+      "why": "Lesson 1 contrasts visible fences and signs with personal boundaries, which protect your emotions and spirit but are invisible to others."
+    },
+    {
+      "q": "In the O'Riley family example, what would count as a healthy boundary?",
+      "a": ["Supporting their son without fixing his problems", "Paying his fines and choosing a new school", "Refusing to speak to him until he apologizes", "Letting him handle the family finances"],
+      "why": "Lesson 1 says the parents can listen and support Peter's recovery while leaving responsibility for his problems with him."
+    },
+    {
+      "q": "Which feeling does the summary describe as a useful signal that a boundary has been violated too long?",
+      "a": ["Resentment", "Nostalgia", "Boredom", "Curiosity"],
+      "why": "Lesson 2 says resentment can be a good thing when it shows you are finished being complacent about boundary violations."
+    },
+    {
+      "q": "Why does the summary say controlling people can feel addictive to someone who complies with them?",
+      "a": ["Their demands make the compliant person feel needed", "They offer clear rewards for good behavior", "They remove all need to make decisions", "They are usually more affectionate than friends"],
+      "why": "Lesson 2 explains that a controller's insistence on using you creates a high, which friends who accept a simple no do not provide."
+    },
+    {
+      "q": "What does the summary say about boundaries in a professional setting?",
+      "a": ["Being at work does not mean your boundaries vanish", "Boundaries should be suspended while you are on the clock", "Only managers are entitled to set limits", "Work boundaries matter less than personal ones"],
+      "why": "Lesson 3 stresses that boundaries are just as important at work, including not taking responsibility for colleagues' poor performance."
+    }
+  ]
+}

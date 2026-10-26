@@ -1,0 +1,56 @@
+{
+  "book": "the-four-steps-to-the-epiphany",
+  "title": "The Four Steps To The Epiphany",
+  "questions": [
+    {
+      "q": "Which step focuses on finding customers first?",
+      "a": [
+        "Customer Discovery",
+        "Customer Validation",
+        "Customer Creation",
+        "Company Building"
+      ],
+      "why": "Discovery seeks customers before product."
+    },
+    {
+      "q": "What market type should a startup avoid targeting first?",
+      "a": [
+        "Mainstream market",
+        "Early adopters",
+        "Existing markets",
+        "Resegmenting markets"
+      ],
+      "why": "Start with early adopters, not mainstream."
+    },
+    {
+      "q": "Why can't a startup use the same methods as a large company?",
+      "a": [
+        "It lacks established customer base",
+        "It has too many resources",
+        "It has a clear vision",
+        "It has a large market share"
+      ],
+      "why": "Large companies already know customers."
+    },
+    {
+      "q": "Which market type involves redefining current segments?",
+      "a": [
+        "Resegmenting existing markets",
+        "Existing markets",
+        "New markets",
+        "All of the above"
+      ],
+      "why": "Resegmenting changes current segments."
+    },
+    {
+      "q": "What is the purpose of the four steps in the book?",
+      "a": [
+        "Guide startup success",
+        "Explain corporate strategy",
+        "Detail marketing tactics",
+        "Outline legal compliance"
+      ],
+      "why": "They provide a startup compass."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "becoming",
+  "title": "Becoming",
+  "questions": [
+    {
+      "q": "After Michelle complained that her second-grade class was chaotic, what did her mother do?",
+      "a": [
+        "Had her tested into a third-grade class for high-performing students",
+        "Moved her to a private school across town",
+        "Hired a tutor to teach her at home",
+        "Asked the principal to replace the teacher"
+      ],
+      "why": "The summary describes this as a crucial early step in Michelle's education."
+    },
+    {
+      "q": "What did Michelle's college counselor advise her about applying to Princeton?",
+      "a": [
+        "That she should aim for a less ambitious school",
+        "That she should apply a year later",
+        "That she should study law instead",
+        "That she needed better test scores"
+      ],
+      "why": "The counselor told her she was not Princeton material, but she applied anyway and got in."
+    },
+    {
+      "q": "Which Princeton group gave Michelle support and led her to mentor Czerny Brasuell?",
+      "a": [
+        "The Third World Center",
+        "The National Honors Society",
+        "The student government",
+        "The campus newspaper"
+      ],
+      "why": "The summary says the Third World Center supported students of color and introduced her to Brasuell."
+    },
+    {
+      "q": "What did Michelle refuse to give up after her family moved into the White House?",
+      "a": [
+        "Her active role in raising her daughters",
+        "Her work at a Chicago law firm",
+        "Her weekly public speeches",
+        "Her plan to run for office"
+      ],
+      "why": "She made sure her daughters saw the White House as their home and could play and eat freely."
+    },
+    {
+      "q": "What causes did Michelle pursue as First Lady, according to the summary?",
+      "a": [
+        "Planting a garden and improving school lunches",
+        "Expanding healthcare and housing aid",
+        "Reforming immigration and voting laws",
+        "Funding arts programs and libraries"
+      ],
+      "why": "The summary highlights her garden and her work on national school lunch initiatives."
+    }
+  ]
+}

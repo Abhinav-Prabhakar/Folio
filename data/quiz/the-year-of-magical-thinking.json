@@ -1,0 +1,56 @@
+{
+  "book": "the-year-of-magical-thinking",
+  "title": "The Year of Magical Thinking",
+  "questions": [
+    {
+      "q": "Who was Joan Didion's husband?",
+      "a": [
+        "John",
+        "Quintana",
+        "Michael",
+        "David"
+      ],
+      "why": "John is her husband."
+    },
+    {
+      "q": "What illness did their daughter develop?",
+      "a": [
+        "Pneumonia",
+        "Flu",
+        "Cancer",
+        "Asthma"
+      ],
+      "why": "Quintana fell ill with pneumonia."
+    },
+    {
+      "q": "Which stage is NOT part of normal grief?",
+      "a": [
+        "Denial",
+        "Anger",
+        "Bargaining",
+        "Joy"
+      ],
+      "why": "Joy is not a normal grief stage."
+    },
+    {
+      "q": "What did Joan blame herself for after John's death?",
+      "a": [
+        "Taking a job at Life Magazine",
+        "Not visiting him",
+        "Eating too much",
+        "Sleeping too late"
+      ],
+      "why": "She blamed herself for taking a job at Life Magazine."
+    },
+    {
+      "q": "What type of grief did Joan experience?",
+      "a": [
+        "Pathological",
+        "Normal",
+        "Mild",
+        "Brief"
+      ],
+      "why": "She experienced pathological grief."
+    }
+  ]
+}

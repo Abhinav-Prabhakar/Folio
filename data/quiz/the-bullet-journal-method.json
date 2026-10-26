@@ -1,0 +1,56 @@
+{
+  "book": "the-bullet-journal-method",
+  "title": "The Bullet Journal Method",
+  "questions": [
+    {
+      "q": "What is the first step in starting a Bullet Journal?",
+      "a": [
+        "Organize thoughts before writing",
+        "Start writing immediately",
+        "Buy a fancy notebook",
+        "Choose a color scheme"
+      ],
+      "why": "The book advises to organize thoughts before writing."
+    },
+    {
+      "q": "Which symbol marks a completed task in the journal?",
+      "a": [
+        "An \"x\" over the bullet",
+        "A checkmark",
+        "A dash",
+        "A star"
+      ],
+      "why": "Completed tasks are crossed with an \"x\"."
+    },
+    {
+      "q": "How are urgent tasks indicated?",
+      "a": [
+        "With an asterisk",
+        "With a red dot",
+        "With a bold bullet",
+        "With a question mark"
+      ],
+      "why": "Urgency is shown by adding an asterisk."
+    },
+    {
+      "q": "What does a right‑facing arrow do to a task?",
+      "a": [
+        "Reschedules it for the month",
+        "Moves it to future log",
+        "Deletes it",
+        "Highlights it"
+      ],
+      "why": "A right‑facing arrow reschedules the task for the month."
+    },
+    {
+      "q": "During monthly migration, what happens to tasks that are no longer vital?",
+      "a": [
+        "They are crossed off",
+        "They are moved to future log",
+        "They are duplicated",
+        "They are archived"
+      ],
+      "why": "Unnecessary tasks are crossed off during migration."
+    }
+  ]
+}

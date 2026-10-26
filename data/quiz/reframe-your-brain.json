@@ -1,0 +1,56 @@
+{
+  "book": "reframe-your-brain",
+  "title": "Reframe Your Brain",
+  "questions": [
+    {
+      "q": "What does the reframe I am what I do replace?",
+      "a": [
+        "The belief that you are your inner thoughts",
+        "The habit of comparing yourself to others",
+        "The fear of being judged at work",
+        "The idea that feelings are temporary"
+      ],
+      "why": "Lesson 1 lists it first among the Stoic reframes, shifting identity from thought to action."
+    },
+    {
+      "q": "What are the three pillars of Adams's success philosophy?",
+      "a": [
+        "Fake it till you make it, consistency and flexibility",
+        "Hard work, natural talent and good luck",
+        "Goals, deadlines and external rewards",
+        "Focus, discipline and competition"
+      ],
+      "why": "Lesson 2 names faking it, consistency over effort, and staying open-minded."
+    },
+    {
+      "q": "What does consistency beats effort mean in practice?",
+      "a": [
+        "Showing up regularly matters more than occasional bursts",
+        "Working longer hours is the surest route",
+        "Talent is fixed and cannot be trained",
+        "One perfect attempt beats many small ones"
+      ],
+      "why": "Lesson 2 says a page a day becomes a manuscript, while sporadic effort rarely adds up."
+    },
+    {
+      "q": "Which rule does Adams give for creating your own reframes?",
+      "a": [
+        "A reframe only needs to work, not be true",
+        "A reframe must be logically airtight",
+        "A reframe should be approved by experts",
+        "A reframe must apply to everyone equally"
+      ],
+      "why": "Lesson 3 says reframes do not need to be true or logical, only useful to you."
+    },
+    {
+      "q": "What alcohol reframe does the summary offer as an example?",
+      "a": [
+        "Reframing alcohol from a drink into a poison",
+        "See alcohol as a reward after a hard day",
+        "Treat alcohol as a social obligation",
+        "Replace alcohol with sweetened drinks"
+      ],
+      "why": "Lesson 3 says the point is not accuracy but whether the reframe helps you drink less."
+    }
+  ]
+}

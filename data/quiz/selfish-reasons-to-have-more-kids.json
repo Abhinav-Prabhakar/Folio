@@ -1,0 +1,56 @@
+{
+  "book": "selfish-reasons-to-have-more-kids",
+  "title": "Selfish Reasons To Have More Kids",
+  "questions": [
+    {
+      "q": "What do twin studies suggest about long-term parenting choices?",
+      "a": [
+        "Genes shape outcomes more than the parenting style does",
+        "Adoptive parents shape outcomes the most",
+        "School choice matters more than either",
+        "Birth order is the strongest predictor"
+      ],
+      "why": "Lesson 1 cites twin studies showing genetic parents matter more than upbringing."
+    },
+    {
+      "q": "What does the summary advise parents to do after conceiving?",
+      "a": [
+        "Pick a co-parent whose traits you like and relax about the rest",
+        "Read every popular parenting book available",
+        "Fill the calendar with extracurricular activities",
+        "Delay school until the child seems ready"
+      ],
+      "why": "Lesson 1 says to choose a good co-parent and not sweat the small stuff."
+    },
+    {
+      "q": "What does the summary claim about children today?",
+      "a": [
+        "They have never had it better in human history",
+        "They face more hazards than any earlier generation",
+        "Their health has declined because of processed food",
+        "Kidnappings are far more common than in the past"
+      ],
+      "why": "Lesson 2 says children's health, safety and quality of life have never been better."
+    },
+    {
+      "q": "What does the summary say about stranger danger?",
+      "a": [
+        "Rare events get attention, so the risk feels larger",
+        "It is the leading danger facing young children",
+        "It has grown sharply because of social media",
+        "It mostly affects children in rural areas"
+      ],
+      "why": "Lesson 2 calls stranger danger overblown because rare events get heavy coverage."
+    },
+    {
+      "q": "Why does the summary suggest having more children than planned?",
+      "a": [
+        "A lighter parenting style costs far less time and money",
+        "Governments offer generous payments for each child",
+        "Siblings make each child easier to raise",
+        "Larger families get cheaper housing"
+      ],
+      "why": "Lesson 3 says intensive parenting is optional and inflates the perceived cost."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "first-bite",
+  "title": "First Bite",
+  "questions": [
+    {
+      "q": "What did the 1929 study of babies choosing their own food find?",
+      "a": [
+        "Over time the children chose every food and picked healthier options when ill",
+        "The children refused most foods and needed constant encouragement",
+        "The children preferred sweets and never selected vegetables",
+        "The children ate the same amount regardless of what was offered"
+      ],
+      "why": "Lesson 1 describes a six-year study where children self-selected from 34 foods without pressure."
+    },
+    {
+      "q": "Why do grandparents often urge children to eat more?",
+      "a": [
+        "They grew up around shortages and want to protect the young from hunger",
+        "They believe extra weight is the best cure for childhood illness",
+        "They are trying to compete with what the parents provide",
+        "They were taught by doctors to increase a child's portions"
+      ],
+      "why": "Lesson 2 says memories of war and famine make them equate food with care."
+    },
+    {
+      "q": "What is the only right way to give children good eating habits?",
+      "a": [
+        "Model the behavior yourself rather than forcing them",
+        "Offer rewards for finishing every vegetable on the plate",
+        "Remove all snacks from the house until they are older",
+        "Explain nutritional science to them from an early age"
+      ],
+      "why": "Lesson 1 says children see through rules that parents do not follow themselves."
+    },
+    {
+      "q": "How does the summary distinguish appetite from hunger?",
+      "a": [
+        "Appetite is a desire to eat for comfort, not a need for energy",
+        "Appetite is physical, while hunger is entirely psychological",
+        "Hunger appears only after several hours without food",
+        "Appetite is strongest in the morning, hunger at night"
+      ],
+      "why": "Lesson 3 says boredom, sadness and frustration make food an easy substitute."
+    },
+    {
+      "q": "Why does forcing children to eat healthy food usually fail?",
+      "a": [
+        "They notice the hypocrisy and simply refuse the food",
+        "They are biologically unable to digest vegetables early on",
+        "They forget the instruction within a few hours",
+        "They eat more when an adult is watching them closely"
+      ],
+      "why": "Lesson 1 says pressure backfires, especially when parents do not eat well themselves."
+    }
+  ]
+}

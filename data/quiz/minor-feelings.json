@@ -1,0 +1,31 @@
+{
+  "book": "minor-feelings",
+  "title": "Minor Feelings",
+  "questions": [
+    {
+      "q": "What did Hong eventually realize about the negative feelings tied to her identity?",
+      "a": ["There was nothing wrong with her identity", "They would disappear once she moved away", "They came from her own poor choices", "They were shared by every immigrant group"],
+      "why": "Lesson 1 says she reached that realization only after a period of depression."
+    },
+    {
+      "q": "Why did the comedian Richard Pryor matter to Hong, and what disappointed her?",
+      "a": ["He voiced her thoughts but never mentioned Asians", "He taught her how to write comedy sketches", "He encouraged her to move abroad", "He criticized Asian Americans directly"],
+      "why": "Lesson 1 says Pryor spoke her mind, yet still framed race only as black and white."
+    },
+    {
+      "q": "How does Hong describe the place of Asian Americans in US society?",
+      "a": ["They remain in the shadows of the black-white divide", "They have become the country's largest minority", "They are fully accepted as part of the mainstream", "They face less prejudice than other groups"],
+      "why": "Lesson 2 says Asians still face racial injustice as though a shadow hangs over them."
+    },
+    {
+      "q": "What happened after a Korean man shot an American girl, according to Hong?",
+      "a": ["People protested against and harmed Asians broadly", "The story was largely ignored by the media", "The Asian community organized a gun control march", "The courts blamed the police for the shooting"],
+      "why": "Lesson 2 describes protests against all Asians and public harm to them, though Hong felt safer."
+    },
+    {
+      "q": "What gave Hong a sense of peace and belonging as a teenager?",
+      "a": ["English literature, art and two close friends", "Sports and competition at school", "Her family's move to a new neighborhood", "A job at the local public library"],
+      "why": "Lesson 3 says poetry, art and a small group of like-minded friends made her feel understood."
+    }
+  ]
+}

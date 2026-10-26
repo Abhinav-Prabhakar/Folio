@@ -1,0 +1,56 @@
+{
+  "book": "rework",
+  "title": "Rework",
+  "questions": [
+    {
+      "q": "According to the summary, what should be your aim when starting a business?",
+      "a": [
+        "Building something you believe in enough to fight for",
+        "Selling the company within two or three years",
+        "Raising as much investor money as possible",
+        "Copying the largest competitor's business model"
+      ],
+      "why": "Lesson 1 warns that if selling is your only goal you will never get there, and urges you to build something worth standing for."
+    },
+    {
+      "q": "What does the summary say about corporate jargon in marketing?",
+      "a": [
+        "It sounds pretentious and nobody really understands it",
+        "It makes a small company look trustworthy",
+        "It is required when selling to other businesses",
+        "It saves time compared with plain writing"
+      ],
+      "why": "Lesson 2 says buzzword-heavy copy makes companies sound pretentious rather than clear or honest."
+    },
+    {
+      "q": "How does the summary suggest you should write to customers?",
+      "a": [
+        "The way you would talk to a friend",
+        "In the formal tone of a press release",
+        "With as many technical terms as possible",
+        "Using slogans borrowed from big brands"
+      ],
+      "why": "Lesson 2 recommends plain, honest writing instead of imitating the language of large corporations."
+    },
+    {
+      "q": "What happens when someone stays late at the office, per the summary?",
+      "a": [
+        "Everyone else feels bad for not staying late too",
+        "The whole team becomes more productive",
+        "Your manager rewards you with more freedom",
+        "You finish work you could not do earlier"
+      ],
+      "why": "Lesson 3 says late nights mostly make colleagues feel guilty and do not produce the extra output people imagine."
+    },
+    {
+      "q": "Why are long meetings costly, according to the summary?",
+      "a": [
+        "Ten people in a one-hour meeting lose ten hours of focus",
+        "They require expensive equipment to run well",
+        "They always produce decisions nobody follows",
+        "They force everyone to work overtime afterward"
+      ],
+      "why": "Lesson 3 multiplies a 10-person, one-hour meeting into 10 hours of lost focused work."
+    }
+  ]
+}

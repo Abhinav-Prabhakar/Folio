@@ -1,0 +1,56 @@
+{
+  "book": "the-seven-principles-for-making-marriage-work",
+  "title": "The Seven Principles For Making Marriage Work",
+  "questions": [
+    {
+      "q": "What does Gottman call the mental representation of a partner's details?",
+      "a": [
+        "Love map",
+        "Emotional ledger",
+        "Trust index",
+        "Compatibility chart"
+      ],
+      "why": "He describes a love map as storing personal information about the partner."
+    },
+    {
+      "q": "How should couples respond to a partner's bid for attention?",
+      "a": [
+        "Turn toward it",
+        "Ignore it",
+        "Criticize it",
+        "Redirect it"
+      ],
+      "why": "Gottman emphasizes turning toward bids to maintain a healthy marriage."
+    },
+    {
+      "q": "Which gender, according to Gottman, benefits most from respecting the other's opinions?",
+      "a": [
+        "Husbands",
+        "Wives",
+        "Both equally",
+        "Neither"
+      ],
+      "why": "He notes stable marriages often have husbands who respect wives' opinions."
+    },
+    {
+      "q": "What is the recommended approach to unsolvable problems in marriage?",
+      "a": [
+        "Turn them into dialogue",
+        "Avoid the topic",
+        "Seek a therapist immediately",
+        "Compromise quickly"
+      ],
+      "why": "Gottman advises turning gridlock into dialogue rather than eradicating the problem."
+    },
+    {
+      "q": "What does a gridlock indicate about a couple's hopes?",
+      "a": [
+        "Unmet personal hopes",
+        "Financial strain",
+        "Lack of communication",
+        "Health issues"
+      ],
+      "why": "He explains gridlock shows hopes that aren't being respected by the partner."
+    }
+  ]
+}

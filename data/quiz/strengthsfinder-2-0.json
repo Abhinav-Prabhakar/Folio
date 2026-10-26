@@ -1,0 +1,56 @@
+{
+  "book": "strengthsfinder-2-0",
+  "title": "Strengthsfinder 2.0",
+  "questions": [
+    {
+      "q": "What does Rath recommend instead of trying to fix your flaws?",
+      "a": [
+        "Spend your time on what you already do well",
+        "Fix every weakness before building any strength",
+        "Balance strengths and weaknesses equally",
+        "Take a new personality test every year"
+      ],
+      "why": "Lesson 1 says we spend too long ironing out wrinkles instead of doubling down on our strengths."
+    },
+    {
+      "q": "How does the summary apply that advice to exercise?",
+      "a": [
+        "Walk daily rather than forcing yourself into the gym",
+        "Join a team sport to stay accountable",
+        "Lift weights three times a week",
+        "Hire a trainer to build discipline"
+      ],
+      "why": "Lesson 1 suggests doing the minimum that helps, like a daily walk, and using the rest of your time on strengths."
+    },
+    {
+      "q": "What defines a Believer?",
+      "a": [
+        "Someone who needs a cause they believe in to feel motivated",
+        "Someone who plans years ahead with vivid visions",
+        "Someone who seeks agreement across a group",
+        "Someone who never lets other people down"
+      ],
+      "why": "Lesson 2 says a Believer cannot separate motivation from belief and needs a reason to get up."
+    },
+    {
+      "q": "Why does a Futurist make a good co-founder for a Believer?",
+      "a": [
+        "They can give shape to a vision and inspire others to build it",
+        "They handle the finances and daily operations",
+        "They keep the team calm during conflict",
+        "They test every idea against market data"
+      ],
+      "why": "Lesson 2 says a Futurist sees past the rules and paints a vivid picture of what the vision could become."
+    },
+    {
+      "q": "What is the main risk for someone with the Responsible strength?",
+      "a": [
+        "Taking on too much and struggling to say no",
+        "Avoiding conflict at any cost",
+        "Losing sight of the big picture",
+        "Growing bored of routine work"
+      ],
+      "why": "Lesson 3 says Responsibles try never to let anyone down, so they overcommit and must learn to refuse."
+    }
+  ]
+}

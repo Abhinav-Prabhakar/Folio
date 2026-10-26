@@ -1,0 +1,56 @@
+{
+  "book": "survival-of-the-friendliest",
+  "title": "Survival Of The Friendliest",
+  "questions": [
+    {
+      "q": "Which cognitive ability do the authors call uniquely human and central to cooperation?",
+      "a": [
+        "Understanding that others have knowledge and intentions of their own",
+        "The ability to copy sounds and gestures",
+        "The capacity to remember past events",
+        "The instinct to follow a strong leader"
+      ],
+      "why": "Lesson 1 says this understanding, which even a nine-month-old shows, made cooperation possible."
+    },
+    {
+      "q": "How did chimpanzees perform in the cup game?",
+      "a": [
+        "They did not grasp that the researcher knew something they did not",
+        "They found the treat faster than dogs did",
+        "They learned the gesture and applied it to new ones",
+        "They ignored the cups and the researcher completely"
+      ],
+      "why": "Lesson 1 says chimps only learn a specific gesture through repetition and fail when it changes."
+    },
+    {
+      "q": "What did Belyaev's fox experiment demonstrate?",
+      "a": [
+        "Selecting for friendliness brought physical and mental changes with it",
+        "Wild foxes could be tamed through training alone",
+        "Domestication made foxes worse at reading human gestures",
+        "Aggression was necessary for survival in captivity"
+      ],
+      "why": "Lesson 2 says the friendlier foxes changed in body and became better at communicating with humans."
+    },
+    {
+      "q": "Which physical changes appeared in the friendlier foxes?",
+      "a": [
+        "Softer fur, shorter snouts and floppier ears",
+        "Larger teeth and longer snouts",
+        "Thicker coats and sharper claws",
+        "Darker eyes and stronger jaws"
+      ],
+      "why": "Lesson 2 lists these traits as side effects of breeding for tameness, not traits chosen directly."
+    },
+    {
+      "q": "Why do humans have visible whites in their eyes, according to the authors?",
+      "a": [
+        "They help us tell whether someone is making eye contact",
+        "They shield the eye from bright sunlight",
+        "They signal health to potential mates",
+        "They widen our peripheral vision"
+      ],
+      "why": "Lesson 3 says the white sclerae are a modern sign of how much we rely on social cues."
+    }
+  ]
+}

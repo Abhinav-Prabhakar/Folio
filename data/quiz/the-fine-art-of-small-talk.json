@@ -1,0 +1,56 @@
+{
+  "book": "the-fine-art-of-small-talk",
+  "title": "The Fine Art Of Small Talk",
+  "questions": [
+    {
+      "q": "What acronym helps choose small‑talk topics?",
+      "a": [
+        "FORM",
+        "SMART",
+        "GROW",
+        "PLAN"
+      ],
+      "why": "The book uses FORM: Family, Occupation, Recreation, Miscellaneous."
+    },
+    {
+      "q": "Which body language cue shows you are listening?",
+      "a": [
+        "Nodding",
+        "Crossing arms",
+        "Fidgeting",
+        "Looking away"
+      ],
+      "why": "Nodding signals active listening."
+    },
+    {
+      "q": "What is the second biggest social fear in the Western world?",
+      "a": [
+        "Initiating conversation with strangers",
+        "Public speaking",
+        "Networking",
+        "Giving presentations"
+      ],
+      "why": "The text states initiating conversation is the second biggest fear."
+    },
+    {
+      "q": "Which question type should be avoided for a good conversation?",
+      "a": [
+        "Yes/no questions",
+        "Open‑ended questions",
+        "Follow‑up questions",
+        "Personal questions"
+      ],
+      "why": "Yes/no questions are discouraged unless followed up."
+    },
+    {
+      "q": "Who is the author of the small‑talk guide?",
+      "a": [
+        "Debra Fine",
+        "Jami Smith",
+        "Kim Perell",
+        "David Chaum"
+      ],
+      "why": "Debra Fine wrote The Fine Art Of Small Talk."
+    }
+  ]
+}

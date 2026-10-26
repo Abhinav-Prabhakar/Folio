@@ -1,0 +1,56 @@
+{
+  "book": "dear-girls",
+  "title": "Dear Girls",
+  "questions": [
+    {
+      "q": "Why does Wong say traveling abroad is so valuable?",
+      "a": [
+        "It forces self-reliance and shows you life beyond your local bubble",
+        "It guarantees a better job when you return home",
+        "It lets you escape your family's expectations permanently",
+        "It teaches you to avoid unfamiliar cultures and customs"
+      ],
+      "why": "Lesson 1 says time abroad builds independence and exposes you to a wider reality."
+    },
+    {
+      "q": "What effect did Haunani-Kay Trask's talk have on Wong?",
+      "a": [
+        "It inspired her to travel further and carry herself with confidence",
+        "It convinced her to give up comedy and study Hawaiian history",
+        "It made her decide to stay close to home after college",
+        "It taught her to hide her background from classmates"
+      ],
+      "why": "Lesson 1 describes Trask's confidence and pride as the spark for Wong's bigger travels."
+    },
+    {
+      "q": "What does Wong advise about race and gender labels?",
+      "a": [
+        "Look past them and concentrate on what you contribute",
+        "Use them to explain away any criticism you receive",
+        "Let them determine which careers are open to you",
+        "Avoid discussing them with anyone at work"
+      ],
+      "why": "Lesson 2 says her value comes from her sets, not her clothes or skin color."
+    },
+    {
+      "q": "What did Wong do after learning a crush did not like her back?",
+      "a": [
+        "She stopped wasting time on him and moved on",
+        "She gave up her plans to study in Vietnam",
+        "She complained about him to her professors",
+        "She changed her entire sense of humor to impress him"
+      ],
+      "why": "Lesson 1 recounts that she remembered Trask's talk and refused to wallow in self-pity."
+    },
+    {
+      "q": "Whose sacrifices does Wong remember when she feels like complaining?",
+      "a": [
+        "Her grandfather's, who arrived alone in the US at eight",
+        "Her college roommate's, who supported her comedy career",
+        "Her comedy mentor's, who taught her to write jokes",
+        "Her daughter's, who inspired her Netflix specials"
+      ],
+      "why": "Lesson 3 describes her grandfather sleeping on newspaper and the courage his story gave her."
+    }
+  ]
+}

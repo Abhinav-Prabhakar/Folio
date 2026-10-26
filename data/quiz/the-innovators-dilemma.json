@@ -1,0 +1,56 @@
+{
+  "book": "the-innovators-dilemma",
+  "title": "The Innovator’s Dilemma",
+  "questions": [
+    {
+      "q": "What term describes technologies that improve existing products?",
+      "a": [
+        "Sustaining technologies",
+        "Disrupting technologies",
+        "Radical technologies",
+        "Incremental technologies"
+      ],
+      "why": "The book defines sustaining technologies as enhancing performance of existing products."
+    },
+    {
+      "q": "According to Christensen, which factor is NOT one of the three rigid elements in large firms?",
+      "a": [
+        "Marketing budget",
+        "Resources",
+        "Processes",
+        "Values"
+      ],
+      "why": "Resources, processes, and values are listed; marketing budget is not."
+    },
+    {
+      "q": "Why can startups overtake incumbents in disruptive markets?",
+      "a": [
+        "They target low‑margin niche customers",
+        "They have larger R&D budgets",
+        "They own more patents",
+        "They receive government subsidies"
+      ],
+      "why": "Startups succeed by serving low‑margin niche markets that incumbents ignore."
+    },
+    {
+      "q": "What solution does Christensen propose for established firms facing disruption?",
+      "a": [
+        "Create or acquire an independent subsidiary",
+        "Increase advertising spend",
+        "Merge with competitors",
+        "Outsource all R&D"
+      ],
+      "why": "He suggests founding or acquiring a subsidiary with appropriate values and processes."
+    },
+    {
+      "q": "Which famous entrepreneur said the book deeply influenced him?",
+      "a": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Elon Musk",
+        "Jeff Bezos"
+      ],
+      "why": "Steve Jobs mentioned the book's impact in his biography."
+    }
+  ]
+}

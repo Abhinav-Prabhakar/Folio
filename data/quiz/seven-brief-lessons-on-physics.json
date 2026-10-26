@@ -1,0 +1,56 @@
+{
+  "book": "seven-brief-lessons-on-physics",
+  "title": "Seven Brief Lessons On Physics",
+  "questions": [
+    {
+      "q": "What conflict does the summary say pushes physics toward new theories?",
+      "a": [
+        "General relativity and quantum mechanics disagree",
+        "Thermodynamics and Newtonian gravity contradict",
+        "Loop theory and string theory use different math",
+        "Cosmology and biology describe different scales"
+      ],
+      "why": "Lesson 1 says the two pillars contradict each other, which opens room for new ideas."
+    },
+    {
+      "q": "What does loop quantum gravity say about space?",
+      "a": [
+        "Space is built from tiny loops rather than being smooth",
+        "Space is an empty container that never changes",
+        "Space curves only near black holes",
+        "Space stretches faster than the speed of light"
+      ],
+      "why": "Lesson 1 describes space as made of microscopic loops."
+    },
+    {
+      "q": "What is heat, according to the summary?",
+      "a": [
+        "Friction that makes atoms vibrate faster",
+        "A fluid called caloric that flows between objects",
+        "Energy released when atoms split apart",
+        "Light absorbed by the surface of objects"
+      ],
+      "why": "Lesson 2 explains heat as atomic motion caused by friction."
+    },
+    {
+      "q": "How does the summary connect heat with the passage of time?",
+      "a": [
+        "Friction drains energy, giving time a direction",
+        "Time is a fluid that flows through space",
+        "Gravity alone creates the past and future",
+        "Hotter rooms make clocks run faster"
+      ],
+      "why": "Lesson 2 links friction and heat loss to the arrow from past to future."
+    },
+    {
+      "q": "What does the summary say about people and the universe?",
+      "a": [
+        "We are made of the same atoms as stars and belong to it",
+        "We observe the universe from outside its laws",
+        "Physics cannot explain any human behavior",
+        "Human curiosity stands apart from nature"
+      ],
+      "why": "Lesson 3 says our bodies share the atoms of stars and we are participants, not outsiders."
+    }
+  ]
+}

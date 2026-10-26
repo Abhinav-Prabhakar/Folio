@@ -1,0 +1,56 @@
+{
+  "book": "the-achievement-habit",
+  "title": "The Achievement Habit",
+  "questions": [
+    {
+      "q": "What does Roth say our reasons really are?",
+      "a": [
+        "Excuses that keep us from changing our behavior",
+        "Honest explanations we should accept",
+        "Signs that the goal was poorly chosen",
+        "Lessons we can apply next time"
+      ],
+      "why": "Lesson 1 argues reasons block decisions and real change."
+    },
+    {
+      "q": "What does the summary say about the causes we assign to events?",
+      "a": [
+        "They are often correlations rather than real causes",
+        "They reveal patterns we can reliably predict",
+        "They are usually more accurate than we assume",
+        "They matter less than the events themselves"
+      ],
+      "why": "Lesson 1 uses the spilled coffee and phone call examples to show false links."
+    },
+    {
+      "q": "What is the point of saying and instead of but?",
+      "a": [
+        "It nudges your mind to find a way to do both",
+        "It makes your speech sound more positive",
+        "It helps you avoid committing to anything",
+        "It softens bad news when talking to others"
+      ],
+      "why": "Lesson 2 says reframing turns a sacrifice into a solvable problem."
+    },
+    {
+      "q": "How does the summary suggest treating people you meet?",
+      "a": [
+        "As potential friends you genuinely want to help",
+        "As contacts who may prove useful later",
+        "As equals to negotiate with carefully",
+        "As audiences for your expertise"
+      ],
+      "why": "Lesson 3 says networking fails when you treat people as business contacts."
+    },
+    {
+      "q": "What happens when you share ideas and knowledge freely?",
+      "a": [
+        "It tends to return to you many times over",
+        "People start expecting free help from you",
+        "You lose the advantage of exclusive knowledge",
+        "It only pays off inside your own company"
+      ],
+      "why": "Lesson 3 argues an abundance mindset multiplies what you give away."
+    }
+  ]
+}

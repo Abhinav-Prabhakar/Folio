@@ -1,0 +1,56 @@
+{
+  "book": "tribe-of-mentors",
+  "title": "Tribe Of Mentors",
+  "questions": [
+    {
+      "q": "What does Rick Rubin say you cannot control?",
+      "a": [
+        "The audience",
+        "Your talent",
+        "Your budget",
+        "Your genre"
+      ],
+      "why": "Rubin notes that you can't control the audience's reaction."
+    },
+    {
+      "q": "How does Steven Pressfield suggest using repeated failure?",
+      "a": [
+        "As an inflection point to change plans",
+        "As proof you're not talented",
+        "As a reason to quit",
+        "As a sign to keep doing the same thing"
+      ],
+      "why": "Pressfield advises treating failure as a signal to adjust your approach."
+    },
+    {
+      "q": "What habit does Tim Ferriss recommend to avoid bad commitments?",
+      "a": [
+        "Finding new ways to say no",
+        "Saying yes to everything",
+        "Delegating all tasks",
+        "Working longer hours"
+      ],
+      "why": "He suggests consistently finding new ways to say no to stay selective."
+    },
+    {
+      "q": "What should you do before accepting advice, according to Ferriss?",
+      "a": [
+        "Check potential reasons not to follow it",
+        "Apply it immediately",
+        "Share it on social media",
+        "Ignore all advice"
+      ],
+      "why": "He urges evaluating possible downsides before deciding to use advice."
+    },
+    {
+      "q": "What type of advice does Ferriss say most people receive?",
+      "a": [
+        "Glorified but often irrelevant",
+        "Highly personalized",
+        "Scientifically proven",
+        "Legally required"
+      ],
+      "why": "He notes a culture of glorified advice that rarely fits the individual."
+    }
+  ]
+}

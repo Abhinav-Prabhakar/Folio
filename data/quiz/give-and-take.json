@@ -1,0 +1,31 @@
+{
+  "book": "give-and-take",
+  "title": "Give and Take",
+  "questions": [
+    {
+      "q": "What does Grant say about your giving style?",
+      "a": ["It is fluid and shifts with the person and situation", "It is fixed by your personality early in life", "It depends mostly on how much money you earn", "It is usually the opposite of how you were raised"],
+      "why": "Lesson 1 says we all have a main style but adapt our behavior to situations and people."
+    },
+    {
+      "q": "What did the Manchester United jersey example show?",
+      "a": ["Fans were three times more likely to help a fellow supporter", "Fans helped strangers more than they expected", "Team loyalty made people less generous overall", "People only help when others are watching"],
+      "why": "Lesson 1 says similarity and shared identity strongly affect how generous we are."
+    },
+    {
+      "q": "What is powerless communication, according to Grant?",
+      "a": ["Asking questions and seeking advice instead of asserting yourself", "Hiding your expertise so others underestimate you", "Agreeing with people until they start to trust you", "Letting others make every decision for the group"],
+      "why": "Lesson 2 says giving up power creates zero resistance and makes people want to help."
+    },
+    {
+      "q": "How did the woman facing relocation use powerless communication?",
+      "a": ["She asked HR what they would do and gained access to a jet", "She demanded a transfer and threatened to quit", "She negotiated a higher salary before moving", "She asked colleagues to cover her coursework"],
+      "why": "Lesson 2 describes her asking the HR manager what he would do, which led to private jet access."
+    },
+    {
+      "q": "What protects givers from burning out, according to Grant?",
+      "a": ["Seeing the impact their help has on other people", "Working fewer hours than takers do", "Keeping their generosity private", "Learning to say no more often"],
+      "why": "Lesson 3 says givers do not need fewer hours, they need to see the impact they create."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "i-hear-you",
+  "title": "I Hear You",
+  "questions": [
+    {
+      "q": "What is the first step toward a meaningful conversation?",
+      "a": [
+        "Learning to listen with empathy",
+        "Sharing your own story first",
+        "Winning the argument quickly",
+        "Changing the subject gently"
+      ],
+      "why": "Lesson 1 says meaningful dialogue starts with listening and putting yourself in the other's shoes."
+    },
+    {
+      "q": "What should you avoid doing when someone approaches you angry?",
+      "a": [
+        "Meeting them with anger and defensiveness",
+        "Staying calm and asking questions",
+        "Acknowledging their frustration",
+        "Looking for solutions together"
+      ],
+      "why": "Lesson 1 says defensiveness escalates conflict; calm empathy reduces tension instead."
+    },
+    {
+      "q": "What does the summary say about your own perspective in a conflict?",
+      "a": [
+        "It is not the absolute truth",
+        "It is always more accurate",
+        "It should never be questioned",
+        "It matters more than theirs"
+      ],
+      "why": "Lesson 2 says we treat our view as objective truth, but it is only one perspective."
+    },
+    {
+      "q": "How can you help someone feel acknowledged?",
+      "a": [
+        "Validate feelings even in disagreement",
+        "Explain why their feelings are wrong",
+        "Offer advice immediately",
+        "Compare their problem to yours"
+      ],
+      "why": "Lesson 3 says validation works even when you disagree, and advice can feel intrusive."
+    },
+    {
+      "q": "When should you give advice?",
+      "a": [
+        "Only when the person asks for it",
+        "As soon as they pause",
+        "Before they finish the story",
+        "Whenever you have a solution"
+      ],
+      "why": "Lesson 3 says offering advice unasked can intrude on the other person's space."
+    }
+  ]
+}

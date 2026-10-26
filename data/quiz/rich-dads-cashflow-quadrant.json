@@ -1,0 +1,56 @@
+{
+  "book": "rich-dads-cashflow-quadrant",
+  "title": "Rich Dad’s Cashflow Quadrant",
+  "questions": [
+    {
+      "q": "What do the four letters in the Cashflow Quadrant stand for?",
+      "a": [
+        "Employee, self-employed, business owner, investor",
+        "Earner, saver, borrower, spender",
+        "Employee, supervisor, broker, inheritor",
+        "Entrepreneur, specialist, banker, insurer"
+      ],
+      "why": "The overview lists the four types as employee, self-employed, business owner and investor, labeled E, S, B and I."
+    },
+    {
+      "q": "What separates the E and S quadrants from the B and I quadrants?",
+      "a": [
+        "The first two trade time for money; the last two own income-producing assets",
+        "The first two pay fewer taxes; the last two pay more",
+        "The first two take big risks; the last two play it safe",
+        "The first two need more schooling; the last two need less"
+      ],
+      "why": "Lesson 1 says E and S workers rely on their own labor, while B and I people build assets and keep improving how they work."
+    },
+    {
+      "q": "Why does the summary say owning a business builds wealth faster?",
+      "a": [
+        "You keep more of your income and the company's profits",
+        "You can avoid paying any taxes at all",
+        "You never have to work again",
+        "You can dismiss employees without cause"
+      ],
+      "why": "Lesson 2 points to lower taxes and keeping the profits of a business you own."
+    },
+    {
+      "q": "Which type of investor does the summary say you should aim to become?",
+      "a": [
+        "The professional investor who studies the market",
+        "The saver who avoids risk altogether",
+        "The busy investor who hands money to an expert",
+        "The investor with little financial knowledge"
+      ],
+      "why": "Lesson 3 describes the professional investor as the ideal, one who analyzes opportunities and keeps educating themselves."
+    },
+    {
+      "q": "What is the capitalist investor in the summary?",
+      "a": [
+        "A business owner who invests profits to make more",
+        "Someone who only buys government bonds",
+        "A consultant who manages other people's money",
+        "An employee with a large retirement fund"
+      ],
+      "why": "Lesson 3 calls the capitalist investor the biggest player, owning a business and investing its profits for further returns."
+    }
+  ]
+}

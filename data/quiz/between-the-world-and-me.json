@@ -1,0 +1,56 @@
+{
+  "book": "between-the-world-and-me",
+  "title": "Between The World And Me",
+  "questions": [
+    {
+      "q": "What early incident made Coates realize the inherent dangers of being black?",
+      "a": [
+        "A boy brandished a gun at him after school",
+        "Being denied a scholarship because of his race",
+        "Being stopped by a store clerk for no reason",
+        "Being ignored by teachers in class"
+      ],
+      "why": "Lesson 1 recounts a boy pointing a gun at Coates, solidifying the danger he faced."
+    },
+    {
+      "q": "Why does Coates describe the American Dream as a “white dream”?",
+      "a": [
+        "It was built on the subjugation of blacks and ignores racial injustice",
+        "It only offers financial success to anyone who works hard",
+        "It requires U.S. citizenship to pursue",
+        "It is based on religious values"
+      ],
+      "why": "Lesson 3 explains the Dream depends on the exploitation of blacks and is blind to racism."
+    },
+    {
+      "q": "According to the summary, how does everyday life differ for blacks compared to whites?",
+      "a": [
+        "Blacks live with constant fear of profiling and police brutality",
+        "Blacks have better healthcare access than whites",
+        "Whites face more unemployment than blacks",
+        "Both experience identical treatment"
+      ],
+      "why": "Lesson 2 states blacks cannot walk down the street without fear of profiling or police."
+    },
+    {
+      "q": "Which event is cited in the summary as an example of ongoing police brutality?",
+      "a": [
+        "The killing of unarmed Michael Brown",
+        "The election of 2020",
+        "The release of a new federal law",
+        "The opening of a national museum"
+      ],
+      "why": "Lesson 2 mentions Michael Brown’s killing as a prominent example."
+    },
+    {
+      "q": "Who is the intended recipient of Coates’s letter in the book?",
+      "a": [
+        "His teenage son",
+        "His brother",
+        "His professor",
+        "The general public"
+      ],
+      "why": "The overview says Coates wrote the book as a letter to his teenage son."
+    }
+  ]
+}

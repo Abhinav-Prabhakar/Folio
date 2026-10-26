@@ -1,0 +1,56 @@
+{
+  "book": "the-almanack-of-naval-ravikant",
+  "title": "The Almanack of Naval Ravikant",
+  "questions": [
+    {
+      "q": "How does Naval apply compounding beyond money?",
+      "a": [
+        "By building a reputation for reliability over time",
+        "By multiplying the number of jobs you hold",
+        "By treating friendships as financial assets",
+        "By saving time instead of spending it"
+      ],
+      "why": "Lesson 1 says trust and referrals compound like invested returns."
+    },
+    {
+      "q": "What is money's real purpose for Naval?",
+      "a": [
+        "It buys freedom and time for what matters",
+        "It proves your value to other people",
+        "It removes the need for any work",
+        "It protects you from taking risks"
+      ],
+      "why": "Lesson 2 calls money the ultimate tool for buying time."
+    },
+    {
+      "q": "What does the tree metaphor teach about happiness?",
+      "a": [
+        "Acknowledge each moment without judging it",
+        "Grow roots and stay in one place",
+        "Bend with the wind and avoid decisions",
+        "Compete for sunlight and never rest"
+      ],
+      "why": "Lesson 3 says a tree is neutral, feeling what comes without labels."
+    },
+    {
+      "q": "Why does the summary warn against upgrading your lifestyle?",
+      "a": [
+        "Rising spending keeps you trapped on the treadmill",
+        "It makes friends resent your success",
+        "It attracts attention from tax authorities",
+        "It slows your investment returns"
+      ],
+      "why": "Lesson 2 urges saving and investing instead of buying a bigger treadmill."
+    },
+    {
+      "q": "What does Naval say about quieting the mind?",
+      "a": [
+        "Sitting alone with your thoughts can bring peace",
+        "Silence should be avoided in favor of company",
+        "Meditation only works for experienced monks",
+        "Distraction is the fastest route to calm"
+      ],
+      "why": "Lesson 3 recommends facing thoughts and letting them go, as monks do."
+    }
+  ]
+}

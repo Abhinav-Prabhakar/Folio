@@ -1,0 +1,56 @@
+{
+  "book": "the-better-angels-of-our-nature",
+  "title": "The Better Angels Of Our Nature",
+  "questions": [
+    {
+      "q": "Why are ideologies especially prone to violence?",
+      "a": [
+        "They claim to serve huge groups and a greater good",
+        "They are usually led by unstable individuals",
+        "They reject all forms of government",
+        "They spread fastest among soldiers"
+      ],
+      "why": "Lesson 1 says ideologies recruit large groups and justify violence in the name of a higher cause."
+    },
+    {
+      "q": "What does the Flynn effect describe?",
+      "a": [
+        "A steady rise in IQ scores of about three points per decade",
+        "The decline of violence after each major war",
+        "The spread of literacy through printing",
+        "The tendency of groups to become more extreme"
+      ],
+      "why": "Lesson 2 defines the Flynn effect as the continuous rise in measured intelligence over time."
+    },
+    {
+      "q": "How does greater reasoning reduce violence?",
+      "a": [
+        "It debunks superstitious justifications and encourages impartial thinking",
+        "It makes people physically healthier and calmer",
+        "It replaces religion with stronger laws",
+        "It discourages people from joining groups"
+      ],
+      "why": "Lesson 2 says reason undermines superstition and helps people act for the common good."
+    },
+    {
+      "q": "What role does the printing press play in Pinker's account?",
+      "a": [
+        "It let humanitarian philosophy spread and reduce violence",
+        "It gave governments better maps for war",
+        "It replaced spoken language with written law",
+        "It made weapons cheaper to produce"
+      ],
+      "why": "Lesson 3 says print allowed humanist ideas to spread and displace superstitious killings."
+    },
+    {
+      "q": "How were criminals treated as humanism spread?",
+      "a": [
+        "With dignity, which reduced violence in law and punishment",
+        "They were exiled rather than imprisoned",
+        "They were handed to religious courts",
+        "They were forced into military service"
+      ],
+      "why": "Lesson 3 says humanism extended dignity even to criminals, removing violence from law and order."
+    }
+  ]
+}

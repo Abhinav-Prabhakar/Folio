@@ -1,0 +1,56 @@
+{
+  "book": "the-autobiography-of-malcolm-x",
+  "title": "The Autobiography Of Malcolm X",
+  "questions": [
+    {
+      "q": "What did Malcolm's childhood experiences produce in him?",
+      "a": [
+        "A determination to fight for justice and fair treatment of black people",
+        "A desire to leave the United States permanently",
+        "A distrust of all forms of education",
+        "A plan to become a lawyer"
+      ],
+      "why": "Lesson 1 traces his commitment to justice to his father's death, his mother's hospitalization and school prejudice."
+    },
+    {
+      "q": "What does the summary say prison did for Malcolm?",
+      "a": [
+        "It gave him time to read, learn about Islam and become a speaker",
+        "It convinced him that crime was his only option",
+        "It separated him from his family forever",
+        "It taught him a trade he used later"
+      ],
+      "why": "Lesson 2 says prison was the path to becoming who he was meant to be, through reading and debate."
+    },
+    {
+      "q": "Why did Malcolm break with the Nation of Islam?",
+      "a": [
+        "He learned its leader had betrayed his trust, and later questioned his own beliefs",
+        "He was offered a leadership role elsewhere",
+        "He disagreed with its stance on education",
+        "He wanted to enter politics directly"
+      ],
+      "why": "Lesson 3 describes his disillusionment with Elijah Muhammad and the doubts that followed his pilgrimage."
+    },
+    {
+      "q": "What did Malcolm's pilgrimage to Mecca show him?",
+      "a": [
+        "Kindness among Muslims of all races, which made him reconsider his views",
+        "That religious rituals were unnecessary",
+        "That he should retire from activism",
+        "That America had solved its racial problems"
+      ],
+      "why": "Lesson 3 says the hospitality he met from people of every heritage forced him to second-guess himself."
+    },
+    {
+      "q": "What lesson does the summary draw from Malcolm admitting he was wrong?",
+      "a": [
+        "It is never too late to admit error and change for the better",
+        "Public figures should never admit mistakes",
+        "Only young people can change their views",
+        "Apologies cannot repair a reputation"
+      ],
+      "why": "Lesson 3 ends by saying it is never too late to admit you were wrong and change."
+    }
+  ]
+}

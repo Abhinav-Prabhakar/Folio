@@ -1,0 +1,56 @@
+{
+  "book": "think-small",
+  "title": "Think Small",
+  "questions": [
+    {
+      "q": "What type of goal does the author say leads to greater happiness?",
+      "a": [
+        "Experiential goals",
+        "Material possessions",
+        "Career promotions",
+        "Financial wealth"
+      ],
+      "why": "The text notes happiness rises when focusing on experiences rather than material items."
+    },
+    {
+      "q": "What percentage of strangers actually lend a phone when asked, according to the study?",
+      "a": [
+        "50%",
+        "30%",
+        "70%",
+        "10%"
+      ],
+      "why": "The study found 50% of strangers would lend a phone, higher than the predicted 30%."
+    },
+    {
+      "q": "What does the author suggest is the biggest barrier to consistent goal progress?",
+      "a": [
+        "Complex, elaborate programs",
+        "Lack of motivation",
+        "Insufficient resources",
+        "Negative mindset"
+      ],
+      "why": "Complex diets and programs kill consistency, the main determinant of success."
+    },
+    {
+      "q": "Which method helped spelling bee participants perform best?",
+      "a": [
+        "Focused practice and slow solo study",
+        "Group tutoring sessions",
+        "Randomized practice",
+        "Frequent competitions"
+      ],
+      "why": "The text states focused, slow, solo practice yielded the best results."
+    },
+    {
+      "q": "What does the author recommend to overcome fear of abandoning a routine?",
+      "a": [
+        "Willingness to experiment with new methods",
+        "Doubling down on the current plan",
+        "Seeking professional therapy",
+        "Setting stricter deadlines"
+      ],
+      "why": "Experimentation is advised to avoid staying stuck in ineffective patterns."
+    }
+  ]
+}

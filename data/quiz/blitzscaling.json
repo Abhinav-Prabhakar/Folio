@@ -1,0 +1,56 @@
+{
+  "book": "blitzscaling",
+  "title": "Blitzscaling",
+  "questions": [
+    {
+      "q": "What separates blitzscaling from simply growing fast?",
+      "a": [
+        "Keeping operations sustainable during the expansion",
+        "Raising as much venture capital as possible",
+        "Entering several countries at the same time",
+        "Hiring more employees than competitors"
+      ],
+      "why": "The summary defines it as rapid growth to massive scale while remaining operationally sustainable."
+    },
+    {
+      "q": "What does the Leonberger dog example illustrate about fast-growing companies?",
+      "a": [
+        "Rapid growth creates strain that requires extra support",
+        "Big companies inevitably develop health problems",
+        "Growth slows naturally once a company matures",
+        "Small startups should avoid growing too large"
+      ],
+      "why": "The dog grows so quickly that it needs exceptional food to survive the transformation."
+    },
+    {
+      "q": "What makes a network more valuable, according to the summary?",
+      "a": [
+        "Each new member makes it more useful to everyone",
+        "Each new member pays a higher joining fee",
+        "The network is owned by a single company",
+        "The network replaces older forms of communication"
+      ],
+      "why": "The fax machine example shows why participants need others to be on the same network."
+    },
+    {
+      "q": "Why do high gross margins matter for blitzscaling?",
+      "a": [
+        "They leave more money per sale to reinvest in growth",
+        "They make the company easier to sell to investors",
+        "They reduce the need for a distribution channel",
+        "They allow the company to lower prices indefinitely"
+      ],
+      "why": "Sales is one of the hardest parts of scaling, so extra margin funds further expansion."
+    },
+    {
+      "q": "What are the two biggest growth limiters named in the summary?",
+      "a": [
+        "Product-market fit and operational scalability",
+        "Brand awareness and hiring speed",
+        "Pricing strategy and government regulation",
+        "Distribution reach and network effects"
+      ],
+      "why": "Hoffman says founders must address both from the beginning to keep growing."
+    }
+  ]
+}

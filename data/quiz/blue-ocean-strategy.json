@@ -1,0 +1,56 @@
+{
+  "book": "blue-ocean-strategy",
+  "title": "Blue Ocean Strategy",
+  "questions": [
+    {
+      "q": "What is a red ocean, according to the summary?",
+      "a": [
+        "A crowded market where firms fight over existing demand",
+        "An untapped market with almost no competitors",
+        "A market created by a single new regulation",
+        "A market where one company holds a monopoly"
+      ],
+      "why": "The red ocean is the battlefield where businesses compete for the same customers."
+    },
+    {
+      "q": "Why does the summary call the blue ocean more attractive?",
+      "a": [
+        "It is untapped, so a company can innovate instead of fight",
+        "It guarantees profits with little investment",
+        "It has fewer government regulations",
+        "It attracts customers who dislike new products"
+      ],
+      "why": "In the blue ocean, innovation is the main focus rather than beating rivals."
+    },
+    {
+      "q": "Which four questions make up the strategy canvas?",
+      "a": [
+        "Eliminate, reduce, raise and create industry factors",
+        "Analyze, compare, imitate and improve competitors",
+        "Segment, target, position and promote products",
+        "Plan, build, measure and scale operations"
+      ],
+      "why": "The canvas asks what to remove, lower, lift above standard, and invent."
+    },
+    {
+      "q": "What did low-cost airlines eliminate to reshape the industry?",
+      "a": [
+        "Airport lounges, while adding more frequent flights",
+        "Checked baggage, while lowering ticket prices",
+        "Online booking, while opening ticket counters",
+        "Assigned seating, while adding premium cabins"
+      ],
+      "why": "The summary uses this as an example of removing what customers did not value."
+    },
+    {
+      "q": "What does value innovation mean in the summary?",
+      "a": [
+        "Creating a leap in value that opens new market space",
+        "Cutting prices until rivals cannot compete",
+        "Adding features to match every competitor",
+        "Improving existing products in small steps"
+      ],
+      "why": "Value innovation is the cornerstone of reaching the blue ocean."
+    }
+  ]
+}

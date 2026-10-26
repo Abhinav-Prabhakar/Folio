@@ -1,0 +1,56 @@
+{
+  "book": "blue-ocean-shift",
+  "title": "Blue Ocean Shift",
+  "questions": [
+    {
+      "q": "Which three approaches does the summary say can create a new market?",
+      "a": [
+        "Disruption, non-disruptive creation, and redefining a problem",
+        "Cost cutting, outsourcing, and franchising",
+        "Imitation, acquisition, and price wars",
+        "Segmentation, bundling, and upselling"
+      ],
+      "why": "The first lesson groups blue ocean moves into these three strategies."
+    },
+    {
+      "q": "What does the ActiFry example show about creating a blue ocean?",
+      "a": [
+        "Reframing an existing problem can open a new market",
+        "New technology always defeats an older industry",
+        "Solving an entirely new problem is the only route",
+        "Copying a successful product guarantees growth"
+      ],
+      "why": "Groupe SEB redefined french fries as something that need not be deep fried."
+    },
+    {
+      "q": "What is the buyer utility map used for?",
+      "a": [
+        "Finding where customers struggle across their experience",
+        "Plotting competitors' prices and market share",
+        "Tracking employee productivity over time",
+        "Forecasting the total size of a market"
+      ],
+      "why": "The map crosses buyer experience stages with utility levers to expose pain points."
+    },
+    {
+      "q": "What did citizenM eliminate to make hotel check-in easier?",
+      "a": [
+        "Concierge and front desk services",
+        "Room service and minibars",
+        "Gyms and swimming pools",
+        "Breakfast buffets and parking"
+      ],
+      "why": "Guests no longer wait in line, and ambassadors handle questions instead."
+    },
+    {
+      "q": "What is the purpose of the four actions framework?",
+      "a": [
+        "To test which industry factors to eliminate, reduce, raise or create",
+        "To rank employees by productivity and initiative",
+        "To choose which countries to expand into first",
+        "To set prices lower than every competitor"
+      ],
+      "why": "The framework helps a company reshape its offering rather than copy rivals."
+    }
+  ]
+}

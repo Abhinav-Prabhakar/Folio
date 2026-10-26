@@ -1,0 +1,56 @@
+{
+  "book": "just-mercy",
+  "title": "Just Mercy",
+  "questions": [
+    {
+      "q": "What happened to the US prison population from the 1970s to today?",
+      "a": [
+        "It grew from about 300,000 to 2.3 million",
+        "It fell from about 2 million to 500,000",
+        "It stayed close to 300,000 the whole time",
+        "It doubled from 1 million to 2 million"
+      ],
+      "why": "Lesson 1 gives those figures to show the scale of mass incarceration."
+    },
+    {
+      "q": "What was the woman in the summary's example imprisoned for?",
+      "a": [
+        "Writing bad checks to pay for her children's Christmas gifts",
+        "Stealing food from a local grocery store",
+        "Driving without a valid license",
+        "Failing to pay a parking ticket"
+      ],
+      "why": "Lesson 1 says each check was under 150 dollars, yet she received a long sentence."
+    },
+    {
+      "q": "How does the lifetime imprisonment rate for African Americans compare with the general population?",
+      "a": [
+        "One in three, versus one in fifteen overall",
+        "One in ten, versus one in fifty overall",
+        "One in two, versus one in twenty overall",
+        "One in five, versus one in ten overall"
+      ],
+      "why": "Lesson 2 contrasts the one-in-three rate with the one-in-fifteen national figure."
+    },
+    {
+      "q": "What does the summary say about children in the justice system?",
+      "a": [
+        "Some as young as 13 were jailed and tried as adults",
+        "All minors were moved into counseling programs",
+        "Children could not be sentenced before 2005",
+        "Only teenagers over 16 faced adult courts"
+      ],
+      "why": "Lesson 2 describes minors tried and punished as adults, with no minimum age in Florida."
+    },
+    {
+      "q": "What did the case of Walter McMillan show about prison's reach?",
+      "a": [
+        "A conviction affects family and community, not just the prisoner",
+        "Death row inmates rarely receive any visitors",
+        "Small towns recover quickly from highly public trials",
+        "Wrongful convictions are usually overturned quickly"
+      ],
+      "why": "Lesson 3 says more than 30 family members were affected by his conviction."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "how-to-love",
+  "title": "How To Love",
+  "questions": [
+    {
+      "q": "According to Hanh, what does love need in order to grow?",
+      "a": [
+        "Nourishment in the form of happiness",
+        "Constant admiration from a partner",
+        "A shared home and daily routine",
+        "Freedom from every attachment"
+      ],
+      "why": "Lesson 1 says love must be fed with happiness before it can expand and reach others."
+    },
+    {
+      "q": "Which four qualities does the summary say love is made of?",
+      "a": [
+        "Joy, equanimity, compassion and loving-kindness",
+        "Patience, honesty, loyalty and desire",
+        "Trust, passion, commitment and humor",
+        "Kindness, discipline, courage and wisdom"
+      ],
+      "why": "Lesson 2 names joy, equanimity, compassion and loving-kindness as love's four traits."
+    },
+    {
+      "q": "What does equanimity mean in the summary?",
+      "a": [
+        "Blurring the line between their suffering and yours",
+        "Staying calm and detached when a partner is upset",
+        "Treating everyone with the same polite courtesy",
+        "Balancing work and love without feeling guilt"
+      ],
+      "why": "Lesson 2 calls equanimity inclusiveness: another person's suffering becomes your own."
+    },
+    {
+      "q": "How does Hanh suggest we treat the word love?",
+      "a": [
+        "Reserve it for real love rather than for ice cream",
+        "Say it often so the people around us feel valued",
+        "Use it only when speaking to a romantic partner",
+        "Replace it with the Sanskrit word karuna"
+      ],
+      "why": "Lesson 3 says the word loses value when used for things like ice cream, so use it mindfully."
+    },
+    {
+      "q": "Why does the summary compare love to medicine?",
+      "a": [
+        "It does more than understand pain, it helps heal it",
+        "It should be taken in small regular doses",
+        "It works best when prescribed by an expert",
+        "It can have side effects if given too freely"
+      ],
+      "why": "Lesson 3 says love, like medicine, does not just recognize suffering but helps relieve it."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-body-keeps-the-score",
+  "title": "The Body Keeps The Score",
+  "questions": [
+    {
+      "q": "What effect does recalling traumatic memories have on the brain?",
+      "a": [
+        "Raises blood pressure and deactivates rational thinking",
+        "Increases heart rate and improves memory",
+        "Reduces stress hormones and boosts mood",
+        "Enhances focus and decision making"
+      ],
+      "why": "Recalled trauma raises blood pressure and deactivates rational brain areas."
+    },
+    {
+      "q": "Which therapy uses a finger movement and audio cues to help trauma patients?",
+      "a": [
+        "EMDR",
+        "CBT",
+        "ACT",
+        "DBT"
+      ],
+      "why": "EMDR involves following a moving finger with audio cues."
+    },
+    {
+      "q": "What common coping method does the book say is only a temporary fix for trauma?",
+      "a": [
+        "Drug or alcohol abuse",
+        "Meditation",
+        "Yoga",
+        "Therapy"
+      ],
+      "why": "The text notes drugs, alcohol, or overworking are temporary fixes."
+    },
+    {
+      "q": "Which practice helps reconnect body and mind according to the book?",
+      "a": [
+        "Yoga",
+        "Running",
+        "Eating",
+        "Sleeping"
+      ],
+      "why": "Yoga is cited as connecting mind and body."
+    },
+    {
+      "q": "What is the main goal of mindfulness in trauma recovery?",
+      "a": [
+        "Become aware of body and emotions",
+        "Avoid painful feelings",
+        "Isolate thoughts",
+        "Focus on future goals"
+      ],
+      "why": "Mindfulness aims to mentally connect with body and emotions."
+    }
+  ]
+}

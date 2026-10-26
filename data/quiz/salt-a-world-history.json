@@ -1,0 +1,56 @@
+{
+  "book": "salt-a-world-history",
+  "title": "Salt: A World History",
+  "questions": [
+    {
+      "q": "What does the summary say the Celts' wealth was built on?",
+      "a": [
+        "Trading salt and salted goods",
+        "Mining iron and bronze",
+        "Conquering Roman territory",
+        "Exporting grain to Greece"
+      ],
+      "why": "Lesson 1 says the Celts grew rich by trading salt and salt-cured goods such as ham."
+    },
+    {
+      "q": "Why did the Celts prefer bronze tools in their salt mines?",
+      "a": [
+        "Bronze does not rust",
+        "Bronze was cheaper than iron",
+        "Iron was reserved for weapons",
+        "Bronze lasted longer underground"
+      ],
+      "why": "Lesson 1 credits the Celts with noticing that bronze, unlike iron, does not rust."
+    },
+    {
+      "q": "How did Britain help push the colonies into the Revolutionary War?",
+      "a": [
+        "By restricting the salt trade and taxing it heavily",
+        "By banning all colonial fishing",
+        "By seizing colonial tobacco farms",
+        "By closing American ports to tea"
+      ],
+      "why": "Lesson 2 says Britain kept cheap salt from reaching local producers and raised taxes until conflict exploded in 1775."
+    },
+    {
+      "q": "What environmental damage did brine extraction cause in Cheshire?",
+      "a": [
+        "Sinkholes, vanished pastures, and broken rail lines",
+        "Polluted rivers that killed all the fish",
+        "Forest fires that burned for years",
+        "Flooding that drowned entire villages"
+      ],
+      "why": "Lesson 3 describes huge sinkholes swallowing parts of towns and wrecking roads, bridges and pipes."
+    },
+    {
+      "q": "Who benefited from the tax Cheshire introduced in 1891?",
+      "a": [
+        "Big companies that could afford it",
+        "Small producers who were protected",
+        "The workers who mined the salt",
+        "The towns that owned the springs"
+      ],
+      "why": "Lesson 3 says the flat tax crippled small producers and let large firms take over the industry."
+    }
+  ]
+}

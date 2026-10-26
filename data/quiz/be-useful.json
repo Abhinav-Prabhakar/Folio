@@ -1,0 +1,56 @@
+{
+  "book": "be-useful",
+  "title": "Be Useful",
+  "questions": [
+    {
+      "q": "How does Arnold suggest you begin forming a life vision?",
+      "a": [
+        "Start broadly by recalling childhood interests then narrow later",
+        "Write a detailed five‑year plan immediately",
+        "Choose a career and stick to it without change",
+        "Copy someone else's success story"
+      ],
+      "why": "The summary advises thinking broadly about past loves and then zoning in."
+    },
+    {
+      "q": "What example illustrates Arnold's idea that even a small daily effort adds up?",
+      "a": [
+        "Writing one page a day creates a 365‑page manuscript in a year",
+        "Running a marathon each week guarantees fitness",
+        "Studying eight hours daily leads to perfect grades",
+        "Spending $100 daily builds wealth quickly"
+      ],
+      "why": "He says an hour of writing daily yields a 365‑page book, showing cumulative effort."
+    },
+    {
+      "q": "According to the book, why is it inaccurate to call Arnold a \"self‑made\" man?",
+      "a": [
+        "His success relied on many people and opportunities beyond his control",
+        "He never worked hard enough to earn his fame",
+        "He only succeeded because of his acting talent",
+        "He inherited wealth that funded his career"
+      ],
+      "why": "Arnold emphasizes that others helped him and that no one is truly self‑made."
+    },
+    {
+      "q": "What does Arnold recommend doing with the 8‑hour blocks left after sleep and work?",
+      "a": [
+        "Use at least one or two hours for focused effort toward goals",
+        "Spend them watching TV to relax fully",
+        "Allocate them to social media for networking",
+        "Leave them idle to avoid burnout"
+      ],
+      "why": "He notes that even with 8 hours for sleep and work, 1‑2 hours remain for personal progress."
+    },
+    {
+      "q": "How does Arnold define \"giving back\" in everyday life?",
+      "a": [
+        "Help others when you notice a need, without rearranging your schedule",
+        "Donate large sums of money annually",
+        "Volunteer only after achieving major success",
+        "Start a charity after retirement"
+      ],
+      "why": "He says you don’t need to rearrange life, just stay alert to opportunities to assist."
+    }
+  ]
+}

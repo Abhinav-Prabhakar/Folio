@@ -1,0 +1,56 @@
+{
+  "book": "you-are-not-a-gadget",
+  "title": "You Are Not A Gadget",
+  "questions": [
+    {
+      "q": "What negative effect does anonymity on the internet often lead to?",
+      "a": [
+        "Encourages irresponsible speech",
+        "Increases accountability",
+        "Reduces online conflicts",
+        "Promotes transparency"
+      ],
+      "why": "Anonymity allows people to say anything without responsibility."
+    },
+    {
+      "q": "Which example shows computers surpassing human skill?",
+      "a": [
+        "Computer beat Garry Kasparov at chess",
+        "Internet caused cyberbullying",
+        "Instagram fakeness harms mental health",
+        "Data mining devalues people"
+      ],
+      "why": "The text cites a computer defeating Kasparov."
+    },
+    {
+      "q": "What is one proposed way to protect creators' work online?",
+      "a": [
+        "Create a single copy behind a paywall",
+        "Share all content freely",
+        "Delete all digital media",
+        "Limit internet access"
+      ],
+      "why": "The book suggests a single protected copy behind a paywall."
+    },
+    {
+      "q": "Which lesson warns against overestimating technology's intelligence?",
+      "a": [
+        "Deification of technology hides limits",
+        "Anonymity fuels mob mentality",
+        "Data mining harms privacy",
+        "Cyberbullying is worse than before"
+      ],
+      "why": "The text warns that deifying tech overlooks its limits."
+    },
+    {
+      "q": "What is the 'songle' mentioned in the book?",
+      "a": [
+        "A USB stick for unique content distribution",
+        "A new social media platform",
+        "A type of cyberbullying tactic",
+        "An algorithm for data mining"
+      ],
+      "why": "The book describes the songle as a USB stick idea."
+    }
+  ]
+}

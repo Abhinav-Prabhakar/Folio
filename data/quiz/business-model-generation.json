@@ -1,0 +1,31 @@
+{
+  "book": "business-model-generation",
+  "title": "Business Model Generation",
+  "questions": [
+    {
+      "q": "What three elements does the summary call the foundation of a business model?",
+      "a": ["Customer groups, value propositions, and channels", "Investors, profits, and legal structure", "Employees, offices, and equipment", "Marketing, sales, and support"],
+      "why": "Lesson 1 starts from who you serve, the problem you solve and how you reach those customers."
+    },
+    {
+      "q": "What is a value proposition?",
+      "a": ["The problem your product solves and why customers pick it", "The price you decide to charge for your product", "The group of customers you choose to serve", "The way you deliver your product to buyers"],
+      "why": "Lesson 1 defines it as the need your offering fills and the reason customers prefer it to alternatives."
+    },
+    {
+      "q": "In the summary's body analogy, what do revenue streams represent?",
+      "a": ["Arteries and veins", "The heart", "The brain", "Food and water"],
+      "why": "Lesson 2 compares customers to the heart and revenue to the vessels that keep everything running."
+    },
+    {
+      "q": "What distinguishes a cost-driven company?",
+      "a": ["It keeps expenses low, even by cutting service", "It spends heavily to delight customers", "It charges the highest price it can", "It avoids hiring any staff"],
+      "why": "Lesson 3 says cost-driven firms minimize expenses, citing budget airlines as the example."
+    },
+    {
+      "q": "Which activity is an example of platform or network hosting?",
+      "a": ["Listing a product for sale on eBay or Airbnb", "Manufacturing a laptop or making a pizza", "Consulting on a client's computer problem", "Designing a new company logo"],
+      "why": "Lesson 3 groups eBay and Airbnb listings under platform and network hosting, alongside production and problem-solving."
+    }
+  ]
+}

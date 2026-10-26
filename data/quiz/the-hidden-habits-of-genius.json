@@ -1,0 +1,56 @@
+{
+  "book": "the-hidden-habits-of-genius",
+  "title": "The Hidden Habits of Genius",
+  "questions": [
+    {
+      "q": "Which artist said becoming young takes a lot of time?",
+      "a": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "why": "Picasso claimed it takes time to become young."
+    },
+    {
+      "q": "What habit did Leonardo da Vinci combine with curiosity to become a genius?",
+      "a": [
+        "Intense concentration",
+        "Rapid multitasking",
+        "Frequent travel",
+        "Social networking"
+      ],
+      "why": "Da Vinci paired curiosity with long‑term focus."
+    },
+    {
+      "q": "What childhood trait does the book link to genius creation?",
+      "a": [
+        "Juvenile, child‑like thinking",
+        "Early athletic ability",
+        "Advanced language skills",
+        "Musical talent"
+      ],
+      "why": "Geniuses adopt a child‑like way of thinking."
+    },
+    {
+      "q": "According to the book, breaking what can lead to innovative breakthroughs?",
+      "a": [
+        "Rules",
+        "Diet plans",
+        "Sleep schedules",
+        "Fashion trends"
+      ],
+      "why": "Innovators break rules to create new methods."
+    },
+    {
+      "q": "What does the book say curiosity enables people to do?",
+      "a": [
+        "Grasp wider perspectives",
+        "Earn more money",
+        "Gain political power",
+        "Improve physical strength"
+      ],
+      "why": "Curiosity lets one see broader perspectives."
+    }
+  ]
+}

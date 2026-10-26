@@ -1,0 +1,56 @@
+{
+  "book": "so-youve-been-publicly-shamed",
+  "title": "So You’ve Been Publicly Shamed",
+  "questions": [
+    {
+      "q": "What does the summary say much of today’s public shaming stems from?",
+      "a": [
+        "A feeling that public space is being taken away from people",
+        "A sudden collapse in traditional religious belief",
+        "A rise in the number of wealthy celebrities",
+        "A decline in the quality of journalism"
+      ],
+      "why": "Lesson 1 describes online humiliation as an attempt to reclaim control when gentrification pushes people out."
+    },
+    {
+      "q": "What did authorities admit about New York’s Stop and Frisk policy?",
+      "a": [
+        "It was a way to assert power and secure property for the privileged",
+        "It had eliminated petty crime across the city",
+        "It targeted wealthy neighborhoods almost exclusively",
+        "It was designed purely to gather public health data"
+      ],
+      "why": "Lesson 1 says the practice stopped about 1,800 people a day, most of them innocent, to assert control of public space."
+    },
+    {
+      "q": "How did Gustave Le Bon describe the way crowds spread outrage?",
+      "a": [
+        "As a kind of contagion that individuals catch from the group",
+        "As a rational response to unfair treatment",
+        "As a planned conspiracy led by organizers",
+        "As a natural result of poverty and hunger"
+      ],
+      "why": "Lesson 2 says Le Bon used the metaphor of contagion to explain people going along with the group."
+    },
+    {
+      "q": "What sentence did the young shoplifter receive in the summary?",
+      "a": [
+        "He had to parade through the store wearing a sign about stealing",
+        "He had to pay back double the value of what he took",
+        "He had to work in the store for a full year",
+        "He had to write a public apology in the newspaper"
+      ],
+      "why": "Lesson 3 says the humiliating sign punishment preceded a law-abiding life and a college degree."
+    },
+    {
+      "q": "What did Judge Ted Poe’s figures suggest about shaming versus prison?",
+      "a": [
+        "Shamed offenders reoffended far less often than released prisoners",
+        "Shaming had no measurable effect on reoffending",
+        "Prison reduced reoffending more than shaming did",
+        "Both approaches produced identical reoffending rates"
+      ],
+      "why": "Lesson 3 contrasts roughly 15 percent reoffending after shaming with 66 percent after prison."
+    }
+  ]
+}

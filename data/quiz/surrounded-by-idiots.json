@@ -1,0 +1,56 @@
+{
+  "book": "surrounded-by-idiots",
+  "title": "Surrounded by Idiots",
+  "questions": [
+    {
+      "q": "Which four personality types does Erikson build the book around?",
+      "a": [
+        "Red, yellow, green and blue",
+        "Red, blue, white and black",
+        "Fire, air, water and earth",
+        "Dominant, steady, cautious and inspiring"
+      ],
+      "why": "Lesson 1 maps the four types to the old choleric, sanguine, phlegmatic and melancholic categories."
+    },
+    {
+      "q": "Which type is calm, easygoing, loyal and quick to avoid conflict?",
+      "a": [
+        "Green",
+        "Red",
+        "Yellow",
+        "Blue"
+      ],
+      "why": "Lesson 1 describes the Green type as a great listener and team player who dislikes conflict."
+    },
+    {
+      "q": "Which personality type is the most common in the world?",
+      "a": [
+        "Green, the calm and loyal type",
+        "Red, the ambitious and competitive type",
+        "Yellow, the cheerful and social type",
+        "Blue, the analytical perfectionist"
+      ],
+      "why": "Lesson 2 says Green is the most widespread type, which is why they seem so friendly and easy to be around."
+    },
+    {
+      "q": "How should you give feedback to a Red, or choleric, person?",
+      "a": [
+        "Lead with strong arguments and skip the small talk",
+        "Bring a written list and repeat it later",
+        "Meet privately and expect a slow response",
+        "Walk through every detail step by step"
+      ],
+      "why": "Lesson 3 says Reds dislike chatting around and want you to get straight to the point."
+    },
+    {
+      "q": "How should you deliver criticism to a Blue, or melancholic, person?",
+      "a": [
+        "Be very detailed and be ready for their questions",
+        "Get straight to the point with no preamble",
+        "Offer a short list and allow plenty of time",
+        "Keep it light and informal throughout"
+      ],
+      "why": "Lesson 3 says Blues accept feedback when you show them each step and answer their questions."
+    }
+  ]
+}

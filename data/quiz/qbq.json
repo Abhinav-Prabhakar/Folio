@@ -1,0 +1,56 @@
+{
+  "book": "qbq",
+  "title": "QBQ!",
+  "questions": [
+    {
+      "q": "Which kind of question does the QBQ method recommend?",
+      "a": [
+        "One that starts with what or how",
+        "One that starts with why or who",
+        "One that assigns blame to a colleague",
+        "One that waits for management to act"
+      ],
+      "why": "Lesson 1 says the first step is asking what or how, which turns blame into ownership."
+    },
+    {
+      "q": "What do incorrect questions tend to produce, according to the summary?",
+      "a": [
+        "Blame, negativity and a lack of ownership",
+        "Clear plans and quick decisions",
+        "Better teamwork and lasting trust",
+        "Curiosity and open discussion"
+      ],
+      "why": "Lesson 1 describes the wrong questions as full of blame and a disturbing lack of ownership."
+    },
+    {
+      "q": "Why should you include I in your questions?",
+      "a": [
+        "It shifts focus from what you cannot change to what you can",
+        "It makes other people responsible for the outcome",
+        "It shows your manager that you are staying busy",
+        "It keeps the conversation polite and neutral"
+      ],
+      "why": "Lesson 2 says using I moves attention from your limits to the parts you can improve."
+    },
+    {
+      "q": "What does Miller say action brings, even when it leads to mistakes?",
+      "a": [
+        "Learning and growth",
+        "Praise from managers",
+        "A guaranteed promotion",
+        "Fewer responsibilities"
+      ],
+      "why": "Lesson 3 argues that action brings learning and growth, while inaction brings stagnation."
+    },
+    {
+      "q": "In the restaurant story, how does the waiter show accountability?",
+      "a": [
+        "He buys a Diet Coke from a nearby store himself",
+        "He apologizes and offers a different brand",
+        "He asks his manager to place a special order",
+        "He explains that the restaurant only stocks Pepsi"
+      ],
+      "why": "The overview describes him spending his own money to get the drink the customer wanted."
+    }
+  ]
+}

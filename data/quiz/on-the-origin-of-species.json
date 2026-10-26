@@ -1,0 +1,56 @@
+{
+  "book": "on-the-origin-of-species",
+  "title": "On the Origin of Species",
+  "questions": [
+    {
+      "q": "How does Darwin suggest we can better grasp natural selection?",
+      "a": [
+        "By first studying how humans breed animals",
+        "By measuring the age of rocks",
+        "By comparing fossils with living plants",
+        "By tracking weather patterns over time"
+      ],
+      "why": "Lesson 1 opens with human breeding of dogs and pigeons as a way to grasp how natural selection works."
+    },
+    {
+      "q": "In the summary, natural selection is compared to what?",
+      "a": [
+        "An invisible breeder selecting traits that aid survival",
+        "A clockmaker designing each species separately",
+        "A gardener watering every plant equally",
+        "A judge awarding prizes for beauty"
+      ],
+      "why": "Lesson 1 describes nature as an invisible breeder that selects traits supporting survival rather than beauty."
+    },
+    {
+      "q": "According to the summary, what mainly drives competition for mates?",
+      "a": [
+        "Females choosing the traits they value in males",
+        "Males competing by hiding from females",
+        "Both sexes evolving identical displays",
+        "The environment selecting mates at random"
+      ],
+      "why": "Lesson 2 notes that males adjust their traits to female preferences, giving females a say in how species evolve."
+    },
+    {
+      "q": "Why does the summary say emus are found only in Australia?",
+      "a": [
+        "Migration barriers like the surrounding ocean kept them there",
+        "They were outcompeted by larger birds on other continents",
+        "They evolved in Australia after the continents drifted apart",
+        "They cannot survive in any climate except a dry one"
+      ],
+      "why": "Lesson 3 explains that migration barriers, such as the ocean around Australia, limit where species spread."
+    },
+    {
+      "q": "How do some clams reach new habitats despite poor mobility?",
+      "a": [
+        "They attach to ducks' feet and travel with them",
+        "They burrow through wet sand for miles",
+        "They ride ocean currents as larvae",
+        "They build shells that float on the surface"
+      ],
+      "why": "Lesson 3 mentions clams that attach to ducks' feet to cross barriers their own mobility could not."
+    }
+  ]
+}

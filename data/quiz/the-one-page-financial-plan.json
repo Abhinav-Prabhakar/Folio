@@ -1,0 +1,56 @@
+{
+  "book": "the-one-page-financial-plan",
+  "title": "The One-Page Financial Plan",
+  "questions": [
+    {
+      "q": "What is the main purpose of Carl Richards' One-Page Financial Plan?",
+      "a": [
+        "Help readers commit to a personal finance process",
+        "Offer investment tips",
+        "Provide tax advice",
+        "Explain budgeting basics"
+      ],
+      "why": "It is designed to help people stick to a personal finance process."
+    },
+    {
+      "q": "Which example illustrates the need for flexible financial goals?",
+      "a": [
+        "Mobile phone bill changes",
+        "Student loan payoff",
+        "Vacation planning",
+        "Car purchase"
+      ],
+      "why": "The text compares mobile phone bills to show goals should allow room for surprises."
+    },
+    {
+      "q": "How does Richards suggest making budgeting more enjoyable?",
+      "a": [
+        "Turn it into a game",
+        "Use spreadsheets",
+        "Set strict limits",
+        "Track only expenses"
+      ],
+      "why": "He recommends viewing budgeting as a game to track money against goals."
+    },
+    {
+      "q": "What strategy does Richards recommend for paying off debt?",
+      "a": [
+        "Pay the smallest balance first",
+        "Pay the highest interest rate first",
+        "Pay equal amounts",
+        "Ignore high-interest debt"
+      ],
+      "why": "He advises paying the debt with the highest interest rate first."
+    },
+    {
+      "q": "Why does Richards call debt repayment an investment?",
+      "a": [
+        "It improves future financial health",
+        "It reduces taxes",
+        "It increases credit score",
+        "It saves on interest"
+      ],
+      "why": "He frames debt repayment as investing in your future self."
+    }
+  ]
+}

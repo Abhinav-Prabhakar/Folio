@@ -1,0 +1,56 @@
+{
+  "book": "david-and-goliath",
+  "title": "David and Goliath",
+  "questions": [
+    {
+      "q": "Why might a privileged upbringing work against someone later in life?",
+      "a": [
+        "Never having to struggle can leave them unprepared for real difficulty",
+        "Private schools teach fewer practical subjects than public ones",
+        "Wealthy parents rarely pass on any useful habits",
+        "Rich students are usually less intelligent than poor students"
+      ],
+      "why": "Lesson 1 argues that an easy life removes the challenges that build toughness."
+    },
+    {
+      "q": "What does Gladwell say a learning disability can do?",
+      "a": [
+        "Push people to over-develop strengths in other areas",
+        "Permanently limit achievement in every subject",
+        "Matter only for students in expensive schools",
+        "Disappear once a person reaches adulthood"
+      ],
+      "why": "Lesson 2 says disadvantages can lead people to build compensating skills that more than make up for them."
+    },
+    {
+      "q": "What did Princeton's harder-to-read test font show?",
+      "a": [
+        "Reading more slowly helped students think and score better",
+        "Students gave up more often when text was unclear",
+        "Font style had no effect on test performance",
+        "Faster readers always produced the best answers"
+      ],
+      "why": "Lesson 2 reports that average scores rose when the font forced slower, deeper thinking."
+    },
+    {
+      "q": "How often do underdog armies win when they use guerrilla tactics?",
+      "a": [
+        "About 63 percent of the time",
+        "About 29 percent of the time",
+        "About 10 percent of the time",
+        "About 90 percent of the time"
+      ],
+      "why": "Lesson 3 contrasts a 63 percent win rate with guerrilla tactics against 29 percent without them."
+    },
+    {
+      "q": "What let the British beat a larger fleet at Trafalgar?",
+      "a": [
+        "Unconventional tactics that broke up the enemy formation",
+        "Ships that were larger and better armed than the enemy's",
+        "A sudden storm that destroyed most French vessels",
+        "Superior numbers gathered from nearby colonies"
+      ],
+      "why": "Lesson 3 describes the British attacking head-on and encircling parts of the fleet."
+    }
+  ]
+}

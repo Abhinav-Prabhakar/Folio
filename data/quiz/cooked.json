@@ -1,0 +1,56 @@
+{
+  "book": "cooked",
+  "title": "Cooked",
+  "questions": [
+    {
+      "q": "What does the Harvard study cited by Pollan show?",
+      "a": [
+        "More time cooking at home is linked to better health",
+        "Home cooking costs more than eating out",
+        "Cooking time has no effect on diet",
+        "People who cook eat more processed food"
+      ],
+      "why": "Lesson 1 says the more time people spend preparing their own food, the better their health tends to be."
+    },
+    {
+      "q": "Why did processed food spread so quickly after World War II?",
+      "a": [
+        "It promised convenience and saved time in the kitchen",
+        "It was more nutritious than home cooking",
+        "Governments required families to buy it",
+        "Fresh ingredients became impossible to find"
+      ],
+      "why": "The summary says instant meals were sold as a way to save time, even though they offered little nutritional value."
+    },
+    {
+      "q": "What does fermentation do to bread?",
+      "a": [
+        "It unlocks nutrients the body could not otherwise absorb",
+        "It removes most of the grain's fiber",
+        "It adds vitamins that were never there",
+        "It makes the bread last only a day"
+      ],
+      "why": "Lesson 2 explains that yeast fermentation releases nutrients in grain that humans cannot digest raw."
+    },
+    {
+      "q": "Which kind of bread does Pollan credit with extra nutritional value?",
+      "a": [
+        "Whole grain bread",
+        "White bread",
+        "Sourdough bread",
+        "Fortified bread"
+      ],
+      "why": "The summary notes that white bread lacks the most valuable parts of the grain, unlike whole grain bread."
+    },
+    {
+      "q": "What does the summary say about alcohol in the animal kingdom?",
+      "a": [
+        "Many animals seek out fermented fruit and benefit from it",
+        "Animals avoid alcohol because it is toxic to them",
+        "Alcohol has no effect on animal behavior",
+        "Only primates consume fermented fruit"
+      ],
+      "why": "Lesson 3 describes rhinos, tigers and pigs gathering at rotting durian, and flies and rats gaining advantages from alcohol."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "grit",
+  "title": "Grit",
+  "questions": [
+    {
+      "q": "What did Chia-Jung Tsay's study of music experts reveal?",
+      "a": ["They preferred the same recording when told it was natural talent", "They preferred the recording by the harder-working musician", "They could tell the difference between the two recordings", "They judged the musicians by their years of training"],
+      "why": "Lesson 1 says the experts chose the natural musician even though both recordings were identical."
+    },
+    {
+      "q": "What are Duckworth's two equations for achievement?",
+      "a": ["Talent times effort gives skill, then skill times effort gives achievement", "Talent plus skill gives effort, then effort plus luck gives success", "Skill divided by effort gives talent, then effort divided by skill gives achievement", "Talent times skill gives effort, then effort times luck gives achievement"],
+      "why": "Lesson 2 combines the two equations into talent times effort squared equals achievement."
+    },
+    {
+      "q": "Why does Duckworth say effort counts twice?",
+      "a": ["It builds skill and then turns skill into achievement", "It improves both talent and reputation", "It doubles the hours you can work each day", "It matters more in sports than in other fields"],
+      "why": "Lesson 2 says effort is counted once when building skill and again when applying it."
+    },
+    {
+      "q": "What is the problem with only having a big dream?",
+      "a": ["Thinking about it daily can feel depressing without small wins", "It makes you too satisfied to keep working", "It narrows your options too early", "It attracts jealousy from people around you"],
+      "why": "Lesson 3 says the big vision needs small daily goals to provide wins and motivation."
+    },
+    {
+      "q": "How does Duckworth suggest staying motivated for the long haul?",
+      "a": ["Pair a large vision with small daily goals", "Rely on willpower and avoid all distractions", "Track only your long-term results", "Change your goal whenever progress stalls"],
+      "why": "Lesson 3 says small daily goals and a big scary dream are both needed."
+    }
+  ]
+}

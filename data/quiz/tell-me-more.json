@@ -1,0 +1,56 @@
+{
+  "book": "tell-me-more",
+  "title": "Tell Me More",
+  "questions": [
+    {
+      "q": "What does the summary say people usually need when something goes wrong in their life?",
+      "a": [
+        "Someone to listen and feel the situation alongside them",
+        "A clear plan for fixing the problem step by step",
+        "Honest criticism about what they did to cause it",
+        "Quiet time alone to work through it by themselves"
+      ],
+      "why": "Lesson 1 says advice rarely helps; most people need someone to empathize with them."
+    },
+    {
+      "q": "Why does the summary compare parenting to a jigsaw puzzle missing its last piece?",
+      "a": [
+        "Children need to work some things out on their own to grow",
+        "Parents should hide the hardest pieces until kids are older",
+        "Every family problem has exactly one correct solution",
+        "Children give up quickly when a task becomes frustrating"
+      ],
+      "why": "Lesson 1 uses the puzzle to show that solving everything for children blocks their progress."
+    },
+    {
+      "q": "What does Kelly Corrigan claim about refusing requests in a relationship?",
+      "a": [
+        "It is vital, and the person who says it deserves respect",
+        "It should be avoided because it always sounds selfish",
+        "It is acceptable only between very close friends",
+        "It works best when it comes with an apology afterward"
+      ],
+      "why": "Lesson 2 argues that saying no is essential to healthy relationships, not a sign of laziness."
+    },
+    {
+      "q": "How did Kelly react when her husband said he did not want to pursue more children?",
+      "a": [
+        "She accepted it so they could move forward together",
+        "She kept pushing until he finally changed his mind",
+        "She began adoption proceedings without telling him",
+        "She asked her father to talk him out of it"
+      ],
+      "why": "Lesson 2 shows Kelly choosing to stay together, even though it meant giving up her dream."
+    },
+    {
+      "q": "What did Kelly’s father mean when he said she would eventually work things out?",
+      "a": [
+        "A few victories now and then are enough to keep you going",
+        "Perfection is reachable if you simply try hard enough",
+        "Everyone finds success at roughly the same age",
+        "You should measure your progress against your friends"
+      ],
+      "why": "Lesson 3 closes with his point that nobody needs to be perfect every day."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-grand-design",
+  "title": "The Grand Design",
+  "questions": [
+    {
+      "q": "Which Italian city banned goldfish in curved bowls in 2004?",
+      "a": [
+        "Monza",
+        "Rome",
+        "Milan",
+        "Venice"
+      ],
+      "why": "The text states Monza enacted that law."
+    },
+    {
+      "q": "What discovery in 1929 led scientists to conclude the universe is expanding?",
+      "a": [
+        "Hubble's observation of galaxy recession",
+        "Newton's law of gravity",
+        "Einstein's relativity",
+        "Kepler's laws"
+      ],
+      "why": "Hubble's observation is cited as the evidence."
+    },
+    {
+      "q": "Which theory proved that time is relative to the observer's motion?",
+      "a": [
+        "Special Relativity",
+        "General Relativity",
+        "Quantum Mechanics",
+        "String Theory"
+      ],
+      "why": "Special Relativity is the theory mentioned."
+    },
+    {
+      "q": "According to the book, why do we each see a unique reality?",
+      "a": [
+        "Our senses send different information to the brain",
+        "Gravity distorts our vision",
+        "Cultural background shapes perception",
+        "Technology alters perception"
+      ],
+      "why": "The text explains unique reality comes from sensory information."
+    },
+    {
+      "q": "What does the book suggest scientists can infer about the universe's past?",
+      "a": [
+        "It was once a small, dense point",
+        "It was static and unchanging",
+        "It was a flat plane",
+        "It was a perfect crystal"
+      ],
+      "why": "The book describes a dense, small beginning of the universe."
+    }
+  ]
+}

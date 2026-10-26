@@ -1,0 +1,56 @@
+{
+  "book": "the-100-year-life",
+  "title": "The 100-Year Life",
+  "questions": [
+    {
+      "q": "What do many scientists predict about life expectancy by 2030?",
+      "a": [
+        "People will on average live past 100",
+        "Most people will retire before turning 55",
+        "Medicine will stop adding extra years",
+        "Birth rates will fall below replacement"
+      ],
+      "why": "The overview cites the idea of longevity escape velocity and an average lifespan beyond triple digits."
+    },
+    {
+      "q": "Which changes does the summary credit for longer lives?",
+      "a": [
+        "Better nutrition, medicine and health awareness",
+        "Cheaper housing and more leisure time",
+        "Smaller families and later marriages",
+        "Global travel and freer trade"
+      ],
+      "why": "Lesson 1 points to medical breakthroughs and a more health-conscious, better-fed population."
+    },
+    {
+      "q": "Which skills does the summary say will matter as AI takes over more tasks?",
+      "a": [
+        "Computer skills, lateral thinking and social skills",
+        "Manual labour, physical stamina and obedience",
+        "Sales ability, negotiation and bookkeeping",
+        "Memory, speed and competitive drive"
+      ],
+      "why": "Lesson 2 says people will need to work alongside machines and lean on creative and social abilities."
+    },
+    {
+      "q": "At which points in life does the summary recommend taking time to explore?",
+      "a": [
+        "In your twenties, mid-forties and seventies",
+        "In your teens, thirties and sixties",
+        "In your twenties, thirties and fifties",
+        "In your forties, fifties and eighties"
+      ],
+      "why": "Lesson 3 names those three stages, which tend to be marked by big changes."
+    },
+    {
+      "q": "How does the summary say our idea of retirement should change?",
+      "a": [
+        "It should include independence, exploration and growth",
+        "It should start earlier and last much longer",
+        "It should rely mainly on state pensions",
+        "It should be planned by employers, not workers"
+      ],
+      "why": "Lesson 3 redefines retirement around financial independence, trying new things and self-growth."
+    }
+  ]
+}

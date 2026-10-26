@@ -1,0 +1,56 @@
+{
+  "book": "safe-people",
+  "title": "Safe People",
+  "questions": [
+    {
+      "q": "Which three types of unsafe people does the summary describe?",
+      "a": [
+        "Abandoners, critics, and irresponsible friends",
+        "Manipulators, victims, and rescuers",
+        "Critics, competitors, and strangers",
+        "Liars, cheaters, and gossips"
+      ],
+      "why": "Lesson 1 names abandoners, critics and irresponsible friends, each with recognizable behavior."
+    },
+    {
+      "q": "What do abandoners do?",
+      "a": [
+        "Start out warm and then vanish when things get real",
+        "Judge everyone around them constantly",
+        "Cancel plans at the last minute without notice",
+        "Demand constant attention and praise"
+      ],
+      "why": "Lesson 1 says abandoners seem enthusiastic at first but leave once they realize perfection is unattainable."
+    },
+    {
+      "q": "How can past trauma affect you, according to the summary?",
+      "a": [
+        "It can make you an unsafe person yourself",
+        "It always makes you more empathetic",
+        "It disappears once you find new friends",
+        "It only affects your physical health"
+      ],
+      "why": "Lesson 2 asks whether we might be the unsafe one, since past injuries can damage our ability to connect."
+    },
+    {
+      "q": "Which trait does the summary name as self-destructive?",
+      "a": [
+        "A sense of entitlement",
+        "A habit of apologizing",
+        "A desire for solitude",
+        "A fear of conflict"
+      ],
+      "why": "Lesson 2 lists envy, self-sufficiency and entitlement as ways we cut ourselves off from others."
+    },
+    {
+      "q": "What did the long-lived Italian families in Pennsylvania illustrate?",
+      "a": [
+        "Strong social ties can improve health and length of life",
+        "Diet matters far more than friendship",
+        "Immigrants tend to live shorter lives",
+        "Family size determines life expectancy"
+      ],
+      "why": "Lesson 3 credits their unusually long lives to an active and healthy social life."
+    }
+  ]
+}

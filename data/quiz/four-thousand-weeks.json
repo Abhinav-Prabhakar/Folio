@@ -1,0 +1,56 @@
+{
+  "book": "four-thousand-weeks",
+  "title": "Four Thousand Weeks",
+  "questions": [
+    {
+      "q": "What does Burkeman conclude about mastering your time?",
+      "a": [
+        "It is impossible, and you should stop trying",
+        "It is the key to a successful career",
+        "It requires strict daily schedules",
+        "It gets easy with the right system"
+      ],
+      "why": "The overview says the book argues against the hustler mindset and explains why time cannot be mastered."
+    },
+    {
+      "q": "Why did medieval people place less value on their days on earth?",
+      "a": [
+        "Religion taught them to focus on an afterlife",
+        "Their lives were too short to plan ahead",
+        "They had no way of measuring time",
+        "They worked only during harvest season"
+      ],
+      "why": "The first lesson says belief in the afterlife meant people did not count their limited days so carefully."
+    },
+    {
+      "q": "What does the summary say about procrastination?",
+      "a": [
+        "Everyone does it, and a little of it restores energy",
+        "Only lazy people give in to it",
+        "It should be eliminated from every schedule",
+        "It always signals that burnout is coming"
+      ],
+      "why": "The second lesson says we are wired to procrastinate and that rest between tasks leaves us fresher."
+    },
+    {
+      "q": "How does Burkeman suggest you get more tasks finished?",
+      "a": [
+        "Rank them by importance and work through them in order",
+        "Start with the quickest ones to build momentum",
+        "Work on several at once to save time",
+        "Delegate anything that feels repetitive"
+      ],
+      "why": "The second lesson says proper prioritizing, one task at a time, is more effective than multitasking."
+    },
+    {
+      "q": "What does the author recommend doing with the spare time you gain?",
+      "a": [
+        "Spend it on hobbies and people you love",
+        "Take on new projects to stay sharp",
+        "Turn every hobby into extra income",
+        "Schedule it for maximum efficiency"
+      ],
+      "why": "The third lesson says leisure, family and being mediocre at a hobby boost productivity in the long run."
+    }
+  ]
+}

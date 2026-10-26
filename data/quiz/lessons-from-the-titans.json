@@ -1,0 +1,56 @@
+{
+  "book": "lessons-from-the-titans",
+  "title": "Lessons from the Titans",
+  "questions": [
+    {
+      "q": "What kind of culture does the book say keeps a company strong?",
+      "a": [
+        "One where people can exchange opinions and point out faults",
+        "One where leaders avoid risk and protect the status quo",
+        "One focused mainly on beating rivals on price",
+        "One where decisions stay with a small group at the top"
+      ],
+      "why": "The first lesson says a workplace where people share views and call out mistakes is essential to lasting success."
+    },
+    {
+      "q": "What brought GE close to collapse during the 2008 crisis?",
+      "a": [
+        "A finance arm that took on risky credit and bonds",
+        "A failed line of household appliances",
+        "A long strike by its manufacturing workers",
+        "A botched merger with a European rival"
+      ],
+      "why": "The summary describes GE building a bank-like branch that lent risky credit, issued bonds and created a bubble that burst in 2008."
+    },
+    {
+      "q": "What did Boeing do while racing Airbus on the 737 MAX?",
+      "a": [
+        "It skipped pilot training on new features and hundreds died",
+        "It slowed production to add extra safety testing",
+        "It raised prices instead of cutting engineering corners",
+        "It shared its designs openly with regulators"
+      ],
+      "why": "The second lesson says Boeing failed to train or even inform pilots about new features, leading to two crashes in 2019."
+    },
+    {
+      "q": "Which cost cuts does the summary warn against?",
+      "a": [
+        "Removing quality control and safety steps to hit targets",
+        "Trimming overhead that no longer serves the business",
+        "Renegotiating supplier contracts every year",
+        "Closing offices that duplicate each other's work"
+      ],
+      "why": "The third lesson says Boeing's cuts to manufacturing steps and quality control managers began its downfall."
+    },
+    {
+      "q": "According to the summary, what is profit a result of?",
+      "a": [
+        "Cutting costs or increasing sales",
+        "Raising prices faster than competitors",
+        "Reducing wages and employee benefits",
+        "Postponing investment in new products"
+      ],
+      "why": "The third lesson states plainly that profit results from cutting costs or increasing sales."
+    }
+  ]
+}

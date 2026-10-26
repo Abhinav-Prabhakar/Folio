@@ -1,0 +1,56 @@
+{
+  "book": "ego-friendly",
+  "title": "Ego Friendly",
+  "questions": [
+    {
+      "q": "What is spiritual bypassing?",
+      "a": [
+        "Using spiritual practice to avoid unresolved emotional problems",
+        "Skipping meditation when life gets too busy",
+        "Adopting a spiritual path without a teacher",
+        "Believing spiritual growth replaces therapy entirely"
+      ],
+      "why": "Lesson 1 defines spiritual bypassing as using spiritual ideas and practices to sidestep unresolved wounds and emotional issues."
+    },
+    {
+      "q": "Why can trying to let go of the ego backfire?",
+      "a": [
+        "It can inflate low self-esteem instead of healing it",
+        "It can make people arrogant about their progress",
+        "It can weaken the immune system over time",
+        "It can make people too selfish to help others"
+      ],
+      "why": "Lesson 1 says when a low view of yourself meets the aim of killing the ego, it can inflate the problem rather than cure it."
+    },
+    {
+      "q": "What does a healthy ego help you do?",
+      "a": [
+        "Choose fitting goals and set boundaries in relationships",
+        "Ignore other people's needs and opinions completely",
+        "Avoid all criticism and conflict at work",
+        "Feel superior to people with less confidence"
+      ],
+      "why": "Lesson 2 says ego awareness helps you pick goals that fit you and reveals what compromises you can and cannot make."
+    },
+    {
+      "q": "How does Brzosko suggest you start befriending your ego?",
+      "a": [
+        "Notice the feelings you learned to suppress",
+        "Argue back against your negative thoughts",
+        "Meditate until the ego becomes silent",
+        "Replace every bad feeling with a positive one"
+      ],
+      "why": "Lesson 3 says unexpressed emotions create an unhealthy ego, so giving those feelings attention is the first step."
+    },
+    {
+      "q": "What does befriending your ego mean?",
+      "a": [
+        "Being at peace with it without overidentifying with it",
+        "Removing it entirely through meditation",
+        "Following its impulses without questioning them",
+        "Treating it as an enemy you must defeat"
+      ],
+      "why": "The overview defines befriending the ego as being at peace with it without overidentifying with it."
+    }
+  ]
+}

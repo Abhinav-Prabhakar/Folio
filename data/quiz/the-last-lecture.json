@@ -1,0 +1,56 @@
+{
+  "book": "the-last-lecture",
+  "title": "The Last Lecture",
+  "questions": [
+    {
+      "q": "What did Randy Pausch achieve despite his poor eyesight?",
+      "a": [
+        "NASA simulation plane experiment",
+        "A career in astronomy",
+        "A spacewalk",
+        "A rocket launch"
+      ],
+      "why": "He created an experiment that flew on NASA's Weightless Wonder."
+    },
+    {
+      "q": "Why did Pausch push his students hard in Building Virtual Worlds?",
+      "a": [
+        "To help them succeed",
+        "To improve his own grades",
+        "To win awards",
+        "To avoid criticism"
+      ],
+      "why": "He believed helping others was as rewarding as helping himself."
+    },
+    {
+      "q": "What was a key lesson from Pausch's handbook for group work?",
+      "a": [
+        "Learn names before starting",
+        "Avoid brainstorming",
+        "Eat after work",
+        "Skip meetings"
+      ],
+      "why": "The handbook advised learning names and brainstorming before work."
+    },
+    {
+      "q": "Which advice did students find most useful?",
+      "a": [
+        "Forming better connections",
+        "Reading textbooks",
+        "Skipping classes",
+        "Watching movies"
+      ],
+      "why": "Students who followed the handbook scored highest."
+    },
+    {
+      "q": "What did Pausch say about giving to others?",
+      "a": [
+        "It brings satisfaction",
+        "It wastes time",
+        "It is risky",
+        "It is unimportant"
+      ],
+      "why": "He claimed helping others gives as much satisfaction as helping oneself."
+    }
+  ]
+}

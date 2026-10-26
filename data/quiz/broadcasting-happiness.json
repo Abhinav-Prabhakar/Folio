@@ -1,0 +1,31 @@
+{
+  "book": "broadcasting-happiness",
+  "title": "Broadcasting Happiness",
+  "questions": [
+    {
+      "q": "What did CBS do during the 2008 recession to reverse its falling viewership?",
+      "a": ["It aired solution-focused stories during a Happy Week", "It replaced anchors with comedy performers", "It stopped reporting on the economy entirely", "It moved all its news online for a year"],
+      "why": "Lesson 1 describes CBS's Happy Week, when anchors shared news with a focus on solutions, after which viewership exceeded the previous year."
+    },
+    {
+      "q": "What surprised researchers in Ellen Langer's study of older men?",
+      "a": ["Their strength, memory and even eyesight improved", "They became more aware of their real age", "Their health declined from the vivid stories", "Only their memory scores showed any change"],
+      "why": "Lesson 1 says the 75-year-olds who lived as if 20 years younger improved on every measure, including eyesight, after just a week."
+    },
+    {
+      "q": "What happened to people primed with positive words in the Stanford study?",
+      "a": ["They behaved more kindly and cooperated more", "They finished the language test much faster", "They became more impatient with the researcher", "They forgot the words they had just seen"],
+      "why": "Lesson 2 says the group shown words like calm and respectful acted cooperatively, while the negative group interrupted more."
+    },
+    {
+      "q": "Which mental exercise helped students perform better on an exam?",
+      "a": ["Thinking about the traits of a brilliant professor", "Imagining themselves as a rebellious hooligan", "Recalling a recent failure in detail", "Discussing the test with anxious classmates"],
+      "why": "Lesson 2 says participants primed with thoughts of a brilliant professor scored higher than those told to think of a hooligan."
+    },
+    {
+      "q": "What are the four C's used to help someone through a hard time?",
+      "a": ["Capital, context, compassion and commitment", "Courage, calm, clarity and consistency", "Curiosity, candor, care and control", "Connection, conversation, comfort and change"],
+      "why": "Lesson 3 lists social capital, context, compassion and commitment as the steps for listening supportively without encouraging negativity."
+    }
+  ]
+}

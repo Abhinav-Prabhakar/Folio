@@ -1,0 +1,56 @@
+{
+  "book": "the-leadership-challenge",
+  "title": "The Leadership Challenge",
+  "questions": [
+    {
+      "q": "What habit helped a Starbucks manager create the Frappuccino?",
+      "a": [
+        "She bought her own blender and used it",
+        "She asked upper management for funding",
+        "She outsourced the recipe",
+        "She waited for a market study"
+      ],
+      "why": "She bought her own blender and used it to make the drink."
+    },
+    {
+      "q": "Why is leading by example more persuasive than giving orders?",
+      "a": [
+        "People mimic behavior they see",
+        "People dislike being told what to wear",
+        "People prefer written rules",
+        "People ignore authority"
+      ],
+      "why": "People tend to follow visible actions more than verbal directives."
+    },
+    {
+      "q": "What effect does empowering team members have on performance?",
+      "a": [
+        "Increases ownership and efficiency",
+        "Reduces accountability",
+        "Creates confusion",
+        "Lowers morale"
+      ],
+      "why": "Empowerment gives agency, boosting ownership and efficiency."
+    },
+    {
+      "q": "Which leader's example is cited for modeling behavior?",
+      "a": [
+        "Steve Skarke as plant manager",
+        "John Doe as CEO",
+        "Jane Smith as coach",
+        "Mike Brown as scout leader"
+      ],
+      "why": "Steve Skarke is mentioned as a model of leading by example."
+    },
+    {
+      "q": "What common pitfall do new leaders often repeat?",
+      "a": [
+        "Adopting bad habits from past bosses",
+        "Over‑delegating tasks",
+        "Avoiding all feedback",
+        "Focusing only on profits"
+      ],
+      "why": "Leaders often fall into the same pitfalls as ineffective past leaders."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "sprint",
+  "title": "Sprint",
+  "questions": [
+    {
+      "q": "What are the three key elements of a sprint?",
+      "a": [
+        "A tight deadline, a team in one room and a prototype",
+        "A large budget, a detailed plan and a launch date",
+        "A single founder, a mentor and a pitch deck",
+        "A long timeline, remote workers and a survey"
+      ],
+      "why": "Lesson 1 names the deadline, the cross-skilled team working together and a concrete prototype."
+    },
+    {
+      "q": "Why does a sprint use such a short deadline?",
+      "a": [
+        "Work expands to fill the time given, so less time prevents procrastination",
+        "Investors require weekly progress reports",
+        "Short projects are always cheaper to run",
+        "Teams lose interest after a few weeks"
+      ],
+      "why": "Lesson 1 cites Parkinson’s Law: work fills the time allotted, so a five-day limit forces focus."
+    },
+    {
+      "q": "What is the “defining moment” a sprint team works backwards from?",
+      "a": [
+        "The moment the customer first meets the product",
+        "The moment the product is shipped to stores",
+        "The moment the team agrees on a budget",
+        "The moment the company turns a profit"
+      ],
+      "why": "Lesson 2 says the target is when a potential customer and the product first meet, as with the hotel delivery robot."
+    },
+    {
+      "q": "What happens during a lightning demo?",
+      "a": [
+        "Each team member presents existing solutions for a few minutes",
+        "The team votes on the single best idea in the room",
+        "A facilitator interviews real customers",
+        "Everyone builds a working prototype on the spot"
+      ],
+      "why": "Lesson 3 describes three-minute presentations of existing solutions to parts of the problem."
+    },
+    {
+      "q": "What is one advantage of having everyone sketch their ideas?",
+      "a": [
+        "It shows whether different solutions can be combined",
+        "It identifies which team member draws best",
+        "It replaces the need for a prototype",
+        "It makes the sprint last fewer days"
+      ],
+      "why": "Lesson 3 says sketching reveals possible combinations and breaks the project into distinct stages."
+    }
+  ]
+}

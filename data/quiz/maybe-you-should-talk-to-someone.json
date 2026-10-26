@@ -1,0 +1,56 @@
+{
+  "book": "maybe-you-should-talk-to-someone",
+  "title": "Maybe You Should Talk To Someone",
+  "questions": [
+    {
+      "q": "What is a patient’s “presenting problem”?",
+      "a": [
+        "The issue they bring to therapy, which is often not the real one",
+        "The diagnosis a therapist writes after the first session",
+        "The fee a patient agrees to pay for treatment",
+        "The defense mechanism they use to avoid emotion"
+      ],
+      "why": "Lesson 1 defines it as the problem a patient comes in hoping to solve, usually hiding a deeper issue."
+    },
+    {
+      "q": "What did John’s case reveal beneath his insomnia and relationship complaints?",
+      "a": [
+        "Unresolved grief from the deaths of his mother and young son",
+        "A medical condition that required medication rather than therapy",
+        "A conflict with his employer that he had not mentioned",
+        "A fear of being alone that began in his marriage"
+      ],
+      "why": "Lesson 1 says six months passed before the traumatic losses behind John’s behavior emerged."
+    },
+    {
+      "q": "Which defense mechanism did Gottlieb use after her boyfriend left her?",
+      "a": [
+        "She fixated on his misdeeds during therapy sessions",
+        "She pretended the relationship had never mattered",
+        "She threw herself into caring for her patients",
+        "She refused to speak at all during sessions"
+      ],
+      "why": "Lesson 2 describes her obsession with his wrongs as a way of avoiding the deeper pain."
+    },
+    {
+      "q": "What deeper concern did Gottlieb’s therapist detect behind her breakup talk?",
+      "a": [
+        "Distress about her life being half over and her own mortality",
+        "A desire to return to her former boyfriend immediately",
+        "Worry that she was unsuited to being a therapist",
+        "Anger at her friends for not supporting her"
+      ],
+      "why": "Lesson 2 says remarks about her life being half over revealed fear about death, not just the relationship."
+    },
+    {
+      "q": "What does “breaking open” mean in the summary?",
+      "a": [
+        "Lowering your guard and facing repressed feelings head-on",
+        "Ending therapy when the sessions become too painful",
+        "Revealing a patient’s secrets to their family",
+        "Starting a new relationship before healing from the last"
+      ],
+      "why": "Lesson 3 describes breaking open as acknowledging repressed emotion, which allows progress to begin."
+    }
+  ]
+}

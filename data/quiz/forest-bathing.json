@@ -1,0 +1,56 @@
+{
+  "book": "forest-bathing",
+  "title": "Forest Bathing",
+  "questions": [
+    {
+      "q": "According to the summary, roughly how much of the day do we spend indoors?",
+      "a": [
+        "Almost 90%",
+        "Almost 50%",
+        "Almost 70%",
+        "Almost 99%"
+      ],
+      "why": "The overview says we spend close to 90% of each day inside, which the book links to poorer health."
+    },
+    {
+      "q": "What is forest bathing as the summary describes it?",
+      "a": [
+        "A Japanese practice of immersing yourself in nature",
+        "A guided workout routine performed among trees",
+        "A method for growing plants inside the home",
+        "A silent meditation that avoids all movement"
+      ],
+      "why": "The overview introduces shinrin-yoku, a Japanese form of forest therapy built on immersion in nature."
+    },
+    {
+      "q": "Once you have found a good spot to forest-bathe, what should you do?",
+      "a": [
+        "Do nothing, admire the patterns and focus on breathing",
+        "Walk briskly until you break a sweat",
+        "Recite a mantra out loud for ten minutes",
+        "Take photos to record everything you see"
+      ],
+      "why": "The first lesson says the task is simply to stop, take in nature's patterns and concentrate on your breath."
+    },
+    {
+      "q": "How does the summary suggest you ground yourself in nature?",
+      "a": [
+        "Walk barefoot on grass or soil for about 20 minutes",
+        "Sit against a tree for an hour every morning",
+        "Breathe deeply while standing in shallow water",
+        "Lie on rocks until your skin feels cool"
+      ],
+      "why": "The second lesson says nature's low electric charge balances our electrons, and barefoot walking helps."
+    },
+    {
+      "q": "What do essential oils such as pine and redwood release?",
+      "a": [
+        "Phytoncides, which are antimicrobial compounds",
+        "Negative ions that clean the surrounding air",
+        "Carbon dioxide that feeds nearby plants",
+        "Antioxidants that protect against sunlight"
+      ],
+      "why": "The third lesson says oils like these recreate a forest atmosphere and give off phytoncides."
+    }
+  ]
+}

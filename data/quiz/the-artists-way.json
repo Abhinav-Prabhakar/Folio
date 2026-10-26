@@ -1,0 +1,56 @@
+{
+  "book": "the-artists-way",
+  "title": "The Artist’s Way",
+  "questions": [
+    {
+      "q": "What are Morning Pages?",
+      "a": [
+        "Writing a page or two of whatever comes to mind first thing in the morning",
+        "Listing the day's tasks before breakfast",
+        "Copying a passage from a favourite author",
+        "Writing a polished page and editing it later"
+      ],
+      "why": "Lesson 1 describes Morning Pages as sitting down early and letting your thoughts flow onto the page."
+    },
+    {
+      "q": "How does the summary describe creativity?",
+      "a": [
+        "A skill you practice daily rather than a burst of pure talent",
+        "A gift that only a few people are born with",
+        "A mood that comes and goes without warning",
+        "A reward for finishing other work first"
+      ],
+      "why": "Lesson 1 says real artists show up to practice a little every day, and their work compounds."
+    },
+    {
+      "q": "What does the summary suggest when you are blocked?",
+      "a": [
+        "Ask other people to give you a prompt",
+        "Wait until inspiration returns on its own",
+        "Switch to a completely different art form",
+        "Study the work of famous artists"
+      ],
+      "why": "Lesson 2 recommends asking a friend, relative or audience what you should make next."
+    },
+    {
+      "q": "What does the gardener metaphor mean?",
+      "a": [
+        "You find ideas and tend them rather than generating them from nothing",
+        "You must plant many ideas to get one good one",
+        "Ideas grow best when left completely alone",
+        "You should weed out anything not profitable"
+      ],
+      "why": "Lesson 3 says an artist plants, cares for and grows ideas instead of forcing them into being."
+    },
+    {
+      "q": "What did Michelangelo say about his statue of David?",
+      "a": [
+        "That he found it rather than created it",
+        "That it took him twenty years to finish",
+        "That he copied it from a Greek original",
+        "That he preferred painting to sculpture"
+      ],
+      "why": "Lesson 3 uses his claim to illustrate the humble idea of the artist as a vessel."
+    }
+  ]
+}

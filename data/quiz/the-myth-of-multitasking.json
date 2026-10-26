@@ -1,0 +1,56 @@
+{
+  "book": "the-myth-of-multitasking",
+  "title": "The Myth Of Multitasking",
+  "questions": [
+    {
+      "q": "What term does the author use for the illusion of doing many tasks at once?",
+      "a": [
+        "Switchtasking",
+        "Multitasking",
+        "Parallel work",
+        "Simultaneous effort"
+      ],
+      "why": "The author defines the phenomenon as switchtasking."
+    },
+    {
+      "q": "Which brain region is responsible for conscious actions in the book?",
+      "a": [
+        "Prefrontal cortex",
+        "Hippocampus",
+        "Amygdala",
+        "Motor cortex"
+      ],
+      "why": "The text states the prefrontal cortex controls conscious actions."
+    },
+    {
+      "q": "Which office strategy helps reduce constant interruptions?",
+      "a": [
+        "Schedule recurring meetings",
+        "Open office hours",
+        "Flexible deadlines",
+        "Remote work"
+      ],
+      "why": "The book recommends scheduling regular meetings to limit interruptions."
+    },
+    {
+      "q": "What type of change is more effective in organizations, according to the author?",
+      "a": [
+        "Change by desire",
+        "Change by force",
+        "Top‑down mandates",
+        "Peer pressure"
+      ],
+      "why": "The author says change by desire is more powerful."
+    },
+    {
+      "q": "Why should you avoid forcing singletasking on others?",
+      "a": [
+        "It can backfire and reduce cooperation",
+        "It saves time",
+        "It improves focus",
+        "It increases productivity"
+      ],
+      "why": "The text warns that forcing the system can upset others."
+    }
+  ]
+}

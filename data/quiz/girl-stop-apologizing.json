@@ -1,0 +1,31 @@
+{
+  "book": "girl-stop-apologizing",
+  "title": "Girl, Stop Apologizing",
+  "questions": [
+    {
+      "q": "According to Hollis, how are boys and girls typically raised differently?",
+      "a": ["Boys are raised to chase dreams, girls to meet expectations", "Boys are praised for effort, girls for good grades", "Boys learn to share, girls learn to compete", "Boys are taught patience, girls are taught ambition"],
+      "why": "Lesson 1 says boys are brought up to follow their dreams while girls follow what is expected."
+    },
+    {
+      "q": "What does Hollis say you must do instead of waiting for free time?",
+      "a": ["Make time for your goals by sacrificing something", "Wake up earlier every single morning", "Cut your goal down to a smaller size", "Ask your family for uninterrupted hours"],
+      "why": "Lesson 2 tells readers to stop looking for free time and start making time for their goals."
+    },
+    {
+      "q": "What is the first step in Hollis's 10-10-1 goal plan?",
+      "a": ["Picture your life ten years from now in detail", "List ten habits you want to build this year", "Choose one goal you can finish in ten weeks", "Ask ten friends to review your goals"],
+      "why": "Lesson 3 starts the plan by imagining your life a decade ahead and writing down specifics."
+    },
+    {
+      "q": "How does Hollis suggest wording a goal?",
+      "a": ["As a measurable target written in the present tense", "As a question you answer each morning", "As a list of daily habits to track", "As a promise to a friend or mentor"],
+      "why": "Lesson 3 says to write the goal as if achieved and make it measurable, like a bank balance."
+    },
+    {
+      "q": "What does Hollis say about people who judge you?",
+      "a": ["They will judge you whatever you do, so ignore them", "They usually change their minds once you succeed", "They are the best source of honest feedback", "They should be cut out of your life entirely"],
+      "why": "Lesson 2 says judgmental people will find reasons to judge you no matter what you do."
+    }
+  ]
+}

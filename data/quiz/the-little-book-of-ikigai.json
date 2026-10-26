@@ -1,0 +1,56 @@
+{
+  "book": "the-little-book-of-ikigai",
+  "title": "The Little Book of Ikigai",
+  "questions": [
+    {
+      "q": "What does the Japanese word \"ikigai\" literally combine?",
+      "a": [
+        "Live and worth doing",
+        "Joy and purpose",
+        "Work and happiness",
+        "Peace and health"
+      ],
+      "why": "Ikigai = \"iki\" (live) + \"gai\" (worth doing)."
+    },
+    {
+      "q": "According to Mogi, ikigai applies to which of the following?",
+      "a": [
+        "Both tiny daily actions and big goals",
+        "Only lifelong career missions",
+        "Only major achievements",
+        "Only spiritual practices"
+      ],
+      "why": "She says ikigai can be small or large."
+    },
+    {
+      "q": "Which example in the book fulfills all five ikigai pillars?",
+      "a": [
+        "Traditional Japanese tea ceremony",
+        "Running a tech startup",
+        "Learning a new language",
+        "Traveling abroad"
+      ],
+      "why": "The tea ceremony meets all five pillars."
+    },
+    {
+      "q": "What is the first pillar of ikigai?",
+      "a": [
+        "Start small",
+        "Release yourself",
+        "Find harmony",
+        "Seek sustainability"
+      ],
+      "why": "The first pillar emphasizes tiny daily positive actions."
+    },
+    {
+      "q": "How does the book define the second pillar, \"Release yourself\"?",
+      "a": [
+        "Put ego aside and enjoy without expectation",
+        "Work harder to achieve fame",
+        "Focus solely on financial gain",
+        "Avoid all social interactions"
+      ],
+      "why": "It encourages humility and enjoying activities without reward."
+    }
+  ]
+}

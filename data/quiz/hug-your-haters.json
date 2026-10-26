@@ -1,0 +1,56 @@
+{
+  "book": "hug-your-haters",
+  "title": "Hug Your Haters",
+  "questions": [
+    {
+      "q": "How much can profits grow by keeping a small share of customers loyal?",
+      "a": [
+        "As much as 85 percent",
+        "As much as 15 percent",
+        "As much as 40 percent",
+        "As much as 60 percent"
+      ],
+      "why": "Lesson 1 says retaining even a small percentage of customers can lift profits by up to 85 percent."
+    },
+    {
+      "q": "What does the H in H.O.U.R.S. stand for?",
+      "a": [
+        "Be human and tailor your response",
+        "Hire more support staff",
+        "Hide the complaint from the public",
+        "Hold a meeting about the issue"
+      ],
+      "why": "Lesson 2 says the first step is to treat complainers as people and personalize your reply."
+    },
+    {
+      "q": "What does using one channel mean?",
+      "a": [
+        "Fix the issue without forwarding the customer",
+        "Reply on every platform at once",
+        "Move the complaint to a FAQ page",
+        "Ask the customer to call back later"
+      ],
+      "why": "Lesson 2 says not to pass customers around or send them elsewhere, just solve the problem."
+    },
+    {
+      "q": "What does the F in F.E.A.R. stand for?",
+      "a": [
+        "Find public complaints online",
+        "Fix the problem privately",
+        "Follow up after a week",
+        "Forward it to a manager"
+      ],
+      "why": "Lesson 3 says to use tools like Google Alerts to locate public complaints."
+    },
+    {
+      "q": "What should you do after replying once in public?",
+      "a": [
+        "Keep it short, then switch channels for privacy",
+        "Reply repeatedly until the customer stops",
+        "Delete the thread to protect the brand",
+        "Ask other customers to defend you"
+      ],
+      "why": "Lesson 3 recommends one reply and moving to email when the issue is personal."
+    }
+  ]
+}

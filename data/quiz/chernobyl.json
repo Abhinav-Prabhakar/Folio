@@ -1,0 +1,56 @@
+{
+  "book": "chernobyl",
+  "title": "Chernobyl",
+  "questions": [
+    {
+      "q": "What were the plant workers trying to find out with the safety test?",
+      "a": [
+        "Whether the reactor could power itself while backup generators started",
+        "Whether the control rods could be removed without any risk",
+        "How long the plant could run without cooling water",
+        "Whether the roof could withstand a steam explosion"
+      ],
+      "why": "Lesson 1 explains the test was meant to show the reactor could supply its own power during the 45-second gap before backup power."
+    },
+    {
+      "q": "Why were the backup generators a concern during the test?",
+      "a": [
+        "They took 45 seconds to restore power, which was dangerously long",
+        "They had never been tested before the accident",
+        "They ran on a fuel the plant did not have in stock",
+        "They could only power the control room"
+      ],
+      "why": "The summary says the 45 seconds needed to bring backup power online was considered dangerously long."
+    },
+    {
+      "q": "What design flaw made the emergency shutdown so dangerous?",
+      "a": [
+        "The control rods had graphite tips that boosted power instead of cutting it",
+        "The rods were made of uranium and kept the reaction going",
+        "The cooling water turned into graphite under intense heat",
+        "The shutdown button was wired to the wrong pump"
+      ],
+      "why": "Lesson 2 explains that the RBMK reactor's graphite-tipped rods increased reactivity when inserted into the already unstable core."
+    },
+    {
+      "q": "What role did Dyatlov play in the disaster?",
+      "a": [
+        "He dismissed the crew's doubts and pushed them to keep going",
+        "He ordered the test cancelled twice before midnight",
+        "He warned Moscow about the reactor's design flaw",
+        "He refused to let the night crew begin the test"
+      ],
+      "why": "The summary describes Dyatlov as an arrogant leader who scolded the crew for asking questions and ignored their uncertainty."
+    },
+    {
+      "q": "Why was the official response to the explosion so slow?",
+      "a": [
+        "Officials denied the reactor was damaged and understated radiation levels",
+        "The fire department refused to enter the building",
+        "The plant had no telephone line to Kyiv",
+        "Residents were evacuated before anyone reported the fire"
+      ],
+      "why": "Lesson 3 says the director reported only a damaged hall and ignored a worker's far higher radiation reading, delaying help."
+    }
+  ]
+}

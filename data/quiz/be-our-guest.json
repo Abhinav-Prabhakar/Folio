@@ -1,0 +1,56 @@
+{
+  "book": "be-our-guest",
+  "title": "Be Our Guest",
+  "questions": [
+    {
+      "q": "What does the term \"guestology\" refer to in Disney's service model?",
+      "a": [
+        "Studying guests to understand their expectations",
+        "Training staff on safety protocols",
+        "Designing park attractions",
+        "Marketing Disney merchandise"
+      ],
+      "why": "The summary says guestology is the science of getting to know customers and discovering what they expect."
+    },
+    {
+      "q": "Which quality‑standard component would make a cast member pause a show for a lost child?",
+      "a": [
+        "Safety",
+        "Courtesy",
+        "Show",
+        "Efficiency"
+      ],
+      "why": "Safety is described as taking care of guests' welfare, illustrated by stopping a show for a lost child."
+    },
+    {
+      "q": "How does Disney demonstrate the \"setting\" delivery system in its hotel dining rooms?",
+      "a": [
+        "Using themed doorknobs like those from Alice in Wonderland",
+        "Offering free Wi‑Fi to all guests",
+        "Playing live music during meals",
+        "Providing complimentary snacks"
+      ],
+      "why": "The summary cites identical themed doorknobs as an example of setting reflecting Disney values."
+    },
+    {
+      "q": "In the integration point, how is the factor of courtesy evaluated?",
+      "a": [
+        "By checking how employees, environment and processes each support it",
+        "By measuring guest wait times only",
+        "By counting the number of staff uniforms",
+        "By tracking merchandise sales"
+      ],
+      "why": "Integration looks at how employees, setting, and processes contribute to courtesy."
+    },
+    {
+      "q": "What insight did Disney gain from surveys about Brazilian visitors?",
+      "a": [
+        "They liked singing in large groups, prompting Portuguese‑speaking staff training",
+        "They preferred quiet rides, leading to fewer loud attractions",
+        "They visited only on weekends, so staffing was reduced",
+        "They wanted more fast‑food options, so new restaurants opened"
+      ],
+      "why": "Surveys showed Brazilian guests sang in groups, so Disney trained Portuguese‑speaking employees."
+    }
+  ]
+}

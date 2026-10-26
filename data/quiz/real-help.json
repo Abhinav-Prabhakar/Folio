@@ -1,0 +1,56 @@
+{
+  "book": "real-help",
+  "title": "Real Help",
+  "questions": [
+    {
+      "q": "What does the summary say you should do about the broken system?",
+      "a": [
+        "Learn to navigate it instead of fighting it",
+        "Work to reform it from the inside",
+        "Ignore it and wait for change",
+        "Compete for its biggest rewards"
+      ],
+      "why": "Lesson 1 says success comes from accepting the world as it is and becoming resourceful."
+    },
+    {
+      "q": "What does the summary say will actually save you?",
+      "a": [
+        "Facing the fact that nobody else will",
+        "Finding a powerful mentor",
+        "Winning support from family",
+        "Waiting for better circumstances"
+      ],
+      "why": "Lesson 2 says accepting that no one is coming to rescue you is what sets you free."
+    },
+    {
+      "q": "What benefit of journaling does the summary mention?",
+      "a": [
+        "It filters your thoughts and gives perspective",
+        "It records achievements for your resume",
+        "It replaces the need for a plan",
+        "It keeps you accountable to friends"
+      ],
+      "why": "Lesson 2 recommends writing down what is on your mind to see the bigger picture."
+    },
+    {
+      "q": "What does the summary say comes with pursuing success?",
+      "a": [
+        "Loneliness and constant challenges",
+        "Immediate recognition from peers",
+        "A stable and predictable routine",
+        "Fewer decisions to make each day"
+      ],
+      "why": "Lesson 3 warns that friends may drift away and obstacles will keep disrupting your plan."
+    },
+    {
+      "q": "How does the summary suggest identifying your strengths?",
+      "a": [
+        "Taking tests like Strengths Finder and Myers-Briggs",
+        "Copying the routines of successful people",
+        "Asking friends to list your weaknesses",
+        "Waiting for a career crisis to force a choice"
+      ],
+      "why": "Lesson 3 names those two assessments as accurate ways to learn where to build."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "testing-business-ideas",
+  "title": "Testing Business Ideas",
+  "questions": [
+    {
+      "q": "What are the two phases of the design loop described in the summary?",
+      "a": [
+        "Widening with many ideas, then narrowing to a few",
+        "Testing with customers, then launching the product",
+        "Writing a full plan, then raising the money",
+        "Interviewing experts, then copying their model"
+      ],
+      "why": "Lesson 1 says the first phase is like brainstorming and the second narrows the options down."
+    },
+    {
+      "q": "Which tool does the author recommend for mapping opportunities, risks and resources?",
+      "a": [
+        "The Business Model Canvas",
+        "The Value Proposition Canvas",
+        "The customer journey map",
+        "The four-quadrant SWOT grid"
+      ],
+      "why": "Lesson 1 credits the author’s own canvas with laying out opportunities, risks and needed resources."
+    },
+    {
+      "q": "What does the summary say a business concept really is?",
+      "a": [
+        "An assumption that has to be tested",
+        "A promise that has to be kept",
+        "A plan that only needs funding",
+        "A hunch that experience replaces"
+      ],
+      "why": "Lesson 2 argues that however bright the future looks, your concept remains an assumption."
+    },
+    {
+      "q": "How should assumptions be written so they can be tested properly?",
+      "a": [
+        "With specific numbers, names and time frames",
+        "As broad goals covering the whole market",
+        "As open questions for friends and family",
+        "As short statements of the company vision"
+      ],
+      "why": "Lesson 2 recommends precise hypotheses such as a set number of sales by a given date."
+    },
+    {
+      "q": "What is the purpose of a discovery experiment?",
+      "a": [
+        "To learn whether your concept is right and where to improve",
+        "To prove a finished product to potential investors",
+        "To confirm a decision you have already made",
+        "To measure sales after a full market launch"
+      ],
+      "why": "Lesson 3 says discovery experiments yield insights that show if an idea is on track or not."
+    }
+  ]
+}

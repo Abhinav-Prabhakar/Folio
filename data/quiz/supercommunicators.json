@@ -1,0 +1,56 @@
+{
+  "book": "supercommunicators",
+  "title": "Supercommunicators",
+  "questions": [
+    {
+      "q": "What is the matching principle in Duhigg's book?",
+      "a": [
+        "Recognizing the kind of conversation and matching the other person",
+        "Repeating another person's words back to them exactly",
+        "Agreeing with whatever the other person says",
+        "Copying another person's gestures and posture"
+      ],
+      "why": "Lesson 1 says effective communication means identifying the conversation type and then matching each other."
+    },
+    {
+      "q": "Why did the shop owner's anger calm the complaining customer?",
+      "a": [
+        "He got angry on her behalf, so only one of them stayed angry",
+        "He offered her a full refund on the spot",
+        "He stayed completely calm and said nothing",
+        "He blamed the manufacturer for the faulty button"
+      ],
+      "why": "Lesson 1 tells the fur coat story, where shared anger let the customer shift to solving the problem."
+    },
+    {
+      "q": "What mindset does a 'What's this really about?' conversation require?",
+      "a": [
+        "A decision-making mindset",
+        "An emotional mindset",
+        "A social mindset",
+        "A competitive mindset"
+      ],
+      "why": "Lesson 2 describes this conversation as logical and analytical, aimed at reaching a conclusion together."
+    },
+    {
+      "q": "What should you do in a 'How do we feel?' conversation?",
+      "a": [
+        "Listen for what is unsaid and show that you are listening",
+        "Push quickly toward a practical conclusion",
+        "Establish everyone's role within the group",
+        "Change the subject when things get heavy"
+      ],
+      "why": "Lesson 2 says these conversations call for matching moods, deep questions and visible listening."
+    },
+    {
+      "q": "What does Duhigg say you should do with your goals in a learning conversation?",
+      "a": [
+        "Share them and ask the other person for theirs",
+        "Keep them private until the other person asks",
+        "State them only after agreement has been reached",
+        "Set them aside and adopt the other person's goals"
+      ],
+      "why": "Lesson 3 lists sharing your goals and asking others for theirs as the second rule."
+    }
+  ]
+}

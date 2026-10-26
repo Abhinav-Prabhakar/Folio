@@ -1,0 +1,56 @@
+{
+  "book": "how-to-change-your-mind",
+  "title": "How To Change Your Mind",
+  "questions": [
+    {
+      "q": "Who used psilocybin mushrooms as a healing ritual long before Western scientists?",
+      "a": [
+        "Mazatec communities in southern Mexico",
+        "Buddhist monks in the Himalayas",
+        "Indigenous tribes in the Amazon",
+        "Ancient Greek mystery cults"
+      ],
+      "why": "Lesson one says the Mazatec Indians used the mushrooms for centuries in spiritual rituals and as a healing agent."
+    },
+    {
+      "q": "What did brain imaging show about psilocybin's effect?",
+      "a": [
+        "Brain regions that normally work alone start communicating",
+        "The brain shuts down most of its activity",
+        "Only the visual cortex becomes active",
+        "The brain produces less blood flow overall"
+      ],
+      "why": "Lesson two says the scans showed separate areas becoming more integrated under psilocybin, which shapes the experience."
+    },
+    {
+      "q": "In the 2016 depression study, what did participants report?",
+      "a": [
+        "Most improved, and many said their depression was gone",
+        "Most felt no change in their symptoms",
+        "Most improved but relapsed within a week",
+        "Most experienced worse anxiety than before"
+      ],
+      "why": "Lesson three reports that 80 percent improved and over 60 percent said their depression had disappeared completely."
+    },
+    {
+      "q": "How do psychedelics seem to ease depression, according to participants?",
+      "a": [
+        "They restore a sense of connection to the world",
+        "They block all negative memories permanently",
+        "They replace the need for any therapy",
+        "They increase serotonin levels for years"
+      ],
+      "why": "Lesson three says patients described feeling reconnected to the world and the people in their lives."
+    },
+    {
+      "q": "What does Pollan caution about picking psilocybin mushrooms yourself?",
+      "a": [
+        "Only experts can tell safe ones from deadly kinds",
+        "They grow only in remote mountain areas",
+        "They lose their effect once they are dried",
+        "They are illegal to study in any country"
+      ],
+      "why": "Lesson one warns that identifying the right mushroom takes expertise, so foraging on your own is not advised."
+    }
+  ]
+}

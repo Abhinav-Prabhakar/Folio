@@ -1,0 +1,56 @@
+{
+  "book": "not-today",
+  "title": "Not Today",
+  "questions": [
+    {
+      "q": "What does the TIME formula stand for?",
+      "a": [
+        "Treasured, investing, mandatory and empty time",
+        "Task, interval, method and effort",
+        "Time, intention, momentum and energy",
+        "Triage, input, meeting and exit"
+      ],
+      "why": "Lesson 1 breaks time into treasured, investing, mandatory and empty categories."
+    },
+    {
+      "q": "What is a GIA, according to the summary?",
+      "a": [
+        "Your greatest-impact activity",
+        "A goal you set each quarter",
+        "A morning planning routine",
+        "A weekly review meeting"
+      ],
+      "why": "Lesson 2 defines the GIA as the greatest-impact activity that serves you most in the long run."
+    },
+    {
+      "q": "What does the summary suggest combining with mandatory time?",
+      "a": [
+        "Learning, like listening to a podcast while commuting",
+        "Resting, like napping at your desk",
+        "Socializing, like calling friends at work",
+        "Exercise, like walking during meetings"
+      ],
+      "why": "Lesson 1 suggests pairing routine duties with learning, such as a podcast while cooking or commuting."
+    },
+    {
+      "q": "Why tie your goals to a why and a how?",
+      "a": [
+        "It builds motivation and gives concrete steps",
+        "It makes goals look impressive to others",
+        "It removes the need for priorities",
+        "It guarantees you finish on time"
+      ],
+      "why": "Lesson 2 says linking goals to a why and a how keeps you motivated and specific about the steps."
+    },
+    {
+      "q": "What should your no be saved for?",
+      "a": [
+        "Empty time and useless notifications",
+        "Every request from colleagues",
+        "Treasured time with family",
+        "Investing time in new skills"
+      ],
+      "why": "Lesson 3 says to save refusals for empty time and pointless notifications, not treasured time."
+    }
+  ]
+}

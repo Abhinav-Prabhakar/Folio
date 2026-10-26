@@ -1,0 +1,56 @@
+{
+  "book": "the-story-of-philosophy",
+  "title": "The Story of Philosophy",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Story of Philosophy?",
+      "a": [
+        "Looking back at how humanity evolved through small, incremental steps and groundbreaking…",
+        "The media has a significant impact on how people think, and what they believe to be true.",
+        "Mindfulness became such a tossed-around concept that we hardly ever question its meaning.",
+        "We didn’t always have the attention span of a goldfish, but today it sure seems that way."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Story of Philosophy explore?",
+      "a": [
+        "Many of humanity’s essential discoveries start in ancient Greece",
+        "DNA can get damaged and produce zombie cells that speed up aging",
+        "You’re better off exercising weak courage than no courage at all",
+        "The best way to get your ideas to stick is to tell great stories"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Story of Philosophy teach?",
+      "a": [
+        "Spinoza reformulated the meaning of religion in the ancient times",
+        "Before you judge the world, take responsibility for your own life",
+        "Cardio is overrated, so work on building your muscle mass instead",
+        "Talking means not listening, and not listening means not learning"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Story of Philosophy?",
+      "a": [
+        "Ancient Greece is widely known as the pylon of philosophical thinking and science, as the…",
+        "Chances are, you’ve been on a diet at some point in your life or someone close to you has.",
+        "At his first company, Tony Hsieh made the mistake of hiring too many people, way too fast.",
+        "One of the many asymmetries Taleb has found lies in the consumption behavior of societies."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Story of Philosophy?",
+      "a": [
+        "The Story of Philosophy profiles the lives of great Western philosophers, such as Plato…",
+        "It’s easy to see the usefulness of checklists in the medical field, or even engineering.",
+        "We all know Lincoln was born in a tough time, but his personal hardships ran much deeper",
+        "“Changing the world” is a tall order, and most people wouldn’t even know where to begin."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

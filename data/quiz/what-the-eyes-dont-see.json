@@ -1,0 +1,56 @@
+{
+  "book": "what-the-eyes-dont-see",
+  "title": "What The Eyes Don’t See",
+  "questions": [
+    {
+      "q": "What toxic metal contaminated Flint's drinking water after the 2014 source switch?",
+      "a": [
+        "Lead",
+        "Mercury",
+        "Arsenic",
+        "Cadmium"
+      ],
+      "why": "The overview states lead was present in the water."
+    },
+    {
+      "q": "Which official role loses power when an emergency manager is installed in a city?",
+      "a": [
+        "Mayor",
+        "City council member",
+        "Police chief",
+        "School board president"
+      ],
+      "why": "The mayor basically loses power when an EM is installed."
+    },
+    {
+      "q": "Who first alerted Dr. Mona Hanna‑Attisha to the hidden lead problem in Flint?",
+      "a": [
+        "A friend in Washington D.C.",
+        "A local journalist",
+        "The state health department",
+        "The EPA"
+      ],
+      "why": "A friend in D.C. tipped Mona off about the leaked memo."
+    },
+    {
+      "q": "How long after the water source change did Michigan officials finally acknowledge the problem?",
+      "a": [
+        "About 18 months",
+        "Six weeks",
+        "Two years",
+        "Five months"
+      ],
+      "why": "The text notes it was almost 18 months before admission."
+    },
+    {
+      "q": "What did Dan Wyant claim the state was using to protect Flint's water, despite evidence to the contrary?",
+      "a": [
+        "Corrosion control methods",
+        "Advanced filtration",
+        "Reverse osmosis",
+        "Chlorination"
+      ],
+      "why": "Wyant said officials were using corrosion control methods when they weren't."
+    }
+  ]
+}

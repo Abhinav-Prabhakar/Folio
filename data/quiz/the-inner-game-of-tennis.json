@@ -1,0 +1,56 @@
+{
+  "book": "the-inner-game-of-tennis",
+  "title": "The Inner Game Of Tennis",
+  "questions": [
+    {
+      "q": "What are Self 1 and Self 2 in Gallwey's model?",
+      "a": [
+        "Conscious and subconscious minds",
+        "Left and right brain",
+        "Morning and evening routines",
+        "Physical and mental training"
+      ],
+      "why": "Self 1 is conscious, Self 2 is subconscious."
+    },
+    {
+      "q": "What term describes the state of not being stuck in one's head?",
+      "a": [
+        "Out of mind",
+        "In the zone",
+        "Mindful awareness",
+        "Focused concentration"
+      ],
+      "why": "Gallwey calls it \"out of mind.\""
+    },
+    {
+      "q": "Which learning style does the book say adults should re‑learn?",
+      "a": [
+        "Implicit learning",
+        "Explicit instruction",
+        "Trial and error",
+        "Group discussion"
+      ],
+      "why": "Adults need implicit learning to improve."
+    },
+    {
+      "q": "What does the author claim about champions' view of opponents?",
+      "a": [
+        "They see them as obstacles",
+        "They see them as friends",
+        "They avoid them",
+        "They ignore them"
+      ],
+      "why": "Champions view opponents as obstacles."
+    },
+    {
+      "q": "What is the main consequence of a strong inner conflict?",
+      "a": [
+        "Reduced performance",
+        "Increased confidence",
+        "Better strategy",
+        "Higher motivation"
+      ],
+      "why": "Inner conflict hinders performance."
+    }
+  ]
+}

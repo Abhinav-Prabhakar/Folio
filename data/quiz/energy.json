@@ -1,0 +1,56 @@
+{
+  "book": "energy",
+  "title": "Energy",
+  "questions": [
+    {
+      "q": "Under the first law of thermodynamics, what happens to energy?",
+      "a": [
+        "It is never created or destroyed, only transferred",
+        "It grows every time work is performed",
+        "It disappears once it has been used up",
+        "It can be generated from motion alone"
+      ],
+      "why": "Lesson 1 says energy cannot be created or destroyed; it only changes form."
+    },
+    {
+      "q": "What does the summary say our bodies do while we sit still and think?",
+      "a": [
+        "Keep working and using energy to stay alive",
+        "Store energy for later without spending any",
+        "Create new energy out of concentration",
+        "Shut down most energy use until we move"
+      ],
+      "why": "Lesson 1 points out that the body is still hard at work even when motionless."
+    },
+    {
+      "q": "Why are there many more plants than animals on earth?",
+      "a": [
+        "Energy gets scarcer the further a creature is from sunlight",
+        "Animals need far less energy than plants to survive",
+        "Plants convert energy more slowly than animals do",
+        "Most animals cannot digest plant matter efficiently"
+      ],
+      "why": "Lesson 2 explains that organisms far from solar radiation struggle to get energy."
+    },
+    {
+      "q": "Which energy source does the summary call the cleanest way forward?",
+      "a": [
+        "Nuclear power",
+        "Solar power",
+        "Wind power",
+        "Hydropower"
+      ],
+      "why": "Lesson 3 calls nuclear the cleanest option, though it remains debated."
+    },
+    {
+      "q": "What two unresolved problems with nuclear plants does the summary name?",
+      "a": [
+        "Terrorist attacks and waste disposal",
+        "Cost overruns and public protests",
+        "Meltdown risk and water use",
+        "Fuel shortages and land use"
+      ],
+      "why": "Lesson 3 mentions protecting plants from attacks and disposing of waste."
+    }
+  ]
+}

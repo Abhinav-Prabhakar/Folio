@@ -1,0 +1,56 @@
+{
+  "book": "the-highly-sensitive-person",
+  "title": "The Highly Sensitive Person",
+  "questions": [
+    {
+      "q": "What four traits are most common among highly sensitive persons?",
+      "a": [
+        "Deep processing, detail focus, high empathy, overstimulation",
+        "Introversion, extroversion, impulsivity, calmness",
+        "Physical strength, speed, agility, endurance",
+        "High IQ, creativity, leadership, charisma"
+      ],
+      "why": "Lists the four traits described in the overview."
+    },
+    {
+      "q": "According to Dr Aron, high sensitivity often co-occurs with which conditions?",
+      "a": [
+        "ADHD and introversion",
+        "Anxiety and bipolar disorder",
+        "Autism and dyslexia",
+        "Depression and PTSD"
+      ],
+      "why": "Mentions genetic link with ADHD and/or introversion."
+    },
+    {
+      "q": "What metaphor does the book use to help Clark Kent control his senses?",
+      "a": [
+        "His mother tells him to make the world small",
+        "He is taught to count to ten",
+        "He drinks a calming tea",
+        "He wears noise‑cancelling headphones"
+      ],
+      "why": "Reference to the Superman scene where his mom says 'make the world small.'"
+    },
+    {
+      "q": "Why is overstimulation considered the most costly trait for HSPs?",
+      "a": [
+        "It can overwhelm them despite other strengths",
+        "It reduces their empathy levels",
+        "It eliminates their attention to detail",
+        "It improves their work performance"
+      ],
+      "why": "Explains that overstimulation torpedoes inner balance despite other benefits."
+    },
+    {
+      "q": "What strategy does Dr Aron suggest HSPs use to navigate social expectations?",
+      "a": [
+        "Create a conscious persona for society",
+        "Avoid all social interactions",
+        "Suppress their emotions completely",
+        "Seek constant group activities"
+      ],
+      "why": "Describes crafting a persona to smooth social life."
+    }
+  ]
+}

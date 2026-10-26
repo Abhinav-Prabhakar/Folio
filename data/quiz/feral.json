@@ -1,0 +1,56 @@
+{
+  "book": "feral",
+  "title": "Feral",
+  "questions": [
+    {
+      "q": "What did Monbiot witness around Brazilian gold mines?",
+      "a": [
+        "Indigenous cultures collapsing and disease killing a fifth of a tribe",
+        "Rain forests recovering faster than scientists had predicted",
+        "Miners and local tribes forming a lasting partnership",
+        "Wild animals adapting easily to the new industrial landscape"
+      ],
+      "why": "Lesson 1 says 20 percent of the Yanomami died as mining brought disease and upheaval."
+    },
+    {
+      "q": "How does rewilding differ from conservation, according to the summary?",
+      "a": [
+        "Conservation still controls nature by favoring chosen species",
+        "Conservation works only in oceans, while rewilding works on land",
+        "Rewilding requires constant human management of every species",
+        "Rewilding is simply another word for protecting a single habitat"
+      ],
+      "why": "Lesson 2 says conservation is another form of control that can create imbalance."
+    },
+    {
+      "q": "What is the one active step humans should take to start rewilding?",
+      "a": [
+        "Bring back large animal species that once lived there",
+        "Remove all predators so smaller animals can recover",
+        "Plant fast-growing trees across the whole area",
+        "Fence the land off so no people can enter it"
+      ],
+      "why": "Lesson 3 says restoring large animals kick-starts the recovery of an ecosystem."
+    },
+    {
+      "q": "Why are large animals so important to a rewilding project?",
+      "a": [
+        "They keep ecosystems lively and create habitats for other species",
+        "They eat the pests that would otherwise destroy all plant life",
+        "They move nutrients from the ocean onto the land",
+        "They discourage people from returning to abandoned areas"
+      ],
+      "why": "Lesson 3 gives wild boars digging mini-habitats as an example of this effect."
+    },
+    {
+      "q": "Why can't humanity simply return to a hunter-gatherer way of life?",
+      "a": [
+        "There are too many people for the Earth to feed that way",
+        "Modern laws forbid anyone from living off the land",
+        "Hunter-gatherers destroyed most of the world's wildlife",
+        "The necessary skills have disappeared completely"
+      ],
+      "why": "Lesson 2 says the population is now far too large for that lifestyle to work."
+    }
+  ]
+}

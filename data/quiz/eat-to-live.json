@@ -1,0 +1,56 @@
+{
+  "book": "eat-to-live",
+  "title": "Eat To Live",
+  "questions": [
+    {
+      "q": "What formula does Fuhrman use to define health?",
+      "a": [
+        "Health equals nutrients divided by calories",
+        "Health equals calories divided by nutrients",
+        "Health equals exercise plus calorie restriction",
+        "Health equals protein plus vitamins minus fat"
+      ],
+      "why": "Lesson 2 reduces healthy eating to nutrient density: health equals nutrients divided by calories."
+    },
+    {
+      "q": "How many calories fit in a stomach full of meat and cheese?",
+      "a": [
+        "About 3,000",
+        "About 1,000",
+        "About 500",
+        "About 200"
+      ],
+      "why": "Lesson 1 says a stomach holding a liter of calorie-dense meat and cheese would contain around 3,000 calories."
+    },
+    {
+      "q": "How many calories does a liter of fruit and vegetables provide?",
+      "a": [
+        "200 to 500",
+        "800 to 1,000",
+        "1,500 to 2,000",
+        "50 to 100"
+      ],
+      "why": "Lesson 1 contrasts the 3,000 calories of meat and cheese with the 200 to 500 calories in a liter of produce."
+    },
+    {
+      "q": "Which foods have the highest nutrient density in the summary?",
+      "a": [
+        "Fruits, beans, legumes and green vegetables",
+        "Whole grains, dairy and lean meat",
+        "Nuts, seeds and vegetable oils",
+        "Eggs, fish and poultry"
+      ],
+      "why": "Lesson 2 says fruits, beans, legumes and green vegetables score 50 to 100 on nutrient density, far above refined sweets at 0."
+    },
+    {
+      "q": "What is the core problem with the processed foods in most modern diets?",
+      "a": [
+        "They deliver calories without the nutrients the body needs",
+        "They contain too little fat to satisfy hunger",
+        "They are more expensive than fresh produce",
+        "They spoil faster than unprocessed ingredients"
+      ],
+      "why": "Lesson 1 estimates that 62 percent of American calories come from processed carbohydrates and oils that provide energy without nutrients."
+    }
+  ]
+}

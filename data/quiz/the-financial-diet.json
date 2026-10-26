@@ -1,0 +1,56 @@
+{
+  "book": "the-financial-diet",
+  "title": "The Financial Diet",
+  "questions": [
+    {
+      "q": "What did Chelsea's move to Annapolis reveal about her classmates' parents?",
+      "a": [
+        "They owned yachts",
+        "They lived in low-income areas",
+        "They were all unemployed",
+        "They had no cars"
+      ],
+      "why": "Annapolis classmates' parents owned yachts."
+    },
+    {
+      "q": "Which rule did Chelsea create after her first debt experience?",
+      "a": [
+        "Never take on debt",
+        "Always invest in stocks",
+        "Save 50% of income",
+        "Buy a house immediately"
+      ],
+      "why": "She vowed never to take on debt."
+    },
+    {
+      "q": "How much did Chelsea save from age 14 to 18?",
+      "a": [
+        "$10,000",
+        "$5,000",
+        "$20,000",
+        "$2,000"
+      ],
+      "why": "She saved $10,000 during high school."
+    },
+    {
+      "q": "What cooking lesson does Chelsea borrow from her partner's grandmother?",
+      "a": [
+        "Cook with whatever you have",
+        "Buy expensive ingredients",
+        "Order delivery often",
+        "Follow strict recipes"
+      ],
+      "why": "She learned to cook with whatever you have."
+    },
+    {
+      "q": "What does Chelsea suggest instead of dreaming big?",
+      "a": [
+        "Dream medium",
+        "Dream small",
+        "Dream nothing",
+        "Dream only about money"
+      ],
+      "why": "She recommends dreaming medium to reduce pressure."
+    }
+  ]
+}

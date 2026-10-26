@@ -1,0 +1,56 @@
+{
+  "book": "hardwiring-happiness",
+  "title": "Hardwiring Happiness",
+  "questions": [
+    {
+      "q": "Why does the summary say negative events affect us more strongly than positive ones?",
+      "a": [
+        "Our brains evolved to treat possible threats as survival risks",
+        "We encounter far more bad events than good ones",
+        "Positive events are usually less memorable",
+        "Society trains us to expect the worst outcome"
+      ],
+      "why": "Lesson 1 explains the negativity bias as a leftover from a time when most threats could kill us."
+    },
+    {
+      "q": "What does a sad amygdala tend to do?",
+      "a": [
+        "Release stress hormones and drive fearful reactions",
+        "Boost motivation, ambition and optimism",
+        "Store positive memories for later recall",
+        "Slow the brain's ability to learn new skills"
+      ],
+      "why": "Lesson 1 contrasts the sad amygdala, which releases cortisol and adrenaline, with the happy one."
+    },
+    {
+      "q": "How does the Good Year Box practice work?",
+      "a": [
+        "You write down one good thing each night and keep it in a box",
+        "You fill a box with gifts to open at the end of the year",
+        "You draw a yearly goal from a box each morning",
+        "You collect photos of happy events and review them monthly"
+      ],
+      "why": "Lesson 2 describes reviewing the day before bed, noting one positive event on paper and placing it in a box."
+    },
+    {
+      "q": "Which three sources of positive experience does the summary name?",
+      "a": [
+        "Happy memories, small details and generosity",
+        "Exercise, healthy food and enough sleep",
+        "Friendship, travel and creative work",
+        "Meditation, journaling and solitude"
+      ],
+      "why": "Lesson 3 lists dwelling on a happy memory, noticing a small good detail and being generous toward others."
+    },
+    {
+      "q": "What does the summary say about the brain's capacity to change?",
+      "a": [
+        "It keeps growing, so negativity bias can be rewired",
+        "It stops developing once childhood ends",
+        "It changes only through medication or therapy",
+        "It resists change after repeated negative experiences"
+      ],
+      "why": "Lesson 2 says the brain never stops growing, so regular positive experiences can tone down the sad amygdala."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "how-google-works",
+  "title": "How Google Works",
+  "questions": [
+    {
+      "q": "What did the story of the badly designed ads demonstrate?",
+      "a": [
+        "Inspired employees matter more than inspiring leaders",
+        "Leaders should personally fix every visible problem",
+        "Weekend work should be expected from all engineers",
+        "Advertising quality matters more than search results"
+      ],
+      "why": "Lesson 1 says Page simply pointed out the problem, and engineers who were already inspired fixed it over the weekend."
+    },
+    {
+      "q": "How does Google attract the kind of people it calls smart creatives?",
+      "a": [
+        "By building a culture with inspiring values and purpose",
+        "By offering the highest salaries in the industry",
+        "By hiring only graduates of elite universities",
+        "By promising rapid promotions and job titles"
+      ],
+      "why": "Lesson 1 says inspiring values attract ambitious, smart people who are not driven mainly by money."
+    },
+    {
+      "q": "What is Google's attitude toward slow decisions?",
+      "a": [
+        "They are fine as long as everyone supports the outcome",
+        "They should be avoided because speed always wins",
+        "They should be settled by the most senior person",
+        "They should be postponed until the market decides"
+      ],
+      "why": "Lesson 2 says decisions may take time, but everyone must be convinced so they commit fully once a choice is made."
+    },
+    {
+      "q": "What happened when Sergey Brin disagreed with an engineer's proposal?",
+      "a": [
+        "The whole team eventually backed the engineer's more convincing plan",
+        "Brin overruled the engineer and ordered his own plan",
+        "The project was canceled until a consensus could form",
+        "The engineer was moved to a different team"
+      ],
+      "why": "Lesson 2 says Brin let half the team try each side, and everyone ultimately chose the engineer's approach."
+    },
+    {
+      "q": "What is Google's 20 percent time?",
+      "a": [
+        "One day each week for employees' own projects",
+        "Twenty percent of profits shared with employees",
+        "A fifth of the year reserved for company retreats",
+        "A rule that meetings take up part of each day"
+      ],
+      "why": "Lesson 3 describes 20 percent time as giving employees one day a week to work on whatever project they choose."
+    }
+  ]
+}

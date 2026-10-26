@@ -1,0 +1,56 @@
+{
+  "book": "the-miracle-equation",
+  "title": "The Miracle Equation",
+  "questions": [
+    {
+      "q": "What does Elrod say about reacting to cancer?",
+      "a": [
+        "Avoid upset over uncontrollable events",
+        "Focus on what can change",
+        "Seek immediate cure",
+        "Ignore medical advice"
+      ],
+      "why": "Elrod stresses not to be upset over things beyond control."
+    },
+    {
+      "q": "Which lesson warns against overloading goals?",
+      "a": [
+        "Prioritizing one goal",
+        "Trying many at once",
+        "Skipping goals",
+        "Random planning"
+      ],
+      "why": "The text advises focusing on one primary goal to avoid overwhelm."
+    },
+    {
+      "q": "What is described as more powerful than emotions?",
+      "a": [
+        "Peace",
+        "Happiness",
+        "Anger",
+        "Fear"
+      ],
+      "why": "Peace is cited as more powerful than fleeting emotions."
+    },
+    {
+      "q": "Elrod's recovery after a 6‑minute death pronouncement illustrates what?",
+      "a": [
+        "Resilience through effort and faith",
+        "Random luck",
+        "Medical miracles",
+        "Ignoring pain"
+      ],
+      "why": "His story shows extraordinary effort and unwavering faith."
+    },
+    {
+      "q": "Which lesson suggests using existing knowledge for results?",
+      "a": [
+        "Implementing known strategies",
+        "Learning new methods",
+        "Reading more books",
+        "Skipping exercise"
+      ],
+      "why": "The book says we often know what to do but lack a method to implement it."
+    }
+  ]
+}

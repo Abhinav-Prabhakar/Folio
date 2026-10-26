@@ -1,0 +1,56 @@
+{
+  "book": "dataclysm",
+  "title": "Dataclysm",
+  "questions": [
+    {
+      "q": "What positive effect of social media does lesson 1 describe?",
+      "a": [
+        "People write far more and have become better at it",
+        "People read fewer books but remember them better",
+        "People speak more clearly in face-to-face talks",
+        "People spend less time typing than earlier generations"
+      ],
+      "why": "Lesson 1 says we write more than any generation before and that character limits sharpen expression."
+    },
+    {
+      "q": "Why does Pixar place its bathrooms in a central atrium?",
+      "a": [
+        "To spark unplanned conversations that lead to new ideas",
+        "To save money on plumbing and building materials",
+        "To keep employees from taking long breaks",
+        "To make the campus easier for visitors to navigate"
+      ],
+      "why": "Lesson 2 uses Pixar to show how chance encounters help combine unrelated ideas."
+    },
+    {
+      "q": "Why does the summary advise keeping more casual online connections?",
+      "a": [
+        "Acquaintances help spread and combine ideas in useful ways",
+        "Close friends are usually unwilling to share new ideas",
+        "Large follower counts directly increase your income",
+        "Casual contacts are less likely to disagree with you"
+      ],
+      "why": "Lesson 2 says weak ties are especially good at spreading and mixing ideas."
+    },
+    {
+      "q": "What did Facebook data show about couples with mutual friends?",
+      "a": [
+        "They were more likely to stay together",
+        "They were more likely to argue in public",
+        "They had no measurable difference from other couples",
+        "They were less likely to share their social circles"
+      ],
+      "why": "Lesson 2 reports that shared connections made couples less likely to lead separate lives."
+    },
+    {
+      "q": "What is the online disinhibition effect?",
+      "a": [
+        "People act cruelly when they believe there are no consequences",
+        "People become more honest when their names are visible",
+        "People write more carefully when strangers are watching",
+        "People avoid conflict in anonymous online spaces"
+      ],
+      "why": "Lesson 3 says anonymity makes people feel free to let out their nastiness."
+    }
+  ]
+}

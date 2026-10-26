@@ -1,0 +1,56 @@
+{
+  "book": "relationship-goals",
+  "title": "Relationship Goals",
+  "questions": [
+    {
+      "q": "Why does social media give a false picture of relationships?",
+      "a": [
+        "It shows only curated moments, not the daily struggle",
+        "It features mostly people who are single",
+        "It encourages readers to marry too young",
+        "It ignores the value of friendship"
+      ],
+      "why": "Lesson 1 says the hashtag hides the mess and conflict that every relationship contains."
+    },
+    {
+      "q": "What did the author tell Sarah about her list of requirements?",
+      "a": [
+        "Her expectations were too unrealistic",
+        "She should lower her standards completely",
+        "She needed to date more casually first",
+        "She should wait until she was older"
+      ],
+      "why": "Lesson 1 says her long, strict list of traits made her goals unrealistic."
+    },
+    {
+      "q": "Why does the summary call singleness an important stage?",
+      "a": [
+        "It builds the foundation for later relationships",
+        "It proves that you do not need anyone",
+        "It guarantees a better partner later",
+        "It should be kept as short as possible"
+      ],
+      "why": "Lesson 2 says singleness is where you get to know yourself and your purpose first."
+    },
+    {
+      "q": "Which six relationship stages does the summary list?",
+      "a": [
+        "Singleness, dating, engagement, marriage, love, children",
+        "Dating, love, engagement, marriage, children, singleness",
+        "Singleness, engagement, dating, marriage, children, love",
+        "Dating, singleness, marriage, engagement, love, children"
+      ],
+      "why": "Lesson 2 gives that order and stresses that singleness comes before the rest."
+    },
+    {
+      "q": "What does the summary say about the work of marriage?",
+      "a": [
+        "It begins, rather than ends, after the wedding",
+        "It fades once children arrive",
+        "It is easiest in the first years",
+        "It requires less effort over time"
+      ],
+      "why": "Lesson 3 says marriage is where the hardest relational work starts, not where it stops."
+    }
+  ]
+}

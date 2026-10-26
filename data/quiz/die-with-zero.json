@@ -1,0 +1,31 @@
+{
+  "book": "die-with-zero",
+  "title": "Die With Zero",
+  "questions": [
+    {
+      "q": "What does the summary call the greatest investment you can make?",
+      "a": ["Yourself and your life experiences", "A diversified stock portfolio", "A home in a growing city", "Your children's education fund"],
+      "why": "Lesson 1 says the best investment is in yourself and in experiences, not in piling up more cash."
+    },
+    {
+      "q": "Why does the summary argue for enjoying certain experiences while you are still young?",
+      "a": ["Some activities are harder to enjoy later in life", "Experiences are cheaper earlier in life", "Young people have more free time than retirees", "Memories fade faster as you age"],
+      "why": "Lesson 1 notes that hiking or boating in your sixties will not feel the same as doing it in your thirties."
+    },
+    {
+      "q": "What does the author recommend regarding money you plan to leave your children?",
+      "a": ["Give part of it while they are young adults", "Leave all of it to them after you die", "Split it equally with your favourite charity", "Hold it in trust until they retire"],
+      "why": "Lesson 2 suggests handing over a comfortable amount earlier so your children can use it when it helps most."
+    },
+    {
+      "q": "What does the summary say about saving money in case of a serious illness?",
+      "a": ["Paying for insurance is cheaper than saving the cash", "A large emergency fund beats any insurance policy", "Illness costs are too unpredictable to plan for", "Only retirees need to worry about medical costs"],
+      "why": "Lesson 2 cites research showing lifelong insurance costs less than stockpiling savings for a possible illness."
+    },
+    {
+      "q": "How does the summary suggest estimating the amount you need for retirement?",
+      "a": ["Multiply yearly living costs by about twenty", "Save ten times your current salary", "Add up all your monthly expenses for one year", "Double whatever you have already invested"],
+      "why": "Lesson 3 says to take what you need to live on each year and multiply it by a round figure such as twenty."
+    }
+  ]
+}

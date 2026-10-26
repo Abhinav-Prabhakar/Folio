@@ -1,0 +1,56 @@
+{
+  "book": "crucial-conversations",
+  "title": "Crucial Conversations",
+  "questions": [
+    {
+      "q": "What three conditions make a conversation \"crucial\"?",
+      "a": [
+        "High stakes, differing opinions and strong emotions",
+        "Low stakes, shared opinions and calm emotions",
+        "High stakes, shared opinions and strong emotions",
+        "Low stakes, differing opinions and calm emotions"
+      ],
+      "why": "The overview defines a crucial conversation as one where stakes are high, opinions vary and emotions run strong."
+    },
+    {
+      "q": "What two unhelpful ways do people react when they stop feeling safe?",
+      "a": [
+        "Silence or violence",
+        "Silence or agreement",
+        "Violence or compromise",
+        "Agreement or avoidance"
+      ],
+      "why": "Lesson 1 says that when safety disappears, people move toward either silence or violence."
+    },
+    {
+      "q": "Why does the summary advise remembering your goal during a tense discussion?",
+      "a": [
+        "It keeps you from reacting emotionally and losing sight of a solution",
+        "It gives you a way to win the argument quickly",
+        "It shows the other person that you are not listening",
+        "It lets you avoid the conversation entirely"
+      ],
+      "why": "Lesson 1 says focusing on your purpose and the information you want to convey keeps anger in check."
+    },
+    {
+      "q": "What does the AMPP acronym suggest you do to listen well?",
+      "a": [
+        "Ask, mirror, paraphrase and prime",
+        "Ask, memorize, persuade and propose",
+        "Agree, mirror, promise and perform",
+        "Argue, manage, placate and proceed"
+      ],
+      "why": "Lesson 2 lays out the four listening steps as ask, mirror, paraphrase and prime."
+    },
+    {
+      "q": "What is the first step of the STATE method?",
+      "a": [
+        "Share the facts rather than your interpretation of them",
+        "Tell your story before anyone shares any facts",
+        "Ask the other person to agree with your view",
+        "Encourage the other person to stay silent"
+      ],
+      "why": "Lesson 3 starts STATE with sharing facts, then telling your story, asking for theirs and talking tentatively."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-fortune-cookie-principle",
+  "title": "The Fortune Cookie Principle",
+  "questions": [
+    {
+      "q": "What does Bernadette Jiwa compare brands to?",
+      "a": [
+        "Fortune cookies",
+        "Smartphones",
+        "Cars",
+        "Books"
+      ],
+      "why": "She says favorite brands are like fortune cookies, loved for story and product."
+    },
+    {
+      "q": "According to the text, what is the tangible part of the fortune cookie metaphor?",
+      "a": [
+        "The cookie itself",
+        "The restaurant décor",
+        "The menu",
+        "The price"
+      ],
+      "why": "The cookie is described as the tangible product."
+    },
+    {
+      "q": "Which question helps define a brand's future impact?",
+      "a": [
+        "How will your company affect the future?",
+        "What is your profit margin?",
+        "Who are your competitors?",
+        "When will you launch?"
+      ],
+      "why": "It is listed as the first vision‑defining question."
+    },
+    {
+      "q": "What does the author suggest about content in online marketing?",
+      "a": [
+        "Every piece must match the brand story",
+        "Only videos matter",
+        "Ads are more important than blogs",
+        "SEO is irrelevant"
+      ],
+      "why": "The text states all content must align with the brand story."
+    },
+    {
+      "q": "What feeling did the author's fortune cookie inspire?",
+      "a": [
+        "Friendship is true wealth",
+        "Hunger for more food",
+        "Desire to travel",
+        "Need for money"
+      ],
+      "why": "The fortune said \"Your wealth is where your friends are,\" linking friendship to wealth."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-emperor-of-all-maladies",
+  "title": "The Emperor Of All Maladies",
+  "questions": [
+    {
+      "q": "What did physicians discover during autopsies in the sixteenth century that challenged Galen's theory?",
+      "a": [
+        "No black bile was found in cancer patients",
+        "Cancer cells were visible to the naked eye",
+        "Tumors contained parasitic worms",
+        "Black bile was present in all organs"
+      ],
+      "why": "Lesson on understanding of cancer: autopsies revealed no black bile in patients."
+    },
+    {
+      "q": "Until 1850, what were people believed to cause tumors?",
+      "a": [
+        "Poisonous vapors and worms",
+        "Black bile and poor diet",
+        "Inherited genes and radiation",
+        "Chemicals and hormonal imbalances"
+      ],
+      "why": "Lesson on understanding of cancer: miasmas and worms were the accepted explanation until 1850."
+    },
+    {
+      "q": "What did Percival Pott discover about the cause of scrotal cancer in chimney sweepers?",
+      "a": [
+        "Soot accumulating on their scrotum caused the cancer",
+        "A viral infection spread among the boys",
+        "A genetic mutation passed from their fathers",
+        "Exposure to radiation from the chimneys"
+      ],
+      "why": "Lesson on risk factors: Pott linked soot on the scrotum to scrotal cancer in chimney sweepers."
+    },
+    {
+      "q": "How do mutagens cause cancer according to the text?",
+      "a": [
+        "They alter genes affecting cell growth, self-repair, or self-destruction",
+        "They directly kill healthy cells in the body",
+        "They block the immune system from detecting tumors",
+        "They increase the rate of cell division in blood"
+      ],
+      "why": "Lesson on risk factors: mutagens alter genes to cause problems in growth, repair, or destruction."
+    },
+    {
+      "q": "Why is surgery limited as a cancer treatment?",
+      "a": [
+        "It cannot remove blood cancers and is ineffective if cells have spread",
+        "It causes more DNA damage than chemotherapy",
+        "It only works on cancers caused by radiation",
+        "It is too expensive for most patients"
+      ],
+      "why": "Lesson on treatment: surgery cannot address blood cancers or metastasized cells."
+    }
+  ]
+}

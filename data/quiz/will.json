@@ -1,0 +1,56 @@
+{
+  "book": "will",
+  "title": "Will",
+  "questions": [
+    {
+      "q": "At what age did Will Smith release his first album?",
+      "a": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "why": "He released it at 16."
+    },
+    {
+      "q": "What major financial challenge did Smith face in his early career?",
+      "a": [
+        "IRS debt over $3M",
+        "Bankruptcy",
+        "Stock loss",
+        "None"
+      ],
+      "why": "He owed over $3M to the IRS."
+    },
+    {
+      "q": "Which partner did Smith initially refuse to divorce?",
+      "a": [
+        "Sheree",
+        "Jazzy Jeff",
+        "Jada",
+        "Nicole"
+      ],
+      "why": "He refused to divorce Sheree."
+    },
+    {
+      "q": "What activity did Smith try to overcome his fear of heights?",
+      "a": [
+        "Skydiving",
+        "Bungee jumping",
+        "Rock climbing",
+        "Base jumping"
+      ],
+      "why": "He tried skydiving."
+    },
+    {
+      "q": "Where did Smith grow up?",
+      "a": [
+        "Philadelphia",
+        "Los Angeles",
+        "New York",
+        "Miami"
+      ],
+      "why": "He was born in Philadelphia."
+    }
+  ]
+}

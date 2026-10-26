@@ -1,0 +1,56 @@
+{
+  "book": "the-greatness-mindset",
+  "title": "The Greatness Mindset",
+  "questions": [
+    {
+      "q": "What event led Lewis Howes to meet his future mentor Frank Agin?",
+      "a": [
+        "A Toastmasters event where he wanted to improve public speaking",
+        "A networking conference for young entrepreneurs",
+        "A business pitch competition",
+        "A university lecture on personal development"
+      ],
+      "why": "From the Meaningful Mission lesson: Lewis met Frank Agin at a Toastmasters event."
+    },
+    {
+      "q": "What does Lewis Howes say is worse than failing?",
+      "a": [
+        "The regret of not trying",
+        "The fear of public judgment",
+        "The loss of money invested",
+        "The damage to your reputation"
+      ],
+      "why": "From the 3 fears lesson: Lewis says worse than failing is the regret of not trying."
+    },
+    {
+      "q": "How does Lewis describe mindset by itself?",
+      "a": [
+        "Neutral, capable of being positive or negative",
+        "Always positive when you stay focused",
+        "Inherently tied to your level of confidence",
+        "A fixed trait determined in childhood"
+      ],
+      "why": "From the Mindset-in-Motion lesson: Lewis writes that mindset by itself is neutral."
+    },
+    {
+      "q": "What did Lewis Howes lack when he jumped into his networking business?",
+      "a": [
+        "A Meaningful Mission",
+        "A detailed business plan",
+        "Sufficient startup capital",
+        "A mentor's ongoing guidance"
+      ],
+      "why": "From the Meaningful Mission lesson: Lewis lacked a Meaningful Mission when he jumped in too quickly."
+    },
+    {
+      "q": "What personal challenge does the text mention Lewis Howes struggles with?",
+      "a": [
+        "Dyslexia",
+        "Color blindness",
+        "Social anxiety",
+        "Chronic pain"
+      ],
+      "why": "From the 3 fears lesson: the text mentions Lewis struggles with dyslexia."
+    }
+  ]
+}

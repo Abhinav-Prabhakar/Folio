@@ -1,0 +1,56 @@
+{
+  "book": "no-rules-rules",
+  "title": "No Rules Rules",
+  "questions": [
+    {
+      "q": "What offer did Netflix make to Blockbuster in 2000?",
+      "a": [
+        "To sell itself for $50 million and run its online service",
+        "To merge as equal partners in a new company",
+        "To buy Blockbuster's stores for $6 billion",
+        "To license its streaming technology"
+      ],
+      "why": "Lesson 1 says Netflix offered to be bought for 50 million dollars, with Hastings running the online service."
+    },
+    {
+      "q": "What three conditions does Hastings say must come first?",
+      "a": [
+        "High talent density, candor and few pointless policies",
+        "Large teams, strict rules and long hours",
+        "Cheap salaries, loyalty and job security",
+        "Careful approvals, secrecy and clear hierarchy"
+      ],
+      "why": "Lesson 2 lists talent density, lots of candor and throwing out pointless policies as the foundation."
+    },
+    {
+      "q": "How does Netflix view its employees?",
+      "a": [
+        "Like a sports team trying to win a title",
+        "Like a family that stays together always",
+        "Like students who need close supervision",
+        "Like contractors hired project by project"
+      ],
+      "why": "Lesson 3 contrasts Netflix's sports-team view with companies that treat employees as family for life."
+    },
+    {
+      "q": "What does radical candor look like at Netflix?",
+      "a": [
+        "Employees openly disagree with supervisors",
+        "Feedback is shared only in annual reviews",
+        "Managers shield staff from criticism",
+        "Criticism is delivered anonymously"
+      ],
+      "why": "Lesson 2 says contradicting a supervisor is normal and expected, and staying silent is seen as disloyal."
+    },
+    {
+      "q": "Why does Netflix avoid tracking hours and vacations?",
+      "a": [
+        "Freedom shows trust and creates accountability",
+        "It saves money on HR software",
+        "It makes legal compliance simpler",
+        "It prevents employees from taking leave"
+      ],
+      "why": "Lesson 2 says dropping such policies shows employees they are trusted, which increases accountability."
+    }
+  ]
+}

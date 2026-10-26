@@ -1,0 +1,56 @@
+{
+  "book": "the-4-hour-body",
+  "title": "The 4-Hour Body",
+  "questions": [
+    {
+      "q": "What is Ferriss’s main rule for approaching health?",
+      "a": [
+        "Keep it simple and stick to a few rules of thumb",
+        "Track every possible biomarker daily",
+        "Follow the most detailed plan available",
+        "Change your routine every few weeks"
+      ],
+      "why": "Lesson 1 says rules of thumb you actually use beat exact details you never apply."
+    },
+    {
+      "q": "Which rule belongs to the Slow-Carb Diet?",
+      "a": [
+        "Take one cheat day a week",
+        "Eat fruit with every meal",
+        "Drink milk with your coffee",
+        "Skip breakfast most mornings"
+      ],
+      "why": "Lesson 1 lists five rules, including no fruit and one weekly day of unrestricted eating."
+    },
+    {
+      "q": "What does the summary say about tracking data, even without changing anything?",
+      "a": [
+        "Awareness alone tends to shift your behaviour",
+        "It only works if you count calories",
+        "It needs professional supervision to help",
+        "It has no effect until you set a goal"
+      ],
+      "why": "Lesson 2 quotes the idea that what gets measured gets managed, through sheer awareness."
+    },
+    {
+      "q": "Which simple measure does the summary suggest tracking?",
+      "a": [
+        "Total inches across arms, legs, hips and waist",
+        "Your resting heart rate every morning",
+        "The number of steps you take weekly",
+        "Your body-fat percentage each day"
+      ],
+      "why": "Lesson 2 offers one combined number for several body measurements, plus weekly weight and photos."
+    },
+    {
+      "q": "What is a Harajuku Moment?",
+      "a": [
+        "An epiphany that turns a want into a must",
+        "A reward you give yourself after progress",
+        "A setback that makes you start over",
+        "A routine you follow without thinking"
+      ],
+      "why": "Lesson 3 says such a moment is what fuels real commitment to changing your health."
+    }
+  ]
+}

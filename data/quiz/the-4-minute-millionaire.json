@@ -1,0 +1,56 @@
+{
+  "book": "the-4-minute-millionaire",
+  "title": "The 4 Minute Millionaire",
+  "questions": [
+    {
+      "q": "What does the author say matters more than how much money you have?",
+      "a": [
+        "What you actually do with it",
+        "How early you started earning",
+        "Which bank holds your savings",
+        "How much you know about taxes"
+      ],
+      "why": "Lesson 1 argues that small sums still count, because your choices matter more than the balance."
+    },
+    {
+      "q": "How did the couple earning under $50,000 manage to save and invest?",
+      "a": [
+        "They lived on 65 percent of their income",
+        "They moved in with family for a year",
+        "They took second jobs at weekends",
+        "They invested all their savings at once"
+      ],
+      "why": "Lesson 1 cites their example from Playing With FIRE, saving roughly $18,000 a year."
+    },
+    {
+      "q": "What does the author say about avoiding risk?",
+      "a": [
+        "Avoiding it also means avoiding wealth",
+        "It is the safest route to steady returns",
+        "It only makes sense once you are rich",
+        "It guarantees your money keeps its value"
+      ],
+      "why": "Lesson 2 points out that money left untouched is guaranteed to stay put rather than grow."
+    },
+    {
+      "q": "How should you handle the risk of an investment?",
+      "a": [
+        "Keep each bet small enough to tolerate",
+        "Put everything in and wait for the result",
+        "Sell as soon as the price drops",
+        "Follow whoever sounds most confident"
+      ],
+      "why": "Lesson 2 recommends making risks endurable, financially and emotionally, then waiting."
+    },
+    {
+      "q": "Why does the author suggest exploring new asset classes?",
+      "a": [
+        "The earlier you invest, the higher the potential returns",
+        "They are guaranteed by the government",
+        "They require no research or judgement",
+        "They always beat the stock market"
+      ],
+      "why": "Lesson 3 ends by noting that early investors in brand new categories tend to do best."
+    }
+  ]
+}

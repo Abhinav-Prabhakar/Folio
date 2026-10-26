@@ -1,0 +1,56 @@
+{
+  "book": "the-hero-code",
+  "title": "The Hero Code",
+  "questions": [
+    {
+      "q": "What did Admiral McRaven do to help Afghan women share information with U.S. forces?",
+      "a": [
+        "Created female Cultural Support Teams",
+        "Built new communication towers",
+        "Trained soldiers in local languages",
+        "Established a medical clinic"
+      ],
+      "why": "McRaven formed female teams to gather intel from women."
+    },
+    {
+      "q": "Which event motivated James Patrick Allison to pursue cancer research?",
+      "a": [
+        "Losing his mother and uncles to cancer",
+        "A military deployment",
+        "A childhood illness",
+        "A science fair win"
+      ],
+      "why": "Allison lost family members to cancer, inspiring his work."
+    },
+    {
+      "q": "What type of cells did Allison study for cancer treatment?",
+      "a": [
+        "T-cells",
+        "B-cells",
+        "Red blood cells",
+        "Platelets"
+      ],
+      "why": "Allison focused on T-cells to fight cancer."
+    },
+    {
+      "q": "How many enemy soldiers were killed during the Green Berets' rescue mission?",
+      "a": [
+        "42",
+        "60",
+        "100",
+        "30"
+      ],
+      "why": "The firefight resulted in 42 enemy casualties."
+    },
+    {
+      "q": "What was a major obstacle to Allison's cancer drug entering the market?",
+      "a": [
+        "Drug companies rejected it",
+        "Regulatory approval denied",
+        "High production cost",
+        "Lack of clinical trials"
+      ],
+      "why": "Companies were unwilling to support his new drug."
+    }
+  ]
+}

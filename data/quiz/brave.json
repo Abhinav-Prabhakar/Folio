@@ -1,0 +1,31 @@
+{
+  "book": "brave",
+  "title": "Brave",
+  "questions": [
+    {
+      "q": "Why does the summary say you should do the things that scare you?",
+      "a": ["Facing fear works your courage like a muscle", "Fear disappears permanently after one attempt", "Scary experiences remove the need to plan", "Only large risks produce any personal growth"],
+      "why": "Lesson 1 compares scary experiences to exercises for your courage muscles and says even small acts of bravery can change your life."
+    },
+    {
+      "q": "What does the summary advise when you are unsure which path to take?",
+      "a": ["Pick the best option now and stand by it", "Wait until every outcome can be predicted", "Let someone else decide on your behalf", "Avoid deciding until the situation changes"],
+      "why": "Lesson 2 says to weigh the options, choose with the information available and trust that clarity comes as you move forward."
+    },
+    {
+      "q": "What lesson does the story of the firefighters on the mountain teach?",
+      "a": ["Refusing to decide can be the worst choice", "Staying put is always the safest option", "Radio equipment should be checked beforehand", "Decisions should be made only by leaders"],
+      "why": "Lesson 2 says the firefighters stayed put and later learned that moving slightly forward would have given them the information they needed."
+    },
+    {
+      "q": "What does the summary say about asking for help?",
+      "a": ["It shows strength and courage, not weakness", "It should be avoided unless you are desperate", "It is acceptable only from close family", "It proves you cannot handle your own life"],
+      "why": "Lesson 3 uses Mona's cancer experience to argue that vulnerability and asking for support are what truly strong people do."
+    },
+    {
+      "q": "How does the summary suggest you can start building courage?",
+      "a": ["Begin with small brave steps before bigger ones", "Wait for a major life crisis to force action", "Copy the actions of fearless people exactly", "Remove all reminders of what frightens you"],
+      "why": "Lesson 1 says you grow the courage for big scary things by starting with small ones, such as inviting friends for dinner."
+    }
+  ]
+}

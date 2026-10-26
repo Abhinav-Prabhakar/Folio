@@ -1,0 +1,56 @@
+{
+  "book": "from-here-to-financial-happiness",
+  "title": "From Here To Financial Happiness",
+  "questions": [
+    {
+      "q": "How large an emergency fund does Clements recommend?",
+      "a": [
+        "Three to six months of living expenses",
+        "One to two weeks of take-home pay",
+        "A full year of your current salary",
+        "Ten percent of your total net worth"
+      ],
+      "why": "The first lesson says to save this much and keep it somewhere that is hard to reach."
+    },
+    {
+      "q": "Why do we overspend and plan poorly, according to the summary?",
+      "a": [
+        "Instincts inherited from ancestors who seized whatever they found",
+        "Advertising has become far more persuasive than before",
+        "Banks make credit much too easy to obtain",
+        "Schools never teach students how to budget"
+      ],
+      "why": "The second lesson says our hunter-gatherer minds push us to overindulge and think short-term."
+    },
+    {
+      "q": "What limit does the summary put on fixed monthly expenses?",
+      "a": [
+        "No more than 50% of pre-tax income",
+        "No more than 30% of pre-tax income",
+        "No more than 70% of pre-tax income",
+        "No more than 90% of pre-tax income"
+      ],
+      "why": "The second lesson says keeping fixed costs under half of pre-tax pay leaves room for taxes, savings and fun."
+    },
+    {
+      "q": "How does the summary define frugality?",
+      "a": [
+        "Living below your means and below what you could spend",
+        "Never buying anything you genuinely enjoy",
+        "Tracking every purchase in a budgeting app",
+        "Earning more through a second job"
+      ],
+      "why": "The third lesson describes it as a habit of buying only what you need, not a life without pleasure."
+    },
+    {
+      "q": "Which costly habits does the summary say also damage your health?",
+      "a": [
+        "Smoking, drinking and gambling",
+        "Eating out and traveling",
+        "Streaming and gaming",
+        "Buying coffee and clothes"
+      ],
+      "why": "The third lesson says these habits drain both money and vitality, so quitting pays twice."
+    }
+  ]
+}

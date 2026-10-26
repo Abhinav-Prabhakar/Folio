@@ -1,0 +1,31 @@
+{
+  "book": "brain-rules",
+  "title": "Brain Rules",
+  "questions": [
+    {
+      "q": "How does the summary explain why exercise helps the brain work better?",
+      "a": ["It improves blood flow and spurs new cell growth", "It reduces the brain's need for nutrients", "It slows the heart so the mind can rest", "It replaces sleep for most people"],
+      "why": "Lesson 1 says exercise improves circulation, helps form new blood vessels and stimulates hormones including BDNF."
+    },
+    {
+      "q": "What role does BDNF play, according to the summary?",
+      "a": ["It supports new cell creation and healthy neurons", "It carries oxygen directly to the lungs", "It signals the body when to sleep", "It blocks the formation of new blood vessels"],
+      "why": "Lesson 1 identifies brain-derived neurotrophic factor as a hormone that helps create new cells and keeps neural connections healthy."
+    },
+    {
+      "q": "What does the summary say happens if you sleep six hours or less for five nights?",
+      "a": ["You are as impaired as after two days without sleep", "You adapt and perform better than usual", "You need only a short nap to recover fully", "Your sleep cycle permanently changes type"],
+      "why": "Lesson 2 compares five nights of six hours or less to going 48 hours straight without sleep in terms of cognitive impairment."
+    },
+    {
+      "q": "According to the summary, what are people called who naturally wake early?",
+      "a": ["Larks", "Owls", "Hummingbirds", "Doves"],
+      "why": "Lesson 2 says early risers are larks, late sleepers are night owls, and most people shift between the two like hummingbirds."
+    },
+    {
+      "q": "What did Richard Mayer's experiment find about how people learn best?",
+      "a": ["Those who both saw and heard the material remembered most", "Those who only heard it outperformed everyone", "Those who only saw it recalled the most detail", "All three groups performed about the same"],
+      "why": "Lesson 3 says the group that received information through both sight and sound performed far better when tested on what they had seen."
+    }
+  ]
+}

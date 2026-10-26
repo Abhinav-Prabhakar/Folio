@@ -1,0 +1,31 @@
+{
+  "book": "digital-minimalism",
+  "title": "Digital Minimalism",
+  "questions": [
+    {
+      "q": "What does the summary's principle of New Economics ask you to include when judging a purchase?",
+      "a": ["The non-monetary costs, like time and stress", "The resale value after a few years", "The opinions of friends and family", "The environmental cost of shipping"],
+      "why": "Lesson 1 says New Economics counts hidden costs such as the effort needed to earn and maintain something."
+    },
+    {
+      "q": "How does the summary describe the Amish approach to new technology?",
+      "a": ["Test and question it before deciding to adopt it", "Reject every modern device on principle", "Adopt new tools as soon as they appear", "Leave the decision to community elders only"],
+      "why": "Lesson 1 explains that the Amish evaluate new products against their values, adopting only what passes."
+    },
+    {
+      "q": "What does Newport call pastimes like scrolling social media and mindless binge-watching?",
+      "a": ["Low-quality recreation", "High-quality leisure", "Passive recovery", "Digital downtime"],
+      "why": "Lesson 2 contrasts high-quality leisure with low-quality recreation such as social media and absent-minded binging."
+    },
+    {
+      "q": "What is solitude deprivation, according to the summary?",
+      "a": ["A lack of time alone with your own thoughts", "A fear of being without a phone", "A loss of interest in hobbies", "A habit of working late every night"],
+      "why": "Lesson 3 says younger generations miss out on solitude, which is essential for processing emotions."
+    },
+    {
+      "q": "Why does the summary warn against relying on quick fixes and life hacks?",
+      "a": ["They rarely create lasting change over time", "They cost more than professional help", "They make screen time feel more rewarding", "They only work for people under thirty"],
+      "why": "Lesson 3 says quick fixes may start a habit but do not support sustainable, long-term change."
+    }
+  ]
+}

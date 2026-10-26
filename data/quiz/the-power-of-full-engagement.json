@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-full-engagement",
+  "title": "The Power Of Full Engagement",
+  "questions": [
+    {
+      "q": "What do Loehr and Schwartz argue is more crucial than time for high performance?",
+      "a": [
+        "Energy",
+        "Time",
+        "Money",
+        "Talent"
+      ],
+      "why": "They claim managing energy, not time, leads to better outcomes."
+    },
+    {
+      "q": "Which type of energy is described as the most important because it depends on sleep, diet, and exercise?",
+      "a": [
+        "Physical energy",
+        "Emotional energy",
+        "Mental energy",
+        "Spiritual energy"
+      ],
+      "why": "Physical energy is linked to sleep, nutrition, and activity."
+    },
+    {
+      "q": "How many sources of energy do the authors identify?",
+      "a": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "why": "The book lists physical, emotional, mental, and spiritual energy."
+    },
+    {
+      "q": "What is the suggested benefit of accepting criticism at work, according to the text?",
+      "a": [
+        "It prevents long‑term costs",
+        "It boosts immediate confidence",
+        "It eliminates stress",
+        "It speeds promotions"
+      ],
+      "why": "Accepting criticism avoids expensive long‑term consequences."
+    },
+    {
+      "q": "If a day were 100 hours long, what would still limit what you can accomplish?",
+      "a": [
+        "Energy",
+        "Time",
+        "Money",
+        "Motivation"
+      ],
+      "why": "Even with unlimited time, lack of energy would be the constraint."
+    }
+  ]
+}

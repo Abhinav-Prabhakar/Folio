@@ -1,0 +1,56 @@
+{
+  "book": "the-anxious-generation",
+  "title": "The Anxious Generation",
+  "questions": [
+    {
+      "q": "Which four foundational harms does Haidt identify?",
+      "a": [
+        "Social deprivation, sleep loss, attention fragmentation and addiction",
+        "Anxiety, depression, isolation and poor grades",
+        "Bullying, comparison, boredom and misinformation",
+        "Obesity, loneliness, stress and screen fatigue"
+      ],
+      "why": "Lesson 1 lists these four as the costs of a phone-based childhood."
+    },
+    {
+      "q": "What is Haidt's central claim about modern childhood?",
+      "a": [
+        "Kids are overprotected offline and underprotected online",
+        "Kids need more structured activities after school",
+        "Kids spend too little time on educational screens",
+        "Parents should monitor every online interaction"
+      ],
+      "why": "The overview contrasts a play-based childhood with phone-based life."
+    },
+    {
+      "q": "At what age does Haidt say social media should begin?",
+      "a": [
+        "Sixteen",
+        "Twelve",
+        "Fourteen",
+        "Eighteen"
+      ],
+      "why": "Lesson 2 sets sixteen, while phones should wait until high school."
+    },
+    {
+      "q": "What does the summary say unsupervised play provides?",
+      "a": [
+        "Social skills and self-reliance built through small failures",
+        "A safer alternative to outdoor sports",
+        "Structure that adults should carefully design",
+        "Benefits that appear only after age fourteen"
+      ],
+      "why": "Lesson 2 compares setbacks to germs that strengthen the immune system."
+    },
+    {
+      "q": "Which of these is one of the six spiritual practices?",
+      "a": [
+        "Finding awe in nature",
+        "Keeping a private gratitude journal",
+        "Tracking your daily screen time",
+        "Joining a competitive sports league"
+      ],
+      "why": "Lesson 3 lists shared sacredness, embodiment, stillness, self-transcendence, forgiveness and awe."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-how-of-happiness",
+  "title": "The How of Happiness",
+  "questions": [
+    {
+      "q": "Which practice is NOT mentioned as boosting happiness?",
+      "a": [
+        "Physical exercise",
+        "Meditation",
+        "Gratitude journaling",
+        "Smoking cessation"
+      ],
+      "why": "Smoking cessation is not listed in the book."
+    },
+    {
+      "q": "According to the book, what does genetics primarily influence?",
+      "a": [
+        "Baseline optimism",
+        "Dietary preferences",
+        "Sleep patterns",
+        "Memory recall"
+      ],
+      "why": "Genes set a baseline for optimism."
+    },
+    {
+      "q": "What is the main benefit of gratitude exercises?",
+      "a": [
+        "Increase happiness",
+        "Reduce anxiety",
+        "Improve memory",
+        "Lower blood pressure"
+      ],
+      "why": "Gratitude is linked to higher happiness."
+    },
+    {
+      "q": "Which activity is said to match antidepressants in relieving depression?",
+      "a": [
+        "Regular exercise",
+        "Reading",
+        "Watching TV",
+        "Eating sweets"
+      ],
+      "why": "Exercise can be as effective as antidepressants."
+    },
+    {
+      "q": "What does the author say about the role of thoughts in happiness?",
+      "a": [
+        "They can override genetics",
+        "They are irrelevant",
+        "They only affect mood",
+        "They are the sole determinant"
+      ],
+      "why": "Thoughts can make or break happiness."
+    }
+  ]
+}

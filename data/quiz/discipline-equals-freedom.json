@@ -1,0 +1,31 @@
+{
+  "book": "discipline-equals-freedom",
+  "title": "Discipline Equals Freedom",
+  "questions": [
+    {
+      "q": "What does the phrase discipline equals freedom mean in the summary?",
+      "a": ["Self-control is the path to the freedom you want", "Rules at work give you more personal time", "Discipline removes the need for any planning", "Freedom means doing whatever you feel like"],
+      "why": "The overview explains that financial, physical, and time freedom all come through disciplined habits."
+    },
+    {
+      "q": "According to Willink, what is the only shortcut that actually works?",
+      "a": ["Giving up the search for fast fixes", "Finding a mentor who has done it before", "Working in short, intense bursts", "Buying tools that save time and effort"],
+      "why": "Lesson 1 says the one real shortcut is dropping the attitude of looking for quick fixes."
+    },
+    {
+      "q": "Why is getting up early described as a keystone habit?",
+      "a": ["One early win makes later wins more likely", "It gives you more hours than other people have", "It replaces the need for exercise and diet", "It guarantees you will never feel tired"],
+      "why": "Lesson 2 says the win of rising early makes it easier to stack other good choices later in the day."
+    },
+    {
+      "q": "What does Willink advise if you need more sleep after a short night?",
+      "a": ["Take naps rather than sleeping in", "Sleep in until you feel fully rested", "Skip the alarm and reset your schedule", "Go to bed much earlier the next evening"],
+      "why": "Lesson 2 says to keep the wake-up time fixed and recover with naps instead of sleeping late."
+    },
+    {
+      "q": "Who does the summary say is the only person worth competing against?",
+      "a": ["Your former self", "Your closest colleague", "The best in your field", "Your younger sibling"],
+      "why": "Lesson 3 argues that the most rewarding victories are the ones you win against who you used to be."
+    }
+  ]
+}

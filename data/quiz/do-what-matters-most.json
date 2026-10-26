@@ -1,0 +1,31 @@
+{
+  "book": "do-what-matters-most",
+  "title": "Do What Matters Most",
+  "questions": [
+    {
+      "q": "What do the five letters in SMART goals stand for?",
+      "a": ["Specific, measurable, achievable, relevant, time-bound", "Simple, meaningful, ambitious, realistic, tracked", "Strategic, motivating, actionable, reviewed, timed", "Specific, manageable, agreed, rewarded, tested"],
+      "why": "Lesson 1 spells out SMART as specific, measurable, achievable, relevant, and time-bound."
+    },
+    {
+      "q": "Which category of tasks does the summary say you should spend most of your time on?",
+      "a": ["Low-stress, high-priority tasks", "High-stress, high-priority tasks", "High-stress, low-priority tasks", "Low-stress, low-priority tasks"],
+      "why": "Lesson 1 sorts tasks by stress and priority and recommends living mostly in the low-stress, high-priority group."
+    },
+    {
+      "q": "When does the summary recommend planning the coming week?",
+      "a": ["By the end of the current week", "First thing on Monday morning", "At the start of each workday", "Whenever a free hour appears"],
+      "why": "Lesson 2 says to set aside twenty to forty-five minutes before the week starts, rather than on Monday."
+    },
+    {
+      "q": "Why should every task in your weekly plan have a set time frame?",
+      "a": ["It prevents procrastination and wasted time", "It makes the plan look more professional", "It allows others to check on your progress", "It leaves more room for unexpected tasks"],
+      "why": "Lesson 3 says tasks without time frames get overdone or drag on, delaying your larger goals."
+    },
+    {
+      "q": "How much can planning ahead raise productivity, according to the summary?",
+      "a": ["By 50 to 80 percent", "By 10 to 20 percent", "By 25 to 40 percent", "By roughly double"],
+      "why": "Lesson 3 cites the authors' finding that advance planning lifts productivity by fifty to eighty percent."
+    }
+  ]
+}

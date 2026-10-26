@@ -1,0 +1,56 @@
+{
+  "book": "spartan-up",
+  "title": "Spartan Up",
+  "questions": [
+    {
+      "q": "What did the marshmallow experiment show about children who delayed gratification?",
+      "a": [
+        "They tended to have better lives later on",
+        "They were more likely to become overweight",
+        "They achieved less in school than their peers",
+        "They became impatient adults"
+      ],
+      "why": "The overview says follow-up studies found the children who waited for the second marshmallow fared better in life."
+    },
+    {
+      "q": "What does Joe De Sena recommend doing to force yourself to take on a challenge?",
+      "a": [
+        "Sign up for an event in advance and commit to a plan",
+        "Wait until you feel fully ready to begin",
+        "Keep your goal private so no one can see you fail",
+        "Start with the hardest possible challenge first"
+      ],
+      "why": "The overview says committing to a dated event makes you accountable and honest about following through."
+    },
+    {
+      "q": "Why include other people in your plan, according to the summary?",
+      "a": [
+        "They keep you accountable and may support you",
+        "They can train for the event on your behalf",
+        "They make the challenge easier to complete",
+        "They can pay part of the entry fee"
+      ],
+      "why": "The overview advises telling others about your plan so they hold you to it, including quieter supporters."
+    },
+    {
+      "q": "What advice does the summary give about diet?",
+      "a": [
+        "Ignore most modern diets and eat simple, plainly healthy food",
+        "Follow a strict calorie count every single day",
+        "Try a new popular diet each month",
+        "Skip breakfast to strengthen willpower"
+      ],
+      "why": "The overview recommends simple categories of healthy food such as nuts, vegetables and fruit."
+    },
+    {
+      "q": "What does “stoic calm” mean in the summary?",
+      "a": [
+        "Keeping your temper and focusing only on what you control",
+        "Suppressing every emotion until you feel nothing",
+        "Avoiding every situation you cannot predict",
+        "Accepting that effort makes no difference"
+      ],
+      "why": "The overview defines stoic calm as not losing your temper and concentrating on what is within your control."
+    }
+  ]
+}

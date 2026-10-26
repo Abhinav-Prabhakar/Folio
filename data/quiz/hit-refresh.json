@@ -1,0 +1,56 @@
+{
+  "book": "hit-refresh",
+  "title": "Hit Refresh",
+  "questions": [
+    {
+      "q": "What did Nadella keep secret while working at Microsoft?",
+      "a": [
+        "His part-time MBA enrollment in Chicago",
+        "His application to a rival technology company",
+        "His plan to leave for a career in cricket",
+        "His work on a competing operating system"
+      ],
+      "why": "Lesson 1 says he did not want to endanger his job, so he kept his weekend MBA studies private."
+    },
+    {
+      "q": "What does Nadella do when he feels intimidated?",
+      "a": [
+        "He treats it as a signal that it is time to compete",
+        "He steps back and lets more experienced people lead",
+        "He asks his coach for a different position",
+        "He avoids the situation until he feels confident"
+      ],
+      "why": "Lesson 2 says his first rule is that feeling intimidated means it is time to compete."
+    },
+    {
+      "q": "What did the captain do that helped Nadella regain his confidence?",
+      "a": [
+        "He kept bowling until he took a wicket, then gave Nadella the ball",
+        "He replaced Nadella with a stronger bowler for the final overs",
+        "He told Nadella to study the Australians' batting technique",
+        "He moved Nadella to a different position in the field"
+      ],
+      "why": "Lesson 2 says the captain persisted until he got a wicket, then handed the ball back to lift Nadella."
+    },
+    {
+      "q": "What did Nadella show the audience at the Salesforce event?",
+      "a": [
+        "An iPhone running Microsoft software",
+        "A new Microsoft phone with no apps",
+        "A prototype of a Windows laptop",
+        "A video of Microsoft's latest game console"
+      ],
+      "why": "Lesson 3 describes him displaying an iPhone with Microsoft programs such as Outlook and Skype running on it."
+    },
+    {
+      "q": "How does Nadella approach rival companies like Apple?",
+      "a": [
+        "He looks for ways to work with them",
+        "He tries to defeat them at any cost",
+        "He ignores them and focuses inward",
+        "He copies their products as closely as possible"
+      ],
+      "why": "Lesson 3 says he believes cooperating with competitors benefits both Microsoft and the wider world."
+    }
+  ]
+}

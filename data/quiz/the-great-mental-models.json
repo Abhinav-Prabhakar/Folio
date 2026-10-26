@@ -1,0 +1,56 @@
+{
+  "book": "the-great-mental-models",
+  "title": "The Great Mental Models",
+  "questions": [
+    {
+      "q": "What does Parrish say makes areas of competence feel natural and easy?",
+      "a": [
+        "Repeating a task until the mind no longer needs to actively engage",
+        "Having natural talent for the activity",
+        "Being in a comfortable physical environment",
+        "Having strong emotional attachment to the task"
+      ],
+      "why": "From the lesson on competences: repeating a task makes the mind stop actively engaging."
+    },
+    {
+      "q": "According to the text, what should you ask yourself after finding the root cause of a problem?",
+      "a": [
+        "Whether fixing it will prevent it from occurring again",
+        "How long it will take to implement the fix",
+        "Whether others have solved it before",
+        "If the problem is worth solving at all"
+      ],
+      "why": "From the lesson on root cause: the text says to ask if fixing it prevents recurrence."
+    },
+    {
+      "q": "What type of scenarios does the text say benefit most from thought experiments?",
+      "a": [
+        "Situations where you need to get it right the first time",
+        "Tasks that can be repeated many times",
+        "Problems with multiple possible solutions",
+        "Decisions that involve financial risk"
+      ],
+      "why": "From the lesson on long-term thinking: thought experiments work best when you must get it right the first time."
+    },
+    {
+      "q": "What does the text suggest is the result of playing on your strong points?",
+      "a": [
+        "Minimizing the chances of failure",
+        "Building new skills over time",
+        "Attracting more opportunities",
+        "Reducing the need for planning"
+      ],
+      "why": "From the lesson on competences: playing on strong points minimizes chances of failure."
+    },
+    {
+      "q": "What does the text say most people do instead of curing the cause of a problem?",
+      "a": [
+        "They try to alleviate its symptoms",
+        "They ignore the problem entirely",
+        "They blame external factors",
+        "They wait for it to resolve itself"
+      ],
+      "why": "From the lesson on root cause: most people alleviate symptoms instead of curing the cause."
+    }
+  ]
+}

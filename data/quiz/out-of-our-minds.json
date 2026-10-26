@@ -1,0 +1,56 @@
+{
+  "book": "out-of-our-minds",
+  "title": "Out Of Our Minds",
+  "questions": [
+    {
+      "q": "What is the Law of Accelerating Returns?",
+      "a": [
+        "Evolution and technology keep speeding up",
+        "Resources become scarcer as populations grow",
+        "Creativity declines steadily as people age",
+        "Education improves at a constant rate"
+      ],
+      "why": "Lesson 1 uses the shrinking gaps between inventions to show that change keeps accelerating."
+    },
+    {
+      "q": "How does Robinson define creativity?",
+      "a": [
+        "Applied imagination",
+        "Inherited talent",
+        "Random inspiration",
+        "Technical expertise"
+      ],
+      "why": "Lesson 2 defines creativity as imagination applied in the real world."
+    },
+    {
+      "q": "What three mediums does creativity get channeled into?",
+      "a": [
+        "Physical, sensory and cognitive",
+        "Visual, verbal and digital",
+        "Social, financial and artistic",
+        "Natural, mechanical and abstract"
+      ],
+      "why": "Lesson 2 lists physical, sensory and cognitive as the three kinds of creative mediums."
+    },
+    {
+      "q": "What common fear keeps people from being creative at work?",
+      "a": [
+        "Believing they alone will be blamed if ideas fail",
+        "Believing their colleagues are more talented",
+        "Believing creativity is only for artists",
+        "Believing new ideas take too much time"
+      ],
+      "why": "Lesson 3 says one pitfall is fearing that we alone will be blamed when ideas fail."
+    },
+    {
+      "q": "What does Robinson say about rules and creativity?",
+      "a": [
+        "Rules can provide a frame you step out of at times",
+        "Rules must be removed entirely for ideas to flow",
+        "Rules only apply to artistic kinds of work",
+        "Rules guarantee predictable, safe results"
+      ],
+      "why": "Lesson 3 argues rules create a frame of control that you can step out of at times."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "imagine-it-forward",
+  "title": "Imagine It Forward",
+  "questions": [
+    {
+      "q": "How did Comstock turn her introversion into an advantage at GE?",
+      "a": [
+        "She listened and observed instead of forcing her way in",
+        "She avoided meetings and worked alone on projects",
+        "She hired allies to speak for her in discussions",
+        "She challenged the men directly in every meeting"
+      ],
+      "why": "Lesson 1 says she used her ability to listen and observe, engaging with ideas rather than taking exclusion personally."
+    },
+    {
+      "q": "What did Comstock do after the September 11 attacks?",
+      "a": [
+        "She ran a full-page ad of the Statue of Liberty rolling up her sleeves",
+        "She cancelled all company advertising for the year",
+        "She moved GE's offices out of New York City",
+        "She launched a campaign asking employees to donate"
+      ],
+      "why": "Lesson 2 describes the ad as the message of hope people needed, and many hung it on their walls."
+    },
+    {
+      "q": "Why did Comstock push the Statue of Liberty ad despite resistance?",
+      "a": [
+        "She believed the workforce needed a message of hope",
+        "She wanted to advertise a new GE product line",
+        "She was following orders from the CEO",
+        "She hoped it would boost the company's stock price"
+      ],
+      "why": "Lesson 2 says she saw that employees were deeply shaken and an uplifting message was vital."
+    },
+    {
+      "q": "What does Comstock say every uncertainty contains?",
+      "a": [
+        "An opportunity that a good story can help you seize",
+        "A warning that the company should cut costs",
+        "A reason to wait until conditions improve",
+        "A test of whether your strategy is sound"
+      ],
+      "why": "Lesson 3 says every uncertainty has opportunity baked into it, and the right story unlocks it."
+    },
+    {
+      "q": "How did Comstock help GE employees after the financial crisis?",
+      "a": [
+        "She told a story about where the company was headed",
+        "She promised that no one would lose their job",
+        "She offered everyone a bonus to raise morale",
+        "She brought in consultants to redesign strategy"
+      ],
+      "why": "Lesson 3 says a powerful story of the struggle and its future got people moving again."
+    }
+  ]
+}

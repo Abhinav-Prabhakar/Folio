@@ -1,0 +1,56 @@
+{
+  "book": "perfectly-confident",
+  "title": "Perfectly Confident",
+  "questions": [
+    {
+      "q": "According to the summary, what does too much confidence lead to?",
+      "a": [
+        "Poor performance and delayed success",
+        "Faster learning from early failures",
+        "Stronger trust from colleagues",
+        "More accurate predictions about the future"
+      ],
+      "why": "Lesson 1 states plainly that excessive confidence produces poor performance, citing retail investors and 2008 home buyers."
+    },
+    {
+      "q": "Why does the summary advise against comparing yourself to others?",
+      "a": [
+        "You only see their finished results, not their struggles",
+        "Their progress is always faster than yours can be",
+        "They are usually hiding how successful they are",
+        "Comparison is useful only between close friends"
+      ],
+      "why": "Lesson 2 lists three reasons, starting with the fact that you are probably looking at someone's finished product."
+    },
+    {
+      "q": "What does the summary recommend when you make forecasts?",
+      "a": [
+        "Include a broad range of possible outcomes",
+        "Commit to the single most likely result",
+        "Trust your gut instead of any written plan",
+        "Assume the best case will probably happen"
+      ],
+      "why": "Lesson 2 says to prepare for both the best and worst outcomes and to forecast across a wide range of probabilities."
+    },
+    {
+      "q": "How does the summary describe people who try to fake confidence?",
+      "a": [
+        "They feel a need to show off and be noticed",
+        "They avoid attention and praise whenever possible",
+        "They are quick to admit what they do not know",
+        "They rarely care what other people think of them"
+      ],
+      "why": "The overview says people faking confidence need to show off or be seen, while truly confident people do not."
+    },
+    {
+      "q": "What is the relationship between skill and confidence, according to the summary?",
+      "a": [
+        "Skill builds confidence, not the other way around",
+        "Confidence comes first and then creates skill",
+        "The two grow separately and rarely affect each other",
+        "Confidence can replace skill once it is convincing enough"
+      ],
+      "why": "Lesson 3 says skill builds self-worth and that confidence has to be backed up by real ability."
+    }
+  ]
+}

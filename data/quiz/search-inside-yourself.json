@@ -1,0 +1,56 @@
+{
+  "book": "search-inside-yourself",
+  "title": "Search Inside Yourself",
+  "questions": [
+    {
+      "q": "How does the summary define emotional intelligence?",
+      "a": [
+        "Awareness of your own and others' feelings, used to guide behavior",
+        "The ability to suppress emotions while at work",
+        "A high score on a standard intelligence test",
+        "The skill of persuading people to agree with you"
+      ],
+      "why": "Lesson 1 defines it as awareness of feelings in yourself and others, used to shape your thoughts and actions."
+    },
+    {
+      "q": "Which five elements does Goleman say make up emotional intelligence?",
+      "a": [
+        "Self-awareness, self-regulation, motivation, empathy, social skills",
+        "Focus, discipline, patience, optimism, charisma",
+        "Planning, delegation, feedback, hiring, firing",
+        "Listening, speaking, writing, reading, numeracy"
+      ],
+      "why": "Lesson 1 lists those five components and connects each one to performance at work."
+    },
+    {
+      "q": "How does meditation build emotional intelligence, per the summary?",
+      "a": [
+        "It trains your attention, which strengthens self-awareness",
+        "It removes all negative emotions permanently",
+        "It replaces the need for sleep and rest",
+        "It makes you more competitive with colleagues"
+      ],
+      "why": "Lesson 2 says attention can be trained like a muscle, and that mastery of attention deepens self-knowledge."
+    },
+    {
+      "q": "Why is self-awareness so important, according to the summary?",
+      "a": [
+        "It activates the rational brain so choices beat impulses",
+        "It makes you less aware of other people's moods",
+        "It allows you to ignore your feelings entirely",
+        "It guarantees that you will be promoted quickly"
+      ],
+      "why": "Lesson 2 explains that self-awareness engages the neocortex, so behavior comes from conscious choice rather than impulse."
+    },
+    {
+      "q": "What are the three sources of work-related happiness?",
+      "a": [
+        "Pleasure, passion, and a sense of purpose",
+        "Salary, status, and job security",
+        "Freedom, variety, and competition",
+        "Praise, promotion, and vacation time"
+      ],
+      "why": "Lesson 3 draws on Tony Hsieh's view that pleasure is brief, passion is sustainable and purpose is the most reliable."
+    }
+  ]
+}

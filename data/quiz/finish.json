@@ -1,0 +1,56 @@
+{
+  "book": "finish",
+  "title": "Finish",
+  "questions": [
+    {
+      "q": "What does the book mean by strategic incompetence?",
+      "a": [
+        "Deliberately accepting weak spots so your strengths get the time",
+        "Pretending to be bad at tasks so others will not ask for help",
+        "Hiring experts for every part of a project from day one",
+        "Refusing to learn any skill outside your main profession"
+      ],
+      "why": "Lesson 1 says choosing where to be incompetent lets you prioritize what you do well."
+    },
+    {
+      "q": "What should you do when self-doubt strikes just before launching?",
+      "a": [
+        "Ship the work anyway, because few will notice the final polish",
+        "Delay the launch until every small flaw has been fixed",
+        "Show it to a large test audience before deciding",
+        "Start over with a completely different approach"
+      ],
+      "why": "Lesson 2 says the last few percent of perfection rarely matter to readers."
+    },
+    {
+      "q": "Why is that last-minute doubting voice so hard to ignore?",
+      "a": [
+        "It is partly right that more time would improve the work",
+        "It comes from people who genuinely want you to fail",
+        "It only appears when the project is truly unfinished",
+        "It accurately predicts how most audiences will react"
+      ],
+      "why": "Lesson 2 admits the voice has a point, yet the gain is usually invisible."
+    },
+    {
+      "q": "When does the summary say you should check your progress numbers?",
+      "a": [
+        "Periodically, such as weekly or monthly, not several times a day",
+        "Every morning before starting any creative work",
+        "Only after a project has been finished and published",
+        "Whenever a friend or competitor posts something new"
+      ],
+      "why": "Lesson 3 says tracking helps at the right intervals and can destroy momentum daily."
+    },
+    {
+      "q": "What trick does perfectionism use to make you feel behind?",
+      "a": [
+        "It claims you are not making enough progress without defining enough",
+        "It compares your first draft with a finished masterpiece",
+        "It hides your statistics so you cannot see any growth",
+        "It convinces you that your audience has stopped growing"
+      ],
+      "why": "Lesson 3 says we often never decide what enough progress would look like."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-project",
+  "title": "The Happiness Project",
+  "questions": [
+    {
+      "q": "Who wrote The Happiness Project?",
+      "a": [
+        "Gretchen Rubin",
+        "Neil Pasricha",
+        "Tal Ben-Shahar",
+        "Martin Seligman"
+      ],
+      "why": "The overview identifies Gretchen Rubin as the author."
+    },
+    {
+      "q": "How much more time does a very cluttered household take to manage?",
+      "a": [
+        "Up to 50 percent more time",
+        "Up to 25 percent more time",
+        "Up to 75 percent more time",
+        "Up to 100 percent more time"
+      ],
+      "why": "The clutter lesson states it takes up to 50 percent more time."
+    },
+    {
+      "q": "How many positive actions correct one negative one in a relationship?",
+      "a": [
+        "About five",
+        "About three",
+        "About seven",
+        "About ten"
+      ],
+      "why": "The relationships lesson says it takes about five positive actions to correct one negative."
+    },
+    {
+      "q": "According to Gretchen, what is the relationship between money and happiness?",
+      "a": [
+        "It does not guarantee happiness but not worrying about it eases life",
+        "More money always leads to proportionally more happiness",
+        "Money is the single biggest factor in overall well-being",
+        "Money has absolutely no effect on a person's happiness"
+      ],
+      "why": "The money lesson paraphrases Gretchen's view that money does not guarantee happiness but removes worry."
+    },
+    {
+      "q": "What is one of Gretchen's principles for happier relationships?",
+      "a": [
+        "You cannot change your partner, only yourself",
+        "You should change your partner to better fit your needs",
+        "You must always voice every feeling immediately",
+        "You should end any relationship that causes even minor pain"
+      ],
+      "why": "The relationships lesson lists this as the first of two principles."
+    }
+  ]
+}

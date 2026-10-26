@@ -1,0 +1,31 @@
+{
+  "book": "carrots-and-sticks",
+  "title": "Carrots And Sticks",
+  "questions": [
+    {
+      "q": "Why do we usually prefer a small reward now over a bigger one later?",
+      "a": ["Waiting brings uncertainty, which we dislike", "We value small rewards more highly", "We forget larger rewards over time", "We distrust the people making offers"],
+      "why": "Lesson 1 says an available reward makes bigger delayed rewards less appealing because the wait feels risky."
+    },
+    {
+      "q": "In Thaler's apple study, what did most people choose when the rewards were immediate?",
+      "a": ["One apple today over two tomorrow", "Two apples tomorrow over one today", "Two apples next year over one today", "No apples under either offer"],
+      "why": "Lesson 1 contrasts distant choices, where people wait for more, with immediate ones, where they grab the single apple."
+    },
+    {
+      "q": "What does the summary say we are willing to risk losing?",
+      "a": ["Things we do not have yet", "Things we value most", "Things we worked hardest for", "Things that belong to others"],
+      "why": "Lesson 2 explains that future gains feel safe to gamble, which is why saving for retirement is so hard."
+    },
+    {
+      "q": "How does the Save More Tomorrow program work?",
+      "a": ["People commit future raises to savings", "People deposit a fixed sum each month", "Employers match employee contributions", "The government adds a bonus at retirement"],
+      "why": "Lesson 2 says participants agree to save a slice of income only if they get a raise, so nothing is taken today."
+    },
+    {
+      "q": "Why do big sticks work better than little carrots?",
+      "a": ["We work harder to avoid losses than to chase gains", "Punishments cost less to administer", "Rewards are taxed more heavily", "People forget rewards very quickly"],
+      "why": "Lesson 3 says we spend more energy avoiding loss, so a heavy penalty changes behavior more than a reward."
+    }
+  ]
+}

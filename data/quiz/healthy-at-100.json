@@ -1,0 +1,56 @@
+{
+  "book": "healthy-at-100",
+  "title": "Healthy at 100",
+  "questions": [
+    {
+      "q": "What comparison does the author use for not exercising?",
+      "a": [
+        "It is like taking a depressant",
+        "It is like skipping breakfast",
+        "It is like aging too quickly",
+        "It is like catching a cold"
+      ],
+      "why": "Lesson 1 says the author compares a sedentary life to taking a depressant, since movement lifts mood and reduces stress."
+    },
+    {
+      "q": "What does the author think doctors should try before prescribing medication?",
+      "a": [
+        "Encouraging the patient to exercise",
+        "Sending the patient to a nutritionist",
+        "Recommending a longer period of rest",
+        "Suggesting a change of workplace"
+      ],
+      "why": "Lesson 1 says doctors should first push patients toward sport and movement rather than man-made drugs."
+    },
+    {
+      "q": "Which diet does the summary recommend relying on common sense to choose?",
+      "a": [
+        "Mostly vegetables, plant proteins and plant fats",
+        "Mostly lean meat, fish and dairy products",
+        "Mostly whole grains with moderate sugars",
+        "Mostly fruit with occasional processed snacks"
+      ],
+      "why": "Lesson 2 describes a diet built around vegetables and plant-based proteins and fats, with less tobacco, alcohol and caffeine."
+    },
+    {
+      "q": "Which country does the summary cite as an example of a long-living nation?",
+      "a": [
+        "Japan",
+        "Italy",
+        "Mexico",
+        "Sweden"
+      ],
+      "why": "Lesson 2 names Japan among cultures with healthy diets and plenty of exercise that live notably long lives."
+    },
+    {
+      "q": "What does the summary say about genes and a long, healthy life?",
+      "a": [
+        "Genes matter, but nutrition and habits also shape lifespan",
+        "Genes alone decide how long a person will live",
+        "Genes have almost no influence on life expectancy",
+        "Genes can be completely rewritten through exercise"
+      ],
+      "why": "Lesson 3 argues that genes play a major role, yet whole populations with better diets and habits live longer."
+    }
+  ]
+}

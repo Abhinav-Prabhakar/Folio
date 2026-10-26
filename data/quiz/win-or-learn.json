@@ -1,0 +1,56 @@
+{
+  "book": "win-or-learn",
+  "title": "Win or Learn",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Win or Learn?",
+      "a": [
+        "The road to success is never easy, and John Kavanagh and Conor McGregor knew no exception.",
+        "To align with people, you must quickly identify what kind of conversation is taking place.",
+        "Once Dante exits the Inferno, he finds himself at the base of a giant mountain: Purgatory.",
+        "Some people still mistakenly believe that people are born with talent or the lack thereof."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Win or Learn explore?",
+      "a": [
+        "A growth mindset allows you to view failure as a chance to learn",
+        "Never forget the fundamentals, even long after you’ve leveled up",
+        "Most books hide their message using memory, symbols and patterns",
+        "Your employees will get a lot more done when they work from home"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Win or Learn teach?",
+      "a": [
+        "John Kavanagh knew that champions are 100% mentally ready",
+        "Your own competence is the best job security you can have",
+        "There are 8 correct ways to use apostrophes in a sentence",
+        "Craft a persona to better get along with others as an HSP"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Win or Learn?",
+      "a": [
+        "There are two types of people out there: those who have a fixed mindset, so they only…",
+        "One of my coaching clients is very passionate about biotech, longevity and anti-aging.",
+        "Did you know there is more than enough wealth in the world to bring an end to poverty?",
+        "I remember learning when I was young that “sorry” meant that you’ll never do it again."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these claims appears in Win or Learn?",
+      "a": [
+        "Before Kavanagh and McGregor became famous and successful, they had to work hard and keep…",
+        "As a US SEAL cadet, McRaven had to make his bed to perfection first thing after waking up.",
+        "Most people think that champions in their field have an inherent passion for what they do.",
+        "To align with people, you must quickly identify what kind of conversation is taking place."
+      ],
+      "why": "This statement appears in the book's summary."
+    }
+  ]
+}

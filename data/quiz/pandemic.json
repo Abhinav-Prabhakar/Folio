@@ -1,0 +1,56 @@
+{
+  "book": "pandemic",
+  "title": "Pandemic",
+  "questions": [
+    {
+      "q": "How did cholera bacteria adapt to humans in Bangladesh?",
+      "a": [
+        "They formed tails and colonized the gut as a film",
+        "They entered through the skin and stayed dormant",
+        "They spread only through the air",
+        "They lived in rice and were eaten"
+      ],
+      "why": "Lesson 1 says cholera bacteria formed tails and colonized the gut after people bathed in contaminated water."
+    },
+    {
+      "q": "How did SARS reach five continents in one day?",
+      "a": [
+        "Infected travelers carried it on flights",
+        "Migrating birds spread it across the globe",
+        "Contaminated food was shipped abroad",
+        "The virus traveled through ocean currents"
+      ],
+      "why": "Lesson 2 traces SARS through a doctor, a flight attendant and onward to five continents in a day."
+    },
+    {
+      "q": "How do large farms contribute to pathogen spread?",
+      "a": [
+        "Manure pools breed pathogens that contaminate soil and water",
+        "They import animals from many different countries",
+        "They use antibiotics that create new viruses",
+        "They crowd workers into small dormitories"
+      ],
+      "why": "Lesson 2 says manure pools on large farms become breeding grounds that contaminate air, soil and water."
+    },
+    {
+      "q": "What did Aaron Burr do with the waterworks money?",
+      "a": [
+        "Used most of it for a bank, leaving a poor water system",
+        "Spent it all on clean drinking water",
+        "Returned the money to the taxpayers",
+        "Gave it to doctors for medical research"
+      ],
+      "why": "Lesson 3 says Burr diverted most of the waterworks money to a bank, leaving contaminated water for 50 years."
+    },
+    {
+      "q": "Why was the cholera fluid treatment dismissed?",
+      "a": [
+        "Doctors believed disease came from miasmas, not lost fluids",
+        "It was far too expensive for most hospitals",
+        "The treatment had dangerous side effects",
+        "No doctor knew how to administer it"
+      ],
+      "why": "Lesson 3 says doctors dismissed fluid replacement because they believed diseases came from miasmas."
+    }
+  ]
+}

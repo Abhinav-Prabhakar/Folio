@@ -1,0 +1,56 @@
+{
+  "book": "the-why-cafe",
+  "title": "The Why Café",
+  "questions": [
+    {
+      "q": "What existential question did John see on the menu at The Why Café?",
+      "a": [
+        "Why are you here?",
+        "Do you fear death?",
+        "Are you fulfilled?",
+        "What is your purpose?"
+      ],
+      "why": "The menu listed three questions, one of which is \"Why are you here?\"."
+    },
+    {
+      "q": "Why does the author warn against materialism in advertising?",
+      "a": [
+        "Ads promise happiness through possessions",
+        "Ads sell only essential goods",
+        "Ads focus on community values",
+        "Ads promote healthy habits"
+      ],
+      "why": "The text says advertisers promise happiness by buying more."
+    },
+    {
+      "q": "Which example illustrates how a mechanic finds purpose?",
+      "a": [
+        "Fixing cars gives satisfaction",
+        "Selling cars brings profit",
+        "Driving cars is fun",
+        "Buying cars is exciting"
+      ],
+      "why": "The text mentions a mechanic's satisfaction from fixing cars."
+    },
+    {
+      "q": "What role do friends and family play in finding purpose?",
+      "a": [
+        "They influence development",
+        "They provide financial support",
+        "They set career goals",
+        "They dictate life choices"
+      ],
+      "why": "The text notes people around us affect our development."
+    },
+    {
+      "q": "According to the book, what is the key to living happily?",
+      "a": [
+        "Pursue what makes you happy",
+        "Follow society's standards",
+        "Earn more money",
+        "Avoid risks"
+      ],
+      "why": "The book states to pursue what makes you happy."
+    }
+  ]
+}

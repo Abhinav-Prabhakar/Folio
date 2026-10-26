@@ -1,0 +1,56 @@
+{
+  "book": "company-of-one",
+  "title": "Company Of One",
+  "questions": [
+    {
+      "q": "What does Jarvis recommend instead of endless growth?",
+      "a": [
+        "Deliberately capping profit to keep the business small",
+        "Hiring a large team as quickly as possible",
+        "Raising venture capital to scale faster",
+        "Expanding into every market you can reach"
+      ],
+      "why": "Lesson 1 says a company of one should set profit limits so the business serves the owner instead of consuming them."
+    },
+    {
+      "q": "What did Sean D'Souza do to keep his business manageable?",
+      "a": [
+        "Set a yearly profit limit of $500,000",
+        "Hired a manager to run daily operations",
+        "Turned down all clients below a certain size",
+        "Moved his office into his home"
+      ],
+      "why": "The summary describes Psychotactics capping profit at $500,000 a year so it would not need more staff or time."
+    },
+    {
+      "q": "Why does Jarvis say a niche audience is better than a broad one?",
+      "a": [
+        "You can solve one group's problems far better",
+        "It costs less to advertise to a wide market",
+        "It lets you raise prices without explanation",
+        "It protects you from changes in your industry"
+      ],
+      "why": "Lesson 2 argues that going narrow lets you give a specific group exactly what it wants, while generic products lose appeal."
+    },
+    {
+      "q": "What happened to Starbucks when it tried to appeal to everyone?",
+      "a": [
+        "It lost its way and closed around 900 stores",
+        "It doubled the number of its locations",
+        "It was bought by a larger coffee chain",
+        "It stopped selling coffee for a year"
+      ],
+      "why": "The summary says Starbucks drifted from its neighborhood coffee-shop vision and later had to return to it after closures."
+    },
+    {
+      "q": "Why does Jarvis advise against large upfront investment?",
+      "a": [
+        "Slow, self-funded growth keeps you independent and in control",
+        "Investors usually demand too little of the business",
+        "Small businesses cannot use modern technology",
+        "Early profits are impossible without outside funding"
+      ],
+      "why": "Lesson 3 says venture funding makes you answer to investors, while quick small profits protect your independence."
+    }
+  ]
+}

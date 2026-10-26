@@ -1,0 +1,31 @@
+{
+  "book": "discipline-is-destiny",
+  "title": "Discipline Is Destiny",
+  "questions": [
+    {
+      "q": "In the Hercules parable, what does Virtue promise to those who take her path?",
+      "a": ["Rewards earned through courage and hardship", "A life of pleasure without any pain", "Wealth and fame without much effort", "Wisdom granted at the moment of birth"],
+      "why": "The overview contrasts Vice's painless pleasure with Virtue's offer of rewards you earn through effort."
+    },
+    {
+      "q": "Why does the summary say discipline is easiest to build through your body first?",
+      "a": ["You can feel the results of your efforts", "Physical tasks require the least willpower", "Your body responds faster than your mind", "Others can see and praise your progress"],
+      "why": "Lesson 1 explains that physical challenges give you felt feedback that the discipline is working."
+    },
+    {
+      "q": "What matters most when building physical discipline, according to the summary?",
+      "a": ["Doing a little every day rather than a lot occasionally", "Training hard for a few weeks each year", "Following a strict program without any breaks", "Waiting until you feel fully motivated"],
+      "why": "Lesson 1 stresses showing up consistently over rare bursts of intense effort, using Lou Gehrig as an example."
+    },
+    {
+      "q": "Why does the summary say we need restraint to enjoy life's pleasures?",
+      "a": ["Doing something constantly makes it meaningless", "Pleasure is only available to disciplined people", "Too much joy leads to physical illness", "Restraint makes pleasures last longer in memory"],
+      "why": "Lesson 2 argues that indulging every impulse drains the enjoyment out of things, so moderation is required."
+    },
+    {
+      "q": "What gives discipline its point, according to the summary's third lesson?",
+      "a": ["Using it for the greater good", "Winning recognition from others", "Achieving perfect self-control", "Escaping all outside obligations"],
+      "why": "Lesson 3 says discipline is pointless unless it serves a higher purpose and is paired with kindness."
+    }
+  ]
+}

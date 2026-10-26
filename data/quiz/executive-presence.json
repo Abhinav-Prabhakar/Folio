@@ -1,0 +1,56 @@
+{
+  "book": "executive-presence",
+  "title": "Executive Presence",
+  "questions": [
+    {
+      "q": "Which quality does Hewlett's research place at the core of executive presence?",
+      "a": [
+        "Gravitas",
+        "Appearance",
+        "Networking",
+        "Credentials"
+      ],
+      "why": "Lesson 1 says over half the leaders surveyed named gravitas."
+    },
+    {
+      "q": "How did Bob Dudley show gravitas during the BP oil spill?",
+      "a": [
+        "He stayed patient and answered every question",
+        "He avoided the press entirely",
+        "He blamed contractors in public",
+        "He resigned within a few weeks"
+      ],
+      "why": "Lesson 1 says his composure helped him become CEO months later."
+    },
+    {
+      "q": "What did Suzi Digby say about first impressions?",
+      "a": [
+        "You have about five seconds to engage an audience",
+        "You need a full minute to connect",
+        "First impressions rarely affect careers",
+        "Appearance matters more than speech"
+      ],
+      "why": "Lesson 2 cites her five-second slot for engaging people."
+    },
+    {
+      "q": "What is the best way to improve your communication, per the summary?",
+      "a": [
+        "Ask for specific feedback on things like body language",
+        "Record yourself and judge your own delivery",
+        "Read several books on public speaking",
+        "Copy the style of a leader you admire"
+      ],
+      "why": "Lesson 2 recommends detailed questions over a vague how did I do."
+    },
+    {
+      "q": "Why does physical fitness help a leader, according to Deb Elam?",
+      "a": [
+        "People assume you can handle whatever you are given",
+        "It makes you appear friendlier to strangers",
+        "It proves you work long hours",
+        "It distracts from weak qualifications"
+      ],
+      "why": "Lesson 3 says fitness signals you take care of yourself and other matters."
+    }
+  ]
+}

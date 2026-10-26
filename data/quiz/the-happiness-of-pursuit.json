@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-of-pursuit",
+  "title": "The Happiness Of Pursuit",
+  "questions": [
+    {
+      "q": "What does Chris Guillebau say quests often arise from?",
+      "a": [
+        "External events",
+        "Inner thoughts",
+        "Social media",
+        "Work deadlines"
+      ],
+      "why": "Quests arise from external events that awaken a calling."
+    },
+    {
+      "q": "How does the book suggest handling a big quest?",
+      "a": [
+        "Adjust your life",
+        "Ignore it",
+        "Wait for luck",
+        "Seek a mentor"
+      ],
+      "why": "It advises adjusting your life to fit the quest."
+    },
+    {
+      "q": "What example shows a small step toward a big quest?",
+      "a": [
+        "Learning about race cars for 30 minutes",
+        "Buying a race car",
+        "Driving a race car",
+        "Reading a book on racing"
+      ],
+      "why": "The example is spending 30 minutes learning about race cars."
+    },
+    {
+      "q": "What is the main reward of a quest according to the book?",
+      "a": [
+        "The struggle toward the goal",
+        "Reaching the goal",
+        "Money earned",
+        "Social status"
+      ],
+      "why": "The reward is the struggle toward the goal."
+    },
+    {
+      "q": "Which quote did Chris hear that influenced him?",
+      "a": [
+        "Better to be at the bottom of the ladder you want to climb",
+        "Top of the ladder is best",
+        "Climb quickly",
+        "Avoid ladders"
+      ],
+      "why": "He heard the quote about being at the bottom of the desired ladder."
+    }
+  ]
+}

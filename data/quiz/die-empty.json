@@ -1,0 +1,31 @@
+{
+  "book": "die-empty",
+  "title": "Die Empty",
+  "questions": [
+    {
+      "q": "According to the summary, which three kinds of work does a developer do?",
+      "a": ["Mapping, making, and meshing", "Planning, producing, and promoting", "Dreaming, drafting, and delivering", "Learning, leading, and leaving"],
+      "why": "Lesson 1 says a developer maps goals, makes the actual work, and meshes skills to keep growing."
+    },
+    {
+      "q": "Which type of person does the making and meshing but skips the mapping?",
+      "a": ["A drifter", "A driver", "A dreamer", "A developer"],
+      "why": "Lesson 1 defines the drifter as someone who does the making and meshing but omits mapping."
+    },
+    {
+      "q": "What imagination exercise does the summary suggest for escaping mediocrity?",
+      "a": ["Imagine someone records your day and writes your biography", "Picture your own funeral and what people would say", "Write a letter from your future self about today", "Spend a day living as your childhood hero"],
+      "why": "Lesson 2 describes imagining that every action you take today will become a biography others read."
+    },
+    {
+      "q": "Which of the three goal types is described as medium-term, usually around two weeks?",
+      "a": ["A sprint goal", "A step goal", "A stretch goal", "A steady goal"],
+      "why": "Lesson 3 says step goals are daily, sprint goals last about two weeks, and stretch goals are long-term."
+    },
+    {
+      "q": "What does the summary call the single worst enemy of excellence?",
+      "a": ["Mediocrity", "Perfectionism", "Fear of failure", "Distraction"],
+      "why": "Lesson 2 names mediocrity as excellence's worst enemy because it keeps people comfortably stuck."
+    }
+  ]
+}

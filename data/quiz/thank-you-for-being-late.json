@@ -1,0 +1,56 @@
+{
+  "book": "thank-you-for-being-late",
+  "title": "Thank You For Being Late",
+  "questions": [
+    {
+      "q": "Which three forces does Friedman say we must understand to make sense of our times?",
+      "a": [
+        "Technology, globalization and climate change",
+        "Politics, religion and education",
+        "Population, trade and energy",
+        "Media, migration and finance"
+      ],
+      "why": "The overview names these three forces, all accelerating at once and reshaping every part of life."
+    },
+    {
+      "q": "How is technology changing dairy farming, according to the summary?",
+      "a": [
+        "Computers now monitor milk flow and supply chains",
+        "Robots have removed the need for any milking",
+        "Farmers sell their milk directly to consumers online",
+        "Cows are bred to produce smaller quantities of milk"
+      ],
+      "why": "Lesson 1 describes farmers becoming data analysts as computers track udders, milk flow and supplies."
+    },
+    {
+      "q": "What did the 2013 Oxford study find about American jobs?",
+      "a": [
+        "Nearly half were at high risk of being automated",
+        "Most new jobs required a college degree",
+        "Wages had risen fastest in farming work",
+        "Remote work would soon replace office jobs"
+      ],
+      "why": "Lesson 1 cites the study’s figure that 47 percent of jobs could be lost to computers within 20 years."
+    },
+    {
+      "q": "What does the ASOS dress example show about today’s globalized market?",
+      "a": [
+        "A single photo can make a product sell out instantly",
+        "Celebrities design most of the clothes people buy",
+        "Online stores struggle to keep up with demand",
+        "Fashion trends now fade more slowly than before"
+      ],
+      "why": "Lesson 2 uses the 816,000 retweets of Michelle Obama’s dress to show how fast products can go viral."
+    },
+    {
+      "q": "Why is Friedman optimistic about our ability to handle climate change?",
+      "a": [
+        "Technology and globalization let people collaborate worldwide",
+        "Governments have already met their climate targets",
+        "Populations are shrinking, so emissions will fall",
+        "New resources have been found to replace the old ones"
+      ],
+      "why": "Lesson 3 argues that shared internet access lets humanity work together on common problems."
+    }
+  ]
+}

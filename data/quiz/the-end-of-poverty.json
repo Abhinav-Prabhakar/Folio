@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-poverty",
+  "title": "The End Of Poverty",
+  "questions": [
+    {
+      "q": "What is a poverty trap according to Sachs?",
+      "a": [
+        "A self‑reinforcing cycle that prevents escape",
+        "A temporary lack of food",
+        "A short‑term unemployment spike",
+        "A seasonal drought"
+      ],
+      "why": "Defines poverty trap as a vicious cycle keeping countries poor."
+    },
+    {
+      "q": "How can geography create a poverty trap?",
+      "a": [
+        "High transport costs from deserts or mountains",
+        "Abundant natural resources",
+        "Easy access to trade routes",
+        "Mild climate for agriculture"
+      ],
+      "why": "Cites geography like deserts or mountains raising transport costs."
+    },
+    {
+      "q": "What caused Bolivia's hyperinflation in the 1980s?",
+      "a": [
+        "Spending beyond means on gas and oil",
+        "Foreign invasion",
+        "Natural disaster",
+        "Loss of tourism"
+      ],
+      "why": "Explains overspending on gas/oil led to currency devaluation."
+    },
+    {
+      "q": "What first priority does Sachs recommend for poor countries?",
+      "a": [
+        "Canceling national debt",
+        "Increasing military spending",
+        "Reducing education budgets",
+        "Limiting foreign aid"
+      ],
+      "why": "States Sachs says canceling debt is the first priority."
+    },
+    {
+      "q": "Why can a single solution not end poverty everywhere?",
+      "a": [
+        "Each country has unique problems",
+        "All countries share the same resources",
+        "Global markets are identical",
+        "Culture does not affect economics"
+      ],
+      "why": "Emphasizes no one‑size‑fits‑all solution; problems are individual."
+    }
+  ]
+}

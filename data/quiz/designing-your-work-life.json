@@ -1,0 +1,31 @@
+{
+  "book": "designing-your-work-life",
+  "title": "Designing Your Work Life",
+  "questions": [
+    {
+      "q": "What term does the summary use for the trap of endlessly chasing more money, status, and possessions?",
+      "a": ["The hedonic treadmill", "The ambition spiral", "The comfort loop", "The progress trap"],
+      "why": "Lesson 1 explains that always wanting more keeps you on a hedonic treadmill rather than letting you enjoy the journey."
+    },
+    {
+      "q": "According to the summary, reframing your job means breaking it into which three parts?",
+      "a": ["Money, impact, and expression", "Status, security, and freedom", "Effort, reward, and meaning", "Purpose, salary, and balance"],
+      "why": "Lesson 2 says every job is a mix of money, impact, and expression, and you must find the right ratio for you."
+    },
+    {
+      "q": "What do the three letters in the ARC method stand for?",
+      "a": ["Autonomy, relatedness, competence", "Action, reflection, commitment", "Ambition, resilience, curiosity", "Adaptation, recognition, creativity"],
+      "why": "Lesson 3 defines ARC as autonomy, relatedness, and competence, the three levers for rebuilding motivation."
+    },
+    {
+      "q": "What does the summary say about finding a workplace that is completely free of stress?",
+      "a": ["No job is enjoyable every single moment", "Only dream jobs feel truly effortless", "Stress disappears once you find purpose", "Remote work removes most workplace stress"],
+      "why": "Lesson 3 says there is no job you look forward to 100 percent of the time, and accepting that is the starting point."
+    },
+    {
+      "q": "How does the summary suggest you can increase your autonomy at work?",
+      "a": ["Overdeliver and improve your basic tasks", "Ask for a new job title and more pay", "Delegate your least favourite duties", "Switch teams every few months"],
+      "why": "Lesson 3 recommends overdelivering and upgrading the systems you already work with to gain more freedom."
+    }
+  ]
+}

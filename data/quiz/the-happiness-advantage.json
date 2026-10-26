@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-advantage",
+  "title": "The Happiness Advantage",
+  "questions": [
+    {
+      "q": "Which study linked early happiness to later success?",
+      "a": [
+        "Seligman's 272 employee study",
+        "Achor's Tetris study",
+        "Byrne's attraction study",
+        "Jordan's cut study"
+      ],
+      "why": "The book cites Seligman's study of 272 employees."
+    },
+    {
+      "q": "What effect describes seeing game blocks in everyday life?",
+      "a": [
+        "Tetris Effect",
+        "Butterfly Effect",
+        "Happiness Effect",
+        "Success Effect"
+      ],
+      "why": "The Tetris Effect is described in the text."
+    },
+    {
+      "q": "What is the first lesson about happiness and success?",
+      "a": [
+        "Happiness comes before success",
+        "Success leads to happiness",
+        "Happiness is irrelevant",
+        "Success is the goal"
+      ],
+      "why": "Lesson 1 states happiness comes before success."
+    },
+    {
+      "q": "What does the book suggest to train your brain to spot positives?",
+      "a": [
+        "Use the Tetris Effect",
+        "Watch funny videos",
+        "Read positive quotes",
+        "Practice gratitude"
+      ],
+      "why": "It recommends using the Tetris Effect to spot positives."
+    },
+    {
+      "q": "Which scenario is the desired outcome after failure?",
+      "a": [
+        "Come back stronger",
+        "Nothing changes",
+        "Downward spiral",
+        "Random outcome"
+      ],
+      "why": "The text says you should aim to come back stronger."
+    }
+  ]
+}

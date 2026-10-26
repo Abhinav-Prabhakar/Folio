@@ -1,0 +1,56 @@
+{
+  "book": "the-geography-of-genius",
+  "title": "The Geography Of Genius",
+  "questions": [
+    {
+      "q": "Which city's cable car system was built as early as 1873, illustrating non‑individual genius?",
+      "a": [
+        "San Francisco",
+        "New York",
+        "Paris",
+        "London"
+      ],
+      "why": "The text cites San Francisco's cable cars as an example of collective genius."
+    },
+    {
+      "q": "What role did the Medici family play in Renaissance Florence's art scene?",
+      "a": [
+        "Patronage",
+        "Military support",
+        "Scientific research",
+        "Political leadership"
+      ],
+      "why": "The book notes the Medici financed art through patronage."
+    },
+    {
+      "q": "Which ancient city was described as the frontier of human progress 2,000 years ago?",
+      "a": [
+        "Athens",
+        "Rome",
+        "Carthage",
+        "Babylon"
+      ],
+      "why": "Athens is identified as the ancient hub of genius."
+    },
+    {
+      "q": "What concept did the Catholic Church invent to fund Renaissance innovation?",
+      "a": [
+        "Purgatory",
+        "Inquisition",
+        "Monasticism",
+        "Pilgrimage"
+      ],
+      "why": "The text explains the church's invention of purgatory financed art."
+    },
+    {
+      "q": "Who was the Stanford dean that invested in Hewlett‑Packard in the 1930s?",
+      "a": [
+        "Fred Terman",
+        "John Hopkins",
+        "Albert Einstein",
+        "Henry Ford"
+      ],
+      "why": "Fred Terman is named as the dean who backed HP."
+    }
+  ]
+}

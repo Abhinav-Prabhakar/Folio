@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-positive-thinking",
+  "title": "The Power Of Positive Thinking",
+  "questions": [
+    {
+      "q": "What does Peale claim determines your reality?",
+      "a": [
+        "Your thoughts about experiences",
+        "Your income level",
+        "Your genetic traits",
+        "Your social status"
+      ],
+      "why": "He says reality is determined by what you think about everything you experience."
+    },
+    {
+      "q": "How does Peale suggest reducing worry?",
+      "a": [
+        "Imagine a future self without worry",
+        "Avoid all stressful news",
+        "Meditate for hours daily",
+        "Take medication regularly"
+      ],
+      "why": "He recommends visualizing a worry‑free future to lessen current worries."
+    },
+    {
+      "q": "What concept does Peale link to believing in yourself?",
+      "a": [
+        "Self‑fulfilling prophecy",
+        "Law of attraction",
+        "Cognitive dissonance",
+        "Confirmation bias"
+      ],
+      "why": "He describes confidence leading to outcomes as a self‑fulfilling prophecy."
+    },
+    {
+      "q": "According to Peale, confidence alone cannot replace what?",
+      "a": [
+        "Competence",
+        "Optimism",
+        "Charisma",
+        "Wealth"
+      ],
+      "why": "He notes confidence isn't the same as competence, e.g., praising a poor math student won't improve performance."
+    },
+    {
+      "q": "Which earlier author discussed the self‑fulfilling prophecy before Peale?",
+      "a": [
+        "Napoleon Hill",
+        "Dale Carnegie",
+        "Stephen Covey",
+        "James Clear"
+      ],
+      "why": "The text mentions Napoleon Hill addressed the idea 80 years earlier."
+    }
+  ]
+}

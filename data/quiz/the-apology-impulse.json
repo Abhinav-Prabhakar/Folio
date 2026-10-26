@@ -1,0 +1,56 @@
+{
+  "book": "the-apology-impulse",
+  "title": "The Apology Impulse",
+  "questions": [
+    {
+      "q": "What is the book's main argument about corporate apologies?",
+      "a": [
+        "Constant apologizing drains the word of its meaning",
+        "Companies apologize far too rarely to customers",
+        "Apologies should always be made in writing",
+        "Customers prefer apologies to refunds"
+      ],
+      "why": "Lesson 1 uses American Airlines' roughly 200 daily apologies as an example."
+    },
+    {
+      "q": "What does the Tesco example show?",
+      "a": [
+        "Using the same words for grave and trivial errors weakens them",
+        "Apologizing quickly prevents public backlash",
+        "Companies should never admit fault online",
+        "Compensation matters more than wording"
+      ],
+      "why": "Lesson 1 contrasts a medication error with a costume labeling mistake."
+    },
+    {
+      "q": "Why did Zuckerberg's second privacy apology feel hollow?",
+      "a": [
+        "He was apologizing again for the same problem",
+        "He refused to appear in public",
+        "He blamed users for sharing data",
+        "He offered no compensation to anyone"
+      ],
+      "why": "Lesson 2 says apologies lose trust when nothing changes afterward."
+    },
+    {
+      "q": "What did JetBlue's CEO do after major disruptions?",
+      "a": [
+        "He apologized and published a customer bill of rights",
+        "He offered free flights to every customer",
+        "He fired the staff responsible",
+        "He waited for the anger to fade"
+      ],
+      "why": "Lesson 2 presents the action plan as the model for a real apology."
+    },
+    {
+      "q": "When does the summary say silence may be the best response?",
+      "a": [
+        "When you are not at fault and the noise will pass",
+        "When you want to avoid legal responsibility",
+        "When customers are clearly in the right",
+        "When a competitor is watching closely"
+      ],
+      "why": "Lesson 3 compares it to letting muddy water settle on its own."
+    }
+  ]
+}

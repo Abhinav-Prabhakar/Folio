@@ -1,0 +1,56 @@
+{
+  "book": "masters-of-scale",
+  "title": "Masters of Scale",
+  "questions": [
+    {
+      "q": "How does Hoffman suggest you treat a “no” from an investor?",
+      "a": [
+        "As a chance to reassess the idea and fix its weaknesses",
+        "As proof that the business idea cannot succeed",
+        "As a reason to stop pitching and work alone",
+        "As a signal to copy whatever the investor funds instead"
+      ],
+      "why": "Lesson 1 says a no should not stop you but should help you reevaluate and strengthen your idea."
+    },
+    {
+      "q": "How can you learn what customers really want?",
+      "a": [
+        "Watch what they do rather than what they say",
+        "Survey them and follow the most popular answer",
+        "Copy the features of the market leader",
+        "Ask investors which products will sell best"
+      ],
+      "why": "Lesson 2 says a great way to know customer thinking is to observe their actions, not their words."
+    },
+    {
+      "q": "What did Airbnb do when the pandemic disrupted its core business?",
+      "a": [
+        "It adapted by promoting remote work stays, virtual tours and local activities",
+        "It shut down all operations until travel returned to normal",
+        "It raised prices to make up for the lost bookings",
+        "It sold the company to a traditional hotel chain"
+      ],
+      "why": "Lesson 3 uses Airbnb to show that great leaders improvise and adapt when their business model is threatened."
+    },
+    {
+      "q": "What does the Starbucks example illustrate about leadership?",
+      "a": [
+        "A company can prioritize social responsibility before becoming profitable",
+        "Great leaders should avoid spending money on employees",
+        "Health benefits are only worthwhile once a company is large",
+        "Profit must always come before any community commitment"
+      ],
+      "why": "Lesson 3 notes Starbucks offered comprehensive health insurance to employees before it was profitable."
+    },
+    {
+      "q": "What should you check before scaling through referrals or big promotions?",
+      "a": [
+        "Whether your company can handle the sudden demand",
+        "Whether your competitors are running similar campaigns",
+        "Whether investors approve of the marketing budget",
+        "Whether customers will pay more after the promotion"
+      ],
+      "why": "Lesson 2 warns that promotions can speed growth, but you must know whether you can handle the response."
+    }
+  ]
+}

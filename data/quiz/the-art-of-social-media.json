@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-social-media",
+  "title": "The Art Of Social Media",
+  "questions": [
+    {
+      "q": "What does the author compare social media success to?",
+      "a": [
+        "A sport you must train for seriously if you want to go pro",
+        "A lottery that rewards whoever posts most often",
+        "A dinner party where manners matter most",
+        "A shop window that only needs occasional updates"
+      ],
+      "why": "Lesson 1 uses the losing softball team to show that a hobby approach will not produce results."
+    },
+    {
+      "q": "What profile changes does the summary recommend?",
+      "a": [
+        "Use your full name and a clear photo of your smiling face",
+        "Use a memorable nickname and an artistic avatar",
+        "Keep your account anonymous to protect privacy",
+        "Post only professional logos instead of photos"
+      ],
+      "why": "Lesson 1 advises dropping joke handles and using your real name and a friendly, recognizable picture."
+    },
+    {
+      "q": "What content mix does the summary recommend?",
+      "a": [
+        "Combine your own perspective with things your audience already wants to see",
+        "Post only your opinions so your voice stands out",
+        "Share only viral articles from other accounts",
+        "Publish the same promotional message every day"
+      ],
+      "why": "Lesson 2 says to mix your unique view with content people are already discussing and sharing."
+    },
+    {
+      "q": "How many social accounts does the summary suggest managing?",
+      "a": [
+        "Two, or at most three, so you can cross-promote without burning out",
+        "As many as possible to reach every platform",
+        "One, so your message stays consistent",
+        "Five, one for each content format"
+      ],
+      "why": "Lesson 3 warns that signing up for ten platforms leads to overwhelm and recommends two or three."
+    },
+    {
+      "q": "What is the point of letting your accounts talk to each other?",
+      "a": [
+        "Driving your audience from one platform to another",
+        "Keeping each audience completely separate",
+        "Testing which platform performs worst",
+        "Automating identical posts everywhere"
+      ],
+      "why": "Lesson 3 recommends using every chance to cross-promote so your audience grows faster."
+    }
+  ]
+}

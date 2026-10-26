@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-habit",
+  "title": "The Power Of Habit",
+  "questions": [
+    {
+      "q": "What is the first element of a habit loop?",
+      "a": [
+        "Cue",
+        "Routine",
+        "Reward",
+        "Trigger"
+      ],
+      "why": "The cue initiates the habit."
+    },
+    {
+      "q": "Which part can you change to alter a habit?",
+      "a": [
+        "Routine",
+        "Cue",
+        "Reward",
+        "Habit"
+      ],
+      "why": "Changing the routine while keeping cue and reward works."
+    },
+    {
+      "q": "What percentage of daily actions occur on autopilot?",
+      "a": [
+        "40%",
+        "60%",
+        "20%",
+        "80%"
+      ],
+      "why": "About 40% of actions are automatic."
+    },
+    {
+      "q": "Who inspired Duhigg with a story about a U.S. army major?",
+      "a": [
+        "Charles Duhigg",
+        "Major in Kufa",
+        "James Altucher",
+        "Daniel Pink"
+      ],
+      "why": "Duhigg was inspired by a U.S. army major in Kufa."
+    },
+    {
+      "q": "Which skill is described as the most important habit?",
+      "a": [
+        "Willpower",
+        "Coffee drinking",
+        "Eating",
+        "Sleeping"
+      ],
+      "why": "Willpower is highlighted as the key habit."
+    }
+  ]
+}

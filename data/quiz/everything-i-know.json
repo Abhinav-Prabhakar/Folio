@@ -1,0 +1,56 @@
+{
+  "book": "everything-i-know",
+  "title": "Everything I Know",
+  "questions": [
+    {
+      "q": "What should replace external yardsticks like money and followers?",
+      "a": [
+        "Your own inner values",
+        "Your employer's targets",
+        "Public approval ratings",
+        "Your formal credentials"
+      ],
+      "why": "Lesson 1 says to forget outside measures and ask what matters to you."
+    },
+    {
+      "q": "Why does Jarvis call specific long-term goals futile?",
+      "a": [
+        "You cannot control outcomes, only today's work",
+        "Goals take too long to write down",
+        "Goals discourage creative thinking",
+        "Goals only work for large companies"
+      ],
+      "why": "Lesson 2 says the future is unpredictable, but present work is yours to control."
+    },
+    {
+      "q": "What price does meaningful creative work demand?",
+      "a": [
+        "Sacrificing some consumption",
+        "Working longer hours at a job",
+        "Giving up your core values",
+        "Avoiding all collaboration"
+      ],
+      "why": "Lesson 2 says you must swap consumption for creation."
+    },
+    {
+      "q": "What does the summary say about where ideas come from?",
+      "a": [
+        "Mixing others' work with your own values",
+        "Arriving fully formed in isolation",
+        "Being unusable if borrowed",
+        "Losing value once adapted"
+      ],
+      "why": "Lesson 3 says every idea builds on accumulated experience."
+    },
+    {
+      "q": "What does the clay metaphor illustrate?",
+      "a": [
+        "Shaping borrowed ideas until they tell your story",
+        "Keeping your first draft exactly as written",
+        "Selling work before it is finished",
+        "Avoiding other people's influence entirely"
+      ],
+      "why": "Lesson 3 compares an idea to clay you shape to fit your values."
+    }
+  ]
+}

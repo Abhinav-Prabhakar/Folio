@@ -1,0 +1,56 @@
+{
+  "book": "small-giants",
+  "title": "Small Giants",
+  "questions": [
+    {
+      "q": "What is a small giant?",
+      "a": [
+        "A company that deliberately chooses not to expand",
+        "A startup growing as fast as possible",
+        "A firm recently bought by a larger rival",
+        "A company with no full-time employees"
+      ],
+      "why": "Lesson 1 defines small giants as firms that resist growth on purpose."
+    },
+    {
+      "q": "What did Bill Butler do when growth made him unhappy?",
+      "a": [
+        "He cut his clients from 25 to 10",
+        "He sold the company to investors",
+        "He opened offices in new cities",
+        "He hired a large management team"
+      ],
+      "why": "Lesson 1 says Butler shrank his client list so he could know his employees."
+    },
+    {
+      "q": "Why do many small giant founders avoid outside investors?",
+      "a": [
+        "To keep control over the company's direction",
+        "To qualify for government contracts",
+        "To reduce their own salaries",
+        "To attract more talented employees"
+      ],
+      "why": "Lesson 2 says outside money can dilute control over the business."
+    },
+    {
+      "q": "What does the Anchor Brewing example show?",
+      "a": [
+        "Choosing traditional methods because they make better beer",
+        "Expanding quickly to dominate the market",
+        "Cutting costs by using steel kettles",
+        "Selling the brand to a large brewery"
+      ],
+      "why": "Lesson 2 says Anchor uses copper kettles and night air for better beer."
+    },
+    {
+      "q": "What gives small giants their advantage, per the summary?",
+      "a": [
+        "Employees who share the owner's passion and vision",
+        "Lower prices than their larger rivals",
+        "Access to far more outside capital",
+        "Formal management structures and rules"
+      ],
+      "why": "Lesson 3 says shared passion creates a tight-knit company with soul."
+    }
+  ]
+}

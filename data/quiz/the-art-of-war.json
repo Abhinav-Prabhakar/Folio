@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-war",
+  "title": "The Art Of War",
+  "questions": [
+    {
+      "q": "What separates a strategist from a fool, according to the summary?",
+      "a": [
+        "The strategist knows how the battle will be won before it starts",
+        "The strategist fights more battles than anyone else",
+        "The strategist relies on superior numbers",
+        "The strategist waits for the enemy to attack first"
+      ],
+      "why": "Lesson 1 says fools fight and then look for a way to win, while strategists plan the win in advance."
+    },
+    {
+      "q": "Why does the summary mention Bobby Fischer?",
+      "a": [
+        "He withdrew after winning the world title and did not play for 20 years",
+        "He lost to a weaker opponent and retired in shame",
+        "He trained a group of young chess players",
+        "He wrote a book about military strategy"
+      ],
+      "why": "Lesson 1 uses Fischer as an example of a great competitor who avoided further battles."
+    },
+    {
+      "q": "What business lesson follows from the advice to avoid unwinnable battles?",
+      "a": [
+        "Pick a niche where you can beat the competition instead of fighting the giant",
+        "Undercut every rival until they go out of business",
+        "Copy the market leader's product exactly",
+        "Avoid competition by staying very small"
+      ],
+      "why": "Lesson 1 suggests that competing head-on with Coca-Cola is futile, but a targeted alternative could succeed."
+    },
+    {
+      "q": "What does deception aim to achieve?",
+      "a": [
+        "Making your opponent do what you want them to do",
+        "Making your opponent respect your strength",
+        "Hiding your product from customers",
+        "Delaying a battle until you are ready"
+      ],
+      "why": "Lesson 2 says disguising strength and weakness is meant to impose your will on the enemy."
+    },
+    {
+      "q": "How does the summary suggest leading a growing team?",
+      "a": [
+        "Break it into small groups and steer them with clear signals",
+        "Give every person a detailed daily schedule",
+        "Keep all decisions with the founder alone",
+        "Add layers of managers as headcount grows"
+      ],
+      "why": "Lesson 3 recommends small teams and clear signals, plus regular one-on-one contact."
+    }
+  ]
+}

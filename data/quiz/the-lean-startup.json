@@ -1,0 +1,56 @@
+{
+  "book": "the-lean-startup",
+  "title": "The Lean Startup",
+  "questions": [
+    {
+      "q": "What core concept is repeated throughout the book?",
+      "a": [
+        "Semi‑scientific",
+        "Intuitive",
+        "Creative",
+        "Spiritual"
+      ],
+      "why": "The book emphasizes a semi‑scientific approach to product development."
+    },
+    {
+      "q": "What method is used to compare product versions?",
+      "a": [
+        "Split‑testing",
+        "Marketing",
+        "Outsourcing",
+        "Hiring"
+      ],
+      "why": "Split‑testing (A/B testing) is described as a key technique."
+    },
+    {
+      "q": "Which metric is considered a vanity metric?",
+      "a": [
+        "Facebook likes",
+        "Revenue",
+        "Customer referrals",
+        "Profit margin"
+      ],
+      "why": "Likes are called vanity metrics that don't pay the bills."
+    },
+    {
+      "q": "What does the hypothesis in a startup aim to test?",
+      "a": [
+        "Customer demand",
+        "Marketing strategy",
+        "Brand loyalty",
+        "Product design"
+      ],
+      "why": "Hypotheses test whether customers will buy the product."
+    },
+    {
+      "q": "What is the main goal of split‑testing?",
+      "a": [
+        "Identify valued features",
+        "Increase page views",
+        "Boost press coverage",
+        "Raise stock price"
+      ],
+      "why": "It helps distinguish features customers value from those they don't."
+    }
+  ]
+}

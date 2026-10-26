@@ -1,0 +1,56 @@
+{
+  "book": "the-million-dollar-one-person-business",
+  "title": "The Million-Dollar, One-Person Business",
+  "questions": [
+    {
+      "q": "Who founded the website Examine.com?",
+      "a": [
+        "Sol Orwell",
+        "James Altucher",
+        "Tim Ferriss",
+        "James Clear"
+      ],
+      "why": "The text states Examine was founded by Sol Orwell in 2011."
+    },
+    {
+      "q": "How many paying members does Examine.com have according to the text?",
+      "a": [
+        "Over 13,000",
+        "Over 3,000",
+        "Over 30,000",
+        "Over 100,000"
+      ],
+      "why": "The text says Examine is funded by its over 13,000 paying members."
+    },
+    {
+      "q": "Working 1-2 hours per week on a side hustle adds up to roughly how many hours per year?",
+      "a": [
+        "50 to 100 hours",
+        "10 to 20 hours",
+        "200 to 300 hours",
+        "15 to 30 hours"
+      ],
+      "why": "The text states that 1-2 hours per week racks up 50-100 hours over the course of a year."
+    },
+    {
+      "q": "What type of product did Laszlo Nadler start selling with his one-person business?",
+      "a": [
+        "Calendars and planners",
+        "Online courses and e-books",
+        "Health supplements and guides",
+        "Software tools and templates"
+      ],
+      "why": "The text says Nadler decided to start selling calendars and planners."
+    },
+    {
+      "q": "How long did it take Laszlo Nadler to quit his full-time job?",
+      "a": [
+        "2 years",
+        "6 months",
+        "5 years",
+        "1 year"
+      ],
+      "why": "The text states it took him 2 years to quit his full-time job."
+    }
+  ]
+}

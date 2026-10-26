@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-a-conservative",
+  "title": "How to Be a Conservative",
+  "questions": [
+    {
+      "q": "How does Scruton say a healthy society should be built?",
+      "a": [
+        "From the bottom up, starting with its people",
+        "From the top down, under a strong leader",
+        "Around a single ruling political party",
+        "By leaving everything to the free market"
+      ],
+      "why": "Lesson one says conservatives believe society should grow from its people toward their representatives, not be ruled from above."
+    },
+    {
+      "q": "What does Scruton say is lost when a society abandons its history and values?",
+      "a": [
+        "The shared bond that holds people together",
+        "The efficiency of its government agencies",
+        "Its ability to trade with other nations",
+        "The loyalty of its youngest citizens"
+      ],
+      "why": "Lesson one warns that without a moral compass and shared history, a society becomes easier to divide and conquer."
+    },
+    {
+      "q": "Why does Scruton oppose state ownership of institutions and businesses?",
+      "a": [
+        "It puts dangerous amounts of power in a few hands",
+        "It makes goods too expensive for the poor",
+        "It discourages people from starting families",
+        "It weakens the country's military strength"
+      ],
+      "why": "Lesson two calls central ownership utopian and warns that concentrating so much power is dangerous."
+    },
+    {
+      "q": "Instead of closing private schools and clubs, what does Scruton recommend?",
+      "a": [
+        "Opening them up so more people can benefit",
+        "Taxing them heavily until they disappear",
+        "Reserving them for government officials",
+        "Letting each one set its own rules"
+      ],
+      "why": "Lesson two says the fix is to make elite institutions accessible to the masses rather than shut them down."
+    },
+    {
+      "q": "How does Scruton describe healthy nationalism?",
+      "a": [
+        "A family-like attachment to your country and its people",
+        "A belief that your nation should rule others",
+        "A rejection of all foreign goods and ideas",
+        "Loyalty to a political party above the nation"
+      ],
+      "why": "Lesson three compares a nation to a family and defines nationalism as affection and belonging, not blind obedience."
+    }
+  ]
+}

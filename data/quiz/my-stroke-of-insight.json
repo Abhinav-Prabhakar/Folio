@@ -1,0 +1,56 @@
+{
+  "book": "my-stroke-of-insight",
+  "title": "My Stroke Of Insight",
+  "questions": [
+    {
+      "q": "What is neuroplasticity, as the summary describes it?",
+      "a": [
+        "The brain's ability to keep changing and learning for life",
+        "The brain's habit of storing memories in one place",
+        "The left brain's control over language and numbers",
+        "The mind's tendency to repeat childhood patterns"
+      ],
+      "why": "Lesson 1 defines neuroplasticity as the brain changing and learning from birth to death."
+    },
+    {
+      "q": "Which jobs does the summary assign to the left hemisphere?",
+      "a": [
+        "Language, numbers, patterns and time",
+        "Sensory perception and the present moment",
+        "Balance, movement and spatial awareness",
+        "Emotion, intuition and big-picture calm"
+      ],
+      "why": "Lesson 2 says the left side handles language and numbers and lets us see patterns and perceive time."
+    },
+    {
+      "q": "What did Taylor feel once her left hemisphere went quiet?",
+      "a": [
+        "Calm and connected, without fear of the future",
+        "Panicked and unable to recognize her body",
+        "Angry at the doctors who treated her",
+        "Numb and indifferent to everything around her"
+      ],
+      "why": "Lesson 2 describes her right brain taking charge, leaving her neither scared of the present nor fearful of the future."
+    },
+    {
+      "q": "What does the summary say mindfulness really is, according to Taylor?",
+      "a": [
+        "A calm that already lives in the right brain",
+        "A skill only experienced meditators possess",
+        "A trait that some people are born without",
+        "A technique that requires years of practice"
+      ],
+      "why": "Lesson 3 argues that peace and calm come from the right brain, so mindfulness is already within everyone."
+    },
+    {
+      "q": "What does Taylor mean by saying peace is only a thought away?",
+      "a": [
+        "The right brain's calm is always available to visit",
+        "Peace arrives only after long meditation practice",
+        "Calm depends on removing every negative thought",
+        "Peace must be earned through good deeds"
+      ],
+      "why": "Lesson 3 says the right brain's orientation is always there, available whenever you need an emotional breather."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "this-is-your-brain-on-music",
+  "title": "This Is Your Brain On Music",
+  "questions": [
+    {
+      "q": "What role does music play in human evolution according to most scientists?",
+      "a": [
+        "It helped develop speech",
+        "It is only a pleasure byproduct",
+        "It evolved after language",
+        "It has no evolutionary function"
+      ],
+      "why": "Levitin states music paved the way for speech development."
+    },
+    {
+      "q": "Why do people often feel emotional when \"Here Comes The Bride\" plays?",
+      "a": [
+        "They can predict the melody",
+        "They dislike the song",
+        "The tempo is unusually fast",
+        "It contains dissonant chords"
+      ],
+      "why": "Familiarity and prediction of the tune trigger emotion."
+    },
+    {
+      "q": "What creates a lasting imprint in the brain the first time a song is heard?",
+      "a": [
+        "A unique set of neurons firing together",
+        "Increased heart rate",
+        "Release of adrenaline",
+        "Activation of visual cortex"
+      ],
+      "why": "Levitin describes a specific neuronal pattern forming an imprint."
+    },
+    {
+      "q": "Which brain areas are activated simultaneously during music listening?",
+      "a": [
+        "Subcortical structures, auditory cortices, hippocampus",
+        "Motor cortex only",
+        "Prefrontal cortex alone",
+        "Spinal cord"
+      ],
+      "why": "The book lists these regions lighting up together."
+    },
+    {
+      "q": "What balances comfort and excitement in a great song?",
+      "a": [
+        "Surprising yet predictable elements",
+        "Constant loudness",
+        "Random rhythm changes",
+        "No melody"
+      ],
+      "why": "Levitin says great songs surprise without being too unexpected."
+    }
+  ]
+}

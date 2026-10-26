@@ -1,0 +1,56 @@
+{
+  "book": "trust-yourself",
+  "title": "Trust Yourself",
+  "questions": [
+    {
+      "q": "What term does Wilding use for the addiction to achievement?",
+      "a": [
+        "Honor Roll Hangover",
+        "Productivity Obsession",
+        "Success Dependency",
+        "Performance Fixation"
+      ],
+      "why": "She calls the addiction to validation the Honor Roll Hangover."
+    },
+    {
+      "q": "How does Wilding define a sensitive striver?",
+      "a": [
+        "Highly emotional, deeply empathetic, not necessarily a perfectionist",
+        "Introverted, overachieving, perfectionist",
+        "Low stress, detached, indifferent",
+        "Highly analytical, logical, unemotional"
+      ],
+      "why": "Sensitive strivers feel emotions deeply and are more empathic."
+    },
+    {
+      "q": "What is the first step in Wilding's three‑phase process?",
+      "a": [
+        "Self‑awareness",
+        "Goal setting",
+        "Time management",
+        "Skill development"
+      ],
+      "why": "She states knowing where you stand is the first step."
+    },
+    {
+      "q": "Which feeling does Wilding link to overthinking?",
+      "a": [
+        "Analyzing repeatedly and reaching false conclusions",
+        "Feeling confident in decisions",
+        "Experiencing calm focus",
+        "Enjoying spontaneous ideas"
+      ],
+      "why": "Overthinkers analyze repeatedly and often miss truth."
+    },
+    {
+      "q": "What consequence does the Honor Roll Hangover have on inner peace?",
+      "a": [
+        "It can destroy inner peace",
+        "It boosts confidence",
+        "It improves productivity",
+        "It enhances creativity"
+      ],
+      "why": "She notes it can cost you your inner peace."
+    }
+  ]
+}

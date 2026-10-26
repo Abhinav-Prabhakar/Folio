@@ -1,0 +1,56 @@
+{
+  "book": "everybody-matters",
+  "title": "Everybody Matters",
+  "questions": [
+    {
+      "q": "How does the summary suggest leaders should see their role?",
+      "a": [
+        "As stewardship of their people's well-being",
+        "As control over daily tasks and output",
+        "As a reward for top performers",
+        "As a system of strict accountability"
+      ],
+      "why": "Lesson 1 says leadership should go beyond tradition and become stewardship."
+    },
+    {
+      "q": "What does responsible freedom look like at work?",
+      "a": [
+        "Define what winning means, then let people decide how",
+        "Let employees set their own salaries and hours",
+        "Remove all goals, deadlines and measurements",
+        "Promote only people who have been there longest"
+      ],
+      "why": "Lesson 2 describes the just enough strategy of clear goals plus autonomy."
+    },
+    {
+      "q": "What did Design Group do before setting a growth goal?",
+      "a": [
+        "Put existing employees first and improved the workplace",
+        "Cut staff in order to protect its profits",
+        "Opened offices in several new countries",
+        "Hired an outside turnaround firm"
+      ],
+      "why": "Lesson 3 says they focused on people before planning to double."
+    },
+    {
+      "q": "How should a leader show genuine care, per lesson 1?",
+      "a": [
+        "Talk with employees and learn about their lives",
+        "Ask mainly about their productivity numbers",
+        "Send regular company-wide memos",
+        "Offer occasional cash bonuses"
+      ],
+      "why": "Lesson 1 warns that asking only about output shows narrow concern."
+    },
+    {
+      "q": "What does cultural visioning ask a team to consider?",
+      "a": [
+        "Where they want to be in a few years and why",
+        "Which competitors they should acquire",
+        "How to cut costs this quarter",
+        "Which employees deserve promotion"
+      ],
+      "why": "Lesson 3 says to start with the destination, then examine the reason."
+    }
+  ]
+}

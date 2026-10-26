@@ -1,0 +1,56 @@
+{
+  "book": "made-to-stick",
+  "title": "Made To Stick",
+  "questions": [
+    {
+      "q": "What six traits make up the SUCCES model for sticky ideas?",
+      "a": [
+        "Simple, unexpected, concrete, credible, emotional and stories",
+        "Short, urgent, clever, current, entertaining and shareable",
+        "Specific, useful, clear, consistent, engaging and surprising",
+        "Simple, unique, colorful, convincing, exciting and structured"
+      ],
+      "why": "The overview spells out the acronym: simple, unexpected, concrete, credible, emotional and stories."
+    },
+    {
+      "q": "Why do sticky ideas need to be unexpected?",
+      "a": [
+        "People ignore what fails to surprise them, so it never gets noticed",
+        "Surprise makes an idea easier to remember word for word",
+        "Unexpected claims are automatically more credible to audiences",
+        "People only trust ideas that contradict what they already know"
+      ],
+      "why": "Lesson 1 says if something does not stand out it is as if it is not there, so surprise earns attention."
+    },
+    {
+      "q": "What is a curiosity gap?",
+      "a": [
+        "Showing people they lack an important piece of knowledge and letting them seek it",
+        "Leaving key details vague so your audience has to guess your meaning",
+        "Asking a question you already know the answer to",
+        "Promising a reward before revealing any useful information"
+      ],
+      "why": "Lesson 2 defines it as convincing people something important is missing and giving them a way to find out."
+    },
+    {
+      "q": "Which three story patterns does the summary describe?",
+      "a": [
+        "Challenge, reaching out and creativity",
+        "Conflict, recovery and discovery",
+        "Rags to riches, revenge and romance",
+        "Warning, instruction and inspiration"
+      ],
+      "why": "Lesson 3 names challenge, reaching out and creativity as timeless patterns for stories that stick."
+    },
+    {
+      "q": "What does the Subway example illustrate about making ideas stick?",
+      "a": [
+        "A memorable customer story can be more powerful than advertising claims",
+        "Discounts and promotions are the most reliable way to attract buyers",
+        "Health claims only work when backed by official statistics",
+        "Long-running campaigns matter more than any single story"
+      ],
+      "why": "Lesson 3 contrasts ordinary slogans with the story of a man who lost 200 pounds eating Subway."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "mini-habits",
+  "title": "Mini Habits",
+  "questions": [
+    {
+      "q": "Why does the summary say starting with a single push-up works?",
+      "a": ["Getting started creates momentum for more", "One push-up builds strength faster than many", "It removes the need for any workout plan", "It burns more fat than a full training session"],
+      "why": "Lesson 1 applies Newton's first law: once you begin, adding a few more reps feels easy."
+    },
+    {
+      "q": "What does the summary say is a more reliable driver of habits than motivation?",
+      "a": ["Willpower", "Inspiration", "Accountability partners", "Rewards"],
+      "why": "The overview says motivation is unreliable, so the book builds its strategy on willpower."
+    },
+    {
+      "q": "What does the summary call the most important part of tracking habits?",
+      "a": ["Checking the tracker daily and noting progress", "Choosing an app with a large community", "Recording only the days you succeed", "Setting a brand new goal each week"],
+      "why": "Lesson 2 says looking at the tracker every day keeps progress visible and reminds you to finish."
+    },
+    {
+      "q": "What does the summary advise after you greatly exceed a mini habit goal?",
+      "a": ["Treat it as a bonus and keep the standard small", "Raise the goal to match your best day", "Add a second habit straight away", "Pause the habit until motivation returns"],
+      "why": "Lesson 3 warns that raising the bar after a record day is a trap that leads to falling off."
+    },
+    {
+      "q": "What does the summary say it means when a mini habit starts to feel boring?",
+      "a": ["It has become a real habit", "It is time to choose a harder goal", "It has stopped being useful", "You need a different reward"],
+      "why": "Lesson 3 says boredom signals that the behavior has settled into a habit, which is worth celebrating."
+    }
+  ]
+}

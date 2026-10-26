@@ -1,0 +1,56 @@
+{
+  "book": "the-dip",
+  "title": "The Dip",
+  "questions": [
+    {
+      "q": "In the retail store example, what makes an employee more valuable to the company?",
+      "a": [
+        "Handling difficult customers well",
+        "Refilling shelves quickly",
+        "Working longer hours",
+        "Knowing all product prices"
+      ],
+      "why": "From the lesson on surviving the dip, the retail store example contrasts replaceable shelf-refilling with valuable difficult-customer handling."
+    },
+    {
+      "q": "According to the International Ice Cream Association, what percentage of U.S. ice cream sales does vanilla account for?",
+      "a": [
+        "Almost 30%",
+        "About 15%",
+        "Roughly 20%",
+        "Nearly 40%"
+      ],
+      "why": "From the lesson on being the best, the book cites the International Ice Cream Association for vanilla at nearly 30 percent of U.S. sales."
+    },
+    {
+      "q": "What does Zipf's law describe in the context of the book?",
+      "a": [
+        "The large gap in results between first and second place",
+        "The rate at which new businesses fail",
+        "The time needed to master a skill",
+        "The cost of entering a new market"
+      ],
+      "why": "From the lesson on being the best, Zipf's law is introduced to explain the large gap between first and second place results."
+    },
+    {
+      "q": "How does the book distinguish smart quitting from failing?",
+      "a": [
+        "Smart quitting is a conscious choice; failing is running out of options",
+        "Smart quitting means giving up early; failing means trying too hard",
+        "Smart quitting avoids risk; failing embraces it",
+        "Smart quitting is for small businesses; failing is for large ones"
+      ],
+      "why": "From the lesson on identifying when to give up, the book frames smart quitting as a conscious choice versus failing as running out of options."
+    },
+    {
+      "q": "In the figure skating example, what represents the dip?",
+      "a": [
+        "The long practice needed to learn jumps",
+        "The initial excitement of gliding on ice",
+        "The first time falling on the ice",
+        "The decision to stop skating"
+      ],
+      "why": "From the overview, the figure skating analogy shows the dip as the long slow slog of learning jumps after initial gliding excitement."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-third-door",
+  "title": "The Third Door",
+  "questions": [
+    {
+      "q": "What does Banayan describe as the \"third door\" in success?",
+      "a": [
+        "A resourceful, unconventional path",
+        "Waiting in a long line",
+        "VIP entrance only for the elite",
+        "Following a mentor's exact steps"
+      ],
+      "why": "He says success requires a sneaky, resourceful route beyond the first two doors."
+    },
+    {
+      "q": "Which trait did all interviewees share according to Banahan?",
+      "a": [
+        "Tenacity",
+        "Charisma",
+        "Wealth",
+        "Technical skill"
+      ],
+      "why": "He notes persistence, specifically tenacity, was common among successful people."
+    },
+    {
+      "q": "What fear held Bill Gates back before his famous call?",
+      "a": [
+        "Paralyzing self‑doubt",
+        "Lack of funding",
+        "Legal concerns",
+        "Technical incompetence"
+      ],
+      "why": "Gates was scared to make the phone call, nearly missing his breakthrough."
+    },
+    {
+      "q": "How did Walmart finally improve its market share?",
+      "a": [
+        "Shifted mindset after a poster about Amazon",
+        "Copied Amazon's exact tech",
+        "Reduced prices dramatically",
+        "Acquired a competitor"
+      ],
+      "why": "An executive hung a poster, changed strategy, and share rose."
+    },
+    {
+      "q": "What lesson does Banayan draw about copying others?",
+      "a": [
+        "Success requires finding your own path",
+        "Imitation guarantees profit",
+        "Mimicry is the fastest route",
+        "Following trends is essential"
+      ],
+      "why": "He stresses you must define success yourself, not just copy."
+    }
+  ]
+}

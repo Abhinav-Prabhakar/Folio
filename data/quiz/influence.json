@@ -1,0 +1,56 @@
+{
+  "book": "influence",
+  "title": "Influence",
+  "questions": [
+    {
+      "q": "What does the reciprocity principle make people want to do?",
+      "a": [
+        "Return a favor, often with something bigger",
+        "Follow the lead of a large crowd",
+        "Act fast before an offer disappears",
+        "Stay consistent with a public promise"
+      ],
+      "why": "Lesson 1 says we feel compelled to repay, and usually give back more than we received."
+    },
+    {
+      "q": "In the Cornell raffle study, what happened after Joe gave people a bottle of Coke?",
+      "a": [
+        "They bought twice as many tickets as those who got nothing",
+        "They refused the bottle and avoided the raffle",
+        "They bought the same number of tickets as everyone",
+        "They asked Joe to return the bottle for cash"
+      ],
+      "why": "Lesson 1 says the people who owed him spent 50 cents, twice what others spent on tickets."
+    },
+    {
+      "q": "Why is the scarcity principle so effective?",
+      "a": [
+        "We regret missing chances and act before they vanish",
+        "We trust products that few other people own",
+        "We assume expensive items must be higher quality",
+        "We copy the choices of people we admire"
+      ],
+      "why": "Lesson 2 says regret is a powerful feeling, so limited-time offers push us to buy."
+    },
+    {
+      "q": "In the beach study, what made people chase the thief?",
+      "a": [
+        "They had agreed to watch their neighbor's belongings",
+        "They had been offered a reward for helping",
+        "They saw several others running after him",
+        "They recognized the thief from earlier that day"
+      ],
+      "why": "Lesson 3 says a small commitment triggered consistency, and 95 percent of those people intervened."
+    },
+    {
+      "q": "How can consistency bias help you build a habit?",
+      "a": [
+        "A small commitment makes you want to follow through",
+        "Rewarding each effort keeps motivation high",
+        "Announcing a big goal attracts outside support",
+        "Removing temptations makes the habit automatic"
+      ],
+      "why": "Lesson 3 suggests starting with mini commitments, like not hitting snooze, and letting consistency carry you."
+    }
+  ]
+}

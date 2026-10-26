@@ -1,0 +1,31 @@
+{
+  "book": "bullshit-jobs",
+  "title": "Bullshit Jobs",
+  "questions": [
+    {
+      "q": "According to the polling survey cited, how many Americans think their jobs are meaningless?",
+      "a": ["One quarter", "One half", "One tenth", "Three quarters"],
+      "why": "Lesson 1 cites a YouGov survey in which a quarter of American workers described their jobs as meaningless."
+    },
+    {
+      "q": "Why do pointless jobs persist in the private sector, according to Graeber?",
+      "a": ["A cultural and political bias toward employment", "They reliably increase company profits", "Government rules require the hiring", "Customers demand more personal service"],
+      "why": "Lesson 2 says politicians on both sides push for jobs or tax cuts, keeping inefficient roles in place."
+    },
+    {
+      "q": "What happened when Simon showed a bank software that automated a 25-person team?",
+      "a": ["The executive rejected it because it shrank his team", "The bank promoted him and expanded the team", "The bank sold the software to a rival", "The team adopted it and cut costs"],
+      "why": "Lesson 2 describes an executive protecting his entourage, since losing the team would make him seem less important."
+    },
+    {
+      "q": "How would universal basic income change the balance of power at work?",
+      "a": ["Employees could leave pointless jobs without fear", "Employers could pay workers much less", "Managers would gain control over tasks", "The government would assign people jobs"],
+      "why": "Lesson 3 argues a basic income lets workers walk away from degrading work, so they can choose something meaningful."
+    },
+    {
+      "q": "What does the summary use lottery winners as evidence for?",
+      "a": ["People still want work that gives them purpose", "Money does not buy lasting happiness", "Luck matters more than effort in careers", "Retirement is bad for people's health"],
+      "why": "Lesson 1 notes that winners who no longer need money still feel an urge to work, showing the need for purpose."
+    }
+  ]
+}

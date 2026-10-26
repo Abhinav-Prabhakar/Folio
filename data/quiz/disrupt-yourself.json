@@ -1,0 +1,31 @@
+{
+  "book": "disrupt-yourself",
+  "title": "Disrupt Yourself",
+  "questions": [
+    {
+      "q": "What kind of risk do you take when your product or service is completely new?",
+      "a": ["Market risk, because demand is unknown", "Competitive risk, because rivals are established", "Financial risk, because funding is scarce", "Regulatory risk, because rules are unclear"],
+      "why": "Lesson 1 defines market risk as not knowing whether the world will want and pay for something new."
+    },
+    {
+      "q": "According to the study cited in the summary, which businesses fared better on average?",
+      "a": ["Those that took market risk", "Those that took competitive risk", "Those with the largest initial funding", "Those that copied a proven model"],
+      "why": "Lesson 1 reports that far more market-risk companies reached $100 million in sales than competitive-risk ones."
+    },
+    {
+      "q": "What common approach to self-improvement does the summary call a mistake?",
+      "a": ["Trying to smooth out every weakness", "Building on what you already do well", "Seeking feedback from your community", "Specialising in a single skill early"],
+      "why": "Lesson 2 says chasing a well-rounded profile wastes the strengths you could pair with unmet needs."
+    },
+    {
+      "q": "What does the Hundred-Foot Journey example illustrate?",
+      "a": ["Combining your skill with a local need creates something new", "Family businesses rarely survive a move abroad", "Traditional cooking beats fusion cuisine", "Competition between restaurants helps both sides"],
+      "why": "Lesson 2 describes the family's Indian cooking skills succeeding once paired with the French restaurant's customers."
+    },
+    {
+      "q": "What does the summary say successful careers and companies have in common?",
+      "a": ["They stay curious and adaptable", "They pick one path and never deviate", "They avoid all forms of risk", "They copy whatever the market leader does"],
+      "why": "Lesson 3 says careers are not straight lines and most successful firms end up with a different product or strategy."
+    }
+  ]
+}

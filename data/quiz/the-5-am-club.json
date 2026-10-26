@@ -1,0 +1,56 @@
+{
+  "book": "the-5-am-club",
+  "title": "The 5 AM Club",
+  "questions": [
+    {
+      "q": "What are the four interior empires the summary says must stay balanced?",
+      "a": [
+        "Mindset, Heartset, Healthset and Soulset",
+        "Mindset, Skillset, Toolset and Network",
+        "Body, Mind, Spirit and Community",
+        "Health, Wealth, Love and Purpose"
+      ],
+      "why": "Lesson 2 names these four empires and ties each to mental, emotional, physical and spiritual health."
+    },
+    {
+      "q": "Why does the summary say the early morning suits deep focus?",
+      "a": [
+        "The prefrontal cortex quiets and calming brain chemicals rise",
+        "Memory centers become more active before dawn",
+        "Cortisol peaks and supplies extra energy",
+        "The mind replays the previous day's problems"
+      ],
+      "why": "Lesson 1: with fewer distractions and a quieter prefrontal cortex, focus and mood both improve."
+    },
+    {
+      "q": "Which three activities make up the 20/20/20 formula?",
+      "a": [
+        "Exercise, reflection and learning",
+        "Reading, journaling and planning",
+        "Meditation, breakfast and review",
+        "Stretching, news and email"
+      ],
+      "why": "Lesson 3 splits the first hour into movement, reflection or meditation, and growth."
+    },
+    {
+      "q": "What does the summary say sweating does for the brain and body?",
+      "a": [
+        "It lowers cortisol and releases a brain-repairing factor",
+        "It raises dopamine and sharpens short-term memory",
+        "It increases serotonin and improves sleep",
+        "It replaces the need for a morning meditation"
+      ],
+      "why": "Lesson 3 says sweat cuts cortisol and triggers BDNF, which helps build new neural pathways."
+    },
+    {
+      "q": "Why does waking at 5 a.m. let you accomplish more, per the summary?",
+      "a": [
+        "Your attention has not yet been consumed by distractions",
+        "Your willpower is naturally highest at dawn",
+        "Your body needs less sleep than most people think",
+        "Your goals feel clearer before others wake up"
+      ],
+      "why": "Lesson 1 describes mental bandwidth filling up with media and chatter as the day goes on."
+    }
+  ]
+}

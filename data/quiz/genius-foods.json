@@ -1,0 +1,56 @@
+{
+  "book": "genius-foods",
+  "title": "Genius Foods",
+  "questions": [
+    {
+      "q": "What did doctors wrongly advise for decades, according to the summary?",
+      "a": [
+        "Switching to low-fat foods",
+        "Eating more red meat",
+        "Avoiding all vegetables",
+        "Fasting one day a week"
+      ],
+      "why": "The first lesson says fat is recovering its reputation after years of misplaced low-fat advice."
+    },
+    {
+      "q": "Which foods does the summary list as rich in omega-3 fats?",
+      "a": [
+        "Mackerel, salmon, sardines and grass-fed meat",
+        "Olive oil, avocados and mixed nuts",
+        "Bread, pasta and white rice",
+        "Coconut oil, butter and full-fat yogurt"
+      ],
+      "why": "The first lesson says omega-3s support memory, brain cell function and mood."
+    },
+    {
+      "q": "How does the summary suggest you start producing ketones?",
+      "a": [
+        "Fast for 16 hours now and then",
+        "Skip dinner every single night",
+        "Eat only protein for a week",
+        "Exercise before breakfast daily"
+      ],
+      "why": "The second lesson says a 16-hour fast still leaves eight hours in the day for eating."
+    },
+    {
+      "q": "Why are ketones described as a cleaner fuel than glucose?",
+      "a": [
+        "They are made in fewer steps and leave less waste",
+        "They carry far more calories per gram",
+        "They are absorbed directly from the air",
+        "They never affect insulin levels at all"
+      ],
+      "why": "The second lesson compares the switch to going from a gas car to an electric one."
+    },
+    {
+      "q": "What does the Genius Plan ask you to avoid during its first 14 days?",
+      "a": [
+        "Processed carbs, sweeteners, gluten and soft drinks",
+        "All fats, including olive oil and nuts",
+        "Fruit, vegetables and eggs",
+        "Meat, fish and dairy"
+      ],
+      "why": "The third lesson says clearing these from your pantry reduces brain inflammation before carbs return."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "why-are-we-yelling",
+  "title": "Why Are We Yelling?",
+  "questions": [
+    {
+      "q": "What feeling arises when we encounter opposing views?",
+      "a": [
+        "Cognitive dissonance",
+        "Elation",
+        "Indifference",
+        "Apathy"
+      ],
+      "why": "Text defines cognitive dissonance from conflict."
+    },
+    {
+      "q": "Which voice tries to make us win in a disagreement?",
+      "a": [
+        "Power",
+        "Reason",
+        "Avoidance",
+        "Possibility"
+      ],
+      "why": "Power voice seeks to win."
+    },
+    {
+      "q": "What tool helps navigate disagreements according to the book?",
+      "a": [
+        "Asking the right questions",
+        "Speaking louder",
+        "Avoiding the topic",
+        "Changing the subject"
+      ],
+      "why": "Questions are described as the golden ticket."
+    },
+    {
+      "q": "How does the book suggest we engage with dangerous ideas?",
+      "a": [
+        "Use head, heart, and hands",
+        "Ignore them completely",
+        "Attack the speaker",
+        "Dismiss the logic"
+      ],
+      "why": "Engage with head, heart, hands to understand."
+    },
+    {
+      "q": "What game is used as a metaphor for questioning in arguments?",
+      "a": [
+        "Battleship",
+        "Chess",
+        "Checkers",
+        "Monopoly"
+      ],
+      "why": "Battleship analogy illustrates asking questions."
+    }
+  ]
+}

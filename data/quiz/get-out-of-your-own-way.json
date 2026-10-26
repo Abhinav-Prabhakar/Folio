@@ -1,0 +1,56 @@
+{
+  "book": "get-out-of-your-own-way",
+  "title": "Get Out Of Your Own Way",
+  "questions": [
+    {
+      "q": "What did Dave Hollis do after succeeding as head of sales at Disney?",
+      "a": [
+        "He quit to work in his wife's business",
+        "He asked for a bigger promotion",
+        "He started his own film studio",
+        "He retired early to travel"
+      ],
+      "why": "The overview says he was successful but miserable, so he left despite what everyone expected."
+    },
+    {
+      "q": "What did his son Jackson's class president run teach Dave?",
+      "a": [
+        "Losing does not make you a failure",
+        "Politics is not worth the effort",
+        "Practice guarantees a win",
+        "Parents should choose their children's goals"
+      ],
+      "why": "The first lesson says Dave had failed at the same dream twice, so he could show his son that defeat is survivable."
+    },
+    {
+      "q": "What is a fixed mindset?",
+      "a": [
+        "Believing your skills and talents cannot change",
+        "Believing effort always pays off",
+        "Believing talent is passed down in families",
+        "Believing failure is only temporary"
+      ],
+      "why": "The first lesson says a growth mindset means knowing you can change anything about yourself."
+    },
+    {
+      "q": "What did the Hollises' adoption struggle illustrate?",
+      "a": [
+        "Pushing through pain can be worth it",
+        "Adoption agencies are usually unreliable",
+        "Luck matters more than effort",
+        "Some goals should be abandoned early"
+      ],
+      "why": "The second lesson says they kept going after losing the twins and eventually adopted a daughter."
+    },
+    {
+      "q": "What is a limiting belief?",
+      "a": [
+        "A false story about yourself that you accept as fact",
+        "A rule imposed on you by your family",
+        "A fear based on clear evidence",
+        "A goal that is simply too ambitious"
+      ],
+      "why": "The third lesson says such beliefs put invisible fences around what you are capable of."
+    }
+  ]
+}

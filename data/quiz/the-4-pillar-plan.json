@@ -1,0 +1,56 @@
+{
+  "book": "the-4-pillar-plan",
+  "title": "The 4 Pillar Plan",
+  "questions": [
+    {
+      "q": "Which four pillars of health does Chatterjee describe?",
+      "a": [
+        "Relaxation, eating, movement and sleep",
+        "Diet, medicine, strength and rest",
+        "Breathing, fasting, walking and stretching",
+        "Nutrition, cardio, mindfulness and routine"
+      ],
+      "why": "The overview names the four habits the book builds its plan around."
+    },
+    {
+      "q": "What single change does the summary say nearly every diet could use?",
+      "a": [
+        "Eating far less sugar",
+        "Eating more protein at every meal",
+        "Cutting out all carbohydrates",
+        "Fasting for a full day each week"
+      ],
+      "why": "Lesson 1 says doctors agree we consume far too much sugar, whatever diet we follow."
+    },
+    {
+      "q": "What should you look for on labels to spot hidden sugar?",
+      "a": [
+        "Words ending in -ose",
+        "Words ending in -free",
+        "Numbers in the ingredient list",
+        "The traffic-light colour codes"
+      ],
+      "why": "Lesson 1 warns that sugar is disguised under many names, and the -ose ending is one clue."
+    },
+    {
+      "q": "Which word does Chatterjee suggest using instead of exercise?",
+      "a": [
+        "Movement",
+        "Training",
+        "Activity",
+        "Conditioning"
+      ],
+      "why": "Lesson 2 wants us to speak of movement, so daily motion matters more than formal workouts."
+    },
+    {
+      "q": "How does the summary suggest judging the quality of your sleep?",
+      "a": [
+        "By whether you wake refreshed and at a regular time",
+        "By counting the hours you spend in bed",
+        "By how quickly you fall asleep after lunch",
+        "By how vivid your dreams were that night"
+      ],
+      "why": "Lesson 3 offers three checks, including waking without an alarm and feeling rested."
+    }
+  ]
+}

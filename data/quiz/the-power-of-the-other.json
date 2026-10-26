@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-the-other",
+  "title": "The Power Of The Other",
+  "questions": [
+    {
+      "q": "Which corner relationship is described as having no real connection?",
+      "a": [
+        "Corner one",
+        "Corner two",
+        "Corner three",
+        "Corner four"
+      ],
+      "why": "The text says corner one is not a connection at all."
+    },
+    {
+      "q": "What is the main benefit of corner four relationships?",
+      "a": [
+        "Freedom and responsibility",
+        "Mental baggage removal",
+        "Phone number deletion",
+        "Team sync"
+      ],
+      "why": "Corner four relationships are defined by freedom and responsibility."
+    },
+    {
+      "q": "What action did the author take to reduce phone contacts?",
+      "a": [
+        "Deleted 20 numbers",
+        "Added 20 numbers",
+        "Changed phone plan",
+        "Updated contact names"
+      ],
+      "why": "The author deleted about 20 numbers to reduce contacts."
+    },
+    {
+      "q": "According to Dr. Cloud, how many connection corners exist?",
+      "a": [
+        "Four",
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "why": "The text lists four connection corners."
+    },
+    {
+      "q": "What does the author say about best relationships solving problems?",
+      "a": [
+        "They give feedback, not solutions",
+        "They solve all problems",
+        "They ignore problems",
+        "They create problems"
+      ],
+      "why": "Corner four relationships give feedback but don't solve problems for you."
+    }
+  ]
+}

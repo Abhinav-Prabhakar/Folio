@@ -1,0 +1,56 @@
+{
+  "book": "be-where-your-feet-are",
+  "title": "Be Where Your Feet Are",
+  "questions": [
+    {
+      "q": "What mindset does the book suggest adopting toward strangers' actions?",
+      "a": [
+        "Assume they have good intentions unless proven otherwise",
+        "Assume they are always acting selfishly",
+        "Ignore their motives entirely",
+        "Judge them based on first impressions"
+      ],
+      "why": "Lesson 1 advises assuming the best in people even when you have reasons not to."
+    },
+    {
+      "q": "How does the author describe \"failing productively\"?",
+      "a": [
+        "Viewing failure as a learning chance and analyzing mistakes",
+        "Avoiding failure by never taking risks",
+        "Celebrating failure without reflection",
+        "Blaming others for any setback"
+      ],
+      "why": "Lesson 2 explains that treating failure as a lesson leads to productive outcomes."
+    },
+    {
+      "q": "What does \"trust the process\" entail according to the book?",
+      "a": [
+        "Believing consistent effort will eventually yield results",
+        "Expecting instant success after the first attempt",
+        "Relying on luck rather than planning",
+        "Skipping steps to speed up achievement"
+      ],
+      "why": "Lesson 3 defines trusting the process as believing hard work pays off over time."
+    },
+    {
+      "q": "Which concept explains why choosing one activity means losing another?",
+      "a": [
+        "Opportunity cost",
+        "Marginal utility",
+        "Supply and demand",
+        "Economies of scale"
+      ],
+      "why": "The overview introduces opportunity cost as the loss incurred when selecting one option over another."
+    },
+    {
+      "q": "Why is patience highlighted as essential for long‑term goals?",
+      "a": [
+        "Big objectives often need more time and repeated effort",
+        "Because quick wins are always better",
+        "Patience guarantees immediate results",
+        "It eliminates the need for planning"
+      ],
+      "why": "Lesson 3 stresses that patient, incremental progress is the foundation of lasting success."
+    }
+  ]
+}

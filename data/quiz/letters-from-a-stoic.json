@@ -1,0 +1,56 @@
+{
+  "book": "letters-from-a-stoic",
+  "title": "Letters From A Stoic",
+  "questions": [
+    {
+      "q": "What does Seneca say makes humans truly unique among all creatures?",
+      "a": [
+        "Our capacity for rational thought",
+        "Our ability to feel strong emotions",
+        "Our desire to form friendships",
+        "Our awareness that we will die"
+      ],
+      "why": "The first lesson says Seneca believed rational thought is what sets us apart, so we should exercise it as fully as possible."
+    },
+    {
+      "q": "What is the Stoic goal of gaining wisdom?",
+      "a": [
+        "To live simply and in harmony with nature",
+        "To win fame and lasting fortune",
+        "To remove every emotion from daily life",
+        "To master public speaking and debate"
+      ],
+      "why": "The summary says wisdom lets us live more in tune with nature, simply and without chasing excessive pleasure or status."
+    },
+    {
+      "q": "What image does Seneca use for a healthy mind?",
+      "a": [
+        "A well-loaded ship with everything secured",
+        "A clear mirror that reflects other people",
+        "A quiet garden hidden behind a wall",
+        "A strong fortress built on a hill"
+      ],
+      "why": "In one letter he compares a healthy mind to a well-loaded ship whose cargo is fastened, so the view stays clear in rough seas."
+    },
+    {
+      "q": "According to the Stoic view, what is the only thing you really control?",
+      "a": [
+        "Your own thoughts",
+        "Other people's opinions",
+        "The events that happen to you",
+        "The length of your life"
+      ],
+      "why": "The second lesson says our thoughts are the only thing we truly control, which is why Stoicism trains perception, action and will."
+    },
+    {
+      "q": "Why do Stoics make such good friends, according to the summary?",
+      "a": [
+        "They are self-sufficient and trust the few they choose",
+        "They need friends to fill an inner emptiness",
+        "They gather many acquaintances for practical use",
+        "They avoid close bonds to protect their independence"
+      ],
+      "why": "The third lesson says Stoics befriend from abundance rather than need, select carefully and then trust fully."
+    }
+  ]
+}

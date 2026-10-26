@@ -1,0 +1,31 @@
+{
+  "book": "getting-things-done",
+  "title": "Getting Things Done",
+  "questions": [
+    {
+      "q": "What is the purpose of a collection bucket in the GTD system?",
+      "a": ["To capture interruptions and tasks so your mind can stay focused", "To rank your tasks by how urgent they are", "To store finished projects for later review", "To schedule every task into a calendar slot"],
+      "why": "Lesson 1 says the bucket holds whatever lands in your brain or lap while you work."
+    },
+    {
+      "q": "What belongs on a next actions list, according to Allen?",
+      "a": ["Specific tasks that take less than 30 minutes", "Every task you hope to finish this year", "Only tasks that need another person's input", "Long projects broken into monthly milestones"],
+      "why": "Lesson 2 defines next actions as the specific tasks of current projects, each under 30 minutes."
+    },
+    {
+      "q": "Why does Allen suggest sorting next action lists by place, like laptop or phone?",
+      "a": ["So you can pick a task that fits wherever you are", "So you can measure how long each task takes", "So you can delegate tasks more easily to others", "So you never repeat the same task twice"],
+      "why": "Lesson 2 gives the airport example: a notebook list still works when wifi and battery are gone."
+    },
+    {
+      "q": "How often does Allen say you should empty your collection buckets?",
+      "a": ["About once a week", "At the end of every day", "Only when they are completely full", "Once at the start of each month"],
+      "why": "Lesson 1 says the system only works if the bucket is emptied regularly, ideally weekly."
+    },
+    {
+      "q": "Why is the weekly review essential to the GTD system?",
+      "a": ["Lists only help if they are kept up to date", "It is the only time you may add new tasks", "It replaces the need for a collection bucket", "It shows which tasks you should drop entirely"],
+      "why": "Lesson 3 says lists are only as good as they are current, so the review keeps everything complete."
+    }
+  ]
+}

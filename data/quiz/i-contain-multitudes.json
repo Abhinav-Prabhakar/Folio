@@ -1,0 +1,56 @@
+{
+  "book": "i-contain-multitudes",
+  "title": "I Contain Multitudes",
+  "questions": [
+    {
+      "q": "What role did microbes play in shaping Earth's atmosphere?",
+      "a": [
+        "They released oxygen through photosynthesis",
+        "They absorbed oxygen from the air",
+        "They created the first land plants",
+        "They cooled the planet by reflecting light"
+      ],
+      "why": "Lesson 1 says microbes were first to use sunlight and released oxygen as a result."
+    },
+    {
+      "q": "How can microbes survive in extreme places?",
+      "a": [
+        "They evolve rapidly and exchange DNA",
+        "They hide inside larger animals",
+        "They form hard shells around themselves",
+        "They stop reproducing entirely"
+      ],
+      "why": "Lesson 1 says single-celled microbes can pass DNA to each other and adapt quickly."
+    },
+    {
+      "q": "What happens if your immune system is set too high?",
+      "a": [
+        "It reacts to harmless things and your own cells",
+        "It ignores small infections completely",
+        "It stops producing antibodies altogether",
+        "It becomes resistant to all microbes"
+      ],
+      "why": "Lesson 2 compares immunity to a thermostat; too high a setting brings allergies or autoimmune trouble."
+    },
+    {
+      "q": "Why does the summary say children need some exposure to dirt?",
+      "a": [
+        "It helps calibrate the immune system",
+        "It teaches them to avoid germs",
+        "It replaces the need for vaccines",
+        "It builds resistance to every disease"
+      ],
+      "why": "Lesson 2 says the right amount of microbial exposure tunes the immune system, especially in childhood."
+    },
+    {
+      "q": "What was the RePOOPulate project used for?",
+      "a": [
+        "Transplanting healthy stool to treat infection",
+        "Engineering bacteria that glow when antibiotics appear",
+        "Producing yogurt with extra live probiotic cultures",
+        "Sterilizing hospital rooms more effectively"
+      ],
+      "why": "Lesson 3 says donated healthy samples were transplanted to fight Clostridium difficile."
+    }
+  ]
+}

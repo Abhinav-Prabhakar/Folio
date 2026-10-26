@@ -1,0 +1,56 @@
+{
+  "book": "rewire",
+  "title": "Rewire",
+  "questions": [
+    {
+      "q": "Which two selves does the summary say influence your actions?",
+      "a": [
+        "A conscious self and an automatic self",
+        "A rational self and an emotional self",
+        "An inner child and an adult self",
+        "A public self and a private self"
+      ],
+      "why": "Lesson 1 says we have a conscious self that reasons and an automatic self that runs when we act out of habit."
+    },
+    {
+      "q": "When does the automatic self usually take over?",
+      "a": [
+        "When you act out a bad habit without thinking",
+        "When you carefully weigh a decision",
+        "When you plan your week in advance",
+        "When you meditate on your breath"
+      ],
+      "why": "Lesson 1 explains that bad habits happen automatically, since no one would choose them consciously."
+    },
+    {
+      "q": "What does the summary say happens when you repress your emotions?",
+      "a": [
+        "They build up and eventually push you toward self-destructive acts",
+        "They disappear completely once you ignore them",
+        "They make you calmer and more rational over time",
+        "They only affect people with serious addictions"
+      ],
+      "why": "Lesson 2 compares emotions to water in an overflowing tub and says they will find a way out."
+    },
+    {
+      "q": "How does the summary recommend training your mindfulness?",
+      "a": [
+        "Sitting daily and returning your attention to your breath",
+        "Writing down every bad habit you notice",
+        "Avoiding all thoughts during a long walk",
+        "Repeating affirmations before you sleep"
+      ],
+      "why": "Lesson 3 recommends 30 minutes a day of focusing and re-focusing on the breath to notice habits before they start."
+    },
+    {
+      "q": "What does the summary say about the fake it till you make it approach?",
+      "a": [
+        "Keep trying after a relapse instead of berating yourself",
+        "Pretend to be cured so others stop worrying",
+        "Avoid social situations where you might slip",
+        "Wait until you feel ready before making changes"
+      ],
+      "why": "Lesson 3 says beating yourself up after a slip sabotages progress, so you should keep going until the new habit sticks."
+    }
+  ]
+}

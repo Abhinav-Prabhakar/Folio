@@ -1,0 +1,56 @@
+{
+  "book": "the-psychology-of-money",
+  "title": "The Psychology of Money",
+  "questions": [
+    {
+      "q": "What lesson does Jesse Livermore's story teach about greed?",
+      "a": [
+        "Overconfidence can lead to total loss of wealth",
+        "Greed guarantees long‑term profits",
+        "Risk‑taking always pays off",
+        "Diversification eliminates risk"
+      ],
+      "why": "Livermore's invincibility feeling caused him to lose everything."
+    },
+    {
+      "q": "How does envy affect investment decisions, according to the text?",
+      "a": [
+        "It can cause sloppy, impulsive trades",
+        "It improves market timing",
+        "It leads to higher diversification",
+        "It encourages disciplined saving"
+      ],
+      "why": "Envy pushes people toward poor choices, as explained."
+    },
+    {
+      "q": "What does research by Malmendier and Nagel suggest about early‑life experiences?",
+      "a": [
+        "They shape how people invest later in life",
+        "They have no impact on financial choices",
+        "They only affect spending, not investing",
+        "They determine income level only"
+      ],
+      "why": "The study shows early economic environment influences investment style."
+    },
+    {
+      "q": "What is the author's view on comparing your financial journey to others?",
+      "a": [
+        "Comparison fuels jealousy and bad decisions",
+        "It motivates better performance",
+        "It helps identify market trends",
+        "It is essential for risk assessment"
+      ],
+      "why": "The text warns against envy and comparison."
+    },
+    {
+      "q": "According to the overview, what common myth about wealth does the book refute?",
+      "a": [
+        "Rich people are only lucky or inherit wealth",
+        "Wealth is solely earned through hard work",
+        "Money is a finite resource",
+        "Investing is only for experts"
+      ],
+      "why": "The book states wealth is not just luck or inheritance."
+    }
+  ]
+}

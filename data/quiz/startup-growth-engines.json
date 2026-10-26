@@ -1,0 +1,56 @@
+{
+  "book": "startup-growth-engines",
+  "title": "Startup Growth Engines",
+  "questions": [
+    {
+      "q": "What does “start big, but small” mean in the summary?",
+      "a": [
+        "Aim for a large share of a small market",
+        "Launch with a big budget in a tiny office",
+        "Start with many products for a few customers",
+        "Grow quickly by entering every market at once"
+      ],
+      "why": "Lesson 1 says most startups chase a tiny slice of a huge market, while the better move is dominating a small one."
+    },
+    {
+      "q": "Which early example of starting locally does the summary give?",
+      "a": [
+        "Facebook limited at first to Harvard students",
+        "Amazon selling only books to begin with",
+        "Google launching in every country at once",
+        "Apple selling only to schools"
+      ],
+      "why": "Lesson 1 pairs Facebook’s Harvard launch with Uber’s early focus on San Francisco."
+    },
+    {
+      "q": "What is a freemium model?",
+      "a": [
+        "A free version of the product with optional paid upgrades",
+        "A free trial that ends after thirty days",
+        "A product paid for entirely by advertising",
+        "A discount offered to the first customers"
+      ],
+      "why": "Lesson 2 defines freemium as free basic use with an optional upgrade to more features."
+    },
+    {
+      "q": "When does freemium tend to fail, according to the summary?",
+      "a": [
+        "When the product is complicated and takes time to learn",
+        "When the free version has too many features",
+        "When the company charges too little for upgrades",
+        "When the product is too easy for people to use"
+      ],
+      "why": "Lesson 2 says people will not invest weeks learning software they did not pay for, citing ConvertKit as an example."
+    },
+    {
+      "q": "Why build a free tool alongside your main product?",
+      "a": [
+        "It draws in potential customers by solving a pressing problem",
+        "It replaces the need for a paid product entirely",
+        "It guarantees that investors will fund the company",
+        "It keeps competitors from copying your idea"
+      ],
+      "why": "Lesson 3 says tools like a headline analyzer or Pablo attract an audience and can feed a freemium model."
+    }
+  ]
+}

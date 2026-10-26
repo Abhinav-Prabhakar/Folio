@@ -1,0 +1,56 @@
+{
+  "book": "empty-planet",
+  "title": "Empty Planet",
+  "questions": [
+    {
+      "q": "What fertility rate keeps a population stable?",
+      "a": [
+        "About 2.1 children per woman",
+        "About 1.5 children per woman",
+        "About 3.5 children per woman",
+        "About 1.0 child per woman"
+      ],
+      "why": "Lesson 1 says countries need women to produce about 2.1 children each to replace both parents and offset early deaths."
+    },
+    {
+      "q": "What is the fertility trap?",
+      "a": [
+        "Countries below 1.5 children rarely climb back above it",
+        "Governments that pay for larger families lose elections",
+        "Fertility rises once cities become wealthier",
+        "Religious groups always have more children than others"
+      ],
+      "why": "Lesson 1 explains that once fertility falls below 1.5, societies reorganize in ways that discourage births and cannot recover."
+    },
+    {
+      "q": "What does the dependency ratio compare?",
+      "a": [
+        "Working people with retired people they support",
+        "Births with deaths in a given year",
+        "Urban residents with rural residents",
+        "Education spending with healthcare spending"
+      ],
+      "why": "Lesson 2 defines the dependency ratio as how many working people there are compared with government-dependent retirees."
+    },
+    {
+      "q": "Why may UN population forecasts be too cautious?",
+      "a": [
+        "Poorer countries are seeing faster fertility declines",
+        "They assume fertility will fall even faster than it has",
+        "They ignore migration between developed countries",
+        "They rely on interviews rather than official statistics"
+      ],
+      "why": "Lesson 3 says forecasters assume less-developed countries will follow the old pace, but their fertility is dropping faster and more dramatically."
+    },
+    {
+      "q": "Which cultural loss does depopulation bring?",
+      "a": [
+        "Small languages die as their speakers move and fade",
+        "Fewer people means less art is produced worldwide",
+        "Traditional foods disappear from wealthy cities",
+        "Religious practice declines in every region"
+      ],
+      "why": "Lesson 2 notes that the world's languages are dying out as small populations collapse and urbanize into dominant cultures."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "mistakes-were-made-but-not-by-me",
+  "title": "Mistakes Were Made, But Not By Me",
+  "questions": [
+    {
+      "q": "Why do people find it so hard to admit a mistake, according to the summary?",
+      "a": ["It clashes with the way they see themselves", "They fear legal consequences more than the truth", "They usually forget the details of what happened", "They assume everyone else makes the same errors"],
+      "why": "Lesson 1 defines cognitive dissonance as conflict between two ideas about who you are."
+    },
+    {
+      "q": "What do smokers in the summary do instead of admitting their addiction?",
+      "a": ["They tell themselves they do not smoke that much", "They avoid the topic of smoking entirely", "They blame tobacco companies in public", "They quit only when friends pressure them"],
+      "why": "Lesson 1 uses the smoker's excuse as an example of self-justification."
+    },
+    {
+      "q": "What does the pyramid of choice illustrate?",
+      "a": ["Justifying a choice makes you surer it was right", "People copy the morals of those around them", "Most people steal when nobody is watching", "Morals are fixed before a person reaches adulthood"],
+      "why": "Lesson 2 says each person descends a narrowing path and grows more certain of their own morality."
+    },
+    {
+      "q": "How did Chinese and Japanese classrooms handle a student's math mistake?",
+      "a": ["The student retried at the board with class support", "The student was moved to an easier group", "The mistake was corrected privately after school", "The whole class was given extra homework"],
+      "why": "Lesson 3 says the weakest student reworked the problem in front of everyone until getting it right."
+    },
+    {
+      "q": "What does the summary suggest focusing criticism on?",
+      "a": ["Behavior rather than who someone is", "Character rather than outcomes", "Results rather than intentions", "Effort rather than ability"],
+      "why": "Lesson 3 says to critique actions, not identity, to build a growth mindset around mistakes."
+    }
+  ]
+}

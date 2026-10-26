@@ -1,0 +1,56 @@
+{
+  "book": "tribal-leadership",
+  "title": "Tribal Leadership",
+  "questions": [
+    {
+      "q": "Who claims culture is the most important determinant of business success?",
+      "a": [
+        "Dave Logan",
+        "Seth Godin",
+        "Y. N. Harari",
+        "Bill Campbell"
+      ],
+      "why": "Logan states culture is the key determinant of success."
+    },
+    {
+      "q": "What is the typical size range of a human tribe according to Harari?",
+      "a": [
+        "20 to 150 people",
+        "5 to 20 people",
+        "150 to 300 people",
+        "1 to 10 people"
+      ],
+      "why": "Harari says tribes usually have 20‑150 members."
+    },
+    {
+      "q": "Which example shows a leader improving a hospital's culture?",
+      "a": [
+        "Griffin Hospital in Derby",
+        "Apple's HR office",
+        "Google's product team",
+        "Microsoft's engineering group"
+      ],
+      "why": "The book cites Griffin Hospital as a culture improvement case."
+    },
+    {
+      "q": "What does Logan say determines a tribe's stage of improvement?",
+      "a": [
+        "How people relate to each other",
+        "The number of members",
+        "The budget size",
+        "The geographic location"
+      ],
+      "why": "Logan emphasizes relationships as the key to tribal stage."
+    },
+    {
+      "q": "Which author argues powerful links are the biggest advantage for a group?",
+      "a": [
+        "Seth Godin",
+        "Dave Logan",
+        "Y. N. Harari",
+        "Bill Campbell"
+      ],
+      "why": "Godin claims strong links give groups the biggest advantage."
+    }
+  ]
+}

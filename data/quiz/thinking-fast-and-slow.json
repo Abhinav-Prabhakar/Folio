@@ -1,0 +1,56 @@
+{
+  "book": "thinking-fast-and-slow",
+  "title": "Thinking Fast and Slow",
+  "questions": [
+    {
+      "q": "Which system is described as automatic and impulsive?",
+      "a": [
+        "System 1",
+        "System 2",
+        "System A",
+        "System B"
+      ],
+      "why": "System 1 is labeled automatic and impulsive in the text."
+    },
+    {
+      "q": "What common mistake does the bat‑and‑ball problem reveal?",
+      "a": [
+        "System 1 gives the wrong quick answer",
+        "System 2 overcomplicates simple math",
+        "Both systems agree on $0.10",
+        "People ignore the problem"
+      ],
+      "why": "The quick $0.10 answer is a System 1 trap; correct answer requires System 2."
+    },
+    {
+      "q": "What does Kahneman say about the brain's effort level?",
+      "a": [
+        "It is lazy and prefers shortcuts",
+        "It works constantly without fatigue",
+        "It always chooses the most accurate path",
+        "It never makes errors"
+      ],
+      "why": "The text notes the brain's laziness leads to intellectual errors."
+    },
+    {
+      "q": "Which scenario illustrates emotional influence on monetary decisions?",
+      "a": [
+        "Choosing a sure $500 over a 50% gamble for $1,000",
+        "Choosing the gamble over the sure amount",
+        "Avoiding any money choices",
+        "Investing without information"
+      ],
+      "why": "The example contrasts a guaranteed gain with a risky gamble."
+    },
+    {
+      "q": "What is the role of System 2 in decision making?",
+      "a": [
+        "Deliberate, conscious control",
+        "Instant, automatic reaction",
+        "Emotional impulse",
+        "Social conformity"
+      ],
+      "why": "System 2 is described as conscious, aware, and considerate."
+    }
+  ]
+}

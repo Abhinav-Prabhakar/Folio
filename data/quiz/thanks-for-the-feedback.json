@@ -1,0 +1,56 @@
+{
+  "book": "thanks-for-the-feedback",
+  "title": "Thanks For The Feedback",
+  "questions": [
+    {
+      "q": "Which three types of feedback does the summary describe?",
+      "a": [
+        "Appreciation, coaching and evaluation",
+        "Praise, criticism and punishment",
+        "Advice, comparison and correction",
+        "Evaluation, instruction and warning"
+      ],
+      "why": "Lesson 1 separates feedback into appreciation, coaching and evaluation, each with its own purpose."
+    },
+    {
+      "q": "Which kind of feedback should you focus on when you are exhausted after hard work?",
+      "a": [
+        "Gratitude for how you did",
+        "Coaching on how to do better",
+        "An evaluation against expectations",
+        "Advice from a more experienced peer"
+      ],
+      "why": "Lesson 1 says that when you are worn out, appreciate your effort rather than look for improvement."
+    },
+    {
+      "q": "What should you think about before reacting to criticism?",
+      "a": [
+        "What the other person intended and what lies behind it",
+        "Whether the person has authority over you",
+        "How many other people agree with the criticism",
+        "Whether the comment was made in front of others"
+      ],
+      "why": "Lesson 2 advises considering the giver’s intentions and digging for the issue underneath."
+    },
+    {
+      "q": "What did the 2007 survey of managers reveal about self-assessment?",
+      "a": [
+        "Most rated themselves in the top 10 percent",
+        "Most avoided giving feedback to their staff",
+        "Most preferred written feedback to spoken",
+        "Most had never received any formal training"
+      ],
+      "why": "Lesson 2 uses the impossible result to show that we cannot see ourselves objectively."
+    },
+    {
+      "q": "What does a growth mindset let you do with criticism?",
+      "a": [
+        "Treat it as a chance to learn and improve",
+        "Decide quickly whether it is fair",
+        "Protect your self-image from attack",
+        "Wait until your feelings have settled"
+      ],
+      "why": "Lesson 3 contrasts a fixed view of yourself with seeing feedback as an opportunity to grow."
+    }
+  ]
+}

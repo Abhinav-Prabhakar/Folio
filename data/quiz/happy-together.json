@@ -1,0 +1,56 @@
+{
+  "book": "happy-together",
+  "title": "Happy Together",
+  "questions": [
+    {
+      "q": "What comparison do the authors use to describe how a relationship should be maintained?",
+      "a": [
+        "A regular gym routine that requires steady effort",
+        "A garden that only needs attention in spring",
+        "A business that grows through careful planning",
+        "A journey that becomes easier over time"
+      ],
+      "why": "Lesson 1 compares marriage to working out: show up consistently and keep improving weak areas."
+    },
+    {
+      "q": "What do the four letters of the SNAP method stand for?",
+      "a": [
+        "Start strong, no exceptions, always act, practice the will",
+        "Slow down, notice feelings, apologize often, pause daily",
+        "Speak kindly, negotiate fairly, accept flaws, plan ahead",
+        "Stay present, nurture trust, allow space, pursue growth"
+      ],
+      "why": "Lesson 2 introduces SNAP as start strong, no exceptions, always act and practice exercising the will."
+    },
+    {
+      "q": "What does the SNAP principle of having no exceptions require?",
+      "a": [
+        "Taking no days off from the commitment you made",
+        "Avoiding any disagreement with your partner",
+        "Making every decision together as a couple",
+        "Refusing to change plans once they are set"
+      ],
+      "why": "Lesson 2 says exceptions and small treats tend to break focus, so the habit should continue without days off."
+    },
+    {
+      "q": "Why do the authors suggest taking the VIA survey with your partner?",
+      "a": [
+        "To learn each other's strengths and needs better",
+        "To measure how compatible your personalities are",
+        "To decide who should handle which household tasks",
+        "To track how the relationship changes over time"
+      ],
+      "why": "Lesson 3 says the survey reveals strengths, traits and love languages, making it easier to meet each other's needs."
+    },
+    {
+      "q": "What does eudaimonia mean in the summary's discussion of Aristotelian love?",
+      "a": [
+        "A state of flourishing, contentment and joy",
+        "A feeling of intense romantic desire",
+        "A bond based mainly on shared duties",
+        "A life entirely free from conflict"
+      ],
+      "why": "Lesson 3 defines eudaimonia as good spirit, describing blessedness, good fortune, contentment and joy."
+    }
+  ]
+}

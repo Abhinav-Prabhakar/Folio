@@ -1,0 +1,56 @@
+{
+  "book": "less-doing-more-living",
+  "title": "Less Doing More Living",
+  "questions": [
+    {
+      "q": "What is the external brain that the author recommends building?",
+      "a": [
+        "A searchable digital store for notes, lists and ideas",
+        "A paper journal you review every morning",
+        "A personal assistant who manages your calendar",
+        "A nightly memory exercise practiced before bed"
+      ],
+      "why": "The first lesson suggests a tool like Evernote that holds to-do lists, notes and pictures and lets you search them later."
+    },
+    {
+      "q": "Why does the author say you should stop trying to remember everything?",
+      "a": [
+        "Knowing where to find information is enough",
+        "Memory naturally fades faster after age thirty",
+        "Recalling facts makes creative thinking harder",
+        "Most details are never useful a second time"
+      ],
+      "why": "The lesson ends with the idea that knowing means knowing where to find it, so storing everything in a tool is enough."
+    },
+    {
+      "q": "How did Ari make money from his custom wall mount?",
+      "a": [
+        "He sold copies of the design to people with the same computer",
+        "He licensed the design to a large furniture retailer",
+        "He taught a paid class about 3D printing",
+        "He rented the mount out to coworkers each week"
+      ],
+      "why": "The second lesson says he sold six more mounts to others who owned the same computer and made 400 dollars."
+    },
+    {
+      "q": "What is an upper limit, as the summary defines it?",
+      "a": [
+        "A maximum amount you decide you cannot exceed",
+        "A minimum you promise never to fall below",
+        "A deadline for completing a difficult task",
+        "A cap on what you are willing to pay for tools"
+      ],
+      "why": "Upper limits are maximums, such as a number of clothes or hours on social media; lower limits are minimums."
+    },
+    {
+      "q": "What do upper and lower limits help you do?",
+      "a": [
+        "Trade quantity for quality and protect time for what matters",
+        "Fill your working hours more completely each week",
+        "Replace the need for to-do lists and calendars",
+        "Prove that you can live on less money"
+      ],
+      "why": "The third lesson says both limits help you trade quantity for quality so work and possessions do not crowd out what matters."
+    }
+  ]
+}

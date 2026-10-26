@@ -1,0 +1,31 @@
+{
+  "book": "money-master-the-game",
+  "title": "Money: Master The Game",
+  "questions": [
+    {
+      "q": "What does the Benjamin Franklin example in the summary illustrate?",
+      "a": ["Small sums can grow enormously through compounding", "Cities should avoid spending inherited money", "Museums are the safest long-term investment", "Long-term savings barely keep up with inflation"],
+      "why": "Lesson 1 says the money left to Boston and Philadelphia grew from $1,000 into millions over 200 years."
+    },
+    {
+      "q": "Why does the summary call $51,000 an important number?",
+      "a": ["It is the average yearly spending of an American adult", "It is the median starting salary for graduates", "It is the amount most people keep in savings", "It is the limit for tax-free retirement accounts"],
+      "why": "Lesson 2 says covering that annual figure with investment income means you never have to work again."
+    },
+    {
+      "q": "How much does the summary say you need invested to cover $51,000 a year at an 8% return?",
+      "a": ["$640,000", "$1,000,000", "$250,000", "$2,500,000"],
+      "why": "Lesson 2 says $640,000 invested at roughly the stock market's average return covers those costs."
+    },
+    {
+      "q": "What are the three buckets in Tony's system?",
+      "a": ["Security, growth and dream", "Savings, spending and giving", "Cash, bonds and property", "Short, medium and long term"],
+      "why": "Lesson 3 describes a security bucket, a growth bucket and a dream bucket."
+    },
+    {
+      "q": "What is the dream bucket for?",
+      "a": ["Spending some profits on the life you want", "Holding bonds that protect your capital", "Holding stocks for long-term growth", "Covering rent and other basic costs"],
+      "why": "Lesson 3 says the profits from the other buckets should fund the life you actually want to live."
+    }
+  ]
+}

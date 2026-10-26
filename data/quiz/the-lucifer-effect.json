@@ -1,0 +1,56 @@
+{
+  "book": "the-lucifer-effect",
+  "title": "The Lucifer Effect",
+  "questions": [
+    {
+      "q": "What does Zimbardo say about personality consistency across situations?",
+      "a": [
+        "It changes with context",
+        "It is fixed",
+        "It is genetically determined",
+        "It is irrelevant"
+      ],
+      "why": "Zimbardo argues personalities are not static but depend on social circumstances."
+    },
+    {
+      "q": "Which experiment demonstrated obedience to authority through electric shocks?",
+      "a": [
+        "Milgram experiment",
+        "Stanford prison experiment",
+        "Asch conformity test",
+        "Hawthorne studies"
+      ],
+      "why": "The Milgram experiment illustrated obedience to authority."
+    },
+    {
+      "q": "In the Stanford prison experiment, what identifier replaced prisoners' names?",
+      "a": [
+        "A number",
+        "A nickname",
+        "A badge",
+        "A color tag"
+      ],
+      "why": "Prisoners were given numbers instead of names."
+    },
+    {
+      "q": "What does Zimbardo suggest you do when an authority is unjust?",
+      "a": [
+        "Stop obeying them",
+        "Follow silently",
+        "Report to higher-ups",
+        "Ignore the situation"
+      ],
+      "why": "He advises refusing to follow unjust authority."
+    },
+    {
+      "q": "How does Zimbardo define the situational approach?",
+      "a": [
+        "Behavior depends on the situation",
+        "Behavior is innate",
+        "Behavior is random",
+        "Behavior follows destiny"
+      ],
+      "why": "He states actions are determined by situational factors."
+    }
+  ]
+}

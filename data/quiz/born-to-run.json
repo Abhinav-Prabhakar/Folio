@@ -1,0 +1,56 @@
+{
+  "book": "born-to-run",
+  "title": "Born To Run",
+  "questions": [
+    {
+      "q": "Why can a fit human outrun a horse over a marathon on a hot day?",
+      "a": [
+        "We sweat efficiently and can breathe at whatever rate we need",
+        "Our legs are longer and stronger than a horse's",
+        "We store more sugar than other mammals do",
+        "Our hearts beat faster during long races"
+      ],
+      "why": "Most mammals cannot sweat, so they overheat and must stop sooner."
+    },
+    {
+      "q": "What role does the Achilles tendon play in running, according to the summary?",
+      "a": [
+        "It stores energy as it stretches and releases it to propel us",
+        "It cushions the foot from hard impacts on the ground",
+        "It keeps the foot from rolling inward while running",
+        "It pumps extra blood to the lower legs"
+      ],
+      "why": "This lets humans use less energy per step than other animals."
+    },
+    {
+      "q": "How do modern running shoes weaken the foot?",
+      "a": [
+        "They act like a cast, limiting movement and weakening muscles",
+        "They force the foot to roll outward too far",
+        "They make the foot strike the ground too hard",
+        "They reduce the amount of oxygen reaching the toes"
+      ],
+      "why": "The summary compares a shoe to a plaster cast that leaves foot muscles weaker."
+    },
+    {
+      "q": "What did shoe makers blame for runner's knee, despite few people needing support?",
+      "a": [
+        "The foot's natural inward roll, called pronation",
+        "A weak Achilles tendon",
+        "Running on hard pavement",
+        "Tight calf muscles"
+      ],
+      "why": "Only about 3 percent of people have a medical need for pronation shoes."
+    },
+    {
+      "q": "What pacing strategy does the summary recommend for long distances?",
+      "a": [
+        "Run just below your aerobic threshold to burn fat",
+        "Sprint early and hold on as long as possible",
+        "Keep your heart rate at its maximum",
+        "Alternate fast and slow miles in a fixed pattern"
+      ],
+      "why": "Staying below the point of heavy breathing lets you use fat instead of limited sugar."
+    }
+  ]
+}

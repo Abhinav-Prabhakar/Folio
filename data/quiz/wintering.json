@@ -1,0 +1,56 @@
+{
+  "book": "wintering",
+  "title": "Wintering",
+  "questions": [
+    {
+      "q": "What health benefit did a 1996 study find during winter?",
+      "a": [
+        "Improved sleep",
+        "Increased appetite",
+        "Higher stress",
+        "Reduced activity"
+      ],
+      "why": "The study showed improved sleep in winter conditions."
+    },
+    {
+      "q": "How does cold water affect dopamine levels?",
+      "a": [
+        "Increases by 25%",
+        "Decreases by 25%",
+        "No change",
+        "Eliminates dopamine"
+      ],
+      "why": "Cold water raises dopamine up to 25%."
+    },
+    {
+      "q": "What does the author suggest about winter's role in life?",
+      "a": [
+        "It strengthens us",
+        "It weakens us",
+        "It is irrelevant",
+        "It is harmful"
+      ],
+      "why": "Winter is seen as a strengthening season."
+    },
+    {
+      "q": "Why is hibernation portrayed positively?",
+      "a": [
+        "Animals embrace cold",
+        "Animals fear cold",
+        "Animals avoid winter",
+        "Animals migrate"
+      ],
+      "why": "Animals hibernate and embrace winter."
+    },
+    {
+      "q": "What mindset shift is recommended for personal winters?",
+      "a": [
+        "Accept the situation",
+        "Blame others",
+        "Ignore the season",
+        "Avoid reflection"
+      ],
+      "why": "Accepting the situation helps maturity."
+    }
+  ]
+}

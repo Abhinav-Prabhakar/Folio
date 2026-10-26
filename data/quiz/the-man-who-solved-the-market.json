@@ -1,0 +1,56 @@
+{
+  "book": "the-man-who-solved-the-market",
+  "title": "The Man Who Solved The Market",
+  "questions": [
+    {
+      "q": "What math task did young Simons do that surprised his parents?",
+      "a": [
+        "Dividing large numbers like 1024 by 2",
+        "Solving quadratic equations on paper",
+        "Memorizing the first 100 prime numbers",
+        "Building geometric proofs from scratch"
+      ],
+      "why": "The text describes his parents being surprised to find him doing divisions like 1024 divided by 2."
+    },
+    {
+      "q": "At what age did Simons leave academia to found Monemetrics?",
+      "a": [
+        "40",
+        "30",
+        "50",
+        "35"
+      ],
+      "why": "The text states he left academia at 40 years old to begin a hedge fund management firm."
+    },
+    {
+      "q": "Who did Simons partner with to start Monemetrics?",
+      "a": [
+        "Leonard Baum",
+        "Warren Buffett",
+        "George Soros",
+        "Peter Lynch"
+      ],
+      "why": "The text says he began the journey with his friend Leonard Baum."
+    },
+    {
+      "q": "Renaissance's yearly earnings are said to exceed those of which group of companies?",
+      "a": [
+        "Hasbro, Hyatt Hotels, and Levi Strauss",
+        "Apple, Amazon, and Microsoft",
+        "Goldman Sachs, JPMorgan, and Morgan Stanley",
+        "Ford, GM, and Toyota"
+      ],
+      "why": "The text compares Renaissance's $7 billion yearly earnings to Hasbro, Hyatt Hotels, and Levi Strauss."
+    },
+    {
+      "q": "Simons's net worth of about $23 billion is stated to be greater than which person's?",
+      "a": [
+        "Elon Musk",
+        "Bill Gates",
+        "Jeff Bezos",
+        "Mark Zuckerberg"
+      ],
+      "why": "The text says his net worth is greater than Rupert Murdoch, Laurene Powell Jobs, and even Elon Musk."
+    }
+  ]
+}

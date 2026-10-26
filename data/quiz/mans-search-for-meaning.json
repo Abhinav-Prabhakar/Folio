@@ -1,0 +1,56 @@
+{
+  "book": "mans-search-for-meaning",
+  "title": "Man’s Search For Meaning",
+  "questions": [
+    {
+      "q": "What attitude does Frankl say helped some prisoners survive the camps?",
+      "a": [
+        "A kind of indifference to death and the future",
+        "An unshakable belief that they would be rescued soon",
+        "A determination to escape at any cost",
+        "A hope that conditions would improve within weeks"
+      ],
+      "why": "Lesson 1 says prisoners had to be okay with dying at any moment, shielding their minds from terror."
+    },
+    {
+      "q": "What does logotherapy say about the meaning of your life?",
+      "a": [
+        "It is unique to you and shifts with your decisions and situation",
+        "It is fixed at birth and simply has to be discovered",
+        "It is the same universal meaning for every person",
+        "It can only be found after your basic needs are met"
+      ],
+      "why": "Lesson 2 compares meaning to the best chess move, which depends on the particular situation on the board."
+    },
+    {
+      "q": "According to the summary, what determines how much meaning you experience?",
+      "a": [
+        "The responsibility you take for the decisions you make",
+        "The amount of suffering you have endured in life",
+        "The degree of comfort and security you achieve",
+        "The number of people who admire your accomplishments"
+      ],
+      "why": "Lesson 2 says the responsibility you bring to your decisions shapes how large your sense of meaning is."
+    },
+    {
+      "q": "What is paradoxical intention?",
+      "a": [
+        "Deliberately trying to make the thing you fear come true",
+        "Avoiding every situation that could trigger your fear",
+        "Repeating positive affirmations until the fear disappears",
+        "Analyzing childhood memories to explain the fear"
+      ],
+      "why": "Lesson 3 describes flipping fear around by attempting to force the feared outcome to happen."
+    },
+    {
+      "q": "How did Frankl find a moment of meaning during a forced nighttime march?",
+      "a": [
+        "He thought of his wife and imagined her face in the clouds",
+        "He focused on the food he would eat after the war",
+        "He recited passages from books he had memorized",
+        "He imagined escaping and returning to his hometown"
+      ],
+      "why": "Lesson 2 recounts that thinking of his wife let him find bliss even while walking barefoot over icy rocks."
+    }
+  ]
+}

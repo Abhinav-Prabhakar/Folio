@@ -1,0 +1,56 @@
+{
+  "book": "chatter",
+  "title": "Chatter",
+  "questions": [
+    {
+      "q": "How many pieces of information can the brain juggle at once, according to the summary?",
+      "a": [
+        "Three to five",
+        "One or two",
+        "Seven to nine",
+        "Ten to twelve"
+      ],
+      "why": "Lesson 1 says the mind can hold only three to five items at a time, which is why structured chunks are easier to remember."
+    },
+    {
+      "q": "What do studies say about people who suffer from excessive inner chatter?",
+      "a": [
+        "They listen poorly and overshare, which pushes friends away",
+        "They become unusually calm in social situations",
+        "They remember far more of what they read",
+        "They seek out more contact with strangers"
+      ],
+      "why": "The summary notes that heavy chatter makes people poor listeners who do not know when to stop oversharing."
+    },
+    {
+      "q": "What does the author suggest doing when a problem feels overwhelming?",
+      "a": [
+        "Zoom out and view it from another perspective or time",
+        "Replay the problem until its cause becomes clear",
+        "Distract yourself with work until the feeling fades",
+        "Push the thought away whenever it appears"
+      ],
+      "why": "Lesson 2 recommends stepping back, imagining a friend's problem, or asking how much it will matter later."
+    },
+    {
+      "q": "What is temporal distancing, as described in the summary?",
+      "a": [
+        "Asking how much the problem will matter years from now",
+        "Imagining the problem happened to a close friend",
+        "Writing about the problem every morning",
+        "Breaking the problem into smaller tasks"
+      ],
+      "why": "The summary defines temporal distancing as thinking about how little a current problem will matter in ten years or another long span."
+    },
+    {
+      "q": "Why isn't talking about your pain enough to move past it?",
+      "a": [
+        "We also need fresh perspective, not just empathy",
+        "We need to suppress the memory completely",
+        "We should avoid discussing painful events at all",
+        "Only trained professionals can make us feel heard"
+      ],
+      "why": "Lesson 3 says our brain needs to heal as well as our heart, so we need people who offer solutions and new viewpoints."
+    }
+  ]
+}

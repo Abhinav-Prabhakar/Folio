@@ -1,0 +1,56 @@
+{
+  "book": "flourish",
+  "title": "Flourish",
+  "questions": [
+    {
+      "q": "What are the five pillars of Seligman's PERMA model?",
+      "a": [
+        "Positive emotion, engagement, relationships, meaning and accomplishment",
+        "Purpose, energy, resilience, mindfulness and achievement",
+        "Pleasure, exercise, rest, money and affection",
+        "Positivity, empathy, resolve, mastery and autonomy"
+      ],
+      "why": "Lesson 1 builds the model from those five elements of a fulfilling life."
+    },
+    {
+      "q": "How does the what went well exercise work?",
+      "a": [
+        "Each night you write three good things and explain why they happened",
+        "You list five goals for tomorrow before going to sleep",
+        "You recall one happy childhood memory every morning",
+        "You tell a friend about a success once a week"
+      ],
+      "why": "Lesson 2 says ten minutes a night for a week shows that your choices matter."
+    },
+    {
+      "q": "Why does Seligman consider IQ a poor predictor of success?",
+      "a": [
+        "It mainly measures thinking speed, only one of four contributing factors",
+        "It changes so much over a lifetime that it cannot be trusted",
+        "It rewards effort rather than natural ability",
+        "It predicts happiness better than it predicts achievement"
+      ],
+      "why": "Lesson 3 lists planning, learning rate and effort alongside speed of thought."
+    },
+    {
+      "q": "Which four things determine accomplishment, according to the summary?",
+      "a": [
+        "Thinking speed, planning and revising, learning rate and effort",
+        "Talent, luck, connections and timing",
+        "Confidence, focus, discipline and optimism",
+        "Education, income, health and social status"
+      ],
+      "why": "Lesson 3 says most of these can be learned, unlike a fixed IQ score."
+    },
+    {
+      "q": "What does the kindness exercise ask you to do?",
+      "a": [
+        "Do something nice for someone without expecting anything back",
+        "Compliment three strangers every morning before work",
+        "Donate a fixed share of your income each month",
+        "Volunteer for a charity at least once a week"
+      ],
+      "why": "Lesson 2 says to notice how the unreturned gesture affects your own mood."
+    }
+  ]
+}

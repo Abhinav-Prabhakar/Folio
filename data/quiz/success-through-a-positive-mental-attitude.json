@@ -1,0 +1,56 @@
+{
+  "book": "success-through-a-positive-mental-attitude",
+  "title": "Success Through A Positive Mental Attitude",
+  "questions": [
+    {
+      "q": "What does Hill call the number one determining factor of success?",
+      "a": [
+        "A habitually positive mental attitude",
+        "A willingness to work longer hours",
+        "Access to influential mentors",
+        "Natural talent in your chosen field"
+      ],
+      "why": "Lesson 1 says how much you accomplish tracks how well you nurture your positive mental attitude."
+    },
+    {
+      "q": "What did Henry Ford insist on building despite his engineers' doubts?",
+      "a": [
+        "A cheap, mass-produced V8 engine",
+        "A car that ran entirely on electricity",
+        "A factory that needed no supervisors",
+        "A luxury model aimed at wealthy buyers"
+      ],
+      "why": "Lesson 1 says Ford persisted for a year until the first mass-produced V8 engine existed."
+    },
+    {
+      "q": "How does lesson 2 define success?",
+      "a": [
+        "Solving problems",
+        "Avoiding failure",
+        "Winning public recognition",
+        "Learning from books"
+      ],
+      "why": "Lesson 2 says every great achievement began with someone finding a solution to a problem."
+    },
+    {
+      "q": "What did Charlie Ward's shift in attitude eventually lead to?",
+      "a": [
+        "A job offer that made him a millionaire",
+        "An early release from prison",
+        "A career as a prison guard",
+        "A book written about his life"
+      ],
+      "why": "Lesson 2 says Ward impressed Herbert Bigelow, took over his company after he died and became rich."
+    },
+    {
+      "q": "How does Hill suggest putting autosuggestion to work?",
+      "a": [
+        "Write your desired future in a sentence and repeat it twice daily",
+        "Meditate on your goals for an hour each morning",
+        "Tell a friend your goals so they hold you accountable",
+        "Review your goals only once you have reached them"
+      ],
+      "why": "Lesson 3 describes writing a one-sentence picture of life a year from now and repeating it daily."
+    }
+  ]
+}

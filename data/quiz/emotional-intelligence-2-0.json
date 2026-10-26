@@ -1,0 +1,56 @@
+{
+  "book": "emotional-intelligence-2-0",
+  "title": "Emotional Intelligence 2.0",
+  "questions": [
+    {
+      "q": "What are the four components of emotional intelligence?",
+      "a": [
+        "Knowing yourself, managing yourself, reading others and handling relationships",
+        "Self-esteem, ambition, charisma and public speaking",
+        "Empathy, patience, optimism and resilience",
+        "Listening, persuasion, negotiation and networking"
+      ],
+      "why": "Lesson 1 names four parts: knowing yourself, managing yourself, reading others and handling relationships."
+    },
+    {
+      "q": "What is the emotion versus reason list?",
+      "a": [
+        "Two columns comparing what feelings and logic urge",
+        "A list of reasons to avoid emotional conversations",
+        "A chart ranking emotions from weak to strong",
+        "A record of every emotion you felt that day"
+      ],
+      "why": "Lesson 2 suggests writing what your emotions want in one column and what logical reasoning says in another, then comparing them."
+    },
+    {
+      "q": "Why should your body language match your words?",
+      "a": [
+        "Mixed signals make your message seem insincere",
+        "Matching gestures make you speak more quickly",
+        "Body language matters only in job interviews",
+        "Words are remembered longer than expressions"
+      ],
+      "why": "Lesson 3 says rushing through thanks without smiling sends mixed signals, so the message stops sounding sincere."
+    },
+    {
+      "q": "Why does the book recommend asking close people for feedback?",
+      "a": [
+        "It shows what you do well and what to improve",
+        "It proves to them that you value their opinions",
+        "It gives you material for future conversations",
+        "It prevents them from criticizing you behind your back"
+      ],
+      "why": "Lesson 3 says feedback is the only way to learn what you are doing right and wrong, though it can feel like criticism."
+    },
+    {
+      "q": "How can friends and family support self-management?",
+      "a": [
+        "Knowing your goals keeps you accountable to them",
+        "They can make decisions for you when you are stressed",
+        "They can shield you from difficult situations",
+        "They can remind you to suppress your emotions"
+      ],
+      "why": "Lesson 2 says telling family and friends your goals gives you accountability, which is a strong source of motivation."
+    }
+  ]
+}

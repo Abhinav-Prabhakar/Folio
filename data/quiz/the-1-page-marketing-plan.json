@@ -1,0 +1,56 @@
+{
+  "book": "the-1-page-marketing-plan",
+  "title": "The 1-Page Marketing Plan",
+  "questions": [
+    {
+      "q": "Which three phases make up a marketing plan, according to the summary?",
+      "a": [
+        "Before, during and after",
+        "Plan, build and launch",
+        "Research, pitch and close",
+        "Attract, engage and upsell"
+      ],
+      "why": "The lessons split marketing into getting prospects, converting them, and looking after buyers."
+    },
+    {
+      "q": "What is a buyer persona?",
+      "a": [
+        "A virtual avatar of your ideal customer",
+        "A list of everyone who has bought before",
+        "A script for your first sales call",
+        "A rival you benchmark your prices against"
+      ],
+      "why": "Lesson 1 describes it as an avatar that thinks and acts like the customer you want to reach."
+    },
+    {
+      "q": "What should you do right after a lead gives you their email address?",
+      "a": [
+        "Follow up and introduce yourself",
+        "Send them a discount code that day",
+        "Add them to a public group chat",
+        "Wait a week before making contact"
+      ],
+      "why": "Lesson 2 says that once you capture an email, you should follow up and introduce yourself."
+    },
+    {
+      "q": "Why does the summary say a broken purchase link matters so much?",
+      "a": [
+        "It wastes the money you already spent on marketing",
+        "It makes your brand look technically outdated",
+        "It lowers your ranking in search results",
+        "It lets rivals copy your offer quickly"
+      ],
+      "why": "Lesson 2 compares dead links to throwing your whole ad budget out of the window."
+    },
+    {
+      "q": "Which three factors decide whether a customer will buy from you again?",
+      "a": [
+        "The product, the delivery and how it was received",
+        "The price, the packaging and the warranty",
+        "The ad, the website and the checkout",
+        "The brand, the reviews and the refund policy"
+      ],
+      "why": "Lesson 3 names the product or service, the delivery process and the customer’s experience of it."
+    }
+  ]
+}

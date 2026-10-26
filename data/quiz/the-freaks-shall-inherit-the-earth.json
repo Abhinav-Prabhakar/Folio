@@ -1,0 +1,56 @@
+{
+  "book": "the-freaks-shall-inherit-the-earth",
+  "title": "The Freaks Shall Inherit The Earth",
+  "questions": [
+    {
+      "q": "What is the first step to unleash your inner freak?",
+      "a": [
+        "Accept your quirks",
+        "Ignore criticism",
+        "Follow trends",
+        "Seek approval"
+      ],
+      "why": "The text says accept your quirks."
+    },
+    {
+      "q": "Which media element is NOT listed as essential for a profitable business?",
+      "a": [
+        "Community",
+        "Advertising",
+        "Content",
+        "Marketplace"
+      ],
+      "why": "Advertising is not mentioned among the three."
+    },
+    {
+      "q": "What does the author say about people who overcome personal problems?",
+      "a": [
+        "They can overcome business problems",
+        "They become leaders",
+        "They attract wealth",
+        "They avoid risk"
+      ],
+      "why": "The text links personal and business problem solving."
+    },
+    {
+      "q": "Which example illustrates a freak quitting a consulting job?",
+      "a": [
+        "Starting a hacky sack business",
+        "Buying a car",
+        "Joining a gym",
+        "Writing a book"
+      ],
+      "why": "The hacky sack business example is given."
+    },
+    {
+      "q": "What does Chris Brogan compare good media to?",
+      "a": [
+        "A campfire",
+        "A classroom",
+        "A laboratory",
+        "A marketplace"
+      ],
+      "why": "He likens it to a campfire."
+    }
+  ]
+}

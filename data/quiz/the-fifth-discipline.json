@@ -1,0 +1,56 @@
+{
+  "book": "the-fifth-discipline",
+  "title": "The Fifth Discipline",
+  "questions": [
+    {
+      "q": "Which five disciplines does Senge say turn a workplace into a learning organization?",
+      "a": [
+        "Personal mastery, mental models, team learning, shared vision, systems thinking",
+        "Clear goals, tight budgets, strong managers, fast feedback, fair pay",
+        "Hiring, training, promotion, retention, succession planning",
+        "Strategy, structure, systems, staff, and shared values"
+      ],
+      "why": "Lesson 2 names those five disciplines, ending with systems thinking as the integrating one."
+    },
+    {
+      "q": "Which discipline does lesson 2 call the most important and the one that integrates the rest?",
+      "a": [
+        "Systems thinking",
+        "Personal mastery",
+        "Team learning",
+        "Shared vision"
+      ],
+      "why": "Lesson 2 says systems thinking looks at problems as a whole and ties all five together."
+    },
+    {
+      "q": "What does shared vision mean in a learning organization?",
+      "a": [
+        "Employees feel ownership of the company's direction",
+        "A charismatic leader hands down a fixed plan",
+        "Every team writes its own separate mission",
+        "Vision statements are posted in every office"
+      ],
+      "why": "Lesson 2 contrasts shared vision with a visionary leader simply imposing their ideas."
+    },
+    {
+      "q": "What three roles should leaders adopt instead of focusing on titles?",
+      "a": [
+        "Designer, teacher, and steward",
+        "Coach, referee, and scorekeeper",
+        "Planner, controller, and inspector",
+        "Founder, manager, and investor"
+      ],
+      "why": "Lesson 3 says leaders must become designers, teachers, and stewards."
+    },
+    {
+      "q": "What does the story of the slowly heated frog illustrate about companies?",
+      "a": [
+        "They fail to notice problems that grow gradually",
+        "They adapt best when change happens slowly",
+        "They need warmer, more comfortable offices",
+        "They should avoid making any long-term plans"
+      ],
+      "why": "Lesson 1 uses the frog to show reactive firms miss slowly worsening problems."
+    }
+  ]
+}

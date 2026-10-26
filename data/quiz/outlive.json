@@ -1,0 +1,56 @@
+{
+  "book": "outlive",
+  "title": "Outlive",
+  "questions": [
+    {
+      "q": "What is the Centenarian Decathlon?",
+      "a": [
+        "A list of ten movements you want to do at 100",
+        "A ten-week fitness program for beginners",
+        "A set of ten foods to eat every day",
+        "A test that measures your biological age"
+      ],
+      "why": "Lesson 1 defines the Centenarian Decathlon as ten physical feats you want to manage at 100."
+    },
+    {
+      "q": "Why should you start training for those movements now?",
+      "a": [
+        "The abilities you want later must be built long before then",
+        "Aging removes the ability to build muscle",
+        "Doctors require a decade of preparation",
+        "Insurance discounts reward early training"
+      ],
+      "why": "Lesson 1 says the abilities you want at 100 have to be trained decades earlier."
+    },
+    {
+      "q": "Which three food restrictions does Attia suggest?",
+      "a": [
+        "Caloric, dietary and time restriction",
+        "Sugar, salt and fat restriction",
+        "Liquid, solid and mixed fasting",
+        "Morning, noon and night eating"
+      ],
+      "why": "Lesson 2 lists caloric restriction, dietary restriction and time restriction as three options."
+    },
+    {
+      "q": "What does Attia say a sleep tracker is useful for?",
+      "a": [
+        "Learning how well you recover and what disrupts sleep",
+        "Diagnosing serious sleep disorders",
+        "Replacing the need for daily exercise",
+        "Proving you need less sleep than others"
+      ],
+      "why": "Lesson 3 recommends a week of tracking to learn when sleep is strong and what weakens it."
+    },
+    {
+      "q": "What does Attia admit about sleep compared with exercise and nutrition?",
+      "a": [
+        "Poor sleep is nearly impossible to offset with the other two",
+        "Sleep matters less than diet for longevity",
+        "Exercise can fully compensate for lost sleep",
+        "Nutrition is the strongest of the four pillars"
+      ],
+      "why": "Lesson 3 quotes Attia saying dysregulated sleep is almost impossible to overcome otherwise."
+    }
+  ]
+}

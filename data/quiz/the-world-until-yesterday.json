@@ -1,0 +1,56 @@
+{
+  "book": "the-world-until-yesterday",
+  "title": "The World Until Yesterday",
+  "questions": [
+    {
+      "q": "Which modern disease is rare among hunter‑gatherer societies?",
+      "a": [
+        "Non‑communicable diseases like diabetes",
+        "Infectious diseases like malaria",
+        "Genetic disorders like cystic fibrosis",
+        "Seasonal allergies"
+      ],
+      "why": "Text notes modern societies face non‑communicable diseases that traditional groups did not."
+    },
+    {
+      "q": "How do traditional societies typically resolve disputes?",
+      "a": [
+        "By restoring peaceful relationships through regret and compensation",
+        "By filing lawsuits in a formal court",
+        "By imposing corporal punishment",
+        "By voting in a community assembly"
+      ],
+      "why": "The passage describes conflict resolution focused on peace and compensation."
+    },
+    {
+      "q": "What is a common characteristic of the Siriano and Andaman groups?",
+      "a": [
+        "Small egalitarian bands of under a hundred people",
+        "Large hierarchical chiefdoms",
+        "Nomadic herders with livestock",
+        "Urbanized trade networks"
+      ],
+      "why": "The text says they live in small, egalitarian bands."
+    },
+    {
+      "q": "What major change occurred about 11,000 years ago?",
+      "a": [
+        "Shift from hunting‑gathering to agriculture",
+        "Invention of the printing press",
+        "Development of industrial factories",
+        "Creation of digital communication"
+      ],
+      "why": "Overview states ancestors moved to agriculture then."
+    },
+    {
+      "q": "Why does the author suggest looking to the past for solutions?",
+      "a": [
+        "Traditional practices offer conflict‑resolution models",
+        "Modern tech always solves problems",
+        "Ancient myths predict future trends",
+        "Historical data predicts stock markets"
+      ],
+      "why": "The intro argues past societies can teach us how to resolve issues."
+    }
+  ]
+}

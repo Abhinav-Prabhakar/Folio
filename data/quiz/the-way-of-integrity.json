@@ -1,0 +1,56 @@
+{
+  "book": "the-way-of-integrity",
+  "title": "The Way Of Integrity",
+  "questions": [
+    {
+      "q": "What does Beck define integrity as?",
+      "a": [
+        "Being whole and intact",
+        "Being popular",
+        "Being wealthy",
+        "Being carefree"
+      ],
+      "why": "Beck says integrity originally meant \"to be whole\" or \"intact.\""
+    },
+    {
+      "q": "Which literary work inspires Beck's four‑step process?",
+      "a": [
+        "Dante's The Divine Comedy",
+        "Shakespeare's Hamlet",
+        "Homer's Odyssey",
+        "Tolstoy's War and Peace"
+      ],
+      "why": "The overview notes Beck was inspired by Dante's The Divine Comedy."
+    },
+    {
+      "q": "What is the first step in the Dark Wood metaphor?",
+      "a": [
+        "Acknowledging you are lost",
+        "Finding a new job",
+        "Buying a plane ticket",
+        "Meditating daily"
+      ],
+      "why": "Beck says the first step to emerge is to finally acknowledge you're lost."
+    },
+    {
+      "q": "Which animal represents panic in Beck's model?",
+      "a": [
+        "Lion",
+        "Wolf",
+        "Leopard",
+        "Bear"
+      ],
+      "why": "The text lists the terrifying lion as representing panic."
+    },
+    {
+      "q": "What does aligning thoughts and actions lead to, according to Beck?",
+      "a": [
+        "Paradise",
+        "Purgatory",
+        "Inferno",
+        "Dark Wood"
+      ],
+      "why": "When thoughts and actions fully align, you are in Paradise."
+    }
+  ]
+}

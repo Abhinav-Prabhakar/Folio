@@ -1,0 +1,56 @@
+{
+  "book": "cryptoassets",
+  "title": "Cryptoassets",
+  "questions": [
+    {
+      "q": "What three properties describe the blockchain in lesson 1?",
+      "a": [
+        "Distributed, cryptographic and immutable",
+        "Centralized, encrypted and editable",
+        "Distributed, public and deletable",
+        "Private, temporary and centralized"
+      ],
+      "why": "Lesson 1 names distributed, cryptographic and immutable as the blockchain's three main properties."
+    },
+    {
+      "q": "What happens when a new Bitcoin transaction is recorded?",
+      "a": [
+        "A new block is added, and the miner who adds it is paid in Bitcoin",
+        "A bank verifies the payment and charges a small fee",
+        "The transaction is deleted once the network confirms it",
+        "A government agency stores a copy in its own database"
+      ],
+      "why": "Lesson 1 says miners compete to add each new block because doing so earns them Bitcoin."
+    },
+    {
+      "q": "Which comparison does the author use for crypto's disruptive potential?",
+      "a": [
+        "Email replacing snail mail and Netflix displacing Blockbuster",
+        "Radio replacing newspapers and television replacing radio",
+        "Cars replacing horses and planes replacing trains",
+        "Credit cards replacing cash and ATMs replacing bank tellers"
+      ],
+      "why": "Lesson 2 compares Bitcoin's future impact to email overtaking mail and Netflix overtaking Blockbuster."
+    },
+    {
+      "q": "What is the \"speculation of crowds\" the summary warns about?",
+      "a": [
+        "Copying other investors without understanding what you are buying",
+        "Buying only assets that have already fallen sharply in price",
+        "Investing a fixed amount at the same time every month",
+        "Selling everything as soon as the market becomes popular"
+      ],
+      "why": "Lesson 3 describes people piling into an asset simply because they see others doing it."
+    },
+    {
+      "q": "How does the summary suggest reducing crypto risk?",
+      "a": [
+        "Diversify, and track how your assets respond to world events",
+        "Put all your money into the single cheapest coin available",
+        "Follow the most confident voices on social media",
+        "Ignore economic news and never review your holdings"
+      ],
+      "why": "Lesson 3 recommends diversifying and understanding how your asset reacts to economic conditions."
+    }
+  ]
+}

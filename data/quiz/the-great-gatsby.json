@@ -1,0 +1,56 @@
+{
+  "book": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "questions": [
+    {
+      "q": "What is Gatsby's source of wealth?",
+      "a": [
+        "Illegal alcohol smuggling",
+        "Inheritance",
+        "Stock market",
+        "Real estate"
+      ],
+      "why": "Gatsby made money illegally"
+    },
+    {
+      "q": "Who does Daisy ultimately choose?",
+      "a": [
+        "Tom Buchanan",
+        "Jay Gatsby",
+        "Jordan Baker",
+        "Nick Carraway"
+      ],
+      "why": "Daisy chooses Tom"
+    },
+    {
+      "q": "What does Tom have a mistress named?",
+      "a": [
+        "Myrtle",
+        "Jordan",
+        "Daisy",
+        "Gatsby"
+      ],
+      "why": "Tom's mistress is Myrtle"
+    },
+    {
+      "q": "Why does Gatsby cover for Daisy after the accident?",
+      "a": [
+        "He loves her",
+        "He fears punishment",
+        "He is loyal",
+        "He is indifferent"
+      ],
+      "why": "Gatsby covers for Daisy because he loves her"
+    },
+    {
+      "q": "What is the main lesson about money in the novel?",
+      "a": [
+        "It solves many problems but not the most important",
+        "It solves everything",
+        "It is irrelevant",
+        "It is harmful"
+      ],
+      "why": "Money solves many but not the most important"
+    }
+  ]
+}

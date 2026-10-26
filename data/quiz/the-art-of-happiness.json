@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-happiness",
+  "title": "The Art Of Happiness",
+  "questions": [
+    {
+      "q": "According to the Dalai Lama, what does basic spirituality mean?",
+      "a": [
+        "Showing compassion, kindness and care for the people around you",
+        "Following the rituals of the religion you were born into",
+        "Meditating for several hours every single day",
+        "Believing in a creator who rewards good behavior"
+      ],
+      "why": "Lesson 1 says basic spirituality is about compassion and caring, not about belonging to any religion."
+    },
+    {
+      "q": "What mistake does the Dalai Lama say Westerners make about suffering?",
+      "a": [
+        "Treating it as unnatural and therefore resisting it",
+        "Believing that only other people can truly suffer",
+        "Trying to fix it instead of simply accepting it",
+        "Talking about it too openly with friends"
+      ],
+      "why": "Lesson 2 says Westerners think suffering is unnatural, and rejecting it turns them into victims."
+    },
+    {
+      "q": "According to the summary, what is the root cause of suffering?",
+      "a": [
+        "Resistance to change",
+        "A lack of close friendships",
+        "Unrealistic career ambitions",
+        "Not having enough money"
+      ],
+      "why": "Lesson 2 states plainly that resisting change is the root cause of suffering."
+    },
+    {
+      "q": "How does the Dalai Lama suggest building confidence?",
+      "a": [
+        "From the inside, by being honest about what you can and cannot do",
+        "From the outside, by collecting praise and achievements",
+        "By comparing yourself with people who struggle more",
+        "By taking on challenges far beyond your current level"
+      ],
+      "why": "Lesson 3 contrasts outer confidence with inner honesty about your limits."
+    },
+    {
+      "q": "What two lessons did the author take from his uncle's early death?",
+      "a": [
+        "Stop doing work you hate and spend more time with loved ones",
+        "Work harder while you can and save more money",
+        "Avoid thinking about death and stay busy",
+        "Travel more often and take fewer risks"
+      ],
+      "why": "The review lists these two conclusions: quit work you dislike and value the time you have with family and friends."
+    }
+  ]
+}

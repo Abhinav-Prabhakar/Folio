@@ -1,0 +1,56 @@
+{
+  "book": "the-monk-who-sold-his-ferrari",
+  "title": "The Monk Who Sold His Ferrari",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Monk Who Sold His Ferrari?",
+      "a": [
+        "I’ve always wondered what this book is about.",
+        "They say nothing worth having is easy, right?",
+        "Well, suggested isn’t exactly the right term.",
+        "Traditionally, Japan held isolationist views."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Monk Who Sold His Ferrari explore?",
+      "a": [
+        "Learn to guard your mind with The Heart of the Rose exercise",
+        "Improve team communication by understanding cognitive skills",
+        "Our empathy is selective and biased, and we don’t realize it",
+        "The mp3 beat the CD in the format war thanks to the internet"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Monk Who Sold His Ferrari teach?",
+      "a": [
+        "The Ten Rituals of Radiant Living are a simple morning routine that covers everything you…",
+        "Black Swans dramatically change the reality of those, who aren’t aware that they’re coming",
+        "Wind and other alternative energy sources are sustainable, but producing them isn’t always",
+        "Use 6 spiritual practices to restore and strengthen both your and your kids’ mental health"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Monk Who Sold His Ferrari?",
+      "a": [
+        "The fable Yogi Raman, Julian’s teacher, tells, takes place in a garden.",
+        "What’s one thing kids do all the time, which we tend to stop as adults?",
+        "Children can be a blessing, but they also give us plenty of challenges.",
+        "From an evolution standpoint, our bodies have developed to crave sugar."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Monk Who Sold His Ferrari?",
+      "a": [
+        "The Monk Who Sold His Ferrari is a self-help classic telling the story of fictional…",
+        "Knowing your history and science can help you determine people’s ages without asking",
+        "Free your mind of negativity and frustration to leave room for positivity and growth",
+        "Nash’s diagnosis of schizophrenia came after a stressful time in his career and life"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

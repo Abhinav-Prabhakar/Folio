@@ -1,0 +1,31 @@
+{
+  "book": "greenlights",
+  "title": "Greenlights",
+  "questions": [
+    {
+      "q": "What does McConaughey mean by a greenlight?",
+      "a": ["A sign you can move forward, or one you create yourself", "A contract offered by a movie studio", "A lucky break that cannot be planned", "A warning to change direction"],
+      "why": "The overview says a greenlight can be a gift or a fresh start, and you can make your own."
+    },
+    {
+      "q": "What two lessons did the beatings he received teach him?",
+      "a": ["Do not hate, and never say you can't", "Work first and play later", "Never trust anyone outside family", "Always finish what you start"],
+      "why": "Lesson 1 says the punishments taught him not to hate and never to say he cannot."
+    },
+    {
+      "q": "What did his year in Australia teach him?",
+      "a": ["He needed structure and challenge in his life", "He wanted to become a teacher there", "He preferred small towns to cities", "He should avoid long trips abroad"],
+      "why": "Lesson 1 says the lonely exchange year made him look inward and crave structure."
+    },
+    {
+      "q": "How did McConaughey get his part in Dazed and Confused?",
+      "a": ["He met a filmmaker at a hotel bar and hit it off", "He auditioned after a casting call at UT", "His agent sent in a video reel", "A professor recommended him to a director"],
+      "why": "Lesson 2 describes meeting Don Phillips over drinks and being offered a role."
+    },
+    {
+      "q": "Why did he stop taking romantic comedies?",
+      "a": ["He wanted a different challenge and a more meaningful life", "Studios had stopped offering him those roles", "He wanted to spend all his time on his ranch", "His agent advised him to change genres"],
+      "why": "Lesson 3 says he took a career risk to find more meaning, and was out of work for two years."
+    }
+  ]
+}

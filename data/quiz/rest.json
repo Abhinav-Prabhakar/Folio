@@ -1,0 +1,56 @@
+{
+  "book": "rest",
+  "title": "Rest",
+  "questions": [
+    {
+      "q": "How many hours of focused work a day does the summary say produce the best results?",
+      "a": [
+        "About four",
+        "About six",
+        "About eight",
+        "About ten"
+      ],
+      "why": "Lesson 1 recommends four diligent hours, arguing they beat eight distracted ones."
+    },
+    {
+      "q": "Why does the summary say working long hours backfires?",
+      "a": [
+        "Your productivity drops the longer you keep going",
+        "Your employer stops noticing your effort",
+        "Your colleagues begin to resent you",
+        "Your creativity peaks after ten hours"
+      ],
+      "why": "Lesson 1 reports that people working 60 hours were the least productive of all the groups studied."
+    },
+    {
+      "q": "In the study described, what happened to students who were interrupted mid-task?",
+      "a": [
+        "They came up with more creative uses for the paper",
+        "They finished the task much faster than the others",
+        "They forgot the original instructions entirely",
+        "They produced fewer and less original ideas"
+      ],
+      "why": "Lesson 2 describes an experiment where the group that stepped away generated more creative answers."
+    },
+    {
+      "q": "What does the summary say your brain does when you stop working on a problem?",
+      "a": [
+        "It keeps processing the task subconsciously",
+        "It shuts down until you sit back down",
+        "It replays only the mistakes you made",
+        "It cannot focus again for the rest of the day"
+      ],
+      "why": "Lesson 2 explains that the mind continues to examine problems and produce ideas while you are away from them."
+    },
+    {
+      "q": "What does the example of Winston Churchill illustrate?",
+      "a": [
+        "That deep play can rescue you in a dark time",
+        "That leaders should work longer hours",
+        "That hobbies distract from serious work",
+        "That painting improves military strategy"
+      ],
+      "why": "Lesson 3 says Churchill found oil painting therapeutic and credited it with helping him through a very dark period."
+    }
+  ]
+}

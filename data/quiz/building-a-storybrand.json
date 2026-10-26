@@ -1,0 +1,31 @@
+{
+  "book": "building-a-storybrand",
+  "title": "Building A StoryBrand",
+  "questions": [
+    {
+      "q": "In a StoryBrand story, who should be cast as the hero?",
+      "a": ["The customer", "The company founder", "The product itself", "The brand's mascot"],
+      "why": "Lesson 1 says a brand's story needs a hero, and that hero must be the customer rather than the company."
+    },
+    {
+      "q": "What role should a customer's problems play in your brand story?",
+      "a": ["The villain the customer must defeat", "The setting the story happens in", "The reward waiting at the end", "The narrator who guides the customer"],
+      "why": "Lesson 2 recommends turning the problems customers face into villains that they, as the hero, can vanquish with your product."
+    },
+    {
+      "q": "According to the summary, how many customer desires should a brand story focus on?",
+      "a": ["Just one", "Two at a time", "Three or four", "As many as possible"],
+      "why": "Lesson 1 stresses focusing on only one of the customer's desires, since a scattered message makes the story unclear."
+    },
+    {
+      "q": "Which three desires does the summary say a vision of transformation should appeal to?",
+      "a": ["Status, completeness, and self-acceptance", "Wealth, fame, and security", "Speed, simplicity, and savings", "Belonging, adventure, and mastery"],
+      "why": "Lesson 3 names status, completeness and self-acceptance as the desires that make a happy ending compelling."
+    },
+    {
+      "q": "What did the luxury resort finally realize its customers most wanted?",
+      "a": ["To relax", "To save money", "To impress their friends", "To explore the local area"],
+      "why": "Lesson 1 describes the resort simplifying its website once it understood that relaxation was the one desire it needed to serve."
+    }
+  ]
+}

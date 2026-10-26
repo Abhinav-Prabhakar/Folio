@@ -1,0 +1,56 @@
+{
+  "book": "six-thinking-hats",
+  "title": "Six Thinking Hats",
+  "questions": [
+    {
+      "q": "What is the blue hat used for?",
+      "a": [
+        "Managing the thinking process and the session",
+        "Sharing facts and information",
+        "Expressing emotions freely",
+        "Finding flaws in a plan"
+      ],
+      "why": "Lesson 1 calls it the hat for thinking about thinking."
+    },
+    {
+      "q": "Who usually keeps the blue hat on for the whole meeting?",
+      "a": [
+        "The leader or facilitator",
+        "The newest team member",
+        "A rotating volunteer",
+        "The most optimistic person"
+      ],
+      "why": "Lesson 1 says the facilitator keeps it on to enforce the rules."
+    },
+    {
+      "q": "What happens under the red hat?",
+      "a": [
+        "People state feelings without explanation or judgement",
+        "People list facts and figures in order",
+        "People propose creative alternatives",
+        "People vote on the strongest option"
+      ],
+      "why": "Lesson 2 says emotions are voiced freely and nobody has to justify them."
+    },
+    {
+      "q": "Why does the summary say the red hat matters?",
+      "a": [
+        "It keeps resentment out of the final solution",
+        "It makes meetings noticeably shorter",
+        "It reveals which facts are missing",
+        "It speeds up every decision"
+      ],
+      "why": "Lesson 2 says airing feelings prevents grudges from carrying into the solution."
+    },
+    {
+      "q": "What does the yellow hat encourage?",
+      "a": [
+        "Realistic optimism about an idea's potential value",
+        "Cautious criticism of every new idea",
+        "Wild fantasies about enormous profits",
+        "Neutral collection of missing data"
+      ],
+      "why": "Lesson 3 describes the yellow hat as value-sensitive optimism grounded in reality."
+    }
+  ]
+}

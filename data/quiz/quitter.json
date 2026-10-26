@@ -1,0 +1,56 @@
+{
+  "book": "quitter",
+  "title": "Quitter",
+  "questions": [
+    {
+      "q": "What does Acuff say happens when you quit your day job too soon?",
+      "a": [
+        "You trade one boss for many bills and strain relationships",
+        "You gain instant creative freedom and energy",
+        "You lose all chance of ever writing a book",
+        "You confuse your family but impress employers"
+      ],
+      "why": "Lesson 1 warns that bills become new bosses and money worry damages your closest relationships."
+    },
+    {
+      "q": "Why does the summary recommend hustling in the morning?",
+      "a": [
+        "Early progress changes how you feel all day",
+        "Publishers and clients answer only at dawn",
+        "Night work is impossible for most people",
+        "Your energy peaks only before sunrise"
+      ],
+      "why": "Lesson 2 says finishing work before breakfast makes you walk into your job feeling confident."
+    },
+    {
+      "q": "What should you define before you reach success?",
+      "a": [
+        "What enough means to you",
+        "How famous you want to be",
+        "Which rival you want to beat",
+        "How much you will sacrifice"
+      ],
+      "why": "Lesson 3 says to spell out what enough means, or you will hustle past it and never feel satisfied."
+    },
+    {
+      "q": "How does Acuff remind himself of his definition of enough?",
+      "a": [
+        "He schedules an email to his future self",
+        "He writes it on his office wall",
+        "He tells his boss every quarter",
+        "He keeps a daily progress chart"
+      ],
+      "why": "Lesson 3 describes an email sent a year later, recalling that family and a good job were enough."
+    },
+    {
+      "q": "What two problems does the summary link to quitting early?",
+      "a": [
+        "Many small bosses and damaged relationships",
+        "Lost savings and a ruined reputation",
+        "Boredom and a lack of structure",
+        "Legal trouble and missed deadlines"
+      ],
+      "why": "Lesson 1 lists replacement bosses in the form of bills, plus serious strain on your relationships."
+    }
+  ]
+}

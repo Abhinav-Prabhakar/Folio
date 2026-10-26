@@ -1,0 +1,56 @@
+{
+  "book": "the-longevity-project",
+  "title": "The Longevity Project",
+  "questions": [
+    {
+      "q": "Which trait is linked to longer life in the study?",
+      "a": [
+        "Conscientiousness",
+        "Impulsiveness",
+        "Carelessness",
+        "Indifference"
+      ],
+      "why": "Conscientious participants lived longer."
+    },
+    {
+      "q": "What marital status correlates with living past 70 for men?",
+      "a": [
+        "Staying married",
+        "Divorced",
+        "Remarried",
+        "Single"
+      ],
+      "why": "Men who stayed married lived past 70."
+    },
+    {
+      "q": "Which social factor is more important than faith for longevity?",
+      "a": [
+        "Friends",
+        "Religion",
+        "Family",
+        "Work"
+      ],
+      "why": "Friends are more important than faith."
+    },
+    {
+      "q": "What does the study say about women who stay married?",
+      "a": [
+        "No lifespan difference",
+        "Shorter lifespan",
+        "Longer lifespan",
+        "Variable lifespan"
+      ],
+      "why": "Women's lifespan was similar regardless of marriage."
+    },
+    {
+      "q": "What does the study suggest about responsibility in early adulthood?",
+      "a": [
+        "It predicts longevity",
+        "It has no effect",
+        "It shortens life",
+        "It causes illness"
+      ],
+      "why": "Early responsibility predicts longer life."
+    }
+  ]
+}

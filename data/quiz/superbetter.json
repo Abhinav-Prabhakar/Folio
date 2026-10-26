@@ -1,0 +1,56 @@
+{
+  "book": "superbetter",
+  "title": "Superbetter",
+  "questions": [
+    {
+      "q": "What is post-traumatic growth?",
+      "a": [
+        "Turning a crisis into a stepping stone to becoming better",
+        "Recovering the happiness you had before a trauma",
+        "Escaping stress by retreating into a game",
+        "Forgetting painful memories after a difficult event"
+      ],
+      "why": "Lesson 1 defines it as taking adversity as a challenge and finding benefits in it."
+    },
+    {
+      "q": "What is post-ecstatic growth?",
+      "a": [
+        "Growth that follows a joyful achievement, like running a marathon",
+        "Growth that comes only after a serious illness",
+        "The confidence gained from winning a game",
+        "The relief felt after a long period of rest"
+      ],
+      "why": "Lesson 1 says this kind of growth needs no trauma and can follow a triumph or a hard-won change."
+    },
+    {
+      "q": "What makes gaming self-expansive rather than self-suppressive?",
+      "a": [
+        "Playing with a positive goal instead of escaping your problems",
+        "Choosing games that reward skill rather than luck",
+        "Limiting play to short sessions after work",
+        "Playing only games that were designed for groups"
+      ],
+      "why": "Lesson 3 says the reason you play decides whether games help you grow or help you avoid real life."
+    },
+    {
+      "q": "What did the SnowWorld study show about burn patients?",
+      "a": [
+        "Playing the game during treatment reduced their pain",
+        "The game made their treatments take longer",
+        "Patients needed stronger painkillers during care",
+        "Patients remembered little of the procedure afterward"
+      ],
+      "why": "Lesson 2 says brain scans showed less pain because the patients' attention was on the game."
+    },
+    {
+      "q": "What did playing Tetris soon after a traumatic event do?",
+      "a": [
+        "It reduced involuntary flashbacks of the event",
+        "It made participants more afraid of driving",
+        "It raised their anxiety for several days",
+        "It sharpened their memory of the event"
+      ],
+      "why": "Lesson 2 says ten minutes of Tetris within six hours cut the flashbacks people experienced."
+    }
+  ]
+}

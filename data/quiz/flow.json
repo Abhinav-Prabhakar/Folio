@@ -1,0 +1,56 @@
+{
+  "book": "flow",
+  "title": "Flow",
+  "questions": [
+    {
+      "q": "How does the summary distinguish pleasure from enjoyment?",
+      "a": [
+        "Pleasure is sensory and pulls attention away, while enjoyment is focused",
+        "Pleasure lasts longer, while enjoyment fades quickly",
+        "Pleasure comes from effort, while enjoyment comes from rest",
+        "Pleasure is learned, while enjoyment is purely genetic"
+      ],
+      "why": "Lesson 1 says enjoyment returns control of your attention and leads to real happiness."
+    },
+    {
+      "q": "When does flow occur?",
+      "a": [
+        "When the challenge matches your skill level",
+        "When the task is far easier than your abilities",
+        "When a reward is promised for finishing quickly",
+        "When you work alone without any distractions"
+      ],
+      "why": "Lesson 2 says flow sits between frustration and boredom."
+    },
+    {
+      "q": "What happens when a challenge is too hard or too easy?",
+      "a": [
+        "You become frustrated or bored and lose the flow",
+        "You enter flow more quickly because of the contrast",
+        "You retain more of what you learn in the session",
+        "You naturally increase your skill within minutes"
+      ],
+      "why": "Lesson 2 places flow between the two failure modes of anxiety and boredom."
+    },
+    {
+      "q": "What kind of activity is most likely to trigger flow?",
+      "a": [
+        "One you find meaningful and do without money or fame as a motive",
+        "One that pays well and offers clear public recognition",
+        "One that is completely new and has no rules at all",
+        "One that you can finish in a single sitting"
+      ],
+      "why": "Lesson 2 says the activity should be rewarding in itself, with no external incentive."
+    },
+    {
+      "q": "What does the summary say about setting a life goal?",
+      "a": [
+        "Any goal works if it keeps you in flow and keeps growing harder",
+        "Only a goal that helps others is worth committing to",
+        "A life goal should be chosen before you turn thirty",
+        "Goals matter less than enjoying each day as it comes"
+      ],
+      "why": "Lesson 3 says the content matters less than whether the goal sustains flow."
+    }
+  ]
+}

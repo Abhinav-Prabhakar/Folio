@@ -1,0 +1,56 @@
+{
+  "book": "the-mom-test",
+  "title": "The Mom Test",
+  "questions": [
+    {
+      "q": "Why should you avoid compliments in early feedback?",
+      "a": [
+        "They mask true opinions",
+        "Show enthusiasm",
+        "Encourage commitment",
+        "Signal interest"
+      ],
+      "why": "Compliments often let people avoid commitment."
+    },
+    {
+      "q": "What is a key tip for finding a niche?",
+      "a": [
+        "Look for specific market data",
+        "Read all blogs",
+        "Ignore competitors",
+        "Assume demand"
+      ],
+      "why": "The book advises examining real data to spot a niche."
+    },
+    {
+      "q": "Which setting is recommended for investor meetings?",
+      "a": [
+        "Casual coffee shop",
+        "Formal boardroom",
+        "Phone call",
+        "Video conference"
+      ],
+      "why": "Casual environments are faster, cheaper, and more relaxed."
+    },
+    {
+      "q": "What does the book say about market data?",
+      "a": [
+        "Take it as is, interpret carefully",
+        "Ignore it",
+        "Only use surveys",
+        "Only use social media"
+      ],
+      "why": "It stresses taking data as it is and interpreting it."
+    },
+    {
+      "q": "What is the purpose of asking specific questions?",
+      "a": [
+        "Reveal authentic insights",
+        "Show confidence",
+        "Sell the idea",
+        "Avoid detail"
+      ],
+      "why": "Specific questions help uncover real customer insights."
+    }
+  ]
+}

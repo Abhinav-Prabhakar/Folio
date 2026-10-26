@@ -1,0 +1,56 @@
+{
+  "book": "no-excuses",
+  "title": "No Excuses!",
+  "questions": [
+    {
+      "q": "According to Tracy, what separates high achievers from everyone else?",
+      "a": [
+        "Self-discipline",
+        "Natural talent",
+        "Personal connections",
+        "Lucky timing"
+      ],
+      "why": "The overview says Tracy treats self-discipline as the key to any goal, without which talent and luck fall short."
+    },
+    {
+      "q": "How much of your income does Tracy suggest spending on self-improvement?",
+      "a": [
+        "Three percent",
+        "Ten percent",
+        "One percent",
+        "Twenty percent"
+      ],
+      "why": "Lesson 1 recommends allocating 3 percent of your income and a little daily time to moving toward excellence."
+    },
+    {
+      "q": "What is the first step of Tracy's Seven-Step Method?",
+      "a": [
+        "Define your goal exactly",
+        "Set a strict deadline",
+        "List every obstacle",
+        "Start with the easiest task"
+      ],
+      "why": "Lesson 1 lists defining the goal precisely as step one, before writing it down and setting deadlines."
+    },
+    {
+      "q": "Which ingredient of happiness involves saving part of your income?",
+      "a": [
+        "Financial independence",
+        "Health and energy",
+        "Meaningful work",
+        "Self-actualization"
+      ],
+      "why": "Lesson 2 suggests living on 99 percent of your income and saving 1 percent to build freedom from money."
+    },
+    {
+      "q": "What is the purpose of the Disaster Report?",
+      "a": [
+        "To defuse fear by describing the worst case",
+        "To track progress toward your goals",
+        "To warn others about risky decisions",
+        "To record every mistake you make at work"
+      ],
+      "why": "Lesson 3 says writing down the worst-case scenario makes it lose some of its scary power."
+    }
+  ]
+}

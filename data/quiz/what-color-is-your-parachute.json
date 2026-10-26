@@ -1,0 +1,56 @@
+{
+  "book": "what-color-is-your-parachute",
+  "title": "What Color Is Your Parachute",
+  "questions": [
+    {
+      "q": "What does the author suggest you should google first in a job hunt?",
+      "a": [
+        "Your own name",
+        "The company's website",
+        "Industry salary data",
+        "Recent news articles"
+      ],
+      "why": "Dick Bolles advises to google your name to see your online presence."
+    },
+    {
+      "q": "According to the text, how long does a typical modern job search take?",
+      "a": [
+        "A few months",
+        "Five weeks",
+        "One year",
+        "Two weeks"
+      ],
+      "why": "The author states it's normal for a job hunt to take a few months these days."
+    },
+    {
+      "q": "What is the recommended alternative to polishing a résumé?",
+      "a": [
+        "Optimizing your online presence",
+        "Attending more networking events",
+        "Sending cold emails",
+        "Getting a career coach"
+      ],
+      "why": "The author says you don't need a résumé; focus on your online presence."
+    },
+    {
+      "q": "Which of these is NOT one of Bolles' interview tips?",
+      "a": [
+        "Practice answering brainteasers",
+        "Learn everything about the company",
+        "Build rapport online",
+        "Prepare before you walk in"
+      ],
+      "why": "The three tips listed are learning about the company, building rapport, and preparation."
+    },
+    {
+      "q": "What risk does the author associate with classic books that rarely change?",
+      "a": [
+        "Feeling outdated today",
+        "Losing copyright protection",
+        "Becoming too niche",
+        "Having low sales"
+      ],
+      "why": "Classic books that stay unchanged often feel old today."
+    }
+  ]
+}

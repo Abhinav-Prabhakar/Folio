@@ -1,0 +1,56 @@
+{
+  "book": "pitch-perfect",
+  "title": "Pitch Perfect",
+  "questions": [
+    {
+      "q": "According to the summary, what is the biggest obstacle to getting promoted?",
+      "a": [
+        "Bad communication skills",
+        "A lack of technical expertise",
+        "Not enough ambition",
+        "Too few industry contacts"
+      ],
+      "why": "Lesson 1 cites research finding that poor communication is the largest barrier to advancement at work."
+    },
+    {
+      "q": "What happens when nervous speakers rush their words?",
+      "a": [
+        "They sound uncertain and may say something regrettable",
+        "They come across as energetic and convincing",
+        "They hold attention better than slower speakers",
+        "They finish before the audience loses interest"
+      ],
+      "why": "Lesson 2 says fast speech under stress sounds more neurotic than confident and can harm your reputation."
+    },
+    {
+      "q": "What did Tony Hayward's remark about wanting his life back cost him?",
+      "a": [
+        "His job",
+        "A regulatory fine",
+        "The company's share price",
+        "A public apology tour"
+      ],
+      "why": "Lesson 2 says his careless comment during the Gulf oil spill ended up costing him his position."
+    },
+    {
+      "q": "How does the author suggest preparing for casual conversations?",
+      "a": [
+        "Keep a list of common questions you can ask",
+        "Memorize a script for every likely topic",
+        "Avoid discussing work or family entirely",
+        "Always let the other person speak first"
+      ],
+      "why": "Lesson 3 describes preparing a list of commonly asked questions about family, background or work."
+    },
+    {
+      "q": "Which practice does the author recommend even though it feels awkward?",
+      "a": [
+        "Role-playing conversations with friends and family",
+        "Recording yourself and watching it back",
+        "Reading your presentation aloud many times",
+        "Joining a public speaking club"
+      ],
+      "why": "Lesson 3 says role-playing is awkward but works well for preparing talks and conversations."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "eat-that-frog",
+  "title": "Eat That Frog",
+  "questions": [
+    {
+      "q": "How does Brian Tracy suggest using a daily commute?",
+      "a": [
+        "Listening to audiobooks, courses or language tapes",
+        "Catching up on sleep before the workday starts",
+        "Planning every meeting for the following week",
+        "Calling clients to build stronger relationships"
+      ],
+      "why": "Lesson 1 says the hours spent commuting can be turned into learning time with audiobooks, programs or language tapes."
+    },
+    {
+      "q": "What does knowing yourself mean in the summary?",
+      "a": [
+        "Knowing your strengths, weaknesses and best working hours",
+        "Knowing which tasks your colleagues dislike most",
+        "Knowing how to say no to every extra request",
+        "Knowing your salary compared with the market rate"
+      ],
+      "why": "Lesson 2 defines self-awareness as knowing what you are and are not good at, plus the time of day when you are most productive."
+    },
+    {
+      "q": "What did Charlie Munger do with the hour he sold himself as a client?",
+      "a": [
+        "He worked on his own projects instead of billing others",
+        "He studied law so he could charge higher fees",
+        "He rested so he could work longer hours later",
+        "He taught young lawyers for a small fee"
+      ],
+      "why": "Lesson 3 recounts Munger deciding his most important client was himself and using a paid hour each day for his own ventures."
+    },
+    {
+      "q": "What share of emotions does the summary say comes from self-talk?",
+      "a": [
+        "95 percent",
+        "50 percent",
+        "75 percent",
+        "10 percent"
+      ],
+      "why": "Lesson 2 states that 95 percent of emotions stem from our internal self-talk."
+    },
+    {
+      "q": "How does Tracy recommend reserving time for personal goals?",
+      "a": [
+        "Block chunks of time on your calendar and keep them",
+        "Wait for a free evening and work as long as possible",
+        "Work on them only after every other task is finished",
+        "Delegate them to someone with more spare time"
+      ],
+      "why": "Lesson 3 recommends blocking time in chunks on the calendar and using those appointments to advance personal goals."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-social-leap",
+  "title": "The Social Leap",
+  "questions": [
+    {
+      "q": "What new abilities did early humans develop to survive changing environments?",
+      "a": [
+        "Walking and throwing",
+        "Flying and swimming",
+        "Singing and dancing",
+        "Sleeping and dreaming"
+      ],
+      "why": "Early humans needed walking and throwing to adapt to less food and more predators."
+    },
+    {
+      "q": "Why does the author say community was crucial for early human survival?",
+      "a": [
+        "It made hunting and defense easier",
+        "It increased individual wealth",
+        "It allowed solitary living",
+        "It reduced communication needs"
+      ],
+      "why": "With more people working together, predators could be turned into food."
+    },
+    {
+      "q": "What does the book suggest about lottery winners' long‑term happiness?",
+      "a": [
+        "They quickly return to baseline",
+        "They become permanently happier",
+        "They become less happy",
+        "They stay equally happy"
+      ],
+      "why": "Lottery winners have a short boost but later return to previous happiness levels."
+    },
+    {
+      "q": "According to the book, what drives human happiness evolutionarily?",
+      "a": [
+        "Meeting survival and reproduction needs",
+        "Collecting wealth",
+        "Avoiding social interaction",
+        "Watching television"
+      ],
+      "why": "Humans are happiest when doing things that promote longevity and passing on genes."
+    },
+    {
+      "q": "Which lesson explains why humans find it hard to choose fulfilling activities?",
+      "a": [
+        "We have too many options",
+        "We have too few options",
+        "We lack evolutionary history",
+        "We lack community"
+      ],
+      "why": "Humans have many choices, most of which do not give true fulfillment."
+    }
+  ]
+}

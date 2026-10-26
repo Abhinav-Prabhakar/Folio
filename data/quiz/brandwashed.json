@@ -1,0 +1,31 @@
+{
+  "book": "brandwashed",
+  "title": "Brandwashed",
+  "questions": [
+    {
+      "q": "How does the summary say fear affects a shopper's thinking?",
+      "a": ["It can slow the rational parts of the brain", "It sharpens logic and improves comparisons", "It makes people ignore advertising entirely", "It only affects children, not adults"],
+      "why": "Lesson 1 explains that the amygdala's fear response is powerful enough to dampen rational thinking, which marketers exploit."
+    },
+    {
+      "q": "What happened after a security company aired a frightening commercial?",
+      "a": ["Alarm sales rose even though crime was falling", "Sales fell because viewers found it offensive", "The company was forced to pull the advert", "Viewers bought the product to protect strangers"],
+      "why": "Lesson 1 says alarm system sales climbed 10 percent while the actual crime rate was going down, showing irrational fear-driven buying."
+    },
+    {
+      "q": "What did research on young adults and their phones find?",
+      "a": ["The brain's love region lit up when the phone rang", "Users felt nothing when separated from their phones", "Phone use improved concentration over time", "Only teenagers showed any phone attachment"],
+      "why": "Lesson 2 reports that for 18 to 25 year olds, the brain area linked to being in love activated when their device rang."
+    },
+    {
+      "q": "What did the rat study in the summary suggest about food cravings?",
+      "a": ["Food cravings lasted far longer than drug cravings", "Food addiction was easier to break than cocaine use", "Rats preferred cocaine to any kind of food", "Cravings disappeared once the food was removed"],
+      "why": "Lesson 2 says the cravings of food-addicted rats continued seven times longer than those of rats addicted to cocaine."
+    },
+    {
+      "q": "Why does the summary warn about online product reviews?",
+      "a": ["As many as a quarter of them may be fake", "They are written only by professional critics", "They are removed after a product sells out", "They always contradict the star ratings"],
+      "why": "Lesson 3 says up to 25 percent of reviews are fake, part of the manufactured peer pressure companies use to drive purchases."
+    }
+  ]
+}

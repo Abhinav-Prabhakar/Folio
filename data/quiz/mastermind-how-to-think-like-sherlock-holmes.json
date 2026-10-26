@@ -1,0 +1,56 @@
+{
+  "book": "mastermind-how-to-think-like-sherlock-holmes",
+  "title": "Mastermind: How to Think Like Sherlock Holmes",
+  "questions": [
+    {
+      "q": "Which of the brain’s two systems do we use by default?",
+      "a": [
+        "The reflexive system, which accepts the first answer it finds",
+        "The conscious system, which questions every assumption",
+        "The memory system, which replays past experiences",
+        "The emotional system, which ignores logic entirely"
+      ],
+      "why": "Lesson 1 says the brain is wired to save energy, so the reflexive system takes the first answer as correct."
+    },
+    {
+      "q": "What does mindfulness require, according to the summary?",
+      "a": [
+        "Energy and focus to stay aware of the present moment",
+        "Complete silence and isolation from other people",
+        "Memorizing facts before attempting to reason",
+        "Trusting your first impression without hesitation"
+      ],
+      "why": "Lesson 1 notes that engaging the conscious system takes energy and focus, which is why it feels difficult."
+    },
+    {
+      "q": "What is Holmes’s “attic” metaphor meant to explain?",
+      "a": [
+        "The mind stores both content and the structures used to organize it",
+        "The brain has a fixed capacity that fills up permanently",
+        "Memories are stored randomly and cannot be arranged",
+        "Only urgent information deserves a place in memory"
+      ],
+      "why": "Lesson 2 describes the attic as holding experiences and knowledge plus the structures you use to store them."
+    },
+    {
+      "q": "What is the availability heuristic?",
+      "a": [
+        "Judging a situation by how easily examples come to mind",
+        "Choosing the option that is most widely available in stores",
+        "Believing information simply because an expert said it",
+        "Preferring the first explanation you hear over later ones"
+      ],
+      "why": "Lesson 3 defines it as deciding based on how much information you can readily remember."
+    },
+    {
+      "q": "What should you do to counter your biases before making a decision?",
+      "a": [
+        "Gather all the information and question your own patterns",
+        "Rely on your first impression to avoid overthinking",
+        "Ask only people who already agree with you",
+        "Decide quickly so doubt cannot interfere"
+      ],
+      "why": "Lesson 3 advises forcing objectivity, having all the information and doubting yourself to spot biased patterns."
+    }
+  ]
+}

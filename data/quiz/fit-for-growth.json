@@ -1,0 +1,56 @@
+{
+  "book": "fit-for-growth",
+  "title": "Fit For Growth",
+  "questions": [
+    {
+      "q": "Where should a company avoid cutting costs?",
+      "a": [
+        "In the capabilities that genuinely set it apart from rivals",
+        "In the departments that spend the most each year",
+        "In the areas with the newest and least proven staff",
+        "In every part of the business until profits recover"
+      ],
+      "why": "Lesson 1 says cuts should protect what makes the company better than others."
+    },
+    {
+      "q": "Why does the book say to start reducing expenses today?",
+      "a": [
+        "A crisis may force hasty cuts that damage your strengths",
+        "Investors reward companies that announce cuts early",
+        "Costs always rise faster than revenue over time",
+        "Employees work harder when budgets are shrinking"
+      ],
+      "why": "Lesson 2 says unprepared firms slash their differentiating capabilities in a panic."
+    },
+    {
+      "q": "What does a company's footprint mean here?",
+      "a": [
+        "Every location where the organization runs any activity",
+        "The total carbon emissions produced by its factories",
+        "The number of customers it serves in each country",
+        "The share of the market it controls locally"
+      ],
+      "why": "Lesson 3 defines it as all sites, from service centers to research labs."
+    },
+    {
+      "q": "What must a low-wage country offer before a company relocates work there?",
+      "a": [
+        "Enough skilled people and reliable infrastructure",
+        "The lowest possible wage levels anywhere in the region",
+        "A large domestic market for the company's products",
+        "Tax breaks that last for at least ten years"
+      ],
+      "why": "Lesson 3 warns that weak talent or infrastructure can cost more than it saves."
+    },
+    {
+      "q": "What happens to companies that try to be best at everything?",
+      "a": [
+        "They spread resources thin and end up mediocre at everything",
+        "They grow faster because no department is neglected",
+        "They attract stronger leaders in every function",
+        "They reduce risk by avoiding dependence on one skill"
+      ],
+      "why": "Lesson 1 says equal spending across departments leaves no real advantage."
+    }
+  ]
+}

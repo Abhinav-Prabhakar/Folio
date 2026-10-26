@@ -1,0 +1,56 @@
+{
+  "book": "willpower",
+  "title": "Willpower",
+  "questions": [
+    {
+      "q": "How does Baumeister compare willpower to a muscle?",
+      "a": [
+        "It gets worn out if overused",
+        "It grows indefinitely with use",
+        "It never fatigues",
+        "It contracts spontaneously"
+      ],
+      "why": "Willpower is described as wearing out when exercised too much."
+    },
+    {
+      "q": "What happens to daily willpower after many decisions are made?",
+      "a": [
+        "Supply becomes limited for the rest of the day",
+        "It resets each hour",
+        "It increases with each choice",
+        "It becomes stronger"
+      ],
+      "why": "The text says once good decisions are used, you're done for the day."
+    },
+    {
+      "q": "What did a study find after participants followed a two‑week exercise program?",
+      "a": [
+        "They made fewer bad food choices later",
+        "They slept less",
+        "They reported higher stress",
+        "They ignored budgets"
+      ],
+      "why": "After two weeks, participants were less likely to make bad food choices."
+    },
+    {
+      "q": "Why should goals be compatible, according to Baumeister?",
+      "a": [
+        "Conflicting goals cause stress and reduce success",
+        "Compatible goals increase fatigue",
+        "Compatibility leads to boredom",
+        "Incompatible goals boost willpower"
+      ],
+      "why": "Conflicting goals cause stress, making them harder to achieve."
+    },
+    {
+      "q": "What strategy helps strengthen willpower over time?",
+      "a": [
+        "Use it regularly in small ways",
+        "Avoid any self‑control tasks",
+        "Take long breaks only",
+        "Rely on willpower alone"
+      ],
+      "why": "Using willpower consistently in small ways builds it faster."
+    }
+  ]
+}

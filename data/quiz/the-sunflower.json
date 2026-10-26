@@ -1,0 +1,56 @@
+{
+  "book": "the-sunflower",
+  "title": "The Sunflower",
+  "questions": [
+    {
+      "q": "What is the main purpose of the two‑step solution proposed in the text?",
+      "a": [
+        "To stop extremist parties by exposing them to survivor testimony",
+        "To punish extremist leaders",
+        "To increase voter turnout",
+        "To promote economic growth"
+      ],
+      "why": "It states sending survivors' books to members would shut them up."
+    },
+    {
+      "q": "According to the text, which argument against forgiveness often relies on religion?",
+      "a": [
+        "That forgiveness undermines moral accountability",
+        "That forgiveness is a sin",
+        "That forgiveness is unnecessary",
+        "That forgiveness is a legal right"
+      ],
+      "why": "It says opponents base arguments on religion and freedom."
+    },
+    {
+      "q": "What does the author claim is the biggest reason to forgive?",
+      "a": [
+        "It heals both forgiver and forgiven",
+        "It erases the offense",
+        "It guarantees reconciliation",
+        "It avoids legal consequences"
+      ],
+      "why": "The text says the best pro argument is healing both parties."
+    },
+    {
+      "q": "How does the text describe the relationship between forgiveness and forgetting?",
+      "a": [
+        "They are distinct; forgiveness does not require forgetting",
+        "They are identical processes",
+        "Forgetting is required for true forgiveness",
+        "Forgiveness always leads to forgetting"
+      ],
+      "why": "It notes forgiving and forgetting are two different things."
+    },
+    {
+      "q": "What does the author say about reaching a final conclusion on forgiveness?",
+      "a": [
+        "There is no single conclusion; questions must keep being asked",
+        "A single answer solves all cases",
+        "Society has agreed on a universal rule",
+        "Legal systems provide the final word"
+      ],
+      "why": "The conclusion of the book is that there is no conclusion at all."
+    }
+  ]
+}

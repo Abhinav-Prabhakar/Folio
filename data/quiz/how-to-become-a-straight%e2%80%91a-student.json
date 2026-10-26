@@ -1,0 +1,56 @@
+{
+  "book": "how-to-become-a-straight%e2%80%91a-student",
+  "title": "How to Become a Straight-A Student",
+  "questions": [
+    {
+      "q": "How long should an ideal study session last, according to Newport?",
+      "a": [
+        "About fifty minutes of intense focus",
+        "About twenty minutes with short breaks",
+        "About ninety minutes without a break",
+        "About two hours with music playing"
+      ],
+      "why": "Lesson one says the research he reviewed pointed to roughly fifty minutes as the best length for one focused task."
+    },
+    {
+      "q": "What is pseudo-working?",
+      "a": [
+        "Spending long hours with low focus and interruptions",
+        "Studying in short blocks with full attention",
+        "Working in a group on a shared project",
+        "Reviewing notes right before an exam"
+      ],
+      "why": "The summary describes all-nighters and marathon workdays as pseudo-working because concentration keeps breaking."
+    },
+    {
+      "q": "What must you do each night in Newport's work progress journal?",
+      "a": [
+        "Explain why any planned task was not finished",
+        "Write down the grade you expect to receive",
+        "Plan the next month's assignment schedule",
+        "List what you learned in each class"
+      ],
+      "why": "Lesson two says the nightly explanation forces you to see the same excuses repeating until they lose their power."
+    },
+    {
+      "q": "What are the three P's of Newport's exam approach?",
+      "a": [
+        "Planning, proceeding and proofreading",
+        "Preparing, practicing and performing",
+        "Planning, prioritizing and producing",
+        "Previewing, pacing and polishing"
+      ],
+      "why": "Lesson three names planning, proceeding and proofreading as the steps for working through an exam calmly."
+    },
+    {
+      "q": "What should you do first when an exam begins?",
+      "a": [
+        "Survey the whole paper and plan your order and timing",
+        "Start with the hardest question immediately",
+        "Write your name and wait for instructions",
+        "Answer the shortest question first"
+      ],
+      "why": "The planning stage means flipping through the exam, allotting time and choosing an order, with a ten-minute buffer."
+    }
+  ]
+}

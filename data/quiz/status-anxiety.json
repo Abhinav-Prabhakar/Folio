@@ -1,0 +1,56 @@
+{
+  "book": "status-anxiety",
+  "title": "Status Anxiety",
+  "questions": [
+    {
+      "q": "What does the summary say our desire to be “somebody” really comes from?",
+      "a": [
+        "A wish to feel respected and loved by others",
+        "A natural appetite for material goods",
+        "A competitive instinct shared with animals",
+        "A need to control the people around us"
+      ],
+      "why": "Lesson 1 says status-seeking is really about wanting to matter to someone and to be loved."
+    },
+    {
+      "q": "Why does status seeking create so much stress?",
+      "a": [
+        "It makes us base our identity on other people’s opinions",
+        "It requires more money than most people can earn",
+        "It forces us to work longer hours than we should",
+        "It turns friends into competitors for the same job"
+      ],
+      "why": "Lesson 1 says that without a sense of your own worth, you end up measuring yourself by what others think."
+    },
+    {
+      "q": "Why didn’t the fall of the hereditary class system reduce status anxiety?",
+      "a": [
+        "Once improvement became possible, people felt restless for more",
+        "People simply stopped comparing themselves to neighbors",
+        "Equality made everyone content with what they had",
+        "New laws fixed the incomes of every citizen"
+      ],
+      "why": "Lesson 2 says attainable affluence turned into an expectation, so falling short produced constant unease."
+    },
+    {
+      "q": "When do we decide that what we have is enough, according to the summary?",
+      "a": [
+        "Only when we see how much others have",
+        "When our basic needs are comfortably met",
+        "When we have saved a fixed sum of money",
+        "When our parents approve of our choices"
+      ],
+      "why": "Lesson 2 says we measure sufficiency against our neighbors, so enough only feels like enough if it is more than theirs."
+    },
+    {
+      "q": "What did Diogenes show when he asked Alexander the Great to move?",
+      "a": [
+        "That he cared nothing for social status",
+        "That he wanted a reward from the king",
+        "That he feared the king’s power",
+        "That he was seeking a position at court"
+      ],
+      "why": "Lesson 3 uses the story to show a philosopher indifferent to rank, and Alexander’s amused admiration."
+    }
+  ]
+}

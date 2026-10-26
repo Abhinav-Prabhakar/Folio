@@ -1,0 +1,56 @@
+{
+  "book": "how-to-win-friends-and-influence-people",
+  "title": "How to Win Friends and Influence People",
+  "questions": [
+    {
+      "q": "What is the simplest way to make a good first impression?",
+      "a": [
+        "Give a warm smile",
+        "Ask a friendly question",
+        "Offer a sincere compliment",
+        "Shake hands firmly"
+      ],
+      "why": "Lesson 1 says a smile is the easiest action for making others instantly like you."
+    },
+    {
+      "q": "Why does smiling help you as well as the other person?",
+      "a": [
+        "It creates positive feelings in you",
+        "It hides your true emotions",
+        "It makes people owe you a favor",
+        "It shortens the conversation"
+      ],
+      "why": "Lesson 1 says smiling consciously produces positive feelings by accident."
+    },
+    {
+      "q": "How can you be interesting without talking much?",
+      "a": [
+        "Give full attention and let them discuss themselves",
+        "Tell as many of your own stories as possible",
+        "Ask no questions and listen in silence",
+        "Share your accomplishments early"
+      ],
+      "why": "Lesson 2 says people love those who listen while they talk about their own lives."
+    },
+    {
+      "q": "What did Teddy Roosevelt do before meeting someone?",
+      "a": [
+        "Research their favorite topics",
+        "Practice his handshake",
+        "Prepare a list of jokes",
+        "Memorize their name only"
+      ],
+      "why": "Lesson 2 says Roosevelt looked people up beforehand so he could raise their favorite subjects."
+    },
+    {
+      "q": "What is the Socratic method used for here?",
+      "a": [
+        "Small yeses before the big yes",
+        "Winning arguments by interrupting",
+        "Asking questions no one can answer",
+        "Changing the subject politely"
+      ],
+      "why": "Lesson 3 says each yes makes the next one more likely through consistency bias."
+    }
+  ]
+}

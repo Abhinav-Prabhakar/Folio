@@ -1,0 +1,56 @@
+{
+  "book": "maoism",
+  "title": "Maoism",
+  "questions": [
+    {
+      "q": "Which groups did Mao focus on to build his base of support?",
+      "a": [
+        "Peasants and women, whom he courted publicly",
+        "Urban factory owners and foreign investors",
+        "Students and military officers in coastal cities",
+        "Religious leaders and the old aristocracy"
+      ],
+      "why": "Lesson 1 says Mao turned his back on the rich and built communism by appealing to peasants, then women."
+    },
+    {
+      "q": "How did Mao present himself to the Chinese public?",
+      "a": [
+        "As one of the crowd who understood their struggles but could fix them",
+        "As a distant intellectual who had studied abroad",
+        "As a reluctant leader who disliked holding power",
+        "As a wealthy patron who would share his fortune"
+      ],
+      "why": "The overview describes him showing a positive side and appearing connected to ordinary people yet strong enough to solve their problems."
+    },
+    {
+      "q": "Why did Mao order a billion copies of the Little Red Book printed?",
+      "a": [
+        "To spread his personality cult and popularity at home and abroad",
+        "To provide free reading material for Chinese schoolchildren",
+        "To replace all other books in Chinese libraries",
+        "To raise money for industrial development"
+      ],
+      "why": "Lesson 2 says the compilation of his quotations was meant to increase his popularity as a communist leader."
+    },
+    {
+      "q": "What happened when Mao tried to help the Indonesian Communist Party take over?",
+      "a": [
+        "The attempt failed and roughly half a million people were killed",
+        "The party succeeded and Indonesia adopted Maoism",
+        "The army joined the party and shared power peacefully",
+        "The plan was abandoned before any violence occurred"
+      ],
+      "why": "Lesson 2 recounts the failed attempt and the mass killing that followed when the army suppressed the movement."
+    },
+    {
+      "q": "What happened in Tanzania after its leader adopted Mao’s model?",
+      "a": [
+        "Nationalizing industry and pushing farming led to poverty and famine",
+        "The country quickly became an industrial powerhouse",
+        "Living standards rose steadily for the whole population",
+        "The plan was reversed before it affected the economy"
+      ],
+      "why": "Lesson 2 says the Tanzanian leader’s Mao-inspired transformation produced poverty and famine."
+    }
+  ]
+}

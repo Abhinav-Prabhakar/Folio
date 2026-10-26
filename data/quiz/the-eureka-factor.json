@@ -1,0 +1,56 @@
+{
+  "book": "the-eureka-factor",
+  "title": "The Eureka Factor",
+  "questions": [
+    {
+      "q": "What does the text say about ideas that seem obvious in hindsight?",
+      "a": [
+        "They are only obvious after someone else has told you about them",
+        "They are usually the result of years of unconscious work",
+        "They tend to come from people with above-average intelligence",
+        "They are typically the product of deliberate brainstorming"
+      ],
+      "why": "From the lesson on why ideas seem obvious only in hindsight."
+    },
+    {
+      "q": "Why does the text suggest the shower is a good environment for insights?",
+      "a": [
+        "All distractions are under control because white noise and touch are occupied",
+        "The warm water increases blood flow to the brain",
+        "The routine of the shower puts you in a meditative state",
+        "The isolation gives you uninterrupted time to reflect"
+      ],
+      "why": "From the lesson on keeping distractions under control, using the shower example."
+    },
+    {
+      "q": "What does the text say about the genetic component of eureka moments?",
+      "a": [
+        "Some people's right brain halves are less inhibited than others'",
+        "Creativity is entirely determined by your genetic makeup",
+        "The left brain half plays a larger role than the right in insight",
+        "Genes determine how often you have eureka moments but not their quality"
+      ],
+      "why": "From the lesson on distant-future thinking, noting the genetic component."
+    },
+    {
+      "q": "What exercise does the text suggest for evoking more eureka moments?",
+      "a": [
+        "Distant-future thinking",
+        "Free association",
+        "Mind mapping",
+        "Reverse brainstorming"
+      ],
+      "why": "From the lesson on distant-future thinking as an exercise for eureka moments."
+    },
+    {
+      "q": "What role does the white noise of water play in the shower according to the text?",
+      "a": [
+        "It takes away distracting sounds",
+        "It stimulates the right hemisphere of the brain",
+        "It triggers a relaxation response that lowers cortisol",
+        "It activates the limbic system for emotional processing"
+      ],
+      "why": "From the lesson on the shower, explaining the role of white noise."
+    }
+  ]
+}

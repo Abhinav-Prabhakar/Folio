@@ -1,0 +1,56 @@
+{
+  "book": "write-it-down-make-it-happen",
+  "title": "Write It Down, Make It Happen",
+  "questions": [
+    {
+      "q": "What brain system is activated when you write specific goals?",
+      "a": [
+        "Reticular activating system",
+        "Prefrontal cortex",
+        "Amygdala",
+        "Hippocampus"
+      ],
+      "why": "The text links specific writing to the RAS."
+    },
+    {
+      "q": "What technique helps reveal hidden worries through fast writing?",
+      "a": [
+        "Rapidwriting",
+        "Mind mapping",
+        "Meditation",
+        "Affirmations"
+      ],
+      "why": "The book describes rapidwriting for uncovering concerns."
+    },
+    {
+      "q": "How does the book suggest you tackle large goals?",
+      "a": [
+        "Start with small wins and build up",
+        "Jump straight into the biggest task",
+        "Delegate everything",
+        "Wait for inspiration"
+      ],
+      "why": "It advises beginning with small tasks to gain momentum."
+    },
+    {
+      "q": "What myth about New Year's resolutions is highlighted?",
+      "a": [
+        "Only 8% succeed, which is likely false",
+        "Everyone keeps them",
+        "They guarantee success",
+        "They are always written down"
+      ],
+      "why": "The claim of 8% success is called unlikely."
+    },
+    {
+      "q": "What example shows the RAS waking parents but not adults?",
+      "a": [
+        "Parents hear a newborn's cry, ignore airplane noise",
+        "Adults hear alarms, ignore babies",
+        "Parents ignore all sounds, adults react",
+        "Both ignore quiet noises"
+      ],
+      "why": "The text uses this example to illustrate RAS filtering."
+    }
+  ]
+}

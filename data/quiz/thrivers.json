@@ -1,0 +1,56 @@
+{
+  "book": "thrivers",
+  "title": "Thrivers",
+  "questions": [
+    {
+      "q": "What does the book say is more important than test scores for children?",
+      "a": [
+        "Emotional intelligence",
+        "Academic achievement",
+        "Physical fitness",
+        "Social media use"
+      ],
+      "why": "The text states schools should teach emotional intelligence over test scores."
+    },
+    {
+      "q": "Which psychologist links happiness to self‑confidence?",
+      "a": [
+        "Martin Seligman",
+        "Sigmund Freud",
+        "B.F. Skinner",
+        "Carl Rogers"
+      ],
+      "why": "The book cites Martin Seligman as the psychologist who emphasizes self‑confidence."
+    },
+    {
+      "q": "What is a consequence of high performance pressure on kids?",
+      "a": [
+        "Increased depression",
+        "Better grades",
+        "More free time",
+        "Higher creativity"
+      ],
+      "why": "The text notes depression, anxiety, and suicidal thoughts rise with high performance pressure."
+    },
+    {
+      "q": "Why do children's innovative minds fade, according to the book?",
+      "a": [
+        "Standardized testing reduces curiosity",
+        "More homework",
+        "Longer school days",
+        "Better technology"
+      ],
+      "why": "Psychologists find standardized tests and rewards dampen curiosity."
+    },
+    {
+      "q": "What does the author suggest schools fail to adapt to?",
+      "a": [
+        "Children's unique talents",
+        "Global economics",
+        "Sports programs",
+        "Language skills"
+      ],
+      "why": "The text says the system fails to adapt to individual characteristics and talents."
+    }
+  ]
+}

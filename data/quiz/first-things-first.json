@@ -1,0 +1,56 @@
+{
+  "book": "first-things-first",
+  "title": "First Things First",
+  "questions": [
+    {
+      "q": "Why do people so often choose urgent tasks over important ones?",
+      "a": [
+        "Busyness feels like status, and checking tasks off gives a chemical rush",
+        "Important tasks are usually harder to identify in advance",
+        "Urgent tasks almost always produce better long-term results",
+        "Important tasks rarely require any planning or effort"
+      ],
+      "why": "Lesson 1 names urgency as a status symbol and to-do lists as a dopamine hit."
+    },
+    {
+      "q": "What is the purpose of imagining your 80th birthday?",
+      "a": [
+        "It clarifies your vision, which makes today's decisions easier",
+        "It helps you calculate how much money you must save",
+        "It reveals which friends will still be around later",
+        "It sets a deadline for finishing your career goals"
+      ],
+      "why": "Lesson 2 says a clear picture of the future keeps choices aligned with what matters."
+    },
+    {
+      "q": "What does Covey say our mindset should shift away from?",
+      "a": [
+        "Independence and competition toward interdependence and cooperation",
+        "Long-term planning toward quick daily wins",
+        "Family time toward professional ambition",
+        "Personal values toward external measures of success"
+      ],
+      "why": "Lesson 3 says cooperation and win-win thinking produce better results."
+    },
+    {
+      "q": "What should you do when an urgent request conflicts with a commitment you made?",
+      "a": [
+        "Say no to the urgent request and keep the commitment",
+        "Cancel the commitment and accept the urgent request",
+        "Try to do both at once with divided attention",
+        "Let the other person decide which one matters more"
+      ],
+      "why": "Lesson 1 says protecting commitments prevents distrust and later regret."
+    },
+    {
+      "q": "What does the Apple example illustrate in lesson 3?",
+      "a": [
+        "No single person can build a complex product alone",
+        "Great leaders must personally understand every detail",
+        "Competition between departments improves quality",
+        "Technology matters more than the people behind it"
+      ],
+      "why": "Lesson 3 says even Steve Jobs depended on many specialists cooperating."
+    }
+  ]
+}

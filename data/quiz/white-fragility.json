@@ -1,0 +1,56 @@
+{
+  "book": "white-fragility",
+  "title": "White Fragility",
+  "questions": [
+    {
+      "q": "What does the author say race is based on?",
+      "a": [
+        "A social construct",
+        "A genetic fact",
+        "A biological truth",
+        "A natural division"
+      ],
+      "why": "The text states race is a social construct."
+    },
+    {
+      "q": "Which example shows white privilege in media?",
+      "a": [
+        "Predominance of white actors in films",
+        "Equal representation of all races",
+        "More diverse casting",
+        "Fewer white characters"
+      ],
+      "why": "The book cites movies as evidence of white privilege."
+    },
+    {
+      "q": "What reaction did the German woman have to the author's question?",
+      "a": [
+        "She exploded in anger",
+        "She laughed",
+        "She stayed silent",
+        "She agreed"
+      ],
+      "why": "The text describes her anger and promise to leave."
+    },
+    {
+      "q": "Why is white fragility a barrier to ending racism?",
+      "a": [
+        "It reinforces inequality",
+        "It promotes equality",
+        "It has no effect",
+        "It solves racism"
+      ],
+      "why": "The author argues it hinders progress."
+    },
+    {
+      "q": "What does the author suggest to address white fragility?",
+      "a": [
+        "Conduct anti‑racism workshops",
+        "Ignore it",
+        "Avoid discussions",
+        "Teach genetics"
+      ],
+      "why": "She co‑leads workshops to confront the issue."
+    }
+  ]
+}

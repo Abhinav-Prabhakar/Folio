@@ -1,0 +1,56 @@
+{
+  "book": "cosmos",
+  "title": "Cosmos",
+  "questions": [
+    {
+      "q": "What did early nomadic people use the stars for?",
+      "a": [
+        "Timing gatherings, harvests and animal migrations",
+        "Navigating across open oceans",
+        "Predicting earthquakes and floods",
+        "Measuring the distance to other stars"
+      ],
+      "why": "Lesson 1 says nomads read the stars to set annual meeting times and know when fruit ripened or buffalo migrated."
+    },
+    {
+      "q": "What did Copernicus argue, contrary to Ptolemy?",
+      "a": [
+        "That the planets revolve around the sun",
+        "That the Earth sits at the center of everything",
+        "That planetary orbits are perfect circles",
+        "That gravity is a form of magnetism"
+      ],
+      "why": "The summary says Ptolemy placed Earth at the center, and Copernicus later proposed that planets orbit the sun."
+    },
+    {
+      "q": "How would aliens most likely make first contact, according to Sagan?",
+      "a": [
+        "Through radio waves carrying a simple signal",
+        "By landing spacecraft in plain sight",
+        "By sending physical probes to Earth",
+        "By signaling with flashes of visible light"
+      ],
+      "why": "Lesson 2 says radio is quick, cheap and simple, making it the most likely channel for a first message."
+    },
+    {
+      "q": "Why would prime numbers make a good message from aliens?",
+      "a": [
+        "They clearly show intention and intelligence",
+        "They are easy to translate into English",
+        "They describe the aliens' home planet",
+        "They require very advanced technology"
+      ],
+      "why": "The summary says a set of prime numbers would communicate intention and intelligence succinctly and clearly."
+    },
+    {
+      "q": "What do the Voyager probes carry for other civilizations?",
+      "a": [
+        "Records of Earth's sounds, greetings and music",
+        "Maps showing the location of every country",
+        "Samples of soil and ocean water",
+        "A working model of the solar system"
+      ],
+      "why": "Lesson 3 describes phonograph records holding greetings in many languages, favorite songs and natural sounds."
+    }
+  ]
+}

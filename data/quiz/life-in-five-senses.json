@@ -1,0 +1,56 @@
+{
+  "book": "life-in-five-senses",
+  "title": "Life in Five Senses",
+  "questions": [
+    {
+      "q": "What prompted Gretchen Rubin to start exploring her senses?",
+      "a": [
+        "A doctor's warning that she risked a detached retina",
+        "A friend who had lost their sense of smell",
+        "A mindfulness course she had agreed to teach",
+        "A visit to a perfume factory in France"
+      ],
+      "why": "An eye checkup reminded her she was at risk for a detached retina, and the thought of losing her sight woke her up."
+    },
+    {
+      "q": "What phone change does Rubin recommend to help you notice the real world?",
+      "a": [
+        "Switching the screen to grayscale",
+        "Turning off every notification",
+        "Leaving the phone in another room",
+        "Deleting all social media apps"
+      ],
+      "why": "In her list of sight practices, she says a gray screen makes the phone easier to put down so you can look around."
+    },
+    {
+      "q": "Why does Rubin value the sense of smell so highly?",
+      "a": [
+        "It anchors us in the present and can bring back the past",
+        "It helps us judge the quality of food and drink",
+        "It makes us more attractive to the people around us",
+        "It sharpens our memory for faces and names"
+      ],
+      "why": "She says a well-trained nose keeps you grounded in the now, and that smell is the sense most able to transport you back."
+    },
+    {
+      "q": "Which practice does Rubin suggest for training your nose?",
+      "a": [
+        "Linger over smells like morning coffee to learn them",
+        "Avoid all strong scents for a month",
+        "Compare every new smell to a color",
+        "Eat meals with your nose pinched"
+      ],
+      "why": "Her first smell exercise is to take a deep breath over the coffee mug and savor it, since regular smells become identifiable."
+    },
+    {
+      "q": "What does Rubin mean by embodied cognition?",
+      "a": [
+        "The whole body takes part in thinking and creativity",
+        "The mind learns best while sitting perfectly still",
+        "Emotions are stored only in the brain",
+        "Touch matters less than sight and hearing"
+      ],
+      "why": "She defines it as the idea that the entire body is involved in thinking, suggesting you combine movement with learning."
+    }
+  ]
+}

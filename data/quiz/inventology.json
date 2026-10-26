@@ -1,0 +1,56 @@
+{
+  "book": "inventology",
+  "title": "Inventology",
+  "questions": [
+    {
+      "q": "What inspired Bernard Sadow to put wheels on a suitcase?",
+      "a": [
+        "He saw a worker roll a heavy machine through the airport",
+        "A flight attendant complained about her luggage",
+        "He read a patent for a rolling trunk",
+        "His wife suggested it on a family vacation"
+      ],
+      "why": "Lesson 1 says he watched an airport employee wheel a big machine and realized luggage needed the same."
+    },
+    {
+      "q": "How long had commercial flights existed before wheels were added to luggage?",
+      "a": [
+        "Around sixty years",
+        "Around ten years",
+        "Around twenty years",
+        "Around forty years"
+      ],
+      "why": "Lesson 1 notes people had flown for about 60 years before a luggage executive solved the obvious problem."
+    },
+    {
+      "q": "Why did it take months for Sadow's wheeled suitcase to sell?",
+      "a": [
+        "Buyers lacked the vision to try something new",
+        "The wheels broke during early demonstrations",
+        "Airlines refused to allow them on planes",
+        "His patent was blocked by a rival company"
+      ],
+      "why": "Lesson 2 says the pragmatic majority resists change, so a new way takes time to spread."
+    },
+    {
+      "q": "Who first adopted Robert Plath's improved wheeled suitcase?",
+      "a": [
+        "Flight attendants, who became its first followers",
+        "Business travelers on long-haul routes",
+        "Airport staff who moved baggage",
+        "Luggage stores in major cities"
+      ],
+      "why": "Lesson 2 says Plath sold first to flight attendants before the wider public caught on."
+    },
+    {
+      "q": "Who solved the problem of telling time at sea?",
+      "a": [
+        "A carpenter who built clocks in his spare time",
+        "An astronomer working for the British navy",
+        "A ship captain with decades of experience",
+        "A mathematician at a royal academy"
+      ],
+      "why": "Lesson 3 says John Harrison was an outsider to sailing, and his clock design won the prize."
+    }
+  ]
+}

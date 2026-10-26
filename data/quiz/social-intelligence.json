@@ -1,0 +1,56 @@
+{
+  "book": "social-intelligence",
+  "title": "Social Intelligence",
+  "questions": [
+    {
+      "q": "What did the story of psychologist Takeo Doi illustrate about social skills?",
+      "a": [
+        "Different cultures teach different levels of sensitivity to others’ needs",
+        "Guests should always accept food when it is offered",
+        "Language barriers make reading people impossible",
+        "Politeness is universal and means the same thing everywhere"
+      ],
+      "why": "Lesson 1 contrasts American hosts who asked about food with Japanese hosts who would notice cues and offer without asking."
+    },
+    {
+      "q": "What did the 2004 study on squirrel monkeys suggest about moderate childhood stress?",
+      "a": [
+        "It can sharpen social skills later in life",
+        "It permanently damages the ability to bond",
+        "It has no effect on behavior either way",
+        "It makes animals avoid unfamiliar environments"
+      ],
+      "why": "Lesson 1 says mild stress in childhood increased the monkeys’ courage to explore and, by extension, openness to others."
+    },
+    {
+      "q": "What did research on women caring for partners with Alzheimer’s find?",
+      "a": [
+        "Constant caregiving weakened the caretakers’ immune systems",
+        "Caregiving had no measurable effect on health",
+        "Caretakers became more patient over time",
+        "Caretakers slept better than other women"
+      ],
+      "why": "Lesson 2 reports that prolonged care work worsened mental health and weakened the carers’ immune systems."
+    },
+    {
+      "q": "What does Goleman recommend for people overwhelmed by caring for someone?",
+      "a": [
+        "Share the responsibility across a wider community of family and friends",
+        "Take a long break from all social contact",
+        "Hire professional help and step back entirely",
+        "Reduce the amount of care the person receives"
+      ],
+      "why": "Lesson 2 says one person has biological limits, so a group should share care, which also builds new bonds."
+    },
+    {
+      "q": "Why do Indian hospitals in the summary not serve meals to patients?",
+      "a": [
+        "To ensure family and friends visit and keep patients socially involved",
+        "To save money for more advanced medical equipment",
+        "To encourage patients to eat healthier food at home",
+        "To reduce the workload of hospital kitchen staff"
+      ],
+      "why": "Lesson 3 says the practice brings visitors who deliver food, which supports recovery through social contact."
+    }
+  ]
+}

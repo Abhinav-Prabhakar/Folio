@@ -1,0 +1,56 @@
+{
+  "book": "the-7-habits-of-highly-effective-people",
+  "title": "The 7 Habits Of Highly Effective People",
+  "questions": [
+    {
+      "q": "What is the funeral test meant to clarify?",
+      "a": [
+        "The person you want to be remembered as",
+        "Which friends deserve more of your time",
+        "How productive your career has been",
+        "What your family expects from you"
+      ],
+      "why": "Lesson 1 has you imagine your funeral to reveal your real priorities."
+    },
+    {
+      "q": "What does the ladder analogy warn against?",
+      "a": [
+        "Climbing efficiently toward the wrong goal",
+        "Working without a supportive team",
+        "Stopping before reaching the top",
+        "Choosing a ladder that is too tall"
+      ],
+      "why": "Lesson 1 says efficiency only helps when you are headed in the right direction."
+    },
+    {
+      "q": "What does the summary say about important and urgent tasks?",
+      "a": [
+        "They often do not overlap, so some tasks deserve a no",
+        "They usually arrive together and demand action",
+        "Urgent tasks are generally the most valuable",
+        "Important tasks should always be done first"
+      ],
+      "why": "Lesson 2 notes the important is rarely urgent, which means saying no to much."
+    },
+    {
+      "q": "What does active listening involve, per the summary?",
+      "a": [
+        "Listening to understand rather than to reply",
+        "Taking notes so you can answer precisely",
+        "Nodding while you plan your response",
+        "Offering advice as soon as possible"
+      ],
+      "why": "Lesson 3 lists understanding, mirroring and helping people structure their thoughts."
+    },
+    {
+      "q": "Why does the summary compare quick advice to antibiotics?",
+      "a": [
+        "People distrust help offered before they feel understood",
+        "Fast cures usually create worse problems later",
+        "Experts should treat only serious complaints",
+        "Too much help makes people dependent on you"
+      ],
+      "why": "Lesson 3 says we doubt people who prescribe before they have really listened."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "descartes-error",
+  "title": "Descartes’ Error",
+  "questions": [
+    {
+      "q": "What did Phineas Gage's accident reveal about the brain?",
+      "a": [
+        "Damage to certain areas can change personality and emotions",
+        "The brain can recover fully from any physical injury",
+        "Emotions are stored separately from the thinking brain",
+        "Personality remains fixed no matter what happens to the brain"
+      ],
+      "why": "Lesson 1 says the rod injury left Gage impulsive and unlike his former self."
+    },
+    {
+      "q": "What puzzled Damasio about his patient Elliot?",
+      "a": [
+        "He felt no emotions and also struggled to make decisions",
+        "He felt too much emotion to discuss his past",
+        "He could not remember any of his earlier life",
+        "He refused to talk about the accident at all"
+      ],
+      "why": "Lesson 2 explains that losing emotion did not make Elliot more rational; it made reasoning harder."
+    },
+    {
+      "q": "What are somatic markers?",
+      "a": [
+        "Emotional shortcuts built from past experience that speed up choices",
+        "Physical exercises that improve concentration",
+        "Medical tests that measure brain damage",
+        "Memories that have no emotional content at all"
+      ],
+      "why": "Lesson 3 describes them as feelings attached to options, drawn from your history."
+    },
+    {
+      "q": "What did Elliot's half-hour of deliberating over an appointment show?",
+      "a": [
+        "Without emotional input, reasoning can go around in circles",
+        "He cared too much about choosing the perfect time",
+        "He had forgotten how calendars work",
+        "He was trying to avoid meeting the author"
+      ],
+      "why": "Lesson 3 uses the story to show that feelings are part of logical thinking."
+    },
+    {
+      "q": "What is the \"error\" in Descartes' Error?",
+      "a": [
+        "Treating the mind and body as separate, with emotion outside reason",
+        "Believing that the body has any influence on the mind",
+        "Claiming that brain injuries cannot affect behavior",
+        "Assuming that all decisions are made consciously"
+      ],
+      "why": "The overview says Damasio attacks the idea that mind and body are disconnected."
+    }
+  ]
+}

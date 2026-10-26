@@ -1,0 +1,56 @@
+{
+  "book": "hyper-learning",
+  "title": "Hyper-Learning",
+  "questions": [
+    {
+      "q": "What is the first step to becoming a hyper-learner?",
+      "a": [
+        "Quiet your ego and adopt a growth mindset",
+        "Learn to code and automate your work",
+        "Read more books about technology",
+        "Change jobs every few years"
+      ],
+      "why": "Lesson 1 says hyper-learning begins by quieting the ego and changing your mindset."
+    },
+    {
+      "q": "What is a fixed mindset?",
+      "a": [
+        "Believing intelligence cannot be changed",
+        "Believing skills improve with effort",
+        "Focusing on innovation over grades",
+        "Seeking feedback from others"
+      ],
+      "why": "Lesson 1 says a fixed mindset assumes intelligence is unchangeable."
+    },
+    {
+      "q": "What does NewSmart emphasize?",
+      "a": [
+        "Innovation and creativity over grades",
+        "Technical knowledge over soft skills",
+        "Speed over accuracy",
+        "Individual achievement over teamwork"
+      ],
+      "why": "Lesson 1 describes NewSmart as valuing creativity rather than book smarts and test results."
+    },
+    {
+      "q": "How does the book suggest improving your behavior?",
+      "a": [
+        "Get specific about what a good action looks like",
+        "Copy the habits of successful leaders",
+        "Set broad goals and review them yearly",
+        "Avoid feedback that feels critical"
+      ],
+      "why": "Lesson 2 says to drill down into concrete behaviors, even studying what good collaborators avoid."
+    },
+    {
+      "q": "Which practice helps a company become a hyper-learning business?",
+      "a": [
+        "Choosing the best idea regardless of its source",
+        "Rewarding employees for long tenure",
+        "Keeping decisions with senior leaders",
+        "Avoiding risks that might fail"
+      ],
+      "why": "Lesson 3 lists meritocracy, positivity, psychological safety and self-determination."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "poor-charlies-almanack",
+  "title": "Poor Charlie’s Almanack",
+  "questions": [
+    {
+      "q": "What did Munger do during the Second World War?",
+      "a": [
+        "He served as a pilot in the army",
+        "He worked in military intelligence",
+        "He studied engineering at Harvard",
+        "He ran a small law practice"
+      ],
+      "why": "Lesson 1 says he trained as a pilot and joined the army, then later finished Harvard Law with honors."
+    },
+    {
+      "q": "What habit did Munger insist on in his work?",
+      "a": [
+        "Getting things right the first time",
+        "Reviewing every decision twice",
+        "Delegating the hardest tasks",
+        "Working faster than competitors"
+      ],
+      "why": "Lesson 1 says he insisted on finishing things the first time rather than going back to repeat the process."
+    },
+    {
+      "q": "What did Berkshire Hathaway's success rest on, according to the summary?",
+      "a": [
+        "A strong work ethic and moral principles",
+        "Aggressive deal-making and secrecy",
+        "Hiring the most expensive analysts",
+        "Acting on inside information quickly"
+      ],
+      "why": "Lesson 2 says the firm was built on hard work and, more importantly, a set of moral principles."
+    },
+    {
+      "q": "How did Munger respond when a middleman confessed a costly mistake?",
+      "a": [
+        "He forgave him and let him keep his job",
+        "He fired him on the spot",
+        "He sued him for the losses",
+        "He moved him to a junior role"
+      ],
+      "why": "Lesson 3 says the man owned up immediately, and that honesty was why Munger forgave him."
+    },
+    {
+      "q": "What does Munger's See's Candy story illustrate?",
+      "a": [
+        "Being willing to change your mind when others make a case",
+        "Trusting your first instinct over other opinions",
+        "Avoiding investments in food businesses",
+        "Never admitting a bad call in public"
+      ],
+      "why": "Lesson 3 says others changed his mind about See's Candy and urges readers to take second looks at decisions."
+    }
+  ]
+}

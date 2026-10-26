@@ -1,0 +1,56 @@
+{
+  "book": "the-interpretation-of-dreams",
+  "title": "The Interpretation Of Dreams",
+  "questions": [
+    {
+      "q": "What three sources supply content for our dreams?",
+      "a": [
+        "Recent events, childhood memories, and deeper desires",
+        "Only recent events",
+        "Only childhood memories",
+        "Only hidden desires"
+      ],
+      "why": "The text lists recent real-life events, childhood memories, and deeper desires as the three sources."
+    },
+    {
+      "q": "How does the mind 'condense' dream material?",
+      "a": [
+        "It compresses many details into a brief scene",
+        "It expands a simple idea into a long story",
+        "It removes all emotional content",
+        "It repeats the same image multiple times"
+      ],
+      "why": "Condensing is described as turning a half‑page dream into many pages of interpretation."
+    },
+    {
+      "q": "What childhood experience does the author link to adult flying dreams?",
+      "a": [
+        "Parents tossing children into the air",
+        "Learning to ride a bike",
+        "First day at school",
+        "Playing video games"
+      ],
+      "why": "The author says being thrown into the air as a child creates the exhilaration behind later flying dreams."
+    },
+    {
+      "q": "According to the text, why are obvious wish‑fulfillment dreams considered less useful?",
+      "a": [
+        "They are common and reveal little insight",
+        "They are rare and hard to recall",
+        "They always involve money",
+        "They always involve danger"
+      ],
+      "why": "The author notes obvious wishes like sudden wealth are not special and offer little to learn."
+    },
+    {
+      "q": "What role does 'displacement' play in dream structure?",
+      "a": [
+        "It puts important issues into trivial symbols",
+        "It makes dreams longer",
+        "It removes emotional weight",
+        "It repeats the same theme"
+      ],
+      "why": "Displacement is defined as representing important matters with trivialities in dreams."
+    }
+  ]
+}

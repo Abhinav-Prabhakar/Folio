@@ -1,0 +1,56 @@
+{
+  "book": "the-uninhabitable-earth",
+  "title": "The Uninhabitable Earth",
+  "questions": [
+    {
+      "q": "What temperature rise threshold is deemed disastrous?",
+      "a": [
+        "2 degrees Celsius above pre‑industrial",
+        "1 degree Celsius above pre‑industrial",
+        "3 degrees Celsius above pre‑industrial",
+        "4 degrees Celsius above pre‑industrial"
+      ],
+      "why": "Paris agreement aims to stay below 2 °C, the disaster threshold."
+    },
+    {
+      "q": "Which city could be fully submerged if sea levels rise 1.2‑2.4 m?",
+      "a": [
+        "Bangladesh",
+        "Tokyo",
+        "Sydney",
+        "Rio de Janeiro"
+      ],
+      "why": "The text says Bangladesh's 164 million‑person area would be completely submerged."
+    },
+    {
+      "q": "What ancient source could release revived diseases?",
+      "a": [
+        "Arctic ice sheets",
+        "Deep‑sea vents",
+        "Desert sands",
+        "Mountain caves"
+      ],
+      "why": "Ancient bacteria are trapped in Arctic ice sheets, posing revival risk."
+    },
+    {
+      "q": "What genre of films does Wallace‑Wells compare to climate fears?",
+      "a": [
+        "Post‑apocalyptic and zombie movies",
+        "Romantic comedies",
+        "Historical dramas",
+        "Animated fantasies"
+      ],
+      "why": "He mentions movies like Mad Max and The Bird Box as post‑apocalyptic examples."
+    },
+    {
+      "q": "What does the book suggest about the Paris climate goals?",
+      "a": [
+        "Optimistic but insufficient",
+        "Achievable and realistic",
+        "Already met globally",
+        "Irrelevant to policy"
+      ],
+      "why": "The overview calls the Paris goals hopelessly optimistic and too little, too late."
+    }
+  ]
+}

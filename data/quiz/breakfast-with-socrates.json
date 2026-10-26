@@ -1,0 +1,31 @@
+{
+  "book": "breakfast-with-socrates",
+  "title": "Breakfast With Socrates",
+  "questions": [
+    {
+      "q": "What does the summary say the original Greek meaning of philosophia is?",
+      "a": ["Love of wisdom", "Fear of the unknown", "Search for pleasure", "Practice of debate"],
+      "why": "Lesson 1 says philosophia translates to love of wisdom and describes philosophy as critical thinking applied to daily choices."
+    },
+    {
+      "q": "What two forces does the summary say battle in your mind each morning?",
+      "a": ["The comfort-seeking ego and the rule-following superego", "The rational mind and the dreaming mind", "The inner child and the inner critic", "The body's habits and the heart's desires"],
+      "why": "Lesson 2 uses Freud's ego and superego to explain the morning struggle between comfort and what society expects."
+    },
+    {
+      "q": "What happens when the superego wins the morning battle?",
+      "a": ["You get up on time and arrive ahead of schedule", "You stay in bed and feel more rested", "You skip breakfast to save time", "You ignore your boss's expectations"],
+      "why": "Lesson 2 says stopping the snooze and arriving early are superego wins, the result of delaying gratification."
+    },
+    {
+      "q": "Which question does the summary use to assess whether you are happy?",
+      "a": ["Would you relive your life exactly the same way?", "Do you earn more than your friends?", "Have you achieved every goal you set?", "Would others describe you as successful?"],
+      "why": "Lesson 3 cites Nietzsche's test: if you could live every moment again unchanged and stand it, you are living on your own terms."
+    },
+    {
+      "q": "What does Nietzsche's doctrine of two worlds claim about our fantasies?",
+      "a": ["They are escapes that keep us from living our own lives", "They are necessary for creativity and ambition", "They reveal the true world hidden behind reality", "They disappear once we achieve material success"],
+      "why": "Lesson 3 says Nietzsche saw fantasies of better partners and lives as signs of weakness that stop us from embracing reality."
+    }
+  ]
+}

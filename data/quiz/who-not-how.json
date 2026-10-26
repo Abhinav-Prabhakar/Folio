@@ -1,0 +1,56 @@
+{
+  "book": "who-not-how",
+  "title": "Who Not How",
+  "questions": [
+    {
+      "q": "What shift helped the Bulls finally succeed?",
+      "a": [
+        "Focusing on who could help instead of how",
+        "Finding a new coach",
+        "Changing the team's logo",
+        "Hiring a star player"
+      ],
+      "why": "Lesson says solution was a Who, not a How."
+    },
+    {
+      "q": "Which two people were key Whos for the Bulls?",
+      "a": [
+        "Scottie Pippen and Phil Jackson",
+        "Michael Jordan and Kobe Bryant",
+        "Dennis Rodman and Steve Kerr",
+        "Larry Bird and Magic Johnson"
+      ],
+      "why": "Text lists Pippen and Jackson as key Whos."
+    },
+    {
+      "q": "How did the author get a freelance gig after leaving his job?",
+      "a": [
+        "Through friendships made on Medium",
+        "By cold‑calling companies",
+        "Via a university career fair",
+        "Through a family connection"
+      ],
+      "why": "He wrote on Medium, friendships led to gig."
+    },
+    {
+      "q": "What did Richie Norton sell to earn money as a teen?",
+      "a": [
+        "Deformed watermelons",
+        "Used textbooks",
+        "Hand‑made jewelry",
+        "Old baseball cards"
+      ],
+      "why": "He bought unsellable watermelons and sold them."
+    },
+    {
+      "q": "After losing his biggest client, what did the author initially seek?",
+      "a": [
+        "Another client to replace income",
+        "A new hobby",
+        "A different career path",
+        "A loan from a bank"
+      ],
+      "why": "He asked how to get income back, seeking new client."
+    }
+  ]
+}

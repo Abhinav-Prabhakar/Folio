@@ -1,0 +1,56 @@
+{
+  "book": "tools-of-titans",
+  "title": "Tools Of Titans",
+  "questions": [
+    {
+      "q": "Which expert taught Tim Ferriss that health must be personalized?",
+      "a": [
+        "Dr. Justin Mager",
+        "Dr. Jane Smith",
+        "Dr. Alan Brown",
+        "Dr. Emily White"
+      ],
+      "why": "Ferriss cites Dr. Justin Mager as the source of personalized health advice."
+    },
+    {
+      "q": "What attitude does Ferriss say is needed to resist peer pressure?",
+      "a": [
+        "Thick skin and a mule's attitude",
+        "Open heart and flexibility",
+        "Strong will and discipline",
+        "Calm focus and patience"
+      ],
+      "why": "Ferriss describes needing thick skin and a mule's attitude to overcome peer pressure."
+    },
+    {
+      "q": "According to Ferriss, how can creativity be cultivated?",
+      "a": [
+        "By living diverse experiences",
+        "By strict planning",
+        "By following a set routine",
+        "By avoiding new challenges"
+      ],
+      "why": "Ferriss claims creativity grows from living varied experiences."
+    },
+    {
+      "q": "What does Ferriss say is missing from a plug‑and‑play fitness recipe?",
+      "a": [
+        "Personal choice of tools",
+        "A universal diet plan",
+        "A fixed workout schedule",
+        "A single training method"
+      ],
+      "why": "Ferriss argues there is no one recipe; you must pick tools that work for you."
+    },
+    {
+      "q": "Which podcast guest type did Ferriss originally plan to use for the book?",
+      "a": [
+        "Over 200 podcast guests",
+        "A single expert",
+        "A group of athletes",
+        "A panel of chefs"
+      ],
+      "why": "Ferriss considered using his 200+ podcast guests for the book."
+    }
+  ]
+}

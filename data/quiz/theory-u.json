@@ -1,0 +1,56 @@
+{
+  "book": "theory-u",
+  "title": "Theory U",
+  "questions": [
+    {
+      "q": "What does the U-process emphasize when going down the U?",
+      "a": [
+        "Gathering information non-judgmentally",
+        "Implementing solutions",
+        "Testing prototypes",
+        "Analyzing data"
+      ],
+      "why": "It focuses on gathering information without judgment."
+    },
+    {
+      "q": "Which step follows the prototype in the agile approach?",
+      "a": [
+        "Test",
+        "Implement",
+        "Publish",
+        "Review"
+      ],
+      "why": "After prototyping, the next step is testing."
+    },
+    {
+      "q": "What did Scharmer's childhood event illustrate?",
+      "a": [
+        "Loss of old self and emergence of future self",
+        "Need for technology",
+        "Importance of education",
+        "Economic growth"
+      ],
+      "why": "The burnt house showed old self gone, future self emerging."
+    },
+    {
+      "q": "Which of these is NOT a stage of normal grief?",
+      "a": [
+        "Acceptance",
+        "Denial",
+        "Excitement",
+        "Anger"
+      ],
+      "why": "Excitement is not a grief stage."
+    },
+    {
+      "q": "What mindset is required to 'tap into your blind spot'?",
+      "a": [
+        "Attitude of a beginner",
+        "Competitive spirit",
+        "Authoritarian approach",
+        "Optimistic bias"
+      ],
+      "why": "The blind spot requires a beginner's attitude."
+    }
+  ]
+}

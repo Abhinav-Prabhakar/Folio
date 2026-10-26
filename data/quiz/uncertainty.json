@@ -1,0 +1,56 @@
+{
+  "book": "uncertainty",
+  "title": "Uncertainty",
+  "questions": [
+    {
+      "q": "What career did Jonathan Fields leave to become a personal trainer?",
+      "a": [
+        "Lawyer",
+        "Chef",
+        "Teacher",
+        "Engineer"
+      ],
+      "why": "He quit a six‑figure lawyer job for training."
+    },
+    {
+      "q": "According to the book, why do most people stay average?",
+      "a": [
+        "Risk aversion",
+        "Lack of education",
+        "Poor health",
+        "Bad luck"
+      ],
+      "why": "The text says default risk‑aversion keeps people average."
+    },
+    {
+      "q": "What does the author suggest we keep during stressful deadlines?",
+      "a": [
+        "Exercise routine",
+        "Late‑night parties",
+        "Skipping meals",
+        "Extra meetings"
+      ],
+      "why": "Routines like exercise help stay calm under pressure."
+    },
+    {
+      "q": "How many simple questions does the book propose to handle worst fears?",
+      "a": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "why": "It mentions handling fears with three simple questions."
+    },
+    {
+      "q": "What example illustrates a risky investment in the text?",
+      "a": [
+        "Spending $10,000 on scrap metal for an orange farm",
+        "Buying a new car",
+        "Investing in a savings account",
+        "Purchasing a house"
+      ],
+      "why": "The scrap metal scenario is used to show fear of failure."
+    }
+  ]
+}

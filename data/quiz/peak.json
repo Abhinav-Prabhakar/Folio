@@ -1,0 +1,56 @@
+{
+  "book": "peak",
+  "title": "Peak",
+  "questions": [
+    {
+      "q": "What four elements make up purposeful practice?",
+      "a": [
+        "A specific goal, focus, pushing past comfort and feedback",
+        "Talent, money, free time and good luck",
+        "A mentor, a textbook, a schedule and rest",
+        "Motivation, competition, rewards and praise"
+      ],
+      "why": "Lesson 1 lists a clear goal, focus, constant pushing and feedback as the four parts of purposeful practice."
+    },
+    {
+      "q": "How many digits could Steve remember after months of training?",
+      "a": [
+        "82 digits",
+        "12 digits",
+        "40 digits",
+        "100 digits"
+      ],
+      "why": "Lesson 1 describes Steve going from seven digits to sequences of up to 82."
+    },
+    {
+      "q": "What two things turn purposeful practice into deliberate practice?",
+      "a": [
+        "A well-established field and a guiding mentor",
+        "Longer sessions and much harder goals",
+        "Public competition and cash prizes",
+        "Natural talent and an early start"
+      ],
+      "why": "Lesson 2 says purposeful practice becomes deliberate in a mature field with a coach or mentor."
+    },
+    {
+      "q": "What does Ericsson say about Mozart's talent?",
+      "a": [
+        "He received intensive training from his father early on",
+        "He was born with an unusual musical gift",
+        "He composed masterpieces as a toddler",
+        "He had no formal training at all"
+      ],
+      "why": "Lesson 3 says Mozart received excellent training from his father before he was four."
+    },
+    {
+      "q": "What does the summary say about starting points in performance?",
+      "a": [
+        "Whoever practices the most deliberately wins out",
+        "Starting talent decides the final outcome",
+        "Only children can become truly world-class",
+        "Practice matters less than natural genetics"
+      ],
+      "why": "Lesson 3 concludes that whoever practices the most deliberately wins, whatever the starting point."
+    }
+  ]
+}

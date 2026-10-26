@@ -1,0 +1,31 @@
+{
+  "book": "broke-millennial",
+  "title": "Broke Millennial",
+  "questions": [
+    {
+      "q": "Why does the summary suggest examining your earliest memories of money?",
+      "a": ["They reveal the beliefs blocking good money habits", "They show exactly how much you will earn later", "They prove that budgeting is too complex to learn", "They replace the need for an emergency fund"],
+      "why": "Lesson 1 says childhood experiences with money hold the deeper problems behind overspending, so journaling about them builds awareness."
+    },
+    {
+      "q": "What is the recommended percentage split for a budget?",
+      "a": ["50 percent fixed costs, 20 percent goals, 30 percent flexible", "60 percent fixed costs, 30 percent goals, 10 percent flexible", "40 percent fixed costs, 40 percent goals, 20 percent flexible", "70 percent fixed costs, 10 percent goals, 20 percent flexible"],
+      "why": "Lesson 2 breaks spending into fixed costs at 50 percent, financial goals at 20 percent and flexible spending at 30 percent."
+    },
+    {
+      "q": "Why does the summary advise keeping your credit cards rather than cutting them up?",
+      "a": ["They build the credit record needed for big purchases", "They offer unlimited money with no consequences", "They remove the need to track monthly spending", "They guarantee approval for a mortgage"],
+      "why": "Lesson 3 says a credit score is a record of managing debt, and lenders rely on it when you want to borrow for a car or house."
+    },
+    {
+      "q": "What rule does the summary recommend for using a credit card?",
+      "a": ["Spend only what you can repay and clear it monthly", "Carry a small balance to improve your credit score", "Use it only for emergencies and never for daily costs", "Pay the minimum each month and invest the rest"],
+      "why": "Lesson 3 says the author promised to charge only what she could pay off and paid the full balance every month, keeping her score above 800."
+    },
+    {
+      "q": "In the New York example, what adjustment does the summary suggest for savings?",
+      "a": ["Start with a smaller amount and raise it with future pay", "Skip saving until all fixed costs are eliminated", "Borrow the missing amount from a credit card", "Move to a cheaper city before saving anything"],
+      "why": "Lesson 2 says when fixed costs reach 60 percent, aiming for 20 percent savings may be unrealistic, so start near $200 and increase it with raises."
+    }
+  ]
+}

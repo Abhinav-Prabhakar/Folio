@@ -1,0 +1,56 @@
+{
+  "book": "stamped-from-the-beginning",
+  "title": "Stamped From The Beginning",
+  "questions": [
+    {
+      "q": "Who did Nixon’s 1968 campaign target with coded appeals instead of explicit labels?",
+      "a": [
+        "Voters the book calls “nonracist racists”",
+        "White voters who supported civil rights",
+        "Black voters in northern cities",
+        "Recent immigrants without party loyalty"
+      ],
+      "why": "Lesson 1 says Nixon avoided the words black and white to reach people with subtly racist views."
+    },
+    {
+      "q": "What reassuring promise did Nixon use in ads showing civil rights protests?",
+      "a": [
+        "That there would be order in the United States",
+        "That taxes would be cut for everyone",
+        "That segregation would end within a decade",
+        "That every citizen would get a job"
+      ],
+      "why": "Lesson 1 quotes the pledge for order, which appealed to voters unsettled by protest imagery."
+    },
+    {
+      "q": "How did Reagan use the story of Linda Taylor?",
+      "a": [
+        "He linked a rare welfare fraud case to black people generally",
+        "He praised her as an example of entrepreneurial success",
+        "He used her case to argue for stronger welfare programs",
+        "He cited her to criticize white suburban voters"
+      ],
+      "why": "Lesson 1 says Reagan presented an unusual fraud case as typical and exaggerated the amount involved."
+    },
+    {
+      "q": "Why might arrest statistics make black neighborhoods look more dangerous?",
+      "a": [
+        "Heavier police presence there produces more arrests",
+        "Residents there report crimes less often",
+        "Those neighborhoods have no other recorded data",
+        "Police keep separate records for white areas"
+      ],
+      "why": "Lesson 2 says more policing driven by perceived crime can itself inflate the number of arrests."
+    },
+    {
+      "q": "What does the summary say about drunk driving compared with so-called urban black violence?",
+      "a": [
+        "Drunk driving kills more people but is not counted as violent crime",
+        "Drunk driving is less deadly than cocaine use",
+        "Drunk driving is treated as the most serious violent crime",
+        "Drunk driving deaths are lower than inner-city homicide"
+      ],
+      "why": "Lesson 2 notes that drunk driving causes more deaths yet is excluded from violent crime statistics."
+    }
+  ]
+}

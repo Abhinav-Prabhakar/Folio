@@ -1,0 +1,56 @@
+{
+  "book": "the-five-dysfunctions-of-a-team",
+  "title": "The Five Dysfunctions of a Team",
+  "questions": [
+    {
+      "q": "What builds trust in a team according to Lencioni?",
+      "a": [
+        "Vulnerability and sharing mistakes",
+        "Strict hierarchy",
+        "Individual achievements",
+        "Top-down directives"
+      ],
+      "why": "Trust grows when members admit faults."
+    },
+    {
+      "q": "Why is a decision necessary even if some disagree?",
+      "a": [
+        "Avoids confusion and ambiguity",
+        "Shows leadership power",
+        "Keeps everyone happy",
+        "Reduces workload"
+      ],
+      "why": "Decisions prevent unclear direction."
+    },
+    {
+      "q": "What happens when a player focuses on points over team win?",
+      "a": [
+        "Hinders team success",
+        "Boosts morale",
+        "Increases revenue",
+        "Improves strategy"
+      ],
+      "why": "Individual goals can hurt collective results."
+    },
+    {
+      "q": "Which lesson warns against protecting oneself in a team?",
+      "a": [
+        "Open about mistakes",
+        "Avoid conflict",
+        "Keep secrets",
+        "Prioritize self"
+      ],
+      "why": "Open mistakes reduce hesitation."
+    },
+    {
+      "q": "What is the main benefit of efficient teamwork in business?",
+      "a": [
+        "Competitive advantage",
+        "Lower costs",
+        "Fewer meetings",
+        "More promotions"
+      ],
+      "why": "Teamwork gives a competitive edge."
+    }
+  ]
+}

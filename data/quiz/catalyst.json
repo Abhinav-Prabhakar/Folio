@@ -1,0 +1,31 @@
+{
+  "book": "catalyst",
+  "title": "Catalyst",
+  "questions": [
+    {
+      "q": "What should you focus on instead of chasing the next promotion?",
+      "a": ["Personal growth and expanding your skills", "Office politics and visibility", "Finding a stable, secure role", "Comparing yourself with peers"],
+      "why": "Lesson 1 says promotions are largely outside your control, so improving yourself is the wiser investment."
+    },
+    {
+      "q": "What sets a mentor apart from a manager?",
+      "a": ["A mentor is also committed to your growth", "A mentor focuses strictly on results", "A mentor gives far fewer instructions", "A mentor becomes a close personal friend"],
+      "why": "Lesson 2 says both care about results, but mentors add a focus on helping you develop and push your limits."
+    },
+    {
+      "q": "How does the summary describe a typical career path?",
+      "a": ["Bumpy and full of unexpected turns", "A smooth climb up the corporate ladder", "A straight line from school to retirement", "A series of planned lateral moves"],
+      "why": "Lesson 1 warns that careers are unpredictable and rarely progress in a tidy upward line."
+    },
+    {
+      "q": "What is a striving sport?",
+      "a": ["A hard individual activity where you compete against yourself", "A team sport played mainly for fun", "A hobby you prefer to watch rather than play", "A workout done only to relax"],
+      "why": "Lesson 3 defines it as something difficult, competitive and individual, like running, golf or cycling."
+    },
+    {
+      "q": "How do hobbies outside work help executives, according to the summary?",
+      "a": ["They build an improvement mindset and release pressure", "They create useful business contacts", "They provide a meaningful second income", "They improve physical health alone"],
+      "why": "Lesson 3 says striving sports train leaders to surpass their own limits and let off steam away from the office."
+    }
+  ]
+}

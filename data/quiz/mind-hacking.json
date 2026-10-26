@@ -1,0 +1,31 @@
+{
+  "book": "mind-hacking",
+  "title": "Mind Hacking",
+  "questions": [
+    {
+      "q": "What does the summary mean by metathinking?",
+      "a": ["Thinking about your own thinking", "Thinking faster than you usually do", "Thinking without using any words", "Thinking about other people's motives"],
+      "why": "Lesson 1 defines metathinking as thinking about thinking, which lets you observe your own mind."
+    },
+    {
+      "q": "Why does the summary say you can log into your mind as a superuser?",
+      "a": ["Because you are separate from your brain and can observe it", "Because your brain stores an unlimited amount of information", "Because old habits can be erased in a single day", "Because emotions never affect clear thinking"],
+      "why": "Lesson 1 says we are separate from our brains, which is why we can notice ourselves thinking."
+    },
+    {
+      "q": "What are the two kinds of attention described in the summary?",
+      "a": ["Voluntary and reflexive", "Focused and creative", "Passive and active", "Internal and external"],
+      "why": "Lesson 2 distinguishes deliberately directing focus from reacting to an outside stimulus."
+    },
+    {
+      "q": "Why does an unchecked notification create anxiety, according to the summary?",
+      "a": ["The mind feels it has unfinished business", "The phone uses more battery in the background", "You fear missing an urgent work message", "The sound keeps interrupting your breathing"],
+      "why": "Lesson 2 says the brain believes something is left to finish, which stresses it."
+    },
+    {
+      "q": "What is the purpose of imagining your own funeral in the summary's exercises?",
+      "a": ["It shows how you want to treat people now", "It helps you plan your finances for later", "It reveals which career suits you best", "It measures how many friends you have"],
+      "why": "Lesson 3 says the way you hope to be remembered is how you should behave with others."
+    }
+  ]
+}

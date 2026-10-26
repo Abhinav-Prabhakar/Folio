@@ -1,0 +1,56 @@
+{
+  "book": "making-it-all-work",
+  "title": "Making It All Work",
+  "questions": [
+    {
+      "q": "Which two qualities does Allen say you need to balance to reach your potential?",
+      "a": [
+        "Perspective on the big picture and control of daily details",
+        "Ambition for promotion and patience with colleagues",
+        "Creativity in planning and discipline in execution",
+        "Confidence in decisions and openness to feedback"
+      ],
+      "why": "Lesson 1 frames the balance as perspective, seeing the whole, and control, organizing the daily process."
+    },
+    {
+      "q": "What three things does the summary say make daily tasks meaningful?",
+      "a": [
+        "Responsibilities, projects and goals",
+        "Meetings, deadlines and rewards",
+        "Habits, routines and rest",
+        "Clients, managers and budgets"
+      ],
+      "why": "Lesson 2 lists identifying responsibilities, grouping tasks into projects and keeping goals in view."
+    },
+    {
+      "q": "What defines a project in Allen’s system?",
+      "a": [
+        "A group of actions leading to a goal you can finish within a year",
+        "Any task that takes longer than a single workday",
+        "A long-term ambition that takes decades to achieve",
+        "A list of responsibilities shared with your team"
+      ],
+      "why": "Lesson 2 says projects are the kinds of goals you can complete in under a year, built from smaller actions."
+    },
+    {
+      "q": "How does the summary suggest getting a clear view of your life’s direction?",
+      "a": [
+        "Ask yourself big questions about your ideal future and values",
+        "Copy the career path of someone you admire",
+        "Focus entirely on this week’s task list",
+        "Let your manager set your long-term objectives"
+      ],
+      "why": "Lesson 3 recommends looking years ahead, imagining your ideal life and asking what you want to be remembered for."
+    },
+    {
+      "q": "What should you do with the list of goals and values you create?",
+      "a": [
+        "Review it often to check that you are on the right track",
+        "Lock it away and avoid revisiting it for several years",
+        "Share it publicly so others can hold you accountable",
+        "Replace it whenever a new opportunity appears"
+      ],
+      "why": "Lesson 3 calls the list your elevated view of life and says to review it regularly to stay on course."
+    }
+  ]
+}

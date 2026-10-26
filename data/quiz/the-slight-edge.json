@@ -1,0 +1,56 @@
+{
+  "book": "the-slight-edge",
+  "title": "The Slight Edge",
+  "questions": [
+    {
+      "q": "What percentage of people achieve their goals, according to the book?",
+      "a": [
+        "5%",
+        "50%",
+        "95%",
+        "100%"
+      ],
+      "why": "Only 5% reach their goals."
+    },
+    {
+      "q": "Which action is part of the three‑step goal‑setting process?",
+      "a": [
+        "Write goals down",
+        "Read news",
+        "Watch TV",
+        "Take naps"
+      ],
+      "why": "Writing goals is the first step."
+    },
+    {
+      "q": "What mindset must be chosen daily for success?",
+      "a": [
+        "Blaming or positive",
+        "Fearful or hopeful",
+        "Indifferent or curious",
+        "Lazy or diligent"
+      ],
+      "why": "Choosing a positive mindset is key."
+    },
+    {
+      "q": "What is the result of repetitive productive actions?",
+      "a": [
+        "Success",
+        "Failure",
+        "Stagnation",
+        "Confusion"
+      ],
+      "why": "Success follows consistent actions."
+    },
+    {
+      "q": "Which small choice illustrates daily impact?",
+      "a": [
+        "15‑minute workout",
+        "Skipping breakfast",
+        "Watching movies",
+        "Taking a nap"
+      ],
+      "why": "A 15‑minute workout shows daily influence."
+    }
+  ]
+}

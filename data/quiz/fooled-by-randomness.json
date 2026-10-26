@@ -1,0 +1,56 @@
+{
+  "book": "fooled-by-randomness",
+  "title": "Fooled By Randomness",
+  "questions": [
+    {
+      "q": "Why does Taleb say life is not linear?",
+      "a": [
+        "Some outcomes are path-dependent, so a restart would end differently",
+        "Consistent effort always produces proportional rewards",
+        "Luck evens itself out over a long enough lifetime",
+        "Skill matters far more than timing in most fields"
+      ],
+      "why": "The first lesson explains path dependence and says a single extra step can suddenly trigger a huge reward."
+    },
+    {
+      "q": "What does the QWERTY keyboard example illustrate?",
+      "a": [
+        "A standard can lock in after a tipping point even if it isn't ideal",
+        "Good design always wins out over time",
+        "Early inventions rarely survive competition",
+        "Practice makes any awkward tool feel natural"
+      ],
+      "why": "The summary notes QWERTY persisted because switching would be a hassle, not because it was the best layout."
+    },
+    {
+      "q": "Why does the summary argue we need our irrational emotions?",
+      "a": [
+        "They help us decide when reason alone cannot choose",
+        "They make us more persuasive to other people",
+        "They protect us from taking any kind of risk",
+        "They sharpen our memory of past events"
+      ],
+      "why": "The second lesson compares emotions to a coin flip that ends deliberation when outcomes are truly indifferent."
+    },
+    {
+      "q": "What does the parable of Buridan's donkey show about purely rational choice?",
+      "a": [
+        "It can leave us stuck and unable to act at all",
+        "Animals act on instinct rather than thought",
+        "Hunger always outweighs thirst in animals",
+        "Random choices are usually worse than planned ones"
+      ],
+      "why": "The donkey starves between equal options, illustrating why a little randomness helps us stop deliberating."
+    },
+    {
+      "q": "How does Taleb suggest we handle the harmful kind of randomness?",
+      "a": [
+        "With a Stoic attitude and responsibility for our own behavior",
+        "By avoiding every decision that carries any risk",
+        "By trusting expert forecasts more carefully",
+        "By treating all outcomes as equally likely"
+      ],
+      "why": "The third lesson says Stoicism means meeting random blows with elegance, without blame or complaint."
+    }
+  ]
+}

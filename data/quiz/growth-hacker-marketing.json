@@ -1,0 +1,31 @@
+{
+  "book": "growth-hacker-marketing",
+  "title": "Growth Hacker Marketing",
+  "questions": [
+    {
+      "q": "How does growth hacking differ from traditional marketing?",
+      "a": ["Marketing is built into the product itself", "It relies on expensive TV and print campaigns", "It focuses on hiring celebrity spokespeople", "It delays launch until the product is perfect"],
+      "why": "Lesson 1 says growth hacking builds marketing mechanisms into the product."
+    },
+    {
+      "q": "Why should startups launch an imperfect first version?",
+      "a": ["Real users and data show how to improve the next version", "Investors prefer products that look unfinished", "It is the only way to get press coverage", "Competitors will underestimate a weak launch"],
+      "why": "Lesson 1 says shipping fast and measuring data is how version two gets better."
+    },
+    {
+      "q": "Who should you target first with a new product?",
+      "a": ["A small group of people who are a perfect fit", "Everyone who might possibly use it", "The largest companies in your industry", "Influencers with millions of followers"],
+      "why": "Lesson 2 says targeting everyone leads to bad sales and useless feedback."
+    },
+    {
+      "q": "How did Dropbox use Digg to grow?",
+      "a": ["It hid insider jokes in a demo video for that community", "It paid Digg for a banner advertisement", "It offered Digg users free storage for a year", "It launched a contest with a cash prize"],
+      "why": "Lesson 2 says the Easter eggs drove 10,000 Diggs and a huge jump in sign-ups."
+    },
+    {
+      "q": "What are Ryan Holiday's two tips for going viral?",
+      "a": ["Make sharing easy and explicitly ask people to share", "Offer discounts and advertise widely", "Build a press list and send samples", "Partner with celebrities and run giveaways"],
+      "why": "Lesson 3 says give people an incentive, then tell them what to do to get it."
+    }
+  ]
+}

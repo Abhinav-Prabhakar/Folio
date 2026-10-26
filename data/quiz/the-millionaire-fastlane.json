@@ -1,0 +1,56 @@
+{
+  "book": "the-millionaire-fastlane",
+  "title": "The Millionaire Fastlane",
+  "questions": [
+    {
+      "q": "Which three elements does DeMarco define as true wealth?",
+      "a": [
+        "Relationships, health, freedom",
+        "Money, fame, power",
+        "Assets, income, savings",
+        "Luxury, status, speed"
+      ],
+      "why": "He lists meaningful relationships, health, and freedom as wealth."
+    },
+    {
+      "q": "What does DeMarco say money can buy most effectively?",
+      "a": [
+        "Unlimited freedom",
+        "Better health",
+        "More friends",
+        "Higher education"
+      ],
+      "why": "The text states money can buy unlimited amounts of freedom."
+    },
+    {
+      "q": "How did J.K. Rowling achieve income independent of time?",
+      "a": [
+        "Royalties from finished books",
+        "Teaching writing classes",
+        "Selling movie rights",
+        "Launching a merchandise line"
+      ],
+      "why": "Royalties continued after the book was finished, freeing time."
+    },
+    {
+      "q": "What habit does DeMarco recommend to shift from consumer to producer?",
+      "a": [
+        "Stop consuming, start creating",
+        "Read more books",
+        "Invest in stocks",
+        "Travel frequently"
+      ],
+      "why": "He urges to stop consuming and switch into producer mode."
+    },
+    {
+      "q": "What is the core idea behind making income independent of time?",
+      "a": [
+        "Unlink earnings from work hours",
+        "Work longer days",
+        "Raise hourly rates",
+        "Take multiple jobs"
+      ],
+      "why": "He says you must unlink income from the hours you put into work."
+    }
+  ]
+}

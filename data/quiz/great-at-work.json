@@ -1,0 +1,31 @@
+{
+  "book": "great-at-work",
+  "title": "Great At Work",
+  "questions": [
+    {
+      "q": "What does the do-less-then-obsess principle ask you to do?",
+      "a": ["Choose few activities, then commit intense effort to them", "Work fewer hours but hide it from your boss", "Delegate most tasks and focus on networking", "Say no to every request without exception"],
+      "why": "Lesson 1 says top performers select a few activities and then apply intense, targeted effort."
+    },
+    {
+      "q": "What surprising finding does Hansen report about collaboration?",
+      "a": ["Top performers collaborate less than average workers", "Top performers collaborate more than anyone", "Collaboration matters only in creative fields", "Remote teams collaborate better than in-person ones"],
+      "why": "Lesson 3 says top performers work together only when it clearly adds value."
+    },
+    {
+      "q": "What is the P-squared approach?",
+      "a": ["Matching passion with a sense of purpose", "Prioritizing projects and planning them carefully", "Practicing persistently until skills become automatic", "Pairing performance goals with public praise"],
+      "why": "Lesson 2 says passion alone is not enough; top performers match it with purpose."
+    },
+    {
+      "q": "How does the learning loop work?",
+      "a": ["Ask for feedback regularly and use it to refine your process", "Study a skill for 10,000 hours before using it", "Repeat the same tasks until they feel easy", "Learn from books rather than from colleagues"],
+      "why": "Lesson 2 recommends regular feedback instead of mindless repetition to keep improving."
+    },
+    {
+      "q": "What does the fight-and-unite meeting method involve?",
+      "a": ["Debate openly first, then commit to the leader's decision", "Vote on every idea until everyone agrees", "Keep discussion brief and avoid disagreement", "Let the most senior person speak last"],
+      "why": "Lesson 3 says teams should debate diverse views, then unite behind the final choice."
+    }
+  ]
+}

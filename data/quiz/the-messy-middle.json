@@ -1,0 +1,56 @@
+{
+  "book": "the-messy-middle",
+  "title": "The Messy Middle",
+  "questions": [
+    {
+      "q": "What percentage of startups fail before making a market impact?",
+      "a": [
+        "90 percent",
+        "50 percent",
+        "30 percent",
+        "10 percent"
+      ],
+      "why": "The overview states an estimated 90 percent fail miserably."
+    },
+    {
+      "q": "According to Belsky, what personal quality helps survive the messy middle?",
+      "a": [
+        "Self‑awareness",
+        "Charisma",
+        "Technical skill",
+        "Networking"
+      ],
+      "why": "The text says maintain self‑awareness amid lows and highs."
+    },
+    {
+      "q": "What does the author suggest focusing on to boost success?",
+      "a": [
+        "Improving strengths",
+        "Eliminating weaknesses",
+        "Increasing funding",
+        "Expanding team"
+      ],
+      "why": "The author describes doubling down on what works well."
+    },
+    {
+      "q": "What phase is described as the \"puppy‑love\" stage?",
+      "a": [
+        "Initial enthusiasm",
+        "Mid‑project slump",
+        "Final launch",
+        "Post‑failure reflection"
+      ],
+      "why": "The opening describes the early, enamored phase as puppy‑love."
+    },
+    {
+      "q": "What is the main obstacle in the middle portion of a venture?",
+      "a": [
+        "Hard work and pain",
+        "Lack of ideas",
+        "Regulatory hurdles",
+        "Market saturation"
+      ],
+      "why": "The text says we fail to recognize the hard work and pain in the middle."
+    }
+  ]
+}

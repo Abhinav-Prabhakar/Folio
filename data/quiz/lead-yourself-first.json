@@ -1,0 +1,56 @@
+{
+  "book": "lead-yourself-first",
+  "title": "Lead Yourself First",
+  "questions": [
+    {
+      "q": "Which four benefits does the summary say solitude provides?",
+      "a": [
+        "Clarity, creativity, emotional balance and moral courage",
+        "Focus, stamina, charisma and good luck",
+        "Patience, humility, vision and charm",
+        "Energy, discipline, honesty and speed"
+      ],
+      "why": "Lesson 1 lists these as the aspects leaders gain through solitude."
+    },
+    {
+      "q": "What does the summary mean by clarity?",
+      "a": [
+        "Stepping away from outside input to recharge and see freshly",
+        "Writing a precise plan for every single task",
+        "Saying exactly what you mean at all times",
+        "Keeping your calendar completely open"
+      ],
+      "why": "Lesson 1 says switching off outside noise restores perspective."
+    },
+    {
+      "q": "Why is FOMO dangerous for a leader?",
+      "a": [
+        "Constant checking pulls attention from work and lowers quality",
+        "It makes leaders too confident in their own ideas",
+        "It causes teams to work much more slowly",
+        "It prevents employees from taking vacations"
+      ],
+      "why": "Lesson 2 says focusing fully on your craft beats multitasking."
+    },
+    {
+      "q": "What does the summary say about multitasking?",
+      "a": [
+        "It distracts you and produces a worse result",
+        "It is the key skill of modern leaders",
+        "It works well for simple tasks only",
+        "It saves time when done every day"
+      ],
+      "why": "Lesson 2 says the author insists on total focus on the craft."
+    },
+    {
+      "q": "What practices does the summary recommend for quieting inner chatter?",
+      "a": [
+        "Meditation, breathwork and unstructured reflection",
+        "Reading news and checking messages often",
+        "Delegating all decisions to other people",
+        "Exercising until you feel completely exhausted"
+      ],
+      "why": "Lesson 3 says leaders must sometimes let go of themselves, not just outside distractions."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "behind-the-beautiful-forevers",
+  "title": "Behind The Beautiful Forevers",
+  "questions": [
+    {
+      "q": "Where is the Annawadi slum located?",
+      "a": [
+        "On swampy land beside Mumbai's airport",
+        "Beside a railway station in Delhi",
+        "On the outskirts of Kolkata",
+        "Near a beach outside Goa"
+      ],
+      "why": "The summary describes a patch of swampy land hidden from view by a concrete airport wall."
+    },
+    {
+      "q": "What usually happens when a slum child is hit by a car on the way to school?",
+      "a": [
+        "The driver does not stop and police do not investigate",
+        "The driver pays for the child's hospital care",
+        "Police open a murder case the same day",
+        "Neighbors raise money for the family"
+      ],
+      "why": "The summary says drivers rarely stop and the police often ignore such deaths."
+    },
+    {
+      "q": "Why is it hard for Annawadians to get a voter card?",
+      "a": [
+        "They are treated as criminals for living in the slum and must bribe officials",
+        "They are barred from elections because they lack birth records",
+        "They must own legal property before they can register",
+        "They are required to vote in a different state"
+      ],
+      "why": "The summary explains that their illegal settlement status makes bribery the only route."
+    },
+    {
+      "q": "What did the woman who ran the charity-funded school do to maximize profit?",
+      "a": [
+        "Put her unqualified daughter in charge, teaching only on inspection days",
+        "Charged families tuition while refusing donations",
+        "Sold school supplies to families at a markup",
+        "Hired untrained teachers and kept their wages"
+      ],
+      "why": "The summary describes the school as another example of corruption surrounding the residents."
+    },
+    {
+      "q": "What happened after the Husains refused to pay their neighbor for claimed damage?",
+      "a": [
+        "The neighbor set herself on fire, died, and the Husains were accused of murder",
+        "The neighbor sued them and took their savings in court",
+        "The police evicted the whole family from the slum",
+        "Community elders settled the dispute with a small payment"
+      ],
+      "why": "The incident destroyed the family's savings and cost them the plot of land they had saved for."
+    }
+  ]
+}

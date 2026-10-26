@@ -1,0 +1,56 @@
+{
+  "book": "eat-better-feel-better",
+  "title": "Eat Better Feel Better",
+  "questions": [
+    {
+      "q": "What does the summary say a typical meal should look like?",
+      "a": [
+        "Plenty of vegetables alongside a modest serving of lean protein",
+        "A large portion of pasta with a small portion of vegetables",
+        "Equal portions of carbohydrates, fats and proteins",
+        "A small salad followed by a serving of dessert"
+      ],
+      "why": "Lesson 1 describes a typical plate as mostly vegetables with only a modest serving of lean protein such as chicken."
+    },
+    {
+      "q": "How often does Giada suggest limiting desserts and alcohol?",
+      "a": [
+        "To twice a week",
+        "To once a day",
+        "To twice a day",
+        "To once a week"
+      ],
+      "why": "Lesson 1 sets a limit of twice per week for desserts and alcohol when building a healthier plate."
+    },
+    {
+      "q": "Why does Giada recommend precooking components at the start of the week?",
+      "a": [
+        "It makes improvising quick, healthy meals much easier",
+        "It removes the need to ever cook during the week",
+        "It keeps vegetables fresh for longer in the fridge",
+        "It allows you to skip breakfast without feeling hungry"
+      ],
+      "why": "Lesson 2 says precooked ingredients let you assemble a salad, grain bowl or meat and vegetable dish in under five minutes."
+    },
+    {
+      "q": "How much dairy does the book suggest eating daily?",
+      "a": [
+        "Half a cup",
+        "One cup",
+        "Two cups",
+        "A quarter cup"
+      ],
+      "why": "Lesson 1 recommends consuming just half a cup of dairy each day."
+    },
+    {
+      "q": "Besides nutrition, which two parts of a healthy lifestyle does the book stress?",
+      "a": [
+        "Exercise and dietary supplements",
+        "Sleep and stress management",
+        "Meditation and hydration",
+        "Strength training and fasting"
+      ],
+      "why": "Lesson 3 says regular exercise and supplements that address vitamin deficiencies are the other essential parts of a healthy lifestyle."
+    }
+  ]
+}

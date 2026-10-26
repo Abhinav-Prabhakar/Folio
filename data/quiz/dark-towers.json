@@ -1,0 +1,56 @@
+{
+  "book": "dark-towers",
+  "title": "Dark Towers",
+  "questions": [
+    {
+      "q": "Why did Deutsche Bank grow faster than its competitors?",
+      "a": [
+        "It accepted risks and clients that other banks avoided",
+        "It charged the highest fees in the German market",
+        "It refused to do business outside of Germany",
+        "It was owned and protected by the German government"
+      ],
+      "why": "Lesson 1 says the bank pushed ahead by taking more risk and working with unwanted clients."
+    },
+    {
+      "q": "What did Henry Villard do with money borrowed for the railroad?",
+      "a": [
+        "He used it to fund an extravagant Manhattan mansion",
+        "He repaid every loan ahead of schedule",
+        "He gave it to the workers building the line",
+        "He invested it in a rival German bank"
+      ],
+      "why": "Lesson 1 describes the default and the discovery that the money went to his mansion."
+    },
+    {
+      "q": "What role did Deutsche Bank play under the Nazi regime?",
+      "a": [
+        "It financed the regime and converted gold stolen from Holocaust victims",
+        "It quietly moved Jewish families out of Germany",
+        "It stopped all lending until the war ended",
+        "It funded only civilian infrastructure projects"
+      ],
+      "why": "Lesson 1 says the bank was the regime's main financier and handled stolen gold."
+    },
+    {
+      "q": "What happened to Bill Broeksmit as investigations closed in?",
+      "a": [
+        "He was found dead after feeling cornered by regulators",
+        "He was promoted to run the bank's American branch",
+        "He fled to Germany and was never heard from again",
+        "He testified and was given immunity from prosecution"
+      ],
+      "why": "Lesson 2 describes his suicide after a tape revealed the bank was dodging billions in taxes."
+    },
+    {
+      "q": "How did Deutsche Bank help Donald Trump financially?",
+      "a": [
+        "It lent him money at very low rates when others would not",
+        "It bought his golf courses outright and rented them back",
+        "It paid off his campaign debts without expecting repayment",
+        "It guaranteed his loans through a German government program"
+      ],
+      "why": "Lesson 3 says the bank offered unusually cheap loans and refinancing to Trump and his family."
+    }
+  ]
+}

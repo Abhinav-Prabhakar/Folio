@@ -1,0 +1,56 @@
+{
+  "book": "noise",
+  "title": "Noise",
+  "questions": [
+    {
+      "q": "What is noise, as the summary defines it?",
+      "a": [
+        "A random error in our judgment",
+        "A deliberate bias we choose",
+        "A lack of information",
+        "A conflict between experts"
+      ],
+      "why": "The overview defines noise as a random mistake in judgment, made without realizing it."
+    },
+    {
+      "q": "What is the conclusion bias?",
+      "a": [
+        "Favoring information that supports a desired outcome",
+        "Reaching a decision too slowly",
+        "Ignoring the most recent evidence",
+        "Trusting experts over your own view"
+      ],
+      "why": "Lesson 1 says we sometimes want a result so much that we read all information in its favor."
+    },
+    {
+      "q": "Why can simple algorithms outperform experienced judges?",
+      "a": [
+        "Noise and emotion blur human judgment",
+        "Algorithms have more information",
+        "Judges are not trained in law",
+        "Algorithms never make mistakes"
+      ],
+      "why": "Lesson 2 says noise blurs judgment and lets emotion disturb rationality, so basic formulas can do better."
+    },
+    {
+      "q": "What makes the wisdom-of-crowds work?",
+      "a": [
+        "Independent opinions whose noise cancels out",
+        "A crowd that shares the same bias",
+        "One expert guiding the group",
+        "Averaging only the highest estimates"
+      ],
+      "why": "Lesson 3 says averaging varied, independent answers cancels noise and lands close to the truth."
+    },
+    {
+      "q": "What condition must a crowd meet for averaging to help?",
+      "a": [
+        "Members must be independent and diverse",
+        "Members must agree before answering",
+        "Members must be experts in the field",
+        "Members must answer as a group"
+      ],
+      "why": "Lesson 3 says opinions must be independent, the question identical, and the crowd diverse in its biases."
+    }
+  ]
+}

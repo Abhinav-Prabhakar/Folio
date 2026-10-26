@@ -1,0 +1,56 @@
+{
+  "book": "the-social-animal",
+  "title": "The Social Animal",
+  "questions": [
+    {
+      "q": "What teaching method did Ms Taylor use to spark Harold's curiosity about ancient Greece?",
+      "a": [
+        "Giving him a book and urging more reading",
+        "Assigning a research paper",
+        "Holding a lecture on Greek myths",
+        "Organizing a field trip to a museum"
+      ],
+      "why": "She gave him The Greek Way and asked him to read five more books."
+    },
+    {
+      "q": "Which psychologist's research is cited about praising effort over talent?",
+      "a": [
+        "Carol Dweck",
+        "Albert Bandura",
+        "B.F. Skinner",
+        "Jean Piaget"
+      ],
+      "why": "The text mentions Dweck's findings on acknowledging hard work."
+    },
+    {
+      "q": "What type of school did Erica discover in eighth grade?",
+      "a": [
+        "An experimental academy targeting low‑class children",
+        "A private elite prep school",
+        "A charter school for gifted teens",
+        "A vocational trade school"
+      ],
+      "why": "She found an experimental education academy aimed at fighting poverty."
+    },
+    {
+      "q": "Which unconscious influence makes people compare to a known reference point?",
+      "a": [
+        "Anchoring",
+        "Priming",
+        "Framing",
+        "Loss aversion"
+      ],
+      "why": "Anchoring is defined as comparing everything to a baseline."
+    },
+    {
+      "q": "What does the book suggest we should do with our environment to improve behavior?",
+      "a": [
+        "Use it strategically to shape actions",
+        "Avoid any environmental changes",
+        "Rely solely on internal motivation",
+        "Ignore external cues"
+      ],
+      "why": "It states we should use environmental influence to our advantage."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-snowball",
+  "title": "The Snowball",
+  "questions": [
+    {
+      "q": "At what age did Warren Buffett sell gum and Coke?",
+      "a": [
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "why": "Early sales activity mentioned in the text."
+    },
+    {
+      "q": "What lesson did Ben Graham teach about businesses?",
+      "a": [
+        "Look beyond perceived value",
+        "Focus on short-term gains",
+        "Ignore market trends",
+        "Avoid risky stocks"
+      ],
+      "why": "Graham's advice about intrinsic value is highlighted."
+    },
+    {
+      "q": "How much did Buffett save by age eleven?",
+      "a": [
+        "$120",
+        "$200",
+        "$500",
+        "$1,000"
+      ],
+      "why": "The text states he saved $120 at eleven."
+    },
+    {
+      "q": "Which trait is NOT listed as a defining trait of young Buffett?",
+      "a": [
+        "Introversion",
+        "Interest in numbers",
+        "Overbearing mother",
+        "Stockbroker father"
+      ],
+      "why": "Overbearing mother is a parent, not a trait of Buffett."
+    },
+    {
+      "q": "What does Buffett say takes 20 years to build?",
+      "a": [
+        "Reputation",
+        "Net worth",
+        "Stock portfolio",
+        "Business empire"
+      ],
+      "why": "Quote emphasizes reputation building time."
+    }
+  ]
+}

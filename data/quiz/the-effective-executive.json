@@ -1,0 +1,55 @@
+{
+  "book": "the-effective-executive",
+  "title": "The Effective Executive",
+  "questions": [
+    {
+      "q": "What is the first step to becoming an effective executive?",
+      "a": [
+        "Review your results against expectations",
+        "Set new goals",
+        "Delegate tasks",
+        "Hire more staff"
+      ],
+      "why": "The text states reviewing results is crucial."
+    },
+    {
+      "q": "Which question helps decide if a decision is worth making?",
+      "a": [
+        "What would happen if you did nothing?",
+        "Who will be affected?",
+        "How long will it take?",
+        "What is the budget?"
+      ]
+    },
+    {
+      "q": "What did the author learn about improving confidence?",
+      "a": [
+        "Focus on strengths, not weaknesses",
+        "Work on weaknesses first",
+        "Take more risks",
+        "Read more books"
+      ],
+      "why": "The author mentions confidence grew by working on strengths."
+    },
+    {
+      "q": "Why should leaders lead from the front?",
+      "a": [
+        "They set a good example",
+        "They avoid mistakes",
+        "They get promotions",
+        "They save time"
+      ],
+      "why": "The text says leaders who lead from the front inspire others."
+    },
+    {
+      "q": "What is a key benefit of sticking to decisions?",
+      "a": [
+        "Maintains confidence despite criticism",
+        "Avoids all risks",
+        "Increases salary",
+        "Reduces workload"
+      ],
+      "why": "The text highlights confidence when standing by decisions."
+    }
+  ]
+}

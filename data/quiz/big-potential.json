@@ -1,0 +1,56 @@
+{
+  "book": "big-potential",
+  "title": "Big Potential",
+  "questions": [
+    {
+      "q": "What is the first element of the SEEDS acronym?",
+      "a": [
+        "Surround yourself with positive, supportive people",
+        "Expand your network widely",
+        "Defend your ideas aggressively",
+        "Sustain your habits daily"
+      ],
+      "why": "Lesson 1 states the first part is to Surround yourself with the best people."
+    },
+    {
+      "q": "Which basketball statistic is highlighted as a key predictor of winning?",
+      "a": [
+        "Assists, because they lead to scoring",
+        "Points scored",
+        "Rebounds",
+        "Personal fouls"
+      ],
+      "why": "The summary notes assists are the highest determiner of a team’s chances of winning."
+    },
+    {
+      "q": "How did the 'I Saved a Life' program broaden its impact?",
+      "a": [
+        "By letting non‑medical staff schedule preventive screenings",
+        "By hiring more doctors",
+        "By reducing appointment numbers",
+        "By offering free medication"
+      ],
+      "why": "It empowered receptionists to schedule screenings, increasing saved lives."
+    },
+    {
+      "q": "What behavior helped a lawyer secure a partnership in the example?",
+      "a": [
+        "Praising the whole team instead of self‑promotion",
+        "Aggressive self‑advertising",
+        "Undermining a colleague",
+        "Ignoring teamwork"
+      ],
+      "why": "She reflected compliments toward the team and later got the position."
+    },
+    {
+      "q": "What does the 'Virtuous Cycle' involve for sustaining potential?",
+      "a": [
+        "Sharing what you learned with allies to keep momentum",
+        "Isolating yourself after training",
+        "Ignoring feedback",
+        "Constantly changing goals"
+      ],
+      "why": "The summary says sharing insights with a coworker keeps forward‑moving potential."
+    }
+  ]
+}

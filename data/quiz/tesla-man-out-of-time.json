@@ -1,0 +1,56 @@
+{
+  "book": "tesla-man-out-of-time",
+  "title": "Tesla: Man Out of Time",
+  "questions": [
+    {
+      "q": "Why did Tesla leave his job with Thomas Edison?",
+      "a": [
+        "He improved Edison’s generators but never shared in the money",
+        "Edison refused to let him experiment with radio waves",
+        "He was offered a prestigious teaching post back in Croatia",
+        "The laboratory burned down before he could start work"
+      ],
+      "why": "Lesson 1 says Tesla redesigned the DC generators, saw no financial benefit, and then resigned."
+    },
+    {
+      "q": "What did Tesla demonstrate to the National Electric Light Association?",
+      "a": [
+        "A wireless message delivered to a person 30 feet away",
+        "A generator capable of powering all of New York",
+        "A receiver that picked up signals from Europe",
+        "A lamp that lit up without any wires attached"
+      ],
+      "why": "Lesson 2 describes his first public demonstration of wireless technology using a spark transmitter."
+    },
+    {
+      "q": "What happened to Tesla’s work after his laboratory burned down?",
+      "a": [
+        "He struggled to find investors and his projects stalled",
+        "He sold his patents and retired as a wealthy man",
+        "He rebuilt the lab with Edison’s financial backing",
+        "He moved home to Croatia to teach physics"
+      ],
+      "why": "Lesson 2 says the fire destroyed years of progress and made further investment hard to secure."
+    },
+    {
+      "q": "When was Tesla finally credited with inventing radio communication?",
+      "a": [
+        "Only after his death",
+        "During his 75th birthday celebration",
+        "Right after his first public demonstration",
+        "While he was still working for Edison"
+      ],
+      "why": "Lesson 3 notes the invention was attributed to him posthumously, despite his lifelong fight for the patent."
+    },
+    {
+      "q": "Which early hardships does the summary mention from Tesla’s childhood?",
+      "a": [
+        "His older brother’s death and a bout of cholera",
+        "A fire that destroyed his family’s home",
+        "Being expelled from school for his ideas",
+        "An illness that left him partially deaf"
+      ],
+      "why": "The overview describes his brother’s death, his own cholera, and a Croatian town with few opportunities."
+    }
+  ]
+}

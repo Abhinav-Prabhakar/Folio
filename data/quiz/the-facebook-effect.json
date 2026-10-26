@@ -1,0 +1,56 @@
+{
+  "book": "the-facebook-effect",
+  "title": "The Facebook Effect",
+  "questions": [
+    {
+      "q": "Why did Facebook succeed where Friendster and MySpace failed?",
+      "a": [
+        "Timing with broadband spread",
+        "Better graphics",
+        "More advertising",
+        "Celebrity founders"
+      ],
+      "why": "Mentions broadband rollout in 2004 as crucial."
+    },
+    {
+      "q": "What political advantage does Facebook offer activists?",
+      "a": [
+        "Cheaper, safer, faster rallies",
+        "More followers than TV",
+        "Unlimited funding",
+        "Anonymous posting"
+      ],
+      "why": "Described as organized rally that is cheaper, safer, faster."
+    },
+    {
+      "q": "How quickly did a South African anti‑raid group grow on Facebook?",
+      "a": [
+        "3,000 members in two days",
+        "500 members in a week",
+        "1,000 members in a month",
+        "10,000 members in a day"
+      ],
+      "why": "Cites 3,000 members in two days."
+    },
+    {
+      "q": "What habit does the author claim people now do when hiring?",
+      "a": [
+        "Check candidates' Facebook profiles",
+        "Call references first",
+        "Require a portfolio",
+        "Ask for a video interview"
+      ],
+      "why": "Suggests checking Facebook pictures during hiring."
+    },
+    {
+      "q": "What change in identity does Facebook force, according to the text?",
+      "a": [
+        "One real name, one true identity",
+        "Multiple pseudonyms allowed",
+        "Anonymous posting only",
+        "Hidden profiles"
+      ],
+      "why": "States Facebook gives only one real name."
+    }
+  ]
+}

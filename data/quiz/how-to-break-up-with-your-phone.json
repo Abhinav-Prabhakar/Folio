@@ -1,0 +1,56 @@
+{
+  "book": "how-to-break-up-with-your-phone",
+  "title": "How to Break Up With Your Phone",
+  "questions": [
+    {
+      "q": "Why are phones so addictive, according to the summary?",
+      "a": [
+        "Each small interaction releases dopamine",
+        "They provide unlimited access to news",
+        "They connect you with family all day",
+        "They are designed to improve memory"
+      ],
+      "why": "Lesson one says dopamine rewards each check, prompting the brain to repeat the behavior again and again."
+    },
+    {
+      "q": "What does the summary say constant phone use does to the mind?",
+      "a": [
+        "It weakens attention and short-term memory",
+        "It improves multitasking and reaction speed",
+        "It makes learning new skills easier",
+        "It has no measurable effect on thinking"
+      ],
+      "why": "Lesson two says phones affect short-term memory and attention span because a glance away makes you forget your task."
+    },
+    {
+      "q": "Why is the brain so quick to choose distraction over focus?",
+      "a": [
+        "Spotting distractions once helped humans survive",
+        "Distraction uses more energy than focus",
+        "Phones train the brain to ignore danger",
+        "Focus is a skill only children have"
+      ],
+      "why": "Lesson two explains that watchfulness helped our ancestors spot threats, and focus costs the brain more energy."
+    },
+    {
+      "q": "What is the first step to changing your relationship with your phone?",
+      "a": [
+        "Notice which activities pull you to it and why",
+        "Delete every social media account at once",
+        "Buy a phone with fewer features",
+        "Set a strict one-hour daily limit"
+      ],
+      "why": "Lesson three says awareness of what you are doing on the phone must come before deciding which habits to change."
+    },
+    {
+      "q": "What must the decision to use your phone less come from?",
+      "a": [
+        "A genuine personal desire to change",
+        "A friend's insistence that you stop",
+        "A new app that tracks your usage",
+        "A doctor's warning about screen time"
+      ],
+      "why": "The summary says the change should not come from reading a book, but from really wanting to fix the behavior."
+    }
+  ]
+}

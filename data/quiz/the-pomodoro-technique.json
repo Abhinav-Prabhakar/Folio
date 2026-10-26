@@ -1,0 +1,56 @@
+{
+  "book": "the-pomodoro-technique",
+  "title": "The Pomodoro Technique",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Pomodoro Technique?",
+      "a": [
+        "Francesco Cirillo is a German-Italian programmer and owner of an IT consultancy.",
+        "Olympic runner and bronze medalist Deena Kastor has a rigorous training routine.",
+        "So what is it that meditation can help us do to tame the ego and fuel our drive?",
+        "We all know that what we eat influences our appearance and our bodily functions."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Pomodoro Technique explore?",
+      "a": [
+        "Break your work down into small time blocks",
+        "Use the STATE acronym to resolve a conflict",
+        "The decision to cheat is not a rational one",
+        "Adjusting your course can happen at any age"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Pomodoro Technique teach?",
+      "a": [
+        "Use physical stimuli to develop flow and focus",
+        "Don’t take action and reflect at the same time",
+        "Choose the cheapest fund to keep things simple",
+        "Will sticks with us when everything else fades"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Pomodoro Technique?",
+      "a": [
+        "This is of course the underlying idea of the whole concept.",
+        "We’re talking a lot about “Why?” here at Four Minute Books.",
+        "Connections with the people around us give us our humanity.",
+        "They key to finding a blue ocean is to create a new market."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Pomodoro Technique?",
+      "a": [
+        "The Pomodoro Technique is the simplest way to productively manage your time with only two…",
+        "You’re more likely to cheat when there’s a psychological distance between you and the deed",
+        "It’s hard to understand what people really want, so be careful how you respond to requests",
+        "The other option to lucid dream is by simply maintaining consciousness as you fall asleep."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

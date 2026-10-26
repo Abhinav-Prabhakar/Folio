@@ -1,0 +1,56 @@
+{
+  "book": "your-move",
+  "title": "Your Move",
+  "questions": [
+    {
+      "q": "What is the first step Ramit suggests for a new entrepreneur with no ideas?",
+      "a": [
+        "Think about what you already pay for yourself",
+        "Create a product immediately",
+        "Hire a team",
+        "Write a business plan"
+      ],
+      "why": "He advises starting with what you already pay for yourself."
+    },
+    {
+      "q": "How much did Ramit charge for his 2007 Guide to Kicking Ass?",
+      "a": [
+        "$4.95",
+        "$19.99",
+        "$49.99",
+        "$99.99"
+      ],
+      "why": "The book was priced at $4.95."
+    },
+    {
+      "q": "What mindset does Ramit say is essential for future growth?",
+      "a": [
+        "Growth mindset",
+        "Fixed mindset",
+        "Risk‑averse mindset",
+        "Short‑term mindset"
+      ],
+      "why": "He emphasizes a growth mindset to keep moving forward."
+    },
+    {
+      "q": "Why does Ramit believe people value what they pay for?",
+      "a": [
+        "Because they trust the value of money",
+        "Because they think it's expensive",
+        "Because it's a status symbol",
+        "Because it's free"
+      ],
+      "why": "He notes that people value what they pay for."
+    },
+    {
+      "q": "What is the main warning about pricing products early on?",
+      "a": [
+        "Fear can lead to overpricing",
+        "Fear can lead to underpricing",
+        "Fear can lead to free offers",
+        "Fear can lead to discounts"
+      ],
+      "why": "Ramit warns that fear often causes people to price too high."
+    }
+  ]
+}

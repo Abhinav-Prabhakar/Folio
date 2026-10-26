@@ -1,0 +1,56 @@
+{
+  "book": "toward-a-psychology-of-being",
+  "title": "Toward a Psychology of Being",
+  "questions": [
+    {
+      "q": "What does Maslow call the need to find purpose and fulfill it?",
+      "a": [
+        "Self-actualization",
+        "Self-esteem",
+        "Physiological need",
+        "Safety need"
+      ],
+      "why": "Maslow defines self-actualization as the biological need to find purpose."
+    },
+    {
+      "q": "According to Maslow, which condition must be met before pursuing self-actualization?",
+      "a": [
+        "All lower‑level needs satisfied",
+        "Having a high income",
+        "Being highly educated",
+        "Living in a large city"
+      ],
+      "why": "He states you must fulfill basic needs first, moving up the pyramid."
+    },
+    {
+      "q": "What state does Maslow say follows self‑actualization?",
+      "a": [
+        "State of Being",
+        "State of Anxiety",
+        "State of Depression",
+        "State of Apathy"
+      ],
+      "why": "He links reaching self‑actualization with achieving a state of Being."
+    },
+    {
+      "q": "How does Maslow describe creativity in a state of Being?",
+      "a": [
+        "Child‑like curiosity",
+        "Genius‑level invention",
+        "Technical skill only",
+        "Logical analysis"
+      ],
+      "why": "He compares the creativity of those in a state of Being to a child's curiosity."
+    },
+    {
+      "q": "What happens to how you view others when you reach a state of Being?",
+      "a": [
+        "You love them for intrinsic value",
+        "You see them as tools for goals",
+        "You become indifferent",
+        "You distrust everyone"
+      ],
+      "why": "In a state of Being you no longer see people as means to an end."
+    }
+  ]
+}

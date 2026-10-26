@@ -1,0 +1,31 @@
+{
+  "book": "the-decision-making-blueprint",
+  "title": "The Decision-Making Blueprint",
+  "questions": [
+    {
+      "q": "What does confirmation bias lead people to do?",
+      "a": ["Seek out information that supports what they already believe", "Take credit for successes while denying blame for failures", "Stick with familiar choices even when better options exist", "Spend most of their time on tasks with little payoff"],
+      "why": "Lesson 1 describes confirmation bias as our tendency to look for evidence that backs up existing beliefs."
+    },
+    {
+      "q": "What is the self-serving bias?",
+      "a": ["Claiming success for yourself but refusing blame for failure", "Judging others more harshly than you judge yourself", "Believing you are less biased than everyone around you", "Preferring the default option whenever one is offered"],
+      "why": "Lesson 1 explains that the self-serving bias makes us own good outcomes and disown bad ones."
+    },
+    {
+      "q": "According to the summary, why do people cling to the status quo?",
+      "a": ["It saves energy and feels safer than the unknown", "It always produces better results over time", "It protects them from every cognitive bias", "It is required by most employers and families"],
+      "why": "Lesson 2 says we avoid change because we are wired to conserve energy and weigh losses heavily."
+    },
+    {
+      "q": "How does the Pareto principle describe the link between effort and results?",
+      "a": ["A small portion of causes generates most of the outcome", "Effort and results always rise at the same rate", "Most results come from luck rather than deliberate work", "Only measurable tasks produce any real results"],
+      "why": "Lesson 3 presents the 80/20 rule: roughly 80 percent of outcomes stem from 20 percent of causes."
+    },
+    {
+      "q": "When you feel like turning down an opportunity, what should you ask yourself?",
+      "a": ["Am I avoiding this out of comfort or because I truly don't want it?", "Is this the cheapest option available to me right now?", "Would my friends and family approve of this choice?", "Can I finish this before the end of the week?"],
+      "why": "Lesson 2 recommends checking whether the pull of the familiar, rather than genuine disinterest, is driving your answer."
+    }
+  ]
+}

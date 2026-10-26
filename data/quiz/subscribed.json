@@ -1,0 +1,56 @@
+{
+  "book": "subscribed",
+  "title": "Subscribed",
+  "questions": [
+    {
+      "q": "Why do subscription services appeal to customers, according to Tzuo?",
+      "a": [
+        "They give access to a service without the work of owning anything",
+        "They are always cheaper than buying a product once",
+        "They let customers own the latest version outright",
+        "They remove the need for any customer support"
+      ],
+      "why": "Lesson 1 says people want the music or transport, not the CD or car they would have to maintain."
+    },
+    {
+      "q": "What share of the 1955 Fortune 500 was still on the list when Tzuo wrote?",
+      "a": [
+        "About 12%",
+        "About 30%",
+        "About half",
+        "About 60%"
+      ],
+      "why": "Lesson 1 uses the 12% survival rate to show how few companies adapt to changing customer needs."
+    },
+    {
+      "q": "How does the subscription approach to innovation differ from the old one?",
+      "a": [
+        "It starts with what customers want and keeps changing after release",
+        "It perfects the product fully before anyone sees it",
+        "It moves in order through research, design and manufacturing",
+        "It relies on one large launch each year"
+      ],
+      "why": "Lesson 2 says subscription businesses release early and adjust constantly using customer feedback."
+    },
+    {
+      "q": "What does the D in the PADRE method stand for?",
+      "a": [
+        "Deploy, getting customers set up quickly and painlessly",
+        "Design, shaping the product around customer needs",
+        "Develop, building new features on a fixed schedule",
+        "Distribute, shipping the product out to retailers"
+      ],
+      "why": "Lesson 3 lists deploy as the step where the customer is set up fast enough to stay interested."
+    },
+    {
+      "q": "What three areas does the PPM checklist cover?",
+      "a": [
+        "People, product and money",
+        "Pipeline, product and marketing",
+        "Price, promotion and market share",
+        "People, process and metrics"
+      ],
+      "why": "Lesson 3 says PPM means top talent, constant product improvement and well-divided resources."
+    }
+  ]
+}

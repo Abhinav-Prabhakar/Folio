@@ -1,0 +1,56 @@
+{
+  "book": "salt-sugar-fat",
+  "title": "Salt Sugar Fat",
+  "questions": [
+    {
+      "q": "According to the summary, what pushed home-cooked meals aside in the 1950s?",
+      "a": [
+        "More women working, television, and clever marketing",
+        "Rising food prices and a shortage of ingredients",
+        "Government restrictions on home kitchens",
+        "A sharp decline in the number of schools"
+      ],
+      "why": "Lesson 1 links the change to careers outside the home, the new appeal of TV and heavy advertising of convenience food."
+    },
+    {
+      "q": "Why does the summary say we eat far more fat than we should?",
+      "a": [
+        "We have no taste buds for fat, so we cannot sense how much we have had",
+        "Fat contains fewer calories than sugar does",
+        "Our bodies naturally stop craving fat after a while",
+        "Food labels overstate the fat content of products"
+      ],
+      "why": "Lesson 2 explains that we can taste salt and sugar but not fat, so more always seems better."
+    },
+    {
+      "q": "How much more fat do Americans eat daily than they should, per the summary?",
+      "a": [
+        "About 50 percent more",
+        "About 10 percent more",
+        "About 25 percent more",
+        "About 90 percent more"
+      ],
+      "why": "Lesson 2 states that Americans average 50 percent more fat every day than they should."
+    },
+    {
+      "q": "Why do processed food companies value fat so highly?",
+      "a": [
+        "It improves texture and extends shelf life",
+        "It is cheaper to produce than water",
+        "It removes the need for salt and sugar",
+        "It makes nutrition labels easier to write"
+      ],
+      "why": "Lesson 2 notes that fat adds appealing texture and keeps products sellable for longer."
+    },
+    {
+      "q": "What happened when Campbell cut sodium from its soups?",
+      "a": [
+        "Customers complained about the taste and sales fell",
+        "Sales rose sharply and rivals copied the change",
+        "The government praised the company publicly",
+        "The low-salt soups became its best sellers"
+      ],
+      "why": "Lesson 3 says shoppers found the soups bland, sales dropped, and the sodium content went back up."
+    }
+  ]
+}

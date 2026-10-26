@@ -1,0 +1,56 @@
+{
+  "book": "the-5-love-languages",
+  "title": "The 5 Love Languages",
+  "questions": [
+    {
+      "q": "What happens to a relationship built only on romance after about two years?",
+      "a": [
+        "It deteriorates as reality sets in and effort is needed",
+        "It settles into an effortless and stable routine",
+        "It grows stronger as infatuation deepens",
+        "It ends because the couple runs out of conversation"
+      ],
+      "why": "Lesson 1 says the early rush fades and couples must then meet each other's needs."
+    },
+    {
+      "q": "Which of these is one of Chapman's five love languages?",
+      "a": [
+        "Acts of service",
+        "Shared finances",
+        "Common hobbies",
+        "Physical fitness"
+      ],
+      "why": "Lesson 2 lists words of affirmation, quality time, gifts, acts of service and touch."
+    },
+    {
+      "q": "What does the summary say quality time requires?",
+      "a": [
+        "Undivided attention, with electronics set aside",
+        "Expensive dates planned well in advance",
+        "Long conversations about your future",
+        "Simply being in the same room together"
+      ],
+      "why": "Lesson 2 stresses that shared space is not enough without real attention."
+    },
+    {
+      "q": "How does the summary suggest discovering your own love language?",
+      "a": [
+        "Notice what you most often ask your partner for",
+        "Take an online personality quiz",
+        "Ask friends to describe your character",
+        "List the gifts you have given others"
+      ],
+      "why": "Lesson 3 also suggests revisiting what made you feel loved or unmet as a child."
+    },
+    {
+      "q": "Why do gifts matter as a love language?",
+      "a": [
+        "The act of choosing or making one conveys how you feel",
+        "Their price shows how serious the relationship is",
+        "They remove the need for spoken affection",
+        "They should only arrive on special occasions"
+      ],
+      "why": "Lesson 2 says cost is irrelevant; the gesture itself carries the message."
+    }
+  ]
+}

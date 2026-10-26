@@ -1,0 +1,56 @@
+{
+  "book": "never-finished",
+  "title": "Never Finished",
+  "questions": [
+    {
+      "q": "What is a 1-second decision in Goggins's terms?",
+      "a": [
+        "Choosing to stand and fight instead of giving in",
+        "Winning a contest within a single second",
+        "Waiting a second before replying in anger",
+        "Setting a timer for one second of focus"
+      ],
+      "why": "Lesson 1 says the one-second decision is simply the choice to stand up and keep fighting."
+    },
+    {
+      "q": "What does the summary mean by refusing low-level success?",
+      "a": [
+        "Don't get stuck at a level far below your reach",
+        "Never accept any promotion at work",
+        "Avoid earning more money than you need",
+        "Quit whenever a project gets difficult"
+      ],
+      "why": "Lesson 2 warns against settling into a level of success much lower than the heights you can reach."
+    },
+    {
+      "q": "How did Alex Hormozi escape his plateau?",
+      "a": [
+        "He licensed his gym system instead of opening more sites",
+        "He cut his prices to attract more members",
+        "He sold the gym chain to a competitor",
+        "He hired more staff for each location"
+      ],
+      "why": "Lesson 2 says he licensed his system to other gym chains, moving revenue from six figures to millions."
+    },
+    {
+      "q": "Why is delivering exactly what was asked a mistake at a new job?",
+      "a": [
+        "You blend in and delay your first promotion",
+        "Managers will see you as too ambitious",
+        "The work will take longer than expected",
+        "Colleagues will resent your efficiency"
+      ],
+      "why": "Lesson 3 says doing only what is expected makes you invisible among the masses and pushes promotion away."
+    },
+    {
+      "q": "What does Goggins mean by setting your own standards?",
+      "a": [
+        "You decide the level and pace you perform at",
+        "You follow the toughest rules you can find",
+        "You compare yourself to the best in your field",
+        "You let your manager set every target"
+      ],
+      "why": "Lesson 3 says choosing your own level raises the bar while letting you work at your own pace."
+    }
+  ]
+}

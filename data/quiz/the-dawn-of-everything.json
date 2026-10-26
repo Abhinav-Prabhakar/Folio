@@ -1,0 +1,56 @@
+{
+  "book": "the-dawn-of-everything",
+  "title": "The Dawn of Everything",
+  "questions": [
+    {
+      "q": "Which philosopher argued humans were naturally good and harmed by agriculture?",
+      "a": [
+        "Jean-Jacques Rousseau",
+        "Thomas Hobbes",
+        "Karl Marx",
+        "John Locke"
+      ],
+      "why": "Rousseau claimed humans are inherently good and agriculture corrupts them."
+    },
+    {
+      "q": "What event in the 15th century caused a labor shortage that led Europeans to consider slavery?",
+      "a": [
+        "The Black Death",
+        "The Renaissance",
+        "The Crusades",
+        "The Industrial Revolution"
+      ],
+      "why": "The Black Death killed over a third of Europe's population, creating a labor shortage."
+    },
+    {
+      "q": "Which principle did early kings use to maintain authority by threatening punishment?",
+      "a": [
+        "Control of violence",
+        "Control of information",
+        "Individual charisma",
+        "Taxation"
+      ],
+      "why": "Kings relied on control of violence to punish and reward subjects."
+    },
+    {
+      "q": "Which group in northern California shared possessions and had no private property?",
+      "a": [
+        "Communal Californians",
+        "Native tribes",
+        "European settlers",
+        "Slaves"
+      ],
+      "why": "Northern California inhabitants lived communally without private property."
+    },
+    {
+      "q": "What was Thomas Hobbes's view of human nature?",
+      "a": [
+        "Inherently evil and selfish",
+        "Inherently good and generous",
+        "Neutral and adaptable",
+        "Evolving with society"
+      ],
+      "why": "Hobbes believed humans were inherently evil and selfish."
+    }
+  ]
+}

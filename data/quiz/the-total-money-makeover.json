@@ -1,0 +1,56 @@
+{
+  "book": "the-total-money-makeover",
+  "title": "The Total Money Makeover",
+  "questions": [
+    {
+      "q": "What is Dave Ramsey's first financial step?",
+      "a": [
+        "Save $1,000 emergency fund",
+        "Buy a new car",
+        "Invest in stocks",
+        "Pay off mortgage"
+      ],
+      "why": "He says the first step is to set aside $1,000 for emergencies."
+    },
+    {
+      "q": "What percentage of people face a major bad event in ten years?",
+      "a": [
+        "78%",
+        "50%",
+        "25%",
+        "90%"
+      ],
+      "why": "Money Magazine reports 78% experience a major event in a decade."
+    },
+    {
+      "q": "How does the debt snowball method begin?",
+      "a": [
+        "Pay the smallest debt first",
+        "Pay the largest debt first",
+        "Consolidate all debts",
+        "Ignore small debts"
+      ],
+      "why": "Ramsey advises listing debts by size and tackling the smallest."
+    },
+    {
+      "q": "What is the target size of an emergency fund after debt reduction?",
+      "a": [
+        "Three months of living expenses",
+        "One month of rent",
+        "Six months of mortgage",
+        "One year of savings"
+      ],
+      "why": "He recommends a fund covering at least three months of expenses."
+    },
+    {
+      "q": "Why does Ramsey liken debt repayment to a snowball?",
+      "a": [
+        "Small wins build momentum",
+        "It melts quickly",
+        "It freezes debts",
+        "It spreads thinly"
+      ],
+      "why": "A small snowball gains size and speed, mirroring debt payoff progress."
+    }
+  ]
+}

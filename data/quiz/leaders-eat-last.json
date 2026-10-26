@@ -1,0 +1,56 @@
+{
+  "book": "leaders-eat-last",
+  "title": "Leaders Eat Last",
+  "questions": [
+    {
+      "q": "Why does the summary say safety leads to progress?",
+      "a": [
+        "People can only improve once basic needs and threats are handled",
+        "Safe teams avoid taking any kind of risk",
+        "Safety rules force people to work longer hours",
+        "Comfort makes people less ambitious over time"
+      ],
+      "why": "Lesson 1 says our brains default to safety, so leaders who provide it free people to focus."
+    },
+    {
+      "q": "What example does the summary use of a company with a strong circle of safety?",
+      "a": [
+        "Google, with free food, open questions and time for experiments",
+        "A factory that tracks every minute of work",
+        "A bank that rewards only its top sellers",
+        "A startup that forbids employees from asking questions"
+      ],
+      "why": "Lesson 1 describes Google's perks as an environment where people can improve."
+    },
+    {
+      "q": "What trait does the summary call the most important for a leader?",
+      "a": [
+        "Empathy",
+        "Decisiveness",
+        "Charisma",
+        "Technical skill"
+      ],
+      "why": "Lesson 2 says empathy lets you care about people and be worth following."
+    },
+    {
+      "q": "What happened at the Peanut Corporation of America?",
+      "a": [
+        "It shipped contaminated peanuts to protect cash flow",
+        "It recalled products before anyone became ill",
+        "It gave all of its profits to employees",
+        "It closed after a long labor dispute"
+      ],
+      "why": "Lesson 2 uses it as an example of detached leaders harming people."
+    },
+    {
+      "q": "What does the summary say technology does to us?",
+      "a": [
+        "It turns us into performance addicts chasing quick dopamine hits",
+        "It makes us more patient and reflective",
+        "It reduces our need for social approval",
+        "It improves our long-term memory"
+      ],
+      "why": "Lesson 3 says likes and small wins substitute for harder, lasting achievements."
+    }
+  ]
+}

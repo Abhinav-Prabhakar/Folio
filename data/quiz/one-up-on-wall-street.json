@@ -1,0 +1,56 @@
+{
+  "book": "one-up-on-wall-street",
+  "title": "One Up on Wall Street",
+  "questions": [
+    {
+      "q": "According to Lynch, what should you invest in?",
+      "a": [
+        "Companies whose business you understand",
+        "Industries that everyone is talking about",
+        "Stocks trading at the lowest prices",
+        "Startups with no revenue yet"
+      ],
+      "why": "The overview says Lynch's approach comes down to putting money into companies you understand."
+    },
+    {
+      "q": "What is a tenbagger?",
+      "a": [
+        "A stock that rises to ten times its purchase value",
+        "A stock that pays ten dividends a year",
+        "A fund that holds ten different industries",
+        "A company with ten products on the market"
+      ],
+      "why": "Lesson 2 defines a tenbagger as a stock that has risen ten times its value since purchase."
+    },
+    {
+      "q": "Why might a dull or funny company name be a good sign?",
+      "a": [
+        "Wall Street may overlook it, so it stays undiscovered",
+        "Dull names are protected by law",
+        "Funny names attract institutional buyers",
+        "A name has no effect on stock performance"
+      ],
+      "why": "Lesson 2 says a dull or funny name may keep Wall Street from noticing a stock too early."
+    },
+    {
+      "q": "Which trait does Lynch list as a warning sign?",
+      "a": [
+        "A hot industry that everyone is chasing",
+        "Recurring customers who keep buying",
+        "A niche that competitors ignore",
+        "Insiders buying shares of the company"
+      ],
+      "why": "Lesson 3 lists a hyped industry as one of five warning signs to avoid."
+    },
+    {
+      "q": "How does Lynch classify slow growers?",
+      "a": [
+        "Large companies in mature industries",
+        "Small firms growing 20 percent a year",
+        "Companies recovering from bankruptcy",
+        "Firms whose value lies in hidden assets"
+      ],
+      "why": "Lesson 1 describes slow growers as large companies in mature industries that grow slowly."
+    }
+  ]
+}

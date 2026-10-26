@@ -1,0 +1,56 @@
+{
+  "book": "the-big-necessity",
+  "title": "The Big Necessity",
+  "questions": [
+    {
+      "q": "According to the summary, what would fixing sanitation worldwide cost, and what would it save?",
+      "a": [
+        "About $95 billion to fix, saving about $660 billion",
+        "About $660 billion to fix, saving about $95 billion",
+        "About $1 billion to fix, saving about $100 million",
+        "About $100 million to fix, saving about $1 billion"
+      ],
+      "why": "Lesson 1 sets the global bill at roughly $95 billion and the eventual saving at $660 billion, since prevention costs less than repair."
+    },
+    {
+      "q": "What did scientist Gary Ruvkun call the biggest factor in living a long, healthy life?",
+      "a": [
+        "Access to a toilet",
+        "Access to clean drinking water",
+        "A diet rich in vegetables",
+        "Regular medical checkups"
+      ],
+      "why": "Lesson 1 cites Ruvkun's view that toilet access matters most, and that it could add around 20 years to a person's lifespan."
+    },
+    {
+      "q": "Why does the summary criticize how USAID spends its budget?",
+      "a": [
+        "It funds clean water, which cuts diarrhea less than sanitation would",
+        "It ignores the need for clean water entirely",
+        "It spends most of its money building latrines",
+        "It puts education ahead of basic infrastructure"
+      ],
+      "why": "Lesson 2 says USAID spends 90 percent on water, which reduces diarrhea by 20 percent, rather than on sanitation, which would cut it by 40 percent."
+    },
+    {
+      "q": "How did Kamal Kar get villagers to change their sanitation habits?",
+      "a": [
+        "He showed them how much excrement surrounded their village",
+        "He paid each family to build its own latrine",
+        "He threatened fines for open defecation",
+        "He handed out free soap and medicine"
+      ],
+      "why": "Lesson 2 describes Kar walking villagers through the area and estimating 120,000 tons of waste, which disgusted them into a cleanup."
+    },
+    {
+      "q": "Which use of human waste does the summary describe?",
+      "a": [
+        "Converting it into biogas for cooking and power",
+        "Refining it into a substitute for cement",
+        "Filtering it into clean drinking water",
+        "Packing it into insulation for homes"
+      ],
+      "why": "Lesson 3 describes biogas digesters in rural China that turn waste into power and leave fertilizer behind, boosting vegetable yields."
+    }
+  ]
+}

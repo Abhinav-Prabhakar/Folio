@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-non-conformity",
+  "title": "The Art Of Non-Conformity",
+  "questions": [
+    {
+      "q": "Why does the author call a steady paycheck risky?",
+      "a": [
+        "It leaves your whole career at the mercy of one employer",
+        "Salaries rarely keep up with the cost of living",
+        "Regular work leaves no time to build skills",
+        "Employers prefer to hire freelancers instead"
+      ],
+      "why": "Lesson 1 argues that relying on one employer hands control of your income to someone else."
+    },
+    {
+      "q": "What does the summary mean by gatekeepers giving you the illusion of freedom?",
+      "a": [
+        "They offer choices within limits they set, leaving the important rules untouched",
+        "They promise promotions they never intend to grant",
+        "They let you work remotely but cut your pay",
+        "They encourage you to start your own business"
+      ],
+      "why": "Lesson 2 says gatekeepers hand you a set of options while deciding the things that really matter."
+    },
+    {
+      "q": "What did Tim DeChristopher do at the land auction?",
+      "a": [
+        "He signed up and outbid everyone without the money, and the sale was revoked",
+        "He paid the $1.7 million entry fee and bought the land",
+        "He organized a protest that shut the auction down",
+        "He sued the Bureau of Land Management and won"
+      ],
+      "why": "Lesson 2 tells how his bid exposed the unfair sale, which was later invalidated and the land protected."
+    },
+    {
+      "q": "What is legacy work in the summary?",
+      "a": [
+        "Work that uses your skills to help others and outlasts you",
+        "Work that builds a large inheritance for your family",
+        "Work you can hand over to a successor when you retire",
+        "Work that earns enough to let you stop early"
+      ],
+      "why": "Lesson 3 defines legacy work as applying your particular abilities to help others long after you are gone."
+    },
+    {
+      "q": "What tip does the summary give for tracking legacy work?",
+      "a": [
+        "Set a measurable target, such as a number of words or hours per day",
+        "Wait until you have enough savings to begin",
+        "Ask a mentor to review it once a year",
+        "Keep it private until it is finished"
+      ],
+      "why": "Lesson 3's pro tip suggests a concrete metric like 1,000 words a day or an hour of charity work."
+    }
+  ]
+}

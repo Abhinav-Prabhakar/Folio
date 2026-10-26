@@ -1,0 +1,56 @@
+{
+  "book": "superintelligence",
+  "title": "Superintelligence",
+  "questions": [
+    {
+      "q": "According to Bostrom, what limits AI progress today?",
+      "a": [
+        "Access to enough data rather than processing hardware",
+        "The lack of sufficiently fast processors",
+        "A shortage of trained programmers",
+        "The high cost of building robots"
+      ],
+      "why": "Lesson 1 says hardware is no longer the main constraint; feeding computers enough information is."
+    },
+    {
+      "q": "What held AI back after the 1956 Dartmouth workshop?",
+      "a": [
+        "Hardware could not handle the complex tasks",
+        "No useful algorithms had been invented",
+        "Governments banned the research",
+        "The public showed no interest"
+      ],
+      "why": "Lesson 1 says early machines could handle simple problems but lacked the power for complex ones."
+    },
+    {
+      "q": "What is whole brain emulation?",
+      "a": [
+        "Copying a human brain's data so a computer can simulate it",
+        "Training a computer on recordings of human speech",
+        "Building robots with human-like bodies",
+        "Linking many computers into one network"
+      ],
+      "why": "Lesson 2 describes WBE as simulating rather than merely imitating human thought."
+    },
+    {
+      "q": "Why does Bostrom warn against a secret government program building superintelligence?",
+      "a": [
+        "A single machine would be easy for one set of bad hands to misuse",
+        "It would cost far more than a global effort",
+        "It would take far longer to develop",
+        "It would give ordinary citizens too much power"
+      ],
+      "why": "Lesson 3 says if only one unit exists, one malicious actor could wipe out the species and few could fix it."
+    },
+    {
+      "q": "What makes global collaboration the safer route to superintelligence?",
+      "a": [
+        "Many parties and the public can oversee safety as it develops",
+        "It guarantees the technology arrives sooner",
+        "It keeps individual countries from learning the details",
+        "It removes the need for any regulation"
+      ],
+      "why": "Lesson 3 says an open, shared effort builds safety rules along the way, even if it moves more slowly."
+    }
+  ]
+}

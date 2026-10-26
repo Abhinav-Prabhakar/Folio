@@ -1,0 +1,56 @@
+{
+  "book": "the-hard-thing-about-hard-things",
+  "title": "The Hard Thing About Hard Things",
+  "questions": [
+    {
+      "q": "According to Horowitz, why is covering up a crisis a sucker's move?",
+      "a": [
+        "Information always leaks and you under-allocate resources",
+        "Employees will quit immediately upon discovering the truth",
+        "It prevents the board from taking legal action against you",
+        "It makes the company look weak to competitors"
+      ],
+      "why": "The crisis lesson lists two reasons: leaks are inevitable and secrecy starves the problem of needed resources."
+    },
+    {
+      "q": "Which type of CEO does Horowitz use Bill Gates as an example of?",
+      "a": [
+        "A One, the strategic visionary",
+        "A Two, the practical executor",
+        "A hybrid who balances both roles",
+        "A founder who never leaves the company"
+      ],
+      "why": "The Ones and Twos lesson explicitly names Bill Gates as a good example of a One."
+    },
+    {
+      "q": "What distinguishes a Two from a One in Horowitz's framework?",
+      "a": [
+        "Twos prefer execution and managing over strategic decisions",
+        "Twos are always more successful than Ones",
+        "Twos focus on fundraising while Ones focus on product",
+        "Twos avoid making any decisions at all"
+      ],
+      "why": "The Ones and Twos lesson describes Twos as practical CEOs who love to implement and direct teams."
+    },
+    {
+      "q": "What does the text say about the CEO's job being unnatural?",
+      "a": [
+        "You often have to go against what your instincts tell you",
+        "You must always follow your gut instinct",
+        "You should delegate all uncomfortable decisions",
+        "You need to hire a therapist to cope"
+      ],
+      "why": "The comfort lesson states the job is unnatural and you will often have to go against your instincts."
+    },
+    {
+      "q": "What company did Ben Horowitz sell to HP for $1.6 billion in 2007?",
+      "a": [
+        "Opsware",
+        "Oracle",
+        "Salesforce",
+        "Intuit"
+      ],
+      "why": "The overview states Horowitz sold Opsware to HP for $1.6 billion in cash in 2007."
+    }
+  ]
+}

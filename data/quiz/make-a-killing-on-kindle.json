@@ -1,0 +1,56 @@
+{
+  "book": "make-a-killing-on-kindle",
+  "title": "Make A Killing On Kindle",
+  "questions": [
+    {
+      "q": "Why does the author say social media and author platforms fail new writers?",
+      "a": [
+        "Their benefits only appear at a scale beginners do not yet have",
+        "Readers on those channels rarely buy any kind of book",
+        "Amazon penalizes authors who promote books elsewhere",
+        "They take too much time away from writing quality prose"
+      ],
+      "why": "Lesson 1 explains that both have long-term upside but are useless in the short term because they work at scale."
+    },
+    {
+      "q": "What makes a strong Kindle book title, according to the summary?",
+      "a": [
+        "It is short, clear and shows the result within two seconds",
+        "It is clever and makes readers pause to work out the meaning",
+        "It lists the author’s credentials and publishing history",
+        "It uses as many searchable keywords as possible"
+      ],
+      "why": "Lesson 2 says Amazon shoppers scan, so a title must be short, clear, attractive and instantly descriptive."
+    },
+    {
+      "q": "What does the author advise about designing your book’s cover?",
+      "a": [
+        "Pay a professional rather than doing it yourself",
+        "Design it yourself to save money at the start",
+        "Use the same template as other books in your category",
+        "Keep it plain so the title stands out instead"
+      ],
+      "why": "Lesson 2 is blunt: do not design the cover yourself; spend what you can on a professional."
+    },
+    {
+      "q": "How many good reviews early on can help push a book into its category’s top 10?",
+      "a": [
+        "About five or six in the first few days",
+        "At least fifty within the first month",
+        "A few hundred spread over a year",
+        "Only reviews from verified industry critics count"
+      ],
+      "why": "Lesson 3 says just five or six good reviews shortly after launch can take a book to the top 10."
+    },
+    {
+      "q": "What did the two inbox book titles show about naming a book?",
+      "a": [
+        "A title should communicate the end result immediately",
+        "A longer title usually ranks better in Amazon search",
+        "Puns and wordplay make a book more memorable",
+        "The subtitle matters far more than the main title"
+      ],
+      "why": "Lesson 2 compares the two titles to show that instant clarity about the outcome wins attention."
+    }
+  ]
+}

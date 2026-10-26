@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-aliveness",
+  "title": "The Art of Aliveness",
+  "questions": [
+    {
+      "q": "What does Bowley mean by your basket?",
+      "a": [
+        "The skills and tools you have mastered",
+        "The worries you carry into the studio",
+        "The people who support your creative work",
+        "The unfinished projects waiting for attention"
+      ],
+      "why": "Lesson 1 describes it as the knowledge and techniques you rely on."
+    },
+    {
+      "q": "Why should the basket stay behind you while you work?",
+      "a": [
+        "Relying only on the familiar prevents anything new",
+        "It takes up too much physical space",
+        "It contains tools that are out of date",
+        "It reminds you of past failures"
+      ],
+      "why": "Lesson 1 says growth ends when you only repeat what you know."
+    },
+    {
+      "q": "What are riverbanks?",
+      "a": [
+        "Deliberate limits that focus your creative energy",
+        "Periods of rest between projects",
+        "The people who critique your work",
+        "Goals you set once and never revise"
+      ],
+      "why": "Lesson 2 says constraints limit options and invite focus."
+    },
+    {
+      "q": "Why does Bowley value constraints?",
+      "a": [
+        "Too much freedom causes decision fatigue",
+        "They guarantee a polished final result",
+        "They keep critics from finding flaws",
+        "They make creative work easier to sell"
+      ],
+      "why": "Lesson 2 says less choice helps you zone in on a goal."
+    },
+    {
+      "q": "What role do rituals play in the summary?",
+      "a": [
+        "They turn grief, fear and anger into something useful",
+        "They preserve traditions from your childhood",
+        "They mark the end of each project",
+        "They separate work time from family time"
+      ],
+      "why": "Lesson 3 says ritual can convert grief into compassion and fear into insight."
+    }
+  ]
+}

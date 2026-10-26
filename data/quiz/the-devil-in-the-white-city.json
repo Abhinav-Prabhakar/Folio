@@ -1,0 +1,31 @@
+{
+  "book": "the-devil-in-the-white-city",
+  "title": "The Devil In The White City",
+  "questions": [
+    {
+      "q": "What was Chicago like at the end of the 1800s, according to the summary?",
+      "a": ["Violent and unsanitary, with police unable to keep up", "Peaceful and prosperous, with little crime", "Small and rural, with few industries", "Well policed but short of housing"],
+      "why": "Lesson 1 describes daily murders, disease-ridden water, trash-filled streets and an understaffed police force."
+    },
+    {
+      "q": "Why did the United States want to host its own world's fair?",
+      "a": ["To repair its cultural reputation after a poor showing in Paris", "To celebrate the end of a long economic depression", "To show Europe that it had won a recent war", "To raise money for Chicago's struggling police force"],
+      "why": "Lesson 2 explains that after an embarrassing display at France's fair, the US wanted to prove its cultural standing."
+    },
+    {
+      "q": "What problems did Burnham face while preparing the fair?",
+      "a": ["A recession, labor unrest, quarreling officials and bad weather", "A shortage of architects and a lack of land", "Flooding that destroyed the fairgrounds", "A boycott by foreign exhibitors"],
+      "why": "Lesson 2 lists those obstacles and notes that the fair still opened on time in 1893."
+    },
+    {
+      "q": "Which attractions debuted at the World's Columbian Exposition?",
+      "a": ["The Ferris Wheel, the zipper and an all-electric kitchen", "The telephone, the airplane and the radio", "The escalator, the typewriter and the telegraph", "The automobile, the phonograph and the camera"],
+      "why": "Lesson 3 lists the first Ferris Wheel, the zipper and an electric kitchen among the fair's innovations."
+    },
+    {
+      "q": "How did Holmes use the fair to reach his victims?",
+      "a": ["He ran a hotel that appealed to visiting fairgoers", "He worked as a guard at the fair's entrance", "He sold tickets to a fake exhibit", "He posed as a doctor treating fair workers"],
+      "why": "Lesson 3 says his charming hotel, close to the fair, drew guests into a building rigged as a death trap."
+    }
+  ]
+}

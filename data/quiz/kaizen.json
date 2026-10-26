@@ -1,0 +1,56 @@
+{
+  "book": "kaizen",
+  "title": "Kaizen",
+  "questions": [
+    {
+      "q": "Where did kaizen begin?",
+      "a": [
+        "As a business method used to help Japan rebuild after the war",
+        "As a martial arts training ritual for young students",
+        "As a Japanese religious practice centered on gratitude",
+        "As a farming technique developed in ancient China"
+      ],
+      "why": "Lesson 1 says the US brought the idea to Japanese industry, where Toyota used it."
+    },
+    {
+      "q": "What does the summary recommend doing before changing your habits?",
+      "a": [
+        "Inventory your life by area and note your biggest aspirations",
+        "Pick one habit and change it immediately",
+        "Ask friends to score your habits honestly",
+        "Write down only the habits you want to quit"
+      ],
+      "why": "Lesson 1 says to divide your life into areas and examine each one honestly."
+    },
+    {
+      "q": "What did the British cycling team do to improve?",
+      "a": [
+        "They made tiny improvements to every component, down to nutrition",
+        "They hired only the strongest riders available",
+        "They redesigned the rules of the sport",
+        "They trained only for the biggest races"
+      ],
+      "why": "Lesson 2 says small one-percent gains added up to Olympic gold."
+    },
+    {
+      "q": "Why is it easier to fall back on a bad habit than build a good one?",
+      "a": [
+        "Bad habits reward you right away, while good changes pay off later",
+        "Bad habits require more effort and practice to learn",
+        "Good habits need expensive equipment and coaching",
+        "Bad habits are inherited genetically from parents"
+      ],
+      "why": "Lesson 2 says instant rewards make bad habits appealing."
+    },
+    {
+      "q": "What tracking method did Hani Motoko create?",
+      "a": [
+        "Kakeibo, a journal for recording income and expenses",
+        "A weekly checklist of household chores",
+        "A calendar for tracking meditation sessions",
+        "A chart for recording exercise milestones"
+      ],
+      "why": "Lesson 3 says she invented kakeibo to help women track spending habits."
+    }
+  ]
+}

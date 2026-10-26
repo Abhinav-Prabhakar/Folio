@@ -1,0 +1,56 @@
+{
+  "book": "the-case-against-education",
+  "title": "The Case Against Education",
+  "questions": [
+    {
+      "q": "What was the author's experience with a physics class in their Civil Engineering program?",
+      "a": [
+        "It focused on light and relativity and was required for accreditation",
+        "It was optional but recommended for engineering students",
+        "It covered thermodynamics needed for structural analysis",
+        "It was a lab-based course on fluid dynamics"
+      ],
+      "why": "Lesson 1 describes the author taking a physics class on light and relativity, told by the dean it was required for accreditation."
+    },
+    {
+      "q": "According to the book, why do college graduates earn higher salaries?",
+      "a": [
+        "The degree signals that they possess hardworking character traits",
+        "The classroom training makes them more skilled employees",
+        "They develop new technical abilities during their studies",
+        "Employers pay more because graduates have broader knowledge"
+      ],
+      "why": "Lesson 2 explains that the diploma is evidence of pre-existing character traits, not that school builds them."
+    },
+    {
+      "q": "What is human capital theory described as in the book?",
+      "a": [
+        "A flawed system that explains why graduates earn more",
+        "A proven model of workforce productivity",
+        "A government policy on education funding",
+        "A method for measuring job satisfaction"
+      ],
+      "why": "Lesson 2 calls human capital theory a flawed system used by economists to explain the wage gap."
+    },
+    {
+      "q": "What does the book suggest as a first step to fixing education?",
+      "a": [
+        "Abandoning the belief that more education is always better than none",
+        "Increasing government funding for public schools",
+        "Making all college courses directly job-related",
+        "Replacing traditional grading with project-based assessment"
+      ],
+      "why": "Lesson 3 states we need to forsake the misguided idea that it is always better to have more education."
+    },
+    {
+      "q": "What did the dean tell the author when asked about the useless physics class?",
+      "a": [
+        "That it was required for the program to be accredited",
+        "That it would prove useful in the long run",
+        "That the curriculum was under review for changes",
+        "That it was a personal choice by the department"
+      ],
+      "why": "Lesson 1 recounts the author asking the dean in an exit interview and being told it was an accreditation requirement."
+    }
+  ]
+}

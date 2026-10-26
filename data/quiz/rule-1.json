@@ -1,0 +1,56 @@
+{
+  "book": "rule-1",
+  "title": "Rule #1",
+  "questions": [
+    {
+      "q": "What question does the summary say you should ask before investing in a company?",
+      "a": [
+        "Would I buy this whole business if I could?",
+        "Will the stock price rise again this week?",
+        "How many shares can I afford to buy today?",
+        "What do other investors think of the company?"
+      ],
+      "why": "Lesson 1 says imagining a full purchase forces you to do your homework and notice shady practices."
+    },
+    {
+      "q": "What is an economic moat in the summary?",
+      "a": [
+        "A lasting advantage that protects a company from rivals",
+        "A tax break granted to new businesses",
+        "A loan used to buy shares on margin",
+        "A fee paid to a stockbroker"
+      ],
+      "why": "Lesson 2 explains a moat as a kind of monopoly position that keeps a company profitable for years."
+    },
+    {
+      "q": "Which company does the summary use as an example of a strong brand moat?",
+      "a": [
+        "Coca-Cola, recognized all over the world",
+        "A startup in its first funding round",
+        "A retailer running temporary sales",
+        "A bank with a popular chief executive"
+      ],
+      "why": "Lesson 2 says even remote communities wear Coca-Cola shirts, showing the reach of its brand."
+    },
+    {
+      "q": "What is the margin of safety in the summary?",
+      "a": [
+        "The gap between a stock's true value and its price",
+        "The amount of cash kept in a savings account",
+        "The fee charged when you sell a stock",
+        "The number of shares held in a portfolio"
+      ],
+      "why": "Lesson 3 defines it as the value per share you calculate minus the current share price."
+    },
+    {
+      "q": "How large a margin of safety does the author recommend before buying?",
+      "a": [
+        "At least 50 percent",
+        "At least 10 percent",
+        "At least 25 percent",
+        "At least 75 percent"
+      ],
+      "why": "Lesson 3 gives a stock worth $200 trading at $100 as a 50 percent margin, the minimum the author advises."
+    }
+  ]
+}

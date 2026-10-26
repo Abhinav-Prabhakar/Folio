@@ -1,0 +1,56 @@
+{
+  "book": "the-everything-store",
+  "title": "The Everything Store",
+  "questions": [
+    {
+      "q": "What was Amazon's original product focus?",
+      "a": [
+        "Books",
+        "Electronics",
+        "Clothing",
+        "Music"
+      ],
+      "why": "The book notes Amazon started by selling only books."
+    },
+    {
+      "q": "How did Amazon handle publisher bans on public reviews?",
+      "a": [
+        "Allowed reviews anyway",
+        "Ignored reviews",
+        "Deleted all reviews",
+        "Charged for reviews"
+      ],
+      "why": "Amazon let people publicly review books despite publisher objections."
+    },
+    {
+      "q": "What long‑term project does Bezos support to illustrate thinking decades ahead?",
+      "a": [
+        "A 10,000‑year underground clock",
+        "A Mars colony",
+        "A space elevator",
+        "A global Wi‑Fi network"
+      ],
+      "why": "Bezos backs a gigantic clock in Texas that will run for 10,000 years."
+    },
+    {
+      "q": "What symbolic award does Amazon give for the best idea, even if it fails?",
+      "a": [
+        "Just Do It award with a giant Nike shoe",
+        "Employee of the Year trophy",
+        "Gold Amazon badge",
+        "Best Customer Service medal"
+      ],
+      "why": "Amazon's \"Just Do It\" award includes an oversized Nike shoe."
+    },
+    {
+      "q": "Why did Amazon adopt a DIY policy after the dot‑com bust?",
+      "a": [
+        "To bring innovation in‑house after losing startup investments",
+        "To cut costs on marketing",
+        "To outsource logistics",
+        "To focus on book sales"
+      ],
+      "why": "Losses from startup investments led Amazon to innovate internally."
+    }
+  ]
+}

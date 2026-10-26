@@ -1,0 +1,56 @@
+{
+  "book": "reasons-to-stay-alive",
+  "title": "Reasons To Stay Alive",
+  "questions": [
+    {
+      "q": "How did reading help Haig, according to the summary?",
+      "a": [
+        "Alienated characters made him feel less alone",
+        "It let him escape from his family",
+        "It gave him a step-by-step cure",
+        "It distracted him from his work"
+      ],
+      "why": "Lesson 1 says finding characters who felt alienated helped him see he was not alone."
+    },
+    {
+      "q": "Which two leaders does the summary name as having depression?",
+      "a": [
+        "Winston Churchill and Abraham Lincoln",
+        "Nelson Mandela and Mahatma Gandhi",
+        "Theodore Roosevelt and John Kennedy",
+        "Napoleon Bonaparte and Julius Caesar"
+      ],
+      "why": "Lesson 2 mentions both leaders as examples of successful people who struggled silently."
+    },
+    {
+      "q": "What benefit of mental illness does the summary mention?",
+      "a": [
+        "Greater empathy and sensitivity to danger",
+        "Immunity to stress over time",
+        "A more logical decision-making style",
+        "A shorter and easier recovery"
+      ],
+      "why": "Lesson 2 says depression can deepen empathy and perception, as it may have for Lincoln and Churchill."
+    },
+    {
+      "q": "What does the summary say about recovery from mental illness?",
+      "a": [
+        "It is possible but does not follow a straight line",
+        "It happens quickly with the right pill",
+        "It requires avoiding all social contact",
+        "It ends once the symptoms disappear"
+      ],
+      "why": "Lesson 3 says the healing process is not linear and Haig still lives with his illness."
+    },
+    {
+      "q": "Which habit does Haig use to quiet his racing thoughts?",
+      "a": [
+        "Yoga and meditation",
+        "Long-distance travel",
+        "Working longer hours",
+        "Strict dieting"
+      ],
+      "why": "Lesson 3 lists yoga and meditation among the tools that reduce the intensity of his thoughts."
+    }
+  ]
+}

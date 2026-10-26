@@ -1,0 +1,56 @@
+{
+  "book": "suggestible-you",
+  "title": "Suggestible You",
+  "questions": [
+    {
+      "q": "How does the placebo effect produce real relief?",
+      "a": [
+        "The brain releases chemicals like endorphins based on expectation",
+        "The treatment contains a small dose of the active drug",
+        "The body gradually repairs itself with no outside input",
+        "The treatment directly stimulates the immune system"
+      ],
+      "why": "Lesson 1 says the brain already holds the chemicals it needs and releases them when it expects relief."
+    },
+    {
+      "q": "In the milkshake study, what happened when both shakes had the same calories?",
+      "a": [
+        "The luxurious label made it taste better and the diet label raised hunger",
+        "The full-fat label made people eat less overall",
+        "Neither group could tell the two shakes apart",
+        "The diet group reported feeling fuller for longer"
+      ],
+      "why": "Lesson 2 says the fancier label earned higher taste ratings while the diet label triggered more ghrelin."
+    },
+    {
+      "q": "Which hormone rose in people who believed they were drinking the diet shake?",
+      "a": [
+        "Ghrelin, which signals hunger",
+        "Dopamine, which signals reward",
+        "Serotonin, which lifts mood",
+        "Endorphin, which dulls pain"
+      ],
+      "why": "Lesson 2 says ghrelin tells us we are hungry, and expecting fewer calories was enough to raise it."
+    },
+    {
+      "q": "What does lesson 3 say you should understand first before using expectation?",
+      "a": [
+        "Your own personality and the kinds of stories that inspire you",
+        "The latest clinical trials on placebo treatments",
+        "Your family's full medical history",
+        "The going rate for alternative therapies"
+      ],
+      "why": "Lesson 3 says to find what captures your individual imagination and suits how suggestible you are."
+    },
+    {
+      "q": "Which warning does the author give about using the power of expectation?",
+      "a": [
+        "Don't abandon proper medical treatment for alternative remedies",
+        "Don't discuss your beliefs with your doctor",
+        "Don't try hypnosis without a partner present",
+        "Don't rely on rituals you invented yourself"
+      ],
+      "why": "Lesson 3 says alternative therapies can help but should be used alongside needed medical treatment."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "resilience",
+  "title": "Resilience",
+  "questions": [
+    {
+      "q": "How does the summary define resilience?",
+      "a": [
+        "The ability to bounce back from adversity",
+        "The habit of avoiding situations that cause pain",
+        "A talent that only a few people are born with",
+        "The confidence that nothing bad will ever happen"
+      ],
+      "why": "The overview calls resilience the ability to bounce back from adversity and stresses that it can be learned."
+    },
+    {
+      "q": "How does the summary suggest you should treat hardship?",
+      "a": [
+        "As a natural part of life that can be faced with bravery",
+        "As a sign that you have chosen the wrong path",
+        "As something to hide from friends and family",
+        "As a problem that only willpower can erase"
+      ],
+      "why": "Lesson 1 says accepting hardship as a normal part of life is an essential truth that makes things easier to handle."
+    },
+    {
+      "q": "What does the author say you should do when you miss your plans or targets?",
+      "a": [
+        "Take responsibility for the failure",
+        "Lower the target immediately",
+        "Wait for motivation to return",
+        "Blame circumstances outside your control"
+      ],
+      "why": "Lesson 2 says that when you fall short you should own the failure, because building your life is up to you."
+    },
+    {
+      "q": "According to the summary, what helps resilience grow over time?",
+      "a": [
+        "Reflecting on mistakes and setting meaningful goals",
+        "Avoiding all risk until you feel completely ready",
+        "Comparing your progress with other people",
+        "Keeping your goals private and vague"
+      ],
+      "why": "Lesson 3 pairs honest reflection on failure with goals that give your life purpose and drive."
+    },
+    {
+      "q": "Why does the summary recommend goals that genuinely inspire you?",
+      "a": [
+        "They make hardship easier to face and give life purpose",
+        "They guarantee that you will never fail again",
+        "They remove the need for daily habits",
+        "They impress other people more than small goals do"
+      ],
+      "why": "Lesson 3 argues you are more likely to endure hardship when you are working toward something that matters to you."
+    }
+  ]
+}

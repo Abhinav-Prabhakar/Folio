@@ -1,0 +1,31 @@
+{
+  "book": "mindful-work",
+  "title": "Mindful Work",
+  "questions": [
+    {
+      "q": "What does the summary say happens in the brain of someone who practices mindfulness?",
+      "a": ["The amygdala becomes less active and stress falls", "The prefrontal cortex shuts down completely", "Gray matter is gradually replaced by white matter", "The fight-or-flight response becomes much stronger"],
+      "why": "Lesson 1 says meditation calms the amygdala, the area behind stress and fight-or-flight."
+    },
+    {
+      "q": "What does neuroplasticity mean, according to the summary?",
+      "a": ["The brain's ability to change itself", "The brain's store of childhood memories", "The mind's refusal to form new habits", "The body's physical response to meditation"],
+      "why": "Lesson 1 describes neuroplasticity as the brain's ability to modify itself, which meditation unlocks."
+    },
+    {
+      "q": "What does the summary advise when your mind starts to wander at work?",
+      "a": ["Observe your thoughts without holding on to them", "Write every thought down in a notebook", "Switch to a more interesting task", "Block out all external noise with music"],
+      "why": "Lesson 2 suggests watching thoughts from an outside perspective instead of grabbing hold of them."
+    },
+    {
+      "q": "Why are mindful leaders better at handling challenges?",
+      "a": ["They split problems into manageable parts", "They avoid asking others for help", "They make decisions faster than anyone", "They ignore tension until it passes"],
+      "why": "Lesson 3 says self-awareness lets them see limits, delegate and break challenges down."
+    },
+    {
+      "q": "What effect does a mindful leader have on a company, according to the summary?",
+      "a": ["Employees copy the leader and the whole team improves", "Employees compete harder for promotions", "The company needs far fewer meetings", "The company grows faster than its competitors"],
+      "why": "Lesson 3 says the leader's influence ripples outward as employees try to emulate them."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "so-you-want-to-talk-about-race",
+  "title": "So You Want To Talk About Race",
+  "questions": [
+    {
+      "q": "According to Ijeoma Oluo, when should you treat an issue as being about race?",
+      "a": [
+        "When a person of color says it is, no questions asked",
+        "Only when someone uses an explicitly racist slur",
+        "Only when a court or official body rules that it is",
+        "When people of different races disagree about it"
+      ],
+      "why": "Lesson 1 says that if a person of color thinks an issue is about race, it is, without further debate."
+    },
+    {
+      "q": "What does Oluo recommend doing at the start of a conversation about race?",
+      "a": [
+        "Explain why you want to talk so the other person can decide to engage",
+        "Ask the other person to explain their experiences first",
+        "Keep your reasons private so the talk feels natural",
+        "Wait until the other person raises the subject themselves"
+      ],
+      "why": "Lesson 2 advises stating your reasons up front so the other person can choose whether to take part."
+    },
+    {
+      "q": "What else does the summary say you should do before a conversation about race?",
+      "a": [
+        "Research the topic yourself rather than expecting others to educate you",
+        "Rehearse your arguments so you can win the discussion",
+        "Bring a friend along to support your point of view",
+        "Wait until you feel completely free of bias"
+      ],
+      "why": "Lesson 2 says it is not the job of people of color to explain things you could look up yourself."
+    },
+    {
+      "q": "What does the summary identify as the first step of the school-to-prison pipeline?",
+      "a": [
+        "Suspension, which breaks kids’ trust in school",
+        "Poor grades in core academic subjects",
+        "A lack of after-school activities",
+        "Placement in special education classes"
+      ],
+      "why": "Lesson 3 says the pipeline begins with suspension, which damages trust and self-esteem."
+    },
+    {
+      "q": "How does racial bias show up in school discipline, according to the summary?",
+      "a": [
+        "Children of color are punished more often and more harshly than white children",
+        "White children are suspended for minor misbehavior more often",
+        "All students receive the same punishment for the same offense",
+        "Teachers avoid punishing anyone for minor misbehavior"
+      ],
+      "why": "Lesson 3 reports that administrators punish children of color more often and more severely for even small things."
+    }
+  ]
+}

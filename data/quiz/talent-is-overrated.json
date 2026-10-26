@@ -1,0 +1,56 @@
+{
+  "book": "talent-is-overrated",
+  "title": "Talent Is Overrated",
+  "questions": [
+    {
+      "q": "What did the 1990 study of 257 musicians find?",
+      "a": [
+        "Top performers showed no early talent and improved at the same rate",
+        "Top performers showed obvious gifts from their first lessons",
+        "Top performers practiced far less than their peers",
+        "Top performers started playing at a much later age"
+      ],
+      "why": "Lesson 1 says the best musicians had no head start and needed just as much practice as everyone else."
+    },
+    {
+      "q": "What distinction does Colvin draw in lesson 1?",
+      "a": [
+        "Practice is not the same thing as experience",
+        "Talent matters more than effort in the long run",
+        "Experience always produces steady improvement",
+        "Practice only works for young children"
+      ],
+      "why": "Lesson 1 says repeating the same job builds the same experience rather than new skill."
+    },
+    {
+      "q": "How much older are Nobel winners today than a century ago when they make their breakthrough?",
+      "a": [
+        "About six years older",
+        "About two years older",
+        "About ten years older",
+        "About the same age"
+      ],
+      "why": "Lesson 2 uses the six-year shift to show that mastering a field now takes longer than it used to."
+    },
+    {
+      "q": "Which advantage does a child have when starting deliberate practice?",
+      "a": [
+        "Fewer adult responsibilities and more time to practice",
+        "A stronger tolerance for failure and criticism",
+        "Better access to expert coaching",
+        "More money to spend on lessons"
+      ],
+      "why": "Lesson 2 lists time, a family support network and a young, fast-learning brain."
+    },
+    {
+      "q": "What is the multiplier effect in lesson 3?",
+      "a": [
+        "A slight early edge brings more motivation, coaching and support",
+        "Doubling your practice time doubles your skill",
+        "Talent grows automatically as a person gets older",
+        "Competition pushes peers to improve together"
+      ],
+      "why": "Lesson 3 says being a little better than peers triggers outside support that compounds the advantage."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "spin-selling",
+  "title": "SPIN Selling",
+  "questions": [
+    {
+      "q": "What do the four letters of SPIN stand for?",
+      "a": [
+        "Situation, problem, implication, need-payoff",
+        "Story, pitch, interest, negotiation",
+        "Situation, product, incentive, network",
+        "Service, price, innovation, need"
+      ],
+      "why": "Lesson 1 lays out the four kinds of questions that make up the SPIN method."
+    },
+    {
+      "q": "What is the purpose of implication questions?",
+      "a": [
+        "To help the client see how serious their problem is",
+        "To gather basic facts about their current setup",
+        "To find out what they intend to do about the problem",
+        "To compare your price with your competitors’ prices"
+      ],
+      "why": "Lesson 1 says implication questions reveal the consequences of a problem the client has been treating as minor."
+    },
+    {
+      "q": "How does the summary define a feature?",
+      "a": [
+        "A bare fact about the product that does little to sell it",
+        "A promise about what the product will do for the buyer",
+        "A need the customer already knows they have",
+        "A discount offered to close the deal"
+      ],
+      "why": "Lesson 2 calls features mere facts, like RAM or screen size, which most buyers barely understand."
+    },
+    {
+      "q": "What makes a benefit different from an advantage?",
+      "a": [
+        "It matches the product’s ability to a specific need the client has",
+        "It lists more technical specifications than an advantage",
+        "It is only used when closing the sale",
+        "It focuses on the company rather than the customer"
+      ],
+      "why": "Lesson 2 says benefits connect what the product does with what matters to that particular client."
+    },
+    {
+      "q": "How does the summary recommend learning the SPIN technique?",
+      "a": [
+        "Practice one stage at a time and accept a lot of mistakes",
+        "Master all four stages in a single intensive session",
+        "Study the theory until you can recite it perfectly",
+        "Try it first on your most important clients"
+      ],
+      "why": "Lesson 3 advises one step at a time, quantity of attempts over polish, and practice on smaller clients first."
+    }
+  ]
+}

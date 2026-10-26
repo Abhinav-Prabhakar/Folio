@@ -1,0 +1,31 @@
+{
+  "book": "brave-new-world",
+  "title": "Brave New World",
+  "questions": [
+    {
+      "q": "How does the summary distinguish Brave New World's dystopia from that of 1984?",
+      "a": ["Its people are enslaved by pleasure rather than pain", "Its government rules through constant surveillance", "Its citizens are forbidden from taking any drugs", "Its society has abandoned science entirely"],
+      "why": "The overview contrasts it with 1984 by noting that pleasure, rather than pain, keeps the citizens captive."
+    },
+    {
+      "q": "How are people created and conditioned in the London of the novel?",
+      "a": ["They are grown in bottles and sleep-taught their caste", "They are raised in family homes by trained parents", "They are chosen by lottery from the general public", "They are cloned from a single ruling family"],
+      "why": "Lesson 1 describes humans grown in bottles as Alphas through Epsilons and conditioned from birth to accept their caste and consume."
+    },
+    {
+      "q": "What role does soma play in the society described?",
+      "a": ["It is a drug that keeps everyone content", "It is a test used to assign people to castes", "It is a medicine that restores painful emotions", "It is a ritual performed at Solidarity Service"],
+      "why": "Lesson 1 calls soma the perfect drug, one of the easy pleasures people are conditioned to prioritize over meaning."
+    },
+    {
+      "q": "According to the summary, what is the main source of suffering for the novel's main characters?",
+      "a": ["Feeling that they do not fit in with their group", "Having too little access to soma and comfort", "Being forced to read Shakespeare in school", "Fearing that their caste will be abolished"],
+      "why": "Lesson 2 says every main character is somehow different from the group they should fit into, and this is their worst suffering."
+    },
+    {
+      "q": "What does John the Savage mean when he claims the right to be unhappy?",
+      "a": ["Genuine happiness requires the possibility of suffering", "Misery is always preferable to any comfort", "People should reject all forms of community", "Unhappiness proves that a society is stable"],
+      "why": "Lesson 3 argues that manufactured contentment is hollow, and that rejecting suffering also rejects deep, real happiness."
+    }
+  ]
+}

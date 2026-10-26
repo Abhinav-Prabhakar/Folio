@@ -1,0 +1,56 @@
+{
+  "book": "the-first-90-days",
+  "title": "The First 90 Days",
+  "questions": [
+    {
+      "q": "What is the first step in Watkins' 7‑step checklist?",
+      "a": [
+        "Make a clean mental break",
+        "Assess your problem",
+        "Set goals",
+        "Build a team"
+      ],
+      "why": "Step one is to make a clean mental break."
+    },
+    {
+      "q": "What does the STARS model stand for?",
+      "a": [
+        "Start‑up, Turnaround, Accelerated growth, Realignment, Sustaining success",
+        "Strategy, Tactics, Analysis, Results, Success",
+        "Sales, Training, Accounting, Reporting, Service",
+        "Systems, Technology, Automation, Risk, Security"
+      ],
+      "why": "STARS is an acronym for five business situations."
+    },
+    {
+      "q": "Which conversation focuses on expectations?",
+      "a": [
+        "Expectations",
+        "Situational diagnosis",
+        "Resources",
+        "Timeline"
+      ],
+      "why": "Conversation two is about expectations."
+    },
+    {
+      "q": "What does the author say about micromanaging?",
+      "a": [
+        "It keeps you in old role",
+        "It improves performance",
+        "It saves time",
+        "It builds trust"
+      ],
+      "why": "Micromanaging keeps her in her old role."
+    },
+    {
+      "q": "What is a key reason new roles fail?",
+      "a": [
+        "Holding onto old habits",
+        "Lack of training",
+        "Too many tasks",
+        "Poor communication"
+      ],
+      "why": "The hardest part is letting go of the old role."
+    }
+  ]
+}

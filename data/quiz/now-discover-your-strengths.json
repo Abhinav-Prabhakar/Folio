@@ -1,0 +1,56 @@
+{
+  "book": "now-discover-your-strengths",
+  "title": "Now, Discover Your Strengths",
+  "questions": [
+    {
+      "q": "How do the authors define a strength?",
+      "a": [
+        "Something you can do well repeatedly and enjoy",
+        "A skill you learned through hard practice",
+        "A talent you inherited from your parents",
+        "The thing your employer values most"
+      ],
+      "why": "Lesson 1 defines a strength as an activity you can do repeatedly to perfection and enjoy."
+    },
+    {
+      "q": "What did Gallup's survey of 198,000 workers find?",
+      "a": [
+        "Using strengths daily linked to less turnover and better results",
+        "Most workers used their strengths every day",
+        "Weakness training raised customer satisfaction",
+        "Turnover was unrelated to how work felt"
+      ],
+      "why": "Lesson 1 says employees who used strengths daily were more likely to be in lower-turnover, more productive firms."
+    },
+    {
+      "q": "What is a talent, per the summary?",
+      "a": [
+        "A thought or behavior pattern that makes things easier",
+        "A skill built only through repetition",
+        "A habit learned in childhood",
+        "A subject you studied at school"
+      ],
+      "why": "Lesson 2 defines talent as a thought or behavior pattern that makes something easier than it is for most people."
+    },
+    {
+      "q": "How is a strength built?",
+      "a": [
+        "By refining a talent with skills and knowledge",
+        "By correcting your worst weakness",
+        "By copying what successful people do",
+        "By waiting for the right opportunity"
+      ],
+      "why": "Lesson 2 says developing a strength means refining natural talent with skills and knowledge."
+    },
+    {
+      "q": "How can you spot your own talents?",
+      "a": [
+        "Watch your instinctive reactions and what you learn fast",
+        "Ask friends to list your flaws",
+        "Take a test of general intelligence",
+        "Review your annual work targets"
+      ],
+      "why": "Lesson 3 suggests watching everyday reactions, childhood interests and things you pick up quickly."
+    }
+  ]
+}

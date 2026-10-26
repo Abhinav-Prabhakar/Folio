@@ -1,0 +1,56 @@
+{
+  "book": "hood-feminism",
+  "title": "Hood Feminism",
+  "questions": [
+    {
+      "q": "Why did Kendall's grandmother not consider herself a feminist?",
+      "a": [
+        "She felt feminism mainly looked out for white women",
+        "She believed women should not work outside the home",
+        "She thought feminism ignored the needs of men",
+        "She had never heard of the women's movement"
+      ],
+      "why": "Lesson 1 says her grandmother, a woman of color, saw feminism as a movement that served white women."
+    },
+    {
+      "q": "Which needs does Kendall say mainstream feminism tends to overlook?",
+      "a": [
+        "Poverty, hunger and secure housing",
+        "Access to birth control and reproductive care",
+        "Equal pay and workplace advancement",
+        "Representation in film and advertising"
+      ],
+      "why": "Lesson 1 argues feminists focus on issues like birth control while many women struggle for food, housing and health care."
+    },
+    {
+      "q": "What is carceral feminism?",
+      "a": [
+        "Relying on law enforcement to address gendered violence",
+        "Arguing that prisons should be abolished entirely",
+        "Focusing feminism only on economic inequality",
+        "Treating feminism as a matter of personal choice"
+      ],
+      "why": "Lesson 2 defines carceral feminism as the assumption that police and punishment will deliver justice for victims."
+    },
+    {
+      "q": "Why can involving the police make things worse for some minority women?",
+      "a": [
+        "They may lose income or even face charges themselves",
+        "Police usually refuse to investigate their cases at all",
+        "Courts rarely allow them to testify in trials",
+        "Their communities punish them for reporting violence"
+      ],
+      "why": "Lesson 2 says survivors may be left without income, and women who defend themselves can end up prosecuted."
+    },
+    {
+      "q": "What separates an accomplice from an ally, according to Kendall?",
+      "a": [
+        "An accomplice takes action even when it brings no personal benefit",
+        "An ally speaks publicly while an accomplice works privately",
+        "An accomplice focuses on charity rather than politics",
+        "An ally challenges bias while an accomplice avoids conflict"
+      ],
+      "why": "Lesson 3 says accomplices act against white supremacy and defend marginalized communities regardless of personal gain."
+    }
+  ]
+}

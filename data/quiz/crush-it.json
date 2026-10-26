@@ -1,0 +1,56 @@
+{
+  "book": "crush-it",
+  "title": "Crush It",
+  "questions": [
+    {
+      "q": "According to the summary, what must you do to make money from your passion?",
+      "a": [
+        "Turn yourself into a brand",
+        "Build a physical store",
+        "Hire a marketing agency",
+        "Wait for the right moment"
+      ],
+      "why": "Lesson 1 says you can profit by being yourself, but only once you have built a public brand."
+    },
+    {
+      "q": "What did Gary do to establish his own brand?",
+      "a": [
+        "Talked about wine in everyday terms across many YouTube episodes",
+        "Wrote a newspaper column about the restaurant industry",
+        "Ran television ads for his family's wine business",
+        "Hosted a weekly radio show about marketing"
+      ],
+      "why": "Lesson 1 describes his 1,000 YouTube episodes about wine as the start of his brand."
+    },
+    {
+      "q": "How should you choose which online platform to use?",
+      "a": [
+        "Pick one that matches your personality and strengths",
+        "Choose whichever platform has the most users that year",
+        "Use every platform equally, no matter your style",
+        "Start with the platform your competitors use most"
+      ],
+      "why": "Lesson 2 recommends matching the medium to who you are, such as video for extroverts or blogs for long-winded writers."
+    },
+    {
+      "q": "What example shows a mismatch between a person and a platform?",
+      "a": [
+        "A long-winded writer struggling to fit ideas into short tweets",
+        "An introvert posting long essays on a blogging site",
+        "A photographer sharing images on a photo app",
+        "A speaker publishing recordings of talks as a podcast"
+      ],
+      "why": "Lesson 2 uses the author's own difficulty with Twitter's character limit as the example."
+    },
+    {
+      "q": "What does the summary say about being authentic and losing some followers?",
+      "a": [
+        "You will lose people either way, so keep being yourself",
+        "You should tone down your personality to keep everyone",
+        "You should copy whoever is most popular on the platform",
+        "You should hide your real interests until you are famous"
+      ],
+      "why": "Lesson 3 argues that authenticity always turns some people off, so it is better to lose those who would not like the real you."
+    }
+  ]
+}

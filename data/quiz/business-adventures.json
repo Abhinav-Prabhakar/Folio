@@ -1,0 +1,31 @@
+{
+  "book": "business-adventures",
+  "title": "Business Adventures",
+  "questions": [
+    {
+      "q": "What triggered the 1962 flash crash?",
+      "a": ["Investors panicked over prices that were 45 minutes behind", "A sudden jump in interest rates", "News of a major bank failure", "A government ban on stock trading"],
+      "why": "Lesson 1 explains that delayed price updates made investors assume stocks had fallen, so they rushed to sell."
+    },
+    {
+      "q": "What helped stop the market's slide during the 1962 crash?",
+      "a": ["Buyers stepped in once the Dow neared 500 points", "The government suspended trading for a week", "Banks offered emergency loans to investors", "Investors learned prices were actually rising"],
+      "why": "Lesson 1 says confidence that the Dow could not fall below 500 points prompted buying and a full recovery."
+    },
+    {
+      "q": "What was Ford's first mistake with the Edsel?",
+      "a": ["Misjudging the market the car was designed for", "Spending too little on advertising", "Building too few cars to meet demand", "Launching without any market research"],
+      "why": "Lesson 2 says Ford planned a medium-priced car for a strong market that had shifted to cheaper cars by launch."
+    },
+    {
+      "q": "What did Ford's heavy promotion of the Edsel achieve?",
+      "a": ["It raised expectations the car could not meet", "It convinced buyers the car was cheap", "It hid the car's technical flaws", "It made the car a status symbol"],
+      "why": "Lesson 2 notes that after advertising a huge investment, Ford released a car that was ordinary and poorly built."
+    },
+    {
+      "q": "How did the court rule in Donald Wohlgemuth's case?",
+      "a": ["He could change jobs even if he might reveal secrets", "His former employer could block the move", "He had to wait two years before switching", "He owed his former employer compensation"],
+      "why": "Lesson 3 says the judge sided with Wohlgemuth, since he had broken no agreement and could not be judged in advance."
+    }
+  ]
+}

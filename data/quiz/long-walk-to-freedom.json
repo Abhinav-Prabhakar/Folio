@@ -1,0 +1,56 @@
+{
+  "book": "long-walk-to-freedom",
+  "title": "Long Walk To Freedom",
+  "questions": [
+    {
+      "q": "What does Mandela's life suggest is the true path to freedom?",
+      "a": [
+        "Education",
+        "Military resistance",
+        "Political alliances",
+        "Personal wealth"
+      ],
+      "why": "The first lesson says Mandela recognized from the start of his education that learning was the real route to freedom."
+    },
+    {
+      "q": "How did Mandela challenge authority at Fort Hare College?",
+      "a": [
+        "He helped freshmen elect their own committee and threatened to resign",
+        "He organized a boycott of the college dining hall",
+        "He wrote a protest letter to the national government",
+        "He refused to sit his final examinations"
+      ],
+      "why": "The second lesson describes the freshmen electing their own committee and threatening to resign if the warden overruled them."
+    },
+    {
+      "q": "What does the summary say about the people history remembers?",
+      "a": [
+        "We remember those who challenge the norm, not quiet followers",
+        "We remember those who held the highest public offices",
+        "We remember those who avoided conflict whenever possible",
+        "We remember those with the most formal education"
+      ],
+      "why": "The second lesson says we do not remember yes-men but the rebels and troublemakers who challenged what was normal."
+    },
+    {
+      "q": "What happened to Mandela after his 1964 treason conviction?",
+      "a": [
+        "He was sentenced to life and kept learning and resisting",
+        "He was exiled and organized the movement from abroad",
+        "He was released after serving a short sentence",
+        "He was pardoned and immediately became president"
+      ],
+      "why": "He received life in prison and spent 26 years there, continuing to educate himself and challenge authority."
+    },
+    {
+      "q": "What did Mandela's protest about the prison shorts demonstrate?",
+      "a": [
+        "He kept challenging authority even behind bars",
+        "He rejected every item of clothing the guards issued",
+        "He wanted uniforms reserved for political prisoners",
+        "He was demanding solitary confinement instead"
+      ],
+      "why": "The third lesson says he objected that shorts were indecent for African men, and after two weeks of resistance the guards gave in."
+    }
+  ]
+}

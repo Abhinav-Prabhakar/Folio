@@ -1,0 +1,56 @@
+{
+  "book": "the-road-back-to-you",
+  "title": "The Road Back To You",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Road Back To You?",
+      "a": [
+        "What is an Enneagram?",
+        "…but not for a while.",
+        "Success ― what is it?",
+        "Setting goals is fun."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Road Back To You explore?",
+      "a": [
+        "The Enneagram personality test has nine personality types in it, each corresponding to a…",
+        "Testing many different options is just as good as focusing on just one area early in life",
+        "Find the one metric that matters most, depending on what stage you’re in, to not get lost",
+        "Innovators and those who execute plans are equally important to an organization’s success"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Road Back To You teach?",
+      "a": [
+        "Wing numbers are important to getting the full picture on your traits",
+        "A good leader accepts different perspectives and knows when to listen",
+        "A healthier mind and life will come from following the “Genius Plan.”",
+        "Control your emotions and don’t dwell on the things you can’t control"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Road Back To You?",
+      "a": [
+        "So what number are you?",
+        "What gives money value?",
+        "I love Gary Vaynerchuk.",
+        "Pain is a part of life."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Road Back To You?",
+      "a": [
+        "The Road Back To You will teach you more about what kind of person you are by identifying…",
+        "The first programmer was 100 years ahead of her time, and she was a poet and mathematician",
+        "Albert Einstein died in 1955 from internal bleeding when an aneurysm in his stomach burst.",
+        "Barnes gives speeches around the world about the many improvements that his system brings."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

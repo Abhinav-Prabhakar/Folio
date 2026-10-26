@@ -1,0 +1,56 @@
+{
+  "book": "the-algebra-of-wealth",
+  "title": "The Algebra of Wealth",
+  "questions": [
+    {
+      "q": "How does Galloway define wealth?",
+      "a": [
+        "The absence of economic anxiety",
+        "Owning more than your peers",
+        "A fixed net worth target",
+        "The ability to retire early"
+      ],
+      "why": "Lesson 1 says wealth is a means to security, not a scoreboard."
+    },
+    {
+      "q": "What is the four-part formula for building wealth?",
+      "a": [
+        "Focus plus Stoicism times Time times Diversification",
+        "Income plus savings times luck times discipline",
+        "Focus plus talent times risk times leverage",
+        "Savings plus earnings times patience times property"
+      ],
+      "why": "Lesson 2 lays out the algebra as focus plus three multiplied factors."
+    },
+    {
+      "q": "What does the summary compare economic anxiety to?",
+      "a": [
+        "High blood pressure that worsens any minor ailment",
+        "A bad habit that fades with age",
+        "A debt that can be repaid quickly",
+        "A fever that passes on its own"
+      ],
+      "why": "Lesson 1 quotes Galloway's comparison from his childhood memories."
+    },
+    {
+      "q": "Why does Galloway advise against day-trading?",
+      "a": [
+        "It is gambling with poor odds; few traders profit",
+        "It requires more capital than most people have",
+        "It is illegal for retail investors",
+        "It distracts from buying property"
+      ],
+      "why": "Lesson 3 cites a study where only 3 percent of traders made money."
+    },
+    {
+      "q": "What does zig when others zag mean?",
+      "a": [
+        "Avoid chasing whatever is already popular",
+        "Follow the crowd to reduce your risk",
+        "Sell everything when markets fall",
+        "Invest only in brand-new technologies"
+      ],
+      "why": "Lesson 3 says most growth is gone by the time an asset is trendy."
+    }
+  ]
+}

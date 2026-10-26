@@ -1,0 +1,56 @@
+{
+  "book": "napoleon-the-great",
+  "title": "Napoleon The Great",
+  "questions": [
+    {
+      "q": "Where was Napoleon born?",
+      "a": [
+        "On Corsica, an island between France and Italy",
+        "In Paris, to a family of minor nobles",
+        "On Elba, where he was later exiled",
+        "In Sardinia, then part of the French empire"
+      ],
+      "why": "Lesson 1 explains that Napoleon was born on Corsica, which had only recently become part of France."
+    },
+    {
+      "q": "How did Napoleon's schoolmates at Brienne treat him?",
+      "a": [
+        "They teased him for his accent and Corsican background",
+        "They elected him leader of their class",
+        "They ignored him because he was wealthy",
+        "They admired his father's government post"
+      ],
+      "why": "Lesson 1 says classmates mocked him as the first Corsican there, questioned his nobility and ridiculed his accent."
+    },
+    {
+      "q": "Which two habits does the summary call Stoic in Napoleon?",
+      "a": [
+        "Broad learning and focus on what he could control",
+        "Ambition and a taste for luxury",
+        "Loyalty to family and fear of rivals",
+        "Silence in public and caution in war"
+      ],
+      "why": "Lesson 2 identifies his interdisciplinary education and his attention to what he could control as Stoic traits."
+    },
+    {
+      "q": "How did Napoleon react to news of Josephine's affair while in Egypt?",
+      "a": [
+        "He stayed focused on making the campaign succeed",
+        "He abandoned the army and sailed home",
+        "He publicly divorced her by letter",
+        "He demanded his generals choose sides"
+      ],
+      "why": "Lesson 2 says he asked what he could do from Egypt, then concentrated on the campaign rather than the betrayal."
+    },
+    {
+      "q": "What did Napoleon's brief 1815 constitution include?",
+      "a": [
+        "Abolishing slavery, ending censorship and sharing power",
+        "Restoring the monarchy and the old nobility",
+        "Building an empire across all of Europe",
+        "Giving votes only to landowners"
+      ],
+      "why": "Lesson 3 lists the abolition of slavery, a ban on censorship, split power and no desire to build an empire."
+    }
+  ]
+}

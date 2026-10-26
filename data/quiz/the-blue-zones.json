@@ -1,0 +1,56 @@
+{
+  "book": "the-blue-zones",
+  "title": "The Blue Zones",
+  "questions": [
+    {
+      "q": "Which island has a 1 in 600 chance of living to 100?",
+      "a": [
+        "Sardinia",
+        "Loma Linda",
+        "Ikaria",
+        "Okinawa"
+      ],
+      "why": "Sardinia is noted for its high centenarian rate."
+    },
+    {
+      "q": "What does a Danish twin study say about genes and longevity?",
+      "a": [
+        "Genes account for only 25% of longevity",
+        "Genes determine 75% of lifespan",
+        "Genes have no effect",
+        "Genes are the sole factor"
+      ],
+      "why": "The study found genes only account for 25%."
+    },
+    {
+      "q": "Which beverage do Loma Linda residents drink daily?",
+      "a": [
+        "Water",
+        "Red wine",
+        "Beer",
+        "Soda"
+      ],
+      "why": "They drink at least 5-6 glasses of water each day."
+    },
+    {
+      "q": "What lifestyle habit helps centenarians avoid late-night snacking?",
+      "a": [
+        "Eating early and stopping before fullness",
+        "Eating late and snacking",
+        "Skipping meals",
+        "Eating only once a day"
+      ],
+      "why": "They stop eating before feeling full."
+    },
+    {
+      "q": "Why do centenarians continue working past retirement age?",
+      "a": [
+        "To maintain purpose",
+        "To earn more money",
+        "To avoid boredom",
+        "To stay healthy"
+      ],
+      "why": "Continuing work keeps a sense of purpose."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "starry-messenger",
+  "title": "Starry Messenger",
+  "questions": [
+    {
+      "q": "What did the Earthrise photograph help set off, according to the summary?",
+      "a": [
+        "A wave of environmental legislation and public concern",
+        "A new era of military spending in space",
+        "A decline in funding for scientific research",
+        "A movement to colonize the moon"
+      ],
+      "why": "Lesson 1 says the image led to laws on pesticides and emissions, plus Earth Day and clean air and water acts."
+    },
+    {
+      "q": "Why does Tyson argue that exploration is necessary?",
+      "a": [
+        "It is how humanity keeps pace with exponential change",
+        "It guarantees economic growth for every nation",
+        "It proves that other planets can support life",
+        "It replaces the need for scientific education"
+      ],
+      "why": "Lesson 2 says that without pushing what we know and can build, nature will eventually overwhelm us."
+    },
+    {
+      "q": "What example shows how exponential progress helped during the pandemic?",
+      "a": [
+        "Instant global communication, mass-produced equipment and fast vaccines",
+        "The rapid decline of international air travel",
+        "A worldwide shift to remote schooling",
+        "Better understanding of compound interest"
+      ],
+      "why": "Lesson 2 asks how many more would have died without those tools, which exponential science made possible."
+    },
+    {
+      "q": "What did Tyson notice about the library shelves at Princeton?",
+      "a": [
+        "The total amount of research doubled roughly every 15 years",
+        "Most journals had stopped publishing new papers",
+        "Older papers were far more cited than recent ones",
+        "Half the shelves held research from before 1900"
+      ],
+      "why": "Lesson 2 uses this observation to show that human knowledge itself grows exponentially."
+    },
+    {
+      "q": "What does the enormous number 10 to the power of 30 represent?",
+      "a": [
+        "All the genetically possible people who could ever be born",
+        "The number of stars in the observable universe",
+        "The age of the universe in years",
+        "The number of people alive on Earth today"
+      ],
+      "why": "Lesson 3 says that is the total of genetically possible humans, of which only a tiny fraction has existed."
+    }
+  ]
+}

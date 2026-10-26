@@ -1,0 +1,56 @@
+{
+  "book": "problem-solving-101",
+  "title": "Problem Solving 101",
+  "questions": [
+    {
+      "q": "What is the first step in tackling a problem properly?",
+      "a": [
+        "Break it down into smaller parts",
+        "Pick the quickest possible solution",
+        "Ask an expert what they would do",
+        "Wait until more information arrives"
+      ],
+      "why": "Lesson 1 says that instead of jumping to solutions, you should first split the problem into aspects."
+    },
+    {
+      "q": "Which tool does Watanabe recommend for breaking a problem down?",
+      "a": [
+        "Decision trees",
+        "Mind maps",
+        "SWOT analysis",
+        "Gantt charts"
+      ],
+      "why": "Lesson 1 recommends decision trees, marking each branch yes or no to see whether it is really part of the problem."
+    },
+    {
+      "q": "What is the point of the analysis step?",
+      "a": [
+        "To stop accepting statements at face value",
+        "To confirm the first explanation you found",
+        "To gather support for your existing opinion",
+        "To speed up the decision-making process"
+      ],
+      "why": "Lesson 2 says analysis means never taking claims at face value, including your own, so you pause and reflect."
+    },
+    {
+      "q": "How should you treat the solutions you settle on?",
+      "a": [
+        "As hypotheses that could be proven wrong",
+        "As final answers once the data agrees",
+        "As temporary fixes until a better plan appears",
+        "As bets worth making without further testing"
+      ],
+      "why": "Lesson 3 defines a hypothesis as a currently accepted statement that may later turn out to be wrong."
+    },
+    {
+      "q": "Why is the hypothesis approach so useful when you feel stuck?",
+      "a": [
+        "It lets you switch course quickly when something fails",
+        "It guarantees the first plan will work",
+        "It removes the need to gather any more data",
+        "It puts the responsibility on other people"
+      ],
+      "why": "Lesson 3 says treating plans as hypotheses keeps you flexible, so a failure leads to a new path instead of despair."
+    }
+  ]
+}

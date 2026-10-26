@@ -1,0 +1,56 @@
+{
+  "book": "the-burnout-fix",
+  "title": "The Burnout Fix",
+  "questions": [
+    {
+      "q": "Which practice is suggested to prevent mild burnout?",
+      "a": [
+        "Mindfulness",
+        "Exercising",
+        "Sleeping",
+        "Eating"
+      ],
+      "why": "Mindfulness helps avoid burnout."
+    },
+    {
+      "q": "What does the author say about showing vulnerability?",
+      "a": [
+        "It's courage",
+        "It's weakness",
+        "It's unnecessary",
+        "It's optional"
+      ],
+      "why": "Showing vulnerability is courage, not weakness."
+    },
+    {
+      "q": "What is a key factor in successful people's support networks?",
+      "a": [
+        "Meaningful connections",
+        "Solo work",
+        "High salaries",
+        "Long hours"
+      ],
+      "why": "Success stems from meaningful connections."
+    },
+    {
+      "q": "What does the book recommend creating to find purpose?",
+      "a": [
+        "Personal statement",
+        "Resume",
+        "Budget",
+        "Schedule"
+      ],
+      "why": "A personal statement helps find purpose."
+    },
+    {
+      "q": "What is the main stressor identified in modern workplaces?",
+      "a": [
+        "Constant change",
+        "Low pay",
+        "Long commutes",
+        "Frequent meetings"
+      ],
+      "why": "Constant change causes stress."
+    }
+  ]
+}

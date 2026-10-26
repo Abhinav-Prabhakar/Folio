@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-average",
+  "title": "The End Of Average",
+  "questions": [
+    {
+      "q": "What does the Flynn effect describe?",
+      "a": [
+        "IQ scores rising about 3 points each decade",
+        "Average height increasing over time",
+        "Global literacy rates improving",
+        "Life expectancy growing worldwide"
+      ],
+      "why": "Mentions Flynn effect as rise in IQ scores per decade."
+    },
+    {
+      "q": "Why does Todd Rose argue there is no average human body?",
+      "a": [
+        "People vary too much in anatomy",
+        "All humans share the same DNA",
+        "Average height is constant worldwide",
+        "Weight distribution is uniform"
+      ],
+      "why": "States there is no single word to describe human anatomy, indicating no average body."
+    },
+    {
+      "q": "What lesson does the book give about online marketing content?",
+      "a": [
+        "Fit the platform's context, like short tweets",
+        "Post long articles everywhere",
+        "Use only images on all sites",
+        "Ignore platform norms"
+      ],
+      "why": "Notes content must fit platform context, e.g., Twitter's 140‑character limit."
+    },
+    {
+      "q": "According to the book, why is a single career path unrealistic?",
+      "a": [
+        "Learning styles differ among individuals",
+        "All jobs require the same skills",
+        "Education is the same for everyone",
+        "Career success depends on luck"
+      ],
+      "why": "States who you are is unrelated to how you learn, so no average career path."
+    },
+    {
+      "q": "What does the book suggest about averages in education research?",
+      "a": [
+        "They hide individual differences",
+        "They predict student success accurately",
+        "They simplify teaching methods",
+        "They measure teacher quality"
+      ],
+      "why": "Mentions averages are useless for understanding the human mind and learning."
+    }
+  ]
+}

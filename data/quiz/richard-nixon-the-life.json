@@ -1,0 +1,56 @@
+{
+  "book": "richard-nixon-the-life",
+  "title": "Richard Nixon: The Life",
+  "questions": [
+    {
+      "q": "According to the summary, what did Nixon rely on to rise from his humble beginnings?",
+      "a": [
+        "Hard work and consistency across many fields",
+        "Family wealth and political connections",
+        "Luck alone, without any preparation",
+        "A single talent he discovered early"
+      ],
+      "why": "Lesson 1 says his varied experience in law, the Navy and politics positioned him so that opportunity could find him."
+    },
+    {
+      "q": "What happened to Nixon's family life as his career advanced?",
+      "a": [
+        "He drifted away from his wife and daughters",
+        "He retired early to spend time with them",
+        "He moved them happily into the White House",
+        "He gave up politics to protect them"
+      ],
+      "why": "Lesson 2 says his family felt him growing distant while his involvement in politics only increased."
+    },
+    {
+      "q": "What did Nixon's paranoia and heavy drinking lead to, per the summary?",
+      "a": [
+        "A dark path away from his principles and family",
+        "Greater popularity with the press",
+        "A decision to resign before Watergate",
+        "A new focus on domestic policy"
+      ],
+      "why": "Lesson 2 describes paranoiac episodes and a drift from his family and values, driven by substance and alcohol use."
+    },
+    {
+      "q": "What was Watergate in the summary?",
+      "a": [
+        "A break-in by Nixon's team that unraveled his presidency",
+        "A treaty Nixon signed with China",
+        "A newspaper that supported his campaign",
+        "A speech that won him the 1972 election"
+      ],
+      "why": "Lesson 3 recounts his team breaking into the Democrats' Watergate offices and the investigations that followed."
+    },
+    {
+      "q": "How did the Watergate investigation finally end Nixon's mandate?",
+      "a": [
+        "Leaked information and tapes proved his involvement",
+        "The Supreme Court ordered new elections",
+        "His cabinet voted him out of office",
+        "He lost the 1974 election in a landslide"
+      ],
+      "why": "Lesson 3 says leaks to the Washington Post and then tapes provided the proof that ended his presidency in 1974."
+    }
+  ]
+}

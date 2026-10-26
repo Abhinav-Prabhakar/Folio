@@ -1,0 +1,56 @@
+{
+  "book": "the-universe-has-your-back",
+  "title": "The Universe Has Your Back",
+  "questions": [
+    {
+      "q": "What practice does Bernstein recommend for 12 minutes daily?",
+      "a": [
+        "Kirtan Kriya",
+        "Yoga",
+        "Meditation",
+        "Prayer"
+      ],
+      "why": "She suggests practicing Kirtan Kriya daily."
+    },
+    {
+      "q": "According to Bernstein, what is needed before asking the Universe for desires?",
+      "a": [
+        "A prepared mind free of negativity",
+        "A large donation",
+        "A prayer book",
+        "An oracle reading"
+      ],
+      "why": "You must prepare your mind free of negativity."
+    },
+    {
+      "q": "What does Bernstein say about worldly pleasures?",
+      "a": [
+        "They cannot replace spiritual maturity",
+        "They are the key to happiness",
+        "They are always beneficial",
+        "They are the only source of joy"
+      ],
+      "why": "Worldly pleasures cannot replace spiritual maturity."
+    },
+    {
+      "q": "Which philosophy is cited as teaching to avoid stress over uncontrollable outcomes?",
+      "a": [
+        "Stoicism",
+        "Buddhism",
+        "Existentialism",
+        "Nihilism"
+      ],
+      "why": "Stoicism teaches not to stress over uncontrollable outcomes."
+    },
+    {
+      "q": "What does Bernstein identify as a major cause of anxiety?",
+      "a": [
+        "Disconnection from a higher power",
+        "Lack of exercise",
+        "Poor diet",
+        "Excessive work"
+      ],
+      "why": "Disconnection from a higher power causes anxiety."
+    }
+  ]
+}

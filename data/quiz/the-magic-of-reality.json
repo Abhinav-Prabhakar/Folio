@@ -1,0 +1,56 @@
+{
+  "book": "the-magic-of-reality",
+  "title": "The Magic Of Reality",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Magic Of Reality?",
+      "a": [
+        "Do you believe in magic?",
+        "This part I really like.",
+        "We all want to be happy.",
+        "Blockchain – what is it?"
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Magic Of Reality explore?",
+      "a": [
+        "Natural elements are created by fusing atoms, which is something only stars can do",
+        "Create a “next actions” list for all your projects to avoid thinking in the moment",
+        "You will be happier when you understand and satisfy your evolutionary requirements",
+        "Human activity contributes to the sixth mass extinction in several observable ways"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Magic Of Reality teach?",
+      "a": [
+        "By looking at the spectrum of light different planets and galaxies emit, we can learn…",
+        "Love is an action word and we need to practice it as such to improve our relationships",
+        "Life is meant to be lived fully, enjoying the ride, and taking each season as it comes",
+        "Don’t be afraid to share bad ideas, as any contribution can start a successful process"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Magic Of Reality?",
+      "a": [
+        "Do you know how the natural elements of our periodic system, like hydrogen, oxygen…",
+        "The easiest way to get people to like you is to keep them talking about themselves.",
+        "One of the biggest lessons we have to re-learn as adults is that play is important.",
+        "Seniors have so much wisdom to share with the world from their years of experience."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Magic Of Reality?",
+      "a": [
+        "The Magic Of Reality explains many of the world’s natural phenomenons in a scientific…",
+        "Aim to make the world a better place by producing work that’ll live longer than you do",
+        "Making little deals with yourself can help you stay on track, as long as you keep them",
+        "Don’t you hate it when someone promises to do something and they never follow-through?"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

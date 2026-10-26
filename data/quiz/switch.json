@@ -1,0 +1,56 @@
+{
+  "book": "switch",
+  "title": "Switch",
+  "questions": [
+    {
+      "q": "Which three forces do the Heaths say drive behavior change?",
+      "a": [
+        "The rider, the elephant and the path",
+        "The goal, the habit and the reward",
+        "The mind, the body and the environment",
+        "The leader, the team and the culture"
+      ],
+      "why": "The overview borrows Jonathan Haidt's rider and elephant image and adds the path they travel."
+    },
+    {
+      "q": "What happens when the rider hears a vague goal like 'eat healthier'?",
+      "a": [
+        "It analyzes endless options and becomes paralyzed",
+        "It commits quickly to the first plan it finds",
+        "It hands control over to the elephant",
+        "It loses interest and gives up entirely"
+      ],
+      "why": "Lesson 1 says what looks like resistance is often just a lack of clarity about the next step."
+    },
+    {
+      "q": "Which simple instruction doubled 1% milk sales in West Virginia?",
+      "a": [
+        "Buy 1% milk instead of whole milk",
+        "Drink milk only with breakfast",
+        "Switch to skim milk entirely",
+        "Buy milk in smaller containers"
+      ],
+      "why": "Lesson 1 uses this campaign as an example of giving the rider one clear, critical instruction."
+    },
+    {
+      "q": "How did Jon Stegner convince his board that purchasing was wasteful?",
+      "a": [
+        "He piled 424 different pairs of gloves onto the table",
+        "He presented a detailed cost report",
+        "He showed slides of the factory floor",
+        "He invited suppliers to explain their prices"
+      ],
+      "why": "Lesson 2 says the mountain of gloves made the problem obvious within seconds and moved the board."
+    },
+    {
+      "q": "What did the campus donation study show about specific requests?",
+      "a": [
+        "Specific requests raised donations even among the 'jerks'",
+        "Vague requests worked better for generous people",
+        "Character mattered more than how the request was made",
+        "Most students refused to donate under any conditions"
+      ],
+      "why": "Lesson 3 says a clear request with a map lifted giving to 25% among people rated least generous."
+    }
+  ]
+}

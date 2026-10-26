@@ -1,0 +1,56 @@
+{
+  "book": "the-80-20-principle",
+  "title": "The 80/20 Principle",
+  "questions": [
+    {
+      "q": "What does the 80/20 principle claim?",
+      "a": [
+        "A small share of inputs produces most of the results",
+        "Effort and reward always balance out over time",
+        "Most results demand an equal share of input",
+        "Eighty percent of people do twenty percent of the work"
+      ],
+      "why": "Lesson 1 says results are usually lopsided rather than linear."
+    },
+    {
+      "q": "What does the pond of five fish illustrate?",
+      "a": [
+        "A slight early edge compounds into a lasting advantage",
+        "Competition keeps all the fish equally sized",
+        "The largest fish eventually stops growing",
+        "Resources are shared evenly among the group"
+      ],
+      "why": "Lesson 1 uses feedback loops to explain how small advantages snowball."
+    },
+    {
+      "q": "What did Steve Jobs do with Apple's product line in 1997?",
+      "a": [
+        "He cut over 300 products down to fewer than 10",
+        "He doubled the range to reach new customers",
+        "He outsourced production to cut costs",
+        "He raised prices on the worst sellers"
+      ],
+      "why": "Lesson 2 uses this as proof that focus and a narrower range drive growth."
+    },
+    {
+      "q": "Why does the summary say exact numbers are not required?",
+      "a": [
+        "Your gut feeling provides a usable estimate",
+        "Precise data is impossible to collect",
+        "The ratio changes from day to day",
+        "Only businesses need real measurements"
+      ],
+      "why": "Lesson 3 calls this 80/20 thinking and applies it to personal life."
+    },
+    {
+      "q": "How does the summary suggest applying the idea to friendships?",
+      "a": [
+        "Spend more time with the few people who matter most",
+        "Keep a wide network of casual contacts",
+        "Divide your time evenly among all friends",
+        "Let whoever reaches out first set your priorities"
+      ],
+      "why": "Lesson 3 asks who you enjoy most and how much time they actually get."
+    }
+  ]
+}

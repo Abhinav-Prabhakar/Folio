@@ -1,0 +1,31 @@
+{
+  "book": "charlie-munger",
+  "title": "Charlie Munger",
+  "questions": [
+    {
+      "q": "What does Munger mean by staying inside your circle of competence?",
+      "a": ["Sticking to what you understand and accepting your limits", "Investing only in technology companies", "Following the advice of stock analysts", "Diversifying across every industry"],
+      "why": "Lesson 1 says good investors admit what they do not know and avoid businesses they cannot grasp."
+    },
+    {
+      "q": "What three buckets does Berkshire Hathaway use for potential investments?",
+      "a": ["In, out, and too tough", "Buy, hold, and sell", "Growth, value, and income", "Safe, risky, and unknown"],
+      "why": "Lesson 1 describes the third bucket as ideas that might work later but are not understood well enough yet."
+    },
+    {
+      "q": "What does “Don't just do something, stand there” advise investors to do?",
+      "a": ["Wait patiently for the right company", "Trade often to capture quick gains", "Act fast whenever prices move", "Skip research and trust instinct"],
+      "why": "Lesson 2 says suitable companies are rare, so most of an investor's time should be spent waiting."
+    },
+    {
+      "q": "Why do restless investors end up worse off, according to the summary?",
+      "a": ["They pile up losses, fees, and taxes", "They miss the market's best years", "They buy only unfamiliar businesses", "They ignore all expert advice"],
+      "why": "Lesson 2 contrasts constant trading with the great investor who makes a few right trades and waits."
+    },
+    {
+      "q": "What is worldly wisdom built from?",
+      "a": ["Mental models drawn from many disciplines", "A single detailed economic theory", "Advice from successful friends", "Years of daily stock trading"],
+      "why": "Lesson 3 describes lenses from psychology, history, biology and other fields that can be combined as needed."
+    }
+  ]
+}

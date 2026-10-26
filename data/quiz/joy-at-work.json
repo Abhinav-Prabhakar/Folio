@@ -1,0 +1,56 @@
+{
+  "book": "joy-at-work",
+  "title": "Joy At Work",
+  "questions": [
+    {
+      "q": "What does the summary say clutter costs the average worker each year?",
+      "a": [
+        "About a full work week spent searching for things",
+        "About two hours of lost meetings",
+        "Roughly a month of paid leave",
+        "Nearly half of all email time"
+      ],
+      "why": "Lesson 1 cites estimates of a whole work week lost to searching for items."
+    },
+    {
+      "q": "What three kinds of joy should decide whether an item stays?",
+      "a": [
+        "Immediate joy, functional joy and future joy",
+        "Shared joy, private joy and public joy",
+        "Daily joy, weekly joy and yearly joy",
+        "Cheap joy, lasting joy and earned joy"
+      ],
+      "why": "Lesson 2 says discard anything that offers none of these three."
+    },
+    {
+      "q": "How does the summary suggest sorting paperwork?",
+      "a": [
+        "Into pending, requirement and desire piles",
+        "Into urgent, optional and archived piles",
+        "By client, date and project",
+        "By color, size and sender"
+      ],
+      "why": "Lesson 2 gives those three categories for the papers in your workspace."
+    },
+    {
+      "q": "What two desktop folders does the summary recommend creating?",
+      "a": [
+        "A storage folder for old files and a current folder for active ones",
+        "A work folder and a personal folder",
+        "An inbox folder and an archive folder",
+        "A drafts folder and a final folder"
+      ],
+      "why": "Lesson 3 says old files go to storage and active project files to current."
+    },
+    {
+      "q": "What email habit does the summary recommend?",
+      "a": [
+        "Treat email as current work and keep ten or fewer folders",
+        "Keep every message in the inbox for future reference",
+        "Create a separate folder for each frequent sender",
+        "Answer each message the moment it arrives"
+      ],
+      "why": "Lesson 3 says email is for current projects, not storage, and fewer folders is better."
+    }
+  ]
+}

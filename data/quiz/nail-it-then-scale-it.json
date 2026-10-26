@@ -1,0 +1,56 @@
+{
+  "book": "nail-it-then-scale-it",
+  "title": "Nail It Then Scale It",
+  "questions": [
+    {
+      "q": "Why can too much funding hurt a young startup?",
+      "a": [
+        "It breeds complacency instead of focus",
+        "It forces the team to hire too slowly",
+        "It attracts competitors to the same idea",
+        "It makes customers distrust the product"
+      ],
+      "why": "Lesson 1 says excess money can breed complacency, while leaner startups know what is necessary and get it done."
+    },
+    {
+      "q": "What happened to Duke Nukem 3D's sequel?",
+      "a": [
+        "It stayed in development for 12 years and never shipped",
+        "It shipped early and sold poorly",
+        "It was cancelled before the first game launched",
+        "It was sold to another studio and became a hit"
+      ],
+      "why": "Lesson 1 uses the sequel, stuck in development for 12 years after the first game's success, as a cautionary tale."
+    },
+    {
+      "q": "What mistake did Webvan make, according to the summary?",
+      "a": [
+        "It overestimated demand and lost a billion dollars",
+        "It underestimated costs and ran out of drivers",
+        "It ignored competitors and cut its prices",
+        "It expanded too slowly and lost customers"
+      ],
+      "why": "Lesson 2 says Webvan's weak market research led it to overestimate purchases by 60 percent before filing for bankruptcy."
+    },
+    {
+      "q": "What does the summary say about a startup's plan in its early days?",
+      "a": [
+        "It will change often, and that is normal",
+        "It must be fixed before the first sale",
+        "It should stay hidden from customers",
+        "It matters less than the founder's passion"
+      ],
+      "why": "Lesson 2 notes that an early plan will go through many changes, which is normal, before settling into a solid model."
+    },
+    {
+      "q": "How did Craigslist handle its growth?",
+      "a": [
+        "The founder promoted an employee to run management",
+        "The founder sold the site to a larger rival",
+        "The founder hired a team of outside consultants",
+        "The founder kept control of every decision"
+      ],
+      "why": "Lesson 3 describes Craig Newmark promoting Jim Buckmaster to take over management as the site grew."
+    }
+  ]
+}

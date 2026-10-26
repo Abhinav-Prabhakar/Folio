@@ -1,0 +1,56 @@
+{
+  "book": "bird-by-bird",
+  "title": "Bird By Bird",
+  "questions": [
+    {
+      "q": "What do great writers do despite doubts about their work, according to the summary?",
+      "a": [
+        "They keep writing without worrying whether it is good",
+        "They wait until they feel confident to begin",
+        "They revise only when inspiration strikes",
+        "They study grammar before writing a draft"
+      ],
+      "why": "The summary says believing you are meant to write leads to the practice that improves you."
+    },
+    {
+      "q": "When does writing really begin to take off, according to the summary?",
+      "a": [
+        "When you love the process more than the outcome",
+        "When you land your first publishing contract",
+        "When you finish a complete first draft",
+        "When other writers praise your work"
+      ],
+      "why": "The summary stresses patience and attachment to the craft rather than results."
+    },
+    {
+      "q": "Why does the summary recommend a fixed time and place for writing?",
+      "a": [
+        "Repetition ties that time and place to creativity in the brain",
+        "It prevents friends from interrupting your work",
+        "It makes you write more words per session",
+        "It removes the need for a daily routine"
+      ],
+      "why": "Consistent habits let inspiration arrive on schedule rather than by chance."
+    },
+    {
+      "q": "What single quality did Lamott notice in the best writers she knew?",
+      "a": [
+        "Commitment",
+        "Natural talent",
+        "Imagination",
+        "Confidence"
+      ],
+      "why": "The summary says there was no secret code, only commitment to the work."
+    },
+    {
+      "q": "What danger does the summary warn about when joining a writing group?",
+      "a": [
+        "Harsh reviews can crush your confidence",
+        "Members may steal your best ideas",
+        "Groups often charge expensive fees",
+        "Groups discourage a daily writing habit"
+      ],
+      "why": "It advises finding people who give useful tips without being merciless."
+    }
+  ]
+}

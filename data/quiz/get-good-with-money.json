@@ -1,0 +1,56 @@
+{
+  "book": "get-good-with-money",
+  "title": "Get Good With Money",
+  "questions": [
+    {
+      "q": "How does Aliche want you to think about a budget?",
+      "a": [
+        "As a payment to your future self, not a restriction",
+        "As a temporary fix until your income rises",
+        "As a record of what you have already spent",
+        "As a set of rules imposed by your bank"
+      ],
+      "why": "The first lesson says money you set aside is what later pays for a holiday or something you never could afford."
+    },
+    {
+      "q": "Which accounts does Aliche suggest you set up?",
+      "a": [
+        "Two checking accounts and two savings accounts",
+        "One checking account and one investment account",
+        "Three credit cards and one savings account",
+        "A single account used for everything"
+      ],
+      "why": "The first lesson splits cash from bills and emergencies from long-term goals, ideally with automatic transfers."
+    },
+    {
+      "q": "What is the snowball method of getting out of debt?",
+      "a": [
+        "Paying off debts from smallest to largest",
+        "Paying the highest interest debt first",
+        "Combining every debt into one new loan",
+        "Paying only the minimum on each debt"
+      ],
+      "why": "The second lesson contrasts the snowball with the avalanche method, which targets the highest interest rate."
+    },
+    {
+      "q": "What credit utilization does the summary say you should aim for?",
+      "a": [
+        "No more than 30%",
+        "No more than 10%",
+        "No more than 50%",
+        "No more than 75%"
+      ],
+      "why": "The second lesson says staying at or below 30% builds credit history without creating a heavy burden."
+    },
+    {
+      "q": "How does Aliche suggest building wealth for retirement?",
+      "a": [
+        "Automate contributions and diversify across stocks and bonds",
+        "Keep all your savings in a checking account",
+        "Pick one promising stock and hold it",
+        "Withdraw your earnings at the end of each month"
+      ],
+      "why": "The third lesson recommends steady automated investing and spreading risk rather than chasing single bets."
+    }
+  ]
+}

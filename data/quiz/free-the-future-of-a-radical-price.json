@@ -1,0 +1,56 @@
+{
+  "book": "free-the-future-of-a-radical-price",
+  "title": "Free: The Future Of A Radical Price",
+  "questions": [
+    {
+      "q": "Where does the summary trace the phrase about there being no free lunch?",
+      "a": [
+        "Saloons serving salty food to sell more drinks",
+        "Hotels offering meals to attract travelers",
+        "Bakers giving away scraps to the poor",
+        "Railroads including meals in every ticket"
+      ],
+      "why": "The first lesson explains that salty free food made cowboys thirsty, so they bought beer."
+    },
+    {
+      "q": "How was free mainly used before the internet, according to the summary?",
+      "a": [
+        "To make you pay for something else",
+        "To reward only the most loyal customers",
+        "To clear out unwanted old inventory",
+        "To avoid government price rules"
+      ],
+      "why": "The first lesson compares free razors, phones and magazines that all required a later purchase."
+    },
+    {
+      "q": "How is value measured in the online gift economy?",
+      "a": [
+        "By the attention people give you",
+        "By the price you are able to charge",
+        "By the size of your company",
+        "By the speed of your website"
+      ],
+      "why": "The second lesson says a post nobody reads has no value, so attention replaces money as the measure."
+    },
+    {
+      "q": "What does freemium mean?",
+      "a": [
+        "Giving the basic product away and charging for extras",
+        "Charging everyone a small monthly fee",
+        "Offering discounts once a trial period ends",
+        "Selling ads inside a paid product"
+      ],
+      "why": "The third lesson defines it as free basics plus paid features, services and related products."
+    },
+    {
+      "q": "What should you do once a free product has built an audience?",
+      "a": [
+        "Find out what they want and charge for that",
+        "Raise the price of everything you already make",
+        "Stop publishing and sell your contact list",
+        "Copy whatever bigger competitors charge"
+      ],
+      "why": "The third lesson says free work wins attention, and attention is what you later convert into sales."
+    }
+  ]
+}

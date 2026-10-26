@@ -1,0 +1,56 @@
+{
+  "book": "bored-and-brilliant",
+  "title": "Bored and Brilliant",
+  "questions": [
+    {
+      "q": "What does boredom do for the brain, according to the summary?",
+      "a": [
+        "It gives the brain rest and space to generate new ideas",
+        "It shuts down unnecessary cognitive functions",
+        "It increases focus by removing distractions",
+        "It stores memories more efficiently"
+      ],
+      "why": "White space lets the mind reset and wander, which is where ideas emerge."
+    },
+    {
+      "q": "What does the summary say boredom allowed early humans to do?",
+      "a": [
+        "Think beyond survival and create new things",
+        "Develop language more quickly",
+        "Cooperate in larger hunting groups",
+        "Remember dangerous places for longer"
+      ],
+      "why": "Boredom is presented as part of human evolution, not a sign of laziness."
+    },
+    {
+      "q": "Which type of daydreaming does the summary recommend practicing?",
+      "a": [
+        "Positive-constructive daydreaming",
+        "Poor attention control",
+        "Guilty-dysphoric daydreaming",
+        "Anxious-avoidant daydreaming"
+      ],
+      "why": "It is the only one of the three types that produces useful, healthy mind output."
+    },
+    {
+      "q": "What characterizes guilty-dysphoric daydreaming?",
+      "a": [
+        "The mind drifts into negative, self-critical thoughts",
+        "The mind jumps rapidly between unrelated tasks",
+        "The mind replays happy memories in detail",
+        "The mind plans practical steps toward a goal"
+      ],
+      "why": "This type diminishes joy and increases stress rather than producing ideas."
+    },
+    {
+      "q": "Which rule does the summary offer for breaking a phone habit?",
+      "a": [
+        "You cannot use your phone while moving",
+        "You cannot check your phone before noon",
+        "You must delete every social app each week",
+        "You must leave your phone in another room at night"
+      ],
+      "why": "The challenge pairs that rule with stopping meaningless photos and deleting the worst app."
+    }
+  ]
+}

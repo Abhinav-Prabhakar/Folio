@@ -1,0 +1,56 @@
+{
+  "book": "how-to-fail",
+  "title": "How To Fail",
+  "questions": [
+    {
+      "q": "Why does Day call your twenties a good time to fail?",
+      "a": [
+        "It is a time to discover who you are before adult life",
+        "It is when employers expect the most mistakes",
+        "It is the only period when failure is forgiven",
+        "It is when your brain stops developing"
+      ],
+      "why": "Lesson one says the twenties are for discovering what you want before adult responsibilities pile up."
+    },
+    {
+      "q": "What did Day learn from her divorce?",
+      "a": [
+        "She had been trying to complete herself through partners",
+        "She needed a partner who shared her chores",
+        "She had married too young to know herself",
+        "She should have focused only on her career"
+      ],
+      "why": "Lesson two says reflecting on her relationships showed her a pattern of using other people to feel whole."
+    },
+    {
+      "q": "What does Day say about staying open after a painful heartbreak?",
+      "a": [
+        "It is important not to close yourself off",
+        "It is safer to avoid dating for years",
+        "It is best to jump into a new relationship",
+        "It is natural to stop trusting everyone"
+      ],
+      "why": "The summary says one of her most important lessons was to remain open even after being hurt."
+    },
+    {
+      "q": "What did Day discover about famous and wealthy people?",
+      "a": [
+        "Success did not make them immune to unhappiness",
+        "They were happier than ordinary people",
+        "They rarely experienced failure again",
+        "They valued money more than relationships"
+      ],
+      "why": "Lesson three says the actors she interviewed showed that money and fame do not guarantee happiness."
+    },
+    {
+      "q": "What did Robert Pattinson say fame cost him?",
+      "a": [
+        "His privacy and sense of control over his life",
+        "His closest friendships and family ties",
+        "His interest in acting and music",
+        "His health and physical fitness"
+      ],
+      "why": "Lesson three says Pattinson struggled with isolation and a lack of personal control after becoming famous."
+    }
+  ]
+}

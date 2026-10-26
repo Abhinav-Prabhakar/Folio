@@ -1,0 +1,56 @@
+{
+  "book": "real-artists-dont-starve",
+  "title": "Real Artists Don’t Starve",
+  "questions": [
+    {
+      "q": "What does Goins mean by practicing in public?",
+      "a": [
+        "Sharing work openly to gain feedback and an audience",
+        "Rehearsing alone until the work is perfect",
+        "Performing only at paid private events",
+        "Publishing everything under a pen name"
+      ],
+      "why": "Lesson 1 says publishing as you go builds a following and brings feedback you cannot get alone."
+    },
+    {
+      "q": "Which two mistakes does the summary warn new artists about?",
+      "a": [
+        "Working for free and selling lifetime rights",
+        "Charging too much and hiring an agent",
+        "Showing work early and taking feedback",
+        "Building an audience and raising prices"
+      ],
+      "why": "Lesson 2 warns against not charging at all and against trading one payment for lifetime returns."
+    },
+    {
+      "q": "What should you do when offered exposure instead of payment?",
+      "a": [
+        "Ask for hard numbers before agreeing",
+        "Accept it to build your portfolio",
+        "Trade it for a public review",
+        "Offer to work at a discount"
+      ],
+      "why": "Lesson 2 says to demand real audience numbers, because vague exposure is usually a bad deal."
+    },
+    {
+      "q": "What does Goins call today's opportunity for artists?",
+      "a": [
+        "The New Renaissance",
+        "The Creative Economy",
+        "The Golden Age",
+        "The Artist's Return"
+      ],
+      "why": "Lesson 3 borrows the Renaissance idea of patrons and applies it to modern creators."
+    },
+    {
+      "q": "Why does the summary say artists should embrace many trades?",
+      "a": [
+        "Multiple income streams let them support their own work",
+        "It guarantees representation in a gallery",
+        "It removes the need to find an audience",
+        "It keeps their art free of commercial pressure"
+      ],
+      "why": "Lesson 3 says the new era rewards a jack of all trades who can become their own patron."
+    }
+  ]
+}

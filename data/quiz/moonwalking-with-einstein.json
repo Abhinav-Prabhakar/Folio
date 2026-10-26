@@ -1,0 +1,31 @@
+{
+  "book": "moonwalking-with-einstein",
+  "title": "Moonwalking With Einstein",
+  "questions": [
+    {
+      "q": "What changed when the printing press arrived, according to the summary?",
+      "a": ["Information could be stored outside the mind", "People gradually lost the ability to read", "Books became too expensive for most people", "Memory contests were banned in Europe"],
+      "why": "Lesson 1 says external storage reduced the need to remember things, and memory has declined since."
+    },
+    {
+      "q": "How did the test subject S.F. improve his digit memory?",
+      "a": ["By repeating sequences to himself for hundreds of hours", "By using a memory palace built in childhood", "By writing numbers down every night", "By learning a new language before the test"],
+      "why": "Lesson 2 says he raised his span from 7 to 79 digits through over 230 hours of repetition."
+    },
+    {
+      "q": "What does the summary say about chess players' memory?",
+      "a": ["It works for chess positions but not general tests", "It transfers to every kind of memory task", "It comes from memorizing opening books", "It is no better than an average person's"],
+      "why": "Lesson 2 says chess memory is limited to chess and does not help with general memory tests."
+    },
+    {
+      "q": "What is chunking, as described in the summary?",
+      "a": ["Breaking one long string of information into smaller parts", "Repeating information aloud until it sticks", "Linking facts to places you know well", "Reviewing material at increasing intervals"],
+      "why": "Lesson 3 shows a long number becoming two memorable dates when split into chunks."
+    },
+    {
+      "q": "How does the memory palace technique work?",
+      "a": ["You place items along a route you know well", "You group numbers into meaningful dates", "You repeat each item seven times in a row", "You write items on cards and shuffle them"],
+      "why": "Lesson 3 says you walk a familiar route and store memories in specific locations along it."
+    }
+  ]
+}

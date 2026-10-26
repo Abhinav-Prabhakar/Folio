@@ -1,0 +1,56 @@
+{
+  "book": "the-high-5-habit",
+  "title": "The High 5 Habit",
+  "questions": [
+    {
+      "q": "What simple action does the author recommend to start the day?",
+      "a": [
+        "High‑five yourself in the mirror",
+        "Take a long shower",
+        "Read a motivational quote",
+        "Write a to‑do list"
+      ],
+      "why": "The book suggests a morning mirror high‑five."
+    },
+    {
+      "q": "Which system filters incoming information according to the book?",
+      "a": [
+        "Reticular Activating System",
+        "Prefrontal Cortex",
+        "Hippocampus",
+        "Amygdala"
+      ],
+      "why": "The text names the RAS as the filtering system."
+    },
+    {
+      "q": "What negative thought pattern can hinder task performance?",
+      "a": [
+        "Fear of failure before starting",
+        "Overconfidence",
+        "Perfectionism",
+        "Procrastination"
+      ],
+      "why": "The author cites fear of failure affecting outcomes."
+    },
+    {
+      "q": "Which benefit is linked to high‑fives after brushing teeth?",
+      "a": [
+        "Boosts motivation",
+        "Improves dental hygiene",
+        "Reduces stress",
+        "Increases appetite"
+      ],
+      "why": "Research shows high‑fives in uncommon moments boost motivation."
+    },
+    {
+      "q": "What does the author say about the effectiveness of typical self‑help books?",
+      "a": [
+        "They're often too simple or too complex",
+        "They always work perfectly",
+        "They're the best solution",
+        "They're unnecessary"
+      ],
+      "why": "The overview notes most books are too complicated or shallow."
+    }
+  ]
+}

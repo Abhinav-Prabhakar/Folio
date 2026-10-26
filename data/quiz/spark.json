@@ -1,0 +1,56 @@
+{
+  "book": "spark",
+  "title": "Spark",
+  "questions": [
+    {
+      "q": "What does the book say makes someone a spark?",
+      "a": [
+        "The way they act, not the title they hold",
+        "The size of the team they manage",
+        "The salary level they have reached",
+        "The years they have spent at the company"
+      ],
+      "why": "The overview and Lesson 1 stress that leadership comes from behavior and can appear at any level."
+    },
+    {
+      "q": "What is cognitive flexibility, as described in the summary?",
+      "a": [
+        "Changing your usual thinking patterns to find new solutions",
+        "Sticking to a proven method no matter what",
+        "Ignoring problems until they resolve themselves",
+        "Making decisions quickly without reflection"
+      ],
+      "why": "Lesson 2 defines it as altering typical thinking to solve a problem, like toasting bread in the oven when the toaster breaks."
+    },
+    {
+      "q": "What does cognitive discipline involve?",
+      "a": [
+        "Slowing your thinking and pausing before reacting",
+        "Trusting your first instinct every time",
+        "Avoiding all feedback from colleagues",
+        "Working longer hours than everyone else"
+      ],
+      "why": "Lesson 2 says it means halting instinctive reactions to give a more effective response, especially to criticism."
+    },
+    {
+      "q": "How does a spark respond when criticized at work?",
+      "a": [
+        "By responding constructively and asking how to improve",
+        "By defending themselves and explaining the misunderstanding",
+        "By escalating the issue to a manager",
+        "By withdrawing from the team until things calm down"
+      ],
+      "why": "Lesson 2 contrasts the defensive reaction most people have with the spark’s habit of asking for ways to improve."
+    },
+    {
+      "q": "What does the summary say blame is, in evolutionary terms?",
+      "a": [
+        "A survival mechanism we use when we feel threatened",
+        "A learned habit picked up in childhood",
+        "A sign of strong leadership potential",
+        "A modern invention of office culture"
+      ],
+      "why": "Lesson 3 says diverting blame is a natural survival response to seeing something as a threat, which sparks resist."
+    }
+  ]
+}

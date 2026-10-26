@@ -1,0 +1,56 @@
+{
+  "book": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "questions": [
+    {
+      "q": "What does Lord Henry claim is the only worthwhile pursuit?",
+      "a": [
+        "Beauty",
+        "Wealth",
+        "Power",
+        "Knowledge"
+      ],
+      "why": "He argues that only beauty matters, as stated early in the novel."
+    },
+    {
+      "q": "What does Dorian wish would age instead of him?",
+      "a": [
+        "His portrait",
+        "His soul",
+        "His wealth",
+        "His reputation"
+      ],
+      "why": "He offers his soul for the portrait to bear the signs of aging."
+    },
+    {
+      "q": "How does Dorian react when Basil confronts him about rumors?",
+      "a": [
+        "He shows the corrupted painting",
+        "He denies all rumors",
+        "He apologizes sincerely",
+        "He leaves the house"
+      ],
+      "why": "Dorian reveals the grotesque portrait to Basil instead of admitting fault."
+    },
+    {
+      "q": "Who does Dorian kill after blaming him for his downfall?",
+      "a": [
+        "Basil Hallward",
+        "Lord Henry",
+        "Sibyl Vane",
+        "James Vane"
+      ],
+      "why": "He murders the artist Basil after shifting blame."
+    },
+    {
+      "q": "What final act does Dorian attempt to redeem himself?",
+      "a": [
+        "Vows to live virtuously",
+        "Flees the country",
+        "Donates his wealth",
+        "Confesses publicly"
+      ],
+      "why": "He decides to change his life and pursue virtue before his end."
+    }
+  ]
+}

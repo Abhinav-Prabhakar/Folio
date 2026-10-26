@@ -1,0 +1,56 @@
+{
+  "book": "the-inner-life-of-animals",
+  "title": "The Inner Life of Animals",
+  "questions": [
+    {
+      "q": "Which animal is described as man's best friend and often overlooked for intelligence in research?",
+      "a": [
+        "Dog",
+        "Cat",
+        "Horse",
+        "Bird"
+      ],
+      "why": "The text notes dogs are the most popular animal and often ignored for intelligence."
+    },
+    {
+      "q": "What example shows a mother squirrel's protective instinct?",
+      "a": [
+        "Pulling baby away when threatened",
+        "Building a nest",
+        "Hunting for food",
+        "Sleeping together"
+      ],
+      "why": "The book describes a mother squirrel pulling her baby away and running until exhausted."
+    },
+    {
+      "q": "Why do industries avoid advertising pigs or cows as intelligent?",
+      "a": [
+        "They are future meals",
+        "They are too smart",
+        "They are rare",
+        "They are expensive"
+      ],
+      "why": "The text says no one wants to deepen knowledge of future meals, blinding us from reality."
+    },
+    {
+      "q": "Which emotion is NOT mentioned as shared between humans and animals?",
+      "a": [
+        "Joy",
+        "Fear",
+        "Love",
+        "Happiness"
+      ],
+      "why": "The text discusses good and bad emotions but does not list happiness explicitly."
+    },
+    {
+      "q": "What is a key lesson about animal emotions in the book?",
+      "a": [
+        "They help bond with us",
+        "They are irrelevant",
+        "They are only instincts",
+        "They are fake"
+      ],
+      "why": "The book states animals feel good and bad emotions, aiding understanding and bonding."
+    }
+  ]
+}

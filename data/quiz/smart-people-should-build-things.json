@@ -1,0 +1,56 @@
+{
+  "book": "smart-people-should-build-things",
+  "title": "Smart People Should Build Things",
+  "questions": [
+    {
+      "q": "Where do about half of elite college graduates go, per the summary?",
+      "a": [
+        "Finance, law or consulting",
+        "Teaching, medicine or government",
+        "Startups, nonprofits or the arts",
+        "Manufacturing, farming or retail"
+      ],
+      "why": "Lesson 1 says roughly 40 percent enter finance or consulting and 13 percent go to law."
+    },
+    {
+      "q": "What mainly draws students into those fields?",
+      "a": [
+        "High pay and the status that comes with it",
+        "Steady hours and generous vacation time",
+        "A strong desire to serve the public",
+        "The chance to travel and live abroad"
+      ],
+      "why": "Lesson 1 names money and status as the main pull."
+    },
+    {
+      "q": "What are golden handcuffs?",
+      "a": [
+        "Perks and pay that make leaving hard",
+        "Contracts that forbid quitting for years",
+        "Bonuses paid only after retirement",
+        "Debt from expensive graduate degrees"
+      ],
+      "why": "Lesson 2 says money, benefits and access make these jobs hard to leave."
+    },
+    {
+      "q": "Why are these firms hard to stay in?",
+      "a": [
+        "Long hours, travel and an up-or-out culture",
+        "Low pay and very few benefits",
+        "Boring work with no real challenge",
+        "Too much independence and freedom"
+      ],
+      "why": "Lesson 2 describes demanding work and a promote-or-be-fired rule."
+    },
+    {
+      "q": "What does the summary say about job growth?",
+      "a": [
+        "All net new jobs come from new companies",
+        "Large firms create most new jobs",
+        "Government hiring drives most growth",
+        "Job growth is spread evenly across firms"
+      ],
+      "why": "Lesson 3 says big firms add no net jobs while new ones create them all."
+    }
+  ]
+}

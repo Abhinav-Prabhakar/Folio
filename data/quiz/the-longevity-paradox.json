@@ -1,0 +1,56 @@
+{
+  "book": "the-longevity-paradox",
+  "title": "The Longevity Paradox",
+  "questions": [
+    {
+      "q": "Which population is cited as an example of long, healthy lives?",
+      "a": [
+        "Okinawans",
+        "Mediterraneans",
+        "Scandinavians",
+        "Amazonian tribes"
+      ],
+      "why": "The text mentions Okinawans as a long‑living population."
+    },
+    {
+      "q": "What daily limit does the author suggest for animal protein intake?",
+      "a": [
+        "Three ounces",
+        "One ounce",
+        "Six ounces",
+        "Ten ounces"
+      ],
+      "why": "The author recommends not exceeding three ounces of animal protein per day."
+    },
+    {
+      "q": "During deep sleep, which system clears brain toxins?",
+      "a": [
+        "Lymphatic system",
+        "Digestive system",
+        "Respiratory system",
+        "Endocrine system"
+      ],
+      "why": "Deep sleep allows the lymphatic system to wash out brain debris."
+    },
+    {
+      "q": "Which nerve connects the gut to the brain?",
+      "a": [
+        "Vagus nerve",
+        "Sciatic nerve",
+        "Optic nerve",
+        "Phrenic nerve"
+      ],
+      "why": "The vagus nerve is described as the communication link between gut and brain."
+    },
+    {
+      "q": "What type of carbohydrates does the book advise for better satiety?",
+      "a": [
+        "Complex carbs from purple potatoes and yams",
+        "Simple sugars from fruit juices",
+        "Refined grains like rice and corn",
+        "High‑fructose corn syrup"
+      ],
+      "why": "Complex carbs from purple potatoes, yams, and resistant starches are recommended."
+    }
+  ]
+}

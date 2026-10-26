@@ -1,0 +1,31 @@
+{
+  "book": "good-strategy-bad-strategy",
+  "title": "Good Strategy, Bad Strategy",
+  "questions": [
+    {
+      "q": "Which four symptoms does Rumelt use to describe bad strategy?",
+      "a": ["Fluff, avoiding the challenge, goals as strategy and bad objectives", "Poor timing, weak branding, high costs and slow hiring", "Too many leaders, unclear values, low morale and bad data", "Copying rivals, cutting prices, overspending and drifting"],
+      "why": "Lesson 1 lists fluff, failure to face the challenge, mistaking goals for strategy and bad objectives."
+    },
+    {
+      "q": "Why is growing revenue by 20 percent not a strategy?",
+      "a": ["It states a wish, not how you will achieve it", "It is too modest a target for most firms", "It cannot be measured accurately", "It belongs in marketing, not strategy"],
+      "why": "Lesson 1 says strategy is about the how, not the what."
+    },
+    {
+      "q": "What are the three parts of a good strategy's kernel?",
+      "a": ["Diagnosis, guiding policy and coherent actions", "Vision, mission and values", "Analysis, budget and timeline", "Goal, metric and review"],
+      "why": "Lesson 2 says the kernel is a diagnosis, an overarching policy and a set of coherent actions."
+    },
+    {
+      "q": "In the Tesla example, what was the guiding policy?",
+      "a": ["Build electric cars people actually want, starting with one model", "Cut prices until electric cars outsell gas cars", "License battery technology to other automakers", "Focus on cheap cars for city drivers first"],
+      "why": "Lesson 2 says Tesla decided to make desirable EVs, starting with the Roadster."
+    },
+    {
+      "q": "How did Nvidia carry out its strategy after choosing 3D chips?",
+      "a": ["It set up three teams to release new chips every six months", "It bought smaller chip firms to expand quickly", "It cut prices to undercut established rivals", "It focused on software instead of hardware"],
+      "why": "Lesson 3 describes overlapping teams built to hit a six-month release cycle."
+    }
+  ]
+}

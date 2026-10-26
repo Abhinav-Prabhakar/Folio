@@ -1,0 +1,56 @@
+{
+  "book": "elon-musk",
+  "title": "Elon Musk Summary (Ashlee Vance)",
+  "questions": [
+    {
+      "q": "What did The Hitchhiker's Guide to the Galaxy teach Musk?",
+      "a": [
+        "Asking the right questions is harder than answering them",
+        "The universe is too large for human ambition to matter",
+        "Humor is the best way to survive a difficult childhood",
+        "Space travel will eventually become ordinary"
+      ],
+      "why": "Lesson 1 says the book showed Musk that answering questions is easy, while asking the right ones is the hard part."
+    },
+    {
+      "q": "How did Musk recover after Justine stood him up?",
+      "a": [
+        "He brought her favorite ice cream to where she was",
+        "He wrote her a long letter explaining his feelings",
+        "He invited her to a second date at a nicer restaurant",
+        "He asked her friends to convince her to call him"
+      ],
+      "why": "Lesson 2 describes him learning her favorite flavor and showing up with two chocolate ice cream cones after she missed their first date."
+    },
+    {
+      "q": "What does Musk's pyramid image suggest about goals?",
+      "a": [
+        "Unite smaller goals under one large goal at the top",
+        "Pursue many unrelated goals at the same time",
+        "Focus only on the goals at the base of the pyramid",
+        "Drop any goal that does not produce quick results"
+      ],
+      "why": "Lesson 3 says uniting lower-level goals so they serve one mega goal makes your life far more focused."
+    },
+    {
+      "q": "How do Tesla, SolarCity and SpaceX support one mission?",
+      "a": [
+        "They work together to help secure humanity's future",
+        "They compete with each other for government contracts",
+        "They each serve a completely separate market",
+        "They share technology only when required by law"
+      ],
+      "why": "Lesson 3 says Tesla makes batteries SolarCity can sell, SolarCity makes panels for charging stations, and all serve saving humanity's future."
+    },
+    {
+      "q": "How many books did Musk read in a month at his peak?",
+      "a": [
+        "Sixty",
+        "Ten",
+        "Twenty",
+        "Forty"
+      ],
+      "why": "Lesson 1 says Musk read 60 books a month at one point and remembered two entire encyclopedias."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-5-levels-of-leadership",
+  "title": "The 5 Levels Of Leadership",
+  "questions": [
+    {
+      "q": "What is the correct order of the five levels of leadership?",
+      "a": [
+        "Position, Permission, Production, People Development, Pinnacle",
+        "Permission, Position, Production, Pinnacle, People Development",
+        "Position, Production, Permission, People Development, Pinnacle",
+        "Production, Position, Permission, People Development, Pinnacle"
+      ],
+      "why": "The overview lists the ladder from position up to pinnacle."
+    },
+    {
+      "q": "What does the summary say a management title really is?",
+      "a": [
+        "A starting point rather than a goal",
+        "Proof that you deserve to lead",
+        "The main source of a leader's authority",
+        "A reward for years of hard work"
+      ],
+      "why": "Lesson 1 says the title is where leadership begins, not what makes people follow."
+    },
+    {
+      "q": "How do leaders earn permission to lead, according to the summary?",
+      "a": [
+        "By making people feel valued and trusted",
+        "By defending their budget and headcount",
+        "By setting strict rules from day one",
+        "By outworking every member of the team"
+      ],
+      "why": "Lesson 2: when employees feel cared for, trust follows and they grant permission."
+    },
+    {
+      "q": "Why does the summary recommend developing other leaders?",
+      "a": [
+        "It prevents bottlenecks and smooths future transitions",
+        "It lets you negotiate a bigger budget",
+        "It keeps salaries and turnover low",
+        "It makes your own promotion more likely"
+      ],
+      "why": "Lesson 3 says shared leadership spreads the load and prepares a successor."
+    },
+    {
+      "q": "What does the flock of geese image illustrate?",
+      "a": [
+        "Leadership should rotate among prepared team members",
+        "Leaders should stay at the front at all times",
+        "Teams work best when each member flies alone",
+        "One strong leader is worth a whole flock"
+      ],
+      "why": "Lesson 3 describes geese switching who leads the V formation."
+    }
+  ]
+}

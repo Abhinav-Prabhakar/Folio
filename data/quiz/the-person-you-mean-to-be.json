@@ -1,0 +1,56 @@
+{
+  "book": "the-person-you-mean-to-be",
+  "title": "The Person You Mean to Be",
+  "questions": [
+    {
+      "q": "What bias involves seeking information that confirms existing beliefs?",
+      "a": [
+        "confirmation bias",
+        "availability bias",
+        "anchoring bias",
+        "halo effect"
+      ],
+      "why": "The text defines confirmation bias as that tendency."
+    },
+    {
+      "q": "Which university conducted a study on unconscious biases and created the IAT test?",
+      "a": [
+        "Harvard",
+        "Stanford",
+        "Yale",
+        "MIT"
+      ],
+      "why": "Harvard is mentioned as the source of the study and IAT."
+    },
+    {
+      "q": "What experience did Kimberly Davis have at a white‑dominant event?",
+      "a": [
+        "She felt excluded as no one approached her",
+        "She was immediately welcomed by all",
+        "She led the discussion panel",
+        "She received a promotion"
+      ],
+      "why": "The example describes her feeling excluded in a white‑only room."
+    },
+    {
+      "q": "What does pretending race doesn't matter risk, according to the book?",
+      "a": [
+        "Missing growth and connection opportunities",
+        "Eliminating all bias instantly",
+        "Creating immediate equality",
+        "Reducing cultural diversity"
+      ],
+      "why": "The text warns that ignoring race can prevent growth and connection."
+    },
+    {
+      "q": "What is a cognitive bias described as?",
+      "a": [
+        "A mental shortcut for quick decisions",
+        "A logical fallacy that always leads to error",
+        "A conscious strategy to manipulate others",
+        "A permanent personality trait"
+      ],
+      "why": "The overview defines biases as mental shortcuts for rapid decisions."
+    }
+  ]
+}

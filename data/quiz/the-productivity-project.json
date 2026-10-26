@@ -1,0 +1,56 @@
+{
+  "book": "the-productivity-project",
+  "title": "The Productivity Project",
+  "questions": [
+    {
+      "q": "Which rule suggests setting three daily, weekly, and yearly goals?",
+      "a": [
+        "Rule of 3",
+        "Rule of 5",
+        "Rule of 2",
+        "Rule of 10"
+      ],
+      "why": "Chris Bailey introduced the Rule of 3 in his book."
+    },
+    {
+      "q": "What did Chris find when testing 20 to 90 work hours per week?",
+      "a": [
+        "Similar output at 40-50 hrs",
+        "More output at 90 hrs",
+        "Less output at 20 hrs",
+        "No change at all"
+      ],
+      "why": "He observed similar productivity between 20 and 90 hours."
+    },
+    {
+      "q": "According to the book, what happens after 60 work hours weekly?",
+      "a": [
+        "Tasks take twice as long",
+        "No change",
+        "Tasks finish faster",
+        "Employees quit"
+      ],
+      "why": "Chris noted tasks take twice as long after 60 hours."
+    },
+    {
+      "q": "Which energy type is missing when you are old?",
+      "a": [
+        "Energy",
+        "Time",
+        "Money",
+        "Attention"
+      ],
+      "why": "The analogy says old age has money and time but no energy."
+    },
+    {
+      "q": "What is the main benefit of a to-do list in productivity?",
+      "a": [
+        "Taps subconscious",
+        "Saves time",
+        "Reduces stress",
+        "Increases energy"
+      ],
+      "why": "The text says a to-do list taps the subconscious to motivate."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "unplug",
+  "title": "Unplug",
+  "questions": [
+    {
+      "q": "What did Sara Lazar's studies compare?",
+      "a": [
+        "Brains of meditators vs non‑meditators",
+        "Meditators vs athletes",
+        "Meditators vs smokers",
+        "Meditators vs children"
+      ],
+      "why": "The studies compared brains of people who meditate with those who don't."
+    },
+    {
+      "q": "Which brain area increases with regular mindfulness?",
+      "a": [
+        "Gray matter",
+        "White matter",
+        "Neurotransmitters",
+        "Cerebellum"
+      ],
+      "why": "Results showed more gray matter in regular meditators."
+    },
+    {
+      "q": "What is the first step in the six‑step mindfulness guide?",
+      "a": [
+        "Pick something to focus on",
+        "Set a timer",
+        "Sit comfortably",
+        "Breathe slowly"
+      ],
+      "why": "Step one is to choose a focus point, often the breath."
+    },
+    {
+      "q": "Which benefit is NOT mentioned for meditation?",
+      "a": [
+        "Calmness",
+        "Increased happiness",
+        "Better memory",
+        "Improved vision"
+      ],
+      "why": "The text lists calmness, happiness, and memory, not vision."
+    },
+    {
+      "q": "What does the author say about brain change after 25?",
+      "a": [
+        "It can still be reshaped",
+        "It stops changing",
+        "It only changes physically",
+        "It becomes rigid"
+      ],
+      "why": "The author refutes the myth that the brain stops changing after 25."
+    }
+  ]
+}

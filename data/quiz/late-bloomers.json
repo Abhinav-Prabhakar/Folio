@@ -1,0 +1,56 @@
+{
+  "book": "late-bloomers",
+  "title": "Late Bloomers",
+  "questions": [
+    {
+      "q": "What message does the summary say the early-achievement culture sends young people?",
+      "a": [
+        "That they are failures if they have not succeeded by 30",
+        "That success requires a four-year college degree",
+        "That hard work matters far more than natural talent",
+        "That fame is the only goal worth pursuing"
+      ],
+      "why": "Lesson 1 describes the unrealistic deadline that shames young people."
+    },
+    {
+      "q": "What shift in goals does the summary blame for declining adolescent mental health?",
+      "a": [
+        "A move from intrinsic goals toward extrinsic ones",
+        "A move from reading books to watching video",
+        "A decline in the average size of families",
+        "A rise in part-time jobs for teenagers"
+      ],
+      "why": "Lesson 1 cites Jean Twenge's theory about valuing status, looks and scores."
+    },
+    {
+      "q": "Which part of the brain develops last, according to the summary?",
+      "a": [
+        "The prefrontal cortex",
+        "The cerebellum",
+        "The amygdala",
+        "The hippocampus"
+      ],
+      "why": "Lesson 2 says the rational, planning part of the brain matures last."
+    },
+    {
+      "q": "What happened to Karlgaard in his late twenties?",
+      "a": [
+        "His mind seemed to wake up and he found direction",
+        "He inherited a business and became wealthy",
+        "He returned to school for a second degree",
+        "He moved abroad to start over completely"
+      ],
+      "why": "Lesson 2 says his patience, ideas and writing ability suddenly developed."
+    },
+    {
+      "q": "What does the summary advise if cultural pressure is steering your path?",
+      "a": [
+        "Examine those influences and choose your own direction",
+        "Follow your family's plan until it clearly fails",
+        "Compare yourself with more successful peers",
+        "Wait until your thirties before deciding anything"
+      ],
+      "why": "Lesson 3 uses Erik Wahl's reinvention to show the value of leaving others' expectations behind."
+    }
+  ]
+}

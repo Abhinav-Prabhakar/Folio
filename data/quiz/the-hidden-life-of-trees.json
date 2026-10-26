@@ -1,0 +1,56 @@
+{
+  "book": "the-hidden-life-of-trees",
+  "title": "The Hidden Life of Trees",
+  "questions": [
+    {
+      "q": "What gives trees their unique personalities?",
+      "a": [
+        "Memory of experiences",
+        "Genetics alone",
+        "Weather patterns",
+        "Human interference"
+      ],
+      "why": "Trees remember experiences, forming personalities."
+    },
+    {
+      "q": "How do trees protect themselves?",
+      "a": [
+        "Communicating via fungi networks",
+        "Building walls",
+        "Running away",
+        "Using fire"
+      ],
+      "why": "They use root-fungi communication for protection."
+    },
+    {
+      "q": "Why do trees share food with neighbors?",
+      "a": [
+        "Benefit the whole forest",
+        "Selfishness",
+        "Competition",
+        "Random chance"
+      ],
+      "why": "They support the forest for mutual survival."
+    },
+    {
+      "q": "What role does the forest community play?",
+      "a": [
+        "Critical for growth and survival",
+        "Irrelevant",
+        "Competitive edge",
+        "Solo existence"
+      ],
+      "why": "Trees rely on community for support."
+    },
+    {
+      "q": "What is the main misconception about trees?",
+      "a": [
+        "They are passive and individual",
+        "They are aggressive",
+        "They are mobile",
+        "They are sentient"
+      ],
+      "why": "Many think trees are passive, but they communicate."
+    }
+  ]
+}

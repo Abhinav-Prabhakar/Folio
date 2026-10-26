@@ -1,0 +1,56 @@
+{
+  "book": "the-way-of-nagomi",
+  "title": "The Way of Nagomi",
+  "questions": [
+    {
+      "q": "What does the Japanese word nagomi primarily mean?",
+      "a": [
+        "Balance and calm",
+        "Speed and urgency",
+        "Conflict and tension",
+        "Chaos and disorder"
+      ],
+      "why": "Nagomi means balance, comfort, calm."
+    },
+    {
+      "q": "Which culinary practice exemplifies nagomi?",
+      "a": [
+        "Kaiseki",
+        "Fast food",
+        "Street vending",
+        "Canned meals"
+      ],
+      "why": "Kaiseki balances ingredients."
+    },
+    {
+      "q": "What principle is central to a bento box according to nagomi?",
+      "a": [
+        "Rice unifies other items",
+        "Meat dominates the dish",
+        "Spices are optional",
+        "All items are large"
+      ],
+      "why": "Rice is always at the center."
+    },
+    {
+      "q": "Who is cited as an example of creative expression without counterculture?",
+      "a": [
+        "Osamu Tezuka",
+        "Albert Einstein",
+        "Mahatma Gandhi",
+        "Steve Jobs"
+      ],
+      "why": "Tezuka created manga without counterculture."
+    },
+    {
+      "q": "What is a key idea about life in nagomi philosophy?",
+      "a": [
+        "Life is uncertain and interconnected",
+        "Life is simple and predictable",
+        "Life is solitary and competitive",
+        "Life is controlled by fate"
+      ],
+      "why": "Nagomi stresses uncertainty and connection."
+    }
+  ]
+}

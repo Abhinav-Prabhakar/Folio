@@ -1,0 +1,31 @@
+{
+  "book": "moonshot",
+  "title": "Moonshot",
+  "questions": [
+    {
+      "q": "Why does the summary say shoppers hold more power than they used to?",
+      "a": ["They can compare prices and reviews instantly", "They have far more money to spend than before", "They trust advertising more than in the past", "They prefer buying only from local stores"],
+      "why": "Lesson 1 describes checking a price comparison on a phone before ordering the same item for less online."
+    },
+    {
+      "q": "Why do millennials prefer using products over owning them, according to the summary?",
+      "a": ["They want the benefits without the burdens of ownership", "They cannot afford to use any products at all", "They distrust every sharing platform", "They prefer collecting things for status"],
+      "why": "Lesson 2 uses car sharing as an example of getting the benefit without insurance and maintenance."
+    },
+    {
+      "q": "What does the summary say is happening to middle-class consumption in Asian countries?",
+      "a": ["It is rising as incomes grow", "It is falling sharply", "It has already peaked", "It is limited to luxury goods"],
+      "why": "Lesson 2 says Asian middle-class spending is climbing toward levels the West reached years ago."
+    },
+    {
+      "q": "Why does the summary say keeping customers happy matters so much?",
+      "a": ["Replacing a lost customer costs far more than keeping one", "Happy customers always spend more per visit", "Loyal customers never ask for discounts", "New customers are easier to find than old ones"],
+      "why": "Lesson 3 says acquiring a new customer costs 10 to 15 times more than retaining an existing one."
+    },
+    {
+      "q": "Which customer experience does the summary call the hardest but best to pull off?",
+      "a": ["Making customers feel special", "Offering the lowest prices", "Delivering as fast as possible", "Sending weekly discount coupons"],
+      "why": "Lesson 3 lists cheap prices as a weak option and feeling special as the hardest but most powerful."
+    }
+  ]
+}

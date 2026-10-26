@@ -1,0 +1,56 @@
+{
+  "book": "socialism",
+  "title": "Socialism",
+  "questions": [
+    {
+      "q": "What goal do all forms of socialism share, according to the summary?",
+      "a": [
+        "Creating an egalitarian society",
+        "Maximizing national economic growth",
+        "Preserving traditional social hierarchies",
+        "Keeping government as small as possible"
+      ],
+      "why": "Lesson 1 says the common aim is an egalitarian society, though governments disagree on how to reach it."
+    },
+    {
+      "q": "What do socialists agree is the source of society’s inequalities?",
+      "a": [
+        "Capitalism",
+        "Human nature",
+        "A lack of education",
+        "Religious differences"
+      ],
+      "why": "Lesson 1 says socialists agree that inequality stems from capitalism, especially elite control of capital."
+    },
+    {
+      "q": "What did socialists disagree about after Marx died?",
+      "a": [
+        "How socialism should be put into practice",
+        "Whether capitalism was harmful at all",
+        "Whether workers deserved higher wages",
+        "Whether classes existed in society"
+      ],
+      "why": "Lesson 2 says Marx left open the question of implementation, which split socialists into reformists and revolutionaries."
+    },
+    {
+      "q": "Which approach did the social democrats favor?",
+      "a": [
+        "Reforming capitalism through democratic elections",
+        "Overthrowing the bourgeoisie in a violent revolution",
+        "Leaving markets entirely free of regulation",
+        "Handing factories directly to military leaders"
+      ],
+      "why": "Lesson 2 describes social democrats as winning power at the ballot box to help the working class."
+    },
+    {
+      "q": "What does the summary call the most obvious lesson from past socialist experiments?",
+      "a": [
+        "A socialist society must be democratic at every level",
+        "Socialism works best with a single strong leader",
+        "Markets should never be regulated by the state",
+        "Public ownership always lowers living standards"
+      ],
+      "why": "Lesson 3 says authoritarian rule cannot be an option and socialism needs democracy at every level."
+    }
+  ]
+}

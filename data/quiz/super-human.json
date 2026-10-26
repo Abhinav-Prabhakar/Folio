@@ -1,0 +1,56 @@
+{
+  "book": "super-human",
+  "title": "Super Human",
+  "questions": [
+    {
+      "q": "According to Asprey, what do mitochondria release when you eat poorly?",
+      "a": [
+        "Free radicals linked to degenerative disease",
+        "Extra antioxidants that protect the cells",
+        "Hormones that speed up the aging process",
+        "Proteins that repair damaged tissue"
+      ],
+      "why": "Lesson 1 says a lack of antioxidants lets mitochondria release free radicals behind most degenerative illness."
+    },
+    {
+      "q": "What does the summary suggest eating instead of red meat and trans fats?",
+      "a": [
+        "Fish, free-range white meat, olive oil, nuts and salmon",
+        "Whole grains, legumes and low-fat dairy",
+        "Lean pork, seed oils and soy products",
+        "Eggs, butter and full-fat cheese"
+      ],
+      "why": "Lesson 1 recommends healthy fats and protein from fish, white meat, olive oil, nuts and salmon."
+    },
+    {
+      "q": "What does the 16:8 method of intermittent fasting involve?",
+      "a": [
+        "Eating within an eight-hour window and fasting for sixteen",
+        "Fasting for eight hours and eating for sixteen",
+        "Eating sixteen small meals spread over eight hours",
+        "Fasting two days a week for sixteen hours each"
+      ],
+      "why": "Lesson 2 describes eating for eight hours and going without food for the other sixteen."
+    },
+    {
+      "q": "What sun exposure does Asprey recommend?",
+      "a": [
+        "Ten to twenty minutes a day at sunrise",
+        "An hour at midday without any sunscreen",
+        "Avoiding direct sunlight at all times",
+        "Using sunbeds through the winter months"
+      ],
+      "why": "Lesson 2 says early morning sun for 10 to 20 minutes gives vitamin D without overpowering rays."
+    },
+    {
+      "q": "How does the summary say you can regulate hormones without drugs?",
+      "a": [
+        "Through high-intensity interval training with rest days between",
+        "Through daily stretching and long walks",
+        "Through cutting all carbohydrates for a month",
+        "Through sleeping fewer than six hours a night"
+      ],
+      "why": "Lesson 3 recommends HIIT but warns to leave recovery time between intense sessions."
+    }
+  ]
+}

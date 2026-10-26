@@ -1,0 +1,56 @@
+{
+  "book": "crypto-confidential",
+  "title": "Crypto Confidential",
+  "questions": [
+    {
+      "q": "Why do crypto opportunities appear and vanish so quickly?",
+      "a": [
+        "Blockchain transparency lets information spread extremely fast",
+        "Most crypto projects are run by a single secretive company",
+        "Regulators shut down new projects within days of launch",
+        "Investors are legally required to hold coins for a short time"
+      ],
+      "why": "Lesson 1 explains that everything on the blockchain is public, so gaps get closed within about a day."
+    },
+    {
+      "q": "What happened after users spotted a pricing error in Iron Finance?",
+      "a": [
+        "A bank run sent both of its coins to zero within hours",
+        "The team fixed the error and the price doubled",
+        "Trading was paused for a year while auditors worked",
+        "The project was bought by one of the large crypto funds"
+      ],
+      "why": "Lesson 1 uses the Iron Finance collapse as an example of how fast a new protocol can fail."
+    },
+    {
+      "q": "What does Nat call the clearest sign that it is time to get out?",
+      "a": [
+        "Believing you have figured out the game and are about to get rich",
+        "Losing a small amount of money on your very first trade",
+        "Reading too many explanations of blockchain terminology",
+        "Spending too little time in crypto chat groups"
+      ],
+      "why": "Lesson 2 quotes Nat saying that feeling is the number one sign you have a problem."
+    },
+    {
+      "q": "Why did Nat eventually step away from his crypto obsession?",
+      "a": [
+        "Stress on his marriage made him reconsider what he valued",
+        "He lost all of his money in a single failed smart contract",
+        "He was banned from the platforms he used to trade",
+        "A large fund offered to buy his entire token holdings"
+      ],
+      "why": "Lesson 3 says it took strain in his marriage for him to wake up and return to writing."
+    },
+    {
+      "q": "What does Nat mean by getting good at the wrong thing?",
+      "a": [
+        "Success at something you do not truly value can trap you",
+        "Practicing a skill for too long makes you worse at it",
+        "Only people with natural talent can succeed in crypto",
+        "Choosing the wrong teacher will ruin your career"
+      ],
+      "why": "Lesson 3 explains that praise and money can keep you in a pursuit you will later regret."
+    }
+  ]
+}

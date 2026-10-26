@@ -1,0 +1,56 @@
+{
+  "book": "the-honest-truth-about-dishonesty",
+  "title": "The Honest Truth About Dishonesty",
+  "questions": [
+    {
+      "q": "What factor does Ariely find has the least impact on cheating decisions?",
+      "a": [
+        "Rational cost-benefit analysis",
+        "Psychological distance",
+        "Personal guilt",
+        "Social norms"
+      ],
+      "why": "Ariely shows rational calculations are weak predictors."
+    },
+    {
+      "q": "Why are people more likely to cheat when the victim is a stranger?",
+      "a": [
+        "Psychological distance reduces guilt",
+        "They feel more powerful",
+        "They think they can escape",
+        "They enjoy the thrill"
+      ],
+      "why": "Distance lowers the emotional weight of cheating."
+    },
+    {
+      "q": "What effect does wearing fake designer sunglasses have on cheating?",
+      "a": [
+        "Increases cheating likelihood",
+        "Decreases cheating likelihood",
+        "Has no effect",
+        "Makes cheating more ethical"
+      ],
+      "why": "Ariely's experiment linked fake glasses to higher cheating."
+    },
+    {
+      "q": "Which lesson states cheating is not a rational choice?",
+      "a": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ],
+      "why": "Lesson 1 addresses rationality of cheating."
+    },
+    {
+      "q": "What does Ariely suggest about the role of psychological distance?",
+      "a": [
+        "It makes cheating easier",
+        "It makes cheating harder",
+        "It has no effect",
+        "It only matters in small groups"
+      ],
+      "why": "Psychological distance eases cheating."
+    }
+  ]
+}

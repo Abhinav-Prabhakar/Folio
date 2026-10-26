@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-a-leader",
+  "title": "How To Be A Leader",
+  "questions": [
+    {
+      "q": "What motivates a good leader, according to Plutarch?",
+      "a": [
+        "Honor and duty rather than applause",
+        "Wealth and the perks of high office",
+        "Power over rivals and critics",
+        "Fame and a lasting reputation"
+      ],
+      "why": "Lesson one says a good leader is moved by honor and duty, not by a wish to receive acclaim."
+    },
+    {
+      "q": "What happens when leaders are driven mainly by a desire for fame?",
+      "a": [
+        "They act recklessly and destabilize society",
+        "They become cautious and slow to decide",
+        "They listen more closely to advisers",
+        "They retire earlier than other leaders"
+      ],
+      "why": "Lesson one explains that glory-seeking leaders make immoderate choices and bring instability to the people they serve."
+    },
+    {
+      "q": "How did Cato the Elder respond when Romans wanted to honor him with a statue?",
+      "a": [
+        "He asked them not to put one up",
+        "He paid for a larger monument",
+        "He insisted it face the forum",
+        "He accepted only a small plaque"
+      ],
+      "why": "Cato said he would rather people ask why he had no statue than why he had one, showing he cared little for reputation."
+    },
+    {
+      "q": "What did Pericles use his speaking skill to achieve for Athens?",
+      "a": [
+        "He kept the city out of wars",
+        "He raised taxes on wealthy citizens",
+        "He expanded the Athenian empire",
+        "He won a long campaign in Sicily"
+      ],
+      "why": "Lesson two says Pericles persuaded Athens to avoid war and keep its prosperity, a peace that lasted through his life."
+    },
+    {
+      "q": "What point does Plutarch draw from Aesop's fable of the fox and the ticks?",
+      "a": [
+        "Replacing experienced leaders with novices endangers society",
+        "Leaders should remove all critics from office",
+        "Old leaders should retire to make room",
+        "Suffering quietly is better than seeking help"
+      ],
+      "why": "Lesson three compares old leaders to the familiar ticks: their experience and moderation protect society from unstable newcomers."
+    }
+  ]
+}

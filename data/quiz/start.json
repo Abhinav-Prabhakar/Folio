@@ -1,0 +1,56 @@
+{
+  "book": "start",
+  "title": "Start",
+  "questions": [
+    {
+      "q": "What does Jon Acuff say about waiting to discover your purpose?",
+      "a": [
+        "You should stop waiting and give purpose to what you do now",
+        "You should keep searching until the right calling appears",
+        "You should copy the purpose of someone you admire",
+        "You should only start once you have a ten-year plan"
+      ],
+      "why": "Lesson 1 says not having a purpose becomes an excuse for doing nothing, so you should live with purpose today."
+    },
+    {
+      "q": "How does the summary suggest treating your life while you explore interests?",
+      "a": [
+        "As a series of experiments that produce useful data",
+        "As a single path you must commit to for life",
+        "As a competition against more successful people",
+        "As a test you should only attempt once"
+      ],
+      "why": "Lesson 2 says a failed attempt is just data showing what does not work, so you can run the next experiment."
+    },
+    {
+      "q": "What question does Acuff offer to kickstart the search for what you love?",
+      "a": [
+        "What would you most regret never having done if you died tomorrow?",
+        "What could you do better than anyone else you know?",
+        "Which career pays the most for the least effort?",
+        "What did you enjoy most as a small child?"
+      ],
+      "why": "Lesson 2 uses this regret question to point you toward experiences worth trying."
+    },
+    {
+      "q": "What does the summary recommend once you notice which activities you enjoy most?",
+      "a": [
+        "Edit your life to do more of them and less of the rest",
+        "Keep every activity so your options stay open",
+        "Turn all of them into a single business",
+        "Wait until you are an expert before choosing"
+      ],
+      "why": "Lesson 3 advises removing the activities you dislike and gradually doubling down on the ones you love."
+    },
+    {
+      "q": "Why should the editing of your life happen slowly?",
+      "a": [
+        "It is an incremental process of removing and adding in small steps",
+        "Big changes are impossible without professional help",
+        "You need permission from your employer first",
+        "Your interests will disappear if you act too fast"
+      ],
+      "why": "Lesson 3 says to make each edit in increments and move on only when the time feels right."
+    }
+  ]
+}

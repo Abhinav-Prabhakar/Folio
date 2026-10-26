@@ -1,0 +1,56 @@
+{
+  "book": "how-not-to-be-wrong",
+  "title": "How Not To Be Wrong",
+  "questions": [
+    {
+      "q": "What is survivorship bias?",
+      "a": [
+        "Judging a situation only from the cases that survived or succeeded",
+        "Assuming the past will always repeat itself",
+        "Trusting expert opinion over statistical evidence",
+        "Believing that rare events cannot happen"
+      ],
+      "why": "Lesson 1 defines survivorship bias as focusing only on positive results and ignoring the missing failures."
+    },
+    {
+      "q": "What did the WWII plane analysis reveal about where to add armor?",
+      "a": [
+        "Returning planes showed where armor was not urgently needed",
+        "The fuselage needed protection because it had the most holes",
+        "The engines were safest because they were rarely hit",
+        "Armor should be spread evenly across the whole plane"
+      ],
+      "why": "Lesson 1 says the planes that returned were survivors, so hits to the engines likely brought down the missing ones."
+    },
+    {
+      "q": "Why is probability not the same as risk?",
+      "a": [
+        "Risk also depends on how bad the possible loss would be",
+        "Probability applies only to games of chance",
+        "Risk is always higher than the probability suggests",
+        "Probability ignores the expected value of a bet"
+      ],
+      "why": "Lesson 2 says two bets can share an expected value while one carries far worse potential consequences."
+    },
+    {
+      "q": "What does the roulette example show about betting on red?",
+      "a": [
+        "The expected value is slightly negative in the long run",
+        "The odds favor the player over the casino",
+        "Red and black have different probabilities of winning",
+        "Doubling your bet guarantees you recover losses"
+      ],
+      "why": "Lesson 2 calculates an expected loss of about 2.7 cents per dollar because of the green zero."
+    },
+    {
+      "q": "Which problem with scientific research does the summary name?",
+      "a": [
+        "Failed studies are rarely published, skewing the picture",
+        "Researchers always publish every study they conduct",
+        "Statistical tests are never used in modern research",
+        "Journals prefer studies with no significant results"
+      ],
+      "why": "Lesson 3 lists unpublished failures, chance significance and data tweaking as reasons to question findings."
+    }
+  ]
+}

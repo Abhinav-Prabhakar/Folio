@@ -1,0 +1,56 @@
+{
+  "book": "the-case-against-sugar",
+  "title": "The Case Against Sugar",
+  "questions": [
+    {
+      "q": "What origin did sugar have before becoming cheap and common?",
+      "a": [
+        "Luxury item for elites like the King of Spain",
+        "Common staple for peasants",
+        "Medicinal herb in Europe",
+        "Spice traded by merchants"
+      ],
+      "why": "Text says sugar was a luxury for privileged people such as the King of Spain."
+    },
+    {
+      "q": "What misconception about calories does the sugar industry exploit?",
+      "a": [
+        "All calories are equal regardless of source",
+        "Calories from fat are harmless",
+        "Protein calories burn more fat",
+        "Carbs have no calories"
+      ],
+      "why": "The book notes the industry spread the idea that calories are the same no matter their origin."
+    },
+    {
+      "q": "What physiological response to sugar leads to fat storage?",
+      "a": [
+        "Insulin release stores fat cells",
+        "Glucose directly becomes muscle",
+        "Sugar boosts metabolism instantly",
+        "Insulin burns fat quickly"
+      ],
+      "why": "Scientists found that eating sugar triggers insulin, causing fat cells to store energy."
+    },
+    {
+      "q": "When did public awareness of sugar's health risks notably rise?",
+      "a": [
+        "After 1960 as heart disease rates climbed",
+        "During the 1920s sugar boom",
+        "In the 1980s tech era",
+        "Following the 2000s obesity reports"
+      ],
+      "why": "The text states people began acknowledging sugar's harm after 1960 when heart disease increased."
+    },
+    {
+      "q": "What organization in 1928 promoted sugar as healthy?",
+      "a": [
+        "The Sugar Institute",
+        "American Diabetes Association",
+        "World Health Organization",
+        "National Nutrition Council"
+      ],
+      "why": "The Sugar Institute, created in 1928, ran a campaign presenting sugar as healthy."
+    }
+  ]
+}

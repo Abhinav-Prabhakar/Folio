@@ -1,0 +1,56 @@
+{
+  "book": "real-change",
+  "title": "Real Change",
+  "questions": [
+    {
+      "q": "What does Salzberg say meditation actually does?",
+      "a": [
+        "It syncs mind and body so you can live in the present",
+        "It helps you escape from the world's problems",
+        "It replaces negative emotions with constant calm",
+        "It requires perfect silence to work properly"
+      ],
+      "why": "Lesson 1 rejects the idea of escaping inward and describes meditation as living more in the present."
+    },
+    {
+      "q": "What is the first step toward real change, according to the summary?",
+      "a": [
+        "Facing the negative emotions at their source",
+        "Setting ambitious external goals",
+        "Avoiding situations that cause pain",
+        "Seeking advice from a mentor"
+      ],
+      "why": "Lesson 2 says healing starts by finding the root of your negative feelings."
+    },
+    {
+      "q": "How does the summary define resilience?",
+      "a": [
+        "Acknowledging your pain and believing you can overcome it",
+        "Ignoring hardship until it fades on its own",
+        "Building walls around your emotions",
+        "Pushing through pain without any rest"
+      ],
+      "why": "Lesson 2 defines it as facing the source of pain while trusting your own strength."
+    },
+    {
+      "q": "What does the summary say about our connection to the world?",
+      "a": [
+        "We are interconnected, though individualism obscures it",
+        "We are separate beings competing for happiness",
+        "We outgrow the need for community as adults",
+        "We should avoid depending on other people"
+      ],
+      "why": "Lesson 3 compares people to trees whose roots are linked, even when we forget it."
+    },
+    {
+      "q": "What does lovingkindness meditation involve in the summary?",
+      "a": [
+        "Repeating compassionate phrases such as I am safe",
+        "Visualizing people you dislike failing",
+        "Focusing only on physical sensations",
+        "Reviewing your whole day in silence"
+      ],
+      "why": "Lesson 2 describes repeating words of compassion to help heal emotional pain."
+    }
+  ]
+}

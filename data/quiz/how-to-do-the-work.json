@@ -1,0 +1,56 @@
+{
+  "book": "how-to-do-the-work",
+  "title": "How To Do The Work",
+  "questions": [
+    {
+      "q": "What does LePera identify as the root of unexplained anxiety and burnout?",
+      "a": [
+        "An impaired connection between mind, body and spirit",
+        "A shortage of vitamins in the diet",
+        "A genetic condition with no treatment",
+        "Too much time spent at work"
+      ],
+      "why": "The overview says these symptoms come from a damaged mind-body-spirit connection rather than a medical problem."
+    },
+    {
+      "q": "How does LePera say childhood trauma can be healed?",
+      "a": [
+        "Revisit the old wounds and learn healthier ways to cope",
+        "Ignore the memories until they fade",
+        "Replace them with positive affirmations",
+        "Talk only about the present, never the past"
+      ],
+      "why": "Lesson one says healing means feeling the old emotions again and replacing childhood defenses with honest expression."
+    },
+    {
+      "q": "What happens to the amygdala after trauma, according to the summary?",
+      "a": [
+        "It stays on alert and sees threats everywhere",
+        "It shrinks and stops responding to danger",
+        "It becomes focused only on pleasant memories",
+        "It transfers its duties to the cortex"
+      ],
+      "why": "Lesson two says trauma makes the fear center misfire, so the body remains in constant alert mode."
+    },
+    {
+      "q": "Which practice does LePera recommend for calming the body's threat response?",
+      "a": [
+        "Mindful breathing, along with better sleep and diet",
+        "High-intensity exercise every morning",
+        "Long periods of fasting each week",
+        "Keeping a detailed dream journal"
+      ],
+      "why": "Lesson two recommends breathing exercises, more sleep and healthier food to disarm the survival system."
+    },
+    {
+      "q": "What three types of boundaries does LePera describe?",
+      "a": [
+        "Physical, resource and emotional",
+        "Social, financial and spiritual",
+        "Personal, professional and digital",
+        "Emotional, mental and physical"
+      ],
+      "why": "Lesson three walks through physical limits, boundaries around time and money, and emotional boundaries."
+    }
+  ]
+}

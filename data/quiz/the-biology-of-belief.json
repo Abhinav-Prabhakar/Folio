@@ -1,0 +1,56 @@
+{
+  "book": "the-biology-of-belief",
+  "title": "The Biology of Belief",
+  "questions": [
+    {
+      "q": "Who does Lipton say came closer to the truth about evolution, decades before Darwin?",
+      "a": [
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel",
+        "Alfred Russel Wallace",
+        "Charles Lyell"
+      ],
+      "why": "Lesson 1 argues that the French biologist Lamarck, working a few decades earlier, described evolution more accurately than Darwin."
+    },
+    {
+      "q": "What role does Lamarck give to cooperation between species?",
+      "a": [
+        "It is central to how evolution works",
+        "It plays no part in natural selection",
+        "It slows down adaptation to change",
+        "It matters only for plants and microbes"
+      ],
+      "why": "Lesson 1 contrasts Lamarck's emphasis on cooperation with Darwin's survival of the fittest, and says modern science supports Lamarck."
+    },
+    {
+      "q": "What did Lipton conclude about genes after his realization in the Caribbean?",
+      "a": [
+        "The environment controls a cell's life and genes are only blueprints",
+        "Genes alone decide our health and personality",
+        "The environment matters only after birth",
+        "Cells are unaffected by their physical surroundings"
+      ],
+      "why": "Lesson 2 quotes Lipton's insight that a cell is controlled by its environment, with genes acting as blueprints the environment reads."
+    },
+    {
+      "q": "According to Lipton, what shapes a child before birth?",
+      "a": [
+        "The mother's diet, surroundings and emotions",
+        "Only the father's genetic contribution",
+        "The family's income and level of education",
+        "The child's own early choices and habits"
+      ],
+      "why": "Lesson 3 says a fetus's cells perceive the mother's diet, environment and emotions, and are programmed by them."
+    },
+    {
+      "q": "What hopeful conclusion does the summary draw from Lipton's work?",
+      "a": [
+        "We can rewrite even the programs installed early in life",
+        "Early influences can never be changed later",
+        "Biology is fixed from the moment of conception",
+        "Only childhood therapy can undo early damage"
+      ],
+      "why": "Lesson 3 ends by noting that later in life we can still rewire even the earliest-installed programs, which the summary calls its most optimistic point."
+    }
+  ]
+}

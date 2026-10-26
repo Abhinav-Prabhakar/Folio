@@ -1,0 +1,56 @@
+{
+  "book": "homo-deus",
+  "title": "Homo Deus",
+  "questions": [
+    {
+      "q": "According to Harari, what allowed humans to dominate other species?",
+      "a": [
+        "The ability to cooperate through shared stories",
+        "The ability to use tools more skillfully than others",
+        "A larger brain and stronger physical endurance",
+        "The capacity to live in a wider range of climates"
+      ],
+      "why": "Lesson 1 says shared narratives let humans collaborate on a massive scale, which drove their evolutionary success."
+    },
+    {
+      "q": "Which narrative does Harari call the dominant one in the world today?",
+      "a": [
+        "Humanism",
+        "Nationalism",
+        "Dataism",
+        "Transhumanism"
+      ],
+      "why": "Lesson 2 says humanism is the story that currently dominates, with liberalism as its most common variant."
+    },
+    {
+      "q": "What does humanism treat as humanity's greatest asset?",
+      "a": [
+        "Individual freedom",
+        "Scientific progress",
+        "Economic growth",
+        "Religious faith"
+      ],
+      "why": "Lesson 2 says humanism places humans at the center and prizes individual freedom above all."
+    },
+    {
+      "q": "What does transhumanism propose?",
+      "a": [
+        "Merging humans with technology to enhance our abilities",
+        "Replacing human workers entirely with algorithms",
+        "Returning to a simpler life before modern technology",
+        "Letting data systems run society without human input"
+      ],
+      "why": "Lesson 3 says transhumanism wants people to combine with technology so they can keep pace with algorithms."
+    },
+    {
+      "q": "What does dataism suggest humans should do?",
+      "a": [
+        "Step aside and let algorithms become as powerful as possible",
+        "Limit algorithms so human judgment always comes first",
+        "Use data only to improve health and recreation",
+        "Merge with machines to compete against algorithms"
+      ],
+      "why": "Lesson 3 describes dataism as letting algorithms develop freely, potentially leaving humans behind."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "goals",
+  "title": "Goals!",
+  "questions": [
+    {
+      "q": "What do successful people focus on most, according to Tracy?",
+      "a": ["What they want and how they will get it", "What could go wrong and who to blame", "How they compare with their competitors", "How much time they have left each day"],
+      "why": "Lesson 1 says successful people put their attention on their goals and how to reach them."
+    },
+    {
+      "q": "Which of these does the summary list as a principle of effective goals?",
+      "a": ["They should be specific, measurable and time-bound", "They should be ambitious but open-ended", "They should be shared with everyone you know", "They should be chosen by someone you trust"],
+      "why": "Lesson 2 lists six principles, starting with specific, measurable and time-bound goals."
+    },
+    {
+      "q": "What does Tracy mean by goals being in harmony?",
+      "a": ["Your goals should not work against each other", "Your goals should match your partner's goals", "Your goals should all share one deadline", "Your goals should sound positive when spoken"],
+      "why": "Lesson 2 warns that conflicting goals, like a marathon and a startup, will make both fail."
+    },
+    {
+      "q": "Why does Tracy say making goals realistic matters?",
+      "a": ["Small wins strengthen your belief that you can succeed", "Realistic goals need less planning and effort", "Realistic goals impress other people more", "Realistic goals can be reached without deadlines"],
+      "why": "Lesson 3 says achieving realistic goals more often confirms your belief in yourself."
+    },
+    {
+      "q": "Why does Tracy ask you to list reasons your goal would improve your life?",
+      "a": ["More reasons make you want the goal more", "It helps you predict problems in advance", "It shows others that the goal is sensible", "It replaces the need for a deadline"],
+      "why": "Lesson 3 says the more reasons you find, the stronger your desire to reach the goal."
+    }
+  ]
+}

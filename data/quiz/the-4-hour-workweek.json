@@ -1,0 +1,56 @@
+{
+  "book": "the-4-hour-workweek",
+  "title": "The 4-Hour Workweek",
+  "questions": [
+    {
+      "q": "What does Ferriss say you should focus your working time on?",
+      "a": [
+        "The few tasks that produce the biggest results",
+        "The tasks you can finish the fastest",
+        "The work that keeps you busiest",
+        "The projects others expect from you"
+      ],
+      "why": "Lesson 1 urges effectiveness over efficiency, spent on the 20 percent that yields most."
+    },
+    {
+      "q": "What does the 80/20 rule mean in this summary?",
+      "a": [
+        "A small share of effort produces most of the results",
+        "Most people work at only 20 percent capacity",
+        "You should work 80 hours and rest 20",
+        "Eighty percent of projects should be outsourced"
+      ],
+      "why": "Lesson 1 applies the Pareto principle to time, and notes the split is often even more lopsided."
+    },
+    {
+      "q": "How should you validate a business idea?",
+      "a": [
+        "Ask people to pay before you build it",
+        "Survey friends about whether they like it",
+        "Build a prototype and then test demand",
+        "Research what competitors are charging"
+      ],
+      "why": "Lesson 2 says to get money first, since pre-selling reveals demand before you invest."
+    },
+    {
+      "q": "Why does Ferriss recommend charging a premium?",
+      "a": [
+        "You need fewer customers and they are less hassle",
+        "It makes your product seem scarce",
+        "It lets you skip customer service entirely",
+        "It attracts buyers who like to bargain"
+      ],
+      "why": "Lesson 3 shows that higher prices mean fewer sales needed and calmer, easier clients."
+    },
+    {
+      "q": "What kind of buyer does a premium price tend to attract?",
+      "a": [
+        "Low-hassle buyers who complain and return less",
+        "Buyers who demand the most support",
+        "Buyers who compare every price closely",
+        "Buyers who purchase only once"
+      ],
+      "why": "Lesson 3 says such customers do not have to think twice about every cent they spend."
+    }
+  ]
+}

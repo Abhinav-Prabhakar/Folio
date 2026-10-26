@@ -1,0 +1,56 @@
+{
+  "book": "the-coachs-survival-guide",
+  "title": "The Coach’s Survival Guide",
+  "questions": [
+    {
+      "q": "What is a key factor beyond certification for coach credibility?",
+      "a": [
+        "Credibility from experience",
+        "Certification alone",
+        "Marketing skills",
+        "Networking"
+      ],
+      "why": "Credibility comes from more than just certification."
+    },
+    {
+      "q": "Why did Simon struggle to attract clients outside government?",
+      "a": [
+        "Lack of credibility",
+        "High fees",
+        "Poor marketing",
+        "Limited network"
+      ],
+      "why": "Simon lacked the right credibility."
+    },
+    {
+      "q": "What does Lauren's main challenge illustrate?",
+      "a": [
+        "Imposter syndrome",
+        "Client retention",
+        "Pricing strategy",
+        "Time management"
+      ],
+      "why": "Lauren experiences imposter syndrome."
+    },
+    {
+      "q": "What negative effect did Sam's focus on old clients cause?",
+      "a": [
+        "Personal life decline",
+        "Increased revenue",
+        "Better client loyalty",
+        "More referrals"
+      ],
+      "why": "Sam let her life go downhill."
+    },
+    {
+      "q": "Which lesson warns against neglecting personal needs?",
+      "a": [
+        "Maintain own life order",
+        "Expand client base",
+        "Increase marketing",
+        "Set high fees"
+      ],
+      "why": "Coaching can lead to neglecting one's own life."
+    }
+  ]
+}

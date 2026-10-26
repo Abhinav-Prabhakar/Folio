@@ -1,0 +1,56 @@
+{
+  "book": "in-search-of-excellence",
+  "title": "In Search Of Excellence",
+  "questions": [
+    {
+      "q": "How did IBM put customers first, according to the summary?",
+      "a": [
+        "Entry-level staff resolved complaints within a day",
+        "It offered the lowest prices in the industry",
+        "It replaced salespeople with self-service tools",
+        "It published a toll-free customer hotline first"
+      ],
+      "why": "Lesson 1 says IBM staff handled customer complaints within 24 hours, building trust."
+    },
+    {
+      "q": "What did Procter & Gamble pioneer?",
+      "a": [
+        "A toll-free number printed on its products",
+        "A money-back guarantee on every item",
+        "The first employee of the month program",
+        "Same-day delivery for retailers"
+      ],
+      "why": "Lesson 1 says P&G was first to put a toll-free number on products, which drove later improvements."
+    },
+    {
+      "q": "What is the lip service trap described in the summary?",
+      "a": [
+        "Claiming to care about staff without actually training them",
+        "Rewarding one worker with a monthly title",
+        "Promising customers service you cannot deliver",
+        "Hiring consultants instead of listening to staff"
+      ],
+      "why": "Lesson 2 names lip service and gimmicks as false ways of caring for employees."
+    },
+    {
+      "q": "How do excellent companies treat their employees?",
+      "a": [
+        "They invest in development and expect a lot from them",
+        "They monitor schedules and enforce strict rules",
+        "They keep teams small to avoid extra benefits",
+        "They reward individuals with symbolic prizes"
+      ],
+      "why": "Lesson 2 recommends a people-centered workplace with training and informal communication."
+    },
+    {
+      "q": "What do the best companies emphasize beyond financial numbers?",
+      "a": [
+        "Clear values such as service and innovation",
+        "Aggressive growth targets and market share",
+        "Quarterly reports for shareholders",
+        "Cost controls across every department"
+      ],
+      "why": "Lesson 3 says firms focused on broader values like quality and service outperform number-driven ones."
+    }
+  ]
+}

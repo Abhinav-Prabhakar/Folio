@@ -1,0 +1,56 @@
+{
+  "book": "my-morning-routine",
+  "title": "My Morning Routine",
+  "questions": [
+    {
+      "q": "Why do many successful people exercise or meditate right after waking?",
+      "a": [
+        "It boosts the brain and sets up the rest of the day",
+        "It replaces the need for a full night of sleep",
+        "It is the only way to avoid morning distractions",
+        "It lets them finish work before breakfast"
+      ],
+      "why": "Lesson 1 says the surveyed high achievers see movement as boosting the brain and setting them up to win the day."
+    },
+    {
+      "q": "What did Nir Eyal do to protect his sleep?",
+      "a": [
+        "He set his router to cut the internet at 10 pm",
+        "He set three alarms across the room",
+        "He stopped eating dinner after 6 pm",
+        "He moved his phone into the bathroom"
+      ],
+      "why": "Lesson 2 describes Eyal's router shutting off the internet at 10 pm so he is off devices before bed."
+    },
+    {
+      "q": "What evening rule does Jenny Blake follow to disconnect from work?",
+      "a": [
+        "She does not check email after 5 pm",
+        "She writes tomorrow's plan at midnight",
+        "She leaves her laptop at the office",
+        "She turns off all lights by 8 pm"
+      ],
+      "why": "Lesson 2 uses Blake's no-email-after-5-pm rule as an example of disconnecting in the evening."
+    },
+    {
+      "q": "What happened to Arianna Huffington that changed her view of sleep?",
+      "a": [
+        "She collapsed at work and broke her cheekbone",
+        "She was diagnosed with chronic insomnia",
+        "She missed a flight after oversleeping",
+        "She fell asleep during a live interview"
+      ],
+      "why": "Lesson 3 recounts Huffington passing out at her desk from exhaustion and breaking her cheekbone."
+    },
+    {
+      "q": "What benefit does the summary link to giving up your alarm clock?",
+      "a": [
+        "Better sleep and, for one investor, relief from depression",
+        "More hours available for early exercise",
+        "A sharper memory for daily tasks",
+        "A reduced need for evening planning"
+      ],
+      "why": "Lesson 3 says Brad Feld stopped using an alarm after poor sleep fed a depressive episode and felt better."
+    }
+  ]
+}

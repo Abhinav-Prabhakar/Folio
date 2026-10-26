@@ -1,0 +1,56 @@
+{
+  "book": "lives-of-the-stoics",
+  "title": "Lives Of The Stoics",
+  "questions": [
+    {
+      "q": "How did Stoicism begin, according to the summary?",
+      "a": [
+        "Zeno lost everything in a shipwreck and turned to philosophy",
+        "Marcus Aurelius wrote down his private meditations",
+        "Cicero studied philosophy in Athens as a young man",
+        "Crates opened a school for wealthy Roman senators"
+      ],
+      "why": "The first lesson says Zeno survived a devastating shipwreck that cost him his livelihood, then moved to Athens to study philosophy."
+    },
+    {
+      "q": "What are the four guiding virtues of Stoicism?",
+      "a": [
+        "Courage, wisdom, temperance and justice",
+        "Honesty, loyalty, patience and humility",
+        "Discipline, ambition, generosity and faith",
+        "Courage, strength, honor and duty"
+      ],
+      "why": "The summary names courage, wisdom, temperance and justice as the principles Zeno's philosophy was built on."
+    },
+    {
+      "q": "Where does the name Stoicism come from?",
+      "a": [
+        "The porch in Athens where Zeno taught",
+        "The Greek word for enduring hardship",
+        "The name of Zeno's first teacher",
+        "A Roman general who spread the ideas"
+      ],
+      "why": "Zeno taught on a porch called the Stoa Poikile, and the philosophy took its name from that simple porch."
+    },
+    {
+      "q": "How did Cicero fall short of Stoic ideals?",
+      "a": [
+        "He had Catiline's supporters executed without a trial",
+        "He refused to serve as consul of Rome",
+        "He gave away his family fortune to the poor",
+        "He abandoned philosophy for a military career"
+      ],
+      "why": "The second lesson says anger got the better of Cicero, and he killed thousands without trial, staining his legacy."
+    },
+    {
+      "q": "How did Marcus Aurelius show humility as emperor?",
+      "a": [
+        "He shared power with his brother and forgave conspirators",
+        "He refused to read any philosophy while ruling",
+        "He raised taxes to refill the Roman treasury",
+        "He sent his old tutors away from the palace"
+      ],
+      "why": "The third lesson says his first act was to make his adoptive brother co-emperor, and he forgave Cassius's conspirators."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "good-people",
+  "title": "Good People",
+  "questions": [
+    {
+      "q": "What are the three levels of the Goodness Pyramid, bottom to top?",
+      "a": ["Truth, compassion and wholeness", "Skill, loyalty and wisdom", "Humility, empathy and respect", "Integrity, generosity and love"],
+      "why": "Lesson 1 lays out truth as the base, compassion in the middle and wholeness at the peak."
+    },
+    {
+      "q": "What do most employers focus on when hiring, according to the summary?",
+      "a": ["Competence rather than values", "Values rather than competence", "Cultural fit above all else", "Long-term potential rather than skills"],
+      "why": "The overview says most employers value skills over values, which hurts both people and business."
+    },
+    {
+      "q": "Which quality sits at the base of the Goodness Pyramid?",
+      "a": ["Truth, built from humility, self-awareness and integrity", "Compassion, built from openness and empathy", "Wholeness, built from wisdom and love", "Loyalty, built from trust and consistency"],
+      "why": "Lesson 1 says truth is foundational because without it everything falls apart."
+    },
+    {
+      "q": "What is the 24x3 rule for developing openness?",
+      "a": ["Wait 24 seconds, minutes or hours before responding to an idea", "Spend 24 minutes a day listening to a colleague", "Ask three questions before offering your view", "Review three decisions every 24 days"],
+      "why": "Lesson 2 offers the 24x3 rule as a way to fight negativity and let optimism shine."
+    },
+    {
+      "q": "What does wholeness mean at the top of the pyramid?",
+      "a": ["Seeking to improve through wisdom, love and respect", "Reaching a perfect, flawless state", "Balancing work and family equally", "Being liked by everyone on your team"],
+      "why": "Lesson 3 says good people seek wholeness, which in business means love, respect and wisdom."
+    }
+  ]
+}

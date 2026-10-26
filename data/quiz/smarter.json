@@ -1,0 +1,56 @@
+{
+  "book": "smarter",
+  "title": "Smarter",
+  "questions": [
+    {
+      "q": "What is fluid intelligence?",
+      "a": [
+        "The ability to reason through new problems",
+        "The facts and skills you accumulate",
+        "Your ability to remember people's names",
+        "Your speed at reading long texts"
+      ],
+      "why": "Lesson 1 describes it as logic and reasoning applied to unfamiliar problems."
+    },
+    {
+      "q": "What is crystallized intelligence?",
+      "a": [
+        "The knowledge and skills built up over time",
+        "The capacity for logic and pattern spotting",
+        "The peak reached in early adulthood",
+        "The ability to learn new games quickly"
+      ],
+      "why": "Lesson 1 calls it the knowledge base you grow over a lifetime."
+    },
+    {
+      "q": "What did the N-back study find after four weeks?",
+      "a": [
+        "A 40 percent gain in fluid intelligence tasks",
+        "A 4 percent gain in memory tasks",
+        "No change in any measured skill",
+        "A 40 percent gain in reading speed"
+      ],
+      "why": "Lesson 2 says participants improved 40 percent on fluid intelligence tests."
+    },
+    {
+      "q": "What does the summary say about the lasting effects of working-memory training?",
+      "a": [
+        "Gains fade quickly and transfer to few unrelated tasks",
+        "Gains last for years without any practice",
+        "Gains apply equally to all kinds of tasks",
+        "Gains appear only in older adults"
+      ],
+      "why": "Lesson 3 says a meta-study found short-term gains that faded and rarely transferred."
+    },
+    {
+      "q": "What is far transfer?",
+      "a": [
+        "Using learning from one task in a different context",
+        "Repeating a task until it becomes automatic",
+        "Moving skills into long-term memory",
+        "Teaching a new skill to someone else"
+      ],
+      "why": "Lesson 3 defines far transfer as applying training to unrelated tasks."
+    }
+  ]
+}

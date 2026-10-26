@@ -1,0 +1,56 @@
+{
+  "book": "that-sounds-fun",
+  "title": "That Sounds Fun",
+  "questions": [
+    {
+      "q": "What does Annie Downs say fun actually is?",
+      "a": [
+        "A feeling, rather than a particular activity",
+        "A reward you earn after working hard",
+        "A habit built up through daily practice",
+        "A short break from your usual routine"
+      ],
+      "why": "Lesson 1 states plainly that fun is not an activity but a feeling."
+    },
+    {
+      "q": "Which childhood memory does the author use to illustrate simple joy?",
+      "a": [
+        "Snapping beans with her mother and grandmother",
+        "Riding bicycles around her neighborhood",
+        "Sipping hot chocolate on winter mornings",
+        "Watering the plants in her family garden"
+      ],
+      "why": "Lesson 1 recalls shelling beans from dusk till dawn in Georgia, and calling that the best part."
+    },
+    {
+      "q": "What did the author put off while waiting for a future life shared with someone?",
+      "a": [
+        "Buying a house, a trip to Europe and even coffee mugs",
+        "Changing jobs, saving money and moving cities",
+        "Learning to cook, hosting parties and dating",
+        "Writing a book, adopting a dog and traveling"
+      ],
+      "why": "Lesson 2 lists the house, the dream trip and the mugs she saved for a marriage that had not happened."
+    },
+    {
+      "q": "What did the author learn about pretending to be happy during hard times?",
+      "a": [
+        "Fake smiling only makes you sadder",
+        "It helps you move on more quickly",
+        "It protects the people around you",
+        "It becomes genuine if you keep trying"
+      ],
+      "why": "Lesson 3 describes the Lone Valley trip, where a forced smile made her feel worse until she was honest."
+    },
+    {
+      "q": "Why does the summary say hobbies matter?",
+      "a": [
+        "They help you enjoy life and cope with what hurts",
+        "They make you more productive at work",
+        "They replace the need for close friends",
+        "They turn your free time into income"
+      ],
+      "why": "Lesson 3 notes that we drop our silly passions, though they help us heal and live happier days."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "mastery",
+  "title": "Mastery",
+  "questions": [
+    {
+      "q": "How does Greene say you should choose the skill you want to master?",
+      "a": [
+        "Trust the gut feeling that tells you what fits you",
+        "Pick whichever field currently pays the most",
+        "Follow the choice your parents recommend",
+        "Choose the subject you were best at in school"
+      ],
+      "why": "Lesson 1 urges readers to listen to the inner voice that says a particular discipline is made for them."
+    },
+    {
+      "q": "Why does Greene recommend taking a low-paying apprenticeship?",
+      "a": [
+        "Learning and mentorship pay off far more than a bigger salary now",
+        "Low-paying jobs are less demanding and leave time for hobbies",
+        "Apprenticeships guarantee a job at the same company forever",
+        "Salary matters more than skill, so you should switch later"
+      ],
+      "why": "Lesson 2 says learning has a much higher return than earning a little more early on."
+    },
+    {
+      "q": "What did Benjamin Franklin do instead of joining his father’s candle business?",
+      "a": [
+        "He took a printing job to master the art of words",
+        "He became a sailor to see the wider world",
+        "He opened his own shop selling imported goods",
+        "He studied law at a university abroad"
+      ],
+      "why": "Lesson 2 uses Franklin’s printing apprenticeship as an example of choosing learning over an easier family business."
+    },
+    {
+      "q": "What should you do once your apprenticeship ends?",
+      "a": [
+        "Question what you learned and develop your own style",
+        "Follow your mentor’s methods exactly from then on",
+        "Stop studying because your training is complete",
+        "Teach others before attempting original work"
+      ],
+      "why": "Lesson 3 says you must keep an open mind, challenge the rules you were taught and let your own style flourish."
+    },
+    {
+      "q": "What common belief about mastery does the book set out to disprove?",
+      "a": [
+        "That masters are simply born with exceptional talent",
+        "That practice matters more than natural ability",
+        "That mentors are essential to becoming great",
+        "That mastery takes many years of dedicated work"
+      ],
+      "why": "The overview says the book debunks the myth of talent and presents steps anyone can follow toward mastery."
+    }
+  ]
+}

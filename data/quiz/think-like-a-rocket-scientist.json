@@ -1,0 +1,56 @@
+{
+  "book": "think-like-a-rocket-scientist",
+  "title": "Think Like A Rocket Scientist",
+  "questions": [
+    {
+      "q": "What sparked the author's love for problem‑solving?",
+      "a": [
+        "Building a LEGO set",
+        "Reading science books",
+        "Watching space missions",
+        "Playing video games"
+      ],
+      "why": "He built a LEGO set and solved a fitting problem."
+    },
+    {
+      "q": "What did Elon Musk realize about building rockets?",
+      "a": [
+        "He could manufacture them himself",
+        "He needed more funding",
+        "He should partner with NASA",
+        "He should outsource parts"
+      ],
+      "why": "Musk realized he could manufacture everything himself for cost efficiency."
+    },
+    {
+      "q": "Why did the author consider applying to NASA?",
+      "a": [
+        "He saw an open call",
+        "He wanted to travel",
+        "He wanted fame",
+        "He was bored"
+      ],
+      "why": "He saw NASA accepting applications and thought he might qualify."
+    },
+    {
+      "q": "How many times did James Dyson fail before success?",
+      "a": [
+        "5,126",
+        "1,000",
+        "500",
+        "100"
+      ],
+      "why": "Dyson failed 5,126 times before perfecting the vacuum."
+    },
+    {
+      "q": "What lesson does Dyson's story illustrate?",
+      "a": [
+        "Learn from failures",
+        "Ignore criticism",
+        "Follow the crowd",
+        "Avoid risk"
+      ],
+      "why": "It shows examining mistakes leads to success."
+    }
+  ]
+}

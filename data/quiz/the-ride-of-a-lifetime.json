@@ -1,0 +1,56 @@
+{
+  "book": "the-ride-of-a-lifetime",
+  "title": "The Ride Of A Lifetime",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Ride Of A Lifetime?",
+      "a": [
+        "Disney is crushing it right now in a lot of different realms.",
+        "Keto Answers is the definitive source of information on keto.",
+        "I never thought to connect these two, so this is interesting.",
+        "It’s tragic to think about the problem of mass incarceration."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Ride Of A Lifetime explore?",
+      "a": [
+        "You might be just one “coincidence” away from success",
+        "When the world calls out to you, listen to that call!",
+        "Get inspired by learning about other people’s stories",
+        "Don’t rush your job hunt. It takes some time nowadays"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Ride Of A Lifetime teach?",
+      "a": [
+        "Unbelievable opportunities come from trying ideas that initially sound impossible",
+        "Marketing a product means telling a story that will turn your customers into fans",
+        "Avoid competition by coming up with your own product category and dominating that",
+        "A good strategy only has 3 parts: diagnosis, guiding policy, and a set of actions"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Ride Of A Lifetime?",
+      "a": [
+        "Call it luck or fate if you want, but Iger’s career success began as no chance.",
+        "During his time in medical school, Kalanithi spent a lot of time with cadavers.",
+        "Picture this scenario: you’re finally working on that task you had to get done.",
+        "Did you know that Pixar only has bathrooms in the central atrium of its campus?"
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Ride Of A Lifetime?",
+      "a": [
+        "The Ride Of A Lifetime illustrates Robert Iger’s journey to becoming the CEO of Disney…",
+        "Of course the blink said social situations can be manipulated to help you seduce women.",
+        "In some cases, rookies will even outsmart their experienced co-workers from the get-go.",
+        "There are opportunities to discover even in pitch dark if you know how to look for them"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

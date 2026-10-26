@@ -1,0 +1,56 @@
+{
+  "book": "billion-dollar-whale",
+  "title": "Billion Dollar Whale",
+  "questions": [
+    {
+      "q": "Why did Jho Low start lying at Harrow School?",
+      "a": [
+        "He wanted to keep up with far wealthier classmates",
+        "He was hiding that his family was poor",
+        "He hoped to impress his teachers",
+        "He was trying to avoid being bullied"
+      ],
+      "why": "His family was worth millions, but he still felt like a small fry beside the elite."
+    },
+    {
+      "q": "What did Low do when friends visited his home in Malaysia?",
+      "a": [
+        "Rented a billionaire's house and yacht and swapped in family photos",
+        "Hosted them at his family's modest home",
+        "Took them to a government palace for dinner",
+        "Bought a small yacht and hired a crew"
+      ],
+      "why": "The stunt helped him become known at school as the prince of Malaysia."
+    },
+    {
+      "q": "Why did Low let Najib Razak take credit for the Mubadala investment deal?",
+      "a": [
+        "It won him a powerful friend who could later give him a fund",
+        "He was afraid of attracting public attention",
+        "He owed Najib a large personal debt",
+        "He wanted to avoid paying Malaysian taxes"
+      ],
+      "why": "Najib gained credentials, and Low gained influence with a future prime minister."
+    },
+    {
+      "q": "What was the 1MDB fund supposed to do?",
+      "a": [
+        "Raise money in the Gulf and invest it in Malaysian development",
+        "Finance Hollywood films and celebrity events",
+        "Pay pensions for retired Malaysian civil servants",
+        "Build a new capital city from scratch"
+      ],
+      "why": "The summary describes it as a sovereign wealth fund for economic development projects."
+    },
+    {
+      "q": "What finally brought Low's fraud to public attention?",
+      "a": [
+        "A disgruntled insider released evidence to newspapers",
+        "An accountant at 1MDB confessed to investigators",
+        "Interpol traced the stolen money through Europe",
+        "A Hollywood celebrity reported him to the police"
+      ],
+      "why": "Justo Xavier leaked the evidence in 2014 after the fund's backers refused to pay him."
+    }
+  ]
+}

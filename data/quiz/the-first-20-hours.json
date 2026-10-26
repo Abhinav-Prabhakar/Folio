@@ -1,0 +1,56 @@
+{
+  "book": "the-first-20-hours",
+  "title": "The First 20 Hours",
+  "questions": [
+    {
+      "q": "What strategy does Warren Buffett use to prioritize goals?",
+      "a": [
+        "List 25 goals, focus on top 5, avoid bottom 20",
+        "Rank goals by profit",
+        "Choose random goals each month",
+        "Eliminate all but one goal"
+      ],
+      "why": "Describes Buffett's 2‑list strategy."
+    },
+    {
+      "q": "According to Josh Kaufman, what is the biggest barrier to progress?",
+      "a": [
+        "Not starting practice sessions",
+        "Lack of equipment",
+        "Insufficient funding",
+        "Bad weather"
+      ],
+      "why": "Calls sessions you don't start the biggest preventer."
+    },
+    {
+      "q": "What precaution did Josh take when first windsurfing?",
+      "a": [
+        "Brought a watcher and bought a wetsuit",
+        "Practiced on a lake first",
+        "Took a safety class",
+        "Used a motorized board"
+      ],
+      "why": "Mentions bringing someone and a good wetsuit."
+    },
+    {
+      "q": "What does the author suggest about early writing practice?",
+      "a": [
+        "Write whenever inspiration strikes",
+        "Wait for perfect ideas",
+        "Only write after research",
+        "Draft outlines first"
+      ],
+      "why": "Says he wrote whenever inspiration struck."
+    },
+    {
+      "q": "What principle does Josh emphasize for the first 20 hours of learning?",
+      "a": [
+        "Practice as much and as fast as possible",
+        "Focus on theory before practice",
+        "Limit practice to one hour daily",
+        "Take long breaks between sessions"
+      ],
+      "why": "Highlights the tenth principle about fast, intense practice."
+    }
+  ]
+}

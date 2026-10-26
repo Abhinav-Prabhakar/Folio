@@ -1,0 +1,56 @@
+{
+  "book": "lateral-thinking",
+  "title": "Lateral Thinking",
+  "questions": [
+    {
+      "q": "What is vertical thinking best suited for, according to the summary?",
+      "a": [
+        "Analyzing facts, numbers and data",
+        "Dreaming up entirely new products",
+        "Solving problems with no precedent",
+        "Interpreting emotions within a group"
+      ],
+      "why": "Lesson 1 contrasts vertical thinking with lateral thinking."
+    },
+    {
+      "q": "What does the reversal technique involve?",
+      "a": [
+        "Flipping cause and effect to view a problem from another angle",
+        "Listing every possible solution at the same time",
+        "Asking a group to vote on the best idea",
+        "Repeating one solution until it finally works"
+      ],
+      "why": "Lesson 2 says reversing the relationship forces you to rethink it."
+    },
+    {
+      "q": "How should a brainstorming session begin?",
+      "a": [
+        "By sharing ideas without judging them",
+        "By ranking the best ideas first",
+        "By choosing a leader to make decisions",
+        "By writing a formal proposal in advance"
+      ],
+      "why": "Lesson 2 says a non-judgmental first stage keeps creativity alive."
+    },
+    {
+      "q": "What is random exposure?",
+      "a": [
+        "Trying unfamiliar activities and conversations to train creativity",
+        "Reading only the most popular books in your field",
+        "Practicing one skill until you have mastered it",
+        "Studying statistics carefully before deciding anything"
+      ],
+      "why": "Lesson 3 says innovation comes from exploring the unknown and risking failure."
+    },
+    {
+      "q": "What is formal generation?",
+      "a": [
+        "Using a random nearby object or word to spark a solution",
+        "Following a formal step-by-step planning method",
+        "Generating ideas only during scheduled meetings",
+        "Writing down every idea and scoring it afterward"
+      ],
+      "why": "Lesson 3 says you pick a random tool, word or object and apply it to the problem."
+    }
+  ]
+}

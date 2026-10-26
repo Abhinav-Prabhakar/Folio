@@ -1,0 +1,56 @@
+{
+  "book": "the-order-of-time",
+  "title": "The Order Of Time",
+  "questions": [
+    {
+      "q": "What does Rovelli claim about time and heat?",
+      "a": [
+        "Heat makes the concept of time possible",
+        "Heat destroys time perception",
+        "Heat has no effect on time",
+        "Heat speeds up clocks uniformly"
+      ],
+      "why": "The text links heat to the existence of time."
+    },
+    {
+      "q": "How does Einstein's relativity affect time in the same location?",
+      "a": [
+        "Moving objects experience slower time",
+        "Stationary objects experience slower time",
+        "All objects share identical time",
+        "Time stops for fast objects"
+      ],
+      "why": "Einstein found that speed changes perceived time."
+    },
+    {
+      "q": "What ancient philosopher said change is the only constant?",
+      "a": [
+        "Heraclitus",
+        "Plato",
+        "Aristotle",
+        "Socrates"
+      ],
+      "why": "Heraclitus is quoted about constant change."
+    },
+    {
+      "q": "According to the book, what is considered an event rather than a thing?",
+      "a": [
+        "A kiss",
+        "A rock",
+        "A mountain",
+        "A river"
+      ],
+      "why": "The text likens a kiss to an event, not a static thing."
+    },
+    {
+      "q": "What misconception about time does the book challenge?",
+      "a": [
+        "That time passes uniformly everywhere",
+        "That time can be measured with clocks",
+        "That time is unrelated to motion",
+        "That time is a human invention"
+      ],
+      "why": "It argues time does not move at the same speed everywhere."
+    }
+  ]
+}

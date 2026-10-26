@@ -1,0 +1,56 @@
+{
+  "book": "just-keep-buying",
+  "title": "Just Keep Buying",
+  "questions": [
+    {
+      "q": "What does the Dolly Varden trout do when food is scarce?",
+      "a": [
+        "It shrinks its digestive organs and slows digestion",
+        "It migrates to warmer waters for the season",
+        "It stores extra fat under its scales",
+        "It stops reproducing for several years"
+      ],
+      "why": "Lesson 1 uses the fish to show that saving should flex with circumstances."
+    },
+    {
+      "q": "What saving approach does the author recommend instead of a fixed rate?",
+      "a": [
+        "Save more when income is high and less when it is low",
+        "Save the same percentage no matter what happens",
+        "Save nothing until you are close to retirement",
+        "Save only windfalls and annual bonuses"
+      ],
+      "why": "Lesson 1 says save what you can, when you can, rather than forcing a set rate."
+    },
+    {
+      "q": "Why does the summary favor earning more over cutting costs?",
+      "a": [
+        "Your capacity to earn is nearly unlimited, unlike spending cuts",
+        "Higher income always lowers the taxes you owe",
+        "Cutting costs never improves anyone's savings",
+        "Employers reward people who spend less money"
+      ],
+      "why": "Lesson 2 says saving potential is limited but earning capacity is nearly infinite."
+    },
+    {
+      "q": "What does just keep buying refer to in the summary?",
+      "a": [
+        "Continuing to buy broad stock market funds over time",
+        "Buying a home as soon as you can afford one",
+        "Purchasing shares of individual companies you like",
+        "Spending freely on things that bring you joy"
+      ],
+      "why": "Lesson 2 says it means steadily buying broad market ETFs to build portfolio income."
+    },
+    {
+      "q": "According to the summary, what is money's real question for us?",
+      "a": [
+        "What matters most to us, so money goes to the right things",
+        "How much of each paycheck should be invested",
+        "Which bank offers the highest interest rate",
+        "When should you retire and stop working"
+      ],
+      "why": "Lesson 3 says the challenge is identifying priorities, not just save-versus-spend ratios."
+    }
+  ]
+}

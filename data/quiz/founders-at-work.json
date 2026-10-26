@@ -1,0 +1,56 @@
+{
+  "book": "founders-at-work",
+  "title": "Founders at Work",
+  "questions": [
+    {
+      "q": "What do Livingston's interviews suggest matters most when launching a company?",
+      "a": [
+        "A talented, flexible team",
+        "A detailed business plan",
+        "A large funding round",
+        "A patented technology"
+      ],
+      "why": "The first lesson says the founders of Excite succeeded because of their team, not because they had a clear plan."
+    },
+    {
+      "q": "What did the Excite founders have before they settled on a business?",
+      "a": [
+        "A group of passionate, intelligent friends and a goal",
+        "A finished product and paying customers",
+        "A patent and a team of lawyers",
+        "A five-year plan and a signed lease"
+      ],
+      "why": "The summary says Kraus and five Stanford friends knew only that they were capable and wanted to build something useful."
+    },
+    {
+      "q": "Why did Joel Spolsky aim to run Fog Creek without investor capital?",
+      "a": [
+        "He wanted to keep the workplace he had designed",
+        "He could not find anyone willing to invest",
+        "He planned to sell the company quickly",
+        "He wanted to avoid paying taxes on profits"
+      ],
+      "why": "The second lesson says investors would have seen his offices, flights and vacations as wasteful frills."
+    },
+    {
+      "q": "What happened when Fog Creek raised its price from $199 to $999?",
+      "a": [
+        "Customers saw more value and bought more units",
+        "Sales collapsed until the price was lowered again",
+        "Customers demanded longer money-back guarantees",
+        "The company had to hire extra support staff"
+      ],
+      "why": "The second lesson uses the price rise to show how avoiding investors forced a smarter business model."
+    },
+    {
+      "q": "What was the most common advice Livingston heard from the founders she interviewed?",
+      "a": [
+        "Listen closely to what your customers want",
+        "Hire only managers with years of experience",
+        "Launch as quietly as you possibly can",
+        "Copy whatever your competitors do well"
+      ],
+      "why": "The third lesson says listening to customers is how founders create something of real value."
+    }
+  ]
+}

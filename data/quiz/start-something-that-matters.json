@@ -1,0 +1,56 @@
+{
+  "book": "start-something-that-matters",
+  "title": "Start Something That Matters",
+  "questions": [
+    {
+      "q": "Why did Blake Mycoskie choose a for-profit company over a charity for TOMS?",
+      "a": [
+        "A business would provide a steadier supply of shoes than donations",
+        "Charities were not allowed to operate in Argentina",
+        "Investors refused to fund any kind of charity",
+        "A company would let him keep all the profits"
+      ],
+      "why": "The overview says a profitable business would not depend on the fluctuating generosity of donors."
+    },
+    {
+      "q": "How did Mycoskie deal with his fear of starting the company?",
+      "a": [
+        "He wrote down each fear and what would happen if it came true",
+        "He asked friends to talk him out of starting it",
+        "He avoided thinking about the risks until launch day",
+        "He took a course on the shoe industry first"
+      ],
+      "why": "Lesson 1 says listing his fears and their consequences showed him the worst case was survivable."
+    },
+    {
+      "q": "What does the summary say is the key to a simple business?",
+      "a": [
+        "Choose one thing and do it as well as you can",
+        "Offer as many products as possible to reach more people",
+        "Copy the model of the biggest competitor",
+        "Wait for enough money before starting"
+      ],
+      "why": "Lesson 2 says focusing on one thing saves money and makes the model easier for investors to grasp."
+    },
+    {
+      "q": "How did the TOMS team keep costs down at the beginning?",
+      "a": [
+        "They worked from the founder’s living room and reused materials",
+        "They rented a large office in the city center",
+        "They outsourced everything to overseas factories",
+        "They hired a big staff before launch"
+      ],
+      "why": "Lesson 2 describes the team working from a living room and the author recycling other people’s business cards."
+    },
+    {
+      "q": "Why does the summary say giving is good business?",
+      "a": [
+        "It gives customers a story they want to share with others",
+        "It guarantees lower production costs",
+        "It removes the need for any marketing at all",
+        "It lets companies avoid paying taxes"
+      ],
+      "why": "Lesson 3 says people connect emotionally with the story of giving and become fans who spread it themselves."
+    }
+  ]
+}

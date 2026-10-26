@@ -1,0 +1,31 @@
+{
+  "book": "building-social-business",
+  "title": "Building Social Business",
+  "questions": [
+    {
+      "q": "How does a social business handle the profit it makes?",
+      "a": ["It repays investors only what they put in and reinvests the rest", "It pays investors a growing dividend each year", "It relies on grants and donations to keep running", "It gives its products away without charging anything"],
+      "why": "Lesson 1 explains that investors get back only their original investment, while extra profit goes back into pursuing the social goal."
+    },
+    {
+      "q": "In a type II social business, who owns the company?",
+      "a": ["Poor people", "Outside investors", "The government", "A charitable foundation"],
+      "why": "Lesson 1 says a type II social business is owned by poor people, so its profits work toward reducing poverty."
+    },
+    {
+      "q": "When starting a social business, what should you choose first?",
+      "a": ["One social problem your skills can best address", "The largest possible group of investors", "A full team of employees to hire", "A proven non-profit's operating model"],
+      "why": "Lesson 2 advises picking a single social issue where your own experience gives you the best chance of making a difference."
+    },
+    {
+      "q": "What should a social business's budget show, according to Yunus?",
+      "a": ["Revenue that covers all costs and a rainy day", "The lowest possible prices for customers", "A yearly share of profits for investors", "Dependence on government grants and charity"],
+      "why": "Lesson 2 says the budget must cover every cost plus a reserve, because the business has to sustain itself like a for-profit."
+    },
+    {
+      "q": "Why does the summary call capitalism as we know it incomplete?",
+      "a": ["It has left many people poor while others grew wealthy", "It discourages competition and new ideas", "It makes companies dependent on donations", "It ignores the need to earn a profit"],
+      "why": "Lesson 3 says the gains of modern capitalism were unevenly spread, leaving many people behind in poverty."
+    }
+  ]
+}

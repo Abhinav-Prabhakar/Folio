@@ -1,0 +1,56 @@
+{
+  "book": "the-wisdom-of-crowds",
+  "title": "The Wisdom Of Crowds",
+  "questions": [
+    {
+      "q": "What did Galton discover about the average guess of the ox weight?",
+      "a": [
+        "It was only one pound off the true weight",
+        "It matched the exact weight",
+        "It was ten pounds heavy",
+        "It was far off the true weight"
+      ],
+      "why": "Average guess was 1,197 lbs versus true 1,198 lbs."
+    },
+    {
+      "q": "Which lesson explains why crowds can fail to decide well?",
+      "a": [
+        "Herd behavior weakens crowd decisions",
+        "Big crowds are always smarter",
+        "Pedestrians think differently",
+        "Crowds ignore statistics"
+      ],
+      "why": "Lesson 2 warns about herd behavior."
+    },
+    {
+      "q": "In the pedestrian analogy, how do people avoid collisions?",
+      "a": [
+        "They adjust speed and direction",
+        "They stop completely",
+        "They shout warnings",
+        "They ignore others"
+      ],
+      "why": "Text says walkers coordinate by adjusting speed and anticipating."
+    },
+    {
+      "q": "What year did Galton observe the livestock fair?",
+      "a": [
+        "1906",
+        "1899",
+        "1912",
+        "1920"
+      ],
+      "why": "The fair is dated 1906 in the book."
+    },
+    {
+      "q": "Why might someone stay late at a party according to herd behavior?",
+      "a": [
+        "Because everyone else does",
+        "Because they love the music",
+        "Because they are invited",
+        "Because they have no other plans"
+      ],
+      "why": "Example shows following the crowd's opinion."
+    }
+  ]
+}

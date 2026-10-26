@@ -1,0 +1,56 @@
+{
+  "book": "thrive",
+  "title": "Thrive",
+  "questions": [
+    {
+      "q": "What two ingredients did Arianna originally think defined success?",
+      "a": [
+        "Money and power",
+        "Health and wealth",
+        "Fame and fortune",
+        "Love and respect"
+      ],
+      "why": "The text says she thought success consisted of money and power."
+    },
+    {
+      "q": "What event prompted Arianna to reconsider her view of success?",
+      "a": [
+        "A fainting incident in 2007",
+        "Winning a major award",
+        "Publishing a bestseller",
+        "Launching a new company"
+      ],
+      "why": "She fainted in her office in 2007, leading to the wake‑up call."
+    },
+    {
+      "q": "According to Huffington, where does true wisdom reside?",
+      "a": [
+        "Inside each person",
+        "In ancient texts",
+        "In academic institutions",
+        "In technology"
+      ],
+      "why": "She claims true wisdom lives inside every single one of us."
+    },
+    {
+      "q": "Approximately how many times per day does the average person check their smartphone?",
+      "a": [
+        "150 times",
+        "50 times",
+        "300 times",
+        "10 times"
+      ],
+      "why": "The book cites an average of 150 smartphone checks per day."
+    },
+    {
+      "q": "What third metric does Huffington suggest adding to success?",
+      "a": [
+        "Thriving",
+        "Popularity",
+        "Networking",
+        "Innovation"
+      ],
+      "why": "She adds thriving as a third metric to measure fulfillment."
+    }
+  ]
+}

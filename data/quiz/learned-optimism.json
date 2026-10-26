@@ -1,0 +1,56 @@
+{
+  "book": "learned-optimism",
+  "title": "Learned Optimism",
+  "questions": [
+    {
+      "q": "In the summary, what does Seligman call optimism and pessimism?",
+      "a": [
+        "Two explanatory styles for how we account for bad events",
+        "Two personality types that are fixed early in childhood",
+        "Two coping mechanisms for handling sudden stress",
+        "Two thinking styles that depend on intelligence"
+      ],
+      "why": "The overview says both are explanatory styles, meaning the way we explain bad events in our lives."
+    },
+    {
+      "q": "How do optimists explain setbacks differently from pessimists?",
+      "a": [
+        "As temporary, specific to the situation and externally caused",
+        "As permanent, general to their whole life and self-caused",
+        "As random, unavoidable and unrelated to anything they did",
+        "As inherited, stable traits that no effort can change"
+      ],
+      "why": "The overview lists the three differences: optimists see problems as temporary, specific and external, while pessimists do the reverse."
+    },
+    {
+      "q": "What three things does the ABC technique ask you to record?",
+      "a": [
+        "The adversity, your belief about it and the consequence",
+        "The answer, the behavior and the correction",
+        "The awareness, the breathing and the calm",
+        "The assumption, the barrier and the commitment"
+      ],
+      "why": "The summary explains ABC as noting the Adversity, the Belief you form about it and the Consequence of that belief."
+    },
+    {
+      "q": "What did Seligman find when he split university freshmen into optimists and pessimists?",
+      "a": [
+        "Optimists exceeded expectations while pessimists fell behind",
+        "Pessimists earned better grades despite lower test scores",
+        "The two groups performed the same but optimists were happier",
+        "Optimism mattered only for students who played sports"
+      ],
+      "why": "At the University of Pennsylvania, the optimists did better than predicted and the pessimists did worse."
+    },
+    {
+      "q": "According to the summary, how does optimism affect physical health?",
+      "a": [
+        "It strengthens the immune system and helped cancer patients",
+        "It replaces the need for exercise and a balanced diet",
+        "It prevents every stress-related illness in later life",
+        "It raises energy levels but weakens the body's defenses"
+      ],
+      "why": "The summary says studies found optimism boosts the immune system and even improved the health of cancer patients."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-4-disciplines-of-execution",
+  "title": "The 4 Disciplines Of Execution",
+  "questions": [
+    {
+      "q": "What is a Wildly Important Goal?",
+      "a": [
+        "The one goal with the biggest impact",
+        "A goal that is easy to reach early",
+        "A long list of related objectives",
+        "A target chosen by the whole team"
+      ],
+      "why": "Lesson 1 says you must prioritise a single goal that makes the most difference."
+    },
+    {
+      "q": "What does the peach tree example illustrate about goals?",
+      "a": [
+        "Focusing on a few gives better results than spreading thin",
+        "Good goals take several seasons to bear fruit",
+        "Competition improves the quality of your work",
+        "Pruning is a useful metaphor for cutting costs"
+      ],
+      "why": "Lesson 1 explains that thinning the tree lets a few peaches grow far better than many mediocre ones."
+    },
+    {
+      "q": "What is a lead measure?",
+      "a": [
+        "An action that drives the result you want",
+        "A result you can only check at the end",
+        "A number showing last month’s output",
+        "A target handed down from above"
+      ],
+      "why": "Lesson 2 defines lead measures as the actions, such as exercise, that produce the lag measure."
+    },
+    {
+      "q": "Why does the summary compare a scoreboard to children playing soccer?",
+      "a": [
+        "Keeping score motivates people to work harder",
+        "Children need clear rules to learn teamwork",
+        "Games teach players to accept defeat gracefully",
+        "Coaches should track every player’s mistakes"
+      ],
+      "why": "Lesson 2 notes that without a score, kids have little reason to push for goals."
+    },
+    {
+      "q": "What should a weekly WIG meeting cover?",
+      "a": [
+        "Last week’s commitments, the scoreboard and the plan ahead",
+        "Budget figures, staff reviews and new hires",
+        "Team grievances, salaries and promotions",
+        "Long-term strategy, markets and competitors"
+      ],
+      "why": "Lesson 3 lists those three steps as the way to stay accountable and keep progress steady."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "why-zebras-dont-get-ulcers",
+  "title": "Why Zebras Don’t Get Ulcers",
+  "questions": [
+    {
+      "q": "What hormone rises when the brain's stress response harms the body?",
+      "a": [
+        "Cortisol",
+        "Adrenaline",
+        "Serotonin",
+        "Oxytocin"
+      ],
+      "why": "The text says stress increases cortisol levels."
+    },
+    {
+      "q": "Which part of the autonomic nervous system triggers stress in real or imagined crises?",
+      "a": [
+        "Sympathetic nervous system",
+        "Parasympathetic nervous system",
+        "Somatic nervous system",
+        "Enteric nervous system"
+      ],
+      "why": "The sympathetic system is described as responsible for triggering stress."
+    },
+    {
+      "q": "What effect does giving gifts have on the giver, according to research?",
+      "a": [
+        "They feel better than recipients",
+        "They feel more stressed than recipients",
+        "They feel neutral",
+        "They feel less happy than recipients"
+      ],
+      "why": "Studies show those who give feel better than those who receive."
+    },
+    {
+      "q": "How does involving elderly residents in decision‑making affect them?",
+      "a": [
+        "Increases happiness and activity",
+        "Decreases lifespan",
+        "Reduces appetite",
+        "Causes more anxiety"
+      ],
+      "why": "Active involvement in decisions makes elders happier and more active."
+    },
+    {
+      "q": "Why can humans create a stress response without an actual threat?",
+      "a": [
+        "The brain can perceive imagined danger as real",
+        "The heart beats faster automatically",
+        "Hormones act independently of perception",
+        "The immune system triggers stress"
+      ],
+      "why": "The brain may self‑induce a crisis when it perceives danger even if none exists."
+    }
+  ]
+}

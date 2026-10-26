@@ -1,0 +1,56 @@
+{
+  "book": "pitch-anything",
+  "title": "Pitch Anything",
+  "questions": [
+    {
+      "q": "Why does Klaff say a pitch has to be simple first?",
+      "a": [
+        "The audience's croc brain takes in the message first",
+        "Investors rarely read anything longer than one page",
+        "Complex offers are harder to price accurately",
+        "Simple pitches make the presenter seem more honest"
+      ],
+      "why": "Lesson 1 says a target first picks up your pitch with the croc brain, so what you say must be simple."
+    },
+    {
+      "q": "Which three levels of the brain does the summary describe?",
+      "a": [
+        "Croc brain, midbrain and neocortex",
+        "Croc brain, cerebellum and brain stem",
+        "Amygdala, hippocampus and neocortex",
+        "Midbrain, medulla and prefrontal cortex"
+      ],
+      "why": "Lesson 1 traces the brain through the croc brain, the midbrain and finally the neocortex."
+    },
+    {
+      "q": "How do you position yourself as the prize?",
+      "a": [
+        "Show you are not desperate and qualify the buyer",
+        "Offer the lowest price before anyone asks",
+        "Promise to customize anything the buyer wants",
+        "Follow up daily until the deal is signed"
+      ],
+      "why": "Lesson 2 says to show you do not depend on the sale and to ask what the customer brings to the deal."
+    },
+    {
+      "q": "What is frame-stacking?",
+      "a": [
+        "Layering several frames to strengthen your point of view",
+        "Repeating the same slide until the audience agrees",
+        "Letting the buyer set the terms of the meeting",
+        "Switching your story whenever you meet resistance"
+      ],
+      "why": "Lesson 3 describes throwing multiple frames into a pitch so that your view of the situation wins."
+    },
+    {
+      "q": "What are hot cognitions?",
+      "a": [
+        "Gut decisions people justify only afterward",
+        "Facts recalled under pressure during a pitch",
+        "Ideas that spread quickly through a company",
+        "Arguments that appeal to logical reasoning"
+      ],
+      "why": "Lesson 3 says hot cognitions are snap judgments made on intuition and rationalized later."
+    }
+  ]
+}

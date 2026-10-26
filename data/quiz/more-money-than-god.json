@@ -1,0 +1,31 @@
+{
+  "book": "more-money-than-god",
+  "title": "More Money Than God",
+  "questions": [
+    {
+      "q": "How does short-selling make money, according to the summary?",
+      "a": ["By borrowing shares, selling them, then buying them back cheaper", "By holding shares for decades and collecting dividends", "By buying shares just before an earnings report", "By lending money to struggling companies"],
+      "why": "Lesson 1 describes borrowing a stock at its current price, selling it, and rebuying it after the drop."
+    },
+    {
+      "q": "What is the snowball effect in the summary?",
+      "a": ["Riding a rally as other investors pile in", "Selling everything before a market crash", "Spreading money across many industries", "Borrowing to buy more of a losing stock"],
+      "why": "Lesson 1 says hedge funds buy early in a rally because crowd psychology accelerates the rise."
+    },
+    {
+      "q": "What did the fund Farallon do differently from its rivals?",
+      "a": ["It held traders accountable for losses as well as gains", "It hired traders with no experience at all", "It avoided short-term trading entirely", "It paid bonuses only for long-term holdings"],
+      "why": "Lesson 2 says accountability for losses encouraged moderate, careful investing."
+    },
+    {
+      "q": "What bet did George Soros win big on in the 1980s?",
+      "a": ["The fall of the dollar", "The rise of gold prices", "The collapse of the housing market", "The success of Japanese stocks"],
+      "why": "Lesson 2 says he bet against the dollar when few believed it could collapse."
+    },
+    {
+      "q": "Why does the summary say banks are a bigger threat than hedge funds?",
+      "a": ["Their finances are interconnected, creating a domino effect", "They take far riskier bets on new companies", "They are entirely unregulated by governments", "They hold most of the world's hedge fund money"],
+      "why": "Lesson 3 says banks and governments are financially linked, so one failure can pull down the other."
+    }
+  ]
+}

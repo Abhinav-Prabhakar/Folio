@@ -1,0 +1,56 @@
+{
+  "book": "life-worth-living",
+  "title": "Life Worth Living",
+  "questions": [
+    {
+      "q": "What are the four layers of life in the authors' model?",
+      "a": [
+        "Autopilot, effectiveness, self-awareness, self-transcendence",
+        "Survival, comfort, success, legacy",
+        "Body, mind, heart, spirit",
+        "Habits, goals, values, beliefs"
+      ],
+      "why": "The first lesson describes four levels, from acting on habits down to testing a vision against what is truly worth wanting."
+    },
+    {
+      "q": "What happens at the self-transcendence level?",
+      "a": [
+        "We ask what is worth wanting and test our vision against truth",
+        "We follow our habits without stopping to question them",
+        "We compare our goals with other people's achievements",
+        "We set a strategy for reaching a goal efficiently"
+      ],
+      "why": "At the deepest level, the authors say we test whether the vision we have formed is actually true."
+    },
+    {
+      "q": "How does the effectiveness level differ from the autopilot level?",
+      "a": [
+        "Autopilot follows habits while effectiveness questions whether they work",
+        "Autopilot is reflection while effectiveness is pure action",
+        "Autopilot concerns values while effectiveness concerns truth",
+        "Autopilot is a daily state while effectiveness is a yearly review"
+      ],
+      "why": "At that level we review our strategies and ask whether our actions are producing the results we want."
+    },
+    {
+      "q": "What does the summary say about a good life versus an easy life?",
+      "a": [
+        "A good life may require sacrifice and is not always easy",
+        "A good life is simply a long, healthy and happy one",
+        "A good life avoids suffering through strict discipline",
+        "A good life is whichever life feels most pleasant"
+      ],
+      "why": "Drawing on Oscar Wilde and the Buddha, the authors conclude that a worthwhile life is not the same as a comfortable one."
+    },
+    {
+      "q": "What is the Examen, one of the book's three exercises?",
+      "a": [
+        "A five-step daily ritual of gratitude, review and forgiveness",
+        "A weekly fast followed by silent reflection",
+        "A meditation focused on one philosophical question",
+        "A written plan for the year ahead"
+      ],
+      "why": "The third lesson describes a 15-minute daily routine of gratitude, review and forgiveness, attributed to Saint Ignatius."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "fast-food-nation",
+  "title": "Fast Food Nation",
+  "questions": [
+    {
+      "q": "Why does the fast food industry market so heavily to children?",
+      "a": [
+        "They are easy to persuade and can pressure parents into buying",
+        "They have their own money and decide what the family eats",
+        "They are the only group still eating inside restaurants",
+        "They respond better to serious, information-heavy advertising"
+      ],
+      "why": "Lesson 1 says children are impressionable and can annoy parents into paying."
+    },
+    {
+      "q": "What tends to happen to a town after a large meatpacking plant moves in?",
+      "a": [
+        "Crime and demand for subsidized medical care rise sharply",
+        "Wages rise and long-term residents return to the area",
+        "Local farms expand and food prices fall for everyone",
+        "Schools and public services improve almost immediately"
+      ],
+      "why": "Lesson 2 cites Lexington, Nebraska, where both doubled within a decade."
+    },
+    {
+      "q": "Which health problem does the summary call worse than obesity?",
+      "a": [
+        "Food poisoning from contaminated meat, striking 130,000 people daily",
+        "A rise in childhood asthma linked to restaurant fumes",
+        "Vitamin deficiencies caused by eating only burgers",
+        "Hearing loss from noisy fast food kitchens"
+      ],
+      "why": "Lesson 3 says E. coli in mass-produced meat sickens 130,000 Americans a day."
+    },
+    {
+      "q": "How does the meat industry keep its labor costs so low?",
+      "a": [
+        "It hires desperate workers and releases them before benefits begin",
+        "It trains skilled workers and pays them by the hour",
+        "It relies on robots for nearly every stage of processing",
+        "It offers permanent contracts to attract experienced staff"
+      ],
+      "why": "Lesson 2 describes firing workers just before six months to avoid insurance."
+    },
+    {
+      "q": "Why can a single contaminated batch of meat reach millions of people?",
+      "a": [
+        "Only four large companies supply most of the country's meat",
+        "Meat is shipped abroad before any safety checks occur",
+        "Restaurants refuse to buy from local independent farms",
+        "Inspectors sample only one burger per state each year"
+      ],
+      "why": "Lesson 3 points to the extreme concentration of meat packing in four firms."
+    }
+  ]
+}

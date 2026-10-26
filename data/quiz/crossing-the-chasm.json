@@ -1,0 +1,56 @@
+{
+  "book": "crossing-the-chasm",
+  "title": "Crossing The Chasm",
+  "questions": [
+    {
+      "q": "What gap does Moore's \"chasm\" describe?",
+      "a": [
+        "The gap between visionary early adopters and the pragmatic early majority",
+        "The gap between innovators and the first group of early adopters",
+        "The gap between the late majority and the laggards who resist change",
+        "The gap between established brands and brand-new startup companies"
+      ],
+      "why": "Lesson 1 places the chasm between early adopters and the early majority, whose reasons for buying differ sharply."
+    },
+    {
+      "q": "Why are pragmatic buyers reluctant to purchase from a high-tech newcomer?",
+      "a": [
+        "They prefer proven products and established brands over big innovations",
+        "They want radical change and are happy to bet against the odds",
+        "They only buy products that have not yet been reviewed by anyone",
+        "They care mainly about getting the lowest possible price"
+      ],
+      "why": "Lesson 1 says the early majority wants incremental improvements from proven products and established brands."
+    },
+    {
+      "q": "According to the summary, how should a startup begin crossing the chasm?",
+      "a": [
+        "Win over one very specific niche of the early majority first",
+        "Launch to the whole population at once to build momentum",
+        "Lower prices until every customer segment buys the product",
+        "Copy the marketing of the market leader in the same industry"
+      ],
+      "why": "Lesson 2 recommends securing a narrow beachhead inside the early majority, then expanding from there."
+    },
+    {
+      "q": "What advantage comes from selling only to one committed target segment?",
+      "a": [
+        "It becomes easier to build a standard package that fits that group",
+        "It guarantees the product will never need any further changes",
+        "It removes the need to gather references or word of mouth",
+        "It lets the company skip positioning against any competitor"
+      ],
+      "why": "Lesson 2 lists a smaller market, faster word of mouth and a standard package as benefits of focus."
+    },
+    {
+      "q": "How can a newcomer position itself when no direct competitor exists?",
+      "a": [
+        "Define the competition itself by contrasting with market and product alternatives",
+        "Wait until a direct competitor appears and then imitate its messaging",
+        "Describe every feature in detail rather than naming any comparison",
+        "Claim to be the cheapest option in every possible market"
+      ],
+      "why": "Lesson 3 says you define your own competition using a market alternative and a product alternative."
+    }
+  ]
+}

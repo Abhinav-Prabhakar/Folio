@@ -1,0 +1,56 @@
+{
+  "book": "the-innovators",
+  "title": "The Innovators",
+  "questions": [
+    {
+      "q": "Who was the first programmer ahead of her time?",
+      "a": [
+        "Ada Lovelace",
+        "Charles Babbage",
+        "Steve Jobs",
+        "J.C.R. Licklider"
+      ],
+      "why": "Ada Lovelace was the first programmer."
+    },
+    {
+      "q": "What machine did Babbage build that inspired Lovelace?",
+      "a": [
+        "Difference engine",
+        "Analytical engine",
+        "Turing machine",
+        "ENIAC"
+      ],
+      "why": "Babbage's Difference engine was mentioned."
+    },
+    {
+      "q": "Which club helped spark the personal computer?",
+      "a": [
+        "Homebrew Computer Club",
+        "Apple Inc.",
+        "Microsoft HQ",
+        "Xerox PARC"
+      ],
+      "why": "The Homebrew Computer Club is cited."
+    },
+    {
+      "q": "What did the Homebrew members do with devices?",
+      "a": [
+        "Took them apart",
+        "Built them from scratch",
+        "Sold them",
+        "Programmed them"
+      ],
+      "why": "They took apart devices to understand them."
+    },
+    {
+      "q": "Who joined Vannevar Bush to create the web?",
+      "a": [
+        "J.C.R. Licklider",
+        "Steve Wozniak",
+        "Raytheon founder",
+        "Charles Babbage"
+      ],
+      "why": "Licklider worked with Bush on the web."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "see-you-at-the-top",
+  "title": "See You At The Top",
+  "questions": [
+    {
+      "q": "What did Rosenthal's classroom study show?",
+      "a": [
+        "Students whose teacher expected them to excel did better",
+        "Students in smaller classes always learned faster",
+        "Average students could not improve their grades",
+        "Teacher experience mattered more than expectations"
+      ],
+      "why": "Lesson 1 describes a study where teachers told their class was gifted, and those average students ended a grade ahead."
+    },
+    {
+      "q": "What is the first step in goal-setting, according to the summary?",
+      "a": [
+        "Getting specific about exactly what you want",
+        "Telling everyone about your plans",
+        "Waiting for the right moment to begin",
+        "Setting a goal you know you can reach"
+      ],
+      "why": "Lesson 2 says vague aims like being healthy go nowhere, so you should quantify what you want to change."
+    },
+    {
+      "q": "What should you do after setting a goal and a timeline?",
+      "a": [
+        "Break it into daily or weekly steps",
+        "Keep it private so no one can judge you",
+        "Revise it whenever progress slows",
+        "Focus on several goals at once"
+      ],
+      "why": "Lesson 2 says to identify the small daily or weekly actions that move you toward the goal."
+    },
+    {
+      "q": "What is stinkin' thinkin' in the summary?",
+      "a": [
+        "A bad attitude that holds you back",
+        "A fear of speaking in public",
+        "A habit of over-planning everything",
+        "A refusal to accept praise"
+      ],
+      "why": "Lesson 3 uses the phrase for the unproductive thinking patterns that drag all of us down."
+    },
+    {
+      "q": "What does the Harvard study cited in the summary say about attitude?",
+      "a": [
+        "It accounts for 85 percent of what you accomplish",
+        "It matters far less than intelligence at work",
+        "It cannot be changed after childhood",
+        "It explains only 15 percent of success"
+      ],
+      "why": "Lesson 3 cites the finding that attitude drives 85 percent of accomplishment and intelligence only 15 percent."
+    }
+  ]
+}

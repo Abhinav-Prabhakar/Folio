@@ -1,0 +1,56 @@
+{
+  "book": "the-tao-te-ching",
+  "title": "The Tao Te Ching",
+  "questions": [
+    {
+      "q": "Which three pillars form the basis of Taoist philosophy in the text?",
+      "a": [
+        "Simplicity, patience, compassion",
+        "Wisdom, power, wealth",
+        "Strength, honor, duty",
+        "Knowledge, ambition, control"
+      ],
+      "why": "The overview lists simplicity, patience, compassion as pillars."
+    },
+    {
+      "q": "What does the master do when he realizes a mistake, according to the passage?",
+      "a": [
+        "Admits it and corrects it",
+        "Blames others for the error",
+        "Ignores it and moves on",
+        "Denies it publicly"
+      ],
+      "why": "The text says he admits and corrects mistakes."
+    },
+    {
+      "q": "How does the master view competition, per the text?",
+      "a": [
+        "As a playful way to improve together",
+        "As a battle to dominate opponents",
+        "As a chance to prove superiority",
+        "As a pointless distraction"
+      ],
+      "why": "He sees competition as an opportunity to play and improve."
+    },
+    {
+      "q": "What does the master consider his own self‑interest in decision‑making?",
+      "a": [
+        "One vote among many",
+        "The highest priority",
+        "Irrelevant to others",
+        "A burden to bear"
+      ],
+      "why": "He treats self‑interest as one vote, not the only one."
+    },
+    {
+      "q": "What is the master's attitude toward death?",
+      "a": [
+        "He accepts it and does not fear it",
+        "He tries to avoid it at all costs",
+        "He sees it as a failure",
+        "He believes it can be postponed"
+      ],
+      "why": "He knows death is final and does not fear it, surrendering to it."
+    }
+  ]
+}

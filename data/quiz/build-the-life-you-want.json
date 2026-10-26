@@ -1,0 +1,31 @@
+{
+  "book": "build-the-life-you-want",
+  "title": "Build the Life You Want",
+  "questions": [
+    {
+      "q": "What did Oprah realize when she considered taking the Broadway offer?",
+      "a": ["She loved the idea of it, not the reality", "She was too old to learn a new script", "The pay was lower than television work", "She had already promised the role to a friend"],
+      "why": "The overview says picturing the daily details made her see she could never live in New York or perform eight shows a week."
+    },
+    {
+      "q": "What did Albina do at age 45 that changed her life?",
+      "a": ["She went back to school to train as a teacher", "She moved to a new country alone", "She started her own clothing business", "She wrote a book about the civil war"],
+      "why": "Lesson 1 says Albina returned to education at 45, graduated, gained financial independence and rebuilt her family life."
+    },
+    {
+      "q": "What does the PANAS test measure?",
+      "a": ["How strongly you feel positive and negative emotions", "How much money you need to feel secure", "How many close friends you have in your life", "How well you handle stressful situations"],
+      "why": "Lesson 2 describes a five-minute self-assessment, the Positive and Negative Affect Schedule, that rates 20 emotions."
+    },
+    {
+      "q": "Which four pillars does the summary say happiness depends on?",
+      "a": ["Family, friendship, work and faith", "Health, wealth, love and leisure", "Money, power, pleasure and prestige", "Sleep, exercise, diet and purpose"],
+      "why": "Lesson 3 names family, friendships, work and faith as the big pillars, and suggests practical ways to strengthen each."
+    },
+    {
+      "q": "Which four idols does the summary warn against chasing?",
+      "a": ["Money, power, pleasure and prestige", "Fame, beauty, comfort and approval", "Status, security, routine and control", "Success, wealth, travel and leisure"],
+      "why": "Lesson 3 cites Thomas Aquinas's four idols, which people pursue when they feel out of control, instead of building the real pillars."
+    }
+  ]
+}

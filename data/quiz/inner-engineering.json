@@ -1,0 +1,56 @@
+{
+  "book": "inner-engineering",
+  "title": "Inner Engineering",
+  "questions": [
+    {
+      "q": "Where does Sadhguru say happiness must be found?",
+      "a": [
+        "Within, by generating the right internal state",
+        "In a career that matches your talents",
+        "In the approval of the people around you",
+        "In a simple life close to nature"
+      ],
+      "why": "Lesson 1 says fixation on outer circumstances prevents fulfillment; perceptions happen within us."
+    },
+    {
+      "q": "What does response-ability mean to Sadhguru?",
+      "a": [
+        "Responding consciously rather than reacting on impulse",
+        "Carrying more duties than others expect of you",
+        "Accepting blame when a situation goes wrong",
+        "Keeping your emotions hidden in a crisis"
+      ],
+      "why": "Lesson 2 defines it as the capacity to answer life with awareness instead of unconscious reactions."
+    },
+    {
+      "q": "Why does Sadhguru connect more responsibility with more freedom?",
+      "a": [
+        "Awareness reveals options, so you can choose your response",
+        "Obligations force you to become more disciplined",
+        "Freedom only comes after you meet every duty",
+        "Others trust you more when you take charge"
+      ],
+      "why": "Lesson 2 says growing awareness shows you the choices available in any situation."
+    },
+    {
+      "q": "What does the story of Heraclitus digging with a spoon illustrate?",
+      "a": [
+        "The mind is too small to hold the whole truth",
+        "Persistence matters more than raw intelligence",
+        "Philosophers often waste time on useless tasks",
+        "Small tools can accomplish surprising things"
+      ],
+      "why": "Lesson 3 uses the anecdote to urge humility about how much the intellect can know."
+    },
+    {
+      "q": "What role do the asanas play in the original yogic tradition?",
+      "a": [
+        "One of eight branches of a larger system",
+        "The only practice needed for inner growth",
+        "A warm-up before meditation begins",
+        "A cure for most physical illnesses"
+      ],
+      "why": "The overview says physical postures are just one of eight branches of yogic knowledge."
+    }
+  ]
+}

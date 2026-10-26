@@ -1,0 +1,56 @@
+{
+  "book": "the-data-detective",
+  "title": "The Data Detective",
+  "questions": [
+    {
+      "q": "What false correlation does Harford illustrate with storks?",
+      "a": [
+        "Stork numbers and birth rates",
+        "Stork size and intelligence",
+        "Stork migration and climate",
+        "Stork diet and lifespan"
+      ],
+      "why": "He uses storks to show spurious statistical links."
+    },
+    {
+      "q": "How do experts typically react to contradictory evidence?",
+      "a": [
+        "Resist changing beliefs",
+        "Immediately revise views",
+        "Seek new data",
+        "Ignore the study"
+      ],
+      "why": "Harford notes experts avoid conflicting evidence to protect arguments."
+    },
+    {
+      "q": "What caused UK infant mortality variation in the 2010s?",
+      "a": [
+        "Different definitions of early death",
+        "Hospital staffing levels",
+        "Vaccination rates",
+        "Air quality differences"
+      ],
+      "why": "Regional definition differences altered mortality stats."
+    },
+    {
+      "q": "What classic experiment shows conformity pressure?",
+      "a": [
+        "Asch line length test",
+        "Milgram obedience study",
+        "Stanford prison experiment",
+        "Pavlov's dogs"
+      ],
+      "why": "Asch demonstrated conformity with line‑choice task."
+    },
+    {
+      "q": "What should you examine when a statistic triggers strong emotions?",
+      "a": [
+        "Its underlying measurement and context",
+        "The headline only",
+        "The author's reputation",
+        "The color scheme"
+      ],
+      "why": "Harford advises checking what the statistic truly measures."
+    }
+  ]
+}

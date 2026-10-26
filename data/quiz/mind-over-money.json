@@ -1,0 +1,31 @@
+{
+  "book": "mind-over-money",
+  "title": "Mind Over Money",
+  "questions": [
+    {
+      "q": "What did the study of Finnish kindergarteners show about six-year-olds?",
+      "a": ["They already understood the importance of money", "They preferred playing to earning money", "They had no concept of prices yet", "They copied spending habits from their parents"],
+      "why": "Lesson 1 says the children discussed ticket prices and selling merchandise while putting on a play."
+    },
+    {
+      "q": "What does the summary say about why managing money feels so hard?",
+      "a": ["Most people were never taught how to do it", "Financial skills fade quickly without practice", "Banks make budgeting deliberately confusing", "Only people with high incomes can succeed"],
+      "why": "Lesson 1 says the struggle is not a character flaw but a lack of proper financial teaching."
+    },
+    {
+      "q": "What happened when berry pickers were paid by the number of baskets they filled?",
+      "a": ["Their productivity rose sharply", "They began working more slowly", "They quit to find other work", "They earned less than before"],
+      "why": "Lesson 2 says pay per basket boosted their incentive, unlike a simple raise."
+    },
+    {
+      "q": "What did the study of journalism students find about payment and output?",
+      "a": ["Unpaid students wrote headlines twice as fast", "Paid students produced better headlines", "Both groups worked at the same pace", "Unpaid students refused the assignment"],
+      "why": "Lesson 2 says the students who received no money worked faster and joined more brainstorming sessions."
+    },
+    {
+      "q": "What is hedonic adaptation, as described in the summary?",
+      "a": ["Getting used to pleasures that once felt exciting", "Spending more as your income rises", "Feeling guilt after buying something costly", "Preferring saving over spending over time"],
+      "why": "Lesson 3 says a treat becomes normal, so you seek bigger pleasures to feel satisfied."
+    }
+  ]
+}

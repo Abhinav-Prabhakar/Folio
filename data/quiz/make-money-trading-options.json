@@ -1,0 +1,56 @@
+{
+  "book": "make-money-trading-options",
+  "title": "Make Money Trading Options",
+  "questions": [
+    {
+      "q": "What does an options contract give its buyer?",
+      "a": [
+        "The right, but not the obligation, to trade a stock at a set price later",
+        "A guaranteed share of ownership in the underlying company",
+        "A promise that the stock price will rise before expiration",
+        "An automatic loan from the broker to cover any losses"
+      ],
+      "why": "Lesson 1 defines an option as a contract granting the right to buy or sell at a predetermined price, if you choose."
+    },
+    {
+      "q": "Why can options trading require less money than buying stock outright?",
+      "a": [
+        "You pay a premium to control many shares rather than their full price",
+        "Brokers waive all fees for beginner options traders",
+        "Options never lose value, so the deposit is returned",
+        "You only pay once the trade has become profitable"
+      ],
+      "why": "Lesson 1 notes that a small premium can control 100 shares, so less capital is needed to start."
+    },
+    {
+      "q": "What is the Test Trading Strategy?",
+      "a": [
+        "Practicing with virtual money in a simulator before risking real cash",
+        "Buying one share of every stock on a watch list",
+        "Testing a broker’s platform for a free trial period",
+        "Placing tiny real trades to measure your emotional response"
+      ],
+      "why": "Lesson 2 describes using virtual trading tools as a risk-free way to practice buying and selling."
+    },
+    {
+      "q": "What should you put on your watch list while test trading?",
+      "a": [
+        "Major market indexes plus actively traded stocks priced at least $50",
+        "Only cheap penny stocks that could rise quickly",
+        "A single company you already know very well",
+        "Stocks chosen by your broker without your input"
+      ],
+      "why": "Lesson 2 recommends adding SPY, QQQ, the Dow and the S&P 500, then active stocks of at least $50 per share."
+    },
+    {
+      "q": "What should you do if the gap between a stock’s bid and ask price is too wide?",
+      "a": [
+        "Choose a different stock with a narrower spread",
+        "Place a market order to guarantee you get in",
+        "Wait for the spread to widen even further",
+        "Buy more contracts to average out the cost"
+      ],
+      "why": "Lesson 3 warns that a wide bid-ask spread makes profit too hard and says to find another stock."
+    }
+  ]
+}

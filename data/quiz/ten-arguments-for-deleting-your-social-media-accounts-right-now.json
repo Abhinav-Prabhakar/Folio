@@ -1,0 +1,56 @@
+{
+  "book": "ten-arguments-for-deleting-your-social-media-accounts-right-now",
+  "title": "Ten Arguments For Deleting Your Social Media Accounts Right Now",
+  "questions": [
+    {
+      "q": "According to Lanier, how do social media platforms treat their users?",
+      "a": [
+        "As the product, whose data is sold to advertisers",
+        "As guests, whose privacy is carefully protected",
+        "As customers, who pay a small monthly fee",
+        "As partners, who share in the platform’s profits"
+      ],
+      "why": "Lesson 1 says every bit of information you share is sold, making you the product rather than the customer."
+    },
+    {
+      "q": "Why does unpredictable feedback keep people coming back to social apps?",
+      "a": [
+        "Unreliable rewards are more engaging than reliable ones",
+        "It makes the platform feel more honest and human",
+        "It teaches users to recognize and skip the ads",
+        "It rewards people for logging off and taking breaks"
+      ],
+      "why": "Lesson 1 explains that behaviorists found moderate unreliability more engaging, and algorithms exploit that."
+    },
+    {
+      "q": "What does Lanier say is the real problem he wants to fix?",
+      "a": [
+        "The manipulative business model, not the technology itself",
+        "The amount of time people waste on their phones",
+        "The slow speed of internet connections worldwide",
+        "The shortage of worthwhile content on the platforms"
+      ],
+      "why": "Lesson 2 stresses that you need not throw out your smartphone, only stop feeding the model he names."
+    },
+    {
+      "q": "Which two US companies rely solely on the business model Lanier criticizes?",
+      "a": [
+        "Facebook and Google",
+        "Apple and Microsoft",
+        "Amazon and Twitter",
+        "Netflix and Spotify"
+      ],
+      "why": "Lesson 2 notes that only these two US firms depend entirely on that model, while others use parts of it."
+    },
+    {
+      "q": "What happens to people when they shift into what Lanier calls pack mode?",
+      "a": [
+        "They focus on status and treat others more harshly",
+        "They become more creative and more cautious",
+        "They seek privacy and avoid group settings",
+        "They listen more carefully to opposing views"
+      ],
+      "why": "Lesson 3 contrasts cautious, kind solitary mode with pack mode, where social rank trumps everything."
+    }
+  ]
+}

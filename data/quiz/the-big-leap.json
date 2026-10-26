@@ -1,0 +1,56 @@
+{
+  "book": "the-big-leap",
+  "title": "The Big Leap",
+  "questions": [
+    {
+      "q": "What does the story of early trains limited to 30 mph illustrate?",
+      "a": [
+        "What is possible is often limited only by how much we try",
+        "Technology always advances faster than safety rules",
+        "People resist new inventions out of envy",
+        "Progress depends mainly on government funding"
+      ],
+      "why": "Lesson 1 uses the belief that passengers would explode above 30 mph to show that our sense of what is possible is often self-imposed."
+    },
+    {
+      "q": "What did Roger Bannister's four-minute mile show, according to the summary?",
+      "a": [
+        "A believed limit falls once someone proves it can be done",
+        "Natural talent matters far more than consistent training",
+        "Athletic records are mostly a matter of luck",
+        "The human body has a fixed ceiling that cannot move"
+      ],
+      "why": "Lesson 1 notes that the mile was thought impossible until Bannister ran it, after which others quickly followed."
+    },
+    {
+      "q": "What is an upper limit mindset, as Hendricks describes it?",
+      "a": [
+        "A subconscious cap that makes us sabotage ourselves when things go well",
+        "A habit of setting goals that are far too ambitious",
+        "A belief that hard work always pays off in the end",
+        "A tendency to compare ourselves with more successful people"
+      ],
+      "why": "Lesson 2 explains that we carry a subconscious idea of how much happiness we deserve, so we create fake drama when life goes too well."
+    },
+    {
+      "q": "How does Hendricks suggest you deal with fear?",
+      "a": [
+        "Breathe into it slowly and deeply",
+        "Avoid the situation until the fear fades",
+        "Talk yourself out of feeling afraid",
+        "Replace the fear with controlled anger"
+      ],
+      "why": "Lesson 2 quotes the idea that fear is excitement without breath, and recommends slow, deep breathing to turn stress into energy."
+    },
+    {
+      "q": "In Hendricks's four work zones, what defines the Zone of Genius?",
+      "a": [
+        "You are the best in the world at that task",
+        "You are highly skilled and few people can match you",
+        "You are competent enough to keep the job",
+        "You are doing work that feels easy and comfortable"
+      ],
+      "why": "Lesson 3 ranks the zones from incompetence to genius, and says the Zone of Genius is where you are literally the best in the world."
+    }
+  ]
+}

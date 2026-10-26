@@ -1,0 +1,56 @@
+{
+  "book": "restart",
+  "title": "Restart",
+  "questions": [
+    {
+      "q": "According to the summary, why did Delhi's planners build a road they knew would be too small?",
+      "a": [
+        "Indian culture frowned on excess and expected shortages",
+        "They lacked the money to build it any larger",
+        "They expected traffic to fall in future years",
+        "Foreign engineers designed it incorrectly"
+      ],
+      "why": "Lesson 1 links the undersized road to a cultural belief that bigger, complex things waste time and resources."
+    },
+    {
+      "q": "How does an Indian truck driver spend most of his working time, per the summary?",
+      "a": [
+        "Only about 40 percent is spent actually driving",
+        "Nearly all of it is spent on open highways",
+        "Half is spent loading and unloading goods",
+        "Most of it is spent sleeping at checkpoints"
+      ],
+      "why": "Lesson 1 says roughly 60 percent of a driver's time goes to traffic and tax checkpoint queues rather than driving."
+    },
+    {
+      "q": "Why are factory jobs so scarce in India, according to the summary?",
+      "a": [
+        "Regulations make it nearly impossible to fire workers",
+        "There are not enough workers to fill them",
+        "Factories are moving back to agriculture",
+        "The government owns almost every factory"
+      ],
+      "why": "Lesson 2 explains that employers keep staff small because rules make replacing unproductive workers very hard."
+    },
+    {
+      "q": "What is true of Indian farming in the summary?",
+      "a": [
+        "Farms are shrinking and wages are too low to attract workers",
+        "Farmland has doubled since 1970",
+        "Farming accounts for most of India's GDP",
+        "Farmers earn more than factory workers"
+      ],
+      "why": "Lesson 2 notes that available farmland is half of what it was in 1970 and that farming pays too little to draw people in."
+    },
+    {
+      "q": "What does the author call the main problem with letting private companies run projects?",
+      "a": [
+        "They have too much power and no real oversight",
+        "They refuse to build any roads at all",
+        "They charge workers for using the roads",
+        "They always finish projects ahead of schedule"
+      ],
+      "why": "Lesson 3 concludes that the central issue to fix is the excessive power held by the private sector."
+    }
+  ]
+}

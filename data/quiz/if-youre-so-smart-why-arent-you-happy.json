@@ -1,0 +1,56 @@
+{
+  "book": "if-youre-so-smart-why-arent-you-happy",
+  "title": "If You’re So Smart, Why Aren’t You Happy",
+  "questions": [
+    {
+      "q": "What is the first of the seven deadly sins of unhappiness?",
+      "a": [
+        "Treating happiness as less important than money or success",
+        "Expecting too much recognition from close friends",
+        "Spending too much time comparing yourself to others",
+        "Avoiding intimacy whenever a relationship gets serious"
+      ],
+      "why": "Lesson 1 calls it devaluing happiness: we put it on the back burner and chase proxies instead."
+    },
+    {
+      "q": "What exercise does the summary suggest for identifying what makes you happy?",
+      "a": [
+        "Name the emotions you associate with happiness",
+        "List the achievements that earned you praise",
+        "Rank your goals by how much money they bring",
+        "Compare your mood with that of your friends"
+      ],
+      "why": "Lesson 1 recommends asking which emotions, such as love or excitement, you connect with happiness."
+    },
+    {
+      "q": "According to the summary, what happens to people who make themselves too available in love?",
+      "a": [
+        "They become less interesting to the other person",
+        "They build a stronger sense of trust over time",
+        "They attract partners who are equally generous",
+        "They avoid the pain of being rejected later"
+      ],
+      "why": "Lesson 2 compares it to economics: plenty of supply lowers demand, so constant availability is less appealing."
+    },
+    {
+      "q": "Instead of seeking or avoiding love, what does the book recommend?",
+      "a": [
+        "Being generous, which boosts your self-image and spreads happiness",
+        "Being guarded, so you never depend on another person",
+        "Being persistent, texting until the other person answers",
+        "Being independent, and treating relationships as optional"
+      ],
+      "why": "Lesson 2 says helping others shows you can spread happiness from within and improves how you see yourself."
+    },
+    {
+      "q": "What does the dispassionate pursuit of passion mean?",
+      "a": [
+        "Care deeply about your life but view events objectively",
+        "Give up your goals whenever they cause frustration",
+        "Pursue only the passions that come easily to you",
+        "Stay detached from everything so nothing can hurt you"
+      ],
+      "why": "Lesson 3 suggests staying passionate yet objective and non-judgmental, so you remain patient and flexible."
+    }
+  ]
+}

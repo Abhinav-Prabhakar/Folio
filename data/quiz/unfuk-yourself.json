@@ -1,0 +1,56 @@
+{
+  "book": "unfuk-yourself",
+  "title": "Unfu*k Yourself",
+  "questions": [
+    {
+      "q": "What percentage of thoughts is the subconscious responsible for, according to the book?",
+      "a": [
+        "95%",
+        "50%",
+        "75%",
+        "20%"
+      ],
+      "why": "The text says the subconscious handles 95% of thoughts."
+    },
+    {
+      "q": "What is the first action recommended for achieving an imagined life?",
+      "a": [
+        "Plan and set specific goals",
+        "Wait for opportunities to appear",
+        "Ignore past failures",
+        "Follow others' advice"
+      ],
+      "why": "Planning and defining goals is described as imperative."
+    },
+    {
+      "q": "What does the book advise when plans no longer fit reality?",
+      "a": [
+        "Acknowledge and rebalance",
+        "Give up completely",
+        "Blame external factors",
+        "Stick rigidly to the plan"
+      ],
+      "why": "It suggests acknowledging and rebalancing when plans misalign."
+    },
+    {
+      "q": "According to the book, postponing happiness until goals are met is:?",
+      "a": [
+        "Unhealthy",
+        "Motivating",
+        "Necessary",
+        "Inevitable"
+      ],
+      "why": "Delaying happiness is labeled unhealthy."
+    },
+    {
+      "q": "How should one treat failure to make it productive?",
+      "a": [
+        "Analyze the cause and learn",
+        "Ignore it and move on",
+        "Blame others",
+        "Repeat the same action"
+      ],
+      "why": "Analyzing cause and learning from failure is recommended."
+    }
+  ]
+}

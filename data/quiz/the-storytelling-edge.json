@@ -1,0 +1,56 @@
+{
+  "book": "the-storytelling-edge",
+  "title": "The Storytelling Edge",
+  "questions": [
+    {
+      "q": "What was the amount raised by Amanda Palmer's Kickstarter in 30 days?",
+      "a": [
+        "$1.2 million",
+        "$500,000",
+        "$2 million",
+        "$750,000"
+      ],
+      "why": "The overview states her Kickstarter brought in $1.2 million."
+    },
+    {
+      "q": "What simple phrase did Jacques Prevert write for the blind beggar?",
+      "a": [
+        "Spring is coming, but I won't see it",
+        "Help me, I am hungry",
+        "Tomorrow brings hope",
+        "Give me your coin"
+      ],
+      "why": "The story says he wrote that phrase, which changed the beggar's fortunes."
+    },
+    {
+      "q": "At what reading level are Hemingway's works typically scored?",
+      "a": [
+        "Fourth‑grade level",
+        "College level",
+        "Sixth‑grade level",
+        "Eighth‑grade level"
+      ],
+      "why": "The text notes Hemingway's work reads at a fourth‑grade level."
+    },
+    {
+      "q": "What three‑step pattern is recommended for publishing content?",
+      "a": [
+        "Create, connect, optimize",
+        "Plan, produce, promote",
+        "Write, edit, distribute",
+        "Research, draft, publish"
+      ],
+      "why": "The book outlines the create, connect, optimize pattern for impact."
+    },
+    {
+      "q": "What historical medium did Milan's gossip writers use before printing presses?",
+      "a": [
+        "Hand‑written notes",
+        "Stone tablets",
+        "Radio broadcasts",
+        "Telegraph messages"
+      ],
+      "why": "Writers switched to hand‑written notes for faster gossip delivery."
+    }
+  ]
+}

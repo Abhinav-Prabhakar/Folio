@@ -1,0 +1,31 @@
+{
+  "book": "built-to-sell",
+  "title": "Built To Sell",
+  "questions": [
+    {
+      "q": "Why does the summary recommend specializing in a single service?",
+      "a": ["It builds expertise and a reputation that draws clients", "It lets you meet every need a client might have", "It makes the business harder for buyers to value", "It allows you to charge lower prices than rivals"],
+      "why": "Lesson 1 says focus makes you the known expert, which brings referrals and makes higher prices easier to negotiate."
+    },
+    {
+      "q": "What should a founder do early to prepare a company for sale?",
+      "a": ["Delegate so the business can run without them", "Personally handle every client relationship", "Keep all financial decisions to themselves", "Avoid hiring until the sale is complete"],
+      "why": "Lesson 2 warns against becoming the linchpin and advises handing off responsibilities as early as possible."
+    },
+    {
+      "q": "What happens when the founder becomes indispensable to the company?",
+      "a": ["Growth stalls because everything depends on their schedule", "Clients become more loyal to the brand", "The company sells for a higher price", "Employees take on more responsibility"],
+      "why": "Lesson 2 explains that a founder stuck in every decision has no time to grow the business or take a vacation."
+    },
+    {
+      "q": "Why is one big client dangerous for cash flow?",
+      "a": ["A late payment can leave you unable to cover payroll", "It forces you to lower your quality standards", "It makes your best employees quit immediately", "It brings in too many new customers at once"],
+      "why": "Lesson 3 describes a client worth 40% of revenue whose delayed payment threatens payroll and rent."
+    },
+    {
+      "q": "Besides cash flow, what problem comes from depending on a few big clients?",
+      "a": ["It weakens your power to negotiate prices", "It makes marketing far more expensive", "It sharply raises your tax burden", "It limits the range of services you offer"],
+      "why": "Lesson 3 says you cannot raise fees or extend deadlines without risking the loss of a major customer."
+    }
+  ]
+}

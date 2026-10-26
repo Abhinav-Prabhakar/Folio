@@ -1,0 +1,56 @@
+{
+  "book": "get-smart",
+  "title": "Get Smart",
+  "questions": [
+    {
+      "q": "Why does Tracy retell the story of the blind monks and the elephant?",
+      "a": [
+        "To show that we often see only part of the whole",
+        "To argue that experts rarely agree on facts",
+        "To explain why teamwork beats solo effort",
+        "To prove that our senses can deceive us"
+      ],
+      "why": "The first lesson says each monk is partly right but none of them grasps the entire animal."
+    },
+    {
+      "q": "What does the summary say about the idea that we use only 10% of our brain?",
+      "a": [
+        "It is a myth, since we use all of it over a day",
+        "It is true for most adults",
+        "It applies only to creative work",
+        "It was confirmed by recent scans"
+      ],
+      "why": "The first lesson says we do not fire every cell at once, but across 24 hours we use 100%."
+    },
+    {
+      "q": "How does Kahneman describe the mind's two systems?",
+      "a": [
+        "Fast and intuitive versus slow and deliberate",
+        "Emotional versus logical",
+        "Conscious versus unconscious",
+        "Creative versus mechanical"
+      ],
+      "why": "The second lesson says new information lands in the fast system and needs effort to reach the slow one."
+    },
+    {
+      "q": "How much time does Tracy suggest spending each day on your long-term goals?",
+      "a": [
+        "Ten minutes",
+        "Five minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "why": "The second lesson says ten minutes a day planning your next five years pays off."
+    },
+    {
+      "q": "What are Tracy's three safeguards against mechanical thinking?",
+      "a": [
+        "Be clear, be focused, concentrate",
+        "Be fast, be bold, be busy",
+        "Be curious, be patient, be kind",
+        "Be honest, be humble, be calm"
+      ],
+      "why": "The third lesson says to set simple goals, do fewer things better and design your environment."
+    }
+  ]
+}

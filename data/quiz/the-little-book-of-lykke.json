@@ -1,0 +1,56 @@
+{
+  "book": "the-little-book-of-lykke",
+  "title": "The Little Book Of Lykke",
+  "questions": [
+    {
+      "q": "What percentage of Danish taxes is cited as average in the book?",
+      "a": [
+        "45%",
+        "30%",
+        "50%",
+        "25%"
+      ],
+      "why": "The text states Denmark has average tax rates of 45%."
+    },
+    {
+      "q": "Which brain area lights up when you help someone, according to the book?",
+      "a": [
+        "Nucleus accumbens",
+        "Amygdala",
+        "Prefrontal cortex",
+        "Hippocampus"
+      ],
+      "why": "The book mentions the nucleus accumbens is activated by kindness."
+    },
+    {
+      "q": "How many hours per year do Danes typically work, per the book?",
+      "a": [
+        "1,450",
+        "2,000",
+        "1,200",
+        "1,800"
+      ],
+      "why": "The text says Danes work about 1,450 hours annually."
+    },
+    {
+      "q": "What term describes the happy feeling after helping others?",
+      "a": [
+        "Helper's high",
+        "Altruist joy",
+        "Volunteer bliss",
+        "Kindness glow"
+      ],
+      "why": "The book calls it the helper's high."
+    },
+    {
+      "q": "Which activity is NOT suggested to increase happiness in the book?",
+      "a": [
+        "Spending less time online",
+        "Working 40 hours a week",
+        "Volunteering",
+        "Paying taxes"
+      ],
+      "why": "The book recommends less online time, not working 40 hours."
+    }
+  ]
+}

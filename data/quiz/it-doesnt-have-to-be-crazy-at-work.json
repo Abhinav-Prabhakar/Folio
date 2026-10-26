@@ -1,0 +1,56 @@
+{
+  "book": "it-doesnt-have-to-be-crazy-at-work",
+  "title": "It Doesn’t Have To Be Crazy At Work",
+  "questions": [
+    {
+      "q": "What question does the book suggest asking about your company as a product?",
+      "a": [
+        "How easy is it for employees to use, and where is it slow?",
+        "How much market share could it win this quarter?",
+        "How do its profits compare with competitors?",
+        "How quickly could it be sold to a buyer?"
+      ],
+      "why": "Lesson 1 says to look for slow spots and bugs, just as you would in software."
+    },
+    {
+      "q": "What meeting change did Basecamp make?",
+      "a": [
+        "It replaced status meetings with written updates",
+        "It shortened every meeting to ten minutes",
+        "It banned meetings before noon each day",
+        "It required managers to attend every meeting"
+      ],
+      "why": "Lesson 2 says progress reports go into company software for others to read when convenient."
+    },
+    {
+      "q": "Why does the summary compare a workday to a long flight?",
+      "a": [
+        "The office has far more interruptions than a plane",
+        "Both leave people too tired to think clearly",
+        "Both require strict schedules to run smoothly",
+        "The plane offers better food and more rest"
+      ],
+      "why": "Lesson 2 says flights are free of the constant interruptions and pointless meetings found at work."
+    },
+    {
+      "q": "How did Basecamp test a big price increase safely?",
+      "a": [
+        "It charged new customers only and kept old prices",
+        "It surveyed thousands of customers first",
+        "It tested the price in one small country",
+        "It offered refunds to anyone who complained"
+      ],
+      "why": "Lesson 3 says raising the price only for new clients let the company roll it back if it failed."
+    },
+    {
+      "q": "What is the book's view of working more than 40 hours a week?",
+      "a": [
+        "It is treated as honorable but is really a sign of insanity",
+        "It is necessary for ambitious young employees",
+        "It is the only way to beat competitors",
+        "It should be rewarded with extra vacation"
+      ],
+      "why": "The overview says overwork is treated like a badge of honor when it is really a sign of insanity."
+    }
+  ]
+}

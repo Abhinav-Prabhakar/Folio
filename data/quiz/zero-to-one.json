@@ -1,0 +1,56 @@
+{
+  "book": "zero-to-one",
+  "title": "Zero To One",
+  "questions": [
+    {
+      "q": "What type of progress does Thiel say is most important for innovation?",
+      "a": [
+        "Vertical progress",
+        "Horizontal progress",
+        "Linear progress",
+        "Incremental progress"
+      ],
+      "why": "The book defines vertical progress as going from zero to one."
+    },
+    {
+      "q": "Why does Thiel consider monopolies good?",
+      "a": [
+        "They outperform competitors",
+        "They are regulated",
+        "They are cheap",
+        "They are old"
+      ],
+      "why": "The text says a monopoly means one company does something so well that others cannot survive."
+    },
+    {
+      "q": "Which company example is used to explain monopoly benefits?",
+      "a": [
+        "Google",
+        "Microsoft",
+        "Apple",
+        "Amazon"
+      ],
+      "why": "Google is cited as a best search engine example."
+    },
+    {
+      "q": "What trait is common among 90% of successful founders?",
+      "a": [
+        "Being a little weird",
+        "Being cautious",
+        "Being shy",
+        "Being wealthy"
+      ],
+      "why": "The book notes most founders are weird."
+    },
+    {
+      "q": "What achievement did Peter Thiel reach by age 35?",
+      "a": [
+        "Sold a company for $1.5B",
+        "Won a chess tournament",
+        "Got a law doctorate",
+        "Published a book"
+      ],
+      "why": "The overview states a company sale for $1.5B at age 35."
+    }
+  ]
+}

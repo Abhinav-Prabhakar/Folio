@@ -1,0 +1,56 @@
+{
+  "book": "wonderland",
+  "title": "Wonderland",
+  "questions": [
+    {
+      "q": "Which invention was made by the Banū Mūsā brothers to enjoy more music?",
+      "a": [
+        "Instrument that plays by itself",
+        "Penicillin",
+        "Velcro",
+        "Post-it glue"
+      ],
+      "why": "They created a self-playing musical device."
+    },
+    {
+      "q": "What drives curiosity according to the book?",
+      "a": [
+        "Surprise triggers dopamine",
+        "Fear reduces innovation",
+        "Routine limits creativity",
+        "Sleep deprivation"
+      ],
+      "why": "Surprise releases dopamine, fueling curiosity."
+    },
+    {
+      "q": "Which industry benefited from play and optical illusion?",
+      "a": [
+        "Film",
+        "Music",
+        "Fashion",
+        "Automotive"
+      ],
+      "why": "The film industry grew from optical illusion fascination."
+    },
+    {
+      "q": "What role does play have in societal change?",
+      "a": [
+        "Games shape cultural norms",
+        "Work hours increase",
+        "Technology adoption slows",
+        "Education reforms"
+      ],
+      "why": "Games influence cultural norms and societal hierarchy."
+    },
+    {
+      "q": "What is the oldest musical instrument mentioned?",
+      "a": [
+        "Aurignacian flute",
+        "Violin",
+        "Piano",
+        "Guitar"
+      ],
+      "why": "The Aurignacian flute is 40,000 years old."
+    }
+  ]
+}

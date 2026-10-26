@@ -1,0 +1,31 @@
+{
+  "book": "grain-brain",
+  "title": "Grain Brain",
+  "questions": [
+    {
+      "q": "Why does Perlmutter say eggs and butter are not the real cholesterol problem?",
+      "a": ["Your body adjusts its own production based on what you eat", "Cholesterol in food is never absorbed by the body", "Only fried foods raise cholesterol levels", "Genetics decide cholesterol and diet has no effect"],
+      "why": "Lesson 1 says the body produces less cholesterol when you eat more, and more when you eat less."
+    },
+    {
+      "q": "Which cholesterol ratio does the summary say matters most?",
+      "a": ["Total cholesterol divided by HDL, ideally 3.5 or lower", "LDL divided by total cholesterol, ideally below 2", "HDL divided by LDL, ideally above 5", "Triglycerides divided by LDL, ideally around 1"],
+      "why": "Lesson 1 says dividing total cholesterol by HDL should stay at 3.5 or below."
+    },
+    {
+      "q": "What does the summary say about diet creating new brain neurons?",
+      "a": ["It has only been seen in animals, not in humans", "It has been proven in large human trials", "It happens only during childhood", "It was disproven in every study"],
+      "why": "Lesson 2 says the effect has been observed in mice, but no studies prove it in humans."
+    },
+    {
+      "q": "What happens when leptin drops by about 20 percent?",
+      "a": ["Appetite and carb cravings rise by about 24 percent", "Hunger falls and energy rises sharply", "Sleep quality improves the same night", "The body burns fat much faster"],
+      "why": "Lesson 3 says a 20 percent leptin drop raises appetite and carb cravings by 24 percent."
+    },
+    {
+      "q": "What does the summary say is the only way to affect leptin levels?",
+      "a": ["Getting enough sleep", "Taking a daily supplement", "Eating more protein at breakfast", "Exercising on an empty stomach"],
+      "why": "Lesson 3 says sleep is the only thing that impacts leptin, and there are no supplements for it."
+    }
+  ]
+}

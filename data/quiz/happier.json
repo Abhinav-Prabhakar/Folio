@@ -1,0 +1,56 @@
+{
+  "book": "happier",
+  "title": "Happier",
+  "questions": [
+    {
+      "q": "According to the summary, what is the ultimate aim behind everything people pursue?",
+      "a": [
+        "The pursuit of happiness",
+        "Money and status",
+        "Fame and respect",
+        "Power and influence"
+      ],
+      "why": "Lesson 1 argues that any other reason we give for our actions is merely a step toward happiness."
+    },
+    {
+      "q": "Which outlook on the present and future does the summary call the best one?",
+      "a": [
+        "Enjoying the present while acting for a better future",
+        "Seeking maximum pleasure now and ignoring tomorrow",
+        "Suffering now in exchange for pleasure later",
+        "Showing little interest in either the present or future"
+      ],
+      "why": "Lesson 2 contrasts four outlooks and endorses finding joy now while making choices that benefit the future."
+    },
+    {
+      "q": "What did Seligman and Diener find set very happy people apart from less happy ones?",
+      "a": [
+        "Deep bonds with family, friends and partners",
+        "Higher incomes and more impressive jobs",
+        "More travel and a wider range of experiences",
+        "Better physical health and fitness levels"
+      ],
+      "why": "Lesson 3 says the main difference was that happier people had strong connections with those around them."
+    },
+    {
+      "q": "Why does the summary criticize the habit of chasing one achievement after another?",
+      "a": [
+        "It keeps postponing happiness to a future milestone",
+        "It makes people too content with what they have",
+        "It leaves too little time for rest and recovery",
+        "It discourages people from setting clear goals"
+      ],
+      "why": "Lesson 2 says society teaches us to suffer now for a later reward, which only makes us miserable."
+    },
+    {
+      "q": "Which kind of relationship does David Myers identify as a strong predictor of happiness?",
+      "a": [
+        "A lasting intimate partnership",
+        "A large circle of casual friends",
+        "A close bond with coworkers",
+        "Frequent contact with extended family"
+      ],
+      "why": "Lesson 3 cites Myers finding that an intimate lifelong relationship is one of the greatest predictors of happiness."
+    }
+  ]
+}

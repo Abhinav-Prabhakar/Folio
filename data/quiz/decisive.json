@@ -1,0 +1,56 @@
+{
+  "book": "decisive",
+  "title": "Decisive",
+  "questions": [
+    {
+      "q": "What are the four steps of the WRAP process?",
+      "a": [
+        "Widen options, reality-test, attain distance, prepare to be wrong",
+        "Write it down, review it, act on it, praise the outcome",
+        "Weigh options, research facts, ask others, proceed quickly",
+        "Wonder, reflect, accept, persist through setbacks"
+      ],
+      "why": "The overview lists the four WRAP elements used for important decisions."
+    },
+    {
+      "q": "Why is a simple yes-or-no decision usually a mistake?",
+      "a": [
+        "It ignores the other options and their opportunity costs",
+        "It takes far longer than comparing many choices",
+        "It relies too heavily on advice from friends",
+        "It always leads to the most expensive outcome"
+      ],
+      "why": "Lesson 1 says binary thinking hides the many possible alternatives and what they cost."
+    },
+    {
+      "q": "What happened when the option to decline a $14.99 video was labeled \"keep the money\"?",
+      "a": [
+        "The share of people declining rose from 25 to 45 percent",
+        "The share of people declining fell from 45 to 25 percent",
+        "Nearly everyone bought the video anyway",
+        "The price of the video was immediately lowered"
+      ],
+      "why": "Lesson 1 uses the study to show that naming opportunity costs changes choices."
+    },
+    {
+      "q": "What does the Heath brothers' term \"ooching\" mean?",
+      "a": [
+        "Testing a decision on a small scale before committing",
+        "Delaying a decision until all uncertainty disappears",
+        "Copying what a successful friend decided to do",
+        "Making a choice quickly to avoid overthinking"
+      ],
+      "why": "Lesson 2 recommends small trials, like starting a blog before quitting your job."
+    },
+    {
+      "q": "What question does the 10/10/10 perspective ask?",
+      "a": [
+        "How will you feel about this in 10 minutes, 10 months and 10 years?",
+        "How much will this cost in 10 minutes, 10 months and 10 years?",
+        "How many people will be affected after 10 days, 10 weeks and 10 years?",
+        "What would 10 friends, 10 experts and 10 strangers advise?"
+      ],
+      "why": "Lesson 3 describes the 10/10/10 trick as a way to gain emotional distance."
+    }
+  ]
+}

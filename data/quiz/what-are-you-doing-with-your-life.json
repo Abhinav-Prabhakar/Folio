@@ -1,0 +1,56 @@
+{
+  "book": "what-are-you-doing-with-your-life",
+  "title": "What Are You Doing With Your Life",
+  "questions": [
+    {
+      "q": "Which of these statements is made in What Are You Doing With Your Life?",
+      "a": [
+        "Everyone wants happiness in this life.",
+        "…learning how to think for themselves.",
+        "Have you ever heard of the Ford Edsel?",
+        "My favorite day of the week is Sunday."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does What Are You Doing With Your Life explore?",
+      "a": [
+        "The way you are conditioned stops you from viewing reality as it really is",
+        "Whenever you face a stressful situation, change it, leave it, or accept it",
+        "People saying “No” to you feels personal, because you blame it on yourself",
+        "After learning of your own terminal illness, it’s best to take things slow"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does What Are You Doing With Your Life teach?",
+      "a": [
+        "Happiness comes and goes, so stop looking for lasting happiness and enjoy it when you…",
+        "The key to Munger and Buffett’s successful business was morality, honesty, and respect",
+        "Set three goals for each of your employees, which you can review in one minute or less",
+        "Putting compassion into action every day means being fair, transparent and accountable"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in What Are You Doing With Your Life?",
+      "a": [
+        "For centuries, people have searched for the meaning of life.",
+        "I think I watched Barry Schwartz‘s TED talk 3 times already.",
+        "38-year-old Jean McConville had a tough life, to begin with.",
+        "People always talk about how we change when we date someone."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of What Are You Doing With Your Life?",
+      "a": [
+        "What Are You Doing With Your Life? turns traditional ideas about happiness and the…",
+        "It’s no secret that focusing on customer satisfaction leads to success in business.",
+        "You can use scientific studies to guide your decisions, but look for the right ones",
+        "Above all, Benjamin Franklin embraced learning. He was a true self-improvement nerd"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-practice",
+  "title": "The Practice",
+  "questions": [
+    {
+      "q": "What does the book say about mistakes in learning?",
+      "a": [
+        "They help improve work long term",
+        "They are a sign of failure",
+        "They should be avoided",
+        "They are irrelevant"
+      ],
+      "why": "The text says mistakes help improve work"
+    },
+    {
+      "q": "According to the book, why is confidence important for artists?",
+      "a": [
+        "It lets you try ideas without fear",
+        "It guarantees success",
+        "It eliminates criticism",
+        "It speeds up creation"
+      ],
+      "why": "Confidence lets you try ideas"
+    },
+    {
+      "q": "What is the suggested daily routine for creative work?",
+      "a": [
+        "Dedicate an hour each day to work",
+        "Work only when inspired",
+        "Work during the night",
+        "Work while multitasking"
+      ],
+      "why": "Book recommends a dedicated hour"
+    },
+    {
+      "q": "How should artists handle criticism?",
+      "a": [
+        "Learn from valid points, ignore negativity",
+        "Ignore all feedback",
+        "Only listen to critics",
+        "Use criticism to self-hate"
+      ],
+      "why": "Criticism is not personal, learn from it"
+    },
+    {
+      "q": "Why does the book advise surrounding yourself with supportive people?",
+      "a": [
+        "They boost self‑esteem and growth",
+        "They reduce work time",
+        "They provide money",
+        "They limit creativity"
+      ],
+      "why": "Supportive people help self‑esteem"
+    }
+  ]
+}

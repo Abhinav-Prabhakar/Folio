@@ -1,0 +1,56 @@
+{
+  "book": "why-we-sleep",
+  "title": "Why We Sleep",
+  "questions": [
+    {
+      "q": "What is the three‑pillar foundation for good health according to Walker?",
+      "a": [
+        "Diet, exercise, sleep",
+        "Sleep, diet, exercise",
+        "Exercise, sleep, diet",
+        "Sleep, exercise, diet"
+      ],
+      "why": "Walker lists diet, exercise, sleep."
+    },
+    {
+      "q": "How many years of a 75‑year life are spent sleeping?",
+      "a": [
+        "25",
+        "20",
+        "30",
+        "15"
+      ],
+      "why": "About one‑third equals 25 years."
+    },
+    {
+      "q": "What is the risk of driving with less than seven hours of sleep?",
+      "a": [
+        "Same as drunk driving",
+        "Lower than drunk driving",
+        "No risk",
+        "Higher than drunk driving"
+      ],
+      "why": "Less than seven hours equals drunk‑driving risk."
+    },
+    {
+      "q": "Which substance does Walker advise avoiding before bed?",
+      "a": [
+        "Alcohol",
+        "Caffeine",
+        "Water",
+        "Salt"
+      ],
+      "why": "Alcohol disrupts deep sleep."
+    },
+    {
+      "q": "What phenomenon occurs when the body tries to make up for sleep loss?",
+      "a": [
+        "Microsleep",
+        "Hypersomnia",
+        "Narcolepsy",
+        "Insomnia"
+      ],
+      "why": "Microsleep is brief sleep bouts."
+    }
+  ]
+}

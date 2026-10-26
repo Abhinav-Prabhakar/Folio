@@ -1,0 +1,56 @@
+{
+  "book": "the-authoritarian-moment",
+  "title": "The Authoritarian Moment",
+  "questions": [
+    {
+      "q": "What does the summary say happens to people who stay neutral on the new agenda?",
+      "a": [
+        "They risk losing their jobs and destroying their careers",
+        "They are invited into a public debate",
+        "They face no consequences at work",
+        "They are protected by their employers"
+      ],
+      "why": "Lesson 1 says even neutrality invites backlash, job loss and career damage."
+    },
+    {
+      "q": "How does the summary describe corporations under this pressure?",
+      "a": [
+        "They must follow political trends instead of pursuing profits",
+        "They fund both parties to stay safe",
+        "They withdraw from public debate entirely",
+        "They rely on courts to protect them"
+      ],
+      "why": "Lesson 1 argues companies now adopt political positions to avoid being cancelled."
+    },
+    {
+      "q": "What contradiction in 2020 does the summary use to show politics overriding science?",
+      "a": [
+        "Large protests were allowed while gatherings were banned for pandemic reasons",
+        "Masks were required outdoors but not indoors",
+        "Scientists refused to comment on the virus",
+        "Governments lifted restrictions too early"
+      ],
+      "why": "Lesson 2 points out that mass protests went ahead while other gatherings were prohibited."
+    },
+    {
+      "q": "What happened to scientists who said men are on average taller than women?",
+      "a": [
+        "They were fired for stating it",
+        "They were promoted for their honesty",
+        "They were asked to publish more research",
+        "They were ignored by the media"
+      ],
+      "why": "Lesson 2 offers this as an example of politics pushing science aside."
+    },
+    {
+      "q": "What is the foundation of democracy, according to the summary?",
+      "a": [
+        "Freedom of speech and the free exchange of opinions",
+        "A fair and equal distribution of wealth",
+        "Regular elections with strong parties",
+        "A neutral and independent media"
+      ],
+      "why": "Lesson 3 calls free expression the pylon of all democracies."
+    }
+  ]
+}

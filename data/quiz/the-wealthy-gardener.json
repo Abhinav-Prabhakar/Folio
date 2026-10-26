@@ -1,0 +1,56 @@
+{
+  "book": "the-wealthy-gardener",
+  "title": "The Wealthy Gardener",
+  "questions": [
+    {
+      "q": "How many years does the book say the first life season lasts?",
+      "a": [
+        "About thirty years",
+        "Ten years",
+        "Fifty years",
+        "Five years"
+      ],
+      "why": "The wealthy gardener notes the first season lasts for about thirty years."
+    },
+    {
+      "q": "What is the key habit for building wealth, per Soforic?",
+      "a": [
+        "Living below your means",
+        "Investing in risky stocks",
+        "Working overtime constantly",
+        "Spending on luxury items"
+      ],
+      "why": "He stresses living below your means as the crucial step."
+    },
+    {
+      "q": "How does the book define being rich?",
+      "a": [
+        "Having more money than needed after expenses",
+        "Owning a big house",
+        "Having a high salary",
+        "Having many friends"
+      ],
+      "why": "Rich is defined as having a high net margin on life, more money than you need."
+    },
+    {
+      "q": "What does the gardener say we get in life?",
+      "a": [
+        "The poorest conditions we tolerate",
+        "Exactly what we desire",
+        "Only what we earn",
+        "What others give us"
+      ],
+      "why": "He states we get the poorest conditions we will tolerate."
+    },
+    {
+      "q": "What does Soforic call the period needed to achieve big dreams?",
+      "a": [
+        "A five‑year crusade",
+        "A quick sprint",
+        "A lifelong quest",
+        "A month-long challenge"
+      ],
+      "why": "He mentions most dreams take a \"five‑year crusade\" to achieve."
+    }
+  ]
+}

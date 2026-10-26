@@ -1,0 +1,56 @@
+{
+  "book": "the-year-without-pants",
+  "title": "The Year Without Pants",
+  "questions": [
+    {
+      "q": "What does Berkun say is more useful than brain‑teaser interview questions?",
+      "a": [
+        "Hiring for the specific job tasks",
+        "Testing abstract reasoning",
+        "Assessing school pedigree",
+        "Evaluating personality fit"
+      ],
+      "why": "He argues hiring should focus on who can do the needed work."
+    },
+    {
+      "q": "How does Automattic treat a broken feature according to the book?",
+      "a": [
+        "They pause to see if it's truly needed",
+        "They fix it immediately",
+        "They delete the feature",
+        "They outsource the repair"
+      ],
+      "why": "He describes using a break as a chance to validate necessity."
+    },
+    {
+      "q": "What is the main benefit of letting employees implement ideas without a filter?",
+      "a": [
+        "Ideas stay true to the original vision",
+        "They get more meetings",
+        "They receive more feedback",
+        "They become more complex"
+      ],
+      "why": "Unfiltered implementation preserves the creator's intent."
+    },
+    {
+      "q": "Which metric shows Wordpress.com's market reach?",
+      "a": [
+        "Powering about 30% of all websites",
+        "Having 10 million users",
+        "Generating $1 billion revenue",
+        "Employing 5,000 staff"
+      ],
+      "why": "The overview notes Wordpress.com powers roughly 30% of sites."
+    },
+    {
+      "q": "What lesson does the car‑lift analogy illustrate?",
+      "a": [
+        "Sometimes you don't need a broken tool",
+        "Always replace broken equipment",
+        "Hire more staff",
+        "Increase meeting frequency"
+      ],
+      "why": "The analogy shows you can operate without the broken lift, questioning replacement."
+    }
+  ]
+}

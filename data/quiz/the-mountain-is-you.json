@@ -1,0 +1,56 @@
+{
+  "book": "the-mountain-is-you",
+  "title": "The Mountain Is You",
+  "questions": [
+    {
+      "q": "What does the author compare personal challenges to?",
+      "a": [
+        "Mountains that must be climbed",
+        "Rivers that must be crossed",
+        "Storms that must be weathered",
+        "Deserts that must be crossed"
+      ],
+      "why": "The metaphor of a mountain represents the block to growth."
+    },
+    {
+      "q": "According to the book, what drives self‑sabotage?",
+      "a": [
+        "The subconscious hiding core commitments",
+        "Lack of education",
+        "External criticism",
+        "Physical fatigue"
+      ],
+      "why": "The subconscious is said to cause self‑sabotage by masking core needs."
+    },
+    {
+      "q": "What habit hinders growth despite meeting basic needs?",
+      "a": [
+        "Seeking comfort over risk",
+        "Excessive exercise",
+        "Over‑socializing",
+        "Constant travel"
+      ],
+      "why": "Comfort‑seeking is described as a survival instinct that can block progress."
+    },
+    {
+      "q": "How can one tell if a thought is intuition or fear?",
+      "a": [
+        "Feel if it is calm, rational and non‑panicky",
+        "Check its length",
+        "See if it repeats",
+        "Ask a friend"
+      ],
+      "why": "Calm, sensible thoughts indicate intuition, while panic suggests fear."
+    },
+    {
+      "q": "What is the first step to understanding why we make certain decisions?",
+      "a": [
+        "Identify core commitments that drive us",
+        "Read more books",
+        "Change our diet",
+        "Increase sleep"
+      ],
+      "why": "Finding core commitments reveals the root cause of our actions."
+    }
+  ]
+}

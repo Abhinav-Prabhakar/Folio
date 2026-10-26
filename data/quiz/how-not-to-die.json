@@ -1,0 +1,56 @@
+{
+  "book": "how-not-to-die",
+  "title": "How Not To Die",
+  "questions": [
+    {
+      "q": "What does Greger call the number one cause of premature death?",
+      "a": [
+        "A poor diet",
+        "A lack of sleep",
+        "Too much stress",
+        "A sedentary job"
+      ],
+      "why": "The overview says the leading cause of early death is what we eat, which makes diet the central focus."
+    },
+    {
+      "q": "What happened to advanced heart disease patients who switched to a plant-based diet?",
+      "a": [
+        "Plaque buildup in their arteries began to dissolve",
+        "Their condition slowed but did not improve",
+        "They needed stronger drugs to manage symptoms",
+        "Their heart function declined more quickly"
+      ],
+      "why": "Lesson 1 says the disease did not merely slow down but reversed as arterial plaque started to clear."
+    },
+    {
+      "q": "How many daily servings of fruit does Greger recommend, and which kind is essential?",
+      "a": [
+        "Four servings, including one of berries",
+        "Three servings, including one of citrus",
+        "Five servings, including one of bananas",
+        "Two servings, including one of apples"
+      ],
+      "why": "Lesson 2 recommends four servings of fruit a day, one of which should be berries for their antioxidants."
+    },
+    {
+      "q": "How many daily servings of vegetables does Greger recommend?",
+      "a": [
+        "Five, with two leafy greens and one cruciferous",
+        "Three, with two leafy greens and one root vegetable",
+        "Four, with one leafy green and two cruciferous",
+        "Six, with three leafy greens and two legumes"
+      ],
+      "why": "Lesson 2 recommends five servings of vegetables, two leafy greens and one cruciferous vegetable."
+    },
+    {
+      "q": "How much daily exercise does Greger recommend for a long, healthy life?",
+      "a": [
+        "90 minutes of moderate activity, or 40 minutes of vigorous activity",
+        "30 minutes of moderate activity, or 15 minutes of vigorous activity",
+        "60 minutes of moderate activity, or 50 minutes of vigorous activity",
+        "20 minutes of moderate activity, or 10 minutes of vigorous activity"
+      ],
+      "why": "Lesson 3 recommends 90 moderate minutes or 40 vigorous minutes of activity daily."
+    }
+  ]
+}

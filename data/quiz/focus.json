@@ -1,0 +1,56 @@
+{
+  "book": "focus",
+  "title": "Focus",
+  "questions": [
+    {
+      "q": "According to the summary, what happens when you stop forcing focus and let your mind rest?",
+      "a": [
+        "You can produce up to 40% more original ideas",
+        "You permanently lose the thread of the task",
+        "You become more anxious about unfinished work",
+        "You need much longer to return to deep focus"
+      ],
+      "why": "The first lesson cites studies showing rest and open awareness generate up to 40% more original ideas."
+    },
+    {
+      "q": "What does Goleman say is a surprisingly powerful way to build willpower?",
+      "a": [
+        "Doing work you genuinely love",
+        "Getting more sleep every night",
+        "Taking a short break every hour",
+        "Rewarding yourself after each task"
+      ],
+      "why": "The second lesson argues willpower is mostly psychological, and work that reflects your goals becomes effortless."
+    },
+    {
+      "q": "Why did George Lucas break away from his production company while making Star Wars?",
+      "a": [
+        "He feared his creative vision would be compromised",
+        "He wanted a larger effects budget",
+        "He disagreed with the film's lead actor",
+        "He was offered a better deal elsewhere"
+      ],
+      "why": "The summary uses Lucas, who went rogue because he believed in his idea, as an example of love-powered willpower."
+    },
+    {
+      "q": "How does Goleman suggest we make better decisions about the distant future?",
+      "a": [
+        "Treat far-off problems as immediate threats",
+        "Set a firm deadline for every small task",
+        "Focus only on what can be finished this year",
+        "Ask others to hold us accountable weekly"
+      ],
+      "why": "The third lesson says imagining long-term consequences as happening tomorrow helps us stop choosing short-term comfort."
+    },
+    {
+      "q": "What does the summary call the hidden driver of excellence?",
+      "a": [
+        "Attention",
+        "Discipline",
+        "Talent",
+        "Luck"
+      ],
+      "why": "The overview describes Goleman's book as being about attention, which he calls the hidden driver of excellence."
+    }
+  ]
+}

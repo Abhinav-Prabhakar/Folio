@@ -1,0 +1,56 @@
+{
+  "book": "finding-your-element",
+  "title": "Finding Your Element",
+  "questions": [
+    {
+      "q": "What makes every person's life genuinely one-of-a-kind, according to lesson 1?",
+      "a": [
+        "An unrepeatable mix of genes and personal experiences",
+        "A hidden talent that no one else can ever develop",
+        "A fixed destiny decided at the moment of birth",
+        "A unique score on standardized intelligence tests"
+      ],
+      "why": "Lesson 1 says no one has had your biology or your exact circumstances."
+    },
+    {
+      "q": "Why do so many people end up following the same career path?",
+      "a": [
+        "Fear of the unknown pushes them toward society's safe plan",
+        "Schools collect data and assign students to needed jobs",
+        "Most people genuinely share the same talents and interests",
+        "Employers only hire graduates from a single program"
+      ],
+      "why": "Lesson 2 says the brain craves certainty, and society offers a familiar script."
+    },
+    {
+      "q": "How does Robinson suggest we treat the unknown?",
+      "a": [
+        "Look for the opportunities it might reveal instead of dreading it",
+        "Reduce it by planning every decade of your life in advance",
+        "Avoid it until you have enough experience to handle it",
+        "Accept that nothing good can come from uncertainty"
+      ],
+      "why": "Lesson 2 points out that many good things can emerge from an open future."
+    },
+    {
+      "q": "Which kind of intelligence does the school system mainly reward?",
+      "a": [
+        "Logical reasoning of the kind measured by IQ",
+        "Creative expression through dance and music",
+        "Practical skills learned outside the classroom",
+        "Emotional awareness in group situations"
+      ],
+      "why": "Lesson 3 says math and science sit at the top while the arts sit at the bottom."
+    },
+    {
+      "q": "How does the book suggest uncovering a hidden talent?",
+      "a": [
+        "Revisit what teachers once told you that you were bad at",
+        "Take the subjects you scored highest in and double down",
+        "Copy the career of the most successful person you know",
+        "Wait until your talents become obvious on their own"
+      ],
+      "why": "Lesson 3 says school may have discouraged the very thing you would love."
+    }
+  ]
+}

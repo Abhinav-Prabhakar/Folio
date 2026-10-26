@@ -1,0 +1,31 @@
+{
+  "book": "boss-it",
+  "title": "Boss It",
+  "questions": [
+    {
+      "q": "According to the summary, what separates good debt from bad debt?",
+      "a": ["Good debt funds assets that produce cash", "Good debt always comes from family members", "Good debt carries the highest available interest", "Good debt never has to be repaid"],
+      "why": "Lesson 2 defines good debt as money that helps you build cash-producing assets, while bad debt is borrowed at rates you cannot repay."
+    },
+    {
+      "q": "Which planning tool does the summary recommend for mapping a company's core strengths and weaknesses?",
+      "a": ["A SWOT analysis", "A buyer persona", "A cash-flow forecast", "An equity split"],
+      "why": "Lesson 1 says the masterplan should include a SWOT analysis to define core competencies and weaknesses."
+    },
+    {
+      "q": "Why does the summary say keeping existing customers deserves special attention?",
+      "a": ["Retaining buyers costs less than winning new ones", "Loyal buyers never ask for discounts", "Existing buyers are easier to advertise to", "Retained buyers require no market research"],
+      "why": "Lesson 3 states that acquiring new customers is more expensive than keeping old ones, and loyal buyers also make forecasting easier."
+    },
+    {
+      "q": "What does the summary recommend establishing first in order to attract the right customers?",
+      "a": ["A detailed buyer persona", "A larger advertising budget", "A second physical location", "A cheaper pricing model"],
+      "why": "Lesson 3 says defining your buyer persona is a top priority, since knowing your audience makes targeted strategies possible."
+    },
+    {
+      "q": "What does the summary say about setting ambitious goals for a new business?",
+      "a": ["Aiming high only makes sense with hard work behind it", "Goals should stay modest until profits appear", "Ambitious goals remove the need for a plan", "Goals matter less than the company website"],
+      "why": "Lesson 1 argues that dreaming big is reasonable only when you are determined to put in the work, and goals should match your values."
+    }
+  ]
+}

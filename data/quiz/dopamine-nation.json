@@ -1,0 +1,31 @@
+{
+  "book": "dopamine-nation",
+  "title": "Dopamine Nation",
+  "questions": [
+    {
+      "q": "What does the summary mean by neuroadaptation?",
+      "a": ["The brain builds tolerance and needs more for the same pleasure", "The brain rewires itself to dislike all pleasure", "Nerve damage caused by too much screen time", "The habit of switching between different addictions"],
+      "why": "Lesson 2 explains that repeated dopamine hits make the brain resistant, so more of the source is required."
+    },
+    {
+      "q": "What does the summary say always follows pleasure?",
+      "a": ["Pain", "Rest", "Guilt", "Boredom"],
+      "why": "Lesson 2 states plainly that pleasure is not free, because pain follows it."
+    },
+    {
+      "q": "Which activities does the summary give as healthy sources of pain?",
+      "a": ["Exercise, fasting, and cold showers", "Gambling, gaming, and browsing", "Shopping, snacking, and streaming", "Meditation, journaling, and reading"],
+      "why": "Lesson 3 lists workouts, intermittent fasting, and cold showers as pain that leads to lasting benefit."
+    },
+    {
+      "q": "What is the first step to stopping overindulgence, according to the summary?",
+      "a": ["Restricting your access to tempting stimuli", "Tracking how much pleasure you feel", "Replacing one addiction with another", "Avoiding all contact with other people"],
+      "why": "Lesson 1 says that because dopamine temptations surround us, you must limit how easily you can reach them."
+    },
+    {
+      "q": "What does the summary suggest doing when you feel stressed instead of reaching for a distraction?",
+      "a": ["Identify the distress your mind is covering up", "Distract yourself with music or a podcast", "Wait until the feeling passes on its own", "Talk about it with a professional"],
+      "why": "Lesson 1 recommends listening to your inner voice and finding the source of the misery you are avoiding."
+    }
+  ]
+}

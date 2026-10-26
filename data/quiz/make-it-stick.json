@@ -1,0 +1,56 @@
+{
+  "book": "make-it-stick",
+  "title": "Make It Stick",
+  "questions": [
+    {
+      "q": "Why does the summary call repeated rereading an ineffective study method?",
+      "a": [
+        "It creates a false sense of mastery that fades quickly",
+        "It takes far longer than any other study technique",
+        "It works only for people with unusually strong memories",
+        "It prevents you from ever feeling familiar with the material"
+      ],
+      "why": "Lesson 1 says repetition makes you feel fluent but leaves you unable to recall the basics soon after."
+    },
+    {
+      "q": "What does retrieval practice involve?",
+      "a": [
+        "Closing the book and actively recalling what you remember",
+        "Reading the same chapter several times in a row",
+        "Highlighting the most important sentences as you read",
+        "Copying key passages into a notebook word for word"
+      ],
+      "why": "Lesson 2 describes asking yourself what you remember after closing the book, which activates your memory."
+    },
+    {
+      "q": "What does the summary suggest doing after studying something for a while?",
+      "a": [
+        "Take a short break so your brain can consolidate it",
+        "Switch immediately to a completely unrelated subject",
+        "Repeat it without pausing until it feels automatic",
+        "Test yourself before allowing any rest at all"
+      ],
+      "why": "Lesson 2 recommends a ten-minute break before repeating material so the brain consolidates it."
+    },
+    {
+      "q": "How can you tell that you truly understand a topic?",
+      "a": [
+        "You can explain it simply enough for a young child to follow",
+        "You can recite the textbook definition without looking",
+        "You can finish the material faster than your classmates",
+        "You can remember it for a few days after an exam"
+      ],
+      "why": "Lesson 3 says if you cannot explain a topic simply, you do not fully understand it yet."
+    },
+    {
+      "q": "What does the summary say about linking new information to memories you already have?",
+      "a": [
+        "It expands what you can learn, with no clear limit",
+        "It works only for facts you learned as a child",
+        "It makes learning slower but more accurate",
+        "It should be avoided because it causes confusion"
+      ],
+      "why": "Lesson 3 reports that associating new material with older memories has no apparent limit."
+    }
+  ]
+}

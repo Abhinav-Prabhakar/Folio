@@ -1,0 +1,31 @@
+{
+  "book": "change-by-design",
+  "title": "Change By Design",
+  "questions": [
+    {
+      "q": "What three phases make up the design thinking process?",
+      "a": ["Inspiration, ideation, and implementation", "Research, funding, and launch", "Planning, building, and selling", "Discovery, testing, and feedback"],
+      "why": "Lesson 1 names the phases and says design thinking considers all three together rather than in sequence."
+    },
+    {
+      "q": "Why does design thinking treat the phases as overlapping?",
+      "a": ["Real projects loop through them more than once", "It saves money on research", "It removes the need for testing", "It keeps teams from disagreeing"],
+      "why": "Lesson 1 observes that few projects move neatly from one phase to the next and usually revisit each."
+    },
+    {
+      "q": "Which three criteria should guide every step of a project?",
+      "a": ["Feasibility, viability, and desirability", "Speed, cost, and quality", "Design, marketing, and sales", "Risk, profit, and scale"],
+      "why": "Lesson 1 uses the Nintendo Wii to show a product that worked well, made business sense and appealed to customers."
+    },
+    {
+      "q": "What does the summary recommend about prototyping?",
+      "a": ["Start as early as possible, even with rough models", "Wait until the design is fully polished", "Test only after the product launches", "Leave it entirely to engineers"],
+      "why": "Lesson 2 says building early reveals limits and opportunities, citing Apple's first mouse made from household items."
+    },
+    {
+      "q": "How should you make a new idea stick with people?",
+      "a": ["Tell stories about how it was made and used", "Offer steep introductory discounts", "Add more technical specifications", "Keep the development process secret"],
+      "why": "Lesson 3 recommends storytelling at every stage, such as tracing a jacket's wool back to the farm."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-complete-ketogenic-diet-for-beginners",
+  "title": "The Complete Ketogenic Diet for Beginners",
+  "questions": [
+    {
+      "q": "What state does ketosis create?",
+      "a": [
+        "Fat as energy",
+        "Carbs as energy",
+        "Protein as energy",
+        "Sugar as energy"
+      ],
+      "why": "Ketosis uses fat for energy."
+    },
+    {
+      "q": "What is a common early symptom of keto?",
+      "a": [
+        "Keto flu",
+        "Weight gain",
+        "Increased appetite",
+        "High blood sugar"
+      ],
+      "why": "Keto flu is a normal symptom."
+    },
+    {
+      "q": "What must be eliminated to stay on keto?",
+      "a": [
+        "Carbs",
+        "Fats",
+        "Proteins",
+        "Vitamins"
+      ],
+      "why": "Carbs must be let go."
+    },
+    {
+      "q": "What lifestyle change supports keto success?",
+      "a": [
+        "Meal planning",
+        "Social media use",
+        "Fast food",
+        "Alcohol"
+      ],
+      "why": "Meal planning helps keto."
+    },
+    {
+      "q": "What side effect may occur from ketone secretion?",
+      "a": [
+        "Odd urine smell",
+        "Clear skin",
+        "Sharp vision",
+        "High energy"
+      ],
+      "why": "Urine may look odd from ketones."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "trying-not-to-try",
+  "title": "Trying Not To Try",
+  "questions": [
+    {
+      "q": "Which ancient concept is equated with flow in the book?",
+      "a": [
+        "Wu-wei",
+        "Meditation",
+        "Yoga",
+        "Stoicism"
+      ],
+      "why": "The text links flow to the Chinese idea of wu-wei."
+    },
+    {
+      "q": "What is the first step to spend more time in wu-wei?",
+      "a": [
+        "Be honest with yourself",
+        "Set goals",
+        "Practice gratitude",
+        "Exercise daily"
+      ],
+      "why": "The book states honesty is the initial step."
+    },
+    {
+      "q": "How does the author describe the state of being in wu-wei?",
+      "a": [
+        "Effortless acting",
+        "Mindless distraction",
+        "Forced focus",
+        "Rushed action"
+      ],
+      "why": "Wu-wei is translated as 'effortless acting'."
+    },
+    {
+      "q": "Which fictional example illustrates being on 'The Way'?",
+      "a": [
+        "Harry Potter in Half-Blood Prince",
+        "Lord of the Rings",
+        "Game of Thrones",
+        "The Hobbit"
+      ],
+      "why": "The text cites Harry Potter's lucky potion scene."
+    },
+    {
+      "q": "What does the author say is essential for achieving wu-wei?",
+      "a": [
+        "Loving your work",
+        "Reading philosophy",
+        "Watching TV",
+        "Eating healthy"
+      ],
+      "why": "The book says loving the work is key to flow."
+    }
+  ]
+}

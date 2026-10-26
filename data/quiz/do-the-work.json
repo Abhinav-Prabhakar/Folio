@@ -1,0 +1,31 @@
+{
+  "book": "do-the-work",
+  "title": "Do The Work",
+  "questions": [
+    {
+      "q": "What does Pressfield call the inner force that makes you procrastinate?",
+      "a": ["Resistance", "Inertia", "Avoidance", "Friction"],
+      "why": "The overview describes Resistance as the force that lets you put off the work that matters most to you."
+    },
+    {
+      "q": "What does Henry Fonda's example show about fear and important work?",
+      "a": ["Even masters never stop feeling afraid", "Fear fades once you are famous", "Rituals are needed before any performance", "Acting is more stressful than other work"],
+      "why": "Lesson 1 says Fonda threw up before every show even at seventy-five, because caring about your work keeps the fear alive."
+    },
+    {
+      "q": "How does the summary define courage?",
+      "a": ["Moving forward even when you feel afraid", "Never feeling fear before a challenge", "Taking risks without any preparation", "Ignoring what other people think"],
+      "why": "Lesson 1 says acting in spite of fear is precisely what courage means."
+    },
+    {
+      "q": "Why is it a bad idea to edit your work right after finishing it?",
+      "a": ["You are too close to it to judge it fairly", "You will forget what you originally meant", "The first draft is usually the strongest", "Editing too soon damages your motivation"],
+      "why": "Lesson 2 recommends putting temporal and physical distance between creating and judging your work."
+    },
+    {
+      "q": "What does the summary suggest doing when you feel like giving up?",
+      "a": ["Review what you have already accomplished", "Take a long break from the project", "Ask a friend to hold you accountable", "Set a smaller goal for the day"],
+      "why": "Lesson 3 says looking at your past progress renews your drive, then ask how badly and why you want it."
+    }
+  ]
+}

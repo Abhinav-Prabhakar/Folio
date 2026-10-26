@@ -1,0 +1,56 @@
+{
+  "book": "games-people-play",
+  "title": "Games People Play",
+  "questions": [
+    {
+      "q": "What are the three ego states Berne says everyone moves between?",
+      "a": [
+        "Parent, Adult and Child",
+        "Id, ego and superego",
+        "Past, present and future",
+        "Rational, emotional and social"
+      ],
+      "why": "The first lesson says each person's behavior falls into one of these three recurring patterns."
+    },
+    {
+      "q": "What does the Child ego state represent?",
+      "a": [
+        "The spontaneous emotions and intimacy we are born with",
+        "The rules we learned from our parents",
+        "The logic we use to solve problems",
+        "The mask we show to strangers"
+      ],
+      "why": "The first lesson says the Child is buried under the other states and surfaces in moments like sex."
+    },
+    {
+      "q": "When are you playing a game, according to the summary?",
+      "a": [
+        "When you seem to be in one ego state but are really in another",
+        "When you compete with a coworker for a promotion",
+        "When you lie to get something you want",
+        "When you avoid talking about your feelings"
+      ],
+      "why": "The second lesson defines a game as a hidden mismatch between the state you show and the state you act from."
+    },
+    {
+      "q": "In the game called Alcoholic, what does the drinker actually get from her family?",
+      "a": [
+        "Fuel for self-pity that leads to more drinking",
+        "A genuine cure for her addiction",
+        "Attention from a sympathetic doctor",
+        "Protection from her own worst impulses"
+      ],
+      "why": "The second lesson says the family's scolding is exactly the payoff the rebellious Child is looking for."
+    },
+    {
+      "q": "Why do people keep playing games even when the games hurt them?",
+      "a": [
+        "Games let them avoid being vulnerable",
+        "Games always get them what they want",
+        "They never notice the cost of a game",
+        "Games make them more likable to others"
+      ],
+      "why": "The third lesson says dropping games means revealing your true self, which is why it feels so difficult."
+    }
+  ]
+}

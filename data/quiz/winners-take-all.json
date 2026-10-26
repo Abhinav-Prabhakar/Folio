@@ -1,0 +1,56 @@
+{
+  "book": "winners-take-all",
+  "title": "Winners Take All",
+  "questions": [
+    {
+      "q": "What does the author claim about elite benefits from social progress?",
+      "a": [
+        "They capture most gains",
+        "Everyone benefits equally",
+        "Progress harms elites",
+        "Progress is irrelevant"
+      ],
+      "why": "Elite capture most benefits of progress."
+    },
+    {
+      "q": "Which statistic shows rising inequality in the US?",
+      "a": [
+        "Searches for \"inequality\" doubled 2010-2014",
+        "Income grew evenly",
+        "Unemployment fell",
+        "Education improved"
+      ],
+      "why": "The text cites doubled searches for inequality."
+    },
+    {
+      "q": "What criticism is made of the \"Think Win-Win\" habit?",
+      "a": [
+        "It hides selfishness",
+        "It promotes sharing",
+        "It encourages teamwork",
+        "It solves problems"
+      ],
+      "why": "The habit is used to mask greed."
+    },
+    {
+      "q": "How does the author describe business elites' honesty?",
+      "a": [
+        "They hide control to maintain status",
+        "They are fully transparent",
+        "They admit mistakes",
+        "They avoid power"
+      ],
+      "why": "Elites conceal control to solidify status."
+    },
+    {
+      "q": "What is the author's view on entrepreneurship?",
+      "a": [
+        "It keeps the rich in power",
+        "It creates jobs",
+        "It solves inequality",
+        "It is irrelevant"
+      ],
+      "why": "The text says entrepreneurship keeps the ultra-rich in power."
+    }
+  ]
+}

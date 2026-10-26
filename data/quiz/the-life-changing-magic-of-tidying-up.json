@@ -1,0 +1,56 @@
+{
+  "book": "the-life-changing-magic-of-tidying-up",
+  "title": "The Life-Changing Magic Of Tidying Up",
+  "questions": [
+    {
+      "q": "What single question guides Marie Kondo's tidying process?",
+      "a": [
+        "Does this spark joy?",
+        "Is it useful?",
+        "Will it fit?",
+        "Does it look nice?"
+      ],
+      "why": "The book states the core question is \"Does this spark joy?\""
+    },
+    {
+      "q": "How long does Kondo estimate it takes to tidy a client's house?",
+      "a": [
+        "About six hours",
+        "One day",
+        "Two weeks",
+        "Three months"
+      ],
+      "why": "The text notes she takes around six hours on average"
+    },
+    {
+      "q": "Which category should you tackle first according to the book?",
+      "a": [
+        "Easier items",
+        "Most valuable items",
+        "Most sentimental items",
+        "Most expensive items"
+      ],
+      "why": "The book advises starting with easier categories"
+    },
+    {
+      "q": "What is the main benefit of treating tidying as a special event?",
+      "a": [
+        "It becomes fun and life-changing",
+        "It saves time",
+        "It reduces stress",
+        "It increases productivity"
+      ],
+      "why": "The text says a special event turns it into fun and life-changing"
+    },
+    {
+      "q": "Which question is NOT listed as a simple question to decide what to keep?",
+      "a": [
+        "Has it fulfilled its purpose already?",
+        "Does it have a warranty?",
+        "What is the purpose of this object?",
+        "Why did I get this thing?"
+      ],
+      "why": "The book lists purpose, fulfillment, reason, time, origin, not warranty"
+    }
+  ]
+}

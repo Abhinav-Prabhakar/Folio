@@ -1,0 +1,56 @@
+{
+  "book": "design-to-grow",
+  "title": "Design To Grow",
+  "questions": [
+    {
+      "q": "What is the difference between visible and invisible design?",
+      "a": [
+        "Visible design is what customers see; invisible design is how you deliver it",
+        "Visible design is the logo; invisible design is the advertising budget",
+        "Visible design is for staff; invisible design is for customers",
+        "Visible design changes yearly; invisible design never changes"
+      ],
+      "why": "Lesson 1 says visible design covers products and branding, while invisible design covers processes and culture."
+    },
+    {
+      "q": "What did Coca-Cola learn before redesigning its Minaqua water bottle?",
+      "a": [
+        "Japanese buyers valued recycling and lived in small homes",
+        "Japanese buyers wanted larger bottles for families",
+        "Bottled water was losing ground to soft drinks",
+        "Customers preferred glass bottles over plastic"
+      ],
+      "why": "Lesson 1 shows research shaping a small, stackable, recyclable bottle."
+    },
+    {
+      "q": "When should a startup shift from flexible to stable?",
+      "a": [
+        "Once it has found a strong product-to-market fit",
+        "As soon as it hires its first employee",
+        "Before it has tested any version of the product",
+        "Only after it has expanded into several countries"
+      ],
+      "why": "Lesson 2 says startups must stay flexible until they find fit, then standardize to scale."
+    },
+    {
+      "q": "What stayed essentially unchanged at Coca-Cola for over 90 years?",
+      "a": [
+        "The bottle design, font, color and franchise model",
+        "The recipe, price and advertising agency",
+        "The company's ownership and headquarters",
+        "The target market and distribution countries"
+      ],
+      "why": "Lesson 2 says those core design elements gave Coca-Cola a stable, recognizable identity."
+    },
+    {
+      "q": "How does Coca-Cola's open innovation system work?",
+      "a": [
+        "Customers experiment within fixed tools and contribute product ideas",
+        "Outside agencies are paid to file patents for the company",
+        "Employees compete privately for research budgets",
+        "The company buys promising startups and absorbs their teams"
+      ],
+      "why": "Lesson 3 describes the Design Machine, where templates are fixed but the rest is open, saving $100 million."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "metahuman",
+  "title": "Metahuman",
+  "questions": [
+    {
+      "q": "What does the summary describe as the gateway to metareality?",
+      "a": ["Mindfulness that stays with the present moment", "Years of formal philosophical study", "Mastering creative visualization techniques", "A strict daily routine of journaling"],
+      "why": "Lesson 1 says letting past and future fall away so you can focus on now opens the door."
+    },
+    {
+      "q": "What does the summary say about using meditation mainly to reduce stress?",
+      "a": ["It uses only a fraction of meditation's real power", "It is the most advanced use of the practice", "It works only for people who feel anxious", "It makes waking meditation unnecessary"],
+      "why": "Lesson 1 compares it to using a power drill to punch holes in paper."
+    },
+    {
+      "q": "What term does the summary use for turning an idea like money into a physical thing?",
+      "a": ["Reification", "Metareality", "Conditioning", "Projection"],
+      "why": "Lesson 2 calls this process reification, and says we also do it to our own sense of self."
+    },
+    {
+      "q": "What exercise does the summary suggest for getting back in touch with your true self?",
+      "a": ["Having one thought that has never existed before", "Writing down your earliest childhood memory", "Listing every belief you inherited from family", "Spending a week without any media at all"],
+      "why": "Lesson 2 recommends one original thought that does not come from any form of media."
+    },
+    {
+      "q": "Where does the author say creativity really comes from?",
+      "a": ["Metareality, which everyone can access", "A rare gift given to a chosen few", "Luck and sudden flashes of insight", "Careful study of society's traditions"],
+      "why": "Lesson 3 says metareality is the true source of creativity, and cites Shakespeare and Van Gogh."
+    }
+  ]
+}

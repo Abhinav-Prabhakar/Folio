@@ -1,0 +1,56 @@
+{
+  "book": "the-happy-mind",
+  "title": "The Happy Mind",
+  "questions": [
+    {
+      "q": "What brain is blamed for most unhappiness?",
+      "a": [
+        "Reptilian brain",
+        "Neocortex",
+        "Prefrontal cortex",
+        "Amygdala"
+      ],
+      "why": "Authors link unhappiness to the reptilian brain."
+    },
+    {
+      "q": "How do authors suggest we achieve happiness?",
+      "a": [
+        "Create it with deliberate effort",
+        "Wait for it to happen",
+        "Rely on luck",
+        "Follow a routine"
+      ],
+      "why": "They argue happiness is built through intentional effort."
+    },
+    {
+      "q": "What is the main lesson about influencing others?",
+      "a": [
+        "Improve yourself first",
+        "Demand change",
+        "Ignore others",
+        "Set strict rules"
+      ],
+      "why": "They advise focusing on self-improvement to affect others."
+    },
+    {
+      "q": "Which brain is associated with rational decision-making?",
+      "a": [
+        "Neocortex",
+        "Reptilian brain",
+        "Thalamus",
+        "Hypothalamus"
+      ],
+      "why": "Neocortex houses intellectual capacity."
+    },
+    {
+      "q": "What do authors say about responsibility for happiness?",
+      "a": [
+        "Take responsibility",
+        "Blame circumstances",
+        "Avoid effort",
+        "Accept fate"
+      ],
+      "why": "They emphasize personal responsibility."
+    }
+  ]
+}

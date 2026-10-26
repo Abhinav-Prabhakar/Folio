@@ -1,0 +1,56 @@
+{
+  "book": "free-to-focus",
+  "title": "Free To Focus",
+  "questions": [
+    {
+      "q": "What does the summary say happens when you try to work faster?",
+      "a": [
+        "Any time you save gets filled with more tasks",
+        "Your workday reliably gets shorter",
+        "Your focus improves over time",
+        "Only new employees struggle with it"
+      ],
+      "why": "The first lesson calls speed alone a trap: extra time just gets absorbed by an already full schedule."
+    },
+    {
+      "q": "What did Jack Nevison's research find about long working hours?",
+      "a": [
+        "People working over 55 hours are less productive than those under 50",
+        "Productivity rises steadily with every extra hour worked",
+        "Overtime only helps on creative projects",
+        "Everyone produces the most at around 40 hours"
+      ],
+      "why": "The first lesson uses Nevison's review of studies to show that overtime backfires."
+    },
+    {
+      "q": "What does Hyatt say about time and energy?",
+      "a": [
+        "Neither is infinite, so rest has to be planned",
+        "Both stay constant throughout the working day",
+        "Energy refills on its own every morning",
+        "Time can be stretched with better tools"
+      ],
+      "why": "The second lesson compares the brain to a phone battery and says both resources run down."
+    },
+    {
+      "q": "Which recovery habit does the summary call the first principle?",
+      "a": [
+        "Sleep",
+        "Exercise",
+        "Meditation",
+        "Socializing"
+      ],
+      "why": "The second lesson says sleep comes first because without it problem-solving and decisions suffer."
+    },
+    {
+      "q": "Which question helps you see the hidden cost of agreeing to a request?",
+      "a": [
+        "If I say yes to this, what am I saying no to?",
+        "How quickly could I finish this task?",
+        "Who else on the team could do this?",
+        "Will this make me look dependable?"
+      ],
+      "why": "The third lesson borrows this question to expose the trade-off hiding inside every yes."
+    }
+  ]
+}

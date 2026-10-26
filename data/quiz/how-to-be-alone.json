@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-alone",
+  "title": "How To Be Alone",
+  "questions": [
+    {
+      "q": "What is Maitland's first suggestion for getting more solitude?",
+      "a": [
+        "Extend the solo activities you already do",
+        "Book a silent retreat for a month",
+        "Cut off contact with your friends",
+        "Move to a remote countryside cottage"
+      ],
+      "why": "Lesson one says to start by doing more or longer sessions of things you already do alone, like running or walking."
+    },
+    {
+      "q": "Why don't music, books or films count as real solitude?",
+      "a": [
+        "You are still engaging with another person's work",
+        "They cost money and require planning",
+        "They are too distracting to relax you",
+        "They always involve other people nearby"
+      ],
+      "why": "The summary says that even alone, you are connecting with the creator rather than with your own thoughts."
+    },
+    {
+      "q": "Which childhood activity does solitude help adults recover?",
+      "a": [
+        "Daydreaming and letting the imagination wander",
+        "Sleeping deeply through the night",
+        "Playing team sports with friends",
+        "Learning new languages quickly"
+      ],
+      "why": "Lesson two says reverie and active imagination brought many of us joy as children and can do so again."
+    },
+    {
+      "q": "What did Carl Jung find when he reviewed his happiest childhood memories?",
+      "a": [
+        "They came from imagining while alone",
+        "They came from family holidays abroad",
+        "They came from winning at school",
+        "They came from time with close friends"
+      ],
+      "why": "The summary says Jung's notes showed most of his happiest memories came from using his imagination alone."
+    },
+    {
+      "q": "What is Maitland's view of the introvert versus extrovert labels?",
+      "a": [
+        "They are useless because people shift with context",
+        "Introverts need far more solitude than extroverts",
+        "Extroverts should force themselves to be alone",
+        "The labels predict how much solitude you need"
+      ],
+      "why": "Lesson three says everyone is both depending on the situation, so psychology should not decide your ideal dose of solitude."
+    }
+  ]
+}

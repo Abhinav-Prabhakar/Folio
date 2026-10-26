@@ -1,0 +1,56 @@
+{
+  "book": "the-audacity-of-hope",
+  "title": "The Audacity Of Hope",
+  "questions": [
+    {
+      "q": "What two beliefs does Obama say unite Americans?",
+      "a": [
+        "Freedom and community",
+        "Faith and prosperity",
+        "Equality and security",
+        "Independence and tradition"
+      ],
+      "why": "Lesson 1 says the Constitution and the Declaration both center on freedom and community."
+    },
+    {
+      "q": "Which three outside forces does Obama say make a politician's job hard?",
+      "a": [
+        "Money, the media and special interest groups",
+        "Voters, courts and foreign governments",
+        "Pollsters, unions and rivals",
+        "Lobbyists, family and staff"
+      ],
+      "why": "Lesson 2 names money, the media and large interest groups as the main influences on politicians."
+    },
+    {
+      "q": "Why does fundraising damage politicians, according to the summary?",
+      "a": [
+        "Constant contact with wealthy donors disconnects them from ordinary citizens",
+        "Donors demand laws that are obviously illegal",
+        "Campaign spending decides who wins elections",
+        "Money must be reported to the public"
+      ],
+      "why": "Lesson 2 says mixing with the top one percent makes it hard to stay connected to most voters."
+    },
+    {
+      "q": "What solution does Obama propose for campaign funding?",
+      "a": [
+        "Public funding and free airtime for presidential candidates",
+        "A strict cap on all private donations",
+        "Full disclosure of every donor's identity",
+        "Shorter campaigns limited to six weeks"
+      ],
+      "why": "Lesson 2 offers public campaign financing and free media time as a way to reduce donor influence."
+    },
+    {
+      "q": "Why can the current global fight not be won with weapons?",
+      "a": [
+        "The enemy is extreme ideology, which only a social awakening can reform",
+        "Modern armies are too expensive to maintain",
+        "Other countries refuse to join coalitions",
+        "Weapons cannot reach remote regions"
+      ],
+      "why": "Lesson 3 says today's threats are ideologies, and only change where they thrive can defeat them."
+    }
+  ]
+}

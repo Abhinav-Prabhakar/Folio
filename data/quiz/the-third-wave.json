@@ -1,0 +1,56 @@
+{
+  "book": "the-third-wave",
+  "title": "The Third Wave",
+  "questions": [
+    {
+      "q": "What was the original purpose of ARPANET?",
+      "a": [
+        "Military research",
+        "Commercial internet",
+        "Education",
+        "Entertainment"
+      ],
+      "why": "ARPANET began as a U.S. Department of Defense project."
+    },
+    {
+      "q": "Which company partnered with record labels to launch iTunes?",
+      "a": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "why": "Apple needed record label partners for iTunes."
+    },
+    {
+      "q": "What technology did John Deere use for self‑steering tractors?",
+      "a": [
+        "GPS and satellite",
+        "AI cameras",
+        "Bluetooth",
+        "Infrared"
+      ],
+      "why": "John Deere used GPS and satellite tech."
+    },
+    {
+      "q": "What does the book say about old solutions in a Third Wave world?",
+      "a": [
+        "They become obsolete",
+        "They stay relevant",
+        "They improve slowly",
+        "They are ignored"
+      ],
+      "why": "It states old solutions become obsolete."
+    },
+    {
+      "q": "Which wave introduced the first web browser?",
+      "a": [
+        "First Wave",
+        "Second Wave",
+        "Third Wave",
+        "Fourth Wave"
+      ],
+      "why": "The first wave saw the creation of the web browser."
+    }
+  ]
+}

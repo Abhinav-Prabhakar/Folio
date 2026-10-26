@@ -1,0 +1,56 @@
+{
+  "book": "hiring-success",
+  "title": "Hiring Success",
+  "questions": [
+    {
+      "q": "Why does the summary describe spending on employees as an investment?",
+      "a": [
+        "Satisfied employees lead to satisfied customers and revenue",
+        "Higher pay always attracts the most talented applicants",
+        "Training costs are usually tax deductible for companies",
+        "Well-paid staff require less supervision from managers"
+      ],
+      "why": "The overview says a healthy workplace makes employees productive and customers happy, which benefits the business."
+    },
+    {
+      "q": "What is the first step in running an effective recruiting campaign?",
+      "a": [
+        "Segment the audience and know who you are looking for",
+        "Offer the highest salary the budget can support",
+        "Post the vacancy on every available job board",
+        "Ask current employees to interview candidates"
+      ],
+      "why": "Lesson 1 says to segment your audience first, considering the impact and scarcity of the skills you need."
+    },
+    {
+      "q": "What is guerilla marketing in the context of hiring?",
+      "a": [
+        "Using unconventional methods to grab people's attention",
+        "Buying expensive ads in national newspapers",
+        "Sending recruiters to competitors' offices",
+        "Holding interviews in public coffee shops"
+      ],
+      "why": "Lesson 2 defines guerilla marketing as outside-the-box promotion that makes an audience more likely to engage."
+    },
+    {
+      "q": "What does pipelining mean in the hiring process?",
+      "a": [
+        "Filtering applicants by credentials to narrow the list",
+        "Training new hires before they start work",
+        "Promoting employees from within the company",
+        "Scheduling several rounds of group interviews"
+      ],
+      "why": "Lesson 2 describes pipelining as using criteria such as credentials and experience to drop unsuitable candidates."
+    },
+    {
+      "q": "What does the summary say about making a single good hire?",
+      "a": [
+        "It cannot transform a company without consistent recruiting",
+        "It is enough to improve the whole organization's performance",
+        "It matters more than the company's financial resources",
+        "It should be avoided in favor of internal promotions"
+      ],
+      "why": "Lesson 3 says one good hire will not make a company successful and that hiring must be consistent."
+    }
+  ]
+}

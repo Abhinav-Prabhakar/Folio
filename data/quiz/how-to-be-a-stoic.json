@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-a-stoic",
+  "title": "How To Be A Stoic",
+  "questions": [
+    {
+      "q": "What is a preferred indifferent in Stoicism?",
+      "a": [
+        "Something you would choose but can accept losing",
+        "Something you must avoid no matter the cost",
+        "Something that has no moral value at all",
+        "Something only a sage is allowed to want"
+      ],
+      "why": "Lesson one defines it as an option you prefer if possible but remain content without, such as wealth or health."
+    },
+    {
+      "q": "Which four qualities make up Stoic virtue?",
+      "a": [
+        "Temperance, courage, justice and wisdom",
+        "Patience, humility, honesty and generosity",
+        "Courage, loyalty, discipline and faith",
+        "Wisdom, kindness, restraint and ambition"
+      ],
+      "why": "Lesson two breaks virtue into self-control, bravery, fairness and wisdom, with wisdom considered the most important."
+    },
+    {
+      "q": "Which part of virtue did the Stoics value most?",
+      "a": [
+        "Wisdom",
+        "Courage",
+        "Justice",
+        "Temperance"
+      ],
+      "why": "Lesson two says wisdom was ranked highest because it helps you choose well whatever the circumstances."
+    },
+    {
+      "q": "Which friendship type is based on who people are, not what they share?",
+      "a": [
+        "A friendship of the good",
+        "A friendship of utility",
+        "A friendship of pleasure",
+        "A friendship of convenience"
+      ],
+      "why": "Lesson three says friendships of the good rest on character rather than business or hobbies, making them the strongest."
+    },
+    {
+      "q": "How should we treat friendships built on usefulness or shared hobbies?",
+      "a": [
+        "As nice to have but not essential to a good life",
+        "As the only friendships worth keeping",
+        "As harmful and best avoided",
+        "As more important than family ties"
+      ],
+      "why": "The summary says the first two kinds are worth having but should be treated as preferred indifferents."
+    }
+  ]
+}

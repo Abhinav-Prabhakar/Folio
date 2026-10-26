@@ -1,0 +1,56 @@
+{
+  "book": "born-a-crime",
+  "title": "Born A Crime",
+  "questions": [
+    {
+      "q": "Why was Trevor Noah's existence a crime under apartheid?",
+      "a": [
+        "His father was white and his mother was black",
+        "His family had entered the country illegally",
+        "His parents were not legally married",
+        "He was born outside a designated township"
+      ],
+      "why": "Apartheid law banned interracial relationships, so his birth was evidence of one."
+    },
+    {
+      "q": "What did Trevor's mother do when authorities came near?",
+      "a": [
+        "She put him down and pretended he was not her child",
+        "She hid him in a neighbor's house",
+        "She told them he was adopted",
+        "She sent him to live with his father"
+      ],
+      "why": "She had to be careful because his father could not be seen with him."
+    },
+    {
+      "q": "What was the black tax Trevor's mother wanted him to avoid?",
+      "a": [
+        "Money black children spend to make up for their parents' poverty",
+        "A fee charged by the government for black schools",
+        "The share of wages taken by tribal leaders",
+        "A payment required to register a black-owned business"
+      ],
+      "why": "She spent her limited money on books and teaching him to escape that cycle."
+    },
+    {
+      "q": "What happened when the Zulu bus driver argued with Trevor's mother?",
+      "a": [
+        "She forced the door open and they jumped out",
+        "She convinced the driver to let them stay on",
+        "She paid him extra to finish the route",
+        "She called the police from the bus"
+      ],
+      "why": "The driver sped up to trap them, so she grabbed her sons and ran home."
+    },
+    {
+      "q": "How did Trevor's ability to blend in help his tuckshop business?",
+      "a": [
+        "He could sell to students from every group and navigate between them",
+        "He could buy stock at a lower price from wholesalers",
+        "He could avoid paying the school for his stall",
+        "He could hire other students to sell for him"
+      ],
+      "why": "His wit let him move among nerds, jocks and rich kids without trouble."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "presence",
+  "title": "Presence",
+  "questions": [
+    {
+      "q": "What exercise does Cuddy recommend for handling stress with more courage?",
+      "a": [
+        "Writing an essay about your top core value",
+        "Repeating positive affirmations every morning",
+        "Visualizing yourself succeeding on stage",
+        "Listing the worst outcomes you can imagine"
+      ],
+      "why": "Lesson 1 says to choose one core value and write about why it matters to you."
+    },
+    {
+      "q": "What did the study find about people who wrote about core values?",
+      "a": [
+        "Their stress hormones did not rise under pressure",
+        "They recovered from stress more slowly than others",
+        "They reported feeling more anxious afterward",
+        "They performed worse on difficult tasks"
+      ],
+      "why": "Lesson 1 says the control group's stress hormones rose in a stressful situation while the values group's did not."
+    },
+    {
+      "q": "Which system pushes you to try new things and take opportunities?",
+      "a": [
+        "The approach system",
+        "The inhibition system",
+        "The defensive system",
+        "The avoidance system"
+      ],
+      "why": "Lesson 2 says the approach system drives adventure and is strong in outgoing people."
+    },
+    {
+      "q": "How can you break out of a feeling of powerlessness?",
+      "a": [
+        "Recall a past moment when you felt empowered",
+        "Avoid situations you cannot control",
+        "Focus on the tasks you still have to do",
+        "Ask others to reassure you about your abilities"
+      ],
+      "why": "Lesson 2 says remembering a win activates the approach system and helps you feel in control again."
+    },
+    {
+      "q": "What did Cuddy observe about students with poor posture?",
+      "a": [
+        "They had the worst grades in her class",
+        "They spoke less often but more clearly",
+        "They preferred sitting at the front",
+        "They were more likely to ask questions"
+      ],
+      "why": "Lesson 3 says the students with the worst grades were the ones slumped, heads down, sitting at the edges."
+    }
+  ]
+}

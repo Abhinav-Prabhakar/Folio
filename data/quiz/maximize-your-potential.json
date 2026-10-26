@@ -1,0 +1,56 @@
+{
+  "book": "maximize-your-potential",
+  "title": "Maximize Your Potential",
+  "questions": [
+    {
+      "q": "How does the summary suggest finding a fulfilling career?",
+      "a": [
+        "Match your existing skills to the lifestyle you want",
+        "Follow whatever passion you felt strongest as a child",
+        "Choose the field with the highest entry-level salary",
+        "Wait until a dream job appears and then apply"
+      ],
+      "why": "Lesson 1 says examining the lifestyle you desire and your skills matters more than passion alone."
+    },
+    {
+      "q": "What did Bill McKibben’s example show about job satisfaction?",
+      "a": [
+        "Impact and a flexible lifestyle can matter more than loving the craft itself",
+        "Writing talent is innate and cannot be developed through practice",
+        "Journalism is only fulfilling for people who enjoy research",
+        "A prestigious newspaper job is the surest route to happiness"
+      ],
+      "why": "Lesson 1 says McKibben valued his positive influence and flexible hours, and built his writing skill over years."
+    },
+    {
+      "q": "What is a “be-good” mindset?",
+      "a": [
+        "Wanting to prove you are capable, which leads to stagnation",
+        "Seeking constant improvement by studying better people",
+        "Comparing your progress only with your past self",
+        "Avoiding feedback so your confidence stays intact"
+      ],
+      "why": "Lesson 2 says a be-good attitude focuses on proving capability and leaves little room to grow."
+    },
+    {
+      "q": "What characterizes a “get-better” mindset?",
+      "a": [
+        "Measuring yourself against your past self and seeking improvement",
+        "Comparing your results with the people around you",
+        "Sticking to tasks you already perform well",
+        "Avoiding difficult work that could expose mistakes"
+      ],
+      "why": "Lesson 2 says the get-better attitude focuses on daily improvement rather than comparison with others."
+    },
+    {
+      "q": "What did Coca-Cola’s expansion into East Germany illustrate?",
+      "a": [
+        "Opportunity often requires accepting risk despite possible pitfalls",
+        "Large companies should avoid unfamiliar markets entirely",
+        "Every risky expansion eventually produces a loss",
+        "Only unanimous leadership teams make good decisions"
+      ],
+      "why": "Lesson 3 says the team overcame fear, took the risk and built a profitable market despite difficulties."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "call-sign-chaos",
+  "title": "Call Sign Chaos",
+  "questions": [
+    {
+      "q": "What did Mattis find at the officer training program in Quantico?",
+      "a": ["A sense of purpose", "A college degree", "A publishing contract", "A medical discharge"],
+      "why": "Lesson 1 describes Mattis as directionless until Quantico gave him a calling he refused to leave."
+    },
+    {
+      "q": "Which three qualities does Mattis name as the marks of an effective leader?",
+      "a": ["Competence, care, and conviction", "Courage, charisma, and cunning", "Discipline, loyalty, and humility", "Vision, strategy, and speed"],
+      "why": "Lesson 2 builds its leadership advice around being skilled, showing you care and holding firm rules."
+    },
+    {
+      "q": "What does Mattis compare a military leader to when describing care?",
+      "a": ["A coach who pushes subordinates to grow", "A friend who shares their troubles", "A parent who shields them from risk", "A judge who settles their disputes"],
+      "why": "Lesson 2 says leaders cannot be friends with subordinates and should act more like a coach developing their strengths."
+    },
+    {
+      "q": "Why does Mattis say the US struggled after Saddam Hussein fell?",
+      "a": ["It failed to plan for the chaos that followed", "It sent too few troops to win the war", "It relied on allies who soon withdrew", "It underestimated Iraq's oil reserves"],
+      "why": "Lesson 3 argues that a lack of preparation left the US unprepared for the disorder after the regime collapsed."
+    },
+    {
+      "q": "What specific problem did Iraq's defeated army create?",
+      "a": ["Trained young men with no jobs or prospects", "A shortage of weapons for US troops", "A flood of refugees into Europe", "A collapse in global oil prices"],
+      "why": "Lesson 3 calls the unemployed, battle-hardened soldiers a disaster waiting to happen that could be turned against US forces."
+    }
+  ]
+}

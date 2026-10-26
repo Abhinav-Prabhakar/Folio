@@ -1,0 +1,56 @@
+{
+  "book": "predictable-success",
+  "title": "Predictable Success",
+  "questions": [
+    {
+      "q": "What are the three stages a company passes before predictable success?",
+      "a": [
+        "Early struggle, fun and whitewater",
+        "Startup, growth and plateau",
+        "Forming, storming and norming",
+        "Launch, scale and exit"
+      ],
+      "why": "Lesson 1 names the early struggle, the fun stage and the whitewater stage that follows them."
+    },
+    {
+      "q": "How much cash does McKeown say a business should keep on hand?",
+      "a": [
+        "Three times what it needs",
+        "Twice what it needs",
+        "Exactly what it needs",
+        "Ten times what it needs"
+      ],
+      "why": "Lesson 1 gives the rule of having three times as much cash as you need to stay in business for a year."
+    },
+    {
+      "q": "How should a growing company handle more decisions than it can make?",
+      "a": [
+        "Push them down the chain and let people own them",
+        "Centralize them with the founder for consistency",
+        "Delay them until the busy period passes",
+        "Cut quality or cancel orders to cope"
+      ],
+      "why": "Lesson 2 says pushing decisions down frees leaders for strategy and keeps the company moving in hard times."
+    },
+    {
+      "q": "What does the four-D decision system involve?",
+      "a": [
+        "Gathering data, debating, deciding or deferring",
+        "Defining, designing, developing and delivering",
+        "Deciding, delegating, documenting and debriefing",
+        "Diagnosing, discussing, directing and doubling down"
+      ],
+      "why": "Lesson 3 describes the system as data, debate, decide and defer, with a 40 percent rule for gathering data."
+    },
+    {
+      "q": "Which Google practice does McKeown suggest for building risk-taking in?",
+      "a": [
+        "Giving employees a day a week for their own projects",
+        "Letting employees vote on the annual budget",
+        "Rotating managers between departments yearly",
+        "Reviewing every new idea in a weekly meeting"
+      ],
+      "why": "Lesson 3 cites Google's 20 percent time as an example of making risk-taking part of daily operations."
+    }
+  ]
+}

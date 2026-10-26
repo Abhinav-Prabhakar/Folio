@@ -1,0 +1,56 @@
+{
+  "book": "essentialism",
+  "title": "Essentialism",
+  "questions": [
+    {
+      "q": "What do doing nothing and doing everything have in common, per McKeown?",
+      "a": [
+        "Both are signs of learned helplessness",
+        "Both lead to faster progress",
+        "Both require careful planning",
+        "Both show strong personal boundaries"
+      ],
+      "why": "Lesson 1 says both camps give up the power to choose."
+    },
+    {
+      "q": "What did Seligman's dog experiment demonstrate?",
+      "a": [
+        "Dogs that could not stop shocks stopped trying to escape",
+        "Dogs that could stop shocks became more fearful",
+        "All the dogs eventually escaped the box",
+        "Older dogs learned the lever faster"
+      ],
+      "why": "Lesson 1 describes dogs that had learned to accept their fate."
+    },
+    {
+      "q": "How does the 90% rule work?",
+      "a": [
+        "Anything scoring below 90 counts as zero and goes",
+        "Only tasks rated above 90 percent get scheduled",
+        "You aim to finish 90 percent of your list daily",
+        "You keep 90 percent of your existing commitments"
+      ],
+      "why": "Lesson 2 says everything under 90 is treated as a zero."
+    },
+    {
+      "q": "How much buffer does McKeown recommend when planning a task?",
+      "a": [
+        "Add 50 percent more time than you estimate",
+        "Double the time you think it will take",
+        "Add exactly fifteen minutes to every task",
+        "Plan only half of what you think you can do"
+      ],
+      "why": "Lesson 3 says to add half the estimated time for the unexpected."
+    },
+    {
+      "q": "How does the summary describe an editor's job, citing Jack Dorsey?",
+      "a": [
+        "Mostly removing what does not add value",
+        "Mostly adding new projects and ideas",
+        "Mostly delegating work to others",
+        "Mostly measuring results and sales"
+      ],
+      "why": "Lesson 2 says editing is about adding, but mostly about removing."
+    }
+  ]
+}

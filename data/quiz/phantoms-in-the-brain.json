@@ -1,0 +1,56 @@
+{
+  "book": "phantoms-in-the-brain",
+  "title": "Phantoms In The Brain",
+  "questions": [
+    {
+      "q": "What does hemineglect do to patients like Ellen?",
+      "a": [
+        "It makes one side of their surroundings seem not to exist",
+        "It makes them invent detailed memories of events",
+        "It makes them laugh at moments that are not funny",
+        "It makes them believe a paralyzed limb still works"
+      ],
+      "why": "Lesson 1 says patients are blind to one side and act as if that side does not exist at all."
+    },
+    {
+      "q": "Which area of the brain is damaged in hemineglect cases?",
+      "a": [
+        "The right parietal lobe",
+        "The left frontal lobe",
+        "The limbic system",
+        "The brain stem"
+      ],
+      "why": "Lesson 1 says these cases always follow a stroke in the right parietal lobe, an area that helps with perception."
+    },
+    {
+      "q": "What is anosognosia, as described in the summary?",
+      "a": [
+        "Denying a paralysis that brain damage has caused",
+        "Laughing uncontrollably after a brain injury",
+        "Failing to recognize people you know well",
+        "Seeing cartoon characters as real people"
+      ],
+      "why": "Lesson 2 describes Mrs. Dodd insisting her paralyzed arm worked, a severe denial called anosognosia."
+    },
+    {
+      "q": "What can happen after a stroke in the left hemisphere?",
+      "a": [
+        "Patients become obsessed with being sick",
+        "Patients deny that anything is wrong",
+        "Patients neglect one half of their vision",
+        "Patients lose the ability to speak"
+      ],
+      "why": "Lesson 2 notes that the opposite of denial, an obsession with illness, appears after left hemisphere strokes."
+    },
+    {
+      "q": "How do evolutionary psychologists explain why laughter first developed?",
+      "a": [
+        "As a signal that a perceived threat was a false alarm",
+        "As a way for groups to choose their leaders",
+        "As a method for teaching children safe behavior",
+        "As a bonding ritual used only during ceremonies"
+      ],
+      "why": "Lesson 3 says early humans may have laughed to tell others that a threat turned out to be harmless."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-courage-habit",
+  "title": "The Courage Habit",
+  "questions": [
+    {
+      "q": "What does the book suggest you do to gain permission for courage?",
+      "a": [
+        "Identify what you want most",
+        "Ignore fears",
+        "Set strict limits",
+        "Avoid goals"
+      ],
+      "why": "The first lesson is to accept permission to pursue what you want."
+    },
+    {
+      "q": "Which psychologist is quoted about not shutting down emotion?",
+      "a": [
+        "Dr. Brene Brown",
+        "Dr. Carol Dweck",
+        "Dr. Martin Seligman",
+        "Dr. Angela Duckworth"
+      ],
+      "why": "Dr. Brene Brown says you can't selectively shut down emotion."
+    },
+    {
+      "q": "What does the book say habits do to emotions?",
+      "a": [
+        "Trigger a routine that gives a reward",
+        "Stop emotions entirely",
+        "Make emotions stronger",
+        "Eliminate fear"
+      ],
+      "why": "Habits trigger routines that reward emotions, especially fear."
+    },
+    {
+      "q": "How does the author recommend handling limiting stories?",
+      "a": [
+        "Reframe them into catalysts",
+        "Ignore them",
+        "Accept them",
+        "Share them"
+      ],
+      "why": "Reframing limiting stories turns them into success catalysts."
+    },
+    {
+      "q": "Who is the client example used to illustrate limiting stories?",
+      "a": [
+        "Carolyn",
+        "Kate",
+        "Vishen",
+        "Neil"
+      ],
+      "why": "The book mentions a client named Carolyn as an example."
+    }
+  ]
+}

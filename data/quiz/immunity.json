@@ -1,0 +1,56 @@
+{
+  "book": "immunity",
+  "title": "Immunity",
+  "questions": [
+    {
+      "q": "What did milkmaids who caught cowpox turn out to be?",
+      "a": [
+        "Immune to smallpox later in life",
+        "Carriers who spread smallpox to others",
+        "Resistant to all bacterial infections",
+        "Unable to pass immunity to their children"
+      ],
+      "why": "Lesson 1 says exposure to the milder cowpox protected them, which inspired vaccination."
+    },
+    {
+      "q": "What happens in your body when you get a vaccine?",
+      "a": [
+        "A small dose triggers an immune response and memory cells",
+        "Antibiotics are injected to kill viruses directly",
+        "Your immune system is temporarily switched off",
+        "Your blood is filtered to remove all pathogens"
+      ],
+      "why": "Lesson 1 explains a vaccine exposes you to a small dose so your body produces cells that kill the virus."
+    },
+    {
+      "q": "What are the body's three immune responses, in order?",
+      "a": [
+        "Physical barriers, innate immunity, adaptive immunity",
+        "Fever, inflammation, antibody production",
+        "Mucus, stomach acid, bone marrow",
+        "Innate immunity, vaccination, recovery"
+      ],
+      "why": "Lesson 2 lists barriers that block pathogens, then innate immunity, then specialized adaptive immunity."
+    },
+    {
+      "q": "What is an autoimmune disease?",
+      "a": [
+        "The immune system attacking the body's own cells",
+        "A virus that resists every known vaccine",
+        "An infection that spreads through the bloodstream",
+        "A condition where the body cannot make new cells"
+      ],
+      "why": "Lesson 1 says a malfunctioning immune system can fight the body itself, as in type 1 diabetes or lupus."
+    },
+    {
+      "q": "What did hepatitis-B vaccination appear to do to liver cancer rates?",
+      "a": [
+        "Reduce them by more than 80 percent",
+        "Leave them unchanged over ten years",
+        "Cut them roughly in half",
+        "Increase them among older patients"
+      ],
+      "why": "Lesson 3 cites an 80%+ drop in liver cancer after the vaccine became standard practice."
+    }
+  ]
+}

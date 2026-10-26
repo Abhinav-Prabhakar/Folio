@@ -1,0 +1,56 @@
+{
+  "book": "why-is-sex-fun",
+  "title": "Why Is Sex Fun",
+  "questions": [
+    {
+      "q": "Why does Diamond say concealed ovulation evolved?",
+      "a": [
+        "To encourage monogamy",
+        "To attract mates visually",
+        "To synchronize births",
+        "To increase litter size"
+      ],
+      "why": "Diamond argues concealed ovulation promoted monogamy."
+    },
+    {
+      "q": "What is the claimed link between menopause and lifespan?",
+      "a": [
+        "Less fertility leads to longer life",
+        "More hormones boost immunity",
+        "Higher estrogen reduces disease",
+        "Pregnancy extends longevity"
+      ],
+      "why": "The text says reduced fertility, like menopause, helps women live longer."
+    },
+    {
+      "q": "According to the author, how would a dog likely react to human sex habits?",
+      "a": [
+        "Find them bizarre and secretive",
+        "Praise their intimacy",
+        "Ignore them completely",
+        "Encourage more frequent sex"
+      ],
+      "why": "The dog is imagined saying human sex is super weird and secretive."
+    },
+    {
+      "q": "Which animal can signal fertility from a distance, according to the book?",
+      "a": [
+        "Baboons with red hindquarters",
+        "Deer with antler displays",
+        "Fish with bright colors",
+        "Elephants with vocal calls"
+      ],
+      "why": "The text notes baboons signal fertility with red bums."
+    },
+    {
+      "q": "What evidence is given that lower sperm production can extend life?",
+      "a": [
+        "Male worms with fewer sperm live longer",
+        "Human males with low sperm have higher longevity",
+        "Birds with reduced testes live longer",
+        "Fish with fewer sperm survive better"
+      ],
+      "why": "Studies found male worms producing less sperm live longer."
+    }
+  ]
+}

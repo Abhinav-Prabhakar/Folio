@@ -1,0 +1,56 @@
+{
+  "book": "the-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "questions": [
+    {
+      "q": "What illness does Holden contract during his New York trip?",
+      "a": [
+        "Pneumonia",
+        "Flu",
+        "Cold",
+        "Injury"
+      ],
+      "why": "Holden catches pneumonia while wandering New York."
+    },
+    {
+      "q": "Which museum does Holden enjoy visiting?",
+      "a": [
+        "Museum of Natural History",
+        "Metropolitan Museum",
+        "American Museum of Natural History",
+        "National Gallery"
+      ],
+      "why": "He loves the Museum of Natural History."
+    },
+    {
+      "q": "What does Holden order at the Edmont hotel that leads to a panic?",
+      "a": [
+        "A prostitute",
+        "A taxi",
+        "A meal",
+        "A room service"
+      ],
+      "why": "He orders a prostitute, Sunny, and panics when she arrives."
+    },
+    {
+      "q": "Which sibling does Holden want to give a record to?",
+      "a": [
+        "Phoebe",
+        "Sally",
+        "Mary",
+        "Jane"
+      ],
+      "why": "He plans to deliver a record to his sister Phoebe."
+    },
+    {
+      "q": "What theme is highlighted by Holden's reluctance to take risks?",
+      "a": [
+        "Identity formation",
+        "Rebellion",
+        "Loneliness",
+        "Friendship"
+      ],
+      "why": "His hesitation reflects the struggle to form an identity."
+    }
+  ]
+}

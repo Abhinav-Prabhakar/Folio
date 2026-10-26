@@ -1,0 +1,56 @@
+{
+  "book": "hatching-twitter",
+  "title": "Hatching Twitter",
+  "questions": [
+    {
+      "q": "Which four people does the summary treat as Twitter's founders?",
+      "a": [
+        "Jack Dorsey, Ev Williams, Biz Stone and Noah Glass",
+        "Ev Williams, Jack Dorsey, Dick Costolo and Biz Stone",
+        "Jack Dorsey, Biz Stone, Noah Glass and Dick Costolo",
+        "Ev Williams, Noah Glass, Dick Costolo and Jack Dorsey"
+      ],
+      "why": "Lesson 1 names Williams, Dorsey, Stone and Glass as the four who shaped both the idea and its implementation."
+    },
+    {
+      "q": "Why was Noah Glass pushed out of the company before Twitter launched?",
+      "a": [
+        "He talked publicly about Twitter too early",
+        "He refused to fund the podcasting project",
+        "He sold his shares to a rival company",
+        "He leaked the company's financial records"
+      ],
+      "why": "Lesson 1 says Noah was removed after blabbing about Twitter before it had even been launched."
+    },
+    {
+      "q": "How does the summary reconcile its advice to never hire friends with its advice to always hire them?",
+      "a": [
+        "Friendships caused conflict but made the idea possible",
+        "Friends should be hired only after a company succeeds",
+        "Friendship matters more in small firms than large ones",
+        "Hiring friends works only when roles are clearly split"
+      ],
+      "why": "Lesson 2 argues Twitter needed all four friends to get off the ground, even though their closeness caused quarrels."
+    },
+    {
+      "q": "What did the upside-down sign reading 'Let's make better mistakes tomorrow' stand for?",
+      "a": [
+        "A commitment to steady improvement over perfection",
+        "A warning that careless errors would be punished",
+        "A joke about the company's messy finances",
+        "A rule that decisions must be reviewed daily"
+      ],
+      "why": "Lesson 3 says the sign captured a promise to keep progressing rather than trying to eliminate every mistake."
+    },
+    {
+      "q": "Who first proposed the status update idea and built an early prototype with Biz Stone?",
+      "a": [
+        "Jack Dorsey",
+        "Noah Glass",
+        "Ev Williams",
+        "Dick Costolo"
+      ],
+      "why": "Lesson 1 says Jack proposed the status update concept and, with Biz, built the first prototype."
+    }
+  ]
+}

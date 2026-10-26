@@ -1,0 +1,56 @@
+{
+  "book": "the-creative-act",
+  "title": "The Creative Act",
+  "questions": [
+    {
+      "q": "What does Rubin compare creative flow to in his early career?",
+      "a": [
+        "Radio waves",
+        "Television signals",
+        "Internet streams",
+        "Podcast feeds"
+      ],
+      "why": "Rubin describes tuning into radio stations like creative flow."
+    },
+    {
+      "q": "Which character in Kung Fu Panda teaches about timing?",
+      "a": [
+        "Master Oogway",
+        "Master Sifu",
+        "Master Tigress",
+        "Master Crane"
+      ],
+      "why": "Oogway gives the lesson on timing in the movie."
+    },
+    {
+      "q": "Why does Rubin say we should lower stakes when starting art?",
+      "a": [
+        "To reduce fear of failure",
+        "To increase competition",
+        "To focus on profit",
+        "To speed up creation"
+      ],
+      "why": "Lowering stakes helps overcome fear of making things."
+    },
+    {
+      "q": "What is Rubin's view on purpose behind art?",
+      "a": [
+        "Make art for art's sake",
+        "Sell it for profit",
+        "Serve a cause",
+        "Show off skill"
+      ],
+      "why": "Rubin believes art should be made for art's sake."
+    },
+    {
+      "q": "Which example illustrates a peach tree analogy?",
+      "a": [
+        "Sifu hitting the tree",
+        "Oogway teaching timing",
+        "Rubin tuning radio",
+        "Kids building sandcastles"
+      ],
+      "why": "Sifu's action demonstrates the peach tree analogy."
+    }
+  ]
+}

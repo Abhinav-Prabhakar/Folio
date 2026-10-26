@@ -1,0 +1,56 @@
+{
+  "book": "the-science-of-storytelling",
+  "title": "The Science Of Storytelling",
+  "questions": [
+    {
+      "q": "What does the brain consistently cast you as in personal narratives?",
+      "a": [
+        "Main character",
+        "Villain",
+        "Sidekick",
+        "Observer"
+      ],
+      "why": "The brain places you as the main character in stories."
+    },
+    {
+      "q": "Why does giving characters flaws attract readers?",
+      "a": [
+        "It reveals human weakness",
+        "It adds humor",
+        "It simplifies plot",
+        "It increases length"
+      ],
+      "why": "Flawed characters let readers explore faults, including their own."
+    },
+    {
+      "q": "What animal behavior is compared to human status‑seeking?",
+      "a": [
+        "Chimp alpha tracking",
+        "Bee dancing",
+        "Wolf hunting",
+        "Dolphin schooling"
+      ],
+      "why": "Chimps watch alphas, similar to human status concerns."
+    },
+    {
+      "q": "According to the book, stories are as common as what daily activities?",
+      "a": [
+        "Eating and sleeping",
+        "Driving and shopping",
+        "Working and exercising",
+        "Reading and writing"
+      ],
+      "why": "Stories are as common as eating and sleeping."
+    },
+    {
+      "q": "What effect does believing you are the hero have on self‑perception?",
+      "a": [
+        "It blinds you to personal flaws",
+        "It boosts confidence",
+        "It improves empathy",
+        "It reduces stress"
+      ],
+      "why": "Seeing yourself as hero makes you bad at seeing your own weaknesses."
+    }
+  ]
+}

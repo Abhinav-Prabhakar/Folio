@@ -1,0 +1,56 @@
+{
+  "book": "the-little-prince",
+  "title": "The Little Prince",
+  "questions": [
+    {
+      "q": "What does the narrator show adults to test their imagination?",
+      "a": [
+        "A picture of a boa that ate an elephant",
+        "A drawing of a sheep",
+        "A map of the Sahara",
+        "A list of planets"
+      ],
+      "why": "The narrator shows a picture of a boa that ate an elephant."
+    },
+    {
+      "q": "Which planet's king gives useless orders like telling the sun to set?",
+      "a": [
+        "The planet of the king",
+        "The planet of the conceited man",
+        "The planet of the businessman",
+        "The planet of the drunkard"
+      ],
+      "why": "The king on the first planet orders the sun to set."
+    },
+    {
+      "q": "What lesson does the fox teach the prince about friendship?",
+      "a": [
+        "Taming makes a rose special",
+        "Taming makes a rose ordinary",
+        "Taming makes a rose poisonous",
+        "Taming makes a rose invisible"
+      ],
+      "why": "The fox explains taming makes a rose special."
+    },
+    {
+      "q": "Why does the prince leave the asteroid?",
+      "a": [
+        "To visit other planets",
+        "To find a new rose",
+        "To escape the volcanoes",
+        "To meet the narrator"
+      ],
+      "why": "He leaves to visit other planets."
+    },
+    {
+      "q": "What does the prince learn about his rose from the garden of roses?",
+      "a": [
+        "It is not unique",
+        "It is the most beautiful",
+        "It is the only one",
+        "It is poisonous"
+      ],
+      "why": "The garden shows his rose is not unique."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "sex-at-dawn",
+  "title": "Sex At Dawn",
+  "questions": [
+    {
+      "q": "According to the summary, what change brought about monogamy?",
+      "a": [
+        "Settling down to farm and own land",
+        "The rise of hunter-gatherer tribes",
+        "The invention of religious law",
+        "The growth of modern cities"
+      ],
+      "why": "Lesson 1 ties marriage and monogamy to the shift from foraging to farming."
+    },
+    {
+      "q": "Why did men want certainty about which children were theirs?",
+      "a": [
+        "To pass on the prosperity they had built",
+        "To avoid paying taxes on extra children",
+        "To keep their wives from working",
+        "To follow the rules of their religion"
+      ],
+      "why": "Lesson 1 says inheritance made proof of fatherhood matter."
+    },
+    {
+      "q": "What did the arousal studies in the summary find?",
+      "a": [
+        "Men and women were aroused equally by erotic films",
+        "Men were aroused much faster than women",
+        "Women responded only to romantic scenes",
+        "Arousal depended mostly on the viewer's age"
+      ],
+      "why": "Lesson 2 describes studies measuring arousal across men and women."
+    },
+    {
+      "q": "How did most women describe their own arousal in those studies?",
+      "a": [
+        "They downplayed how aroused they were",
+        "They overstated how aroused they were",
+        "They refused to answer any questions",
+        "They reported feeling no arousal at all"
+      ],
+      "why": "Lesson 2 says women tended to play down their arousal when asked."
+    },
+    {
+      "q": "Which body feature does the summary treat as evidence of sperm competition?",
+      "a": [
+        "Testicles placed outside the body for cooler sperm",
+        "Men having deeper voices than women",
+        "Women having wider hips than men",
+        "Humans having less body hair than apes"
+      ],
+      "why": "Lesson 3 lists several physical traits, starting with testicles kept outside the body."
+    }
+  ]
+}

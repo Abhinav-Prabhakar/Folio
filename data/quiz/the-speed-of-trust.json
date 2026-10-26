@@ -1,0 +1,56 @@
+{
+  "book": "the-speed-of-trust",
+  "title": "The Speed Of Trust",
+  "questions": [
+    {
+      "q": "Who wrote The Speed Of Trust?",
+      "a": [
+        "Stephen M. R. Covey",
+        "Stephen R. Covey",
+        "John Covey",
+        "Michael Covey"
+      ],
+      "why": "The book was written by Stephen M. R. Covey, not Stephen R. Covey."
+    },
+    {
+      "q": "What is one effect of trust on business operations?",
+      "a": [
+        "Increases speed and lowers costs",
+        "Reduces employee turnover",
+        "Increases advertising spend",
+        "Decreases product quality"
+      ],
+      "why": "Trust allows faster order processing and lower costs, as illustrated by FedEx."
+    },
+    {
+      "q": "Which core is NOT listed as part of developing trust in yourself?",
+      "a": [
+        "Integrity",
+        "Intent",
+        "Capabilities",
+        "Communication"
+      ],
+      "why": "The four cores are Integrity, Intent, Capabilities, and Results."
+    },
+    {
+      "q": "What type of trust involves giving back to the community?",
+      "a": [
+        "Societal trust",
+        "Customer trust",
+        "Employee trust",
+        "Investor trust"
+      ],
+      "why": "Societal trust is built by contributing to stakeholders outside employees and customers."
+    },
+    {
+      "q": "Which event is cited to show the impact of lacking societal trust?",
+      "a": [
+        "1992 LA riots after Rodney King incident",
+        "Boston Marathon bombing",
+        "Chernobyl disaster",
+        "Watergate scandal"
+      ],
+      "why": "The 1992 LA riots are mentioned as a consequence of societal mistrust."
+    }
+  ]
+}

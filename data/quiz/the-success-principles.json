@@ -1,0 +1,56 @@
+{
+  "book": "the-success-principles",
+  "title": "The Success Principles",
+  "questions": [
+    {
+      "q": "What habit does Jack Canfield say you must stop to take control of your life?",
+      "a": [
+        "Complaining",
+        "Procrastinating",
+        "Overplanning",
+        "Comparing"
+      ],
+      "why": "He states stopping complaining puts you as director of your life."
+    },
+    {
+      "q": "What does a \"completion weekend\" involve?",
+      "a": [
+        "Deciding the fate of every unfinished task",
+        "Writing a new business plan",
+        "Meditating for clarity",
+        "Networking with peers"
+      ],
+      "why": "He suggests using a weekend to act on all pending projects."
+    },
+    {
+      "q": "Which example illustrates the cost of unchecked spending?",
+      "a": [
+        "Spending a $500 bonus on a TV instead of saving",
+        "Investing in stocks and losing money",
+        "Buying a car and missing a vacation",
+        "Dining out daily"
+      ],
+      "why": "He asks readers to examine a $500 gift spent on a TV."
+    },
+    {
+      "q": "How does the story of Nick Sitzman relate to mindset?",
+      "a": [
+        "Negative thoughts contributed to his tragic end",
+        "Positive thinking saved his life",
+        "He ignored safety protocols",
+        "He was rescued by coworkers"
+      ],
+      "why": "Nick's hopeless thoughts are linked to his death in the wagon."
+    },
+    {
+      "q": "What role does personal responsibility play in Canfield's lessons?",
+      "a": [
+        "It is the core reason for success or failure",
+        "It is less important than luck",
+        "It is secondary to external factors",
+        "It is irrelevant to outcomes"
+      ],
+      "why": "He emphasizes you are the director of your own life."
+    }
+  ]
+}

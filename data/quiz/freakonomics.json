@@ -1,0 +1,56 @@
+{
+  "book": "freakonomics",
+  "title": "Freakonomics",
+  "questions": [
+    {
+      "q": "What are the three kinds of incentives the authors describe?",
+      "a": [
+        "Economic, social and moral",
+        "Financial, legal and personal",
+        "Positive, negative and neutral",
+        "Individual, group and cultural"
+      ],
+      "why": "The first lesson separates incentives into money and time, reputation among peers, and conscience."
+    },
+    {
+      "q": "What happens when you combine several kinds of incentives?",
+      "a": [
+        "The incentive becomes more powerful",
+        "They cancel each other out",
+        "Only the economic one still matters",
+        "People stop noticing any of them"
+      ],
+      "why": "The summary says the criminal penalty for a crime works because it stacks economic, moral and social costs."
+    },
+    {
+      "q": "Why might a real estate agent push you to accept an offer quickly?",
+      "a": [
+        "A fast sale earns her more per hour than waiting",
+        "She is legally required to close within a month",
+        "She earns the same flat fee whatever the price",
+        "She wants to spare you the stress of waiting"
+      ],
+      "why": "The second lesson does the commission math: a higher price takes longer and can pay her less overall."
+    },
+    {
+      "q": "What do studies show about agents who sell their own houses?",
+      "a": [
+        "They wait longer and get higher prices",
+        "They accept the first offer to save time",
+        "They price lower so the sale is quick",
+        "They refuse to use other agents at all"
+      ],
+      "why": "The second lesson uses this contrast to show how information asymmetry lets experts profit from a fast sale."
+    },
+    {
+      "q": "What does the summary conclude about campaign spending and election results?",
+      "a": [
+        "Money correlates with winning but does not cause it",
+        "Spending is the strongest cause of victory",
+        "Voters pay no attention to spending at all",
+        "Spending only matters in close races"
+      ],
+      "why": "The third lesson says candidates could halve their budgets and lose about 1% of voters, so correlation is not causation."
+    }
+  ]
+}

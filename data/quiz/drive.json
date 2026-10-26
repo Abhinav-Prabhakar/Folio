@@ -1,0 +1,56 @@
+{
+  "book": "drive",
+  "title": "Drive",
+  "questions": [
+    {
+      "q": "Why do cash bonuses often make creative work worse?",
+      "a": [
+        "The pressure of the reward makes people unable to perform",
+        "The reward makes tasks feel too easy to bother with",
+        "The money distracts people from their long-term careers",
+        "The bonus encourages people to take fewer creative risks"
+      ],
+      "why": "Lesson 1 says rewards add so much pressure that workers can no longer perform creative tasks well."
+    },
+    {
+      "q": "What happened to children who were rewarded for drawing?",
+      "a": [
+        "They later refused to draw unless they got a reward",
+        "They drew more often but with less original ideas",
+        "They asked for bigger rewards each time they drew",
+        "They stopped drawing and took up other hobbies"
+      ],
+      "why": "Lesson 2 describes an experiment where rewarded children later refused to draw without the incentive, while the others kept drawing for fun."
+    },
+    {
+      "q": "What three things does Pink say workers need for motivation 3.0?",
+      "a": [
+        "Freedom to direct their work, a sense of purpose and room to improve",
+        "Bonuses, promotions and public recognition",
+        "Clear targets, tight deadlines and close supervision",
+        "Job security, flexible hours and generous benefits"
+      ],
+      "why": "The overview says Pink wants workers to have control, a clear purpose and room to get better at their craft."
+    },
+    {
+      "q": "What did the mechanic promised a bonus for 200 repairs do?",
+      "a": [
+        "He told more customers their cars needed unnecessary repairs",
+        "He refused the bonus because the target felt unfair",
+        "He slowed down so the work would last three months",
+        "He handed some repairs to colleagues to share the reward"
+      ],
+      "why": "Lesson 1 uses the mechanic to show how a quota bonus leads to needless repairs and sloppy work rather than better, faster service."
+    },
+    {
+      "q": "When does work feel like the flow state described in the summary?",
+      "a": [
+        "When a task stretches your skills and you do it autonomously",
+        "When a task is easy enough to finish without thinking",
+        "When a manager sets a clear deadline and checks in often",
+        "When a bonus is large enough to justify the effort"
+      ],
+      "why": "Lesson 3 says flow comes from a task that challenges your skills without overwhelming or boring you, done with autonomy."
+    }
+  ]
+}

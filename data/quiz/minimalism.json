@@ -1,0 +1,31 @@
+{
+  "book": "minimalism",
+  "title": "Minimalism",
+  "questions": [
+    {
+      "q": "What did Joshua do before he could begin his minimalist journey?",
+      "a": ["Spent two years paying off all his debt", "Sold his house and moved abroad", "Quit his job to travel the world", "Gave away most of his possessions"],
+      "why": "Lesson 1 says he went two years without vacations, eating out or luxuries to clear his debt."
+    },
+    {
+      "q": "What do the letters in the TARA method stand for?",
+      "a": ["Tolerate, accept, respect, appreciate", "Trust, ask, reflect, act", "Talk, agree, resolve, adjust", "Try, allow, revise, approve"],
+      "why": "Lesson 2 lays out the four steps for accepting other people's quirks and interests."
+    },
+    {
+      "q": "What is the TARA method meant to help you do?",
+      "a": ["Accept people who do not share your values", "Persuade friends to try minimalism", "Sort your possessions into four piles", "Track your spending each month"],
+      "why": "Lesson 2 says it is healthier to change how you deal with others than to change them."
+    },
+    {
+      "q": "What does the summary say about your job in relation to your identity?",
+      "a": ["It is just one part of a complex person", "It should define who you are", "It can never be changed once chosen", "It matters less than your possessions"],
+      "why": "Lesson 3 says a job is just a job and you are a complex person with many passions."
+    },
+    {
+      "q": "What does the summary suggest asking people instead of what they do for a living?",
+      "a": ["What they are passionate about", "How much money they earn", "Where they grew up", "What they studied at school"],
+      "why": "Lesson 3 says this seeds more meaningful conversations and better stories."
+    }
+  ]
+}

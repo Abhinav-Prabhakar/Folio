@@ -1,0 +1,56 @@
+{
+  "book": "the-end-of-jobs",
+  "title": "The End of Jobs",
+  "questions": [
+    {
+      "q": "According to Eli Goldratt's Theory of Constraints, what is the current limiting factor?",
+      "a": [
+        "Creativity",
+        "Knowledge",
+        "Capital",
+        "Land"
+      ],
+      "why": "Overview: the limiting factor has shifted from land to capital to knowledge to creativity."
+    },
+    {
+      "q": "Since 2000, how has world population growth compared to job supply growth?",
+      "a": [
+        "Population grew 2.4 times faster than job supply",
+        "Population grew 2.4 times slower than job supply",
+        "Job supply grew 2.4 times faster than population",
+        "Both grew at the same rate"
+      ],
+      "why": "Overview: population has grown 2.4 times faster than the supply of available jobs since 2000."
+    },
+    {
+      "q": "What strategy that worked for baby boomers is now considered useless?",
+      "a": [
+        "Getting a degree to secure a safe job",
+        "Starting a business in their twenties",
+        "Investing in real estate early",
+        "Working for a large corporation"
+      ],
+      "why": "Overview: the degree-to-safe-job strategy that worked for baby boomers is now useless."
+    },
+    {
+      "q": "Why have college degrees become less valuable?",
+      "a": [
+        "Too many people now have them",
+        "Universities lowered their academic standards",
+        "Employers stopped requiring them",
+        "Online courses replaced traditional education"
+      ],
+      "why": "Overview: degrees lost value due to the sheer amount of people who have them."
+    },
+    {
+      "q": "Who is the author of The End of Jobs?",
+      "a": [
+        "Taylor Pearson",
+        "Eli Goldratt",
+        "Siddhartha Mukherjee",
+        "Peter Drucker"
+      ],
+      "why": "Overview: Taylor Pearson is identified as the author of the book."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "high-impact-tools-for-teams",
+  "title": "High-Impact Tools for Teams",
+  "questions": [
+    {
+      "q": "According to the Atlassian research cited, about how many meetings are unproductive?",
+      "a": [
+        "Roughly half of them",
+        "Roughly one in ten of them",
+        "Roughly two thirds of them",
+        "Roughly a quarter of them"
+      ],
+      "why": "Lesson 1 reports that around 50 percent of meetings are considered a waste of time."
+    },
+    {
+      "q": "Why do meetings often fail to improve communication and connection?",
+      "a": [
+        "People fear speaking up, and team roles are unclear",
+        "Managers refuse to share the meeting agenda",
+        "Remote tools make conversation too difficult",
+        "Teams meet too often to prepare properly"
+      ],
+      "why": "Lesson 1 says members worry about sounding foolish and ambiguous roles leave everyone unaligned."
+    },
+    {
+      "q": "Which four columns make up the Team Alignment Map?",
+      "a": [
+        "Joint objectives, commitments, resources and risks",
+        "Goals, deadlines, budgets and responsibilities",
+        "Mission, period, agenda and action items",
+        "Strengths, weaknesses, opportunities and threats"
+      ],
+      "why": "Lesson 2 lays out the map as joint objectives, joint commitments, joint resources and joint risks."
+    },
+    {
+      "q": "What belongs in the header of the Team Alignment Map?",
+      "a": [
+        "A mission and a period",
+        "A budget and a deadline",
+        "A leader and a note taker",
+        "A goal and a risk list"
+      ],
+      "why": "Lesson 2 says the header holds the mission, which can include the agenda, and the period, which sets the time frame."
+    },
+    {
+      "q": "How should a team leader prepare an agenda before a meeting?",
+      "a": [
+        "Lay out time intervals and state what each part should achieve",
+        "List every possible topic and discuss them freely",
+        "Let members add items only once the meeting starts",
+        "Keep the agenda private to avoid influencing discussion"
+      ],
+      "why": "Lesson 3 recommends planning the time for each topic and explaining what you expect from the team."
+    }
+  ]
+}

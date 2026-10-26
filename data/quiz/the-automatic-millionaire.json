@@ -1,0 +1,56 @@
+{
+  "book": "the-automatic-millionaire",
+  "title": "The Automatic Millionaire",
+  "questions": [
+    {
+      "q": "What is the Latte Factor?",
+      "a": [
+        "Small daily savings, invested over time, can make you rich",
+        "Buying coffee at home instead of in cafes",
+        "Earning a higher salary by changing jobs",
+        "Tracking every purchase in a spreadsheet"
+      ],
+      "why": "Lesson 1 says saving a little each day, like the price of a latte, can grow into a large sum."
+    },
+    {
+      "q": "In the summary's example, what does $10 a day grow to after 40 years at 10 percent?",
+      "a": [
+        "About $2 million",
+        "About $200,000",
+        "About $700,000",
+        "About $5 million"
+      ],
+      "why": "Lesson 1 contrasts 30 years of saving, at $700,000, with 40 years, at $2 million."
+    },
+    {
+      "q": "What did the McIntyres do to build about $2 million on modest incomes?",
+      "a": [
+        "They raised their savings rate from 4 to 15 percent of income",
+        "They bought a rental property and sold it",
+        "They inherited money from relatives",
+        "They started a small business on the side"
+      ],
+      "why": "Lesson 1 says they never earned more than $40,000 a year but steadily increased what they saved."
+    },
+    {
+      "q": "What does paying yourself first mean?",
+      "a": [
+        "Invest a fixed share of income before paying other expenses",
+        "Spend on yourself before buying gifts for others",
+        "Save whatever is left at the end of the month",
+        "Pay off your own debts before household bills"
+      ],
+      "why": "Lesson 2 says to put a fixed cut of income toward your dreams before other bills get paid."
+    },
+    {
+      "q": "What is the advantage of automated payments?",
+      "a": [
+        "They remove the need for willpower and discipline",
+        "They earn a higher interest rate than manual saving",
+        "They prevent banks from charging fees",
+        "They let you skip taxes on investments"
+      ],
+      "why": "Lesson 3 says automation takes you out of the equation so discipline is no longer required."
+    }
+  ]
+}

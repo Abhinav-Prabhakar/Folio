@@ -1,0 +1,56 @@
+{
+  "book": "the-5-choices",
+  "title": "The 5 Choices",
+  "questions": [
+    {
+      "q": "Which quadrant should take up most of your working time?",
+      "a": [
+        "Important but not urgent work",
+        "Important and urgent work",
+        "Urgent but unimportant work",
+        "Work that is neither urgent nor important"
+      ],
+      "why": "Lesson 1 says Q2, where preparation and real work live, deserves the largest share."
+    },
+    {
+      "q": "Checking email is used as an example of which quadrant?",
+      "a": [
+        "Q3, urgent but not important",
+        "Q1, urgent and important",
+        "Q2, important but not urgent",
+        "Q4, neither urgent nor important"
+      ],
+      "why": "Lesson 1 lists email under Q3 and social media under Q4."
+    },
+    {
+      "q": "What does a role statement describe?",
+      "a": [
+        "Where you want to be in your work",
+        "The tasks you must finish today",
+        "The hours you are available",
+        "The people who report to you"
+      ],
+      "why": "Lesson 2 pairs a role title, the work category, with a role statement about your aim."
+    },
+    {
+      "q": "What three sources of energy does the summary say you must nourish?",
+      "a": [
+        "Purpose, physical health and connections",
+        "Sleep, caffeine and exercise",
+        "Money, status and recognition",
+        "Focus, willpower and discipline"
+      ],
+      "why": "Lesson 3 lists meaningful purpose, the body and relationships as the energy sources."
+    },
+    {
+      "q": "Why is a time management system useless without self-care?",
+      "a": [
+        "Burnout and poor health make consistency impossible",
+        "Rest takes time away from important tasks",
+        "Systems only work for disciplined people",
+        "Energy matters less than the right software"
+      ],
+      "why": "Lesson 3 argues no system survives if your body and energy give out."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "brief-answers-to-the-big-questions",
+  "title": "Brief Answers To The Big Questions",
+  "questions": [
+    {
+      "q": "Why does the summary suggest simple life may be common in the universe?",
+      "a": ["Many stars have planets in a habitable zone", "Every star is known to host an Earth twin", "Spacecraft have already found microbes nearby", "The universe is far younger than Earth"],
+      "why": "Lesson 1 says about 20 percent of stars have planets in the Goldilocks Zone, which works out to roughly 40 billion suitable planets in the Milky Way."
+    },
+    {
+      "q": "What distinction does the summary draw about alien life?",
+      "a": ["Life may be common, but intelligent life is likely rare", "Intelligent life is common, but simple life is rare", "Both simple and intelligent life are equally common", "Neither form of life is considered possible"],
+      "why": "Lesson 1 says life might be widespread, yet beings with heightened intelligence are probably very rare."
+    },
+    {
+      "q": "Which planetary threat does the summary say we should focus our energy on?",
+      "a": ["Climate change, because we can act on it", "Asteroid collisions, because they are frequent", "Solar flares, because they are predictable", "Volcanic eruptions, because they are controllable"],
+      "why": "Lesson 2 separates threats we cannot control, like an asteroid strike, from climate change, which it calls our most immediate controllable threat."
+    },
+    {
+      "q": "What does Moore's Law predict about computers?",
+      "a": ["Their speed and capacity double about every 18 months", "Their energy use halves with every new model", "Their cost rises steadily as power increases", "Their intelligence is capped by human levels"],
+      "why": "Lesson 3 says Moore's Law holds that computing speed and capacity can double roughly every year and a half."
+    },
+    {
+      "q": "What did Hawking and other experts do in 2015 regarding artificial intelligence?",
+      "a": ["They signed an open letter urging research into its impact", "They called for an immediate ban on all AI research", "They founded a company to build self-aware machines", "They declared AI would never match human intelligence"],
+      "why": "Lesson 3 says Hawking, Elon Musk and other experts signed a letter calling for serious study of AI's effect on society."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "value-proposition-design",
+  "title": "Value Proposition Design",
+  "questions": [
+    {
+      "q": "What two types of jobs do customers perform according to the text?",
+      "a": [
+        "Functional and social jobs",
+        "Emotional and rational jobs",
+        "Physical and digital jobs",
+        "Strategic and tactical jobs"
+      ],
+      "why": "The text defines functional and social jobs as the two types."
+    },
+    {
+      "q": "Which component is NOT mentioned as part of a product's design?",
+      "a": [
+        "Marketing campaign",
+        "Tangible product",
+        "Intangible warranty",
+        "Digital app link"
+      ],
+      "why": "Marketing campaign is not listed among tangible, intangible, and digital components."
+    },
+    {
+      "q": "What is the first step before creating a prototype according to the guide?",
+      "a": [
+        "Study the market for insights",
+        "Launch a full production run",
+        "File a patent",
+        "Hire a sales team"
+      ],
+      "why": "The text says to study the market before building a prototype."
+    },
+    {
+      "q": "Which companies are cited as examples of customer‑centric leaders?",
+      "a": [
+        "Apple and Amazon",
+        "Google and Microsoft",
+        "Toyota and Samsung",
+        "Nike and Adidas"
+      ],
+      "why": "Apple and Amazon are named as leaders who center on customers."
+    },
+    {
+      "q": "What tool is suggested for gaining market insights online?",
+      "a": [
+        "Google Analytics",
+        "Photoshop",
+        "Slack",
+        "Zoom"
+      ],
+      "why": "Google Analytics is mentioned as a way to gain market insights."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "counterclockwise",
+  "title": "Counterclockwise",
+  "questions": [
+    {
+      "q": "What did Langer's counterclockwise study find?",
+      "a": [
+        "Men who lived as if younger showed better memory and strength",
+        "Older men declined faster when placed in a new setting",
+        "The retreat had no measurable effect on the men's health",
+        "Only the youngest participants showed any improvement"
+      ],
+      "why": "The overview describes 80-year-old men at a retreat styled as 20 years earlier whose memory, vision and strength improved."
+    },
+    {
+      "q": "Why does Langer say a medical diagnosis is never complete?",
+      "a": [
+        "It is based on statistical averages, not your whole condition",
+        "Doctors rarely take the time to study symptoms",
+        "Medical tests are usually inaccurate",
+        "Patients hide most of their symptoms"
+      ],
+      "why": "Lesson 1 says a label like bronchitis comes from an average, so part of your personal condition falls outside it."
+    },
+    {
+      "q": "How does the word remission affect cancer survivors, according to Langer?",
+      "a": [
+        "It suggests the disease is only waiting to return",
+        "It makes them feel permanently cured",
+        "It has no effect on how they feel",
+        "It encourages them to stop treatment early"
+      ],
+      "why": "Lesson 2 contrasts remission with cured and links the label a patient adopts to her overall well-being."
+    },
+    {
+      "q": "Why can doctors' uniforms be a problem?",
+      "a": [
+        "They push doctor and patient into rigid, mindless roles",
+        "They spread infection between patients",
+        "They intimidate patients into paying more",
+        "They make doctors seem less qualified"
+      ],
+      "why": "The summary says formal uniforms reinforce a script that makes both sides act mindlessly, without attention."
+    },
+    {
+      "q": "What is the core of mindful health, as Langer describes it?",
+      "a": [
+        "Paying attention to how your symptoms vary moment to moment",
+        "Following your treatment plan without asking questions",
+        "Meditating for an hour every morning",
+        "Tracking only whether you feel healthy or ill"
+      ],
+      "why": "Lesson 3 says mindful health means noticing variability on a continuum instead of thinking in healthy-or-ill terms."
+    }
+  ]
+}

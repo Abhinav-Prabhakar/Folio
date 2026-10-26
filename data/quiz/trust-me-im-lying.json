@@ -1,0 +1,56 @@
+{
+  "book": "trust-me-im-lying",
+  "title": "Trust Me, I’m Lying",
+  "questions": [
+    {
+      "q": "What does Holiday say a blog becomes when it aims to earn money?",
+      "a": [
+        "A business",
+        "A hobby",
+        "A social club",
+        "A news outlet"
+      ],
+      "why": "He states a blog is a business whenever it seeks profit."
+    },
+    {
+      "q": "Which ad platform does the book cite for paying per impression?",
+      "a": [
+        "Google AdSense",
+        "Facebook Ads",
+        "Twitter Promote",
+        "LinkedIn Marketing"
+      ],
+      "why": "The example given is Google AdSense paying per banner view."
+    },
+    {
+      "q": "Why do many blogs publish low‑quality content, according to the author?",
+      "a": [
+        "To generate clicks and buzz",
+        "To educate readers",
+        "To follow editorial standards",
+        "To attract advertisers"
+      ],
+      "why": "He notes blogs prioritize buzz over accuracy to get page views."
+    },
+    {
+      "q": "What historical practice does the book compare modern blog shaming to?",
+      "a": [
+        "Public witch hunts",
+        "Roman gladiator games",
+        "Medieval jousts",
+        "Victorian séances"
+      ],
+      "why": "He likens blog‑driven shaming to 21st‑century public witch hunts."
+    },
+    {
+      "q": "What type of headline exemplifies the click‑bait style described?",
+      "a": [
+        "\"5 Pics That Will Make You Even Angrier At Your Step Mother\"",
+        "\"How to Bake a Perfect Sourdough\"",
+        "\"The History of Quantum Physics Explained\"",
+        "\"Local Library Hosts Book Club\""
+      ],
+      "why": "He cites such sensational headlines as typical click‑bait."
+    }
+  ]
+}

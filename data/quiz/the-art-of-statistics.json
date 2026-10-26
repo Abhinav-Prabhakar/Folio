@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-statistics",
+  "title": "The Art of Statistics",
+  "questions": [
+    {
+      "q": "Why can survey data never be a perfectly objective truth?",
+      "a": [
+        "It reflects what people report, so bias can enter during collection",
+        "Statistical software cannot handle large samples",
+        "People always lie about their age and income",
+        "Samples are usually too small to calculate averages"
+      ],
+      "why": "Lesson 1 says much data comes from questionnaires and focus groups, so the result represents the study."
+    },
+    {
+      "q": "What detail did media reports about the coffee and heart disease study leave out?",
+      "a": [
+        "That benefits were found only for two to three cups a day, not other amounts",
+        "That the study was never actually published",
+        "That the researchers were funded by tea companies",
+        "That coffee had no effect on any group"
+      ],
+      "why": "Lesson 2 explains the study only showed benefits at two to three cups, saying nothing about other amounts."
+    },
+    {
+      "q": "Why does the media tend to exaggerate findings?",
+      "a": [
+        "To attract clicks, shares and web traffic",
+        "To make complicated studies easier to replicate",
+        "To protect readers from uncertain results",
+        "To pressure journals into publishing faster"
+      ],
+      "why": "Lesson 2 says the media overstates data to increase click-through rates and sharing."
+    },
+    {
+      "q": "What does the summary say about the link between coffee and productivity?",
+      "a": [
+        "Coffee drinkers may simply work in jobs where productivity is rewarded",
+        "It proves that caffeine directly improves concentration",
+        "It shows productivity causes people to drink coffee",
+        "It is impossible to study in any reliable way"
+      ],
+      "why": "Lesson 3 uses this example to show a correlation can have a third explanation behind it."
+    },
+    {
+      "q": "What does the summary advise when you see dramatic data in the news?",
+      "a": [
+        "Check the source and consider how the data was collected and displayed",
+        "Assume the numbers are fabricated and ignore them",
+        "Trust it if the headline includes a percentage",
+        "Share it quickly before the study is retracted"
+      ],
+      "why": "Lesson 2 concludes that you should check sources carefully because presentation shapes interpretation."
+    }
+  ]
+}

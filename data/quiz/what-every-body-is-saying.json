@@ -1,0 +1,56 @@
+{
+  "book": "what-every-body-is-saying",
+  "title": "What Every Body Is Saying",
+  "questions": [
+    {
+      "q": "According to the book, what percentage of communication is non‑verbal?",
+      "a": [
+        "About 60%",
+        "About 30%",
+        "About 10%",
+        "About 90%"
+      ],
+      "why": "The book cites 60% non‑verbal communication."
+    },
+    {
+      "q": "What brain region does Joe Navarro call the \"honest brain\"?",
+      "a": [
+        "The limbic brain",
+        "The frontal lobe",
+        "The cerebellum",
+        "The occipital lobe"
+      ],
+      "why": "He refers to the limbic brain as the honest brain."
+    },
+    {
+      "q": "What is the third part of the fight‑or‑flight response mentioned?",
+      "a": [
+        "The freeze response",
+        "The sprint response",
+        "The hide response",
+        "The ignore response"
+      ],
+      "why": "He notes a third part beyond fight or flight."
+    },
+    {
+      "q": "What skill must be developed to read people well?",
+      "a": [
+        "Situational awareness",
+        "Memory recall",
+        "Speed reading",
+        "Physical fitness"
+      ],
+      "why": "He stresses developing situational awareness."
+    },
+    {
+      "q": "What did Joe Navarro learn about body language after moving to the US?",
+      "a": [
+        "He taught himself to read it",
+        "He ignored it",
+        "He avoided it",
+        "He studied it academically"
+      ],
+      "why": "He taught himself body language after arriving in the US."
+    }
+  ]
+}

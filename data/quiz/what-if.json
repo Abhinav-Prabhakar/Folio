@@ -1,0 +1,56 @@
+{
+  "book": "what-if",
+  "title": "What If",
+  "questions": [
+    {
+      "q": "What happens to solar flares if the Sun stops emitting light?",
+      "a": [
+        "They no longer pose a risk",
+        "They increase in frequency",
+        "They become more powerful",
+        "They disappear entirely"
+      ],
+      "why": "Without the Sun, flares are no threat."
+    },
+    {
+      "q": "Why would quarantining everyone for two weeks kill the common cold?",
+      "a": [
+        "It starves the virus",
+        "It boosts immunity",
+        "It spreads the virus",
+        "It has no effect"
+      ],
+      "why": "Short quarantine starves the virus."
+    },
+    {
+      "q": "What is the main consequence of the Sun going dark for Earth?",
+      "a": [
+        "Reduced geomagnetic storm risk",
+        "More solar flares",
+        "Higher temperatures",
+        "Longer day length"
+      ],
+      "why": "No Sun means no solar flares."
+    },
+    {
+      "q": "What does the math say about finding a soulmate?",
+      "a": [
+        "Odds are very small",
+        "Odds are high",
+        "Guaranteed if you look",
+        "Depends on age"
+      ],
+      "why": "Math shows very small odds."
+    },
+    {
+      "q": "What does Randall Munroe's platform primarily do?",
+      "a": [
+        "Answer science questions",
+        "Create comics",
+        "Sell books",
+        "Run a lab"
+      ],
+      "why": "xkcd's What If answers science queries."
+    }
+  ]
+}

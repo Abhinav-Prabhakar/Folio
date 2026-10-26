@@ -1,0 +1,31 @@
+{
+  "book": "mindsight",
+  "title": "Mindsight",
+  "questions": [
+    {
+      "q": "What does the summary say mindsight is the skill of?",
+      "a": ["Reflecting on the link between your body and mind", "Reading other people's hidden intentions", "Remembering details from past conversations", "Suppressing emotions before they surface"],
+      "why": "The overview defines it as reflecting on the connection between body and mind, blending awareness and self-knowledge."
+    },
+    {
+      "q": "How does the summary suggest you picture yourself to stay balanced?",
+      "a": ["As a gently flowing river", "As a tall, unshaken tree", "As a steady burning fire", "As a quiet, locked room"],
+      "why": "Lesson 1 says a river embraces obstacles, makes room for them and keeps to its course."
+    },
+    {
+      "q": "What does the summary say about your emotions?",
+      "a": ["They are passing experiences, not character traits", "They reveal your true personality", "They should be ignored completely", "They are fixed patterns from childhood"],
+      "why": "Lesson 2 says seeing emotions as fleeting gives you more control over them."
+    },
+    {
+      "q": "What are the three pillars of mindsight?",
+      "a": ["Observation, objectivity and openness", "Attention, patience and kindness", "Awareness, acceptance and action", "Balance, courage and curiosity"],
+      "why": "Lesson 2 lists noticing distractions, watching thoughts without judgment, and accepting emotions."
+    },
+    {
+      "q": "What does the summary recommend when a conversation gets too heated?",
+      "a": ["Take a time out and return with a fresh attitude", "Keep arguing until the issue is settled", "Leave the relationship for good", "Pretend the disagreement never happened"],
+      "why": "Lesson 3 suggests a pause, some calming practice, and then a return to the conversation."
+    }
+  ]
+}

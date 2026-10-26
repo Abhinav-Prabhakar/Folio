@@ -1,0 +1,56 @@
+{
+  "book": "one-simple-idea",
+  "title": "One Simple Idea",
+  "questions": [
+    {
+      "q": "What does Stephen Key recommend doing with competitors?",
+      "a": [
+        "Partner with them instead of fighting them",
+        "Undercut their prices until they quit",
+        "Copy their products without giving credit",
+        "Sue them to win back market share"
+      ],
+      "why": "Lesson 1 recommends an if you can't beat them, join them approach, as Hot Picks did with Dunlop."
+    },
+    {
+      "q": "Why is a good manufacturer important when licensing an idea?",
+      "a": [
+        "Your name stands behind the product's quality",
+        "Manufacturers handle all the marketing",
+        "Cheaper factories mean higher profits",
+        "They own the rights to your idea"
+      ],
+      "why": "Lesson 2 notes that licensing puts your name on the product, so its quality reflects on you."
+    },
+    {
+      "q": "How does the summary suggest getting a top manufacturer's attention?",
+      "a": [
+        "Ask an established ally for a referral",
+        "Call the company's chief executive directly",
+        "Offer to pay double the normal rate",
+        "Post your idea publicly on social media"
+      ],
+      "why": "Lesson 2 suggests an introduction from a major player to reach their trusted manufacturer."
+    },
+    {
+      "q": "What mistake does Key warn against when creating a follow-up product?",
+      "a": [
+        "Targeting a completely different audience",
+        "Making only small improvements",
+        "Keeping the same customer base",
+        "Offering it at a lower price"
+      ],
+      "why": "Lesson 3 warns that a follow-up product should serve the same customers or a subset of them."
+    },
+    {
+      "q": "What is the benefit of ideas that improve existing products?",
+      "a": [
+        "The market has already validated them",
+        "They require no manufacturer at all",
+        "They can never be copied by rivals",
+        "They always sell for a premium"
+      ],
+      "why": "Lesson 1 says incremental improvements are already validated because people buy similar products."
+    }
+  ]
+}

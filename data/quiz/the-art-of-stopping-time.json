@@ -1,0 +1,56 @@
+{
+  "book": "the-art-of-stopping-time",
+  "title": "The Art Of Stopping Time",
+  "questions": [
+    {
+      "q": "What three things determine what you get out of an hour?",
+      "a": [
+        "What you do, how much energy you have and how present you are",
+        "Your income, your schedule and your willpower",
+        "The time of day, your age and your mood",
+        "How busy you are, how much you finish and how fast you work"
+      ],
+      "why": "Lesson 1 says an hour's value depends on how you spend it, your energy and your mindfulness."
+    },
+    {
+      "q": "What does the summary say about an hour spent scrolling on your phone?",
+      "a": [
+        "It is worth much less than an hour of meaningful or pleasurable activity",
+        "It restores energy better than rest or sleep",
+        "It counts the same as any other hour",
+        "It improves focus for the next task"
+      ],
+      "why": "Lesson 1 contrasts useful, pleasurable hours with time lost to surfing the internet."
+    },
+    {
+      "q": "In the garden metaphor, what do time, energy and attention represent?",
+      "a": [
+        "The water you use to nourish your plants",
+        "The seeds you choose to plant",
+        "The soil that holds everything together",
+        "The fence that keeps pests out"
+      ],
+      "why": "Lesson 2 compares your resources to water, which is limited and must be shared among the plants."
+    },
+    {
+      "q": "What risk does the summary warn about when you overwater one plant?",
+      "a": [
+        "Other areas of your life wither because resources are limited",
+        "The garden grows faster than you can manage",
+        "The plant stops producing fruit entirely",
+        "Weeds spread to the neighbouring plots"
+      ],
+      "why": "Lesson 2 says pouring too much into one area, such as work, can kill your relationships and health."
+    },
+    {
+      "q": "What does the summary say is the key to slowing time down?",
+      "a": [
+        "Putting away distractions and concentrating fully on the experience",
+        "Scheduling fewer activities each day",
+        "Sleeping more hours each night",
+        "Measuring how long each task takes"
+      ],
+      "why": "Lesson 3 says mindfulness, focusing on the moment, makes experiences register and time feel slower."
+    }
+  ]
+}

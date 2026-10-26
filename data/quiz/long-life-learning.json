@@ -1,0 +1,56 @@
+{
+  "book": "long-life-learning",
+  "title": "Long Life Learning",
+  "questions": [
+    {
+      "q": "Why does the summary say education must become a continuous part of life?",
+      "a": [
+        "Skills have to adapt as technology and jobs keep changing",
+        "Degrees become more expensive with each passing year",
+        "Employers increasingly prefer younger applicants",
+        "Retirement ages are falling in most countries"
+      ],
+      "why": "The overview argues that the old path of a degree followed by one career is outdated because work keeps changing."
+    },
+    {
+      "q": "What do workers over 50 need, according to the summary?",
+      "a": [
+        "Training matched to their skills and market demand",
+        "Early retirement packages and larger pensions",
+        "Shorter hours and much lighter duties",
+        "A return to full-time university study"
+      ],
+      "why": "The first lesson says older workers are not leaving the workforce but need training aligned with their skills and demand."
+    },
+    {
+      "q": "What does the learning-by-doing approach involve?",
+      "a": [
+        "Learning on the job through targeted training programs",
+        "Studying full time before ever entering the workforce",
+        "Taking evening courses in unrelated subjects",
+        "Reading textbooks and attending lectures only"
+      ],
+      "why": "The second lesson recommends training programs designed around needed skills, plus on-ramps that place adults into local work."
+    },
+    {
+      "q": "What is credential inflation, as the summary describes it?",
+      "a": [
+        "Employers demand higher degrees, so applicants keep adding qualifications",
+        "Rising tuition makes every degree less valuable over time",
+        "Too many graduates compete for too few available jobs",
+        "Companies invent certificates to attract more workers"
+      ],
+      "why": "The third lesson says employers now require advanced degrees instead of treating them as extras, so applicants pile up credentials."
+    },
+    {
+      "q": "What does the summary recommend instead of judging applicants by credentials?",
+      "a": [
+        "Performance-based assessments and skills-based resumes",
+        "Longer degree programs with deeper specialization",
+        "Interviews run by outside consultants",
+        "Standardized tests taken before applying"
+      ],
+      "why": "It suggests Collegiate Learning Assessments built on a 90-minute practical task, plus resumes that show actual skills."
+    }
+  ]
+}

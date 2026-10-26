@@ -1,0 +1,56 @@
+{
+  "book": "the-signal-and-the-noise",
+  "title": "The Signal And The Noise",
+  "questions": [
+    {
+      "q": "What prediction record did Nate Silver achieve in the 2012 US election?",
+      "a": [
+        "All 50 states correctly",
+        "49 of 50 states correctly",
+        "48 of 50 states correctly",
+        "45 of 50 states correctly"
+      ],
+      "why": "The overview notes he nailed all 50 states in 2012."
+    },
+    {
+      "q": "What common mistake do forecasters make according to the book?",
+      "a": [
+        "Relying solely on statistics",
+        "Using too many anecdotes",
+        "Ignoring data",
+        "Over‑consulting experts"
+      ],
+      "why": "It says they turn off common sense and rely only on statistical data."
+    },
+    {
+      "q": "Which tool does Silver recommend for improving predictions?",
+      "a": [
+        "Bayes' theorem",
+        "Linear regression",
+        "Monte Carlo simulation",
+        "Neural networks"
+      ],
+      "why": "The text highlights Bayes' theorem as a simple formula for better decisions."
+    },
+    {
+      "q": "What percentage of positive mammogram results are false positives?",
+      "a": [
+        "10%",
+        "5%",
+        "20%",
+        "1%"
+      ],
+      "why": "The example states roughly 10% of positive results are false positives."
+    },
+    {
+      "q": "Why does the author say human judgment remains essential?",
+      "a": [
+        "Data contains coincidences",
+        "Data is always accurate",
+        "Machines can't compute",
+        "Statistics are unreliable"
+      ],
+      "why": "He notes many correlations are coincidences, requiring critical thinking."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "through-the-language-glass",
+  "title": "Through The Language Glass",
+  "questions": [
+    {
+      "q": "What does Deutscher suggest about language difficulty and a learner's native tongue?",
+      "a": [
+        "It depends on the learner's existing languages",
+        "All languages are equally hard",
+        "German is universally hardest",
+        "Chinese is universally easiest"
+      ],
+      "why": "Deutscher notes difficulty varies with languages you already speak."
+    },
+    {
+      "q": "How do grammatical structures influence thought, according to the book?",
+      "a": [
+        "They shape the concepts we must express",
+        "They have no effect on cognition",
+        "They only affect writing speed",
+        "They determine vocabulary size"
+      ],
+      "why": "The text says rules change requirements of words and thus affect thinking."
+    },
+    {
+      "q": "What linguistic feature does Hebrew lack that English has?",
+      "a": [
+        "A verb for ongoing rain",
+        "A plural noun marker",
+        "Past tense for verbs",
+        "Gendered adjectives"
+      ],
+      "why": "Hebrew expresses rain as \"the rain falls\" without a verb for raining."
+    },
+    {
+      "q": "Which language assigns three gender categories to nouns?",
+      "a": [
+        "German",
+        "Spanish",
+        "English",
+        "Japanese"
+      ],
+      "why": "German has masculine, feminine, and neuter noun markers."
+    },
+    {
+      "q": "What did Toshi Konishi find about adjective choice for bridges?",
+      "a": [
+        "Adjectives matched the noun's gender",
+        "Adjectives were gender‑neutral",
+        "Adjectives were unrelated to gender",
+        "Adjectives favored masculine nouns"
+      ],
+      "why": "Study showed descriptions aligned with the gender assigned to \"bridge\"."
+    }
+  ]
+}

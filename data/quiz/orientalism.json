@@ -1,0 +1,56 @@
+{
+  "book": "orientalism",
+  "title": "Orientalism",
+  "questions": [
+    {
+      "q": "What did Western Orientalists do with knowledge about the East?",
+      "a": [
+        "Used it to justify political and economic control",
+        "Shared it freely with Eastern scholars",
+        "Preserved it without any political purpose",
+        "Rejected it in favor of local accounts"
+      ],
+      "why": "Lesson 1 says studying the Orient became a means of political and economic gain for the West."
+    },
+    {
+      "q": "What happened to diversity within Eastern nations under Orientalist categories?",
+      "a": [
+        "It was lost as people were lumped into broad groups",
+        "It was carefully documented and celebrated",
+        "It became the main focus of study",
+        "It was protected by colonial laws"
+      ],
+      "why": "Lesson 2 says broad categories erased the diversity of individuals within Eastern nations."
+    },
+    {
+      "q": "Why was Napoleon's Egyptian expedition significant?",
+      "a": [
+        "It included scholars who served French interests",
+        "It ended all trade between Egypt and France",
+        "It was a purely scientific mission",
+        "It introduced Arabic science to Europe"
+      ],
+      "why": "Lesson 1 describes Napoleon's expedition bringing scholars who protected French trade interests."
+    },
+    {
+      "q": "Where does the summary say Orientalism still appears today?",
+      "a": [
+        "Popular imagination, universities and government policy",
+        "Museums, courts and sporting events",
+        "Advertising, fashion and popular music",
+        "Schools, hospitals and charitable groups"
+      ],
+      "why": "Lesson 3 names popular imagination, universities and government policies as places Orientalism survives."
+    },
+    {
+      "q": "How did the 1973 oil crisis shape images of Arabs in the West?",
+      "a": [
+        "Cartoons cast Arabs as villains near oil pumps",
+        "It created widespread sympathy for Arab nations",
+        "It led to more accurate portrayals in the media",
+        "It ended the use of stereotypes in cartoons"
+      ],
+      "why": "Lesson 3 links the 1973 oil crisis to cartoons of Arab sheiks that cast the East as villain."
+    }
+  ]
+}

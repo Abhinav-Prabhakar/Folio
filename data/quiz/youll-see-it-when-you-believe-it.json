@@ -1,0 +1,56 @@
+{
+  "book": "youll-see-it-when-you-believe-it",
+  "title": "You’ll See It When You Believe It",
+  "questions": [
+    {
+      "q": "According to the book, true self‑improvement begins with what?",
+      "a": [
+        "Expanding the mind",
+        "Changing appearance",
+        "Increasing income",
+        "Adding new habits"
+      ],
+      "why": "The overview says personal growth starts with changing your mind."
+    },
+    {
+      "q": "What does the author claim is the root of all life experiences?",
+      "a": [
+        "Thoughts",
+        "Genes",
+        "Environment",
+        "Luck"
+      ],
+      "why": "The text states the root of all life experiences and changes is thoughts."
+    },
+    {
+      "q": "Why does the author say external goals like weight loss often fail?",
+      "a": [
+        "They ignore the mind",
+        "They are too expensive",
+        "They lack scientific support",
+        "They require too much time"
+      ],
+      "why": "The book argues focusing on external changes neglects the most important part—our mind."
+    },
+    {
+      "q": "What mindset does the author say limits personal freedom at work?",
+      "a": [
+        "Scarcity mindset",
+        "Growth mindset",
+        "Fixed mindset",
+        "Optimistic mindset"
+      ],
+      "why": "The text describes a scarcity mindset as focusing on what you lack, limiting freedom."
+    },
+    {
+      "q": "How does the author suggest you should view your career?",
+      "a": [
+        "As a thought you once had",
+        "As a random chance",
+        "As a family legacy",
+        "As a societal duty"
+      ],
+      "why": "The career is described as the result of a thought to pick a certain major and apply for the job."
+    }
+  ]
+}

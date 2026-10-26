@@ -1,0 +1,56 @@
+{
+  "book": "how-to-read-a-book",
+  "title": "How To Read A",
+  "questions": [
+    {
+      "q": "Which two questions does an inspectional read aim to answer?",
+      "a": [
+        "What the book is about and what kind of book it is",
+        "Who the author is and when the book was written",
+        "Whether the book is enjoyable and worth recommending",
+        "How long it will take and how many pages it has"
+      ],
+      "why": "Lesson 1 says inspectional reading establishes the subject and the category of the book."
+    },
+    {
+      "q": "According to the summary, where should you save time on books?",
+      "a": [
+        "In deciding which books to read in the first place",
+        "By speed reading every page as quickly as possible",
+        "By skipping introductions and conclusions",
+        "By reading only the final chapter of each book"
+      ],
+      "why": "Lesson 1 argues the real time saving comes from choosing what to read, not from reading faster."
+    },
+    {
+      "q": "What does the summary advise while reading a book cover to cover?",
+      "a": [
+        "Keep going without stopping to look things up",
+        "Pause to research every unfamiliar reference",
+        "Take detailed notes on the content of each page",
+        "Read the chapters in reverse order"
+      ],
+      "why": "Lesson 1 says looking things up slows you down; grasp the whole text first and dig deeper later."
+    },
+    {
+      "q": "What should you identify first when analyzing a book?",
+      "a": [
+        "The author's aim in writing it",
+        "The number of chapters it contains",
+        "The reputation of its publisher",
+        "The age of the intended reader"
+      ],
+      "why": "Lesson 2 says asking why the author wrote the book helps you categorize it and follow its theme."
+    },
+    {
+      "q": "Which two questions should you ask after finishing a book?",
+      "a": [
+        "Is this true, and so what?",
+        "Who else read it, and why?",
+        "Was it long, and was it fun?",
+        "What did it cost, and was it worth it?"
+      ],
+      "why": "Lesson 3 recommends checking the book's logic first, then asking whether its message matters."
+    }
+  ]
+}

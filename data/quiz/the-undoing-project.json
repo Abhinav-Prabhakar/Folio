@@ -1,0 +1,56 @@
+{
+  "book": "the-undoing-project",
+  "title": "The Undoing Project",
+  "questions": [
+    {
+      "q": "Which two psychologists are the focus of the book?",
+      "a": [
+        "Daniel Kahneman and Amos Tversky",
+        "Sigmund Freud and Carl Jung",
+        "B.F. Skinner and Ivan Pavlov",
+        "John Nash and Alan Turing"
+      ],
+      "why": "The book centers on Kahneman and Tversky."
+    },
+    {
+      "q": "What did Kahneman and Tversky discover about human decisions?",
+      "a": [
+        "They are often biased by heuristics",
+        "They are always rational",
+        "They are guided by divine insight",
+        "They are random and unpredictable"
+      ],
+      "why": "They found decisions are biased by heuristics."
+    },
+    {
+      "q": "How did the authors decide who would be listed first in the book?",
+      "a": [
+        "They flipped a coin",
+        "They voted",
+        "They used a lottery",
+        "They chose alphabetically"
+      ],
+      "why": "They flipped a coin to decide the order."
+    },
+    {
+      "q": "Which industry was NOT mentioned as being changed by their biases?",
+      "a": [
+        "Advertising",
+        "Finance",
+        "Sports",
+        "Astronomy"
+      ],
+      "why": "Astronomy was not listed among affected industries."
+    },
+    {
+      "q": "What was the prevailing belief about decision-making before the 1950s?",
+      "a": [
+        "People are rational beings",
+        "People are purely emotional",
+        "People are random actors",
+        "People are guided by fate"
+      ],
+      "why": "Before the 1950s, people were thought to be rational."
+    }
+  ]
+}

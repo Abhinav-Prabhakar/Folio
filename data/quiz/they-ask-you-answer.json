@@ -1,0 +1,56 @@
+{
+  "book": "they-ask-you-answer",
+  "title": "They Ask You Answer",
+  "questions": [
+    {
+      "q": "What percentage of customers decide before contacting a company?",
+      "a": [
+        "70%",
+        "30%",
+        "50%",
+        "90%"
+      ],
+      "why": "The overview cites 70% make the purchase decision early."
+    },
+    {
+      "q": "According to the text, what is the top factor prospects consider?",
+      "a": [
+        "Price",
+        "Brand reputation",
+        "Design",
+        "Customer service"
+      ],
+      "why": "The content creation section lists price as the first determinant."
+    },
+    {
+      "q": "What type of content does Backlinko report makes up 14% of Google searches?",
+      "a": [
+        "Questions",
+        "Product reviews",
+        "How‑to videos",
+        "News articles"
+      ],
+      "why": "The educational content section notes 14% are question queries."
+    },
+    {
+      "q": "Which quality does the book say consumers value most in content?",
+      "a": [
+        "Honesty",
+        "Entertainment",
+        "Length",
+        "Graphics"
+      ],
+      "why": "Honesty is highlighted as a key factor for trust."
+    },
+    {
+      "q": "What strategy helps businesses attract consumers by answering queries?",
+      "a": [
+        "Creating educational content",
+        "Increasing ad spend",
+        "Launching TV commercials",
+        "Offering discounts"
+      ],
+      "why": "Educational content that answers questions draws users."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "your-best-year-ever",
+  "title": "Your Best Year Ever",
+  "questions": [
+    {
+      "q": "What first step does Michael Hyatt recommend for planning a great year?",
+      "a": [
+        "Journal a vision of your future",
+        "Set a strict budget",
+        "Buy a planner",
+        "Read motivational quotes"
+      ],
+      "why": "He suggests journaling about where you'd like to be a year from now."
+    },
+    {
+      "q": "How many life areas does the book advise focusing on?",
+      "a": [
+        "Ten",
+        "Five",
+        "Three",
+        "Twelve"
+      ],
+      "why": "The text lists ten aspects of life to focus on."
+    },
+    {
+      "q": "What balance is needed when setting high goals?",
+      "a": [
+        "Aim high but stay realistic",
+        "Aim low to ensure success",
+        "Ignore current abilities",
+        "Set goals without planning"
+      ],
+      "why": "The book says set sights high while being reasonable about current capabilities."
+    },
+    {
+      "q": "What benefit does hiring a coach provide, according to the author?",
+      "a": [
+        "Rapid progress improvement",
+        "More free time",
+        "Higher income instantly",
+        "Less need for effort"
+      ],
+      "why": "The author notes progress improved quickly after hiring a coach."
+    },
+    {
+      "q": "What common mistake does the book warn against when pursuing goals?",
+      "a": [
+        "Repeating the same ineffective actions",
+        "Setting too many goals",
+        "Ignoring feedback",
+        "Working alone"
+      ],
+      "why": "It cites insanity as doing the same thing repeatedly expecting different results."
+    }
+  ]
+}

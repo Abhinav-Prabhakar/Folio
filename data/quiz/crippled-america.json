@@ -1,0 +1,56 @@
+{
+  "book": "crippled-america",
+  "title": "Crippled America",
+  "questions": [
+    {
+      "q": "How does Trump describe the media's coverage of his campaign?",
+      "a": [
+        "Unfair and inaccurate, but useful free publicity",
+        "Balanced and careful about checking facts",
+        "Supportive but too focused on his business",
+        "Hostile and damaging enough to sink his campaign"
+      ],
+      "why": "Lesson 1 says the press misquoted and attacked him, yet the attention only spread his message further."
+    },
+    {
+      "q": "What example of biased coverage does the summary give?",
+      "a": [
+        "Moderators misquoting him during the Republican debates",
+        "Newspapers refusing to print his name",
+        "Television channels banning his interviews",
+        "Reporters publishing his private tax returns"
+      ],
+      "why": "The summary says debate moderators misquoted Trump and asked slanted questions without letting him respond."
+    },
+    {
+      "q": "Why does Trump say he supports a border wall?",
+      "a": [
+        "To protect American jobs and improve security",
+        "To increase trade with Mexico",
+        "To create jobs building the barrier",
+        "To reduce the number of tourists entering"
+      ],
+      "why": "Lesson 2 frames the wall as a way to control illegal immigration, which Trump links to lost jobs and safety risks."
+    },
+    {
+      "q": "What does Trump say about immigrants, according to the summary?",
+      "a": [
+        "He welcomes legal immigrants but wants lawbreakers held accountable",
+        "He wants to end all immigration to the United States",
+        "He believes immigrants commit no crimes at all",
+        "He wants only immigrants from Europe admitted"
+      ],
+      "why": "The summary notes his own mother was a Scottish immigrant and that his objection is to people breaking the law."
+    },
+    {
+      "q": "What education change does Trump favor?",
+      "a": [
+        "Giving parents more choice and reducing federal control",
+        "Expanding Common Core standards nationwide",
+        "Giving Washington more say over local schools",
+        "Removing grades and competition from schools"
+      ],
+      "why": "Lesson 3 says he would do away with the Department of Education and let competition and charter schools improve results."
+    }
+  ]
+}

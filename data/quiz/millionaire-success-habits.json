@@ -1,0 +1,31 @@
+{
+  "book": "millionaire-success-habits",
+  "title": "Millionaire Success Habits",
+  "questions": [
+    {
+      "q": "What does the Seven Levels Deep exercise involve?",
+      "a": ["Asking yourself why seven times in a row", "Writing down seven goals for the year", "Reviewing seven habits every morning", "Listing seven people who inspire you"],
+      "why": "Lesson 1 says the exercise is simply asking yourself the question why, seven times."
+    },
+    {
+      "q": "Why does knowing your deeper why matter when hard days arrive?",
+      "a": ["It helps you keep going instead of giving up", "It makes other people trust you more", "It removes the need for a business plan", "It guarantees quick financial results"],
+      "why": "Lesson 1 calls your why a defense against abandoning your dreams when things get difficult."
+    },
+    {
+      "q": "What does the summary say happens when you focus on your strengths?",
+      "a": ["You become happier and your weaknesses matter less", "Your weaknesses quietly turn into strengths", "You stop needing feedback from other people", "You avoid having to learn anything new"],
+      "why": "Lesson 2 says working on strengths brings happiness and that weaknesses take care of themselves."
+    },
+    {
+      "q": "What first step does the summary suggest for living within your strengths?",
+      "a": ["Ask people close to you what you are good at", "Take a test that ranks your weaknesses", "Copy the habits of a successful mentor", "Set a goal to fix one flaw each month"],
+      "why": "Lesson 2 advises asking those closest to you, then making a list and a plan."
+    },
+    {
+      "q": "How did Carol awaken her inner hero, according to the summary?",
+      "a": ["She focused on solutions instead of what was wrong", "She blamed the economy for her troubles", "She waited for better circumstances to arrive", "She borrowed money from her family"],
+      "why": "Lesson 3 says the hero focuses on solutions rather than dwelling on everything that is wrong."
+    }
+  ]
+}

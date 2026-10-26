@@ -1,0 +1,56 @@
+{
+  "book": "lost-connections",
+  "title": "Lost Connections",
+  "questions": [
+    {
+      "q": "What does Hari argue about the cause of depression?",
+      "a": [
+        "It is not simply a chemical imbalance in the brain",
+        "It is passed down entirely through your genes",
+        "It comes only from low serotonin levels",
+        "It always requires a lifelong prescription"
+      ],
+      "why": "The first lesson says Hari uncovered scant proof that low serotonin is the culprit or that the drugs actually help."
+    },
+    {
+      "q": "What did Irving Kirsch discover about antidepressants?",
+      "a": [
+        "Many were no more effective than placebos",
+        "They worked far better than talking therapy",
+        "They cured the majority of patients studied",
+        "They produced almost no side effects"
+      ],
+      "why": "The summary says Kirsch reviewed antidepressant research and found many on the market worked no better than a placebo."
+    },
+    {
+      "q": "Which of these is one of the nine causes of depression?",
+      "a": [
+        "Disconnection from meaningful work",
+        "A shortage of serotonin in the brain",
+        "Too much exposure to green spaces",
+        "A lack of prescription medication"
+      ],
+      "why": "The second lesson lists disconnection from meaningful work, others, values, status, nature and a hopeful future."
+    },
+    {
+      "q": "What did the comparison of Native American reservations suggest?",
+      "a": [
+        "Control over your own destiny lowers suicide rates",
+        "Wealthier reservations had higher depression rates",
+        "Traditional medicine was the most effective treatment",
+        "Distance from cities increased depression"
+      ],
+      "why": "The summary says reservations where people controlled their own laws, elections and schools had far lower suicide rates."
+    },
+    {
+      "q": "What is a social prescription?",
+      "a": [
+        "Reconnecting people with others, work and nature instead of drugs",
+        "A doctor's note granting time off from work",
+        "A group therapy session led by a psychiatrist",
+        "A written plan for reducing screen time"
+      ],
+      "why": "The third lesson describes social prescriptions as a way to rebuild lost connections rather than relying on medication."
+    }
+  ]
+}

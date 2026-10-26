@@ -1,0 +1,56 @@
+{
+  "book": "year-of-yes",
+  "title": "Year Of Yes",
+  "questions": [
+    {
+      "q": "What event sparked Shonda Rhimes' year of saying yes?",
+      "a": [
+        "Comment at Thanksgiving",
+        "Award ceremony",
+        "New job offer",
+        "Health scare"
+      ],
+      "why": "A comment at Thanksgiving prompted her to say yes."
+    },
+    {
+      "q": "Who pushed Shonda to accept the fancy dinner invitation?",
+      "a": [
+        "Her publicist",
+        "Her sister",
+        "Her boss",
+        "Her friend"
+      ],
+      "why": "Her publicist encouraged her to accept."
+    },
+    {
+      "q": "What is the main lesson of saying yes without questions?",
+      "a": [
+        "Explore new possibilities",
+        "Avoid all commitments",
+        "Stay in comfort zone",
+        "Limit social interactions"
+      ],
+      "why": "Saying yes opens opportunities for growth."
+    },
+    {
+      "q": "How did Shonda handle compliments after the book?",
+      "a": [
+        "She accepted them proudly",
+        "She ignored them",
+        "She downplayed them",
+        "She asked for more"
+      ],
+      "why": "She learned to accept compliments with pride."
+    },
+    {
+      "q": "What did the publicist do that helped Shonda?",
+      "a": [
+        "Invited her to a high‑profile dinner",
+        "Told her to decline offers",
+        "Suggested a new show",
+        "Rewrote her résumé"
+      ],
+      "why": "The invitation led to a memorable night."
+    }
+  ]
+}

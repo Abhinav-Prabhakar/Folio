@@ -1,0 +1,31 @@
+{
+  "book": "catch-me-if-you-can",
+  "title": "Catch Me If You Can",
+  "questions": [
+    {
+      "q": "What does the summary say happened to Frank Abagnale's shortcuts?",
+      "a": ["They became his whole way of life", "They stopped working after one year", "They landed him a legitimate job", "They were taught to him by his father"],
+      "why": "Lesson 1 explains that what began as a means to impress women turned into an end in itself."
+    },
+    {
+      "q": "Why does the summary say lying is harder than telling the truth?",
+      "a": ["You must keep track of every lie you have told", "People rarely believe a stranger's lies", "Lies require expensive costumes and props", "The law punishes lies more severely"],
+      "why": "Lesson 2 points out that the truth stays the same for years, while a growing web of lies must be maintained."
+    },
+    {
+      "q": "What did Frank keep in his notebook to sustain his pilot act?",
+      "a": ["Airline jargon, names, and details of people he met", "A list of banks he planned to target", "Contacts for buying fake passports", "Records from his father's business"],
+      "why": "Lesson 2 describes notes on insider phrases, technical data and profiles so real crews would not see through him."
+    },
+    {
+      "q": "What happened to Frank after he was captured?",
+      "a": ["He was paroled to help the FBI with fraud cases", "He served the full twelve-year sentence", "He fled the country and disappeared", "He became a commercial airline pilot"],
+      "why": "Lesson 3 says he spent only five years in jail and was released early in exchange for helping the FBI."
+    },
+    {
+      "q": "What lesson does the summary draw from Frank's later career?",
+      "a": ["A skill you dismiss may later prove useful", "Crime never pays in the end", "Always finish your formal education", "Forgiveness matters more than justice"],
+      "why": "Lesson 3 shows him building a long career helping banks spot forged checks, using what he once did wrong."
+    }
+  ]
+}

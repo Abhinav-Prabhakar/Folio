@@ -1,0 +1,56 @@
+{
+  "book": "invisible-women",
+  "title": "Invisible Women",
+  "questions": [
+    {
+      "q": "What does the summary say about the world women live in?",
+      "a": [
+        "It was designed around men's bodies and needs",
+        "It has achieved equality in most public spaces",
+        "It favors women in health and safety testing",
+        "It was rebuilt after women entered the workforce"
+      ],
+      "why": "Lesson 1 concludes that cities and infrastructure were designed for men, making life harder for women."
+    },
+    {
+      "q": "What example shows that car safety testing favors men?",
+      "a": [
+        "Cars are tested on male bodies, so women are hurt more",
+        "Cars use seatbelts designed only for children",
+        "Crash tests are only required in a few countries",
+        "Women are less likely to wear seatbelts"
+      ],
+      "why": "Lesson 2 says testing is not required on female models, and women suffer more severe injuries."
+    },
+    {
+      "q": "What problem does the summary point out about office temperatures?",
+      "a": [
+        "They were set using an average 40-year-old man",
+        "They are kept too warm for most employees",
+        "They change too often during the workday",
+        "They are controlled by individual workers"
+      ],
+      "why": "Lesson 2 says air conditioning standards from the 1960s were based on a male body."
+    },
+    {
+      "q": "How many seats in national legislatures do women hold worldwide?",
+      "a": [
+        "About 20 percent",
+        "About 30 percent",
+        "About 40 percent",
+        "About 50 percent"
+      ],
+      "why": "Lesson 3 says women hold only about a fifth of seats, despite being half the population."
+    },
+    {
+      "q": "What does the summary say happens when women speak up in finance or politics?",
+      "a": [
+        "They are judged more harshly than men saying the same thing",
+        "They are praised for bringing a fresh perspective",
+        "They are given more speaking time than men",
+        "They are usually ignored by the audience"
+      ],
+      "why": "Lesson 3 says identical statements earn women negative perceptions while men appear knowledgeable."
+    }
+  ]
+}

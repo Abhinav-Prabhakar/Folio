@@ -1,0 +1,56 @@
+{
+  "book": "escape-velocity",
+  "title": "Escape Velocity",
+  "questions": [
+    {
+      "q": "Which five powers make up Moore's hierarchy, in order of importance?",
+      "a": [
+        "Category, company, market, offer, execution",
+        "Product, price, place, promotion, people",
+        "Vision, culture, hiring, process, cash",
+        "Market, category, execution, offer, company"
+      ],
+      "why": "Lesson 1 lists the five powers from category down to execution."
+    },
+    {
+      "q": "Why did Newsweek sell for a dollar while 3Par sold for billions?",
+      "a": [
+        "Storage was a growing category and print media was not",
+        "Newsweek carried far more debt than 3Par",
+        "3Par owned patents that Newsweek lacked",
+        "Newsweek had lost its readers to television"
+      ],
+      "why": "Lesson 2 uses both sales to show category power at work."
+    },
+    {
+      "q": "What single question determines a company's category power?",
+      "a": [
+        "Is your industry growing or shrinking?",
+        "Is your team the best in the field?",
+        "Can customers easily substitute your product?",
+        "Are your margins better than rivals'?"
+      ],
+      "why": "Lesson 2 reduces category power to whether the industry is growing."
+    },
+    {
+      "q": "Besides differentiation, what two activities build offer power?",
+      "a": [
+        "Neutralization and optimization",
+        "Advertising and discounting",
+        "Hiring and training",
+        "Outsourcing and automation"
+      ],
+      "why": "Lesson 3 names differentiation, neutralization and optimization."
+    },
+    {
+      "q": "Which examples does Moore give of a 10x improvement?",
+      "a": [
+        "Free Skype calls and Wikipedia's wider access",
+        "Apple cutting headset prices to match rivals",
+        "Domino's opening more stores than competitors",
+        "Newsweek moving its magazine online"
+      ],
+      "why": "Lesson 3 cites Skype's free calls and Wikipedia's accessibility as 10x gains."
+    }
+  ]
+}

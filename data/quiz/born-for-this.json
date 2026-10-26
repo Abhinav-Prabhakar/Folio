@@ -1,0 +1,56 @@
+{
+  "book": "born-for-this",
+  "title": "Born For This",
+  "questions": [
+    {
+      "q": "What is an if-then sketch, as described in the summary?",
+      "a": [
+        "A specific backup plan for what to do if a problem arises",
+        "A drawing that maps out your ideal career path",
+        "A short pitch you send to potential employers",
+        "A list of skills you want to learn next year"
+      ],
+      "why": "The sketches go beyond imagining the worst case by deciding your exact response in advance."
+    },
+    {
+      "q": "How do if-then sketches change the way you approach a risk?",
+      "a": [
+        "You feel safer and more confident about moving ahead",
+        "You avoid taking the risk until it disappears",
+        "You delegate the decision to someone else",
+        "You focus only on the best possible outcome"
+      ],
+      "why": "Knowing your next move in advance makes the risk feel manageable."
+    },
+    {
+      "q": "What does the 100 People Project involve?",
+      "a": [
+        "Sending a short offer to 100 potential contacts, such as a free consultation",
+        "Interviewing 100 people about their dream careers",
+        "Saving 100 dollars a week to fund a new business",
+        "Asking 100 friends to review your resume"
+      ],
+      "why": "The project aims to get a side hustle off the ground quickly and start building customers."
+    },
+    {
+      "q": "What does the 100 People Project help you practice?",
+      "a": [
+        "Marketing skills, plus learning how you can best help people",
+        "Accounting and bookkeeping for a small business",
+        "Public speaking in front of large audiences",
+        "Negotiating salaries with future employers"
+      ],
+      "why": "The messages may also bring in your first paying clients."
+    },
+    {
+      "q": "What does the Gene Wolfe example show about careers?",
+      "a": [
+        "You can pursue several passions over the course of a life",
+        "You should commit to one skill and master it fully",
+        "Creative work rarely pays as well as corporate work",
+        "Successful people usually change careers only once"
+      ],
+      "why": "Wolfe kept writing a page a day for decades alongside his other work."
+    }
+  ]
+}

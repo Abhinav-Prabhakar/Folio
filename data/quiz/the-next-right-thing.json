@@ -1,0 +1,56 @@
+{
+  "book": "the-next-right-thing",
+  "title": "The Next Right Thing",
+  "questions": [
+    {
+      "q": "How many decisions does an average person make daily?",
+      "a": [
+        "35,000",
+        "10,000",
+        "5,000",
+        "1,000"
+      ],
+      "why": "The book states about 35,000 decisions per day."
+    },
+    {
+      "q": "Which historical figure's practice illustrates the next right thing?",
+      "a": [
+        "Jesus",
+        "Martin Luther King Jr",
+        "Abraham Lincoln",
+        "Nelson Mandela"
+      ],
+      "why": "The author cites Jesus raising Jairus's daughter."
+    },
+    {
+      "q": "What does the author suggest to clear inner distractions?",
+      "a": [
+        "Silence notifications",
+        "Meditate daily",
+        "Exercise",
+        "Read more"
+      ],
+      "why": "The text recommends silencing phone notifications."
+    },
+    {
+      "q": "Which book does Joshua Becker quote about minimalism?",
+      "a": [
+        "The More of Less",
+        "The Minimalist Life",
+        "Less Is More",
+        "Minimalist Mindset"
+      ],
+      "why": "The author references Becker's The More of Less."
+    },
+    {
+      "q": "What is a recommended way to gain clarity according to the book?",
+      "a": [
+        "Be patient and wait for surprises",
+        "Plan every step",
+        "Avoid risks",
+        "Seek expert advice"
+      ],
+      "why": "The text advises patience and openness to surprises."
+    }
+  ]
+}

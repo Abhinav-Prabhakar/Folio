@@ -1,0 +1,56 @@
+{
+  "book": "why-we-love",
+  "title": "Why We Love",
+  "questions": [
+    {
+      "q": "Which three neurotransmitters does Fisher link to falling in love?",
+      "a": [
+        "Dopamine, serotonin, norepinephrine",
+        "Oxytocin, cortisol, adrenaline",
+        "Endorphins, melatonin, histamine",
+        "GABA, glutamate, acetylcholine"
+      ],
+      "why": "Fisher identifies dopamine, serotonin, norepinephrine."
+    },
+    {
+      "q": "What three traits trigger love‑related hormone release?",
+      "a": [
+        "Mystery, difference, symmetry",
+        "Wealth, power, status",
+        "Kindness, humor, intelligence",
+        "Similarity, familiarity, proximity"
+      ],
+      "why": "Mystery, difference, and symmetry attract universally."
+    },
+    {
+      "q": "What is a 'love map' according to Fisher?",
+      "a": [
+        "A personal set of preferred traits",
+        "A geographic chart of romance hotspots",
+        "A genetic blueprint for attraction",
+        "A timeline of past relationships"
+      ],
+      "why": "Love map is a set of physical and non‑physical characteristics."
+    },
+    {
+      "q": "Why does mystery stimulate dopamine release?",
+      "a": [
+        "It sparks curiosity and variety seeking",
+        "It signals danger",
+        "It reduces stress",
+        "It signals safety"
+      ],
+      "why": "Mystery triggers curiosity, releasing dopamine."
+    },
+    {
+      "q": "How does 'difference' benefit offspring as described?",
+      "a": [
+        "Creates healthier, more balanced DNA",
+        "Ensures cultural diversity",
+        "Increases social status",
+        "Reduces parental investment"
+      ],
+      "why": "Difference mixes DNA for healthier children."
+    }
+  ]
+}

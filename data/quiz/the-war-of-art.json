@@ -1,0 +1,56 @@
+{
+  "book": "the-war-of-art",
+  "title": "The War Of Art",
+  "questions": [
+    {
+      "q": "What term describes the force that stops people from pursuing their dreams?",
+      "a": [
+        "Resistance",
+        "Motivation",
+        "Inspiration",
+        "Discipline"
+      ],
+      "why": "Pressfield calls it Resistance."
+    },
+    {
+      "q": "How should one treat a creative dream to overcome Resistance?",
+      "a": [
+        "As a full‑time job",
+        "As a hobby",
+        "As a weekend project",
+        "As a side gig"
+      ],
+      "why": "Book advises treating it like a full‑time job."
+    },
+    {
+      "q": "Which example illustrates a territory that brings satisfaction?",
+      "a": [
+        "Stephen Hawking's office",
+        "A grocery store",
+        "A playground",
+        "A gym"
+      ],
+      "why": "Hawking felt better in his office."
+    },
+    {
+      "q": "What is a primary characteristic of a territory?",
+      "a": [
+        "It makes you feel better each time",
+        "It requires no effort",
+        "It is always easy",
+        "It is unrelated to work"
+      ],
+      "why": "Territory should bring growth and satisfaction."
+    },
+    {
+      "q": "What does Pressfield say about the nature of Resistance?",
+      "a": [
+        "It is a negative opposing voice",
+        "It is a supportive friend",
+        "It is a neutral force",
+        "It is a random event"
+      ],
+      "why": "Resistance is described as a negative voice."
+    }
+  ]
+}

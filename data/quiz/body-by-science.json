@@ -1,0 +1,56 @@
+{
+  "book": "body-by-science",
+  "title": "Body By Science",
+  "questions": [
+    {
+      "q": "What does the summary claim about high-intensity workouts?",
+      "a": [
+        "They produce better results in less time than steady routines",
+        "They are safe only for experienced athletes",
+        "They should be done five times a week",
+        "They build endurance but not strength"
+      ],
+      "why": "Putting pressure on muscle tissue kickstarts metabolism and builds endurance."
+    },
+    {
+      "q": "Which downsides of jogging does the summary mention?",
+      "a": [
+        "Weak knees, spinal degeneration and arrhythmia",
+        "Muscle loss, low energy and poor sleep",
+        "Dehydration, cramps and joint swelling",
+        "Shortness of breath and high blood pressure"
+      ],
+      "why": "The summary says cardio has benefits but also these risks."
+    },
+    {
+      "q": "Which five moves make up the Big Five routine?",
+      "a": [
+        "Pulldowns, leg presses, seated rows, chest presses, overhead presses",
+        "Squats, deadlifts, bench presses, pull-ups, lunges",
+        "Running, cycling, rowing, swimming, jumping",
+        "Curls, dips, flyes, shrugs, calf raises"
+      ],
+      "why": "These five resistance moves target all the major muscle groups."
+    },
+    {
+      "q": "Why is cardio inefficient for losing weight, according to the summary?",
+      "a": [
+        "A pound of fat holds 3,500 calories; an hour of jogging burns about 200",
+        "Cardio raises appetite more than it burns energy",
+        "Cardio builds fat around the muscles",
+        "The body stops burning calories after 20 minutes"
+      ],
+      "why": "The mismatch between calories stored and calories burned makes exercise alone ineffective."
+    },
+    {
+      "q": "How much extra energy does each pound of muscle burn per day?",
+      "a": [
+        "About 100 calories",
+        "About 20 calories",
+        "About 500 calories",
+        "About 1,000 calories"
+      ],
+      "why": "The summary offers this as a rule of thumb for why building muscle helps with fat loss."
+    }
+  ]
+}

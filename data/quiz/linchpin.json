@@ -1,0 +1,56 @@
+{
+  "book": "linchpin",
+  "title": "Linchpin",
+  "questions": [
+    {
+      "q": "What makes a linchpin so valuable to a business?",
+      "a": [
+        "They give their work everything and consistently over-deliver",
+        "They follow instructions more reliably than anyone else",
+        "They have worked at the company longer than others",
+        "They keep their knowledge away from coworkers"
+      ],
+      "why": "The first lesson says linchpins pour heart and soul into their work, solve problems they notice and always over-deliver."
+    },
+    {
+      "q": "Why are there so few linchpins, according to Godin?",
+      "a": [
+        "Most people are conditioned by fear to play it safe",
+        "Most jobs simply do not reward extra effort",
+        "Companies prefer predictable specialists",
+        "Training programs discourage creative thinking"
+      ],
+      "why": "The second lesson says we are taught from childhood to follow rules and blend in, so fear keeps most people cautious."
+    },
+    {
+      "q": "How do linchpins handle fear?",
+      "a": [
+        "They feel it and choose to act anyway",
+        "They wait until the feeling disappears",
+        "They avoid assignments that feel risky",
+        "They hide their doubts from colleagues"
+      ],
+      "why": "Godin says linchpins feel fear as well, but they deliberately choose to move ahead anyway."
+    },
+    {
+      "q": "What does Godin mean by a genuine gift?",
+      "a": [
+        "Giving away your best work with nothing expected back",
+        "Sending free samples to attract new customers",
+        "Offering a discount in exchange for an online review",
+        "Sharing useful advice only with paying clients"
+      ],
+      "why": "The third lesson says a genuine gift means giving away your best work for free, with no expectations attached."
+    },
+    {
+      "q": "Which example shows the payoff of giving work away for free?",
+      "a": [
+        "Gary Vaynerchuk shares his best advice and gets paid work",
+        "A friendly barista brings in more customers than three others",
+        "A chef leaves and the restaurant has to close",
+        "A top salesperson joins a competing dealership"
+      ],
+      "why": "The summary says Gary gives his best advice away publicly, which leads people to pay whatever he asks to keep him around."
+    }
+  ]
+}

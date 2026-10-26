@@ -1,0 +1,56 @@
+{
+  "book": "how-to-avoid-a-climate-disaster",
+  "title": "How To Avoid A Climate Disaster",
+  "questions": [
+    {
+      "q": "What emissions target does Gates set for the world?",
+      "a": [
+        "Net zero by 2050",
+        "Net zero by 2100",
+        "Half emissions by 2030",
+        "Zero by 2060"
+      ],
+      "why": "The overview states his clear goal is reaching zero emissions by the year 2050."
+    },
+    {
+      "q": "Which activity accounts for the largest share of global emissions, according to Gates?",
+      "a": [
+        "Making things such as plastic and steel",
+        "Generating electricity for homes and industry",
+        "Growing food and raising livestock",
+        "Moving people and goods from place to place"
+      ],
+      "why": "The overview puts making things at 31 percent, ahead of electricity at 27, food at 19 and transport at 16."
+    },
+    {
+      "q": "What is a green premium?",
+      "a": [
+        "The extra cost of choosing a climate-friendly option",
+        "A tax charged on companies that pollute",
+        "A subsidy paid to renewable energy firms",
+        "A label showing a product's energy rating"
+      ],
+      "why": "Lesson two defines it as the added price of switching to a cleaner alternative, such as low-carbon concrete."
+    },
+    {
+      "q": "How does Gates answer critics who fear nuclear power?",
+      "a": [
+        "It causes fewer deaths than fossil fuels do",
+        "It has never had a serious accident",
+        "It produces no radioactive waste at all",
+        "It is cheaper to build than solar farms"
+      ],
+      "why": "Lesson one notes that despite disasters like Chernobyl and Fukushima, nuclear's death rate is far below fossil fuels."
+    },
+    {
+      "q": "What policy does Gates recommend for air conditioning?",
+      "a": [
+        "Minimum energy-efficiency standards set by governments",
+        "A complete ban on new air conditioners",
+        "Higher taxes on electricity in hot regions",
+        "Free units for low-income households"
+      ],
+      "why": "Lesson three says efficiency standards would stop people buying cheap, wasteful units and lower energy demand."
+    }
+  ]
+}

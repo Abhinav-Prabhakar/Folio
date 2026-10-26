@@ -1,0 +1,56 @@
+{
+  "book": "the-paradox-of-choice",
+  "title": "The Paradox Of Choice",
+  "questions": [
+    {
+      "q": "How many product choices did supermarkets have on average in 2008?",
+      "a": [
+        "over 47,000",
+        "under 9,000",
+        "around 20,000",
+        "about 35,000"
+      ],
+      "why": "Schwartz notes supermarkets rose to over 47,000 items by 2008."
+    },
+    {
+      "q": "What term does Schwartz use for people who settle for \"good enough\"?",
+      "a": [
+        "satisficer",
+        "maximizer",
+        "optimizer",
+        "perfectionist"
+      ],
+      "why": "He describes satisficers as those who accept good enough choices."
+    },
+    {
+      "q": "How many possible stereo system combos can a single electronics store offer?",
+      "a": [
+        "6.5 million",
+        "1,200",
+        "45,000",
+        "200,000"
+      ],
+      "why": "Schwartz cites a store offering 6.5 million combinations."
+    },
+    {
+      "q": "According to Schwartz, what happens to happiness as options increase?",
+      "a": [
+        "It declines regardless of the choice made",
+        "It rises with more variety",
+        "It stays the same",
+        "It fluctuates unpredictably"
+      ],
+      "why": "He argues more options make people less happy no matter what they pick."
+    },
+    {
+      "q": "What does Schwartz claim is a main cause of modern unhappiness?",
+      "a": [
+        "Excessive freedom of choice",
+        "Lack of technology",
+        "Economic recession",
+        "Social media use"
+      ],
+      "why": "He links abundant choice to contemporary unhappiness."
+    }
+  ]
+}

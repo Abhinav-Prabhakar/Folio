@@ -1,0 +1,56 @@
+{
+  "book": "high-performance-habits",
+  "title": "High Performance Habits",
+  "questions": [
+    {
+      "q": "Which list contains the six habits Burchard found in high performers?",
+      "a": [
+        "Clarity, energy, necessity, productivity, influence and courage",
+        "Clarity, discipline, ambition, focus, charisma and resilience",
+        "Purpose, passion, optimism, efficiency, networking and boldness",
+        "Vision, health, urgency, planning, persuasion and bravery"
+      ],
+      "why": "The overview and lessons name seeking clarity, generating energy, raising necessity, increasing productivity, developing influence and demonstrating courage."
+    },
+    {
+      "q": "What does raising necessity mean?",
+      "a": [
+        "Having an external reason that pushes you beyond selfish goals",
+        "Making every task urgent by setting tight deadlines",
+        "Focusing only on work that brings personal fame",
+        "Raising your standards until nothing is good enough"
+      ],
+      "why": "Lesson 2 says necessity gives you an outside reason for your work, turning attention away from selfish desires for success."
+    },
+    {
+      "q": "How does Burchard suggest increasing productivity?",
+      "a": [
+        "Spend energy only on the work that is truly vital",
+        "Answer emails first so your inbox stays clear",
+        "Work longer hours to fit in more tasks",
+        "Delegate the most important work to others"
+      ],
+      "why": "Lesson 2 says to separate important work from unimportant work and direct your energy at what matters."
+    },
+    {
+      "q": "What is the deadline trap, and how does Burchard suggest countering it?",
+      "a": [
+        "Ignoring your own due dates; commit to a date and use a Ulysses Contract",
+        "Setting deadlines too early; add extra time to every estimate",
+        "Missing other people's deadlines; apologize and renegotiate",
+        "Avoiding all deadlines; work until the task feels finished"
+      ],
+      "why": "Lesson 2 describes the deadline trap as failing to hold yourself to deadlines and recommends a firm date plus a Ulysses Contract."
+    },
+    {
+      "q": "What do high performers do with their boldest goals, according to the summary?",
+      "a": [
+        "Share them openly even when others call them unrealistic",
+        "Keep them private until the work is finished",
+        "Announce them only after early results appear",
+        "Test them quietly with a small trusted group"
+      ],
+      "why": "Lesson 3 says top performers speak openly about big goals even when others dismiss them as fantasy."
+    }
+  ]
+}

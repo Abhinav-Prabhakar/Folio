@@ -1,0 +1,56 @@
+{
+  "book": "the-truths-we-hold",
+  "title": "The Truths We Hold",
+  "questions": [
+    {
+      "q": "What historic firsts did Kamala Harris achieve as Vice President?",
+      "a": [
+        "First female, first Black, first Indian‑descent VP",
+        "First Asian‑American VP",
+        "First Latina VP",
+        "First immigrant VP"
+      ],
+      "why": "Intro overview lists those three milestones."
+    },
+    {
+      "q": "Which university inspired Harris to pursue law after she admired civil‑rights lawyers?",
+      "a": [
+        "Howard University",
+        "Harvard University",
+        "Stanford University",
+        "Yale University"
+      ],
+      "why": "She realized at Howard she wanted to be a lawyer."
+    },
+    {
+      "q": "What program did Harris create to give non‑violent first‑time offenders alternatives to prison?",
+      "a": [
+        "Back on Track",
+        "Smart Sentencing",
+        "Second Chance Initiative",
+        "Rehab Reform"
+      ],
+      "why": "She pioneered the Back on Track program."
+    },
+    {
+      "q": "How does legal representation affect asylum seekers' chance of winning their case?",
+      "a": [
+        "50% with a lawyer vs 90% without",
+        "70% with a lawyer vs 80% without",
+        "30% with a lawyer vs 60% without",
+        "10% with a lawyer vs 40% without"
+      ],
+      "why": "Text states 50% chance with representation, 90% without."
+    },
+    {
+      "q": "What issue did Harris address as San Francisco DA related to the War on Drugs?",
+      "a": [
+        "Mass incarceration",
+        "Police brutality",
+        "Housing shortage",
+        "Education funding"
+      ],
+      "why": "She tackled injustices such as mass incarceration caused by the War on Drugs."
+    }
+  ]
+}

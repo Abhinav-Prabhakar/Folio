@@ -1,0 +1,56 @@
+{
+  "book": "traction",
+  "title": "Traction",
+  "questions": [
+    {
+      "q": "What is the 1 mistake founders make when starting a business?",
+      "a": [
+        "Not starting marketing immediately",
+        "Waiting for product perfection",
+        "Hiring too many people early",
+        "Seeking investors before customers"
+      ],
+      "why": "The text says the biggest error is not beginning marketing right away."
+    },
+    {
+      "q": "How many traction channels do the authors describe?",
+      "a": [
+        "Nineteen",
+        "Twelve",
+        "Twenty-five",
+        "Seven"
+      ],
+      "why": "The passage mentions 19 traction channels."
+    },
+    {
+      "q": "What is the first step of the bullseye framework?",
+      "a": [
+        "Brainstorm possible channels",
+        "Test top three channels",
+        "Categorize channels",
+        "Focus on the best channel"
+      ],
+      "why": "Step 1 is to brainstorm which channels could work."
+    },
+    {
+      "q": "Why attend trade shows according to the book?",
+      "a": [
+        "To meet potential partners and learn needs",
+        "To sell finished products directly",
+        "To recruit employees quickly",
+        "To launch advertising campaigns"
+      ],
+      "why": "Trade shows let you connect with people who could change your business."
+    },
+    {
+      "q": "What should you do after cheap testing of three channels?",
+      "a": [
+        "Focus on the one that works best",
+        "Run all three simultaneously",
+        "Discard all and start over",
+        "Hire a consultant"
+      ],
+      "why": "The framework advises focusing on the best‑performing channel after testing."
+    }
+  ]
+}

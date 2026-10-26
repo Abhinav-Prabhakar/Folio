@@ -1,0 +1,56 @@
+{
+  "book": "dare-to-lead",
+  "title": "Dare To Lead",
+  "questions": [
+    {
+      "q": "What does Brené Brown say about courage and vulnerability?",
+      "a": [
+        "They always go together, and vulnerability is a sign of strength",
+        "They are opposites, since courage means hiding all weakness",
+        "Vulnerability matters only in private, never at work",
+        "Courage can be learned without ever feeling uncertain"
+      ],
+      "why": "Lesson 1 argues that choosing courage always means accepting risk and uncertainty."
+    },
+    {
+      "q": "How many core values should you focus on, according to lesson 2?",
+      "a": [
+        "Two",
+        "Three",
+        "Five",
+        "Ten"
+      ],
+      "why": "Lesson 2 recommends narrowing your values to just two so they can actually guide you."
+    },
+    {
+      "q": "Why does focusing on too many values weaken them?",
+      "a": [
+        "If everything matters, then nothing gets prioritized",
+        "Most values contradict each other by definition",
+        "Values only work when kept secret from others",
+        "Lists longer than two items are impossible to memorize"
+      ],
+      "why": "Lesson 2 says claiming all values matter leads to prioritizing none of them."
+    },
+    {
+      "q": "What does the \"V\" in BRAVING stand for?",
+      "a": [
+        "Vault-closing, meaning you protect each other's confidences",
+        "Vision, meaning you set a clear direction for the team",
+        "Voice, meaning everyone gets equal time to speak",
+        "Velocity, meaning decisions are made quickly"
+      ],
+      "why": "Lesson 3 lists vault-closing as keeping confidential information safe."
+    },
+    {
+      "q": "According to the BRAVING list, what should replace judgment?",
+      "a": [
+        "Curiosity",
+        "Silence",
+        "Competition",
+        "Certainty"
+      ],
+      "why": "Lesson 3 says replacing judgment with curiosity turns isolation into connection."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "living-forward",
+  "title": "Living Forward",
+  "questions": [
+    {
+      "q": "What does Hyatt compare a Life Plan to?",
+      "a": [
+        "A GPS that guides you and reroutes you without judgment",
+        "A map you draw once and then never change",
+        "A contract you sign with your employer",
+        "A diary that records your past achievements"
+      ],
+      "why": "The first lesson uses the phone's GPS as a metaphor for a plan that directs you and gets you back on course."
+    },
+    {
+      "q": "How much time does Hyatt say writing your Life Plan deserves?",
+      "a": [
+        "An entire day away from home and work",
+        "One focused hour at your desk",
+        "A weekend at the end of every month",
+        "Fifteen minutes each morning"
+      ],
+      "why": "The second lesson says to set aside a whole day, go somewhere new and disconnect until the plan is finished."
+    },
+    {
+      "q": "Which question does Hyatt suggest you reflect on first?",
+      "a": [
+        "How do I want to be remembered after I die?",
+        "How much money will I need to retire?",
+        "Who should I spend most of my time with?",
+        "Which habits should I give up first?"
+      ],
+      "why": "The three key questions begin with your legacy, then your values, then the steps from where you are to the life you want."
+    },
+    {
+      "q": "What does Hyatt recommend doing right after writing the plan?",
+      "a": [
+        "Read it aloud every day for 90 days",
+        "Store it safely and revisit it once a year",
+        "Share it only with a trusted mentor",
+        "Rewrite it from scratch every week"
+      ],
+      "why": "The third lesson says to cement the plan by reading it out loud daily for 90 days, then review it weekly and quarterly."
+    },
+    {
+      "q": "What did the company's three-day planning retreat show?",
+      "a": [
+        "A plan changes nothing if nobody implements it",
+        "Retreats produce better plans than individuals do",
+        "Outside consultants should write every plan",
+        "Formal plans always fail in growing companies"
+      ],
+      "why": "The team created a detailed plan and then shelved it, which is why Hyatt calls the Life Plan a living document."
+    }
+  ]
+}

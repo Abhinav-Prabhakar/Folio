@@ -1,0 +1,56 @@
+{
+  "book": "the-blue-zones-solution",
+  "title": "The Blue Zones Solution",
+  "questions": [
+    {
+      "q": "What eating pattern is common among Blue Zones residents?",
+      "a": [
+        "Late afternoon meals and no late-night snacks",
+        "Early morning breakfasts",
+        "Frequent snacking",
+        "High protein diets"
+      ],
+      "why": "They eat last meal early and avoid late-night snacking."
+    },
+    {
+      "q": "Which food group makes up two-thirds of a Blue Zone plate?",
+      "a": [
+        "Beans and lentils",
+        "Meat",
+        "Vegetables",
+        "Grains"
+      ],
+      "why": "Beans and lentils dominate the plate."
+    },
+    {
+      "q": "How much time does the average American sit per day?",
+      "a": [
+        "9.6 hours",
+        "5 hours",
+        "12 hours",
+        "2 hours"
+      ],
+      "why": "The text states 9.6 hours of sitting."
+    },
+    {
+      "q": "What is a benefit of intermittent fasting mentioned?",
+      "a": [
+        "Promotes longevity",
+        "Increases appetite",
+        "Reduces sleep",
+        "Raises blood pressure"
+      ],
+      "why": "Intermittent fasting promotes longevity."
+    },
+    {
+      "q": "Which activity is NOT typical of Blue Zone movement habits?",
+      "a": [
+        "Using treadmills",
+        "Walking daily",
+        "Gardening",
+        "Cycling"
+      ],
+      "why": "They avoid gym equipment like treadmills."
+    }
+  ]
+}

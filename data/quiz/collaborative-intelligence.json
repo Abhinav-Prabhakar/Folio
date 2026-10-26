@@ -1,0 +1,56 @@
+{
+  "book": "collaborative-intelligence",
+  "title": "Collaborative Intelligence",
+  "questions": [
+    {
+      "q": "What are the three types of attention described in the summary?",
+      "a": [
+        "Focused, sorting and open",
+        "Active, passive and divided",
+        "Visual, auditory and kinesthetic",
+        "Narrow, broad and sustained"
+      ],
+      "why": "Lesson 1 divides attention into focused attention, sorting and open attention, each useful in different situations."
+    },
+    {
+      "q": "What is open attention especially useful for?",
+      "a": [
+        "Accessing memories and images to create new ideas",
+        "Concentrating on one task while ignoring distractions",
+        "Comparing options before forming a final opinion",
+        "Following a step-by-step procedure without error"
+      ],
+      "why": "The summary says open attention lets focus diffuse, giving us access to memories and images that spark new thoughts."
+    },
+    {
+      "q": "What does Markova suggest for communicating better with others?",
+      "a": [
+        "Learn your own mind patterns and ask what helps others",
+        "Stick to one communication style in every setting",
+        "Copy the habits of the most productive colleague",
+        "Avoid small meetings and rely on written reports"
+      ],
+      "why": "Lesson 2 recommends understanding your own working style, then asking people which communication tools help them most."
+    },
+    {
+      "q": "What routine does the author suggest to engage a team's creativity?",
+      "a": [
+        "Standing up or walking around during sessions",
+        "Working in total silence with no breaks",
+        "Holding only large brainstorming meetings",
+        "Assigning everyone the same thinking style"
+      ],
+      "why": "The summary describes a moving-around routine where team members stand or walk to work more dynamically."
+    },
+    {
+      "q": "What does the right hemisphere of the brain favor, according to the summary?",
+      "a": [
+        "Feelings, teamwork, morale and human connection",
+        "Facts, data, numbers and rational analysis",
+        "Operations, tactics and step-by-step processes",
+        "Rules, hierarchy and formal reporting"
+      ],
+      "why": "Lesson 3 places relational thinking and innovation in the right hemisphere, while facts and procedure sit on the left."
+    }
+  ]
+}

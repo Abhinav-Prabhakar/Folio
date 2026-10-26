@@ -1,0 +1,56 @@
+{
+  "book": "inspired",
+  "title": "Inspired",
+  "questions": [
+    {
+      "q": "What makes the ideal product manager, according to Cagan?",
+      "a": [
+        "Technical depth plus strong social and networking skills",
+        "Years of seniority inside the same company",
+        "A marketing degree and sales experience",
+        "An ability to code every part of the product"
+      ],
+      "why": "Lesson 1 says the ideal lead is bilingual, with a strong technical base and people skills."
+    },
+    {
+      "q": "Which roles does a strong product team include besides the product manager?",
+      "a": [
+        "A user experience designer and a marketing person",
+        "A lawyer and a financial controller",
+        "A data scientist and a customer support lead",
+        "An investor and a board advisor"
+      ],
+      "why": "Lesson 1 lists a UX designer and a marketing person as the product manager's closest partners."
+    },
+    {
+      "q": "What do interaction designers do in the product process?",
+      "a": [
+        "They map what users want into a blueprint for the product",
+        "They build the visual interface from finished designs",
+        "They test prototypes like an ordinary consumer",
+        "They pitch the finished product to investors"
+      ],
+      "why": "Lesson 2 says interaction designers understand user needs, then create the blueprint others build on."
+    },
+    {
+      "q": "What is the only purpose of a prototype?",
+      "a": [
+        "To mimic the experience and reveal mistakes early",
+        "To serve as the final version sent to customers",
+        "To show investors how much has been spent",
+        "To replace testing with a polished demo"
+      ],
+      "why": "Lesson 2 says prototypes exist to imitate the product and help the team spot errors before building."
+    },
+    {
+      "q": "What three traits must a successful product have?",
+      "a": [
+        "Feasible, usable and valuable",
+        "Fast, cheap and original",
+        "Novel, complex and expensive",
+        "Popular, stylish and simple"
+      ],
+      "why": "Lesson 3 says the product must be buildable, usable by customers and worth buying."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "waking-up",
+  "title": "Waking Up",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Waking Up?",
+      "a": [
+        "According to the book, 20% of Americans consider themselves spiritual, but not religious.",
+        "Despite their sometimes frightening appearance octopuses aren’t anything to be afraid of.",
+        "As the third-biggest city in the United States, Chicago has a reputation for many things.",
+        "You might be little surprised that your US History class didn’t study this big migration."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Waking Up explore?",
+      "a": [
+        "Practicing mindfulness can enhance your spirituality",
+        "Quit work at the same time each day, and stick to it",
+        "Work with what you’ve got, instead of making excuses",
+        "Embrace uncertainty, for it’s the root of innovation"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Waking Up teach?",
+      "a": [
+        "Spiritual development starts with physical, mental, social, and ethical maturity",
+        "Grow your emergency fund until it covers your expenses for at least three months",
+        "Listen to the other person’s opinions to help them feel safe in the conversation",
+        "Break yourself of your limiting beliefs if you want to reach your full potential"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Waking Up?",
+      "a": [
+        "Being a spiritual person doesn’t necessarily imply that you’re religious.",
+        "People who succeed in corporate settings are often those who want to win.",
+        "Evictions are common in the US these days, but it wasn’t always this way.",
+        "After retiring, Mike’s dad walked the Camino de Santiago at 73 years old."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Waking Up?",
+      "a": [
+        "Waking Up is a guide to mindfulness, spirituality, meditation, and understanding…",
+        "Deregulating can shake a democracy, and over-privatization can weaken governments",
+        "Your efficiency depends on how well you use how-to, coordination and timing rules",
+        "One of the most popular techniques in self-improvement is visualizing your goals."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

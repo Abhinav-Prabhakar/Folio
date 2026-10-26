@@ -1,0 +1,56 @@
+{
+  "book": "four-hundred-souls",
+  "title": "Four Hundred Souls",
+  "questions": [
+    {
+      "q": "What does the summary say arrived in Virginia just before the Pilgrims reached Plymouth?",
+      "a": [
+        "An English ship carrying about 24 Angolan captives",
+        "A Spanish fleet claiming the Virginia coast",
+        "A group of free Black farmers bound for Plymouth",
+        "A colonial treaty ending the slave trade"
+      ],
+      "why": "The overview introduces the White Lion and the first Black residents of what became the United States."
+    },
+    {
+      "q": "Why did Virginia's elite pass laws restricting Black residents after the 1676 rebellion?",
+      "a": [
+        "They feared another uprising of Black and white workers together",
+        "They wanted to raise money through new taxes",
+        "They were pressured by church leaders to do so",
+        "They hoped the laws would attract more settlers"
+      ],
+      "why": "The first lesson says the elite crushed the rebellion but were frightened by its multiracial alliance."
+    },
+    {
+      "q": "What did the 1667 law about Christian baptism establish?",
+      "a": [
+        "Baptism did not make an enslaved person free",
+        "Only Christians were allowed to own land",
+        "Churches could buy an enslaved person's freedom",
+        "Children of enslaved parents were born free"
+      ],
+      "why": "The first lesson says this law meant the church could not protect Black people from enslavement."
+    },
+    {
+      "q": "What did the 1793 Fugitive Slave Act do?",
+      "a": [
+        "Allowed escaped enslaved people to be seized in free states",
+        "Granted citizenship to free Black Americans",
+        "Banned slavery throughout the northern states",
+        "Required schools to teach Black history"
+      ],
+      "why": "The second lesson says the act also made it illegal to help anyone who had escaped."
+    },
+    {
+      "q": "What did Hurricane Katrina expose, according to the summary?",
+      "a": [
+        "The government's systemic disregard for Black Americans",
+        "The strength of local emergency planning",
+        "The speed of New Orleans' recovery",
+        "The fairness of federal aid distribution"
+      ],
+      "why": "The third lesson calls Katrina a humanitarian disaster that laid bare how the state neglected Black communities."
+    }
+  ]
+}

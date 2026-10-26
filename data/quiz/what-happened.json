@@ -1,0 +1,56 @@
+{
+  "book": "what-happened",
+  "title": "What Happened",
+  "questions": [
+    {
+      "q": "What emotional step did Clinton find hardest after the election loss?",
+      "a": [
+        "Calling President Obama to apologize",
+        "Calling supporters for thanks",
+        "Writing a concession speech",
+        "Holding a press conference"
+      ],
+      "why": "She said it was harder to call Obama to apologize than to call Trump."
+    },
+    {
+      "q": "What coping strategy did Clinton emphasize to avoid cynicism?",
+      "a": [
+        "Leaning on friends and family",
+        "Writing a memoir",
+        "Starting a new business",
+        "Traveling abroad"
+      ],
+      "why": "She learned to lean on friends and family for comfort."
+    },
+    {
+      "q": "Why does Clinton claim her campaign struggled to convey her motives?",
+      "a": [
+        "She never boasted about herself",
+        "She lacked policy expertise",
+        "She avoided media interviews",
+        "She focused on opponent attacks"
+      ],
+      "why": "She says she doesn't boast, making it hard to display qualifications."
+    },
+    {
+      "q": "How did the media's coverage of Clinton's email issue compare to her policies?",
+      "a": [
+        "Three times more minutes on emails",
+        "Equal time for both",
+        "More focus on policies",
+        "Minimal mention of emails"
+      ],
+      "why": "Nightly TV news spent three times as many minutes on the emails."
+    },
+    {
+      "q": "What does Clinton describe as one of her top regrets from her time as Secretary of State?",
+      "a": [
+        "Using a private email account",
+        "Traveling without security",
+        "Missing a UN vote",
+        "Accepting a controversial deal"
+      ],
+      "why": "She cites the private email account as a major regret."
+    }
+  ]
+}

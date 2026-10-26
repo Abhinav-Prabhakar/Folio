@@ -1,0 +1,56 @@
+{
+  "book": "the-moral-animal",
+  "title": "The Moral Animal",
+  "questions": [
+    {
+      "q": "Why do evolutionary psychologists say humans act morally?",
+      "a": [
+        "Because it aids survival and gene propagation",
+        "Because it pleases divine beings",
+        "Because it is learned in childhood",
+        "Because it reduces stress"
+      ],
+      "why": "They argue moral behavior serves instrumental ends of survival and reproduction."
+    },
+    {
+      "q": "In the 1982 jealousy study, what did researchers ask participants to imagine?",
+      "a": [
+        "Their partner having sex with another person",
+        "Their partner winning a lottery",
+        "Their partner moving abroad",
+        "Their partner changing jobs"
+      ],
+      "why": "The experiment measured responses to imagined sexual infidelity."
+    },
+    {
+      "q": "According to the book, which gender do low‑status families tend to favor?",
+      "a": [
+        "Girls, who can marry up",
+        "Boys, who inherit land",
+        "Both equally",
+        "Neither, they favor cousins"
+      ],
+      "why": "Evolutionary pressure makes girls advantageous for upward marriage in poor families."
+    },
+    {
+      "q": "What motive do evolutionary psychologists attribute to altruistic acts like returning a wallet?",
+      "a": [
+        "Protecting one's reputation and future reciprocity",
+        "Pure self‑sacrifice",
+        "Following legal duty",
+        "Random kindness"
+      ],
+      "why": "They view such acts as self‑serving strategies to build social debt."
+    },
+    {
+      "q": "How does social class affect parental gender preference for offspring?",
+      "a": [
+        "Wealthy families favor boys, poor families favor girls",
+        "Wealthy families favor girls, poor families favor boys",
+        "Both prefer boys",
+        "Both prefer girls"
+      ],
+      "why": "The text links class‑based reproductive strategies to gender favoritism."
+    }
+  ]
+}

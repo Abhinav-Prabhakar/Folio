@@ -1,0 +1,56 @@
+{
+  "book": "the-courage-to-be-happy",
+  "title": "The Courage to Be Happy",
+  "questions": [
+    {
+      "q": "According to Adler, love helps a person become more self-reliant because it provides what?",
+      "a": [
+        "Strength from others",
+        "Independence",
+        "Financial security",
+        "Social status"
+      ],
+      "why": "Adler says opening to love gives strength when needed."
+    },
+    {
+      "q": "Why should educators avoid praising every good deed in a classroom?",
+      "a": [
+        "It creates reward hierarchies",
+        "It boosts confidence",
+        "It encourages competition",
+        "It reduces discipline"
+      ],
+      "why": "The text warns praise can form hierarchies and rivalry."
+    },
+    {
+      "q": "What effect does treating children with warmth, empathy, and equality have?",
+      "a": [
+        "Promotes healthy maturity",
+        "Increases dependence",
+        "Reduces creativity",
+        "Encourages rebellion"
+      ],
+      "why": "Warm, empathetic treatment helps children mature well."
+    },
+    {
+      "q": "How does constant praise affect an adult who is struggling?",
+      "a": [
+        "It may cause embarrassment and discourage trying again",
+        "It boosts morale",
+        "It leads to overconfidence",
+        "It improves performance"
+      ],
+      "why": "The book notes praising a struggling adult can embarrass and hinder future attempts."
+    },
+    {
+      "q": "What is the central claim about childhood trauma in the overview?",
+      "a": [
+        "Most traumas stem from early years",
+        "Trauma is mostly adult‑generated",
+        "Only genetics cause trauma",
+        "Trauma is unrelated to upbringing"
+      ],
+      "why": "The overview states the majority of traumas arise from childhood."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book": "merchants-of-doubt",
+  "title": "Merchants of Doubt",
+  "questions": [
+    {
+      "q": "How did US tobacco companies respond when research showed that smoking was harmful?",
+      "a": ["They paid for studies that cast doubt on the findings", "They stopped selling cigarettes to the public", "They funded a nationwide campaign to help people quit", "They published the research in their own advertising"],
+      "why": "The overview explains that the companies spread confusion and funded research to make smoking seem less harmful."
+    },
+    {
+      "q": "What strategy did tobacco companies turn to after reports on secondhand smoke appeared?",
+      "a": ["Attacking the credibility of the scientific process", "Denying that secondhand smoke existed at all", "Paying the EPA to withdraw its report quietly", "Arguing that only smokers were ever at risk"],
+      "why": "Lesson 1 says they moved from doubting single studies to making the public question science itself."
+    },
+    {
+      "q": "Why did the US government put Fred Singer on the acid rain review panel?",
+      "a": ["To keep the cost of any remedy as low as possible", "To speed up a ban on burning fossil fuels", "To represent Canadian scientists on the panel", "To make the final report public sooner"],
+      "why": "Lesson 2 says Singer was added specifically to minimize the financial cost of preventing acid rain."
+    },
+    {
+      "q": "What did the economists on the carbon dioxide review panel conclude would handle global warming?",
+      "a": ["New technology would fix it, or future generations would adapt", "Carbon dioxide levels were already falling on their own", "Solar activity alone explained the rise in temperatures", "Fossil fuels had to be phased out without delay"],
+      "why": "Lesson 3 says the economists wrote the opening and closing chapters and trusted technology or adaptation."
+    },
+    {
+      "q": "What did the White House briefing give as the government's explanation for global warming?",
+      "a": ["It was simply the result of solar activity", "It was caused by industry burning fossil fuels", "It was a problem limited to the polar regions", "It was a natural cycle that would soon reverse"],
+      "why": "Lesson 3 notes that a prominent scientist told the public warming was just solar activity."
+    }
+  ]
+}

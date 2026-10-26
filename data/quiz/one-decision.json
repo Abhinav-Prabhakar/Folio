@@ -1,0 +1,56 @@
+{
+  "book": "one-decision",
+  "title": "One Decision",
+  "questions": [
+    {
+      "q": "What does the summary say keeps people stuck in unhappy situations?",
+      "a": [
+        "Assumptions and fear of the unknown",
+        "A lack of ambition and talent",
+        "Too many advisers and opinions",
+        "Bad luck and unfair circumstances"
+      ],
+      "why": "Lesson 1 says we convince ourselves we know what will happen and stay in a comfort zone of assumptions."
+    },
+    {
+      "q": "What is overgeneralizing, as described in the summary?",
+      "a": [
+        "Drawing a broad conclusion from very little evidence",
+        "Considering every outcome before deciding",
+        "Asking experts to check your facts",
+        "Adapting quickly to unfamiliar situations"
+      ],
+      "why": "Lesson 2 defines overgeneralizing as deciding from very little evidence and applying it to a larger context."
+    },
+    {
+      "q": "How does the summary suggest you avoid overgeneralizing?",
+      "a": [
+        "Zoom out from single events and average out the facts",
+        "Rely on your first instinct in the moment",
+        "Ask only people who already agree with you",
+        "Avoid making any decision at all"
+      ],
+      "why": "Lesson 2 advises zooming out from single events and averaging facts instead of judging from one case."
+    },
+    {
+      "q": "Which step does the summary recommend before making a decision?",
+      "a": [
+        "Fact-check your data and seek a second opinion",
+        "Decide quickly to avoid overthinking",
+        "Trust your emotions over the numbers",
+        "Keep the plan private from your team"
+      ],
+      "why": "Lesson 3 recommends basing decisions on facts and asking others for a second opinion."
+    },
+    {
+      "q": "How does the summary describe the value of people in decision-making?",
+      "a": [
+        "The right people can be your most valuable asset",
+        "People usually add bias to a decision",
+        "Advisers are only useful to CEOs",
+        "A team slows down every process"
+      ],
+      "why": "Lesson 3 calls the right people possibly the most valuable asset you have when deciding."
+    }
+  ]
+}

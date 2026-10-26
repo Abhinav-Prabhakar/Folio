@@ -1,0 +1,56 @@
+{
+  "book": "the-22-immutable-laws-of-branding",
+  "title": "The 22 Immutable Laws of Branding",
+  "questions": [
+    {
+      "q": "What does the Law of Expansion say about companies advertising a wide range of products?",
+      "a": [
+        "They become weaker as they spread themselves thinner",
+        "They reach new customers more quickly",
+        "They build stronger loyalty over time",
+        "They can charge higher prices for everything"
+      ],
+      "why": "Lesson 1 says broad ranges weaken a company, using delis that sell an array of items as the example."
+    },
+    {
+      "q": "How did Subway become an internationally recognized brand?",
+      "a": [
+        "It narrowed its deli offering",
+        "It expanded into many new categories",
+        "It undercut every rival’s prices",
+        "It bought up smaller deli chains"
+      ],
+      "why": "Lesson 1 credits Subway with being the first deli business to contract its range into a clear brand."
+    },
+    {
+      "q": "What does the Law of Publicity say a brand needs most when starting out?",
+      "a": [
+        "Attention, best gained by being first in its field",
+        "A large advertising budget from day one",
+        "A loyal following before it launches",
+        "A memorable logo and slogan"
+      ],
+      "why": "Lesson 2 calls publicity essential and suggests originality or a first-in-industry position."
+    },
+    {
+      "q": "What should advertising focus on once your brand is established?",
+      "a": [
+        "Defending your position and your product’s value",
+        "Attacking competitors’ weaknesses directly",
+        "Flooding every channel with repeated ads",
+        "Promising more than the product delivers"
+      ],
+      "why": "Lesson 2 says the aim is to hold the ground you have won, not to spam or boast."
+    },
+    {
+      "q": "What does the Law of the Word recommend?",
+      "a": [
+        "Tying your brand to one powerful word",
+        "Using a long descriptive company name",
+        "Changing your slogan every season",
+        "Letting customers write the tagline"
+      ],
+      "why": "Lesson 3 cites Mercedes with prestige and Honda with well-engineered as models."
+    }
+  ]
+}

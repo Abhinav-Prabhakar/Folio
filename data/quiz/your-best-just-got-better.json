@@ -1,0 +1,56 @@
+{
+  "book": "your-best-just-got-better",
+  "title": "Your Best Just Got Better",
+  "questions": [
+    {
+      "q": "Which of these statements is made in Your Best Just Got Better?",
+      "a": [
+        "Have you ever tracked your time down to the minute?",
+        "Guess the year Crossing The Chasm was published in.",
+        "Any good plan has a foundation or a starting point.",
+        "There are many ways to train your lateral thinking."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does Your Best Just Got Better explore?",
+      "a": [
+        "Live a Nike life: Just do it!",
+        "Building greatness takes time",
+        "Make better mistakes tomorrow",
+        "Give your work all you’ve got"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does Your Best Just Got Better teach?",
+      "a": [
+        "Make every minute count – 15 minutes is longer than you think!",
+        "Depending on the situation, we’ve got three types of attention",
+        "Give up control and hand others responsibility to empower them",
+        "We can learn valuable lessons from Vance’s rise out of poverty"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in Your Best Just Got Better?",
+      "a": [
+        "Nike’s logo and slogan together make for one of the most iconic, recognizable brands in…",
+        "One of my favorite writers about love, Kris Gage, says love is an action, not a feeling.",
+        "In the last three decades, the tech industry has shot to the head of the global economy.",
+        "The best way to grow any successful venture is to double down on what’s already working."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of Your Best Just Got Better?",
+      "a": [
+        "Your Best Just Got Better shows you how to tackle productivity and performance with the…",
+        "Snowden had a passion for technology, the internet, and ways to hack it since childhood.",
+        "To finish the challenge, you need to be aware of and prepared for the eight “eras” of it",
+        "A resilient person not only withstands the winds of fate but also harnesses them to grow"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

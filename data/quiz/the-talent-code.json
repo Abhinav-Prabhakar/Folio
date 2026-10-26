@@ -1,0 +1,56 @@
+{
+  "book": "the-talent-code",
+  "title": "The Talent Code",
+  "questions": [
+    {
+      "q": "Which brain threshold must be crossed for a neuron to fire?",
+      "a": [
+        "Action potential",
+        "Synaptic gap",
+        "Neural spike",
+        "Brain wave"
+      ],
+      "why": "The text defines action potential as the threshold."
+    },
+    {
+      "q": "Deep practice relies on which three elements?",
+      "a": [
+        "Repetition, mistakes, fixing",
+        "Speed, focus, endurance",
+        "Memory, skill, talent",
+        "Practice, talent, environment"
+      ],
+      "why": "The book lists repetition, making mistakes, fixing them."
+    },
+    {
+      "q": "What tissue grows thicker with repeated axon use?",
+      "a": [
+        "Myelin",
+        "Axon",
+        "Neuron",
+        "Synapse"
+      ],
+      "why": "Myelin is the tissue that thickens with use."
+    },
+    {
+      "q": "Why is chunking practice important?",
+      "a": [
+        "Easier error spotting",
+        "Harder to remember",
+        "Faster learning",
+        "Longer sessions"
+      ],
+      "why": "Chunking lets you spot mistakes more easily."
+    },
+    {
+      "q": "What happens when growth of myelin slows?",
+      "a": [
+        "Turn to a different skill",
+        "Increase practice",
+        "Take a break",
+        "Change environment"
+      ],
+      "why": "The text says to turn to a different skill when growth slows."
+    }
+  ]
+}

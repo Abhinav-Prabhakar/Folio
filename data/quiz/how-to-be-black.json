@@ -1,0 +1,56 @@
+{
+  "book": "how-to-be-black",
+  "title": "How To Be Black",
+  "questions": [
+    {
+      "q": "What surprised Thurston about native Nigerians' reaction to his name?",
+      "a": [
+        "They sometimes accepted it less readily than white people",
+        "They pronounced it more accurately than his teachers",
+        "They assumed it was a nickname he chose",
+        "They asked him to change it at school"
+      ],
+      "why": "Lesson one says a Nigerian friend's father lectured him about the name, showing more resistance than he got from white people."
+    },
+    {
+      "q": "What does the term Oreo mean in the book?",
+      "a": [
+        "A Black person seen as white inside for having white friends",
+        "A white person who adopts Black culture",
+        "A Black student who hides his grades",
+        "A mixed-race person who fits neither group"
+      ],
+      "why": "Lesson two explains that the insult described a Black person who spent time with white kids and was thought to be rejecting his race."
+    },
+    {
+      "q": "What does Thurston say cross-racial friendships can do?",
+      "a": [
+        "Build trust and help both communities understand each other",
+        "Prove that race no longer matters in society",
+        "Replace the need for antiracist policies",
+        "Make Black students adopt white habits faster"
+      ],
+      "why": "Lesson two argues genuine friendships give both groups insights they could not get inside their own cultural bubbles."
+    },
+    {
+      "q": "What did colleagues assume about Thurston's views on President Obama?",
+      "a": [
+        "That he spoke for all Black people",
+        "That he opposed Obama's policies",
+        "That he had worked on the campaign",
+        "That he knew Obama personally"
+      ],
+      "why": "Lesson three says coworkers expected him to deliver a single black community stance on the president."
+    },
+    {
+      "q": "What is black denial, as Thurston uses the term?",
+      "a": [
+        "Black people rejecting their race and shared experience",
+        "White people refusing to admit their privilege",
+        "Students avoiding discussions about slavery",
+        "Companies denying they discriminate at work"
+      ],
+      "why": "Lesson three describes colleagues who refused to acknowledge their blackness and therefore felt no solidarity with him."
+    }
+  ]
+}

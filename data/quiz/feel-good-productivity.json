@@ -1,0 +1,56 @@
+{
+  "book": "feel-good-productivity",
+  "title": "Feel-Good Productivity",
+  "questions": [
+    {
+      "q": "What are the three Ps Ali Abdaal says can raise your energy?",
+      "a": [
+        "Play, power and people",
+        "Planning, persistence and patience",
+        "Purpose, praise and progress",
+        "Priorities, process and payoff"
+      ],
+      "why": "Lesson 1 groups the energy boosters as play, power and people."
+    },
+    {
+      "q": "Which three root causes of procrastination does the book identify?",
+      "a": [
+        "Fear, uncertainty and inertia",
+        "Boredom, tiredness and distraction",
+        "Perfectionism, pride and envy",
+        "Overwork, debt and loneliness"
+      ],
+      "why": "Lesson 2 says procrastination usually traces back to one of these three."
+    },
+    {
+      "q": "What is the recommended remedy for uncertainty?",
+      "a": [
+        "Clarity about what exactly needs to be done",
+        "Courage to push through the fear",
+        "A short break to restore energy",
+        "A reward once the task is finished"
+      ],
+      "why": "Lesson 2 pairs uncertainty with clarity and suggests asking why, how, what and when."
+    },
+    {
+      "q": "What makes a NICE goal?",
+      "a": [
+        "It is near-term, input-based, controllable and energizing",
+        "It is novel, impressive, challenging and exciting",
+        "It is numeric, internal, competitive and exact",
+        "It is necessary, immediate, concrete and easy"
+      ],
+      "why": "Lesson 2 offers NICE goals as a way to replace vague outcomes with doable inputs."
+    },
+    {
+      "q": "Which three kinds of burnout should long-term productivity avoid?",
+      "a": [
+        "Overexertion, depletion and misalignment",
+        "Stress, boredom and perfectionism",
+        "Isolation, conflict and overload",
+        "Fatigue, cynicism and distraction"
+      ],
+      "why": "Lesson 3 distinguishes trying too much, running empty and losing meaning."
+    }
+  ]
+}

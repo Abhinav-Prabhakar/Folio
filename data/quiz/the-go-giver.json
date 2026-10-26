@@ -1,0 +1,56 @@
+{
+  "book": "the-go-giver",
+  "title": "The Go-Giver",
+  "questions": [
+    {
+      "q": "Which law of Bob Burg's focuses on helping customers enjoy a memorable experience?",
+      "a": [
+        "Law of Value",
+        "Law of Compensation",
+        "Law of Influence",
+        "Law of Authenticity"
+      ],
+      "why": "The first law is the Law of Value, about customer experience."
+    },
+    {
+      "q": "What example illustrates that perfect products alone don't guarantee repeat business?",
+      "a": [
+        "Hotdog stand",
+        "Luxury car dealership",
+        "Software subscription",
+        "Bookstore"
+      ],
+      "why": "The text uses a hotdog stand to show product limits."
+    },
+    {
+      "q": "Which law encourages being genuine rather than scripted?",
+      "a": [
+        "Law of Authenticity",
+        "Law of Receptivity",
+        "Law of Compensation",
+        "Law of Value"
+      ],
+      "why": "Authenticity is the law about being genuine."
+    },
+    {
+      "q": "Who is described as a go‑getter whose hard work made goals feel distant?",
+      "a": [
+        "Joe",
+        "Debra Davenport",
+        "Bob Burg",
+        "Albert Einstein"
+      ],
+      "why": "Joe is the example of a hard‑working but distant-goal person."
+    },
+    {
+      "q": "What is the first of Burg's five laws of stratospheric success?",
+      "a": [
+        "Value",
+        "Compensation",
+        "Influence",
+        "Authenticity"
+      ],
+      "why": "The first law listed is Value."
+    }
+  ]
+}

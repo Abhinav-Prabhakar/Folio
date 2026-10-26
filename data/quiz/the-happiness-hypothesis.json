@@ -1,0 +1,56 @@
+{
+  "book": "the-happiness-hypothesis",
+  "title": "The Happiness Hypothesis",
+  "questions": [
+    {
+      "q": "What brain part handles basic instincts like sleep and food?",
+      "a": [
+        "Limbic system",
+        "Neocortex",
+        "Prefrontal cortex",
+        "Amygdala"
+      ],
+      "why": "The overview says the limbic system is in charge of basic instincts."
+    },
+    {
+      "q": "Which brain region is responsible for rational thinking?",
+      "a": [
+        "Neocortex",
+        "Limbic system",
+        "Brainstem",
+        "Cerebellum"
+      ],
+      "why": "The text states the neocortex handles rational thinking."
+    },
+    {
+      "q": "Who is the author and professor mentioned in the book?",
+      "a": [
+        "Jonathan Haidt",
+        "Steven Pinker",
+        "Daniel Kahneman",
+        "Carol Dweck"
+      ],
+      "why": "The overview identifies Jonathan Haidt as the social psychologist."
+    },
+    {
+      "q": "What metaphor does Haidt use to explain happiness throughout the book?",
+      "a": [
+        "Divided brain model",
+        "Garden growth analogy",
+        "River flow image",
+        "Mountain climbing story"
+      ],
+      "why": "He establishes a brain‑division metaphor early on to explain happiness."
+    },
+    {
+      "q": "According to the overview, the book claims to offer what kind of method for happiness?",
+      "a": [
+        "Scientifically proven way",
+        "Spiritual ritual",
+        "Anecdotal tips",
+        "Philosophical musings"
+      ],
+      "why": "The opening line says it provides a scientifically proven way to find happiness."
+    }
+  ]
+}

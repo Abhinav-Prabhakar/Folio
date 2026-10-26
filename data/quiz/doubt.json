@@ -1,0 +1,31 @@
+{
+  "book": "doubt",
+  "title": "Doubt",
+  "questions": [
+    {
+      "q": "What did Xenophanes argue about the Greek gods?",
+      "a": ["They were mortal heroes later given divine stories", "They were invented by poets for money", "They were aliens who visited Greece", "They were kings who ruled for centuries"],
+      "why": "Lesson 1 says Xenophanes saw the gods as great humans whose deeds grew into grand origin myths over time."
+    },
+    {
+      "q": "What was Martin Luther trying to do when he challenged the Catholic Church?",
+      "a": ["Refine the church rather than destroy it", "Replace the Bible with his own writings", "Found a completely new religion", "Gain political power over the church"],
+      "why": "Lesson 1 says Luther wanted to correct teachings he found inconsistent with the Bible, which led to Protestantism."
+    },
+    {
+      "q": "What did the Greek philosopher Thales achieve by questioning traditional explanations?",
+      "a": ["He predicted a solar eclipse", "He mapped the known world", "He measured the height of pyramids", "He discovered the atom"],
+      "why": "Lesson 2 credits Thales, the first Western philosopher, with accurately predicting an eclipse in 585 BCE."
+    },
+    {
+      "q": "What did Descartes conclude from his inability to dismiss his doubts?",
+      "a": ["The doubts proved that he existed", "The senses are the only reliable guide", "God must exist by definition", "Nothing at all can be known"],
+      "why": "Lesson 3 says Descartes reasoned that if he were not real, he could not be doubting everything."
+    },
+    {
+      "q": "How does doubt help us deal with death, according to the summary?",
+      "a": ["It shows that worrying about it is pointless", "It proves that an afterlife exists", "It makes us fear death less over time", "It encourages us to postpone thinking about it"],
+      "why": "Lesson 3 says since death is inevitable and unknowable, doubt helps us stop worrying and meet it calmly."
+    }
+  ]
+}

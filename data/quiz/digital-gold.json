@@ -1,0 +1,31 @@
+{
+  "book": "digital-gold",
+  "title": "Digital Gold",
+  "questions": [
+    {
+      "q": "Under what name did Bitcoin's anonymous creator release the digital currency in 2009?",
+      "a": ["Satoshi Nakamoto", "Nathaniel Popper", "Hal Finney", "Ross Ulbricht"],
+      "why": "Lesson 1 says an anonymous user called Satoshi Nakamoto introduced Bitcoin in January 2009."
+    },
+    {
+      "q": "What does the summary say the blockchain is?",
+      "a": ["A public database of every Bitcoin transaction", "A private ledger held by the largest banks", "A security chip inside each Bitcoin wallet", "A fund that stabilises the price of Bitcoin"],
+      "why": "Lesson 1 describes the blockchain as a communal database anyone can inspect, showing every transaction."
+    },
+    {
+      "q": "Why did Bitcoin appeal to people during Argentina's financial crisis?",
+      "a": ["It shielded their savings from government interference and inflation", "It was officially backed by the Argentine government", "It paid interest that beat local bank accounts", "It let them avoid paying any taxes on purchases"],
+      "why": "Lesson 2 explains that Bitcoin sidestepped government controls and protected funds while the peso lost value."
+    },
+    {
+      "q": "Which advantage does the summary highlight for Bitcoin over ordinary bank transfers?",
+      "a": ["Money can be sent almost instantly", "Transfers are insured by the government", "Transfers can be reversed on request", "Banks must approve every transaction"],
+      "why": "Lesson 3 points out that bank transfers still take days while Bitcoin moves money immediately."
+    },
+    {
+      "q": "What does Bitcoin's ability to be split into tiny amounts make possible?",
+      "a": ["Very small payments for online services", "Loans without any collateral", "Interest on unused wallets", "Free international bank transfers"],
+      "why": "Lesson 3 says divisibility allows microtransactions, such as paying a fraction of a cent to skip an ad."
+    }
+  ]
+}

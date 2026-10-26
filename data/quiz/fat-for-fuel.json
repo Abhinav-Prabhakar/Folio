@@ -1,0 +1,56 @@
+{
+  "book": "fat-for-fuel",
+  "title": "Fat For Fuel",
+  "questions": [
+    {
+      "q": "What two pillars does the author's diet rest on?",
+      "a": [
+        "Eating fewer calories and getting the right amount of protein",
+        "Eating more often and cutting all fats from meals",
+        "Counting carbs precisely and avoiding vegetables",
+        "Fasting every other day and training intensely"
+      ],
+      "why": "Lesson 1 describes an adequate-protein, low-carb, high-fat approach built on those two habits."
+    },
+    {
+      "q": "Why does the summary warn against eating too much protein?",
+      "a": [
+        "It activates mTOR, which blocks the body from clearing cellular debris",
+        "It raises leptin and makes the body store extra water",
+        "It shuts down mitochondria and stops energy production",
+        "It prevents the body from absorbing any dietary fat"
+      ],
+      "why": "Lesson 2 explains that excess protein or carbs switch on mTOR and hinder cleanup."
+    },
+    {
+      "q": "Roughly how much protein does the book recommend per kilogram of lean body mass?",
+      "a": [
+        "About 0.5 grams",
+        "About 2 grams",
+        "About 4 grams",
+        "About 0.05 grams"
+      ],
+      "why": "Lesson 2 gives 0.5 grams per kilo of lean mass and walks through a sample calculation."
+    },
+    {
+      "q": "What eating window does peak fasting recommend?",
+      "a": [
+        "Eating for 6 to 11 hours and fasting for 13 to 18",
+        "Eating for 12 hours and fasting for 12",
+        "Eating for 3 hours and fasting for 21",
+        "Eating whenever hungry and fasting only at night"
+      ],
+      "why": "Lesson 3 describes a daily window of roughly six to eleven hours of eating."
+    },
+    {
+      "q": "What does the author advise about eating before sleep?",
+      "a": [
+        "Stop eating three to six hours before bedtime",
+        "Have a small high-carb snack to sleep better",
+        "Eat a protein-rich meal right before bed",
+        "Only avoid food if you wake up during the night"
+      ],
+      "why": "Lesson 3 says to finish eating several hours before going to bed."
+    }
+  ]
+}

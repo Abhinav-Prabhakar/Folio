@@ -1,0 +1,56 @@
+{
+  "book": "stealing-fire",
+  "title": "Stealing Fire",
+  "questions": [
+    {
+      "q": "What does the summary say psychedelics can help people do?",
+      "a": [
+        "Step outside ordinary thinking and make new connections",
+        "Replace the need for sleep entirely",
+        "Improve their memory for factual details",
+        "Cure every known physical illness"
+      ],
+      "why": "Lesson 1 says the drugs can help with creative solutions and new associations, and may treat PTSD, depression and anxiety."
+    },
+    {
+      "q": "What is the Hedonic Calendar used for?",
+      "a": [
+        "Planning when and how to reach altered states safely",
+        "Tracking how many hours you work each week",
+        "Scheduling medical appointments for therapy",
+        "Recording which foods improve your mood"
+      ],
+      "why": "Lesson 2 describes it as a way to choose favorite activities, weigh risk and reward, and schedule them sensibly."
+    },
+    {
+      "q": "What does the summary advise to avoid becoming dependent on ecstasis?",
+      "a": [
+        "Take a month off from the activities that produce it",
+        "Limit yourself to one activity per week",
+        "Only pursue altered states with a therapist present",
+        "Stop all exercise and meditation for a year"
+      ],
+      "why": "Lesson 2 recommends a month-long break to test whether you can go without those feelings."
+    },
+    {
+      "q": "How does the Hedonic Calendar account for risk?",
+      "a": [
+        "Each activity is assessed with a risk-reward ratio",
+        "Risky activities are banned from the calendar",
+        "Risk is ignored once the reward is high enough",
+        "Only low-cost activities are included"
+      ],
+      "why": "Lesson 2 says you rate your favorite activities by weighing the reward against the danger."
+    },
+    {
+      "q": "How might VR help extreme sports enthusiasts?",
+      "a": [
+        "It can deliver a similar thrill with far less danger",
+        "It trains them to ignore safety procedures",
+        "It replaces the need for physical fitness",
+        "It records their performance for sponsors"
+      ],
+      "why": "Lesson 3 says indoor VR experiences can match the excitement while reducing real risk, as SEAL Team Six has used."
+    }
+  ]
+}

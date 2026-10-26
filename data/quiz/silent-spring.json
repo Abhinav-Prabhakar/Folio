@@ -1,0 +1,56 @@
+{
+  "book": "silent-spring",
+  "title": "Silent Spring",
+  "questions": [
+    {
+      "q": "What is the main problem with chemical pesticides, per the summary?",
+      "a": [
+        "They kill far more than the targeted pest",
+        "They are too costly for most small farms",
+        "They break down before they can help",
+        "They work only against plant diseases"
+      ],
+      "why": "Lesson 1 says pesticides almost never target unwanted pests alone."
+    },
+    {
+      "q": "What happened after the Forest Service sprayed DDT for spruce budworm?",
+      "a": [
+        "Predators of spider mites died, so the mites exploded",
+        "The forest recovered within a single season",
+        "The budworm grew resistant and returned",
+        "Other insects moved in and restored balance"
+      ],
+      "why": "Lesson 1 recounts the 1956 spraying and the spider mite outbreak that followed."
+    },
+    {
+      "q": "How did DDT reach people who never handled it?",
+      "a": [
+        "Through alfalfa fed to chickens and eaten as eggs",
+        "Through drinking water from nearby lakes",
+        "Through mosquito bites in the region",
+        "Through clothing shipped from the farms"
+      ],
+      "why": "Lesson 2 traces DDT from alfalfa to chickens to eggs to people."
+    },
+    {
+      "q": "What did the summary say even low DDT levels can do?",
+      "a": [
+        "Damage liver cells at around five parts per million",
+        "Improve crop yields slightly over time",
+        "Cause immediate paralysis in adults",
+        "Have no measurable effect on people"
+      ],
+      "why": "Lesson 2 says five parts per million can make liver cells disintegrate."
+    },
+    {
+      "q": "What two solutions does Carson recommend?",
+      "a": [
+        "Education and biological alternatives to pesticides",
+        "Bans and heavy financial penalties",
+        "Genetic engineering and better irrigation",
+        "Crop rotation and chemical fertilizers"
+      ],
+      "why": "Lesson 3 calls for education and less intrusive pest controls."
+    }
+  ]
+}

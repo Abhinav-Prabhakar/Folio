@@ -1,0 +1,56 @@
+{
+  "book": "tubes",
+  "title": "Tubes",
+  "questions": [
+    {
+      "q": "Approximately how many people worldwide are still offline?",
+      "a": [
+        "Half of the global population",
+        "One quarter of the global population",
+        "One tenth of the global population",
+        "Three quarters of the global population"
+      ],
+      "why": "The text says half the world's population is not online."
+    },
+    {
+      "q": "What term describes directly linking two large networks at a hub?",
+      "a": [
+        "Peering",
+        "Routing",
+        "Tunneling",
+        "Caching"
+      ],
+      "why": "Peering is defined as plugging a cable from one router to another."
+    },
+    {
+      "q": "Which company is humorously called a \"peering slut\" for its many connections?",
+      "a": [
+        "Facebook",
+        "Google",
+        "Amazon",
+        "Netflix"
+      ],
+      "why": "The book mentions Facebook peers with many networks, earning that nickname."
+    },
+    {
+      "q": "What are the two physical components, besides IXPs, that keep the internet running?",
+      "a": [
+        "Data centers and underwater cables",
+        "Satellites and fiber‑to‑the‑home lines",
+        "Routers and switches",
+        "Modems and repeaters"
+      ],
+      "why": "He lists data storage centers and underwater cables as major components."
+    },
+    {
+      "q": "What does the author say \"the cloud\" really means for data storage?",
+      "a": [
+        "Storing data in remote data centers",
+        "Saving files on personal hard drives",
+        "Keeping information on local servers",
+        "Archiving content on magnetic tape"
+      ],
+      "why": "He explains the cloud is just data stored in distant data centers."
+    }
+  ]
+}

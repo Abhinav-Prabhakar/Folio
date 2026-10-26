@@ -1,0 +1,56 @@
+{
+  "book": "hillbilly-elegy",
+  "title": "Hillbilly Elegy",
+  "questions": [
+    {
+      "q": "What happened to Middletown, Ohio after its steel manufacturer was outsourced?",
+      "a": [
+        "Jobs disappeared, home values fell and residents stayed poor",
+        "New technology companies moved in and raised wages",
+        "The town quickly recovered through farming and tourism",
+        "Most families relocated to nearby cities for better schools"
+      ],
+      "why": "Lesson 1 says the lost steel jobs and falling property values trapped many residents in poverty."
+    },
+    {
+      "q": "What were the three rules Vance's grandmother set for him?",
+      "a": [
+        "Earn good grades, hold a job and help at home",
+        "Attend church, play sports and save money",
+        "Finish homework, cook dinner and watch his siblings",
+        "Stay out of trouble, study math and find an apprenticeship"
+      ],
+      "why": "Lesson 2 lists Mamaw's rules as earning good grades, holding a job and helping her around the house."
+    },
+    {
+      "q": "What does Vance say he learned during his time in the Marines?",
+      "a": [
+        "How to care for himself, lead others and manage money",
+        "How to study efficiently and pass difficult exams",
+        "How to network with wealthy and influential people",
+        "How to repair engines and work with his hands"
+      ],
+      "why": "Lesson 2 says the Marines taught him self-care, leadership and financial management."
+    },
+    {
+      "q": "What two things does Vance credit for helping him beat the odds?",
+      "a": [
+        "Hard work and social capital",
+        "Natural intelligence and family wealth",
+        "Scholarships and athletic talent",
+        "Luck and a supportive neighborhood"
+      ],
+      "why": "Lesson 3 says Vance believes hard work plus knowing the right people allowed him to succeed."
+    },
+    {
+      "q": "What are adverse childhood experiences linked to, according to the studies in the summary?",
+      "a": [
+        "Weaker school performance, depression, anxiety and heart disease",
+        "Stronger resilience and better problem-solving later in life",
+        "Higher income once the person enters the workforce",
+        "Greater willingness to seek help from teachers and doctors"
+      ],
+      "why": "Lesson 3 cites research connecting childhood adversity with poorer grades and higher risks of mental and physical illness."
+    }
+  ]
+}

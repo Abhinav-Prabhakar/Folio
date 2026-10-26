@@ -1,0 +1,56 @@
+{
+  "book": "tiny-habits",
+  "title": "Tiny Habits",
+  "questions": [
+    {
+      "q": "What fallacy does the author say traps people when they think facts alone will change behavior?",
+      "a": [
+        "Information-Action Fallacy",
+        "Motivation-Overestimation",
+        "Habit-Formation Myth",
+        "Goal-Setting Trap"
+      ],
+      "why": "The text names the Information-Action Fallacy."
+    },
+    {
+      "q": "According to the book, what percentage of people fail to finish online courses?",
+      "a": [
+        "90%",
+        "75%",
+        "50%",
+        "30%"
+      ],
+      "why": "The text states 90% of people don't complete courses."
+    },
+    {
+      "q": "Which daily activity does the author use as a prompt for his tiny habit of two pushups?",
+      "a": [
+        "Going to the bathroom",
+        "Morning coffee",
+        "Checking phone",
+        "Brushing teeth"
+      ],
+      "why": "The example given is using the bathroom as a prompt."
+    },
+    {
+      "q": "What does the author claim is needed for long‑term growth instead of motivation?",
+      "a": [
+        "Persistent daily behavior",
+        "One‑time inspiration",
+        "Goal setting",
+        "Time management"
+      ],
+      "why": "The text says long‑term growth requires persistent daily behavior."
+    },
+    {
+      "q": "How many years later does the author still do the pushups after starting the tiny habit?",
+      "a": [
+        "Seven",
+        "Five",
+        "Ten",
+        "Three"
+      ],
+      "why": "The text notes that seven years later he still does them."
+    }
+  ]
+}

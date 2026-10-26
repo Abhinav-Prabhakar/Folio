@@ -1,0 +1,56 @@
+{
+  "book": "the-one-thing",
+  "title": "The ONE Thing",
+  "questions": [
+    {
+      "q": "What question does Keller suggest you ask to identify your top priority?",
+      "a": [
+        "What's the ONE thing I can do so everything else becomes easier?",
+        "What tasks should I delegate today?",
+        "Which project will generate the most revenue?",
+        "How can I multitask most efficiently?"
+      ],
+      "why": "It is the focusing question described as the core concept."
+    },
+    {
+      "q": "Which principle does Keller align with, stating a small input yields most results?",
+      "a": [
+        "Pareto principle",
+        "Newton's third law",
+        "Murphy's law",
+        "Parkinson's law"
+      ],
+      "why": "He references the 80/20 or Pareto principle."
+    },
+    {
+      "q": "What did Steve Jobs do to improve Apple's product line in 1997?",
+      "a": [
+        "Cut lineup from 350 to 10 products",
+        "Launched 100 new products",
+        "Outsourced design overseas",
+        "Reduced prices by 50%"
+      ],
+      "why": "Jobs said he said no 340 times, reducing to 10 products."
+    },
+    {
+      "q": "According to the book, which life area is compared to a rubber ball?",
+      "a": [
+        "Work",
+        "Family",
+        "Health",
+        "Friends"
+      ],
+      "why": "Work is described as the rubber ball that bounces back."
+    },
+    {
+      "q": "What habit does the book say is essential for maintaining focus?",
+      "a": [
+        "Learning to say no",
+        "Working longer hours",
+        "Multitasking constantly",
+        "Checking email frequently"
+      ],
+      "why": "Saying no is highlighted as key to focus."
+    }
+  ]
+}

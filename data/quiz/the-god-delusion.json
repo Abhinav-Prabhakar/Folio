@@ -1,0 +1,56 @@
+{
+  "book": "the-god-delusion",
+  "title": "The God Delusion",
+  "questions": [
+    {
+      "q": "What question does Dawkins use to illustrate the problem of an ultimate designer?",
+      "a": [
+        "Who created God?",
+        "Why does God look old?",
+        "How does faith affect science?",
+        "What is the purpose of prayer?"
+      ],
+      "why": "Dawkins asks who created God to show infinite regress."
+    },
+    {
+      "q": "According to Dawkins, religion is best described as what evolutionary by-product?",
+      "a": [
+        "A meme that spread with obedience to authority",
+        "A genetic mutation for survival",
+        "A cultural artifact of art",
+        "A neurological disorder"
+      ],
+      "why": "He calls religion a successful meme linked to obedience."
+    },
+    {
+      "q": "What does Dawkins claim science can replace without losing moral benefits?",
+      "a": [
+        "Religion",
+        "Technology",
+        "Government",
+        "Education"
+      ],
+      "why": "He argues science can substitute religion while keeping moral comfort."
+    },
+    {
+      "q": "How many of Dawkins' arguments against God's existence are based on common sense?",
+      "a": [
+        "Two",
+        "One",
+        "Three",
+        "Zero"
+      ],
+      "why": "Two of his three arguments rely on common‑sense reasoning."
+    },
+    {
+      "q": "What earlier work introduced Dawkins' idea of selfish genes?",
+      "a": [
+        "The Selfish Gene",
+        "The God Delusion",
+        "The Blind Watchmaker",
+        "The Origin of Species"
+      ],
+      "why": "His earlier seminal book is The Selfish Gene."
+    }
+  ]
+}

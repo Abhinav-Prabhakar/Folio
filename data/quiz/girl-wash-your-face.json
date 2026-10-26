@@ -1,0 +1,31 @@
+{
+  "book": "girl-wash-your-face",
+  "title": "Girl, Wash Your Face",
+  "questions": [
+    {
+      "q": "What does Hollis compare breaking promises to yourself to?",
+      "a": ["A friend who keeps cancelling plans with poor excuses", "A coach who pushes you too hard", "A boss who never explains expectations", "A stranger who ignores your messages"],
+      "why": "Lesson 1 uses the unreliable friend Sarah to show how we let ourselves down."
+    },
+    {
+      "q": "How does Hollis suggest making self-promises easier to keep?",
+      "a": ["Start with small, realistic steps you can follow through on", "Tell everyone about the promise for accountability", "Set a strict deadline and a penalty for missing it", "Make a fresh promise each morning instead"],
+      "why": "Lesson 1 says keeping goals realistic lets you follow through and retrain your mind."
+    },
+    {
+      "q": "What does Hollis say about chaos in family life?",
+      "a": ["It is a normal part of the job, so embrace it", "It signals that you are failing as a parent", "It disappears once children start school", "It should be minimized with stricter routines"],
+      "why": "Lesson 2 says chaos comes with parenting and you should go with the current, not against it."
+    },
+    {
+      "q": "What does the drowning man story illustrate?",
+      "a": ["You should accept the help that comes your way", "You should wait for divine intervention", "You should learn to swim before you need help", "You should offer help before asking for it"],
+      "why": "Lesson 2 uses the man who ignores three rafts to show that nobody can do it all alone."
+    },
+    {
+      "q": "Why did Hollis visualize a specific Louis Vuitton purse?",
+      "a": ["A concrete goal felt achievable and kept her motivated", "It was a gift she promised her mother", "It reminded her of a childhood ambition", "It was cheaper than other rewards she wanted"],
+      "why": "Lesson 3 says a specific object represented her goal, while a vague dream would overwhelm her."
+    }
+  ]
+}

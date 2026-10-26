@@ -1,0 +1,56 @@
+{
+  "book": "reading-like-a-writer",
+  "title": "Reading Like A Writer",
+  "questions": [
+    {
+      "q": "What exercise does Prose recommend for understanding word choices?",
+      "a": [
+        "Imagining synonyms the author could have used",
+        "Counting how often each word appears",
+        "Reading the author's biography first",
+        "Reciting the passage aloud from memory"
+      ],
+      "why": "Lesson 1 suggests swapping in synonyms to see why the writer picked the word they did."
+    },
+    {
+      "q": "Why does the summary treat paragraphs as the most personal element?",
+      "a": [
+        "Their first and last words show what the author values",
+        "They stay the same length across every book",
+        "They reveal how the author edited the text",
+        "They mark the places where the plot changes"
+      ],
+      "why": "Lesson 2 says a paragraph's emphasis falls on its opening and closing words."
+    },
+    {
+      "q": "How does the summary suggest you read a paragraph?",
+      "a": [
+        "Breathe in at the start and exhale as you finish",
+        "Pause only at the last sentence of a page",
+        "Skim it once and return to it later",
+        "Read it backwards to catch mistakes"
+      ],
+      "why": "Lesson 2 compares paragraphs to breathing guides, with a full exhale on the final word."
+    },
+    {
+      "q": "What three things reveal a character's intentions?",
+      "a": [
+        "Actions, thoughts and dialogue",
+        "Setting, weather and timing",
+        "Names, titles and family history",
+        "Chapter titles and footnotes"
+      ],
+      "why": "Lesson 3 says what characters think, say and do brings them to life."
+    },
+    {
+      "q": "Which book does the summary use as an example built almost entirely on dialogue?",
+      "a": [
+        "The Little Prince",
+        "Harry Potter",
+        "The Alchemist",
+        "Moby Dick"
+      ],
+      "why": "Lesson 3 says The Little Prince runs on conversation, while Harry Potter leans on inner thought."
+    }
+  ]
+}

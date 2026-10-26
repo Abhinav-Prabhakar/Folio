@@ -1,0 +1,56 @@
+{
+  "book": "the-wisdom-of-finance",
+  "title": "The Wisdom Of Finance",
+  "questions": [
+    {
+      "q": "What lesson does the 2008 recession illustrate about finance?",
+      "a": [
+        "Greedy systems cause crises",
+        "Finance is always stable",
+        "Investing guarantees wealth",
+        "Debt is harmless"
+      ],
+      "why": "The recession showed the negative impact of greedy finance."
+    },
+    {
+      "q": "What does diversification mean in personal life?",
+      "a": [
+        "Varying experiences reduces risk",
+        "Sticking to one job is best",
+        "Avoiding education is smart",
+        "Limiting friendships helps"
+      ],
+      "why": "The text compares diversification to varied education and friendships."
+    },
+    {
+      "q": "Why did AOL and Time Warner split in 2009?",
+      "a": [
+        "Hidden fraud and poor checks",
+        "Market competition",
+        "New technology",
+        "Regulatory changes"
+      ],
+      "why": "The merger failed because AOL hid fraud and Time Warner didn't check."
+    },
+    {
+      "q": "What type of debt is suggested for education?",
+      "a": [
+        "Student loans to invest in future",
+        "Cash savings only",
+        "No debt at all",
+        "Short-term credit cards"
+      ],
+      "why": "The book says borrowing for education can pay off later."
+    },
+    {
+      "q": "What principle from investing applies to life?",
+      "a": [
+        "Don't put all eggs in one basket",
+        "Always invest in stocks",
+        "Avoid all risk",
+        "Follow a single plan"
+      ],
+      "why": "The text uses the saying about eggs in one basket for life."
+    }
+  ]
+}

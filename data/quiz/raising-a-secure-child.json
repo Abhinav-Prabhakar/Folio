@@ -1,0 +1,56 @@
+{
+  "book": "raising-a-secure-child",
+  "title": "Raising A Secure Child",
+  "questions": [
+    {
+      "q": "What did Bowlby notice about children in orphanages after the war?",
+      "a": [
+        "They failed to thrive despite food and clothing",
+        "They recovered quickly from early separation",
+        "They preferred toys to adult caregivers",
+        "They bonded equally with every adult"
+      ],
+      "why": "Lesson 1 says the children were fed and clothed yet still did not thrive without a caregiver."
+    },
+    {
+      "q": "What did Harlow's monkey experiment suggest about attachment?",
+      "a": [
+        "Comfort and contact matter more than food alone",
+        "Food is the strongest driver of bonding",
+        "Young animals cannot bond with substitutes",
+        "Isolation makes young animals independent"
+      ],
+      "why": "Lesson 1 says the baby monkeys chose the soft cloth figure over the wire one that fed them."
+    },
+    {
+      "q": "In the Circle of Security, what is the secure base?",
+      "a": [
+        "The point from which the child departs to explore",
+        "The place the child returns to for comfort",
+        "The moment when the parent sets limits",
+        "The stage when the child stops needing care"
+      ],
+      "why": "Lesson 2 places the secure base at nine o'clock, where the child leaves on their journey."
+    },
+    {
+      "q": "Which needs does the summary list while a child explores?",
+      "a": [
+        "Being watched, delighted in, joined and helped",
+        "Being corrected, tested and redirected often",
+        "Being left completely alone for long periods",
+        "Being rewarded with treats for independence"
+      ],
+      "why": "Lesson 2 names watching, delighting, enjoying activities together and helping out."
+    },
+    {
+      "q": "What does the summary say repairs a rupture in the circle?",
+      "a": [
+        "Acknowledging the unmet need and apologizing",
+        "Pretending the mistake never happened",
+        "Giving the child a small gift afterward",
+        "Waiting for the child to calm down alone"
+      ],
+      "why": "Lesson 3 says naming the need you missed and apologizing teaches that repair follows mistakes."
+    }
+  ]
+}

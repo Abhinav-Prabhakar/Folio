@@ -1,0 +1,56 @@
+{
+  "book": "the-simple-path-to-wealth",
+  "title": "The Simple Path to Wealth",
+  "questions": [
+    {
+      "q": "What is the core message of the opening parable?",
+      "a": [
+        "Wealth equals freedom, not power",
+        "Wealth equals luxury",
+        "Wealth equals status",
+        "Wealth equals fame"
+      ],
+      "why": "Wealth is about freedom, not power."
+    },
+    {
+      "q": "What does Collins advise about spending?",
+      "a": [
+        "Spend less than you earn",
+        "Spend more than you earn",
+        "Spend exactly what you earn",
+        "Spend nothing"
+      ],
+      "why": "Always spend less than you earn."
+    },
+    {
+      "q": "What is the recommended approach to debt?",
+      "a": [
+        "Get out of it fast and stay debt‑free",
+        "Use debt as a tool",
+        "Ignore debt",
+        "Take on more debt"
+      ],
+      "why": "Get out of debt quickly and stay there."
+    },
+    {
+      "q": "Which investment vehicle does Collins champion?",
+      "a": [
+        "Index funds",
+        "Mutual funds",
+        "Individual stocks",
+        "Bonds"
+      ],
+      "why": "Invest most savings in index funds."
+    },
+    {
+      "q": "What is the target nest‑egg size mentioned?",
+      "a": [
+        "25× annual expenses",
+        "10× annual expenses",
+        "2× annual expenses",
+        "5× annual expenses"
+      ],
+      "why": "Aim for 25 times annual expenses."
+    }
+  ]
+}

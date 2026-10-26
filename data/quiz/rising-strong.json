@@ -1,0 +1,56 @@
+{
+  "book": "rising-strong",
+  "title": "Rising Strong",
+  "questions": [
+    {
+      "q": "What are the three phases of rising strong, in order?",
+      "a": [
+        "Reckoning, rumbling, revolution",
+        "Reflection, repair, renewal",
+        "Notice, negotiate, normalize",
+        "Recover, rebuild, repeat"
+      ],
+      "why": "The overview names the phases as reckoning with emotions, rumbling with stories, and revolutionizing your attitude."
+    },
+    {
+      "q": "What does reckoning involve?",
+      "a": [
+        "Recognizing your emotions and asking why you feel them",
+        "Ignoring your feelings until they fade",
+        "Writing a plan for avoiding failure",
+        "Asking others to explain your behavior"
+      ],
+      "why": "Lesson 1 describes reckoning as giving yourself permission to feel, then getting curious about the reason."
+    },
+    {
+      "q": "What is the shitty first draft in the summary?",
+      "a": [
+        "The story you write down about what you are feeling",
+        "The first version of a book manuscript",
+        "A list of your biggest past mistakes",
+        "A letter apologizing to someone you hurt"
+      ],
+      "why": "Lesson 2 has you fill in blanks about your emotions, body, thinking and actions to capture the story you are telling yourself."
+    },
+    {
+      "q": "How does rumbling help with the stories we tell ourselves?",
+      "a": [
+        "It gives distance so you can judge whether the story is true",
+        "It replaces bad stories with more comforting ones",
+        "It stops you from feeling emotions altogether",
+        "It proves that your first instincts are correct"
+      ],
+      "why": "Lesson 2 compares rumbling to a lie detector for your thoughts, letting you assess the story instead of believing it."
+    },
+    {
+      "q": "What did Brené learn from her revolution about homelessness?",
+      "a": [
+        "Asking for help is part of rising strong, not weakness",
+        "She should avoid homeless people entirely",
+        "Generosity only means giving money",
+        "Guilt is the best motivator for change"
+      ],
+      "why": "Lesson 3 says she realized that asking for help is a key part of rising strong rather than a sign of weakness."
+    }
+  ]
+}

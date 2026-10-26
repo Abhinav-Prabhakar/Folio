@@ -1,0 +1,56 @@
+{
+  "book": "thou-shall-prosper",
+  "title": "Thou Shall Prosper",
+  "questions": [
+    {
+      "q": "What does the Jewish view of business emphasize?",
+      "a": [
+        "Ethical capitalism",
+        "Profit over people",
+        "Unregulated markets",
+        "Charitable giving"
+      ],
+      "why": "The text says Jews believe in ethical capitalism."
+    },
+    {
+      "q": "Which symbol represents a union of God, humans, and the physical world?",
+      "a": [
+        "Star of David",
+        "Menorah",
+        "Sabbath candle",
+        "Torah scroll"
+      ],
+      "why": "The Star of David is described as such in the text."
+    },
+    {
+      "q": "According to Lapin, why should one avoid the idea of retirement?",
+      "a": [
+        "It rests on three lies",
+        "It guarantees wealth",
+        "It is a religious duty",
+        "It is a government program"
+      ],
+      "why": "Lapin claims retirement is based on three lies."
+    },
+    {
+      "q": "What core value do Jews maintain while staying open to change?",
+      "a": [
+        "Ethical capitalism",
+        "Spiritual devotion",
+        "Political activism",
+        "Financial speculation"
+      ],
+      "why": "The text says Jews try to embrace core values while remaining open to change."
+    },
+    {
+      "q": "Which entrepreneur is NOT mentioned as a Jewish business leader?",
+      "a": [
+        "Mark Zuckerberg",
+        "Sergey Brin",
+        "Larry Page",
+        "Steve Jobs"
+      ],
+      "why": "Steve Jobs is not listed among the Jewish entrepreneurs in the passage."
+    }
+  ]
+}

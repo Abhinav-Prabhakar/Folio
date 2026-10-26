@@ -1,0 +1,56 @@
+{
+  "book": "the-charge",
+  "title": "The Charge",
+  "questions": [
+    {
+      "q": "What type of life was the author living before making changes?",
+      "a": [
+        "A caged life, following what others thought they should want",
+        "A comfortable life focused on financial security",
+        "A charged life driven by personal ambition",
+        "A balanced life mixing work and leisure"
+      ],
+      "why": "Lesson 1 describes the author following what everybody else thought they should want, which is called a caged life."
+    },
+    {
+      "q": "What do the five baseline drives help you improve?",
+      "a": [
+        "Your inner self",
+        "Your career trajectory",
+        "Your social network",
+        "Your physical health"
+      ],
+      "why": "Lesson 2 states the first five baseline drives will help you improve your inner self."
+    },
+    {
+      "q": "Which of the following is one of the five forward drives?",
+      "a": [
+        "Creative Expression",
+        "Competence",
+        "Congruence",
+        "Connection"
+      ],
+      "why": "Lesson 3 lists the forward drives as Change, Challenge, Creative Expression, Contribution, and Consciousness."
+    },
+    {
+      "q": "What is the first of the ten human drives?",
+      "a": [
+        "Control",
+        "Competence",
+        "Change",
+        "Contribution"
+      ],
+      "why": "Lesson 2 introduces control as the first of all the drives, listed first among the baseline drives."
+    },
+    {
+      "q": "Why is transition described as scarier for adults than for children?",
+      "a": [
+        "Because adults are afraid of the uncertainty involved",
+        "Because adults have more responsibilities to juggle",
+        "Because adults have less time to adapt",
+        "Because adults lack the support systems children have"
+      ],
+      "why": "Lesson 3 explains transition is scarier now because you are afraid, contrasting with childhood development."
+    }
+  ]
+}

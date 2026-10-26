@@ -1,0 +1,56 @@
+{
+  "book": "the-ultimate-sales-machine",
+  "title": "The Ultimate Sales Machine",
+  "questions": [
+    {
+      "q": "What metaphor does Chet Holmes use to stress regular sales training?",
+      "a": [
+        "Sharpening a saw weekly",
+        "Running a marathon daily",
+        "Planting seeds each season",
+        "Cooking a meal each hour"
+      ],
+      "why": "He compares training to a lumberjack sharpening his saw weekly."
+    },
+    {
+      "q": "What is the recommended focus when targeting big-company prospects?",
+      "a": [
+        "Identify and pitch decision makers",
+        "Mail all companies nearby",
+        "Advertise on TV",
+        "Offer discounts to all employees"
+      ],
+      "why": "He advises focusing on the few key decision makers rather than mass outreach."
+    },
+    {
+      "q": "What does Holmes suggest selling beyond the product itself?",
+      "a": [
+        "The whole brand story",
+        "Only the cheapest item",
+        "The warranty only",
+        "Free samples"
+      ],
+      "why": "He says to sell the whole store, brand, story, not just the product."
+    },
+    {
+      "q": "How often does Holmes recommend sales staff training?",
+      "a": [
+        "Recurring, not just annual",
+        "Once a year",
+        "Only during onboarding",
+        "Every quarter at most"
+      ],
+      "why": "He emphasizes regular, ongoing training rather than annual events."
+    },
+    {
+      "q": "What was Chet Holmes' age at death?",
+      "a": [
+        "55",
+        "45",
+        "60",
+        "70"
+      ],
+      "why": "The overview notes he died at the young age of 55."
+    }
+  ]
+}

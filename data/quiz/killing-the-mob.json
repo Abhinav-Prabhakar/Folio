@@ -1,0 +1,56 @@
+{
+  "book": "killing-the-mob",
+  "title": "Killing the Mob",
+  "questions": [
+    {
+      "q": "How did the mafia make money in Hollywood, according to the summary?",
+      "a": [
+        "They lent cash to skilled filmmakers and took the profits",
+        "They bought every major studio outright",
+        "They sold cameras and equipment to film crews",
+        "They provided security for movie sets"
+      ],
+      "why": "Lesson 1 says they funded talented but broke Eastern European filmmakers."
+    },
+    {
+      "q": "Why did the mob leave Sicily for New York?",
+      "a": [
+        "Mussolini's fascists drove them out",
+        "A treaty forced them to relocate",
+        "Earthquakes destroyed their homes",
+        "New York offered them legal work"
+      ],
+      "why": "Lesson 1 says fascist rule under Mussolini chased them away."
+    },
+    {
+      "q": "What was Hoover's secret that the mafia used against him?",
+      "a": [
+        "His relationship with his deputy Clyde Tolson",
+        "His ownership of several illegal casinos",
+        "His ties to a foreign government",
+        "His failure to finish law school"
+      ],
+      "why": "Lesson 2 says the mob had evidence and blackmailed him over it."
+    },
+    {
+      "q": "How did Hoover publicly handle organized crime?",
+      "a": [
+        "He denied that a national criminal network existed",
+        "He announced a nationwide crackdown on crime",
+        "He testified against his own agents in court",
+        "He resigned from the bureau and left the country"
+      ],
+      "why": "Lesson 2 says he kept denying organized crime even as evidence mounted."
+    },
+    {
+      "q": "What made Crosswell suspect a mafia gathering in Apalachin?",
+      "a": [
+        "A large order of luxury food and rooms for a specific date",
+        "A tip from a local newspaper journalist",
+        "A sudden drop in local hotel prices",
+        "A letter sent to the police chief"
+      ],
+      "why": "Lesson 3 says he noticed Joseph Barbara's expensive preparations and staked out the villa."
+    }
+  ]
+}

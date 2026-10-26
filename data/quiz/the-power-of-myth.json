@@ -1,0 +1,56 @@
+{
+  "book": "the-power-of-myth",
+  "title": "The Power Of Myth",
+  "questions": [
+    {
+      "q": "According to the overview, myths help people understand which type of truths?",
+      "a": [
+        "Elusive life truths",
+        "Scientific facts",
+        "Historical dates",
+        "Economic trends"
+      ],
+      "why": "Myths aid in grasping elusive truths about existence."
+    },
+    {
+      "q": "What function do myths serve in forming group identity?",
+      "a": [
+        "Explain origins of life or culture",
+        "Provide legal codes",
+        "Offer financial advice",
+        "Predict weather patterns"
+      ],
+      "why": "Myths explain beginnings, shaping a distinct group identity."
+    },
+    {
+      "q": "What common theme appears in marriage myths across cultures?",
+      "a": [
+        "Spiritual completion of partners",
+        "Economic partnership",
+        "Political alliance",
+        "Shared parenting duties"
+      ],
+      "why": "Marriage myths often describe partners as completing each other's spirit."
+    },
+    {
+      "q": "How do myths assist individuals facing death, as described in the text?",
+      "a": [
+        "They comfort fear and give meaning",
+        "They cure illness",
+        "They guarantee afterlife",
+        "They predict exact death dates"
+      ],
+      "why": "Myths help comfort fears and make sense of mortality."
+    },
+    {
+      "q": "In Indonesian tribal belief, what act was required before a young man could marry?",
+      "a": [
+        "Killing a person",
+        "Harvesting crops",
+        "Building a house",
+        "Learning a song"
+      ],
+      "why": "The tribe believed a kill was needed for a new generation to emerge."
+    }
+  ]
+}

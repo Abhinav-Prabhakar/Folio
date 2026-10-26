@@ -1,0 +1,56 @@
+{
+  "book": "on-writing",
+  "title": "On Writing",
+  "questions": [
+    {
+      "q": "How did Stephen King handle rejection slips?",
+      "a": [
+        "He pinned them to a nail and kept submitting",
+        "He stopped writing for several years",
+        "He sent angry letters to the editors",
+        "He paid magazines to publish his stories"
+      ],
+      "why": "Lesson 1 describes King pinning rejection slips to a nail and replacing it when the nail fell out."
+    },
+    {
+      "q": "Why does King advise avoiding adverbs?",
+      "a": [
+        "They pull focus from the action and reveal weak writing",
+        "They make sentences too short to understand",
+        "They are considered old-fashioned grammar",
+        "They confuse readers about who is speaking"
+      ],
+      "why": "Lesson 2 says adverbs take focus from the action and often disguise a lack of confidence."
+    },
+    {
+      "q": "Which sentence does King use as an example of weak passive voice?",
+      "a": [
+        "The football was thrown by Francis",
+        "Francis threw the ball with all his might",
+        "After shuffling her feet, Bertha admitted it",
+        "Bertha timidly admitted she ate the candy"
+      ],
+      "why": "Lesson 2 contrasts the passive football sentence with the direct active version."
+    },
+    {
+      "q": "What daily writing habit does King recommend to beginners?",
+      "a": [
+        "About 1,000 words a day, six days a week",
+        "One flawless page every morning",
+        "A few lines whenever inspiration strikes",
+        "Eight hours of writing every single day"
+      ],
+      "why": "Lesson 3 recommends a fixed place and time, aiming for 1,000 words a day six days a week."
+    },
+    {
+      "q": "Why does King say writers must read a lot?",
+      "a": [
+        "It shapes your taste, style and sense of what works",
+        "It guarantees your first book will sell",
+        "It removes the need for any feedback",
+        "It lets you copy successful authors exactly"
+      ],
+      "why": "Lesson 3 says studying other writers teaches you what good writing is and helps form your own style."
+    }
+  ]
+}

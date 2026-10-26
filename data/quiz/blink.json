@@ -1,0 +1,56 @@
+{
+  "book": "blink",
+  "title": "Blink",
+  "questions": [
+    {
+      "q": "How does the summary describe the unconscious mind?",
+      "a": [
+        "As the fastest information filter in the world",
+        "As a slow but highly accurate analyst",
+        "As a storehouse of forgotten memories",
+        "As a purely emotional decision maker"
+      ],
+      "why": "It sifts new information instantly and presents a judgment based on the few big factors."
+    },
+    {
+      "q": "Why can over-analyzing an apartment choice lead to a worse decision?",
+      "a": [
+        "Minor details crowd out the few factors that matter",
+        "The decision becomes too emotional to judge",
+        "You start comparing it with unrelated purchases",
+        "You lose the ability to picture the rooms"
+      ],
+      "why": "The summary says small puzzle pieces can hide the much more important ones."
+    },
+    {
+      "q": "What happens to your judgment under intense stress?",
+      "a": [
+        "Face reading declines and you develop tunnel vision",
+        "You become faster and more accurate at reading people",
+        "You rely more on past experience and less on threats",
+        "You stop noticing physical danger altogether"
+      ],
+      "why": "Stress narrows attention to the most imminent threat, which leads the gut astray."
+    },
+    {
+      "q": "What should you do in a stressful moment to protect your judgment?",
+      "a": [
+        "Reduce the stress quickly by walking or breathing",
+        "Make the decision immediately before doubts grow",
+        "Collect as much extra data as possible",
+        "Ask someone else to decide for you"
+      ],
+      "why": "The summary suggests cooling off or continuing the conversation later."
+    },
+    {
+      "q": "Why do the judges on The Voice face away from the singers?",
+      "a": [
+        "So only the voice influences their choice",
+        "So the audience cannot see their reactions",
+        "So singers cannot tailor their performance",
+        "So the show can reveal them dramatically"
+      ],
+      "why": "The chairs act as a screen that keeps appearance from biasing the judges."
+    }
+  ]
+}

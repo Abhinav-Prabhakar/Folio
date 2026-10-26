@@ -1,0 +1,56 @@
+{
+  "book": "say-nothing",
+  "title": "Say Nothing",
+  "questions": [
+    {
+      "q": "Who was Jean McConville?",
+      "a": [
+        "A Belfast mother of ten who was taken from her home",
+        "A British soldier stationed in Belfast",
+        "A journalist who covered the Troubles",
+        "A leader of the Protestant community"
+      ],
+      "why": "Lesson 1 describes her as a widow raising ten children when masked intruders took her away in 1972."
+    },
+    {
+      "q": "What were the Troubles in the summary?",
+      "a": [
+        "A violent conflict between Protestants and Catholics in Northern Ireland",
+        "A political dispute between Ireland and Scotland",
+        "A famine that struck the Irish countryside",
+        "A campaign for Irish independence from America"
+      ],
+      "why": "The overview calls the Troubles a bloody conflict between Protestants and Catholics in Northern Ireland."
+    },
+    {
+      "q": "What was the IRA's preferred method for provoking the British?",
+      "a": [
+        "Car bombs",
+        "Hunger strikes",
+        "Naval blockades",
+        "Trade boycotts"
+      ],
+      "why": "Lesson 2 says car bombs were favored because they were easy to transport and camouflage."
+    },
+    {
+      "q": "What did the Price sisters do after being sentenced in England?",
+      "a": [
+        "They went on a hunger strike to demand a transfer",
+        "They escaped from prison and fled abroad",
+        "They publicly renounced the IRA",
+        "They agreed to inform on their leaders"
+      ],
+      "why": "Lesson 2 says they demanded to serve their time in Northern Ireland and refused food until Britain gave in."
+    },
+    {
+      "q": "Why did the IRA decide to make Jean McConville disappear?",
+      "a": [
+        "To prevent the killing from being linked to them",
+        "To force her to testify in court",
+        "To exchange her for imprisoned members",
+        "To send a warning to the British army"
+      ],
+      "why": "Lesson 3 says Gerry Adams argued a public body would turn people against the IRA, so she was buried in secret."
+    }
+  ]
+}

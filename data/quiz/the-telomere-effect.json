@@ -1,0 +1,56 @@
+{
+  "book": "the-telomere-effect",
+  "title": "The Telomere Effect",
+  "questions": [
+    {
+      "q": "What cellular limit affects aging?",
+      "a": [
+        "Telomere length",
+        "DNA replication",
+        "Protein synthesis",
+        "Cell size"
+      ],
+      "why": "Telomeres limit cell reproduction."
+    },
+    {
+      "q": "Which exercise type boosts telomerase activity?",
+      "a": [
+        "High‑intensity interval training",
+        "Weightlifting",
+        "Yoga",
+        "Swimming"
+      ],
+      "why": "The study cites HIIT and modest aerobic exercise."
+    },
+    {
+      "q": "Cynical hostility is linked to what telomere change?",
+      "a": [
+        "Shorter telomeres",
+        "Longer telomeres",
+        "No change",
+        "Random variation"
+      ],
+      "why": "The text reports shorter telomeres in cynical civil servants."
+    },
+    {
+      "q": "What does the strawberry analogy illustrate?",
+      "a": [
+        "Inflammation spreads from one damaged cell",
+        "Growth of healthy cells",
+        "Cell division",
+        "DNA repair"
+      ],
+      "why": "It shows how one damaged cell affects others."
+    },
+    {
+      "q": "Why is rest important for telomeres?",
+      "a": [
+        "Prevents over‑exercise damage",
+        "Increases blood pressure",
+        "Reduces sleep",
+        "Raises stress"
+      ],
+      "why": "Rest balances exercise to keep telomeres healthy."
+    }
+  ]
+}

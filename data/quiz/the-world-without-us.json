@@ -1,0 +1,56 @@
+{
+  "book": "the-world-without-us",
+  "title": "The World Without Us",
+  "questions": [
+    {
+      "q": "What is the main reason plastic persists in nature?",
+      "a": [
+        "It cannot be broken down by microorganisms",
+        "It dissolves quickly",
+        "It is biodegradable",
+        "It evaporates"
+      ],
+      "why": "Plastic is not biodegradable by microbes."
+    },
+    {
+      "q": "Which animal group would likely thrive if humans vanished?",
+      "a": [
+        "Predators",
+        "Domestic farm animals",
+        "Birds of prey",
+        "Herbivores"
+      ],
+      "why": "Predators would rise as prey declines."
+    },
+    {
+      "q": "Which building material is mentioned as lasting only a few decades?",
+      "a": [
+        "Concrete",
+        "Glass",
+        "Steel",
+        "All of the above"
+      ],
+      "why": "Glass, steel, and concrete erode in decades."
+    },
+    {
+      "q": "What is the exception to most human creations lasting millennia?",
+      "a": [
+        "The Great Pyramid of Giza",
+        "Modern skyscrapers",
+        "Stone monuments",
+        "Ancient temples"
+      ],
+      "why": "The Great Pyramid is noted as an exception."
+    },
+    {
+      "q": "How does weather affect plastic in the environment?",
+      "a": [
+        "It erodes it into smaller pieces",
+        "It dissolves it",
+        "It burns it",
+        "It freezes it"
+      ],
+      "why": "Rain, wind, and oceans erode plastic into smaller fragments."
+    }
+  ]
+}

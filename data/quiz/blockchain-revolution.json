@@ -1,0 +1,56 @@
+{
+  "book": "blockchain-revolution",
+  "title": "Blockchain Revolution",
+  "questions": [
+    {
+      "q": "Why is tampering with the blockchain nearly impossible?",
+      "a": [
+        "Each block carries the previous block's data and must match the network",
+        "A central bank verifies every new block by hand",
+        "Blocks are protected by passwords known only to miners",
+        "Old transactions are deleted once they are confirmed"
+      ],
+      "why": "The linked blocks and consensus process mean everything must line up perfectly."
+    },
+    {
+      "q": "What do Bitcoin miners compete to do?",
+      "a": [
+        "Solve complex math problems to add blocks and earn cryptocurrency",
+        "Approve new users before they can open a wallet",
+        "Set the exchange rate for each transaction",
+        "Store copies of every wallet on their own servers"
+      ],
+      "why": "Proof of work relies on computational effort to keep records accurate without a central authority."
+    },
+    {
+      "q": "Why does the summary call the current banking system unequal?",
+      "a": [
+        "Small payments are unprofitable, leaving billions without accounts",
+        "Banks charge wealthy customers higher fees",
+        "Online banking is unavailable in most countries",
+        "Only governments can open a bank account"
+      ],
+      "why": "A payment under 20 cents is not worth processing, yet billions live on less than a dollar a day."
+    },
+    {
+      "q": "How could a government use blockchain to show taxpayers where money goes?",
+      "a": [
+        "By using one identifiable signature that the public can track",
+        "By publishing all transactions under a secret key",
+        "By allowing only auditors to view the records",
+        "By deleting spending records after each year"
+      ],
+      "why": "A consistent signature lets the public follow spending and trust the institution."
+    },
+    {
+      "q": "What are smart contracts used for in the summary?",
+      "a": [
+        "Choosing which data to share and which to keep private",
+        "Automatically raising prices when demand is high",
+        "Replacing lawyers in property transactions",
+        "Verifying that a miner solved a math problem"
+      ],
+      "why": "They let users grant temporary, selective access, such as showing a police officer clean records."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-courage-to-be-disliked",
+  "title": "The Courage to Be Disliked",
+  "questions": [
+    {
+      "q": "Which psychologist argued that past trauma fixes our self-image?",
+      "a": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Erik Erikson"
+      ],
+      "why": "Freud focused on trauma shaping self-image."
+    },
+    {
+      "q": "What does Adler say about early life style?",
+      "a": [
+        "It can change anytime",
+        "It is fixed",
+        "It is irrelevant",
+        "It is predetermined"
+      ],
+      "why": "Adler believed early style is not fixed."
+    },
+    {
+      "q": "Which type of inferiority is measured and confirmed?",
+      "a": [
+        "Objective",
+        "Subjective",
+        "Emotional",
+        "Social"
+      ],
+      "why": "Objective inferiority can be measured."
+    },
+    {
+      "q": "Why do people hate themselves according to Adler?",
+      "a": [
+        "To isolate from others",
+        "To gain power",
+        "To feel superior",
+        "To seek validation"
+      ],
+      "why": "Hating self isolates to avoid hurt."
+    },
+    {
+      "q": "What does Adler warn about competitive societies?",
+      "a": [
+        "They harm mental health",
+        "They boost creativity",
+        "They improve cooperation",
+        "They reduce inequality"
+      ],
+      "why": "Adler said competition damages well‑being."
+    }
+  ]
+}

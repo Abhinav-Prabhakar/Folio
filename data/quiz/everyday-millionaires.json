@@ -1,0 +1,56 @@
+{
+  "book": "everyday-millionaires",
+  "title": "Everyday Millionaires",
+  "questions": [
+    {
+      "q": "What did Hogan's interviews reveal about most millionaires?",
+      "a": [
+        "They earned their wealth rather than inheriting it",
+        "Most inherited their money from family",
+        "Most gained it purely through investments",
+        "Most came from high-paying finance jobs"
+      ],
+      "why": "Lesson 1 says most were self-made and did not inherit wealth."
+    },
+    {
+      "q": "What does being wealthy really mean, according to the summary?",
+      "a": [
+        "How much money you keep, not how much you make",
+        "How much you earn in a single year",
+        "How many expensive assets you display",
+        "How early you manage to retire"
+      ],
+      "why": "Lesson 2 defines wealth by what you keep rather than earn."
+    },
+    {
+      "q": "Which habit do millionaires share, per the summary?",
+      "a": [
+        "Living below their means and saving consistently",
+        "Spending generously to signal their success",
+        "Relying on one steady salary",
+        "Borrowing heavily to buy property early"
+      ],
+      "why": "Lesson 2 says they budget, invest, and live below their means."
+    },
+    {
+      "q": "What does the summary say about the victim mentality?",
+      "a": [
+        "It cannot coexist with a winning mentality",
+        "It helps people avoid risky decisions",
+        "It is common among the self-made",
+        "It fades automatically as income rises"
+      ],
+      "why": "Lesson 3 says a winning and a victim mindset cannot coexist."
+    },
+    {
+      "q": "What does intentionality mean in this summary?",
+      "a": [
+        "Making things happen through deliberate decisions and plans",
+        "Waiting for luck to change your circumstances",
+        "Letting autopilot guide your spending habits",
+        "Copying what wealthy people buy and do"
+      ],
+      "why": "Lesson 3 contrasts intentional action with sliding through life."
+    }
+  ]
+}

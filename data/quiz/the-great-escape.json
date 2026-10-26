@@ -1,0 +1,56 @@
+{
+  "book": "the-great-escape",
+  "title": "The Great Escape",
+  "questions": [
+    {
+      "q": "What was the average life expectancy in the 18th century?",
+      "a": [
+        "Around 35 years",
+        "Around 50 years",
+        "Around 65 years",
+        "Around 78 years"
+      ],
+      "why": "The overview notes 18th‑century life expectancy was about 35."
+    },
+    {
+      "q": "What major factor drove the 30‑year rise in life expectancy in wealthy nations?",
+      "a": [
+        "Decrease in child mortality",
+        "Improved diet",
+        "Longer work hours",
+        "Higher birth rates"
+      ],
+      "why": "Child mortality reduction is cited as the biggest driver."
+    },
+    {
+      "q": "During the Neolithic Revolution, humans shifted from hunting to what lifestyle?",
+      "a": [
+        "Agricultural settlement",
+        "Nomadic trading",
+        "Maritime fishing",
+        "Urban manufacturing"
+      ],
+      "why": "The text says they began to settle into agriculture."
+    },
+    {
+      "q": "Which historical period began to shrink the gap between rich and poor within nations?",
+      "a": [
+        "The Enlightenment",
+        "The Middle Ages",
+        "The Renaissance",
+        "The Cold War"
+      ],
+      "why": "Enlightenment reduced aristocratic gaps and grew the middle class."
+    },
+    {
+      "q": "What does the author claim about global inequality despite globalization?",
+      "a": [
+        "It persists between nations",
+        "It has been eliminated",
+        "It only affects the poor",
+        "It benefits all equally"
+      ],
+      "why": "Inequality remains large between countries even with globalization."
+    }
+  ]
+}

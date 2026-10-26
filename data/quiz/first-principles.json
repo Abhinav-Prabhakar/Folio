@@ -1,0 +1,56 @@
+{
+  "book": "first-principles",
+  "title": "First Principles",
+  "questions": [
+    {
+      "q": "Which Roman figure did George Washington try to emulate?",
+      "a": [
+        "Cato, known for virtue and resistance to corruption",
+        "Cicero, admired mainly for his speeches in the senate",
+        "Caesar, celebrated for expanding Rome's territory",
+        "Augustus, remembered for building a lasting empire"
+      ],
+      "why": "Lesson 1 says Washington identified with Cato's virtue and opposition to aristocratic power."
+    },
+    {
+      "q": "Which Greek philosopher particularly shaped Jefferson's thinking?",
+      "a": [
+        "Epicurus",
+        "Plato",
+        "Aristotle",
+        "Socrates"
+      ],
+      "why": "Lesson 2 links Epicurus's vision of life to the pursuit of happiness in the Declaration."
+    },
+    {
+      "q": "What did the founders want ancient models to help America achieve?",
+      "a": [
+        "A strong military and an educated public capable of reasoned decisions",
+        "A monarchy modeled on the Roman emperors",
+        "A trading empire that could rival Britain economically",
+        "A religious state guided by classical mythology"
+      ],
+      "why": "Lesson 2 says they sought a republic that could withstand future European threats."
+    },
+    {
+      "q": "What happened to classicism in nineteenth-century America?",
+      "a": [
+        "It faded as Romanticism and more rational views gained ground",
+        "It became the official philosophy of the federal government",
+        "It was revived by a new generation of founders",
+        "It was replaced entirely by religious doctrine"
+      ],
+      "why": "Lesson 3 says virtue stopped guiding every endeavor as freedom for all took priority."
+    },
+    {
+      "q": "What did Washington do with the Roman generals Fabius and Cincinnatus?",
+      "a": [
+        "He studied their strategies and imitated them against the British",
+        "He wrote a book comparing their leadership styles",
+        "He named two new states after them",
+        "He rejected their tactics as unsuited to America"
+      ],
+      "why": "Lesson 1 says he learned from their methods and nearly impersonated them."
+    }
+  ]
+}

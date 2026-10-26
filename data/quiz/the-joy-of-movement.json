@@ -1,0 +1,56 @@
+{
+  "book": "the-joy-of-movement",
+  "title": "The Joy Of Movement",
+  "questions": [
+    {
+      "q": "Which 1885 philosopher discussed runners high?",
+      "a": [
+        "Alexander Bain",
+        "John Stuart Mill",
+        "Friedrich Nietzsche",
+        "William James"
+      ],
+      "why": "Alexander Bain is cited."
+    },
+    {
+      "q": "What brain chemicals are released during exercise?",
+      "a": [
+        "Endocannabinoids",
+        "Serotonin",
+        "Adrenaline",
+        "Oxytocin"
+      ],
+      "why": "Endocannabinoids are mentioned."
+    },
+    {
+      "q": "Which drug's effect is similar to exercise?",
+      "a": [
+        "Cannabis",
+        "Cocaine",
+        "Heroin",
+        "Alcohol"
+      ],
+      "why": "Cannabis mimics exercise effects."
+    },
+    {
+      "q": "What does music during exercise improve?",
+      "a": [
+        "Performance speed",
+        "Heart rate",
+        "Sleep quality",
+        "Memory"
+      ],
+      "why": "Music boosts performance speed."
+    },
+    {
+      "q": "Who used music to win a US race?",
+      "a": [
+        "Haile Gebrselassie",
+        "Usain Bolt",
+        "Eliud Kipchoge",
+        "Mo Farah"
+      ],
+      "why": "Haile Gebrselassie is named."
+    }
+  ]
+}

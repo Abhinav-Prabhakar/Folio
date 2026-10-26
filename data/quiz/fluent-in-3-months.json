@@ -1,0 +1,56 @@
+{
+  "book": "fluent-in-3-months",
+  "title": "Fluent In 3 Months",
+  "questions": [
+    {
+      "q": "What changed Benny's approach to learning languages?",
+      "a": [
+        "He became willing to make mistakes while speaking",
+        "He found a course that promised fluency in weeks",
+        "He moved abroad and avoided other English speakers",
+        "He memorized thousands of words before speaking"
+      ],
+      "why": "The overview says a multilingual stranger gave him that simple piece of advice."
+    },
+    {
+      "q": "Why is a goal like I want to learn French a problem?",
+      "a": [
+        "It is too vague and overwhelming, so people give up",
+        "It focuses too much on speaking instead of grammar",
+        "It ignores the cost of classes and materials",
+        "It assumes French is easier than other languages"
+      ],
+      "why": "Lesson 1 says you should first define what level of fluency you actually need."
+    },
+    {
+      "q": "Where does the book recommend finding native speakers to practice with?",
+      "a": [
+        "In your own city, for example by hosting travelers",
+        "Only in the country where the language is spoken",
+        "In online courses taught by certified teachers",
+        "At language schools that forbid using your native tongue"
+      ],
+      "why": "Lesson 2 says moving abroad distracts you and pushes you toward English speakers."
+    },
+    {
+      "q": "What does the book say about spaced repetition?",
+      "a": [
+        "Study the hardest words first and use flashcards rather than lists",
+        "Review easy words daily and skip difficult ones",
+        "Space lessons a month apart to let memories settle",
+        "Repeat each word aloud twenty times in a row"
+      ],
+      "why": "Lesson 2 says early words stick best, so start with the difficult ones."
+    },
+    {
+      "q": "Why should grammar wait until you can hold a conversation?",
+      "a": [
+        "Trying to learn rules and words together only causes frustration",
+        "Grammar is not part of speaking any language fluently",
+        "Native speakers never use formal grammatical rules",
+        "Grammar study makes your accent harder to change"
+      ],
+      "why": "Lesson 3 compares it to training wheels that must come off in the right order."
+    }
+  ]
+}

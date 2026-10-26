@@ -1,0 +1,31 @@
+{
+  "book": "the-diary-of-a-ceo",
+  "title": "The Diary of a CEO",
+  "questions": [
+    {
+      "q": "What are the four pillars of greatness in the book?",
+      "a": ["The self, the story, the philosophy and the team", "Strategy, finance, marketing and operations", "Vision, funding, product and sales", "Knowledge, skills, network and reputation"],
+      "why": "Lesson 1 groups Bartlett's laws under the self, the story, the philosophy and the team."
+    },
+    {
+      "q": "In what order does Bartlett say you should fill your five career buckets?",
+      "a": ["Knowledge, skills, network, resources and reputation", "Reputation, network, skills, knowledge and resources", "Skills, knowledge, resources, reputation and network", "Network, resources, reputation, knowledge and skills"],
+      "why": "Lesson 2 says each bucket grows the next, so knowledge comes first, then skills, network, resources and reputation."
+    },
+    {
+      "q": "What does the rule never become wallpaper mean?",
+      "a": ["Stand out rather than blend into what people tune out", "Decorate your workspace to inspire your team", "Keep your brand colors consistent everywhere", "Change your strategy with every new trend"],
+      "why": "Lesson 2 explains wallpaper as the things we ignore because we see them so often."
+    },
+    {
+      "q": "Why does Bartlett advise being an inconsistent leader?",
+      "a": ["Different people have different needs and need different treatment", "Consistency is impossible once a team grows large", "Rules should change every week to keep people alert", "Leaders should favor their most loyal employees"],
+      "why": "Lesson 2 says treating everyone the same leaves some people unhappy because their needs differ."
+    },
+    {
+      "q": "What is the point of Bartlett's final law, learning never ends?",
+      "a": ["Making learning a habit keeps you growing as a founder", "Formal education is the only path to success", "Reading one book a year is enough for any CEO", "Experience matters more than any new knowledge"],
+      "why": "Lesson 3 says the most useful principle is the one you have not discovered yet, so keep learning."
+    }
+  ]
+}

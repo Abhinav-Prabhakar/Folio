@@ -46,7 +46,7 @@ Print a summary count per issue type and the first 10 files for each.
 
 Follow `docs/QUIZ-AGENT-PROMPT.md` exactly (5 questions per book → `data/quiz/<id>.json`, validated and indexed by `tools/quiz/build-index.mjs`). Work in batches of about 25 books and commit after each batch. The app picks them up automatically: questions join a reader's FSRS reviews once they've finished that book.
 
-**Status:** Questions exist for 110 of 1317 books. Resume with the first book in catalog order that has no valid file (`node tools/quiz/build-index.mjs` prints how many are still missing). Skip existing valid files.
+**Status:** Done. All 1,317 catalog books have five valid questions; `node tools/quiz/build-index.mjs` reports 0 without questions and 0 with problems.
 
 ## 5. Light checks of the newest features
 

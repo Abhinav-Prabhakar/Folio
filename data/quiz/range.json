@@ -1,0 +1,56 @@
+{
+  "book": "range",
+  "title": "Range",
+  "questions": [
+    {
+      "q": "How did Roger Federer's path differ from Tiger Woods's?",
+      "a": [
+        "He tried many sports before focusing on tennis",
+        "He began training seriously at age four",
+        "He specialized in one sport from childhood",
+        "He avoided coaches for most of his career"
+      ],
+      "why": "Lesson 1 says Federer sampled skiing, basketball and other sports before settling on tennis."
+    },
+    {
+      "q": "What made comic creators successful, according to the research?",
+      "a": [
+        "Breadth of experience across many genres",
+        "The sheer number of comics they published",
+        "Access to bigger budgets and teams",
+        "A single, highly recognizable art style"
+      ],
+      "why": "Lesson 2 found that working in more genres predicted success better than output or resources."
+    },
+    {
+      "q": "What did Tetlock find about famous experts?",
+      "a": [
+        "The more visible they were, the less accurate they became",
+        "They forecast better than amateurs over time",
+        "Media exposure sharpened their judgment",
+        "They were right whenever they felt certain"
+      ],
+      "why": "Lesson 3 says the more an expert appeared on television, the more likely they were wrong."
+    },
+    {
+      "q": "Why do experts make poor predictions, according to the summary?",
+      "a": [
+        "Narrow focus leads them to cherry-pick evidence",
+        "They lack access to classified information",
+        "They change their minds too often to commit",
+        "They avoid making public statements"
+      ],
+      "why": "Lesson 3 says specialists build explicit theories, then select evidence that confirms them."
+    },
+    {
+      "q": "How do Nobel laureates differ from other scientists?",
+      "a": [
+        "They are far more likely to pursue outside interests",
+        "They specialize earlier than their peers",
+        "They publish fewer papers overall",
+        "They avoid working across disciplines"
+      ],
+      "why": "Lesson 2 notes laureates are many times more likely to also act, perform or create."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "on-tyranny",
+  "title": "On Tyranny",
+  "questions": [
+    {
+      "q": "What does Snyder recommend instead of following the news?",
+      "a": [
+        "Reading books to form your own ideas",
+        "Watching more televised political debates",
+        "Sticking to one trusted news channel",
+        "Avoiding all information about politics"
+      ],
+      "why": "Lesson 1 recommends books over the news because they offer context and help you think for yourself."
+    },
+    {
+      "q": "Why does Snyder say social barriers help tyranny?",
+      "a": [
+        "They let tyrants isolate and distract a divided community",
+        "They make elections harder to organize",
+        "They force people to depend on the state",
+        "They slow economic growth over time"
+      ],
+      "why": "Lesson 2 says divided communities are easier for tyranny to isolate and distract."
+    },
+    {
+      "q": "What did Poland's Solidarity movement show?",
+      "a": [
+        "A diverse coalition can push back against an oppressive regime",
+        "Unions should avoid working with students",
+        "Communism fell mainly because of foreign pressure",
+        "Protests succeed only when the media covers them"
+      ],
+      "why": "Lesson 2 describes Poland's Solidarity movement uniting workers, students and intellectuals against Communism."
+    },
+    {
+      "q": "How does sharing details of your life online relate to freedom?",
+      "a": [
+        "The less control you have over your data, the more freedom you give up",
+        "It has no effect on your rights if your settings are private",
+        "It strengthens democracy by making everyone transparent",
+        "It only matters for people who hold public office"
+      ],
+      "why": "Lesson 3 argues that the less control you have over your personal data, the more freedom you relinquish."
+    },
+    {
+      "q": "What happened to the Clinton campaign emails in 2016, per the summary?",
+      "a": [
+        "They were hacked, and the fallout distracted from real issues",
+        "They were leaked by a foreign newspaper",
+        "They revealed a rigged primary vote",
+        "They were deleted before the election"
+      ],
+      "why": "Lesson 3 cites the hacked Clinton campaign emails as an example of privacy loss and distraction."
+    }
+  ]
+}

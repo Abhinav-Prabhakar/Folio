@@ -1,0 +1,56 @@
+{
+  "book": "skin-in-the-game",
+  "title": "Skin In The Game",
+  "questions": [
+    {
+      "q": "What explains minority rule, according to the summary?",
+      "a": [
+        "The majority is flexible or indifferent about the choice",
+        "The minority has much more money to spend",
+        "The majority is not allowed to vote",
+        "The minority controls most of the media"
+      ],
+      "why": "Lesson 1 says a small inflexible group wins when everyone else does not care."
+    },
+    {
+      "q": "Which example does the summary use to show minority rule?",
+      "a": [
+        "Most UK lamb imports are halal though only 4% are Muslim",
+        "Most cars sold in the US are electric",
+        "Most British tea comes from India",
+        "Most fast food is bought by teenagers"
+      ],
+      "why": "Lesson 1 explains that non-Muslim buyers do not mind halal meat."
+    },
+    {
+      "q": "In which fields does image matter more than proven results?",
+      "a": [
+        "CEOs, politicians and bankers",
+        "Surgeons, soldiers and lawyers",
+        "Authors, athletes and chefs",
+        "Engineers, pilots and farmers"
+      ],
+      "why": "Lesson 2 says these roles depend on being perceived as capable."
+    },
+    {
+      "q": "Why can a sloppy-looking lawyer still be trusted?",
+      "a": [
+        "Clients keep hiring her only if she keeps winning",
+        "Lawyers are judged on appearance alone",
+        "Law firms protect their own employees",
+        "Clients rarely check a lawyer's results"
+      ],
+      "why": "Lesson 2 uses the poorly dressed lawyer as proof that results matter where they can be measured."
+    },
+    {
+      "q": "Why are rich people easier to scam?",
+      "a": [
+        "A small loss matters little, so sellers gain more than buyers",
+        "They have less access to useful information",
+        "They are less able to compare prices",
+        "They are more trusting by nature"
+      ],
+      "why": "Lesson 3 says the risk-reward ratio tilts toward the seller as wealth grows."
+    }
+  ]
+}

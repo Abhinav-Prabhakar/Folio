@@ -1,0 +1,56 @@
+{
+  "book": "effortless",
+  "title": "Effortless",
+  "questions": [
+    {
+      "q": "What is the Effortless State?",
+      "a": [
+        "A clear mind, free of limiting assumptions, where less achieves more",
+        "A schedule with fewer tasks and more free time each day",
+        "A routine that removes all difficult work from a project",
+        "A mindset that treats rest as more important than results"
+      ],
+      "why": "Lesson 1 describes the Effortless State as a mind cleared of assumptions and negative thoughts, where you do less but achieve more."
+    },
+    {
+      "q": "What is a Minimum Viable Action?",
+      "a": [
+        "The smallest obvious step toward your goal",
+        "The quickest way to finish an entire project",
+        "The least valuable task on your to-do list",
+        "The first draft of a finished product"
+      ],
+      "why": "Lesson 2 says to break work into chunks, find the smallest obvious step, and then do just that."
+    },
+    {
+      "q": "Why does McKeown say you should share bad ideas?",
+      "a": [
+        "Imperfect ideas can start a successful process",
+        "Bad ideas help you appreciate the good ones",
+        "Sharing them proves you are not a perfectionist",
+        "Other people will improve them for you"
+      ],
+      "why": "Lesson 3 says allowing imperfect products and unfinished ideas makes it easier to learn from failure and build something successful."
+    },
+    {
+      "q": "What work rhythm does the summary recommend?",
+      "a": [
+        "Focused sessions of about 90 minutes with short breaks",
+        "Long days of work followed by a full week off",
+        "Many short tasks switched every few minutes",
+        "One continuous block until the work is finished"
+      ],
+      "why": "Lesson 1 suggests focusing effort in a session of about 90 minutes with short breaks, since the brain cannot perform at its peak all day."
+    },
+    {
+      "q": "How should you pace a long project?",
+      "a": [
+        "Spread your energy evenly instead of burning out early",
+        "Work as hard as possible at the start to gain a lead",
+        "Save all the work for a final burst of effort",
+        "Alternate between total effort and total rest"
+      ],
+      "why": "Lesson 3 says to distribute resources evenly and store energy for the whole period rather than exhausting yourself at the beginning."
+    }
+  ]
+}

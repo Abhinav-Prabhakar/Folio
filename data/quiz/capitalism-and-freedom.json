@@ -1,0 +1,31 @@
+{
+  "book": "capitalism-and-freedom",
+  "title": "Capitalism And Freedom",
+  "questions": [
+    {
+      "q": "According to Friedman, what is government's primary role?",
+      "a": ["Uphold the law and keep order", "Own the main industries", "Set wages and prices", "Manage the flow of credit"],
+      "why": "Lesson 1 says the state should enforce the law and preserve order rather than interfere with individual freedom."
+    },
+    {
+      "q": "Why does Friedman doubt that stimulus spending can fix a crisis?",
+      "a": ["It arrives too late, after the crisis has passed", "It gives too much money to the rich", "It causes immediate runaway inflation", "It forces interest rates to rise"],
+      "why": "Lesson 2 says the political process is so slow that stimulus lands after the downturn it was meant to address."
+    },
+    {
+      "q": "What did stimulus money do during the Great Depression, according to the summary?",
+      "a": ["People saved it instead of spending it", "It went mostly to large banks", "It created a wave of inflation", "It was spent on foreign imports"],
+      "why": "Lesson 2 notes that government intervention led people to hold onto the extra money rather than spend it."
+    },
+    {
+      "q": "What does Friedman propose to replace existing welfare programs?",
+      "a": ["A negative income tax", "A higher minimum wage", "Public housing for every family", "A universal basic income"],
+      "why": "Lesson 3 suggests scrapping inefficient programs and giving federal aid to anyone below a minimum earnings level."
+    },
+    {
+      "q": "What problem does the summary name with public housing?",
+      "a": ["It shrinks the housing supply and confines the poor", "It costs far more than private housing", "It gives tenants too much choice", "It pushes landlords to raise rents"],
+      "why": "Lesson 3 says bureaucrats run public housing poorly, reducing supply and trapping poor residents in unsafe areas."
+    }
+  ]
+}

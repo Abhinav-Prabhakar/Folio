@@ -1,0 +1,56 @@
+{
+  "book": "playing-with-fire",
+  "title": "Playing With FIRE",
+  "questions": [
+    {
+      "q": "How do you estimate the money needed to become financially independent?",
+      "a": [
+        "Multiply your yearly expenses by 25",
+        "Multiply your yearly income by 10",
+        "Divide your yearly expenses by four",
+        "Save four times your annual salary"
+      ],
+      "why": "Lesson 1 says to multiply annual expenses by 25, which works because of the 4% withdrawal rule."
+    },
+    {
+      "q": "How much of their income does the FIRE approach suggest saving and investing?",
+      "a": [
+        "Roughly 50 to 70 percent",
+        "Roughly 10 to 20 percent",
+        "Roughly 25 to 35 percent",
+        "Roughly 75 to 90 percent"
+      ],
+      "why": "Lesson 2 says the aim is to put away and invest roughly half to most of what you earn."
+    },
+    {
+      "q": "Which kind of stock investment does the summary recommend?",
+      "a": [
+        "Low-cost index funds",
+        "Actively managed funds",
+        "Individual technology stocks",
+        "High-yield savings accounts"
+      ],
+      "why": "Lesson 2 says index funds are cheap and match the market average, and that Warren Buffett prefers them."
+    },
+    {
+      "q": "What does the summary say about income and the FIRE method?",
+      "a": [
+        "It can work at any income, depending on what you do with it",
+        "It requires a six-figure salary to get started",
+        "It only works for people without children",
+        "It depends more on income than on spending habits"
+      ],
+      "why": "Lesson 3 says what you earn matters less than what you do with the money, citing a couple earning under $50,000."
+    },
+    {
+      "q": "What is the core of the FIRE mentality?",
+      "a": [
+        "Putting happiness above material possessions",
+        "Maximizing earnings at any personal cost",
+        "Never spending money on travel or fun",
+        "Retiring as young as physically possible"
+      ],
+      "why": "Lesson 3 says the mindset is less about extreme saving and more about valuing happiness over possessions."
+    }
+  ]
+}

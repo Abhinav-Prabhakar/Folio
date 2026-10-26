@@ -1,0 +1,56 @@
+{
+  "book": "the-compound-effect",
+  "title": "The Compound Effect",
+  "questions": [
+    {
+      "q": "What does Darren Hardy credit 99% of his success to?",
+      "a": [
+        "Hard work",
+        "His mentorship under Jim Rohn",
+        "His early entrepreneurial experience",
+        "His natural talent for writing"
+      ],
+      "why": "The overview states he still credits 99% of his success to hard work."
+    },
+    {
+      "q": "According to the text, what should you do the moment you come up with a new life goal?",
+      "a": [
+        "Instantly turn it into a tiny, daily habit you can practice",
+        "Set a specific deadline within one week",
+        "Share it with a group of supportive friends",
+        "Write a detailed plan for the next month"
+      ],
+      "why": "The daily habit lesson says to instantly turn a new goal into a tiny daily habit."
+    },
+    {
+      "q": "What physics analogy does the text use to explain momentum in habits?",
+      "a": [
+        "A snowball rolling down a hill getting bigger and faster",
+        "A pendulum swinging back and forth with decreasing force",
+        "A rocket accelerating through stages of fuel burn",
+        "A ball bouncing lower with each successive impact"
+      ],
+      "why": "The routine lesson compares momentum to a snowball rolling down a hill, picking up more snow."
+    },
+    {
+      "q": "What did Arnold Schwarzenegger do when he hit weight lifting limits?",
+      "a": [
+        "He'd lean back to activate more muscle groups and add reps",
+        "He'd switch to lighter weights for an entire week",
+        "He'd hire a personal trainer to redesign his program",
+        "He'd take a full rest day before attempting again"
+      ],
+      "why": "The push through limits lesson describes how he leaned back to get support and add five to six reps."
+    },
+    {
+      "q": "What was true about Darren Hardy when he started his first entrepreneurial venture?",
+      "a": [
+        "He had no experience, no connections, and no clue what to do",
+        "He had a business degree and a small savings fund",
+        "He had a mentor who guided him through the process",
+        "He had already published several self-help articles"
+      ],
+      "why": "The overview says he started at 18 with no experience, no connections, and no clue what to do."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "slow-productivity",
+  "title": "Slow Productivity",
+  "questions": [
+    {
+      "q": "What is pseudo-productivity?",
+      "a": [
+        "Using visible activity as a stand-in for real output",
+        "Doing deep work in short, intense bursts",
+        "Automating routine tasks wherever possible",
+        "Planning the week before it begins"
+      ],
+      "why": "Lesson 1 defines it as looking busy rather than doing meaningful work."
+    },
+    {
+      "q": "What does the first principle of slow productivity ask you to do?",
+      "a": [
+        "Reduce your obligations",
+        "Increase your output",
+        "Shorten your deadlines",
+        "Avoid all collaboration"
+      ],
+      "why": "Lesson 1 says doing fewer things frees time for the work that matters."
+    },
+    {
+      "q": "How long did In the Heights take to reach Broadway?",
+      "a": [
+        "Eight years",
+        "Two years",
+        "Four years",
+        "Twelve years"
+      ],
+      "why": "Lesson 2 says Miranda first performed it in 2000 and reached Broadway in 2008."
+    },
+    {
+      "q": "What does the summary suggest about project timelines?",
+      "a": [
+        "Double them to correct optimistic estimates",
+        "Cut them to create healthy urgency",
+        "Set them only after work begins",
+        "Let a manager set them for you"
+      ],
+      "why": "Lesson 2 recommends doubling timelines to offset overconfidence."
+    },
+    {
+      "q": "How does the summary describe obsession with quality?",
+      "a": [
+        "Missing short-term chances to gain long-term freedom",
+        "Taking every opportunity that appears",
+        "Releasing work fast to get feedback",
+        "Copying whatever already sells well"
+      ],
+      "why": "Lesson 3 says quality may mean missing short-term opportunities."
+    }
+  ]
+}

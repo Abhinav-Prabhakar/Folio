@@ -1,0 +1,56 @@
+{
+  "book": "the-tao-of-physics",
+  "title": "The Tao Of Physics",
+  "questions": [
+    {
+      "q": "What did Einstein's relativity reveal about time and space?",
+      "a": [
+        "They are interdependent dimensions",
+        "They are separate absolute entities",
+        "Time is faster than space",
+        "Space is static"
+      ],
+      "why": "Relativity shows time and space form inseparable space‑time."
+    },
+    {
+      "q": "According to the text, what is the universe's fundamental behavior?",
+      "a": [
+        "Continuous movement and change",
+        "Permanent stillness",
+        "Random chaos only",
+        "Cyclical stagnation"
+      ],
+      "why": "Movement is described as a basic rule for all matter."
+    },
+    {
+      "q": "What discovery did Edwin Hubble make in 1929?",
+      "a": [
+        "The universe began with the Big Bang",
+        "Black holes dominate galaxies",
+        "Quantum entanglement exists",
+        "Dark energy is constant"
+      ],
+      "why": "He identified the universe's origin about 10 billion years ago."
+    },
+    {
+      "q": "Which Eastern concept describes the inner essence of all things?",
+      "a": [
+        "Brahman",
+        "Karma",
+        "Nirvana",
+        "Moksha"
+      ],
+      "why": "Brahman is defined as the inner essence in Hinduism."
+    },
+    {
+      "q": "How do Eastern mystics achieve liberation, according to the book?",
+      "a": [
+        "Through yoga and perception, not rational analysis",
+        "By solving complex equations",
+        "Via strict scientific method",
+        "Through political activism"
+      ],
+      "why": "Liberation is attained by perception practice, not rationality."
+    }
+  ]
+}

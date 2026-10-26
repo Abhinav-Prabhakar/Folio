@@ -1,0 +1,56 @@
+{
+  "book": "the-miracle-of-mindfulness",
+  "title": "The Miracle Of Mindfulness",
+  "questions": [
+    {
+      "q": "According to the book, depression is linked to living in which time frame?",
+      "a": [
+        "The past",
+        "The future",
+        "The present",
+        "Timelessness"
+      ],
+      "why": "It states depressed people are living in the past."
+    },
+    {
+      "q": "What practice does Thich Nhat Hanh recommend weekly?",
+      "a": [
+        "A full day of mindfulness",
+        "A 5‑minute meditation",
+        "A weekend retreat",
+        "Daily journaling"
+      ],
+      "why": "He recommends devoting at least one day a week to mindfulness practice."
+    },
+    {
+      "q": "How does the book describe the role of breathing in mindfulness?",
+      "a": [
+        "A bridge connecting consciousness to the present",
+        "A way to increase lung capacity",
+        "A method to control heart rate",
+        "A technique for better sleep"
+      ],
+      "why": "Breathing is described as a bridge that connects consciousness to the right now."
+    },
+    {
+      "q": "What distinguishes mindful rest from napping, per the text?",
+      "a": [
+        "Mindful rest is alert and aware; napping is half‑conscious",
+        "Both are equally restorative",
+        "Napping is more mindful than rest",
+        "Mindful rest involves sleeping"
+      ],
+      "why": "Mindful rest is alert and awake, whereas napping is a half‑conscious lazy state."
+    },
+    {
+      "q": "What does the book suggest is the cause of over‑thinking?",
+      "a": [
+        "Blurring line between preparedness and excess thought",
+        "Lack of education",
+        "Physical fatigue",
+        "Poor diet"
+      ],
+      "why": "Over‑thinking arises when the line between preparedness and over‑thinking is blurred."
+    }
+  ]
+}

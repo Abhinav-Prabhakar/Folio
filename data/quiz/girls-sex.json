@@ -1,0 +1,31 @@
+{
+  "book": "girls-sex",
+  "title": "Girls & Sex",
+  "questions": [
+    {
+      "q": "What does Orenstein say about most female characters girls see on screen?",
+      "a": ["They often exist mainly as objects of male desire", "They are written as complex role models", "They rarely appear in popular movies", "They usually hold powerful jobs"],
+      "why": "Lesson 1 says many female characters have little personality and serve male lust."
+    },
+    {
+      "q": "What happens when parents avoid talking about sex, according to the summary?",
+      "a": ["Girls face confusion, stress and mixed messages", "Girls simply learn from friends instead", "Girls become more independent and confident", "Girls delay dating until they are older"],
+      "why": "Lesson 2 says silence leaves girls torn between exploring sexuality and staying virtuous."
+    },
+    {
+      "q": "What mixed message does the summary say girls receive about sexuality?",
+      "a": ["They are pushed to explore desire yet told to stay virtuous", "They are told sex is natural but also dangerous", "They are encouraged to date but not to fall in love", "They are praised for modesty but rewarded for attention"],
+      "why": "Lesson 2 describes girls being labeled prudes or sluts whichever way they behave."
+    },
+    {
+      "q": "What does the Dutch example show about comprehensive sex education?",
+      "a": ["Teens start later and report more pleasant first experiences", "Teens start earlier but use protection more", "Teens avoid sex until they leave school", "Teens learn mostly from their parents at home"],
+      "why": "Lesson 3 says Dutch teens become active later and describe losing their virginity as pleasant."
+    },
+    {
+      "q": "What does research say about abstinence-only education?",
+      "a": ["It leaves students unprepared and raises pregnancy risk", "It delays sexual activity better than other methods", "It works when parents also give consent", "It has no measurable effect either way"],
+      "why": "Lesson 3 says students given abstinence-only education are 60 percent more likely to have an unwanted pregnancy."
+    }
+  ]
+}

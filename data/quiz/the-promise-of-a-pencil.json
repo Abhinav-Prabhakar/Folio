@@ -1,0 +1,56 @@
+{
+  "book": "the-promise-of-a-pencil",
+  "title": "The Promise Of A Pencil",
+  "questions": [
+    {
+      "q": "Which of these statements is made in The Promise Of A Pencil?",
+      "a": [
+        "What do you want most in the world?",
+        "My girlfriend was born in Malaysia.",
+        "Doubt is the birthplace of science.",
+        "This one speaks right from my soul."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does The Promise Of A Pencil explore?",
+      "a": [
+        "You’re not following your intuition often enough. So do it more",
+        "A healthy passion comes with the pleasure of improving yourself",
+        "Invest in your own character to get ready to take a career jump",
+        "Facebook has many enemies due to its anti-competitive practices"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does The Promise Of A Pencil teach?",
+      "a": [
+        "Act confident, even when you don’t know what you’re doing. Especially then",
+        "Whenever you face a stressful situation, change it, leave it, or accept it",
+        "Children mature well when we treat them with warmth, empathy, and equality",
+        "Show yourself you can reach financial freedom by picking one of five goals"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in The Promise Of A Pencil?",
+      "a": [
+        "Have you ever felt bad for following your intuition when it really mattered?",
+        "It is not the intention of this book to prevent you from seeing your doctor.",
+        "Do you ever feel like the harder you work the further away your dreams seem?",
+        "Sometimes it takes more than one perspective to change your outlook on life."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of The Promise Of A Pencil?",
+      "a": [
+        "The Promise Of A Pencil narrates the story of how Adam Braun, well-bred, average college…",
+        "A big piece of Trump’s message is the importance of cracking down on illegal immigration.",
+        "These days we have a pretty good idea how much the actual toll of WWII took on the world.",
+        "You can unlock limitless creativity if you look beyond the traditions of everyday reality"
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

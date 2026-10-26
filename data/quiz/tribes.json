@@ -1,0 +1,56 @@
+{
+  "book": "tribes",
+  "title": "Tribes",
+  "questions": [
+    {
+      "q": "Which three elements are needed to create a movement?",
+      "a": [
+        "Narrative, connection, activity",
+        "Product, price, promotion",
+        "Leadership, funding, technology",
+        "Vision, mission, values"
+      ],
+      "why": "The text lists narrative, connection, and activity as the three components."
+    },
+    {
+      "q": "What is the most important type of tribe connection?",
+      "a": [
+        "Members talking to each other",
+        "Leader talking to members",
+        "Members talking to outsiders",
+        "Leader talking to outsiders"
+      ],
+      "why": "The passage says member‑to‑member communication is key for a tight community."
+    },
+    {
+      "q": "How many true fans are enough to keep a group moving?",
+      "a": [
+        "One thousand",
+        "Five hundred",
+        "Two thousand",
+        "Ten thousand"
+      ],
+      "why": "The book states 1000 true fans are sufficient."
+    },
+    {
+      "q": "What characterizes a 'sheepwalker'?",
+      "a": [
+        "Follows rules and avoids trouble",
+        "Challenges the status quo",
+        "Leads tribes boldly",
+        "Ignores all authority"
+      ],
+      "why": "Sheepwalkers are described as obedient rule‑followers."
+    },
+    {
+      "q": "According to the author, what should you prioritize over tribe growth?",
+      "a": [
+        "Strengthening internal connections",
+        "Increasing advertising spend",
+        "Expanding product lines",
+        "Hiring more staff"
+      ],
+      "why": "The text advises focusing on strengthening connections rather than size."
+    }
+  ]
+}

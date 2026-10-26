@@ -1,0 +1,56 @@
+{
+  "book": "hyperfocus",
+  "title": "Hyperfocus",
+  "questions": [
+    {
+      "q": "What are the four stages of hyperfocus?",
+      "a": [
+        "Pick a task, cut distractions, focus, redirect",
+        "Plan the work, execute it, review it, rest",
+        "Breathe, stretch, write and repeat the cycle",
+        "Set a goal, time it, score it and share it"
+      ],
+      "why": "Lesson 1 lists choosing one task, eliminating distractions, focusing and redirecting."
+    },
+    {
+      "q": "How many things can your attention hold at once?",
+      "a": [
+        "About 40",
+        "About 7",
+        "About 100",
+        "About 11 million"
+      ],
+      "why": "Lesson 2 says you can process roughly 40 things at once, though short-term memory holds about seven."
+    },
+    {
+      "q": "What is meta-awareness?",
+      "a": [
+        "Noticing what is in your attentional space",
+        "Meditating for an hour each morning",
+        "Remembering everything you read",
+        "Ignoring your thoughts completely"
+      ],
+      "why": "Lesson 2 describes it as looking outside your thoughts to see what has your attention."
+    },
+    {
+      "q": "How can a timer help you stay focused?",
+      "a": [
+        "It prompts you to check what has your attention",
+        "It forces you to finish the task faster",
+        "It blocks all websites automatically",
+        "It tracks how many hours you work"
+      ],
+      "why": "Lesson 2 suggests an hourly timer as a cue to practice meta-awareness."
+    },
+    {
+      "q": "What should you do if you must stay reachable while working?",
+      "a": [
+        "Set specific times to check your phone",
+        "Keep the phone on the desk face up",
+        "Answer every message immediately",
+        "Turn off all notifications permanently"
+      ],
+      "why": "Lesson 3 says to check your phone at set intervals and leave it alone in between."
+    }
+  ]
+}

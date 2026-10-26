@@ -1,0 +1,56 @@
+{
+  "book": "what-to-eat-when",
+  "title": "What To Eat When",
+  "questions": [
+    {
+      "q": "Which of these statements is made in What To Eat When?",
+      "a": [
+        "Being healthy is much more than not having diseases.",
+        "Initially, Quixote started his quest all by himself.",
+        "Hundred years ago life as a child was pretty shitty.",
+        "One day, a teacher brought a $100 bill to her class."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which of these ideas does What To Eat When explore?",
+      "a": [
+        "Food triggers different processes depending on its key components",
+        "Love is the key to becoming self-reliant and growing up healthily",
+        "Children will make good food choices on their own, if we let them",
+        "Be patient, it’s what makes this formula unpopular, but effective"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which lesson does What To Eat When teach?",
+      "a": [
+        "Eating smart also means feeding yourself at the right times",
+        "Action takers will accomplish what they wish for eventually",
+        "“Eliminate” your competition by simply partnering with them",
+        "Low temperatures can enhance our mental and bodily strength"
+      ],
+      "why": "This is one of the book's main lessons."
+    },
+    {
+      "q": "Which of these statements is made in What To Eat When?",
+      "a": [
+        "Most people take food seriously only when they want to lose weight and end up focusing on…",
+        "In my old engineering job, I had managers who consistently put in 60 hour weeks or longer.",
+        "People these days seem to be all about blaming everyone but themselves for their problems.",
+        "The natural process of fermentation allows people to enjoy bread, pickles and even coffee."
+      ],
+      "why": "This statement appears in the book's summary."
+    },
+    {
+      "q": "Which statement best captures the central argument of What To Eat When?",
+      "a": [
+        "What to Eat When teaches us how food works inside our body and how to feed ourselves in a…",
+        "Everyone on Trump’s presidential campaign was surprised to see him win, even Trump himself",
+        "Henrietta’s cells have raised ethical questions regarding cell donation in the world today",
+        "Stories get exciting when a problem comes up that threatens the chances of a happy ending."
+      ],
+      "why": "This is the book's central argument."
+    }
+  ]
+}

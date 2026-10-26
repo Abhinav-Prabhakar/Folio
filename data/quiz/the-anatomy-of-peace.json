@@ -1,0 +1,56 @@
+{
+  "book": "the-anatomy-of-peace",
+  "title": "The Anatomy Of Peace",
+  "questions": [
+    {
+      "q": "What separates a heart of peace from a heart of war?",
+      "a": [
+        "Seeing others as people rather than objects",
+        "Winning arguments without raising your voice",
+        "Avoiding conflict by staying silent",
+        "Forgiving people who never apologize"
+      ],
+      "why": "Lesson 1 says a heart of war turns people into things, which invites conflict."
+    },
+    {
+      "q": "What did Saladin do after retaking Jerusalem?",
+      "a": [
+        "He spared civilians and let pilgrims pass safely",
+        "He executed the city's leaders in revenge",
+        "He destroyed the holy sites to end the war",
+        "He forced everyone to convert or leave"
+      ],
+      "why": "Lesson 1 presents him as an example of choosing peace during war."
+    },
+    {
+      "q": "How does the summary suggest responding to a spouse who skips chores?",
+      "a": [
+        "Listen for the reasons behind their behavior",
+        "Point out their unfairness directly",
+        "Do the work silently and wait",
+        "Ask someone else to confront them"
+      ],
+      "why": "Lesson 2 says criticism breeds resistance while understanding invites change."
+    },
+    {
+      "q": "What is the victim box?",
+      "a": [
+        "Believing the world is unfair and out to get you",
+        "Believing you are better than everyone else",
+        "Believing you are owed special treatment",
+        "Believing every conflict is your own fault"
+      ],
+      "why": "Lesson 3 lists the victim, better-than and I-deserve boxes."
+    },
+    {
+      "q": "What is the way out of these self-justifying boxes?",
+      "a": [
+        "Try to see the situation from the other person's view",
+        "Prove your position with stronger arguments",
+        "Withdraw until the other person apologizes",
+        "Explain your intentions more clearly"
+      ],
+      "why": "Lesson 3 says looking through another's eyes breaks the box's hold."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "the-singularity-is-near",
+  "title": "The Singularity Is Near",
+  "questions": [
+    {
+      "q": "What prediction about chess did Ray Kurzweil make that later proved true?",
+      "a": [
+        "Computers would beat top chess players by 2000",
+        "Humans would never play chess against computers",
+        "Chess would become obsolete",
+        "Chess would be played only online"
+      ],
+      "why": "Kurzweil predicted Deep Blue beating Kasparov in 1997."
+    },
+    {
+      "q": "Which technology does Kurzweil describe as 'white blood cells on steroids'?",
+      "a": [
+        "Nanobots",
+        "Robotic surgeons",
+        "AI chatbots",
+        "3D printers"
+      ],
+      "why": "Nanobots are likened to white blood cells on steroids."
+    },
+    {
+      "q": "According to the Law of Accelerating Returns, what happens to evolution over time?",
+      "a": [
+        "It speeds up each year",
+        "It slows down each year",
+        "It stays constant",
+        "It stops after 100 years"
+      ],
+      "why": "The law states evolution accelerates yearly."
+    },
+    {
+      "q": "What is a potential risk of nanobots mentioned in the book?",
+      "a": [
+        "They could replicate uncontrollably like cancer cells",
+        "They will be too expensive",
+        "They will be illegal",
+        "They will be rejected by the body"
+      ],
+      "why": "Nanobots could spin out of control, mirroring cancerous cells."
+    },
+    {
+      "q": "When does Kurzweil predict the singularity will occur?",
+      "a": [
+        "By 2045",
+        "By 2100",
+        "In 2025",
+        "Never"
+      ],
+      "why": "Kurzweil forecasts the singularity by 2045."
+    }
+  ]
+}

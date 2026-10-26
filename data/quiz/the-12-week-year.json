@@ -1,0 +1,56 @@
+{
+  "book": "the-12-week-year",
+  "title": "The 12 Week Year",
+  "questions": [
+    {
+      "q": "Why do yearly goals often lead to complacency?",
+      "a": [
+        "The deadline feels distant, so urgency fades",
+        "The goals are usually too small to matter",
+        "People forget them during the summer",
+        "They demand too much planning upfront"
+      ],
+      "why": "Lesson 1 says a far-off date makes us think we have plenty of time, so effort slips."
+    },
+    {
+      "q": "Which idea from athletes does the 12-week system borrow?",
+      "a": [
+        "Periodization: focused work in shorter stretches",
+        "Interval training: bursts of maximum speed",
+        "Visualization: rehearsing the outcome daily",
+        "Teamwork: sharing every goal with a group"
+      ],
+      "why": "Lesson 1 says athletes used periodization first, and the 12-week cycle applies it to goals."
+    },
+    {
+      "q": "What is the difference between lead and lag indicators?",
+      "a": [
+        "Lead indicators are actions; lag indicators are results",
+        "Lead indicators are results; lag indicators are actions",
+        "Lead indicators are weekly; lag indicators are yearly",
+        "Lead indicators are financial; lag indicators are personal"
+      ],
+      "why": "Lesson 2 measures ends such as weight lost, and the actions such as running a daily mile."
+    },
+    {
+      "q": "What share of your lead indicator actions should you complete each week?",
+      "a": [
+        "At least 85 percent",
+        "At least 50 percent",
+        "At least 65 percent",
+        "At least 95 percent"
+      ],
+      "why": "Lesson 2 says hitting that threshold makes reaching the 12-week goal much more likely."
+    },
+    {
+      "q": "Which three kinds of time block do the authors recommend?",
+      "a": [
+        "Strategic, buffer and breakout",
+        "Morning, afternoon and evening",
+        "Deep, shallow and social",
+        "Planning, doing and reviewing"
+      ],
+      "why": "Lesson 3 assigns deep work to strategic blocks, interruptions to buffer blocks, and rest to breakout blocks."
+    }
+  ]
+}

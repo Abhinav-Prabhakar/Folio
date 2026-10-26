@@ -1,0 +1,56 @@
+{
+  "book": "psycho-cybernetics",
+  "title": "Psycho-Cybernetics",
+  "questions": [
+    {
+      "q": "According to the summary, what determines how you act every day?",
+      "a": [
+        "The mental image you hold of yourself",
+        "The amount of praise you received as a child",
+        "The goals your family set for you",
+        "The company you keep at work"
+      ],
+      "why": "Lesson 1 says your self-image, built from every experience, shapes how you behave."
+    },
+    {
+      "q": "Which element comes first in Maltz's seven-part S.U.C.C.E.S.S. formula?",
+      "a": [
+        "Sense of direction, meaning an objective to pursue",
+        "Charity, meaning putting other people's needs first",
+        "Esteem, meaning holding a positive opinion of yourself",
+        "Self-acceptance, meaning comfort with your strengths and flaws"
+      ],
+      "why": "Lesson 2 lists a sense of direction, having a goal to pursue, as the first of the seven."
+    },
+    {
+      "q": "What does the summary compare to a scalpel that cuts away emotional scar tissue?",
+      "a": [
+        "Forgiveness of the pain you were caused",
+        "Constant self-criticism about your mistakes",
+        "Avoiding the people who hurt you",
+        "Building thicker emotional defenses"
+      ],
+      "why": "Lesson 3 calls forgiveness the tool that breaks down the emotional walls built by old pain."
+    },
+    {
+      "q": "What does disinhibition encourage you to do?",
+      "a": [
+        "Speak before you think",
+        "Plan every remark in advance",
+        "Hide your feelings from others",
+        "Copy the habits of confident people"
+      ],
+      "why": "Lesson 3 presents disinhibition as a way to drop self-conscious thoughts and be yourself."
+    },
+    {
+      "q": "What happens when you upgrade your perception of yourself and the world?",
+      "a": [
+        "You improve the way you act",
+        "You stop needing other people",
+        "You avoid all future failure",
+        "You become immune to criticism"
+      ],
+      "why": "The end of Lesson 1 says better perception of yourself and the world improves your actions."
+    }
+  ]
+}

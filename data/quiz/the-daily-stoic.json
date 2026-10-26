@@ -1,0 +1,56 @@
+{
+  "book": "the-daily-stoic",
+  "title": "The Daily Stoic",
+  "questions": [
+    {
+      "q": "What are the three core principles of Stoicism?",
+      "a": [
+        "Perception, action, will",
+        "Emotion, logic, faith",
+        "Thought, feeling, doing",
+        "Mind, body, spirit"
+      ],
+      "why": "The text lists perception, action, and will as core principles."
+    },
+    {
+      "q": "Which principle involves controlling emotions?",
+      "a": [
+        "Perception",
+        "Action",
+        "Will",
+        "Meditation"
+      ],
+      "why": "Perception teaches control over emotions."
+    },
+    {
+      "q": "What does the book suggest doing with actions?",
+      "a": [
+        "Control them, not let them control you",
+        "Let them control you",
+        "Ignore them",
+        "Use them to dominate others"
+      ],
+      "why": "Stoicism advises controlling actions."
+    },
+    {
+      "q": "How is will described in Stoic terms?",
+      "a": [
+        "Inner power to endure",
+        "External force",
+        "Passive acceptance",
+        "Short‑term motivation"
+      ],
+      "why": "Will is an inner power that helps endure hardships."
+    },
+    {
+      "q": "What is the main goal of the Daily Stoic readings?",
+      "a": [
+        "Find daily happiness",
+        "Learn ancient history",
+        "Master public speaking",
+        "Increase wealth"
+      ],
+      "why": "The book offers daily readings to find happiness."
+    }
+  ]
+}
