@@ -17,6 +17,10 @@
 </p>
 
 <p>
+  <a href="https://abhinav-prabhakar.github.io/Folio/"><img alt="Open the live site" src="https://img.shields.io/badge/%E2%86%97_open_the_live_site-abhinav--prabhakar.github.io%2FFolio-b8913a?style=for-the-badge&labelColor=17171a"></a>
+</p>
+
+<p>
   <a href="#a-day-with-folio"><b>Tour</b></a> &nbsp;·&nbsp;
   <a href="#the-quiz-book"><b>The quiz</b></a> &nbsp;·&nbsp;
   <a href="#light-and-dark"><b>Light & dark</b></a> &nbsp;·&nbsp;
@@ -234,10 +238,10 @@ python3 -m http.server 8000
 
 Then visit <http://localhost:8000>.
 
-**Or put it online with GitHub Pages:** push this repository, then go to *Settings → Pages → Deploy from a branch* and choose `main` with the root folder. `index.html` is served as the home page.
+**Or use the live site:** <https://abhinav-prabhakar.github.io/Folio/>. It is served by GitHub Pages from the `main` branch, so every push to `main` updates it within a minute or two.
 
 > [!TIP]
-> For link previews to show the social card, set `og:image` and `twitter:image` in `index.html` to the full URL of `assets/og.png` once you know where the site lives.
+> **Hosting your own copy?** Fork the repo, enable *Settings → Pages → Deploy from a branch* (`main`, root folder), then update the `og:url`, `og:image`, `twitter:image` and `canonical` addresses in `index.html` so link previews point at your site.
 
 <br>
 
