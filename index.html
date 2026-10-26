@@ -428,6 +428,67 @@ body.leaving main{opacity:0;transition:opacity .35s ease}
 }
 @media (prefers-reduced-motion:reduce){.lib,.tc{transition:none}}
 
+/* ---------- read marks ---------- */
+.tc .seal{display:none;position:absolute;right:8px;bottom:8px;z-index:2;width:22px;height:22px;border-radius:50%;
+  background:radial-gradient(circle at 35% 30%,#fff4cc,#d9b25a 45%,#8a6420);box-shadow:0 1px 3px rgba(0,0,0,.45),inset 0 0 0 1.5px rgba(255,255,255,.25)}
+.tc .seal::after{content:"";position:absolute;left:7.5px;top:5px;width:5px;height:9px;border:solid #4a3410;border-width:0 1.6px 1.6px 0;transform:rotate(42deg)}
+.tile.done .seal{display:block}
+
+/* ---------- memory (FSRS) ---------- */
+.r-mem{display:none;position:absolute;top:calc(17px + env(safe-area-inset-top,0px));right:calc(max(12px,env(safe-area-inset-right,0px)) + 92px);margin:0;opacity:.55;transition:opacity .3s}
+.reader.quizmode .r-mem{display:grid}
+.r-mem:hover,.r-mem[aria-expanded="true"]{opacity:1}
+.memsheet{position:absolute;top:calc(60px + env(safe-area-inset-top,0px));right:max(12px,env(safe-area-inset-right,0px));width:min(310px,calc(100vw - 24px));max-height:calc(100vh - 90px);overflow:auto;z-index:5;
+  background:var(--bg);border:1px solid var(--hair);border-radius:6px;padding:18px 18px 14px;box-shadow:0 26px 70px -28px rgba(20,18,30,.45);font-size:13px;color:var(--ink);animation:swap .4s cubic-bezier(.2,.7,.2,1);text-align:left;user-select:text}
+.ms-k{font-size:10px;letter-spacing:.32em;text-transform:uppercase;color:var(--mute);margin-bottom:12px}
+.ms-bar{display:flex;gap:2px;height:7px;border-radius:4px;overflow:hidden;background:var(--hair)}
+.ms-bar i{display:block;min-width:0}
+.ms-bar .w,.ms-legend .w{background:#d98a6a}.ms-bar .gr,.ms-legend .gr{background:var(--acc);opacity:.75}.ms-bar .sg,.ms-legend .sg{background:var(--acc)}.ms-bar .none{background:var(--hair)}
+.ms-legend{display:flex;flex-wrap:wrap;gap:4px 12px;margin:8px 0 16px;font-size:10.5px;color:var(--mute)}
+.ms-legend b{display:inline-block;width:7px;height:7px;border-radius:2px;margin-right:5px;vertical-align:0}
+.ms-legend .n{margin-left:auto}
+.ms-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:12px 0 6px}
+.ms-row output{font-family:var(--display);font-size:22px;font-weight:400}
+.memsheet input[type=range]{width:100%;accent-color:var(--acc)}
+.ms-hint{margin:2px 0 8px;font-size:11px;line-height:1.45;color:var(--mute)}
+.ms-step{display:flex;align-items:center;gap:10px}
+.ms-step b{font-weight:400;min-width:2.2em;text-align:center;font-variant-numeric:tabular-nums}
+.ms-step button,.ms-btns button{border:1px solid var(--hair);background:none;color:var(--ink);border-radius:20px;cursor:pointer;font:300 13px var(--ui)}
+.ms-step button{width:28px;height:28px}
+.ms-step button:hover,.ms-btns button:hover{border-color:var(--ink)}
+.ms-sw input{position:absolute;opacity:0;pointer-events:none}
+.ms-sw i{position:relative;width:34px;height:20px;border-radius:12px;background:var(--hair);transition:background-color .3s;cursor:pointer;flex:none}
+.ms-sw i::after{content:"";position:absolute;left:3px;top:3px;width:14px;height:14px;border-radius:50%;background:var(--bg);box-shadow:0 1px 2px rgba(0,0,0,.3);transition:transform .3s cubic-bezier(.2,.7,.2,1)}
+.ms-sw input:checked + i{background:var(--acc)}
+.ms-sw input:checked + i::after{transform:translateX(14px)}
+.ms-sw input:focus-visible + i{outline:1px solid var(--ink);outline-offset:2px}
+.ms-adv{margin-top:14px;border-top:1px solid var(--hair);padding-top:10px}
+.ms-adv summary{cursor:pointer;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--mute)}
+.ms-adv input[type=number]{width:80px;border:0;border-bottom:1px solid var(--hair);background:none;color:var(--ink);font:300 14px var(--ui);text-align:right}
+.ms-col{display:flex;flex-direction:column;gap:6px;margin-top:12px}
+.ms-col textarea{width:100%;box-sizing:border-box;border:1px solid var(--hair);border-radius:4px;background:none;color:var(--ink);font:300 11px/1.5 ui-monospace,Menlo,monospace;padding:8px;resize:vertical}
+.ms-col textarea.bad{border-color:#c0503a}
+.ms-btns{display:flex;gap:8px;flex-wrap:wrap}
+.ms-btns button{padding:6px 12px;font-size:12px}
+.ms-foot{margin:14px 0 0;font-size:10.5px;color:var(--mute)}
+.qdots i.nw{box-shadow:inset 0 0 0 .8px var(--acc);background:transparent}
+.qdots i.nw.on{background:var(--acc)}
+.qhead .kind{font-family:var(--ui);font-size:.55em;letter-spacing:.24em;text-transform:uppercase;color:var(--p-faint)}
+.conf{display:flex;gap:6px;margin-top:1.1em}
+.conf .cf{border:1px solid var(--p-rule);background:none;color:var(--p-mute);font:300 .62em var(--ui);letter-spacing:.14em;text-transform:uppercase;padding:.5em 1em;border-radius:2em;cursor:pointer;transition:all .25s}
+.conf .cf.on{background:var(--p-strong);color:var(--p-bg);border-color:var(--p-strong)}
+.nextrev{display:flex;align-items:center;gap:.5em;margin-top:1em;font-family:var(--ui);font-size:.6em;letter-spacing:.16em;text-transform:uppercase;color:var(--p-faint)}
+.now .nextrev,.now .conf{animation:swap .6s .7s cubic-bezier(.2,.7,.2,1) both}
+.fc{display:flex;align-items:flex-end;gap:.55em;height:4.2em;margin:1.8em 0 .2em}
+.fcb{position:relative;display:flex;flex-direction:column;align-items:center;gap:.35em}
+.fcb i{display:block;width:.7em;border-radius:2px 2px 0 0;background:var(--acc);opacity:.85}
+.fcb small{font-family:var(--ui);font-size:.5em;letter-spacing:.1em;color:var(--p-faint)}
+/* verification fixes: a fading library never takes clicks; tiles size from the grid, not their placeholder */
+.lib:not(.open){pointer-events:none}
+.tile{contain-intrinsic-size:auto none;contain-intrinsic-block-size:auto 290px}
+.lib-grid{grid-template-columns:repeat(auto-fill,minmax(min(136px,100%),1fr))}
+@media (max-width:560px){.lib-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
 /* reader chrome */
 .r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
 .reader.ready .r-ui{opacity:1}
@@ -539,6 +600,8 @@ body.leaving main{opacity:0;transition:opacity .35s ease}
         <mask id="thm-b"><rect x="-4" y="-4" width="32" height="32" fill="#fff"/><circle class="mm" cx="17" cy="7.5" r="5.6" fill="#000"/></mask>
         <circle class="core" cx="12" cy="12" r="7.2" fill="currentColor" mask="url(#thm-b)"/>
         <g class="rays" stroke="currentColor" stroke-width=".95" stroke-linecap="round"><path d="M12 1.6v2.6M12 19.8v2.6M1.6 12h2.6M19.8 12h2.6M4.65 4.65l1.84 1.84M17.51 17.51l1.84 1.84M4.65 19.35l1.84-1.84M17.51 6.49l1.84-1.84"/></g></svg></button>
+    <button class="themebtn r-mem tipdown" id="rMem" type="button" data-tip="Memory settings" aria-label="Memory settings" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width=".95" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+    <div class="memsheet" id="memSheet" hidden role="dialog" aria-label="Memory settings"></div>
     <button class="r-close" id="rClose" aria-label="Close the book"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
     <button class="r-nav prev" id="rPrev" aria-label="Previous page"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9"><path d="M15 4l-8 8 8 8"/></svg></button>
     <button class="r-nav next" id="rNext" aria-label="Next page"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9"><path d="M9 4l8 8-8 8"/></svg></button>
@@ -1196,8 +1259,31 @@ const ALL = LIB.concat(FMB);
 const PERDAY_KEY = 'folio:perday', NUM = ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve'];
 let PERDAY = 6;
 try { const v = +localStorage.getItem(PERDAY_KEY); if (v >= 3 && v <= 12) PERDAY = v; } catch(_) {}
+const store = { get(k, d){ try { const v = localStorage.getItem(k); return v == null ? d : (JSON.parse(v) ?? d); } catch(_) { return d; } },
+                set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(_) {} } };
+const READ = store.get('folio:read', {});      // book id -> day its last page was reached
+const HIST = store.get('folio:days', {});      // day -> ids on that day's shelf
+const byId = new Map(ALL.map(b => [b.id, b]));
+const TODAY = Math.floor(Date.UTC(NOW.getFullYear(), NOW.getMonth(), NOW.getDate())/864e5);
+const dayStr = n => new Date(n*864e5).toISOString().slice(0,10);
 const POOL = ALL.slice().sort((a,b) => a.id < b.id ? -1 : 1);
-const PICKS = shuffle(POOL, seeded('shelf:'+DAY+':'+PERDAY)).slice(0, Math.min(PERDAY, POOL.length));
+/* today's shelf is fixed once chosen; new days only draw books you haven't been shown or read (a fresh cycle once all are used) */
+const PICKS = (() => {
+  let today = (HIST[DAY] || []).filter(id => byId.has(id)).slice(0, PERDAY);
+  if (today.length < PERDAY){
+    const past = Object.entries(HIST).filter(([d]) => d < DAY), need = PERDAY - today.length;
+    const avoid = new Set([...past.flatMap(([,ids]) => ids), ...Object.keys(READ), ...today]);
+    let fresh = POOL.filter(b => !avoid.has(b.id));
+    if (fresh.length < need){
+      const recent = new Set(past.filter(([d]) => d >= dayStr(TODAY - 30)).flatMap(([,ids]) => ids));
+      fresh = POOL.filter(b => !recent.has(b.id) && !today.includes(b.id));
+      if (fresh.length < need) fresh = POOL.filter(b => !today.includes(b.id));
+    }
+    today = today.concat(shuffle(fresh, seeded('shelf:'+DAY+':'+today.length)).slice(0, need).map(b => b.id));
+    HIST[DAY] = today; store.set('folio:days', HIST);
+  }
+  return today.map(id => byId.get(id));
+})();
 const NWORD = NUM[PICKS.length] || String(PICKS.length), NCAP = NWORD[0].toUpperCase()+NWORD.slice(1);
 const QUIZ = {k:'quiz', quiz:true, title:'Recall', author:"Today's quiz", life:'New questions every day', year:NOW.getFullYear(),
   pages:220, words:0, rating:0, genre:'quiz', genreName:'Quiz', accent:'#b8913a', base:'#3d1216', ink:'#e9cf8a', bands:true,
@@ -1616,6 +1702,7 @@ function select(i){
     `<span class="g" tabindex="0" data-tip="${escA(b.primary)}">${svgI(ICONS[b.genre])}</span>`,
     b.hook ? `<span class="g wide" tabindex="0" data-tip="${escA(b.hook)}">${svgI(IC_QUOTE)}</span>` : '',
     `<a class="g" href="${b.url}" target="_blank" rel="noopener" data-tip="Original on Four Minute Books" aria-label="Open the original summary on Four Minute Books">${svgI(IC_LINK)}</a>`,
+    READ[b.id] ? `<span class="g" tabindex="0" data-tip="Read · ${new Date(READ[b.id]).toLocaleDateString('en-GB',{day:'numeric',month:'short'})}">${svgI('<path d="M4.5 10.5l3.5 3.5 7.5-8"/>')}</span>` : '',
     open('Open', 'Open the summary', IC_OPEN), flip];
   else { const hrs = b.words/250/60; g = [
     `<span class="g" tabindex="0" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span>`,
@@ -1689,6 +1776,7 @@ vp.addEventListener('wheel', e=>{
 $('prev').addEventListener('click', ()=> st.target = clamp(Math.round(st.target)-1,0,N-1));
 $('next').addEventListener('click', ()=> st.target = clamp(Math.round(st.target)+1,0,N-1));
 addEventListener('keydown', e=>{
+  if (e.target.closest && e.target.closest('input,textarea,select,.memsheet')) return;
   if (R.open){
     const onBtn = e.target.closest && e.target.closest('button');
     if (e.key==='ArrowRight'||e.key==='PageDown'||(e.key===' '&&!onBtn)){ e.preventDefault(); go(1); }
@@ -1904,6 +1992,8 @@ async function openBook(i, origin){
   R.src = origin ? origin.el : slots[i].front; R.away = origin ? origin.el : slots[i].slot;
   if (R.shelf){ st.flip = st.flipT = 0; st.tx = st.ty = 0; }
   try { await document.fonts.ready; } catch(_){}
+  if (b.quiz) QZ = await buildSession();
+  reader.classList.toggle('quizmode', !!b.quiz);
   R.html = b.quiz ? '' : await bookHTML(b);
   R.words = b.quiz ? 0 : (await mdFor(b)).split(/\s+/).length;
   $('rCoverF').className = 'pgf f '+(b.tex||'');
@@ -1932,7 +2022,7 @@ async function openBook(i, origin){
 
 async function closeBook(){
   if (!R.open || R.busy) return;
-  R.busy = true; reader.classList.remove('ready');
+  R.busy = true; reader.classList.remove('ready'); window.closeMemSheet && closeMemSheet();
   if (R.mode==='read') await morphTo('book');
   await Promise.all([ turn(rCover, -1, 1150, .1), anim(rig, [{transform:FIN},{transform:midT()}], 1150, EASE) ]);
   const to = fromT();
@@ -1961,6 +2051,7 @@ async function go(dir){
   }
   rLeaf.style.visibility = 'hidden';
   R.r = nr; updUI(); R.busy = false;
+  if (!R.book.quiz && R.r >= maxR()) markRead(R.book);
 }
 
 /* reader input: tap a page to turn, swipe, or tap outside to close */
@@ -2045,36 +2136,113 @@ const QBANK = {
 const validQ = q => q && typeof q.q === 'string' && Array.isArray(q.a) && q.a.length === 4 && q.a.every(x => typeof x === 'string' && x.trim());
 let QINDEX = null;
 try { const r = await fetch('data/quiz/index.json'); if (r.ok) QINDEX = new Set((await r.json()).books || []); } catch(_) {}
+/* ---------- memory: FSRS-5 spaced repetition over every question from every book you've read ---------- */
+/* Each question is a card. Recall shows the cards due today (weakest memories first) plus a few new ones
+   from recently finished books. A wrong answer is "Again", a right one "Good" (or Hard/Easy if you rate it). */
+const FSRS_W = [0.40255, 1.18385, 3.173, 15.69105, 7.1949, 0.5345, 1.4604, 0.0046, 1.54575, 0.1192, 1.01925, 1.9395, 0.11, 0.29605, 2.2698, 0.2315, 2.9898, 0.51655, 0.6621];
+const MEM_DEFAULT = {retention:.9, newPerDay:10, maxReviews:60, confidence:false, maxIvl:365, w:FSRS_W};
+const MEM = Object.assign({}, MEM_DEFAULT, store.get('folio:mem', {}));
+const validW = w => Array.isArray(w) && w.length === 19 && w.every(x => typeof x === 'number' && isFinite(x));
+if (!validW(MEM.w)) MEM.w = FSRS_W.slice();
+const saveMem = () => store.set('folio:mem', MEM);
+let CARDS = store.get('folio:cards', {});   // cardId -> {s: stability (days), d: difficulty 1-10, last, due (day numbers), reps, lapses}
+const saveCards = () => store.set('folio:cards', CARDS);
+const DECAY = -.5, FACTOR = 19/81;          // R(t) = (1 + FACTOR·t/S)^DECAY, so R = 90% when t = S
+const clampD = d => Math.min(10, Math.max(1, d));
+const retr = (t, s) => Math.pow(1 + FACTOR*Math.max(0,t)/Math.max(.01,s), DECAY);
+const ivlFor = s => Math.min(MEM.maxIvl, Math.max(1, Math.round(s/FACTOR*(Math.pow(MEM.retention, 1/DECAY) - 1))));
+/* one review: g = 1 again, 2 hard, 3 good, 4 easy */
+function fsrs(card, g, today){
+  const w = MEM.w, D0 = x => clampD(w[4] - Math.exp(w[5]*(x-1)) + 1);
+  let s, d;
+  if (!card || !card.reps){ s = w[g-1]; d = D0(g); }
+  else {
+    const t = today - card.last;
+    if (t <= 0) s = card.s*Math.exp(w[17]*(g - 3 + w[18]));                       // same-day review
+    else {
+      const r = retr(t, card.s);
+      s = g === 1
+        ? Math.min(card.s, w[11]*Math.pow(card.d, -w[12])*(Math.pow(card.s + 1, w[13]) - 1)*Math.exp(w[14]*(1 - r)))
+        : card.s*(1 + Math.exp(w[8])*(11 - card.d)*Math.pow(card.s, -w[9])*(Math.exp(w[10]*(1 - r)) - 1)*(g === 2 ? w[15] : 1)*(g === 4 ? w[16] : 1));
+    }
+    d = clampD(w[7]*D0(4) + (1 - w[7])*(card.d - w[6]*(g - 3)*(10 - card.d)/9));   // linear damping + mean reversion
+  }
+  s = Math.max(.1, s);
+  return {s, d, last:today, due: today + (g === 1 ? 1 : ivlFor(s)), reps:(card?.reps||0) + 1, lapses:(card?.lapses||0) + (g === 1 ? 1 : 0)};
+}
+
+/* question banks: Folio originals have theirs built in; library books use agent-written files listed in data/quiz/index.json */
+const bankCache = new Map();
 async function bankFor(b){
+  if (!b) return [];
   if (QBANK[b.k]) return QBANK[b.k];
   if (!b.fmb || !QINDEX || !QINDEX.has(b.id)) return [];
-  try { const r = await fetch(`data/quiz/${b.id}.json`); if (r.ok) return ((await r.json()).questions || []).filter(validQ); } catch(_) {}
-  return [];
+  if (!bankCache.has(b.id)) bankCache.set(b.id, (async () => {
+    try { const r = await fetch(`data/quiz/${b.id}.json`); if (r.ok) return ((await r.json()).questions || []); } catch(_) {}
+    return [];
+  })());
+  return bankCache.get(b.id);
 }
-const BANKS = await Promise.all(PICKS.map(bankFor));
-const QZ = PICKS.flatMap((b, bi) => {
-  const r = seeded('quiz:'+DAY+':'+b.id);
-  const pick = shuffle(BANKS[bi].map((q,n)=>({...q,n})), r).slice(0,3);
-  return pick.map((q,j)=>{
-    const ord = shuffle([0,1,2,3], r);
-    return {id:b.id+'-'+q.n, b, j, of:pick.length, q:q.q, a:ord.map(o=>q.a[o]), c:ord.indexOf(0), why:q.why||''};
-  });
-});
-/* today's answers live in this browser only; the quiz still works if storage is unavailable */
+const cardBook = id => byId.get(id.slice(0, id.lastIndexOf('-')));
+const cardNo = id => +id.slice(id.lastIndexOf('-') + 1);
+
+/* today's answers: cardId -> {i: chosen option, g: grade, kind: 'new'|'review', prev: the card before this answer} */
 const QKEY = 'folio:quiz:'+DAY;
-let ANS = {};
-try { ANS = JSON.parse(localStorage.getItem(QKEY)||'{}') || {}; } catch(_){}
-const saveAns = () => { try { localStorage.setItem(QKEY, JSON.stringify(ANS)); } catch(_){} };
+let ANS = store.get(QKEY, {});
+for (const k in ANS) if (typeof ANS[k] === 'number') ANS[k] = {i:ANS[k], g:0, kind:'new', prev:null};   // answers saved by older versions
+const saveAns = () => store.set(QKEY, ANS);
 const hrsLeft = () => Math.ceil((new Date(NOW.getFullYear(),NOW.getMonth(),NOW.getDate()+1) - new Date())/36e5);
 const LONGDATE = NOW.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
 
-/* shelf caption for the quiz: a little shelf of today's six spines, and a dot per question */
+/* today's session: what you've already answered today, then due reviews (weakest first), then new cards from recent reads */
+async function buildSession(){
+  const ids = Object.keys(ANS).filter(id => cardBook(id));
+  const answered = new Set(ids);
+  const reviewedToday = ids.filter(id => ANS[id].kind === 'review').length;
+  const due = Object.entries(CARDS).filter(([id, c]) => c.due <= TODAY && !answered.has(id) && cardBook(id))
+    .sort((a, b) => retr(TODAY - a[1].last, a[1].s) - retr(TODAY - b[1].last, b[1].s)).map(([id]) => id);
+  ids.push(...due.slice(0, Math.max(0, MEM.maxReviews - reviewedToday)));
+  let room = Math.max(0, MEM.newPerDay - ids.filter(id => ANS[id]?.kind === 'new').length);
+  const recent = Object.entries(READ).sort((a, b) => b[1].localeCompare(a[1])).map(([id]) => byId.get(id)).filter(Boolean);
+  for (const b of recent){
+    if (room <= 0) break;
+    (await bankFor(b)).forEach((q, n) => { const id = b.id+'-'+n; if (room > 0 && !CARDS[id] && !answered.has(id) && validQ(q)){ ids.push(id); room--; } });
+  }
+  await Promise.all([...new Set(ids.map(cardBook))].map(bankFor));
+  const out = [];
+  for (const id of ids){
+    const b = cardBook(id), q = (await bankFor(b))[cardNo(id)];
+    if (!validQ(q)) continue;
+    const ord = shuffle([0,1,2,3], seeded('opts:'+DAY+':'+id));
+    out.push({id, b, q:q.q, a:ord.map(o => q.a[o]), c:ord.indexOf(0), why:q.why || '', kind: ANS[id]?.kind || (CARDS[id] ? 'review' : 'new')});
+  }
+  const per = new Map();
+  out.forEach(q => per.set(q.b, (per.get(q.b) || 0) + 1));
+  const seen = new Map();
+  out.forEach(q => { q.of = per.get(q.b); q.j = seen.get(q.b) || 0; seen.set(q.b, q.j + 1); });
+  return out;
+}
+let QZ = await buildSession();
+const sessionBooks = () => { const s = [...new Set(QZ.map(q => q.b))]; return s.length ? s : PICKS; };
+
+/* memory at a glance: cards by stability (weak < 3 days, growing < 3 weeks, strong beyond) and the week ahead */
+function memStats(){
+  const all = Object.values(CARDS);
+  const weak = all.filter(c => c.s < 3).length, strong = all.filter(c => c.s >= 21).length;
+  const week = Array.from({length:7}, (_, k) => all.filter(c => c.due === TODAY + k + 1).length);
+  return {total:all.length, weak, growing:all.length - weak - strong, strong, due: all.filter(c => c.due <= TODAY).length, week};
+}
+
+/* shelf caption for the quiz: spines of the books in today's session, and a dot per question */
 function quizGlyphs(){
-  const done = QZ.filter(q=>q.id in ANS).length;
-  const shelf = PICKS.map((b,i)=>`<i style="background:${b.base};height:${13+((i*5)%4)}px" data-tip="${escA(b.title)}"></i>`).join('');
-  const dots = QZ.map(q=>`<i class="${q.id in ANS?'on':''}"></i>`).join('');
-  return `<span class="g mshelf" aria-label="Covers today's six books">${shelf}</span><span class="dot"></span>
-    <span class="g" tabindex="0" data-tip="${done ? `${done} of ${QZ.length} answered` : `${QZ.length} questions · three per book`}"><span class="qdots">${dots}</span></span>`;
+  const done = QZ.filter(q => q.id in ANS).length, books = sessionBooks(), empty = !QZ.length;
+  const shelf = books.slice(0, 9).map((b,i) => `<i style="background:${b.base};height:${13+((i*5)%4)}px;${empty?'opacity:.35':''}" data-tip="${escA(b.title)}"></i>`).join('');
+  const dots = QZ.slice(0, 45).map(q => `<i class="${q.id in ANS ? 'on' : ''}${q.kind === 'new' ? ' nw' : ''}"></i>`).join('');
+  const nNew = QZ.filter(q => q.kind === 'new').length, nRev = QZ.length - nNew;
+  const tip = empty ? (Object.keys(READ).length ? 'All caught up' : 'Finish a book to start your reviews')
+    : done ? `${done} of ${QZ.length} answered` : [nRev && `${nRev} to review`, nNew && `${nNew} new`].filter(Boolean).join(' · ');
+  return `<span class="g mshelf" aria-label="Books in today's quiz">${shelf}</span><span class="dot"></span>
+    <span class="g" tabindex="0" data-tip="${tip}">${empty ? svgI('<circle cx="10" cy="10" r="7.5" stroke-dasharray="2 2.4"/>') : `<span class="qdots">${dots}</span>`}</span>`;
 }
 
 const inkCircle = `<svg class="ink" viewBox="0 0 300 60" preserveAspectRatio="none" aria-hidden="true">
@@ -2082,8 +2250,10 @@ const inkCircle = `<svg class="ink" viewBox="0 0 300 60" preserveAspectRatio="no
   <path class="i2" pathLength="1" d="M26 38 C12 18 94 7 161 8 S294 17 288 34 S210 55 143 53 S6 47 16 29"/></svg>`;
 const strike = `<svg class="strike" viewBox="0 0 100 10" preserveAspectRatio="none" aria-hidden="true"><path pathLength="1" d="M0 6 C30 3.5 68 7.5 100 4"/></svg>`;
 const bookDots = q => `<span class="bdots">${[...Array(q.of).keys()].map(j=>`<i class="${j<q.j?'p':j===q.j?'c':''}"></i>`).join('')}</span>`;
-const fan = (mark) => `<div class="fan" style="font-size:${Math.min(1, 6.5/PICKS.length).toFixed(2)}em">${PICKS.map((b,i)=>{ const all = QZ.filter(q=>q.b===b).every(q=>q.id in ANS);
-  return `<span class="fi" style="--a:${((i-2.5)*7).toFixed(1)}deg;--y:${(Math.abs(i-2.5)**2*.09).toFixed(2)}em" data-tip="${escA(b.title)}">${miniCover(b)}${mark&&all&&QZ.some(q=>q.b===b)?'<b class="tick"></b>':''}</span>`; }).join('')}</div>`;
+const fan = (mark) => { const books = sessionBooks().slice(0, 8), n = books.length, mid = (n-1)/2;
+  return `<div class="fan" style="font-size:${Math.min(1, 6.5/Math.max(n,1)).toFixed(2)}em">${books.map((b,i)=>{ const qs = QZ.filter(q=>q.b===b), all = qs.length && qs.every(q=>q.id in ANS);
+  return `<span class="fi" style="--a:${((i-mid)*7).toFixed(1)}deg;--y:${(Math.abs(i-mid)**2*.09).toFixed(2)}em" data-tip="${escA(b.title)}">${miniCover(b)}${mark&&all?'<b class="tick"></b>':''}</span>`; }).join('')}</div>`; };
+const inDays = n => n <= 0 ? 'today' : n === 1 ? 'tomorrow' : n < 14 ? `in ${n} days` : n < 60 ? `in ${Math.round(n/7)} weeks` : n < 700 ? `in ${Math.round(n/30)} months` : `in ${Math.round(n/365)} years`;
 
 function quizPages(){
   const P = [quizTitle];
@@ -2093,56 +2263,135 @@ function quizPages(){
   return P;
 }
 function quizTitle(){
+  const nNew = QZ.filter(q => q.kind === 'new').length, nRev = QZ.length - nNew, st = memStats();
+  const nextDue = Object.values(CARDS).reduce((m, c) => Math.min(m, c.due), Infinity);
+  const line = QZ.length ? QUIZ.one
+    : !Object.keys(READ).length ? 'Read a book to its last page, and its questions join your reviews.'
+    : st.total ? `All caught up. Your next reviews are due ${inDays(nextDue - TODAY)}.`
+    : 'Questions for the books you’ve read are on their way.';
+  const by = QZ.length ? [nRev && `${nRev} to review`, nNew && `${nNew} new`].filter(Boolean).join(' · ') : st.total ? `${st.total} questions in memory` : 'no questions yet';
   return `<div class="qp"><section class="opening"><span class="ico">${svgI(ICONS.quiz,30)}</span><h1>Recall</h1><p>${LONGDATE}</p>
-    ${fan(false)}<blockquote>${QZ.length ? QUIZ.one : 'Questions for today’s books are on their way. Read now, and check back soon.'}</blockquote><div class="by">${QZ.length ? QZ.length+' questions' : 'no questions yet'}</div></section></div>`;
+    ${fan(false)}<blockquote>${line}</blockquote><div class="by">${by}</div></section></div>`;
 }
 function quizFront(){
   const row = (w,c='') => `<div class="dm ${c}"><i class="mk"></i><b style="width:${w}%"></b>${c==='right'?inkCircle:''}</div>`;
   return `<div class="fpage qfront"><div class="demo">${row(62)}${row(78,'right')}${row(54)}${row(70)}</div>
     <div class="legend"><span>${svgI('<circle cx="10" cy="10" r="3" fill="currentColor" stroke="none"/><circle cx="10" cy="10" r="7"/>',18)}pick one</span>
     <span>${svgI('<path d="M4 11c-1-4 4-6 8-6s6 2 5 5-5 5-9 4-4-2-4-3"/>',18)}the right answer is circled</span>
-    <span>${svgI('<circle cx="10" cy="10" r="7.5" stroke-dasharray="2 2.4"/>',18)}no score</span></div></div>`;
+    <span>${svgI('<path d="M3 14c3-7 6-9 7-9s3 5 7 9"/><circle cx="10" cy="5" r="1.2" fill="currentColor" stroke="none"/>',18)}it comes back just before you'd forget</span></div></div>`;
 }
 function quizVis(q){
   return `<div class="fpage qvis">${miniCover(q.b,'big')}</div>`;
 }
 function quizQ(q,k){
-  const ans = ANS[q.id], done = ans!=null;
-  const opts = q.a.map((a,i)=>{
+  const a = ANS[q.id], done = !!a, ans = a?.i;
+  const opts = q.a.map((x,i)=>{
     const cls = !done ? '' : i===q.c ? 'right' : i===ans ? 'wrong' : 'dim';
-    return `<li><button class="opt ${cls}${done&&i===ans?' chosen':''}" data-q="${q.id}" data-i="${i}"${done?' disabled':''}><i class="mk"></i><span>${esc(a)}${cls==='wrong'?strike:''}${cls==='right'?inkCircle:''}</span></button></li>`;
+    return `<li><button class="opt ${cls}${done&&i===ans?' chosen':''}" data-q="${q.id}" data-i="${i}"${done?' disabled':''}><i class="mk"></i><span>${esc(x)}${cls==='wrong'?strike:''}${cls==='right'?inkCircle:''}</span></button></li>`;
   }).join('');
+  const card = CARDS[q.id];
+  const conf = done && ans === q.c && MEM.confidence && a.g ? `<div class="conf" role="group" aria-label="How sure were you?">${[[2,'Hard'],[3,'Good'],[4,'Easy']].map(([g,l]) => `<button type="button" class="cf${a.g===g?' on':''}" data-q="${q.id}" data-g="${g}">${l}</button>`).join('')}</div>` : '';
+  const next = done && card && a.g ? `<div class="nextrev">${svgI('<rect x="3" y="4.5" width="14" height="12.5" rx="1.2"/><path d="M3 8h14M7 3v3M13 3v3"/>',15)}back ${inDays(card.due - TODAY)}</div>` : '';
   return `<div class="rh">${esc(q.b.title)}</div>
     <div class="qp qq${R.just===q.id?' now':''}">
-      <div class="qhead">${R.geo.dbl ? '' : miniCover(q.b,'tiny')}${bookDots(q)}</div>
-      <h3>${esc(q.q)}</h3><ol class="opts">${opts}</ol>${done && q.why ? `<p class="why">${esc(q.why)}</p>` : ''}</div>
+      <div class="qhead">${R.geo.dbl ? '' : miniCover(q.b,'tiny')}${bookDots(q)}${q.kind === 'review' ? '<span class="kind">review</span>' : ''}</div>
+      <h3>${esc(q.q)}</h3><ol class="opts">${opts}</ol>${conf}${done && q.why ? `<p class="why">${esc(q.why)}</p>` : ''}${next}</div>
     <div class="fo">${k+1} · ${QZ.length}</div>`;
 }
 function quizFinVis(){
   return `<div class="fpage qfinv">${fan(true)}</div>`;
 }
 function quizFin(){
-  const h = hrsLeft();
+  const st = memStats(), mx = Math.max(1, ...st.week), day = d => new Date(NOW.getFullYear(), NOW.getMonth(), NOW.getDate()+d).toLocaleDateString('en-GB',{weekday:'narrow'});
+  const week = st.week.map((n,k) => `<span class="fcb" data-tip="${n} due ${inDays(k+1)}"><i style="height:${(4 + n/mx*44).toFixed(1)}px"></i><small>${day(k+1)}</small></span>`).join('');
   return `<div class="qp"><section class="opening fin"><span class="ico">${svgI('<path d="M10 3l1.6 5.4L17 10l-5.4 1.6L10 17l-1.6-5.4L3 10l5.4-1.6z"/>',30)}</span>
     <h1>That’s today</h1>${R.geo.dbl ? '' : fan(true)}
-    <blockquote>Tomorrow brings six new books, and new questions.</blockquote>
-    <div class="g soon" tabindex="0" data-tip="New shelf in ${h} h">${ring(h/24*16)}</div></section></div>`;
+    <div class="fc" aria-label="Reviews due over the next week">${week}</div>
+    <blockquote>${st.total ? 'Questions come back just before you’d forget them.' : 'Finish a book and its questions join your reviews.'}</blockquote>
+    <div class="g soon" tabindex="0" data-tip="New shelf in ${hrsLeft()} h">${ring(hrsLeft()/24*16)}</div></section></div>`;
 }
 
-/* answering: the choice is marked, the right answer circled in ink, and the page stays put so you can read it */
+/* answering: the choice is marked, the right answer circled in ink, and the card is scheduled */
 reader.addEventListener('click', e=>{
+  if (!R.book || !R.book.quiz || R.busy) return;
+  const cf = e.target.closest('.cf');
+  if (cf){                                   // re-grade a right answer as Hard / Good / Easy
+    const id = cf.dataset.q, a = ANS[id], g = +cf.dataset.g;
+    if (!a || a.g === g) return;
+    CARDS[id] = fsrs(a.prev, g, TODAY); a.g = g; saveCards(); saveAns(); setFace(rRight, R.r, 'l');
+    return;
+  }
   const o = e.target.closest('.opt');
-  if (!o || o.disabled || R.busy || !R.book || !R.book.quiz) return;
-  const id = o.dataset.q;
-  if (id in ANS) return;
-  ANS[id] = +o.dataset.i; saveAns();
+  if (!o || o.disabled) return;
+  const id = o.dataset.q, q = QZ.find(x => x.id === id);
+  if (!q || ANS[id]) return;
+  const i = +o.dataset.i, g = i === q.c ? 3 : 1, prev = CARDS[id] || null;
+  CARDS[id] = fsrs(prev, g, TODAY); ANS[id] = {i, g, kind:q.kind, prev};
+  saveCards(); saveAns();
   R.just = id; setFace(rRight, R.r, 'l'); R.just = null;
   const nx = $('rNext'); nx.classList.remove('nudge'); void nx.offsetWidth; nx.classList.add('nudge');
 });
 
+/* ---------- memory settings: a few plain controls, with the FSRS internals tucked under "Advanced" ---------- */
+{
+  const sheet = $('memSheet'), btn = $('rMem');
+  const pct = v => Math.round(v*100);
+  function draw(){
+    const st = memStats(), tot = Math.max(1, st.total);
+    sheet.innerHTML = `
+      <div class="ms-k">memory</div>
+      <div class="ms-bar" aria-label="Questions by memory strength">
+        <i class="w" style="flex:${st.weak}" data-tip="${st.weak} still settling"></i><i class="gr" style="flex:${st.growing}" data-tip="${st.growing} growing"></i><i class="sg" style="flex:${st.strong}" data-tip="${st.strong} strong (3+ weeks)"></i>${st.total ? '' : '<i class="none" style="flex:1"></i>'}
+      </div>
+      <div class="ms-legend"><span><b class="w"></b>settling</span><span><b class="gr"></b>growing</span><span><b class="sg"></b>strong</span><span class="n">${st.total} cards · ${st.due} due</span></div>
+      <label class="ms-row"><span>Remember</span><output id="msRetO">${pct(MEM.retention)}%</output></label>
+      <input type="range" id="msRet" min="80" max="97" step="1" value="${pct(MEM.retention)}" aria-label="Target retention">
+      <p class="ms-hint">Higher keeps more, but brings questions back sooner.</p>
+      <div class="ms-row"><span>New questions a day</span><span class="ms-step"><button type="button" data-k="newPerDay" data-d="-1" aria-label="Fewer">−</button><b>${MEM.newPerDay}</b><button type="button" data-k="newPerDay" data-d="1" aria-label="More">+</button></span></div>
+      <div class="ms-row"><span>Reviews a day, at most</span><span class="ms-step"><button type="button" data-k="maxReviews" data-d="-10" aria-label="Fewer">−</button><b>${MEM.maxReviews}</b><button type="button" data-k="maxReviews" data-d="10" aria-label="More">+</button></span></div>
+      <label class="ms-row ms-sw"><span>Rate how sure I was</span><input type="checkbox" id="msConf" ${MEM.confidence ? 'checked' : ''}><i></i></label>
+      <details class="ms-adv"><summary>Advanced</summary>
+        <label class="ms-row"><span>Longest gap, in days</span><input type="number" id="msMax" min="30" max="36500" step="1" value="${MEM.maxIvl}"></label>
+        <label class="ms-col"><span>FSRS parameters</span><textarea id="msW" rows="3" spellcheck="false" aria-label="FSRS parameters (19 numbers)">${MEM.w.map(x => +x.toFixed(4)).join(', ')}</textarea></label>
+        <p class="ms-hint" id="msWHint">19 numbers, e.g. from the FSRS optimizer. Leave as is if unsure.</p>
+        <div class="ms-btns"><button type="button" id="msDefaults">Restore defaults</button><button type="button" id="msForget">Forget all progress</button></div>
+      </details>
+      <p class="ms-foot">Changes apply from your next session.</p>`;
+  }
+  const open = v => { sheet.hidden = !v; btn.setAttribute('aria-expanded', v); if (v) draw(); };
+  btn.addEventListener('click', e => { e.stopPropagation(); open(sheet.hidden); });
+  sheet.addEventListener('pointerdown', e => e.stopPropagation());
+  sheet.addEventListener('click', e => {
+    e.stopPropagation();
+    const s = e.target.closest('[data-k]');
+    if (s){ const k = s.dataset.k, lim = k === 'newPerDay' ? [0, 50] : [10, 300];
+      MEM[k] = Math.min(lim[1], Math.max(lim[0], MEM[k] + +s.dataset.d)); saveMem(); draw(); return; }
+    if (e.target.id === 'msDefaults'){ Object.assign(MEM, structuredClone(MEM_DEFAULT)); MEM.w = FSRS_W.slice(); saveMem(); draw(); sheet.querySelector('.ms-adv').open = true; return; }
+    if (e.target.id === 'msForget' && confirm('Forget all review history? Your read books stay marked as read.')){ CARDS = {}; saveCards(); ANS = {}; saveAns(); draw(); }
+  });
+  sheet.addEventListener('input', e => {
+    if (e.target.id === 'msRet'){ MEM.retention = +e.target.value/100; $('msRetO').textContent = e.target.value+'%'; saveMem(); }
+    if (e.target.id === 'msConf'){ MEM.confidence = e.target.checked; saveMem(); }
+    if (e.target.id === 'msMax'){ const v = Math.round(+e.target.value); if (v >= 30 && v <= 36500){ MEM.maxIvl = v; saveMem(); } }
+    if (e.target.id === 'msW'){
+      const w = e.target.value.split(/[\s,]+/).filter(Boolean).map(Number), ok = validW(w);
+      e.target.classList.toggle('bad', !ok); $('msWHint').textContent = ok ? 'Saved.' : `Needs 19 numbers (has ${w.length}).`;
+      if (ok){ MEM.w = w; saveMem(); }
+    }
+  });
+  document.addEventListener('click', () => { if (!sheet.hidden) open(false); });
+  window.closeMemSheet = () => open(false);
+}
+
+function markRead(b){
+  if (!b || b.quiz || READ[b.id]) return;
+  READ[b.id] = DAY; store.set('folio:read', READ);
+  const t = libGrid.querySelector(`.tile[data-n="${ALL.indexOf(b)}"]`); if (t) t.classList.add('done');
+}
 /* ---------- library: every book, searchable, filterable, sortable ---------- */
 const lib = $('lib'), libGrid = $('libGrid'), libQ = $('libQ'), libChips = $('libChips');
 let libBuilt = false, libCat = 'all', libSort = 'az', tiles = [], libKeys = [], libOrders = {};
+const IC_CHECK = '<path d="M4.5 10.5l3.5 3.5 7.5-8"/>';
 const IC_SPARK = '<path d="M10 3l1.6 5.4L17 10l-5.4 1.6L10 17l-1.6-5.4L3 10l5.4-1.6z"/>';
 function buildLib(){
   libBuilt = true;
@@ -2151,10 +2400,12 @@ function buildLib(){
   const cats = [...counts.entries()].sort((a,b) => b[1]-a[1]);
   const famIcon = c => ICONS[FAMILY_ICON[FAMILY_OF[c]]] || ICONS.peak;
   libChips.innerHTML = `<button class="chip on" data-cat="all" type="button">All <small>${ALL.length.toLocaleString()}</small></button>
-    <button class="chip" data-cat="own" type="button">${svgI(IC_SPARK,13)}Folio originals <small>${LIB.length}</small></button>` +
+    <button class="chip" data-cat="own" type="button">${svgI(IC_SPARK,13)}Folio originals <small>${LIB.length}</small></button>
+    <button class="chip" data-cat="unread" type="button">${svgI('<circle cx="10" cy="10" r="6.5"/>',13)}Unread</button>
+    <button class="chip" data-cat="read" type="button">${svgI(IC_CHECK,13)}Read <small id="readCount">${Object.keys(READ).length}</small></button>` +
     cats.map(([c,n]) => `<button class="chip" data-cat="${escA(c)}" type="button">${svgI(famIcon(c),13)}${esc(c)} <small>${n}</small></button>`).join('');
-  libGrid.innerHTML = ALL.map((b,n) => `<button class="tile" type="button" data-n="${n}" aria-label="${escA(b.title + (b.author ? ' by '+b.author : ''))}">
-    <span class="tc"><span class="ov light"></span><span class="ov hinge"></span>${b.own ? '<i class="badge" title="Folio original"></i>' : ''}</span>
+  libGrid.innerHTML = ALL.map((b,n) => `<button class="tile${READ[b.id] ? ' done' : ''}" type="button" data-n="${n}" aria-label="${escA(b.title + (b.author ? ' by '+b.author : ''))}">
+    <span class="tc"><span class="ov light"></span><span class="ov hinge"></span>${b.own ? '<i class="badge" title="Folio original"></i>' : ''}<i class="seal" title="Read"></i></span>
     <span class="tt">${esc(b.title)}</span><span class="ta">${esc(b.author || (b.fmb ? b.primary : ''))}</span></button>`).join('');
   tiles = [...libGrid.children];
   libKeys = ALL.map(b => normT(b.title+' '+b.author+' '+(b.cats||[]).join(' ')));
@@ -2180,7 +2431,7 @@ function filterLib(){
   let shown = 0;
   libOrders[libSort].forEach((n,k) => {
     const b = ALL[n], t = tiles[n];
-    const ok = words.every(w => libKeys[n].includes(w)) && (libCat === 'all' || (libCat === 'own' ? b.own : (b.cats||[]).includes(libCat)));
+    const ok = words.every(w => libKeys[n].includes(w)) && (libCat === 'all' || (libCat === 'own' ? b.own : libCat === 'read' ? !!READ[b.id] : libCat === 'unread' ? !READ[b.id] : (b.cats||[]).includes(libCat)));
     t.hidden = !ok; t.style.order = k; if (ok) shown++;
   });
   $('libCount').textContent = `${shown.toLocaleString()} ${shown === 1 ? 'book' : 'books'}`;

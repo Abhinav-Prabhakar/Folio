@@ -142,11 +142,10 @@ Summaries are plain Markdown inside `index.html`, so they're easy to edit. See [
 
 **Recall** is always the last book on the shelf: an oxblood leather notebook with blind-debossed borders, a gilt seal, brass corner guards and an elastic band. A row of small gilt diamonds on the cover stands for today's books, one each.
 
-- **Up to three questions per book**, drawn fresh each day from a bank of five, with the options shuffled.
-- **Every book can have a bank.** The eight Folio originals have theirs built in. Library books get theirs from question files written by an agent from each summary; see the [quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md). Until a book has questions, the quiz simply skips it.
-- **No score.** A wrong pick is struck through, the right answer gets an ink circle drawn around it, and the rest fade back.
-- **It remembers today.** Your answers stay put if you close the book and come back (stored only in your browser). Tomorrow brings new questions.
-- **Progress without numbers.** Under the shelf, one dot per question fills in as you go. When you finish a book's questions, its cover gets a small mark on the closing page.
+- **Spaced repetition (FSRS).** Every question from every book you've finished becomes a card, scheduled with the [FSRS-5](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm) algorithm. Recall shows today's due reviews, weakest memories first, plus a few new questions from your latest reads. A question comes back just before you'd forget it.
+- **No score.** A wrong pick is struck through, the right answer gets an ink circle drawn around it, and you see when that question will come back.
+- **You set the pace.** The sliders button in Recall opens *Memory*: how much to remember (80–97%), new questions a day, and the most reviews a day. You can also turn on *Rate how sure I was* (Hard / Good / Easy). Under *Advanced* sit the longest gap between reviews, the 19 FSRS parameters (paste your own from the optimizer) and a reset.
+- **Where questions come from.** The eight Folio originals have theirs built in; library books get theirs from question files written by an agent ([prompt](docs/QUIZ-AGENT-PROMPT.md)).
 - **Short explanations.** Where a question comes with one, a single line under the circled answer says where in the summary it came from.
 
 <br>
@@ -275,7 +274,7 @@ Hand-drawn covers, summaries written for Folio, and built-in quiz questions.
 
 ### Your daily shelf
 
-Tap the **calendar** in the header to choose how many books you get each day, from three to twelve. The shelf is picked from the whole library using the date as the seed, so everyone with the same setting sees the same books on the same day. It changes at local midnight.
+Tap the **calendar** in the header to choose how many books you get each day, from three to twelve. **Books never repeat:** each new day draws only from books you haven't been shown or read, until you've been through the whole library. Reaching a summary's last page marks it **read**: the library gives it a gilt seal and has *Read / Unread* filters, and its questions join your reviews.
 
 <br>
 
@@ -378,7 +377,7 @@ Fonts come from Google Fonts. Offline, Folio falls back to system serif and sans
 
 </details>
 
-**Go deeper:** [Architecture](docs/ARCHITECTURE.md) · [The library](docs/LIBRARY.md) · [Quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
+**Go deeper:** [Hand-off / roadmap](docs/HANDOFF.md) · [Architecture](docs/ARCHITECTURE.md) · [The library](docs/LIBRARY.md) · [Quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
 
 <br>
 
