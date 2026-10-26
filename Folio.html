@@ -29,6 +29,11 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .count{font-weight:200;font-size:12px;letter-spacing:.2em;color:var(--mute);font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:8px}
 .count b{font-weight:300;color:var(--ink)}
 .count i{display:block;width:28px;height:1px;background:var(--hair)}
+.day{position:relative;display:grid;place-items:center;margin-right:14px;color:var(--ink)}
+.day svg{display:block}
+[data-tip].tipdown::after{bottom:auto;top:calc(100% + 10px);transform:translate(-50%,-4px)}
+[data-tip].tipdown:hover::after,[data-tip].tipdown:focus-visible::after{transform:translate(-50%,0)}
+.day:focus-visible{outline:1px solid var(--ink);outline-offset:4px}
 
 /* ---------- stage ---------- */
 .halo{position:absolute;left:50%;top:44%;width:min(70vw,720px);aspect-ratio:1.4;max-width:100%;transform:translate(-50%,-50%);border-radius:50%;background:var(--accent);filter:blur(90px);opacity:.13;transition:background-color 1s ease;pointer-events:none}
@@ -247,7 +252,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
       <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".9"><path d="M3 4.5c2.5-1 5-1 7 .8 2-1.8 4.5-1.8 7-.8v11c-2.5-1-5-1-7 .8-2-1.8-4.5-1.8-7-.8z"/><path d="M10 5.3v11"/></svg>
       folio
     </div>
-    <div class="count" aria-live="polite"><b id="cur">01</b><i></i><span id="tot">08</span></div>
+    <div class="count" aria-live="polite"><span class="day tipdown" id="day" tabindex="0"></span><b id="cur">01</b><i></i><span id="tot">08</span></div>
   </header>
 
   <section class="viewport" id="vp" aria-roledescription="carousel" aria-label="Books">
@@ -582,8 +587,8 @@ It made magical realism famous around the world, and reads like a whole continen
 
 <script>
 (() => {
-/* ---------- data ---------- */
-const BOOKS = [
+/* ---------- data: the whole library ---------- */
+const LIB = [
  {k:'moby', title:'Moby-Dick', author:'Herman Melville', life:'1819–1891 · New York', year:1851, pages:635, words:206000, rating:3.53,
   genre:'sea', genreName:'Sea epic', accent:'#1f4a6b', base:'#0d1d2c', ink:'#d6e2ee',
   one:'One captain, one whale, and an ocean too large for either.',
@@ -633,6 +638,15 @@ const emb = (p, a=225) => `<filter id="${p}emb" x="-10%" y="-20%" width="120%" h
 const glowF = (p, sd=5) => `<filter id="${p}gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="${sd}"/></filter>`;
 const T = (x,y,txt,o) => `<text x="${x}" y="${y}" text-anchor="middle" ${o}>${txt}</text>`;
 const mix = (a,b,t) => a.map((v,i)=>Math.round(v+(b[i]-v)*t));
+
+/* ---------- today's shelf: six books picked from the library, seeded by the date ---------- */
+const NOW = new Date();
+const DAY = `${NOW.getFullYear()}-${String(NOW.getMonth()+1).padStart(2,'0')}-${String(NOW.getDate()).padStart(2,'0')}`;
+const hash = s => { let h = 2166136261; for (const c of s) h = Math.imul(h ^ c.charCodeAt(0), 16777619); return h>>>0; };
+const seeded = s => { const r = rng(hash(s)); for (let i=0;i<4;i++) r(); return r; };
+const shuffle = (a, r) => { a = a.slice(); for (let i=a.length-1;i>0;i--){ const j = Math.floor(r()*(i+1)); [a[i],a[j]] = [a[j],a[i]]; } return a; };
+const PICKS = shuffle(LIB, seeded('shelf:'+DAY)).slice(0,6);
+const BOOKS = PICKS.slice();
 
 /* ---------- covers (original artwork) ---------- */
 const COVERS = {
@@ -982,6 +996,11 @@ function select(i){
   $('stem').style.left = yp(b.year)+'%';
 }
 $('tot').textContent = String(N).padStart(2,'0');
+/* calendar glyph: today's date, with the refresh time tucked into its hover */
+{ const d = $('day'), hrs = Math.ceil((new Date(NOW.getFullYear(),NOW.getMonth(),NOW.getDate()+1) - NOW)/36e5);
+  d.dataset.tip = `Today's six · new picks in ${hrs} h`;
+  d.setAttribute('aria-label', d.dataset.tip);
+  d.innerHTML = `<svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><rect x="3" y="4.5" width="14" height="12.5" rx="1.2"/><path d="M3 8h14M7 3v3M13 3v3"/><text x="10" y="15.1" text-anchor="middle" fill="currentColor" stroke="none" font-family="Jost" font-weight="400" font-size="6.2">${NOW.getDate()}</text></svg>`; }
 
 /* keep flip glyph in sync */
 let lastFlip = 0;
