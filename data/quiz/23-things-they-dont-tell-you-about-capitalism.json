@@ -1,0 +1,56 @@
+{
+  "book": "23-things-they-dont-tell-you-about-capitalism",
+  "title": "23 Things They Don’t Tell You About Capitalism",
+  "questions": [
+    {
+      "q": "What false assumption underlies free-market economics, per lesson 1?",
+      "a": [
+        "That people make fully rational financial choices",
+        "That governments are always efficient",
+        "That wealth is evenly shared",
+        "That companies never fail"
+      ],
+      "why": "Lesson 1 says the ideology assumes rational decisions, which most of us can't make."
+    },
+    {
+      "q": "What did Merton and Scholes's Nobel-winning work assume?",
+      "a": [
+        "That people always act rationally with money",
+        "That markets can never crash",
+        "That the state should run companies",
+        "That investors need no advice"
+      ],
+      "why": "The summary ties their work to the idea of rational financial choice."
+    },
+    {
+      "q": "Why did the Soviet Bloc fail with planning, according to lesson 2?",
+      "a": [
+        "The government had too much authority",
+        "It had no plans at all",
+        "It trusted private firms too much",
+        "It ignored heavy industry"
+      ],
+      "why": "Lesson 2 says the problem was too much control; a little guidance can work."
+    },
+    {
+      "q": "What did the South Korean government do in the LG example?",
+      "a": [
+        "Steered it away from textiles toward a better opportunity",
+        "Shut the company down",
+        "Gave it a monopoly on textiles",
+        "Left it entirely alone"
+      ],
+      "why": "The summary says the government saw a better opportunity than textiles."
+    },
+    {
+      "q": "What analogy does lesson 3 use for capitalism?",
+      "a": [
+        "A car that needs safety standards",
+        "A garden that needs weeding",
+        "A ship that needs a captain",
+        "A bridge that needs repairs"
+      ],
+      "why": "Lesson 3 compares capitalism to a car with seat belts and brakes."
+    }
+  ]
+}

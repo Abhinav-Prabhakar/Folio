@@ -1,0 +1,56 @@
+{
+  "book": "21-days-to-a-big-idea",
+  "title": "21 Days to a Big Idea",
+  "questions": [
+    {
+      "q": "What did George Land's test find about creativity in children as they aged?",
+      "a": [
+        "Creativity dropped sharply between ages five and ten",
+        "Creativity stayed constant through childhood",
+        "Creativity grew after starting school",
+        "Creativity was low at every age"
+      ],
+      "why": "Lesson 1 says 98% of five-year-olds ranked as highly creative, but only 30% still did at ten."
+    },
+    {
+      "q": "What does lesson 1 suggest asking yourself to find areas to innovate in?",
+      "a": [
+        "What you wished for as a kid",
+        "What your competitors are selling",
+        "Which skills pay the most",
+        "What your boss would approve"
+      ],
+      "why": "The overview lists childhood wishes as a way to find areas for innovation."
+    },
+    {
+      "q": "How does the 'and' technique generate ideas?",
+      "a": [
+        "Combine a random noun with a random adjective",
+        "List ten problems and pick one",
+        "Ask friends to vote on topics",
+        "Write for an hour without stopping"
+      ],
+      "why": "Lesson 2 describes drawing a noun card and an adjective card."
+    },
+    {
+      "q": "What is billboarding used for?",
+      "a": [
+        "Seeing which ideas could become a business",
+        "Advertising a finished product",
+        "Training your memory",
+        "Designing office layouts"
+      ],
+      "why": "Lesson 3 uses billboarding to test business ideas before seeking feedback."
+    },
+    {
+      "q": "What is the final step of billboarding?",
+      "a": [
+        "Turn the strongest benefit into a slogan",
+        "Order a prototype",
+        "Set a launch budget",
+        "Survey a large audience"
+      ],
+      "why": "The three steps are a snappy name, a list of benefits, then a slogan."
+    }
+  ]
+}

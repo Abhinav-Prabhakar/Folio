@@ -1,0 +1,56 @@
+{
+  "book": "a-christmas-carol",
+  "title": "A Christmas Carol",
+  "questions": [
+    {
+      "q": "Whose ghost first appears to Scrooge on Christmas Eve?",
+      "a": [
+        "His former business partner Jacob Marley",
+        "His late father",
+        "His sister Fan",
+        "His old employer Fezziwig"
+      ],
+      "why": "Lesson 1 says Marley's ghost appears in chains."
+    },
+    {
+      "q": "Which ghost shows Scrooge his childhood relationships?",
+      "a": [
+        "The Ghost of Christmas Past",
+        "The Ghost of Christmas Present",
+        "The Ghost of Christmas Yet to Come",
+        "The Ghost of Marley"
+      ],
+      "why": "Lesson 2 says the Ghost of Christmas Past takes him to his childhood."
+    },
+    {
+      "q": "Whose dinner does the Ghost of Christmas Present show Scrooge?",
+      "a": [
+        "Bob Cratchit's family dinner",
+        "A rich merchant's feast",
+        "A village festival",
+        "His nephew's party"
+      ],
+      "why": "The summary mentions Cratchit's scant dinner."
+    },
+    {
+      "q": "What does the funeral vision teach Scrooge?",
+      "a": [
+        "It's not too late to change his ways",
+        "That wealth guarantees respect",
+        "That solitude is peaceful",
+        "That he should retire early"
+      ],
+      "why": "Lesson 3 says it's never too late to become better."
+    },
+    {
+      "q": "What did Stephen Covey's 'funeral test' ask?",
+      "a": [
+        "What you'd want people to say at your wake",
+        "How much money you will leave",
+        "Who will attend your funeral",
+        "How long you will live"
+      ],
+      "why": "Lesson 3 ties the book to Covey's funeral test."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "30-lessons-for-loving",
+  "title": "30 Lessons For Loving",
+  "questions": [
+    {
+      "q": "Whom did Karl Pillemer interview for his research?",
+      "a": [
+        "Over 700 Americans married for 30 years or more",
+        "Marriage therapists and divorce lawyers",
+        "Newlyweds in their first year",
+        "Couples who had recently separated"
+      ],
+      "why": "The overview says he spoke with over 700 long-term couples."
+    },
+    {
+      "q": "What does lesson 1 say you rely on to know you've found a companion?",
+      "a": [
+        "Your heart and your mind",
+        "Advice from family only",
+        "A long checklist",
+        "Time spent apart"
+      ],
+      "why": "Lesson 1 says to trust both heart and mind."
+    },
+    {
+      "q": "What does it mean when couples disagree, according to lesson 2?",
+      "a": [
+        "They're being honest about their feelings",
+        "Their marriage is failing",
+        "They need to avoid conversations",
+        "They should seek a break"
+      ],
+      "why": "Lesson 2 says disagreement signals honesty, which is good."
+    },
+    {
+      "q": "When does lesson 2 suggest having difficult conversations?",
+      "a": [
+        "When you are fed and well-rested",
+        "Right after work",
+        "Late at night",
+        "As soon as an issue appears"
+      ],
+      "why": "The advice is to talk only when your stomach is full and you're rested."
+    },
+    {
+      "q": "What keeps romance strong over the years, according to lesson 3?",
+      "a": [
+        "Small, consistent acts of love",
+        "Occasional extravagant gestures",
+        "Strictly equal chores",
+        "Spending every moment together"
+      ],
+      "why": "Lesson 3 says the little things done consistently matter most."
+    }
+  ]
+}

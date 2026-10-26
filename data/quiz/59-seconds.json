@@ -1,0 +1,56 @@
+{
+  "book": "59-seconds",
+  "title": "59 Seconds",
+  "questions": [
+    {
+      "q": "What does Richard Wiseman's research show works better than visualizing your goals?",
+      "a": [
+        "Having a step-by-step plan",
+        "Imagining your success daily",
+        "Telling friends about your goals",
+        "Writing a vision board"
+      ],
+      "why": "Lesson 1 notes visualization can backfire while a step-by-step plan works."
+    },
+    {
+      "q": "What does lesson 1 suggest you think about to align your actions with long-term goals?",
+      "a": [
+        "Your own eulogy",
+        "Your retirement date",
+        "Your dream house",
+        "Your biggest fear"
+      ],
+      "why": "The lesson title tells you to think about your eulogy."
+    },
+    {
+      "q": "Why does the summary say brainstorming can hurt ideas?",
+      "a": [
+        "It suppresses ideas, especially in groups, due to fear of judgment",
+        "It lasts too long",
+        "It only works alone",
+        "It produces too many ideas"
+      ],
+      "why": "Lesson 2 says people hold back ideas in groups."
+    },
+    {
+      "q": "What should you do after having a brilliant thought, per lesson 2?",
+      "a": [
+        "Go straight from eureka to execution",
+        "Run a group brainstorm",
+        "Wait a week to evaluate",
+        "Ask for feedback first"
+      ],
+      "why": "The advice is to skip deliberating and start doing."
+    },
+    {
+      "q": "What word does lesson 3 recommend using when pointing out a flaw?",
+      "a": [
+        "But",
+        "However",
+        "Maybe",
+        "Although"
+      ],
+      "why": "Researchers found 'but' softens criticism in successful relationships."
+    }
+  ]
+}

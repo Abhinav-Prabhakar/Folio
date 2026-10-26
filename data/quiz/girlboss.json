@@ -1,0 +1,56 @@
+{
+  "book": "girlboss",
+  "title": "#GIRLBOSS",
+  "questions": [
+    {
+      "q": "How did Sophia Amoruso first build her business?",
+      "a": [
+        "Selling thrift vintage clothes she loved",
+        "Opening a restaurant with friends",
+        "Licensing a school study program",
+        "Running a marketing consultancy"
+      ],
+      "why": "The overview says she became an entrepreneur selling thrifted vintage clothes."
+    },
+    {
+      "q": "What did Amoruso do about formal education before succeeding?",
+      "a": [
+        "She dropped out of high school for homeschooling",
+        "She earned a business degree first",
+        "She trained at a top marketing academy",
+        "She completed an MBA at night"
+      ],
+      "why": "The summary says she hated high school and left for homeschooling, with no business courses."
+    },
+    {
+      "q": "What can odd jobs and unconventional experiences do for you, according to lesson 1?",
+      "a": [
+        "Teach you about your strengths and open new doors",
+        "Prove that a career needs a straight path",
+        "Show you that passion is overrated",
+        "Guarantee a quick promotion"
+      ],
+      "why": "Lesson 1 argues that off-path opportunities build skills and self-knowledge."
+    },
+    {
+      "q": "Once you are doing what you like, how should you treat your business?",
+      "a": [
+        "Know it inside out and ignore what others think",
+        "Copy what the largest competitors do",
+        "Hand most decisions to outside advisers",
+        "Keep changing direction to stay flexible"
+      ],
+      "why": "Lesson 2 says to know your business thoroughly and stay focused despite opinions."
+    },
+    {
+      "q": "What does lesson 3 recommend for making a company flourish?",
+      "a": [
+        "Build a community of like-minded people",
+        "Hire only people with famous résumés",
+        "Work alone to protect your vision",
+        "Cut costs by avoiding any team culture"
+      ],
+      "why": "Lesson 3 is about creating a community and an environment that suits you."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "a-beautiful-mind",
+  "title": "A Beautiful Mind",
+  "questions": [
+    {
+      "q": "In which field did John Nash make his famous contribution?",
+      "a": [
+        "Game theory",
+        "Number theory",
+        "Geometry",
+        "Statistics"
+      ],
+      "why": "The summary says he expanded Neumann's game theory in his thesis."
+    },
+    {
+      "q": "How is Nash described as a graduate student?",
+      "a": [
+        "A loner who wasn't especially well-liked",
+        "A popular leader of study groups",
+        "A mentor to many peers",
+        "A skilled public speaker"
+      ],
+      "why": "Lesson 1 says he preferred to stay a loner."
+    },
+    {
+      "q": "What stress contributed to Nash's illness, per lesson 2?",
+      "a": [
+        "Worry about tenure and a lack of new breakthroughs",
+        "Money problems from gambling",
+        "Losing a close mentor",
+        "A divorce"
+      ],
+      "why": "Lesson 2 says he grew anxious as he neared 30 without tenure or new results."
+    },
+    {
+      "q": "What belief did Nash develop during his illness?",
+      "a": [
+        "That aliens were trying to ruin his career",
+        "That he was a famous artist",
+        "That his family was in danger",
+        "That he had been cloned"
+      ],
+      "why": "The summary mentions he believed aliens were trying to ruin his career."
+    },
+    {
+      "q": "What honor did Nash receive after his recovery?",
+      "a": [
+        "The Nobel Prize in Economics",
+        "The Fields Medal",
+        "A Pulitzer Prize",
+        "The Turing Award"
+      ],
+      "why": "Lesson 3 says he received the Nobel Prize in Economics."
+    }
+  ]
+}

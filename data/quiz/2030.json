@@ -1,0 +1,56 @@
+{
+  "book": "2030",
+  "title": "2030",
+  "questions": [
+    {
+      "q": "Why does Guillen worry about birth rates?",
+      "a": [
+        "Too few children to replace and support older generations",
+        "Overpopulation is straining resources",
+        "More babies means fewer jobs",
+        "Cities are growing too quickly"
+      ],
+      "why": "Lesson 1 argues we face a baby drought, not overpopulation."
+    },
+    {
+      "q": "What does the summary give as the main reason birth rates fell?",
+      "a": [
+        "More women in the workforce who wait longer",
+        "Rising food prices",
+        "Stricter government policies",
+        "Smaller homes"
+      ],
+      "why": "Women working tend to have children later, lowering birth rates."
+    },
+    {
+      "q": "What milestone is predicted for women's wealth by 2030?",
+      "a": [
+        "Women will hold over half of the world's wealth",
+        "Women will earn equal pay everywhere",
+        "Women will make up half of CEOs",
+        "Women will own most property"
+      ],
+      "why": "Lesson 2 predicts women will hold more than half of global wealth."
+    },
+    {
+      "q": "Why will businesses compete more for workers?",
+      "a": [
+        "Low birth rates and an aging population shrink the pool",
+        "Remote work spreads",
+        "Wages fall",
+        "Universities graduate fewer people"
+      ],
+      "why": "Lesson 2 says the qualified worker pool will shrink."
+    },
+    {
+      "q": "What makes a blockchain hard to tamper with?",
+      "a": [
+        "Each transaction block is encrypted and strung together",
+        "A central bank guards the records",
+        "Banks approve every change",
+        "Only governments can read it"
+      ],
+      "why": "Lesson 3 says the code of linked blocks can't be altered without being noticed."
+    }
+  ]
+}

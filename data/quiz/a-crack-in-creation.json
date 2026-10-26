@@ -1,0 +1,56 @@
+{
+  "book": "a-crack-in-creation",
+  "title": "A Crack In Creation",
+  "questions": [
+    {
+      "q": "What is CRISPR, in the simplest terms?",
+      "a": [
+        "A part of bacterial DNA that helps fight viruses",
+        "A drug that attacks bacteria",
+        "A type of lab microscope",
+        "A human immune cell"
+      ],
+      "why": "Lesson 1 describes it as a natural defense in bacterial DNA."
+    },
+    {
+      "q": "Which gene is named as a key part of the CRISPR system?",
+      "a": [
+        "Cas9",
+        "BRCA1",
+        "p53",
+        "HOX"
+      ],
+      "why": "Lesson 1 lists the Cas9 gene among three parts."
+    },
+    {
+      "q": "What crop problem could gene editing address, per lesson 2?",
+      "a": [
+        "Yellow dragon disease in citrus",
+        "Drought in corn",
+        "Rust in wheat",
+        "Blight in potatoes"
+      ],
+      "why": "The summary says gene editing could end the disease devastating citrus plantations."
+    },
+    {
+      "q": "What benefit came from the modified pigs in Canada?",
+      "a": [
+        "Better digestion, reducing phosphorus in waste",
+        "Larger litter sizes",
+        "Faster growth",
+        "Resistance to disease"
+      ],
+      "why": "Lesson 2 says lower phosphorus waste reduces algal blooms."
+    },
+    {
+      "q": "Which question concerns the ethics of gene editing in lesson 3?",
+      "a": [
+        "Whether to choose a baby's gender or traits",
+        "Whether to patent bacteria",
+        "Whether to ban lab animals",
+        "Whether to label food"
+      ],
+      "why": "Lesson 3 asks if editing babies to be stronger or prettier is acceptable."
+    }
+  ]
+}

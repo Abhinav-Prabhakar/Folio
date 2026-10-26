@@ -1,0 +1,56 @@
+{
+  "book": "10-minute-toughness",
+  "title": "10-Minute Toughness",
+  "questions": [
+    {
+      "q": "According to lesson 1, how do you strengthen your self-confidence?",
+      "a": [
+        "Act and think like the person you want to be",
+        "Wait until success proves you right",
+        "Compare yourself with stronger competitors",
+        "Avoid situations that feel risky"
+      ],
+      "why": "Lesson 1 says to build a powerful self-image by acting like your ideal self."
+    },
+    {
+      "q": "What does the summary say about your performance and your self-image?",
+      "a": [
+        "You can't long outperform the image you hold of yourself",
+        "Performance is unrelated to how you see yourself",
+        "A poor self-image helps you work harder",
+        "Only talent decides how far you get"
+      ],
+      "why": "Lesson 1 states you can't underperform or outperform your self-image in the long run."
+    },
+    {
+      "q": "What should your goals be built around, per lesson 2?",
+      "a": [
+        "Your passion and who you want to become",
+        "Money and social status",
+        "What your peers expect of you",
+        "The easiest wins available"
+      ],
+      "why": "Lesson 2 says to set goals out of passion, not money or status."
+    },
+    {
+      "q": "What happens if you chase goals only for money or status you don't truly want?",
+      "a": [
+        "You end up unfulfilled and miserable",
+        "You build mental toughness faster",
+        "You reach them with less effort",
+        "You gain extra confidence"
+      ],
+      "why": "The summary warns that such achievements leave you unfulfilled."
+    },
+    {
+      "q": "What does lesson 3 say produces success?",
+      "a": [
+        "Gradual, steady improvement",
+        "Sudden bursts of motivation",
+        "One big overnight overhaul",
+        "Waiting for the right mood"
+      ],
+      "why": "Lesson 3 says progressive effort beats occasional motivation."
+    }
+  ]
+}

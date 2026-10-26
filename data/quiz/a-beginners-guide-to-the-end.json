@@ -1,0 +1,56 @@
+{
+  "book": "a-beginners-guide-to-the-end",
+  "title": "A Beginner’s Guide To The End",
+  "questions": [
+    {
+      "q": "What does lesson 1 advise after learning of a terminal illness?",
+      "a": [
+        "Take things slowly and give yourself time",
+        "Immediately make a bucket list",
+        "Stay private until the end",
+        "Focus on legal matters first"
+      ],
+      "why": "Lesson 1 says it's best to take things slow."
+    },
+    {
+      "q": "When should you tell family and friends the news, per lesson 1?",
+      "a": [
+        "Once you've come to terms with it enough",
+        "Immediately, before processing",
+        "Only after treatment fails",
+        "Never; keep it private"
+      ],
+      "why": "The author says to call them when you feel ready."
+    },
+    {
+      "q": "What should you do with your belongings before dying, per lesson 2?",
+      "a": [
+        "Clear out junk and leave meaningful items",
+        "Sell everything and donate the money",
+        "Keep everything for your family to sort",
+        "Burn old letters"
+      ],
+      "why": "Lesson 2 says to clean up and leave only what you want to pass on."
+    },
+    {
+      "q": "How did the author's grandmother help her family decide who got what?",
+      "a": [
+        "She taped names on items",
+        "She wrote a long will",
+        "She held a family meeting",
+        "She used a lawyer"
+      ],
+      "why": "The grandmother put tape on items with the recipient's name."
+    },
+    {
+      "q": "What image does lesson 3 use for grief?",
+      "a": [
+        "A wave that comes and goes",
+        "A heavy stone you carry",
+        "A long road with no end",
+        "A storm that must be outlasted"
+      ],
+      "why": "Lesson 3 says to let grief wash over you like a wave."
+    }
+  ]
+}

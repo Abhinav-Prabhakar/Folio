@@ -1,0 +1,56 @@
+{
+  "book": "75-hard",
+  "title": "75 Hard",
+  "questions": [
+    {
+      "q": "How many days does the 75 Hard challenge last?",
+      "a": [
+        "75 days straight",
+        "75 days over a year",
+        "30 days with weekends off",
+        "100 days"
+      ],
+      "why": "The summary says to follow five tasks for 75 days straight."
+    },
+    {
+      "q": "What happens if you miss a task in 75 Hard?",
+      "a": [
+        "You start over from day one",
+        "You add a bonus day",
+        "You skip the day",
+        "You lose a week"
+      ],
+      "why": "Lesson 2 says you must restart if you miss even one."
+    },
+    {
+      "q": "Which is one of the five daily tasks?",
+      "a": [
+        "Drinking a gallon of water",
+        "Meditating for an hour",
+        "Running five miles",
+        "Fasting until noon"
+      ],
+      "why": "Water, diet, two workouts, a progress photo and reading are the five tasks."
+    },
+    {
+      "q": "How many pages of non-fiction must you read each day?",
+      "a": [
+        "10",
+        "25",
+        "5",
+        "50"
+      ],
+      "why": "The reading task is 10 pages of a non-fiction book."
+    },
+    {
+      "q": "What does the first week or so of the challenge feel like, according to lesson 3?",
+      "a": [
+        "Exciting, and you learn a lot about yourself",
+        "Dull and repetitive",
+        "Painfully slow",
+        "Confusing and chaotic"
+      ],
+      "why": "Lesson 3 says days one to ten are exciting and full of learning."
+    }
+  ]
+}

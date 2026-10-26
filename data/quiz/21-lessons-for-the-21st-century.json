@@ -1,0 +1,56 @@
+{
+  "book": "21-lessons-for-the-21st-century",
+  "title": "21 Lessons for the 21st Century",
+  "questions": [
+    {
+      "q": "According to lesson 1, what has become the most valuable asset?",
+      "a": [
+        "Data",
+        "Land",
+        "Oil",
+        "Factories"
+      ],
+      "why": "Lesson 1 says that under the technology ideology, data is what nations fight for."
+    },
+    {
+      "q": "Why does lesson 2 call our sense of knowledge dangerous?",
+      "a": [
+        "We think we know much more than we really do",
+        "We rely on too few experts",
+        "We read too little news",
+        "We trust machines too much"
+      ],
+      "why": "Lesson 2 says we believe we have lots of knowledge, but we rely on others for nearly everything."
+    },
+    {
+      "q": "What example shows how much we depend on other people's knowledge?",
+      "a": [
+        "We can't hunt, build shelter or make clothes ourselves",
+        "We can't remember phone numbers",
+        "We can't navigate without maps",
+        "We can't do basic arithmetic"
+      ],
+      "why": "The summary notes we rely on many experts for daily life."
+    },
+    {
+      "q": "What should schools teach, according to lesson 3?",
+      "a": [
+        "How to think and navigate information",
+        "More facts about more subjects",
+        "Only practical job skills",
+        "Memorization of key dates"
+      ],
+      "why": "Lesson 3 says school should teach how to think, not what to think."
+    },
+    {
+      "q": "Why won't future workers need to know as much as possible?",
+      "a": [
+        "More data is created each year than in past millennia",
+        "Computers will do all jobs",
+        "Knowledge becomes outdated overnight",
+        "Schools will be abolished"
+      ],
+      "why": "The summary points to the flood of new data making navigation skills more important."
+    }
+  ]
+}

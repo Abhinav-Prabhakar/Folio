@@ -1,0 +1,56 @@
+{
+  "book": "a-brief-history-of-time",
+  "title": "A Brief History Of Time",
+  "questions": [
+    {
+      "q": "What does lesson 1 call a scientific theory?",
+      "a": [
+        "An educated guess that can never be fully proven",
+        "A proven law of nature",
+        "A random hunch",
+        "A fact confirmed by one test"
+      ],
+      "why": "Lesson 1 describes theories as educated guesses."
+    },
+    {
+      "q": "What two conditions make a good theory in the summary?",
+      "a": [
+        "It makes definite predictions and can be disproven",
+        "It is simple and widely accepted",
+        "It is old and tested",
+        "It is mathematical and elegant"
+      ],
+      "why": "A theory must predict the future and be disprovable with evidence."
+    },
+    {
+      "q": "What constant leads to time not being fixed, per lesson 2?",
+      "a": [
+        "The speed of light",
+        "The force of gravity",
+        "The age of the universe",
+        "The mass of the sun"
+      ],
+      "why": "Lesson 2 links relativity and the constant speed of light to flexible time."
+    },
+    {
+      "q": "What does Einstein's theory state about the laws of physics?",
+      "a": [
+        "They are the same for all freely moving observers",
+        "They change with location",
+        "They apply only on Earth",
+        "They depend on the observer's mass"
+      ],
+      "why": "Lesson 2 gives that as the general statement of relativity."
+    },
+    {
+      "q": "How many reasons does Hawking give for time moving only forward?",
+      "a": [
+        "Three",
+        "Two",
+        "Five",
+        "One"
+      ],
+      "why": "Lesson 3 says there are three reasons, starting with thermodynamics."
+    }
+  ]
+}

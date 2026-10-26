@@ -1,0 +1,56 @@
+{
+  "book": "10-days-to-faster-reading",
+  "title": "10 Days To Faster Reading",
+  "questions": [
+    {
+      "q": "Before reading something longer than a tweet, what should you ask yourself?",
+      "a": [
+        "Why am I reading this, and why do I need its information?",
+        "How many pages does this have and how fast can I finish?",
+        "Who recommended this and will they quiz me?",
+        "Is this the newest title on the subject?"
+      ],
+      "why": "Lesson 1 gives two questions that help you read less of what you don't need."
+    },
+    {
+      "q": "What is the main idea of lesson 1 on reading more?",
+      "a": [
+        "Read less of what you don't need to",
+        "Read everything as fast as possible",
+        "Finish every book you start",
+        "Reread important pages three times"
+      ],
+      "why": "The lesson says the easiest way to read more is to skip unneeded material."
+    },
+    {
+      "q": "What does a preview involve, according to lesson 2?",
+      "a": [
+        "Scanning the title, foreword, back flap and index, then headings",
+        "Reading the last chapter in full first",
+        "Listening to an audio version at high speed",
+        "Asking a friend to summarize the book"
+      ],
+      "why": "Lesson 2 describes previewing the front matter, index, headings and opening sentences."
+    },
+    {
+      "q": "Roughly how much of a text's information can a preview give you?",
+      "a": [
+        "Up to 40 percent",
+        "About 5 percent",
+        "Nearly 100 percent",
+        "Around 75 percent"
+      ],
+      "why": "The summary says previewing can reveal up to 40% of the information."
+    },
+    {
+      "q": "Why does the summary say to focus on keywords?",
+      "a": [
+        "They carry a sentence's meaning, so you can read more fluently",
+        "They let you skip every other paragraph",
+        "They replace the need to preview",
+        "They make fiction easier to skim"
+      ],
+      "why": "Lesson 3 says following key words lets your eyes move more smoothly."
+    }
+  ]
+}

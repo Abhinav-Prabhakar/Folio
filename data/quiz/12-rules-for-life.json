@@ -1,0 +1,56 @@
+{
+  "book": "12-rules-for-life",
+  "title": "12 Rules for Life",
+  "questions": [
+    {
+      "q": "What does lesson 1 say to do before judging the world?",
+      "a": [
+        "Take responsibility for your own life",
+        "Find who is to blame",
+        "Wait for conditions to improve",
+        "Change your career"
+      ],
+      "why": "Lesson 1 says to focus on keeping your own house clean first."
+    },
+    {
+      "q": "Which option did Tolstoy choose among his four responses to life's unfairness?",
+      "a": [
+        "Holding on and struggling despite everything",
+        "Ignorance of reality",
+        "Chasing pleasure",
+        "Ending his life"
+      ],
+      "why": "The summary says Tolstoy chose to keep struggling on."
+    },
+    {
+      "q": "How does lesson 2 say you should treat yourself?",
+      "a": [
+        "Like a loved one you're responsible for",
+        "Like a rival you must beat",
+        "Like a stranger you tolerate",
+        "Like a customer you must please"
+      ],
+      "why": "Lesson 2 advises caring for yourself as you would for someone you love."
+    },
+    {
+      "q": "What example of self-neglect does the summary give?",
+      "a": [
+        "Skipping prescribed medication",
+        "Working through lunch",
+        "Staying up late on weekends",
+        "Avoiding exercise classes"
+      ],
+      "why": "It notes over a third of people don't take medicine they're prescribed."
+    },
+    {
+      "q": "According to lesson 3, what is sacrifice really about?",
+      "a": [
+        "Deferring rewards for something better",
+        "Giving up pleasure permanently",
+        "Earning approval from others",
+        "Proving you can suffer"
+      ],
+      "why": "Lesson 3 says sacrifice defers rewards until you get something more whole."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "60-seconds-youre-hired",
+  "title": "60 Seconds & You’re Hired",
+  "questions": [
+    {
+      "q": "How long should interview answers be, according to the overview?",
+      "a": [
+        "Under a minute",
+        "About five minutes",
+        "As long as needed",
+        "Two minutes minimum"
+      ],
+      "why": "The overview says to give responses in less than a minute."
+    },
+    {
+      "q": "What does lesson 1 suggest you repeat throughout the interview?",
+      "a": [
+        "Your top five skills",
+        "Your salary expectations",
+        "Your previous job titles",
+        "Your career goals"
+      ],
+      "why": "Lesson 1 says to keep mentioning your top five marketable skills."
+    },
+    {
+      "q": "Which skills should you pick for your list?",
+      "a": [
+        "Ones specific to the job you want",
+        "Whichever ones you enjoy most",
+        "Skills from your first job",
+        "General traits like friendliness"
+      ],
+      "why": "The summary says to focus on strengths specific to the job."
+    },
+    {
+      "q": "What does lesson 2 say preparation does?",
+      "a": [
+        "Kills fear and builds confidence",
+        "Makes you sound rehearsed",
+        "Replaces natural charm",
+        "Shortens the interview"
+      ],
+      "why": "Lesson 2 opens with 'preparation kills fear'."
+    },
+    {
+      "q": "What should you do before the 'any questions for me?' moment?",
+      "a": [
+        "Prepare 10 to 15 questions",
+        "Stay silent",
+        "Ask about salary first",
+        "Ask only one question"
+      ],
+      "why": "Lesson 3 recommends having a list of 10 to 15 questions ready."
+    }
+  ]
+}

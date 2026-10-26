@@ -1,0 +1,56 @@
+{
+  "book": "2-minute-pep-talks",
+  "title": "2-Minute Pep Talks",
+  "questions": [
+    {
+      "q": "In the $100 bill story, what does the bill represent?",
+      "a": [
+        "Your worth, however you are treated",
+        "A reward for hard work",
+        "The cost of mistakes",
+        "The value of money over friendship"
+      ],
+      "why": "Lesson 1 uses the story to say your worth stays the same however you're treated."
+    },
+    {
+      "q": "What does the teacher do to the $100 bill in the story?",
+      "a": [
+        "Crumples it and stomps on it",
+        "Hides it in a book",
+        "Gives it to the best student",
+        "Tears it into pieces"
+      ],
+      "why": "She crumples it, drops it and stomps on it, and its value remains."
+    },
+    {
+      "q": "What does the lesson about the zig and the zag say?",
+      "a": [
+        "You can't keep the good without accepting the bad",
+        "Good luck is mostly random",
+        "Stability is always achievable",
+        "Risk should always be avoided"
+      ],
+      "why": "Lesson 2 says you can't remove all risk without removing all rewards."
+    },
+    {
+      "q": "Which example illustrates the zig and zag?",
+      "a": [
+        "A YouTube channel whose views spike and then fall",
+        "A gardener whose plants fail in winter",
+        "A runner who wins and then retires",
+        "A student who passes and fails exams"
+      ],
+      "why": "The author uses a YouTube channel's rising and falling views."
+    },
+    {
+      "q": "What belief does lesson 3 want you to hold?",
+      "a": [
+        "No matter what, tomorrow can be a good day",
+        "Past struggles predict the future",
+        "Good days are rare",
+        "Only big wins bring happiness"
+      ],
+      "why": "Lesson 3 is the author's epitaph that tomorrow can be good."
+    }
+  ]
+}

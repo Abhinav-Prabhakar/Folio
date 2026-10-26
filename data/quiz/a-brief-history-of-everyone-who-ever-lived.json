@@ -1,0 +1,56 @@
+{
+  "book": "a-brief-history-of-everyone-who-ever-lived",
+  "title": "A Brief History Of Everyone Who Ever Lived",
+  "questions": [
+    {
+      "q": "How does lesson 1 show that culture can change our genes?",
+      "a": [
+        "Through the lactase mutation that lets adults digest milk",
+        "Through genes that make people taller",
+        "Through genes that cure infections",
+        "Through genes that change skin color overnight"
+      ],
+      "why": "Lesson 1 uses lactase persistence as the example."
+    },
+    {
+      "q": "Why did lactase persistence likely spread?",
+      "a": [
+        "Drinking milk was an evolutionary advantage",
+        "Dairy foods were cheap",
+        "Infants needed more calcium",
+        "Milk replaced water entirely"
+      ],
+      "why": "The summary says the mutation was likely advantageous for groups that drank milk."
+    },
+    {
+      "q": "What does lesson 2 claim about royalty and your family tree?",
+      "a": [
+        "Everyone is likely descended from royalty",
+        "Only Europeans have royal ancestors",
+        "Royal lines died out long ago",
+        "Royal ancestry can be traced to one king"
+      ],
+      "why": "Lesson 2 says royalty is in the family tree of everyone."
+    },
+    {
+      "q": "How long did it take to decipher the human genome?",
+      "a": [
+        "Eight years",
+        "Two years",
+        "Twenty years",
+        "Fifteen years"
+      ],
+      "why": "Lesson 3 says it took eight years to read the three billion letters."
+    },
+    {
+      "q": "How much of our genes are actually readable, according to lesson 3?",
+      "a": [
+        "About two percent",
+        "About half",
+        "About ninety percent",
+        "About twenty percent"
+      ],
+      "why": "The summary says only two percent are 'readable'."
+    }
+  ]
+}

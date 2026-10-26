@@ -1,0 +1,56 @@
+{
+  "book": "13-things-mentally-strong-people-dont-do",
+  "title": "13 Things Mentally Strong People Don’t Do",
+  "questions": [
+    {
+      "q": "Which kind of thing does lesson 1 say not to waste energy on?",
+      "a": [
+        "Things outside your control, like complaining about what you deserve",
+        "Planning for next year",
+        "Helping friends in need",
+        "Learning new skills"
+      ],
+      "why": "Lesson 1 says complaining about what you think you deserve wastes energy."
+    },
+    {
+      "q": "What does lesson 2 recommend doing with your Facebook feed?",
+      "a": [
+        "Remove it for a while and stop comparing",
+        "Post more often to feel connected",
+        "Follow only your closest friends",
+        "Check it only at night"
+      ],
+      "why": "The lesson says to cut the news feed and see how you feel after a week."
+    },
+    {
+      "q": "What does the author say comparison on social media does?",
+      "a": [
+        "Makes you measure self-worth by a poor yardstick",
+        "Motivates you to work harder",
+        "Helps you find real friends",
+        "Improves your sense of community"
+      ],
+      "why": "Lesson 2 calls it a bad yardstick for self-worth."
+    },
+    {
+      "q": "What does lesson 3 say you should learn to be okay with?",
+      "a": [
+        "Being alone",
+        "Being criticized",
+        "Being late",
+        "Being unemployed"
+      ],
+      "why": "Lesson 3 is about being comfortable alone, a basis for healthy relationships."
+    },
+    {
+      "q": "Why are many people uneasy about being alone, according to the summary?",
+      "a": [
+        "Society treats inactivity as laziness",
+        "Solitude is bad for health",
+        "Being alone is truly boring",
+        "Modern homes are too quiet"
+      ],
+      "why": "The author says society condemns just being, so we fear solitude."
+    }
+  ]
+}

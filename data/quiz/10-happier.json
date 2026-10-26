@@ -1,0 +1,56 @@
+{
+  "book": "10-happier",
+  "title": "10% Happier",
+  "questions": [
+    {
+      "q": "Why is your ego never satisfied, according to lesson 1?",
+      "a": [
+        "It keeps comparing you with people who have more",
+        "It only cares about the distant past",
+        "It fears every kind of success",
+        "It stops working when you are calm"
+      ],
+      "why": "Lesson 1 says the ego measures worth by wealth, looks and status against others."
+    },
+    {
+      "q": "What triggered Dan Harris to start looking into his own mind?",
+      "a": [
+        "A panic attack on live television",
+        "A bad review of his first book",
+        "Losing his job at the network",
+        "A retreat gifted by a friend"
+      ],
+      "why": "The overview describes his on-air panic attack as the turning point."
+    },
+    {
+      "q": "What does lesson 2 say about letting go of your ego?",
+      "a": [
+        "It does not make you a pushover",
+        "It means giving up on ambition",
+        "It requires you to stop negotiating",
+        "It makes you lose creativity"
+      ],
+      "why": "Lesson 2 argues mindfulness makes you more creative and productive, not weak."
+    },
+    {
+      "q": "Which three habitual responses does lesson 3 say we normally have?",
+      "a": [
+        "Wanting something, rejecting it, or zoning out",
+        "Fighting, fleeing, or freezing",
+        "Planning, doubting, or delaying",
+        "Praising, blaming, or ignoring"
+      ],
+      "why": "Lesson 3 lists want it, reject it and zone out."
+    },
+    {
+      "q": "What is the fourth response that meditation offers?",
+      "a": [
+        "Observing without judging",
+        "Acting immediately",
+        "Doubling down on desire",
+        "Suppressing the feeling"
+      ],
+      "why": "Lesson 3 says meditation gives you a pause to observe without judging."
+    }
+  ]
+}

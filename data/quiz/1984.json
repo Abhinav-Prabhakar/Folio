@@ -1,0 +1,56 @@
+{
+  "book": "1984",
+  "title": "1984",
+  "questions": [
+    {
+      "q": "What is Winston Smith's job in the book?",
+      "a": [
+        "Falsifying historic records for the Party",
+        "Spying on neighbors for the police",
+        "Writing the daily propaganda speeches",
+        "Operating the telescreens"
+      ],
+      "why": "The summary says he works in the record department, rewriting history."
+    },
+    {
+      "q": "What is Newspeak designed to do?",
+      "a": [
+        "Eliminate rebellious thinking by shrinking language",
+        "Translate the Party's laws for citizens",
+        "Teach children to read faster",
+        "Help citizens talk privately"
+      ],
+      "why": "Lesson 1 describes Newspeak as a language that cuts out rebellious thought."
+    },
+    {
+      "q": "What does lesson 2 say freedom means?",
+      "a": [
+        "Saying what's true and making your own decisions",
+        "Having material comfort",
+        "Obeying fair laws",
+        "Belonging to a strong group"
+      ],
+      "why": "Lesson 2 defines freedom as saying what you believe and choosing for yourself."
+    },
+    {
+      "q": "What do telescreens do in the novel?",
+      "a": [
+        "Record and broadcast at the same time in every home",
+        "Show entertainment shows only",
+        "Track people in public squares only",
+        "Warn citizens of invasions"
+      ],
+      "why": "The summary describes them as mass-surveillance monitors recording and broadcasting."
+    },
+    {
+      "q": "How does a totalitarian state win, according to lesson 3?",
+      "a": [
+        "By gaslighting citizens out of their individuality",
+        "By banning all books",
+        "By giving rewards for loyalty",
+        "By removing all technology"
+      ],
+      "why": "Lesson 3 says gaslighting makes people give up individuality."
+    }
+  ]
+}
