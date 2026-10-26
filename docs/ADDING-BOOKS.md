@@ -1,6 +1,11 @@
 # Adding books
 
-A book in Folio has four parts, all in `index.html`: an entry in the library, a cover, a summary and five quiz questions. More books mean more variety in the daily six.
+There are two kinds of books in Folio:
+
+- **Library books** come from Four Minute Books automatically ([LIBRARY.md](LIBRARY.md)), with generated covers. New titles appear after the weekly refresh, and their questions come from the [quiz agent](QUIZ-AGENT-PROMPT.md). Nothing to do by hand.
+- **Folio originals**, described here, are hand-made: a custom cover, a summary written for Folio, and built-in questions. They're marked with a gold diamond in the library.
+
+An original has four parts, all in `index.html`: an entry in the library, a cover, a summary and five quiz questions.
 
 [← Back to the README](../README.md)
 

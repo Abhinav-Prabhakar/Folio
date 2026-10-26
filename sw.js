@@ -1,7 +1,8 @@
 /* Folio service worker: offline shell, cached assets, runtime-cached fonts */
-const VERSION = 'folio-v1';
+const VERSION = 'folio-v2';
 const SHELL = ['./', 'index.html', 'site.webmanifest', 'assets/favicon.svg', 'assets/favicon-32.png',
-  'assets/apple-touch-icon.png', 'assets/icon-192.png', 'assets/icon-512.png'];
+  'assets/apple-touch-icon.png', 'assets/icon-192.png', 'assets/icon-512.png', 'data/catalog.json'];
+/* summaries (data/summaries/*.md) and quiz files are cached as they are opened */
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

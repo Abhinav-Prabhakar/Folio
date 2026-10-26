@@ -12,6 +12,8 @@ Folio is a single `index.html` with no build step. This document explains how th
 - [The daily shelf](#the-daily-shelf)
 - [The 3D shelf](#the-3d-shelf)
 - [Covers](#covers)
+- [Generated covers](#generated-covers)
+- [The library](#the-library)
 - [The reader](#the-reader)
 - [The quiz](#the-quiz)
 - [Theming](#theming)
@@ -81,6 +83,25 @@ Recurring techniques:
 - **Depth**: soft shadows with `feDropShadow` and blurred shapes.
 
 The quiz book's leather is **pre-rendered once** as an SVG data-URI image (`LEATHER`). That's covered in [Performance notes](#performance-notes).
+
+## Generated covers
+
+Library books get covers from `genCover(book, prefix, lite)`:
+
+1. **Family.** The book's most specific category (the rarest of its categories) maps through `FAMILY_OF` to one of ten families: `ascent`, `mind`, `ledger`, `venture`, `archive`, `cosmos`, `vital`, `sage`, `bonds`, `quill`. Each family has an `ART` function that draws its motif.
+2. **Palette.** `PAL[family]` holds four curated palettes (background gradient, ink, foil, app accent, optional cloth or paper surface). The book's id hashes to one of them, so the cover, spine, back, endpaper, glow and reader accents all match.
+3. **Layout.** Each family's own `seeded('cover:'+id)` generator places the motif (sun position, ripple count, wave phases…), so no two covers repeat.
+4. **Title.** `fitTitle()` measures the real fonts on a canvas and picks the largest size at which the title wraps into the family's line limit. Text is drawn as SVG `<tspan>` lines, in foil with the `emb` emboss filter on dark palettes.
+5. **Lite mode.** Library tiles pass `lite = true`, which skips filters and thins dense details so a screen of covers stays smooth. Tiles render only when they near the viewport (`IntersectionObserver`), and `content-visibility` lets the browser skip the rest.
+
+`coverSVG(book)` is the single entry point: hand-drawn `COVERS[k]` for the originals, `genCover` for everything else.
+
+## The library
+
+- `data/catalog.json` is loaded at startup; see [LIBRARY.md](LIBRARY.md) for how it's built. `ALL = LIB (originals) + FMB (catalog)`.
+- **Daily picks:** `shuffle(ALL sorted by id, seeded('shelf:'+DAY+':'+N)).slice(0, N)`, with *N* from `localStorage['folio:perday']` (3–12, default 6). Changing *N* in the calendar popover fades the page and reloads it with the new shelf.
+- **Library overlay (`#lib`):** tiles are created once. Search, category filter and sort only toggle `hidden` and set CSS `order` from three precomputed orders (A–Z, newest, shortest), so typing stays instant with 1,300+ books.
+- **Opening from a tile:** `openBook(null, {book, el})` flies the reader's book from the tile's cover rect (flat, no shelf tilt) and hides that tile while open.
 
 ## The reader
 

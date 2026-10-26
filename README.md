@@ -5,12 +5,14 @@
   <img src="docs/media/hero.jpg" alt="Folio: a shelf of photo-real book covers, with the leather-bound Recall quiz book at the end" width="100%">
 </picture>
 
-<h3>A quiet daily shelf of six classics.<br><sub>Read the summary. Then see what stayed.</sub></h3>
+<h3>A quiet daily shelf from a library of 1,300+ book summaries.<br><sub>Read a few each day. Then see what stayed.</sub></h3>
 
 <p>
   <img alt="Single HTML file" src="https://img.shields.io/badge/one_file-index.html-17171a?style=flat-square&logo=html5&logoColor=white">
   <img alt="No dependencies" src="https://img.shields.io/badge/dependencies-none-b8913a?style=flat-square">
   <img alt="No build step" src="https://img.shields.io/badge/build_step-none-6a2226?style=flat-square">
+  <img alt="Library" src="https://img.shields.io/badge/library-1%2C300%2B_summaries-1f4a6b?style=flat-square">
+  <img alt="PWA" src="https://img.shields.io/badge/PWA-installable_%26_offline-3c6153?style=flat-square">
   <img alt="Dark mode" src="https://img.shields.io/badge/dark_mode-follows_your_device-2a2a31?style=flat-square">
   <img alt="Responsive" src="https://img.shields.io/badge/phone_%26_desktop-responsive-1f4a6b?style=flat-square">
   <img alt="GitHub Pages ready" src="https://img.shields.io/badge/GitHub_Pages-ready-3c6153?style=flat-square&logo=github">
@@ -22,6 +24,7 @@
 
 <p>
   <a href="#a-day-with-folio"><b>Tour</b></a> &nbsp;·&nbsp;
+  <a href="#the-library"><b>Library</b></a> &nbsp;·&nbsp;
   <a href="#the-quiz-book"><b>The quiz</b></a> &nbsp;·&nbsp;
   <a href="#light-and-dark"><b>Light & dark</b></a> &nbsp;·&nbsp;
   <a href="#quick-start"><b>Quick start</b></a> &nbsp;·&nbsp;
@@ -33,9 +36,12 @@
 
 <br>
 
-Every day Folio pulls **six books** off its library shelf and lines them up as photo-real hardcovers. Open one and the cover swings back on its spine, then the pages lift off and settle into a large, quiet spread made for reading. The last book on the shelf is different: a leather-bound notebook called **Recall** that asks you a few questions about everything you just read. There is no score. You pick an answer, the right one is circled in ink, and you judge for yourself.
+Every day Folio pulls a handful of books (**six by default; you choose from three to twelve**) off a library of more than 1,300 summaries and lines them up as photo-real hardcovers. Open one and the cover swings back on its spine, then the pages lift off and settle into a large, quiet spread made for reading. The last book on the shelf is different: a leather-bound notebook called **Recall** that asks you a few questions about everything you just read. There is no score. You pick an answer, the right one is circled in ink, and you judge for yourself.
 
-No frameworks, no build, no tracking. One `index.html`, the fonts, and a few icons.
+No frameworks, no build, no tracking. One `index.html`, the fonts, and a folder of Markdown summaries.
+
+> [!NOTE]
+> The library's summaries are written by **[Four Minute Books](https://fourminutebooks.com/)** (Niklas Göke) and are republished in Folio **with the author's permission**. Every summary links back to its original. If you enjoy them, [support Four Minute Books](https://fourminutebooks.com/book-summaries/).
 
 <br>
 
@@ -134,12 +140,14 @@ Summaries are plain Markdown inside `index.html`, so they're easy to edit. See [
   </tr>
 </table>
 
-**Recall** is always the last book on the shelf: an oxblood leather notebook with blind-debossed borders, a gilt seal, brass corner guards and an elastic band. Six small gilt diamonds on the cover stand for today's six books.
+**Recall** is always the last book on the shelf: an oxblood leather notebook with blind-debossed borders, a gilt seal, brass corner guards and an elastic band. A row of small gilt diamonds on the cover stands for today's books, one each.
 
-- **18 questions a day.** Three per book, drawn fresh each day from a bank of five, with the options shuffled.
+- **Up to three questions per book**, drawn fresh each day from a bank of five, with the options shuffled.
+- **Every book can have a bank.** The eight Folio originals have theirs built in. Library books get theirs from question files written by an agent from each summary; see the [quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md). Until a book has questions, the quiz simply skips it.
 - **No score.** A wrong pick is struck through, the right answer gets an ink circle drawn around it, and the rest fade back.
 - **It remembers today.** Your answers stay put if you close the book and come back (stored only in your browser). Tomorrow brings new questions.
-- **Progress without numbers.** Under the shelf, one dot per question fills in as you go. When you finish a book's three questions, its cover gets a small mark on the closing page.
+- **Progress without numbers.** Under the shelf, one dot per question fills in as you go. When you finish a book's questions, its cover gets a small mark on the closing page.
+- **Short explanations.** Where a question comes with one, a single line under the circled answer says where in the summary it came from.
 
 <br>
 
@@ -205,11 +213,50 @@ You can also **turn a book over** to read its back cover, with the blurb and a b
 
 ## The library
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/media/library-grid-dark.jpg">
+  <img src="docs/media/library-grid.jpg" alt="The library: a grid of generated book covers with search and category filters" width="100%">
+</picture>
+
+The library button in the header (or <kbd>/</kbd>) opens **every book Folio knows**: 1,300+ summaries from Four Minute Books plus Folio's eight originals.
+
+- **Search** titles, authors and categories as you type.
+- **Filter** by any of 44 categories, or show just the Folio originals.
+- **Sort** alphabetically, by newest, or quick reads first.
+- **Open any book.** It flies from its tile into the same reader as the daily shelf, and the summary loads on demand.
+
+<br>
+
+### A cover for every book
+
 <div align="center">
-  <img src="docs/media/library.png" alt="All eight covers in the library, and the Recall quiz book" width="100%">
+  <img src="docs/media/covers-generated.png" alt="A wall of generated covers, one family per subject" width="100%">
 </div>
 
 <br>
+
+Library covers are **generated**, but they're made the same way as the hand-drawn ones: foil gradients, embossed lettering, glow and texture. Each book's subject picks one of ten families, and its id picks the palette and layout, so a book always looks the same and neighbouring books never match.
+
+| Family | Subjects | Motif |
+|:--|:--|:--|
+| Ascent | self-improvement, success, productivity, career, leadership | layered peaks under a low sun |
+| Mind | psychology, mental health, mindfulness, happiness | ripples from a single drop |
+| Ledger | money, investing, economics | banknote guilloché rosette |
+| Venture | business, startups, marketing, sales, management | art-deco bars and a rising arrow |
+| Archive | history, politics, biography, culture | cloth binding, gilt frame, laurel |
+| Cosmos | science, technology, future, environment | star map and tilted orbits |
+| Vital | health, fitness, nutrition | botanical stems and a pulse line |
+| Sage | philosophy, spirituality, religion | ink ensō and a red seal |
+| Bonds | relationships, parenting, communication | overlapping rings |
+| Quill | creativity, writing, education, fiction | layered paper-cut waves and a nib |
+
+<details>
+<summary><b>The eight Folio originals</b></summary>
+<br>
+
+<div align="center">
+  <img src="docs/media/library.png" alt="The eight hand-drawn Folio covers, and the Recall quiz book" width="100%">
+</div>
 
 | | Book | Author | Year |
 |:-:|:--|:--|:-:|
@@ -222,23 +269,27 @@ You can also **turn a book over** to read its back cover, with the blurb and a b
 | 7 | Dune | Frank Herbert | 1965 |
 | 8 | One Hundred Years of Solitude | Gabriel García Márquez | 1967 |
 
-Each day six of these are picked using the date as the seed, so everyone sees the same shelf on the same day and it changes at local midnight. Every cover is original artwork drawn in SVG; no publisher art is used.
+Hand-drawn covers, summaries written for Folio, and built-in quiz questions.
+
+</details>
+
+### Your daily shelf
+
+Tap the **calendar** in the header to choose how many books you get each day, from three to twelve. The shelf is picked from the whole library using the date as the seed, so everyone with the same setting sees the same books on the same day. It changes at local midnight.
 
 <br>
 
 ## Quick start
 
-**Just open it.** Double-click `index.html`. That's the whole app.
+**Use the live site:** <https://abhinav-prabhakar.github.io/Folio/>. It installs as an app (PWA) and keeps working offline for books you've opened.
 
-**Or serve it locally** (recommended, so your quiz answers and theme choice are kept reliably):
+**Or run it locally.** Serve the folder, because browsers don't let a page opened as a local file load the library:
 
 ```bash
 python3 -m http.server 8000
 ```
 
 Then visit <http://localhost:8000>.
-
-**Or use the live site:** <https://abhinav-prabhakar.github.io/Folio/>. It is served by GitHub Pages from the `main` branch, so every push to `main` updates it within a minute or two.
 
 > [!TIP]
 > **Hosting your own copy?** Fork the repo, enable *Settings → Pages → Deploy from a branch* (`main`, root folder), then update the `og:url`, `og:image`, `twitter:image` and `canonical` addresses in `index.html` so link previews point at your site.
@@ -256,6 +307,8 @@ Then visit <http://localhost:8000>.
 | **Answer a question** | Click an answer | Tap an answer |
 | **Close the book** | <kbd>Esc</kbd>, the ×, or click outside the book | ×, or tap outside the book |
 | **Switch theme** | Sun/moon switch in the header or reader | Same |
+| **Open the library** | Library button, or <kbd>/</kbd> to jump straight to search | Library button |
+| **Books a day** | Click the calendar, then − / + | Tap the calendar |
 
 Folio respects **Reduce Motion**: if it's on in your system settings, transitions become instant.
 
@@ -282,8 +335,13 @@ Folio respects **Reduce Motion**: if it's on in your system settings, transition
 
 ```text
 Folio/
-├── index.html              the whole app: markup, styles, covers, summaries, quiz, logic
+├── index.html              the whole app: markup, styles, covers, cover generator, reader, quiz, logic
+├── sw.js                   service worker: offline shell, cached summaries and fonts
 ├── site.webmanifest        install metadata (name, colours, icons)
+├── data/
+│   ├── catalog.json        every library book: title, author, year, categories, hook, lessons, link
+│   ├── summaries/          one Markdown file per summary (Four Minute Books, with permission)
+│   └── quiz/               question files per book + index.json (written by the quiz agent)
 ├── assets/
 │   ├── favicon.svg         gold open-book mark on oxblood
 │   ├── favicon-32.png
@@ -294,9 +352,15 @@ Folio/
 ├── docs/
 │   ├── ARCHITECTURE.md     how the shelf, reader, quiz and theming work
 │   ├── ADDING-BOOKS.md     add a book: data, cover, summary, questions
+│   ├── LIBRARY.md          how the library is built, refreshed and credited
+│   ├── QUIZ-AGENT-PROMPT.md  the prompt that writes the library's quiz questions
 │   ├── MEDIA.md            regenerate the screenshots, GIFs and icons
 │   └── media/              images used in this README
-└── tools/media/            capture scripts (Puppeteer + gifski)
+├── tools/
+│   ├── catalog/            scrape.mjs + enrich.mjs: builds data/ from Four Minute Books and Open Library
+│   ├── quiz/               build-index.mjs: validates quiz files and writes the index
+│   └── media/              capture scripts (Puppeteer + gifski)
+└── .github/workflows/      refresh-library.yml: weekly library refresh
 ```
 
 </details>
@@ -314,14 +378,16 @@ Fonts come from Google Fonts. Offline, Folio falls back to system serif and sans
 
 </details>
 
-**Go deeper:** [Architecture](docs/ARCHITECTURE.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
+**Go deeper:** [Architecture](docs/ARCHITECTURE.md) · [The library](docs/LIBRARY.md) · [Quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
 
 <br>
 
 ## Credits
 
 - **Typefaces:** [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond), [Newsreader](https://fonts.google.com/specimen/Newsreader), [Jost](https://fonts.google.com/specimen/Jost), [Cinzel](https://fonts.google.com/specimen/Cinzel) and [Poiret One](https://fonts.google.com/specimen/Poiret+One), via Google Fonts.
-- **Covers, summaries and quiz questions** are original to Folio. Book titles and author names belong to their respective rights holders; no publisher cover art or book text is reproduced.
+- **Library summaries:** [Four Minute Books](https://fourminutebooks.com/) by **Niklas Göke**, republished in Folio with the author's permission. Every summary credits and links to its original on fourminutebooks.com. The summaries remain Four Minute Books' work; please don't reuse them from this repository without their permission.
+- **Authors and publication years** for library books come from [Open Library](https://openlibrary.org/) (Internet Archive).
+- **Covers** are original to Folio: eight hand-drawn, the rest generated. **The eight original summaries** and their quiz questions were written for Folio. Book titles and author names belong to their respective rights holders; no publisher cover art is used.
 - **Reader ratings** are approximate public averages and are shown for flavour only.
 
 <br>

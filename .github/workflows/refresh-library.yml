@@ -1,0 +1,44 @@
+# Weekly: rebuild the library from Four Minute Books (republished with permission), add authors and years,
+# re-index quiz files, and commit anything that changed. GitHub Pages then redeploys on its own.
+name: Refresh library
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # Mondays, 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-library
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install
+        working-directory: tools/catalog
+        run: npm ci
+      - name: Scrape summaries and catalog
+        working-directory: tools/catalog
+        run: node scrape.mjs
+      - name: Add authors and years (cached; only new titles are looked up)
+        working-directory: tools/catalog
+        run: node enrich.mjs
+      - name: Re-index quiz files
+        run: node tools/quiz/build-index.mjs || echo "Some quiz files need attention (left out of the index)."
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data tools/catalog/openlibrary-cache.json
+          if git diff --cached --quiet; then echo "Library unchanged."; exit 0; fi
+          git commit -m "Library: weekly refresh from Four Minute Books"
+          git push

@@ -336,8 +336,97 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .soon{margin-top:2.2em;color:var(--p-strong)}
 .soon svg{width:30px;height:30px}
 .r-nav.nudge{animation:nudge 1.6s ease 2}
+.qq .why{margin:1.5em 0 0;padding-left:1.2em;border-left:1px solid var(--acc);font-family:var(--display);font-style:italic;font-size:.98em;line-height:1.45;color:var(--p-mute)}
+.now .why{animation:swap .7s .55s cubic-bezier(.2,.7,.2,1) both}
 @keyframes nudge{0%,100%{opacity:.4;transform:translate(0,-50%)}40%{opacity:1;transform:translate(6px,-50%)}}
 @media (prefers-reduced-motion:reduce){.now .ink path,.now .strike path,.dm .ink path,.r-nav.nudge,.now .opt{animation:none}}
+
+/* ---------- summaries from the library: lesson heads, numbered lists, credit ---------- */
+.flow h3{font-family:var(--display);font-weight:500;font-size:1.34em;line-height:1.2;margin:.15em 0 .75em;color:var(--p-strong);break-after:avoid;text-wrap:balance;text-align:left;hyphens:manual}
+.flow h2 + h3{margin-top:-.35em}
+.flow h2:has(+ h3){margin-bottom:.8em}
+.flow ol{margin:.5em 0 1em;padding-left:1.6em}
+.flow ol > li{padding-left:.35em;margin:.38em 0;break-inside:avoid;text-align:left}
+.flow ol > li::marker{color:var(--acc);font-family:var(--ui);font-size:.82em;font-weight:400}
+.flow ul > li::before{content:"";position:absolute;left:0;top:.78em;width:.55em;height:1px;background:var(--acc)}
+.flow ol > li::before{content:none}
+.flow a,.fpage a,.opening a{color:inherit;text-decoration:underline;text-decoration-color:var(--acc);text-decoration-thickness:1px;text-underline-offset:3px}
+.flow p + ol,.flow p + ul{margin-top:.6em}
+.reading .flow ol > li,.reading .flow ul > li{text-align:left}
+.opening .src{margin-top:1.1em;font-family:var(--ui);font-weight:300;font-size:.55em;letter-spacing:.2em;text-transform:uppercase;color:var(--p-faint)}
+.flow .credit{margin-top:2.2em;padding-top:1.1em;border-top:1px solid var(--p-rule);font-family:var(--ui);font-weight:300;font-size:.62em;letter-spacing:.06em;line-height:1.7;color:var(--p-faint);text-indent:0}
+.srcbtn{font-family:var(--ui);font-weight:300;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--p-faint);text-decoration:none!important;padding:8px 12px;border-radius:20px;transition:color .3s,background-color .3s}
+.srcbtn:hover{color:var(--p-strong);background:var(--p-hover)}
+
+/* ---------- books a day ---------- */
+header{position:relative;z-index:20}
+.day{cursor:pointer}
+.perday{position:absolute;top:calc(100% + 14px);right:0;width:250px;background:var(--bg);border:1px solid var(--hair);border-radius:4px;padding:18px 20px 16px;text-align:center;
+  box-shadow:0 24px 60px -24px rgba(20,18,30,.35);letter-spacing:0;animation:swap .4s cubic-bezier(.2,.7,.2,1)}
+.pd-k{font-size:10px;letter-spacing:.32em;text-transform:uppercase;color:var(--mute);padding-left:.32em}
+.pd-row{display:flex;align-items:center;justify-content:center;gap:22px;margin:10px 0 12px}
+.pd-row b{font-family:var(--display);font-weight:300;font-size:46px;line-height:1;min-width:1.4em;font-variant-numeric:tabular-nums}
+.pd-row button{width:34px;height:34px;border-radius:50%;border:1px solid var(--hair);background:none;color:var(--ink);font:300 18px var(--ui);cursor:pointer;transition:border-color .3s,opacity .3s}
+.pd-row button:hover{border-color:var(--ink)}
+.pd-row button:disabled{opacity:.25;pointer-events:none}
+.pd-spines{display:flex;justify-content:center;align-items:flex-end;gap:3px;height:26px}
+.pd-spines i{display:block;width:6px;border-radius:1px 1px 0 0;background:var(--ink);opacity:.82;transform-origin:bottom;animation:grow .35s cubic-bezier(.2,.7,.2,1) both}
+.pd-spines i.q{background:var(--acc);opacity:1;width:7px}
+@keyframes grow{from{transform:scaleY(0)}}
+.pd-note{margin-top:12px;font-size:11px;letter-spacing:.06em;color:var(--mute);line-height:1.5}
+body.leaving main{opacity:0;transition:opacity .35s ease}
+
+/* ---------- library ---------- */
+.lib{position:fixed;inset:0;z-index:40;background:var(--bg);overflow-y:auto;overscroll-behavior:contain;opacity:0;transform:translateY(22px);
+  transition:opacity .45s ease,transform .65s cubic-bezier(.2,.7,.2,1)}
+.lib.open{opacity:1;transform:none}
+.lib-in{max-width:1240px;margin:0 auto;padding:calc(26px + env(safe-area-inset-top,0px)) max(20px,env(safe-area-inset-right,0px)) 70px max(20px,env(safe-area-inset-left,0px))}
+.lib-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:18px}
+.lib-head h2{margin:0;font-family:var(--display);font-weight:300;font-size:clamp(38px,5.4vw,60px);line-height:1}
+.lib-head span{display:block;margin-top:10px;font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--mute);font-variant-numeric:tabular-nums}
+.lib-close{position:relative;top:auto;right:auto}
+.lib-tools{position:sticky;top:0;z-index:3;display:flex;align-items:center;gap:18px;padding:14px 0 6px;background:var(--bg)}
+.lib-search{flex:1;display:flex;align-items:center;gap:12px;border-bottom:1px solid var(--hair);padding:9px 2px;color:var(--mute);transition:border-color .3s}
+.lib-search:focus-within{border-color:var(--ink);color:var(--ink)}
+.lib-search input{flex:1;min-width:0;border:0;outline:0;background:none;font:300 17px var(--ui);color:var(--ink);letter-spacing:.01em}
+.lib-search input::placeholder{color:var(--mute);opacity:.8}
+.lib-search input::-webkit-search-cancel-button{opacity:.4}
+.lib-sort{display:flex;gap:2px;flex:none}
+.lib-sort button{border:0;background:none;font:300 11px var(--ui);letter-spacing:.22em;text-transform:uppercase;color:var(--mute);padding:8px 11px;border-radius:20px;cursor:pointer;transition:color .3s,background-color .3s}
+.lib-sort button.on{color:var(--ink);background:var(--soft)}
+.lib-chips{display:flex;gap:8px;overflow-x:auto;padding:12px 0 22px;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 90%,transparent);mask-image:linear-gradient(90deg,#000 90%,transparent)}
+.lib-chips::-webkit-scrollbar{display:none}
+.chip{flex:none;display:flex;align-items:center;gap:7px;border:1px solid var(--hair);background:none;color:var(--ink);font:300 12px var(--ui);letter-spacing:.03em;padding:7px 13px;border-radius:30px;cursor:pointer;white-space:nowrap;transition:background-color .3s,color .3s,border-color .3s}
+.chip svg{opacity:.7}
+.chip small{font-size:10px;color:var(--mute);font-variant-numeric:tabular-nums}
+.chip:hover{border-color:var(--mute)}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip.on small{color:inherit;opacity:.6}
+.lib-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(136px,1fr));gap:36px 26px}
+.tile{display:flex;flex-direction:column;gap:11px;border:0;background:none;padding:0;margin:0;text-align:left;color:inherit;font:inherit;cursor:pointer;content-visibility:auto;contain-intrinsic-size:auto 290px;-webkit-tap-highlight-color:transparent}
+.tile[hidden]{display:none}
+.tc{position:relative;display:block;aspect-ratio:2/3;border-radius:1px 3px 3px 1px;overflow:hidden;background:var(--soft);
+  box-shadow:0 1px 1px rgba(0,0,0,.14),0 12px 24px -12px rgba(20,18,30,.5),0 30px 50px -34px rgba(20,18,30,.4);transition:transform .5s cubic-bezier(.2,.7,.2,1),box-shadow .5s}
+.tc svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.tile:hover .tc,.tile:focus-visible .tc{transform:translateY(-7px) rotate(-1.2deg);box-shadow:0 1px 1px rgba(0,0,0,.14),0 22px 34px -14px rgba(20,18,30,.55),0 44px 60px -36px rgba(20,18,30,.45)}
+.tile:focus-visible{outline:none}
+.tile:focus-visible .tt{text-decoration:underline;text-underline-offset:3px}
+.tc.away{visibility:hidden}
+.tc .badge,.badge-inline{display:inline-block;width:7px;height:7px;transform:rotate(45deg);background:linear-gradient(135deg,#f6e3a1,#b8913a);box-shadow:0 0 0 1.5px rgba(0,0,0,.28)}
+.tc .badge{position:absolute;right:9px;top:9px;z-index:2}
+.badge-inline{margin:0 3px;vertical-align:1px}
+.tt{font-family:var(--display);font-weight:400;font-size:15.5px;line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ta{margin-top:-5px;font-size:9.5px;letter-spacing:.17em;text-transform:uppercase;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lib-empty{margin:80px 0;text-align:center;font-family:var(--display);font-style:italic;font-size:22px;color:var(--mute)}
+.lib-credit{margin-top:80px;text-align:center;font-size:12px;letter-spacing:.03em;line-height:1.9;color:var(--mute)}
+.lib-credit a{color:var(--ink)}
+:root[data-theme="dark"] .tc{box-shadow:0 1px 1px rgba(0,0,0,.5),0 14px 28px -12px rgba(0,0,0,.8)}
+@media (max-width:560px){
+  .lib-grid{grid-template-columns:repeat(3,1fr);gap:24px 14px}
+  .tt{font-size:13px}.ta{font-size:8.5px;letter-spacing:.12em}
+  .lib-tools{flex-wrap:wrap;gap:6px}.lib-sort{width:100%;justify-content:flex-end}
+}
+@media (prefers-reduced-motion:reduce){.lib,.tc{transition:none}}
 
 /* reader chrome */
 .r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
@@ -402,10 +491,17 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
       <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".9"><path d="M3 4.5c2.5-1 5-1 7 .8 2-1.8 4.5-1.8 7-.8v11c-2.5-1-5-1-7 .8-2-1.8-4.5-1.8-7-.8z"/><path d="M10 5.3v11"/></svg>
       folio
     </div>
-    <div class="count" aria-live="polite"><button class="themebtn tipdown" id="theme" type="button"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+    <div class="count" aria-live="polite"><button class="themebtn libbtn tipdown" id="libBtn" type="button" data-tip="Library · every book" aria-label="Open the library">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width=".95" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="4" width="3.6" height="16" rx=".5"/><rect x="8.6" y="6" width="3.6" height="14" rx=".5"/><path d="M14.2 5.4l3.3-.9 3.9 14.6-3.3.9z"/><path d="M3.5 7h3.6M3.5 17h3.6M8.6 9h3.6"/></svg></button><button class="themebtn tipdown" id="theme" type="button"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
         <mask id="thm-a"><rect x="-4" y="-4" width="32" height="32" fill="#fff"/><circle class="mm" cx="17" cy="7.5" r="5.6" fill="#000"/></mask>
         <circle class="core" cx="12" cy="12" r="7.2" fill="currentColor" mask="url(#thm-a)"/>
-        <g class="rays" stroke="currentColor" stroke-width=".95" stroke-linecap="round"><path d="M12 1.6v2.6M12 19.8v2.6M1.6 12h2.6M19.8 12h2.6M4.65 4.65l1.84 1.84M17.51 17.51l1.84 1.84M4.65 19.35l1.84-1.84M17.51 6.49l1.84-1.84"/></g></svg></button><span class="day tipdown" id="day" tabindex="0"></span><b id="cur">01</b><i></i><span id="tot">08</span></div>
+        <g class="rays" stroke="currentColor" stroke-width=".95" stroke-linecap="round"><path d="M12 1.6v2.6M12 19.8v2.6M1.6 12h2.6M19.8 12h2.6M4.65 4.65l1.84 1.84M17.51 17.51l1.84 1.84M4.65 19.35l1.84-1.84M17.51 6.49l1.84-1.84"/></g></svg></button><span class="day tipdown" id="day" tabindex="0" role="button" aria-haspopup="dialog"></span><b id="cur">01</b><i></i><span id="tot">08</span></div>
+    <div class="perday" id="perday" hidden role="dialog" aria-label="Books a day">
+      <div class="pd-k">books a day</div>
+      <div class="pd-row"><button type="button" id="pdMinus" aria-label="Fewer books">−</button><b id="pdN">6</b><button type="button" id="pdPlus" aria-label="More books">+</button></div>
+      <div class="pd-spines" id="pdSpines" aria-hidden="true"></div>
+      <div class="pd-note" id="pdNote"></div>
+    </div>
   </header>
 
   <section class="viewport" id="vp" aria-roledescription="carousel" aria-label="Books">
@@ -450,6 +546,31 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
   </div>
 </div>
 <div class="r-measure" id="rMeasure" aria-hidden="true" lang="en"></div>
+
+<!-- Library: every book, searchable and filterable. Opening a book flies it from its tile into the reader. -->
+<div class="lib" id="lib" hidden role="dialog" aria-modal="true" aria-label="Library">
+  <div class="lib-in">
+    <header class="lib-head">
+      <div><h2>Library</h2><span id="libCount"></span></div>
+      <button class="r-close lib-close" id="libClose" type="button" aria-label="Close the library"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </header>
+    <div class="lib-tools">
+      <label class="lib-search"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width=".95" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L20 20"/></svg>
+        <input id="libQ" type="search" placeholder="Search titles and authors" autocomplete="off" spellcheck="false" aria-label="Search the library"></label>
+      <div class="lib-sort" role="group" aria-label="Sort">
+        <button type="button" data-sort="az" class="on">A–Z</button><button type="button" data-sort="new">New</button><button type="button" data-sort="short">Quick</button>
+      </div>
+    </div>
+    <div class="lib-chips" id="libChips" role="group" aria-label="Filter by category"></div>
+    <div class="lib-grid" id="libGrid"></div>
+    <p class="lib-empty" id="libEmpty" hidden>No books match that search.</p>
+    <footer class="lib-credit">
+      Library summaries are by <a href="https://fourminutebooks.com/" target="_blank" rel="noopener">Four Minute Books</a> (Niklas Göke), republished in Folio with permission.<br>
+      Books marked <i class="badge-inline"></i> are Folio originals.
+      <span id="libOffline"></span>
+    </footer>
+  </div>
+</div>
 
 <!-- ---------- summaries (markdown) ---------- -->
 <script type="text/markdown" data-md="moby">
@@ -742,8 +863,8 @@ It made magical realism famous around the world, and reads like a whole continen
 </script>
 
 <script>
-(() => {
-/* ---------- data: the whole library ---------- */
+(async () => {
+/* ---------- data: Folio's own summaries ---------- */
 const LIB = [
  {k:'moby', title:'Moby-Dick', author:'Herman Melville', life:'1819–1891 · New York', year:1851, pages:635, words:206000, rating:3.53,
   genre:'sea', genreName:'Sea epic', accent:'#1f4a6b', base:'#0d1d2c', ink:'#d6e2ee',
@@ -765,7 +886,7 @@ const LIB = [
   genre:'planet', genreName:'Science fiction', accent:'#d9793e', base:'#8e4620', ink:'#f6dcb8',
   one:'Sand, spice, and a prophecy someone planted long ago.',
   syn:'On the desert planet Arrakis, sole source of the most valuable substance in the universe, young Paul Atreides survives a betrayal that destroys his house and finds his future among the people of the deep desert.'},
- {k:'orwell', title:'Nineteen Eighty-Four', author:'George Orwell', life:'1903–1950 · Motihari', year:1949, pages:328, words:89000, rating:4.19,
+ {k:'orwell', title:'Nineteen Eighty-Four', aka:['1984'], author:'George Orwell', life:'1903–1950 · Motihari', year:1949, pages:328, words:89000, rating:4.19,
   genre:'eye', genreName:'Dystopian', accent:'#b2241b', base:'#ebe6db', ink:'#1a1a1a', tex:'paper',
   one:'Even your thoughts are on the record.',
   syn:'In a state where the Party watches every room and rewrites every record, Winston Smith opens a forbidden diary, and with it begins a quiet, dangerous act of thinking for himself.'},
@@ -801,11 +922,287 @@ const DAY = `${NOW.getFullYear()}-${String(NOW.getMonth()+1).padStart(2,'0')}-${
 const hash = s => { let h = 2166136261; for (const c of s) h = Math.imul(h ^ c.charCodeAt(0), 16777619); return h>>>0; };
 const seeded = s => { const r = rng(hash(s)); for (let i=0;i<4;i++) r(); return r; };
 const shuffle = (a, r) => { a = a.slice(); for (let i=a.length-1;i>0;i--){ const j = Math.floor(r()*(i+1)); [a[i],a[j]] = [a[j],a[i]]; } return a; };
-const PICKS = shuffle(LIB, seeded('shelf:'+DAY)).slice(0,6);
+/* ---------- generated covers for the library ---------- */
+/* Each book's most specific category picks a cover family; its slug seeds the palette and layout,
+   so a book always gets the same cover and neighbours differ. Titles are fitted with real font metrics. */
+const FAMILY_OF = {
+  'Self Improvement':'ascent','Success':'ascent','Motivation & Inspiration':'ascent','Productivity':'ascent','Career':'ascent','Work':'ascent','Leadership':'ascent',
+  'Psychology':'mind','Mental Health':'mind','Mindfulness':'mind','Happiness':'mind',
+  'Money':'ledger','Personal Finance':'ledger','Investing':'ledger','Economics':'ledger',
+  'Business':'venture','Entrepreneurship':'venture','Startups':'venture','Marketing':'venture','Sales':'venture','Management':'venture',
+  'History':'archive','Politics':'archive','Society':'archive','Culture':'archive','Biography':'archive',
+  'Science':'cosmos','Technology':'cosmos','Future':'cosmos','Environment':'cosmos',
+  'Health':'vital','Fitness':'vital','Nutrition':'vital','Sex':'vital',
+  'Philosophy':'sage','Spirituality':'sage','Religion':'sage',
+  'Relationships':'bonds','Parenting':'bonds','Communication Skills':'bonds',
+  'Creativity':'quill','Writing':'quill','Education':'quill','Fiction':'quill'
+};
+/* palettes: bg gradient, ink for text, foil for metallic accents, accent for the app, tex for the surface */
+const PAL = {
+  ascent:[{bg:['#1d2b3a','#0b131c'],ink:'#f0e6cf',foil:GOLD,acc:'#c8a24e'},{bg:['#3a1e2c','#160a11'],ink:'#f3dfcf',foil:GOLD,acc:'#d08a5a'},
+          {bg:['#f1e8d8','#d9c9ad'],ink:'#2b2420',foil:null,acc:'#a2482c',light:1},{bg:['#1f3a33','#0b1915'],ink:'#e7efe2',foil:SILVER,acc:'#7fb2a0'}],
+  mind:[{bg:['#e9eef0','#cbd6db'],ink:'#1f2a33',foil:null,acc:'#3d6d8a',light:1},{bg:['#2a2340','#120e1f'],ink:'#ece6f7',foil:SILVER,acc:'#9b8ccf'},
+        {bg:['#f3e3d6','#e2c3ad'],ink:'#3a2420',foil:null,acc:'#b45d48',light:1},{bg:['#153235','#081819'],ink:'#d9efe9',foil:SILVER,acc:'#5fb3a6'}],
+  ledger:[{bg:['#1d3a2c','#0a1c14'],ink:'#ecf0dc',foil:GOLD,acc:'#c9a24d'},{bg:['#efe8d6','#d8ccb0'],ink:'#1e3326',foil:null,acc:'#2f6b4c',light:1,tex:'paper'},
+          {bg:['#1a2238','#0a0e1c'],ink:'#e6e9f2',foil:SILVER,acc:'#8fa3c8'},{bg:['#2e1f14','#140c07'],ink:'#f2e2c4',foil:GOLD,acc:'#c58e46'}],
+  venture:[{bg:['#14213d','#0a1122'],ink:'#ffffff',foil:null,acc:'#fca311',pop:'#fca311'},{bg:['#f4efe6','#e6ddcf'],ink:'#151515',foil:null,acc:'#d62828',pop:'#d62828',light:1},
+           {bg:['#101010','#000000'],ink:'#f5f0e1',foil:GOLD,acc:'#d4af37',pop:'#d4af37'},{bg:['#0d3b66','#06203a'],ink:'#faf0ca',foil:null,acc:'#f4d35e',pop:'#ee964b'}],
+  archive:[{bg:['#5a1a1f','#2c0b0e'],ink:'#ecd9a8',foil:GOLD,acc:'#c9a24d',tex:'cloth'},{bg:['#1c2a4a','#0d1426'],ink:'#e8dcc0',foil:GOLD,acc:'#b8913a',tex:'cloth'},
+           {bg:['#2d3f2a','#141e12'],ink:'#ead9b0',foil:GOLD,acc:'#a88b3c',tex:'cloth'},{bg:['#c9b48f','#a68d63'],ink:'#2a1d10',foil:null,acc:'#6b4423',light:1,tex:'cloth'}],
+  cosmos:[{bg:['#0e1a33','#03060f'],ink:'#e6f0ff',foil:SILVER,acc:'#7fb5ff'},{bg:['#06222b','#010a0e'],ink:'#d6fbf5',foil:SILVER,acc:'#4fd1c5'},
+          {bg:['#1b1036','#07040f'],ink:'#f0e8ff',foil:SILVER,acc:'#b38cff'},{bg:['#ecebe6','#cfd2d6'],ink:'#14202e',foil:null,acc:'#2b5a8c',light:1}],
+  vital:[{bg:['#eef1e4','#d3dcc0'],ink:'#1f3320',foil:null,acc:'#4f7a3a',light:1},{bg:['#1e3a2a','#0b1a12'],ink:'#e9f3e1',foil:GOLD,acc:'#9cc46a'},
+         {bg:['#f6e4d9','#e8c2ae'],ink:'#3b1c14',foil:null,acc:'#c4553b',light:1},{bg:['#2a1414','#120707'],ink:'#f7e3d9',foil:null,acc:'#e0634b'}],
+  sage:[{bg:['#f2ece0','#ddd3c0'],ink:'#1d1b18',foil:null,acc:'#a8322b',light:1,tex:'paper'},{bg:['#191816','#090908'],ink:'#ece6da',foil:GOLD,acc:'#c9a24d'},
+        {bg:['#e8e4da','#cfc8b8'],ink:'#2a2622',foil:null,acc:'#3d5a4c',light:1,tex:'paper'},{bg:['#24302f','#0e1413'],ink:'#e7eee9',foil:SILVER,acc:'#9db8ad'}],
+  bonds:[{bg:['#f5e6e0','#e5c9bf'],ink:'#3b2226',foil:null,acc:'#b24d5a',light:1},{bg:['#2b1d33','#120b17'],ink:'#f3e5ee',foil:GOLD,acc:'#d48aa6'},
+         {bg:['#e4ecef','#c5d4da'],ink:'#1d2b33',foil:null,acc:'#3f7f9a',light:1},{bg:['#3a2a1a','#18100a'],ink:'#f4e6d2',foil:GOLD,acc:'#d99a5b'}],
+  quill:[{bg:['#efe7da','#d9cbb4'],ink:'#2b2118',foil:null,acc:'#8a3b2a',light:1,tex:'paper'},{bg:['#1f2236','#0c0d18'],ink:'#ece8f5',foil:GOLD,acc:'#c9a24d'},
+         {bg:['#203a3c','#0c1b1c'],ink:'#e5f1ee',foil:SILVER,acc:'#e07a5f'},{bg:['#f3dfc8','#e2bf98'],ink:'#2e1b10',foil:null,acc:'#bc4b2a',light:1}]
+};
+const FAMILY_ICON = {ascent:'peak',mind:'ripple',ledger:'coin',venture:'bars',archive:'column',cosmos:'planet',vital:'leaf',sage:'enso',bonds:'rings',quill:'nib'};
+
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const escA = s => esc(s).replace(/"/g,'&quot;');
+const hexRGB = h => [1,3,5].map(i=>parseInt(h.slice(i,i+2),16));
+const tint = (h, t) => '#'+hexRGB(h).map(v=>Math.round(t<0 ? v*(1+t) : v+(255-v)*t).toString(16).padStart(2,'0')).join('');
+let measureCtx;
+/* wrap a title into lines that fit, shrinking the size until it does */
+function fitTitle(text, {family, weight=400, style='normal', upper=false, spacing=0, maxW=230, maxLines=3, sizes=[44,40,36,32,29,26,23,20,18,16]}){
+  measureCtx = measureCtx || document.createElement('canvas').getContext('2d');
+  const t = upper ? text.toUpperCase() : text, words = t.split(/\s+/);
+  for (const size of sizes){
+    measureCtx.font = `${style} ${weight} ${size}px "${family}"`;
+    const w = s => measureCtx.measureText(s).width + spacing*s.length;
+    const lines = []; let cur = '';
+    for (const word of words){
+      const next = cur ? cur+' '+word : word;
+      if (w(next) <= maxW || !cur) cur = next; else { lines.push(cur); cur = word; }
+    }
+    if (cur) lines.push(cur);
+    if (lines.length <= maxLines && lines.every(l => w(l) <= maxW)) return {size, lines};
+  }
+  return {size: sizes[sizes.length-1], lines: [t]};
+}
+function titleText(fit, {x=150, y, anchor='middle', family, weight=400, style='normal', spacing=0, fill, filter='', lh=1.08, valign='top'}){
+  const step = fit.size*lh, y0 = valign==='bottom' ? y - step*(fit.lines.length-1) : valign==='middle' ? y - step*(fit.lines.length-1)/2 : y;
+  return `<text x="${x}" y="${y0.toFixed(1)}" text-anchor="${anchor}" font-family="${family}" font-weight="${weight}" font-style="${style}" font-size="${fit.size}" letter-spacing="${spacing}" fill="${fill}" ${filter}>`+
+    fit.lines.map((l,i)=>`<tspan x="${x}" dy="${i?step.toFixed(1):0}">${esc(l)}</tspan>`).join('')+`</text>`;
+}
+const authorLine = (b, y, fill, op=.8, x=150, anchor='middle') => b.author ? `<text x="${x}" y="${y}" text-anchor="${anchor}" font-family="Jost" font-weight="400" font-size="${b.author.length>26?7.4:8.6}" letter-spacing="${b.author.length>26?2.6:3.6}" fill="${fill}" opacity="${op}">${esc(b.author.toUpperCase())}</text>` : '';
+
+/* family art: each returns svg for the 300×450 cover */
+const ART = {
+ascent(b,p,r,c,lite){
+  const sunY = 150+r()*60, sunX = 90+r()*120;
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}<radialGradient id="${p}sun">${stopsOf([[0,tint(c.acc,.55)],[.55,c.acc,.9],[1,c.acc,0]])}</radialGradient>
+    ${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>
+    <circle cx="${sunX}" cy="${sunY}" r="120" fill="url(#${p}sun)" opacity="${c.light?.45:.32}"/><circle cx="${sunX}" cy="${sunY}" r="${26+r()*10}" fill="${tint(c.acc,c.light?.1:.25)}" opacity=".95"/>`;
+  for (let j=0;j<4;j++){
+    const base = 285+j*38, amp = 70-j*10; let d = `M-10 452 L-10 ${base}`;
+    for (let x=-10;x<=310;x+=20){ const peak = Math.max(0, 1-Math.abs(x-(60+r()*180))/120); d += ` L${x} ${(base - peak*amp - r()*16).toFixed(1)}`; }
+    const col = c.light ? tint(c.bg[1], -.12-j*.12) : tint(c.bg[0], .05+j*.07-.0);
+    s += `<path d="${d} L310 452Z" fill="${col}" opacity="${.92}"/>`;
+    if (j===0 && c.foil) s += `<path d="${d.replace('M-10 452 L','M')}" fill="none" stroke="url(#${p}f)" stroke-width=".9" opacity=".8"/>`;
+  }
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:600,upper:true,spacing:2.4,maxW:236,maxLines:3,sizes:[38,34,30,27,24,21,19,17]});
+  s += titleText(fit,{y:72,family:'Cormorant Garamond',weight:600,spacing:2.4,fill:c.foil?`url(#${p}f)`:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 432, c.light?c.ink:'#fff', c.light?.75:.8);
+  return s;
+},
+mind(b,p,r,c,lite){
+  const cx = 150, cy = 170+r()*40;
+  let s = `<defs><radialGradient id="${p}bg" cx=".5" cy=".38" r=".85">${stopsOf([[0,tint(c.bg[0],c.light?.15:.12)],[1,c.bg[1]]])}</radialGradient>${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)+glowF(p,6)}</defs>
+    <rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  const n = 9+Math.floor(r()*5), col = c.foil ? `url(#${p}f)` : c.acc;
+  for (let i=0;i<n;i++){ const rr = 8+i*i*1.35+i*7; s += `<ellipse cx="${cx}" cy="${cy}" rx="${rr.toFixed(1)}" ry="${(rr*(.92+r()*.06)).toFixed(1)}" fill="none" stroke="${col}" stroke-width="${(1.3-i*.07).toFixed(2)}" opacity="${(.85-i*.06).toFixed(2)}"/>`; }
+  s += `<circle cx="${cx}" cy="${cy}" r="5.5" fill="${c.acc}"/>${lite?'':`<circle cx="${cx}" cy="${cy}" r="14" fill="${c.acc}" opacity=".35" filter="url(#${p}gl)"/>`}`;
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:500,style:'italic',maxW:238,maxLines:3,sizes:[40,36,32,29,26,23,20,18]});
+  s += titleText(fit,{y:352,valign:'middle',family:'Cormorant Garamond',weight:500,style:'italic',fill:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 430, c.ink, .7);
+  return s;
+},
+ledger(b,p,r,c,lite){
+  const cx=150, cy=178, R=88, k=5+Math.floor(r()*4), col = c.foil?`url(#${p}f)`:c.acc;
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]])}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>
+    <rect x="18" y="18" width="264" height="414" fill="none" stroke="${col}" stroke-width="1.2"/><rect x="23" y="23" width="254" height="404" fill="none" stroke="${col}" stroke-width=".4"/>`;
+  for (let i=0;i<56;i++) s += `<line x1="${18+i*4.71}" y1="18" x2="${18+i*4.71}" y2="23" stroke="${col}" stroke-width=".4" opacity=".7"/><line x1="${18+i*4.71}" y1="427" x2="${18+i*4.71}" y2="432" stroke="${col}" stroke-width=".4" opacity=".7"/>`;
+  /* guilloché: overlapping hypotrochoids, like banknote engraving */
+  for (let g=0; g<(lite?14:26); g++){
+    const ph = g/26*Math.PI*2/k; let d='';
+    for (let t=0;t<=Math.PI*2+.01;t+=Math.PI/90){
+      const rr = R*(.62+.38*Math.cos(k*t+ph)*Math.cos(t*2+ph*3)*.5+.19*Math.sin(k*t*2-ph));
+      d += (t?' L':'M')+(cx+Math.cos(t)*rr).toFixed(1)+' '+(cy+Math.sin(t)*rr).toFixed(1);
+    }
+    s += `<path d="${d}Z" fill="none" stroke="${col}" stroke-width=".45" opacity="${c.light?.55:.6}"/>`;
+  }
+  s += `<circle cx="${cx}" cy="${cy}" r="30" fill="${c.bg[0]}" stroke="${col}" stroke-width="1"/><circle cx="${cx}" cy="${cy}" r="26" fill="none" stroke="${col}" stroke-width=".4"/>`;
+  const ini = esc((b.title.match(/[A-Za-z0-9]/)||['F'])[0].toUpperCase());
+  s += `<text x="${cx}" y="${cy+11}" text-anchor="middle" font-family="Cinzel" font-size="30" fill="${col}" ${c.foil&&!lite?`filter="url(#${p}emb)"`:''}>${ini}</text>`;
+  const fit = fitTitle(b.title,{family:'Cinzel',weight:500,upper:true,spacing:2,maxW:226,maxLines:3,sizes:[26,23,21,19,17,15,13.5,12]});
+  s += titleText(fit,{y:330,valign:'middle',family:'Cinzel',weight:500,spacing:2,fill:c.foil?`url(#${p}f)`:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:'',lh:1.2});
+  s += authorLine(b, 404, c.ink, .7);
+  return s;
+},
+venture(b,p,r,c,lite){
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}${lg(p+'pop',[[0,tint(c.pop,.2)],[1,tint(c.pop,-.25)]],0,0,0,1)}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  const n = 6, w = 26, gap = 9, x0 = 150-(n*w+(n-1)*gap)/2, hs = [];
+  for (let i=0;i<n;i++) hs.push(40+i*22+r()*26);
+  hs.forEach((h,i)=>{ const x = x0+i*(w+gap), hi = i===n-1; s += `<rect x="${x}" y="${398-h}" width="${w}" height="${h}" fill="${hi?`url(#${p}pop)`:tint(c.light?c.bg[1]:c.bg[0], c.light?-.12-i*.03:.08+i*.035)}"/>`;
+    if (hi) s += `<rect x="${x}" y="${398-h}" width="${w}" height="3" fill="#fff" opacity=".35"/>`; });
+  const ax = x0, ay = 398-hs[0]-20, bx = x0+(n-1)*(w+gap)+w, by = 398-hs[n-1]-34;
+  s += `<path d="M${ax} ${ay} L${bx-14} ${by+6}" stroke="${c.pop}" stroke-width="3" stroke-linecap="square"/><path d="M${bx} ${by} l-16 -2 l7 13z" fill="${c.pop}"/>
+    <line x1="24" y1="398" x2="276" y2="398" stroke="${c.ink}" stroke-width="1" opacity=".5"/>`;
+  const fit = fitTitle(b.title,{family:'Jost',weight:500,upper:true,spacing:1,maxW:250,maxLines:4,sizes:[34,30,27,24,21,19,17,15]});
+  s += titleText(fit,{x:26,anchor:'start',y:66,family:'Jost',weight:500,spacing:1,fill:c.foil?`url(#${p}f)`:c.ink,lh:1.02,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += `<rect x="26" y="${66+fit.size*1.02*(fit.lines.length-1)+14}" width="34" height="3" fill="${c.pop}"/>`;
+  s += authorLine(b, 428, c.ink, .75, 26, 'start');
+  return s;
+},
+archive(b,p,r,c,lite){
+  const col = c.foil?`url(#${p}f)`:c.ink;
+  let s = `<defs>${lg(p+'bg',[[0,tint(c.bg[0],.06)],[1,c.bg[1]]])}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>
+    <rect x="16" y="16" width="268" height="418" fill="none" stroke="${col}" stroke-width="1.6"/><rect x="23" y="23" width="254" height="404" fill="none" stroke="${col}" stroke-width=".5"/>`;
+  const corner = (x,y,sx,sy) => `<g transform="translate(${x} ${y}) scale(${sx} ${sy})" fill="none" stroke="${col}" stroke-width=".9"><path d="M0 22 C0 10 10 0 22 0"/><path d="M5 26 C3 13 13 3 26 5"/><circle cx="8" cy="8" r="2.6" fill="${col}"/></g>`;
+  s += corner(23,23,1,1)+corner(277,23,-1,1)+corner(23,427,1,-1)+corner(277,427,-1,-1);
+  /* laurel wreath */
+  const leaves = dir => { let o=''; for (let i=0;i<9;i++){ const t=i/8, a=Math.PI*(.62+t*.72)*(dir), x=150+Math.cos(Math.PI/2+dir*(.35+t*1.15))*62, y=262-Math.sin(Math.PI/2+dir*(.35+t*1.15))*-62-62*.0;
+      const yy = 300 - Math.sin(.35+t*1.15)*62, xx = 150 + dir*Math.cos(.35+t*1.15)*62*-1;
+      o += `<ellipse cx="${xx.toFixed(1)}" cy="${yy.toFixed(1)}" rx="7" ry="2.6" transform="rotate(${(dir*(70-t*95)).toFixed(0)} ${xx.toFixed(1)} ${yy.toFixed(1)})" fill="${col}"/>`; } return o; };
+  s += `<g opacity=".95">${leaves(1)}${leaves(-1)}</g><path d="M150 304 C138 300 120 290 108 272 M150 304 C162 300 180 290 192 272" fill="none" stroke="${col}" stroke-width=".8"/>`;
+  s += `<path d="M150 236 l5 5 -5 5 -5 -5z" fill="${col}"/>`;
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:600,maxW:220,maxLines:4,sizes:[40,36,33,30,27,24,21,19,17]});
+  s += titleText(fit,{y:140,valign:'middle',family:'Cormorant Garamond',weight:600,fill:col,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += `<line x1="128" y1="${140+fit.size*1.08*(fit.lines.length-1)/2+fit.size*.55}" x2="172" y2="${140+fit.size*1.08*(fit.lines.length-1)/2+fit.size*.55}" stroke="${col}" stroke-width=".7"/>`;
+  s += authorLine(b, 392, c.foil?'#f0e2bf':c.ink, .85);
+  return s;
+},
+cosmos(b,p,r,c,lite){
+  let s = `<defs><radialGradient id="${p}bg" cx=".6" cy=".35" r="1">${stopsOf([[0,tint(c.bg[0],c.light?0:.12)],[1,c.bg[1]]])}</radialGradient>${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)+glowF(p,4)}
+    <radialGradient id="${p}pl" cx=".35" cy=".3" r=".8">${stopsOf([[0,tint(c.acc,.5)],[.6,c.acc],[1,tint(c.acc,-.55)]])}</radialGradient></defs>
+    <rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  for (let i=0;i<(lite?40:90);i++) s += `<circle cx="${(r()*300).toFixed(1)}" cy="${(r()*450).toFixed(1)}" r="${(.3+r()*.9).toFixed(2)}" fill="${c.light?c.ink:'#fff'}" opacity="${(.15+r()*.6).toFixed(2)}"/>`;
+  const cx = 150, cy = 210, tilt = -18+r()*36, col = c.foil?`url(#${p}f)`:c.ink;
+  for (let i=0;i<4;i++) s += `<ellipse cx="${cx}" cy="${cy}" rx="${46+i*28}" ry="${(46+i*28)*.32}" transform="rotate(${tilt} ${cx} ${cy})" fill="none" stroke="${col}" stroke-width="${i===1?1:.6}" opacity="${.75-i*.12}"/>`;
+  s += `${lite?'':`<circle cx="${cx}" cy="${cy}" r="40" fill="${c.acc}" opacity=".3" filter="url(#${p}gl)"/>`}<circle cx="${cx}" cy="${cy}" r="26" fill="url(#${p}pl)"/>`;
+  for (let i=0;i<3;i++){ const a=r()*Math.PI*2, rx=46+(i+1)*28, t=tilt*Math.PI/180, x=Math.cos(a)*rx, y=Math.sin(a)*rx*.32;
+    s += `<circle cx="${(cx+x*Math.cos(t)-y*Math.sin(t)).toFixed(1)}" cy="${(cy+x*Math.sin(t)+y*Math.cos(t)).toFixed(1)}" r="${3.5-i*.7}" fill="${c.light?c.acc:'#fff'}"/>`; }
+  /* a small constellation */
+  const pts = Array.from({length:5},()=>[40+r()*80, 300+r()*50]);
+  s += `<polyline points="${pts.map(q=>q.map(v=>v.toFixed(1)).join(',')).join(' ')}" fill="none" stroke="${col}" stroke-width=".5" opacity=".6"/>`+pts.map(q=>`<circle cx="${q[0].toFixed(1)}" cy="${q[1].toFixed(1)}" r="1.6" fill="${c.light?c.acc:'#fff'}"/>`).join('');
+  const fit = fitTitle(b.title,{family:'Jost',weight:300,upper:true,spacing:4,maxW:240,maxLines:3,sizes:[24,22,20,18,16,14.5,13,12]});
+  s += titleText(fit,{y:64,family:'Jost',weight:300,spacing:4,fill:c.ink,lh:1.35});
+  s += authorLine(b, 430, c.ink, .7);
+  return s;
+},
+vital(b,p,r,c,lite){
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}${lg(p+'lf',[[0,tint(c.acc,.25)],[1,tint(c.acc,-.3)]])}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  const stems = 3;
+  for (let k=0;k<stems;k++){
+    const x0 = 110+k*40+r()*20, top = 120+r()*60, bend = -30+r()*60;
+    s += `<path d="M${x0} 380 Q${x0+bend} ${(380+top)/2} ${x0+bend*.6} ${top}" fill="none" stroke="${tint(c.acc,-.3)}" stroke-width="1.6"/>`;
+    for (let i=0;i<7;i++){
+      const t = .15+i*.12, x = x0+(bend*.6)*t*1.1, y = 380-(380-top)*t, side = i%2?1:-1, len = 26-i*2.2, ang = side*(50-i*3);
+      s += `<path d="M${x.toFixed(1)} ${y.toFixed(1)} q${(side*len*.5).toFixed(1)} ${(-len*.55).toFixed(1)} ${(side*len).toFixed(1)} ${(-len*.15).toFixed(1)} q${(-side*len*.45).toFixed(1)} ${(len*.5).toFixed(1)} ${(-side*len).toFixed(1)} ${(len*.15).toFixed(1)}z" fill="url(#${p}lf)" opacity="${(.75+r()*.25).toFixed(2)}" transform="rotate(${(ang*.2).toFixed(0)} ${x.toFixed(1)} ${y.toFixed(1)})"/>`;
+    }
+  }
+  /* pulse line along the ground */
+  s += `<path d="M24 392 H118 l8 -16 l9 30 l8 -40 l9 34 l7 -8 H276" fill="none" stroke="${c.acc}" stroke-width="1.4" stroke-linejoin="round" opacity=".9"/>`;
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:500,style:'italic',maxW:236,maxLines:3,sizes:[40,36,32,29,26,23,20,18]});
+  s += titleText(fit,{y:70,family:'Cormorant Garamond',weight:500,style:'italic',fill:c.foil?`url(#${p}f)`:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 430, c.ink, .7);
+  return s;
+},
+sage(b,p,r,c,lite){
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  /* ink ensō: many offset strokes give a dry-brush edge */
+  const cx = 150, cy = 182, R = 78, start = r()*Math.PI*2, gapA = .35+r()*.35, inkCol = c.light ? c.ink : (c.foil?`url(#${p}f)`:c.ink);
+  for (let k=0;k<(lite?8:18);k++){
+    const off = (r()-.5)*7, w = 1.2+r()*4.5; let d='';
+    for (let t=0;t<=1.0001;t+=1/60){ const a = start+t*(Math.PI*2-gapA), rr = R+off+Math.sin(t*9+k)*2; d += (t?' L':'M')+(cx+Math.cos(a)*rr).toFixed(1)+' '+(cy+Math.sin(a)*rr).toFixed(1); }
+    s += `<path d="${d}" fill="none" stroke="${inkCol}" stroke-width="${w.toFixed(1)}" stroke-linecap="round" opacity="${(.12+r()*.25).toFixed(2)}"/>`;
+  }
+  /* hanko seal */
+  const ini = esc((b.title.match(/[A-Za-z]/)||['F'])[0].toUpperCase());
+  s += `<g transform="translate(${cx+R*.78} ${cy+R*.62}) rotate(${(-6+r()*12).toFixed(0)})"><rect x="-13" y="-13" width="26" height="26" rx="3" fill="${c.acc}" opacity=".92"/>
+    <rect x="-10.5" y="-10.5" width="21" height="21" rx="2" fill="none" stroke="${c.light?'#fbf4ea':c.bg[1]}" stroke-width=".8"/><text x="0" y="6" text-anchor="middle" font-family="Cinzel" font-size="15" fill="${c.light?'#fbf4ea':c.bg[1]}">${ini}</text></g>`;
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:400,maxW:228,maxLines:3,sizes:[34,31,28,26,24,22,20,18]});
+  s += titleText(fit,{y:338,valign:'middle',family:'Cormorant Garamond',weight:400,fill:c.foil?`url(#${p}f)`:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 428, c.ink, .65);
+  return s;
+},
+bonds(b,p,r,c,lite){
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}</defs><rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  const n = 2+Math.floor(r()*2), R = 54, cy = 190, spread = n===2?44:40, col = c.foil?`url(#${p}f)`:c.acc;
+  const fills = [c.acc, tint(c.acc, c.light?.35:-.3), tint(c.acc, c.light?-.25:.3)];
+  for (let i=0;i<n;i++){ const cx = 150+(i-(n-1)/2)*spread; s += `<circle cx="${cx}" cy="${cy+(i%2?10:0)}" r="${R}" fill="${fills[i]}" opacity="${c.light?.32:.38}" style="mix-blend-mode:${c.light?'multiply':'screen'}"/>`; }
+  for (let i=0;i<n;i++){ const cx = 150+(i-(n-1)/2)*spread; s += `<circle cx="${cx}" cy="${cy+(i%2?10:0)}" r="${R}" fill="none" stroke="${col}" stroke-width="1.1"/>`; }
+  const fit = fitTitle(b.title,{family:'Cormorant Garamond',weight:500,maxW:236,maxLines:3,sizes:[40,36,32,29,26,23,20,18]});
+  s += titleText(fit,{y:345,valign:'middle',family:'Cormorant Garamond',weight:500,fill:c.foil?`url(#${p}f)`:c.ink,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 430, c.ink, .7);
+  return s;
+},
+quill(b,p,r,c,lite){
+  let s = `<defs>${lg(p+'bg',[[0,c.bg[0]],[1,c.bg[1]]],0,0,0,1)}${c.foil?lg(p+'f',c.foil):''}${lite?'':emb(p)}<filter id="${p}cut" x="-5%" y="-5%" width="110%" height="120%"><feDropShadow dx="0" dy="-2" stdDeviation="2.4" flood-color="#000" flood-opacity=".28"/></filter></defs>
+    <rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  /* layered paper-cut waves */
+  for (let j=0;j<5;j++){
+    const base = 230+j*42, amp = 18+r()*16, ph = r()*6.28, wl = 70+r()*60; let d = `M-5 ${base}`;
+    for (let x=-5;x<=305;x+=10) d += ` L${x} ${(base+Math.sin(x/wl*6.283+ph)*amp).toFixed(1)}`;
+    const col = j%2 ? tint(c.acc, c.light?.15+j*.05:-.2+j*.08) : tint(c.light?c.bg[1]:c.bg[0], c.light?-.08-j*.06:.06+j*.06);
+    s += `<path d="${d} L305 455 L-5 455Z" fill="${col}" ${lite?'':`filter="url(#${p}cut)"`}/>`;
+  }
+  /* a nib */
+  s += `<g transform="translate(240 92) rotate(35)" fill="${c.foil?`url(#${p}f)`:c.acc}"><path d="M0 -26 C7 -12 8 4 0 18 C-8 4 -7 -12 0 -26Z"/><circle cx="0" cy="-4" r="2.2" fill="${c.bg[0]}"/><path d="M0 -2 V16" stroke="${c.bg[0]}" stroke-width=".8"/></g>`;
+  const fit = fitTitle(b.title,{family:'Newsreader',weight:400,style:'italic',maxW:206,maxLines:4,sizes:[36,32,29,26,23,21,19,17]});
+  s += titleText(fit,{x:28,anchor:'start',y:78,family:'Newsreader',weight:400,style:'italic',fill:c.foil?`url(#${p}f)`:c.ink,lh:1.1,filter:c.foil&&!lite?`filter="url(#${p}emb)"`:''});
+  s += authorLine(b, 432, c.light?c.ink:'#fff', .8, 28, 'start');
+  return s;
+}
+};
+
+/* family + palette for a catalog book, from its categories and slug */
+function coverStyle(b){
+  const fam = FAMILY_OF[b.primary] || 'ascent', pals = PAL[fam];
+  const pal = pals[hash('pal:'+b.id) % pals.length];
+  return {fam, pal};
+}
+function genCover(b, p, lite){
+  const {fam, pal} = coverStyle(b);
+  return ART[fam](b, p, seeded('cover:'+b.id), pal, lite);
+}
+/* every cover goes through here: hand-drawn for the originals, generated for the rest */
+const coverSVG = (b, p, lite) => COVERS[b.k] ? COVERS[b.k](p) : genCover(b, p, lite);
+
+/* ---------- the library: Folio originals + the Four Minute Books catalog (republished with permission) ---------- */
+LIB.forEach(b => Object.assign(b, {id:b.k, own:true, cats:[], primary:b.genreName}));
+let CATALOG = null;
+try { const res = await fetch('data/catalog.json'); if (res.ok) CATALOG = await res.json(); } catch(_) {}
+const normT = s => String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+const ownTitles = new Set(LIB.flatMap(b => [b.title, ...(b.aka||[])]).map(normT));   // skip catalog copies of Folio originals
+const FMB = (CATALOG ? CATALOG.books : []).filter(x => !ownTitles.has(normT(x.t))).map(x => {
+  const id = x.s.replace(/-summary$/, ''), cats = x.c.map(i => CATALOG.cats[i]);
+  const b = {k:'fmb:'+id, id, fmb:true, title:x.t, author:x.a||'', year:x.y||null, cats,
+    primary: x.c.length ? CATALOG.cats[Math.max(...x.c)] : 'Self Improvement',     // the rarest category is the most specific
+    hook:x.h||'', mins:x.m||4, words:x.w||0, added:x.d||'', url:CATALOG.base+x.s+'/', pages:140+Math.round((x.w||1200)/9)};
+  const {fam, pal} = coverStyle(b);
+  return Object.assign(b, {genre:FAMILY_ICON[fam], genreName:b.primary, accent:pal.acc, tex:pal.tex,
+    base: pal.light ? tint(pal.bg[1], -.16) : pal.bg[1], ink: pal.light ? pal.ink : pal.ink, bands: hash(id)%3===0,
+    one: x.h || 'A four-minute summary.', syn: `A ${x.m||4}-minute summary by Four Minute Books, republished in Folio with permission. ${cats.slice(0,3).join(' · ')}`});
+});
+const ALL = LIB.concat(FMB);
+
+/* ---------- today's shelf: your chosen number of books, picked from the whole library, seeded by the date ---------- */
+const PERDAY_KEY = 'folio:perday', NUM = ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve'];
+let PERDAY = 6;
+try { const v = +localStorage.getItem(PERDAY_KEY); if (v >= 3 && v <= 12) PERDAY = v; } catch(_) {}
+const POOL = ALL.slice().sort((a,b) => a.id < b.id ? -1 : 1);
+const PICKS = shuffle(POOL, seeded('shelf:'+DAY+':'+PERDAY)).slice(0, Math.min(PERDAY, POOL.length));
+const NWORD = NUM[PICKS.length] || String(PICKS.length), NCAP = NWORD[0].toUpperCase()+NWORD.slice(1);
 const QUIZ = {k:'quiz', quiz:true, title:'Recall', author:"Today's quiz", life:'New questions every day', year:NOW.getFullYear(),
   pages:220, words:0, rating:0, genre:'quiz', genreName:'Quiz', accent:'#b8913a', base:'#3d1216', ink:'#e9cf8a', bands:true,
-  one:'Six books in. How much stayed with you?',
-  syn:"Three questions on each of today's books. Choose an answer and the right one is circled in ink. No score, no pressure: just a quiet look at what stuck."};
+  one:`${NCAP} books in. How much stayed with you?`,
+  syn:"Up to three questions on each of today's books. Choose an answer and the right one is circled in ink. No score, no pressure: just a quiet look at what stuck."};
 const BOOKS = PICKS.concat(QUIZ);
 
 /* ---------- covers (original artwork) ---------- */
@@ -1039,7 +1436,7 @@ quiz(p){
   [0,90,180,270].forEach(a=>{ const t=a*Math.PI/180, x=Math.cos(t)*84, y=Math.sin(t)*84; s += `<path d="M${x.toFixed(1)} ${(y-4).toFixed(1)} l4 4 -4 4 -4 -4z" fill="url(#${p}g)"/>`; });
   s += T(2,36,'?',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="112" fill="url(#${p}g)" filter="url(#${p}emb)"`) + `</g>`;
   /* six gilt diamonds: one per book on today's shelf */
-  for (let i=0;i<6;i++){ const x = 150+(i-2.5)*15; s += `<path d="M${x} 296 l3.4 3.4 -3.4 3.4 -3.4 -3.4z" fill="url(#${p}g)" filter="url(#${p}emb)"/>`; }
+  const nd = PICKS.length, sp = nd > 8 ? 11 : 15; for (let i=0;i<nd;i++){ const x = 150+(i-(nd-1)/2)*sp; s += `<path d="M${x} 296 l3.4 3.4 -3.4 3.4 -3.4 -3.4z" fill="url(#${p}g)" filter="url(#${p}emb)"/>`; }
   s += T(154,350,'RECALL',`font-family="Cinzel" font-weight="500" font-size="25" letter-spacing="9" fill="url(#${p}g)" filter="url(#${p}emb)"`);
   s += T(150,373,`${NOW.getDate()} · ${MON[NOW.getMonth()]} · ${NOW.getFullYear()}`,`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="4" fill="#e3c77d" opacity=".8"`);
   /* brass corner guards */
@@ -1061,6 +1458,13 @@ const barcode = seed => { const r=rng(seed); let x=0, s=''; while (x<94){ const 
 
 /* ---------- genre glyphs ---------- */
 const ICONS = {
+  ripple:'<circle cx="10" cy="10" r="1.6"/><circle cx="10" cy="10" r="4.6"/><circle cx="10" cy="10" r="8"/>',
+  coin:'<circle cx="10" cy="10" r="7.6"/><circle cx="10" cy="10" r="5.4"/><path d="M10 7v6M8.4 8.4h2.6a1.1 1.1 0 010 2.2H9a1.1 1.1 0 000 2.2h2.6"/>',
+  bars:'<path d="M3 17h14M5 17v-5M9 17V9M13 17V6"/><path d="M12 3.5l4-.5-.5 4M16 3l-5 5"/>',
+  column:'<path d="M4 6.5h12M5 4h10l1 2.5H4zM5.5 17V6.5M9 17V6.5M11 17V6.5M14.5 17V6.5M3.5 17.5h13"/>',
+  leaf:'<path d="M4 16C4 9 9 4 17 4c0 8-5 12-11 12z"/><path d="M4 16l8-8"/>',
+  enso:'<path d="M15.5 6.2A7 7 0 1 0 16.6 12"/>',
+  nib:'<path d="M10 2.5l4.5 8-4.5 7-4.5-7z"/><path d="M10 10.5v7"/><circle cx="10" cy="9.6" r="1"/>',
   sea:'<path d="M2 9c2-2 4-2 6 0s4 2 6 0 4-2 4-2M2 13c2-2 4-2 6 0s4 2 6 0 4-2 4-2"/>',
   rings:'<circle cx="7.6" cy="11" r="4.6"/><circle cx="12.4" cy="11" r="4.6"/><path d="M8.6 3.6l1.4 1.6 1.4-1.6"/>',
   bolt:'<path d="M11.5 2L5 11h4.6L8 18l7-9.4h-4.6z"/>',
@@ -1101,12 +1505,12 @@ BOOKS.forEach((b,i)=>{
   const p = 'c'+i+'-';
   slot.innerHTML = `<div class="book">
     <div class="shadow"></div>
-    <div class="face front ${b.tex||''}"><svg viewBox="0 0 300 450" aria-hidden="true">${COVERS[b.k](p)}</svg>
+    <div class="face front ${b.tex||''}"><svg viewBox="0 0 300 450" aria-hidden="true">${coverSVG(b, p)}</svg>
       <div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}<div class="ov light"></div><div class="ov hinge"></div><div class="ov glare"></div><div class="ov edgeline"></div><div class="sh"></div></div>
     <div class="face back ${b.tex||''}" style="background:${b.base};color:${b.ink}"><div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}
-      <div class="bc"><p class="one">${b.one}</p><div class="rule"></div><p>${b.syn}</p><div class="barcode">${barcode(i*97+13)}</div></div>
+      <div class="bc"><p class="one">${esc(b.one)}</p><div class="rule"></div><p>${esc(b.syn)}</p><div class="barcode">${barcode(i*97+13)}</div></div>
       <div class="ov light" style="transform:scaleX(-1)"></div><div class="sh"></div></div>
-    <div class="face spine" style="background:${b.base};color:${b.ink}">${b.bands?'<div class="bands t"></div><div class="bands b"></div>':''}<span>${b.title}</span><div class="sh"></div></div>
+    <div class="face spine" style="background:${b.base};color:${b.ink}">${b.bands?'<div class="bands t"></div><div class="bands b"></div>':''}<span>${esc(b.title)}</span><div class="sh"></div></div>
     <div class="face edge-r"><div class="sh"></div></div>
     <div class="face edge-t"><div class="sh"></div></div>
     <div class="face edge-b"><div class="sh" style="opacity:.35"></div></div>
@@ -1173,18 +1577,27 @@ function tick(){
 /* ---------- caption + rail ---------- */
 const $ = id => document.getElementById(id);
 const titleEl=$('title'), authorEl=$('author'), glyphs=$('glyphs'), details=$('details'), halo=$('halo'), rail=$('rail');
-const Y0=1800, Y1=2000, yp = y => ((y-Y0)/(Y1-Y0)*100), ypos = b => b.quiz ? 100 : yp(b.year);
+const DATED = BOOKS.filter(b => !b.quiz && b.year), YRS = DATED.map(b => b.year);
+let Y0 = YRS.length ? Math.floor(Math.min(...YRS)/50)*50 : 1900, Y1 = YRS.length ? Math.ceil((Math.max(...YRS)+1)/50)*50 : 2000;
+if (Y1 - Y0 < 100) Y0 = Y1 - 100;
+const SPAN = Y1 - Y0, TICK = SPAN <= 250 ? 10 : SPAN <= 600 ? 25 : 50, LAB = SPAN <= 300 ? 50 : 100;
+const yp = y => ((y-Y0)/(Y1-Y0)*100), ypos = b => b.quiz ? 100 : b.year ? yp(b.year) : null;
 let railHTML = '<div class="line"></div>';
-for (let y=Y0;y<=Y1;y+=10) railHTML += `<div class="tick${y%50===0?' major':''}" style="left:${yp(y)}%"></div>`;
-for (let y=Y0;y<=Y1;y+=50) railHTML += `<div class="lab" style="left:${yp(y)}%">${y}</div>`;
+for (let y=Y0;y<=Y1;y+=TICK) railHTML += `<div class="tick${y%LAB===0?' major':''}" style="left:${yp(y)}%"></div>`;
+for (let y=Y0;y<=Y1;y+=LAB) railHTML += `<div class="lab" style="left:${yp(y)}%">${y}</div>`;
 railHTML += `<div class="stem" id="stem"></div><div class="year" id="year"></div>`;
-const order = BOOKS.map((b,i)=>i).sort((a,b)=>BOOKS[a].year-BOOKS[b].year);
-const lane = {}; order.forEach((i,k)=>{ const prev=order[k-1]; lane[i] = (prev!=null && BOOKS[i].year-BOOKS[prev].year<5) ? (lane[prev]+1) : 0; });
-BOOKS.forEach((b,i)=> railHTML += `<button data-i="${i}" ${b.quiz?'class="qz" ':''}data-tip="${b.quiz?"Today's quiz":b.title}" aria-label="${b.quiz?"Today's quiz":b.title+', '+b.year}" style="left:${ypos(b)}%;transform:translateY(${lane[i]*-9}px)"><span></span></button>`);
+const order = BOOKS.map((b,i)=>i).filter(i => ypos(BOOKS[i]) != null).sort((a,b)=>ypos(BOOKS[a])-ypos(BOOKS[b]));
+const lane = {}; order.forEach((i,k)=>{ const prev=order[k-1]; lane[i] = (prev!=null && ypos(BOOKS[i])-ypos(BOOKS[prev]) < 2.5) ? (lane[prev]+1) : 0; });
+order.forEach(i => { const b = BOOKS[i]; railHTML += `<button data-i="${i}" ${b.quiz?'class="qz" ':''}data-tip="${b.quiz?"Today's quiz":escA(b.title)}" aria-label="${b.quiz?"Today's quiz":escA(b.title+', '+b.year)}" style="left:${ypos(b)}%;transform:translateY(${lane[i]*-9}px)"><span></span></button>`; });
 rail.innerHTML = railHTML;
 const railBtns = [...rail.querySelectorAll('button')];
 rail.addEventListener('click', e=>{ const b=e.target.closest('button'); if (b){ st.target=+b.dataset.i; st.flipT=0; } });
 
+const IC_QUOTE = '<path d="M5 13c0-3 1-5 3.4-6.4M5 13a2 2 0 104 0 2 2 0 00-4 0zM11 13c0-3 1-5 3.4-6.4M11 13a2 2 0 104 0 2 2 0 00-4 0z"/>';
+const IC_OPEN = '<path d="M2.5 5c2.4-1 4.9-1 7.5.8 2.6-1.8 5.1-1.8 7.5-.8v10.5c-2.4-1-4.9-1-7.5.8-2.6-1.8-5.1-1.8-7.5-.8z"/><path d="M10 5.8v10.5"/>';
+const IC_FLIP = '<g class="flipicon" style="transform-origin:10px 10px"><rect x="6" y="3.5" width="8" height="13" rx=".8"/><path d="M8.5 3.5v13"/></g><path d="M2.5 12a7.5 7.5 0 0 0 4 4.5M17.5 8a7.5 7.5 0 0 0-4-4.5"/><path d="M5.4 17.2l1.1-.7-.6-1.2M14.6 2.8l-1.1.7.6 1.2"/>';
+const IC_LINK = '<path d="M8.5 4.5H4.5v11h11v-4"/><path d="M11.5 3.5h5v5M16.5 3.5L9.5 10.5"/>';
+const DOT = '<span class="dot"></span>';
 function select(i){
   st.idx = i; st.flipT = 0;
   const b = BOOKS[i];
@@ -1192,32 +1605,39 @@ function select(i){
   halo.style.backgroundColor = b.accent;
   $('cur').textContent = String(i+1).padStart(2,'0');
   titleEl.textContent = b.title;
-  authorEl.textContent = b.author;
-  authorEl.dataset.tip = b.life;
-  const hrs = b.words/250/60;
-  if (b.quiz) glyphs.innerHTML = quizGlyphs()+`<span class="dot"></span>
-    <button class="g btn" id="openBtn" data-tip="Begin" aria-label="Open today's quiz">${svgI(ICONS.quiz)}</button><span class="dot"></span>
-    <button class="g btn" id="flipBtn" data-tip="Turn over" aria-label="Turn the book over">${svgI('<g class="flipicon" style="transform-origin:10px 10px"><rect x="6" y="3.5" width="8" height="13" rx=".8"/><path d="M8.5 3.5v13"/></g><path d="M2.5 12a7.5 7.5 0 0 0 4 4.5M17.5 8a7.5 7.5 0 0 0-4-4.5"/><path d="M5.4 17.2l1.1-.7-.6-1.2M14.6 2.8l-1.1.7.6 1.2"/>',20)}</button>`;
-  else glyphs.innerHTML = `
-    <span class="g" tabindex="0" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span><span class="dot"></span>
-    <span class="g" tabindex="0" data-tip="${b.pages} pages">${stack(b.pages)}</span><span class="dot"></span>
-    <span class="g" tabindex="0" data-tip="About ${hrs.toFixed(1)} hours to read">${ring(hrs)}</span><span class="dot"></span>
-    <span class="g" tabindex="0" data-tip="${b.genreName}">${svgI(ICONS[b.genre])}</span><span class="dot"></span>
-    <span class="g wide" tabindex="0" data-tip="${b.one}">${svgI('<path d="M5 13c0-3 1-5 3.4-6.4M5 13a2 2 0 104 0 2 2 0 00-4 0zM11 13c0-3 1-5 3.4-6.4M11 13a2 2 0 104 0 2 2 0 00-4 0z"/>')}</span><span class="dot"></span>
-    <button class="g btn" id="openBtn" data-tip="Open" aria-label="Open the summary">${svgI('<path d="M2.5 5c2.4-1 4.9-1 7.5.8 2.6-1.8 5.1-1.8 7.5-.8v10.5c-2.4-1-4.9-1-7.5.8-2.6-1.8-5.1-1.8-7.5-.8z"/><path d="M10 5.8v10.5"/>')}</button><span class="dot"></span>
-    <button class="g btn" id="flipBtn" data-tip="Turn over" aria-label="Turn the book over">${svgI('<g class="flipicon" style="transform-origin:10px 10px"><rect x="6" y="3.5" width="8" height="13" rx=".8"/><path d="M8.5 3.5v13"/></g><path d="M2.5 12a7.5 7.5 0 0 0 4 4.5M17.5 8a7.5 7.5 0 0 0-4-4.5"/><path d="M5.4 17.2l1.1-.7-.6-1.2M14.6 2.8l-1.1.7.6 1.2"/>',20)}</button>`;
+  authorEl.textContent = b.author || (b.fmb ? 'Four Minute Books' : '');
+  authorEl.dataset.tip = b.fmb ? (b.year ? `First published ${b.year} · summary by Four Minute Books` : 'Summary by Four Minute Books') : b.life;
+  const flip = `<button class="g btn" id="flipBtn" data-tip="Turn over" aria-label="Turn the book over">${svgI(IC_FLIP,20)}</button>`;
+  const open = (tip, label, icon) => `<button class="g btn" id="openBtn" data-tip="${tip}" aria-label="${label}">${svgI(icon)}</button>`;
+  let g;
+  if (b.quiz) g = [quizGlyphs(), open('Begin', "Open today's quiz", ICONS.quiz), flip];
+  else if (b.fmb) g = [
+    `<span class="g" tabindex="0" data-tip="${b.mins}-minute read">${ring(b.mins/15*16)}</span>`,
+    `<span class="g" tabindex="0" data-tip="${escA(b.primary)}">${svgI(ICONS[b.genre])}</span>`,
+    b.hook ? `<span class="g wide" tabindex="0" data-tip="${escA(b.hook)}">${svgI(IC_QUOTE)}</span>` : '',
+    `<a class="g" href="${b.url}" target="_blank" rel="noopener" data-tip="Original on Four Minute Books" aria-label="Open the original summary on Four Minute Books">${svgI(IC_LINK)}</a>`,
+    open('Open', 'Open the summary', IC_OPEN), flip];
+  else { const hrs = b.words/250/60; g = [
+    `<span class="g" tabindex="0" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span>`,
+    `<span class="g" tabindex="0" data-tip="${b.pages} pages">${stack(b.pages)}</span>`,
+    `<span class="g" tabindex="0" data-tip="About ${hrs.toFixed(1)} hours to read">${ring(hrs)}</span>`,
+    `<span class="g" tabindex="0" data-tip="${escA(b.genreName)}">${svgI(ICONS[b.genre])}</span>`,
+    `<span class="g wide" tabindex="0" data-tip="${escA(b.one)}">${svgI(IC_QUOTE)}</span>`,
+    open('Open', 'Open the summary', IC_OPEN), flip]; }
+  glyphs.innerHTML = g.filter(Boolean).join(DOT);
   $('flipBtn').addEventListener('click', ()=> st.flipT = st.flipT ? 0 : 1);
   $('openBtn').addEventListener('click', ()=> openBook(st.idx));
   slots.forEach((s,k)=> s.slot.classList.toggle('center', k===i));
   details.classList.remove('swap'); void details.offsetWidth; details.classList.add('swap');
-  railBtns.forEach((el,k)=>el.classList.toggle('on',k===i));
-  $('year').style.left = ypos(b)+'%'; $('year').textContent = b.quiz ? 'today' : b.year;
-  $('stem').style.left = ypos(b)+'%';
+  railBtns.forEach(el=>el.classList.toggle('on', +el.dataset.i===i));
+  const yx = ypos(b);
+  $('year').style.opacity = $('stem').style.opacity = yx == null ? 0 : 1;
+  if (yx != null){ $('year').style.left = yx+'%'; $('year').textContent = b.quiz ? 'today' : b.year; $('stem').style.left = yx+'%'; }
 }
 $('tot').textContent = String(N).padStart(2,'0');
 /* calendar glyph: today's date, with the refresh time tucked into its hover */
 { const d = $('day'), hrs = Math.ceil((new Date(NOW.getFullYear(),NOW.getMonth(),NOW.getDate()+1) - NOW)/36e5);
-  d.dataset.tip = `Today's six · new picks in ${hrs} h`;
+  d.dataset.tip = `Today's ${NWORD} · tap to change · new picks in ${hrs} h`;
   d.setAttribute('aria-label', d.dataset.tip);
   d.innerHTML = `<svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><rect x="3" y="4.5" width="14" height="12.5" rx="1.2"/><path d="M3 8h14M7 3v3M13 3v3"/><text x="10" y="15.1" text-anchor="middle" fill="currentColor" stroke="none" font-family="Jost" font-weight="400" font-size="6.2">${NOW.getDate()}</text></svg>`; }
 
@@ -1276,6 +1696,8 @@ addEventListener('keydown', e=>{
     else if (e.key==='Escape'){ closeBook(); }
     return;
   }
+  if (!lib.hidden){ if (e.key==='Escape') closeLib(); return; }
+  if (e.key==='/' && !e.metaKey && !e.ctrlKey){ e.preventDefault(); openLib(true); return; }
   if (e.key==='Enter' && document.activeElement===document.body){ e.preventDefault(); openBook(st.idx); return; }
   if (e.key==='ArrowRight'){ st.target = clamp(Math.round(st.target)+1,0,N-1); }
   else if (e.key==='ArrowLeft'){ st.target = clamp(Math.round(st.target)-1,0,N-1); }
@@ -1319,11 +1741,24 @@ function md(src){
   }
   flush(); return out;
 }
-function bookHTML(b){
-  const el = document.querySelector(`script[data-md="${b.k}"]`);
-  const h = md(el ? el.textContent : `# ${b.title}\n\n> ${b.one}\n\n## Summary\n${b.syn}`);
+/* summary Markdown: originals live in this file, library summaries are fetched on demand (and cached by the service worker) */
+const mdCache = new Map();
+async function mdFor(b){
+  if (!b.fmb){ const el = document.querySelector(`script[data-md="${b.k}"]`); return el ? el.textContent : `# ${b.title}\n\n> ${b.one}\n\n## Summary\n${b.syn}`; }
+  if (mdCache.has(b.id)) return mdCache.get(b.id);
+  let t = null;
+  try { const r = await fetch(`data/summaries/${b.id}.md`); if (r.ok) t = await r.text(); } catch(_){}
+  if (!t) t = `# ${b.title}\n\n> ${b.hook}\n\n## Summary\nThis summary couldn’t be loaded right now. You can read it on Four Minute Books from the first page.`;
+  mdCache.set(b.id, t); return t;
+}
+async function bookHTML(b){
+  const h = md(await mdFor(b));
   const cut = h.indexOf('<h2'), head = cut<0 ? h : h.slice(0,cut), body = cut<0 ? '' : h.slice(cut);
-  return (`<section class="opening"><span class="ico">${svgI(ICONS[b.genre],30)}</span>${head}<div class="by">${b.author}</div><div class="yr">${b.year}</div></section>${body}`)
+  const meta = b.fmb
+    ? `${b.author?`<div class="by">${esc(b.author)}</div>`:''}${b.year?`<div class="yr">${b.year}</div>`:''}<div class="src">${b.mins}-minute summary · <a href="${b.url}" target="_blank" rel="noopener">Four Minute Books</a></div>`
+    : `<div class="by">${esc(b.author)}</div><div class="yr">${b.year}</div>`;
+  const credit = b.fmb ? `<p class="credit">Summary by Niklas Göke for <a href="${b.url}" target="_blank" rel="noopener">Four Minute Books</a>, republished in Folio with permission.</p>` : '';
+  return (`<section class="opening"><span class="ico">${svgI(ICONS[b.genre],30)}</span>${head}${meta}</section>${body}${credit}`)
     .replace(/(<\/\w+>)\s*$/, '<span class="end"></span>$1');
 }
 let epc = 0, uid = 0;
@@ -1337,12 +1772,16 @@ function endpaper(b){
     <div class="ov grain"></div><div class="ov" style="background:radial-gradient(ellipse at 50% 45%,transparent 40%,rgba(0,0,0,.3))"></div></div>`;
 }
 /* a small flat cover, used inside pages */
-const miniCover = (b, cls='') => `<div class="mini ${cls}"><svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${COVERS[b.k]('m'+(++uid)+'-')}</svg><div class="ov light"></div><div class="ov hinge"></div></div>`;
+const miniCover = (b, cls='') => `<div class="mini ${cls}"><svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(b, 'm'+(++uid)+'-')}</svg><div class="ov light"></div><div class="ov hinge"></div></div>`;
 
 /* left page opposite the title page while reading: the cover and the numbers, as glyphs */
 function frontHTML(){
   const b = R.book;
   if (b.quiz) return quizFront();
+  if (b.fmb) return `<div class="fpage">${miniCover(b)}<div class="fg">
+    <span class="g" data-tip="${b.mins}-minute read">${ring(b.mins/15*16)}<small>${b.mins}′</small></span>
+    <span class="g" data-tip="${escA(b.primary)}">${svgI(ICONS[b.genre])}</span></div>
+    <a class="srcbtn" href="${b.url}" target="_blank" rel="noopener">Summary by Four Minute Books ↗</a></div>`;
   const hrs = b.words/250/60, mins = Math.max(2, Math.round((R.words||400)/230));
   return `<div class="fpage">${miniCover(b)}<div class="fg">
     <span class="g" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span>
@@ -1389,7 +1828,7 @@ function pageInner(n){
   if (n==='front') return frontHTML();
   if (n>=R.count) return '';
   if (R.book.quiz) return quizPages()[n]();
-  return `${n>0?`<div class="rh">${R.book.title}</div>`:''}<div class="pg-in"><div class="flow" style="transform:translateX(${(-n*R.step).toFixed(2)}px)">${R.html}</div></div>${n>0?`<div class="fo">${n}</div>`:''}`;
+  return `${n>0?`<div class="rh">${esc(R.book.title)}</div>`:''}<div class="pg-in"><div class="flow" style="transform:translateX(${(-n*R.step).toFixed(2)}px)">${R.html}</div></div>${n>0?`<div class="fo">${n}</div>`:''}`;
 }
 function setFace(face, n, side){
   face.innerHTML = `<div class="pc">${pageInner(n)}</div><div class="ov grain"></div><div class="gut ${side}"></div><div class="cast"></div><div class="r-sh"></div>`;
@@ -1427,9 +1866,10 @@ function turn(leaf, dir, dur, lift=.05){
 }
 
 function fromT(){
-  layout();
-  const rc = slots[R.i].front.getBoundingClientRect(), g = R.geo, s = rc.height/(g.H*1.04);
-  return `translate3d(${(rc.left+rc.width/2-(g.x+g.W/2)).toFixed(1)}px,${(rc.top+rc.height/2-(g.y+g.H/2)).toFixed(1)}px,0) rotateX(${st.rx.toFixed(2)}deg) rotateY(${(16+st.ry).toFixed(2)}deg) scale(${s.toFixed(4)})`;
+  if (R.shelf) layout();
+  const rc = R.src.getBoundingClientRect(), g = R.geo, s = rc.height/(g.H*1.04);
+  const rx = R.shelf ? st.rx : 0, ry = R.shelf ? 16+st.ry : 0;
+  return `translate3d(${(rc.left+rc.width/2-(g.x+g.W/2)).toFixed(1)}px,${(rc.top+rc.height/2-(g.y+g.H/2)).toFixed(1)}px,0) rotateX(${rx.toFixed(2)}deg) rotateY(${ry.toFixed(2)}deg) scale(${s.toFixed(4)})`;
 }
 const midT = () => `translate3d(${R.geo.dbl ? -R.geo.W/2 : 0}px,0,0) rotateX(0deg) rotateY(0deg) scale(1)`;
 const FIN = 'translate3d(0px,0,0) rotateX(0deg) rotateY(0deg) scale(1)';
@@ -1455,19 +1895,22 @@ async function morphTo(mode){
   morph.innerHTML = '';
 }
 
-async function openBook(i){
-  if (R.open || R.busy || i!==st.idx) return;
-  R.open = R.busy = true; R.i = i; R.book = BOOKS[i]; R.r = 0; R.mode = 'book';
-  st.flip = st.flipT = 0; st.tx = st.ty = 0;
+/* open from the shelf (index into BOOKS) or from anywhere else, e.g. a library tile: openBook(null, {book, el}) */
+async function openBook(i, origin){
+  if (R.open || R.busy || (!origin && i!==st.idx)) return;
+  R.open = R.busy = true;
+  const b = origin ? origin.book : BOOKS[i];
+  R.i = i; R.book = b; R.r = 0; R.mode = 'book'; R.shelf = !origin;
+  R.src = origin ? origin.el : slots[i].front; R.away = origin ? origin.el : slots[i].slot;
+  if (R.shelf){ st.flip = st.flipT = 0; st.tx = st.ty = 0; }
   try { await document.fonts.ready; } catch(_){}
-  const b = R.book;
-  R.html = b.quiz ? '' : bookHTML(b);
-  R.words = b.quiz ? 0 : (document.querySelector(`script[data-md="${b.k}"]`)||{textContent:''}).textContent.split(/\s+/).length;
+  R.html = b.quiz ? '' : await bookHTML(b);
+  R.words = b.quiz ? 0 : (await mdFor(b)).split(/\s+/).length;
   $('rCoverF').className = 'pgf f '+(b.tex||'');
-  $('rCoverF').innerHTML = `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${COVERS[b.k]('rc'+i+'-')}</svg>
+  $('rCoverF').innerHTML = `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(b, 'rc'+(++uid)+'-')}</svg>
     <div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}<div class="ov light"></div><div class="ov hinge"></div><div class="ov edgeline"></div><div class="r-sh"></div>`;
   $('rCoverB').innerHTML = endpaper(b)+'<div class="gut r"></div><div class="r-sh"></div>';
-  $('rSpine').style.cssText = `background:${b.base};color:${b.ink}`; $('rSpine').innerHTML = `<span>${b.title}</span>`;
+  $('rSpine').style.cssText = `background:${b.base};color:${b.ink}`; $('rSpine').innerHTML = `<span>${esc(b.title)}</span>`;
   $('rBoard').style.background = b.base;
   reader.setAttribute('aria-label', b.title+(b.quiz?'':' — summary'));
   rig.classList.remove('reading'); reader.classList.remove('reading','ready');
@@ -1477,7 +1920,7 @@ async function openBook(i){
   render();
   reader.hidden = false;
   const from = fromT(); rig.style.transform = from;
-  slots[i].slot.classList.add('away');
+  R.away.classList.add('away');
   anim(rVeil, [{opacity:0},{opacity:1}], 700);
   anim(rGlow, [{opacity:0},{opacity:.12}], 1600);
   await anim(rig, [{transform:from},{transform:midT()}], 720, GLIDE);
@@ -1495,7 +1938,7 @@ async function closeBook(){
   const to = fromT();
   await Promise.all([ anim(rig, [{transform:midT()},{transform:to}], 680, 'cubic-bezier(.4,0,.2,1)'),
                       anim(rVeil, [{opacity:1},{opacity:0}], 680), anim(rGlow, [{opacity:.12},{opacity:0}], 500) ]);
-  slots[R.i].slot.classList.remove('away');
+  R.away.classList.remove('away');
   reader.hidden = true; R.open = R.busy = false;
   document.activeElement && document.activeElement.blur();
   if (R.book.quiz) select(st.idx);   // refresh the quiz progress glyphs
@@ -1522,7 +1965,7 @@ async function go(dir){
 
 /* reader input: tap a page to turn, swipe, or tap outside to close */
 let rdx=0, rdy=0, rdown=false;
-reader.addEventListener('pointerdown', e=>{ if (e.target.closest('button,.r-prog,.opt,.g')) return; rdown=true; rdx=e.clientX; rdy=e.clientY; });
+reader.addEventListener('pointerdown', e=>{ if (e.target.closest('button,a,.r-prog,.opt,.g')) return; rdown=true; rdx=e.clientX; rdy=e.clientY; });
 reader.addEventListener('pointerup', e=>{
   if (!rdown) return; rdown=false;
   const dx = e.clientX-rdx, dy = e.clientY-rdy, g = R.geo;
@@ -1599,11 +2042,22 @@ const QBANK = {
   {q:'How long does the great rain last?', a:['Four years, eleven months and two days','Forty days and forty nights','One hundred days','Seven years']},
   {q:'What do Melquíades’ parchments turn out to hold?', a:['The family’s history, written in advance','A map to buried gold','Recipes for alchemy','Úrsula’s love letters']}]
 };
-const QZ = PICKS.flatMap(b => {
-  const r = seeded('quiz:'+DAY+':'+b.k);
-  return shuffle(QBANK[b.k].map((q,n)=>({...q,n})), r).slice(0,3).map((q,j)=>{
+const validQ = q => q && typeof q.q === 'string' && Array.isArray(q.a) && q.a.length === 4 && q.a.every(x => typeof x === 'string' && x.trim());
+let QINDEX = null;
+try { const r = await fetch('data/quiz/index.json'); if (r.ok) QINDEX = new Set((await r.json()).books || []); } catch(_) {}
+async function bankFor(b){
+  if (QBANK[b.k]) return QBANK[b.k];
+  if (!b.fmb || !QINDEX || !QINDEX.has(b.id)) return [];
+  try { const r = await fetch(`data/quiz/${b.id}.json`); if (r.ok) return ((await r.json()).questions || []).filter(validQ); } catch(_) {}
+  return [];
+}
+const BANKS = await Promise.all(PICKS.map(bankFor));
+const QZ = PICKS.flatMap((b, bi) => {
+  const r = seeded('quiz:'+DAY+':'+b.id);
+  const pick = shuffle(BANKS[bi].map((q,n)=>({...q,n})), r).slice(0,3);
+  return pick.map((q,j)=>{
     const ord = shuffle([0,1,2,3], r);
-    return {id:b.k+'-'+q.n, b, j, q:q.q, a:ord.map(o=>q.a[o]), c:ord.indexOf(0)};
+    return {id:b.id+'-'+q.n, b, j, of:pick.length, q:q.q, a:ord.map(o=>q.a[o]), c:ord.indexOf(0), why:q.why||''};
   });
 });
 /* today's answers live in this browser only; the quiz still works if storage is unavailable */
@@ -1617,7 +2071,7 @@ const LONGDATE = NOW.toLocaleDateString('en-GB',{day:'numeric',month:'long',year
 /* shelf caption for the quiz: a little shelf of today's six spines, and a dot per question */
 function quizGlyphs(){
   const done = QZ.filter(q=>q.id in ANS).length;
-  const shelf = PICKS.map((b,i)=>`<i style="background:${b.base};height:${13+((i*5)%4)}px" data-tip="${b.title}"></i>`).join('');
+  const shelf = PICKS.map((b,i)=>`<i style="background:${b.base};height:${13+((i*5)%4)}px" data-tip="${escA(b.title)}"></i>`).join('');
   const dots = QZ.map(q=>`<i class="${q.id in ANS?'on':''}"></i>`).join('');
   return `<span class="g mshelf" aria-label="Covers today's six books">${shelf}</span><span class="dot"></span>
     <span class="g" tabindex="0" data-tip="${done ? `${done} of ${QZ.length} answered` : `${QZ.length} questions · three per book`}"><span class="qdots">${dots}</span></span>`;
@@ -1627,9 +2081,9 @@ const inkCircle = `<svg class="ink" viewBox="0 0 300 60" preserveAspectRatio="no
   <path pathLength="1" d="M22 36 C8 16 92 5 160 6 S297 15 291 33 S212 57 142 55 S3 49 13 28 S66 8 116 7"/>
   <path class="i2" pathLength="1" d="M26 38 C12 18 94 7 161 8 S294 17 288 34 S210 55 143 53 S6 47 16 29"/></svg>`;
 const strike = `<svg class="strike" viewBox="0 0 100 10" preserveAspectRatio="none" aria-hidden="true"><path pathLength="1" d="M0 6 C30 3.5 68 7.5 100 4"/></svg>`;
-const bookDots = q => `<span class="bdots">${[0,1,2].map(j=>`<i class="${j<q.j?'p':j===q.j?'c':''}"></i>`).join('')}</span>`;
-const fan = (mark) => `<div class="fan">${PICKS.map((b,i)=>{ const all = QZ.filter(q=>q.b===b).every(q=>q.id in ANS);
-  return `<span class="fi" style="--a:${((i-2.5)*7).toFixed(1)}deg;--y:${(Math.abs(i-2.5)**2*.09).toFixed(2)}em" data-tip="${b.title}">${miniCover(b)}${mark&&all?'<b class="tick"></b>':''}</span>`; }).join('')}</div>`;
+const bookDots = q => `<span class="bdots">${[...Array(q.of).keys()].map(j=>`<i class="${j<q.j?'p':j===q.j?'c':''}"></i>`).join('')}</span>`;
+const fan = (mark) => `<div class="fan" style="font-size:${Math.min(1, 6.5/PICKS.length).toFixed(2)}em">${PICKS.map((b,i)=>{ const all = QZ.filter(q=>q.b===b).every(q=>q.id in ANS);
+  return `<span class="fi" style="--a:${((i-2.5)*7).toFixed(1)}deg;--y:${(Math.abs(i-2.5)**2*.09).toFixed(2)}em" data-tip="${escA(b.title)}">${miniCover(b)}${mark&&all&&QZ.some(q=>q.b===b)?'<b class="tick"></b>':''}</span>`; }).join('')}</div>`;
 
 function quizPages(){
   const P = [quizTitle];
@@ -1640,7 +2094,7 @@ function quizPages(){
 }
 function quizTitle(){
   return `<div class="qp"><section class="opening"><span class="ico">${svgI(ICONS.quiz,30)}</span><h1>Recall</h1><p>${LONGDATE}</p>
-    ${fan(false)}<blockquote>${QUIZ.one}</blockquote><div class="by">${QZ.length} questions</div></section></div>`;
+    ${fan(false)}<blockquote>${QZ.length ? QUIZ.one : 'Questions for today’s books are on their way. Read now, and check back soon.'}</blockquote><div class="by">${QZ.length ? QZ.length+' questions' : 'no questions yet'}</div></section></div>`;
 }
 function quizFront(){
   const row = (w,c='') => `<div class="dm ${c}"><i class="mk"></i><b style="width:${w}%"></b>${c==='right'?inkCircle:''}</div>`;
@@ -1656,12 +2110,12 @@ function quizQ(q,k){
   const ans = ANS[q.id], done = ans!=null;
   const opts = q.a.map((a,i)=>{
     const cls = !done ? '' : i===q.c ? 'right' : i===ans ? 'wrong' : 'dim';
-    return `<li><button class="opt ${cls}${done&&i===ans?' chosen':''}" data-q="${q.id}" data-i="${i}"${done?' disabled':''}><i class="mk"></i><span>${a}${cls==='wrong'?strike:''}${cls==='right'?inkCircle:''}</span></button></li>`;
+    return `<li><button class="opt ${cls}${done&&i===ans?' chosen':''}" data-q="${q.id}" data-i="${i}"${done?' disabled':''}><i class="mk"></i><span>${esc(a)}${cls==='wrong'?strike:''}${cls==='right'?inkCircle:''}</span></button></li>`;
   }).join('');
-  return `<div class="rh">${q.b.title}</div>
+  return `<div class="rh">${esc(q.b.title)}</div>
     <div class="qp qq${R.just===q.id?' now':''}">
       <div class="qhead">${R.geo.dbl ? '' : miniCover(q.b,'tiny')}${bookDots(q)}</div>
-      <h3>${q.q}</h3><ol class="opts">${opts}</ol></div>
+      <h3>${esc(q.q)}</h3><ol class="opts">${opts}</ol>${done && q.why ? `<p class="why">${esc(q.why)}</p>` : ''}</div>
     <div class="fo">${k+1} · ${QZ.length}</div>`;
 }
 function quizFinVis(){
@@ -1685,6 +2139,105 @@ reader.addEventListener('click', e=>{
   R.just = id; setFace(rRight, R.r, 'l'); R.just = null;
   const nx = $('rNext'); nx.classList.remove('nudge'); void nx.offsetWidth; nx.classList.add('nudge');
 });
+
+/* ---------- library: every book, searchable, filterable, sortable ---------- */
+const lib = $('lib'), libGrid = $('libGrid'), libQ = $('libQ'), libChips = $('libChips');
+let libBuilt = false, libCat = 'all', libSort = 'az', tiles = [], libKeys = [], libOrders = {};
+const IC_SPARK = '<path d="M10 3l1.6 5.4L17 10l-5.4 1.6L10 17l-1.6-5.4L3 10l5.4-1.6z"/>';
+function buildLib(){
+  libBuilt = true;
+  const counts = new Map();
+  FMB.forEach(b => b.cats.forEach(c => counts.set(c, (counts.get(c)||0)+1)));
+  const cats = [...counts.entries()].sort((a,b) => b[1]-a[1]);
+  const famIcon = c => ICONS[FAMILY_ICON[FAMILY_OF[c]]] || ICONS.peak;
+  libChips.innerHTML = `<button class="chip on" data-cat="all" type="button">All <small>${ALL.length.toLocaleString()}</small></button>
+    <button class="chip" data-cat="own" type="button">${svgI(IC_SPARK,13)}Folio originals <small>${LIB.length}</small></button>` +
+    cats.map(([c,n]) => `<button class="chip" data-cat="${escA(c)}" type="button">${svgI(famIcon(c),13)}${esc(c)} <small>${n}</small></button>`).join('');
+  libGrid.innerHTML = ALL.map((b,n) => `<button class="tile" type="button" data-n="${n}" aria-label="${escA(b.title + (b.author ? ' by '+b.author : ''))}">
+    <span class="tc"><span class="ov light"></span><span class="ov hinge"></span>${b.own ? '<i class="badge" title="Folio original"></i>' : ''}</span>
+    <span class="tt">${esc(b.title)}</span><span class="ta">${esc(b.author || (b.fmb ? b.primary : ''))}</span></button>`).join('');
+  tiles = [...libGrid.children];
+  libKeys = ALL.map(b => normT(b.title+' '+b.author+' '+(b.cats||[]).join(' ')));
+  const idx = ALL.map((_,n) => n), byTitle = (a,b) => normT(ALL[a].title).localeCompare(normT(ALL[b].title));
+  libOrders = {
+    az: idx.slice().sort(byTitle),
+    new: idx.slice().sort((a,b) => (ALL[b].added||'').localeCompare(ALL[a].added||'') || byTitle(a,b)),
+    short: idx.slice().sort((a,b) => (ALL[a].fmb ? ALL[a].words : 520) - (ALL[b].fmb ? ALL[b].words : 520) || byTitle(a,b)),
+  };
+  /* covers are drawn only as tiles come near the screen */
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (!e.isIntersecting) return;
+    const t = e.target, b = ALL[+t.dataset.n];
+    t.firstElementChild.insertAdjacentHTML('afterbegin', `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(b, 't'+t.dataset.n+'-', true)}</svg>`);
+    io.unobserve(t);
+  }), {root: lib, rootMargin: '700px 0px'});
+  tiles.forEach(t => io.observe(t));
+  if (!FMB.length) $('libOffline').innerHTML = '<br>The full library loads when Folio is served from a web address (it can’t be fetched from a local file).';
+  filterLib();
+}
+function filterLib(){
+  const words = normT(libQ.value).split(' ').filter(Boolean);
+  let shown = 0;
+  libOrders[libSort].forEach((n,k) => {
+    const b = ALL[n], t = tiles[n];
+    const ok = words.every(w => libKeys[n].includes(w)) && (libCat === 'all' || (libCat === 'own' ? b.own : (b.cats||[]).includes(libCat)));
+    t.hidden = !ok; t.style.order = k; if (ok) shown++;
+  });
+  $('libCount').textContent = `${shown.toLocaleString()} ${shown === 1 ? 'book' : 'books'}`;
+  $('libEmpty').hidden = shown > 0;
+}
+let libT;
+libQ.addEventListener('input', () => { clearTimeout(libT); libT = setTimeout(filterLib, 110); });
+libChips.addEventListener('click', e => {
+  const c = e.target.closest('.chip'); if (!c) return;
+  libCat = c.dataset.cat; libChips.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x === c));
+  filterLib(); lib.scrollTo({top: 0, behavior: reduce ? 'auto' : 'smooth'});
+});
+lib.querySelector('.lib-sort').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  libSort = b.dataset.sort; lib.querySelectorAll('.lib-sort button').forEach(x => x.classList.toggle('on', x === b)); filterLib();
+});
+libGrid.addEventListener('click', e => {
+  const t = e.target.closest('.tile'); if (!t) return;
+  const tc = t.querySelector('.tc');
+  if (!tc.querySelector('svg')) tc.insertAdjacentHTML('afterbegin', `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(ALL[+t.dataset.n], 't'+t.dataset.n+'-', true)}</svg>`);
+  openBook(null, {book: ALL[+t.dataset.n], el: tc});
+});
+function openLib(focus){
+  if (!libBuilt) buildLib();
+  lib.hidden = false; void lib.offsetWidth; lib.classList.add('open');
+  if (focus) setTimeout(() => libQ.focus({preventScroll:true}), 80); else lib.focus?.();
+}
+function closeLib(){
+  lib.classList.remove('open');
+  setTimeout(() => { if (!lib.classList.contains('open')) lib.hidden = true; }, reduce ? 0 : 450);
+}
+$('libBtn').addEventListener('click', () => openLib(true));
+$('libClose').addEventListener('click', closeLib);
+
+/* ---------- books a day: 3 to 12; the shelf re-forms with the new count ---------- */
+{
+  const pop = $('perday'), dayEl = $('day');
+  let n = PERDAY;
+  const draw = () => {
+    $('pdN').textContent = n; $('pdMinus').disabled = n <= 3; $('pdPlus').disabled = n >= 12;
+    $('pdSpines').innerHTML = Array.from({length:n}, (_,k) => `<i style="height:${15+((k*7)%5)*2}px;animation-delay:${k*25}ms"></i>`).join('') + '<i class="q" style="height:21px"></i>';
+    $('pdNote').textContent = n === PERDAY ? `New picks in ${hrsLeft()} h` : 'Your shelf will re-form when you close this';
+  };
+  const show = v => { pop.hidden = !v; dayEl.classList.toggle('open', v); if (v) draw(); };
+  const apply = () => {
+    if (n === PERDAY) return;
+    try { localStorage.setItem(PERDAY_KEY, String(n)); } catch(_) {}
+    document.body.classList.add('leaving'); setTimeout(() => location.reload(), reduce ? 0 : 360);
+  };
+  dayEl.addEventListener('click', e => { e.stopPropagation(); if (pop.hidden) show(true); else { show(false); apply(); } });
+  dayEl.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); dayEl.click(); } });
+  $('pdMinus').addEventListener('click', e => { e.stopPropagation(); n = Math.max(3, n-1); draw(); });
+  $('pdPlus').addEventListener('click', e => { e.stopPropagation(); n = Math.min(12, n+1); draw(); });
+  pop.addEventListener('click', e => e.stopPropagation());
+  document.addEventListener('click', () => { if (!pop.hidden){ show(false); apply(); } });
+  addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden){ show(false); apply(); } });
+}
 
 /* ---------- theme: follows the device until you choose; the new theme spreads out from the switch ---------- */
 {

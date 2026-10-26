@@ -1,0 +1,8 @@
+{
+  "name": "folio-catalog",
+  "private": true,
+  "type": "module",
+  "description": "Builds Folio's library (data/catalog.json, data/summaries/*.md) from Four Minute Books, republished with permission.",
+  "scripts": { "scrape": "node scrape.mjs" },
+  "dependencies": { "node-html-parser": "6.1.13" }
+}
