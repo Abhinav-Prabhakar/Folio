@@ -721,6 +721,17 @@ const QUIZ = {k:'quiz', quiz:true, title:'Recall', author:"Today's quiz", life:'
 const BOOKS = PICKS.concat(QUIZ);
 
 /* ---------- covers (original artwork) ---------- */
+/* Oxblood hide for the quiz book. Baked into an image so the costly noise filters render once and are cached,
+   instead of running live on a 3D-transformed layer (which Chrome paints progressively and can leave behind). */
+const LEATHER = 'data:image/svg+xml,' + encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 300 450">
+  <defs><radialGradient id="bg" cx=".4" cy=".34" r=".95"><stop offset="0" stop-color="#6a2226"/><stop offset=".5" stop-color="#46151a"/><stop offset="1" stop-color="#1e080a"/></radialGradient>
+  <filter id="lth" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="4" seed="7" result="n"/>
+    <feDiffuseLighting in="n" surfaceScale="1.7" diffuseConstant="1.15" lighting-color="#fff" result="d"><feDistantLight azimuth="225" elevation="60"/></feDiffuseLighting>
+    <feComposite in="d" in2="SourceGraphic" operator="arithmetic" k1="1.08" k2="0" k3="0" k4="0"/></filter>
+  <filter id="mot" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".011 .016" numOctaves="3" seed="3"/>
+    <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.05"/></filter></defs>
+  <rect width="300" height="450" fill="url(#bg)" filter="url(#lth)"/><rect width="300" height="450" fill="#12040a" filter="url(#mot)" opacity=".55"/></svg>`);
+
 const COVERS = {
 moby(p){
   const r = rng(11);
@@ -921,18 +932,12 @@ quiz(p){
     <radialGradient id="${p}bg" cx=".4" cy=".34" r=".95">${stopsOf([[0,'#6a2226'],[.5,'#46151a'],[1,'#1e080a']])}</radialGradient>
     ${lg(p+'g',GOLD)}${lg(p+'br',BRASS)}${emb(p)}${glowF(p,3)}
     ${lg(p+'band',[[0,'#040203'],[.3,'#231b1d'],[.48,'#3d3336'],[.62,'#1c1516'],[1,'#040203']],0,0,1,0)}
-    <filter id="${p}lth" x="0" y="0" width="100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="4" seed="7" result="n"/>
-      <feDiffuseLighting in="n" surfaceScale="1.7" diffuseConstant="1.15" lighting-color="#fff" result="d"><feDistantLight azimuth="225" elevation="60"/></feDiffuseLighting>
-      <feComposite in="d" in2="SourceGraphic" operator="arithmetic" k1="1.08" k2="0" k3="0" k4="0"/></filter>
-    <filter id="${p}mot" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".011 .016" numOctaves="3" seed="3"/>
-      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.05"/></filter>
     <filter id="${p}ds" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="1" dy="1.6" stdDeviation="1.3" flood-color="#000" flood-opacity=".6"/></filter>
     <radialGradient id="${p}riv" cx=".35" cy=".3" r=".8">${stopsOf([[0,'#fff6d6'],[.45,'#c39b48'],[1,'#4e3712']])}</radialGradient>
     <pattern id="${p}weave" width="4" height="2.4" patternUnits="userSpaceOnUse"><rect width="4" height="1.1" fill="#fff" opacity=".07"/></pattern>
   </defs>
-  <rect width="300" height="450" fill="url(#${p}bg)" filter="url(#${p}lth)"/>
-  <rect width="300" height="450" fill="#12040a" filter="url(#${p}mot)" opacity=".55"/>
+  <rect width="300" height="450" fill="url(#${p}bg)"/>
+  <image href="${LEATHER}" width="300" height="450" preserveAspectRatio="none"/>
   <rect x="15.8" y="15.8" width="268.4" height="418.4" rx="4" fill="none" stroke="#000" stroke-opacity=".55" stroke-width="1.8"/>
   <rect x="16.9" y="16.9" width="268.4" height="418.4" rx="4" fill="none" stroke="#ffd9c4" stroke-opacity=".08" stroke-width="1"/>
   <rect x="27" y="27" width="246" height="396" fill="none" stroke="url(#${p}g)" stroke-width=".9"/>
@@ -1047,7 +1052,7 @@ const shade = lam => ((1-(.28+.72*Math.max(0,lam)))*.82).toFixed(3);
 function layout(){
   for (let i=0;i<N;i++){
     const s = slots[i], o = i-st.pos, a=Math.abs(o), sg=Math.sign(o), c=Math.min(a,1), w=1-c;
-    if (a>5.2){ s.slot.style.visibility='hidden'; continue; } s.slot.style.visibility='';
+    if (a>5.2){ s.slot.style.visibility='hidden'; s.slot.style.transform=`translate3d(${sg*W*4}px,0,${-W*2}px)`; continue; } s.slot.style.visibility='';
     const x = sg*(c*W*1.08 + Math.max(a-1,0)*W*.44);
     const z = -c*W*1.15 - Math.max(a-1,0)*W*.22;
     const y = -w*H*.03;
