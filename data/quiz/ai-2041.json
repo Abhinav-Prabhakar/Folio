@@ -1,0 +1,56 @@
+{
+  "book": "ai-2041",
+  "title": "AI 2041",
+  "questions": [
+    {
+      "q": "What risk does lesson 1 attach to deepfakes?",
+      "a": [
+        "They can be harmful in the wrong hands",
+        "They are too expensive to make",
+        "They always look obviously fake",
+        "They can't fool people"
+      ],
+      "why": "Lesson 1 says powerful AI can be destructive if misused."
+    },
+    {
+      "q": "Which example illustrates a deepfake in lesson 1?",
+      "a": [
+        "A Buzzfeed video of Barack Obama",
+        "A famous painting",
+        "A voice assistant",
+        "A video game character"
+      ],
+      "why": "The summary mentions Buzzfeed's Obama video."
+    },
+    {
+      "q": "How can AI help children learn, per lesson 2?",
+      "a": [
+        "By increasing communication and engagement, such as through magic glasses",
+        "By replacing all teachers",
+        "By testing them constantly",
+        "By limiting screen time"
+      ],
+      "why": "Lesson 2 describes engagement-boosting tools."
+    },
+    {
+      "q": "What can AI-based educational software help teachers do?",
+      "a": [
+        "Grade papers and assign tasks",
+        "Create the lesson plans entirely",
+        "Replace parent meetings",
+        "Speed up school buses"
+      ],
+      "why": "Lesson 2 mentions grading and assigning tasks."
+    },
+    {
+      "q": "Why do virtual worlds work so well on people, per lesson 3?",
+      "a": [
+        "They deliver customized experiences with familiar items",
+        "They are cheaper than travel",
+        "They are entirely realistic",
+        "They are social by default"
+      ],
+      "why": "Lesson 3 says personalization and familiar items make them effective."
+    }
+  ]
+}

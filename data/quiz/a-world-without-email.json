@@ -1,0 +1,56 @@
+{
+  "book": "a-world-without-email",
+  "title": "A World Without Email",
+  "questions": [
+    {
+      "q": "How often does the average worker check email, per lesson 1?",
+      "a": [
+        "About every six minutes",
+        "About every hour",
+        "About every two minutes",
+        "About twice a day"
+      ],
+      "why": "Lesson 1 says an average of every six minutes."
+    },
+    {
+      "q": "Why do emails and notifications persist, according to lesson 1?",
+      "a": [
+        "They've become like an addiction and cultures push them",
+        "They are the cheapest tool",
+        "They are required by law",
+        "They are impossible to replace"
+      ],
+      "why": "The summary says workers are addicted and organizations encourage it."
+    },
+    {
+      "q": "What does Newport suggest replacing email with?",
+      "a": [
+        "Project management execution apps",
+        "More meetings",
+        "Phone calls",
+        "Shared documents"
+      ],
+      "why": "Lesson 2 says to switch to project management apps."
+    },
+    {
+      "q": "How did Drucker classify work, per lesson 2?",
+      "a": [
+        "Knowledge workers and factory-type workers",
+        "Managers and employees",
+        "Creative and routine workers",
+        "Remote and in-office workers"
+      ],
+      "why": "Lesson 2 mentions Drucker's two types of work."
+    },
+    {
+      "q": "What problem does lesson 3 describe with unclear responsibilities?",
+      "a": [
+        "People pass tasks around without following up",
+        "Teams overwork on projects",
+        "Managers assign too many tasks",
+        "Staff ignore deadlines"
+      ],
+      "why": "Lesson 3 says tasks get moved around without getting done."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "a-world-in-disarray",
+  "title": "A World In Disarray",
+  "questions": [
+    {
+      "q": "Which alliance does lesson 1 cite as helping keep peace after World War II?",
+      "a": [
+        "NATO",
+        "The Warsaw Pact",
+        "The League of Nations",
+        "ASEAN"
+      ],
+      "why": "Lesson 1 describes NATO as an alliance of European and North American nations."
+    },
+    {
+      "q": "What was the purpose of the Marshall Plan?",
+      "a": [
+        "To support Western Europe against the growing Soviet Union",
+        "To rebuild Japan",
+        "To fund the United Nations",
+        "To end the Berlin blockade by force"
+      ],
+      "why": "Lesson 1 says the US set it up to help Western Europe."
+    },
+    {
+      "q": "What event led to the 'responsibility to protect' doctrine?",
+      "a": [
+        "The Rwandan genocide",
+        "The Korean War",
+        "The Gulf War",
+        "The Suez Crisis"
+      ],
+      "why": "Lesson 2 links the policy to the world's failure in Rwanda in 1994."
+    },
+    {
+      "q": "Which two groups were in conflict in Rwanda?",
+      "a": [
+        "Hutu and Tutsi",
+        "Zulu and Xhosa",
+        "Sunni and Shia",
+        "Serb and Croat"
+      ],
+      "why": "Lesson 2 names the Hutu and Tutsi tribes."
+    },
+    {
+      "q": "What does lesson 3 say is needed for a peaceful world?",
+      "a": [
+        "The three major superpowers thriving and cooperating",
+        "One dominant power to enforce order",
+        "Stronger militaries in each nation",
+        "Isolation of rival nations"
+      ],
+      "why": "Lesson 3 says all three big powers must thrive and cooperate."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "adaptive-markets",
+  "title": "Adaptive Markets",
+  "questions": [
+    {
+      "q": "What does the Efficient Market Hypothesis say about asset prices?",
+      "a": [
+        "They accurately reflect a company's health",
+        "They always rise over time",
+        "They are mostly random",
+        "They follow government decisions"
+      ],
+      "why": "Lesson 1 states that prices tell the story of a company's health."
+    },
+    {
+      "q": "Which company illustrates the Efficient Market Hypothesis in lesson 1?",
+      "a": [
+        "Morton Thiokol, after the Challenger disaster",
+        "Enron, after its collapse",
+        "Lehman Brothers",
+        "Ford, during the Great Depression"
+      ],
+      "why": "The summary uses Morton Thiokol's stock reaction."
+    },
+    {
+      "q": "How does Lo describe economic competition, per lesson 2?",
+      "a": [
+        "Survival of the richest",
+        "Survival of the fittest only",
+        "Survival of the luckiest",
+        "Survival of the largest"
+      ],
+      "why": "Lesson 2 uses 'survival of the richest'."
+    },
+    {
+      "q": "Who started the first hedge fund in the late 1940s?",
+      "a": [
+        "Alfred Winslow Jones",
+        "George Soros",
+        "Warren Buffett",
+        "Benjamin Graham"
+      ],
+      "why": "Lesson 2 names Alfred Winslow Jones."
+    },
+    {
+      "q": "What happened to Japan's market after 1991, per lesson 3?",
+      "a": [
+        "It crashed and stagnated for years",
+        "It tripled in value",
+        "It stayed flat",
+        "It rose steadily"
+      ],
+      "why": "Lesson 3 cites Japan as a case of stagnation after the 1991 crash."
+    }
+  ]
+}

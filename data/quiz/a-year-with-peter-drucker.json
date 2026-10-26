@@ -1,0 +1,56 @@
+{
+  "book": "a-year-with-peter-drucker",
+  "title": "A Year With Peter Drucker",
+  "questions": [
+    {
+      "q": "Who wrote A Year With Peter Drucker?",
+      "a": [
+        "Joseph A. Maciariello",
+        "Peter Drucker himself",
+        "Jim Collins",
+        "Stephen Covey"
+      ],
+      "why": "The overview names Maciariello, a close companion of Drucker."
+    },
+    {
+      "q": "How does feedback analysis work?",
+      "a": [
+        "Write down expected outcomes at 6, 12 and 18 months and compare later",
+        "Ask colleagues for annual reviews",
+        "Track your daily tasks",
+        "Survey customers each quarter"
+      ],
+      "why": "Lesson 1 gives this process."
+    },
+    {
+      "q": "What does feedback analysis help you discover?",
+      "a": [
+        "Your strengths and weaknesses",
+        "Your best investments",
+        "Your competitors' plans",
+        "Your ideal career"
+      ],
+      "why": "The lesson title says to figure out strengths and weaknesses."
+    },
+    {
+      "q": "What are the two crucial manager skills in lesson 2?",
+      "a": [
+        "Concentrating efforts and interpreting data correctly",
+        "Speaking well and listening",
+        "Delegating and planning",
+        "Networking and negotiating"
+      ],
+      "why": "Lesson 2 lists concentration and information literacy."
+    },
+    {
+      "q": "What does lesson 3 suggest as a way to broaden your skills?",
+      "a": [
+        "An executive sabbatical at a non-profit or government body",
+        "An MBA program",
+        "A career change to startups",
+        "A sabbatical abroad"
+      ],
+      "why": "Lesson 3 recommends a sabbatical in the non-profit sector."
+    }
+  ]
+}

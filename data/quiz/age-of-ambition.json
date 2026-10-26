@@ -1,0 +1,56 @@
+{
+  "book": "age-of-ambition",
+  "title": "Age Of Ambition",
+  "questions": [
+    {
+      "q": "Who does lesson 1 credit most for China's rise?",
+      "a": [
+        "Ordinary people, especially farmers",
+        "Government planners",
+        "Foreign investors",
+        "The military"
+      ],
+      "why": "Lesson 1 says the people had more influence than the government."
+    },
+    {
+      "q": "What happened to production after the push for rapid industrialism?",
+      "a": [
+        "Famine caused it to slide backward",
+        "It grew steadily",
+        "Output doubled each year",
+        "Imports replaced it"
+      ],
+      "why": "Lesson 1 says production grew at first but then slid back as famine hit."
+    },
+    {
+      "q": "What does the 'barehanded' fortune idea describe?",
+      "a": [
+        "Building wealth from nothing through one's own business",
+        "Inheriting a family trade",
+        "Earning money from government jobs",
+        "Winning contests"
+      ],
+      "why": "Lesson 2 says ambition rose once individuals could start businesses."
+    },
+    {
+      "q": "What did Gong Haiyan overcome, per lesson 2?",
+      "a": [
+        "Being raised in a remote village by parents who couldn't read",
+        "Losing her family business",
+        "A lack of funding",
+        "A strict government job"
+      ],
+      "why": "Lesson 2 uses her story as an example of ambition."
+    },
+    {
+      "q": "What is the post-1980s generation nicknamed?",
+      "a": [
+        "The 'Me' generation",
+        "The 'Lost' generation",
+        "The 'Silent' generation",
+        "The 'Free' generation"
+      ],
+      "why": "Lesson 3 says the Chinese call them the 'Me' generation."
+    }
+  ]
+}

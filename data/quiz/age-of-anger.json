@@ -1,0 +1,56 @@
+{
+  "book": "age-of-anger",
+  "title": "Age Of Anger",
+  "questions": [
+    {
+      "q": "Where does lesson 1 trace the roots of modern anger?",
+      "a": [
+        "The beginning of the Enlightenment",
+        "The Industrial Revolution",
+        "World War I",
+        "The Cold War"
+      ],
+      "why": "Lesson 1 traces anger to the Enlightenment."
+    },
+    {
+      "q": "How did Enlightenment ideas contribute to resentment?",
+      "a": [
+        "They fed competitiveness and made inequality more obvious",
+        "They spread religion",
+        "They ended class systems",
+        "They discouraged science"
+      ],
+      "why": "Lesson 1 says the ideas made inequality more concrete."
+    },
+    {
+      "q": "What does globalization do to national identity, per lesson 2?",
+      "a": [
+        "It fades it, leaving some people feeling left behind",
+        "It strengthens it",
+        "It replaces it with religion",
+        "It has no effect"
+      ],
+      "why": "Lesson 2 says fading borders leave people feeling left behind."
+    },
+    {
+      "q": "Who can feed on alienation and anger, according to lesson 2?",
+      "a": [
+        "Supremacist networks",
+        "Charities",
+        "Public schools",
+        "News outlets"
+      ],
+      "why": "The summary says supremacist networks enlist 'freedom fighters'."
+    },
+    {
+      "q": "What does Mishra say the West should do first, per lesson 3?",
+      "a": [
+        "Face the facts and correct its errors",
+        "Increase military power",
+        "Cut ties with the East",
+        "Promote its religion"
+      ],
+      "why": "Lesson 3 begins with the West coming to terms with its past."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "ai-superpowers",
+  "title": "AI Superpowers",
+  "questions": [
+    {
+      "q": "Which two countries does the book call the superpowers of automation?",
+      "a": [
+        "The United States and China",
+        "Japan and Germany",
+        "India and Russia",
+        "The United Kingdom and Korea"
+      ],
+      "why": "The overview names the US and China."
+    },
+    {
+      "q": "Who are two researchers who sought to give computers human intelligence in the 1950s?",
+      "a": [
+        "John McCarthy and Marvin Minsky",
+        "Alan Turing and Ray Kurzweil",
+        "Elon Musk and Stephen Hawking",
+        "Bill Gates and Steve Jobs"
+      ],
+      "why": "Lesson 1 mentions McCarthy and Minsky."
+    },
+    {
+      "q": "What does Ray Kurzweil believe about machines?",
+      "a": [
+        "They can upgrade our bodies and minds",
+        "They will replace humans entirely",
+        "They are overhyped",
+        "They need strict regulation"
+      ],
+      "why": "Lesson 2 says Kurzweil sees machines as a tool to get smarter and live longer."
+    },
+    {
+      "q": "Who sees AI as a threat to our species?",
+      "a": [
+        "Elon Musk and Stephen Hawking",
+        "Ray Kurzweil and Bill Gates",
+        "Kai-Fu Lee and Jack Ma",
+        "Marvin Minsky and John McCarthy"
+      ],
+      "why": "Lesson 2 names Musk and Hawking."
+    },
+    {
+      "q": "What changed Kai-Fu Lee's outlook, per lesson 3?",
+      "a": [
+        "A stage IV lymphoma diagnosis",
+        "A failed company",
+        "A visit to Silicon Valley",
+        "A prize"
+      ],
+      "why": "Lesson 3 says his illness made him value relationships."
+    }
+  ]
+}

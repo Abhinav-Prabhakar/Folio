@@ -1,0 +1,56 @@
+{
+  "book": "against-empathy",
+  "title": "Against Empathy",
+  "questions": [
+    {
+      "q": "How does Bloom describe empathy's flaw in lesson 1?",
+      "a": [
+        "It is selective and biased",
+        "It is too weak",
+        "It is unnatural",
+        "It is only found in humans"
+      ],
+      "why": "Lesson 1 says our empathy is biased and we don't realize it."
+    },
+    {
+      "q": "What example shows empathy's bias toward nearby tragedies?",
+      "a": [
+        "Sandy Hook, versus Syrian children's deaths",
+        "A hurricane and a flood",
+        "A school fire",
+        "A famine in one country"
+      ],
+      "why": "Lesson 1 contrasts reactions to Sandy Hook and Syria."
+    },
+    {
+      "q": "How can empathy lead to bad decisions, per lesson 2?",
+      "a": [
+        "It can favor short-term fixes over long-term good",
+        "It makes us too logical",
+        "It encourages harsh punishment",
+        "It leads to inaction"
+      ],
+      "why": "Lesson 2 offers the example of giving a crying child a sucker."
+    },
+    {
+      "q": "What problem occurs in some Cambodian orphanages?",
+      "a": [
+        "Operators exploit foreign donors' empathy",
+        "Children are not fed",
+        "Donors refuse to help",
+        "Orphans are adopted too quickly"
+      ],
+      "why": "Lesson 2 says some pocket the money."
+    },
+    {
+      "q": "What does Bloom suggest instead of empathy?",
+      "a": [
+        "Rational compassion",
+        "Indifference",
+        "Stronger rules",
+        "Personal experience"
+      ],
+      "why": "Lesson 3 recommends helping people more logically."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "affluenza",
+  "title": "Affluenza",
+  "questions": [
+    {
+      "q": "What problem does the book call 'affluenza'?",
+      "a": [
+        "Unhappiness from overconsumption",
+        "A shortage of wealth",
+        "A disease caused by pollution",
+        "The cost of healthcare"
+      ],
+      "why": "The overview defines it as the sickness of our obsession with consumption."
+    },
+    {
+      "q": "Why does buying more stuff make us less happy, per lesson 1?",
+      "a": [
+        "We must work harder to keep up with consumption",
+        "We run out of storage space",
+        "Stuff loses value fast",
+        "We feel guilty about waste"
+      ],
+      "why": "Lesson 1 says more consumption requires more work."
+    },
+    {
+      "q": "What did the 1965 US Senate predict about work?",
+      "a": [
+        "A 14 to 22 hour work week by 2000",
+        "A 40 hour week forever",
+        "A four-day week by 2030",
+        "A longer week by 2000"
+      ],
+      "why": "Lesson 1 gives this prediction."
+    },
+    {
+      "q": "What do some young professionals in Seattle choose, per lesson 2?",
+      "a": [
+        "To live in tiny apartments",
+        "To quit their jobs",
+        "To move to farms",
+        "To share cars"
+      ],
+      "why": "Lesson 2 says they opt for tiny apartments."
+    },
+    {
+      "q": "What are anti-ads, per lesson 3?",
+      "a": [
+        "The opposite of an ad, made to make viewers think",
+        "Ads for other products",
+        "Ads that never mention a brand",
+        "Ads with warnings only"
+      ],
+      "why": "Lesson 3 says they make viewers think about what they're consuming."
+    }
+  ]
+}

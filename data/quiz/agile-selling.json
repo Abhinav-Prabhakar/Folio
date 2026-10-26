@@ -1,0 +1,56 @@
+{
+  "book": "agile-selling",
+  "title": "Agile Selling",
+  "questions": [
+    {
+      "q": "What mindset does lesson 1 recommend after failure or success?",
+      "a": [
+        "Look at things in a new light without negativity",
+        "Ignore the results",
+        "Push harder immediately",
+        "Blame the market"
+      ],
+      "why": "Lesson 1 says to see your situation anew and avoid a negative attitude."
+    },
+    {
+      "q": "What problem does uncertainty cause, per lesson 1?",
+      "a": [
+        "It kills motivation to start",
+        "It speeds up learning",
+        "It improves focus",
+        "It increases risk-taking"
+      ],
+      "why": "The lesson compares it to struggling to begin a college assignment."
+    },
+    {
+      "q": "What does the frog story warn about?",
+      "a": [
+        "Going too slowly in a new venture",
+        "Making a sudden big change",
+        "Overheating your motivation",
+        "Ignoring warning signs"
+      ],
+      "why": "Lesson 2 suggests taking it slow but getting a small early win."
+    },
+    {
+      "q": "What should you aim for early in a new position, per lesson 2?",
+      "a": [
+        "A quick small win to build confidence",
+        "A large deal",
+        "A promotion",
+        "Perfect product knowledge"
+      ],
+      "why": "Lesson 2 advises getting a win as early as possible."
+    },
+    {
+      "q": "How should you prepare for meeting a prospect, per lesson 3?",
+      "a": [
+        "Research them and plan the questions you'll ask",
+        "Memorize your pitch",
+        "Prepare discounts",
+        "Write a long presentation"
+      ],
+      "why": "Lesson 3 says to research prospects and think about the questions."
+    }
+  ]
+}

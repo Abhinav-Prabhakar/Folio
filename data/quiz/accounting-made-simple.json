@@ -1,0 +1,56 @@
+{
+  "book": "accounting-made-simple",
+  "title": "Accounting Made Simple",
+  "questions": [
+    {
+      "q": "What does the accounting equation say?",
+      "a": [
+        "Assets equal liabilities plus owner's equity",
+        "Assets equal revenue minus costs",
+        "Liabilities equal assets plus equity",
+        "Equity equals revenue plus liabilities"
+      ],
+      "why": "Lesson 1 gives Assets = Liabilities + Owner's Equity."
+    },
+    {
+      "q": "What do assets include?",
+      "a": [
+        "Everything the company owns",
+        "Everything the company owes",
+        "Money paid to owners",
+        "Taxes due"
+      ],
+      "why": "Lesson 1 defines assets as everything a company owns, such as a laptop."
+    },
+    {
+      "q": "What does the current ratio measure?",
+      "a": [
+        "Ability to meet short-term commitments",
+        "Annual profit growth",
+        "Share of debt to equity",
+        "Customer retention"
+      ],
+      "why": "Lesson 2 says liquidity ratios show how well a company meets short-term obligations."
+    },
+    {
+      "q": "How is the current ratio calculated?",
+      "a": [
+        "Current assets divided by current liabilities",
+        "Total assets divided by owner's equity",
+        "Revenue divided by costs",
+        "Liabilities divided by total assets"
+      ],
+      "why": "Lesson 2 gives Current Assets / Current Liabilities."
+    },
+    {
+      "q": "Why does double-entry accounting record everything twice?",
+      "a": [
+        "One account increases while another decreases so things balance",
+        "To satisfy tax auditors",
+        "To catch employee theft",
+        "To compare past years"
+      ],
+      "why": "Lesson 3 explains each transaction affects two accounts."
+    }
+  ]
+}

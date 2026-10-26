@@ -1,0 +1,56 @@
+{
+  "book": "accidental-genius",
+  "title": "Accidental Genius",
+  "questions": [
+    {
+      "q": "What is the first rule of a first freewriting session?",
+      "a": [
+        "Lower your expectations",
+        "Write something profound",
+        "Edit as you go",
+        "Pick a hard topic"
+      ],
+      "why": "Lesson 1 lists lowering expectations first."
+    },
+    {
+      "q": "How long should a freewriting session last?",
+      "a": [
+        "5 to 20 minutes",
+        "1 to 2 hours",
+        "30 seconds",
+        "A full day"
+      ],
+      "why": "Lesson 1 says a time limit of 5 to 20 minutes will do."
+    },
+    {
+      "q": "What should you do while freewriting, per rule two?",
+      "a": [
+        "Write fast and don't stop or edit",
+        "Pause to fix mistakes",
+        "Research your topic",
+        "Plan each paragraph"
+      ],
+      "why": "Lesson 1 says to write quickly, never edit or question."
+    },
+    {
+      "q": "What does lesson 2 say about lying in freewriting?",
+      "a": [
+        "You should, as an exercise in creativity",
+        "You should never exaggerate",
+        "It spoils the exercise",
+        "Only fiction can include lies"
+      ],
+      "why": "Lesson 2 encourages exaggerating and flipping facts."
+    },
+    {
+      "q": "How could freewriting help you write a book, per lesson 3?",
+      "a": [
+        "Five minutes a day adds up to many pages in a year",
+        "It teaches you plot structure",
+        "It replaces outlines",
+        "It helps you find a publisher"
+      ],
+      "why": "Lesson 3 says daily short writing can produce 60 to 150 pages."
+    }
+  ]
+}

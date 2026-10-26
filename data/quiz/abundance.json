@@ -1,0 +1,56 @@
+{
+  "book": "abundance",
+  "title": "Abundance",
+  "questions": [
+    {
+      "q": "What does lesson 1 advise about the news?",
+      "a": [
+        "Ignore it and the irrational fears it triggers",
+        "Follow it closely to stay informed",
+        "Only read local news",
+        "Share it with friends"
+      ],
+      "why": "Lesson 1 says to forget the news and the fear brain."
+    },
+    {
+      "q": "What are the two reasons for pessimism in lesson 1?",
+      "a": [
+        "Lizard brain dominating behavior and watching much news",
+        "Low income and poor education",
+        "Fear of technology and change",
+        "Distrust of governments and companies"
+      ],
+      "why": "The lesson names the lizard brain and heavy news consumption."
+    },
+    {
+      "q": "What does lesson 2 say about solving the world's problems?",
+      "a": [
+        "Many will be solved together since they are connected",
+        "They must be solved one at a time",
+        "Most can't be solved",
+        "Governments will solve them first"
+      ],
+      "why": "Lesson 2 says looking at problems individually is a mistake."
+    },
+    {
+      "q": "What benefit would eradicating malaria bring, per the example?",
+      "a": [
+        "Better health and a stronger economy",
+        "Fewer wars",
+        "More schools",
+        "Lower prices"
+      ],
+      "why": "The lesson says it improves both health and economic situations."
+    },
+    {
+      "q": "What kind of competitions encourage the right behavior, per lesson 3?",
+      "a": [
+        "Ones with small prizes that attract small teams",
+        "Ones with huge prizes",
+        "Ones run by governments",
+        "Ones open only to experts"
+      ],
+      "why": "Lesson 3 says small prizes don't attract large companies, favoring small teams."
+    }
+  ]
+}

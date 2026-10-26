@@ -1,0 +1,56 @@
+{
+  "book": "adapt",
+  "title": "Adapt",
+  "questions": [
+    {
+      "q": "What does lesson 1 say about predictions?",
+      "a": [
+        "Most are wrong, so manage expectations and reactions",
+        "Expert forecasts are usually right",
+        "They matter more than action",
+        "They are accurate over long periods"
+      ],
+      "why": "Lesson 1 calls predictions lucky guesses."
+    },
+    {
+      "q": "What did Paul Ormerod's study compare?",
+      "a": [
+        "Extinction rates of companies and species",
+        "Profits of old and new firms",
+        "Growth of cities and countries",
+        "Wages across industries"
+      ],
+      "why": "Lesson 1 says the rates are quite similar over 500 million years."
+    },
+    {
+      "q": "What does lesson 2 say holds back innovation?",
+      "a": [
+        "Bureaucracy and centralized authority",
+        "Competition",
+        "Lack of funding",
+        "Employee turnover"
+      ],
+      "why": "Lesson 2 points to centralization and top-down control."
+    },
+    {
+      "q": "What mistaken feeling do leaders have, per lesson 2?",
+      "a": [
+        "That they have more control than they actually do",
+        "That innovation is too costly",
+        "That customers are unreliable",
+        "That employees lack skill"
+      ],
+      "why": "The lesson mentions a false know-how."
+    },
+    {
+      "q": "What are the two ways to stimulate innovation in lesson 3?",
+      "a": [
+        "Patenting and goal-oriented prizes",
+        "Subsidies and tax breaks",
+        "Mergers and partnerships",
+        "Research grants and training"
+      ],
+      "why": "Hartford suggests patents and prizes."
+    }
+  ]
+}
