@@ -1,0 +1,1242 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Folio</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Jost:wght@200;300;400;500&family=Poiret+One&family=Cinzel:wght@400;500&display=swap">
+<style>
+/* Layout: one quiet white room — a 3D coverflow shelf in the middle, a hairline caption beneath, a timeline of publication years as the index. */
+:root{
+  --bg:#ffffff;
+  --ink:#17171a;
+  --mute:#8d8c95;
+  --hair:#e8e7ec;
+  --soft:#f5f5f7;
+  --accent:#1f4a6b;
+  --display:"Cormorant Garamond","Iowan Old Style","Times New Roman",serif;
+  --ui:"Jost","Helvetica Neue",Arial,sans-serif;
+  --w:200px; --h:300px;
+  color-scheme:light;
+}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+main{min-height:100%;display:grid;grid-template-rows:auto minmax(360px,1fr) auto auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 28px;position:relative}
+
+header{display:flex;align-items:center;justify-content:space-between;padding-block:22px 0;max-width:1200px;width:100%;margin:0 auto}
+.mark{display:flex;align-items:center;gap:10px;font-family:var(--ui);font-weight:200;font-size:15px;letter-spacing:.42em;text-transform:lowercase}
+.mark svg{width:18px;height:18px}
+.count{font-weight:200;font-size:12px;letter-spacing:.2em;color:var(--mute);font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:8px}
+.count b{font-weight:300;color:var(--ink)}
+.count i{display:block;width:28px;height:1px;background:var(--hair)}
+
+/* ---------- stage ---------- */
+.halo{position:absolute;left:50%;top:44%;width:min(70vw,720px);aspect-ratio:1.4;max-width:100%;transform:translate(-50%,-50%);border-radius:50%;background:var(--accent);filter:blur(90px);opacity:.13;transition:background-color 1s ease;pointer-events:none}
+.viewport{position:relative;perspective:1500px;perspective-origin:50% 42%;touch-action:pan-y;user-select:none;-webkit-user-select:none;cursor:grab;
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 10%,#000 90%,transparent);mask-image:linear-gradient(90deg,transparent,#000 10%,#000 90%,transparent);margin-inline:calc(-1 * max(16px,env(safe-area-inset-left,0px)))}
+.viewport.dragging{cursor:grabbing}
+.stage{position:absolute;inset:0;transform-style:preserve-3d}
+.slot{position:absolute;left:50%;top:50%;width:0;height:0;transform-style:preserve-3d;will-change:transform}
+.book{position:absolute;width:var(--w);height:var(--h);left:calc(var(--w) / -2);top:calc(var(--h) / -2);transform-style:preserve-3d}
+.face{position:absolute;backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:hidden}
+.face .sh{position:absolute;inset:0;background:#07070a;opacity:var(--s,0);pointer-events:none}
+.front,.back{inset:0}
+.front{transform:translateZ(calc(var(--d) / 2));border-radius:1px 3px 3px 1px;isolation:isolate}
+.back{transform:rotateY(180deg) translateZ(calc(var(--d) / 2));border-radius:3px 1px 1px 3px;isolation:isolate}
+.front svg{display:block;width:100%;height:100%}
+.spine{width:var(--d);height:100%;left:calc((var(--w) - var(--d)) / 2);transform:rotateY(-90deg) translateZ(calc(var(--w) / 2));border-radius:2px;display:flex;align-items:center;justify-content:center}
+.spine::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.42),rgba(255,255,255,.14) 28%,rgba(255,255,255,.04) 45%,rgba(0,0,0,.12) 70%,rgba(0,0,0,.45))}
+.spine span{position:relative;writing-mode:vertical-rl;font-family:var(--ui);font-weight:400;letter-spacing:.24em;text-transform:uppercase;white-space:nowrap;font-size:calc(var(--w) * .042)}
+.spine .bands{position:absolute;left:0;right:0;height:calc(var(--d) * .5);border-top:1px solid;border-bottom:1px solid;opacity:.55}
+.spine .bands.t{top:7%}.spine .bands.b{bottom:7%}
+.edge-r{width:calc(var(--d) - 4px);height:calc(100% - 6px);top:3px;left:calc((var(--w) - var(--d) + 4px) / 2);transform:rotateY(90deg) translateZ(calc(var(--w) / 2 - 3px));
+  background:linear-gradient(90deg,rgba(0,0,0,.2),transparent 18%,transparent 82%,rgba(0,0,0,.22)),linear-gradient(180deg,rgba(255,255,255,.2),rgba(0,0,0,.08)),repeating-linear-gradient(90deg,#f8f3e8 0 1px,#e4dccb 1px 2px,#f1ebdd 2px 3px)}
+.edge-t,.edge-b{width:calc(var(--w) - 5px);height:calc(var(--d) - 4px);left:2px;top:calc((var(--h) - var(--d) + 4px) / 2);
+  background:linear-gradient(90deg,rgba(0,0,0,.12),transparent 12%),repeating-linear-gradient(0deg,#f8f3e8 0 1px,#e4dccb 1px 2px,#f1ebdd 2px 3px)}
+.edge-t{transform:rotateX(90deg) translateZ(calc(var(--h) / 2 - 3px))}
+.edge-b{transform:rotateX(-90deg) translateZ(calc(var(--h) / 2 - 3px))}
+.shadow{position:absolute;width:calc(var(--w) * 1.35);height:calc(var(--w) * .95);left:calc(var(--w) * -.1);top:calc((var(--h) - var(--w) * .95) / 2);
+  transform:rotateX(90deg) translateZ(calc(var(--h) / -2 - 22px));background:radial-gradient(closest-side,rgba(24,22,30,.34),rgba(24,22,30,.12) 55%,transparent);filter:blur(12px);pointer-events:none}
+
+/* cover overlays: grain, cloth, light, hinge, glare */
+.ov{position:absolute;inset:0;pointer-events:none}
+.grain{background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");mix-blend-mode:overlay;opacity:.32}
+.cloth{background:repeating-linear-gradient(0deg,rgba(0,0,0,.07) 0 1px,transparent 1px 3px),repeating-linear-gradient(90deg,rgba(255,255,255,.06) 0 1px,transparent 1px 3px);mix-blend-mode:multiply}
+.paper .grain{opacity:.5}
+.light{background:linear-gradient(118deg,rgba(255,255,255,.2) 0%,rgba(255,255,255,0) 30%,rgba(0,0,0,0) 58%,rgba(0,0,0,.26) 100%)}
+.hinge{background:linear-gradient(90deg,rgba(0,0,0,.34) 0,rgba(0,0,0,0) 2.4%,rgba(255,255,255,.16) 4.2%,rgba(0,0,0,.26) 5.9%,rgba(255,255,255,.1) 7.2%,rgba(255,255,255,0) 10%)}
+.glare{background:radial-gradient(ellipse 70% 50% at var(--gx,28%) var(--gy,18%),rgba(255,255,255,.55),rgba(255,255,255,0) 70%);mix-blend-mode:overlay;opacity:.9}
+.edgeline{box-shadow:inset 0 0 0 .6px rgba(255,255,255,.1),inset 0 -1px 2px rgba(0,0,0,.3)}
+
+/* back cover */
+.back .bc{position:absolute;inset:0;padding:12% 11% 10% 13%;display:flex;flex-direction:column;gap:7%}
+.back .bc p{margin:0;font-family:var(--display);font-weight:400;font-size:calc(var(--w) * .062);line-height:1.38}
+.back .bc .one{font-style:italic;font-size:calc(var(--w) * .057);opacity:.75}
+.back .bc .rule{width:22%;height:1px;background:currentColor;opacity:.4}
+.back .barcode{margin-top:auto;align-self:flex-end;background:#fbf9f3;padding:5px 6px 4px;border-radius:1px;width:38%}
+.back .barcode svg{display:block;width:100%;height:auto}
+
+/* side controls */
+.nav{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border:0;background:none;color:var(--ink);opacity:0;transition:opacity .35s;cursor:pointer;display:grid;place-items:center;z-index:5;border-radius:50%}
+.nav svg{width:22px;height:22px}
+.nav.prev{left:max(4px,env(safe-area-inset-left,0px))}.nav.next{right:max(4px,env(safe-area-inset-right,0px))}
+.viewport:hover .nav{opacity:.45}.nav:hover{opacity:.9!important}
+.nav:focus-visible{opacity:.9;outline:1px solid var(--ink)}
+@media (hover:none){.nav{display:none}}
+
+/* ---------- caption ---------- */
+.details{text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px;padding-block:6px 4px;min-height:150px}
+.details h1{margin:0;font-family:var(--display);font-weight:300;font-size:clamp(30px,4.4vw,52px);line-height:1.05;letter-spacing:.005em;text-wrap:balance}
+.author{position:relative;font-size:11px;font-weight:300;letter-spacing:.34em;text-transform:uppercase;color:var(--mute);padding-left:.34em}
+.glyphs{display:flex;align-items:center;justify-content:center;gap:clamp(14px,3vw,26px);margin-top:12px;flex-wrap:wrap}
+.g{position:relative;display:flex;align-items:center;gap:6px;height:26px;color:var(--ink);background:none;border:0;padding:0 2px;font:inherit;cursor:default}
+.g svg{display:block}
+.g.btn{cursor:pointer}
+.g:focus-visible,.author:focus-visible{outline:1px solid var(--ink);outline-offset:4px;border-radius:2px}
+.dot{width:3px;height:3px;border-radius:50%;background:var(--hair)}
+.stack{display:flex;align-items:flex-end;gap:1.5px;height:16px}
+.stack i{display:block;width:1px;background:var(--ink);opacity:.7}
+.flipicon{transition:transform .7s cubic-bezier(.2,.7,.2,1)}
+.flipped .flipicon{transform:rotateY(180deg)}
+
+/* hover-tucked info */
+[data-tip]::after{content:attr(data-tip);position:absolute;left:50%;bottom:calc(100% + 12px);transform:translate(-50%,4px);background:var(--bg);color:var(--ink);border:1px solid var(--hair);box-shadow:0 10px 30px -12px rgba(20,20,30,.18);padding:7px 11px 8px;border-radius:2px;font-family:var(--ui);font-weight:300;font-size:12px;letter-spacing:.04em;text-transform:none;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;z-index:20}
+[data-tip].wide::after{white-space:normal;width:220px;font-family:var(--display);font-style:italic;font-size:15px;line-height:1.3;letter-spacing:0;text-align:center}
+[data-tip]:hover::after,[data-tip]:focus-visible::after{opacity:1;transform:translate(-50%,0)}
+
+/* ---------- timeline ---------- */
+.rail{position:relative;width:min(620px,100%);margin:22px auto 0;height:58px}
+.rail .line{position:absolute;left:0;right:0;top:34px;height:1px;background:var(--hair)}
+.rail .tick{position:absolute;top:31px;width:1px;height:7px;background:var(--hair)}
+.rail .tick.major{height:11px;top:29px;background:#d6d5dc}
+.rail .lab{position:absolute;top:46px;transform:translateX(-50%);font-size:10px;font-weight:200;letter-spacing:.14em;color:var(--mute);font-variant-numeric:tabular-nums}
+.rail button{position:absolute;top:34px;width:22px;height:22px;margin:-11px 0 0 -11px;border:0;padding:0;background:none;cursor:pointer;display:grid;place-items:center}
+.rail button span{display:block;width:5px;height:5px;border-radius:50%;background:var(--bg);border:1px solid #a9a8b1;transition:transform .35s,background .35s,border-color .35s}
+.rail button:hover span{transform:scale(1.4);border-color:var(--ink)}
+.rail button.on span{background:var(--accent);border-color:var(--accent);transform:scale(1.6)}
+.rail button::after{bottom:calc(100% + 4px)}
+.rail .year{position:absolute;top:0;transform:translateX(-50%);font-size:12px;font-weight:300;letter-spacing:.18em;font-variant-numeric:tabular-nums;transition:left .7s cubic-bezier(.2,.7,.2,1);padding-left:.18em}
+.rail .stem{position:absolute;top:18px;width:1px;height:12px;background:var(--accent);transition:left .7s cubic-bezier(.2,.7,.2,1),background-color 1s}
+
+.swap{animation:swap .55s cubic-bezier(.2,.7,.2,1)}
+@keyframes swap{0%{opacity:0;transform:translateY(8px);filter:blur(4px)}100%{opacity:1;transform:none;filter:none}}
+
+@media (max-width:520px){
+  .glyphs{gap:16px}
+  .details{min-height:170px}
+}
+@media (prefers-reduced-motion:reduce){
+  .swap{animation:none}
+  .rail .year,.rail .stem,.flipicon{transition:none}
+}
+
+/* ---------- reader ---------- */
+.slot.away{opacity:0}
+.slot.center .book{cursor:pointer}
+.reader{position:fixed;inset:0;z-index:50;outline:none;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none}
+.r-veil{position:absolute;inset:0;background:rgba(255,255,255,.84);-webkit-backdrop-filter:blur(18px) saturate(1.1);backdrop-filter:blur(18px) saturate(1.1);opacity:0}
+.r-glow{position:absolute;left:50%;top:50%;width:min(92vw,1040px);aspect-ratio:1.7;transform:translate(-50%,-50%);border-radius:50%;background:var(--accent);filter:blur(120px);opacity:0;pointer-events:none}
+.r-scene{position:absolute;inset:0;perspective:2600px;pointer-events:none}
+.r-rig{position:absolute;transform-style:preserve-3d;transform-origin:50% 50%}
+
+.pgf{position:absolute;inset:0;overflow:hidden;background:#fbf9f4;color:#2a2830;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.pc{position:absolute;inset:0}
+.pgf .ov.grain{opacity:.16;mix-blend-mode:multiply}
+.r-board{position:absolute;inset:calc(var(--r-o) * -1) calc(var(--r-o) * -1.3) calc(var(--r-o) * -1) 0;border-radius:1px 4px 4px 1px;transform:translateZ(-2px);
+  box-shadow:0 46px 70px -34px rgba(16,14,24,.5),0 14px 26px -14px rgba(16,14,24,.32)}
+.r-spine{position:absolute;left:calc(var(--r-d) * -1);top:calc(var(--r-o) * -1);height:calc(100% + var(--r-o) * 2);width:var(--r-d);transform-origin:100% 50%;transform:translateZ(2px) rotateY(-90deg);
+  display:flex;align-items:center;justify-content:center;overflow:hidden;border-radius:2px;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.r-spine::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.42),rgba(255,255,255,.14) 28%,rgba(255,255,255,.04) 45%,rgba(0,0,0,.12) 70%,rgba(0,0,0,.45))}
+.r-spine span{position:relative;writing-mode:vertical-rl;font-family:var(--ui);font-weight:400;letter-spacing:.24em;text-transform:uppercase;white-space:nowrap;font-size:calc(var(--r-d) * .4)}
+.r-right{transform:translateZ(0);box-shadow:1px 0 0 #ebe5d7,2px 1px 0 #f8f4ea,3px 1px 0 #e4ddcd,4px 2px 0 #f5f0e5,5px 2px 0 #ddd5c3}
+.r-left{left:-100%;right:100%;transform:translateZ(0);visibility:hidden;box-shadow:-1px 0 0 #ebe5d7,-2px 1px 0 #f8f4ea,-3px 1px 0 #e4ddcd,-4px 2px 0 #f5f0e5,-5px 2px 0 #ddd5c3}
+.leaf{position:absolute;inset:0;transform-style:preserve-3d;transform-origin:0 50%;visibility:hidden}
+.leaf .b{transform:rotateY(180deg)}
+.leaf.cv{inset:calc(var(--r-o) * -1) calc(var(--r-o) * -1.3) calc(var(--r-o) * -1) 0;visibility:visible}
+.leaf.cv .f{border-radius:1px 4px 4px 1px;isolation:isolate;background:#111}
+.leaf.cv .f svg{display:block;width:100%;height:100%}
+.leaf.cv .b{border-radius:4px 1px 1px 4px}
+.r-sh{position:absolute;inset:0;background:linear-gradient(90deg,#0c0a12,#1d1a24);opacity:0;pointer-events:none}
+.cast{position:absolute;inset:0;background:linear-gradient(90deg,rgba(20,16,24,.5),rgba(20,16,24,.16) 40%,rgba(20,16,24,0) 85%);opacity:0;pointer-events:none}
+.gut{position:absolute;inset:0;pointer-events:none}
+.gut.l{background:linear-gradient(90deg,rgba(70,52,30,.26),rgba(70,52,30,.09) 2.5%,rgba(70,52,30,.03) 7%,rgba(70,52,30,0) 14%)}
+.gut.r{background:linear-gradient(270deg,rgba(70,52,30,.26),rgba(70,52,30,.09) 2.5%,rgba(70,52,30,.03) 7%,rgba(70,52,30,0) 14%)}
+
+/* endpaper */
+.endp{position:absolute;inset:0}
+.endp > svg{position:absolute;inset:0;width:100%;height:100%}
+.plate{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:36%;aspect-ratio:.78;border-radius:50%;background:#f6f1e4;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;
+  box-shadow:inset 0 0 0 4px #f6f1e4,inset 0 0 0 4.7px currentColor,0 1px 3px rgba(0,0,0,.3)}
+.plate span{font-family:var(--display);font-style:italic;font-size:12px;letter-spacing:.06em;color:#6c6872}
+
+/* typeset pages */
+.rh,.fo{position:absolute;left:0;right:0;text-align:center;font-family:var(--ui);font-weight:300;font-size:9px;letter-spacing:.32em;text-transform:uppercase;color:#a9a7ae;padding-left:.32em}
+.rh{top:calc(var(--r-padt) * .42)}
+.fo{bottom:calc(var(--r-padb) * .38);font-size:10px;letter-spacing:.14em;font-variant-numeric:tabular-nums}
+.pg-in{position:absolute;left:var(--r-padx);top:var(--r-padt);width:var(--r-iw);height:var(--r-ih);overflow:hidden}
+.flow{width:var(--r-iw);height:var(--r-ih);column-width:var(--r-iw);column-gap:var(--r-gap);column-fill:auto;font-family:var(--display);font-weight:400;font-size:var(--r-fs);line-height:1.52;
+  color:#2a2830;text-align:justify;hyphens:auto;-webkit-hyphens:auto;orphans:2;widows:2}
+.flow p{margin:0}
+.flow p + p{text-indent:1.3em}
+.flow em{font-style:italic}
+.flow strong{font-weight:600;color:#1d1c22}
+.flow h2{font-family:var(--ui);font-weight:300;font-size:.6em;letter-spacing:.32em;text-transform:uppercase;color:var(--accent);margin:2.4em 0 1.2em;display:flex;align-items:center;gap:.9em;break-after:avoid;text-align:left}
+.flow h2::before{content:"";width:2em;height:1px;background:currentColor;opacity:.55;flex:none}
+.flow ul{list-style:none;margin:0;padding:0}
+.flow li{position:relative;padding-left:1.15em;margin:.32em 0;break-inside:avoid;text-align:left;hyphens:manual}
+.flow li::before{content:"";position:absolute;left:0;top:.78em;width:.55em;height:1px;background:var(--accent)}
+.flow hr{border:0;height:1px;width:30%;margin:1.6em auto;background:#dcd8d0}
+.opening + h2 + p::first-letter{float:left;font-size:3.4em;line-height:.8;padding:.07em .09em 0 0;color:var(--accent);font-weight:400}
+.opening{height:var(--r-ih);break-after:column;break-inside:avoid;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.opening .ico{color:var(--accent);margin-bottom:1.4em;opacity:.9}
+.opening h1{margin:0;font-weight:300;font-size:2.35em;line-height:1.04;text-wrap:balance;color:#1d1c22}
+.opening p{margin:.5em 0 0;font-style:italic;color:#77747d}
+.opening blockquote{margin:1.9em 0 0;font-style:italic;font-size:1.06em;line-height:1.4;max-width:15em;color:#4a4750;text-wrap:balance}
+.opening blockquote::before{content:"";display:block;width:28px;height:1px;background:var(--accent);margin:0 auto 1.3em}
+.opening .by{margin-top:2.6em;font-family:var(--ui);font-weight:300;font-size:.56em;letter-spacing:.34em;text-transform:uppercase;color:#8d8c95;padding-left:.34em}
+.opening .yr{margin-top:.7em;font-family:var(--ui);font-weight:200;font-size:.62em;letter-spacing:.18em;color:#a9a7ae;font-variant-numeric:tabular-nums}
+.r-measure{position:fixed;left:-20000px;top:0;visibility:hidden;pointer-events:none}
+
+/* reader chrome */
+.r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
+.reader.ready .r-ui{opacity:1}
+.r-ui > *{pointer-events:auto}
+.r-close{position:absolute;top:calc(12px + env(safe-area-inset-top,0px));right:max(12px,env(safe-area-inset-right,0px));width:44px;height:44px;border:0;padding:0;background:none;border-radius:50%;
+  display:grid;place-items:center;color:var(--ink);cursor:pointer;opacity:.55;transition:opacity .3s,transform .6s cubic-bezier(.2,.7,.2,1)}
+.r-close:hover,.r-close:focus-visible{opacity:1;transform:rotate(90deg)}
+.r-close:focus-visible,.r-nav:focus-visible,.r-prog:focus-visible{outline:1px solid var(--ink);outline-offset:2px}
+.r-nav{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border:0;padding:0;background:none;color:var(--ink);opacity:0;transition:opacity .35s;cursor:pointer;display:grid;place-items:center;border-radius:50%}
+.r-nav.prev{left:max(6px,env(safe-area-inset-left,0px))}.r-nav.next{right:max(6px,env(safe-area-inset-right,0px))}
+.reader:hover .r-nav{opacity:.4}.reader .r-nav:hover{opacity:.9}
+.reader .r-nav[disabled]{opacity:0;pointer-events:none}
+@media (hover:none){.r-nav{display:none}}
+.r-prog{position:absolute;left:50%;bottom:calc(26px + env(safe-area-inset-bottom,0px));width:150px;height:16px;margin-left:-75px}
+.r-prog i{position:absolute;left:0;top:8px;height:1px;display:block}
+.r-prog .tr{right:0;background:var(--hair)}
+.r-prog .fl{width:0;background:var(--accent);transition:width .8s cubic-bezier(.2,.7,.2,1)}
+.r-prog .fl::after{content:"";position:absolute;right:-2.5px;top:-2px;width:5px;height:5px;border-radius:50%;background:var(--accent)}
+</style>
+
+<main>
+  <header>
+    <div class="mark" aria-label="Folio">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".9"><path d="M3 4.5c2.5-1 5-1 7 .8 2-1.8 4.5-1.8 7-.8v11c-2.5-1-5-1-7 .8-2-1.8-4.5-1.8-7-.8z"/><path d="M10 5.3v11"/></svg>
+      folio
+    </div>
+    <div class="count" aria-live="polite"><b id="cur">01</b><i></i><span id="tot">08</span></div>
+  </header>
+
+  <section class="viewport" id="vp" aria-roledescription="carousel" aria-label="Books">
+    <div class="halo" id="halo"></div>
+    <div class="stage" id="stage"></div>
+    <button class="nav prev" id="prev" aria-label="Previous book"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=".9"><path d="M15 4l-8 8 8 8"/></svg></button>
+    <button class="nav next" id="next" aria-label="Next book"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=".9"><path d="M9 4l8 8-8 8"/></svg></button>
+  </section>
+
+  <section class="details" id="details">
+    <h1 id="title">Moby-Dick</h1>
+    <div class="author" id="author" tabindex="0" data-tip="">Herman Melville</div>
+    <div class="glyphs" id="glyphs"></div>
+  </section>
+
+  <nav class="rail" id="rail" aria-label="Publication timeline"></nav>
+</main>
+
+<!-- Reader: the chosen book lifts off the shelf, its cover swings open, and the summary is set as turnable pages. -->
+<div class="reader" id="reader" hidden tabindex="-1" role="dialog" aria-modal="true" aria-label="Book summary" lang="en">
+  <div class="r-veil" id="rVeil"></div>
+  <div class="r-glow" id="rGlow"></div>
+  <div class="r-scene">
+    <div class="r-rig" id="rig">
+      <div class="r-board" id="rBoard"></div>
+      <div class="r-spine" id="rSpine"></div>
+      <div class="pgf r-right" id="rRight"></div>
+      <div class="leaf cv" id="rCover"><div class="pgf f" id="rCoverF"></div><div class="pgf b" id="rCoverB"></div></div>
+      <div class="pgf r-left" id="rLeft"></div>
+      <div class="leaf" id="rLeaf"><div class="pgf f" id="rLeafF"></div><div class="pgf b" id="rLeafB"></div></div>
+    </div>
+  </div>
+  <div class="r-ui">
+    <button class="r-close" id="rClose" aria-label="Close the book"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    <button class="r-nav prev" id="rPrev" aria-label="Previous page"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9"><path d="M15 4l-8 8 8 8"/></svg></button>
+    <button class="r-nav next" id="rNext" aria-label="Next page"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9"><path d="M9 4l8 8-8 8"/></svg></button>
+    <div class="r-prog" id="rProg" tabindex="0" data-tip=""><i class="tr"></i><i class="fl" id="rFill"></i></div>
+  </div>
+</div>
+<div class="r-measure" id="rMeasure" aria-hidden="true" lang="en"></div>
+
+<!-- ---------- summaries (markdown) ---------- -->
+<script type="text/markdown" data-md="moby">
+# Moby-Dick
+*or, The Whale*
+
+> One captain, one whale, and an ocean too large for either.
+
+## Setting out
+Ishmael, restless and short of money, heads to New Bedford and then Nantucket to ship out on a whaler. At a crowded inn he is made to share a bed with Queequeg, a tattooed harpooneer from the South Seas, and the two quickly become close friends. Together they sign on to the *Pequod*, an old ship trimmed with the teeth and bones of whales.
+
+## The captain
+For days the ship's master stays out of sight. When Captain Ahab finally appears on deck, standing on a leg carved from a whale's jawbone, he nails a gold doubloon to the mast and reveals the real purpose of the voyage: to find and kill Moby Dick, the white sperm whale that took his leg. The crew is swept up in his fury. Only Starbuck, the careful first mate, says that vengeance on a dumb animal is madness.
+
+## The long middle
+The book widens out like the sea. Ishmael pauses the story for chapters on whale anatomy, the classification of whales, the hunt, the boiling of blubber, the color white, and the meaning of almost everything. In between, the *Pequod* meets other ships, and Ahab asks each the same question: have you seen the White Whale? The answers grow darker as the voyage goes on.
+
+## The chase
+In the Pacific, Moby Dick is finally sighted. The chase lasts three days. Boats are smashed, men are lost, and Ahab refuses every chance to turn back. On the third day the whale rams and sinks the *Pequod*. Ahab, caught in his own harpoon line, is dragged under. Ishmael alone survives, floating on Queequeg's coffin until another ship picks him up.
+
+## Characters
+- **Ishmael** — the narrator; curious, funny and open to the world.
+- **Ahab** — the captain; brilliant, wounded and consumed.
+- **Starbuck** — the first mate; the voice of reason and faith.
+- **Queequeg** — harpooneer, and Ishmael's closest friend.
+- **Moby Dick** — the whale; never explained, only met.
+
+## Themes
+- Obsession, and the will to master nature
+- The limits of what anyone can know
+- Friendship across every line of race and creed
+- Fate, free will, and the ship as a small world
+
+## Why read it
+It is an adventure, an encyclopedia, a sermon and a stage play all at once. Few novels are this strange, or this alive.
+</script>
+
+<script type="text/markdown" data-md="pride">
+# Pride and Prejudice
+
+> First impressions, thoroughly revised.
+
+## The Bennets
+The Bennets of Longbourn have five daughters and no son, so their estate will pass to a distant cousin when Mr. Bennet dies. Mrs. Bennet's one aim in life is to see her girls well married. When the wealthy, good-natured Mr. Bingley rents nearby Netherfield Park, she is delighted.
+
+## A bad beginning
+At a local ball, Bingley is taken with the eldest daughter, Jane. His friend Mr. Darcy, richer and far prouder, refuses to dance and is overheard dismissing Elizabeth as merely tolerable. Elizabeth laughs it off, but decides she dislikes him. Her opinion hardens when the charming officer George Wickham tells her Darcy cheated him out of an inheritance.
+
+## Two proposals
+Elizabeth turns down a pompous proposal from Mr. Collins, the cousin who will inherit Longbourn; he promptly marries her friend Charlotte Lucas instead. Bingley leaves for London without a word, and Jane is heartbroken. Then, visiting Charlotte in Kent, Elizabeth receives a second proposal — from Darcy, who admits he loves her against his better judgment. She refuses him angrily, accusing him of ruining Jane's happiness and wronging Wickham.
+
+## The letter
+Darcy replies in a letter. He did separate Bingley from Jane, believing her indifferent. But Wickham, he explains, is a liar who wasted his money and tried to elope with Darcy's fifteen-year-old sister. Elizabeth realizes she has been as prejudiced as he was proud.
+
+## Turning point
+Touring Darcy's estate, Pemberley, Elizabeth meets him by chance and finds him gracious and changed. Then news arrives that her youngest sister, Lydia, has run off with Wickham, a scandal that could ruin the whole family. Darcy quietly finds the pair and pays Wickham to marry her, asking that no one be told. Elizabeth learns of it anyway. Bingley returns and proposes to Jane, and when Darcy asks Elizabeth once more, she accepts.
+
+## Characters
+- **Elizabeth Bennet** — witty, independent, quick to judge.
+- **Fitzwilliam Darcy** — reserved and honorable, slow to show it.
+- **Jane Bennet** — gentle, inclined to think well of everyone.
+- **Mr. and Mrs. Bennet** — a dry, detached father and an anxious, matchmaking mother.
+- **George Wickham** — charming on the surface, rotten underneath.
+- **Lady Catherine de Bourgh** — Darcy's imperious aunt, who tries to forbid the match.
+
+## Themes
+- Pride, prejudice, and the work of knowing yourself
+- Marriage, money and the narrow choices open to women
+- Class and manners, as both armor and disguise
+
+## Why read it
+Austen's comedy is so sharp it still cuts. Nearly every sentence is doing two things at once.
+</script>
+
+<script type="text/markdown" data-md="frank">
+# Frankenstein
+*or, The Modern Prometheus*
+
+> A maker who runs, and a creation who follows.
+
+## A story inside a story
+The novel opens with letters from Robert Walton, an explorer pushing toward the North Pole. His ship is trapped in ice when the crew pulls aboard a half-frozen stranger: Victor Frankenstein, who tells Walton his story as a warning.
+
+## The experiment
+Victor grows up in Geneva, fascinated by natural philosophy. At university in Ingolstadt he discovers how to give life to dead matter. Working alone for nearly two years, he assembles a body and brings it to life — and is so horrified by what he sees that he flees. The creature disappears.
+
+## The creature's tale
+Victor's young brother William is murdered, and the family servant Justine is wrongly hanged for it. Victor knows the creature is to blame. High in the Alps, the creature finds him and asks to be heard. He describes his first confused days, hiding beside a cottage, learning language by watching a family through a gap in the wall, and reading *Paradise Lost*. When at last he shows himself, the family drives him away in terror. Rejected by everyone, he turned to revenge. Now he asks for one thing: a companion as strange as he is.
+
+## The bargain broken
+Victor agrees, then destroys the half-made companion in disgust. The creature vows to be with him on his wedding night. He kills Victor's friend Henry Clerval and, on the night of the wedding, Victor's bride Elizabeth. Victor's father dies of grief.
+
+## The ice
+Victor pursues the creature across Europe and into the Arctic, which is where Walton found him. Victor dies aboard the ship. The creature comes to mourn over the body, tells Walton he will end his own life, and drifts away into the dark on a raft of ice.
+
+## Characters
+- **Victor Frankenstein** — the ambitious scientist who will not take responsibility.
+- **The creature** — never named; eloquent, lonely, capable of great tenderness and great violence.
+- **Robert Walton** — the explorer who listens, and turns back.
+- **Elizabeth Lavenza** — Victor's adopted sister, and his bride.
+
+## Themes
+- What a maker owes to what is made
+- Ambition without foresight
+- Isolation, and the hunger to belong
+- Who the real monster is
+
+## Why read it
+Begun when Mary Shelley was eighteen, it helped invent science fiction, and it still asks the right questions about what we build.
+</script>
+
+<script type="text/markdown" data-md="gatsby">
+# The Great Gatsby
+
+> A party thrown, night after night, for one absent guest.
+
+## West Egg, 1922
+Nick Carraway, a young Midwesterner learning the bond business, rents a small house on Long Island beside an enormous mansion. Across the bay live his cousin Daisy and her husband Tom Buchanan: rich, careless and bored. Tom keeps a mistress, Myrtle Wilson, the wife of a garage owner in the grim valley of ashes between the suburbs and New York.
+
+## The neighbor
+Every weekend Nick's neighbor, Jay Gatsby, throws vast parties that half of New York attends uninvited. Nobody seems to know who he is. In truth, Gatsby was born poor as James Gatz, fell for Daisy as a young officer, and lost her while he was away at war. He has since made a fortune, partly through bootlegging, and bought his house so he can look across the water at the green light on her dock.
+
+## Reunion
+Gatsby asks Nick to invite Daisy to tea. The meeting is awkward, then electric, and the two begin an affair. Gatsby wants more than love; he wants Daisy to say she never loved Tom, as if the past five years could be undone.
+
+## The Plaza
+On a sweltering afternoon in Manhattan, Tom confronts Gatsby and exposes his shady business. Daisy wavers, and Gatsby's dream begins to crack. Driving home in Gatsby's car, Daisy hits and kills Myrtle, who has run into the road. Gatsby decides to take the blame.
+
+## The end of summer
+Tom lets Myrtle's husband, George, believe the car's owner was her lover and her killer. Wilson shoots Gatsby in his pool, then himself. Almost no one comes to the funeral. Tom and Daisy leave town. Nick, sick of the East, heads home, thinking about Gatsby's faith in a future that keeps moving away.
+
+## Characters
+- **Nick Carraway** — the narrator, half insider and half judge.
+- **Jay Gatsby** — self-invented, hopeful to the point of tragedy.
+- **Daisy Buchanan** — lovely and charming, and finally unwilling to choose.
+- **Tom Buchanan** — brutal old money.
+- **Jordan Baker** — Daisy's friend, a cool golf champion.
+
+## Themes
+- The American Dream and its price
+- Old money, new money and the walls between them
+- The impossibility of repeating the past
+- The carelessness of the very rich
+
+## Why read it
+Short enough for an afternoon and deep enough for a lifetime. The prose glitters like the parties it describes.
+</script>
+
+<script type="text/markdown" data-md="dune">
+# Dune
+
+> Sand, spice, and a prophecy someone planted long ago.
+
+## Arrakis
+In the far future, a galactic empire runs on melange — the spice — a substance that extends life, expands the mind and makes space travel possible. It is found on only one world: Arrakis, a desert planet known as Dune, home to giant sandworms and the fierce, secretive Fremen. The Emperor orders Duke Leto Atreides to take over Arrakis from his rivals, the Harkonnens. Leto suspects a trap, and goes anyway.
+
+## The fall of House Atreides
+Leto brings his concubine, Lady Jessica, a member of the Bene Gesserit sisterhood, and their fifteen-year-old son Paul, whom Jessica has secretly trained in the sisterhood's skills. Within weeks a traitor lowers the household's defenses, and the Harkonnens, backed by the Emperor's elite Sardaukar, attack. Leto is killed. Paul and Jessica escape into the deep desert.
+
+## Among the Fremen
+The Fremen take them in. Paul earns his place in a duel to the death, takes the name Muad'Dib, and learns to live as they do: stillsuits, hidden cave communities, riding the sandworms. The spice awakens his visions of the future, and he sees a holy war fought in his name across the galaxy. The Fremen believe he is their promised messiah — a legend seeded among them centuries earlier by the Bene Gesserit.
+
+## The reckoning
+Paul drinks the Water of Life, a poison only Bene Gesserit women are supposed to survive, and wakes with full sight of what is coming. He leads the Fremen, mounted on sandworms, against the Harkonnens and the Emperor himself. Holding the spice hostage, he forces the Emperor to give up his throne and his daughter's hand. Paul has won, and he knows he can no longer stop the war to come.
+
+## Characters
+- **Paul Atreides** — heir, outcast, prophet.
+- **Lady Jessica** — his mother, torn between love and the sisterhood.
+- **Duke Leto** — honorable to a fault.
+- **Baron Harkonnen** — the grotesque schemer behind the coup.
+- **Chani** — a Fremen woman who becomes Paul's partner.
+- **Stilgar** — leader of the community that shelters them.
+
+## Themes
+- Ecology, and the way a planet shapes its people
+- Power, religion and the danger of saviors
+- Fate against choice
+
+## Why read it
+A complete world, built down to its water rituals, and a hero's story that quietly warns against heroes.
+</script>
+
+<script type="text/markdown" data-md="orwell">
+# Nineteen Eighty-Four
+
+> Even your thoughts are on the record.
+
+## Airstrip One
+Britain is now Airstrip One, a province of Oceania, one of three superstates locked in endless war. The Party rules through constant surveillance, telescreens in every room, and a leader, Big Brother, whose face is on every wall. Winston Smith works at the Ministry of Truth, rewriting old newspaper articles so the past always agrees with the Party.
+
+## The diary
+Winston privately hates the Party. He buys a notebook from a junk shop in the poor district where the proles live and begins a diary — a crime punishable by death. He wonders whether a resistance called the Brotherhood really exists, and suspects that O'Brien, a senior Party member, might belong to it.
+
+## Julia
+A young woman from the Fiction Department slips Winston a note confessing her love. Julia rebels in her own practical way, through pleasure and small deceptions. They meet in secret, and eventually rent a room above the junk shop where they believe no one is watching.
+
+## The Brotherhood
+O'Brien invites them to his apartment and swears them into the Brotherhood, then gives Winston a forbidden book said to explain how the Party keeps its power. Soon after, the Thought Police burst into the room. The shopkeeper was one of them, and O'Brien has been a loyal Party man all along.
+
+## The Ministry of Love
+Over months of torture, O'Brien works to break Winston, not just to make him obey but to make him believe that two and two make five if the Party says so. In Room 101, faced with his worst fear, Winston betrays Julia. Released and hollowed out, he sits in a café, and finds that he loves Big Brother.
+
+## Characters
+- **Winston Smith** — a quiet clerk who dares to think.
+- **Julia** — a rebel of the senses.
+- **O'Brien** — the Party's patient inquisitor.
+- **Big Brother** — perhaps a man, perhaps only a face.
+
+## Words it gave us
+- Doublethink, Newspeak, thoughtcrime
+- Memory holes, and history rewritten daily
+- The surveillance state as a household idea
+
+## Why read it
+More than seventy years on, it remains the clearest warning about what power does to language and truth.
+</script>
+
+<script type="text/markdown" data-md="hobbit">
+# The Hobbit
+*or There and Back Again*
+
+> An unexpected journey, with a dragon at the end of it.
+
+## An unexpected party
+Bilbo Baggins is a respectable hobbit who likes his comforts and dislikes surprises. One morning the wizard Gandalf calls, and the next evening thirteen dwarves arrive at Bilbo's door, led by Thorin Oakenshield. They mean to win back their ancestral home and treasure beneath the Lonely Mountain from Smaug, the dragon who seized it long ago. Gandalf has told them Bilbo will be their burglar.
+
+## The road east
+The journey goes wrong almost at once. The company is nearly eaten by trolls, rests with the elves of Rivendell, and is captured by goblins in the Misty Mountains. Lost in the tunnels below, Bilbo finds a magic ring and wins a riddle contest against the creature Gollum, escaping invisible. Beyond the mountains come wolves, eagles, the shape-changer Beorn, giant spiders in the forest of Mirkwood, and imprisonment by the Wood-elves, from which Bilbo frees the dwarves by floating them out in barrels.
+
+## The Lonely Mountain
+At Lake-town the travelers are welcomed, then press on to the mountain. Bilbo creeps into the dragon's lair and talks with Smaug, spotting a bare patch in his jeweled armor. Enraged, Smaug attacks Lake-town, where the archer Bard, told of the weak spot by a thrush, shoots him dead.
+
+## The Battle of Five Armies
+With the dragon gone, men and elves come to claim a share of the treasure, but Thorin, gripped by gold-sickness, refuses. Bilbo secretly hands the Arkenstone, the dwarves' most precious jewel, to Bard as a bargaining piece. Before they can come to blows, an army of goblins and wolves arrives, and the peoples fight side by side. Thorin is mortally wounded, and makes peace with Bilbo before he dies.
+
+## Home again
+Bilbo returns to Bag End just in time to find his belongings being auctioned off, since everyone presumed him dead. He has a modest share of gold, a ring in his pocket, and a new reputation for being odd. He is perfectly happy.
+
+## Characters
+- **Bilbo Baggins** — reluctant, resourceful, braver than he knew.
+- **Gandalf** — the wizard who sees more than he says.
+- **Thorin Oakenshield** — a proud king in exile.
+- **Smaug** — vain, clever, terrible.
+- **Gollum** — a lonely creature with a precious secret.
+
+## Themes
+- Courage found in ordinary people
+- Greed, and the sickness of hoarding
+- Home, and why it is worth leaving
+
+## Why read it
+A bedtime story that grows into an epic, and the doorway into Middle-earth.
+</script>
+
+<script type="text/markdown" data-md="solitude">
+# One Hundred Years of Solitude
+
+> A family history that keeps rhyming with itself.
+
+## Macondo
+José Arcadio Buendía and his wife Úrsula Iguarán, who are also cousins, leave their village and found Macondo, a town in the Colombian jungle. At first it is an innocent place, so new that many things have no names. Each year a band of gypsies led by the wise Melquíades brings wonders — magnets, ice, alchemy — and José Arcadio becomes obsessed with science and the secrets of the world.
+
+## Generations
+The family grows, and its names repeat. The Aurelianos tend to be withdrawn and thoughtful; the José Arcadios, impulsive and strong. Úrsula, who lives well past a hundred, holds the household together through births, marriages, ghosts, and a plague of insomnia that makes the whole town forget the names of things.
+
+## War
+Colonel Aureliano Buendía leads thirty-two uprisings in a long civil war and loses every one. He survives a firing squad, a poisoning and his own attempt at suicide, and finally comes home to make little gold fishes in his workshop, melting them down and starting again.
+
+## The banana company
+The railroad arrives, and with it a foreign banana company that remakes Macondo. When the workers strike, soldiers massacre thousands in the square by the station. The bodies are carried away by train, and afterwards almost no one will believe it happened. Then it rains for four years, eleven months and two days.
+
+## The parchments
+In the end Macondo is decaying and the family has dwindled. The last Aureliano falls in love with his aunt, Amaranta Úrsula, and their child is born with a pig's tail, just as the family always feared. Alone, Aureliano finally deciphers Melquíades' parchments and finds they tell his family's whole history in advance. As he reads the final lines, a whirlwind wipes Macondo from the earth.
+
+## Characters
+- **José Arcadio Buendía** — the founder, dreamer and amateur scientist.
+- **Úrsula Iguarán** — the family's spine for a century.
+- **Colonel Aureliano Buendía** — the solitary warrior.
+- **Melquíades** — the gypsy who wrote everything down.
+- **Remedios the Beauty** — so lovely she rises to heaven while folding sheets.
+
+## Themes
+- Time as a circle, not a line
+- Solitude, inherited like a family trait
+- History, memory and forgetting
+- The magic inside the everyday
+
+## Why read it
+It made magical realism famous around the world, and reads like a whole continent's memory folded into one family.
+</script>
+
+<script>
+(() => {
+/* ---------- data ---------- */
+const BOOKS = [
+ {k:'moby', title:'Moby-Dick', author:'Herman Melville', life:'1819–1891 · New York', year:1851, pages:635, words:206000, rating:3.53,
+  genre:'sea', genreName:'Sea epic', accent:'#1f4a6b', base:'#0d1d2c', ink:'#d6e2ee',
+  one:'One captain, one whale, and an ocean too large for either.',
+  syn:'Ishmael signs onto the whaler Pequod and learns its captain, Ahab, cares for one thing only: the white whale that took his leg. A voyage into obsession, the sea, and everything that refuses to be known.'},
+ {k:'pride', title:'Pride and Prejudice', author:'Jane Austen', life:'1775–1817 · Hampshire', year:1813, pages:432, words:122000, rating:4.29,
+  genre:'rings', genreName:'Romance of manners', accent:'#6d8463', base:'#62765a', ink:'#ecd9a0', tex:'cloth', bands:true,
+  one:'First impressions, thoroughly revised.',
+  syn:'Elizabeth Bennet is quick, proud of her judgment and sure she has Mr. Darcy figured out. He is wealthy, aloof and just as sure about her. Both are wrong, and watching them find out is the whole delight.'},
+ {k:'frank', title:'Frankenstein', author:'Mary Shelley', life:'1797–1851 · London', year:1818, pages:280, words:75000, rating:3.87,
+  genre:'bolt', genreName:'Gothic science fiction', accent:'#3f8f7e', base:'#141617', ink:'#e6e1d4',
+  one:'A maker who runs, and a creation who follows.',
+  syn:'Victor Frankenstein builds a living being from the dead, then flees from what he has made. Abandoned and articulate, the creature turns his loneliness into a long reckoning with his maker.'},
+ {k:'gatsby', title:'The Great Gatsby', author:'F. Scott Fitzgerald', life:'1896–1940 · Minnesota', year:1925, pages:180, words:47000, rating:3.93,
+  genre:'coupe', genreName:'Jazz Age tragedy', accent:'#b8913a', base:'#0b1d1d', ink:'#e2c779', bands:true,
+  one:'A party thrown, night after night, for one absent guest.',
+  syn:'One summer on Long Island, Nick Carraway watches his mysterious neighbor throw lavish parties for a single guest who never arrives: the woman he lost five years before. The Jazz Age, gilded and hollow.'},
+ {k:'dune', title:'Dune', author:'Frank Herbert', life:'1920–1986 · Washington', year:1965, pages:617, words:188000, rating:4.27,
+  genre:'planet', genreName:'Science fiction', accent:'#d9793e', base:'#8e4620', ink:'#f6dcb8',
+  one:'Sand, spice, and a prophecy someone planted long ago.',
+  syn:'On the desert planet Arrakis, sole source of the most valuable substance in the universe, young Paul Atreides survives a betrayal that destroys his house and finds his future among the people of the deep desert.'},
+ {k:'orwell', title:'Nineteen Eighty-Four', author:'George Orwell', life:'1903–1950 · Motihari', year:1949, pages:328, words:89000, rating:4.19,
+  genre:'eye', genreName:'Dystopian', accent:'#b2241b', base:'#ebe6db', ink:'#1a1a1a', tex:'paper',
+  one:'Even your thoughts are on the record.',
+  syn:'In a state where the Party watches every room and rewrites every record, Winston Smith opens a forbidden diary, and with it begins a quiet, dangerous act of thinking for himself.'},
+ {k:'hobbit', title:'The Hobbit', author:'J.R.R. Tolkien', life:'1892–1973 · Bloemfontein', year:1937, pages:310, words:95000, rating:4.29,
+  genre:'peak', genreName:'Fantasy', accent:'#3c6153', base:'#22392f', ink:'#efe4c4', tex:'cloth',
+  one:'An unexpected journey, with a dragon at the end of it.',
+  syn:'Bilbo Baggins likes his armchair and his second breakfast. A wizard and thirteen dwarves arrive with other plans: a long road east, a mountain full of gold, and the dragon sleeping on top of it.'},
+ {k:'solitude', title:'One Hundred Years of Solitude', author:'Gabriel García Márquez', life:'1927–2014 · Aracataca', year:1967, pages:417, words:144000, rating:4.11,
+  genre:'fly', genreName:'Magical realism', accent:'#d9a12a', base:'#4a1a16', ink:'#f3e2bd',
+  one:'A family history that keeps rhyming with itself.',
+  syn:'Seven generations of the Buendía family live, love and repeat themselves in the town of Macondo, where miracles are ordinary, rain can last for years, and history moves in circles.'}
+];
+
+/* ---------- svg helpers ---------- */
+const rng = s => () => (s = (s * 1664525 + 1013904223) >>> 0) / 4294967296;
+const stopsOf = a => a.map(([o,c,op]) => `<stop offset="${o}" stop-color="${c}"${op!=null?` stop-opacity="${op}"`:''}/>`).join('');
+const lg = (id, st, x1=0,y1=0,x2=1,y2=1) => `<linearGradient id="${id}" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}">${stopsOf(st)}</linearGradient>`;
+const GOLD = [[0,'#6a4b15'],[.2,'#e7cb78'],[.42,'#a57a27'],[.58,'#fdf0b4'],[.78,'#94691f'],[1,'#d8b55c']];
+const SILVER = [[0,'#7f8c9b'],[.25,'#f1f5fa'],[.48,'#97a3b1'],[.62,'#ffffff'],[.82,'#717d8c'],[1,'#c9d2dc']];
+const emb = (p, a=225) => `<filter id="${p}emb" x="-10%" y="-20%" width="120%" height="140%">
+  <feGaussianBlur in="SourceAlpha" stdDeviation="1.1" result="b"/>
+  <feSpecularLighting in="b" surfaceScale="2.6" specularConstant=".85" specularExponent="20" lighting-color="#fff" result="s"><feDistantLight azimuth="${a}" elevation="42"/></feSpecularLighting>
+  <feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/>
+  <feComposite in="SourceGraphic" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".75" k4="0" result="lit"/>
+  <feDropShadow dx=".5" dy="1" stdDeviation=".6" flood-color="#000" flood-opacity=".5"/></filter>`;
+const glowF = (p, sd=5) => `<filter id="${p}gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="${sd}"/></filter>`;
+const T = (x,y,txt,o) => `<text x="${x}" y="${y}" text-anchor="middle" ${o}>${txt}</text>`;
+const mix = (a,b,t) => a.map((v,i)=>Math.round(v+(b[i]-v)*t));
+
+/* ---------- covers (original artwork) ---------- */
+const COVERS = {
+moby(p){
+  const r = rng(11);
+  let s = `<defs>${lg(p+'sky',[[0,'#071321'],[.45,'#123049'],[.62,'#183e5a'],[1,'#081624']],0,0,0,1)}${lg(p+'sil',SILVER)}${emb(p)}
+   <radialGradient id="${p}moon" cx=".38" cy=".34" r=".75">${stopsOf([[0,'#fffbee'],[.7,'#e6dec6'],[1,'#c4b99b']])}</radialGradient>
+   <radialGradient id="${p}glow">${stopsOf([[0,'#dbe8f7',.42],[.4,'#dbe8f7',.12],[1,'#dbe8f7',0]])}</radialGradient>
+   ${lg(p+'whale',[[0,'#1d3850'],[1,'#060e16']],0,0,0,1)}</defs>
+   <rect width="300" height="450" fill="url(#${p}sky)"/>`;
+  for (let i=0;i<55;i++) s += `<circle cx="${(r()*300).toFixed(1)}" cy="${(r()*230).toFixed(1)}" r="${(.25+r()*.8).toFixed(2)}" fill="#e3ecf7" opacity="${(.15+r()*.6).toFixed(2)}"/>`;
+  s += `<circle cx="214" cy="146" r="96" fill="url(#${p}glow)"/><circle cx="214" cy="146" r="29" fill="url(#${p}moon)"/>
+        <circle cx="205" cy="140" r="5" fill="#cfc5a8" opacity=".35"/><circle cx="223" cy="156" r="3.5" fill="#cfc5a8" opacity=".3"/>`;
+  for (let k=0;k<14;k++){
+    const y0 = 246+k*15, amp=2.6+k*1.15, wl=38+k*6.5, ph=r()*6.28;
+    let d = `M-4 ${y0}`, top='M-4 '+y0;
+    for (let x=-4;x<=304;x+=5){ const y = y0 + amp*Math.sin(x/wl*6.283+ph) + amp*.45*Math.sin(x/(wl*.38)+ph*2.3); d += ` L${x} ${y.toFixed(1)}`; top += ` L${x} ${y.toFixed(1)}`; }
+    d += ' L304 452 L-4 452Z';
+    const c = mix([38,86,118],[7,19,31],k/13);
+    s += `<path d="${d}" fill="rgb(${c})"/><path d="${top}" fill="none" stroke="#c9e2f5" stroke-opacity="${(.22-k*.012).toFixed(3)}" stroke-width=".8"/>`;
+    if (k===3){
+      s += `<path d="M150 236 C132 222 108 207 74 194 C88 212 112 231 137 241 C140 262 141 284 141 304 L159 304 C159 284 160 262 163 241 C188 231 212 212 226 194 C192 207 168 222 150 236Z" fill="url(#${p}whale)"/>
+            <path d="M74 194 C108 207 132 222 150 236 C168 222 192 207 226 194" fill="none" stroke="#bcd6ea" stroke-opacity=".35" stroke-width=".9"/>`;
+      [[78,206,1.6],[82,222,1.1],[76,238,.8],[222,208,1.5],[219,226,1],[224,244,.7],[90,214,.7],[210,218,.8]].forEach(([x,y,rr])=> s+=`<ellipse cx="${x}" cy="${y}" rx="${rr}" ry="${rr*1.8}" fill="#cfe3f3" opacity=".55"/>`);
+    }
+  }
+  for (let i=0;i<9;i++){ const y=298+i*16, w=34-i*2.4; s += `<rect x="${214-w/2}" y="${y}" width="${w}" height="1.4" rx=".7" fill="#f3ead0" opacity="${(.32-i*.03).toFixed(2)}"/>`; }
+  s += T(150,70,'MOBY-DICK',`font-family="Cormorant Garamond" font-weight="600" font-size="33" letter-spacing="5" fill="url(#${p}sil)" filter="url(#${p}emb)"`);
+  s += T(150,92,'or, The Whale',`font-family="Cormorant Garamond" font-style="italic" font-size="13" fill="#b9cadb" opacity=".85"`);
+  s += T(150,430,'HERMAN MELVILLE',`font-family="Jost" font-weight="300" font-size="9.5" letter-spacing="4.5" fill="#d9e5f0" opacity=".8"`);
+  return s;
+},
+pride(p){
+  let s = `<defs>${lg(p+'bg',[[0,'#7f9473'],[1,'#56694d']])}${lg(p+'g',GOLD)}${emb(p)}</defs>
+   <rect width="300" height="450" fill="url(#${p}bg)"/>
+   <rect x="16" y="16" width="268" height="418" fill="none" stroke="url(#${p}g)" stroke-width="1.6"/>
+   <rect x="23" y="23" width="254" height="404" fill="none" stroke="url(#${p}g)" stroke-width=".5"/>`;
+  const corner = (x,y,sx,sy) => `<g transform="translate(${x} ${y}) scale(${sx} ${sy})" fill="none" stroke="url(#${p}g)" stroke-width=".9">
+     <path d="M0 26 C0 12 12 0 26 0"/><path d="M6 30 C4 16 16 4 30 6"/><circle cx="9" cy="9" r="3.2" fill="url(#${p}g)"/>
+     <path d="M30 6 C36 7 40 3 38 0"/><path d="M6 30 C7 36 3 40 0 38"/></g>`;
+  s += corner(23,23,1,1)+corner(277,23,-1,1)+corner(23,427,1,-1)+corner(277,427,-1,-1);
+  s += `<ellipse cx="150" cy="214" rx="98" ry="132" fill="#000" fill-opacity=".07" stroke="url(#${p}g)" stroke-width="1.4"/>
+        <ellipse cx="150" cy="214" rx="90" ry="124" fill="none" stroke="url(#${p}g)" stroke-width=".5"/>`;
+  for (let i=0;i<36;i++){ const a=i/36*6.283; s += `<circle cx="${(150+Math.cos(a)*94).toFixed(1)}" cy="${(214+Math.sin(a)*128).toFixed(1)}" r="1.05" fill="#e6c977" opacity=".85"/>`; }
+  const leaves = (dir) => { let o=''; for (let i=0;i<7;i++){ const t=i/6, x=150+dir*(10+t*58), y=292-Math.sin(t*2.6)*18; o += `<ellipse cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" rx="5.2" ry="2.1" transform="rotate(${(dir*(-28+t*40)).toFixed(0)} ${x.toFixed(1)} ${y.toFixed(1)})" fill="url(#${p}g)"/>`; } return o; };
+  s += `<path d="M150 296 C 170 292 196 282 214 262 M150 296 C130 292 104 282 86 262" fill="none" stroke="url(#${p}g)" stroke-width=".8"/>${leaves(1)}${leaves(-1)}`;
+  s += `<g fill="url(#${p}g)"><path d="M150 112 c3 -7 3 -12 0 -18 c-3 6 -3 11 0 18z"/><path d="M150 112 c6 -3 11 -8 12 -14 c-6 2 -10 7 -12 14z"/><path d="M150 112 c-6 -3 -11 -8 -12 -14 c6 2 10 7 12 14z"/></g>`;
+  s += T(150,188,'Pride',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="46" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  s += T(150,220,'&amp;',`font-family="Cormorant Garamond" font-style="italic" font-size="26" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  s += T(150,258,'Prejudice',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="38" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  s += T(150,392,'JANE AUSTEN',`font-family="Jost" font-weight="400" font-size="10.5" letter-spacing="5" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  return s;
+},
+frank(p){
+  let s = `<defs><radialGradient id="${p}bg" cx=".55" cy=".38" r=".8">${stopsOf([[0,'#2c3236'],[.55,'#16191b'],[1,'#070808']])}</radialGradient>${emb(p,235)}${glowF(p,6)}</defs>
+   <rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  const P=[0,236], C=[150,166], Q=[300,214];
+  const pt = t => [ (1-t)**2*P[0]+2*(1-t)*t*C[0]+t*t*Q[0], (1-t)**2*P[1]+2*(1-t)*t*C[1]+t*t*Q[1] ];
+  const tg = t => [ 2*(1-t)*(C[0]-P[0])+2*t*(Q[0]-C[0]), 2*(1-t)*(C[1]-P[1])+2*t*(Q[1]-C[1]) ];
+  s += `<path d="M0 238 Q150 168 300 216" fill="none" stroke="#000" stroke-opacity=".5" stroke-width="6" filter="url(#${p}gl)"/>
+        <path d="M0 236 Q150 166 300 214" fill="none" stroke="#040505" stroke-width="3.4"/>
+        <path d="M0 239 Q150 169 300 217" fill="none" stroke="#fff" stroke-opacity=".09" stroke-width="1.2"/>`;
+  for (let t=.035;t<.98;t+=.052){
+    const [x,y]=pt(t), [dx,dy]=tg(t), L=Math.hypot(dx,dy), nx=-dy/L*9, ny=dx/L*9;
+    s += `<line x1="${(x-nx+1).toFixed(1)}" y1="${(y-ny+1.6).toFixed(1)}" x2="${(x+nx+1).toFixed(1)}" y2="${(y+ny+1.6).toFixed(1)}" stroke="#000" stroke-opacity=".65" stroke-width="2.4" stroke-linecap="round"/>
+          <line x1="${(x-nx).toFixed(1)}" y1="${(y-ny).toFixed(1)}" x2="${(x+nx).toFixed(1)}" y2="${(y+ny).toFixed(1)}" stroke="#cdc4ab" stroke-width="1.9" stroke-linecap="round"/>
+          <circle cx="${(x-nx*1.15).toFixed(1)}" cy="${(y-ny*1.15).toFixed(1)}" r="1.2" fill="#020202"/><circle cx="${(x+nx*1.15).toFixed(1)}" cy="${(y+ny*1.15).toFixed(1)}" r="1.2" fill="#020202"/>`;
+  }
+  const bolt = 'M212 -6 L186 62 L206 70 L166 142 L184 149 L141 208';
+  const br = 'M186 62 L152 96 L161 101 L131 132';
+  s += `<g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="${bolt}" stroke="#7affd6" stroke-opacity=".5" stroke-width="16" filter="url(#${p}gl)"/>
+    <path d="${br}" stroke="#7affd6" stroke-opacity=".35" stroke-width="10" filter="url(#${p}gl)"/>
+    <path d="${bolt}" stroke="#bafff0" stroke-width="3.2"/><path d="${br}" stroke="#bafff0" stroke-width="2"/>
+    <path d="${bolt}" stroke="#fff" stroke-width="1.1"/><path d="${br}" stroke="#fff" stroke-width=".7"/></g>
+    <circle cx="141" cy="206" r="26" fill="#9bffe4" opacity=".22" filter="url(#${p}gl)"/>`;
+  s += T(150,334,'FRANKENSTEIN',`font-family="Cinzel" font-weight="500" font-size="23" letter-spacing="3.5" fill="#ebe5d6" filter="url(#${p}emb)"`);
+  s += T(150,358,'or, The Modern Prometheus',`font-family="Cormorant Garamond" font-style="italic" font-size="13" fill="#b7b1a2"`);
+  s += `<line x1="132" y1="376" x2="168" y2="376" stroke="#7affd6" stroke-opacity=".5" stroke-width=".7"/>`;
+  s += T(150,426,'MARY SHELLEY',`font-family="Jost" font-weight="300" font-size="9.5" letter-spacing="4.5" fill="#d8d2c4" opacity=".8"`);
+  return s;
+},
+gatsby(p){
+  let s = `<defs>${lg(p+'bg',[[0,'#123033'],[1,'#051312']],0,0,0,1)}${lg(p+'g',GOLD)}${lg(p+'gv',GOLD,0,0,0,1)}${emb(p)}
+    <radialGradient id="${p}sun" cx=".5" cy="1" r="1">${stopsOf([[0,'#fff3c4'],[.5,'#d9b55c'],[1,'#7a5719']])}</radialGradient></defs>
+    <rect width="300" height="450" fill="url(#${p}bg)"/>`;
+  for (let a=-84;a<=84;a+=4){ const rad=(a-90)*Math.PI/180, len=a%8===0?300:250; s += `<line x1="150" y1="452" x2="${(150+Math.cos(rad)*len).toFixed(1)}" y2="${(452+Math.sin(rad)*len).toFixed(1)}" stroke="url(#${p}gv)" stroke-width="${a%8===0?.8:.45}" opacity="${a%8===0?.55:.28}"/>`; }
+  s += `<rect x="0" y="0" width="300" height="230" fill="url(#${p}bg)" opacity=".0"/>`;
+  [[176,1.4],[160,.5],[146,.5],[132,1.1]].forEach(([r,w])=> s+=`<circle cx="150" cy="452" r="${r}" fill="none" stroke="url(#${p}g)" stroke-width="${w}"/>`);
+  s += `<circle cx="150" cy="452" r="98" fill="#051312"/><circle cx="150" cy="452" r="84" fill="url(#${p}sun)"/>`;
+  for (let i=0;i<9;i++){ const y=372+i*9; s += `<rect x="40" y="${y}" width="220" height="2.2" fill="#051312" opacity=".9"/>`; }
+  s += `<path d="M14 14 H286 V436 H14Z" fill="none" stroke="url(#${p}g)" stroke-width="1"/>
+        <path d="M22 30 V22 H30 M270 22 H278 V30 M278 420 V428 H270 M30 428 H22 V420" fill="none" stroke="url(#${p}g)" stroke-width="2"/>
+        <path d="M22 22 H278 V428 H22Z" fill="none" stroke="url(#${p}g)" stroke-width=".4"/>
+        <path d="M150 44 l7 7 -7 7 -7 -7z" fill="url(#${p}g)"/><path d="M96 51 H136 M164 51 H204" stroke="url(#${p}g)" stroke-width=".7"/>
+        <path d="M110 55 H136 M164 55 H190" stroke="url(#${p}g)" stroke-width=".4"/>`;
+  s += T(150,106,'THE GREAT',`font-family="Poiret One" font-size="15" letter-spacing="9" fill="url(#${p}g)"`);
+  s += T(152,166,'GATSBY',`font-family="Poiret One" font-size="58" letter-spacing="5" fill="url(#${p}g)" filter="url(#${p}emb)"`);
+  s += `<path d="M110 184 H190" stroke="url(#${p}g)" stroke-width=".7"/><circle cx="150" cy="184" r="1.8" fill="#e8cd7d"/>`;
+  s += T(150,206,'F. SCOTT FITZGERALD',`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="3.6" fill="#dcc07a" opacity=".9"`);
+  return s;
+},
+dune(p){
+  let s = `<defs>${lg(p+'sky',[[0,'#f8ecd6'],[.38,'#f3c896'],[.62,'#e69457'],[1,'#c96b34']],0,0,0,1)}${emb(p,250)}${glowF(p,8)}
+    ${['#eaa66a','#d6844a','#bb6733','#93481f'].map((c,i)=>lg(p+'d'+i,[[0,c],[1,i<2?'#b8612f':'#5e2a10']],0,0,0,1)).join('')}</defs>
+    <rect width="300" height="450" fill="url(#${p}sky)"/>
+    <circle cx="206" cy="138" r="54" fill="#fff6e0" opacity=".55" filter="url(#${p}gl)"/>
+    <circle cx="206" cy="138" r="24" fill="#fff8ea"/><circle cx="242" cy="170" r="11" fill="#fff0d6" opacity=".9"/>`;
+  const L = ['M-2 258 C60 240 110 252 160 238 S250 230 302 248 V452 H-2Z',
+             'M-2 296 C50 272 120 262 172 282 S262 302 302 278 V452 H-2Z',
+             'M-2 352 C70 304 142 298 204 332 S282 352 302 342 V452 H-2Z',
+             'M-2 404 C62 374 152 362 212 394 S292 424 302 412 V452 H-2Z'];
+  const ridges = ['M-2 258 C60 240 110 252 160 238 S250 230 302 248','M-2 296 C50 272 120 262 172 282 S262 302 302 278','M-2 352 C70 304 142 298 204 332 S282 352 302 342','M-2 404 C62 374 152 362 212 394 S292 424 302 412'];
+  L.forEach((d,i)=>{
+    s += `<clipPath id="${p}c${i}"><path d="${d}"/></clipPath><path d="${d}" fill="url(#${p}d${i})"/>`;
+    if (i>=1){ s += `<g clip-path="url(#${p}c${i})" fill="none" stroke="#5a230b" stroke-opacity="${.08+i*.03}" stroke-width=".7">`;
+      for (let j=1;j<14;j++) s += `<path d="${ridges[i]}" transform="translate(${(j*1.5).toFixed(1)} ${j*4.2})"/>`; s+='</g>'; }
+    s += `<g clip-path="url(#${p}c${i})"><path d="${ridges[i]} L302 452 L-2 452Z" transform="translate(30 0)" fill="#3d1606" opacity="${.08+i*.05}"/></g>`;
+    s += `<path d="${ridges[i]}" fill="none" stroke="#ffe2bb" stroke-opacity=".7" stroke-width=".8"/>`;
+  });
+  s += T(152,82,'DUNE',`font-family="Cinzel" font-weight="500" font-size="50" letter-spacing="16" fill="#4c2410" filter="url(#${p}emb)"`);
+  s += T(150,106,'FRANK HERBERT',`font-family="Jost" font-weight="400" font-size="9" letter-spacing="5" fill="#5e2e13" opacity=".85"`);
+  return s;
+},
+orwell(p){
+  let s = `<defs>${lg(p+'red',[[0,'#c22d22'],[1,'#8e1b14']],0,0,0,1)}${emb(p)}</defs><rect width="300" height="450" fill="#ece7dc"/>`;
+  for (let r=0;r<9;r++) for (let c=0;c<7;c++){
+    const x=45+c*35, y=46+r*30;
+    if (c===4 && r===3){ s += `<circle cx="${x}" cy="${y}" r="9.5" fill="#141414"/><circle cx="${x}" cy="${y}" r="4" fill="#2b2b2b" stroke="#444" stroke-width=".6"/><circle cx="${x-1.3}" cy="${y-1.3}" r="1.1" fill="#fff" opacity=".7"/><circle cx="${x+6}" cy="${y-6.5}" r="1.9" fill="#e5352a"/>`; }
+    else s += `<circle cx="${x}" cy="${y}" r="9" fill="none" stroke="#2a2a2a" stroke-width=".75"/><circle cx="${x}" cy="${y}" r="3" fill="none" stroke="#2a2a2a" stroke-width=".5"/>`;
+  }
+  s += `<rect x="0" y="318" width="300" height="132" fill="url(#${p}red)"/><rect x="0" y="318" width="300" height="1.4" fill="#000" opacity=".25"/>`;
+  s += T(150,349,'GEORGE ORWELL',`font-family="Jost" font-weight="500" font-size="9" letter-spacing="5" fill="#f5eee3" opacity=".9"`);
+  s += T(148,436,'1984',`font-family="Jost" font-weight="200" font-size="104" letter-spacing="-2" fill="#f5eee3" filter="url(#${p}emb)"`);
+  return s;
+},
+hobbit(p){
+  const r = rng(29);
+  let s = `<defs>${lg(p+'sky',[[0,'#18302f'],[.5,'#36605a'],[1,'#a9bd98']],0,0,0,1)}${emb(p)}${glowF(p,7)}
+    ${lg(p+'hill',[[0,'#355f37'],[1,'#17301b']],0,0,0,1)}${lg(p+'mist',[[0,'#e7efe0',0],[.5,'#e7efe0',.22],[1,'#e7efe0',0]],0,0,0,1)}</defs>
+    <rect width="300" height="450" fill="url(#${p}sky)"/>
+    <circle cx="232" cy="150" r="44" fill="#f6efd6" opacity=".35" filter="url(#${p}gl)"/><circle cx="232" cy="150" r="17" fill="#f4ecd2"/>`;
+  [[118,160,6],[130,170,4],[96,176,5]].forEach(([x,y,w])=> s+=`<path d="M${x-w} ${y} q${w/2} -${w/2.4} ${w} 0 q${w/2} -${w/2.4} ${w} 0" fill="none" stroke="#e8eedf" stroke-width=".8" opacity=".7"/>`);
+  const cols=['#89a79a','#5e8578','#3b6153','#23433a'];
+  for (let j=0;j<4;j++){
+    const base=236+j*42, amp=28+j*4;
+    let d='M-10 452 L-10 '+base;
+    for (let x=-10;x<=310;x+=14){
+      let y = base - r()*amp;
+      if (j===0){ const dd=Math.abs(x-150); y = Math.min(y, base - 118*Math.max(0,1-dd/96) - r()*6); }
+      d += ` L${x} ${y.toFixed(1)}`;
+    }
+    d += ' L310 452Z';
+    s += `<path d="${d}" fill="${cols[j]}"/>`;
+    if (j===0) s += `<path d="${d}" fill="none" stroke="#f4f6ee" stroke-opacity=".35" stroke-width=".7"/>`;
+    s += `<rect x="0" y="${base-14}" width="300" height="46" fill="url(#${p}mist)"/>`;
+  }
+  s += `<path d="M-2 452 V398 C80 356 220 356 302 392 V452Z" fill="url(#${p}hill)"/>
+        <path d="M150 428 C140 438 112 444 90 452 L128 452 C140 446 152 438 156 428Z" fill="#c5ab78" opacity=".75"/>
+        <circle cx="150" cy="404" r="25.5" fill="#5a3d1f"/><circle cx="150" cy="404" r="22" fill="#2f6b3b"/>
+        <g stroke="#245430" stroke-width=".8">${[-14,-7,0,7,14].map(o=>`<line x1="${150+o}" y1="${404-Math.sqrt(484-o*o)}" x2="${150+o}" y2="${404+Math.sqrt(484-o*o)}"/>`).join('')}</g>
+        <circle cx="150" cy="404" r="22" fill="none" stroke="#000" stroke-opacity=".25" stroke-width="2"/>
+        <circle cx="150" cy="404" r="2.8" fill="#f0cb5c"/><circle cx="149.3" cy="403.3" r=".9" fill="#fff6c8"/>`;
+  s += T(150,60,'THE HOBBIT',`font-family="Cormorant Garamond" font-weight="600" font-size="34" letter-spacing="4" fill="#efe4c4" filter="url(#${p}emb)"`);
+  s += T(150,80,'or There and Back Again',`font-family="Cormorant Garamond" font-style="italic" font-size="12.5" fill="#d9d6bd" opacity=".85"`);
+  s += T(150,100,'J.R.R. TOLKIEN',`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="4.5" fill="#e6e3cf" opacity=".75"`);
+  return s;
+},
+solitude(p){
+  const r = rng(5);
+  let s = `<defs><radialGradient id="${p}bg" cx=".55" cy=".4" r=".85">${stopsOf([[0,'#82332a'],[.6,'#541e19'],[1,'#2a0c0a']])}</radialGradient>${emb(p)}${glowF(p,3)}</defs>
+    <rect width="300" height="450" fill="url(#${p}bg)"/>
+    <path d="M-8 446 C40 400 72 330 64 262 C60 228 70 200 92 182" fill="none" stroke="#1d0807" stroke-width="3.4" stroke-linecap="round"/>
+    <path d="M58 300 C40 290 30 276 26 258 M66 250 C84 238 92 222 92 206" fill="none" stroke="#1d0807" stroke-width="1.8" stroke-linecap="round"/>`;
+  [[30,262,-50],[24,276,-20],[88,214,40],[94,196,70],[70,236,20],[52,318,-30],[60,286,-60],[96,184,10]].forEach(([x,y,a])=> s+=`<ellipse cx="${x}" cy="${y}" rx="8" ry="3" transform="rotate(${a} ${x} ${y})" fill="#6b6a2c" opacity=".75"/>`);
+  const cols=['#f2c230','#f7d65a','#e8a91c','#fbe38a'];
+  const fly = (x,y,rot,sc,col,op) => `<g transform="translate(${x.toFixed(1)} ${y.toFixed(1)}) rotate(${rot.toFixed(0)}) scale(${sc.toFixed(2)})" opacity="${op.toFixed(2)}">
+     <path d="M0 0 C-4 -10 -14 -12 -13 -3 C-12 3 -5 3 0 0Z M0 0 C4 -10 14 -12 13 -3 C12 3 5 3 0 0Z" fill="${col}"/>
+     <path d="M0 0 C-3 6 -9 10 -8 4 C-7 1 -3 0 0 0Z M0 0 C3 6 9 10 8 4 C7 1 3 0 0 0Z" fill="${col}" opacity=".82"/>
+     <path d="M-6 -5 L-1 -1 M6 -5 L1 -1" stroke="#000" stroke-opacity=".18" stroke-width=".5"/>
+     <line x1="0" y1="-4" x2="0" y2="5" stroke="#3a1608" stroke-width="1.1" stroke-linecap="round"/></g>`;
+  for (let i=0;i<64;i++){
+    const t=i/63, a=t*5.6+.4, rad=18+t*118;
+    let x=168+Math.cos(a)*rad*1.02+(r()-.5)*26, y=176+Math.sin(a)*rad*.78-t*30+(r()-.5)*22;
+    x=Math.max(16,Math.min(284,x)); y=Math.max(18,Math.min(296,y));
+    const sc=.45+r()*.75, op=.45+sc*.5;
+    if (sc>1.05) s += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${(9*sc).toFixed(1)}" fill="#ffd64a" opacity=".18" filter="url(#${p}gl)"/>`;
+    s += fly(x,y,(r()-.5)*90,sc,cols[i%4],Math.min(1,op));
+  }
+  s += T(150,350,'One Hundred Years',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="30" fill="#f3e2bd" filter="url(#${p}emb)"`);
+  s += T(150,382,'of Solitude',`font-family="Cormorant Garamond" font-style="italic" font-weight="500" font-size="30" fill="#f3e2bd" filter="url(#${p}emb)"`);
+  s += T(150,420,'GABRIEL GARCÍA MÁRQUEZ',`font-family="Jost" font-weight="300" font-size="8.5" letter-spacing="3.6" fill="#f2dcae" opacity=".8"`);
+  return s;
+}
+};
+
+const barcode = seed => { const r=rng(seed); let x=0, s=''; while (x<94){ const w=r()<.5?1:(r()<.6?2:3); if (r()<.55) s+=`<rect x="${x}" y="0" width="${w}" height="30" fill="#151515"/>`; x+=w; } return `<svg viewBox="0 0 94 30" preserveAspectRatio="none">${s}</svg>`; };
+
+/* ---------- genre glyphs ---------- */
+const ICONS = {
+  sea:'<path d="M2 9c2-2 4-2 6 0s4 2 6 0 4-2 4-2M2 13c2-2 4-2 6 0s4 2 6 0 4-2 4-2"/>',
+  rings:'<circle cx="7.6" cy="11" r="4.6"/><circle cx="12.4" cy="11" r="4.6"/><path d="M8.6 3.6l1.4 1.6 1.4-1.6"/>',
+  bolt:'<path d="M11.5 2L5 11h4.6L8 18l7-9.4h-4.6z"/>',
+  coupe:'<path d="M4 5h12c0 4-2.6 5.6-6 5.6S4 9 4 5zM10 10.6V17M6.6 17h6.8"/><circle cx="13.5" cy="2.8" r=".6"/>',
+  planet:'<circle cx="10" cy="10" r="4.2"/><ellipse cx="10" cy="10" rx="8.6" ry="2.6" transform="rotate(-18 10 10)"/>',
+  eye:'<path d="M2 10c3-5 13-5 16 0-3 5-13 5-16 0z"/><circle cx="10" cy="10" r="2.4"/>',
+  peak:'<path d="M2 16L8 6l3 5 2-3 5 8z"/><path d="M6.5 8.5L8 9.6l1-1"/>',
+  fly:'<path d="M10 9C8.5 4.5 3 3 3 7s4 4 7 2zM10 9c1.5-4.5 7-6 7-2s-4 4-7 2zM10 9c-1 3-5 6-5 3.5S8 10 10 9zM10 9c1 3 5 6 5 3.5S12 10 10 9zM10 6v8"/>'
+};
+const svgI = (body, w=20) => `<svg width="${w}" height="${w}" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width=".95" stroke-linecap="round" stroke-linejoin="round">${body}</svg>`;
+const starPath = 'M9 1.2l2.3 4.8 5.2.7-3.8 3.6.9 5.2L9 13 4.4 15.5l.9-5.2L1.5 6.7l5.2-.7z';
+function stars(v){
+  const w = 18*5; const fillW = v/5*w;
+  let outline='', fill='';
+  for (let i=0;i<5;i++){ outline += `<path transform="translate(${i*18} 0)" d="${starPath}"/>`; fill += `<path transform="translate(${i*18} 0)" d="${starPath}"/>`; }
+  const id='st'+Math.round(v*100);
+  return `<svg width="${w*.8}" height="${16*.8}" viewBox="0 0 ${w} 16"><defs><clipPath id="${id}"><rect width="${fillW}" height="16"/></clipPath></defs>
+    <g fill="none" stroke="currentColor" stroke-width=".8" stroke-linejoin="round">${outline}</g><g clip-path="url(#${id})" fill="currentColor" opacity=".85">${fill}</g></svg>`;
+}
+function ring(h){
+  const r=8, c=2*Math.PI*r, f=Math.min(h/16,1);
+  return `<svg width="22" height="22" viewBox="0 0 22 22"><circle cx="11" cy="11" r="${r}" fill="none" stroke="var(--hair)" stroke-width="1"/>
+    <circle cx="11" cy="11" r="${r}" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="${(c*f).toFixed(2)} ${c.toFixed(2)}" transform="rotate(-90 11 11)" stroke-linecap="round"/>
+    <path d="M11 7.4V11l2.2 1.4" fill="none" stroke="currentColor" stroke-width=".8" stroke-linecap="round"/></svg>`;
+}
+function stack(pages){
+  const n=Math.round(pages/45); let s='';
+  for (let i=0;i<n;i++) s += `<i style="height:${(9+((i*7)%5)*.9+ (i/n)*4).toFixed(1)}px"></i>`;
+  return `<span class="stack">${s}</span>`;
+}
+
+/* ---------- build ---------- */
+const stage = document.getElementById('stage'), vp = document.getElementById('vp');
+const slots = [];
+BOOKS.forEach((b,i)=>{
+  const slot = document.createElement('div'); slot.className='slot'; slot.dataset.i=i;
+  const p = 'c'+i+'-';
+  slot.innerHTML = `<div class="book">
+    <div class="shadow"></div>
+    <div class="face front ${b.tex||''}"><svg viewBox="0 0 300 450" aria-hidden="true">${COVERS[b.k](p)}</svg>
+      <div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}<div class="ov light"></div><div class="ov hinge"></div><div class="ov glare"></div><div class="ov edgeline"></div><div class="sh"></div></div>
+    <div class="face back ${b.tex||''}" style="background:${b.base};color:${b.ink}"><div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}
+      <div class="bc"><p class="one">${b.one}</p><div class="rule"></div><p>${b.syn}</p><div class="barcode">${barcode(i*97+13)}</div></div>
+      <div class="ov light" style="transform:scaleX(-1)"></div><div class="sh"></div></div>
+    <div class="face spine" style="background:${b.base};color:${b.ink}">${b.bands?'<div class="bands t"></div><div class="bands b"></div>':''}<span>${b.title}</span><div class="sh"></div></div>
+    <div class="face edge-r"><div class="sh"></div></div>
+    <div class="face edge-t"><div class="sh"></div></div>
+    <div class="face edge-b"><div class="sh" style="opacity:.35"></div></div>
+  </div>`;
+  stage.appendChild(slot);
+  const book = slot.firstElementChild;
+  slots.push({slot, book, front:book.querySelector('.front'), back:book.querySelector('.back'), spine:book.querySelector('.spine'), edge:book.querySelector('.edge-r'), glare:book.querySelector('.glare'),
+    shF:book.querySelector('.front .sh'), shB:book.querySelector('.back .sh'), shS:book.querySelector('.spine .sh'), shE:book.querySelector('.edge-r .sh'), shT:book.querySelector('.edge-t .sh')});
+});
+
+/* ---------- sizing ---------- */
+let W=200, H=300;
+function size(){
+  const vh = vp.clientHeight || 420;
+  H = Math.min(vh*.7, 400); W = H/1.5;
+  W = Math.max(118, Math.min(W, window.innerWidth*.46)); H = W*1.5;
+  document.documentElement.style.setProperty('--w', W+'px');
+  document.documentElement.style.setProperty('--h', H+'px');
+  slots.forEach((s,i)=> s.book.style.setProperty('--d', (W*(.075+BOOKS[i].pages/6200)).toFixed(1)+'px'));
+}
+size(); addEventListener('resize', size);
+
+/* ---------- motion state ---------- */
+const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const N = BOOKS.length;
+const st = {pos: reduce?0:-2.6, target:0, drag:false, flip:0, flipT:0, tx:0, ty:0, rx:0, ry:0, idx:-1};
+const clamp = (v,a,b)=>Math.max(a,Math.min(b,v));
+const deg = Math.PI/180;
+const shade = lam => ((1-(.28+.72*Math.max(0,lam)))*.82).toFixed(3);
+
+function layout(){
+  for (let i=0;i<N;i++){
+    const s = slots[i], o = i-st.pos, a=Math.abs(o), sg=Math.sign(o), c=Math.min(a,1), w=1-c;
+    if (a>5.2){ s.slot.style.visibility='hidden'; continue; } s.slot.style.visibility='';
+    const x = sg*(c*W*1.08 + Math.max(a-1,0)*W*.44);
+    const z = -c*W*1.15 - Math.max(a-1,0)*W*.22;
+    const y = -w*H*.03;
+    let ry = -clamp(o,-1,1)*58 + w*(16 + st.ry);
+    if (i===st.idx) ry += st.flip*180;
+    const rx = w*st.rx;
+    s.slot.style.transform = `translate3d(${x.toFixed(2)}px,${y.toFixed(2)}px,${z.toFixed(2)}px)`;
+    s.book.style.transform = `rotateX(${rx.toFixed(2)}deg) rotateY(${ry.toFixed(2)}deg)`;
+    const t = ry*deg, sn=Math.sin(t), cs=Math.cos(t);
+    s.shF.style.opacity = shade(-.45*sn+.85*cs);
+    s.shB.style.opacity = shade(.45*sn-.85*cs);
+    s.shS.style.opacity = shade(.45*cs+.85*sn);
+    s.shE.style.opacity = shade(-.45*cs-.85*sn);
+    s.glare.style.setProperty('--gx', (34 - ry*1.6).toFixed(1)+'%');
+    s.glare.style.setProperty('--gy', (18 + rx*3).toFixed(1)+'%');
+  }
+}
+
+function tick(){
+  if (!st.drag) st.pos += (st.target-st.pos)*(reduce?1:.11);
+  st.flip += (st.flipT-st.flip)*(reduce?1:.09);
+  st.rx += (st.tx-st.rx)*.08; st.ry += (st.ty-st.ry)*.08;
+  const ni = clamp(Math.round(st.pos),0,N-1);
+  if (ni!==st.idx) select(ni);
+  layout();
+  requestAnimationFrame(tick);
+}
+
+/* ---------- caption + rail ---------- */
+const $ = id => document.getElementById(id);
+const titleEl=$('title'), authorEl=$('author'), glyphs=$('glyphs'), details=$('details'), halo=$('halo'), rail=$('rail');
+const Y0=1800, Y1=2000, yp = y => ((y-Y0)/(Y1-Y0)*100);
+let railHTML = '<div class="line"></div>';
+for (let y=Y0;y<=Y1;y+=10) railHTML += `<div class="tick${y%50===0?' major':''}" style="left:${yp(y)}%"></div>`;
+for (let y=Y0;y<=Y1;y+=50) railHTML += `<div class="lab" style="left:${yp(y)}%">${y}</div>`;
+railHTML += `<div class="stem" id="stem"></div><div class="year" id="year"></div>`;
+const order = BOOKS.map((b,i)=>i).sort((a,b)=>BOOKS[a].year-BOOKS[b].year);
+const lane = {}; order.forEach((i,k)=>{ const prev=order[k-1]; lane[i] = (prev!=null && BOOKS[i].year-BOOKS[prev].year<5) ? (lane[prev]+1) : 0; });
+BOOKS.forEach((b,i)=> railHTML += `<button data-i="${i}" data-tip="${b.title}" aria-label="${b.title}, ${b.year}" style="left:${yp(b.year)}%;transform:translateY(${lane[i]*-9}px)"><span></span></button>`);
+rail.innerHTML = railHTML;
+const railBtns = [...rail.querySelectorAll('button')];
+rail.addEventListener('click', e=>{ const b=e.target.closest('button'); if (b){ st.target=+b.dataset.i; st.flipT=0; } });
+
+function select(i){
+  st.idx = i; st.flipT = 0;
+  const b = BOOKS[i];
+  document.documentElement.style.setProperty('--accent', b.accent);
+  halo.style.backgroundColor = b.accent;
+  $('cur').textContent = String(i+1).padStart(2,'0');
+  titleEl.textContent = b.title;
+  authorEl.textContent = b.author;
+  authorEl.dataset.tip = b.life;
+  const hrs = b.words/250/60;
+  glyphs.innerHTML = `
+    <span class="g" tabindex="0" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span><span class="dot"></span>
+    <span class="g" tabindex="0" data-tip="${b.pages} pages">${stack(b.pages)}</span><span class="dot"></span>
+    <span class="g" tabindex="0" data-tip="About ${hrs.toFixed(1)} hours to read">${ring(hrs)}</span><span class="dot"></span>
+    <span class="g" tabindex="0" data-tip="${b.genreName}">${svgI(ICONS[b.genre])}</span><span class="dot"></span>
+    <span class="g wide" tabindex="0" data-tip="${b.one}">${svgI('<path d="M5 13c0-3 1-5 3.4-6.4M5 13a2 2 0 104 0 2 2 0 00-4 0zM11 13c0-3 1-5 3.4-6.4M11 13a2 2 0 104 0 2 2 0 00-4 0z"/>')}</span><span class="dot"></span>
+    <button class="g btn" id="openBtn" data-tip="Open" aria-label="Open the summary">${svgI('<path d="M2.5 5c2.4-1 4.9-1 7.5.8 2.6-1.8 5.1-1.8 7.5-.8v10.5c-2.4-1-4.9-1-7.5.8-2.6-1.8-5.1-1.8-7.5-.8z"/><path d="M10 5.8v10.5"/>')}</button><span class="dot"></span>
+    <button class="g btn" id="flipBtn" data-tip="Turn over" aria-label="Turn the book over">${svgI('<g class="flipicon" style="transform-origin:10px 10px"><rect x="6" y="3.5" width="8" height="13" rx=".8"/><path d="M8.5 3.5v13"/></g><path d="M2.5 12a7.5 7.5 0 0 0 4 4.5M17.5 8a7.5 7.5 0 0 0-4-4.5"/><path d="M5.4 17.2l1.1-.7-.6-1.2M14.6 2.8l-1.1.7.6 1.2"/>',20)}</button>`;
+  $('flipBtn').addEventListener('click', ()=> st.flipT = st.flipT ? 0 : 1);
+  $('openBtn').addEventListener('click', ()=> openBook(st.idx));
+  slots.forEach((s,k)=> s.slot.classList.toggle('center', k===i));
+  details.classList.remove('swap'); void details.offsetWidth; details.classList.add('swap');
+  railBtns.forEach((el,k)=>el.classList.toggle('on',k===i));
+  $('year').style.left = yp(b.year)+'%'; $('year').textContent = b.year;
+  $('stem').style.left = yp(b.year)+'%';
+}
+$('tot').textContent = String(N).padStart(2,'0');
+
+/* keep flip glyph in sync */
+let lastFlip = 0;
+setInterval(()=>{ const f = st.flipT>.5; if (f!==lastFlip){ lastFlip=f; details.classList.toggle('flipped',f); } }, 80);
+
+/* ---------- input ---------- */
+let sx=0, sp=0, moved=false, lx=0, lt=0, v=0;
+vp.addEventListener('pointerdown', e=>{
+  if (e.target.closest('.nav')) return;
+  st.drag=true; moved=false; sx=lx=e.clientX; lt=performance.now(); sp=st.pos; v=0;
+  vp.setPointerCapture(e.pointerId); vp.classList.add('dragging');
+});
+vp.addEventListener('pointermove', e=>{
+  if (st.drag){
+    const dx = e.clientX-sx; if (Math.abs(dx)>5) moved=true;
+    let p = sp - dx/(W*1.08);
+    if (p<0) p = p*.35; if (p>N-1) p = N-1+(p-(N-1))*.35;
+    st.pos = p;
+    const now=performance.now(), dt=Math.max(1,now-lt); v = .8*v + .2*((e.clientX-lx)/dt); lx=e.clientX; lt=now;
+    st.tx = st.ty = 0;
+  } else if (e.pointerType==='mouse' && !reduce){
+    const r = vp.getBoundingClientRect();
+    const nx = clamp((e.clientX - (r.left+r.width/2))/(W*1.2),-1,1), ny = clamp((e.clientY-(r.top+r.height/2))/(H*.8),-1,1);
+    st.ty = nx*16; st.tx = -ny*9;
+  }
+});
+const end = e=>{
+  if (!st.drag) return;
+  st.drag=false; vp.classList.remove('dragging');
+  if (!moved){
+    const el = document.elementFromPoint(e.clientX,e.clientY), s = el && el.closest('.slot');
+    if (s){ const i=+s.dataset.i; if (i===st.idx) openBook(i); else st.target=i; }
+    else st.target = st.idx;
+  } else {
+    st.target = clamp(Math.round(st.pos - v*220/(W*1.08)),0,N-1);
+  }
+};
+vp.addEventListener('pointerup', end); vp.addEventListener('pointercancel', end);
+vp.addEventListener('pointerleave', ()=>{ st.tx=st.ty=0; });
+let wacc=0, wlast=0;
+vp.addEventListener('wheel', e=>{
+  const d = Math.abs(e.deltaX)>Math.abs(e.deltaY)? e.deltaX : e.deltaY;
+  if (Math.abs(e.deltaX)<=Math.abs(e.deltaY) && !e.shiftKey && Math.abs(e.deltaY)<2) return;
+  e.preventDefault(); wacc += d; const now=performance.now();
+  if (Math.abs(wacc)>40 && now-wlast>260){ st.target = clamp(Math.round(st.target)+Math.sign(wacc),0,N-1); wacc=0; wlast=now; }
+}, {passive:false});
+$('prev').addEventListener('click', ()=> st.target = clamp(Math.round(st.target)-1,0,N-1));
+$('next').addEventListener('click', ()=> st.target = clamp(Math.round(st.target)+1,0,N-1));
+addEventListener('keydown', e=>{
+  if (R.open){
+    const onBtn = e.target.closest && e.target.closest('button');
+    if (e.key==='ArrowRight'||e.key==='PageDown'||(e.key===' '&&!onBtn)){ e.preventDefault(); go(1); }
+    else if (e.key==='ArrowLeft'||e.key==='PageUp'){ e.preventDefault(); go(-1); }
+    else if (e.key==='Escape'){ closeBook(); }
+    return;
+  }
+  if (e.key==='Enter' && document.activeElement===document.body){ e.preventDefault(); openBook(st.idx); return; }
+  if (e.key==='ArrowRight'){ st.target = clamp(Math.round(st.target)+1,0,N-1); }
+  else if (e.key==='ArrowLeft'){ st.target = clamp(Math.round(st.target)-1,0,N-1); }
+  else if (e.key===' ' && document.activeElement===document.body){ e.preventDefault(); st.flipT = st.flipT?0:1; }
+  else if (e.key==='Escape'){ st.flipT = 0; }
+});
+
+/* ---------- reader ---------- */
+const reader=$('reader'), rig=$('rig'), rVeil=$('rVeil'), rGlow=$('rGlow'), rRight=$('rRight'), rLeft=$('rLeft'),
+      rCover=$('rCover'), rLeaf=$('rLeaf'), meas=$('rMeasure');
+const R = {open:false, busy:false, i:0, book:null, r:0, count:1, geo:null, html:''};
+const EASE='cubic-bezier(.5,.05,.3,1)', GLIDE='cubic-bezier(.2,.7,.2,1)';
+const anim = (el,kf,dur,easing='ease') => { const a=el.animate(kf,{duration:reduce?1:dur,easing,fill:'forwards'});
+  return a.finished.then(()=>{ try{ a.commitStyles(); }catch(_){} a.cancel(); }); };
+
+/* tiny markdown renderer: headings, paragraphs, lists, quotes, rules, bold/italic */
+function md(src){
+  const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const inl = s => esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<em>$1</em>');
+  let out='', para=[], list=null, quote=[];
+  const flush = () => {
+    if (para.length){ out += `<p>${inl(para.join(' '))}</p>`; para=[]; }
+    if (quote.length){ out += `<blockquote>${inl(quote.join(' '))}</blockquote>`; quote=[]; }
+    if (list){ out += `</${list}>`; list=null; }
+  };
+  for (const raw of src.replace(/\r/g,'').split('\n')){
+    const l = raw.trim(); let m;
+    if (!l){ flush(); continue; }
+    if ((m = l.match(/^(#{1,3})\s+(.*)/))){ flush(); out += `<h${m[1].length}>${inl(m[2])}</h${m[1].length}>`; continue; }
+    if (/^(-{3,}|\*{3,})$/.test(l)){ flush(); out += '<hr>'; continue; }
+    if ((m = l.match(/^>\s?(.*)/))){ if (para.length||list) flush(); quote.push(m[1]); continue; }
+    if ((m = l.match(/^([-*]|\d+\.)\s+(.*)/))){
+      const t = /\d/.test(m[1]) ? 'ol' : 'ul';
+      if (para.length||quote.length||(list&&list!==t)) flush();
+      if (!list){ out += `<${t}>`; list=t; }
+      out += `<li>${inl(m[2])}</li>`; continue;
+    }
+    if (list||quote.length) flush();
+    para.push(l);
+  }
+  flush(); return out;
+}
+function bookHTML(b){
+  const el = document.querySelector(`script[data-md="${b.k}"]`);
+  const h = md(el ? el.textContent : `# ${b.title}\n\n> ${b.one}\n\n## Summary\n${b.syn}`);
+  const cut = h.indexOf('<h2'), head = cut<0 ? h : h.slice(0,cut), body = cut<0 ? '' : h.slice(cut);
+  return (`<section class="opening"><span class="ico">${svgI(ICONS[b.genre],30)}</span>${head}<div class="by">${b.author}</div><div class="yr">${b.year}</div></section>${body}`)
+    .replace(/(<\/\w+>)\s*$/, '<span class="end"></span>$1');
+}
+let epc = 0;
+function endpaper(b){
+  const id = 'ep'+(++epc), ic = ICONS[b.genre];
+  return `<div class="endp" style="background:${b.base};color:${b.ink}">
+    <svg aria-hidden="true"><defs><pattern id="${id}" width="56" height="56" patternUnits="userSpaceOnUse" patternTransform="rotate(-8)">
+      <g fill="none" stroke="currentColor" stroke-width=".8" stroke-linecap="round" stroke-linejoin="round" opacity=".2"><g transform="translate(6 6)">${ic}</g><g transform="translate(34 34)">${ic}</g></g>
+    </pattern></defs><rect width="100%" height="100%" fill="url(#${id})"/></svg>
+    <div class="plate" style="color:${b.accent}">${svgI(ic,24)}<span>ex libris</span></div>
+    <div class="ov grain"></div><div class="ov" style="background:radial-gradient(ellipse at 50% 45%,transparent 40%,rgba(0,0,0,.3))"></div></div>`;
+}
+
+/* geometry: two-page spread on wide screens, a single page on phones */
+function geo(){
+  const vw=innerWidth, vh=innerHeight, dbl = vw>=760;
+  let W = Math.min(Math.max(260, vh-150), 820)/1.5;
+  W = Math.min(W, dbl ? (vw-120)/2 : vw-44);
+  const H = W*1.5;
+  return {W, H, dbl, x: dbl ? vw/2 : (vw-W)/2, y: (vh-H)/2};
+}
+function applyGeo(){
+  const g = R.geo = geo();
+  Object.assign(rig.style, {left:g.x+'px', top:g.y+'px', width:g.W+'px', height:g.H+'px'});
+  const padX=g.W*.12, padT=g.W*.15, padB=g.W*.16, gap=40, iw=g.W-2*padX, ih=g.H-padT-padB, fs=clamp(g.W*.037,14,18);
+  const rs = document.documentElement.style;
+  [['--r-o',g.W*.02],['--r-d',g.W*.085],['--r-padx',padX],['--r-padt',padT],['--r-padb',padB],['--r-iw',iw],['--r-ih',ih],['--r-gap',gap],['--r-fs',fs]]
+    .forEach(([k,v]) => rs.setProperty(k, v.toFixed(2)+'px'));
+  R.step = iw+gap;
+  meas.innerHTML = `<div class="flow">${R.html}</div>`;
+  const flow = meas.firstChild, end = flow.querySelector('.end');
+  const off = end.getBoundingClientRect().left - flow.getBoundingClientRect().left;
+  R.count = Math.max(1, Math.floor((off+1)/R.step)+1);
+}
+const maxR = () => R.geo.dbl ? (R.count%2 ? R.count-1 : R.count) : R.count-1;
+const L = r => r===0 ? null : r-1;   // page shown on the left of right-page r (null = bare endpaper)
+
+function pageInner(n){
+  if (n>=R.count) return '';
+  return `${n>0?`<div class="rh">${R.book.title}</div>`:''}<div class="pg-in"><div class="flow" style="transform:translateX(${(-n*R.step).toFixed(2)}px)">${R.html}</div></div>${n>0?`<div class="fo">${n}</div>`:''}`;
+}
+function setFace(face, n, side){
+  face.innerHTML = `<div class="pc">${pageInner(n)}</div><div class="ov grain"></div><div class="gut ${side}"></div><div class="cast"></div><div class="r-sh"></div>`;
+}
+function setLeft(n){
+  rLeft.style.opacity = '';
+  if (n==null){ rLeft.style.visibility='hidden'; rLeft.innerHTML=''; }
+  else { rLeft.style.visibility='visible'; setFace(rLeft, n, 'r'); }
+}
+function updUI(){
+  const step = R.geo.dbl?2:1, shown = Math.min(R.r+1, R.count);
+  $('rFill').style.width = (shown/R.count*100).toFixed(1)+'%';
+  $('rProg').dataset.tip = `${shown} of ${R.count}`;
+  $('rPrev').disabled = R.r===0;
+  $('rNext').disabled = R.r+step > maxR();
+}
+
+/* a leaf turns on the spine: lifts, swings, lands; shading tracks the angle */
+function turn(leaf, dir, dur, lift=.05){
+  const z = leaf===rCover ? 2 : 6, up = z + lift*R.geo.W;
+  leaf.style.visibility = 'visible';
+  const o = {duration:reduce?1:dur, easing:EASE, direction:dir>0?'normal':'reverse', fill:'both'};
+  const as = [leaf.animate([{transform:`translateZ(${z}px) rotateY(0deg)`},{transform:`translateZ(${up}px) rotateY(-90deg)`,offset:.5},{transform:`translateZ(${z}px) rotateY(-180deg)`}], o)];
+  const f = leaf.querySelector('.f > .r-sh'), b = leaf.querySelector('.b > .r-sh'), c = rRight.querySelector('.cast');
+  as.push(f.animate([{opacity:0},{opacity:.34,offset:.5},{opacity:.34}], o));
+  as.push(b.animate([{opacity:.34},{opacity:.34,offset:.5},{opacity:0}], o));
+  if (c) as.push(c.animate([{opacity:.6},{opacity:0,offset:.45},{opacity:0}], o));
+  return Promise.all(as.map(a=>a.finished)).then(()=>{
+    // an opened cover rests just under the pages so they stay on the crisp z=0 plane
+    leaf.style.transform = `translateZ(${leaf===rCover&&dir>0?-2:z}px) rotateY(${dir>0?-180:0}deg)`;
+    as.forEach(a=>a.cancel());
+  });
+}
+
+function fromT(){
+  layout();
+  const rc = slots[R.i].front.getBoundingClientRect(), g = R.geo, s = rc.height/(g.H*1.04);
+  return `translate3d(${(rc.left+rc.width/2-(g.x+g.W/2)).toFixed(1)}px,${(rc.top+rc.height/2-(g.y+g.H/2)).toFixed(1)}px,0) rotateX(${st.rx.toFixed(2)}deg) rotateY(${(16+st.ry).toFixed(2)}deg) scale(${s.toFixed(4)})`;
+}
+const midT = () => `translate3d(${R.geo.dbl ? -R.geo.W/2 : 0}px,0,0) rotateX(0deg) rotateY(0deg) scale(1)`;
+const FIN = 'translate3d(0px,0,0) rotateX(0deg) rotateY(0deg) scale(1)';
+
+async function openBook(i){
+  if (R.open || R.busy || i!==st.idx) return;
+  R.open = R.busy = true; R.i = i; R.book = BOOKS[i]; R.r = 0;
+  st.flip = st.flipT = 0; st.tx = st.ty = 0;
+  try { await document.fonts.ready; } catch(_){}
+  const b = R.book;
+  R.html = bookHTML(b);
+  $('rCoverF').className = 'pgf f '+(b.tex||'');
+  $('rCoverF').innerHTML = `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${COVERS[b.k]('rc'+i+'-')}</svg>
+    <div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}<div class="ov light"></div><div class="ov hinge"></div><div class="ov edgeline"></div><div class="r-sh"></div>`;
+  $('rCoverB').innerHTML = endpaper(b)+'<div class="gut r"></div><div class="r-sh"></div>';
+  $('rSpine').style.cssText = `background:${b.base};color:${b.ink}`; $('rSpine').innerHTML = `<span>${b.title}</span>`;
+  $('rBoard').style.background = b.base;
+  reader.setAttribute('aria-label', b.title+' — summary');
+  applyGeo();
+  rCover.style.transform = 'translateZ(2px) rotateY(0deg)';
+  rLeaf.style.visibility = 'hidden';
+  setLeft(null); setFace(rRight, 0, 'l');
+  reader.classList.remove('ready'); reader.hidden = false;
+  const from = fromT(); rig.style.transform = from;
+  slots[i].slot.classList.add('away');
+  anim(rVeil, [{opacity:0},{opacity:1}], 700);
+  anim(rGlow, [{opacity:0},{opacity:.12}], 1600);
+  await anim(rig, [{transform:from},{transform:midT()}], 720, GLIDE);
+  await Promise.all([ turn(rCover, 1, 1350, .1), anim(rig, [{transform:midT()},{transform:FIN}], 1350, EASE) ]);
+  updUI(); reader.classList.add('ready'); R.busy = false;
+  reader.focus({preventScroll:true});
+}
+
+async function closeBook(){
+  if (!R.open || R.busy) return;
+  R.busy = true; reader.classList.remove('ready');
+  if (R.r>0){   // back to the title spread before the cover closes
+    const pc = rRight.querySelector('.pc');
+    await Promise.all([ anim(rLeft,[{opacity:1},{opacity:0}],260), anim(pc,[{opacity:1},{opacity:0}],260) ]);
+    setLeft(null); setFace(rRight, 0, 'l');
+    await anim(rRight.querySelector('.pc'), [{opacity:0},{opacity:1}], 240);
+    R.r = 0;
+  }
+  await Promise.all([ turn(rCover, -1, 1150, .1), anim(rig, [{transform:FIN},{transform:midT()}], 1150, EASE) ]);
+  const to = fromT();
+  await Promise.all([ anim(rig, [{transform:midT()},{transform:to}], 680, 'cubic-bezier(.4,0,.2,1)'),
+                      anim(rVeil, [{opacity:1},{opacity:0}], 680), anim(rGlow, [{opacity:.12},{opacity:0}], 500) ]);
+  slots[R.i].slot.classList.remove('away');
+  reader.hidden = true; R.open = R.busy = false;
+  document.activeElement && document.activeElement.blur();
+}
+
+async function go(dir){
+  if (!R.open || R.busy) return;
+  const step = R.geo.dbl?2:1, r = R.r, nr = r + dir*step;
+  if (nr<0 || nr>maxR()) return;
+  R.busy = true;
+  const lf = $('rLeafF'), lb = $('rLeafB');
+  if (dir>0){
+    setFace(lf, r, 'l'); setFace(lb, L(nr), 'r'); setFace(rRight, nr, 'l');
+    await turn(rLeaf, 1, 950);
+    setLeft(L(nr));
+  } else {
+    setFace(lf, nr, 'l'); setFace(lb, L(r), 'r'); setLeft(L(nr));
+    await turn(rLeaf, -1, 950);
+    setFace(rRight, nr, 'l');
+  }
+  rLeaf.style.visibility = 'hidden';
+  R.r = nr; updUI(); R.busy = false;
+}
+
+/* reader input: tap a page to turn, swipe, or tap outside to close */
+let rdx=0, rdy=0, rdown=false;
+reader.addEventListener('pointerdown', e=>{ if (e.target.closest('button,.r-prog')) return; rdown=true; rdx=e.clientX; rdy=e.clientY; });
+reader.addEventListener('pointerup', e=>{
+  if (!rdown) return; rdown=false;
+  const dx = e.clientX-rdx, dy = e.clientY-rdy, g = R.geo;
+  if (Math.abs(dx)>40 && Math.abs(dx)>Math.abs(dy)) return go(dx<0?1:-1);
+  if (Math.hypot(dx,dy)>8) return;
+  const x0 = g.dbl ? g.x-g.W : g.x, inBook = e.clientX>x0 && e.clientX<g.x+g.W && e.clientY>g.y && e.clientY<g.y+g.H;
+  if (!inBook) return closeBook();
+  go((g.dbl ? e.clientX>=g.x : e.clientX>=g.x+g.W*.3) ? 1 : -1);
+});
+$('rClose').addEventListener('click', closeBook);
+$('rPrev').addEventListener('click', ()=>go(-1));
+$('rNext').addEventListener('click', ()=>go(1));
+let rzT;
+addEventListener('resize', ()=>{
+  if (!R.open) return;
+  clearTimeout(rzT);
+  rzT = setTimeout(function re(){
+    if (R.busy){ rzT = setTimeout(re, 200); return; }
+    applyGeo();
+    const step = R.geo.dbl?2:1; R.r = Math.min(R.r - R.r%step, maxR());
+    setFace(rRight, R.r, 'l'); setLeft(L(R.r)); rig.style.transform = FIN; updUI();
+  }, 150);
+});
+
+select(0); layout(); requestAnimationFrame(tick);
+})();
+</script>
+
+</body></html>
