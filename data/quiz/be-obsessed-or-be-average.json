@@ -1,0 +1,56 @@
+{
+  "book": "be-obsessed-or-be-average",
+  "title": "Be Obsessed Or Be Average",
+  "questions": [
+    {
+      "q": "What are your two choices when burnt out, according to lesson 1?",
+      "a": [
+        "Take a break or get obsessed",
+        "Quit or double down",
+        "Delegate or simplify",
+        "Rest or retrain"
+      ],
+      "why": "Lesson 1 gives these options."
+    },
+    {
+      "q": "What happens to your work if you become obsessed?",
+      "a": [
+        "It energizes you instead of exhausting you",
+        "It becomes easier",
+        "It becomes less important",
+        "It stays the same"
+      ],
+      "why": "Lesson 1 says work will energize you."
+    },
+    {
+      "q": "In which two ways does fear come, per lesson 2?",
+      "a": [
+        "Fear of rejection and fear of failure",
+        "Fear of success and fear of change",
+        "Fear of money and fear of time",
+        "Fear of pain and fear of loss"
+      ],
+      "why": "Lesson 2 names rejection and failure."
+    },
+    {
+      "q": "Whose rejection story does lesson 2 reference?",
+      "a": [
+        "J.K. Rowling",
+        "Oprah Winfrey",
+        "Steve Jobs",
+        "Walt Disney"
+      ],
+      "why": "Lesson 2 mentions her speech about rejection."
+    },
+    {
+      "q": "How should you treat haters, per lesson 3?",
+      "a": [
+        "Be grateful and use them as motivation",
+        "Silence them",
+        "Ignore the feedback",
+        "Argue back"
+      ],
+      "why": "Lesson 3 says to see haters as a sign of success."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "battle-hymn-of-the-tiger-mother",
+  "title": "Battle Hymn Of The Tiger Mother",
+  "questions": [
+    {
+      "q": "Who is the author of Battle Hymn of the Tiger Mother?",
+      "a": [
+        "Amy Chua",
+        "Tiger Woods",
+        "Sheryl Sandberg",
+        "Anne Lamott"
+      ],
+      "why": "The overview names Amy Chua."
+    },
+    {
+      "q": "What do Chinese parents believe about a child's struggle with a task?",
+      "a": [
+        "Children should work hard and improve what they are bad at",
+        "Struggling tasks should be dropped",
+        "Praise is the best remedy",
+        "Talent decides everything"
+      ],
+      "why": "Lesson 1 says it's unacceptable to give up."
+    },
+    {
+      "q": "What do Westerners tend to avoid, per lesson 1?",
+      "a": [
+        "Anything that might harm a child's self-esteem",
+        "Early education",
+        "Strict schedules",
+        "Competitions"
+      ],
+      "why": "Lesson 1 says they hesitate to risk self-esteem."
+    },
+    {
+      "q": "When does enjoyment come, in Chinese parents' minds?",
+      "a": [
+        "After you become proficient",
+        "At the start",
+        "During rest",
+        "After winning"
+      ],
+      "why": "Lesson 2 says enjoyment follows proficiency."
+    },
+    {
+      "q": "Which instrument does Chua's daughter Sophia practice?",
+      "a": [
+        "Piano",
+        "Violin",
+        "Cello",
+        "Flute"
+      ],
+      "why": "Lesson 2 describes Sophia learning piano."
+    }
+  ]
+}

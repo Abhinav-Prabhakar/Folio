@@ -1,0 +1,56 @@
+{
+  "book": "be-fearless",
+  "title": "Be Fearless",
+  "questions": [
+    {
+      "q": "What does lesson 1 say drives progress?",
+      "a": [
+        "Revolutionary changes and big bets",
+        "Small improvements",
+        "Careful planning",
+        "Committee decisions"
+      ],
+      "why": "Lesson 1 says to take huge risks."
+    },
+    {
+      "q": "Which president made the moon promise before technology existed?",
+      "a": [
+        "John F. Kennedy",
+        "Lyndon Johnson",
+        "Richard Nixon",
+        "Dwight Eisenhower"
+      ],
+      "why": "Lesson 1 refers to Kennedy's promise in 1961."
+    },
+    {
+      "q": "What does Swipe Out Hunger let students do?",
+      "a": [
+        "Donate their unused meal swipes",
+        "Raise funds for tuition",
+        "Sell textbooks",
+        "Start food trucks"
+      ],
+      "why": "Lesson 1 describes the project."
+    },
+    {
+      "q": "What did Warby Parker question?",
+      "a": [
+        "That buying new eyeglasses had to be expensive and in a store",
+        "That glasses need lenses",
+        "That prescriptions expire",
+        "That frames need brands"
+      ],
+      "why": "Lesson 2 says they questioned assumptions about getting glasses."
+    },
+    {
+      "q": "What does lesson 3 say about greatness?",
+      "a": [
+        "It requires getting out of your comfort zone",
+        "It comes from luck",
+        "It grows from routine",
+        "It depends on funding"
+      ],
+      "why": "Lesson 3 says nobody does game-changing work while comfortable."
+    }
+  ]
+}

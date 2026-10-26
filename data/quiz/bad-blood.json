@@ -1,0 +1,56 @@
+{
+  "book": "bad-blood",
+  "title": "Bad Blood",
+  "questions": [
+    {
+      "q": "What was the Theranos machine called?",
+      "a": [
+        "Edison",
+        "Tesla",
+        "Franklin",
+        "Newton"
+      ],
+      "why": "Lesson 1 names the Edison machine."
+    },
+    {
+      "q": "What valuation did Theranos reach?",
+      "a": [
+        "$9 billion",
+        "$900 million",
+        "$90 billion",
+        "$2 billion"
+      ],
+      "why": "Lesson 1 mentions a $9 billion product valuation."
+    },
+    {
+      "q": "What did Holmes claim the device could do?",
+      "a": [
+        "Run 800 tests with a single drop of blood",
+        "Diagnose cancer instantly",
+        "Replace hospital labs",
+        "Test for diseases at home"
+      ],
+      "why": "Lesson 2 gives that claim."
+    },
+    {
+      "q": "What was the only test the machine could actually perform?",
+      "a": [
+        "An immunoassay",
+        "A cholesterol test",
+        "A blood count",
+        "A DNA test"
+      ],
+      "why": "Lesson 2 says it could only do an immunoassay."
+    },
+    {
+      "q": "How did Theranos avoid FDA scrutiny, per lesson 3?",
+      "a": [
+        "It pretended the Edison wasn't a medical device by sending samples to a lab",
+        "It bribed inspectors",
+        "It used foreign approval",
+        "It delayed audits"
+      ],
+      "why": "Lesson 3 says they sent results to Siemens's lab to claim it wasn't a device."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "be-a-free-range-human",
+  "title": "Be A Free Range Human",
+  "questions": [
+    {
+      "q": "Who wrote Be A Free Range Human?",
+      "a": [
+        "Marianne Cantwell",
+        "Tim Ferriss",
+        "Chris Guillebeau",
+        "Pamela Slim"
+      ],
+      "why": "The overview names Marianne Cantwell."
+    },
+    {
+      "q": "What does lesson 1 say is a prerequisite to success?",
+      "a": [
+        "Doing work you love",
+        "Having startup capital",
+        "A college degree",
+        "Good connections"
+      ],
+      "why": "Lesson 1 states this."
+    },
+    {
+      "q": "Which question helps find your passion?",
+      "a": [
+        "What were you doing the last time you felt full of energy?",
+        "How much money do you need?",
+        "Who is your role model?",
+        "What did you study?"
+      ],
+      "why": "Lesson 1 lists this."
+    },
+    {
+      "q": "What does lesson 2 say to focus on?",
+      "a": [
+        "Your strengths",
+        "Your weaknesses",
+        "Your average skills",
+        "Your network"
+      ],
+      "why": "Lesson 2 says to forget about weaknesses."
+    },
+    {
+      "q": "What does lesson 3 say not to start?",
+      "a": [
+        "A brick-and-mortar store like a cafe",
+        "An online service",
+        "A freelance gig",
+        "A consulting business"
+      ],
+      "why": "Lesson 3 says physical stores take too much time and money."
+    }
+  ]
+}

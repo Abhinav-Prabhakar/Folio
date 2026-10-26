@@ -1,0 +1,56 @@
+{
+  "book": "awe",
+  "title": "Awe",
+  "questions": [
+    {
+      "q": "How many kinds of awe does Keltner identify?",
+      "a": [
+        "Eight",
+        "Three",
+        "Twelve",
+        "Five"
+      ],
+      "why": "Lesson 1 gives a taxonomy of eight sources."
+    },
+    {
+      "q": "Which kind of awe comes from watching others show virtue?",
+      "a": [
+        "Moral beauty",
+        "Epiphany",
+        "Nature",
+        "Music"
+      ],
+      "why": "Lesson 1 describes moral beauty."
+    },
+    {
+      "q": "What is collective effervescence?",
+      "a": [
+        "The electrifying group experience, like a concert",
+        "Awe at nature",
+        "Awe at art",
+        "Quiet reflection"
+      ],
+      "why": "Lesson 1 gives the concert example."
+    },
+    {
+      "q": "What does lesson 2 say about money and awe?",
+      "a": [
+        "Awe has little to do with money, status or success",
+        "Wealth increases awe",
+        "Only status brings awe",
+        "Awe is expensive"
+      ],
+      "why": "Lesson 2 says anyone can feel awe, and wealth barely helps."
+    },
+    {
+      "q": "Which hormone does moral beauty trigger?",
+      "a": [
+        "Oxytocin",
+        "Cortisol",
+        "Adrenaline",
+        "Insulin"
+      ],
+      "why": "Lesson 3 says seeing goodness triggers oxytocin."
+    }
+  ]
+}

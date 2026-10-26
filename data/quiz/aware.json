@@ -1,0 +1,56 @@
+{
+  "book": "aware",
+  "title": "Aware",
+  "questions": [
+    {
+      "q": "What are the three pillars of mindfulness, per lesson 1?",
+      "a": [
+        "Attention, open awareness and intention",
+        "Breath, posture and focus",
+        "Calm, clarity and compassion",
+        "Presence, patience and practice"
+      ],
+      "why": "Lesson 1 lists these pillars."
+    },
+    {
+      "q": "How does the summary describe attention?",
+      "a": [
+        "A laser focusing on one point and ignoring the rest",
+        "A wide lens taking in everything",
+        "A tranquil state of rest",
+        "A reaction to stimuli"
+      ],
+      "why": "Lesson 1 compares attention to a laser."
+    },
+    {
+      "q": "What does Ellen Langer claim about the world's ills?",
+      "a": [
+        "They boil down to mindlessness",
+        "They come from stress",
+        "They come from greed",
+        "They come from poor diet"
+      ],
+      "why": "Lesson 2 quotes her claim."
+    },
+    {
+      "q": "When does mindlessness become a problem, per lesson 2?",
+      "a": [
+        "In unpredictable situations that demand engagement",
+        "During daily chores",
+        "While sleeping",
+        "During exercise"
+      ],
+      "why": "Lesson 2 says it's fine for chores but a problem in relationships and challenges."
+    },
+    {
+      "q": "How does mindfulness help with addictions, per lesson 3?",
+      "a": [
+        "By helping you notice and manage the dopamine-fueled urge",
+        "By removing the substance",
+        "By replacing the addiction",
+        "By reducing willpower needs"
+      ],
+      "why": "Lesson 3 connects addiction to dopamine releases."
+    }
+  ]
+}

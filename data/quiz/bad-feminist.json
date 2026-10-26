@@ -1,0 +1,56 @@
+{
+  "book": "bad-feminist",
+  "title": "Bad Feminist",
+  "questions": [
+    {
+      "q": "Whose views does the overview say shaped the mainstream feminist movement?",
+      "a": [
+        "White, cis, heterosexual women",
+        "Women of color in the workforce",
+        "Academics and lawmakers",
+        "Working mothers in rural areas"
+      ],
+      "why": "The overview says that group's views were heard in public and championed the movement."
+    },
+    {
+      "q": "What does lesson 1 say about reality TV?",
+      "a": [
+        "It dehumanizes women with stereotypes",
+        "It empowers women",
+        "It educates viewers",
+        "It reflects real life"
+      ],
+      "why": "Lesson 1 says it reduces women to stereotypes."
+    },
+    {
+      "q": "How are women often portrayed on reality shows?",
+      "a": [
+        "As the worst versions of themselves, stirring up drama",
+        "As leaders",
+        "As experts",
+        "As peacemakers"
+      ],
+      "why": "Lesson 1 says they stir up drama and don't get along."
+    },
+    {
+      "q": "What does 'rape culture' refer to, per lesson 2?",
+      "a": [
+        "Sexual violence so common that assault is almost expected",
+        "A cultural festival",
+        "A legal term",
+        "A type of media"
+      ],
+      "why": "Lesson 2 defines it this way."
+    },
+    {
+      "q": "Which story is used to show media bias in lesson 3?",
+      "a": [
+        "Rolling Stone's story on a Boston Bomber versus Trayvon Martin",
+        "A news piece on a hurricane",
+        "A story on police reform",
+        "An article on political corruption"
+      ],
+      "why": "Lesson 3 contrasts treatment of the two."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "barking-up-the-wrong-tree",
+  "title": "Barking Up The Wrong Tree",
+  "questions": [
+    {
+      "q": "What did the Boston College study of valedictorians find?",
+      "a": [
+        "None went on to be exceptional in the real world",
+        "Most became CEOs",
+        "They earned the highest salaries",
+        "They all started companies"
+      ],
+      "why": "Lesson 1 says the 81 valedictorians worked hard but none were top achievers."
+    },
+    {
+      "q": "What do good grades predict, per lesson 1?",
+      "a": [
+        "Only one ability, performing well on standardized tests",
+        "Career success",
+        "Leadership skills",
+        "Creativity"
+      ],
+      "why": "Lesson 1 says it proves just one ability."
+    },
+    {
+      "q": "Who tend to earn more money, per lesson 2?",
+      "a": [
+        "Extroverts",
+        "Introverts",
+        "Neither group",
+        "Quiet leaders"
+      ],
+      "why": "Lesson 2 says extroverts make slightly more."
+    },
+    {
+      "q": "Why are introverts likelier to become experts?",
+      "a": [
+        "They spend more time alone putting in hours",
+        "They are smarter",
+        "They avoid distractions at work",
+        "They read more"
+      ],
+      "why": "Lesson 2 gives that reason."
+    },
+    {
+      "q": "What does lesson 3 say about working more hours?",
+      "a": [
+        "Working more works",
+        "It always burns you out",
+        "It doesn't affect results",
+        "It matters less than talent"
+      ],
+      "why": "The lesson title says working more works."
+    }
+  ]
+}

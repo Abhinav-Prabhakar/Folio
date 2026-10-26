@@ -1,0 +1,56 @@
+{
+  "book": "barbarians-at-the-gate",
+  "title": "Barbarians At The Gate",
+  "questions": [
+    {
+      "q": "Why did leveraged buyouts begin, per lesson 1?",
+      "a": [
+        "Wealthy people wanted to avoid taxes",
+        "Banks needed new loans",
+        "Companies wanted to expand",
+        "Governments encouraged them"
+      ],
+      "why": "Lesson 1 says lawyers sought ways to avoid taxes."
+    },
+    {
+      "q": "Who was the CEO of RJR Nabisco?",
+      "a": [
+        "Ross Johnson",
+        "Henry Kravis",
+        "Michael Milken",
+        "Carl Icahn"
+      ],
+      "why": "The overview names Ross Johnson."
+    },
+    {
+      "q": "What did Johnson keep on his payroll?",
+      "a": [
+        "Celebrities to promote his company",
+        "Lobbyists",
+        "Private chefs",
+        "Bodyguards"
+      ],
+      "why": "Lesson 2 mentions retaining celebrities."
+    },
+    {
+      "q": "What was Johnson's primary motivation?",
+      "a": [
+        "A life of luxury",
+        "Building a legacy",
+        "Serving employees",
+        "Public recognition"
+      ],
+      "why": "Lesson 2 says it was luxury and celebrity."
+    },
+    {
+      "q": "What became the poster child of corporate greed?",
+      "a": [
+        "The RJR Nabisco deal",
+        "The Enron collapse",
+        "The AOL merger",
+        "The Ford buyout"
+      ],
+      "why": "Lesson 3 says the deal became the poster child."
+    }
+  ]
+}
