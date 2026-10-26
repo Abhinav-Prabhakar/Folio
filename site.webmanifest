@@ -1,0 +1,14 @@
+{
+  "name": "Folio",
+  "short_name": "Folio",
+  "description": "A daily shelf of six classic books with photo-real covers, readable summaries and a gentle recall quiz.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
