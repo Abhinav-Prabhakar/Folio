@@ -1,0 +1,56 @@
+{
+  "book": "arise-awake",
+  "title": "Arise, Awake",
+  "questions": [
+    {
+      "q": "Whose business started from a family quicklime factory?",
+      "a": [
+        "Sourabh Bansal",
+        "Prabhkiran Singh",
+        "Anurag Arora",
+        "Vijay Shekhar"
+      ],
+      "why": "Lesson 1 says Bansal's dad owned a quicklime factory."
+    },
+    {
+      "q": "What was Bansal's big dream written in the dorm room?",
+      "a": [
+        "50 billion rupees",
+        "A national brand",
+        "A tech startup",
+        "A restaurant chain"
+      ],
+      "why": "Lesson 1 says he wrote 50 billion rupees."
+    },
+    {
+      "q": "What did Prabhkiran Singh sell in 2009?",
+      "a": [
+        "Flavored lassi",
+        "Tea",
+        "Fruit juice",
+        "Ice cream"
+      ],
+      "why": "Lesson 2 describes a new flavored lassi."
+    },
+    {
+      "q": "What happened to Singh's lassi business?",
+      "a": [
+        "Sales dropped from 50 glasses a day to five",
+        "It was bought out",
+        "It expanded nationally",
+        "It moved online"
+      ],
+      "why": "Lesson 2 says sales fell dramatically."
+    },
+    {
+      "q": "How did Anurag Arora get started, per lesson 3?",
+      "a": [
+        "By helping students find housing via the university's Facebook page",
+        "By selling textbooks",
+        "By opening a hostel",
+        "By tutoring"
+      ],
+      "why": "Lesson 3 describes his housing venture."
+    }
+  ]
+}

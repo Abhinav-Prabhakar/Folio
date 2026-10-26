@@ -1,0 +1,56 @@
+{
+  "book": "antifragile",
+  "title": "Antifragile",
+  "questions": [
+    {
+      "q": "What happens to antifragile things under stress?",
+      "a": [
+        "They get better",
+        "They break",
+        "They stay the same",
+        "They become dormant"
+      ],
+      "why": "Lesson 1 says antifragile items improve with stress."
+    },
+    {
+      "q": "What kind of system is typically antifragile, per lesson 2?",
+      "a": [
+        "One made of many fragile parts",
+        "One made of strong, unbreakable parts",
+        "One with a single leader",
+        "One protected from shocks"
+      ],
+      "why": "Lesson 2 says an antifragile system consists of many fragile parts."
+    },
+    {
+      "q": "Which process does Taleb use as an example of antifragility?",
+      "a": [
+        "Evolution",
+        "Construction",
+        "Banking",
+        "Education"
+      ],
+      "why": "Lesson 2 uses the evolutionary process."
+    },
+    {
+      "q": "Why does antifragility work, per lesson 3?",
+      "a": [
+        "Systems build extra capacity under stress",
+        "They avoid stress entirely",
+        "They recover slowly",
+        "They rely on luck"
+      ],
+      "why": "Lesson 3 says stress prompts extra capacity."
+    },
+    {
+      "q": "Which everyday example illustrates antifragility in lesson 3?",
+      "a": [
+        "Muscle growth from heavy lifting",
+        "Plant growth in sunlight",
+        "Water freezing in winter",
+        "Rust on metal"
+      ],
+      "why": "Lesson 3 uses lifting weights and pushing for one more rep."
+    }
+  ]
+}

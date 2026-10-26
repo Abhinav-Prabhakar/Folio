@@ -1,0 +1,56 @@
+{
+  "book": "automate-your-busywork",
+  "title": "Automate Your Busywork",
+  "questions": [
+    {
+      "q": "What is the name of Aytekin Tank's company?",
+      "a": [
+        "Jotform",
+        "Zapier",
+        "Typeform",
+        "Airtable"
+      ],
+      "why": "The overview says he built Jotform."
+    },
+    {
+      "q": "How long should the initial dreaded-tasks list take to write?",
+      "a": [
+        "15 minutes",
+        "A full day",
+        "One week",
+        "5 minutes"
+      ],
+      "why": "Lesson 1 says take 15 minutes."
+    },
+    {
+      "q": "What are the three phases of the Automation Flywheel?",
+      "a": [
+        "Divide and conquer, design and implement, refine and iterate",
+        "Plan, build, launch",
+        "Observe, test, scale",
+        "Choose, delegate, review"
+      ],
+      "why": "Lesson 2 lists these phases."
+    },
+    {
+      "q": "What happens in the 'Divide & Conquer' phase?",
+      "a": [
+        "Identify why you feel overwhelmed and break the task into steps",
+        "Choose software tools",
+        "Measure results",
+        "Train teammates"
+      ],
+      "why": "Lesson 2 describes this."
+    },
+    {
+      "q": "Which tool is suggested for storing email attachments automatically?",
+      "a": [
+        "IFTTT",
+        "Slack",
+        "Excel",
+        "Trello"
+      ],
+      "why": "Lesson 3 uses IFTTT for a rule on attachments."
+    }
+  ]
+}

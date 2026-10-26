@@ -1,0 +1,56 @@
+{
+  "book": "awaken-the-giant-within",
+  "title": "Awaken The Giant Within",
+  "questions": [
+    {
+      "q": "What drives all our actions, per lesson 1?",
+      "a": [
+        "Avoiding pain or gaining pleasure",
+        "Seeking status",
+        "Following habit",
+        "Fear of failure"
+      ],
+      "why": "Lesson 1 states this framework."
+    },
+    {
+      "q": "How can you break a bad habit like eating chocolate?",
+      "a": [
+        "Pair it with something painful, like singing a song you hate",
+        "Reward yourself with a treat",
+        "Remove all chocolate from the house",
+        "Set a time limit"
+      ],
+      "why": "Lesson 1 gives this example."
+    },
+    {
+      "q": "What is 'transformational vocabulary'?",
+      "a": [
+        "Using different words to change your state of mind",
+        "Learning new languages",
+        "Speaking louder",
+        "Using technical terms"
+      ],
+      "why": "Lesson 2 describes watching your language."
+    },
+    {
+      "q": "What does Tony say about your rules for happiness?",
+      "a": [
+        "Make better rules and tell others about them",
+        "Avoid setting rules",
+        "Follow others' rules",
+        "Keep your rules private"
+      ],
+      "why": "Lesson 3 says to make up better rules and communicate them."
+    },
+    {
+      "q": "Which rule is better, per lesson 3?",
+      "a": [
+        "I'll be happy if I spend an hour of focused work on this plan",
+        "I'll be happy when everything is done",
+        "I'll be happy if my boss praises me",
+        "I'll be happy when the day ends"
+      ],
+      "why": "Lesson 3 prefers rules that depend on your own actions."
+    }
+  ]
+}

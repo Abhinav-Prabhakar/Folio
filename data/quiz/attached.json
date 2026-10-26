@@ -1,0 +1,56 @@
+{
+  "book": "attached",
+  "title": "Attached",
+  "questions": [
+    {
+      "q": "What is attachment, per lesson 1?",
+      "a": [
+        "A strong bond that develops over time",
+        "A temporary attraction",
+        "A learned habit",
+        "A contract"
+      ],
+      "why": "Lesson 1 defines it this way."
+    },
+    {
+      "q": "Why is attachment needed?",
+      "a": [
+        "It's a prerequisite for a healthy, happy life",
+        "It makes people independent",
+        "It reduces conflict",
+        "It lowers stress at work"
+      ],
+      "why": "Lesson 1 says everyone needs attachment."
+    },
+    {
+      "q": "Which attachment styles do the authors identify?",
+      "a": [
+        "Anxious, avoidant and secure",
+        "Passive, active and balanced",
+        "Open, closed and flexible",
+        "Loyal, distant and mixed"
+      ],
+      "why": "Lesson 2 lists these three."
+    },
+    {
+      "q": "What happens if just one partner is secure?",
+      "a": [
+        "The relationship can still work well",
+        "The relationship is doomed",
+        "Both partners become secure",
+        "Therapy is required"
+      ],
+      "why": "Lesson 3 says one secure partner can be enough."
+    },
+    {
+      "q": "What is the key to a happy relationship, per lesson 3?",
+      "a": [
+        "Effective communication",
+        "Shared hobbies",
+        "Time apart",
+        "Matching personalities"
+      ],
+      "why": "Lesson 3 says communicating effectively makes things easier."
+    }
+  ]
+}

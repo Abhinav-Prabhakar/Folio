@@ -1,0 +1,56 @@
+{
+  "book": "anything-you-want",
+  "title": "Anything You Want",
+  "questions": [
+    {
+      "q": "Who is the author of Anything You Want?",
+      "a": [
+        "Derek Sivers",
+        "Tim Ferriss",
+        "Seth Godin",
+        "Gary Vaynerchuk"
+      ],
+      "why": "The overview focuses on Derek Sivers."
+    },
+    {
+      "q": "What business did Derek start from selling his own CD?",
+      "a": [
+        "CD Baby",
+        "Audible",
+        "SoundCloud",
+        "Napster"
+      ],
+      "why": "Lesson 1 refers to CD Baby."
+    },
+    {
+      "q": "What's a good sign you have a winner, per lesson 1?",
+      "a": [
+        "Lots of people want to join your idea early",
+        "A big investor shows interest",
+        "Competitors copy you",
+        "Reviews are positive"
+      ],
+      "why": "Lesson 1 says early eager interest is a good indicator."
+    },
+    {
+      "q": "Why can starting with zero money be an advantage?",
+      "a": [
+        "It keeps you focused on giving customers the best experience",
+        "It reduces risk",
+        "It attracts investors",
+        "It speeds up growth"
+      ],
+      "why": "Lesson 2 says it keeps you focused on customers."
+    },
+    {
+      "q": "What can happen if you never delegate?",
+      "a": [
+        "Burnout",
+        "Lower profits",
+        "More customers",
+        "A bigger team"
+      ],
+      "why": "Lesson 3 warns of burning out."
+    }
+  ]
+}

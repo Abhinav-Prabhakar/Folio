@@ -1,0 +1,56 @@
+{
+  "book": "at-home",
+  "title": "At Home",
+  "questions": [
+    {
+      "q": "What made easy access to food possible, per lesson 1?",
+      "a": [
+        "Making food preservable",
+        "Faster ships",
+        "Bigger farms",
+        "Refrigerated stores"
+      ],
+      "why": "Lesson 1 says easy food depends on preservation, starting in the late 1700s."
+    },
+    {
+      "q": "What were old mattresses stuffed with?",
+      "a": [
+        "Straw, feathers, horse hair and more",
+        "Springs and foam",
+        "Air bladders",
+        "Memory foam"
+      ],
+      "why": "Lesson 2 lists these materials."
+    },
+    {
+      "q": "Why was sleep less restful 100 years ago?",
+      "a": [
+        "Bedbugs and rodents shared the bed",
+        "Mattresses were too firm",
+        "Rooms were noisy",
+        "People worked longer hours"
+      ],
+      "why": "Lesson 2 mentions bedbugs, moths, mice and rats."
+    },
+    {
+      "q": "Why is salt on every table, per lesson 3?",
+      "a": [
+        "It's crucial for human bodies to function",
+        "It was a status symbol",
+        "It was cheap",
+        "It preserved meat"
+      ],
+      "why": "Lesson 3 gives this reason."
+    },
+    {
+      "q": "What was pepper a symbol of?",
+      "a": [
+        "Wealth and might",
+        "Poverty",
+        "Medicine",
+        "Trade"
+      ],
+      "why": "Lesson 3 says pepper showed how wealthy you were."
+    }
+  ]
+}

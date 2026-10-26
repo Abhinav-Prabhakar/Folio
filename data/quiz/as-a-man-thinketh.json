@@ -1,0 +1,56 @@
+{
+  "book": "as-a-man-thinketh",
+  "title": "As A Man Thinketh",
+  "questions": [
+    {
+      "q": "According to lesson 1, what is a person the sum of?",
+      "a": [
+        "Their thoughts",
+        "Their actions",
+        "Their experiences",
+        "Their surroundings"
+      ],
+      "why": "Lesson 1 says man is the sum of his thoughts."
+    },
+    {
+      "q": "What analogy compares thoughts to growth?",
+      "a": [
+        "Seeds turning into plants",
+        "Streams joining a river",
+        "Bricks building a wall",
+        "Sparks starting a fire"
+      ],
+      "why": "Lesson 1 compares a thought to a seed."
+    },
+    {
+      "q": "How are your thoughts and the world related, per lesson 2?",
+      "a": [
+        "In a cause-and-effect relationship in both directions",
+        "The world controls your thoughts",
+        "Thoughts have no effect on the world",
+        "They are independent"
+      ],
+      "why": "Lesson 2 says you shape the world as much as it shapes you."
+    },
+    {
+      "q": "What can your thoughts affect in your body, per lesson 3?",
+      "a": [
+        "Heart rate, sleep, pains and skin",
+        "Height and weight",
+        "Hair color",
+        "Eyesight"
+      ],
+      "why": "Lesson 3 lists these."
+    },
+    {
+      "q": "How is the saying 'be careful what you wish for' extended?",
+      "a": [
+        "Be careful what you think about",
+        "Be careful whom you trust",
+        "Be careful what you say",
+        "Be careful what you buy"
+      ],
+      "why": "Lesson 3 says the book extends the saying this way."
+    }
+  ]
+}

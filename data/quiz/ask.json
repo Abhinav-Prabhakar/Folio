@@ -1,0 +1,56 @@
+{
+  "book": "ask",
+  "title": "Ask",
+  "questions": [
+    {
+      "q": "What is the problem with showing the same offers to everyone?",
+      "a": [
+        "It ignores what individual prospects actually want",
+        "It costs too much",
+        "It reduces traffic",
+        "It confuses search engines"
+      ],
+      "why": "The overview compares it to a salesperson asking 'how can I help?'"
+    },
+    {
+      "q": "How should surveys begin, per lesson 1?",
+      "a": [
+        "With a question about what people struggle with",
+        "With a demographic form",
+        "With a product pitch",
+        "With a discount offer"
+      ],
+      "why": "Lesson 1 suggests starting with the biggest challenge question."
+    },
+    {
+      "q": "What does lesson 1 say about what people know?",
+      "a": [
+        "They know what they don't want better than what they do",
+        "They know exactly what they want",
+        "They never want surveys",
+        "They prefer long forms"
+      ],
+      "why": "Lesson 1 says most don't know what they want, but know what they don't."
+    },
+    {
+      "q": "When should you make your sales pitch, per lesson 2?",
+      "a": [
+        "After you know who you're talking to",
+        "Right away",
+        "After a free trial",
+        "After they ask"
+      ],
+      "why": "Lesson 2 says make a hyper-relevant pitch only after learning about the prospect."
+    },
+    {
+      "q": "What does the Profit Maximization Upsell do?",
+      "a": [
+        "Offers another relevant item right after the first purchase",
+        "Offers refunds",
+        "Sends discounts after a month",
+        "Asks for reviews"
+      ],
+      "why": "Lesson 3 recommends presenting another offer right after purchase."
+    }
+  ]
+}

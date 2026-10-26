@@ -1,0 +1,56 @@
+{
+  "book": "arete",
+  "title": "Areté",
+  "questions": [
+    {
+      "q": "What are the 'Big 3' for Areté?",
+      "a": [
+        "Energy, work and love",
+        "Mind, body and spirit",
+        "Health, wealth and wisdom",
+        "Focus, courage and discipline"
+      ],
+      "why": "Lesson 1 names energy, work and love."
+    },
+    {
+      "q": "Why does the book have 451 chapters?",
+      "a": [
+        "451 degrees Fahrenheit is where paper ignites",
+        "It's the author's birth year",
+        "It's a symbol of eternity",
+        "It matches a famous novel's page count"
+      ],
+      "why": "Lesson 1 explains each chapter adds one degree to reach ignition."
+    },
+    {
+      "q": "What does Areté mean to the ancient Stoics?",
+      "a": [
+        "Living virtuously with excellence",
+        "Finding inner peace",
+        "Pursuing wealth",
+        "Building strength"
+      ],
+      "why": "The overview defines it that way."
+    },
+    {
+      "q": "What did Kobe Bryant demonstrate in Alan Stein's story?",
+      "a": [
+        "Practicing the fundamentals long after becoming the best",
+        "Sleeping little to train more",
+        "Mentoring younger players",
+        "Skipping practice to recover"
+      ],
+      "why": "Lesson 2 uses his 4 AM fundamentals workout."
+    },
+    {
+      "q": "What is 'Soul Force', per lesson 3?",
+      "a": [
+        "The determination of our being that carries us through tough times",
+        "A type of meditation",
+        "A fitness system",
+        "A leadership style"
+      ],
+      "why": "Lesson 3 ties it to Gandhi's satyagraha."
+    }
+  ]
+}

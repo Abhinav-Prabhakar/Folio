@@ -1,0 +1,56 @@
+{
+  "book": "atomic-habits",
+  "title": "Atomic Habits",
+  "questions": [
+    {
+      "q": "What are the four laws of behavior change in lesson 2?",
+      "a": [
+        "Make it obvious, attractive, easy and satisfying",
+        "Plan it, start it, track it, reward it",
+        "Define it, schedule it, repeat it, review it",
+        "Imagine it, commit it, test it, adjust it"
+      ],
+      "why": "Lesson 2 lists the four laws."
+    },
+    {
+      "q": "Which stage of a habit loop is 'the motivation to change something'?",
+      "a": [
+        "Craving",
+        "Cue",
+        "Response",
+        "Reward"
+      ],
+      "why": "Lesson 1 defines craving that way."
+    },
+    {
+      "q": "How does the 'make it easy' example apply to fruit?",
+      "a": [
+        "Choose fruits that are easy to peel",
+        "Buy fruit in bulk",
+        "Slice fruit in advance only",
+        "Keep fruit in the freezer"
+      ],
+      "why": "Lesson 2 says to avoid friction, like bananas and apples."
+    },
+    {
+      "q": "What does the habit tracker involve, per lesson 3?",
+      "a": [
+        "Marking daily which behaviors you succeeded with",
+        "Setting weekly goals",
+        "Rating your motivation",
+        "Rewarding streaks with treats"
+      ],
+      "why": "Lesson 3 describes marking each day."
+    },
+    {
+      "q": "Whose productivity hack is the habit tracker based on?",
+      "a": [
+        "Jerry Seinfeld's",
+        "Benjamin Franklin's",
+        "Warren Buffett's",
+        "Tim Ferriss's"
+      ],
+      "why": "Lesson 3 attributes it to a Seinfeld hack of marking an X."
+    }
+  ]
+}

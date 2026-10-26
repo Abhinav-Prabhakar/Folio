@@ -1,0 +1,56 @@
+{
+  "book": "atlas-of-the-heart",
+  "title": "Atlas of the Heart",
+  "questions": [
+    {
+      "q": "How many human emotions does Brown identify in the book?",
+      "a": [
+        "87",
+        "12",
+        "50",
+        "150"
+      ],
+      "why": "Lesson 1 says she identifies 87 emotions."
+    },
+    {
+      "q": "How does lesson 1 describe anger?",
+      "a": [
+        "A feeling when something blocks your desired outcome",
+        "A sign of strength",
+        "A reaction to fear",
+        "A sign of ambition"
+      ],
+      "why": "Lesson 1 defines anger that way."
+    },
+    {
+      "q": "What is vulnerability really about, per lesson 2?",
+      "a": [
+        "Courage and self-awareness",
+        "Weakness",
+        "Secrecy",
+        "Dependence"
+      ],
+      "why": "Lesson 2 says it has more to do with courage and self-awareness."
+    },
+    {
+      "q": "What emotion does vulnerability open the door to?",
+      "a": [
+        "Compassion",
+        "Envy",
+        "Pride",
+        "Shame"
+      ],
+      "why": "Lesson 2 says it opens the door for compassion."
+    },
+    {
+      "q": "How does humility differ from pride in lesson 3?",
+      "a": [
+        "Humility lets you assess strengths and imperfections",
+        "Humility ignores achievement",
+        "Pride is a form of modesty",
+        "Pride accepts flaws"
+      ],
+      "why": "Lesson 3 contrasts the two."
+    }
+  ]
+}

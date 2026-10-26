@@ -1,0 +1,56 @@
+{
+  "book": "are-you-fully-charged",
+  "title": "Are You Fully Charged",
+  "questions": [
+    {
+      "q": "What three things is the book based on?",
+      "a": [
+        "Meaning, interactions and energy",
+        "Money, health and time",
+        "Passion, purpose and progress",
+        "Sleep, food and exercise"
+      ],
+      "why": "The overview lists meaning, interactions and energy."
+    },
+    {
+      "q": "Why is pursuing happiness a roadblock, per lesson 1?",
+      "a": [
+        "Chasing it keeps us from finding it",
+        "It requires money",
+        "It's unrealistic",
+        "It's selfish"
+      ],
+      "why": "Lesson 1 says the pursuit of happiness is the biggest roadblock to it."
+    },
+    {
+      "q": "What does the 2014 study say about phones and conversations?",
+      "a": [
+        "Conversations are better when no phone is visible",
+        "Phones improve conversation",
+        "Phones make no difference",
+        "Phones are fine if silent"
+      ],
+      "why": "Lesson 2 says conversations without phones are superior."
+    },
+    {
+      "q": "How long do people sit per day compared with sleeping?",
+      "a": [
+        "9.3 hours sitting, 7.7 hours sleeping",
+        "6 hours sitting, 8 hours sleeping",
+        "12 hours sitting, 6 hours sleeping",
+        "4 hours sitting, 7 hours sleeping"
+      ],
+      "why": "Lesson 3 gives these numbers."
+    },
+    {
+      "q": "What is one tip for taking more steps?",
+      "a": [
+        "Design your environment to make you move",
+        "Buy a standing desk",
+        "Move to a walkable city",
+        "Join a gym"
+      ],
+      "why": "Lesson 3 lists designing your environment, detours and tracking steps."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "astrophysics-for-people-in-a-hurry",
+  "title": "Astrophysics for People in a Hurry",
+  "questions": [
+    {
+      "q": "Who wrote Astrophysics for People in a Hurry?",
+      "a": [
+        "Neil deGrasse Tyson",
+        "Carl Sagan",
+        "Stephen Hawking",
+        "Brian Cox"
+      ],
+      "why": "The overview names Tyson."
+    },
+    {
+      "q": "What fraction of the universe's mass is galaxies and gas clouds?",
+      "a": [
+        "About one-sixth",
+        "About half",
+        "About ninety percent",
+        "About one-third"
+      ],
+      "why": "Lesson 1 says only one-sixth of mass is galaxies and gas clouds."
+    },
+    {
+      "q": "Where was helium first discovered?",
+      "a": [
+        "In the Sun's spectrum",
+        "In Earth's atmosphere",
+        "In a meteorite",
+        "In a lab"
+      ],
+      "why": "Lesson 2 says it was found in the Sun's spectrum first."
+    },
+    {
+      "q": "What does helium's discovery suggest about the universe?",
+      "a": [
+        "Celestial matter follows laws like ours",
+        "The Sun is unique",
+        "Earth is special",
+        "Elements are rare"
+      ],
+      "why": "Lesson 2 says it shows similar laws."
+    },
+    {
+      "q": "How did the universe start, per lesson 3?",
+      "a": [
+        "As a tiny, extremely hot dot that expanded and cooled",
+        "As a cloud of gas",
+        "As a collision of galaxies",
+        "As a pulsating star"
+      ],
+      "why": "Lesson 3 describes the Big Bang."
+    }
+  ]
+}

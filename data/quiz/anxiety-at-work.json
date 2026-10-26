@@ -1,0 +1,56 @@
+{
+  "book": "anxiety-at-work",
+  "title": "Anxiety at Work",
+  "questions": [
+    {
+      "q": "What does lesson 1 advise about discrimination at work?",
+      "a": [
+        "Follow up on all conflicts and show there's no room for it",
+        "Handle only major incidents",
+        "Leave it to HR",
+        "Wait until employees complain"
+      ],
+      "why": "Lesson 1 says to follow up even on minor conflicts."
+    },
+    {
+      "q": "What is the main message of lesson 2?",
+      "a": [
+        "Work within your own limits to avoid burnout",
+        "Work longer to get ahead",
+        "Compare your pace with others",
+        "Take on side hustles"
+      ],
+      "why": "Lesson 2 says overworking isn't productive or healthy."
+    },
+    {
+      "q": "Why might allowing extra hours for one person be a problem?",
+      "a": [
+        "Others may want the same and teams may not cover it",
+        "It breaks company policy",
+        "It reduces total output",
+        "It leads to legal trouble"
+      ],
+      "why": "Lesson 2 raises fairness and coverage concerns."
+    },
+    {
+      "q": "What causes anxiety for younger workers, per lesson 3?",
+      "a": [
+        "Fear of missing out, fueled by social media",
+        "Job security",
+        "Long commutes",
+        "Pay secrecy"
+      ],
+      "why": "Lesson 3 ties FOMO to watching friends online."
+    },
+    {
+      "q": "What helps retain a workforce, per lesson 3?",
+      "a": [
+        "New challenges and opportunities",
+        "Higher pay only",
+        "Strict schedules",
+        "Longer contracts"
+      ],
+      "why": "Lesson 3 recommends offering new challenges and positions."
+    }
+  ]
+}
