@@ -27,9 +27,11 @@ Or run one part at a time:
 | Script | Produces |
 |:--|:--|
 | `npm run icons` | `assets/favicon-32.png`, `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` (from the leather-and-gilt mark) |
-| `npm run stills` | Desktop screenshots in light and dark, the hero images, `assets/og.png`, phone mockups (`mobile*.png`), then JPEG conversion |
-| `npm run gifs` | `swipe`, `open`, `read`, `quiz` and `theme` GIFs, plus dark versions of `swipe`, `open`, `read` and `quiz` |
+| `npm run stills` | Desktop screenshots in light and dark, the Memory sheet, the hero images, `assets/og.png`, phone mockups (`mobile*.png`), then JPEG conversion |
+| `npm run gifs` | `swipe`, `open`, `read`, `quiz`, `library-open` and `theme` GIFs, plus dark versions of `swipe`, `open`, `read`, `quiz` and `library-open` |
 | `npm run library` | `library.png`: every cover in the library in one row |
+| `npm run memory` | Just `memory.jpg` and `memory-dark.jpg`: the Memory sheet with a seeded review history |
+| `npm run libraryopen` | Just `library-open.gif` and `library-open-dark.gif`: searching the library and opening a book from its tile |
 
 Point the scripts at another address with `FOLIO_URL=https://… npm run stills`.
 
