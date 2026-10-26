@@ -8,6 +8,7 @@
     "stills": "node capture.js stills hero mobile && THEME=dark node capture.js stills hero mobile && python3 phones.py && python3 optimize.py",
     "gifs": "node capture.js gifs && THEME=dark node capture.js swipe open read quiz",
     "library": "node library.js",
+    "check": "node check.js",
     "all": "npm run icons && npm run stills && npm run gifs && npm run library"
   },
   "dependencies": { "puppeteer-core": "23.11.1" }
