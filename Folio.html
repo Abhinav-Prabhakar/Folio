@@ -3,7 +3,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Jost:wght@200;300;400;500&family=Poiret+One&family=Cinzel:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Jost:wght@200;300;400;500&family=Poiret+One&family=Cinzel:wght@400;500&display=swap">
 <style>
 /* Layout: one quiet white room — a 3D coverflow shelf in the middle, a hairline caption beneath, a timeline of publication years as the index. */
 :root{
@@ -15,6 +15,7 @@
   --accent:#1f4a6b;
   --display:"Cormorant Garamond","Iowan Old Style","Times New Roman",serif;
   --ui:"Jost","Helvetica Neue",Arial,sans-serif;
+  --text:"Newsreader","Iowan Old Style",Georgia,serif;
   --w:200px; --h:300px;
   color-scheme:light;
 }
@@ -196,6 +197,30 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .opening .yr{margin-top:.7em;font-family:var(--ui);font-weight:200;font-size:.62em;letter-spacing:.18em;color:#a9a7ae;font-variant-numeric:tabular-nums}
 .r-measure{position:fixed;left:-20000px;top:0;visibility:hidden;pointer-events:none}
 
+/* reading mode: big, flat, quiet pages */
+.r-morph{position:absolute;inset:0;pointer-events:none}
+.mp{position:absolute;background:#fdfcf9;transform-origin:0 0;box-shadow:0 24px 60px -34px rgba(20,18,30,.3)}
+.r-veil{transition:background-color .9s ease}
+.reader.reading .r-veil{background-color:rgba(255,255,255,.95)}
+.r-rig.reading .r-board,.r-rig.reading .r-spine,.r-rig.reading .leaf.cv{visibility:hidden}
+.r-rig.reading .pgf{background:#fdfcf9}
+.r-rig.reading .ov.grain{display:none}
+.r-rig.reading .r-right,.r-rig.reading .r-left{box-shadow:0 24px 60px -34px rgba(20,18,30,.28)}
+.r-rig.reading .gut.l{background:linear-gradient(90deg,rgba(60,50,40,.09),rgba(60,50,40,0) 5%)}
+.r-rig.reading .gut.r{background:linear-gradient(270deg,rgba(60,50,40,.09),rgba(60,50,40,0) 5%)}
+.reading .flow{font-family:var(--text);font-weight:400;line-height:1.66;text-align:left;color:#25242a;font-optical-sizing:auto}
+.reading .flow p + p{text-indent:0;margin-top:.85em}
+.reading .flow h2{font-size:.64em;margin:2.3em 0 1em}
+.reading .opening h1,.reading .opening p,.reading .opening blockquote{font-family:var(--display)}
+.reading .opening + h2 + p::first-letter{font-family:var(--display);font-size:3.7em;line-height:.78}
+.reading .rh{letter-spacing:.36em}
+.front{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(26px,6%,44px)}
+.mini{position:relative;width:min(40%,220px);aspect-ratio:2/3;border-radius:1px 3px 3px 1px;overflow:hidden;transform:rotate(-2deg);
+  box-shadow:0 1px 1px rgba(0,0,0,.18),0 12px 26px -10px rgba(20,18,30,.42),0 34px 60px -30px rgba(20,18,30,.35)}
+.mini svg{display:block;width:100%;height:100%}
+.front .fg{display:flex;gap:22px;align-items:center;color:var(--ink)}
+.front .fg small{font-size:10px;font-weight:300;letter-spacing:.06em;color:var(--mute)}
+
 /* reader chrome */
 .r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
 .reader.ready .r-ui{opacity:1}
@@ -245,7 +270,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 <div class="reader" id="reader" hidden tabindex="-1" role="dialog" aria-modal="true" aria-label="Book summary" lang="en">
   <div class="r-veil" id="rVeil"></div>
   <div class="r-glow" id="rGlow"></div>
-  <div class="r-scene">
+  <div class="r-scene" id="rScene">
     <div class="r-rig" id="rig">
       <div class="r-board" id="rBoard"></div>
       <div class="r-spine" id="rSpine"></div>
@@ -255,6 +280,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
       <div class="leaf" id="rLeaf"><div class="pgf f" id="rLeafF"></div><div class="pgf b" id="rLeafB"></div></div>
     </div>
   </div>
+  <div class="r-morph" id="rMorph"></div>
   <div class="r-ui">
     <button class="r-close" id="rClose" aria-label="Close the book"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
     <button class="r-nav prev" id="rPrev" aria-label="Previous page"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width=".9"><path d="M15 4l-8 8 8 8"/></svg></button>
@@ -1020,9 +1046,10 @@ addEventListener('keydown', e=>{
 });
 
 /* ---------- reader ---------- */
-const reader=$('reader'), rig=$('rig'), rVeil=$('rVeil'), rGlow=$('rGlow'), rRight=$('rRight'), rLeft=$('rLeft'),
-      rCover=$('rCover'), rLeaf=$('rLeaf'), meas=$('rMeasure');
-const R = {open:false, busy:false, i:0, book:null, r:0, count:1, geo:null, html:''};
+/* Two modes: 'book' (the realistic object that flies in and opens) and 'read' (a large, flat spread built for reading). */
+const reader=$('reader'), rig=$('rig'), scene=$('rScene'), morph=$('rMorph'), rVeil=$('rVeil'), rGlow=$('rGlow'),
+      rRight=$('rRight'), rLeft=$('rLeft'), rCover=$('rCover'), rLeaf=$('rLeaf'), meas=$('rMeasure');
+const R = {open:false, busy:false, i:0, book:null, r:0, count:1, geo:null, html:'', mode:'book'};
 const EASE='cubic-bezier(.5,.05,.3,1)', GLIDE='cubic-bezier(.2,.7,.2,1)';
 const anim = (el,kf,dur,easing='ease') => { const a=el.animate(kf,{duration:reduce?1:dur,easing,fill:'forwards'});
   return a.finished.then(()=>{ try{ a.commitStyles(); }catch(_){} a.cancel(); }); };
@@ -1061,7 +1088,7 @@ function bookHTML(b){
   return (`<section class="opening"><span class="ico">${svgI(ICONS[b.genre],30)}</span>${head}<div class="by">${b.author}</div><div class="yr">${b.year}</div></section>${body}`)
     .replace(/(<\/\w+>)\s*$/, '<span class="end"></span>$1');
 }
-let epc = 0;
+let epc = 0, uid = 0;
 function endpaper(b){
   const id = 'ep'+(++epc), ic = ICONS[b.genre];
   return `<div class="endp" style="background:${b.base};color:${b.ink}">
@@ -1071,33 +1098,59 @@ function endpaper(b){
     <div class="plate" style="color:${b.accent}">${svgI(ic,24)}<span>ex libris</span></div>
     <div class="ov grain"></div><div class="ov" style="background:radial-gradient(ellipse at 50% 45%,transparent 40%,rgba(0,0,0,.3))"></div></div>`;
 }
+/* a small flat cover, used inside pages */
+const miniCover = (b, cls='') => `<div class="mini ${cls}"><svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${COVERS[b.k]('m'+(++uid)+'-')}</svg><div class="ov light"></div><div class="ov hinge"></div></div>`;
+
+/* left page opposite the title page while reading: the cover and the numbers, as glyphs */
+function frontHTML(){
+  const b = R.book;
+  if (b.quiz) return quizFront();
+  const hrs = b.words/250/60, mins = Math.max(2, Math.round((R.words||400)/230));
+  return `<div class="front">${miniCover(b)}<div class="fg">
+    <span class="g" data-tip="${b.rating.toFixed(2)} average reader rating">${stars(b.rating)}</span>
+    <span class="g" data-tip="${b.pages} pages">${stack(b.pages)}</span>
+    <span class="g" data-tip="About ${hrs.toFixed(1)} hours for the whole book">${ring(hrs)}</span>
+    <span class="g" data-tip="This summary: about ${mins} minutes">${ring(mins/60*4)}<small>${mins}′</small></span></div></div>`;
+}
 
 /* geometry: two-page spread on wide screens, a single page on phones */
-function geo(){
+function geo(mode=R.mode){
   const vw=innerWidth, vh=innerHeight, dbl = vw>=760;
-  let W = Math.min(Math.max(260, vh-150), 820)/1.5;
-  W = Math.min(W, dbl ? (vw-120)/2 : vw-44);
-  const H = W*1.5;
+  let W, H;
+  if (mode==='read'){
+    W = dbl ? Math.min((vw-112)/2, 600) : vw-24;
+    H = Math.min(vh-(dbl?100:104), W*(dbl?1.5:1.85));
+  } else {
+    W = Math.min(Math.max(260, vh-150), 820)/1.5;
+    W = Math.min(W, dbl ? (vw-120)/2 : vw-44);
+    H = W*1.5;
+  }
   return {W, H, dbl, x: dbl ? vw/2 : (vw-W)/2, y: (vh-H)/2};
 }
 function applyGeo(){
-  const g = R.geo = geo();
+  const g = R.geo = geo(), rd = R.mode==='read';
   Object.assign(rig.style, {left:g.x+'px', top:g.y+'px', width:g.W+'px', height:g.H+'px'});
-  const padX=g.W*.12, padT=g.W*.15, padB=g.W*.16, gap=40, iw=g.W-2*padX, ih=g.H-padT-padB, fs=clamp(g.W*.037,14,18);
+  const padX = g.W*(rd ? (g.dbl?.1:.075) : .12), padT = rd ? Math.max(54,g.W*.11) : g.W*.15, padB = rd ? Math.max(60,g.W*.12) : g.W*.16, gap = 40;
+  const iw = g.W-2*padX, ih = g.H-padT-padB, fs = rd ? clamp(g.W*.032,16,19.5) : clamp(g.W*.037,14,18);
   const rs = document.documentElement.style;
   [['--r-o',g.W*.02],['--r-d',g.W*.085],['--r-padx',padX],['--r-padt',padT],['--r-padb',padB],['--r-iw',iw],['--r-ih',ih],['--r-gap',gap],['--r-fs',fs]]
     .forEach(([k,v]) => rs.setProperty(k, v.toFixed(2)+'px'));
   R.step = iw+gap;
+  if (R.book.quiz){ R.count = quizPages().length; return; }
+  meas.className = 'r-measure'+(rd?' reading':'');
   meas.innerHTML = `<div class="flow">${R.html}</div>`;
   const flow = meas.firstChild, end = flow.querySelector('.end');
   const off = end.getBoundingClientRect().left - flow.getBoundingClientRect().left;
   R.count = Math.max(1, Math.floor((off+1)/R.step)+1);
 }
 const maxR = () => R.geo.dbl ? (R.count%2 ? R.count-1 : R.count) : R.count-1;
-const L = r => r===0 ? null : r-1;   // page shown on the left of right-page r (null = bare endpaper)
+// page shown on the left of right-page r: the bare endpaper (null) in book mode, a visual front page while reading
+const L = r => r===0 ? (R.mode==='read' ? 'front' : null) : r-1;
 
 function pageInner(n){
+  if (n==='front') return frontHTML();
   if (n>=R.count) return '';
+  if (R.book.quiz) return quizPages()[n]();
   return `${n>0?`<div class="rh">${R.book.title}</div>`:''}<div class="pg-in"><div class="flow" style="transform:translateX(${(-n*R.step).toFixed(2)}px)">${R.html}</div></div>${n>0?`<div class="fo">${n}</div>`:''}`;
 }
 function setFace(face, n, side){
@@ -1108,6 +1161,7 @@ function setLeft(n){
   if (n==null){ rLeft.style.visibility='hidden'; rLeft.innerHTML=''; }
   else { rLeft.style.visibility='visible'; setFace(rLeft, n, 'r'); }
 }
+function render(){ setFace(rRight, R.r, 'l'); setLeft(L(R.r)); }
 function updUI(){
   const step = R.geo.dbl?2:1, shown = Math.min(R.r+1, R.count);
   $('rFill').style.width = (shown/R.count*100).toFixed(1)+'%';
@@ -1118,17 +1172,18 @@ function updUI(){
 
 /* a leaf turns on the spine: lifts, swings, lands; shading tracks the angle */
 function turn(leaf, dir, dur, lift=.05){
-  const z = leaf===rCover ? 2 : 6, up = z + lift*R.geo.W;
+  const z = leaf===rCover ? 2 : 6, up = z + lift*R.geo.W, sh = R.mode==='read' ? .16 : .34;
   leaf.style.visibility = 'visible';
   const o = {duration:reduce?1:dur, easing:EASE, direction:dir>0?'normal':'reverse', fill:'both'};
   const as = [leaf.animate([{transform:`translateZ(${z}px) rotateY(0deg)`},{transform:`translateZ(${up}px) rotateY(-90deg)`,offset:.5},{transform:`translateZ(${z}px) rotateY(-180deg)`}], o)];
   const f = leaf.querySelector('.f > .r-sh'), b = leaf.querySelector('.b > .r-sh'), c = rRight.querySelector('.cast');
-  as.push(f.animate([{opacity:0},{opacity:.34,offset:.5},{opacity:.34}], o));
-  as.push(b.animate([{opacity:.34},{opacity:.34,offset:.5},{opacity:0}], o));
-  if (c) as.push(c.animate([{opacity:.6},{opacity:0,offset:.45},{opacity:0}], o));
+  as.push(f.animate([{opacity:0},{opacity:sh,offset:.5},{opacity:sh}], o));
+  as.push(b.animate([{opacity:sh},{opacity:sh,offset:.5},{opacity:0}], o));
+  if (c) as.push(c.animate([{opacity:sh*1.7},{opacity:0,offset:.45},{opacity:0}], o));
   return Promise.all(as.map(a=>a.finished)).then(()=>{
     // an opened cover rests just under the pages so they stay on the crisp z=0 plane
     leaf.style.transform = `translateZ(${leaf===rCover&&dir>0?-2:z}px) rotateY(${dir>0?-180:0}deg)`;
+    if (leaf===rCover) leaf.style.visibility = '';
     as.forEach(a=>a.cancel());
   });
 }
@@ -1141,31 +1196,52 @@ function fromT(){
 const midT = () => `translate3d(${R.geo.dbl ? -R.geo.W/2 : 0}px,0,0) rotateX(0deg) rotateY(0deg) scale(1)`;
 const FIN = 'translate3d(0px,0,0) rotateX(0deg) rotateY(0deg) scale(1)';
 
+/* book <-> reading: plain paper sheets cover the pages, glide to the new size, then dissolve to reveal the re-laid pages */
+const sheets = g => (g.dbl ? [{x:g.x-g.W, y:g.y, w:g.W, h:g.H}] : []).concat([{x:g.x, y:g.y, w:g.W, h:g.H}]);
+const flipT = (to, from) => `translate(${(from.x-to.x).toFixed(1)}px,${(from.y-to.y).toFixed(1)}px) scale(${(from.w/to.w).toFixed(4)},${(from.h/to.h).toFixed(4)})`;
+async function morphTo(mode){
+  const a = sheets(R.geo), b = sheets(geo(mode));
+  morph.innerHTML = b.map(()=>'<div class="mp"></div>').join('');
+  const mps = [...morph.children];
+  mps.forEach((m,k)=>{ Object.assign(m.style,{left:b[k].x+'px', top:b[k].y+'px', width:b[k].w+'px', height:b[k].h+'px', transform:flipT(b[k],a[k]), opacity:0}); });
+  await Promise.all([anim(scene,[{opacity:1},{opacity:0}],340), ...mps.map(m=>anim(m,[{opacity:0},{opacity:1}],340))]);
+  R.mode = mode; R.r = 0;
+  rig.classList.toggle('reading', mode==='read'); reader.classList.toggle('reading', mode==='read');
+  applyGeo(); render();
+  await Promise.all(mps.map((m,k)=>anim(m,[{transform:flipT(b[k],a[k])},{transform:'none'}], mode==='read'?780:620, GLIDE)));
+  scene.style.opacity = 1;
+  await Promise.all(mps.map(m=>anim(m,[{opacity:1},{opacity:0}],380)));
+  morph.innerHTML = '';
+}
+
 async function openBook(i){
   if (R.open || R.busy || i!==st.idx) return;
-  R.open = R.busy = true; R.i = i; R.book = BOOKS[i]; R.r = 0;
+  R.open = R.busy = true; R.i = i; R.book = BOOKS[i]; R.r = 0; R.mode = 'book';
   st.flip = st.flipT = 0; st.tx = st.ty = 0;
   try { await document.fonts.ready; } catch(_){}
   const b = R.book;
-  R.html = bookHTML(b);
+  R.html = b.quiz ? '' : bookHTML(b);
+  R.words = b.quiz ? 0 : (document.querySelector(`script[data-md="${b.k}"]`)||{textContent:''}).textContent.split(/\s+/).length;
   $('rCoverF').className = 'pgf f '+(b.tex||'');
   $('rCoverF').innerHTML = `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${COVERS[b.k]('rc'+i+'-')}</svg>
     <div class="ov grain"></div>${b.tex==='cloth'?'<div class="ov cloth"></div>':''}<div class="ov light"></div><div class="ov hinge"></div><div class="ov edgeline"></div><div class="r-sh"></div>`;
   $('rCoverB').innerHTML = endpaper(b)+'<div class="gut r"></div><div class="r-sh"></div>';
   $('rSpine').style.cssText = `background:${b.base};color:${b.ink}`; $('rSpine').innerHTML = `<span>${b.title}</span>`;
   $('rBoard').style.background = b.base;
-  reader.setAttribute('aria-label', b.title+' — summary');
+  reader.setAttribute('aria-label', b.title+(b.quiz?'':' — summary'));
+  rig.classList.remove('reading'); reader.classList.remove('reading','ready');
   applyGeo();
   rCover.style.transform = 'translateZ(2px) rotateY(0deg)';
-  rLeaf.style.visibility = 'hidden';
-  setLeft(null); setFace(rRight, 0, 'l');
-  reader.classList.remove('ready'); reader.hidden = false;
+  rLeaf.style.visibility = 'hidden'; scene.style.opacity = 1; morph.innerHTML = '';
+  render();
+  reader.hidden = false;
   const from = fromT(); rig.style.transform = from;
   slots[i].slot.classList.add('away');
   anim(rVeil, [{opacity:0},{opacity:1}], 700);
   anim(rGlow, [{opacity:0},{opacity:.12}], 1600);
   await anim(rig, [{transform:from},{transform:midT()}], 720, GLIDE);
   await Promise.all([ turn(rCover, 1, 1350, .1), anim(rig, [{transform:midT()},{transform:FIN}], 1350, EASE) ]);
+  await morphTo('read');
   updUI(); reader.classList.add('ready'); R.busy = false;
   reader.focus({preventScroll:true});
 }
@@ -1173,13 +1249,7 @@ async function openBook(i){
 async function closeBook(){
   if (!R.open || R.busy) return;
   R.busy = true; reader.classList.remove('ready');
-  if (R.r>0){   // back to the title spread before the cover closes
-    const pc = rRight.querySelector('.pc');
-    await Promise.all([ anim(rLeft,[{opacity:1},{opacity:0}],260), anim(pc,[{opacity:1},{opacity:0}],260) ]);
-    setLeft(null); setFace(rRight, 0, 'l');
-    await anim(rRight.querySelector('.pc'), [{opacity:0},{opacity:1}], 240);
-    R.r = 0;
-  }
+  if (R.mode==='read') await morphTo('book');
   await Promise.all([ turn(rCover, -1, 1150, .1), anim(rig, [{transform:FIN},{transform:midT()}], 1150, EASE) ]);
   const to = fromT();
   await Promise.all([ anim(rig, [{transform:midT()},{transform:to}], 680, 'cubic-bezier(.4,0,.2,1)'),
@@ -1187,6 +1257,7 @@ async function closeBook(){
   slots[R.i].slot.classList.remove('away');
   reader.hidden = true; R.open = R.busy = false;
   document.activeElement && document.activeElement.blur();
+  if (R.book.quiz) select(st.idx);   // refresh the quiz progress glyphs
 }
 
 async function go(dir){
@@ -1194,14 +1265,14 @@ async function go(dir){
   const step = R.geo.dbl?2:1, r = R.r, nr = r + dir*step;
   if (nr<0 || nr>maxR()) return;
   R.busy = true;
-  const lf = $('rLeafF'), lb = $('rLeafB');
+  const lf = $('rLeafF'), lb = $('rLeafB'), rd = R.mode==='read', dur = rd ? 760 : 950, lift = rd ? .02 : .05;
   if (dir>0){
     setFace(lf, r, 'l'); setFace(lb, L(nr), 'r'); setFace(rRight, nr, 'l');
-    await turn(rLeaf, 1, 950);
+    await turn(rLeaf, 1, dur, lift);
     setLeft(L(nr));
   } else {
     setFace(lf, nr, 'l'); setFace(lb, L(r), 'r'); setLeft(L(nr));
-    await turn(rLeaf, -1, 950);
+    await turn(rLeaf, -1, dur, lift);
     setFace(rRight, nr, 'l');
   }
   rLeaf.style.visibility = 'hidden';
@@ -1210,7 +1281,7 @@ async function go(dir){
 
 /* reader input: tap a page to turn, swipe, or tap outside to close */
 let rdx=0, rdy=0, rdown=false;
-reader.addEventListener('pointerdown', e=>{ if (e.target.closest('button,.r-prog')) return; rdown=true; rdx=e.clientX; rdy=e.clientY; });
+reader.addEventListener('pointerdown', e=>{ if (e.target.closest('button,.r-prog,.opt,.g')) return; rdown=true; rdx=e.clientX; rdy=e.clientY; });
 reader.addEventListener('pointerup', e=>{
   if (!rdown) return; rdown=false;
   const dx = e.clientX-rdx, dy = e.clientY-rdy, g = R.geo;
@@ -1231,7 +1302,7 @@ addEventListener('resize', ()=>{
     if (R.busy){ rzT = setTimeout(re, 200); return; }
     applyGeo();
     const step = R.geo.dbl?2:1; R.r = Math.min(R.r - R.r%step, maxR());
-    setFace(rRight, R.r, 'l'); setLeft(L(R.r)); rig.style.transform = FIN; updUI();
+    render(); rig.style.transform = FIN; updUI();
   }, 150);
 });
 
