@@ -1,0 +1,14 @@
+{
+  "name": "folio-media",
+  "private": true,
+  "description": "Regenerates Folio's icons, social card and README screenshots/GIFs from the running app.",
+  "scripts": {
+    "serve": "cd ../.. && python3 -m http.server 8791",
+    "icons": "node icons.js",
+    "stills": "node capture.js stills hero mobile && THEME=dark node capture.js stills hero mobile && python3 phones.py && python3 optimize.py",
+    "gifs": "node capture.js gifs && THEME=dark node capture.js swipe open read quiz",
+    "library": "node library.js",
+    "all": "npm run icons && npm run stills && npm run gifs && npm run library"
+  },
+  "dependencies": { "puppeteer-core": "23.11.1" }
+}
