@@ -1,5 +1,5 @@
 /* Folio service worker: offline shell, cached assets, runtime-cached fonts */
-const VERSION = 'folio-v2';
+const VERSION = 'folio-v3';
 const SHELL = ['./', 'index.html', 'site.webmanifest', 'assets/favicon.svg', 'assets/favicon-32.png',
   'assets/apple-touch-icon.png', 'assets/icon-192.png', 'assets/icon-512.png', 'data/catalog.json'];
 /* summaries (data/summaries/*.md) and quiz files are cached as they are opened */

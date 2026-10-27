@@ -23,6 +23,7 @@
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
+<link rel="preload" href="data/catalog.json" as="fetch" crossorigin="anonymous">
 <link rel="canonical" href="https://abhinav-prabhakar.github.io/Folio/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Folio">
@@ -64,7 +65,7 @@
 html,body{height:100%}
 html{overflow-x:clip}
 body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-weight:300;overflow-x:clip;-webkit-font-smoothing:antialiased}
-main{min-height:100%;display:grid;grid-template-rows:auto minmax(360px,1fr) auto auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 28px;position:relative}
+main{min-height:100%;min-height:100dvh;box-sizing:border-box;display:grid;grid-template-rows:auto minmax(360px,1fr) auto auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 28px;position:relative}
 
 header{display:flex;align-items:center;justify-content:space-between;padding-block:22px 0;max-width:1200px;width:100%;margin:0 auto}
 .mark{display:flex;align-items:center;gap:10px;font-family:var(--ui);font-weight:200;font-size:15px;letter-spacing:.42em;text-transform:lowercase}
@@ -153,7 +154,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 [data-tip]:hover::after,[data-tip]:focus-visible::after{opacity:1;transform:translate(-50%,0)}
 
 /* ---------- timeline ---------- */
-.rail{position:relative;width:min(620px,100%);margin:22px auto 0;height:58px}
+.rail{position:relative;width:min(620px,calc(100% - 32px));margin:22px auto 0;height:58px}
 .rail .line{position:absolute;left:0;right:0;top:34px;height:1px;background:var(--hair)}
 .rail .tick{position:absolute;top:31px;width:1px;height:7px;background:var(--hair)}
 .rail .tick.major{height:11px;top:29px;background:var(--hair2)}
@@ -240,7 +241,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding-blo
 .flow li::before{content:"";position:absolute;left:0;top:.78em;width:.55em;height:1px;background:var(--acc)}
 .flow hr{border:0;height:1px;width:30%;margin:1.6em auto;background:var(--p-rule)}
 .opening + h2 + p::first-letter{float:left;font-size:3.4em;line-height:.8;padding:.07em .09em 0 0;color:var(--acc);font-weight:400}
-.opening{height:var(--r-ih);break-after:column;break-inside:avoid;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.opening{height:var(--r-ih);break-after:column;break-inside:avoid;display:flex;flex-direction:column;align-items:center;justify-content:center;justify-content:safe center;text-align:center}
 .opening .ico{color:var(--acc);margin-bottom:1.4em;opacity:.9}
 .opening h1{margin:0;font-weight:300;font-size:2.35em;line-height:1.04;text-wrap:balance;color:var(--p-strong)}
 .opening p{margin:.5em 0 0;font-style:italic;color:var(--p-mute)}
@@ -408,7 +409,7 @@ body.leaving main{opacity:0;transition:opacity .35s ease}
 .tc{position:relative;display:block;aspect-ratio:2/3;border-radius:1px 3px 3px 1px;overflow:hidden;background:var(--soft);
   box-shadow:0 1px 1px rgba(0,0,0,.14),0 12px 24px -12px rgba(20,18,30,.5),0 30px 50px -34px rgba(20,18,30,.4);transition:transform .5s cubic-bezier(.2,.7,.2,1),box-shadow .5s}
 .tc svg{position:absolute;inset:0;width:100%;height:100%;display:block}
-.tile:hover .tc,.tile:focus-visible .tc{transform:translateY(-7px) rotate(-1.2deg);box-shadow:0 1px 1px rgba(0,0,0,.14),0 22px 34px -14px rgba(20,18,30,.55),0 44px 60px -36px rgba(20,18,30,.45)}
+.tile:focus-visible .tc{transform:translateY(-7px) rotate(-1.2deg);box-shadow:0 1px 1px rgba(0,0,0,.14),0 22px 34px -14px rgba(20,18,30,.55),0 44px 60px -36px rgba(20,18,30,.45)}
 .tile:focus-visible{outline:none}
 .tile:focus-visible .tt{text-decoration:underline;text-underline-offset:3px}
 .tc.away{visibility:hidden}
@@ -488,6 +489,34 @@ body.leaving main{opacity:0;transition:opacity .35s ease}
 .tile{contain-intrinsic-size:auto none;contain-intrinsic-block-size:auto 290px}
 .lib-grid{grid-template-columns:repeat(auto-fill,minmax(min(136px,100%),1fr))}
 @media (max-width:560px){.lib-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* ---------- phones and small screens ---------- */
+@media (hover:hover){ .tile:hover .tc{transform:translateY(-7px) rotate(-1.2deg);box-shadow:0 1px 1px rgba(0,0,0,.14),0 22px 34px -14px rgba(20,18,30,.55),0 44px 60px -36px rgba(20,18,30,.45)} }
+/* touch devices: skip the effects that are cheap on a desktop GPU but costly on a phone's */
+@media (pointer:coarse){
+  .face .grain{mix-blend-mode:normal;opacity:.07}
+  .glare{mix-blend-mode:normal;opacity:.3}
+  .r-veil{-webkit-backdrop-filter:none;backdrop-filter:none;background:var(--veil-read)}
+  .tc{box-shadow:0 1px 1px rgba(0,0,0,.14),0 10px 18px -10px rgba(20,18,30,.5)}
+  :root[data-theme="dark"] .tc{box-shadow:0 1px 1px rgba(0,0,0,.5),0 10px 18px -10px rgba(0,0,0,.8)}
+  .halo{filter:blur(60px)}
+}
+/* short landscape phones: shelf and caption share the screen; the timeline steps aside */
+@media (max-height:540px) and (orientation:landscape){
+  main{grid-template-rows:auto minmax(200px,1fr) auto;padding-block:0 10px}
+  header{padding-block:10px 0}
+  .rail{display:none}
+  .details{min-height:0;gap:4px;padding-block:0}
+  .details h1{font-size:clamp(22px,4vh,30px)}
+  .glyphs{margin-top:4px}
+}
+/* short screens: a tighter title page so long hooks never run off it */
+@media (max-height:540px){
+  .opening .ico{margin-bottom:.5em}
+  .opening blockquote{margin-top:1em;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .opening blockquote::before{margin-bottom:.8em}
+  .opening .by{margin-top:1.1em}
+}
 
 /* reader chrome */
 .r-ui{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .6s ease}
@@ -1618,7 +1647,7 @@ function size(){
   slots.forEach((s,i)=> s.book.style.setProperty('--d', (W*(.075+BOOKS[i].pages/6200)).toFixed(1)+'px'));
   document.getElementById('halo').style.top = (vp.offsetTop + vp.offsetHeight*.44).toFixed(1)+'px';
 }
-size(); addEventListener('resize', size);
+size(); addEventListener('resize', () => { size(); st.dirty = true; });
 
 /* ---------- motion state ---------- */
 const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -1645,18 +1674,26 @@ function layout(){
     s.shB.style.opacity = shade(.45*sn-.85*cs);
     s.shS.style.opacity = shade(.45*cs+.85*sn);
     s.shE.style.opacity = shade(-.45*cs-.85*sn);
-    s.glare.style.setProperty('--gx', (34 - ry*1.6).toFixed(1)+'%');
-    s.glare.style.setProperty('--gy', (18 + rx*3).toFixed(1)+'%');
+    if (a < 1.6){   // glare only matters near the centre; repainting it is the costly part
+      const gx = (34 - ry*1.6).toFixed(0), gy = (18 + rx*3).toFixed(0);
+      if (s.gx !== gx || s.gy !== gy){ s.glare.style.setProperty('--gx', gx+'%'); s.glare.style.setProperty('--gy', gy+'%'); s.gx = gx; s.gy = gy; }
+    }
   }
 }
 
+/* the loop only lays the shelf out while something is moving; a still shelf costs nothing (phones repaint far less) */
 function tick(){
-  if (!st.drag) st.pos += (st.target-st.pos)*(reduce?1:.11);
-  st.flip += (st.flipT-st.flip)*(reduce?1:.09);
-  st.rx += (st.tx-st.rx)*.08; st.ry += (st.ty-st.ry)*.08;
-  const ni = clamp(Math.round(st.pos),0,N-1);
-  if (ni!==st.idx) select(ni);
-  layout();
+  const moving = st.drag || st.dirty || Math.abs(st.target-st.pos) > .0004 || Math.abs(st.flipT-st.flip) > .0006 ||
+                 Math.abs(st.tx-st.rx) > .006 || Math.abs(st.ty-st.ry) > .006;
+  if (moving){
+    if (!st.drag) st.pos += (st.target-st.pos)*(reduce?1:.11);
+    st.flip += (st.flipT-st.flip)*(reduce?1:.09);
+    st.rx += (st.tx-st.rx)*.08; st.ry += (st.ty-st.ry)*.08;
+    if (!st.drag && Math.abs(st.target-st.pos) <= .0004) st.pos = st.target;
+    const ni = clamp(Math.round(st.pos),0,N-1);
+    if (ni!==st.idx) select(ni);
+    layout(); st.dirty = false;
+  }
   requestAnimationFrame(tick);
 }
 
@@ -1880,11 +1917,11 @@ function frontHTML(){
 
 /* geometry: two-page spread on wide screens, a single page on phones */
 function geo(mode=R.mode){
-  const vw=innerWidth, vh=innerHeight, dbl = vw>=760;
+  const vw=innerWidth, vh=innerHeight, short = vh < 560, dbl = vw>=760 && !short;
   let W, H;
   if (mode==='read'){
-    W = dbl ? Math.min((vw-112)/2, 600) : vw-24;
-    H = Math.min(vh-(dbl?100:104), W*(dbl?1.5:1.85));
+    W = dbl ? Math.min((vw-112)/2, 600) : Math.min(vw-24, short ? 680 : 9999);
+    H = Math.min(vh-(dbl?100:short?64:104), W*(dbl?1.5:1.85));
   } else {
     W = Math.min(Math.max(260, vh-150), 820)/1.5;
     W = Math.min(W, dbl ? (vw-120)/2 : vw-44);
@@ -1895,8 +1932,9 @@ function geo(mode=R.mode){
 function applyGeo(){
   const g = R.geo = geo(), rd = R.mode==='read';
   Object.assign(rig.style, {left:g.x+'px', top:g.y+'px', width:g.W+'px', height:g.H+'px'});
-  const padX = g.W*(rd ? (g.dbl?.1:.075) : .12), padT = rd ? Math.max(54,g.W*.11) : g.W*.15, padB = rd ? Math.max(60,g.W*.12) : g.W*.16, gap = 40;
-  const iw = g.W-2*padX, ih = g.H-padT-padB, fs = rd ? clamp(g.W*.032,16,19.5) : clamp(g.W*.037,14,18);
+  const short = innerHeight < 560;
+  const padX = g.W*(rd ? (g.dbl?.1:.075) : .12), padT = rd ? (short ? 34 : Math.max(54,g.W*.11)) : g.W*.15, padB = rd ? (short ? 38 : Math.max(60,g.W*.12)) : g.W*.16, gap = 40;
+  const iw = g.W-2*padX, ih = g.H-padT-padB, fs = rd ? clamp(Math.min(g.W*.032, g.H*.052),15,19.5) : clamp(g.W*.037,14,18);
   const rs = document.documentElement.style;
   [['--r-o',g.W*.02],['--r-d',g.W*.085],['--r-padx',padX],['--r-padt',padT],['--r-padb',padB],['--r-iw',iw],['--r-ih',ih],['--r-gap',gap],['--r-fs',fs]]
     .forEach(([k,v]) => rs.setProperty(k, v.toFixed(2)+'px'));
@@ -1990,7 +2028,7 @@ async function openBook(i, origin){
   const b = origin ? origin.book : BOOKS[i];
   R.i = i; R.book = b; R.r = 0; R.mode = 'book'; R.shelf = !origin;
   R.src = origin ? origin.el : slots[i].front; R.away = origin ? origin.el : slots[i].slot;
-  if (R.shelf){ st.flip = st.flipT = 0; st.tx = st.ty = 0; }
+  if (R.shelf){ st.flip = st.flipT = 0; st.tx = st.ty = 0; st.dirty = true; }
   try { await document.fonts.ready; } catch(_){}
   if (b.quiz) QZ = await buildSession();
   reader.classList.toggle('quizmode', !!b.quiz);
@@ -2035,6 +2073,7 @@ async function closeBook(){
 }
 
 async function go(dir){
+  if (R.open && R.busy && R.mode === 'read'){ R.queue = dir; return; }   // a tap mid-turn runs right after
   if (!R.open || R.busy) return;
   const step = R.geo.dbl?2:1, r = R.r, nr = r + dir*step;
   if (nr<0 || nr>maxR()) return;
@@ -2051,6 +2090,7 @@ async function go(dir){
   }
   rLeaf.style.visibility = 'hidden';
   R.r = nr; updUI(); R.busy = false;
+  if (R.queue){ const q = R.queue; R.queue = 0; setTimeout(() => go(q)); }
   if (!R.book.quiz && R.r >= maxR()) markRead(R.book);
 }
 
@@ -2416,12 +2456,23 @@ function buildLib(){
     short: idx.slice().sort((a,b) => (ALL[a].fmb ? ALL[a].words : 520) - (ALL[b].fmb ? ALL[b].words : 520) || byTitle(a,b)),
   };
   /* covers are drawn only as tiles come near the screen */
-  const io = new IntersectionObserver(es => es.forEach(e => {
-    if (!e.isIntersecting) return;
-    const t = e.target, b = ALL[+t.dataset.n];
-    t.firstElementChild.insertAdjacentHTML('afterbegin', `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(b, 't'+t.dataset.n+'-', true)}</svg>`);
-    io.unobserve(t);
-  }), {root: lib, rootMargin: '700px 0px'});
+  /* covers queue up as tiles near the screen and are drawn a few per frame, so scrolling never stalls */
+  const queue = new Set();
+  let pumping = false;
+  const pump = () => {
+    const t0 = performance.now();
+    for (const t of queue){
+      queue.delete(t);
+      const tc = t.firstElementChild;
+      if (!tc.querySelector('svg')) tc.insertAdjacentHTML('afterbegin', `<svg viewBox="0 0 300 450" preserveAspectRatio="none" aria-hidden="true">${coverSVG(ALL[+t.dataset.n], 't'+t.dataset.n+'-', true)}</svg>`);
+      if (performance.now() - t0 > 6) break;
+    }
+    if (queue.size) requestAnimationFrame(pump); else pumping = false;
+  };
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting){ queue.add(e.target); io.unobserve(e.target); } });
+    if (queue.size && !pumping){ pumping = true; requestAnimationFrame(pump); }
+  }, {root: lib, rootMargin: '900px 0px'});
   tiles.forEach(t => io.observe(t));
   if (!FMB.length) $('libOffline').innerHTML = '<br>The full library loads when Folio is served from a web address (it can’t be fetched from a local file).';
   filterLib();
