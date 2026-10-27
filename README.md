@@ -391,7 +391,7 @@ Fonts come from Google Fonts. Offline, Folio falls back to system serif and sans
 
 </details>
 
-**Go deeper:** [Hand-off / roadmap](docs/HANDOFF.md) · [Architecture](docs/ARCHITECTURE.md) · [The library](docs/LIBRARY.md) · [Quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
+**Go deeper:** [Architecture](docs/ARCHITECTURE.md) · [The library](docs/LIBRARY.md) · [Quiz agent prompt](docs/QUIZ-AGENT-PROMPT.md) · [Adding books](docs/ADDING-BOOKS.md) · [Regenerating media](docs/MEDIA.md)
 
 <br>
 
